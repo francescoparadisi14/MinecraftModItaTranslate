@@ -1,0 +1,20 @@
+{
+    "config.jamlib.edit_manually": "Modifica A Mano",
+    "config.jamlib.matches_regex_tooltip": "Il Valore Deve Corrispondere Al Seguente Espressione Regolare: %s",
+    "config.jamlib.open": "Aprire",
+    "config.jamlib.requires_restart_tooltip": "È Richiesto Un Riavvio Per Far Avere Effetto Questa Modifica",
+    "config.jamlib.reset": "Reset",
+    "config.jamlib.reset_tooltip": "Riprista Valore Predefinito",
+    "config.jamlib.selection_screen_title": "Seleziona Configurazione Per %s",
+    "config.jamlib.within_range_tooltip": "Il Valore Deve Essere Tra %d E %d",
+    "text.jamlib.renamed_1": "I Seguenti File Del Modulo Sono Stati Rinominati - Ciò è Spesso Un Segno Di Un Modulo Che è %s.",
+    "text.jamlib.renamed_1.1": "Ridistribuito Senza Permesso",
+    "text.jamlib.renamed_2": "Siti Come %s %s E Possono Essere Utilizzati Per %s. I Mod Possono Essere Trovati Ufficialmente Su %s E %s.",
+    "text.jamlib.renamed_2.1": "9Minecraft",
+    "text.jamlib.renamed_2.2": "Modificatori Danneggiano",
+    "text.jamlib.renamed_2.3": "Distribuire Malware",
+    "text.jamlib.renamed_2.4": "CurseForge",
+    "text.jamlib.renamed_2.5": "Modrinth",
+    "text.jamlib.renamed_3": "Questo Messaggio Apparirà Solo Una Volta. %s.",
+    "text.jamlib.renamed_3.1": "Se Ritiene Che Questo Sia Un Falso Positivo, Contattare L'autore Del Modulo"
+}

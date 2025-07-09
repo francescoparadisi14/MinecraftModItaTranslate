@@ -1,0 +1,7 @@
+{
+    "gui.ae2importexportcard.blacklist": "Elenco nero",
+    "gui.ae2importexportcard.whitelist": "Elenco bianco",
+    "item.ae2importexportcard.export_card": "Carta di esportazione",
+    "item.ae2importexportcard.import_card": "Carta di importazione",
+    "itemGroup.ae2importexportcard": "Carta di importazione\/esportazione AE2"
+}

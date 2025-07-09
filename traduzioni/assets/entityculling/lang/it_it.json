@@ -1,0 +1,5 @@
+{
+    "key.entityculling.toggle": "Attiva\/Disattiva Debug del culling",
+    "key.entityculling.toggleBoxes": "Mostra Caselle Di Riduzione",
+    "text.entityculling.title": "EntityCulling"
+}

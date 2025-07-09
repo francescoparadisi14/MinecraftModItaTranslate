@@ -1,0 +1,13 @@
+{
+    "Use \/locate structure betterstrongholds:stronghold instead!": "Usa \/locate Struttura Betterstrongholds:fortezza Al Posto Di Questo!",
+    "betterstrongholds.commands.locate.stronghold": "Usa \/locate Struttura Betterstrongholds:fortezza Invece!",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds": "Meglio Fortezze Di Yung",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general": "Impostazioni Generali",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.@Tooltip": "Impostazioni Generali",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.enableStructureRuin": "Abilita Rovina Struttura",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.enableStructureRuin.@Tooltip[0]": "Consente Alle Fortezze Di Essere Leggermente Distrutte Dalle Grotte Di Noodles Piccole.",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.enableStructureRuin.@Tooltip[1]": "Nota Che Resteranno Immuni Dalle Grandi Cavità.",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.filledPortalFrameChance": "Cancellerà La Probabilità Di Un Frame Di Portale Pieno",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.filledPortalFrameChance.@Tooltip": "La Probabilità Per Ogni Blocco Di Frame Di Porta Finale Di Generare Già Riempito Con Un Occhio Dell'estremo.",
+    "text.autoconfig.betterstrongholds-fabric-1_21.title": "Meglio Fortezze Di Yung"
+}

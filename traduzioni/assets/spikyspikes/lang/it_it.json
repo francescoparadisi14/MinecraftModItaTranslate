@@ -1,0 +1,21 @@
+{
+    "block.spikyspikes.diamond_spike": "Spina Di Diamante",
+    "block.spikyspikes.diamond_spike.description": "Descrizione Del Blocco Di Spina Di Diamante: Uccide I Mostri Che Lo Colpiscono E Li Fa Cadere Con Tutti I Loro Oggetti, Come Se Fossero Stati Uccisi Da Un Giocatore; Accetta La Maggior Parte Delle Incantesimi Per Spade Tramite Un Martello.",
+    "block.spikyspikes.golden_spike": "Spina D'oro",
+    "block.spikyspikes.golden_spike.description": "Uccisi Mostri Solo Rilasciano Esperienza Senza Alcun Bottino.",
+    "block.spikyspikes.iron_spike": "Spina Di Ferro",
+    "block.spikyspikes.iron_spike.description": "Uccisi Mostri, Solo Gli Oggetti Normali Vengono Persi Senza Esperienza.",
+    "block.spikyspikes.netherite_spike": "Spina Di Netherite",
+    "block.spikyspikes.netherite_spike.description": "Descrizione Del Blocco Di Spina Netherita: Uccide I Mostri Che Lo Attaccano E Li Fa Cadere Con Tutti I Loro Oggetti Come Se Fossero Stati Uccisi Da Un Giocatore. Accetta La Maggior Parte Delle Incantesimi Per Spada Tramite Un Martello. è Resistente Alle Esplosioni E Al Boss Del Wither, Non Danneggia I Giocatori.",
+    "block.spikyspikes.stone_spike": "Spina Di Pietra",
+    "block.spikyspikes.stone_spike.description": "Uccisi Mostri Non Rilasciano Alcun Bottino O Esperienza.",
+    "block.spikyspikes.wooden_spike": "Spiga Di Legno",
+    "block.spikyspikes.wooden_spike.description": "Lenti Danneggia I Mostri, Ma Non Uccide.",
+    "death.attack.spike": "Ora %1$s Riposa In Un Mondo Meno Punteggiato",
+    "death.attack.spike.player": "%1$s Si è Schiantato Su Una Spina Mentre Cercava Di Fuggire Da %2$s",
+    "item.spikyspikes.spike.tooltip.damage": "Danno: %s",
+    "item.spikyspikes.spike.tooltip.hearts": "Cuore(i) %s",
+    "item.spikyspikes.spike.tooltip.more": "Tieni %s Per Ulteriori Informazioni",
+    "item.spikyspikes.spike.tooltip.shift": "Shift",
+    "itemGroup.spikyspikes.main": "Spiegegianti Spinosi"
+}

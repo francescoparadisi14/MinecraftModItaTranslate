@@ -1,0 +1,17 @@
+{
+    "message.cucumber.filled_energy": "Questo %s Ti Ha Rubato L'energia!",
+    "message.cucumber.filled_energy_error": "Questo %s Non è In Grado Di Assorbire La Tua Energia.",
+    "subtitle.cucumber.watering_can": "Asseggio D'acqua",
+    "tooltip.cucumber.block_tags": "Etichette Del Blocco:",
+    "tooltip.cucumber.data_components": "Componenti Dati:",
+    "tooltip.cucumber.empty": "Vuoto",
+    "tooltip.cucumber.filled": "Riempito",
+    "tooltip.cucumber.hold_alt_for_data_components": "Tieni Premuto Alt Per Visualizzare I Componenti Di Dati",
+    "tooltip.cucumber.hold_ctrl_for_tags": "Tieni Premuto Ctrl Per Vedere Le Etichette",
+    "tooltip.cucumber.hold_shift_for_info": "Tieni Shift Per Informazioni",
+    "tooltip.cucumber.item_tags": "Etichette Dell'oggetto:",
+    "tooltip.cucumber.not_yet_implemented": "Non Ancora Implementato",
+    "tooltip.cucumber.one_use_left": "Un Uso Rimasto",
+    "tooltip.cucumber.unlimited_uses": "Usi Illimitati",
+    "tooltip.cucumber.uses_left": "% S Utilizzi Rimasti"
+}

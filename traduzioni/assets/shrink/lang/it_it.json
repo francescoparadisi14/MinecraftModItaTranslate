@@ -1,0 +1,14 @@
+{
+    "item.mob_bottle.tooltip": "Contiene: %s",
+    "item.mob_bottle.tooltip_empty": "Fai Clic Destro Su Un Entità Ridotta Con Una Bottiglia Di Vetro Per Catturarla",
+    "item.mob_bottle.tooltip_with_name": "Contiene: %s (%s)",
+    "item.shrink.shrink_bottle": "Bottiglia Di Vetro",
+    "item.shrink.shrinking_device": "Dispositivo Di Riduzione Personale",
+    "itemGroup.shrink": "Ridurre",
+    "key.shrink.category": "Riduzione",
+    "key.shrink.shrink": "Abilita\/Disabilita Riduzione",
+    "shrink.deny_shrink": "Bloccato Il Ridimensionamento Dell'entità A Causa Della Etichetta Di Negazione",
+    "shrink.message.already_shrunk": "Impossibile Aprire Mentre Già Contratto",
+    "shrink.message.missing": "Attributo Di Riduzione Mancante",
+    "shrink.message.power": "Non Ce N'è Abbastanza Potenza"
+}

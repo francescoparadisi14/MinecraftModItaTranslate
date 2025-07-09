@@ -1,0 +1,13 @@
+{
+    "akashictome.click_morph": "Shift-right click to change",
+    "akashictome.configuration.Allow all items to be added": "Allow all items to be added",
+    "akashictome.configuration.Blacklisted Items": "Blacklisted Items",
+    "akashictome.configuration.Blacklisted Mods": "Blacklisted Mods",
+    "akashictome.configuration.Hide Book Render": "Hide Book Render",
+    "akashictome.configuration.Mod Aliases": "Mod Aliases",
+    "akashictome.configuration.Whitelisted Items": "Whitelisted Items",
+    "akashictome.configuration.Whitelisted Names": "Whitelisted Names",
+    "akashictome.misc.shift_for_info": "§7Hold §bSHIFT§7 for more info",
+    "akashictome.sudo_name": "Akashic Tome (%s)",
+    "item.akashictome.tome": "Akashic Tome"
+}

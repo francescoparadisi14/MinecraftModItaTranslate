@@ -1,0 +1,10 @@
+{
+    "l2core.configuration.addEnchantmentDescription": "Aggiungi Descrizioni Di Incantesimi",
+    "l2core.configuration.addEnchantmentDescription.tooltip": "Valori Consentiti: Disabilita, Solo_tasto_shift, Sempre",
+    "l2core.configuration.overlayZVal": "L'altezza Del Carattere Di Sovrapposizione Dell'oggetto",
+    "l2core.configuration.overlayZVal.tooltip": "Intervallo: -1000000 ~ 1000000",
+    "l2core.configuration.section.l2configs.l2core.client.toml": "Configurazione Del Cliente L2core",
+    "l2core.configuration.section.l2configs.l2core.client.toml.title": "Configurazione Del Client L2core",
+    "l2core.configuration.title": "Configurazione Di L2core",
+    "l2core.title": "L2core"
+}

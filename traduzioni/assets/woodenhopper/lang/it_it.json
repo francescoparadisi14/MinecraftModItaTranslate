@@ -1,0 +1,20 @@
+{
+    "block.woodenhopper.wooden_hopper": "Hoppa In Legno",
+    "block.woodenhopper.wooden_hopper.desc.cannotAbsorbItemsFromInventories": "Non è Possibile Estrarre Gli Oggetti Dalle Inventari Sopra Di Esso.",
+    "block.woodenhopper.wooden_hopper.desc.cannotAbsorbItemsFromWorld": "Non Può Estrarre Entità Di Oggetti Che Le Stanno Sopra.",
+    "text.autoconfig.woodenhopper.option.COOLDOWN": "Raffreddamento Del Carrello Di Legno",
+    "text.autoconfig.woodenhopper.option.COOLDOWN.@Tooltip[0]": "Raffreddamento Di Appoggio In Legno §6§l",
+    "text.autoconfig.woodenhopper.option.COOLDOWN.@Tooltip[1]": "Tempo (tasti) Che Passa Tra Due Operazioni Di Pompa In Legno.",
+    "text.autoconfig.woodenhopper.option.COOLDOWN.@Tooltip[2]": "§7§omin: 1; Massimo: 1000",
+    "text.autoconfig.woodenhopper.option.COOLDOWN.@Tooltip[3]": "Predefinito: 16",
+    "text.autoconfig.woodenhopper.option.COOLDOWN.@Tooltip[4]": "§7§o(vasca Di Legno Originale: 8)",
+    "text.autoconfig.woodenhopper.option.PULL_ITEMS_FROM_INVENTORIES_ENABLED": "Il Carrello Di Legno Estrae Dagli Inventari",
+    "text.autoconfig.woodenhopper.option.PULL_ITEMS_FROM_INVENTORIES_ENABLED.@Tooltip[0]": "§6§lIl Contenitore Di Legno Estrae Gli Oggetti Dalle Inventari",
+    "text.autoconfig.woodenhopper.option.PULL_ITEMS_FROM_INVENTORIES_ENABLED.@Tooltip[1]": "Se Il Cesto Di Legno Può Estrarre Gli Oggetti Dalle Inventari Sopra Di Esso.",
+    "text.autoconfig.woodenhopper.option.PULL_ITEMS_FROM_INVENTORIES_ENABLED.@Tooltip[2]": "§7§oPreleva Gli Oggetti Dalle Inventari Abilitato Di Default",
+    "text.autoconfig.woodenhopper.option.PULL_ITEMS_FROM_WORLD_ENABLED": "Il Carrello Di Legno Estrae Dagli Oggetti Del Mondo",
+    "text.autoconfig.woodenhopper.option.PULL_ITEMS_FROM_WORLD_ENABLED.@Tooltip[0]": "§6§lIl Carrello Di Legno Estrae Gli Oggetti Dal Mondo",
+    "text.autoconfig.woodenhopper.option.PULL_ITEMS_FROM_WORLD_ENABLED.@Tooltip[1]": "Se Il Cesto Di Legno Può Estrarre Entità Di Oggetti Che Si Trovano Sopra Di Esso.",
+    "text.autoconfig.woodenhopper.option.PULL_ITEMS_FROM_WORLD_ENABLED.@Tooltip[2]": "§7§oImposta Di Default: Vero",
+    "text.autoconfig.woodenhopper.title": "Impostazioni Di Contenitore Ligneo"
+}

@@ -1,0 +1,22 @@
+{
+    "block.denseores.ancient_nether_ore": "Carbone Antico Del Nether",
+    "block.denseores.dense_coal_ore": "Carbone Denso In Blocco",
+    "block.denseores.dense_copper_ore": "Minerale Di Rame Denso",
+    "block.denseores.dense_deepslate_coal_ore": "Carbone Denso Di Slato Profondo",
+    "block.denseores.dense_deepslate_copper_ore": "Ore Di Rame Di Pietra Densa Profonda",
+    "block.denseores.dense_deepslate_diamond_ore": "Carbone Denso Di Diamante Di Profondità",
+    "block.denseores.dense_deepslate_emerald_ore": "Carbone Denso Di Emerodio Profondo",
+    "block.denseores.dense_deepslate_gold_ore": "Ore Di Oro Densa Di Pietra Profonda",
+    "block.denseores.dense_deepslate_iron_ore": "Ghiaio Di Ferro Profondo Di Pietra Densa",
+    "block.denseores.dense_deepslate_lapis_ore": "Carbone Denso Di Lapislazzulo Profondo",
+    "block.denseores.dense_deepslate_redstone_ore": "Carbone Denso Di Pietra Profondarosso",
+    "block.denseores.dense_diamond_ore": "Carbone Denso Di Diamante",
+    "block.denseores.dense_emerald_ore": "Carbone Denso Di Zaffiro",
+    "block.denseores.dense_gold_ore": "Carbone Denso D'oro",
+    "block.denseores.dense_iron_ore": "Rame Densa",
+    "block.denseores.dense_lapis_ore": "Carbone Denso Di Lapislazzuli",
+    "block.denseores.dense_nether_gold_ore": "Carbone Denso Dell'oltretomba Oro",
+    "block.denseores.dense_nether_quartz_ore": "Ore Di Quarzo Del Nether Densa",
+    "block.denseores.dense_redstone_ore": "Carbone Denso Di Rame Rosso",
+    "itemGroup.denseores": "Minerai Densi"
+}

@@ -1,0 +1,9 @@
+{
+    "item.woodenshears.wooden_shears": "Forbici Di Legno",
+    "text.autoconfig.woodenshears.option.DURABILITY": "Durabilità Di Forbici In Legno",
+    "text.autoconfig.woodenshears.option.DURABILITY.@Tooltip[0]": "Durabilità Di Forbici In Legno §6§l",
+    "text.autoconfig.woodenshears.option.DURABILITY.@Tooltip[1]": "Definisce La Massima Durata Delle Forbici Di Legno.",
+    "text.autoconfig.woodenshears.option.DURABILITY.@Tooltip[2]": "§7§o0: Disattiva La Durata",
+    "text.autoconfig.woodenshears.option.DURABILITY.@Tooltip[3]": "§7§o Minimo: 0; Massimo: 10000",
+    "text.autoconfig.woodenshears.option.DURABILITY.@Tooltip[4]": "§7§o Predefinito: 50"
+}

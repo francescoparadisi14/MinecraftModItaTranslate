@@ -1,0 +1,15 @@
+{
+    "Use \/locate structure betterdeserttemples:desert_temple instead!": "Usa \/locate Struttura Betterdeserttemples:desert_temple Invece!",
+    "betterdeserttemples.advancements.root.description": "In Profondità Nel Deserto...",
+    "betterdeserttemples.advancements.root.title": "I Migliori Templi Del Deserto Di Yung",
+    "betterdeserttemples.advancements.temple_clear.description": "Uccidere Il Faraone E Liberare Il Tempio Dalla Sua Maledizione",
+    "betterdeserttemples.advancements.temple_clear.title": "Sonno Eterno",
+    "betterdeserttemples.advancements.temple_entry.description": "Scoprire Un Tempio Del Deserto Migliore",
+    "betterdeserttemples.advancements.temple_entry.title": "Un Antico Sepolcro",
+    "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue": "Applica Stanchezza Miniera",
+    "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue.@Tooltip[0]": "Se Si Applica O Meno La Fatica Del Minatore Ai Giocatori Nel Tempio",
+    "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue.@Tooltip[1]": "Se Non è Stato Ancora Sgomberato",
+    "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.disableVanillaPyramids": "Disabilita Piramidi Di Base",
+    "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.disableVanillaPyramids.@Tooltip": "Se Le Piramidi Di Deserto Del Gioco Originale Dovrebbero Essere Disattivate",
+    "text.autoconfig.betterdeserttemples-fabric-1_21.title": "I Migliori Templi Del Deserto Di Yung"
+}

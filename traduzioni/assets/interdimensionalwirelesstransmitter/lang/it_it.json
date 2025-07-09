@@ -1,0 +1,12 @@
+{
+    "advancements.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter": "Trasmettitore Wireless Interdimensionale >>potere<<",
+    "advancements.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter.description": "Trasmettere Un Segnale Di Rete Con Un Trasmettitore Wireless Interdimensionale A Raggio Infinito Tra Dimensioni Diverse",
+    "block.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter": "Trasmettitore Wireless Interdimensionale",
+    "gui.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter.distance": "Infinite",
+    "item.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter.help": "Fornisce Accesso A Rete Wireless Per Oggetti Come La Griglia Wireless. Ha Un Raggio Infinito E è Trasdimensionale.",
+    "mod.interdimensional_wireless_transmitter": "Trasmettitore Wireless Interdimensionale",
+    "text.autoconfig.interdimensionalwirelesstransmitter.option.interdimensionalWirelessTransmitter": "Trasmettitore Wireless Interdimensionale",
+    "text.autoconfig.interdimensionalwirelesstransmitter.option.interdimensionalWirelessTransmitter.energyUsage": "Utilizzo Di Energia",
+    "text.autoconfig.interdimensionalwirelesstransmitter.option.interdimensionalWirelessTransmitter.energyUsage.tooltip": "L'utilizzo Di Energia Del Trasmettitore Wireless Interdimensionale.",
+    "text.autoconfig.interdimensionalwirelesstransmitter.option.interdimensionalWirelessTransmitter.tooltip": "Configurazione Per Il Trasmettitore Wireless Interdimensionale."
+}

@@ -1,0 +1,111 @@
+{
+    "text.owo.config.applies_after_restart": [
+        {
+            "text": "⏻ ",
+            "color": "#FAEA48"
+        },
+        {
+            "text": "This option applies after a restart",
+            "color": "gray"
+        }
+    ],
+    "text.owo.config.boolean_toggle.disabled": [
+        "",
+        {
+            "text": "[",
+            "color": "gray"
+        },
+        {
+            "text": "❌",
+            "color": "#EB1D36"
+        },
+        {
+            "text": "]",
+            "color": "gray"
+        },
+        " Disabled"
+    ],
+    "text.owo.config.boolean_toggle.enabled": [
+        "",
+        {
+            "text": "[",
+            "color": "gray"
+        },
+        {
+            "text": "✔",
+            "color": "#28FFBF"
+        },
+        {
+            "text": "]",
+            "color": "gray"
+        },
+        " Enabled"
+    ],
+    "text.owo.config.button.done": "Fatto",
+    "text.owo.config.button.exit_minecraft": "Uscire Da Minecraft",
+    "text.owo.config.button.ignore_restart": "Riavvia Più Tardi",
+    "text.owo.config.button.range.edit_as_text": "Modifica Come Testo",
+    "text.owo.config.button.range.edit_with_slider": "Modifica Con Slider",
+    "text.owo.config.button.reload": "Ricarica",
+    "text.owo.config.list.add_entry": "Aggiungi Voce",
+    "text.owo.config.managed_by_server": [
+        {
+            "text": "⚑ ",
+            "color": "#EB1D36"
+        },
+        {
+            "text": "This option is being managed by the server\n   Disconnect to edit it",
+            "color": "gray"
+        }
+    ],
+    "text.owo.config.must_restart": "Alcune Modifiche Apportate Richiedono Un Riavvio Per Essere Applicate",
+    "text.owo.config.search": "Ricerca...",
+    "text.owo.config.search.matches": "%d Di %d",
+    "text.owo.config.search.no_matches": "Nessun Match",
+    "text.owo.config.sections": {
+        "text": "Sections",
+        "underlined": true
+    },
+    "text.owo.config.sections_tooltip": "Sezioni",
+    "text.owo.configure_hot_reload.choose_file": "Scegli File",
+    "text.owo.configure_hot_reload.model": [
+        {
+            "text": "Model: ",
+            "color": "yellow"
+        },
+        {
+            "index": 0,
+            "color": "gray"
+        }
+    ],
+    "text.owo.configure_hot_reload.reload_from": [
+        {
+            "text": "Reload from: ",
+            "color": "yellow"
+        },
+        {
+            "index": 0,
+            "color": "gray"
+        }
+    ],
+    "text.owo.configure_hot_reload.reload_from.unset": "Annullato",
+    "text.owo.configure_hot_reload.save": "Salva",
+    "text.owo.configure_hot_reload.title": "Configura Ricarica Calda",
+    "text.owo.itemGroup.select_hint": {
+        "text": "Shift-click to select multiple",
+        "color": "gray"
+    },
+    "text.owo.itemGroup.tab_template": [
+        {
+            "index": 0
+        },
+        {
+            "text": " > ",
+            "color": "gray"
+        },
+        {
+            "index": 1,
+            "color": "dark_gray"
+        }
+    ]
+}

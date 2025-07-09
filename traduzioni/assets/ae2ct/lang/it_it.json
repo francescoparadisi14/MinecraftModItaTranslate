@@ -1,0 +1,19 @@
+{
+    "ae2ct.openscreen.plannull": "In Attesa Della Conferma Di Calcolo Dell'elaborazione",
+    "ae2ct.screenshot.exception": "I Screenshot Sono Falliti, Motivo: %s",
+    "ae2ct.screenshot.noready": "Schermo Non Pronto Ancora, Per Favore Riprova Più Tardi",
+    "gui.ae2ct.CraftingAmount": "Cottura: %s",
+    "gui.ae2ct.CraftingTreeSettingTitle": "Impostazione",
+    "gui.ae2ct.CraftingTreeTitle": "Titolo Dell'albero Di Lavorazione",
+    "gui.ae2ct.Info": "Informazioni:",
+    "gui.ae2ct.InputAmount": "Occorre: %s",
+    "gui.ae2ct.MiddenAmount": "Uso: %s",
+    "gui.ae2ct.MissingAmount": "Quantità Mancante: %s",
+    "gui.ae2ct.OutputAmount": "Produzione: %s",
+    "gui.ae2ct.ScreenShotShowCountCheckbox": "Mostra Conteggio Screenshot",
+    "gui.ae2ct.Screenshot": "Schermo Di Ripresa",
+    "gui.ae2ct.Setting": "Impostazione",
+    "gui.ae2ct.ShowTree": "Mostra Albero Di Crafting",
+    "gui.ae2ct.StoredAmount": "Quantità Archiviata: %s",
+    "gui.ae2ct.UseCompactTreeCheckbox": "Usa Albero Di Crafting Compatto (beta)"
+}

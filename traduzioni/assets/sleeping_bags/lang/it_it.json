@@ -1,0 +1,20 @@
+{
+    "item.sleeping_bags.black_sleeping_bag": "Sacco Da Sonno Nero",
+    "item.sleeping_bags.blue_sleeping_bag": "Sacco Da Sonno Blu",
+    "item.sleeping_bags.brown_sleeping_bag": "Sacco Da Sonno Marrone",
+    "item.sleeping_bags.cyan_sleeping_bag": "Sacco Da Sonno Ciano",
+    "item.sleeping_bags.gray_sleeping_bag": "Sacco Da Sonno Grigio",
+    "item.sleeping_bags.green_sleeping_bag": "Sacco Da Sonno Verde",
+    "item.sleeping_bags.light_blue_sleeping_bag": "Sacco Da Sonno Azzurro Chiaro",
+    "item.sleeping_bags.light_gray_sleeping_bag": "Sacco Da Sonno Grigio Chiaro",
+    "item.sleeping_bags.lime_sleeping_bag": "Sacchetto Da Sonno Limone",
+    "item.sleeping_bags.magenta_sleeping_bag": "Sacco Da Sonno Magenta",
+    "item.sleeping_bags.orange_sleeping_bag": "Giaccone Da Sonno Arancione",
+    "item.sleeping_bags.pink_sleeping_bag": "Sacchetto Da Sonno Rosa",
+    "item.sleeping_bags.purple_sleeping_bag": "Sacco Da Sonno Viola",
+    "item.sleeping_bags.red_sleeping_bag": "Giacca Da Sonno Rossa",
+    "item.sleeping_bags.white_sleeping_bag": "Sacchetto Da Sonno Bianco",
+    "item.sleeping_bags.yellow_sleeping_bag": "Sacco Da Sonno Giallo",
+    "message.sleeping_bags.cant_sleep_here": "Non Puoi Dormire Qui",
+    "message.sleeping_bags.cant_sleep_in_air": "Non Puoi Dormire In Aria, Devi Avere I Piedi A Terra"
+}

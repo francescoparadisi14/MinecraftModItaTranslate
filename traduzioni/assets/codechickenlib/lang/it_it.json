@@ -1,0 +1,20 @@
+{
+    "ccl.commands.count.fail": "Non Sono Stati Trovati Entità.",
+    "ccl.commands.count.total": "Trovati %s Entità.",
+    "ccl.commands.gc.after": "Dopo:",
+    "ccl.commands.gc.before": "Prima Di:",
+    "ccl.commands.gc.performing": "Eseguiamo La Raccolta Dei Rifiuti...",
+    "ccl.commands.killall.fail": "Non Sono Stati Trovati Entità.",
+    "ccl.commands.killall.fail.player": "Non Puoi Uccidere I Giocatori Con Questo Comando.",
+    "ccl.commands.killall.success": "Uccisi %s Entità.",
+    "ccl.commands.killall.success.line": "Ucciso %s",
+    "ccl.energy_bar.capacity": "Capacità:",
+    "ccl.energy_bar.energy_storage": "Stoccaggio Di Energia",
+    "ccl.energy_bar.rf": "Rf",
+    "ccl.energy_bar.stored": "Immagazzinato:",
+    "ccl.fluid_tank.capacity": "Capacità:",
+    "ccl.fluid_tank.contains": "Contiene:",
+    "ccl.fluid_tank.fluid_storage": "Stoccaggio Liquido",
+    "ccl.fluid_tank.mb": "Mb",
+    "ccl.fluid_tank.stored": "Stato Conservato:"
+}

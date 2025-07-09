@@ -1,0 +1,14 @@
+{
+    "options.availableKeys": "Available Keys",
+    "options.confirmReset": "Confirm?",
+    "options.showAll": "Show All",
+    "options.showConflicts": "Show Conflicts",
+    "options.showNone": "Show Unbound",
+    "options.sort": "Sort",
+    "options.sortAZ": "A->Z",
+    "options.sortKeyAZ": "Key A->Z",
+    "options.sortKeyZA": "Key Z->A",
+    "options.sortNone": "None",
+    "options.sortZA": "Z->A",
+    "options.toggleFree": "Toggle Free"
+}

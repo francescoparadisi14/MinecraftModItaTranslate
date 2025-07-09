@@ -1,0 +1,16 @@
+{
+    "block.hyperbox.aperture": "Apertura",
+    "block.hyperbox.hyperbox": "Hyperbox",
+    "block.hyperbox.hyperbox_preview": "Anteprima Di Hyperbox",
+    "block.hyperbox.hyperbox_wall": "Muro Di Hyperbox",
+    "menu.hyperbox": "Crea Dimensione Di Hyperbox",
+    "menu.hyperbox.dimension_id_in_use": "L'ID Della Dimensione è Già In Uso",
+    "menu.hyperbox.edit_dimension": "ID Di Dimensione",
+    "menu.hyperbox.edit_name": "Nome Hyperbox",
+    "menu.hyperbox.message.existing_id": "Creazione Di Dimensione Hyperbox Fallita: L'ID Della Dimensione Esiste Già: %s",
+    "menu.hyperbox.message.invalid_id": "Operazione Di Creazione Della Dimensione Del Box Iper: Carattere Non Ammesso Nella Strada Dell'ubicazione: %s",
+    "menu.hyperbox.message.no_id": "Errore Nella Creazione Della Dimensione Del Box Iper: ID Di Dimensione Mancante O Vuoto",
+    "menu.hyperbox.save_and_enter": "Salva E Entra",
+    "menu.hyperbox.save_and_exit": "Salva E Esce",
+    "menu.hyperbox.use_default_name_checkbox": "Usa Nome Predefinito"
+}

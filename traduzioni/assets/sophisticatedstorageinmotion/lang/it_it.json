@@ -1,0 +1,10 @@
+{
+    "entity.sophisticatedstorageinmotion.chested_horse_with_storage": "%s Con %s",
+    "entity.sophisticatedstorageinmotion.storage_boat": "Barca Con %s",
+    "entity.sophisticatedstorageinmotion.storage_minecart": "Carro Miniera %s",
+    "entity.sophisticatedstorageinmotion.storage_raft": "Raft Di Magazzino %s Con %s",
+    "item.sophisticatedstorageinmotion.storage_boat": "Barca Con %s",
+    "item.sophisticatedstorageinmotion.storage_minecart": "Carro Miniera %s",
+    "item.sophisticatedstorageinmotion.storage_raft": "Rifugio Di Stoccaggio %s Con %s",
+    "itemGroup.sophisticatedstorageinmotion": "Ricarichi Sofisticati In Movimento"
+}

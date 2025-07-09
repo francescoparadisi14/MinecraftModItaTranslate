@@ -1,0 +1,16 @@
+{
+    "colorfulhearts.options.button.absorption_colors": "Colori Assorbimento",
+    "colorfulhearts.options.button.cancel": "Annulla",
+    "colorfulhearts.options.button.confirmsave": "Salva E Esce",
+    "colorfulhearts.options.button.health_colors": "Colore Salute",
+    "colorfulhearts.options.button.hearttype.frozen": "Congelato",
+    "colorfulhearts.options.button.hearttype.normal": "Normale",
+    "colorfulhearts.options.button.hearttype.poisoned": "Avvelenato",
+    "colorfulhearts.options.button.hearttype.withered": "Seccheretto",
+    "colorfulhearts.options.button.vanillaheart.false": "Vaniglia: Falso",
+    "colorfulhearts.options.button.vanillaheart.true": "Vaniglia: Vero",
+    "colorfulhearts.screen.absorption.title": "Titolo Assorbimento Colori",
+    "colorfulhearts.screen.configuration.colors.category": "Colori",
+    "colorfulhearts.screen.configuration.title": "Cuori Colorati",
+    "colorfulhearts.screen.health.title": "Titolo Salute Colori"
+}

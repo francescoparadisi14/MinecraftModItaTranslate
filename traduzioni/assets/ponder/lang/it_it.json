@@ -1,0 +1,23 @@
+{
+    "ponder.keyinfo.ponder": "Rifletti",
+    "ponder.ponder.shared.ctrl_and": "Ctrl +",
+    "ponder.ponder.shared.sneak_and": "Accov. +",
+    "ponder.ui.associated": "Voci correlate",
+    "ponder.ui.categories": "Categorie disponibili in Create",
+    "ponder.ui.close": "Chiudi",
+    "ponder.ui.exit": "Esci",
+    "ponder.ui.hold_to_ponder": "Tieni premuto [%1$s] per Riflettere",
+    "ponder.ui.identify": "Approfondisci",
+    "ponder.ui.identify_mode": "Modalità Approfondimento attiva.\nRiprendi con [%1$s]",
+    "ponder.ui.index_description": "Premi su una delle icone per imparare di più riguardo ai suoi oggetti e blocchi",
+    "ponder.ui.index_title": "Catalogo di Riflessione",
+    "ponder.ui.next": "Scena successiva",
+    "ponder.ui.next_up": "Prossima scena:",
+    "ponder.ui.pondering": "Riflessione riguardante...",
+    "ponder.ui.previous": "Scena precedente",
+    "ponder.ui.replay": "Riavvia",
+    "ponder.ui.slow_text": "Testo rallentato",
+    "ponder.ui.subject": "Soggetto della scena",
+    "ponder.ui.think_back": "Torna indietro",
+    "ponder.ui.welcome": "È tempo di Riflettere"
+}

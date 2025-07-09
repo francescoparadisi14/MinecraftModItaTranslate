@@ -1,0 +1,13 @@
+{
+    "block.densemekanism.dense_deepslate_fluorite_ore": "Dense Deepslate Fluorite Ore",
+    "block.densemekanism.dense_deepslate_lead_ore": "Dense Deepslate Lead Ore",
+    "block.densemekanism.dense_deepslate_osmium_ore": "Dense Deepslate Osmium Ore",
+    "block.densemekanism.dense_deepslate_tin_ore": "Dense Deepslate Tin Ore",
+    "block.densemekanism.dense_deepslate_uranium_ore": "Dense Deepslate Uranium Ore",
+    "block.densemekanism.dense_fluorite_ore": "Dense Fluorite Ore",
+    "block.densemekanism.dense_lead_ore": "Dense Lead Ore",
+    "block.densemekanism.dense_osmium_ore": "Dense Osmium Ore",
+    "block.densemekanism.dense_tin_ore": "Dense Tin Ore",
+    "block.densemekanism.dense_uranium_ore": "Dense Uranium Ore",
+    "itemGroup.densemekanism": "Dense Mekanism"
+}

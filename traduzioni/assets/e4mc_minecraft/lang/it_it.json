@@ -1,0 +1,7 @@
+{
+    "text.e4mc_minecraft.clickToStop": "(clicca Qui Per Fermare)",
+    "text.e4mc_minecraft.closeServer": "Gioco Locale Non Più Ospitato Pubblicamente",
+    "text.e4mc_minecraft.domainAssigned": "Gioco Locale Ospitato Sul Dominio [%s]",
+    "text.e4mc_minecraft.error": "Si è Verificato Un Errore Nell'e4mc",
+    "text.e4mc_minecraft.serverAlreadyClosed": "Gioco Locale Non Ospitato Pubblicamente"
+}

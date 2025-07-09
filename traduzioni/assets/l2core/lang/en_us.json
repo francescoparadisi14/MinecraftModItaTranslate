@@ -1,0 +1,10 @@
+{
+    "l2core.configuration.addEnchantmentDescription": "Add Enchantment Descriptions",
+    "l2core.configuration.addEnchantmentDescription.tooltip": "Allowed Values: DISABLE, SHIFT_ONLY, ALWAYS",
+    "l2core.configuration.overlayZVal": "The height of item character overlay",
+    "l2core.configuration.overlayZVal.tooltip": "Range: -1000000 ~ 1000000",
+    "l2core.configuration.section.l2configs.l2core.client.toml": "L2Core Client Configuration",
+    "l2core.configuration.section.l2configs.l2core.client.toml.title": "L2Core Client Configuration",
+    "l2core.configuration.title": "L2Core Configuration",
+    "l2core.title": "L2Core"
+}

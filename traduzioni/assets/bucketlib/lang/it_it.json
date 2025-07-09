@@ -1,0 +1,12 @@
+{
+    "tag.entity_type.bucketlib.milkable": "Entità Da Mungere",
+    "tag.fluid.bucketlib.infinity_enchantable": "Fluidi Che Abilitano L'incantesimo Infinito",
+    "tag.fluid.c.milk": "Latte",
+    "text.autoconfig.bucketlib.option.INFINITY_ENCHANTMENT_ENABLED": "Abilitato L'incantesimo Infinito",
+    "text.autoconfig.bucketlib.option.INFINITY_ENCHANTMENT_ENABLED.@Tooltip[0]": "Abilitato L'incantesimo Infinito §6§l",
+    "text.autoconfig.bucketlib.option.INFINITY_ENCHANTMENT_ENABLED.@Tooltip[1]": "Se Abilitato O Meno L'incantesimo Infinito Per Gli Oggetti Modificati",
+    "text.autoconfig.bucketlib.option.INFINITY_ENCHANTMENT_ENABLED.@Tooltip[2]": "Buchi Riempiti Di Fluidi Con Etichetta",
+    "text.autoconfig.bucketlib.option.INFINITY_ENCHANTMENT_ENABLED.@Tooltip[3]": "\"Il Rilevamento Dell'infinità Del Bucketlib\" Dovrebbe Essere Abilitato.",
+    "text.autoconfig.bucketlib.option.INFINITY_ENCHANTMENT_ENABLED.@Tooltip[4]": "§7§oImpostazione Predefinita: Falso",
+    "text.autoconfig.bucketlib.title": "Impostazioni Bucketlib"
+}

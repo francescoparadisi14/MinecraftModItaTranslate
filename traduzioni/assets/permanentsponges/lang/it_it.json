@@ -1,0 +1,7 @@
+{
+    "block.permanentsponges.aqueous_sponge": "Spongia Acquosa",
+    "block.permanentsponges.magmatic_sponge": "Spongia Magmatica",
+    "item.permanentsponges.aqueous_sponge_on_a_stick": "Spongia Acquosa Su Un Bastone",
+    "item.permanentsponges.magmatic_sponge_on_a_stick": "Spongia Magmatica Su Un Bastone",
+    "itemGroup.permanentsponges.main": "Sfere Permanenti Principali"
+}

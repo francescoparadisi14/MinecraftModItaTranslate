@@ -1,0 +1,7 @@
+{
+    "block.easy_piglins.barterer": "Barattiere",
+    "gui.easy_piglins.input_items": "Input Items",
+    "gui.easy_piglins.output_items": "Elementi Di Output",
+    "itemGroup.easy_piglins": "Piglin Facili",
+    "message.easy_piglins.cant_pick_up": "Non è Possibile Raccogliere Piglin Aggressivi O Occupati"
+}

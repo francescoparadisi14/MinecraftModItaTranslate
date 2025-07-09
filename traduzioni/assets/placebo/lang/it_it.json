@@ -1,0 +1,8 @@
+{
+    "key.categories.placebo": "Placebo",
+    "placebo.cmd.not_found": "%s non è stato trovato.",
+    "placebo.cmd.serialize_failure": "Si è verificato un errore durante il processo di serializzazione.",
+    "placebo.cmd.serialize_success": "Salvato %s in %s.",
+    "placebo.toggleTrails": "Attiva\/Disattiva Patreon Trails",
+    "placebo.toggleWings": "Attiva\/Disattiva Patreon Wings"
+}

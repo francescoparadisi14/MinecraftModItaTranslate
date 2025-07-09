@@ -1,0 +1,13 @@
+{
+    "Use \/locate structure betterstrongholds:stronghold instead!": "Use \/locate structure betterstrongholds:stronghold instead!",
+    "betterstrongholds.commands.locate.stronghold": "Use \/locate structure betterstrongholds:stronghold instead!",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds": "YUNG's Better Strongholds",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general": "General Settings",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.@Tooltip": "General settings.",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.enableStructureRuin": "Enable Structure Ruin",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.enableStructureRuin.@Tooltip[0]": "Allows strongholds to be slightly destroyed by small noodle caves.",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.enableStructureRuin.@Tooltip[1]": "Note that they will remain unaffected by large caverns.",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.filledPortalFrameChance": "Filled Portal Frame Chance",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.filledPortalFrameChance.@Tooltip": "The chance for each End Portal Frame block to spawn already filled with an Eye of Ender.",
+    "text.autoconfig.betterstrongholds-fabric-1_21.title": "YUNG's Better Strongholds"
+}

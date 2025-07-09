@@ -1,0 +1,14 @@
+{
+    "midnightconfig.colorChooser.title": "Scegli Un Colore",
+    "midnightlib.curseforge": "CurseForge",
+    "midnightlib.midnightconfig.config_screen_list": "Abilita Lista Di Schermo Di Configurazione",
+    "midnightlib.midnightconfig.enum.ConfigButton.FALSE": "§cno",
+    "midnightlib.midnightconfig.enum.ConfigButton.MODMENU": "§bmodmenu",
+    "midnightlib.midnightconfig.enum.ConfigButton.TRUE": "§a Sì",
+    "midnightlib.midnightconfig.title": "Configurazione Di Mezzanotte",
+    "midnightlib.modrinth": "Modrinth",
+    "midnightlib.overview.title": "Riepilogo Di MidnightConfig",
+    "midnightlib.wiki": "Wiki",
+    "modmenu.descriptionTranslation.midnightlib": "Biblioteca Comune Per La Configurazione Facile.\nFornisce Un'API Di Configurazione, Integrazione Automatica Con Altri Mod E Utilità Comuni.",
+    "modmenu.summaryTranslation.midnightlib": "Biblioteca Comune Per La Configurazione Facile."
+}

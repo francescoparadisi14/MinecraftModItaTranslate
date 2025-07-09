@@ -1,0 +1,15 @@
+{
+    "Use \/locate structure betterdeserttemples:desert_temple instead!": "Use \/locate structure betterdeserttemples:desert_temple instead!",
+    "betterdeserttemples.advancements.root.description": "Somewhere deep in the desert...",
+    "betterdeserttemples.advancements.root.title": "YUNG's Better Desert Temples",
+    "betterdeserttemples.advancements.temple_clear.description": "Slay the Pharaoh and free the Temple from his curse",
+    "betterdeserttemples.advancements.temple_clear.title": "Eternal Slumber",
+    "betterdeserttemples.advancements.temple_entry.description": "Discover a Better Desert Temple",
+    "betterdeserttemples.advancements.temple_entry.title": "An Ancient Tomb",
+    "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue": "Apply Mining Fatigue",
+    "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue.@Tooltip[0]": "Whether or not mining fatigue is applied to players in the temple",
+    "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue.@Tooltip[1]": "if it has not yet been cleared.",
+    "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.disableVanillaPyramids": "Disable Vanilla Pyramids",
+    "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.disableVanillaPyramids.@Tooltip": "Whether or not vanilla desert pyramids should be disabled.",
+    "text.autoconfig.betterdeserttemples-fabric-1_21.title": "YUNG's Better Desert Temples"
+}

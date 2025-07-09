@@ -1,0 +1,10 @@
+{
+    "yumo_cmp.block.bj.text_1": "Prepare to throw a polished deep slate block after completing the setup to start the yield simulation",
+    "yumo_cmp.block.bj.text_2": "[Error] Please use boxes and funnels to create production and consumables (optional) calculation blocks in it",
+    "yumo_cmp.block.bj.text_3": "[Error] Missing yield calculation block",
+    "yumo_cmp.block.cl": "Item production block",
+    "yumo_cmp.block.cl_1": "Simultaneously throwing dye can change color",
+    "yumo_cmp.block.jx": "Clearance",
+    "yumo_cmp.block.jx_1": "Contains Ceaseless Void, salt free",
+    "yumo_cmp.item.personal_shrinking_device": "Personal shrinking device"
+}

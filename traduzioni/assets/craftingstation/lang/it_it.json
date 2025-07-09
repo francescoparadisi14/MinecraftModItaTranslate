@@ -1,0 +1,7 @@
+{
+    "block.craftingstation.crafting_station": "Stazione Di Lavorazione",
+    "block.craftingstation.crafting_station_slab": "Lastre Di Stazione Dei Lavori",
+    "text.crafting_station.clear": "Pulisci Griglia Di Lavorazione",
+    "text.crafting_station.error": "Ricetta Sbagliata %s Trovata, Vedere Il Registro Per I Dettagli",
+    "title.crafting_station": "Stazione Di Lavorazione"
+}

@@ -1,0 +1,17 @@
+{
+    "gui.universalgrid.grid.grid_type": "Tipo Di Griglia",
+    "item.universalgrid.creative_wireless_universal_grid": "Griglia Universale Wireless Creativa",
+    "item.universalgrid.wireless_universal_grid": "Griglia Universale Wireless",
+    "key.universalgrid.open_wireless_universal_grid": "Apri Griglia Universale Wireless",
+    "mod.universalgrid": "Griglia Universale",
+    "text.autoconfig.universalgrid.option.wirelessUniversalGrid": "Griglia Universale Wireless",
+    "text.autoconfig.universalgrid.option.wirelessUniversalGrid.energyCapacity": "Capacità Di Energia",
+    "text.autoconfig.universalgrid.option.wirelessUniversalGrid.energyCapacity.tooltip": "La Capacità Energetica Della Griglia Universale Wireless.",
+    "text.autoconfig.universalgrid.option.wirelessUniversalGrid.gridType": "Tipo Di Griglia",
+    "text.autoconfig.universalgrid.option.wirelessUniversalGrid.gridType.tooltip": "Il Tipo Di Griglia Selezionato Del Wireless Universal Grid.",
+    "text.autoconfig.universalgrid.option.wirelessUniversalGrid.tooltip": "Configurazione Per Il Griglia Universale Wireless.",
+    "text.autoconfig.universalgrid.title": "Configurazione Della Griglia Universale",
+    "universalgrid.configuration.section.universalgrid.common.toml": "Configurazione Del Pannello Universale",
+    "universalgrid.configuration.section.universalgrid.common.toml.title": "Configurazione Del Pannello Universale",
+    "universalgrid.configuration.title": "Configurazione Del Griglia Universale"
+}

@@ -1,0 +1,11 @@
+{
+    "item.adfinders.gem_finder": "Trovatore Di Gemme",
+    "item.adfinders.metal_finder": "Trovatore Di Metalli",
+    "item.adfinders.mineral_finder": "Trovatore Di Minerali",
+    "tooltip.adfinders.finder.arrows": "I Frecce %2$s Mostrano La Direzione %2$s (in\/su) Verso Il Giacimento Di Minerale Più Vicino %2$s Entro Una Profondità Di Ping %2$s.",
+    "tooltip.adfinders.finder.more_info": "Tenere %2$s %3$s%1$s Per Ulteriori Informazioni",
+    "tooltip.adfinders.finder.needles": "I %2$s Aghi %1$s Mostrano La Direzione Verso Le Miniere Raggiungibili All'interno Del Raggio Di Scansione %2$s Intorno Al Giocatore %1$s Nel Piano Orizzontale %2$s.",
+    "tooltip.adfinders.finder.ping_depth": "Profondità Di Ping",
+    "tooltip.adfinders.finder.red_lights": "I Segnali Di Luce Rossa %1$s Indicano La Presenza Di Un Deposito Di Minerale Grande %2$s",
+    "tooltip.adfinders.finder.scan_radius": "Raggio Di Scansione"
+}

@@ -1,0 +1,7 @@
+{
+    "gui.ae2importexportcard.blacklist": "Blacklist",
+    "gui.ae2importexportcard.whitelist": "Whitelist",
+    "item.ae2importexportcard.export_card": "Export Card",
+    "item.ae2importexportcard.import_card": "Import Card",
+    "itemGroup.ae2importexportcard": "AE2 Import Export Card"
+}

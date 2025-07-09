@@ -1,0 +1,12 @@
+{
+    "forgeendertech.configuration.Painting": "Pittura",
+    "forgeendertech.configuration.SmokeContainers": "Contenitori Di Fumo",
+    "forgeendertech.configuration.debug": "Debug",
+    "forgeendertech.configuration.maxBlocksInMultiblock": "Maxblocksinmultiblock",
+    "forgeendertech.configuration.maxVentPipeLength": "Lunghezza Massima Della Condotta Di Ventilazione",
+    "forgeendertech.configuration.pumpedChimneyAirflow": "Flusso D'aria Della Caldaia Pompata",
+    "forgeendertech.configuration.requiresDye": "Richiede Inchiostro",
+    "forgeendertech.configuration.requiresWaterBucket": "Richiede Secchio D'acqua",
+    "forgeendertech.configuration.suctionHoppers": "Succinto Raccoglitori",
+    "forgeendertech.configuration.ventReachDistance": "Distanza Di Raggiungimento Della Ventilazione"
+}

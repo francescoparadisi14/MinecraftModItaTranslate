@@ -1,0 +1,13 @@
+{
+    "akashictome.click_morph": "Clic Destro Con Shift Per Cambiare",
+    "akashictome.configuration.Allow all items to be added": "Consenti L'aggiunta Di Tutti Gli Oggetti",
+    "akashictome.configuration.Blacklisted Items": "Elementi Blacklistati",
+    "akashictome.configuration.Blacklisted Mods": "Mod Blacklistati",
+    "akashictome.configuration.Hide Book Render": "Nascondi Rendering Del Libro",
+    "akashictome.configuration.Mod Aliases": "Alias Dei Moduli",
+    "akashictome.configuration.Whitelisted Items": "Elementi Autorizzati",
+    "akashictome.configuration.Whitelisted Names": "Nomi Iscritti Alla Lista Bianca",
+    "akashictome.misc.shift_for_info": "§7tieni §bShift§7 Per Ulteriori Informazioni",
+    "akashictome.sudo_name": "Tomo Akashico (%s)",
+    "item.akashictome.tome": "Tomo Akashico"
+}

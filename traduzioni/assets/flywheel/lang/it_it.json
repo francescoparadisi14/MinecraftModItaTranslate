@@ -1,0 +1,14 @@
+{
+    "argument.flywheel_backend.id.unknown": "Backend Sconosciuto '%s'",
+    "command.flywheel.backend.get": "Il Backend Attuale Della Ruota A Volano è '%s'",
+    "command.flywheel.backend.set": "Il Backend Del Flywheel è Ora '%s'",
+    "command.flywheel.backend.set.unavailable": "Il Backend Richiesto '%s' Non è Disponibile",
+    "command.flywheel.limit_updates.get.off": "Il Limitazione Degli Aggiornamenti è Attualmente Disabilitata",
+    "command.flywheel.limit_updates.get.on": "Il Limitazione Degli Aggiornamenti è Attualmente Abilitata",
+    "command.flywheel.limit_updates.set.off": "Il Limitazione Degli Aggiornamenti è Ora Disattivata",
+    "command.flywheel.limit_updates.set.on": "Il Limitazione Degli Aggiornamenti è Ora Abilitata",
+    "command.flywheel.use_light_directions.get.off": "Non Si Utilizzano Direzioni Di Luce",
+    "command.flywheel.use_light_directions.get.on": "Utilizzo Delle Direzioni Di Luce",
+    "command.flywheel.use_light_directions.set.off": "Imposta Le Direzioni Della Luce In Disattivato",
+    "command.flywheel.use_light_directions.set.on": "Imposta Le Direzioni Di Luce Su On"
+}
