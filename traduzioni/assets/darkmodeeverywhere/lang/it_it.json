@@ -1,0 +1,13 @@
+{
+    "config.darkemodeeverywhere.button_position_x": "Posizione del pulsante X (pixel lontano dal lato sinistro della GUI nell'asse x)",
+    "config.darkemodeeverywhere.button_position_y": "Posizione del pulsante Y (pixel lontano dal basso della GUI nell'asse Y)",
+    "config.darkemodeeverywhere.method_shader_blacklist": "Metodo di blacklist del shader oscuro.\n\nÈ una lista di stringhe class:metodo (metodi di rendering) per cui il shader oscuro non verrà applicato.\n\nOgni stringa consiste nella classe e nel metodo (o in qualsiasi sottostringa) da bloccare il shader oscuro.\n\nAd esempio, 'renderhunger' è sufficiente per bloccare 'net.minecraftforge.client.gui.overlay.forgegui:renderfood' (entrambi funzioneranno).",
+    "config.darkemodeeverywhere.method_shader_dump": "Abilitando questa configurazione, ogni 5 secondi verrà eseguito un dump dei metodi utilizzati per rendere gli schermi che hanno applicato lo shader oscuro\\nil dump sarà costituito da una lista di stringhe classe:metodo, ad esempio 'net.minecraftforge.client.gui.overlay.forgegui:renderfood'\\nutilizza questa funzionalità per aiutarti a trovare le stringhe dei metodi di rendering degli schermi che desideri bloccare.",
+    "config.darkmodeeverywhere.enabled": "Abilitato",
+    "gui.darkmodeeverywhere.dark_mode": "Modalità oscura",
+    "gui.darkmodeeverywhere.less_perfect_dark": "Ombra meno perfetta",
+    "gui.darkmodeeverywhere.light_mode": "Modalità luminosa",
+    "gui.darkmodeeverywhere.perfect_dark": "Ombra perfetta",
+    "gui.darkmodeeverywhere.toasted_light": "Modalità luce tostata",
+    "gui.tooltip.darkmodeeverywhere.shader_switch_tooltip": "* utilizza Shift per saltare al modulo chiaro"
+}

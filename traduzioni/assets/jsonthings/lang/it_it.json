@@ -1,0 +1,5 @@
+{
+    "text.jsonthings.wrappedpack.client_resources.prefix": "Pacchetto di cose:",
+    "text.jsonthings.wrappedpack.description": "Non può essere disattivato senza disattivare il pacchetto di cose.",
+    "text.jsonthings.wrappedpack.server_data.prefix": "thingpack:"
+}
