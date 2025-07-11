@@ -1,0 +1,13 @@
+{
+    "item.theoneprobe.creativeprobe": "Lo scanner creativo",
+    "item.theoneprobe.diamond_helmet_probe": "Elmetto di diamante con sonde",
+    "item.theoneprobe.gold_helmet_probe": "Elmetto d'oro con sonde",
+    "item.theoneprobe.iron_helmet_probe": "Elmetto di ferro con sonde",
+    "item.theoneprobe.probe": "Lo scanner unico",
+    "item.theoneprobe.probe_goggles": "Lo scanner di The One Probe (Bauble)",
+    "item.theoneprobe.probenote": "Leggetemi, il The One Probe",
+    "key.categories.theoneprobe": "Le categorie di The One Probe",
+    "key.toggleLiquids": "Alternare visualizzazione liquidi",
+    "key.toggleVisible": "Impostazione di visibilità",
+    "theoneprobe.networking.failed": "The One Probe: il network fallito! Controlla i log per ulteriori informazioni."
+}

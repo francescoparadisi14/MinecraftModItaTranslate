@@ -1,0 +1,12 @@
+{
+    "block.simplecorelib.original_copper_ore": "Minerale di rame originario",
+    "block.simplecorelib.test_furnace": "Fornace di prova",
+    "block.simplecorelib.test_plate": "Piatto di pressione di test",
+    "item.simplecorelib.test_shears": "Tritacarne di prova",
+    "item_group.simplecorelib.simplecore_tab": "Gruppo di oggetti simplecorelib",
+    "tips.pressure_plate.everything": "Attivato da qualsiasi cosa",
+    "tips.pressure_plate.living": "attivato da esseri viventi",
+    "tips.pressure_plate.mobs": "Attivato dai mostri non giocatori",
+    "tips.pressure_plate.players": "attivato solo dai giocatori",
+    "tips.test_plate": "Usato per testare i concetti di piattaforma (PP)"
+}

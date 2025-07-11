@@ -1,0 +1,9 @@
+{
+    "configuration.ctm.connect_inside": "Connetti dentro CTM",
+    "configuration.ctm.connect_inside.tooltip": "Scegli se disconnettere l'angolo interno su un blocco CTM - https:\/\/imgur.com\/euywlz4",
+    "configuration.ctm.disable": "Disabilita CTM",
+    "configuration.ctm.disable.tooltip": "Disabilita interamente le texture connesse",
+    "ctm.configuration.section.ctm.toml": "Configurazione CTM",
+    "ctm.configuration.section.ctm.toml.title": "Configurazione CTM",
+    "ctm.configuration.title": "Configurazione CTM"
+}
