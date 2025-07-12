@@ -67,6 +67,7 @@
     "hostilenetworks.info.subtypes": "Varianti:",
     "hostilenetworks.info.tier": "Livello: %s",
     "hostilenetworks.msg.built": "Costruito Con Successo Un Modello Di Dati %s",
+    "hostilenetworks.msg.multiple_models": "Sono stati trovati più modelli (%s e %s) che corrispondono all'entità bersaglio. Ciò è un problema di configurazione del pacchetto dei moduli.",
     "hostilenetworks.msg.no_model": "Nessun Modello Noto Esiste Per Questo Specimine.",
     "hostilenetworks.run.0": "> Avvio Runtime",
     "hostilenetworks.run.1": "> è Stato Avviato L'iterazione # %s",

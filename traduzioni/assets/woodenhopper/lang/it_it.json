@@ -2,6 +2,7 @@
     "block.woodenhopper.wooden_hopper": "Hoppa In Legno",
     "block.woodenhopper.wooden_hopper.desc.cannotAbsorbItemsFromInventories": "Non è Possibile Estrarre Gli Oggetti Dalle Inventari Sopra Di Esso.",
     "block.woodenhopper.wooden_hopper.desc.cannotAbsorbItemsFromWorld": "Non Può Estrarre Entità Di Oggetti Che Le Stanno Sopra.",
+    "item.woodenhopper.wooden_hopper": "Hoppa in legno",
     "text.autoconfig.woodenhopper.option.COOLDOWN": "Raffreddamento Del Carrello Di Legno",
     "text.autoconfig.woodenhopper.option.COOLDOWN.@Tooltip[0]": "Raffreddamento Di Appoggio In Legno §6§l",
     "text.autoconfig.woodenhopper.option.COOLDOWN.@Tooltip[1]": "Tempo (tasti) Che Passa Tra Due Operazioni Di Pompa In Legno.",

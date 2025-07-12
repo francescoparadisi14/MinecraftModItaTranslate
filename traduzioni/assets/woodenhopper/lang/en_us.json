@@ -2,6 +2,7 @@
     "block.woodenhopper.wooden_hopper": "Wooden Hopper",
     "block.woodenhopper.wooden_hopper.desc.cannotAbsorbItemsFromInventories": "Cannot pull items from inventories above it.",
     "block.woodenhopper.wooden_hopper.desc.cannotAbsorbItemsFromWorld": "Cannot pull item entities lying above it.",
+    "item.woodenhopper.wooden_hopper": "Wooden Hopper",
     "text.autoconfig.woodenhopper.option.COOLDOWN": "Wooden Hopper Cooldown",
     "text.autoconfig.woodenhopper.option.COOLDOWN.@Tooltip[0]": "§6§lWooden Hopper Cooldown",
     "text.autoconfig.woodenhopper.option.COOLDOWN.@Tooltip[1]": "Time (ticks) that passes between two wooden hopper operations.",

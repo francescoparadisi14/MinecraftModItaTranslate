@@ -13,6 +13,7 @@
     "block.spikyspikes.wooden_spike.description": "Lenti Danneggia I Mostri, Ma Non Uccide.",
     "death.attack.spike": "Ora %1$s Riposa In Un Mondo Meno Punteggiato",
     "death.attack.spike.player": "%1$s Si è Schiantato Su Una Spina Mentre Cercava Di Fuggire Da %2$s",
+    "item.spikyspikes.spike.tooltip.additional": "Tenere premuto %s per ulteriori informazioni",
     "item.spikyspikes.spike.tooltip.damage": "Danno: %s",
     "item.spikyspikes.spike.tooltip.hearts": "Cuore(i) %s",
     "item.spikyspikes.spike.tooltip.more": "Tieni %s Per Ulteriori Informazioni",

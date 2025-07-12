@@ -30,5 +30,6 @@
     "item.ae2_mega_things.item_disk_drive_64m": "64M MEGA Item DISK Drive",
     "item.ae2_mega_things.mega_chemical_disk_housing": "MEGA Chemical DISK Housing",
     "item.ae2_mega_things.mega_fluid_disk_housing": "MEGA Fluid DISK Housing",
-    "item.ae2_mega_things.mega_item_disk_housing": "MEGA Item DISK Housing"
+    "item.ae2_mega_things.mega_item_disk_housing": "MEGA Item DISK Housing",
+    "itemGroup.ae2_mega_things": "AE2 Mega Things"
 }

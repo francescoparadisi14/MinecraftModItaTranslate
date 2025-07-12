@@ -165,6 +165,5 @@
     "key.advanced_ae.quantum_armor_config": "Open Quantum Armor Configuration",
     "key.advanced_ae.quantum_auto_stock_upgrade": "Toggle Quantum Armor Auto Stock",
     "key.advanced_ae.quantum_magnet_upgrade": "Toggle Quantum Armor Magnet",
-    "key.advanced_ae.quantum_night_vision_upgrade": "Toggle Quantum Armor Night Vision",
-    "material.advanced_ae.quantum_alloy": "Quantum Alloy"
+    "key.advanced_ae.quantum_night_vision_upgrade": "Toggle Quantum Armor Night Vision"
 }

@@ -30,5 +30,6 @@
     "item.ae2_mega_things.item_disk_drive_64m": "Disco Rigido Di Item Mega Da 64m",
     "item.ae2_mega_things.mega_chemical_disk_housing": "Alloggiamento Disco Chimico Gigante",
     "item.ae2_mega_things.mega_fluid_disk_housing": "Alloggiamento Disco Fluido Mega",
-    "item.ae2_mega_things.mega_item_disk_housing": "Alloggiamento Disco Oggetto Gigante"
+    "item.ae2_mega_things.mega_item_disk_housing": "Alloggiamento Disco Oggetto Gigante",
+    "itemGroup.ae2_mega_things": "Cose giganti di AE2"
 }

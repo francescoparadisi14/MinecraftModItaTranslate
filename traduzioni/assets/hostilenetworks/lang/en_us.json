@@ -67,6 +67,7 @@
     "hostilenetworks.info.subtypes": "Variants:",
     "hostilenetworks.info.tier": "Tier: %s",
     "hostilenetworks.msg.built": "Successfully constructed a %s Data Model",
+    "hostilenetworks.msg.multiple_models": "Multiple models (%s and %s) matched the target entity. This is a modpack configuration issue.",
     "hostilenetworks.msg.no_model": "No known models exist for this specimen.",
     "hostilenetworks.run.0": "> Launching runtime",
     "hostilenetworks.run.1": "> Iteration #%s started",

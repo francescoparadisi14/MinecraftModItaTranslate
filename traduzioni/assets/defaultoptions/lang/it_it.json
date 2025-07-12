@@ -3,5 +3,10 @@
     "config.defaultoptions.defaultDifficulty.tooltip": "La Difficoltà Predefinita Selezionata Per I Mondi Creati Di Recente.",
     "config.defaultoptions.lockDifficulty": "Imposta Difficoltà Bloccata",
     "config.defaultoptions.lockDifficulty.tooltip": "Imposta Su Vero Se La Difficoltà Per Nuovi Mondi Dovrebbe Essere Bloccata Sul Livello Di Default Specifico. Questo Non Può Essere Sbloccato Dai Giocatori Senza Strumenti Esterni! Probabilmente Un'idea Cattiva. Non Lo Consiglio. Perché Sto Aggiungendo Questa Opzione?",
-    "config.defaultoptions.title": "Opzioni Predefinite"
+    "config.defaultoptions.title": "Opzioni Predefinite",
+    "defaultoptions.configuration.defaultDifficulty": "Difficoltà predefinita",
+    "defaultoptions.configuration.defaultDifficulty.tooltip": "la difficoltà predefinita selezionata per i mondi creati di recente.",
+    "defaultoptions.configuration.lockDifficulty": "Blocca difficoltà",
+    "defaultoptions.configuration.lockDifficulty.tooltip": "Imposta su vero se la difficoltà per nuovi mondi dovrebbe essere bloccata sul valore di default specifico. Questo non può essere sbloccato dai giocatori senza strumenti esterni! Probabilmente un'idea cattiva. Non lo consiglio. Perché sto aggiungendo questa opzione?",
+    "defaultoptions.configuration.title": "Opzioni predefinite"
 }

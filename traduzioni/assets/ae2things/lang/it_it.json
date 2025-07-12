@@ -1,14 +1,19 @@
 {
+    "block.ae2things.advanced_inscriber": "Inscrivitore avanzato",
+    "block.ae2things.crystal_growth": "Camera di crescita cristallina",
     "command.ae2things.getuuid_fail_notdisk": "Errore, L'oggetto Dato Non è Un Disco.",
     "command.ae2things.getuuid_fail_nouuid": "Errore, Il Disco è Vuoto\/non è Stato Trovato Alcun UUID.",
     "command.ae2things.getuuid_success": "L'UUID Del Disco Specificato è: [%s]",
     "command.ae2things.recover_fail": "Fallito Il Recupero Del Disco Rigido: L'uuid [%s] Non Esiste.",
     "command.ae2things.recover_success": "%s Ha Ripristinato Un Lettore Di Dischi Con L'UUID Di [%s].",
+    "gui.ae2things.advanced_inscriber": "Inscribe avanzato",
+    "gui.ae2things.crystal_growth": "Camera di crescita cristallina",
     "item.ae2things.disk_drive_16k": "Disco Rigido A 16k MB",
     "item.ae2things.disk_drive_1k": "Disco Rigido Da 1k MB",
     "item.ae2things.disk_drive_256k": "Disco Rigido Da 256k",
     "item.ae2things.disk_drive_4k": "Disco Rigido A 4k MB",
     "item.ae2things.disk_drive_64k": "Disco Rigido A 64k MB",
     "item.ae2things.disk_housing": "Alloggiamento Disco ME",
+    "itemGroup.ae2things.item_group": "Gruppo di oggetti AE2 Things",
     "text.ae2things.disk_drives": "Dischi Rigidi Per Me"
 }
