@@ -1,0 +1,17 @@
+{
+    "commands.gamestage.add.sender": "Fase %s sbloccata per %s!",
+    "commands.gamestage.add.target": "Hai sbloccato la fase %s!",
+    "commands.gamestage.all.sender": "%s ha sbloccato tutti i stadi conosciuti!",
+    "commands.gamestage.all.target": "Hai sbloccato tutti i stadi conosciuti!",
+    "commands.gamestage.check.failure": "\"%s\" non ha lo stadio \"%s\"",
+    "commands.gamestage.check.success": "\"%s\" ha stadio \"%s\"",
+    "commands.gamestage.clear.sender": "%d stadi cancellati da %s",
+    "commands.gamestage.clear.target": "Hai perso %d stadi!",
+    "commands.gamestage.info.empty": "%s non ha stadi sbloccati.",
+    "commands.gamestage.info.stages": "%s ha i seguenti stadi. %s",
+    "commands.gamestage.playeronly": "Mi dispiace, solo per i giocatori!",
+    "commands.gamestage.reloadfakes.info": "Ricaricati i stadi dei giocatori fittizi.",
+    "commands.gamestage.reloadknown.info": "Caricato %d stadi noti.",
+    "commands.gamestage.remove.sender": "Fase di gioco `%s` rimossa per `%s`!",
+    "commands.gamestage.remove.target": "Hai perso l'accesso alla fase %s!"
+}

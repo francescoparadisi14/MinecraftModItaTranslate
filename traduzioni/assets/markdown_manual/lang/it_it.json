@@ -1,0 +1,8 @@
+{
+    "markdown_manual.warning.missing.block": "Blocco non disponibile.",
+    "markdown_manual.warning.missing.content_renderer": "Non è stato trovato un renderer di contenuto per [%s].",
+    "markdown_manual.warning.missing.image": "Immagine non trovata.",
+    "markdown_manual.warning.missing.item": "Elemento non disponibile.",
+    "markdown_manual.warning.missing.tag": "Tag non disponibile.",
+    "markdown_manual.warning.redirection_loop": "Ciclo di reindirizzamento:"
+}
