@@ -1,12 +1,12 @@
 {
-    "block.simplecorelib.original_copper_ore": "Original Copper Ore",
+    "item_group.simplecorelib.simplecore_tab": "SimpleCoreLib",
     "block.simplecorelib.test_furnace": "Test Furnace",
     "block.simplecorelib.test_plate": "Test Pressure Plate",
+    "block.simplecorelib.original_copper_ore": "Original Copper Ore",
     "item.simplecorelib.test_shears": "Test Shears",
-    "item_group.simplecorelib.simplecore_tab": "SimpleCoreLib",
+    "tips.test_plate": "Used to test pp concepts",
     "tips.pressure_plate.everything": "Triggered by anything",
     "tips.pressure_plate.living": "Triggered by living things",
     "tips.pressure_plate.mobs": "Triggerd by non-player mobs",
-    "tips.pressure_plate.players": "Triggered only by players",
-    "tips.test_plate": "Used to test pp concepts"
+    "tips.pressure_plate.players": "Triggered only by players"
 }

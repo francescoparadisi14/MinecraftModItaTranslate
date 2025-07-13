@@ -106,7 +106,7 @@
     "gui.tooltips.advanced_ae.TankEmpty": "Empty",
     "gui.tooltips.advanced_ae.UpButton": "Target the UP face of the machine.",
     "gui.tooltips.advanced_ae.UpgradeBaseTooltip": "Base upgrade card required to craft the others.",
-    "gui.tooltips.advanced_ae.UpgradeNotInstalled": "(Not Installed)",
+    "gui.tooltips.advanced_ae.UpgradeNotInstalled": " (Not Installed)",
     "gui.tooltips.advanced_ae.UpgradeTooltip": "Upgrade available for:",
     "gui.tooltips.advanced_ae.WalkSpeedTooltip": "Boosts the walking speed.",
     "gui.tooltips.advanced_ae.WaterBreathingTooltip": "Enables breathing under water.",

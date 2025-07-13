@@ -1,0 +1,23 @@
+{
+    "block.minecraft.bell": "Cammpana d'oro",
+    "block.minecraft.loom": "Telaio di bandiera",
+    "block.minecraft.slime_block": "Blocco di colla",
+    "item.minecraft.glow_ink_sac": "Sacchetto di inchiostro luminoso",
+    "item.minecraft.shield": "Scudo di legno",
+    "item.minecraft.shield.black": "Scudo di legno nero",
+    "item.minecraft.shield.blue": "Scudo di legno blu",
+    "item.minecraft.shield.brown": "Scudo di legno marrone",
+    "item.minecraft.shield.cyan": "Scudo di legno ciano",
+    "item.minecraft.shield.gray": "Scudo di legno grigio",
+    "item.minecraft.shield.green": "Scudo di legno verde",
+    "item.minecraft.shield.light_blue": "Scudo di legno azzurro chiaro",
+    "item.minecraft.shield.light_gray": "Scudo di legno chiaro grigiastro",
+    "item.minecraft.shield.lime": "Scudo di legno di limone",
+    "item.minecraft.shield.magenta": "Scudo di legno magenta",
+    "item.minecraft.shield.orange": "Scudo di legno arancione",
+    "item.minecraft.shield.pink": "Scudo di legno rosa",
+    "item.minecraft.shield.purple": "Scudo di legno viola",
+    "item.minecraft.shield.red": "Scudo di legno rosso",
+    "item.minecraft.shield.white": "Scudo di legno bianco",
+    "item.minecraft.shield.yellow": "Scudo di legno giallo"
+}

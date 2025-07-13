@@ -13,7 +13,7 @@
     "buildinggadgets2.gui.range": "Range",
     "buildinggadgets2.keymapping.mode-switch": "Switch Modes",
     "buildinggadgets2.messages.anchorcleared": "Anchor Cleared",
-    "buildinggadgets2.messages.anchorset": "Anchor Set to:",
+    "buildinggadgets2.messages.anchorset": "Anchor Set to: ",
     "buildinggadgets2.messages.areatoolarge": "Area too large! Max size is: %d. Size was: %d",
     "buildinggadgets2.messages.axistoolarge": "%s Axis too large! Max size is: %d. Size was: %d",
     "buildinggadgets2.messages.bindfailed": "Bind Failed: Invalid block",
