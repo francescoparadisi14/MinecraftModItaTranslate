@@ -1,12 +1,12 @@
 {
-    "tag.fluid.c.milk": "Milk",
     "tag.entity_type.bucketlib.milkable": "Milkable entities",
     "tag.fluid.bucketlib.infinity_enchantable": "Fluids that enable infinity enchanting",
-    "text.autoconfig.bucketlib.title": "BucketLib Settings",
+    "tag.fluid.c.milk": "Milk",
     "text.autoconfig.bucketlib.option.INFINITY_ENCHANTMENT_ENABLED": "Infinity enchantment enabled",
-    "text.autoconfig.bucketlib.option.INFINITY_ENCHANTMENT_ENABLED.@Tooltip[0]": "\u00a76\u00a7lInfinity enchantment enabled",
+    "text.autoconfig.bucketlib.option.INFINITY_ENCHANTMENT_ENABLED.@Tooltip[0]": "§6§lInfinity enchantment enabled",
     "text.autoconfig.bucketlib.option.INFINITY_ENCHANTMENT_ENABLED.@Tooltip[1]": "Whether or not Infinity enchantment for modded",
     "text.autoconfig.bucketlib.option.INFINITY_ENCHANTMENT_ENABLED.@Tooltip[2]": "buckets filled with fluids of the tag",
     "text.autoconfig.bucketlib.option.INFINITY_ENCHANTMENT_ENABLED.@Tooltip[3]": "\"bucketlib:infinity_enchantable\" should be enabled.",
-    "text.autoconfig.bucketlib.option.INFINITY_ENCHANTMENT_ENABLED.@Tooltip[4]": "\u00a77\u00a7oDefault: false"
+    "text.autoconfig.bucketlib.option.INFINITY_ENCHANTMENT_ENABLED.@Tooltip[4]": "§7§oDefault: false",
+    "text.autoconfig.bucketlib.title": "BucketLib Settings"
 }

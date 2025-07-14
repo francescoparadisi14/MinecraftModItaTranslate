@@ -1,14 +1,14 @@
 {
+    "options.availableKeys": "Tasti disponibili",
+    "options.confirmReset": "Conferma ripristino",
     "options.showAll": "Vedi tutti",
     "options.showConflicts": "Vedi conflitti",
     "options.showNone": "Vedi mancanti",
-    "options.availableKeys": "Tasti disponibili",
     "options.sort": "Ordine",
-    "options.sortNone": "no",
     "options.sortAZ": "A->Z",
-    "options.sortZA": "Z->A",
-    "options.toggleFree": "Tasti liberi",
-    "options.confirmReset": "Conferma ripristino",
     "options.sortKeyAZ": "Chiave A->Z",
-    "options.sortKeyZA": "Chiave Z->A"
+    "options.sortKeyZA": "Chiave Z->A",
+    "options.sortNone": "no",
+    "options.sortZA": "Z->A",
+    "options.toggleFree": "Tasti liberi"
 }

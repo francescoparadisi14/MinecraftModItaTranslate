@@ -277,7 +277,7 @@
     "msg.framedblocks.lock_state": "The state of this block is now %s",
     "msg.framedblocks.lock_state.locked": "locked",
     "msg.framedblocks.lock_state.unlocked": "unlocked",
-    "msg.framedblocks.powered_saw.status": "Status: ",
+    "msg.framedblocks.powered_saw.status": "Status:",
     "msg.framedblocks.powered_saw.status.no_match": "Recipe doesn't match",
     "msg.framedblocks.powered_saw.status.no_recipe": "No recipe",
     "msg.framedblocks.powered_saw.status.ready": "Ready",

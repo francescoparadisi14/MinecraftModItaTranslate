@@ -1,12 +1,12 @@
 {
-    "forgeendertech.configuration.maxVentPipeLength": "maxVentPipeLength",
-    "forgeendertech.configuration.maxBlocksInMultiblock": "maxBlocksInMultiblock",
+    "forgeendertech.configuration.Painting": "Painting",
     "forgeendertech.configuration.SmokeContainers": "SmokeContainers",
     "forgeendertech.configuration.debug": "debug",
-    "forgeendertech.configuration.requiresDye": "requiresDye",
-    "forgeendertech.configuration.Painting": "Painting",
+    "forgeendertech.configuration.maxBlocksInMultiblock": "maxBlocksInMultiblock",
+    "forgeendertech.configuration.maxVentPipeLength": "maxVentPipeLength",
     "forgeendertech.configuration.pumpedChimneyAirflow": "pumpedChimneyAirflow",
-    "forgeendertech.configuration.suctionHoppers": "suctionHoppers",
+    "forgeendertech.configuration.requiresDye": "requiresDye",
     "forgeendertech.configuration.requiresWaterBucket": "requiresWaterBucket",
+    "forgeendertech.configuration.suctionHoppers": "suctionHoppers",
     "forgeendertech.configuration.ventReachDistance": "ventReachDistance"
 }

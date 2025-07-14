@@ -1,6 +1,6 @@
 {
-    "key.hit_the_deck.prone": "Prone",
     "advancements.prone_advancement.descr": "Go prone for the first time!",
     "advancements.prone_advancement.title": "Duck!",
+    "key.hit_the_deck.prone": "Prone",
     "key.prone_was_pressed.prone": "Prone"
 }
