@@ -26,6 +26,7 @@
     "sodium.options.buttons.undo": "Annulla",
     "sodium.options.chunk_update_threads.name": "Filtri Di Aggiornamento Di Chunk",
     "sodium.options.chunk_update_threads.tooltip": "Specificare Il Numero Di Thread Da Utilizzare Per L'edificazione E La Gestione Dei Blocchi. Utilizzando Più Thread Può Accelerare Il Caricamento E L'aggiornamento Dei Blocchi, Ma Potrebbe Avere Un Impatto Negativo Sui Tempi Di Frame. Il Valore Predefinito è Abbastanza Buono Per Tutte Le Situazioni.",
+    "sodium.options.clouds_distance.tooltip": "La distanza di rendering delle nuvole. Questo non ha un impatto significativo sulle prestazioni e è destinato a scopi visivi.",
     "sodium.options.clouds_quality.tooltip": "Livello Di Qualità Utilizzato Per La Renderizzazione Delle Nuvole Nel Cielo. Nonostante Le Opzioni Siano Etichettate Come \"veloci\" E \"fanciulle\", L'effetto Sulle Prestazioni è Trascurabile.",
     "sodium.options.cpu_render_ahead_limit.name": "Limite Di Anteprima Di Rendering CPU",
     "sodium.options.cpu_render_ahead_limit.tooltip": "Solo Per Il Debug. Specifica Il Numero Massimo Di Frame Che Possono Essere In Volo Verso La GPU. Modificare Questo Valore Non è Consigliato, Poiché Valori Molto Bassi O Alti Potrebbero Creare Instabilità Del Tasso Di Frame.",

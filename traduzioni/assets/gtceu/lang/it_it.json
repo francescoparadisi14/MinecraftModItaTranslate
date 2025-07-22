@@ -1705,6 +1705,7 @@
     "block.surface_rock": "Roccia superficiale %s",
     "button.gtceu.mark_as_depleted.name": "Segnala come esaurito",
     "button.gtceu.toggle_waypoint.name": "Attiva\/Disattiva punto di riferimento",
+    "command.gtceu.cape.failure.does_not_exist": "Il cappello %s non esiste.",
     "command.gtceu.cape.give.failed": "Nessun nuovo cappello è stato sbloccato.",
     "command.gtceu.cape.give.success.multiple": "Sbloccati %s cappelli per %s giocatori",
     "command.gtceu.cape.give.success.single": "Sbloccati %s cappelli per %s",

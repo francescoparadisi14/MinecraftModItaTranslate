@@ -25,6 +25,7 @@
     "sodium.options.buttons.undo": "Undo",
     "sodium.options.chunk_update_threads.name": "Chunk Update Threads",
     "sodium.options.chunk_update_threads.tooltip": "Specifies the number of threads to use for chunk building and sorting. Using more threads can speed up chunk loading and update speed, but may negatively impact frame times. The default value is usually good enough for all situations.",
+    "sodium.options.clouds_distance.tooltip": "The distance clouds will render to. This has minimal impact on performance, and is meant for visual purposes.",
     "sodium.options.clouds_quality.tooltip": "The quality level used for rendering clouds in the sky. Even though the options are labeled \"Fast\" and \"Fancy\", the effect on performance is negligible.",
     "sodium.options.cpu_render_ahead_limit.name": "CPU Render-Ahead Limit",
     "sodium.options.cpu_render_ahead_limit.tooltip": "For debugging only. Specifies the maximum number of frames which can be in-flight to the GPU. Changing this value is not recommended, as very low or high values may create frame rate instability.",
