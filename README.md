@@ -1,6 +1,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
 
-![Versione](https://img.shields.io/badge/Ultimo%20Aggiornamento-22%2F07%2F2025-blue)
+![Versione](https://img.shields.io/badge/Ultimo%20Aggiornamento-23%2F07%2F2025-blue)
 
 ## Progetto che utilizza l’intelligenza artificiale per **tradurre automaticamente in italiano** i contenuti testuali delle mod di Minecraft.
 Supporta file `.json` (come `en_us.json`)
