@@ -1,0 +1,19 @@
+{
+    "_comment": "Blocks",
+    "_comment1": "GUI",
+    "_comment2": "Config",
+    "block.online_detector.advanced_online_detector": "Advanced Online Detector",
+    "block.online_detector.online_detector": "Online Detector",
+    "gui.online_detector.advanced_online_detector": "Advanced Online Detector",
+    "gui.online_detector.available": "Players Available for Tracking:",
+    "gui.online_detector.tracking": "Currently Tracking:",
+    "text.autoconfig.online_detector.category.client": "Client",
+    "text.autoconfig.online_detector.category.common": "Common",
+    "text.autoconfig.online_detector.option.ODClientConfig.shouldShowPortalParticles": "Should Show Portal Particles",
+    "text.autoconfig.online_detector.option.ODClientConfig.shouldShowPortalParticles.@PrefixText": "Whether or not there should be Portal particles while the Online Detector Block is active.",
+    "text.autoconfig.online_detector.option.ODClientConfig.shouldShowRedstoneParticles": "Should Show Redstone Particles",
+    "text.autoconfig.online_detector.option.ODClientConfig.shouldShowRedstoneParticles.@PrefixText": "Whether or not there should be Redstone particles while the Online Detector Block is active.",
+    "text.autoconfig.online_detector.option.ODCommonConfig.onlineCheckFrequency": "Online Check Frequency",
+    "text.autoconfig.online_detector.option.ODCommonConfig.onlineCheckFrequency.@PrefixText": "How often the Online Detector Block should check if the assigned player is online, this value is measured in ticks (20 ticks are 1 second), it is not recommended to set this value bellow 20",
+    "text.autoconfig.online_detector.title": "Online Detector Configs"
+}

@@ -1,0 +1,11 @@
+{
+    "_comment": "Commenti su suoni",
+    "cheerchance.creeperconfetti.config": "Caso di esultanza per i petardi",
+    "cheerchance.creeperconfetti.config.tooltip": "La percentuale di probabilità per il suono di festa.",
+    "confettichance.creeperconfetti.config": "Caso di confetti",
+    "confettichance.creeperconfetti.config.tooltip": "La percentuale di probabilità per cui un creepante esploda in confetti.",
+    "creeperconfetti.config.title": "Configurazione dei fuochi d'artificio per i creaker",
+    "creeperconfetti.subtitle.confetti": "Suoni di confetto",
+    "damageplayers.creeperconfetti.config": "Configurazione danni giocatore",
+    "damageplayers.creeperconfetti.config.tooltip": "Imposta su vero se ancora vuoi che i funghi danneggino i giocatori."
+}

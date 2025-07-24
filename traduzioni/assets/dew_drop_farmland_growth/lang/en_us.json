@@ -1,0 +1,19 @@
+{
+    "block.dew_drop_farmland_growth.bountiful_fertilized_farmland": "Bountiful Fertilized Farmland",
+    "block.dew_drop_farmland_growth.high_quality_fertilized_farmland": "High Quality Fertilized Farmland",
+    "block.dew_drop_farmland_growth.hydrating_farmland": "Hydrating Farmland",
+    "block.dew_drop_farmland_growth.hyper_fertilized_farmland": "Hyper Fertilized Farmland",
+    "block.dew_drop_farmland_growth.low_quality_fertilized_farmland": "Low Quality Fertilized Farmland",
+    "block.dew_drop_farmland_growth.pristine_quality_fertilized_farmland": "Pristine Quality Fertilized Farmland",
+    "block.dew_drop_farmland_growth.strong_fertilized_farmland": "Strong Fertilized Farmland",
+    "block.dew_drop_farmland_growth.weak_fertilized_farmland": "Weak Fertilized Farmland",
+    "item.dew_drop_farmland_growth.bountiful_fertilizer": "Bountiful Fertilizer",
+    "item.dew_drop_farmland_growth.high_quality_fertilizer": "High Quality Fertilizer",
+    "item.dew_drop_farmland_growth.hydrating_fertilizer": "Hydrating Fertilizer",
+    "item.dew_drop_farmland_growth.hyper_fertilizer": "Hyper Fertilizer",
+    "item.dew_drop_farmland_growth.low_quality_fertilizer": "Low Quality Fertilizer",
+    "item.dew_drop_farmland_growth.pristine_quality_fertilizer": "Pristine Quality Fertilizer",
+    "item.dew_drop_farmland_growth.strong_fertilizer": "Strong Fertilizer",
+    "item.dew_drop_farmland_growth.weak_fertilizer": "Weak Fertilizer",
+    "itemGroup.dew_drop_farmland_growth": "Dew Drop Farmland - Growth Edition"
+}

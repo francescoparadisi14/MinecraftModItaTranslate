@@ -1,0 +1,23 @@
+{
+    "emojiful.midnightconfig.emojiAutocomplete": "Auto-completamento emoji",
+    "emojiful.midnightconfig.emojiReplacement": "Sostituzione emoji breve",
+    "emojiful.midnightconfig.emojiSelector": "Selettore emoji",
+    "emojiful.midnightconfig.emojiTypes": "Tipi di emoji",
+    "emojiful.midnightconfig.enableLoadCustom": "Carica emoji personalizzate fornite da Emojiful",
+    "emojiful.midnightconfig.enableLoadDatapack": "Carica emoji di datapack forniti dal server al quale ti unisci",
+    "emojiful.midnightconfig.enableLoadTwemoji": "Carica Twemoji",
+    "emojiful.midnightconfig.enableProfanityFilter": "Abilita filtro di parolacce, sostituirà le parole cattive con emoji.",
+    "emojiful.midnightconfig.enableRenderEmoji": "Abilita la renderizzazione degli emoticon",
+    "emojiful.midnightconfig.gifEmojis": "Emoji GIF",
+    "emojiful.midnightconfig.loadCustom": "Carica emoji personalizzate",
+    "emojiful.midnightconfig.loadDatapack": "Carica pacchetti dati del server",
+    "emojiful.midnightconfig.loadGifEmojis": "Caricare emoticon animati, se disabilitati saranno un'immagine statica",
+    "emojiful.midnightconfig.loadTwemoji": "Carica gli emoji di mezzanotte utilizzati in siti come Twitter e Discord",
+    "emojiful.midnightconfig.profanityFilter": "Filtro di parolacce",
+    "emojiful.midnightconfig.profanityFilterReplacement": "Parola di sostituzione",
+    "emojiful.midnightconfig.profanityFilterString": "Parola di sostituzione per il filtro di parolacce",
+    "emojiful.midnightconfig.renderEmoji": "Rendere emoji",
+    "emojiful.midnightconfig.shortEmojiReplacement": "Sostituisci le versioni brevi degli emoticon come :) con :smile: in modo che possano essere visualizzati come emoticon.",
+    "emojiful.midnightconfig.showEmojiSelector": "Abilita selezione emoji GUI nella riga di testo del chat.",
+    "emojiful.midnightconfig.title": "EmojiFul"
+}

@@ -1,0 +1,23 @@
+{
+    "block.doapi.standard": "Bandiera del completista",
+    "block.doapi.wall_standard": "Insegna di completamento per parete standard",
+    "pack.source.builtinMod": "Integrato: %s",
+    "sound.doapi.beer_elemental_ambient": "Ambiente di birra",
+    "sound.doapi.beer_elemental_attack": "Attacco di birra elementale",
+    "sound.doapi.beer_elemental_death": "Muore il liquido d'ebbre",
+    "sound.doapi.beer_elemental_hurt": "Danneggiamento da birra elementale",
+    "sound.doapi.breath": "Respiro",
+    "sound.doapi.brewstation_ambient": "Rumore di stazione dei birrai",
+    "sound.doapi.brewstation_kettle": "Bolle che esplodono",
+    "sound.doapi.brewstation_oven": "Crackling dell'forno",
+    "sound.doapi.brewstation_timer": "Timer in corso",
+    "sound.doapi.brewstation_whistle": "Soffio di flauto",
+    "sound.doapi.cabinet_close": "Chiusura cassettone",
+    "sound.doapi.cabinet_open": "Apertura cassettiera",
+    "sound.doapi.cake_cut": "Tagliare il dolce",
+    "sound.doapi.dinner_bell": "Campana da pranzo che suona",
+    "sound.doapi.drawer_close": "Chiusura cassetto",
+    "sound.doapi.drawer_open": "Apertura cassetto",
+    "sound.doapi.timer_ticking": "Timer che ticchia",
+    "sound.doapi.typewriter": "Tastiera a macchina"
+}

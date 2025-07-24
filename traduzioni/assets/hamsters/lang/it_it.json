@@ -1,0 +1,22 @@
+{
+    "block.hamsters.hamster_wheel": "Ruota per ghiro",
+    "block.hamsters.tunnel": "Galleria",
+    "entity.hamsters.hamster": "Criceto",
+    "hamsters.subtitles.hamster.ambient": "Squeak dei hamster",
+    "hamsters.subtitles.hamster.beg": "Il canguro implora",
+    "hamsters.subtitles.hamster.death": "Il canguro muore",
+    "hamsters.subtitles.hamster.hurt": "Il hamster si ferisce",
+    "item.hamsters.hamster": "Criceto",
+    "item.hamsters.hamster_spawn_egg": "Uovo di generazione di hamster",
+    "item.hamsters.hamsters": "Gli hamster",
+    "itemGroup.hamsters.tab": "Raccomandazioni per gli hamster",
+    "tooltip.hamsters.baby": "Giovane",
+    "tooltip.hamsters.black": "Nero",
+    "tooltip.hamsters.black_white": "Nero e Bianco",
+    "tooltip.hamsters.brown": "Castano",
+    "tooltip.hamsters.grey_white": "Grigio Bianco",
+    "tooltip.hamsters.orange": "Arancione",
+    "tooltip.hamsters.peaches_and_cream": "Peaches e crema",
+    "tooltip.hamsters.tamed": "Domato",
+    "tooltip.hamsters.white": "bianco"
+}

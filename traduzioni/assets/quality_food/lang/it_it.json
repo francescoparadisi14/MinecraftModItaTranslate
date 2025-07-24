@@ -1,0 +1,15 @@
+{
+    "commands.quality_food.quality.failed.already_has_quality": "%s già ha una qualità applicata",
+    "commands.quality_food.quality.failed.invalid_quality": "Si è tentato di applicare una qualità non valida",
+    "commands.quality_food.quality.failed.missing_quality": "%s non ha alcuna qualità da rimuovere",
+    "commands.quality_food.quality.failed.no_quality": "\"%s\" non è applicabile alla qualità.",
+    "config.jade.plugin_quality_food.quality": "Qualità",
+    "create.item_attributes.quality_food.quality": "Ha qualità '%1$s'",
+    "create.item_attributes.quality_food.quality.inverted": "Non ha qualità '%1$s'",
+    "potion.withProbability": "%s (%s) con probabilità",
+    "quality_food.quality": "Qualità:",
+    "quality_type.quality_food.diamond": "Diamante",
+    "quality_type.quality_food.gold": "Oro",
+    "quality_type.quality_food.iron": "Ferro",
+    "quality_type.quality_food.none": "Nessuno"
+}

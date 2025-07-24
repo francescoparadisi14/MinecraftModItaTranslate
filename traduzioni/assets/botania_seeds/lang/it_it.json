@@ -1,0 +1,22 @@
+{
+    "botania.page.flowers0": "I semi di fiori possono essere lavorati per crescere $(thing)16$(0) fiori magici diversamente colorati $(item)mystical flowers$(0). $(p)questi fiori possono anche essere coltivati con $(item)fertilizzante florale$(0) (leggi avanti).",
+    "botania.page.flowers18": "Ci sono anche varianti più alte dei fiori mistici tipici (item) mystici. Queste possono essere raccolte per ottenere due volte i petali di un fiore normale.",
+    "botania.page.mushrooms0": "Seminando alcune $(item)fiori$(0) su un $(itemfungo$(0) sembra mutare quest'ultimo. Il $(itemfungo$(0) cambia forma, assume il colore del fiore e si fa luminoso; inoltre, può essere utilizzato come sostituto di $(l:basics\/fiori)$(item)fiori misteriosi$(0)$(\/l).",
+    "item.botania_seeds.black_mystical_flower_seed": "Seme di fiore misterioso nero",
+    "item.botania_seeds.blue_mystical_flower_seed": "Seme di fiore misterioso azzurro",
+    "item.botania_seeds.brown_mystical_flower_seed": "Seme di fiore misterioso marrone",
+    "item.botania_seeds.cyan_mystical_flower_seed": "Seme di fiore misterioso ciano",
+    "item.botania_seeds.gray_mystical_flower_seed": "Seme di fiore misterioso grigio",
+    "item.botania_seeds.green_mystical_flower_seed": "Seme di fiore misterioso verde",
+    "item.botania_seeds.light_blue_mystical_flower_seed": "Seme di fiore misterioso azzurro",
+    "item.botania_seeds.light_gray_mystical_flower_seed": "Seme di fiore misterioso grigio chiaro",
+    "item.botania_seeds.lime_mystical_flower_seed": "Seme di fiore misterioso limone",
+    "item.botania_seeds.magenta_mystical_flower_seed": "Seme di fiore misterioso magenta",
+    "item.botania_seeds.orange_mystical_flower_seed": "Seme di fiore misterioso arancione",
+    "item.botania_seeds.pink_mystical_flower_seed": "Seme di fiore misterioso rosa",
+    "item.botania_seeds.purple_mystical_flower_seed": "Seme di fiore misterioso viola",
+    "item.botania_seeds.red_mystical_flower_seed": "Seme di fiore misterioso rosso",
+    "item.botania_seeds.white_mystical_flower_seed": "Seme di fiore misterioso bianco",
+    "item.botania_seeds.yellow_mystical_flower_seed": "Seme di fiore misterioso giallo",
+    "itemGroup.botania_seeds": "Semi di Botania"
+}

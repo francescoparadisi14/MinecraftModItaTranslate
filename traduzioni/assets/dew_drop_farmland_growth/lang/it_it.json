@@ -1,0 +1,19 @@
+{
+    "block.dew_drop_farmland_growth.bountiful_fertilized_farmland": "Terra coltivata fertile abbondante",
+    "block.dew_drop_farmland_growth.high_quality_fertilized_farmland": "Terra coltivata di alta qualità fertilizzata",
+    "block.dew_drop_farmland_growth.hydrating_farmland": "Terra irrigata",
+    "block.dew_drop_farmland_growth.hyper_fertilized_farmland": "Terra coltivata iperfertilizzata",
+    "block.dew_drop_farmland_growth.low_quality_fertilized_farmland": "Terreno agricolo di qualità bassa fertilizzato",
+    "block.dew_drop_farmland_growth.pristine_quality_fertilized_farmland": "Terra coltivata di alta qualità fertilizzata in stato originale",
+    "block.dew_drop_farmland_growth.strong_fertilized_farmland": "Terra coltivata fertilizzata forte",
+    "block.dew_drop_farmland_growth.weak_fertilized_farmland": "Terreno agricolo debole fertilizzato",
+    "item.dew_drop_farmland_growth.bountiful_fertilizer": "Fertilizzante abbondante",
+    "item.dew_drop_farmland_growth.high_quality_fertilizer": "Fertilizzante di alta qualità",
+    "item.dew_drop_farmland_growth.hydrating_fertilizer": "Fertilizzante idratante",
+    "item.dew_drop_farmland_growth.hyper_fertilizer": "Fertilizzante iper",
+    "item.dew_drop_farmland_growth.low_quality_fertilizer": "Fertilizzante di bassa qualità",
+    "item.dew_drop_farmland_growth.pristine_quality_fertilizer": "Fertilizzante di qualità pristina",
+    "item.dew_drop_farmland_growth.strong_fertilizer": "Fertilizzante potente",
+    "item.dew_drop_farmland_growth.weak_fertilizer": "Fertilizzante debole",
+    "itemGroup.dew_drop_farmland_growth": "Gruppo di oggetti \"Dew Drop Farmland - Edizione Crescita\""
+}

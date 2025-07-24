@@ -1,0 +1,18 @@
+{
+    "block.extractinator.extractinator": "Extractinator",
+    "block.extractinator.silt": "Fango",
+    "block.extractinator.slush": "Fango",
+    "emi.category.extractinator.extractinator": "Extractinator",
+    "itemGroup.extractinator.main": "Extractinator",
+    "text.extractinator.drop_chance": "Tasso di caduta: %s%",
+    "text.resourcefulconfig.extractinator.option.extractTicks": "Estrai tick",
+    "text.resourcefulconfig.extractinator.option.extractTicks.tooltip": "Quanto tempo impiega l'estrazione del blocco singolo dell'estraettore",
+    "text.resourcefulconfig.extractinator.option.extractinatorDurability": "Durata estrattore",
+    "text.resourcefulconfig.extractinator.option.extractinatorDurability.tooltip": "Numero di utilizzi prima che l'estraintore si rompa",
+    "text.resourcefulconfig.extractinator.option.lootMultiplier": "Multiplatore di bottino",
+    "text.resourcefulconfig.extractinator.option.lootMultiplier.tooltip": "Incrementa il numero di oggetti smarriti rilasciati di questo valore",
+    "text.resourcefulconfig.extractinator.option.silent": "Silenzioso",
+    "text.resourcefulconfig.extractinator.option.silent.tooltip": "Se l'estrazione dell'estraettore dovrebbe essere silenziosa",
+    "text.resourcefulconfig.extractinator.option.worldgen": "Opzione di generazione del mondo",
+    "text.resourcefulconfig.extractinator.option.worldgen.tooltip": "[ solo tessuto ] genera giacimenti di argilla e melma"
+}

@@ -1,0 +1,14 @@
+{
+    "packAction.copyId.description": "Tieni %s per copiare",
+    "packAction.copyId.success": "Copiato!",
+    "packAction.copyId.title": "Copiare ID pacchetto",
+    "packAction.reloadSettings.description": "Tieni premuto %s per ricaricare le impostazioni",
+    "packAction.reloadSettings.success": "Ricaricato!",
+    "packAction.reloadSettings.title": "Carica impostazioni",
+    "packAction.restoreDefaults.description": "Tieni premuto %s per ripristinare",
+    "packAction.restoreDefaults.success": "Ristabilito!",
+    "packAction.restoreDefaults.title": "Ripristina pacchetti predefiniti",
+    "packAction.toggleDebug.description": "Tenere premuto %s per abilitare\/disabilitare",
+    "packAction.toggleDebug.success": "Abilitato\/disabilitato!",
+    "packAction.toggleDebug.title": "Abilita\/Disabilita ID pacchetto"
+}

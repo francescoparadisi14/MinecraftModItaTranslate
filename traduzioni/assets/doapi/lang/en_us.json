@@ -1,0 +1,23 @@
+{
+    "block.doapi.standard": "Completionist Banner",
+    "block.doapi.wall_standard": "Completionist Wall Banner",
+    "pack.source.builtinMod": "built-in: %s",
+    "sound.doapi.beer_elemental_ambient": "Booze Ambient",
+    "sound.doapi.beer_elemental_attack": "Booze Attack",
+    "sound.doapi.beer_elemental_death": "Booze Dying",
+    "sound.doapi.beer_elemental_hurt": "Booze Hurt",
+    "sound.doapi.breath": "Breath",
+    "sound.doapi.brewstation_ambient": "Brewstation Hum",
+    "sound.doapi.brewstation_kettle": "Popping Bubbles",
+    "sound.doapi.brewstation_oven": "Oven Crackling",
+    "sound.doapi.brewstation_timer": "Ticking Timer",
+    "sound.doapi.brewstation_whistle": "Whistling Whistle",
+    "sound.doapi.cabinet_close": "Closing Cabinet",
+    "sound.doapi.cabinet_open": "Opening Cabinet",
+    "sound.doapi.cake_cut": "Cutting Cake",
+    "sound.doapi.dinner_bell": "Ringing Dinner Bell",
+    "sound.doapi.drawer_close": "Closing Drawer",
+    "sound.doapi.drawer_open": "Opening Drawer",
+    "sound.doapi.timer_ticking": "Ticking Timer",
+    "sound.doapi.typewriter": "Typing Typewriter"
+}

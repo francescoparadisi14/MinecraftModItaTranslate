@@ -1,0 +1,9 @@
+{
+    "block.fantasyfurniture.furniture_station": "Furniture Station",
+    "feature_flag.fantasyfurniture.experimental": "Fantasy's Furniture - Experimental",
+    "feature_flag.fantasyfurniture.experimental.desc": "Experimental Furniture Blocks",
+    "tag.item.fantasyfurniture.binding_agent": "Furniture Binding Agents",
+    "tag.item.fantasyfurniture.furniture_bricks": "Bricks (Furniture Input)",
+    "tag.item.fantasyfurniture.furniture_planks": "Planks (Furniture Input)",
+    "tag.item.fantasyfurniture.furniture_wool": "Wools (Furniture Input)"
+}

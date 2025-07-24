@@ -1,0 +1,21 @@
+{
+    "biome.blueprint.original_source_marker": "Marcatore di origine originale",
+    "blueprint.config.disable_experimental_settings_screen": "Disabilita schermo di impostazioni sperimentali",
+    "blueprint.config.max_screen_shakers": "Massimo scuotitori di schermo",
+    "blueprint.config.screen_shake_scale": "Scala di scuotimento dello schermo",
+    "blueprint.config.slabfish_hat.backpack": "Zaino",
+    "blueprint.config.slabfish_hat.backpack.tooltip": "Abilita lo zaino del cappello pesce lastra. Disponibile ai patron Livello 3+.",
+    "blueprint.config.slabfish_hat.enabled": "Cappello pesce lastra",
+    "blueprint.config.slabfish_hat.enabled.tooltip": "Abilita il cappello pesce lastra. Disponibile ai patron Livello 2+.",
+    "blueprint.config.slabfish_hat.sweater": "Maglione",
+    "blueprint.config.slabfish_hat.sweater.tooltip": "Abilita il maglione del cappello pesce lastra. Disponibile ai patron Livello 2+.",
+    "blueprint.config.slabfish_hat.type": "Tipo",
+    "blueprint.config.slabfish_hat.type.tooltip": "Cambia il tipo di cappello pesce lastra. Disponibile ai patron Livello 4+.",
+    "blueprint.message.redirect": "Reindirizzamento",
+    "blueprint.screen.slabfish_settings": "Impostazioni cappello pesce lastra...",
+    "blueprint.screen.slabfish_settings.title": "Impostazioni cappello pesce lastra",
+    "blueprint.screen.slabfish_settings.tooltip": "Impostazioni per il cappello pesce lastra del patron di Team Abnormals. Diventa un patron a %s.",
+    "entity.blueprint.boat": "Barca",
+    "entity.blueprint.chest_boat": "Barca con cassa",
+    "entity.blueprint.falling_block": "Blocco cadente"
+}

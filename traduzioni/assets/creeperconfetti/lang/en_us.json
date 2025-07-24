@@ -1,0 +1,11 @@
+{
+    "_comment": "SOUNDS",
+    "cheerchance.creeperconfetti.config": "Cheer Chance",
+    "cheerchance.creeperconfetti.config.tooltip": "The percent chance for the cheer sound to play.",
+    "confettichance.creeperconfetti.config": "Confetti Chance",
+    "confettichance.creeperconfetti.config.tooltip": "The percent chance for a Creeper to explode into confetti.",
+    "creeperconfetti.config.title": "Creeper Confetti Configuration",
+    "creeperconfetti.subtitle.confetti": "Confetti Sounds",
+    "damageplayers.creeperconfetti.config": "Damages Player",
+    "damageplayers.creeperconfetti.config.tooltip": "Set to true if you still want Creepers to damage players."
+}

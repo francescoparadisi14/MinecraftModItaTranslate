@@ -1,0 +1,17 @@
+{
+    "block.snuffles.frosty_fluff": "Peluria gelida",
+    "block.snuffles.frosty_fluff_carpet": "Tappeto di peluria gelida",
+    "block.snuffles.snuffle_fluff": "Peluria di snuffle",
+    "block.snuffles.snuffle_fluff_carpet": "Tappeto di peluria di snuffle",
+    "entity.snuffles.snuffle": "Snuffle",
+    "item.snuffles.snuffle_spawn_egg": "Uovo generatore di snuffle",
+    "snuffles.subtitles.block.frosty_fluff.thaw": "Peluria si scongela",
+    "snuffles.subtitles.entity.snuffle.ambient": "Snuffle annusa",
+    "snuffles.subtitles.entity.snuffle.death": "Snuffle muore",
+    "snuffles.subtitles.entity.snuffle.eat": "Snuffle succhia",
+    "snuffles.subtitles.entity.snuffle.hurt": "Snuffle ferito",
+    "snuffles.subtitles.entity.snuffle.shake": "Snuffle trema",
+    "snuffles.subtitles.entity.snuffle.step": "Passi di snuffle",
+    "snuffles.subtitles.entity.snuffle.style": "Palla di slime fa ciac ciac",
+    "snuffles.subtitles.entity.snuffle.thaw": "Snuffle si scongela"
+}

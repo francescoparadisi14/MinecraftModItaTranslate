@@ -1,0 +1,9 @@
+{
+    "gui.translocators.filter": "Filtro",
+    "gui.translocators.regulate": "Regolatore",
+    "item.translocators.diamond_nugget": "Pepita di diamante",
+    "item.translocators.fluid_translocator": "Translocatore di liquidi",
+    "item.translocators.item_translocator": "Translocatore di oggetti",
+    "key.craftingGrid": "Griglia di fabbricazione",
+    "tile.craftingGrid.name": "Griglia di fabbricazione"
+}

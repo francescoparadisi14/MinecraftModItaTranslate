@@ -1,0 +1,21 @@
+{
+    "block.trofers.trophy": "Trofeo",
+    "message.trofers.reward_cooldown": "Prossima ricompensa disponibile in %s",
+    "text.autoconfig.trofers.option.general.enableAdvancementDrops": "Abilita cadute di avanzamento",
+    "text.autoconfig.trofers.option.general.enableAdvancementDrops.@Tooltip": "Sei sicuro di voler premiare i trofei quando vengono raggiunti specifiche conquiste (attualmente non utilizzato)?",
+    "text.autoconfig.trofers.option.general.enableTrophyEffects": "Abilita effetti trofei",
+    "text.autoconfig.trofers.option.general.enableTrophyEffects.@Tooltip": "Se i trofei possono applicare effetti di pozioni quando si clicca destro.",
+    "text.autoconfig.trofers.option.general.enableTrophyLoot": "Abilita il bottino dei trofei",
+    "text.autoconfig.trofers.option.general.enableTrophyLoot.@Tooltip": "Se i trofei possono rilasciare bottini quando si clicca destro.",
+    "text.autoconfig.trofers.option.general.trophyChance": "Possibilità di trofeo",
+    "text.autoconfig.trofers.option.general.trophyChance.@Tooltip": "La probabilità che un entità lasci un trofeo quando viene uccisa",
+    "text.autoconfig.trofers.title": "Configurazione trofers",
+    "time.trofers.hour": "1 ora",
+    "time.trofers.hours": "%s ore",
+    "time.trofers.minute": "1 minuto",
+    "time.trofers.minutes": "%s minuti",
+    "time.trofers.second": "1 secondo",
+    "time.trofers.seconds": "%s secondi",
+    "trofers.creative_tab": "Trofers",
+    "trophy.trofers.composed": "Trofeo %s"
+}

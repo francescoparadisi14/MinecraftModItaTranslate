@@ -1,0 +1,22 @@
+{
+    "botania.page.flowers0": "Seeds can be crafted to grow $(thing)16$(0) differently colored $(item)Mystical Flowers$(0). $(p)These flowers can also be grown with $(item)Floral Fertilizer$(0) (read on).",
+    "botania.page.flowers18": "There're also some taller variants of the typical $(item)Mystical Flowers$(0). These can be plucked for twice the petals a normal flower would yield.",
+    "botania.page.mushrooms0": "Sprinkling some $(item)Petals$(0) on a $(item)Mushrooms$(0) seems to mutate the latter. The $(item)Mushroom$(0) changes shape, takes on the color of the Petal, and glows dimly; in addition, it's usable as a substitute $(l:basics\/flowers)$(item)Mystical Petal$(0)$(\/l).",
+    "item.botania_seeds.black_mystical_flower_seed": "Mystical Black Flower Seed",
+    "item.botania_seeds.blue_mystical_flower_seed": "Mystical Blue Flower Seed",
+    "item.botania_seeds.brown_mystical_flower_seed": "Mystical Brown Flower Seed",
+    "item.botania_seeds.cyan_mystical_flower_seed": "Mystical Cyan Flower Seed",
+    "item.botania_seeds.gray_mystical_flower_seed": "Mystical Gray Flower Seed",
+    "item.botania_seeds.green_mystical_flower_seed": "Mystical Green Flower Seed",
+    "item.botania_seeds.light_blue_mystical_flower_seed": "Mystical Light Blue Flower Seed",
+    "item.botania_seeds.light_gray_mystical_flower_seed": "Mystical Light Gray Flower Seed",
+    "item.botania_seeds.lime_mystical_flower_seed": "Mystical Lime Flower Seed",
+    "item.botania_seeds.magenta_mystical_flower_seed": "Mystical Magenta Flower Seed",
+    "item.botania_seeds.orange_mystical_flower_seed": "Mystical Orange Flower Seed",
+    "item.botania_seeds.pink_mystical_flower_seed": "Mystical Pink Flower Seed",
+    "item.botania_seeds.purple_mystical_flower_seed": "Mystical Purple Flower Seed",
+    "item.botania_seeds.red_mystical_flower_seed": "Mystical Red Flower Seed",
+    "item.botania_seeds.white_mystical_flower_seed": "Mystical White Flower Seed",
+    "item.botania_seeds.yellow_mystical_flower_seed": "Mystical Yellow Flower Seed",
+    "itemGroup.botania_seeds": "Botania Seeds"
+}

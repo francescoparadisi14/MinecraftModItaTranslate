@@ -1,0 +1,9 @@
+{
+    "block.croptania.cropnolia": "Cropnolia",
+    "block.croptania.floating_cropnolia": "Floating Cropnolia",
+    "croptania.entry.cropnolia": "Cropnolia",
+    "croptania.page.cropnolia0": "A curiously herbivorous flower, the $(item)Cropnolia$(0) dissolves the natural energy of $(thing)Crops$(0) around it into $(thing)Mana$(0), turning them back to their base form. Crops that take longer to grow such as $(thing)Wheat$(0) produce exponentially more $(thing)Mana$(0) than their faster counterparts.",
+    "croptania.page.cropnolia1": "$(o)Hide it in my... sock? (sock)$()",
+    "croptania.tagline.cropnolia": "Mana Muncher",
+    "itemGroup.croptania": "Croptania"
+}

@@ -1,0 +1,11 @@
+{
+    "attribute.shippingbin.crop_sell_multiplier": "Crop Sell Multiplier",
+    "attribute.shippingbin.gem_sell_multiplier": "Gem Sell Multiplier",
+    "attribute.shippingbin.meat_sell_multiplier": "Meat Sell Multiplier",
+    "attribute.shippingbin.sell_multiplier": "Sell Multiplier",
+    "attribute.shippingbin.wood_sell_multiplier": "Wood Sell Multiplier",
+    "block.shippingbin.shipping_bin": "Shipping Bin",
+    "category.shippingbin.trading": "Trading",
+    "category.shippingbin.trading.attribute": "Bonus: %s",
+    "shippingbin.toast.trade": "Sold %s %s for %s %s"
+}

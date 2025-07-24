@@ -1,0 +1,9 @@
+{
+    "block.sawmill.sawmill": "Asse",
+    "container.sawmill.sawmill": "Asse",
+    "entity.minecraft.villager.carpenter": "Carpentiere",
+    "entity.minecraft.villager.sawmill.carpenter": "Carpentiere",
+    "sawmill.category.wood_cutting": "Taglio legno",
+    "subtitles.sawmill.entity.villager.work_carpenter": "L'operario dei mobili lavora",
+    "subtitles.sawmill.ui.sawmill.take_result": "Sommersaio utilizzato"
+}

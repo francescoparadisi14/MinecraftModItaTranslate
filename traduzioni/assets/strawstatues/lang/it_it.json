@@ -1,0 +1,18 @@
+{
+    "entity.strawstatues.straw_statue": "Statua di paglia",
+    "item.strawstatues.straw_statue": "Statua di paglia",
+    "item.strawstatues.straw_statue.named": "Statua di %s",
+    "screen.style.strawstatues.crouching": "In ginocchio",
+    "screen.style.strawstatues.crouching.description": "Fà mostrare lo statua come se fosse inginocchiata.",
+    "screen.style.strawstatues.slim_arms": "Braccia sottili",
+    "screen.style.strawstatues.slim_arms.description": "rende le braccia della statua un po' meno larghe, come la pelle di Alex del Minecraft.",
+    "screen.type.strawstatues.model_parts": "Parti del modello",
+    "screen.type.strawstatues.position": "Posizione",
+    "screen.type.strawstatues.scale": "Scala e rotazioni",
+    "statuemenus.screen.rotations.pose.cape": "Cappello",
+    "strawstatues.screen.modelParts.name": "Imposta un nome di giocatore per prendere la pelle della statua.",
+    "strawstatues.screen.modelParts.refreshSkin": "Non è stato trovato alcun skin per la statua. Clicca per provare di nuovo.",
+    "strawstatues.screen.position.rotationX": "Rotazione X:",
+    "strawstatues.screen.position.rotationY": "Rotazione Y:",
+    "strawstatues.screen.position.rotationZ": "Rotazione Z:"
+}

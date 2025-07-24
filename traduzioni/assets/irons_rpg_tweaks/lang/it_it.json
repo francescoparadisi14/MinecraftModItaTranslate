@@ -1,0 +1,21 @@
+{
+    "effect.irons_rpg_tweaks.drowsy": "Sonno",
+    "effect.irons_rpg_tweaks.drowsy.description": "concede l'abilità di dormire",
+    "entity.irons_rpg_tweaks.xp_catalyst": "Catalizzatore XP",
+    "item.irons_rpg_tweaks.identification_scroll": "Rotolo di identificazione",
+    "item.irons_rpg_tweaks.identification_scroll.description": "Usa su oggetto non identificato nel tuo inventario",
+    "item.minecraft.lingering_potion.effect.drowsy": "Polvere sonnambula persistente",
+    "item.minecraft.potion.effect.drowsy": "Siero del sonno",
+    "item.minecraft.splash_potion.effect.drowsy": "Pozione di sonnolenza",
+    "ui.irons_rpg_tweaks.bed_tooltip": "Deve essere influenzato dalla sonnolenza per dormire.",
+    "ui.irons_rpg_tweaks.enchanting_table_error.disabled": "Le tavole di incantesimi sono disabilitate.",
+    "ui.irons_rpg_tweaks.enchanting_table_error.identified": "Questo oggetto è già stato identificato.",
+    "ui.irons_rpg_tweaks.enchanting_table_error.unenchanted": "Questo oggetto non è incantato.",
+    "ui.irons_rpg_tweaks.enchanting_table_success": "%s identificato.",
+    "ui.irons_rpg_tweaks.item_broken": "%s si è rotto!",
+    "ui.irons_rpg_tweaks.item_damaged": "%s ha subito %d danni.",
+    "ui.irons_rpg_tweaks.item_damaged_critical": "%s ha preso %d danni e si trova alla durata critica!",
+    "ui.irons_rpg_tweaks.shift_tooltip": "[Clic shift+ per visualizzare la tooltip]",
+    "ui.irons_rpg_tweaks.sleep_failure": "Non sei stanco e non puoi dormire.",
+    "ui.irons_rpg_tweaks.xp_retrieve_error": "Questo catalizzatore XP non ti appartiene."
+}

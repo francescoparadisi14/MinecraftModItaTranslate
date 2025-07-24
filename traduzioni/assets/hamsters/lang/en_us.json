@@ -1,0 +1,22 @@
+{
+    "block.hamsters.hamster_wheel": "Hamster Wheel",
+    "block.hamsters.tunnel": "Tunnel",
+    "entity.hamsters.hamster": "Hamster",
+    "hamsters.subtitles.hamster.ambient": "Hamster squeaks",
+    "hamsters.subtitles.hamster.beg": "Hamster begs",
+    "hamsters.subtitles.hamster.death": "Hamster dies",
+    "hamsters.subtitles.hamster.hurt": "Hamster hurts",
+    "item.hamsters.hamster": "Hamster",
+    "item.hamsters.hamster_spawn_egg": "Hamster Spawn Egg",
+    "item.hamsters.hamsters": "Hamsters",
+    "itemGroup.hamsters.tab": "Hamsters",
+    "tooltip.hamsters.baby": "Baby",
+    "tooltip.hamsters.black": "Black",
+    "tooltip.hamsters.black_white": "Black White",
+    "tooltip.hamsters.brown": "Brown",
+    "tooltip.hamsters.grey_white": "Grey White",
+    "tooltip.hamsters.orange": "Orange",
+    "tooltip.hamsters.peaches_and_cream": "Peaches and Cream",
+    "tooltip.hamsters.tamed": "Tamed",
+    "tooltip.hamsters.white": "White"
+}

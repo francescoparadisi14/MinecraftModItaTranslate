@@ -1,0 +1,15 @@
+{
+    "crafting_on_a_stick.key.open_curios": "Apri crafting on a stick",
+    "curios.identifier.crafting_on_a_stick": "Crafting su un bastone",
+    "gui.crafting_on_a_stick.prefix": "Crafting on a Stick",
+    "gui.crafting_on_a_stick.suffix": "con bastone",
+    "item.crafting_on_a_stick.anvil": "%1$s su %2$s con %3$s",
+    "item.crafting_on_a_stick.cartography_table": "Tavola di cartografia %1$s con %2$s e %3$s",
+    "item.crafting_on_a_stick.chipped_anvil": "Anzolo lavorante con martello danneggiato: %1$s%2$s%3$s",
+    "item.crafting_on_a_stick.crafting_table": "Tavola di lavorazione %1$s con %2$s e %3$s",
+    "item.crafting_on_a_stick.damaged_anvil": "Anzolo danneggiato da %1$s con %2$s su %3$s",
+    "item.crafting_on_a_stick.grindstone": "Grinatura di %1$s con %2$s su %3$s",
+    "item.crafting_on_a_stick.loom": "%1$s (telare) %2$s %3$s",
+    "item.crafting_on_a_stick.smithing_table": "Tavola da fabbro per %1$s con %2$s e %3$s",
+    "item.crafting_on_a_stick.stonecutter": "Fabbricatore di pietra %1$s con %2$s e %3$s"
+}

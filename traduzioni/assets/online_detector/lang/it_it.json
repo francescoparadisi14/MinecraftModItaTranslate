@@ -1,0 +1,19 @@
+{
+    "_comment": "Blocks",
+    "_comment1": "GUI",
+    "_comment2": "Config",
+    "block.online_detector.advanced_online_detector": "Tracciatore di giocatori online avanzato",
+    "block.online_detector.online_detector": "Tracciatore di giocatori online",
+    "gui.online_detector.advanced_online_detector": "Tracciatore di giocatori online avanzato",
+    "gui.online_detector.available": "Giocatori tracciabili:",
+    "gui.online_detector.tracking": "Giocatore attualmente traccianto:",
+    "text.autoconfig.online_detector.category.client": "Client",
+    "text.autoconfig.online_detector.category.common": "Comuni",
+    "text.autoconfig.online_detector.option.ODClientConfig.shouldShowPortalParticles": "Visibilità particelle del Portle",
+    "text.autoconfig.online_detector.option.ODClientConfig.shouldShowPortalParticles.@PrefixText": "Visibilità particelle del Portle quando il tracciatore è attivo",
+    "text.autoconfig.online_detector.option.ODClientConfig.shouldShowRedstoneParticles": "Visibilità particelle di Redstone",
+    "text.autoconfig.online_detector.option.ODClientConfig.shouldShowRedstoneParticles.@PrefixText": "Visibilità particelle di Redstone quando il tracciatore è attivo",
+    "text.autoconfig.online_detector.option.ODCommonConfig.onlineCheckFrequency": "Frequenza Controllo Online",
+    "text.autoconfig.online_detector.option.ODCommonConfig.onlineCheckFrequency.@PrefixText": "Ogni quanto il tracciatore di giocatori online dovrebbe controllare se il giocatore bersaglio è online, questo valore è espresso in tick (20 tick sono 1 secondo), è sconsigliato impostare un valore minore di 20",
+    "text.autoconfig.online_detector.title": "Impostazioni tracciatore di giocatori online"
+}

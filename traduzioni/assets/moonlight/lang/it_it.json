@@ -1,0 +1,14 @@
+{
+    "fluid.moonlight.generic_fluid": "Fluida senza nome",
+    "gui.moonlight.open_mod_page": "Apri pagina CurseForge di %s",
+    "item.minecraft.potion_lingering": "Pozione persistente",
+    "item.minecraft.potion_splash": "Pozione di splendore",
+    "leaves_type.twilightforest.dark": "legno oscuro",
+    "leaves_type.ulterlands.souldrained": "Pietrificato",
+    "message.moonlight.anti_repost": "Sembrerebbe che hai scaricato %1$s da un sito malizioso :( ottieni la versione reale %2$s.",
+    "message.moonlight.anti_repost_link": "qui",
+    "tag.block.minecraft.mineable.shear": "Sfrondabile con forbici",
+    "tag.block.moonlight.non_recolorable": "Non ricolorabile",
+    "tag.item.moonlight.non_recolorable": "Non ricolorabile",
+    "wood_type.twilightforest.dark": "Legno oscuro"
+}

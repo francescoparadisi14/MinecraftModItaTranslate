@@ -1,0 +1,11 @@
+{
+    "entity.snowpig.snow_pig": "Cinghiale di neve",
+    "item.snowpig.frozen_ham": "Prosciutto congelato",
+    "item.snowpig.frozen_porkchop": "Porcetto congelato",
+    "item.snowpig.music_disc_frosty_snig": "Disco musicale",
+    "item.snowpig.snow_pig_spawn_egg": "Uovo di nascita del maiale della neve",
+    "jukebox_song.snowpig.frosty_snig": "Luz - Frosty Snig",
+    "subtitles.entity.snow_pig.ambient": "Il maiale di neve grugnisce",
+    "subtitles.entity.snow_pig.death": "Il maiale di neve muore",
+    "subtitles.entity.snow_pig.hurt": "Il maiale di neve si ferisce"
+}

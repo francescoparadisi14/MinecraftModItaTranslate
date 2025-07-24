@@ -1,0 +1,21 @@
+{
+    "block.create_mechanical_extruder.mechanical_extruder": "Estensore meccanico",
+    "create_mechanical_extruder.goggles.bonks": "%1$s colpi con gli occhiali",
+    "create_mechanical_extruder.goggles.recipe_requirement.biome": "Bioma non corretto",
+    "create_mechanical_extruder.goggles.recipe_requirement.ingredients": "Ingredienti mancanti",
+    "create_mechanical_extruder.goggles.recipe_requirement.max_height": "Troppo alto",
+    "create_mechanical_extruder.goggles.recipe_requirement.min_height": "Troppo basso",
+    "create_mechanical_extruder.goggles.recipe_requirement.min_speed": "Velocità insufficiente",
+    "create_mechanical_extruder.goggles.recipe_requirement.output": "Uscita completa o incompatibile",
+    "create_mechanical_extruder.ponder.extruder.header": "Generazione di blocchi",
+    "create_mechanical_extruder.ponder.extruder.text_1": "L'estruttore utilizza forza rotazionale per generare blocchi.",
+    "create_mechanical_extruder.ponder.extruder.text_2": "La generazione dipende dai blocchi laterali e quelli sopra.",
+    "create_mechanical_extruder.ponder.extruder.text_3": "Quando il processo è completato, il risultato può essere ottenuto mediante click destro.",
+    "create_mechanical_extruder.ponder.extruder.text_4": "I output possono anche essere estratti da automazione",
+    "create_mechanical_extruder.ponder.extruder.text_5": "Quando una combinazione di ingredienti ha più possibili esiti, il filtro slot può specificare ciò.",
+    "create_mechanical_extruder.recipe.extruding": "Ricetta di estrusione meccanica",
+    "create_mechanical_extruder.ui.recipe_requirement.max_height": "Altezza massima: %s",
+    "create_mechanical_extruder.ui.recipe_requirement.min_height": "Altezza minima: %s",
+    "create_mechanical_extruder.ui.recipe_requirement.min_speed": "Velocità minima: %s",
+    "itemGroup.create_mechanical_extruder:main": "Creare estrusore meccanico"
+}

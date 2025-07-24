@@ -1,0 +1,11 @@
+{
+    "attribute.shippingbin.crop_sell_multiplier": "Multiplatore di vendita per colture",
+    "attribute.shippingbin.gem_sell_multiplier": "Multiplatore di vendita dei gemme",
+    "attribute.shippingbin.meat_sell_multiplier": "Multiplatore di vendita carne",
+    "attribute.shippingbin.sell_multiplier": "Multiplatore di vendita",
+    "attribute.shippingbin.wood_sell_multiplier": "Multiplatore di vendita del legno",
+    "block.shippingbin.shipping_bin": "Cassetto di spedizione",
+    "category.shippingbin.trading": "Scambio",
+    "category.shippingbin.trading.attribute": "Aggiunta: %s",
+    "shippingbin.toast.trade": "Venduto %s %s per %s %s"
+}
