@@ -1251,6 +1251,7 @@
     "tooltip.oritech.portable_laser.5": "Works with most pickaxe enchantments, unbreaking, and sharpness.",
     "tooltip.oritech.portable_laser.status.begin": "Mining Mode:",
     "tooltip.oritech.portable_laser.status.hint": "(Sneak + Right-Click to toggle)",
+    "tooltip.oritech.portable_laser.status.shot_mining_error": "No shot fired, mining mode is enabled.",
     "tooltip.oritech.processing_addon_desc": "Allows an additional recipe instance to be processed per cycle.",
     "tooltip.oritech.progress_indicator": "%d \/ %d ticks\n(base %d ticks)",
     "tooltip.oritech.promethium_axe": "Sneak while harvesting to break the entire tree",
