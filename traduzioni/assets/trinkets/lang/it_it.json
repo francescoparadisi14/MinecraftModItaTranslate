@@ -1,0 +1,20 @@
+{
+    "trinkets.slot.chest.back": "Indietro",
+    "trinkets.slot.chest.cape": "Cappello",
+    "trinkets.slot.chest.necklace": "Collare",
+    "trinkets.slot.feet.aglet": "Aggancio",
+    "trinkets.slot.feet.shoes": "Stivali",
+    "trinkets.slot.hand.glove": "Guanto",
+    "trinkets.slot.hand.ring": "Anello",
+    "trinkets.slot.head.face": "Faccia",
+    "trinkets.slot.head.hat": "Cappello",
+    "trinkets.slot.legs.belt": "Cintura",
+    "trinkets.slot.offhand.glove": "Guanto",
+    "trinkets.slot.offhand.ring": "Anello",
+    "trinkets.tooltip.attributes.all": "attributi quando indossato:",
+    "trinkets.tooltip.attributes.single": "quando indossato nel slot di trinket numero %d:",
+    "trinkets.tooltip.attributes.slots": "Sedi %d",
+    "trinkets.tooltip.slots.any": "Equipabile in qualsiasi slot di bracciale",
+    "trinkets.tooltip.slots.list": "Posizionabile nei slot degli oggetti del trucco:",
+    "trinkets.tooltip.slots.single": "Equipabile nel slot di trinket n. %d"
+}

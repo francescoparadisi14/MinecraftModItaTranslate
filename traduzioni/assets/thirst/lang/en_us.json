@@ -1,0 +1,22 @@
+{
+    "block.thirst.sand_filter": "Sand Filter",
+    "command.thirst.disable": "Disable tick Thirst for %1$s",
+    "command.thirst.enable": "Enable tick Thirst for %1$s",
+    "command.thirst.query": "Current Thirst: %1$s, Current Quenched: %2$s",
+    "command.thirst.set": "set thirst to %1$s, set quenched to %2$s",
+    "death.attack.dehydrate": "%1$s died from dehydration",
+    "death.attack.dehydrate.player": "%1$s died from dehydration while fighting %2$s",
+    "item.thirst.clay_bowl": "Clay Bowl",
+    "item.thirst.terracotta_bowl": "Terracotta Bowl",
+    "item.thirst.terracotta_water_bowl": "Terracotta Water Bowl",
+    "item.thirst.wooden_water_bowl": "Wooden Water Bowl",
+    "itemGroup.thirst": "Thirst was Taken",
+    "thirst.ponder.sand_filter.header": "Purifying Water with a Sand Filter",
+    "thirst.ponder.sand_filter.text_1": "A Sand Filter purifies by one step water pumped through it",
+    "thirst.ponder.sand_filter.text_2": "Dirty Water needs to be pumped in from the top...",
+    "thirst.ponder.sand_filter.text_3": "and Purified Water can be pumped out from the bottom",
+    "thirst.purity.acceptable": "Acceptable",
+    "thirst.purity.dirty": "Dirty",
+    "thirst.purity.purified": "Purified",
+    "thirst.purity.slightly_dirty": "Slightly Dirty"
+}

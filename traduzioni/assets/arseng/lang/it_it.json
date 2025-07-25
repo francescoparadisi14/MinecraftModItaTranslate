@@ -1,0 +1,22 @@
+{
+    "arseng.page.source_acceptor": "Il convertitore di fonte ME converte la fonte in energia AE. Attaccalo a una rete ME e alimentala con un relais.",
+    "arseng.page.source_acceptor_description": "Il convertitore di fonte è disponibile in forma di parte blocco e cavo.",
+    "arseng.page.source_cell_housing": "I contenitori di origine possono essere creati con un contenitore di abitazione per origini ME. Raccoglieranno molti recipienti di origine.",
+    "block.arseng.source_acceptor": "Convertitore di fonti per me",
+    "item.arseng.cable_source_acceptor": "Accettore di sorgente me",
+    "item.arseng.creative_source_cell": "Cella di origine creativa",
+    "item.arseng.portable_source_cell_16k": "Cella di origine portatile da 16k",
+    "item.arseng.portable_source_cell_1k": "Cella di origine portatile da 1k",
+    "item.arseng.portable_source_cell_256k": "Cella di origine portatile da 256k",
+    "item.arseng.portable_source_cell_4k": "Cella di origine portatile da 4k",
+    "item.arseng.portable_source_cell_64k": "Cella di origine portatile da 64k",
+    "item.arseng.source_cell_housing": "Alloggio cellulare di origine me",
+    "item.arseng.source_p2p_tunnel": "Canale P2P di origine me",
+    "item.arseng.source_storage_cell_16k": "Cella di archiviazione di origine 16k ME",
+    "item.arseng.source_storage_cell_1k": "Cella di archiviazione fonte 1k ME",
+    "item.arseng.source_storage_cell_256k": "Cella di archiviazione di origine da 256k ME",
+    "item.arseng.source_storage_cell_4k": "Cella di archiviazione fonte 4k me",
+    "item.arseng.source_storage_cell_64k": "Cella di archiviazione di origine da 64k ME",
+    "item.arseng.spell_p2p_tunnel": "Incantesimo me spell p2p tunnel",
+    "itemGroup.arseng": "Gruppo di oggetti ars Énergistique"
+}

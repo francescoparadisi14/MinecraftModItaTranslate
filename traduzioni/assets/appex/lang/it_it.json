@@ -1,0 +1,23 @@
+{
+    "appex.gui.element.experience.tooltip": "%s \/ %s",
+    "appex.item.converter.tooltip": "Indicatore: %s XP accumulato",
+    "block.appex.experience_acceptor": "Accettatore di esperienze per me",
+    "block.appex.experience_converter": "Convertitore di esperienza",
+    "gui.appex.experience_converter": "Convertitore di esperienza",
+    "item.appex.experience_cell_housing": "Alloggio cellulare esperienza me",
+    "item.appex.experience_p2p_tunnel": "Tunnel di esperienza P2P",
+    "item.appex.experience_storage_cell_16k": "Cella di archiviazione esperienza da 16k ME",
+    "item.appex.experience_storage_cell_1k": "Cella di archiviazione esperienza ME da 1k",
+    "item.appex.experience_storage_cell_256k": "Cella di archiviazione esperienza da 256k ME",
+    "item.appex.experience_storage_cell_4k": "Cella di archiviazione esperienza ME 4k",
+    "item.appex.experience_storage_cell_64k": "Cella di archiviazione esperienza da 64k ME",
+    "item.appex.portable_experience_cell_16k": "Cella di esperienza portatile da 16k",
+    "item.appex.portable_experience_cell_1k": "Cella di esperienza portatile da 1k",
+    "item.appex.portable_experience_cell_256k": "Cella di esperienza portatile da 256k",
+    "item.appex.portable_experience_cell_4k": "Cella di esperienza portatile 4K",
+    "item.appex.portable_experience_cell_64k": "Cella di esperienza portatile da 64k",
+    "text.appex.creative_tab": "Tabella esperienze applicate",
+    "text.appex.experience": "Esperienza",
+    "text.appex.experience_button.extract": "Estrai: %s %s",
+    "text.appex.experience_button.insert": "Inserisci: %s %s"
+}

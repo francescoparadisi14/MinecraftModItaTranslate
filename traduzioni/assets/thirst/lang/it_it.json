@@ -1,0 +1,22 @@
+{
+    "block.thirst.sand_filter": "Filtro sabbia",
+    "command.thirst.disable": "Disabilita il conteggio sete per %1$s",
+    "command.thirst.enable": "Abilita il conteggio sete per %1$s",
+    "command.thirst.query": "Sete attuale: %1$s, sete saziata attuale: %2$s",
+    "command.thirst.set": "Imposta la sete a %1$s, imposta saziato a %2$s",
+    "death.attack.dehydrate": "%1$s è morto per disidratazione",
+    "death.attack.dehydrate.player": "%1$s è morto per disidratazione mentre combatteva contro %2$s",
+    "item.thirst.clay_bowl": "Tazza di argilla",
+    "item.thirst.terracotta_bowl": "Bicchiere di terra cotta",
+    "item.thirst.terracotta_water_bowl": "Boccale d'acqua di terracotta",
+    "item.thirst.wooden_water_bowl": "Boccale d'acqua di legno",
+    "itemGroup.thirst": "Sete assorbita",
+    "thirst.ponder.sand_filter.header": "Purificazione dell'acqua con un filtro di sabbia",
+    "thirst.ponder.sand_filter.text_1": "Un filtro di sabbia purifica l'acqua pompata attraverso di esso in un passaggio.",
+    "thirst.ponder.sand_filter.text_2": "L'acqua sporca deve essere pompata dal vertice...",
+    "thirst.ponder.sand_filter.text_3": "e l'acqua purificata può essere pompata fuori dal fondo",
+    "thirst.purity.acceptable": "Accettabile",
+    "thirst.purity.dirty": "sporco",
+    "thirst.purity.purified": "Purificato",
+    "thirst.purity.slightly_dirty": "Leggermente sporco"
+}

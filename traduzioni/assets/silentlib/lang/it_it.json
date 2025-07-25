@@ -1,0 +1,7 @@
+{
+    "command.silentlib.nbt.noItemInHand": "Nessun oggetto nella mano principale",
+    "command.silentlib.nbt.noItemTag": "%s non ha etichetta NBT",
+    "command.silentlib.nbt.notBlockEntity": "\"%s\" non è un'entità di blocco.",
+    "item.silentlib.lootContainer.itemReceived": "ricevuto: %dx %s",
+    "item.silentlib.lootContainer.table": "Tavola di sorte: %s"
+}

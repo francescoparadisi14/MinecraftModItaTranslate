@@ -1,0 +1,14 @@
+{
+    "block.pineapple_delight.pineapple_crop": "Coltura di ananas",
+    "block.pineapple_delight.pineapple_pie": "Torta di ananas",
+    "block.pineapple_delight.pineapple_wild_crop": "Coltura di ananas selvatica",
+    "item.pineapple_delight.pineapple": "Ananas",
+    "item.pineapple_delight.pineapple_crate": "Cassetto di ananas",
+    "item.pineapple_delight.pineapple_fried_rice": "Riso fritto con ananas",
+    "item.pineapple_delight.pineapple_ice_cream": "Gelato di ananas",
+    "item.pineapple_delight.pineapple_juice": "Succo di ananas",
+    "item.pineapple_delight.pineapple_milk_shake": "Shake di latte alla ananas",
+    "item.pineapple_delight.pineapple_pie_side": "Fetta di torta di ananas",
+    "item.pineapple_delight.pineapple_side": "Lati di ananas",
+    "itemGroup.pineapple": "Delizioso ananas"
+}
