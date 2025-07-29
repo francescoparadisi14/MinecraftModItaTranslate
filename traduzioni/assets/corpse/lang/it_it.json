@@ -1,0 +1,22 @@
+{
+    "button.corpse.additional_items": "Oggetti aggiuntivi",
+    "button.corpse.next": "Avanti",
+    "button.corpse.previous": "Indietro",
+    "button.corpse.show_items": "Oggetti",
+    "button.corpse.transfer_items": "Trasferisci oggetti",
+    "chat.corpse.teleport_death_location": "Teletrasporta alla posizione di morte %s",
+    "config.jade.plugin_corpse.corpse": "Cadavere",
+    "entity.corpse.corpse": "Cadavere",
+    "entity.corpse.corpse_of": "Cadavere di %s",
+    "gui.corpse.death_history.date_format": "yyyy\/MM\/dd HH:mm:ss",
+    "gui.corpse.death_history.dimension": "Dimensione",
+    "gui.corpse.death_history.location": "Posizione",
+    "gui.corpse.death_history.name": "Nome",
+    "gui.corpse.death_history.title": "Cronologia di morti del giocatore",
+    "gui.corpse.page": "%s su %s",
+    "key.corpse.death_history": "Apri cronologia di morti del giocatore",
+    "message.corpse.no_death_history": "Cronologia di morti del giocatore vuota",
+    "tooltip.corpse.death_date": "Morto il %s",
+    "tooltip.corpse.item_count": "Contiene %s pila\/e",
+    "tooltip.corpse.teleport": "Teletrasporta"
+}

@@ -1,0 +1,15 @@
+{
+    "block.magnumtorch.amethyst_magnum_torch": "Amethyst Magnum Torch",
+    "block.magnumtorch.diamond_magnum_torch": "Diamond Magnum Torch",
+    "block.magnumtorch.emerald_magnum_torch": "Emerald Magnum Torch",
+    "block.magnumtorch.magnum_torch.tooltip.additional": "Hold %s for more information",
+    "block.magnumtorch.magnum_torch.tooltip.blacklist": "Blacklist: %s",
+    "block.magnumtorch.magnum_torch.tooltip.description": "Prevents mob spawns in a huge area.",
+    "block.magnumtorch.magnum_torch.tooltip.horizontal_range": "Horizontal Range: %s",
+    "block.magnumtorch.magnum_torch.tooltip.mob_types": "Mob Type(s): %s",
+    "block.magnumtorch.magnum_torch.tooltip.shape_type": "Shape Type: %s",
+    "block.magnumtorch.magnum_torch.tooltip.shift": "Shift",
+    "block.magnumtorch.magnum_torch.tooltip.vertical_range": "Vertical Range: %s",
+    "block.magnumtorch.magnum_torch.tooltip.whitelist": "Whitelist: %s",
+    "itemGroup.magnumtorch.main": "Magnum Torch"
+}

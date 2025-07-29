@@ -1,0 +1,5 @@
+{
+    "command.flib.help.config": "vedi le configurazioni sono in `",
+    "command.flib.help.info": "Questo è il comando dal coremod FutureLibrary. Questo modulo ha molte funzionalità Java per supportare i mod e sottocomandi per supportare progetti come i modpack.",
+    "command.flib.help.perms": "avrai bisogno di permessi di operatore per utilizzare altri sottocomandi"
+}

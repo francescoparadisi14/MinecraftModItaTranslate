@@ -1,0 +1,11 @@
+{
+    "container.enchant.experience.many": "%s Punti esperienza",
+    "container.enchant.experience.one": "1 Punto esperienza",
+    "container.enchant.reroll": "Cambia incantesimi",
+    "container.enchant.reroll.many": "%s frammenti di ametista",
+    "container.enchant.reroll.one": "Un frammento di ametista",
+    "container.invalidBlock": "Impossibile aprire. Rompi e sostituisci per utilizzare.",
+    "tag.block.easymagic.unaltered_enchanting_tables": "Tavoli incantatori non modificati",
+    "tag.item.easymagic.enchanting_catalysts": "Catalizzatori incantati",
+    "tag.item.easymagic.reroll_catalysts": "Ripristina catalizzatori"
+}

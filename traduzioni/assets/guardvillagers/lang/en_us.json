@@ -1,0 +1,17 @@
+{
+    "entity.guardvillagers.guard": "Guard",
+    "guardinventory.armor": "Armor: %s",
+    "guardinventory.health": "Health: %s",
+    "guardvillagers.advancements.adventure.recruit_guard.description": "Give a sword to an unemployed villager to help defend the village",
+    "guardvillagers.advancements.adventure.recruit_guard.title": "We Want You, as a New Recruit!",
+    "item.guardvillagers.guard_spawn_egg": "Guard Spawn Egg",
+    "item.guardvillagers.illusioner_spawn_egg": "Illusioner Spawn Egg",
+    "item.guardvillagers.iron_golem_spawn_egg": "Iron Golem Spawn Egg",
+    "item.guardvillagers.snow_golem_spawn_egg": "Snow Golem Spawn Egg",
+    "stat.guardvillagers.guards_made": "Guards made",
+    "subtitles.entity.guard.ambient": "Guard mumbles",
+    "subtitles.entity.guard.death": "Guard dies",
+    "subtitles.entity.guard.hurt": "Guard hurts",
+    "subtitles.entity.guard.no": "Guard disagrees",
+    "subtitles.entity.guard.yes": "Guard agrees"
+}

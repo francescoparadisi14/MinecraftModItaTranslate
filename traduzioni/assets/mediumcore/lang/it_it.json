@@ -1,0 +1,5 @@
+{
+    "gamerule.mediumcoreMode": "Modalità core media",
+    "selectWorld.gameMode.mediumcore": "mediumcore",
+    "selectWorld.gameMode.mediumcore.info": "Modalità di sopravvivenza con salute massima che diminuisce ogni volta che si perde una vita."
+}

@@ -1,0 +1,7 @@
+{
+    "despawntweaks.configuration.Structures": "Structures",
+    "despawntweaks.configuration.StructuresMods": "StructuresMods",
+    "despawntweaks.configuration.allowEquipmentDrops": "allowEquipmentDrops",
+    "despawntweaks.configuration.allowMobsSpawnedBySpawnersToDespawn": "allowMobsSpawnedBySpawnersToDespawn",
+    "despawntweaks.configuration.enableLetMeDespawnOptimization": "enableLetMeDespawnOptimization"
+}

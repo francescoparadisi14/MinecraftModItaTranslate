@@ -1,0 +1,10 @@
+{
+    "serverbrowser.button.favorite": "Favorite",
+    "serverbrowser.button.filter": "Filter Servers",
+    "serverbrowser.button.history": "History (WIP)",
+    "serverbrowser.button.next_page": "Next: %s",
+    "serverbrowser.button.prev_page": "Prev",
+    "serverbrowser.button.register": "Register Server",
+    "serverbrowser.error.unreachable_website": "Website could not be reached at the moment",
+    "serverbrowser.server.official": "Official"
+}

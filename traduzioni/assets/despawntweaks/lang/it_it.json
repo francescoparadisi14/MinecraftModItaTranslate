@@ -1,0 +1,7 @@
+{
+    "despawntweaks.configuration.Structures": "Strutture",
+    "despawntweaks.configuration.StructuresMods": "Modificatori di strutture",
+    "despawntweaks.configuration.allowEquipmentDrops": "Consenti perdite di equipaggiamento",
+    "despawntweaks.configuration.allowMobsSpawnedBySpawnersToDespawn": "Consenti ai mostri generati dai generatori di spawn a disapparire",
+    "despawntweaks.configuration.enableLetMeDespawnOptimization": "Abilita ottimizzazione despawn"
+}

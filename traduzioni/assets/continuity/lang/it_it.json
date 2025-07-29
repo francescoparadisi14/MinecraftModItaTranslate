@@ -1,0 +1,17 @@
+{
+    "options.continuity.connected_textures": "Testure connesse",
+    "options.continuity.connected_textures.tooltip": "Abilita o disabilita texture connesse per blocchi.",
+    "options.continuity.custom_block_layers": "Strati di blocchi personalizzati",
+    "options.continuity.custom_block_layers.tooltip": "Abilita o disabilita strati di blocchi personalizzati.",
+    "options.continuity.disable_ctm": "Disattiva CTM",
+    "options.continuity.disable_ctm.tooltip": "Disattiva completamente le texture connesse.",
+    "options.continuity.emissive_textures": "Testi emissivi",
+    "options.continuity.emissive_textures.tooltip": "Abilita o disabilita le texture emittenti per i modelli di blocchi e oggetti.",
+    "options.continuity.title": "Configurazione di Continuity",
+    "options.continuity.use_manual_culling": "Usa Culling Manuale",
+    "options.continuity.use_manual_culling.tooltip": "Migliora esponenzialmente le performance applicando solo CTM ai quad visibili, ma potrebbe causare problemi con alcune mod.",
+    "resourcePack.continuity.default.description": "Descrizione predefinita del pacchetto di risorse: vetro, arenaria, mensole dei libri",
+    "resourcePack.continuity.default.name": "Testi di connessione predefiniti",
+    "resourcePack.continuity.glass_pane_culling_fix.description": "Elimina facce tra pannelli di vetro",
+    "resourcePack.continuity.glass_pane_culling_fix.name": "Correzione del riduzione dei pannelli di vetro"
+}

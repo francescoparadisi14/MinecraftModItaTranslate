@@ -1,0 +1,13 @@
+{
+    "custom.goblintraders.lore": "Un oggetto speciale rielaborato dai Goblin con attributi migliorati",
+    "custom.goblintraders.moon_boots": "Stivali lunari",
+    "custom.goblintraders.mystery_map": "Carta misteriosa",
+    "custom.goblintraders.tuned": "Goblin regolato",
+    "entity.goblintraders.goblin_trader": "mercante gobbo",
+    "entity.goblintraders.vein_goblin_trader": "Commerciante gobbo di giacimento",
+    "item.goblintraders.goblin_trader_spawn_egg": "Uovo di generazione del commerciante gobbo",
+    "item.goblintraders.vein_goblin_trader_spawn_egg": "Uovo di generazione del commerciante gobbo di Vein",
+    "stat.goblintraders.trade_with_goblin": "Ha commerciato con gobli",
+    "subtitle.goblintraders.goblin_trader.annoyed_grunt": "brontolio irritato",
+    "subtitle.goblintraders.goblin_trader.idle_grunt": "brontolio di ozio"
+}

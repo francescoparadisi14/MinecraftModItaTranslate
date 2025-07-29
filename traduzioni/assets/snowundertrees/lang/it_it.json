@@ -1,0 +1,8 @@
+{
+    "snowundertrees.configuration.enable_biome_feature": "Abilita caratteristica bioma",
+    "snowundertrees.configuration.enable_biome_feature.tooltip": "Disabilita questo per non avere neve sotto gli alberi durante la generazione dei blocchi.",
+    "snowundertrees.configuration.enable_when_snowing": "Abilita quando nevica",
+    "snowundertrees.configuration.enable_when_snowing.tooltip": "Disabilita questo per evitare che la neve si accumuli sotto gli alberi mentre nevica.",
+    "snowundertrees.configuration.filtered_biomes": "Biomi filtrati",
+    "snowundertrees.configuration.filtered_biomes.tooltip": "Aggiungi qui gli ID di biome per esentare i biomi dall'influenza del modulo. Puoi trovare l'ID del biome nel quale ti trovi sulla schermata F3. Ad esempio, l'ID del biome delle pianure ha questo aspetto: minecraft:plains"
+}

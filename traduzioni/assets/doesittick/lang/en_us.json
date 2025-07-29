@@ -1,0 +1,4 @@
+{
+    "doesittick.warn.1": "Does It Tick is installed in this server. If you find your mob farm not working when you are far from it, try to use FTB Chunks \/ OPAC to claim the chunks of it. You can disable this message in Does It Tick's config",
+    "doesittick.warn.2": "Does It Tick is installed but FTB Chunks is not. If you find your mob farm not working when you are far from it, try to install FTB Chunks \/ OPAC and claim the chunks of it. You can disable this message in Does It Tick's config"
+}

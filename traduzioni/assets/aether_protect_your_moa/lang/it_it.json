@@ -1,0 +1,16 @@
+{
+    "item.aether_protect_your_moa.diamond_moa_armor": "Armadura di Moa in diamante",
+    "item.aether_protect_your_moa.golden_moa_armor": "Armadura di Moa d'oro",
+    "item.aether_protect_your_moa.gravitite_moa_armor": "Armadura del Moa di gravità",
+    "item.aether_protect_your_moa.iron_moa_armor": "Armadura di Moa d'acciaio",
+    "item.aether_protect_your_moa.leather_moa_armor": "Armadura di moa in pelle",
+    "item.aether_protect_your_moa.zanite_moa_armor": "Armadura di Moa Zanite",
+    "lore.item.aether_protect_your_moa.diamond_moa_armor": "Un pezzo di armatura in ferro per il tuo Moa da indossare, offrendo un'importante quantità di protezione.",
+    "lore.item.aether_protect_your_moa.golden_moa_armor": "Un pezzo di armatura d'oro per il tuo Moa da indossare, offrendo un buon quantitativo di protezione.",
+    "lore.item.aether_protect_your_moa.gravitite_moa_armor": "Un pezzo di armatura gravitite per il tuo Moa da indossare, offrendo una forte protezione e aumentando il numero di volte in cui può saltare.",
+    "lore.item.aether_protect_your_moa.iron_moa_armor": "Un pezzo di armatura in ferro per il tuo Moa da indossare, offrendo un certo grado di protezione.",
+    "lore.item.aether_protect_your_moa.leather_moa_armor": "Un pezzo di cuoio tinteggiabile per l'armatura del tuo Moa, che offre un piccolo quantitativo di protezione.",
+    "lore.item.aether_protect_your_moa.zanite_moa_armor": "Un pezzo di armatura in zanite per il tuo Moa da indossare, offrendo un certo grado di protezione.",
+    "pack.aether_protect_your_moa.mod.description": "Il vento: proteggi i tuoi risorse Moa",
+    "subtitles.aether_protect_your_moa.entity.moa.chest": "Il pettorale del Moa si equipaggia"
+}

@@ -1,0 +1,22 @@
+{
+    "block.spawnersplus.inactive_spawner": "Generatore inattivo",
+    "enchantment.spawnersplus.desc": "Consente a alcuni mostri di rilasciare anime alla morte",
+    "enchantment.spawnersplus.soul_stealing": "Assorbimento anime",
+    "item.spawnersplus.blaze_soul": "Anima di fiamma",
+    "item.spawnersplus.cave_spider_soul": "Anima di ragno delle grotte",
+    "item.spawnersplus.creeper_soul": "Anima di un'ape",
+    "item.spawnersplus.drowned_soul": "Anima sommersa",
+    "item.spawnersplus.husk_soul": "Anima di husk",
+    "item.spawnersplus.magma_cube_soul": "Anima di cubo magma",
+    "item.spawnersplus.silverfish_soul": "Anima di scarafaggio d'argento",
+    "item.spawnersplus.skeleton_soul": "Anima scheletro",
+    "item.spawnersplus.soul_item_tooltip": "Usa su un generatore inattivo",
+    "item.spawnersplus.spawner_fragment": "Frammento di spawn",
+    "item.spawnersplus.spawner_silencer": "Silenziatore di spawn",
+    "item.spawnersplus.spawner_silencer_tooltip": "Disabilita i generatori di mostri mentre è in possesso",
+    "item.spawnersplus.spider_soul": "Anima di ragno",
+    "item.spawnersplus.stray_soul": "Anima errante",
+    "item.spawnersplus.wither_skeleton_soul": "Anima scheletro del Maledetto",
+    "item.spawnersplus.zombie_soul": "Anima zombie",
+    "itemGroup.spawnersplus.itemGroupName": "Gruppo di oggetti Spawners+"
+}

@@ -1,0 +1,5 @@
+{
+    "block.netherchested.nether_chest": "Cassetto del Nether",
+    "block.netherchested.nether_chest.description": "Consente di memorizzare molti più oggetti in un solo slot rispetto a qualsiasi altra inventario.",
+    "container.nether_chest": "Cassetto dell'Inferno"
+}

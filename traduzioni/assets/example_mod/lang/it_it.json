@@ -1,4 +1,18 @@
 {
+    "blueprintfix.configuration.client": "Configurazione del client",
+    "blueprintfix.configuration.example": "Esempio",
+    "cerulean.configuration.client": "Configurazione client Cerulean",
+    "cerulean.configuration.example": "Esempio",
+    "earlybedtime.configuration.client": "Configurazione del client per Early Bedtime",
+    "earlybedtime.configuration.example": "Esempio",
     "example_mod.configuration.client": "Configurazione del client dell'esempio di modulo",
-    "example_mod.configuration.example": "Esempio"
+    "example_mod.configuration.example": "Esempio",
+    "immersivearmorhud.configuration.client": "Configurazione del client per l'armatura immersiva",
+    "immersivearmorhud.configuration.example": "Esempio",
+    "miningspeedtooltips.configuration.client": "Configurazione del client per la velocità di miniera",
+    "miningspeedtooltips.configuration.example": "Esempio",
+    "packanalytics.configuration.client": "Configurazione del client",
+    "packanalytics.configuration.example": "Esempio",
+    "sodiumoptionsmodcompat.configuration.client": "Configurazione del client Sodium Options Mod Compat",
+    "sodiumoptionsmodcompat.configuration.example": "Esempio"
 }

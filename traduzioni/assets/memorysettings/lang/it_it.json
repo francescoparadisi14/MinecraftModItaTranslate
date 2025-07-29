@@ -1,0 +1,10 @@
+{
+    "button.howto": "Apri la guida",
+    "button.stopremind": "Ferma di mostrare",
+    "warning.32bit": "Stai utilizzando Java 32 bit su un sistema 64 bit, per favore installa Java 64 bit.",
+    "warning.overrecommended": "Attenzione! Si è allocato più memoria (%s MB) del consigliato per il tuo sistema, il consiglio è di utilizzare %s MB.",
+    "warning.recommendedbelowmin": "Raccomandato %s per il tuo sistema è inferiore al minimo richiesto di %s MB per questo pacchetto. Potresti sperimentare problemi come stutture frequenti.",
+    "warning.toolow": "Attenzione! Si è allocata meno memoria (%s MB) del consigliato per questo pacchetto, il minimo consigliato è: %s MB. L'importo raccomandato per il tuo sistema è: %s MB.",
+    "warning.toomuch": "Troppo memoria allocata (%s MB), il massimo consigliato è di %s MB. L'importo raccomandato per il tuo sistema è di %s MB.",
+    "warning.underrecommended": "Attenzione! Si è allocata meno memoria (%s MB) del consigliato per il tuo sistema, il consiglio è di allocare almeno %s MB."
+}

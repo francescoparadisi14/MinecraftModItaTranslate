@@ -241,8 +241,6 @@
     "gui.sophisticatedcore.upgrades.pickup.tooltip": "Pickup Settings",
     "gui.sophisticatedcore.upgrades.pump": "Pump",
     "gui.sophisticatedcore.upgrades.pump.tooltip": "Pump",
-    "gui.sophisticatedcore.upgrades.sawmill": "Sawmill",
-    "gui.sophisticatedcore.upgrades.sawmill.tooltip": "Sawmill",
     "gui.sophisticatedcore.upgrades.slots.battery_input.tooltip": "Input",
     "gui.sophisticatedcore.upgrades.slots.battery_output.tooltip": "Output",
     "gui.sophisticatedcore.upgrades.slots.tank_input.tooltip": "Input",
@@ -274,8 +272,6 @@
     "item.sophisticatedcore.storage.tooltip.shift": "Left Shift",
     "item.sophisticatedcore.storage.tooltip.stack_multiplier": "Stack Size Multiplier: %s",
     "item.sophisticatedcore.storage.tooltip.upgrades": "Upgrades",
-    "item.sophisticatedcore.xp_bucket": "Bucket of Experience",
-    "itemGroup.sophisticatedcore": "Sophisticated Core",
     "upgrade_group.sophisticatedcore.cooking_upgrades": "Furnace Upgrades",
     "upgrade_group.sophisticatedcore.jukebox_upgrades": "Jukebox Upgrades",
     "upgrade_group.sophisticatedcore.stack_upgrades": "Stack Upgrades"

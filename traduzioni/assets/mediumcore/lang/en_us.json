@@ -1,0 +1,5 @@
+{
+    "gamerule.mediumcoreMode": "Mediumcore Mode",
+    "selectWorld.gameMode.mediumcore": "§eMediumcore§r",
+    "selectWorld.gameMode.mediumcore.info": "Survival mode with max health that decreases with every life lost."
+}

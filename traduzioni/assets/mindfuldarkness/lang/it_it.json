@@ -1,0 +1,13 @@
+{
+    "screen.daytime_switcher.algorithm": "Algoritmo di cambio giorno-notte",
+    "screen.daytime_switcher.algorithm.grayscale_and_hsl": "Grigio e HSL",
+    "screen.daytime_switcher.algorithm.grayscale_and_hsp": "Grigio e HSP",
+    "screen.daytime_switcher.algorithm.grayscale_and_linear": "Grigio e lineare",
+    "screen.daytime_switcher.algorithm.hsl": "Algoritmo HSL",
+    "screen.daytime_switcher.algorithm.hsp": "Algoritmo HSP",
+    "screen.daytime_switcher.algorithm.linear": "Lineare",
+    "screen.daytime_switcher.front_brightness": "Luminosità del carattere",
+    "screen.daytime_switcher.interface_darkness": "Ombrosità dell'interfaccia",
+    "screen.debug.identifier": "Identificatore dello schermo: %s",
+    "screen.debug.menuType": "Tipo di menu: %s"
+}

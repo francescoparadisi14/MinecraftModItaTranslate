@@ -1,0 +1,17 @@
+{
+    "entity.guardvillagers.guard": "Guardia",
+    "guardinventory.armor": "Armatura: %s",
+    "guardinventory.health": "Salute: %s",
+    "guardvillagers.advancements.adventure.recruit_guard.description": "Concedere una spada ad un villaggio disoccupato per aiutare a difendere il villaggio",
+    "guardvillagers.advancements.adventure.recruit_guard.title": "Ci vogliamo come nuovo recluta!",
+    "item.guardvillagers.guard_spawn_egg": "Uovo generatore di guardia",
+    "item.guardvillagers.illusioner_spawn_egg": "Uovo generatore di illusionista",
+    "item.guardvillagers.iron_golem_spawn_egg": "Uovo generatore di golem di ferro",
+    "item.guardvillagers.snow_golem_spawn_egg": "Uovo generatore di pupazzo di neve",
+    "stat.guardvillagers.guards_made": "Guardie create",
+    "subtitles.entity.guard.ambient": "Il guardiano borbotta",
+    "subtitles.entity.guard.death": "Il guardiano muore",
+    "subtitles.entity.guard.hurt": "Il guardiano si ferisce",
+    "subtitles.entity.guard.no": "Il guardiano non è d'accordo",
+    "subtitles.entity.guard.yes": "Il guardiano concorda"
+}

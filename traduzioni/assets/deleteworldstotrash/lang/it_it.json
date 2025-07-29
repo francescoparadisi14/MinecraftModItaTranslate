@@ -1,0 +1,11 @@
+{
+    "deleteworldstotrash.selectWorld.deleteButton": "Sposta nel %s",
+    "deleteworldstotrash.selectWorld.deleteButton.recycle_bin": "'%s' verrà spostato nella cassetta degli scarti, quindi potrai ripristinarlo in futuro se necessario.",
+    "deleteworldstotrash.selectWorld.deleteButton.trash": "'%s' verrà spostato nella spazzatura, quindi potrai ripristinarlo in futuro se necessario.",
+    "deleteworldstotrash.selectWorld.deleteFailure": "Spostamento al %s fallito",
+    "deleteworldstotrash.selectWorld.deleteWarning": "'%s' verrà spostato nel %s, quindi puoi ripristinarlo in seguito se necessario.",
+    "deleteworldstotrash.selectWorld.recycleBin": "cestino",
+    "deleteworldstotrash.selectWorld.recycleBinButton": "Cestino",
+    "deleteworldstotrash.selectWorld.trash": "spazzatura",
+    "deleteworldstotrash.selectWorld.trashButton": "Spazzatura"
+}

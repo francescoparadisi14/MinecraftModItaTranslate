@@ -1,0 +1,21 @@
+{
+    "misctweaks.client_config": "Client Configuration",
+    "misctweaks.client_config.lowerShield": "Lower shield in offhand",
+    "misctweaks.client_config.offset": "Shield height offset",
+    "misctweaks.client_config.offset.desc": "Lower value = lower shield height",
+    "misctweaks.client_config.shields": "Shield list",
+    "misctweaks.config": "Common Configuration",
+    "misctweaks.config.craftableSaddleBackport": "Craftable saddle backport",
+    "misctweaks.config.creeperExplosionDropsAllItems": "Creeper explosion drops all items",
+    "misctweaks.config.elytraSwimTweak": "Elytra swim tweak",
+    "misctweaks.config.fasterObsidianMining": "Faster obsidian mining",
+    "misctweaks.config.flammableCobweb": "Flammable cobwebs",
+    "misctweaks.config.legArmorPreventsBerryBushDamage": "Leg armor prevents berry bush damage",
+    "misctweaks.config.lodestoneChangesBackport": "Lodestone changes backport",
+    "misctweaks.config.obsidianMiningSpeedMultiplier": "Obsidian mining speed multiplier",
+    "misctweaks.config.preventShulkerDuplication": "Prevent shulker duplication",
+    "misctweaks.config.randomizeDiscLoot": "Randomize music disc loot",
+    "misctweaks.config.sneakingPreventsBerryBushDamage": "Sneaking prevents berry bush damage",
+    "misctweaks.config.soulSpeedNoDamage": "No soul speed boots damage",
+    "misctweaks.config.thornsNoDamage": "No thorns chestplate damage"
+}

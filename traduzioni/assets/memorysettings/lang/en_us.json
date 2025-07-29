@@ -1,0 +1,10 @@
+{
+    "button.howto": "Open guide",
+    "button.stopremind": "Stop showing",
+    "warning.32bit": "You're using 32bit java on a 64bit system, please install 64bit java.",
+    "warning.overrecommended": "More memory allocated(%s mb) than recommended for your system, recommended is: %s mb.",
+    "warning.recommendedbelowmin": "Recommended %s for your system is lower than the required minimum of %s mb for this pack. You may experience issues like frequent stutters.",
+    "warning.toolow": "Less memory allocated(%s mb) than recommended for this pack, minimum is: %s mb. Recommended amount for your system is:  %s mb.",
+    "warning.toomuch": "More memory allocated(%s mb) than recommended for this pack, maximum is: %s mb.Recommended amount for your system is: %s mb.",
+    "warning.underrecommended": "Less memory allocated(%s mb) than recommended for your system, recommended is: %s mb."
+}

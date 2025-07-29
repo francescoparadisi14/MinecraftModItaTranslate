@@ -1,0 +1,12 @@
+{
+    "charmofundying.networking.failed": "Charm of Undying Network Failure",
+    "gui.charmofundying.config.renderTotem.description": "If enabled, renders the equipped totem on players.",
+    "gui.charmofundying.config.renderTotem.name": "Render equipped totem",
+    "gui.charmofundying.config.xOffset.description": "The horizontal offset for rendering the totem on the player.",
+    "gui.charmofundying.config.xOffset.name": "Horizontal rendering offset",
+    "gui.charmofundying.config.yOffset.description": "The vertical offset for rendering the totem on the player.",
+    "gui.charmofundying.config.yOffset.name": "Vertical rendering offset",
+    "gui.charmofundying.config.zOffset.description": "The z-axis offset for rendering the totem on the player.",
+    "gui.charmofundying.config.zOffset.name": "Z-Axis rendering offset",
+    "trinkets.slot.charm.charm": "Charm"
+}

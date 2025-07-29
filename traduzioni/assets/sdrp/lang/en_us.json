@@ -1,0 +1,22 @@
+{
+    "sdrp.compact_world": "Compact World",
+    "sdrp.compact_world.in": "In Compact World",
+    "sdrp.dungeon": "Dungeon World",
+    "sdrp.dungeon.in": "In Dungeon World",
+    "sdrp.logo": "Pack Logo",
+    "sdrp.mainmenu": "Main Menu",
+    "sdrp.mining": "Mining Dimension",
+    "sdrp.mining.in": "In Mining dimension",
+    "sdrp.otherside": "Otherside",
+    "sdrp.otherside.in": "In Otherside",
+    "sdrp.overworld": "Overworld",
+    "sdrp.overworld.in": "In Overworld",
+    "sdrp.paradise_lost": "Paradise Lost",
+    "sdrp.paradise_lost.in": "In Paradise Lost",
+    "sdrp.spatial_storage": "Spatial Storage",
+    "sdrp.spatial_storage.in": "In Spatial Storage",
+    "sdrp.the_end": "The End",
+    "sdrp.the_end.in": "In The End",
+    "sdrp.the_nether": "Nether",
+    "sdrp.the_nether.in": "In Nether"
+}

@@ -1,0 +1,8 @@
+{
+    "config.structure_layout_optimizer.deduplicate_shuffled_template_pool_element_list": "Elimina lista di elementi di piscina di modelli mescolati e duplicati",
+    "config.structure_layout_optimizer.deduplicate_shuffled_template_pool_element_list.desc": "Se utilizzare una strategia alternativa per ottimizzare la generazione di strutture, facendo in modo che le strutture non raccolgano elementi duplicati dal pool di template.\nQuesto non romperà la generazione delle strutture, ma renderà il layout della struttura diverso rispetto a quello ottenuto con questa configurazione disattivata (rompendo la parità con i semi vanilla). Il costo in termini di prestazioni potrebbe essere giustificato in grandi modpacks dove molti mod di strutture utilizzano valori di peso molto elevati nei loro pool di template.\n\nPro: ottenere un po' più di prestazioni dalle strutture che utilizzano pool di template con valori di peso alti.\nContro: perde la parità con i semi vanilla sul layout della struttura (il layout non è rotto, ma è diverso).",
+    "config.structure_layout_optimizer.desc": "Un tentativo di ottimizzare la generazione dei puzzle",
+    "config.structure_layout_optimizer.link.bug_report": "Segnala un bug",
+    "config.structure_layout_optimizer.link.license": "Licenza",
+    "config.structure_layout_optimizer.title": "Optimizzatore di layout strutturale"
+}

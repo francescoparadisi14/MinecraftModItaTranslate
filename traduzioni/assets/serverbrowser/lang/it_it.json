@@ -1,0 +1,10 @@
+{
+    "serverbrowser.button.favorite": "Preferito",
+    "serverbrowser.button.filter": "Filtra server",
+    "serverbrowser.button.history": "Storia (in corso di sviluppo)",
+    "serverbrowser.button.next_page": "Avanti: %s",
+    "serverbrowser.button.prev_page": "Indietro",
+    "serverbrowser.button.register": "Registra il server",
+    "serverbrowser.error.unreachable_website": "Il sito web non è raggiungibile in questo momento.",
+    "serverbrowser.server.official": "Ufficiale"
+}

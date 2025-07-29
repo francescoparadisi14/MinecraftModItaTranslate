@@ -877,6 +877,7 @@
     "pneumaticcraft.config.common.armor.flippers_speed_boost_floating": "Impennata Di Velocità Dei Flipper In Galleggiamento",
     "pneumaticcraft.config.common.armor.flippers_speed_boost_ground": "Boost Di Velocità Del Flipper Al Suolo",
     "pneumaticcraft.config.common.armor.jet_boots_air_usage": "Utilizzo Dell'aria Per Gli Stivali A Getto",
+    "pneumaticcraft.config.common.armor.jet_boots_height_limit": "Limite di altezza per gli stivali a reazione (relativo all'altezza massima di costruzione)",
     "pneumaticcraft.config.common.armor.magnet_air_usage": "Utilizzo Aria Magnete",
     "pneumaticcraft.config.common.armor.repair_air_usage": "Utilizzo Di Aria Per Il Riparare Dell'armatura",
     "pneumaticcraft.config.common.armor.scuba_air_usage_per_block_depth": "Utilizzo Di Aria Da Subacqueo Aumentato Per Ogni Profondità Di Blocco",

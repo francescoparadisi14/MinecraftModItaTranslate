@@ -1,0 +1,11 @@
+{
+    "advancement.aether.craft_altar.desc": "Crea un altare degli incantatori",
+    "aether.pro_tips.line.aether.altar_repairing": "Gli incantatori possono riparare gli oggetti danneggiati e migliorare gli oggetti esistenti.",
+    "aether.pro_tips.line.aether.ambrosium_shard_fuel": "I frammenti di ambrosio sono ottimi per alimentare gli incantatori.",
+    "block.aether.altar": "Altare incantatore",
+    "lore.aether.blue_berry": "Raccolto dai cespugli di mirtillo, è la principale fonte alimentare più comune nell'etere. Ha una riduzione del bisogno di cibo molto debole. Puoi incantare questi in un incantatore per ottenere una riduzione del bisogno di cibo molto migliore.",
+    "lore.aether.enchanted_gravitite": "Dopo aver messo il minerale di gravità in un incantatore e averlo incantato, si ottiene il gravità incantato. Questo può essere trasformato in strumenti e armature di gravità. Quando alimentato da un segnale di redstone, i blocchi di gravità incantati voleranno in aria, simile al minerale di gravità.",
+    "lore.aether.golden_dart_shooter": "Un lanciatore di dardi che spara dardi d'oro, l'incantesimo su un incantatore migliora la sua potenza d'attacco!",
+    "menu.aether.altar": "Altare incantatore",
+    "subtitles.aether.block.altar.crackle": "Il mago della trasmutazione crepita"
+}

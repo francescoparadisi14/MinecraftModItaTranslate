@@ -1,0 +1,14 @@
+{
+    "aether_emissivity.configuration.Emissives": "Emissive",
+    "aether_emissivity.configuration.Emissives.tooltip": "Opzioni di configurazione per gli emittenti",
+    "aether_emissivity.configuration.section.aether_emissivity.client.toml": "Impostazioni clienti",
+    "aether_emissivity.configuration.section.aether_emissivity.client.toml.title": "Configurazione emissività del cliente",
+    "aether_emissivity.configuration.title": "Configurazione emissività",
+    "config.aether_emissivity.client.emissives.emissive_phoenix_armor": "Abilita l'emissività per l'armatura fenice",
+    "config.aether_emissivity.client.emissives.emissive_phoenix_armor.tooltip": "Abilita l'emissività per l'armatura fenice",
+    "config.aether_emissivity.client.emissives.emissive_sentry_boots": "Abilita l'emissività per gli stivali di sentinella.",
+    "config.aether_emissivity.client.emissives.emissive_sentry_boots.tooltip": "Abilita l'emissività per gli stivali di sorveglianza",
+    "config.aether_emissivity.client.emissives.emissive_shield_of_repulsion": "Abilita l'emissività per lo scudo di respulsione",
+    "config.aether_emissivity.client.emissives.emissive_shield_of_repulsion.tooltip": "Abilita l'emissività per lo scudo di respulsione",
+    "pack.aether_emissivity.mod.description": "Risorse di emissività dell'etere"
+}

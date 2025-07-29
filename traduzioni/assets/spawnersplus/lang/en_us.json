@@ -1,0 +1,22 @@
+{
+    "block.spawnersplus.inactive_spawner": "Inactive Spawner",
+    "enchantment.spawnersplus.desc": "Allows some mobs to drop souls on death",
+    "enchantment.spawnersplus.soul_stealing": "Soul Stealing",
+    "item.spawnersplus.blaze_soul": "Blaze Soul",
+    "item.spawnersplus.cave_spider_soul": "Cave Spider Soul",
+    "item.spawnersplus.creeper_soul": "Creeper Soul",
+    "item.spawnersplus.drowned_soul": "Drowned Soul",
+    "item.spawnersplus.husk_soul": "Husk Soul",
+    "item.spawnersplus.magma_cube_soul": "Magma Cube Soul",
+    "item.spawnersplus.silverfish_soul": "Silverfish Soul",
+    "item.spawnersplus.skeleton_soul": "Skeleton Soul",
+    "item.spawnersplus.soul_item_tooltip": "Use on an Inactive Spawner",
+    "item.spawnersplus.spawner_fragment": "Spawner Fragment",
+    "item.spawnersplus.spawner_silencer": "Spawner Silencer",
+    "item.spawnersplus.spawner_silencer_tooltip": "Disables Spawners while held",
+    "item.spawnersplus.spider_soul": "Spider Soul",
+    "item.spawnersplus.stray_soul": "Stray Soul",
+    "item.spawnersplus.wither_skeleton_soul": "Wither Skeleton Soul",
+    "item.spawnersplus.zombie_soul": "Zombie Soul",
+    "itemGroup.spawnersplus.itemGroupName": "Spawners+"
+}

@@ -1,0 +1,8 @@
+{
+    "block.minecraft.tnt": "Dinamite",
+    "entity.minecraft.tnt": "Dinamite pronta",
+    "entity.minecraft.tnt_minecart": "Carro armato con dinamite",
+    "item.minecraft.gunpowder": "Polvere di crepuscolo",
+    "item.minecraft.tnt_minecart": "Carro armato con dinamite",
+    "subtitles.entity.tnt.primed": "Esplode dinamite"
+}

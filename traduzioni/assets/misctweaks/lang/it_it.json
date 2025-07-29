@@ -1,0 +1,21 @@
+{
+    "misctweaks.client_config": "Configurazione del client",
+    "misctweaks.client_config.lowerShield": "Abbassare scudo nella mano secondaria",
+    "misctweaks.client_config.offset": "Offset di altezza dello scudo",
+    "misctweaks.client_config.offset.desc": "Valore inferiore = altezza dello scudo inferiore",
+    "misctweaks.client_config.shields": "Elenco scudi",
+    "misctweaks.config": "Configurazione comune",
+    "misctweaks.config.craftableSaddleBackport": "Ritorno alla sella craftabile",
+    "misctweaks.config.creeperExplosionDropsAllItems": "L'esplosione dei crepuscoli rilascia tutti gli oggetti",
+    "misctweaks.config.elytraSwimTweak": "Regolazione nuoto con eliografo",
+    "misctweaks.config.fasterObsidianMining": "Minerà ossidiano più velocemente",
+    "misctweaks.config.flammableCobweb": "Ragni infiammabili",
+    "misctweaks.config.legArmorPreventsBerryBushDamage": "L'armatura delle gambe impedisce il danno ai cespugli di frutta",
+    "misctweaks.config.lodestoneChangesBackport": "Ritorno alle modifiche del lodestone",
+    "misctweaks.config.obsidianMiningSpeedMultiplier": "Multiplicatore di velocità miniera dell'ossidiano",
+    "misctweaks.config.preventShulkerDuplication": "Prevenire la duplicazione dei Shulker",
+    "misctweaks.config.randomizeDiscLoot": "Casualizzare il bottino dei dischi musicali",
+    "misctweaks.config.sneakingPreventsBerryBushDamage": "Il nascondimento impedisce il danno ai cespugli di frutta.",
+    "misctweaks.config.soulSpeedNoDamage": "Nessun danno ai piedi delle anime con gli stivali di velocità dell'anima",
+    "misctweaks.config.thornsNoDamage": "Nessun danno da petali di spine"
+}

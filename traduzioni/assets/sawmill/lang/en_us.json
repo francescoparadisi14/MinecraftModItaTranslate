@@ -3,7 +3,7 @@
     "container.sawmill.sawmill": "Saw",
     "entity.minecraft.villager.carpenter": "Carpenter",
     "entity.minecraft.villager.sawmill.carpenter": "Carpenter",
-    "sawmill.category.wood_cutting": "Sawing",
+    "sawmill.category.wood_cutting": "Wood Cutting",
     "subtitles.sawmill.entity.villager.work_carpenter": "Carpenter works",
     "subtitles.sawmill.ui.sawmill.take_result": "Sawmill used"
 }

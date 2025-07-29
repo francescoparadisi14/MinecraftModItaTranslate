@@ -1,0 +1,11 @@
+{
+    "particle_core.particle_core_config.ALL.desc": "Tutti i particolari dei pozioni saranno disabilitati",
+    "particle_core.particle_core_config.NONE.desc": "Non saranno disabilitati i particolari dei pozioni.",
+    "particle_core.particle_core_config.PLAYER.desc": "I particelle dei pozioni emesse da tutti i giocatori (anche tu) saranno disattivate",
+    "particle_core.particle_core_config.SELF.desc": "I potenziamenti emessi da te saranno disattivati",
+    "particle_core.particle_core_config.byTypeReductions.desc": "Consente la riduzione o disabilitazione di tipi di particelle individuali. Ad esempio, impostando \"minecraft:smoke\" su 0,3 farà sì che le particelle di fumo e di fuoco dei camini si generino a un tasso del 30% rispetto al loro normale ritmo.",
+    "particle_core.particle_core_config.disableParticles.desc": "Disattiva completamente tutti i particolari sul client [vero o falso].",
+    "particle_core.particle_core_config.reduceAllChance.desc": "[Valore tra 0,0 e 1,0]: riduce le particelle quando in modalità \"tutto\". Ad esempio, 0,1 farà diminuire il 10% delle particelle. In pratica, un regolatore tra \"tutto\" e \"diminuito\".",
+    "particle_core.particle_core_config.reduceDecreasedChance.desc": "Configura la riduzione delle particelle quando si trova in modalità diminuita. Ad esempio, un valore di 0,1 farà apparire il 10% delle particelle in modalità minimale. In pratica, è un regolatore tra la modalità diminuita e quella minima.",
+    "particle_core.particle_core_config.turnOffPotionParticles.desc": "Disabilita le particelle dei pozioni in vari gradi, a seconda della selezione."
+}
