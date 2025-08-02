@@ -48,9 +48,6 @@
     "block.glassential.lime_glass_trapdoor": "Lime Glass Trapdoor",
     "block.glassential.magenta_glass_door": "Magenta Glass Door",
     "block.glassential.magenta_glass_trapdoor": "Magenta Glass Trapdoor",
-    "block.glassential.obsidian_door": "Obsidian Glass Door",
-    "block.glassential.obsidian_glass": "Obsidian glass",
-    "block.glassential.obsidian_trapdoor": "Obsidian Glass TrapDoor",
     "block.glassential.orange_glass_door": "Orange Glass Door",
     "block.glassential.orange_glass_trapdoor": "Orange Glass Trapdoor",
     "block.glassential.pink_glass_door": "Pink Glass Door",
@@ -61,8 +58,6 @@
     "block.glassential.red_glass_trapdoor": "Red Glass Trapdoor",
     "block.glassential.redstone_door": "Redstone Glass Door",
     "block.glassential.redstone_trapdoor": "Redstone Glass TrapDoor",
-    "block.glassential.sandstone_glass": "Glass with sandstone frame",
-    "block.glassential.stone_glass": "Glass with stone frame",
     "block.glassential.tinted_glass_door": "Tinted Glass Door",
     "block.glassential.tinted_glass_trapdoor": "Tinted Glass Trapdoor",
     "block.glassential.white_glass_door": "White Glass Door",
@@ -79,8 +74,5 @@
     "tooltip.glassential.pane_collideplayers": "Not solid to players",
     "tooltip.glassential.pane_frameless": "Frameless when inserted between blocks",
     "tooltip.glassential.pane_light": "Emits light",
-    "tooltip.glassential.protected": "Resistant to explosions",
-    "tooltip.glassential.protected_door": "Resistant to explosions, works like an iron door",
-    "tooltip.glassential.protected_trapdoor": "Resistant to explosions, works like an iron trapdoor",
     "tooltip.glassential.redstone": "Emits a redstone signal"
 }

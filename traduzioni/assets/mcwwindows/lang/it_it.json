@@ -332,6 +332,8 @@
     "item.mcwwindows.yellow_curtain": "Tendaggio giallo",
     "item.mcwwindows.yellow_mosaic_glass": "Vetro mosaico giallo",
     "item.mcwwindows.yellow_mosaic_glass_pane": "Pannello di ventro mosaico giallo",
+    "itemGroup.mcwwindows": "Macaw's Windows",
+    "itemGroup.mcwwindows.blinds_group": "Macaw's Windows Aggiunte",
     "itemGroup.windows": "Macaw's Windows",
     "itemGroup.windows.blinds_group": "Macaw's Windows Aggiunte",
     "itemGroup.windows2": "Aggiunte per finestre di macaw",

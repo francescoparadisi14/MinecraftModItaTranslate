@@ -25,7 +25,7 @@
     "constructionstick.configuration.MaxRange": "Max Range",
     "constructionstick.configuration.MaxRange.tooltip": "Maximum placement range (0: unlimited). Affects all sticks and is meant for lag prevention, not game balancing.",
     "constructionstick.configuration.SimilarBlocks": "Similar Blocks",
-    "constructionstick.configuration.SimilarBlocks.tooltip": "Blocks to treat equally when in Similar mode. Enter block IDs seperated by ;",
+    "constructionstick.configuration.SimilarBlocks.tooltip": "Blocks to treat equally when in Similar mode. Enter block IDs separated by ;",
     "constructionstick.configuration.UndoHistory": "Undo History",
     "constructionstick.configuration.UndoHistory.tooltip": "Number of operations that can be undone",
     "constructionstick.configuration.angel": "Angel Upgrade",

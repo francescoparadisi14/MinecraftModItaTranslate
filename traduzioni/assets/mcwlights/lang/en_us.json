@@ -142,7 +142,7 @@
     "item.mcwlights.yellow_ceiling_light": "Yellow Ceiling Light",
     "item.mcwlights.yellow_lamp": "Yellow Lamp",
     "item.mcwlights.yellow_paper_lamp": "Yellow Paper Lamp",
-    "itemGroup.mcwlights": "Macaw's Lights and Lamps",
+    "itemGroup.mcwlights.lightsgroup": "Macaw's Lights and Lamps",
     "mcwlights.lights.dyeableinfo": "Right-click with any dye to recolor",
     "mcwlights.lights.stackableinfo": "Can be built taller, by placing another one on top of this one",
     "mcwlights.lights.tikitorchinfo": "Can be built taller, by placing another one on top of this one",

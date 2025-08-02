@@ -1,0 +1,20 @@
+{
+    "fallingleaves.configuration.leaves": "Foglie",
+    "fallingleaves.configuration.leaves.enabled": "Usa foglie modificate",
+    "fallingleaves.configuration.leaves.leafLifespan": "Durata della vita delle foglie",
+    "fallingleaves.configuration.leaves.leafSize": "Dimensione foglia",
+    "fallingleaves.configuration.leaves.leafSpawnRate": "Tasso di spawn delle foglie",
+    "fallingleaves.configuration.leaves.minimumFreeSpaceBelow": "Spazio minimo sotto",
+    "fallingleaves.configuration.leaves.mod": "Configurazione del modulo foglie cadenti",
+    "fallingleaves.configuration.leaves.particlesDisappearOnGroundContact": "Scompaiono al contatto con il terreno",
+    "fallingleaves.configuration.leaves.performance-relevant": "Rilevante per prestazioni",
+    "fallingleaves.configuration.leaves.seasons": "Stagioni",
+    "fallingleaves.configuration.leaves.seasons.enabled": "Abilitato",
+    "fallingleaves.configuration.mod": "Configurazione foglie che cadono",
+    "fallingleaves.configuration.section.fallingleaves.client.toml": "Configurazione foglie che cadono",
+    "fallingleaves.configuration.snow": "Neve",
+    "fallingleaves.configuration.snow.enabled": "Abilitato",
+    "fallingleaves.configuration.wind": "Vento",
+    "fallingleaves.configuration.wind.enabled": "Abilitato",
+    "fallingleaves.configuration.wind.windlessDimensions": "Dimensioni senza vento"
+}

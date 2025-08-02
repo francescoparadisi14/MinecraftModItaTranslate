@@ -140,6 +140,7 @@
     "modonomicon.command.error.load_progress_client": "Errore di caricamento del codice di sblocco. Assicurati di avere un codice di sblocco valido nella tua area di trasferimento! Il contenuto attuale della tua area di trasferimento è: \"%s\"",
     "modonomicon.command.error.unknown_book": "Libro sconosciuto: %s",
     "modonomicon.command.failure": "Il Modonomicon ha tentato di eseguire un comando per conto tuo (ad esempio, perché hai letto un'entrata per la prima volta o hai cliccato un pulsante o un collegamento di comando). Tuttavia, sembra che tu abbia già raggiunto il limite massimo di utilizzo per questo comando.",
+    "modonomicon.command.failure_not_allowed_here": "Questo comando non può essere eseguito in questo punto di ingresso.",
     "modonomicon.command.reload_requested": "Richiesta di ricarica dei pacchetti di risorse e dati.",
     "modonomicon.command.success.load_progress": "Caricato con successo il progresso per il libro: %s.",
     "modonomicon.command.success.reload_requested": "Caricamento di risorse e pacchetti dati riuscito con successo.",

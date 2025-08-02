@@ -1,0 +1,21 @@
+{
+    "block.industrialization_overdrive.multi_processing_array": "Array di elaborazione multipla",
+    "block.industrialization_overdrive.pyrolyse_oven": "Forno di pyroliasi",
+    "item.industrialization_overdrive.terminal": "Termine",
+    "itemGroup.industrialization_overdrive.industrialization_overdrive": "Sovraccarico industriale",
+    "pyro_tier.industrialization_overdrive.modern_industrialization.cupronickel_coil": "Bobina di cupronichel",
+    "pyro_tier.industrialization_overdrive.modern_industrialization.kanthal_coil": "Filamento Kanthal",
+    "rei_categories.industrialization_overdrive.pyrolyse_oven": "Forno di pyroliasi",
+    "text.industrialization_overdrive.coils_pyro_tier": "Esegui forni di pirolisi in lotti fino a %d con un costo EU di %s.",
+    "text.industrialization_overdrive.machine_batcher_coils": "Il numero di batch e il costo sono determinati dal filo utilizzato.",
+    "text.industrialization_overdrive.multi_processing_array_batch_size": "Dimensione batch è determinata dall'ammontare di macchine fornite.",
+    "text.industrialization_overdrive.multi_processing_array_eu_cost_multiplier": "Funziona a %s il costo EU.",
+    "text.industrialization_overdrive.multi_processing_array_machine_input": "Inserisci blocchi di crafting elettrici per eseguire in parallelo.",
+    "text.industrialization_overdrive.multi_processing_array_recipe": "Può eseguire ricette di qualsiasi blocco di elaborazione elettrica multiblocco fornito, in batch.",
+    "text.industrialization_overdrive.multi_processing_array_size": "Dimensione array di elaborazione multipla per macchine: %d",
+    "text.industrialization_overdrive.terminal_help_1": "- premere %s + %s su un multiblocco MI per costruire automaticamente.",
+    "text.industrialization_overdrive.terminal_help_2": "- richiede parti presenti nella tua inventario.",
+    "text.industrialization_overdrive.terminal_help_2_alt": "- richiede parti presenti nella tua inventario o sistema ME collegato.",
+    "text.industrialization_overdrive.terminal_link_info": "Collegato a un sistema ME in %s.",
+    "text.industrialization_overdrive.terminal_link_not_linked": "non è collegato a un sistema ME."
+}

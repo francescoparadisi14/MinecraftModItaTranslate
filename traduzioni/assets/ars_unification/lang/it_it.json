@@ -1,0 +1,13 @@
+{
+    "ars_nouveau.augment_desc.glyph_cut_glyph_aoe": "incrementa il raggio di ricerca per gli oggetti da elaborare.",
+    "ars_nouveau.augment_desc.glyph_cut_glyph_pierce": "incrementa il numero di oggetti che verranno elaborati.",
+    "ars_nouveau.augment_desc.glyph_cut_glyph_sensitive": "Il taglio cercherà di elaborare gli oggetti vicini.",
+    "ars_nouveau.augment_desc.glyph_flatten_glyph_aoe": "Riduce l'area di ricerca per la raccolta degli oggetti.",
+    "ars_nouveau.augment_desc.glyph_flatten_glyph_pierce": "incrementa il numero di oggetti che Flatten elaborerà.",
+    "ars_nouveau.augment_desc.glyph_flatten_glyph_sensitive": "Flattenerà gli oggetti vicini.",
+    "ars_unification.augment_with": "Aggiungi questo glifo con %s per utilizzare queste ricette.",
+    "ars_unification.cut_recipe": "Glifo di taglio",
+    "ars_unification.press_recipe": "Compatta gliptide",
+    "emi.category.ars_unification.cut": "Glifo di taglio",
+    "emi.category.ars_unification.press": "Compatta gli glifi"
+}
