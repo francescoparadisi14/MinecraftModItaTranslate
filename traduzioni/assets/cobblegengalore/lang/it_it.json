@@ -1,0 +1,11 @@
+{
+    "block.cobblegengalore.block_gen_copper": "Generatore di blocchi di rame",
+    "block.cobblegengalore.block_gen_diamond": "Generatore di blocchi di diamante",
+    "block.cobblegengalore.block_gen_emerald": "Generatore di blocchi di zaffiro",
+    "block.cobblegengalore.block_gen_gold": "Generatore di blocchi d'oro",
+    "block.cobblegengalore.block_gen_iron": "Generatore di blocchi di ferro",
+    "block.cobblegengalore.block_gen_netherite": "Generatore di blocchi di netherite",
+    "block.cobblegengalore.block_gen_stone": "Generatore di blocchi di pietra",
+    "block_gen.tooltip": "Modificatore di velocità: %s",
+    "jei.cobblegengalore.blockgen": "Generatore di blocchi"
+}

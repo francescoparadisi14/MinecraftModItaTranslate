@@ -1,0 +1,6 @@
+{
+    "item.camol.camo_item": "Blocco mimetico",
+    "item.camol.camo_item.camo": "Blocco di mimetizzazione - %s",
+    "item.camol.camo_item.hover": "Clicca destro su un blocco per nasconderlo come questo blocco. Clicca destro su un blocco nascosto per svelarlo.",
+    "item.camol.camo_item.hover_empty": "Assembla con un blocco."
+}

@@ -1,0 +1,7 @@
+{
+    "block.laserbridges.laser_fence_source_block": "Laser Fence Source",
+    "block.laserbridges.laser_source_block": "Laser Source",
+    "laserbridges.deimosconfig.blocks_cut_through_by_lasers": "Blocks that can be replaced by lasers",
+    "laserbridges.deimosconfig.max_length": "Bridge length with maximum Redstone power",
+    "laserbridges.deimosconfig.title": "Laser Bridges & Doors Config"
+}

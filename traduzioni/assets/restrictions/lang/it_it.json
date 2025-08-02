@@ -1,0 +1,14 @@
+{
+    "block.restrictions.attractor": "Attrattore",
+    "block.restrictions.oneway": "Unidirezionale",
+    "block.restrictions.oneway_wall": "Muro a senso unico",
+    "block.restrictions.pusher": "Spingitore",
+    "item.restrictions.glassboots": "Stivali di vetro",
+    "itemGroup.restrictions": "Restrizioni",
+    "message.restrictions.attractor.header": "Questo blocco attira entità, oggetti, mostri, giocatori, ... da una distanza uguale alla lunghezza del segnale di Redstone che riceve.",
+    "message.restrictions.glassboots.header": "Se fossi questi stivali, l'attrattore, il spingitore e la direzione unica non avranno alcun effetto su di te.",
+    "message.restrictions.oneway.header": "Questo obbliga entità, oggetti, mostri, giocatori, ... a muoversi in una certa direzione",
+    "message.restrictions.oneway_wall.header": "Questo blocco consente solo ai seguenti di spostarsi nella direzione specificata: entità, oggetti, mostri, giocatori, ...",
+    "message.restrictions.pusher.header": "Questo blocco spinge entità, oggetti, mostri, giocatori, ... da una distanza uguale alla lunghezza del segnale di Redstone che riceve.",
+    "message.restrictions.shiftmessage": "Premi Shift"
+}

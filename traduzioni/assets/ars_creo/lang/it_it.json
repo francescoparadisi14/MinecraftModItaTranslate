@@ -1,0 +1,20 @@
+{
+    "ars_creo.display_link": "Collegamento di visualizzazione ARS CREO",
+    "ars_creo.display_source.for_source_status": "per stato di origine",
+    "ars_creo.display_source.source_count": "Fonte: %s",
+    "ars_creo.display_source.source_jar": "Quantità di origine",
+    "ars_creo.display_source.turret": "Incantesimo",
+    "ars_creo.display_source.turret.for_turret_status": "per stato di cannone",
+    "ars_creo.display_source.turret.no_spell": "Nessuna incantesimo impostato.",
+    "ars_creo.display_source.turret.not_enough_space": "Non ci è abbastanza spazio",
+    "ars_creo.display_source.turret.spell": "Incantesimo %s",
+    "ars_creo.display_source.turret.spell_name": "Incantesimo: %s",
+    "ars_creo.display_source.turret_target": "Tartaruga incantata",
+    "ars_creo.fluid_tank": "Serbatoio di liquido Ars Creo",
+    "ars_creo.page.behaviors": "Il modulo \"ars creo\" abilita comportamenti speciali per blocchi da \"ars nouveau\", inclusi torri incantatorie e giare di fonte. Torre incantatrice base - lancia un incantesimo sulla macchina quando interagita. Torre timer - lancia un incantesimo ogni intervallo. Torre incantatrice incantata - lancia un incantesimo ogni nuovo blocco visitato. Giara di fonte - può essere consumata dalle torri su una macchina.",
+    "ars_creo.page1.ars_creo.display_link": "Il collegamento di visualizzazione può essere attaccato a un contenitore di origine per visualizzare la quantità di origine in un contenitore, o a una torretta incantatrice per visualizzare l'incantesimo corrente su un tabellone di visualizzazione.",
+    "ars_creo.page1.ars_creo.fluid_tank": "I contenitori di pozioni possono essere immagazzinati e trasferiti tra un serbatoio di creazione di fluidi utilizzando tubi e serbatoi.",
+    "ars_creo.page1.starbuncle_wheel": "Genera forza rotazionale per creare. Collocando un blocco d'oro davanti alla ruota, aumenterà il numero di giri al minuto (RPM).",
+    "block.ars_creo.starbuncle_wheel": "Ruota Starbuncle",
+    "itemGroup.ars_creo.general": "Ars Creo"
+}

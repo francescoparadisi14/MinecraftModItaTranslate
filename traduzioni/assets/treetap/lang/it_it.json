@@ -1,0 +1,10 @@
+{
+    "block.treetap.sap_collector": "Raccoglitore di resina",
+    "block.treetap.tap": "Tappare",
+    "block.treetap.wooden_sap_collector": "Raccoglitore di succo",
+    "config.jade.plugin_treetap.tap": "Tappo",
+    "item.treetap.tap.modifier": "Modificatore di velocità: %s",
+    "jei.treetap.life_cycle.all_year": "Tutto l'anno",
+    "jei.treetap.life_cycle.months": "%s mesi",
+    "jei.treetap.tap_extract": "Tappatura dell'albero"
+}

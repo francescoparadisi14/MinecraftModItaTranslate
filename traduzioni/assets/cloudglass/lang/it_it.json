@@ -1,0 +1,19 @@
+{
+    "block.cloudglass.black_cloud_glass": "Vetro di nuvola nero",
+    "block.cloudglass.blue_cloud_glass": "Vetro di nuvola blu",
+    "block.cloudglass.brown_cloud_glass": "Vetro di nuvola marrone",
+    "block.cloudglass.cyan_cloud_glass": "Vetro di nuvola ciano",
+    "block.cloudglass.gray_cloud_glass": "Vetro di nuvola grigia",
+    "block.cloudglass.green_cloud_glass": "Vetro di nuvola verde",
+    "block.cloudglass.light_blue_cloud_glass": "Vetro di nuvola azzurro chiaro",
+    "block.cloudglass.light_gray_cloud_glass": "Vetro di nuvola grigio chiaro",
+    "block.cloudglass.lime_cloud_glass": "Vetro di nuvola limone",
+    "block.cloudglass.magenta_cloud_glass": "Vetro di nuvola magenta",
+    "block.cloudglass.orange_cloud_glass": "Vetro di nuvola arancione",
+    "block.cloudglass.pink_cloud_glass": "Vetro di nuvola rosa",
+    "block.cloudglass.purple_cloud_glass": "Vetro di nuvola viola",
+    "block.cloudglass.red_cloud_glass": "Vetro di nuvola rossa",
+    "block.cloudglass.white_cloud_glass": "Vetro di nuvola bianca",
+    "block.cloudglass.yellow_cloud_glass": "Vetro di nuvola giallo",
+    "itemGroup.cloudglass.tab": "Vetro di nube"
+}

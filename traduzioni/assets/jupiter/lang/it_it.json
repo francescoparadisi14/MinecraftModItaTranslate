@@ -1,0 +1,21 @@
+{
+    "jupiter.screen.back": "Indietro",
+    "jupiter.screen.button.remove": "Rimuovi",
+    "jupiter.screen.button.reset": "Reset",
+    "jupiter.screen.check_server": "Verificando permessi...",
+    "jupiter.screen.client_config": "Configurazione client",
+    "jupiter.screen.config_list.title": "Elenco configurazioni Jupiter",
+    "jupiter.screen.current_modifying_client": "Configurazione del cliente modificatore corrente",
+    "jupiter.screen.current_modifying_dedicate_server": "Configurazione del server dedicato in modifica corrente",
+    "jupiter.screen.current_modifying_local_server": "Configurazione del server locale in modifica corrente",
+    "jupiter.screen.disable_client": "La configurazione del client è disabilitata o non fornita.",
+    "jupiter.screen.disable_server": "Nessuna autorizzazione",
+    "jupiter.screen.error_server": "Ricezione di dati di configurazione del server non validi",
+    "jupiter.screen.open": "Apri configurazione",
+    "jupiter.screen.open_client": "Apri configurazione del cliente",
+    "jupiter.screen.open_server": "Apri configurazione del server",
+    "jupiter.screen.restart_required": "(Richiede riavvio)",
+    "jupiter.screen.server_config": "Configurazione del server",
+    "jupiter.toast.upload_config_error_content": "Accesso negato",
+    "jupiter.toast.upload_config_error_title": "Errore nella modifica della configurazione del server"
+}

@@ -1,0 +1,12 @@
+{
+    "_comment": "# Impostazioni di capacità",
+    "capability.commoncapabilities.inventoryState": "Stato inventario",
+    "capability.commoncapabilities.temperature": "Temperatura",
+    "capability.commoncapabilities.worker": "Lavoratore",
+    "capability.commoncapabilities.worldNameable": "Mondo nomeabile",
+    "capability.commoncapabilities.wrench": "Chiave inglese",
+    "config.commoncapabilities": "Configurazione %s",
+    "recipecomponent.minecraft.energy": "Energia",
+    "recipecomponent.minecraft.fluidstack": "Fluido",
+    "recipecomponent.minecraft.itemstack": "Stivale di oggetti"
+}

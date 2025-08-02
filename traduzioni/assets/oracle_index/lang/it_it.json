@@ -1,0 +1,10 @@
+{
+    "key.categories.oracle": "Indice Oracle",
+    "key.oracle_index.open": "Apri indice Oracle",
+    "key.oracle_index.search": "Apri ricerca Oracle",
+    "oracle_index.searchbar.placeholder": "Trova o calcola",
+    "oracle_index.searchbar.tooltip": "Barra di ricerca intelligente che supporta frasi complete e espressioni matematiche.",
+    "oracle_index.title.oracle-index": "Indice Oracle",
+    "oracle_index.title.oracle_index": "Indice dell'oracolo",
+    "tooltip.oracle_index.open_search": "Apri ricerca. Puoi sempre aprire questo con il tasto [Ctrl + %s] o [%s]."
+}

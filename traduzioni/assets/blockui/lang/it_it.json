@@ -1,0 +1,10 @@
+{
+    "blockui.config.default.boolean": "Impostazione predefinita: %s",
+    "blockui.config.default.enum": "Impostazione predefinita: %s, valori: %s",
+    "blockui.config.default.number": "Impostazione predefinita: %s, minimo: %s, massimo: %s",
+    "blockui.config.default.string": "Predefinito: %s",
+    "blockui.container_gui.client_side_only": "Il contenuto del contenitore è visibile solo quando si gioca su un server integrato (gioco singolo, senza LAN).",
+    "blockui.container_gui.empty": "Questo contenitore è vuoto.",
+    "blockui.tooltip.item_additional_info": "Tieni premuto %s per visualizzare informazioni aggiuntive",
+    "blockui.tooltip.properties": "Proprietà dello stato del blocco:"
+}

@@ -1,0 +1,10 @@
+{
+    "block.enderstorage.ender_chest": "Baule d'omega",
+    "block.enderstorage.ender_tank": "Serbatoio d'omega",
+    "enderstorage.command.no_arguments": "Numero invalido di argomenti",
+    "enderstorage.command.no_colour": "Colore invalido: %s",
+    "enderstorage.command.no_freq": "Frequenza invalida",
+    "enderstorage.command.usage": "enderstorage <frequenza>|(<colore> <colore> <colore>) [proprietario]",
+    "enderstorage.serverop": "Operatore",
+    "item.enderstorage.ender_pouch": "Borsa d'omega"
+}

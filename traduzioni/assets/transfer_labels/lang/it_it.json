@@ -1,0 +1,23 @@
+{
+    "filter.type.exact_count": "Filtro di conteggio esatto",
+    "filter.type.exact_count.tooltip": "Trasferisci solo se ha la stessa quantità del filtro definito.",
+    "filter.type.mod": "Filtro per moduli",
+    "filter.type.mod.tooltip": "Trasferisci solo se ha lo stesso ID di modulo del filtro definito.",
+    "filter.type.normal": "Filtro normale",
+    "filter.type.normal.tooltip": "Trasferisci solo se è lo stesso del filtro",
+    "filter.type.regulating": "Filtro regolatore",
+    "filter.type.regulating.tooltip": "Trasferisci per mantenere l'importo del filtro definito sul destinario",
+    "filter.type.scroll": "*Sfoglia per cambiare il tipo di filtro*",
+    "filter.type.tag": "Filtro per etichetta",
+    "filter.type.tag.tooltip": "Trasferisci solo se ha lo stesso tag definito nel filtro.",
+    "item.transfer_labels.fluidstack_extract_transfer_label": "Etichetta di trasferimento estrazione fluidostack",
+    "item.transfer_labels.fluidstack_insert_transfer_label": "Etichetta di trasferimento per l'inserimento di un flusso di fluidi",
+    "item.transfer_labels.itemstack_extract_transfer_label": "Estrai etichetta di trasferimento da itemstack",
+    "item.transfer_labels.itemstack_insert_transfer_label": "Inserisci etichetta di trasferimento nel contenitore",
+    "item.transfer_labels.label_accessor": "Accessore di etichetta",
+    "itemGroup.transfer_labels": "Etichette di trasferimento",
+    "tooltip.transfer_labels.blacklist": "Elenco nero",
+    "tooltip.transfer_labels.slot.amount": "Quantità",
+    "tooltip.transfer_labels.slot.speed": "Velocità",
+    "tooltip.transfer_labels.whitelist": "Elenco bianco"
+}

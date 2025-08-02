@@ -1,0 +1,7 @@
+{
+    "block.laserbridges.laser_fence_source_block": "Fonte di rete laser",
+    "block.laserbridges.laser_source_block": "Fonte laser",
+    "laserbridges.deimosconfig.blocks_cut_through_by_lasers": "Blocchi che possono essere sostituiti dai laser",
+    "laserbridges.deimosconfig.max_length": "Lunghezza ponte con potenza massima di rete rosso",
+    "laserbridges.deimosconfig.title": "Configurazione dei ponti e porte a laser"
+}

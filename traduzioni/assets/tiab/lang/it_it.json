@@ -1,0 +1,6 @@
+{
+    "emi.category.tiab.test": "Blocchi tiab bloccati",
+    "item.tiab.time_in_a_bottle": "Tempo in un bottiglia",
+    "item.tiab.time_in_a_bottle.tooltip.stored_time": "Tempo conservato %s:%s:%s",
+    "item.tiab.time_in_a_bottle.tooltip.total_accumulated_time": "Tempo accumulato totale %s:%s:%s"
+}

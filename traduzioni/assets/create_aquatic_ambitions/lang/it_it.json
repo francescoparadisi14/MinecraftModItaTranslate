@@ -1,0 +1,9 @@
+{
+    "block.create_aquatic_ambitions.prismarine_alloy_block": "Blocco di lega prismatica",
+    "create_aquatic_ambitions.recipe.aquatic_ambitions.fan_channeling": "Canalizzazione del condotto acquatico",
+    "item.create_aquatic_ambitions.flint_shard": "Frammento di ghisa",
+    "item.create_aquatic_ambitions.polished_quartz_tine": "Tina di quarzo lucido",
+    "item.create_aquatic_ambitions.prismarine_alloy": "Leghe di prismarina",
+    "item.create_aquatic_ambitions.prismarine_rod": "Astuccio di prismarina",
+    "itemGroup.create_aquatic_ambitions": "Crea ambizioni acquatiche"
+}

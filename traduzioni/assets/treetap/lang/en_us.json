@@ -1,0 +1,10 @@
+{
+    "block.treetap.sap_collector": "Sap Collector",
+    "block.treetap.tap": "Tap",
+    "block.treetap.wooden_sap_collector": "Sap Collector",
+    "config.jade.plugin_treetap.tap": "Tap",
+    "item.treetap.tap.modifier": "Speed modifier: %s",
+    "jei.treetap.life_cycle.all_year": "All year",
+    "jei.treetap.life_cycle.months": "%s",
+    "jei.treetap.tap_extract": "Tree Tapping"
+}

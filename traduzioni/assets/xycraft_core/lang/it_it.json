@@ -1,0 +1,7 @@
+{
+    "gui.xycraft_core.slot.strict": "Modalità rigorosa",
+    "gui.xycraft_core.slot.strict.set": "Usa %1$s per abilitare\/disabilitare il modalità rigorosa",
+    "key.category.xycraft_core.key_binds": "Impostazioni di tastiera xycraft",
+    "key.xycraft_core.modifier_key": "Tasto modificatore",
+    "xycraft.core.system.finished_reloading": "Il carico è stato completato!"
+}

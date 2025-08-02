@@ -1,0 +1,15 @@
+{
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.playBellSound": "Suonare il suono della campana",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.playBellSound.@Tooltip": "Se il suono della campana dovrebbe essere riprodotto prima che il drago dell'ender sia evocato per la prima volta e durante le ri-evocazioni.",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.resummonedDragonDropsEgg": "Uovo dei resti del drago risvegliato",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.resummonedDragonDropsEgg.@Tooltip": "Se l'ender dragon lascia cadere un uovo ogni volta che viene sconfitto",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerInitially": "Spawnare la torre centrale inizialmente",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerInitially.@Tooltip": "Se il torre centrale dovrebbe apparire nell'End quando il mondo viene generato per la prima volta.",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerOnResummon": "Ripristina la torre centrale alla risurrezione",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerOnResummon.@Tooltip": "Se il torre centrale dovrebbe risorgere nell'End quando il drago dell'End viene ri-evocato.",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaEndGateways": "Generare porte di fine del gioco standard",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaEndGateways.@Tooltip": "Se i cancelli di accesso alla fine del gioco Vanilla dovrebbero apparire nella fine anziché quelli rivisti.",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaSpawnPlatform": "Usa piattaforma di partenza in pietra vulcanica originale",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaSpawnPlatform.@Tooltip": "Se il piatto di ossidiana originale dovrebbe apparire nell'End al posto del piatto rivisto.",
+    "text.autoconfig.betterendisland-fabric-1_21.title": "L'isola finale di yung"
+}

@@ -1,0 +1,12 @@
+{
+    "constants.gmut.key_category": "Categoria di chiave Mekanism - Modificatore gravitazionale aggiuntivo (unità)",
+    "constants.gmut.mod_name": "Modificatore gravitazionale aggiuntivo (GRAVITAS)",
+    "description.gmut.gravitational_modulating_additional_unit": "Richiede \"unità di modulazione gravitazionale\", fornisce funzionalità aggiuntive",
+    "key.gmut.vertical_speed": "Impostazione di velocità verticale",
+    "module.gmut.enabled": "Abilitato",
+    "module.gmut.fix_fov": "Correggi FOV",
+    "module.gmut.fly_always": "Ignora la gravità sempre",
+    "module.gmut.gravitational_modulating_additional_unit": "Unità di modulazione gravitazionale aggiuntiva",
+    "module.gmut.stop_immediately": "Ferma immediatamente",
+    "module.gmut.vertical_speed": "Modificatore di velocità verticale"
+}

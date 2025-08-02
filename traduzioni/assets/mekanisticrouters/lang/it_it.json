@@ -1,0 +1,15 @@
+{
+    "item.mekanisticrouters.chemical_module_mk1": "Modulo chimico Mk1",
+    "item.mekanisticrouters.chemical_module_mk2": "Modulo chimico Mk2",
+    "item.mekanisticrouters.chemical_refill_module": "Modulo di ricarica chimico",
+    "item.mekanisticrouters.chemical_upgrade": "Aggiornamento di trasferimento chimico",
+    "mekanisticrouters.guiText.popup.chemical.direction": "§a§nDirezione di trasferimento§r\n\nqui puoi controllare se il router spinge il chimico nel serbatoio o lo estrae dal serbatoio.",
+    "mekanisticrouters.guiText.popup.chemical.maxTransfer": "§a§ntrasferimento massimo§r\n\nquesto è la quantità massima di sostanza chimica che il router cercherà di trasferire in un'operazione singola.\n\nNota che il tasso di trasferimento è ancora limitato dal numero di upgrade di trasferimento di sostanza chimica nel router, nonché dal tasso di trasferimento del serbatoio esterno (se ce n'è uno). quindi questo numero dovrebbe essere considerato un limite piuttosto che un obiettivo.",
+    "mekanisticrouters.guiText.popup.chemical_refill.control": "§a§modulo di ricarica chimica§r\n\nqui puoi definire:\n- quale sezione dell'inventario del giocatore deve essere interagita con.\nil filtro controlla quali oggetti possono ricevere sostanze chimiche da questo modulo.",
+    "mekanisticrouters.guiText.tooltip.chemicalTransferTooltip": "§bMassimo trasferimento chimico\nmassimo (in MB) che verrà tentato in un'operazione singola.\nquesto è ancora limitato dal tasso di trasferimento del router (trasferimenti chimici e miglioramenti della velocità)",
+    "mekanisticrouters.itemText.chemical.maxTransfer": "Tasso chimico: fino a %s MB\/adoperazione",
+    "mekanisticrouters.itemText.usage.item.chemical_module_mk1": "trasferisce sostanze chimiche nel router, da o verso un blocco adiacente nella direzione del modulo.\n• il buffer del router deve contenere un oggetto contenitore di sostanza chimica.",
+    "mekanisticrouters.itemText.usage.item.chemical_module_mk2": "trasferisce sostanze chimiche nel router da\/verso qualsiasi blocco vicino.\n• il buffer del router deve contenere un oggetto contenitore di sostanza chimica.\n• può trasferire con i serbatoi.",
+    "mekanisticrouters.itemText.usage.item.chemical_refill_module": "Ricarica chimiche per contenitori di sostanza wireless, come ad esempio i paracaduti, all'interno della borsa del giocatore.",
+    "mekanisticrouters.itemText.usage.item.chemical_upgrade": "incrementa la quantità di fluido che un router può trasferire (in ogni direzione) di %d MB\/tick"
+}

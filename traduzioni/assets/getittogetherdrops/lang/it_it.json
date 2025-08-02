@@ -1,0 +1,6 @@
+{
+    "getittogetherdrops.configuration.checkY": "Controlla Y",
+    "getittogetherdrops.configuration.checkY.tooltip": "Imposta su vero se desideri che gli oggetti gettinati anche verificare sopra e sotto di loro, impostalo su falso se non lo desideri (\"falso\" è il comportamento originale di Minecraft).",
+    "getittogetherdrops.configuration.radius": "Raggio",
+    "getittogetherdrops.configuration.radius.tooltip": "Il raggio (in blocchi) che gli oggetti gettati dovrebbero verificare intorno a sé per altri oggetti gettati da combinare con (\"0,5\" è il comportamento di base di Minecraft)."
+}

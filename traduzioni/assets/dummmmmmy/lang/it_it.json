@@ -1,0 +1,9 @@
+{
+    "entity.dummmmmmy.target_dummy": "Scheletro bersaglio",
+    "item.dummmmmmy.target_dummy": "Schermaio bersaglio",
+    "message.dummmmmmy.crit": "Critico! %d (%dx)",
+    "message.dummmmmmy.double": "%1$s: %2$s, %3$s",
+    "message.dummmmmmy.dps": "%1$s danni per secondo (dps)",
+    "message.dummmmmmy.hps": "%1$s HP",
+    "message.dummmmmmy.single": "%1$s: %2$s"
+}

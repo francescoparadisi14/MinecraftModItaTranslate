@@ -1,0 +1,21 @@
+{
+    "jupiter.screen.back": "Back",
+    "jupiter.screen.button.remove": "Remove",
+    "jupiter.screen.button.reset": "Reset",
+    "jupiter.screen.check_server": "Checking permission...",
+    "jupiter.screen.client_config": "Client Config",
+    "jupiter.screen.config_list.title": "Jupiter Configs List",
+    "jupiter.screen.current_modifying_client": "Current modifying client config",
+    "jupiter.screen.current_modifying_dedicate_server": "Current modifying dedicate server config",
+    "jupiter.screen.current_modifying_local_server": "Current modifying local server config",
+    "jupiter.screen.disable_client": "Client config is disabled or not provided",
+    "jupiter.screen.disable_server": "No permission",
+    "jupiter.screen.error_server": "Receive invalid server config data",
+    "jupiter.screen.open": "Open config",
+    "jupiter.screen.open_client": "Open client config",
+    "jupiter.screen.open_server": "Open server config",
+    "jupiter.screen.restart_required": "(Require Restart)",
+    "jupiter.screen.server_config": "Server Config",
+    "jupiter.toast.upload_config_error_content": "Permission denied",
+    "jupiter.toast.upload_config_error_title": "Failed to modify server config"
+}

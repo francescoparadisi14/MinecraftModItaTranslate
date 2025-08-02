@@ -1,0 +1,6 @@
+{
+    "item.camol.camo_item": "Camo Block",
+    "item.camol.camo_item.camo": "Camo Block - %s",
+    "item.camol.camo_item.hover": "Right click a block to disguise it as this block. Right click a camoed block to undisguise it.",
+    "item.camol.camo_item.hover_empty": "Craft together with a block."
+}

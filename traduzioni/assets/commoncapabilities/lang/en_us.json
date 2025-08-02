@@ -1,0 +1,12 @@
+{
+    "_comment": "# Capability settings",
+    "capability.commoncapabilities.inventoryState": "Inventory state",
+    "capability.commoncapabilities.temperature": "Temperature",
+    "capability.commoncapabilities.worker": "Worker",
+    "capability.commoncapabilities.worldNameable": "Nameable world",
+    "capability.commoncapabilities.wrench": "Wrench",
+    "config.commoncapabilities": "%s configuration",
+    "recipecomponent.minecraft.energy": "Energy",
+    "recipecomponent.minecraft.fluidstack": "Fluid",
+    "recipecomponent.minecraft.itemstack": "Item"
+}

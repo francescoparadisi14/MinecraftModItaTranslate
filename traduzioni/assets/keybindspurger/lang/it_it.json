@@ -1,0 +1,6 @@
+{
+    "button.keybindspurger.purge": "Pulizia di tutti i bind per tastiera nella presente categoria",
+    "button.keybindspurger.purge_all": "Purifica tutti i tasti di scelta rapida",
+    "button.keybindspurger.purge_non_vanilla": "Purifica tutti i pulsanti di binding non originali",
+    "button.keybindspurger.reset": "Ripristina tutti i bind di tastiera nella presente categoria"
+}
