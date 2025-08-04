@@ -1,0 +1,8 @@
+{
+    "block.flightblocks.flight_block.disabled_flight": "Il volo è disabilitato!",
+    "block.flightblocks.flight_block.enabled_flight": "Il volo è abilitato!",
+    "block.flightblocks.flight_block.range": "Raggio: %s, visualizzazione raggio, clic destro per disabilitare area del raggio!",
+    "item.flightblocks.flight_block": "Blocco di volo",
+    "itemGroup.flightblocks": "Blocchi di volo",
+    "tooltips.flightblocks.flightblocks.shift.held": "Collo nel mondo per consentire il volo intorno al blocco! Raggio:"
+}

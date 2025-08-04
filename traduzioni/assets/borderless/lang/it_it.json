@@ -1,0 +1,23 @@
+{
+    "borderless.best": "Sceglie automaticamente il miglior modalità schermo pieno per l'attuale sistema operativo. Questa modalità schermo pieno è l'opzione consigliata.",
+    "borderless.borderless": "Un fullscreen senza bordi che imposta la larghezza e l'altezza della finestra sulle impostazioni del video del monitor. Inoltre, rimuove i bordi della finestra per simulare un fullscreen. Questo modo fullscreen è l'opzione migliore per Windows.",
+    "borderless.config.apply": "Applica",
+    "borderless.config.changed": "Se il modalità schermo intero non viene applicata correttamente, prova a riavviare Minecraft. Se ancora non funziona, il tuo sistema operativo potrebbe non essere pienamente compatibile.",
+    "borderless.config.disabled.description": "La finestra senza bordi è disattivata, viene utilizzato il fullscreen standard di Minecraft.",
+    "borderless.config.enabled": "Abilitato",
+    "borderless.config.enabled.tooltip": "Abilita\/disabilita finestra senza bordi",
+    "borderless.config.focus_loss": "Attivato al perdita di focus",
+    "borderless.config.focus_loss.do_nothing": "Conserva visibile",
+    "borderless.config.focus_loss.minimize": "Minimizza",
+    "borderless.config.focus_loss.switch_to_windowed": "Passa a piena finestra",
+    "borderless.config.fullscreen_mode": "Modalità di visualizzazione a schermo intero",
+    "borderless.config.fullscreen_mode.best": "Modalità schermo intero migliore",
+    "borderless.config.fullscreen_mode.borderless": "Modalità schermo pieno senza bordi",
+    "borderless.config.fullscreen_mode.native": "Modalità schermo intero nativa",
+    "borderless.config.title": "Configurazione finestra senza bordi",
+    "borderless.config.video_settings_button": "Finestra senza bordi...",
+    "borderless.config.video_settings_button.tooltip": "Opzioni di configurazione per finestre senza bordi che forniscono opzioni avanzate per l'fullscreen",
+    "borderless.native.do_nothing": "Il fullscreen standard di Minecraft, ma la finestra rimarrà sempre visibile quando si perde il focus. La finestra potrebbe essere sempre in primo piano, a seconda del sistema operativo attuale.\n\nNota: questo testo è un po' lungo e non può essere tradotto letteralmente, quindi ho cercato di rendere il significato più chiaro possibile.",
+    "borderless.native.minimize": "Il fullscreen standard di Minecraft che riduce la finestra al cambio di focus. Questo modo fullscreen è l'opzione migliore per sistemi operativi sconosciuti.",
+    "borderless.native.switch_to_windowed": "Il fullscreen standard del Minecraft, ma il window si passerà in modalità finestra appena la finestra perde il focus."
+}

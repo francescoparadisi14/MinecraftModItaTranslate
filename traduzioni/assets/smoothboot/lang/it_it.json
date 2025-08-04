@@ -1,0 +1,16 @@
+{
+    "text.autoconfig.smoothboot.option.threadCount": "Conteggio di thread",
+    "text.autoconfig.smoothboot.option.threadCount.bootstrap": "Conteggio di thread per il bootstrap dei lavoratori",
+    "text.autoconfig.smoothboot.option.threadCount.bootstrap.@Tooltip[0]": "Nota: aumentare può ridurre le prestazioni.",
+    "text.autoconfig.smoothboot.option.threadCount.bootstrap.@Tooltip[1]": "Il valore più alto è consigliato.",
+    "text.autoconfig.smoothboot.option.threadCount.main": "Conteggio di thread principale per il booting liscio",
+    "text.autoconfig.smoothboot.option.threadCount.main.@Tooltip[0]": "Questo valore ha un grande impatto sui tempi di caricamento.",
+    "text.autoconfig.smoothboot.option.threadCount.main.@Tooltip[1]": "può anche influire sulle prestazioni del gioco.",
+    "text.autoconfig.smoothboot.option.threadPriority": "Priorità del thread",
+    "text.autoconfig.smoothboot.option.threadPriority.bootstrap": "Priorità del lavoratore di avvio",
+    "text.autoconfig.smoothboot.option.threadPriority.game": "Priorità del thread di gioco",
+    "text.autoconfig.smoothboot.option.threadPriority.integratedServer": "Priorità del thread del server integrato",
+    "text.autoconfig.smoothboot.option.threadPriority.io": "Priorità del lavoratore di input\/output",
+    "text.autoconfig.smoothboot.option.threadPriority.main": "Priorità del lavoratore principale",
+    "text.autoconfig.smoothboot.title": "Avvio liscio"
+}

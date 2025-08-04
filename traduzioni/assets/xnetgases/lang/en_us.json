@@ -1,0 +1,19 @@
+{
+    "xnetgases.channel.chemical": "Chemical",
+    "xnetgases.channel.chemical_logic": "Chemical Logic",
+    "xnetgases.chemical.min_max.tooltip.formatted": "Disable %s if chemical|is too %s",
+    "xnetgases.chemical.rate.tooltip.formatted": "Chemical %s rate|(max %d mb)",
+    "xnetgases.enum.channel_mode.priority": "Priority",
+    "xnetgases.enum.channel_mode.priority.tooltip": "Distribution mode|Current: Priority",
+    "xnetgases.enum.channel_mode.round_robin": "Roundrobin",
+    "xnetgases.enum.channel_mode.round_robin.tooltip": "Distribution mode|Current: Roundrobin",
+    "xnetgases.enum.connector_mode.ext": "Ext",
+    "xnetgases.enum.connector_mode.ext.tooltip": "Extract chemicals from|connected block",
+    "xnetgases.enum.connector_mode.ins": "Ins",
+    "xnetgases.enum.connector_mode.ins.tooltip": "Insert chemicals to|connected block",
+    "xnetgases.enum.sensor_mode.off": "Off",
+    "xnetgases.enum.sensor_mode.off.tooltip": "Not used",
+    "xnetgases.enum.sensor_mode.on": "On",
+    "xnetgases.enum.sensor_mode.on.tooltip": "Scans the amount of chemical|in connected block",
+    "xnetgases.require_insert_rate.label": "Require insert rate"
+}

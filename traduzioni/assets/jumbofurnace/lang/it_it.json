@@ -1,0 +1,20 @@
+{
+    "block.jumbofurnace.jumbo_furnace": "Fornace gigante",
+    "container.jumbofurnace.jumbo_furnace": "Fornace gigante",
+    "emi.category.jumbofurnace.jumbo_smelting": "Smaltimento jumbo",
+    "gui.jumbofurnace.category.jumbo_furnace_upgrade": "Aggiornamento forno gigante",
+    "gui.jumbofurnace.category.jumbo_smelting": "Smaltimento jumbo",
+    "gui.jumbofurnace.category.multiblock_building": "Costruzione di blocchi multipli",
+    "item.jumbofurnace.jumbo_furnace": "Fornace gigante",
+    "item.jumbofurnace.jumbo_furnace_jei": "Fornace gigante",
+    "jumbofurnace.advancements.story.assemble_jumbo_furnace.description": "Colloca 27 forni in un cubo di 3x3x3 per creare il forno gigante.",
+    "jumbofurnace.advancements.story.assemble_jumbo_furnace.title": "Fornace gigante",
+    "jumbofurnace.advancements.story.fully_upgrade_jumbo_furnace.description": "Sostituire un forno gigante completo con una pila completa di 64 forni giganti",
+    "jumbofurnace.advancements.story.fully_upgrade_jumbo_furnace.title": "Fornaci in profondità",
+    "jumbofurnace.advancements.story.obtain_jumbo_furnace.description": "Creare un oggetto di forno gigante (potenzialmente smaltando 27 forni in un forno gigante)",
+    "jumbofurnace.advancements.story.obtain_jumbo_furnace.title": "Più piccolo all'esterno",
+    "jumbofurnace.advancements.story.upgrade_jumbo_furnace.description": "Aggiorna la tua fornace gigante con una fornace gigante",
+    "jumbofurnace.advancements.story.upgrade_jumbo_furnace.title": "Più grande all'interno",
+    "jumbofurnace.jumbo_furnace_info_tooltip": "Colloca 27 forni in un cubo di 3x3x3 per creare il forno gigante.",
+    "jumbofurnace.jumbo_furnace_upgrade_info": "Gli oggetti sopra elencati possono essere collocati nel rullo di aggiornamento di un forno gigante per aumentare il numero di ricette che può fondere in ogni ciclo di cottura."
+}

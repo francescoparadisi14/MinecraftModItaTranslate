@@ -1,0 +1,16 @@
+{
+    "config.jade.plugin_vapourware.fuel": "VapourWare Fuel Jade Plugin",
+    "item.vapourware.wrench": "Handyman's Wrench",
+    "itemGroup.vapourware": "VapourWare",
+    "vapourware.fuel": "Fuel: %d",
+    "vapourware.fuel.info": "Requires fuel to operate",
+    "vapourware.fuel_excess.info": "Will consume fuel that would exceed the fuel storage only when unable to work otherwise (potentially wasteful with high-value modded fuels).",
+    "vapourware.fuelslot": "Fuel Slot",
+    "vapourware.ingredientslot": "Ingredient Slot",
+    "vapourware.itemslot": "%s Slot",
+    "vapourware.outputslot": "Output Slot",
+    "vapourware.shift_info": "Hold SHIFT for info",
+    "vapourware.toolslot": "Tool Slot",
+    "vapourware.voidfilterslot": "Void-Filter Slot",
+    "vapourware.wrench.info": "Punch machines to disassemble them without losing fuel or broken down ingredients.\nRight-click rotatable blocks to rotate.\nCrouch-right-click to interact or repair applicable machines"
+}

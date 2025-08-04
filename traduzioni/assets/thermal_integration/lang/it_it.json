@@ -1,0 +1,17 @@
+{
+    "_comment": "Nota: =========================================================================================================",
+    "block.thermal.rose_gold_block": "Blocco di oro rosa",
+    "block.thermal.steel_block": "Blocco di acciaio",
+    "item.thermal.rose_gold_coin": "Moneta d'oro rosa",
+    "item.thermal.rose_gold_dust": "Miscela d'oro rosa",
+    "item.thermal.rose_gold_gear": "Freddatura d'oro rose",
+    "item.thermal.rose_gold_ingot": "Ingot di oro rosa",
+    "item.thermal.rose_gold_nugget": "Borsa d'oro rosa",
+    "item.thermal.rose_gold_plate": "Tavola d'oro rosa",
+    "item.thermal.steel_coin": "Moneta di acciaio",
+    "item.thermal.steel_dust": "Polvere di acciaio",
+    "item.thermal.steel_gear": "Assottigliatore in acciaio",
+    "item.thermal.steel_ingot": "Ingot di acciaio termico",
+    "item.thermal.steel_nugget": "Borsone di acciaio",
+    "item.thermal.steel_plate": "Tavoletta di acciaio"
+}

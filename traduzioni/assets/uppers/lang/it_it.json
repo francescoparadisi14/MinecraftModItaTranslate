@@ -1,0 +1,9 @@
+{
+    "_comment": "Nota: schede creative",
+    "block.uppers.upper": "Superiore",
+    "container.upper": "Elemento superiore",
+    "item.uppers.upper_item": "Articolo superiore",
+    "itemGroup.uppers": "Superiori",
+    "tooltip.upper_1": "Funziona come un tubo di estrazione invertito.",
+    "tooltip.upper_2": "Assorbe gli oggetti dal blocco sottostante."
+}

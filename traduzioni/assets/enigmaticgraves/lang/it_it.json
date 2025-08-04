@@ -1,0 +1,9 @@
+{
+    "config.jade.plugin_enigmaticgraves.grave": "Plugin tombe enigmatiche",
+    "enigmaticgraves.grave.not_found": "Tomba non trovata",
+    "entity.enigmaticgraves.grave": "Tomba",
+    "grave.locate": "Il sepolcro è in %s",
+    "info.grave.not_found": "Posizione tomba non trovata!",
+    "info.grave.remove_grave": "Nessuna posizione tomba. Fai clic destro su di me (nella modalità creativa) su una tomba per rimuoverla!",
+    "item.enigmaticgraves.grave_finder": "Trova sepolcro"
+}

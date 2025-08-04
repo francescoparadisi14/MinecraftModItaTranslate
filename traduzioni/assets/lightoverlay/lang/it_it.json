@@ -1,0 +1,20 @@
+{
+    "config.lightoverlay.caching": "Caching:",
+    "config.lightoverlay.crossLevel": "Livello di luce:",
+    "config.lightoverlay.general": "Impostazioni generali",
+    "config.lightoverlay.invalidColor": "Colore non valido",
+    "config.lightoverlay.lineWidth": "Larghezza della riga:",
+    "config.lightoverlay.mushroom": "Visualizza in biomi di funghi:",
+    "config.lightoverlay.reach": "Portata:",
+    "config.lightoverlay.redColor": "Colore rosso:",
+    "config.lightoverlay.secondaryColor": "Colore secondario:",
+    "config.lightoverlay.secondaryLevel": "Livello di luce secondario:",
+    "config.lightoverlay.showNumber": "Mostra numero invece:",
+    "config.lightoverlay.smoothLines": "Linee lisce:",
+    "config.lightoverlay.underwater": "Visualizza sott'acqua:",
+    "config.lightoverlay.useListWhileCaching": "Usa lista di illuminazione durante la cache:",
+    "config.lightoverlay.yellowColor": "Colore giallo:",
+    "description.lightoverlay.caching": "Il caching è raccomandato se la portata è superiore a 16 o se si sta eseguendo su un patato.",
+    "key.lightoverlay.category": "Sovrapposizione di luce",
+    "key.lightoverlay.enable_overlay": "Abilita sovrapposizione luce (alternare)"
+}

@@ -1,0 +1,9 @@
+{
+    "block.rsrequestify.crafting_emitter": "Emettitore di crafting",
+    "block.rsrequestify.crafting_emitter.tooltip": "Emette un segnale di Redstone quando viene creato qualsiasi oggetto\/fluido presente nel filtro.",
+    "block.rsrequestify.requester": "Richiedente",
+    "block.rsrequestify.requester.tooltip": "Conserva l'oggetto\/fluido filtrato in magazzino con la quantità desiderata.",
+    "button.refinedstoragerequestify:requester.save": "Salva",
+    "itemGroup.rsrequestify": "Gruppo di oggetti rs: richiesta in formato",
+    "tooltip.refinedstoragerequestify:requester.missing": "Ingredienti mancanti"
+}

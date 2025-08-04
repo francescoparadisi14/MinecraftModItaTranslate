@@ -1,0 +1,16 @@
+{
+    "config.jade.plugin_vapourware.fuel": "Combustibile del plugin Jade Vapourware",
+    "item.vapourware.wrench": "Chiave a mano del falegname",
+    "itemGroup.vapourware": "Vapourware",
+    "vapourware.fuel": "Combustibile: %d",
+    "vapourware.fuel.info": "Richiede combustibile per funzionare",
+    "vapourware.fuel_excess.info": "Consumirà combustibile in eccesso rispetto allo stoccaggio di combustibile solo quando non potrebbe lavorare altrimenti, potenzialmente spreco con combustibili modificati di alto valore.",
+    "vapourware.fuelslot": "Scheda combustibile",
+    "vapourware.ingredientslot": "Slot di ingrediente",
+    "vapourware.itemslot": "Slot %s",
+    "vapourware.outputslot": "Slot di output",
+    "vapourware.shift_info": "Tieni premuto Shift per informazioni",
+    "vapourware.toolslot": "Slot strumento",
+    "vapourware.voidfilterslot": "Slot filtro vuoto",
+    "vapourware.wrench.info": "Imposta macchine a martellate per smontarle senza perdere carburante o ingredienti danneggiati. Fai clic destro su blocchi ruotabili per ruotare. Fai clic destro con la schiena china per interagire o riparare macchine applicabili."
+}

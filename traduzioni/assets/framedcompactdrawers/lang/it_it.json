@@ -1,0 +1,13 @@
+{
+    "block.framedcompactdrawers.framed_compact_drawer": "Cassetto compattore a cornice",
+    "block.framedcompactdrawers.framed_drawer_controller": "Controllore cassetto a cornice",
+    "block.framedcompactdrawers.framed_full_four": "Cassetti inquadinati 2x2",
+    "block.framedcompactdrawers.framed_full_one": "Cassetto inquadro",
+    "block.framedcompactdrawers.framed_full_two": "Cassetti inquadinati 1x2",
+    "block.framedcompactdrawers.framed_half_four": "Schede a metà inquadrate da 2x2",
+    "block.framedcompactdrawers.framed_half_one": "Cassetto a mezzo inquadernato",
+    "block.framedcompactdrawers.framed_half_two": "Cassetti inquadinati a mezzo 1x2",
+    "block.framedcompactdrawers.framed_slave": "Schiavo di controllore a cornice",
+    "block.framedcompactdrawers.framed_trim": "Tappeto di cornice",
+    "itemGroup.framed_compacting_drawers": "Cassetti compatti inquadinati"
+}

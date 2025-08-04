@@ -1,0 +1,9 @@
+{
+    "item.bbllights.diamond_invisible_light_placer": "Piastra di luce invisibile di diamante",
+    "item.bbllights.invisible_light": "Luce invisibile",
+    "item.bbllights.iron_invisible_light_placer": "Piastra di luce invisibile in ferro",
+    "item.bbllights.netherite_invisible_light_placer": "Posizionatore di luce invisibile in netherite",
+    "itemGroup.bbllights": "Gruppo di oggetti: Luci invisibili BBL",
+    "tooltips.bbllights.light_item": "Collocerà livello di luce: %s",
+    "tooltips.bbllights.shift": "Premi Shift per avere più informazioni"
+}

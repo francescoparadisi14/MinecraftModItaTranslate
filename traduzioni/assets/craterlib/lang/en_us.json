@@ -1,0 +1,11 @@
+{
+    "cl.buttons.add_entry": "+ Add Entry",
+    "cl.buttons.edit": "Edit",
+    "cl.buttons.entry": "Entry %s",
+    "t.clc.cancel_discard": "Discard",
+    "t.clc.opensubconfig": "Open Config",
+    "t.clc.quit_config": "Unsaved Changes",
+    "t.clc.quit_config_sure": "You have unsaved config changes. Are you sure you want to discard them?",
+    "t.clc.quit_discard": "Quit & Discard",
+    "t.clc.save": "Save"
+}

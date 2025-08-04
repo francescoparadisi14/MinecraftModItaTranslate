@@ -1,0 +1,9 @@
+{
+    "_comment": "Creative Tabs",
+    "block.uppers.upper": "Upper",
+    "container.upper": "Item Upper",
+    "item.uppers.upper_item": "Upper",
+    "itemGroup.uppers": "Uppers",
+    "tooltip.upper_1": "Works like an upside-down hopper.",
+    "tooltip.upper_2": "Sucks items up from block below."
+}

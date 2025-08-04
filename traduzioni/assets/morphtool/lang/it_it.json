@@ -1,0 +1,14 @@
+{
+    "item.morphtool.tool": "Strumento di trasformazione",
+    "morphtool.configuration.allow_all_items": "Consenti tutti gli oggetti",
+    "morphtool.configuration.blacklist_mods": "Moduli blacklistati",
+    "morphtool.configuration.mod_aliasses": "Alias dei moduli",
+    "morphtool.configuration.offhand_morph": "Morfo off-hand",
+    "morphtool.configuration.offhand_morph.tooltip": "Sostituisci la forma nella mano secondaria anziché principale",
+    "morphtool.configuration.section.morphtool.common.toml.title": "Configurazione morph-o-tool",
+    "morphtool.configuration.title": "Titolo",
+    "morphtool.configuration.whitelist_items": "Elementi autorizzati",
+    "morphtool.configuration.whitelist_names": "Nomi autorizzati",
+    "morphtool.misc.shift_for_info": "Tieni premuto shift per ulteriori informazioni",
+    "morphtool.sudo_name": "Strumento di morfizzazione (%s)"
+}

@@ -1,0 +1,11 @@
+{
+    "cl.buttons.add_entry": "+ Aggiungi voce d'elenco",
+    "cl.buttons.edit": "Modifica",
+    "cl.buttons.entry": "Inserisci %s",
+    "t.clc.cancel_discard": "Annulla",
+    "t.clc.opensubconfig": "Apri configurazione",
+    "t.clc.quit_config": "Modifiche non salvate",
+    "t.clc.quit_config_sure": "Hai modifiche non salvate alle impostazioni. Sei sicuro di volerle discartare?",
+    "t.clc.quit_discard": "Esci e abbandona",
+    "t.clc.save": "Salva"
+}

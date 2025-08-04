@@ -1,0 +1,14 @@
+{
+    "balancedflight.ponder.flight_anchor.header": "Volata bilanciata con forza rotazionale alimentata",
+    "balancedflight.ponder.flight_anchor.text_1": "Il puntatore di volo richiede un'enorme quantità di potenza per funzionare.",
+    "balancedflight.ponder.flight_anchor.text_2": "Per ogni giro al minuto, potrai volare un blocco attorno all'ancora.",
+    "balancedflight.ponder.flight_anchor.text_3": "Le velocità più elevate coprono una superficie molto maggiore.",
+    "balancedflight.ponder.tag.flight_anchor": "Anchia volo",
+    "balancedflight.ponder.tag.flight_anchor.description": "Volata bilanciata con forza rotazionale alimentata",
+    "block.balancedflight.flight_anchor": "Anchia volo",
+    "curios.identifier.flight_ring": "Anello del volo",
+    "item.balancedflight.ascended_flight_ring": "Anello di volo ascendente",
+    "itemGroup.balancedflight.base": "Creare volo bilanciato",
+    "tooltip.balancedflight.ascended_flight_ring": "Un anello d'oro incredibilmente denso eppure consente il volo ovunque.",
+    "tooltip.balancedflight.flight_anchor": "Consente il volo entro un raggio di 25 blocchi. Funziona solo nel mondo superficiale."
+}

@@ -1,0 +1,7 @@
+{
+    "_comment": "Commento: blocchi",
+    "block.flopper.flopper": "Flopper",
+    "block.flopper.flopper.info": "Un serbatoio per il trasferimento di fluidi",
+    "general.flopper.description": "Un contenitore per il trasferimento di fluidi",
+    "itemGroup.flopper": "Flopper"
+}

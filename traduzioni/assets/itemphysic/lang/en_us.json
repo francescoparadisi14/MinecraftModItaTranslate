@@ -1,0 +1,5 @@
+{
+    "item.throw": "Power: %s",
+    "item.tooltip.pickup.keybind": "Press '%s' to pick",
+    "key.pickup.item": "Pickup Item"
+}

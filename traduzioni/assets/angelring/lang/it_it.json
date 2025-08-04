@@ -1,0 +1,15 @@
+{
+    "angelring.durability.broken": "Your Angel Ring has been shattered... :(",
+    "angelring.durability.low_durability": "Your Angel Ring is running low on durability!",
+    "angelring.durability.tooltip": "Angel Ring drains it's durability over time while flying.",
+    "angelring.xp.flight_restored": "Seems the magic has been restored. You can fly again!",
+    "angelring.xp.no_more_xp": "You need to have XP to fly. Get more XP to fly again.",
+    "curios.identifier.angelring": "Anello dell'angelo",
+    "item.angelring.angel_ring": "Anello dell'angelo",
+    "item.angelring.angel_ring.classic.desc0_1": "Concede il volo creativo quando si trova nello slot Ring.",
+    "item.angelring.angel_ring.desc0": "L'Anello dell'angelo prosciuga XP del giocatore nel tempo mentre vola.",
+    "item.angelring.angel_ring.desc1": "Se la XP del giocatore raggiunge meno di 1 livello,",
+    "item.angelring.angel_ring.desc2": "la magia scomparirà e il volo non sarà possibile.",
+    "item.angelring.diamond_ring": "Anello di diamante",
+    "itemGroup.angelring3": "Angel Ring 3"
+}

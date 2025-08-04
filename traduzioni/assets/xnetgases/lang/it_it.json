@@ -1,0 +1,19 @@
+{
+    "xnetgases.channel.chemical": "Canale chimico",
+    "xnetgases.channel.chemical_logic": "Logica chimica",
+    "xnetgases.chemical.min_max.tooltip.formatted": "Disabilita %s se il chimico è troppo %s",
+    "xnetgases.chemical.rate.tooltip.formatted": "Tasso chimico %s | (massimo %d MB)",
+    "xnetgases.enum.channel_mode.priority": "Priorità",
+    "xnetgases.enum.channel_mode.priority.tooltip": "Modalità di distribuzione|attuale: priorità",
+    "xnetgases.enum.channel_mode.round_robin": "Round Robin",
+    "xnetgases.enum.channel_mode.round_robin.tooltip": "Modalità di distribuzione|attuale: round robin",
+    "xnetgases.enum.connector_mode.ext": "Esterno",
+    "xnetgases.enum.connector_mode.ext.tooltip": "Estrai chimiche da|blocco connesso",
+    "xnetgases.enum.connector_mode.ins": "Inserimento",
+    "xnetgases.enum.connector_mode.ins.tooltip": "Inserisci sostanze chimiche per|blocco connesso",
+    "xnetgases.enum.sensor_mode.off": "Disattivato",
+    "xnetgases.enum.sensor_mode.off.tooltip": "Non utilizzato",
+    "xnetgases.enum.sensor_mode.on": "Attivato",
+    "xnetgases.enum.sensor_mode.on.tooltip": "Scansiona la quantità di sostanza chimica|nel blocco connesso",
+    "xnetgases.require_insert_rate.label": "Richiedi tasso di inserimento"
+}

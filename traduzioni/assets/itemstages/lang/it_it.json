@@ -1,0 +1,15 @@
+{
+    "itemstages.hidden_name": "Oggetto non troppo sconosciuto",
+    "message.itemstages.attack": "Non sai come attaccare con il %s.",
+    "message.itemstages.drop": "hai lasciato cadere il %s.",
+    "message.itemstages.mine": "Non sai come estrarre con il %s.",
+    "message.itemstages.pickup": "Non hai potuto raccogliere il %s.",
+    "message.itemstages.use": "Non sai come utilizzare il %s.",
+    "tooltip.itemstages.debug.attack": "- Questo oggetto non può essere utilizzato come arma.",
+    "tooltip.itemstages.debug.drop": "- Questo oggetto verrà rilasciato dalla inventario.",
+    "tooltip.itemstages.debug.jei": "- Questo oggetto sarà nascosto in JEI.",
+    "tooltip.itemstages.debug.pickup": "- Questo oggetto non può essere raccolto.",
+    "tooltip.itemstages.debug.use": "- Questo oggetto non può essere utilizzato su blocchi o entità.",
+    "tooltip.itemstages.hidden_name": "Oggetto sconosciuto",
+    "tooltip.itemstages.item.description": "Questo oggetto è stato messo in scena per [%s]"
+}

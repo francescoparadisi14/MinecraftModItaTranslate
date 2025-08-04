@@ -3,6 +3,7 @@
     "item.universalgrid.creative_wireless_universal_grid": "Creative Wireless Universal Grid",
     "item.universalgrid.wireless_universal_grid": "Wireless Universal Grid",
     "key.universalgrid.open_wireless_universal_grid": "Open Wireless Universal Grid",
+    "key.universalgrid.switch_wireless_universal_grid_type": "Switch Wireless Universal Grid Type",
     "mod.universalgrid": "Universal Grid",
     "text.autoconfig.universalgrid.option.wirelessUniversalGrid": "Wireless Universal Grid",
     "text.autoconfig.universalgrid.option.wirelessUniversalGrid.energyCapacity": "Energy capacity",

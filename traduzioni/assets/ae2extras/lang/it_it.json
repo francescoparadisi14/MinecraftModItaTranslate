@@ -1,0 +1,19 @@
+{
+    "block.ae2extras.16m_crafting_storage": "Magazzino di crafting a 16 metri",
+    "block.ae2extras.1m_crafting_storage": "Magazzino di crafting a 1 metro",
+    "block.ae2extras.4m_crafting_storage": "Magazzino di crafting 4m",
+    "block.ae2extras.64m_crafting_storage": "Magazzino di crafting 64m",
+    "item.ae2extras.cell_component_16m": "Componente di archiviazione 16m me",
+    "item.ae2extras.cell_component_1m": "Componente di archiviazione 1m me",
+    "item.ae2extras.cell_component_4m": "Componente di archiviazione 4m me",
+    "item.ae2extras.cell_component_64m": "Componente di archiviazione 64m me",
+    "item.ae2extras.fluid_storage_cell_16m": "Cella di stoccaggio dei fluidi 16m me",
+    "item.ae2extras.fluid_storage_cell_1m": "Cella di stoccaggio dei fluidi da 1 metro cubo",
+    "item.ae2extras.fluid_storage_cell_4m": "Cella di stoccaggio dei fluidi 4m me",
+    "item.ae2extras.fluid_storage_cell_64m": "Cella di stoccaggio dei fluidi da 64m me",
+    "item.ae2extras.item_storage_cell_16m": "Cella di archiviazione 16m me",
+    "item.ae2extras.item_storage_cell_1m": "Cella di archiviazione 1m me",
+    "item.ae2extras.item_storage_cell_4m": "Cella di archiviazione 4m me",
+    "item.ae2extras.item_storage_cell_64m": "Cella di archiviazione 64m me",
+    "itemGroup.ae2extras": "Accessori AE2"
+}
