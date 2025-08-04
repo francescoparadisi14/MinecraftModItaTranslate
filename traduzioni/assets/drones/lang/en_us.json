@@ -1,0 +1,15 @@
+{
+    "_comment": "Creative Tabs",
+    "entity.drones.drone": "Drone",
+    "entity.drones.laser_beam": "Drone Laser Beam",
+    "entity.drones.player_drone": "Constructed Drone",
+    "entity.drones.saw_blade": "Drone Whizzing Blade of Death",
+    "item.drones.drone_constructor": "Drone Constructor",
+    "item.drones.drone_disruptor": "Drone Disruptor",
+    "item.drones.drone_spawn_egg": "Spawn Drone",
+    "itemGroup.drones": "Drones",
+    "tooltip.constructor_1": "Single Use.",
+    "tooltip.constructor_2": "Spawns a Player Owned Drone.",
+    "tooltip.disruptor_1": "Single Use in Emergencies.",
+    "tooltip.disruptor_2": "Destroys all Drones in a 16 Block Radius."
+}

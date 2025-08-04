@@ -1,0 +1,15 @@
+{
+    "_comment": "Nota: schede creative",
+    "entity.drones.drone": "Drone",
+    "entity.drones.laser_beam": "Fascio laser del drone",
+    "entity.drones.player_drone": "Drone costruito",
+    "entity.drones.saw_blade": "Lama di morte del drone che vorticava",
+    "item.drones.drone_constructor": "Costruttore di droni",
+    "item.drones.drone_disruptor": "Disruptore drone",
+    "item.drones.drone_spawn_egg": "Uovo di spawn del droni",
+    "itemGroup.drones": "Drone",
+    "tooltip.constructor_1": "Utilizzo singolo.",
+    "tooltip.constructor_2": "Genera un dron di proprietà del giocatore.",
+    "tooltip.disruptor_1": "Utilizzo singolo in emergenze.",
+    "tooltip.disruptor_2": "Distrugge tutti i droni entro un raggio di 16 blocchi."
+}

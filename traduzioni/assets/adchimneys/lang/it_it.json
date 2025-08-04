@@ -1,0 +1,15 @@
+{
+    "block.adchimneys.cobblestone_chimney": "Caminetto in pietra ciottola",
+    "block.adchimneys.glass_chimney": "Ciminiera in vetro",
+    "block.adchimneys.large_brick_chimney": "Caminetto in mattoni grande",
+    "block.adchimneys.metal_chimney": "Caminetto metallico",
+    "block.adchimneys.metal_pump": "Pompa metallica",
+    "block.adchimneys.metal_vent": "Fregio metallico",
+    "block.adchimneys.pipe": "Tubo di pompaggio",
+    "block.adchimneys.small_brick_chimney": "Caminetto di mattoni piccolo",
+    "block.adchimneys.stone_chimney": "Caminetto in pietra",
+    "block.adchimneys.stone_pump": "Pompa di pietra",
+    "block.adchimneys.stone_vent": "Forno di pietra",
+    "item.adchimneys.wooden_paintbrush": "Spazzola di pittura in legno",
+    "tabs.adchimneys.advanced_chimneys": "Camini avanzati"
+}

@@ -1,0 +1,15 @@
+{
+    "block.adchimneys.cobblestone_chimney": "Cobblestone Chimney",
+    "block.adchimneys.glass_chimney": "Glass Chimney",
+    "block.adchimneys.large_brick_chimney": "Large Brick Chimney",
+    "block.adchimneys.metal_chimney": "Metal Chimney",
+    "block.adchimneys.metal_pump": "Metal Pump",
+    "block.adchimneys.metal_vent": "Metal Vent",
+    "block.adchimneys.pipe": "Pump Pipe",
+    "block.adchimneys.small_brick_chimney": "Small Brick Chimney",
+    "block.adchimneys.stone_chimney": "Stone Chimney",
+    "block.adchimneys.stone_pump": "Stone Pump",
+    "block.adchimneys.stone_vent": "Stone Vent",
+    "item.adchimneys.wooden_paintbrush": "Wooden Paintbrush",
+    "tabs.adchimneys.advanced_chimneys": "Advanced Chimneys"
+}

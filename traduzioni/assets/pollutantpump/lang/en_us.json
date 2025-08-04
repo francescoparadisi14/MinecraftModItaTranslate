@@ -1,0 +1,5 @@
+{
+    "block.pollutantpump.pipe": "Pump Pipe",
+    "block.pollutantpump.pump": "Pollutant Pump",
+    "itemGroup.pollutantpump": "Pollutant Pump"
+}
