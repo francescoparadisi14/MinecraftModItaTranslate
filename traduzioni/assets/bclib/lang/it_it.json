@@ -41,7 +41,7 @@
     "message.bclib.datafixer.progress.waitbackup": "In attesa del completamento del backup. Ciò potrebbe richiedere un po' di tempo!",
     "message.bclib.datafixer.progress.worlddata": "Aggiornamento dati mondo personalizzati",
     "message.bclib.filesync.progress": "Sincronizzazione contenuto del file con il server",
-    "message.bclib.filesync.progress.stage.empty": "Nessun file da sincronizzare.",
+    "message.bclib.filesync.progress.stage.empty": "",
     "message.bclib.modmissmatch": "Alcuni mod sul tuo cliente non corrispondono alla versione dei mod sul server.\n\ni mod non allineati possono causare comportamenti di gioco strani o crash. assicurati di utilizzare gli stessi mod del server.",
     "message.bclib.syncfiles": "Il contenuto su questo server non corrisponde alle versioni sul client. Vuoi sostituire il contenuto selezionato con i dati del server?",
     "message.bclib.syncfiles.configs": "Sincronizzare configurazioni",

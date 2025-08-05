@@ -23,7 +23,7 @@
     "reauth.gui.text.microsoft": "Accedi utilizzando un account Xbox",
     "reauth.gui.text.offline": "Scegli un nome utente offline",
     "reauth.gui.text.profile": "Accedi utilizzando il profilo salvato",
-    "reauth.gui.title.flow": "Titolo di reautenticazione",
+    "reauth.gui.title.flow": "",
     "reauth.gui.title.main": "Ri-autenticazione",
     "reauth.gui.title.offline": "Scegli un nome utente",
     "reauth.login.error": "errore: %s (con sfondo rosso)",

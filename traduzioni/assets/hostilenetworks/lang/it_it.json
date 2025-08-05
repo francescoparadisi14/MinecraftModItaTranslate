@@ -32,7 +32,7 @@
     "hostilenetworks.gui.learner_empty.1": "Inserisci Un Modello Di Dati, Per Favore!",
     "hostilenetworks.gui.learner_empty.2": "I Tuoi Modelli Saranno Addestrati",
     "hostilenetworks.gui.learner_empty.3": "Quando Posto Nel Deep Learner",
-    "hostilenetworks.gui.learner_empty.4": "Vuoto",
+    "hostilenetworks.gui.learner_empty.4": "",
     "hostilenetworks.gui.learner_empty.5": "In Ordine Di Addestrare Il Modello",
     "hostilenetworks.gui.learner_empty.6": "Devi Infliggere Il Colpo Mortale.",
     "hostilenetworks.gui.max_data": "Sono Al Massimo Potenziale",

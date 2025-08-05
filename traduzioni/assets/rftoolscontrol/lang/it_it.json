@@ -47,7 +47,7 @@
     "message.rftoolscontrol.interaction_module.header": "Un modulo per una schermata che consente di interagire con un elaboratore",
     "message.rftoolscontrol.interaction_module.info": "elaboratore:",
     "message.rftoolscontrol.interaction_module.uses": "Utilizzo di potenza:",
-    "message.rftoolscontrol.network_card.extra": "Nessun messaggio aggiuntivo disponibile per la scheda di rete.",
+    "message.rftoolscontrol.network_card.extra": "",
     "message.rftoolscontrol.network_card.gold": "Usa 'net setup <nome>' nel console del processore per configurare la rete.",
     "message.rftoolscontrol.network_card.header": "Inserisci questo nel processore per consentire l'accesso ai nodi vicini",
     "message.rftoolscontrol.network_card.range": "Area di range: 17x17x17",

@@ -398,7 +398,7 @@
     "button.apotheosis.skip_tutorial": "Ignora tutorial",
     "button.apotheosis.summit": "Cima",
     "button.apotheosis.tier_advancement": "Completa l'avanzamento \"%s\" per sbloccare.",
-    "button.apotheosis.tier_advancement_criteria": "Criteri di avanzamento del livello superiore",
+    "button.apotheosis.tier_advancement_criteria": "",
     "button.apotheosis.tier_locked": "%s (bloccato)",
     "button.apotheosis.upgrade": "Aggiorna gemma",
     "button.apotheosis.upgrade.no": "Input mancanti",

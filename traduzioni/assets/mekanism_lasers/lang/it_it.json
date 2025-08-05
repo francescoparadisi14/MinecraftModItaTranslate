@@ -26,7 +26,7 @@
     "description.mekanism.laser_stopper": "Blocco che può prendere forma di qualsiasi blocco e ancora bloccare i laser.",
     "description.mekanism.laser_toggleable": "Luce estremamente concentrata; ma può essere attivata\/disattivata :d",
     "description.mekanism.ore_generator": "usa la luce per convertire l'energia in minerali",
-    "es.port.mode": "Modalità porta (vuota)",
+    "es.port.mode": "",
     "gui.ore_generator.energy_per_ore": "Energia utilizzata per ogni minerale generato",
     "item.mekanism_lasers.remote_control": "Controllo remoto",
     "item_group.mekanism_lasers": "Laser Mekanism"

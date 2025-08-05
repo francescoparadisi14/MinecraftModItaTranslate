@@ -1,7 +1,7 @@
 {
     "crafting_on_a_stick.key.open_curios": "Apri crafting on a stick",
     "curios.identifier.crafting_on_a_stick": "Crafting su un bastone",
-    "gui.crafting_on_a_stick.prefix": "Crafting on a Stick",
+    "gui.crafting_on_a_stick.prefix": "",
     "gui.crafting_on_a_stick.suffix": "con bastone",
     "item.crafting_on_a_stick.anvil": "%1$s su %2$s con %3$s",
     "item.crafting_on_a_stick.cartography_table": "Tavola di cartografia %1$s con %2$s e %3$s",

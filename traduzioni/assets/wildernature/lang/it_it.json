@@ -301,9 +301,9 @@
     "tooltip.wildernature.truffled": "Questo oggetto è stato raffinato con tartufo:",
     "tooltip.wildernature.truffled.nutrition": "+20% di nutrizione",
     "tooltip.wildernature.truffled.saturationModifier": "Modificatore di saturazione +20%",
-    "wildernature.tier1": "Livello 1",
-    "wildernature.tier2": "Secondo livello di natura selvaggia",
-    "wildernature.tier3": "Terzo livello di natura selvaggia",
-    "wildernature.tier4": "Tier 4",
-    "wildernature.tier5": "Livello 5 della natura selvaggia"
+    "wildernature.tier1": "",
+    "wildernature.tier2": "",
+    "wildernature.tier3": "",
+    "wildernature.tier4": "",
+    "wildernature.tier5": ""
 }

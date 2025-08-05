@@ -1076,7 +1076,7 @@
     "item.modern_industrialization.yellow_me_wire": "Fil di rame giallo",
     "item.modern_industrialization.yttrium_dust": "Polvere di ittrio",
     "item.modern_industrialization.yttrium_tiny_dust": "Polvere di ittrio minuscola",
-    "item_tooltip.modern_industrialization.cable.line_0": "Linea di alimentazione 0",
+    "item_tooltip.modern_industrialization.cable.line_0": "",
     "item_tooltip.modern_industrialization.cable.line_1": "Può alimentare blocchi da qualsiasi modulo, ma può estrarre energia solo dai blocchi e dalle macchine di Industrializzazione Moderna.",
     "item_tooltip.modern_industrialization.cable.line_2": "Sono gli unici cavi in grado di alimentare le macchine dell'industrializzazione moderna.",
     "item_tooltip.modern_industrialization.forge_hammer.line_0": "Usalo per aumentare la produzione dei tuoi blocchi di minerale nel gioco iniziale!",

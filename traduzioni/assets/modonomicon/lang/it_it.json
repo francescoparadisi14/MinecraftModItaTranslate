@@ -123,7 +123,7 @@
     "book.modonomicon.demo.index_mode.name": "Categoria di indice del modo demo",
     "book.modonomicon.demo.name": "Libro di demo",
     "book.modonomicon.demo.tooltip": "Un libro per mostrare e testare le funzionalità di Modonomicon.",
-    "book.modonomicon.demo_leaflet.leaflet.leaflet.description": "Descrizione non disponibile",
+    "book.modonomicon.demo_leaflet.leaflet.leaflet.description": "",
     "book.modonomicon.demo_leaflet.leaflet.leaflet.intro.text": "Questo è un foglio di notizie demo. Ha alcune caratteristiche:\n1. è un foglio di notizie. Evviva!\n2. tutti i tipi di pagina supportati da Modonomicon.\n3. nessun elenco, nessun libro, nessun disordine.\n4. divertente! (se ti piacciono le notizie)",
     "book.modonomicon.demo_leaflet.leaflet.leaflet.intro.title": "Introduzione al foglio demo",
     "book.modonomicon.demo_leaflet.leaflet.leaflet.name": "Foglio di esempio",

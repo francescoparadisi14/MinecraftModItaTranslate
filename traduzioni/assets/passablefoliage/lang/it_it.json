@@ -15,7 +15,7 @@
     "passablefoliage.config.modifyPathFinding.desc": "Gli entità dovrebbero riconoscere le foglie come aria",
     "passablefoliage.config.modules": "Moduli configurazione foglie passabili",
     "passablefoliage.config.modules.enchantment": "Configurazione dell'incantesimo",
-    "passablefoliage.config.modules.enchantment.desc": "Configurazione dell'incantesimo per la vegetazione passabile",
+    "passablefoliage.config.modules.enchantment.desc": "",
     "passablefoliage.config.playerOnly": "Solo giocatore",
     "passablefoliage.config.playerOnly.desc": "Solo i giocatori dovrebbero poter attraversare le foglie",
     "passablefoliage.config.sounds": "Suoni",

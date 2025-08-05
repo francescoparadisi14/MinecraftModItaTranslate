@@ -28,7 +28,7 @@
     "text.mi_tweaks.recipe_requires_nearby_entity": "richiede %s %s(s) congiunto a %d blocchi",
     "text.mi_tweaks.recipe_requires_open_water": "richiede %s acqua entro %d blocchi",
     "text.mi_tweaks.recipe_requires_surrounding_area_above": "Sopra",
-    "text.mi_tweaks.recipe_requires_surrounding_area_all": "È richiesto l'area circostante completa.",
+    "text.mi_tweaks.recipe_requires_surrounding_area_all": "",
     "text.mi_tweaks.recipe_requires_surrounding_area_at_and_above": "almeno",
     "text.mi_tweaks.recipe_requires_surrounding_area_at_and_below": "a livello e sotto",
     "text.mi_tweaks.recipe_requires_surrounding_area_below": "sotto",

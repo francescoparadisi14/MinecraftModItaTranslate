@@ -139,7 +139,7 @@
     "gui.controller.status": "Stato:",
     "gui.controller.status.crafting": "Elaborazione in corso...",
     "gui.controller.status.crafting.progress": "Progresso: %s",
-    "gui.controller.status.failure": "Errore di sistema",
+    "gui.controller.status.failure": "",
     "gui.controller.status.missing_structure": "Struttura mancante",
     "gui.controller.status.no_recipe": "Non è stato trovato alcun ricettario corrispondente",
     "gui.controller.status.paused": "Sospeso",

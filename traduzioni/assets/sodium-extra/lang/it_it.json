@@ -229,7 +229,7 @@
     "options.particles.minecraft.white_ash": "Cenere Bianca",
     "options.particles.minecraft.white_ash.tooltip": "Generata naturalmente nell'ambiente del bioma delta del basalto.",
     "options.particles.minecraft.white_smoke": "Fumo Bianco",
-    "options.particles.minecraft.white_smoke.tooltip": "Fumo Bianco",
+    "options.particles.minecraft.white_smoke.tooltip": "",
     "options.particles.minecraft.witch": "Strega",
     "options.particles.minecraft.witch.tooltip": "Strega.",
     "sodium-extra.option.advanced_item_tooltips": "Suggerimenti Avanzati degli Item",

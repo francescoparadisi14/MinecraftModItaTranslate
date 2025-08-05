@@ -102,7 +102,7 @@
     "constructionstick.option.replace.no.desc": "Non Sostituire I Blocchi",
     "constructionstick.option.replace.yes": "§aSì",
     "constructionstick.option.replace.yes.desc": "Sostituire Certi Blocchi Come Fluidi, Neve E Erba Alta",
-    "constructionstick.option.upgrades": "Aggiornamenti",
+    "constructionstick.option.upgrades": "",
     "constructionstick.option.upgrades.constructionstick:default": "Costruzione",
     "constructionstick.option.upgrades.constructionstick:default.desc": "Estendi La Tua Costruzione Sul Lato Che Ti Affronta",
     "constructionstick.option.upgrades.constructionstick:upgrade_angel": "Angelo",

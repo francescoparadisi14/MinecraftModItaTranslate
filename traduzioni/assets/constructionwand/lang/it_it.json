@@ -7,7 +7,7 @@
     "constructionwand.description.key.sneak": "Sfuggire",
     "constructionwand.description.key.sneak_opt": "Sfiora +%s",
     "constructionwand.description.wand": "Il bastone %1$s può posizionare fino a %2$d blocchi lungo il lato di un edificio che ti sta di fronte e dura %3$s.\n\ntieni premuto %5$s e scorri per cambiare la restrizione di posizionamento (orizzontale, verticale, nord\/sud, est\/ovest, nessuna chiusura).\n\napri lo schermo delle opzioni con %6$s§9+click destro§0.\n\n§5§nannulla§0§r\ntenendo premuto §9sneak+§0%4$s mentre guardi un blocco, ti mostrerà i blocchi che hai appena posizionato con un bordo verde intorno a loro. §9sneak+§0%4$s§9+click destro§0 su qualsiasi di essi annullerà l'operazione, restituendo tutti gli oggetti. Se hai utilizzato il core di distruzione, ripristinerà i blocchi.\n\n§5§ncontenitori§0§r\nle scatole Shulker, i bundle e molti contenitori da altri mod possono fornire blocchi per costruire con il bastone.\n\n§5§noffhand priority§0§r\navendo blocchi nella mano libera li posizionerà al posto del blocco che stai guardando.",
-    "constructionwand.option.cores": "Opzioni core vuote",
+    "constructionwand.option.cores": "",
     "constructionwand.option.cores.constructionwand:core_angel": "Core angelo (in colore verde)",
     "constructionwand.option.cores.constructionwand:core_angel.desc": "Collo dietro i blocchi e in aria",
     "constructionwand.option.cores.constructionwand:core_destruction": "Core di distruzione",

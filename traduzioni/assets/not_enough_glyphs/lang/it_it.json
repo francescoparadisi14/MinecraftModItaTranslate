@@ -176,7 +176,7 @@
     "not_enough_glyphs.glyph_desc.glyph_contingency_time": "Il contingente si attiverà dopo un certo lasso di tempo, lanciando il incantesimo contenuto all'interno. Non si attiverà se viene forzatamente sciolto.",
     "not_enough_glyphs.glyph_desc.glyph_filter_dark": "Frena l'esecuzione del incantesimo se non si trova in un'area oscura. La soglia di luminosità per questo sigillo è di 8 e ignora la luce solare.",
     "not_enough_glyphs.glyph_desc.glyph_filter_light": "Frena l'incantesimo dal risolversi a meno che non si tratti di un'area con sufficiente luce naturale. La soglia di luminosità per questo glicoforo è di 8 e ignora la luce artificiale.",
-    "not_enough_glyphs.glyph_desc.glyph_momentum": "Descrizione del glyph di momento non disponibile",
+    "not_enough_glyphs.glyph_desc.glyph_momentum": "",
     "not_enough_glyphs.glyph_desc.glyph_plow": "Simulare l'utilizzo di un aratro sui blocchi.",
     "not_enough_glyphs.glyph_desc.glyph_propagate_plane": "Risolve il resto dell'incantesimo in un piano più ampio, partendo dal blocco colpito e estendendosi sulla base di aoe applicato e forza percussiva. Aggiungere \"sensibile\" per rendere il piano circolare. Aggiungere \"dampen\" per renderlo vuoto.",
     "not_enough_glyphs.glyph_desc.glyph_trail": "Lanciare un proiettile che risolve lo incantesimo più volte lungo il suo tragitto. Aggiungere \"sensibile\" per farlo risolvere sui blocchi. Utilizzare \"tempo di estensione\" per ridurre l'intervallo tra ogni lancio e \"AOE\" per aumentare la zona d'effetto.",

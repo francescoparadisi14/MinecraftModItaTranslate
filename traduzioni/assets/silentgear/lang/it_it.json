@@ -784,7 +784,7 @@
     "misc.silentgear.off": "Disattivato",
     "misc.silentgear.on": "Attivato",
     "misc.silentgear.poorlyMade": "Quest'oggetto è mal realizzato e non durera' a lungo",
-    "misc.silentgear.space": "Spazio silenzioso",
+    "misc.silentgear.space": "",
     "misc.silentgear.spaceBrackets": "(%s)",
     "misc.silentgear.starlightChargerCataylst": "Catalizzatore carica stellare (livello %d)",
     "misc.silentgear.supportedPartTypes": "Tipi di parti e miglioramenti supportati dall'oggetto",

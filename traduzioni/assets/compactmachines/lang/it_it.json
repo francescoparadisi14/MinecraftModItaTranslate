@@ -8,7 +8,7 @@
     "advancement.compactmachines.recursion": "Stanze Ricorsive",
     "advancement.compactmachines.recursion.desc": "Per Comprendere La Ricorsione, Deve Prima Comprendere La Ricorsione.",
     "advancement.compactmachines.root": "Macchine Compatte",
-    "advancement.compactmachines.root.desc": "(Vuoto)",
+    "advancement.compactmachines.root.desc": "",
     "biome.compactmachines.machine": "Macchina Compatta",
     "block.compactmachines.bound_machine_fallback": "Macchina Compatta",
     "block.compactmachines.solid_wall": "Muro Di Parete Di Macchina Compatta Solida",
