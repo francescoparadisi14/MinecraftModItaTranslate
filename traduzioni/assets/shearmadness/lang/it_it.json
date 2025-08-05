@@ -1,0 +1,10 @@
+{
+    "command.shearmadness:chancecube.usage": "Utilizzo: shearmadness chancecubes",
+    "gui.not_a_chisel": "Pennello per dipingere pecore",
+    "item.shearmadness.not_a_chisel": "Non è un cesello",
+    "message.shearmadness:chancecube.notparticipating": "Non partecipa più al cubo delle pecore per caso",
+    "message.shearmadness:chancecube.participating": "Ora partecipa al cubo di chance pecora",
+    "subtitle.shearmadness:chancecube_giantcubespawned": "Dooooooooom",
+    "subtitle.shearmadness:chancecube_sheepdied": "baaaaaa... spirituale",
+    "subtitle.shearmadness:sheepchiseled": "L'agnello è confuso e allarmato"
+}

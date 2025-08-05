@@ -1,0 +1,8 @@
+{
+    "enchantment.soulbound.soulbound": "SoulBound",
+    "enchantment.soulbound.soulbound.desc": "The item is automatically retained upon death and randomly damaged",
+    "soulbound.configuration.allowBreakItem": "Allow items to be broken",
+    "soulbound.configuration.maxDamagePercent": "Max percentage of damage",
+    "soulbound.configuration.section.soulbound.common.toml.title": "SoulBound",
+    "soulbound.configuration.title": "SoulBound"
+}

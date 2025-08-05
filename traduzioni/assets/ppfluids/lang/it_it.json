@@ -1,0 +1,17 @@
+{
+    "block.ppfluids.fluid_pipe": "Tubo fluido",
+    "info.ppfluids.fluid_item.usage": "Usami su un serbatoio di fluidi per immettere il mio contenuto in esso!",
+    "info.prettypipes.fluid_extraction_module": "Prende il fluido dalle inventari adiacenti\nFiltra e velocità di estrazione variano per livello\nTutti i livelli impediscono l'invio in eccesso",
+    "info.prettypipes.fluid_filter_module": "Ristagna il flusso dai tubi nei serbatoi adiacenti\nil filtro quantità varia per livello di tier",
+    "info.prettypipes.fluid_retrieval_module": "Prende il fluido da altri serbatoi della rete\ni filtri e le velocità di estrazione variano per livello\ntutti i livelli impediscono l'invio in eccesso",
+    "item.ppfluids.fluid_item": "contenitore di fluidi",
+    "item.ppfluids.high_fluid_extraction_module": "Modulo di estrazione dei fluidi ad alta capacità",
+    "item.ppfluids.high_fluid_filter_module": "Modulo filtro liquido ad alta pressione",
+    "item.ppfluids.high_fluid_retrieval_module": "Modulo di recupero dei fluidi ad alta pressione",
+    "item.ppfluids.low_fluid_extraction_module": "Modulo di estrazione fluido bassa",
+    "item.ppfluids.low_fluid_filter_module": "Modulo filtro liquido basso",
+    "item.ppfluids.low_fluid_retrieval_module": "Modulo di recupero fluidi bassa quota",
+    "item.ppfluids.medium_fluid_extraction_module": "modulo di estrazione di fluidi medi",
+    "item.ppfluids.medium_fluid_filter_module": "Modulo filtro fluido medio",
+    "item.ppfluids.medium_fluid_retrieval_module": "modulo di recupero fluido medio"
+}

@@ -1,0 +1,23 @@
+{
+    "block.projectred_expansion.auto_crafter": "Crafter automatico",
+    "block.projectred_expansion.battery_box": "Cassetto batterie",
+    "block.projectred_expansion.block_breaker": "Rottura di blocchi",
+    "block.projectred_expansion.charging_bench": "Banchina di ricarica",
+    "block.projectred_expansion.deployer": "Deployer di Project Red Expansion",
+    "block.projectred_expansion.fire_starter": "Innesco del fuoco",
+    "block.projectred_expansion.frame": "Frammento",
+    "block.projectred_expansion.frame_actuator": "Attuatore di frame",
+    "block.projectred_expansion.frame_motor": "Motore di frame",
+    "block.projectred_expansion.project_bench": "Banchetto del progetto",
+    "block.projectred_expansion.transposer": "Transpositore",
+    "item.projectred_expansion.battery": "Batteria",
+    "item.projectred_expansion.electric_screwdriver": "Serratura elettrica",
+    "item.projectred_expansion.empty_battery": "Batteria vuota",
+    "item.projectred_expansion.pneumatic_tube": "Tubo pneumatico",
+    "item.projectred_expansion.recipe_plan": "Piano di ricetta",
+    "itemGroup.projectred_expansion": "Espansione di Project Red",
+    "projectred-expansion.subtitle.depressurize": "L'aria si depressuraizza",
+    "projectred-expansion.subtitle.pressurize": "L'aria si compresse",
+    "projectred-expansion.tooltip.charge_level": "Livello di carica accumulata",
+    "projectred-expansion.tooltip.plan_result": "Risultato"
+}

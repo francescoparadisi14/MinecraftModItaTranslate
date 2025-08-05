@@ -1,0 +1,23 @@
+{
+    "config.betterthanllamas.cat.general.desc": "Impostazioni generali che non si adattano a nessun'altra categoria.",
+    "config.betterthanllamas.cat.general.name": "Configurazioni generali gatti",
+    "config.betterthanllamas.cat.outfit.desc": "Impostazioni relative alle lama che indossano abiti.",
+    "config.betterthanllamas.cat.outfit.name": "Configurazioni dell'abbigliamento dei gatti",
+    "config.betterthanllamas.prop.applyOn.desc": "Applicare il modulo su quali tipo di lama?",
+    "config.betterthanllamas.prop.applyOn.name": "Applicare il modulo su",
+    "config.betterthanllamas.prop.bowtieChance.desc": "Probabilità di llama che indossino un cravattino nel loro abbigliamento, in percentuale% (0-100)",
+    "config.betterthanllamas.prop.bowtieChance.name": "Caso di camicia da bow tie",
+    "config.betterthanllamas.prop.fancyChance.desc": "Probabilità di llama di indossare parti del loro abbigliamento, in percentuale% (0-100)",
+    "config.betterthanllamas.prop.fancyChance.name": "Caso di lama elegante",
+    "config.betterthanllamas.prop.fezChance.desc": "Probabilità di llama che indossino un fez nel loro abbigliamento, in percentuale% (0-100)",
+    "config.betterthanllamas.prop.fezChance.name": "Probabilità di fez",
+    "config.betterthanllamas.prop.hatChance.desc": "Probabilità di llama di indossare cappelli nel loro abbigliamento, in percentuale% (0-100)",
+    "config.betterthanllamas.prop.hatChance.name": "Probabilità di cappello",
+    "config.betterthanllamas.prop.monocleChance.desc": "Probabilità di llama che indossino un occhiale nel loro abbigliamento, in percentuale% (0-100)",
+    "config.betterthanllamas.prop.monocleChance.name": "Cambiamento monocolo",
+    "config.betterthanllamas.prop.moustacheChance.desc": "Probabilità di llama che indossano un baffo nel loro abbigliamento, in percentuale% (0-100)",
+    "config.betterthanllamas.prop.moustacheChance.name": "Probabilità di baffi",
+    "config.betterthanllamas.prop.pipeChance.desc": "Probabilità che le lama abbiano un tubo nel loro abbigliamento, in percentuale% (0-100)",
+    "config.betterthanllamas.prop.pipeChance.name": "Probabilità di tubo",
+    "splash.llamaDay": "Giovedì felice del lama!"
+}

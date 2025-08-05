@@ -1,0 +1,14 @@
+{
+    "durabilitytooltip.info.bar.bar_line": "[%s]",
+    "durabilitytooltip.info.bar.durability_hint": "Indicatore di durata:",
+    "durabilitytooltip.info.bar.empty_symbol": "▒",
+    "durabilitytooltip.info.bar.full_symbol": "Simbolo di resistenza pieno: █",
+    "durabilitytooltip.info.numbers.damaged": "%1$d \/ %2$d (danni)",
+    "durabilitytooltip.info.numbers.durability_hint": "Indicatore di durata: %s",
+    "durabilitytooltip.info.numbers.full_durability": "Durata massima: %d",
+    "durabilitytooltip.info.text.damaged": "Leggermente danneggiato",
+    "durabilitytooltip.info.text.durability_hint": "Indicatore di durata: %s",
+    "durabilitytooltip.info.text.full_durability": "Integro",
+    "durabilitytooltip.info.text.nearly_broken": "Poco prima di rompersi",
+    "durabilitytooltip.info.text.severely_damaged": "Gravemente danneggiato"
+}

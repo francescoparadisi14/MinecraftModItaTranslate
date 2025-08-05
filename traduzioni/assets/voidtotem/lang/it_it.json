@@ -1,0 +1,11 @@
+{
+    "_comment": "Traduzione (inglese - Stati Uniti) di affehund",
+    "advancements.voidtotem.adventure.totem_of_void_undying.description": "Usa un totem dell'eternità del vuoto per ingannare la morte quando cadrai nel vuoto.",
+    "advancements.voidtotem.adventure.totem_of_void_undying.title": "Eterno dopo la morte 2",
+    "item.voidtotem.totem_of_void_undying": "Totem dell'eternità del vuoto",
+    "text.autoconfig.voidtotem.option.BLOCKLISTED_DIMENSIONS": "Dimensioni bloccate",
+    "text.autoconfig.voidtotem.option.IS_INVERTED_BLOCKLIST": "È una lista di blocchi invertita",
+    "text.autoconfig.voidtotem.option.TELEPORT_HEIGHT_OFFSET": "Offset di altezza del teletrasporto",
+    "text.autoconfig.voidtotem.option.USE_TOTEM_FROM_INVENTORY": "Usare totèma dalla inventario",
+    "trinkets.slot.charm.charm": "Amuleto"
+}

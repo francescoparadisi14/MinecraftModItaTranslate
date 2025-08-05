@@ -1,0 +1,11 @@
+{
+    "item.ceramicshears.ceramic_shears": "Forbici in ceramica",
+    "item.ceramicshears.ceramic_shears_part": "Parte di forbici in ceramica",
+    "item.ceramicshears.clay_shears_part": "Parte di forbici di argilla",
+    "text.autoconfig.ceramicshears.option.DURABILITY": "Durabilità di forbici in ceramica",
+    "text.autoconfig.ceramicshears.option.DURABILITY.@Tooltip[0]": "Durabilità di forbici in ceramica §6§l",
+    "text.autoconfig.ceramicshears.option.DURABILITY.@Tooltip[1]": "Definisce la massima durata delle forbici in ceramica.",
+    "text.autoconfig.ceramicshears.option.DURABILITY.@Tooltip[2]": "0: disattiva la durata (con sfondo giallo e testo oscillante)",
+    "text.autoconfig.ceramicshears.option.DURABILITY.@Tooltip[3]": "Durata: 0; massima: 10.000",
+    "text.autoconfig.ceramicshears.option.DURABILITY.@Tooltip[4]": "Predefinito: 179 (colore grigio)"
+}

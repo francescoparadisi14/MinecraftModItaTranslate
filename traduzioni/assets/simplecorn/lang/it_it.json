@@ -1,0 +1,14 @@
+{
+    "block.simplecorn.corn": "Grano",
+    "block.simplecorn.corn_mid": "Grano",
+    "block.simplecorn.corn_top": "Grano",
+    "item.simplecorn.chickencornchowder": "Zuppa di mais e pollo",
+    "item.simplecorn.cornchowder": "Zuppa di mais",
+    "item.simplecorn.corncob": "Orecchio di granturco",
+    "item.simplecorn.kernels": "Grani di mais",
+    "item.simplecorn.popfirework": "Razzo di fuoco d'artificio",
+    "item.simplecorn.poppedcorn": "Popcorn",
+    "item.simplecorn.roastedcorn": "Grano tostato",
+    "simplecorn.advancements.husbandry.plant_corn.description": "Pianta del granturco e osserva come cresce",
+    "simplecorn.advancements.husbandry.plant_corn.title": "Un gioco a base di mais"
+}

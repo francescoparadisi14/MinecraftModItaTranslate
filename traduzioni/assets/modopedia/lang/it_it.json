@@ -1,0 +1,22 @@
+{
+    "item.modopedia.book": "Libro (senza ID)",
+    "modopedia.study": "Studio",
+    "screen.modopedia.categories": "Capitoli",
+    "screen.modopedia.entries": "Elenco di voci",
+    "screen.modopedia.error": "Errore",
+    "subtitle.modopedia.book_flip": "Volta pagina",
+    "subtitle.modopedia.book_open": "Apertura del libro",
+    "template.modopedia.blasting_recipe": "Ricetta di esplosione",
+    "template.modopedia.cooking_recipe": "Ricetta di cucina",
+    "template.modopedia.crafting_recipe": "Ricetta di crafting",
+    "template.modopedia.recipe": "Ricetta",
+    "template.modopedia.shaped_recipe": "Ricetta a forma modellata",
+    "template.modopedia.shapeless_recipe": "Ricetta senza forma",
+    "template.modopedia.smelting_recipe": "Ricetta di fusione",
+    "template.modopedia.smoking_recipe": "Ricetta di affumicatura",
+    "tooltip.modopedia.book_id": "ID del libro: %1$s",
+    "tooltip.modopedia.category_link": "Vai alla categoria",
+    "tooltip.modopedia.entry_link": "Vai all'ingresso",
+    "tooltip.modopedia.study": "Tieni [%1$s] per studiare",
+    "tooltip.modopedia.url": "Visita l'URL: %1$s"
+}

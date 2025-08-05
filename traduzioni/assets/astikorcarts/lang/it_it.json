@@ -1,0 +1,17 @@
+{
+    "entity.astikorcarts.animal_cart": "Carro bestiame",
+    "entity.astikorcarts.plow": "Aratro",
+    "entity.astikorcarts.postilion": "Postiglione",
+    "entity.astikorcarts.supply_cart": "Carro provviste",
+    "item.astikorcarts.animal_cart": "Carro bestiame",
+    "item.astikorcarts.plow": "Aratro",
+    "item.astikorcarts.supply_cart": "Carro provviste",
+    "item.astikorcarts.wheel": "Ruota",
+    "itemGroup.astikorcarts": "AstikorCarts",
+    "key.astikorcarts.desc": "Tasto azione",
+    "key.categories.astikorcarts": "AstikorCarts",
+    "stat.astikorcarts.cart_one_cm": "Distanza su carro",
+    "subtitles.astikorcarts.cart.attached": "Carro agganciato",
+    "subtitles.astikorcarts.cart.detached": "Carro sganciato",
+    "subtitles.astikorcarts.cart.placed": "Carro piazzato"
+}

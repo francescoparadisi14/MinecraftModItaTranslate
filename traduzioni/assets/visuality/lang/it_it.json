@@ -1,0 +1,19 @@
+{
+    "config.visuality.general": "Generale",
+    "config.visuality.option.charge": "Abilitato il particolare di ricarica",
+    "config.visuality.option.hitParticles": "Abilitati di particelle d'urto attivate",
+    "config.visuality.option.hitParticles.entries": "Entrate di particelle d'impatto",
+    "config.visuality.option.shinyArmor": "Abbigliamento lucido abilitato",
+    "config.visuality.option.shinyArmor.entries": "Voci di armatura lucente",
+    "config.visuality.option.shinyBlocks": "I blocchi lucidi sono abilitati",
+    "config.visuality.option.shinyBlocks.entries": "Voci di blocchi lucenti",
+    "config.visuality.option.slime": "Abilitato il rendering dei globi di lombrico",
+    "config.visuality.option.soul": "Abilitato il particolare dell'anima",
+    "config.visuality.option.sparkle": "Abilitato il particolare scintillante",
+    "config.visuality.option.waterCircle": "Abilitato il cerchio d'acqua",
+    "config.visuality.option.waterCircle.colored": "Cerchi d'acqua colorati",
+    "config.visuality.option.waterCircle.density": "Densità dei cerchi d'acqua",
+    "config.visuality.option.waterCircle.radius": "Raggio dei cerchi d'acqua",
+    "config.visuality.title": "Configurazione visiva",
+    "modmenu.descriptionTranslation.visuality": "Miglioramenti visivi aggiungendo un sacco di nuovi particelle."
+}

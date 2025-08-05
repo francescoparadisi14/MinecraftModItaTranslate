@@ -1,0 +1,12 @@
+{
+    "category.climbladdersfast.options": "Opzioni per le scale rapide",
+    "climbladdersfast.toggle.disabled": "Disabilitato climbladdersfast",
+    "climbladdersfast.toggle.enabled": "Abilitato climbladdersfast",
+    "key.climbladdersfast.toggle": "Attiva\/disattiva salita rapide",
+    "text.autoconfig.climbladdersfast.option.climbDownSpeed": "Velocità discesa",
+    "text.autoconfig.climbladdersfast.option.climbUpSpeed": "Velocità di arrampicata in alto",
+    "text.autoconfig.climbladdersfast.option.disableScaffoldingCollision": "Disabilita collisione con la scala",
+    "text.autoconfig.climbladdersfast.option.disableScaffoldingFastClimbing": "Disabilita scalata rapida con impalcature",
+    "text.autoconfig.climbladdersfast.option.disableVinesFastClimbing": "Disabilita scalata veloce delle piante",
+    "text.autoconfig.climbladdersfast.title": "Titolo scale rapide"
+}

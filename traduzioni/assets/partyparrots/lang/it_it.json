@@ -1,0 +1,14 @@
+{
+    "config.partyparrots.prop.partyFlying.desc": "Fanno festa i pappagalli quando volano?",
+    "config.partyparrots.prop.partyFlying.name": "Volare in compagnia",
+    "config.partyparrots.prop.partyShoulder.desc": "Fanno festa i pappagalli quando sono sul tuo ombelico?",
+    "config.partyparrots.prop.partyShoulder.name": "Partito - spalla",
+    "config.partyparrots.prop.partySitting.desc": "Fanno festa i pappagalli quando sono seduti?",
+    "config.partyparrots.prop.partySitting.name": "Festa - seduto",
+    "config.partyparrots.prop.partyStanding.desc": "Fanno festa i pappagalli quando sono in piedi?",
+    "config.partyparrots.prop.partyStanding.name": "Posizione del party",
+    "config.partyparrots.prop.partyTwerk.desc": "Fanno festa i pappagalli quando gli giocatori ballano il twist?",
+    "config.partyparrots.prop.partyTwerk.name": "Festa - ballerina",
+    "config.partyparrots.prop.partyTwerkRange.desc": "Quanto devono essere lontani i giocatori per twerkare affinché gli uccelli partecipino alla festa?!",
+    "config.partyparrots.prop.partyTwerkRange.name": "Raggio di ballo del party"
+}

@@ -34,6 +34,7 @@
     "gui.amendments.quill.obfuscated": "Nascosto",
     "gui.amendments.quill.strikethrough": "Soppressione",
     "gui.amendments.quill.underline": "Sottolineatura",
+    "item.amendments.dragon_charge": "Carica di drago",
     "item.amendments.dye_bottle": "Fiasca per tintura",
     "item.amendments.dye_bottle.amber": "Arancione",
     "item.amendments.dye_bottle.aqua": "Azzurro",
@@ -88,5 +89,6 @@
     "message.amendments.cauldron": "Il miscuglio di pozioni sembra instabile...",
     "message.amendments.double_cake": "Raccoglibile in forma di blocco",
     "message.amendments.hanging_pot": "Può essere appeso",
-    "message.amendments.wall_lantern": "Collocabile su pareti"
+    "message.amendments.wall_lantern": "Collocabile su pareti",
+    "subtitles.amendments.fireball_explosion": "Esplosione di fuoco"
 }

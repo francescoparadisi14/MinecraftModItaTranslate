@@ -4,6 +4,7 @@
     "block.minecraft.loom": "Telaio di bandiera",
     "block.minecraft.slime_block": "Blocco di colla",
     "item.minecraft.glow_ink_sac": "Sacchetto di inchiostro luminoso",
+    "item.minecraft.scute": "Scuta di tartaruga",
     "item.minecraft.shield": "Scudo di legno",
     "item.minecraft.shield.black": "Scudo di legno nero",
     "item.minecraft.shield.blue": "Scudo di legno blu",
@@ -20,5 +21,13 @@
     "item.minecraft.shield.purple": "Scudo di legno viola",
     "item.minecraft.shield.red": "Scudo di legno rosso",
     "item.minecraft.shield.white": "Scudo di legno bianco",
-    "item.minecraft.shield.yellow": "Scudo di legno giallo"
+    "item.minecraft.shield.yellow": "Scudo di legno giallo",
+    "options.biomeBlendRadius.17": "Raggio di fusione biome 17x17 (grande)",
+    "options.biomeBlendRadius.19": "Raggio di fusione bioma 19x19 (molto grande)",
+    "options.biomeBlendRadius.21": "Raggio di fusione bioma 21x21 (massivo)",
+    "options.biomeBlendRadius.23": "23x23 (confuso)",
+    "options.biomeBlendRadius.25": "25x25 (criminale)",
+    "options.biomeBlendRadius.27": "27x27 (elevato)",
+    "options.biomeBlendRadius.29": "29x29 (oh mio dio!)",
+    "options.biomeBlendRadiusTooltip": "Il blending di bioma di Better Biome Blend utilizza sempre un raggio di 29x29."
 }

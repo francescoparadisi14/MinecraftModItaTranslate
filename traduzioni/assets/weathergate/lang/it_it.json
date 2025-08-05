@@ -1,0 +1,10 @@
+{
+    "block.weathergate.snow_catcher": "Catturatore di neve",
+    "block.weathergate.sun_in_a_box": "Sole in scatola",
+    "block.weathergate.terrain_controller": "Controllore di terreno",
+    "block.weathergate.terrain_controller.no_data": "Non è stato trovato alcun dato! Sostituisci il blocco e riprova!",
+    "weathergate.sun_in_a_box.tooltip": "Fai valore di luce del sole sempre mezzogiorno (solo client)",
+    "weathergate.type.foliage": "Foglia",
+    "weathergate.type.grass": "Erba",
+    "weathergate.type.water": "Acqua"
+}

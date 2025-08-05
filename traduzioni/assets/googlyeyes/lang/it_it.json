@@ -1,0 +1,14 @@
+{
+    "config.googlyeyes.prop.acidTripEyes.desc": "Lascia che gli occhi Googly siano in tripudio",
+    "config.googlyeyes.prop.acidTripEyes.name": "Occhi di viaggio acido",
+    "config.googlyeyes.prop.allPlayersHaveGooglyEyes.desc": "Deve avere gli occhi strabici tutti i giocatori?",
+    "config.googlyeyes.prop.allPlayersHaveGooglyEyes.name": "Tutti i giocatori hanno gli occhi strabici",
+    "config.googlyeyes.prop.disabledGoogly.desc": "Per disabilitare gli occhi strabici su un entità specifica, inserisci il nome di registro dell'entità qui. Ad esempio: \"maiale\", \" scheletro\". Per i giocatori, inserisci \"giocatore\".",
+    "config.googlyeyes.prop.disabledGoogly.name": "Occhi strabici disabilitati",
+    "config.googlyeyes.prop.entityOverrideChance.desc": "Sovrascrittura della probabilità di entità. Ogni voce deve essere un'ubicazione di risorsa e una probabilità, separate da una virgola. Ad esempio: \"minecraft:pig,100\" farà avere a tutti i maiali di Minecraft il 100% di probabilità di avere occhi strabici.",
+    "config.googlyeyes.prop.entityOverrideChance.name": "Sovrascrittura della probabilità di entità",
+    "config.googlyeyes.prop.googlyEyeChance.desc": "Probabilità di occhio googly (in percentuale)",
+    "config.googlyeyes.prop.googlyEyeChance.name": "Probabilità di occhio googly",
+    "config.googlyeyes.prop.nameOverride.desc": "Gli entità con questi nomi avranno sempre gli occhi strabici.",
+    "config.googlyeyes.prop.nameOverride.name": "Sovrascrittura nome"
+}

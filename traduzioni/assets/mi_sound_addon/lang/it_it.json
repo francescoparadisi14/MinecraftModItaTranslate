@@ -1,0 +1,7 @@
+{
+    "item.mi_sound_addon.mallet": "Martello di acciaio",
+    "message.mi_sound_addon.creative_tab": "Pannello di accessori suoni MI",
+    "message.mi_sound_addon.machine_silenced": "Macchina silenziata",
+    "message.mi_sound_addon.machine_unsilenced": "Macchina non silenziata",
+    "message.mi_sound_addon.tooltip": "Clicca destro sui tuoi macchinari per silenziarli o disattivarne il silenzio"
+}

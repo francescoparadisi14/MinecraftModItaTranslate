@@ -1,0 +1,8 @@
+{
+    "enchantment.soulbound.soulbound": "Legato all'anima",
+    "enchantment.soulbound.soulbound.desc": "L'oggetto è automaticamente conservato alla morte e danneggiato casualmente.",
+    "soulbound.configuration.allowBreakItem": "Consentire gli oggetti di essere rotti",
+    "soulbound.configuration.maxDamagePercent": "Massimo percentuale di danno",
+    "soulbound.configuration.section.soulbound.common.toml.title": "Soulbound",
+    "soulbound.configuration.title": "Soulbound"
+}

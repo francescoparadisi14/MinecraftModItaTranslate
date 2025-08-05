@@ -1,0 +1,16 @@
+{
+    "config.betterthanbunnies.cat.general.desc": "Impostazioni generali che non si adattano a nessun'altra categoria.",
+    "config.betterthanbunnies.cat.general.name": "Configurazioni generali gatti",
+    "config.betterthanbunnies.cat.outfit.desc": "Impostazioni relative ai conigli che indossano abiti.",
+    "config.betterthanbunnies.cat.outfit.name": "Configurazioni dell'abbigliamento dei gatti",
+    "config.betterthanbunnies.prop.fancyChance.desc": "Probabilità di conigli che indossino parti del loro abbigliamento, in percentuale% (0-100)",
+    "config.betterthanbunnies.prop.fancyChance.name": "Caso di coniglio elegante",
+    "config.betterthanbunnies.prop.hatChance.desc": "Probabilità di conigli che indossano cappelli nel loro abbigliamento, in percentuale% (0-100)",
+    "config.betterthanbunnies.prop.hatChance.name": "Probabilità di cappello",
+    "config.betterthanbunnies.prop.monocleChance.desc": "Probabilità di bunnies che indossano un occhiale nel loro abbigliamento, in percentuale% (0-100)",
+    "config.betterthanbunnies.prop.monocleChance.name": "Caso di monocolo",
+    "config.betterthanbunnies.prop.pipeChance.desc": "Probabilità che i conigli portino un tubo nel loro abbigliamento, espresso come percentuale (0-100%)",
+    "config.betterthanbunnies.prop.pipeChance.name": "Probabilità di tubo",
+    "config.betterthanbunnies.prop.suitChance.desc": "Probabilità di conigli che indossano un completo nel loro abbigliamento, in percentuale% (0-100)",
+    "config.betterthanbunnies.prop.suitChance.name": "Probabilità di abito"
+}

@@ -1,0 +1,15 @@
+{
+    "death.attack.EntityTorch": "%1$s è morto dopo che la torcia di %2$s si è spenta.",
+    "item.torchbowmod.multitorch": "Torcia multipla",
+    "item.torchbowmod.torcharrow": "Freccia di torcia",
+    "item.torchbowmod.torchbow": "Arco a torcia",
+    "itemGroup.torchbowmod.torchbowmod_tab": "Tabella del mod Torchbow",
+    "log.sb.check": "Verifica dello stato di introduzione della cassaforte ora......",
+    "log.sb.error": "Errore di caricamento della cassaforte.",
+    "log.sb.load": "La storage box ha confermato l'introduzione. Caricamento completato.",
+    "log.sb.unload": "Rimozione storage box non riuscita.",
+    "log.sg.check": "Verifica dello stato di introduzione dei gemmi di Silent...",
+    "log.sg.error": "Errore di caricamento dei gioielli di Silent.",
+    "log.sg.load": "I gemme di Silent confermano l'introduzione. Caricamento completo.",
+    "log.sg.unload": "Introduzione dei gioielli di Silent... (in silenzio)"
+}

@@ -1,0 +1,17 @@
+{
+    "block.simpleteleporters.teleporter": "Teletrasporto",
+    "item.simpleteleporters.ender_shard": "Frammento di fine",
+    "simpleteleportersblock.teleporter.crystal_inserted.subtitle.": "Shardo dell'altro mondo inserito",
+    "simpleteleportersblock.teleporter.crystal_removed.subtitle.": "Shardo dell'altro mondo rimosso",
+    "simpleteleportersblock.teleporter.teleport.subtitle.": "Il teleportatore si sposta",
+    "simpleteleportersitem.ender_shard.link.subtitle.": "Collegamento di frammento dell'altro mondo stabilito",
+    "text.simpleteleporters.crystal_info": "Collegato frammento di fine a %1$s, %2$s, %3$s nel %4$s",
+    "text.simpleteleporters.error.invalid_position": "Posizione di teleportazione non valida! forse ci sono un blocco nel mezzo?",
+    "text.simpleteleporters.error.no_crystal": "Questo teleportatore non ha un cristallo di fine!",
+    "text.simpleteleporters.error.unlinked_shard": "Questo frammento di fine mondo non è collegato!",
+    "text.simpleteleporters.error.unlinked_teleporter": "Questo teleportatore ha una gemma del portale finale non collegata!",
+    "text.simpleteleporters.error.wrong_dimension": "Questo teleportatore non ha abbastanza frammenti di fine mondo per attraversare le dimensioni!",
+    "text.simpleteleporters.how_to_link": "Aggiungi %1$s e %2$s su un blocco per collegare una posizione",
+    "text.simpleteleporters.linked": "Collegato, %1$s, %2$s, %3$s nel %4$s",
+    "text.simpleteleporters.unlinked": "Non collegato"
+}

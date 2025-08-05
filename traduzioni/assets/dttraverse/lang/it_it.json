@@ -1,0 +1,15 @@
+{
+    "block.dttraverse.fir_branch": "Ramo di pino",
+    "item.dttraverse.brown_autumnal_oak_seed": "Seme di quercia autunnale marrone",
+    "item.dttraverse.fir_seed": "Cone di pino",
+    "item.dttraverse.orange_autumnal_oak_seed": "Seme di quercia autunnale arancione",
+    "item.dttraverse.red_autumnal_oak_seed": "Seme di quercia autunnale rossa",
+    "item.dttraverse.yellow_autumnal_birch_seed": "Seme di betulla autunnale gialla",
+    "species.dttraverse.brown_autumnal_oak": "Quercia autunnale marrone",
+    "species.dttraverse.fir": "Abete",
+    "species.dttraverse.mini_jungle": "Giungla miniatura",
+    "species.dttraverse.oak_shrub": "Cespuglio di quercia",
+    "species.dttraverse.orange_autumnal_oak": "Quercia autunnale arancione",
+    "species.dttraverse.red_autumnal_oak": "Quercia autunnale rossa",
+    "species.dttraverse.yellow_autumnal_birch": "Betulla autunnale gialla"
+}

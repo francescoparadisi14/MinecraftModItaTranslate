@@ -1,0 +1,21 @@
+{
+    "block.travelanchors.travel_anchor": "Anchia viaggio",
+    "enchantment.travelanchors.range": "Raggio",
+    "enchantment.travelanchors.range.desc": "incrementa la portata di teletrasporto con ogni livello",
+    "enchantment.travelanchors.teleportation": "Teletrasporto",
+    "enchantment.travelanchors.teleportation.desc": "Applica l'abilità di teletrasporto a strumenti diversi dalla staffa viaggiatrice.",
+    "item.travelanchors.travel_staff": "Staffa di viaggio",
+    "itemGroup.travelanchors": "Anelli di viaggio",
+    "screen.travelanchors.nameless": "Inserisci un nome per utilizzarlo",
+    "screen.travelanchors.search": "Cerca",
+    "screen.travelanchors.travel_anchor": "Anchia viaggio",
+    "tooltip.travelanchors.travel_anchor_block": "Guarda questo con un bastone di viaggio o incantesimo di teletrasporto per teleportarti.",
+    "tooltip.travelanchors.travel_staff": "Tasto destro con il piede indietro per teleportazione a breve raggio. Guarda l'ancora di viaggio per warping.",
+    "travelanchors.hop.fail": "Destinazione ostruita.",
+    "travelanchors.lock.button": "Blocca",
+    "travelanchors.lock.interact": "Questo anello viaggiatore è bloccato. Fai clic destro con un bastone per sbloccarlo.",
+    "travelanchors.lock.locked": "Questo anello di viaggio è ora bloccato.",
+    "travelanchors.lock.unlocked": "Questo anello di viaggio non è più bloccato.",
+    "travelanchors.tp.fail": "Non è stato trovato alcun anello di viaggio.",
+    "travelanchors.tp.success": "Trasportato a %s."
+}

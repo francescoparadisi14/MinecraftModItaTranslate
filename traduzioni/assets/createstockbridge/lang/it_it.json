@@ -1,0 +1,15 @@
+{
+    "block.createstockbridge.ae_bridge": "Ponte di stock AE",
+    "createstockbridge.ponder.ae_stockbridge.header": "Connettendo il sistema di magazzino al AE",
+    "createstockbridge.ponder.ae_stockbridge.text_1": "Il ponte di stock AE collega il sistema di gestione delle scorte Create con AE.",
+    "createstockbridge.ponder.ae_stockbridge.text_2": "Clic destro per legare alla rete di stock prima di posizionare.",
+    "createstockbridge.ponder.ae_stockbridge.text_3": "Imposta l'indirizzo del ponte di stoccaggio AE per corrispondere all'indirizzo del porto Rana.",
+    "createstockbridge.ponder.ae_stockbridge.text_4": "AE Stockbridge",
+    "createstockbridge.ponder.ae_stockbridge.text_5": "AE Stockbridge",
+    "createstockbridge.ponder.ae_stockbridge.text_6": "Il AE può richiedere gli oggetti mediante \"creazione\"",
+    "createstockbridge.ponder.ae_stockbridge.text_7": "Creare può richiedere articoli archiviati da AE.",
+    "gui.createstockbridge.address": "Indirizzo del pacchetto:",
+    "gui.stockbridge.remote_items": "Creare sistemi di item per magazzino remoto",
+    "item.createstockbridge.request_pattern": "Pattern di richiesta",
+    "tooltip.stockbridge.remote_item": "Elemento presente nel sistema remoto"
+}

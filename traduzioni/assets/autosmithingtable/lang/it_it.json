@@ -1,0 +1,12 @@
+{
+    "block.autosmithingtable.auto_smithing_table": "Tavola da smithaggio automatica",
+    "container.autosmithingtable.title": "Aggiornamento oggetti automatici",
+    "item.autosmithingtable.auto_smithing_table": "Tavola da smithaggio automatica",
+    "itemGroup.autosmithingtable": "Tavola di assemblaggio automatica",
+    "message.autosmithingtable.change_side_to_0": "[Autosmithingtable] Lato cambiato in: nulla",
+    "message.autosmithingtable.change_side_to_1": "[Autosmithingtable] Lato cambiato in: base di input",
+    "message.autosmithingtable.change_side_to_2": "[Autosmithingtable] Lato cambiato in: aggiunta di ingresso",
+    "message.autosmithingtable.change_side_to_3": "[Autosmithingtable] Lato cambiato in: output",
+    "tooltip.autosmithingtable.jade_progress": "Progressione: %d",
+    "tooltip.autosmithingtable.sides": "Clic destro con shift per configurare sulle facce"
+}

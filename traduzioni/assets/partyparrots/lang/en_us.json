@@ -1,0 +1,14 @@
+{
+    "config.partyparrots.prop.partyFlying.desc": "Do parrots party when they're flying?",
+    "config.partyparrots.prop.partyFlying.name": "Party - Flying",
+    "config.partyparrots.prop.partyShoulder.desc": "Do parrots party when they're on your shoulder?",
+    "config.partyparrots.prop.partyShoulder.name": "Party - Shoulder",
+    "config.partyparrots.prop.partySitting.desc": "Do parrots party when they're sitting?",
+    "config.partyparrots.prop.partySitting.name": "Party - Sitting",
+    "config.partyparrots.prop.partyStanding.desc": "Do parrots party when they're standing?",
+    "config.partyparrots.prop.partyStanding.name": "Party - Standing",
+    "config.partyparrots.prop.partyTwerk.desc": "Do parrots party when players twerk?",
+    "config.partyparrots.prop.partyTwerk.name": "Party - Twerking",
+    "config.partyparrots.prop.partyTwerkRange.desc": "How far do players have to be twerking for parrots to PARTY?!",
+    "config.partyparrots.prop.partyTwerkRange.name": "Party - Twerking Range"
+}

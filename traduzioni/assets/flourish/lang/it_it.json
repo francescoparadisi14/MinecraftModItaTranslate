@@ -1,0 +1,8 @@
+{
+    "flourish.options.torchflower": "Diffondi fiori di torcia",
+    "flourish.options.torchflower.tooltip": "Consente di diffondere fiori di torcia mediante semi ossei.",
+    "flourish.options.use_tall_flower_behavior": "Usare comportamento di fiore alto",
+    "flourish.options.use_tall_flower_behavior.tooltip": "Sostituisce il comportamento della versione Bedrock con il comportamento classico della flora che si duplica. In pratica, anziché diffondere fiori piccoli, genera un oggetto di fiore piccolo nel mondo.",
+    "flourish.options.wither_rose": "Diffondere rose della morte",
+    "flourish.options.wither_rose.tooltip": "Consente ai fiori di mietitura di essere diffusi con il concime osseo."
+}

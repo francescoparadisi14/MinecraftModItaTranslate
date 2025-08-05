@@ -1,0 +1,14 @@
+{
+    "text.autoconfig.yungsmenutweaks-fabric-1_21.option.yungsMenuTweaks.backgroundTexture": "Testura di sfondo personalizzata",
+    "text.autoconfig.yungsmenutweaks-fabric-1_21.option.yungsMenuTweaks.backgroundTexture.@Tooltip[0]": "Un testo per utilizzare come sfondo personalizzato, al posto del solito sfondo sfocato.",
+    "text.autoconfig.yungsmenutweaks-fabric-1_21.option.yungsMenuTweaks.backgroundTexture.@Tooltip[1]": "Soltanto ha effetto se l'opzione \"Abilita testo di sfondo personalizzato\" è vera.",
+    "text.autoconfig.yungsmenutweaks-fabric-1_21.option.yungsMenuTweaks.enableBackgroundTexture": "Abilita testura di sfondo personalizzata",
+    "text.autoconfig.yungsmenutweaks-fabric-1_21.option.yungsMenuTweaks.enableBackgroundTexture.@Tooltip[0]": "Se abilitato, verrà utilizzato un testo di sfondo personalizzato nei menu dove possibile.",
+    "text.autoconfig.yungsmenutweaks-fabric-1_21.option.yungsMenuTweaks.enableBackgroundTexture.@Tooltip[1]": "Il testo utilizzato è specificato dall'opzione di testo del background personalizzata riportata di seguito.",
+    "text.autoconfig.yungsmenutweaks-fabric-1_21.option.yungsMenuTweaks.enableMouseScrollOnSliders": "Il puntatore del mouse influisce sulle barre di scorrimento",
+    "text.autoconfig.yungsmenutweaks-fabric-1_21.option.yungsMenuTweaks.enableMouseScrollOnSliders.@Tooltip[0]": "Consente di utilizzare la ruota del mouse per modificare le opzioni utilizzando un cursore.",
+    "text.autoconfig.yungsmenutweaks-fabric-1_21.option.yungsMenuTweaks.enableMouseScrollOnSliders.@Tooltip[1]": "Soltanto quando si passa il puntatore sopra lo slider.",
+    "text.autoconfig.yungsmenutweaks-fabric-1_21.option.yungsMenuTweaks.enableRightClickCycleButton": "Clic destro inverte i pulsanti di ciclo",
+    "text.autoconfig.yungsmenutweaks-fabric-1_21.option.yungsMenuTweaks.enableRightClickCycleButton.@Tooltip": "Consente di cliccare a destra per ciclare indietro attraverso alcuni pulsanti.",
+    "text.autoconfig.yungsmenutweaks-fabric-1_21.title": "Modifiche del menu di Yung"
+}

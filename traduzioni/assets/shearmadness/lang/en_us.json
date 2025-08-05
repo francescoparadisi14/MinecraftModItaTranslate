@@ -1,0 +1,10 @@
+{
+    "command.shearmadness:chancecube.usage": "shearmadness chancecubes",
+    "gui.not_a_chisel": "Sheep painting brush",
+    "item.shearmadness.not_a_chisel": "Not a chisel",
+    "message.shearmadness:chancecube.notparticipating": "No longer participating in Chance Cube Sheep",
+    "message.shearmadness:chancecube.participating": "Now participating in Chance Cube sheep",
+    "subtitle.shearmadness:chancecube_giantcubespawned": "DOOOOoooooom",
+    "subtitle.shearmadness:chancecube_sheepdied": "Ghostly baaAaaAaa",
+    "subtitle.shearmadness:sheepchiseled": "Sheep is confused and alarmed"
+}

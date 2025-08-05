@@ -1,0 +1,14 @@
+{
+    "block.simplecorn.corn": "Corn",
+    "block.simplecorn.corn_mid": "Corn",
+    "block.simplecorn.corn_top": "Corn",
+    "item.simplecorn.chickencornchowder": "Chicken Corn Chowder",
+    "item.simplecorn.cornchowder": "Corn Chowder",
+    "item.simplecorn.corncob": "Ear Of Corn",
+    "item.simplecorn.kernels": "Corn Kernels",
+    "item.simplecorn.popfirework": "Firework Rocket",
+    "item.simplecorn.poppedcorn": "Popcorn",
+    "item.simplecorn.roastedcorn": "Roasted Corn",
+    "simplecorn.advancements.husbandry.plant_corn.description": "Plant some corn and watch it grow",
+    "simplecorn.advancements.husbandry.plant_corn.title": "A Corny Joke"
+}

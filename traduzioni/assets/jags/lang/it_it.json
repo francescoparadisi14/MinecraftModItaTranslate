@@ -1,0 +1,21 @@
+{
+    "advancements.jags.root.description": "Pianta un seme di erba",
+    "advancements.jags.root.title": "È questo il modo in cui si presenta l'esterno?",
+    "block.jags.badlands_fake_grass_block": "Blocco di erba finta (Badlands)",
+    "block.jags.birch_fake_grass_block": "Blocco di erba finta (betulla)",
+    "block.jags.cheery_fake_grass_block": "Blocco di erba finta (allegra)",
+    "block.jags.dark_forest_fake_grass_block": "Blocco di erba finta (forestale buia)",
+    "block.jags.desert_fake_grass_block": "Blocco di erba finta (deserto)",
+    "block.jags.fake_grass_block": "Blocco di erba finta",
+    "block.jags.jungle_fake_grass_block": "Blocco di erba finta (giungla)",
+    "block.jags.mangrove_fake_grass_block": "Blocco di erba finta (mangrovie)",
+    "block.jags.meadow_fake_grass_block": "Blocco di erba finta (prato)",
+    "block.jags.mushroom_fake_grass_block": "Blocco di erba finta (fungo)",
+    "block.jags.ocean_fake_grass_block": "Blocco erba finta (oceano)",
+    "block.jags.pale_garden_fake_grass_block": "Blocco di erba finta (giardino pallido)",
+    "block.jags.plains_fake_grass_block": "Blocco di erba finta delle pianure",
+    "block.jags.snow_fake_grass_block": "Blocco di erba finta (neve)",
+    "block.jags.sparse_jungle_fake_grass_block": "Blocco di erba finta (sparse jungle)",
+    "block.jags.swamp_fake_grass_block": "Blocco di erba finta (palude)",
+    "item.jags.grass_seed": "Seme d'erba"
+}
