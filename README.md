@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/Quest%20tradotte-1-green)
 
 ## Progetto che utilizza l’intelligenza artificiale per **tradurre automaticamente in italiano** i contenuti testuali delle mod di Minecraft.
-Supporta file `.json` (come `en_us.json`) e file `.snbt` (come `en_us.snbt`) per le quest FtbQuest.
+Supporta file `.json` (come `en_us.json`) e file `.snbt` (come `en_us.snbt`) per FTB Quests.
 Traduzioni basate su modelli AI
 
 ---
