@@ -1,0 +1,7 @@
+{
+    "effect.shield_overhaul.stun": "Sbattuto",
+    "effect.shield_overhaul.stun.description": "Il bersaglio non è in grado di muoversi, utilizzare oggetti o attaccare.",
+    "effect.shield_overhaul.stun_immunity": "Immunità al blocco",
+    "enchantment.shield_overhaul.vigor": "Vigore",
+    "enchantment.shield_overhaul.vigor.desc": "Il colpo di scudo infligge inoltre un impulso laterale aggiuntivo, che aumenta con il livello dell'incantesimo."
+}

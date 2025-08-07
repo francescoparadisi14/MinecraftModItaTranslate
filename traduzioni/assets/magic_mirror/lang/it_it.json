@@ -1,0 +1,6 @@
+{
+    "block.magic_mirror.magic_mirror_core": "specchio magico",
+    "block.magic_mirror.magic_mirror_inactive": "Specchio magico (inattivo)",
+    "block.magic_mirror.magic_mirror_part": "Specchio magico",
+    "commands.magic_mirror.debug.reflections": "Numero totale di riflessioni: %d\nriflessioni attive: %d"
+}

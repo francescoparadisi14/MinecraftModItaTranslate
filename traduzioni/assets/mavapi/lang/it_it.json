@@ -1,0 +1,11 @@
+{
+    "mavapi.bucket.format": "%s %s (%s)",
+    "mavapi.bucket.translation.adult": "Adulto",
+    "mavapi.bucket.translation.baby": "bambino",
+    "mavapi.mod.minecraft": "Minecraft",
+    "mavapi.variant.minecraft.blue": "Blu",
+    "mavapi.variant.minecraft.cyan": "Ciano",
+    "mavapi.variant.minecraft.gold": "Oro",
+    "mavapi.variant.minecraft.lucy": "Lucy",
+    "mavapi.variant.minecraft.wild": "Selvaggio"
+}

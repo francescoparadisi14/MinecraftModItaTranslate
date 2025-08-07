@@ -1,0 +1,19 @@
+{
+    "entity.connectiblechains.chain_collision": "Collozione della catena",
+    "entity.connectiblechains.chain_knot": "Nodo di catena",
+    "message.connectiblechains.connectible_chain": "Compatibile catena [Shift]",
+    "message.connectiblechains.connectible_chain_detailed": "Clicca sulle recinzioni\/muri per creare una catena!",
+    "tag.item.connectiblechains.catenary_items": "Elementi catenari",
+    "text.autoconfig.connectiblechains.option.chainHangAmount": "Gocciolamento di catena",
+    "text.autoconfig.connectiblechains.option.chainHangAmount.@Tooltip[0]": "Influisce sulla quantità di catena che penzola.",
+    "text.autoconfig.connectiblechains.option.chainHangAmount.@Tooltip[1]": "Numeri più bassi equivalgono a una curva più ampia.",
+    "text.autoconfig.connectiblechains.option.chainHangAmount.@Tooltip[2]": "Aggiornamento collisione sulle nuove catene o caricamento mondo.",
+    "text.autoconfig.connectiblechains.option.maxChainRange": "Distanza massima della catena",
+    "text.autoconfig.connectiblechains.option.maxChainRange.@Tooltip[0]": "Influisce sulla lunghezza massima di una catena.",
+    "text.autoconfig.connectiblechains.option.maxChainRange.@Tooltip[1]": "Avviso: le lunghe catene possono diventare invisibili occasionalmente!",
+    "text.autoconfig.connectiblechains.option.quality": "Qualità della catena",
+    "text.autoconfig.connectiblechains.option.quality.@Tooltip": "Influisce sulla qualità visiva della catena.",
+    "text.autoconfig.connectiblechains.option.showToolTip": "Mostra tooltip di compatibilità catenaria",
+    "text.autoconfig.connectiblechains.option.showToolTip.@Tooltip": "Mostra la tooltip sopra gli elementi di catena compatibili con questo modulo.",
+    "text.autoconfig.connectiblechains.title": "Configurazioni di catene connettibili"
+}

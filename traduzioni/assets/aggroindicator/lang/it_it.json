@@ -1,0 +1,12 @@
+{
+    "config.client.alertIconSize": "Regola la dimensione degli icone di avviso",
+    "config.client.clientAggroIconStyle": "Regola lo stile del testo utilizzato per disegnare l'icona di aggressione.",
+    "config.client.clientMobBlacklist": "Il client non visualizza icone di avviso sopra questi mostri",
+    "config.client.renderAlertIcon": "Gli icone di avviso non verranno visualizzate se impostato su false",
+    "config.client.renderRange": "Solo i mob all'interno del raggio visivo visualizzeranno icone di avviso.",
+    "config.client.scaleWithMobSize": "Aggiorna icone di avviso in base alle dimensioni dei mostri",
+    "config.client.treatBlacklistAsWhitelist": "Il client visualizza solo icone di avviso sopra questi mostri",
+    "config.client.xOffset": "Regola la posizione degli iconi di avviso orizzontalmente",
+    "config.client.yOffset": "Regola la posizione degli iconi di avviso verticalmente",
+    "config.server.clientMobBlacklist": "Il server non controlla l'acquisizione di questi mostri"
+}

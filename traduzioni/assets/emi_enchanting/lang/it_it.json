@@ -1,0 +1,16 @@
+{
+    "emi.category.emi_enchanting.enchantments": "Informazioni sugli incantesimi",
+    "emi_enchanting.curse": "Maledizione: %s",
+    "emi_enchanting.description": "Descrizione dell'incantesimo",
+    "emi_enchanting.exclusions": "Esclusioni",
+    "emi_enchanting.maxLvl": "Livello massimo: %s",
+    "emi_enchanting.no_bad": "§0no",
+    "emi_enchanting.no_good": "no (in rosso)",
+    "emi_enchanting.random": "Selezionabile a caso: %s",
+    "emi_enchanting.tradeable": "I villaggi scambiano: %s",
+    "emi_enchanting.treasure": "Tesoro: %s",
+    "emi_enchanting.valid_items": "Elementi validi",
+    "emi_enchanting.yes_bad": "Sì",
+    "emi_enchanting.yes_good": "Sì",
+    "enchantment.emi_enchanting.unknown.desc": "Incantesimo sconosciuto"
+}

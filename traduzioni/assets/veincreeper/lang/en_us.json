@@ -1,0 +1,6 @@
+{
+    "block.veincreeper.trap": "Infusion Mob Trap",
+    "block.veincreeper.trap.tooltip": "Insert items to transform mobs using trap recipes",
+    "itemGroup.veincreeper": "Vein-Creeper Mod",
+    "veincreeper.explosion.jei": "Explosion from VeinCreeper"
+}

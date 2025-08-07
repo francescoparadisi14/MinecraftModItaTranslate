@@ -1,0 +1,15 @@
+{
+    "colorfulskies.commands.color.cloud.reset": "Riprista colore nuvola",
+    "colorfulskies.commands.color.cloud.success": "Il colore del cloud è stato impostato su %s.",
+    "colorfulskies.commands.color.invalid_hex": "Codice colore non valido",
+    "colorfulskies.commands.color.moon.reset": "Riprista colore della luna",
+    "colorfulskies.commands.color.moon.success": "Il colore della luna è stato impostato su %s.",
+    "colorfulskies.commands.color.sky.reset": "Resetta il colore del cielo",
+    "colorfulskies.commands.color.sky.success": "Il colore del cielo è stato impostato su %s.",
+    "colorfulskies.commands.color.sun.reset": "Resetta il colore del sole",
+    "colorfulskies.commands.color.sun.success": "Il colore del sole è stato impostato su %s.",
+    "colorfulskies.commands.color.sunrise.reset": "Resetta il colore del tramonto",
+    "colorfulskies.commands.color.sunrise.success": "Il colore del tramonto è stato impostato su `%s`",
+    "colorfulskies.commands.sunrise.success": "Sorgente del sole disabilitata",
+    "colorfulskies.commands.sunrise.success1": "Visualizzazione del sorgere del sole abilitata."
+}

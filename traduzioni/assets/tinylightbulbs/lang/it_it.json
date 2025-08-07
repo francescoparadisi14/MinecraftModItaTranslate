@@ -1,0 +1,11 @@
+{
+    "block.tinylightbulbs.bulb": "Lampadina",
+    "block.tinylightbulbs.bulb.tooltip": "Tenere il colore nella mano libera o utilizzare il colore mentre si è in posizione inginocchiata.",
+    "block.tinylightbulbs.bulb_block": "Blocco di lampadina",
+    "block.tinylightbulbs.bulb_block.tooltip": "Tenere il colore nella mano libera o utilizzare il colore mentre si è in posizione accucciata.",
+    "block.tinylightbulbs.led": "Fiamma di led",
+    "block.tinylightbulbs.led.tooltip": "Tenere il colore nella mano libera o utilizzare il colore mentre si è in posizione inginocchiata",
+    "block.tinylightbulbs.panel": "Pannello di illuminazione",
+    "block.tinylightbulbs.panel.tooltip": "Tenere il colore nella mano libera o utilizzare il colore mentre si è in posizione inginocchiata.",
+    "itemGroup.tinylightbulbs": "Piccole lampadine"
+}

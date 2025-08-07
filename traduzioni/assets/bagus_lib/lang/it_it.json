@@ -1,0 +1,13 @@
+{
+    "bagus_lib.config.aprilFeature": "Abilita la funzionalità di aprile",
+    "bagus_lib.config.betterEndPoem": "Poema finale migliorato",
+    "bagus_lib.config.playableFirstPerson": "Modalità prima persona giocabile",
+    "bagus_lib.config.shakeCameraForVanilla": "Abilita scuotimento della telecamera per il gioco originale",
+    "bagus_lib.watermelon": "Melone d'acqua",
+    "command.bagus_lib.dialog": "Aggiunto dialogo con successo",
+    "command.bagus_lib.image_dialog": "Dialogo di aggiunta immagine con successo",
+    "command.bagus_lib.item_dialog": "Dialogo di aggiunta di elemento con successo",
+    "command.bagus_lib.remove_all_dialog": "Rimosso con successo tutti i dialoghi.",
+    "item.bagus_lib.book": "Libro",
+    "item.bagus_lib.spawn_egg_mini_bagu": "Uova di spawn del mini Bagu"
+}

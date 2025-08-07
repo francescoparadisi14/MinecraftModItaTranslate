@@ -1,0 +1,15 @@
+{
+    "effect.moretotems.cephalopod": "Cefalopode",
+    "effect.moretotems.necrosis": "Necrosi",
+    "effect.moretotems.sniper": "Sniper",
+    "entity.moretotems.summoned_bee": "Ape totale",
+    "entity.moretotems.summoned_zombie": "Zombero del totem",
+    "item.moretotems.explosive_totem_of_undying": "Totem esplosivo dell'eternità",
+    "item.moretotems.ghastly_totem_of_undying": "Totem spettrale dell'immortalità",
+    "item.moretotems.rotting_totem_of_undying": "Totem morente dell'eternità",
+    "item.moretotems.skeletal_totem_of_undying": "Totem scheletrico dell'eternità",
+    "item.moretotems.stinging_totem_of_undying": "Totem aculeato dell'eternità",
+    "item.moretotems.teleporting_totem_of_undying": "Totem di trasporto eterno",
+    "item.moretotems.tentacled_totem_of_undying": "Totem tentacolare dell'eternità",
+    "itemGroup.moretotems.moretotems_items": "Totem più di immortalità"
+}

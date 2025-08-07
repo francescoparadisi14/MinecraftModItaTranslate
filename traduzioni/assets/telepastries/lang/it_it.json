@@ -1,0 +1,22 @@
+{
+    "_comment": "Nota di waila",
+    "block.telepastries.custom_cake": "Torta %s",
+    "block.telepastries.custom_cake2": "Torta %s",
+    "block.telepastries.custom_cake3": "Torta %s",
+    "block.telepastries.end_cake": "Torta finale",
+    "block.telepastries.hunting_dimension_cake": "Torta di dimensione caccia",
+    "block.telepastries.lost_city_cake": "Torta della città perduta",
+    "block.telepastries.nether_cake": "Torta dell'Inferno",
+    "block.telepastries.overworld_cake": "Torta del mondo superficie",
+    "block.telepastries.twilight_cake": "Torta del crepuscolo",
+    "config.jade.plugin_telepastries.bites": "Bocconcini di torta",
+    "itemGroup.tele_tab": "Tele pasticceria",
+    "telepastries.config.title": "Configurazione telepastries",
+    "telepastries.pastry.custom.invalid": "Destinazione del dolce non valida %s",
+    "telepastries.pastry.custom.unbound": "Il dolce personalizzato non ha vincolo di dimensione impostato nella configurazione.",
+    "telepastries.pastry.reset.complete": "La posizione salvata del dimensione %s è stata reimpostata.",
+    "telepastries.pastry.reset.failed": "La dimensione %s non ha una posizione salvata.",
+    "telepastries.pastry.support.disabled": "Il dolce è disattivato perché %s non è installato.",
+    "telepastries.same_dimension": "Non è possibile teletrasportarsi nello stesso dimensione.",
+    "telepastries.teleport_restricted": "Non è possibile teletrasportarsi in un dimensione non di giungla."
+}

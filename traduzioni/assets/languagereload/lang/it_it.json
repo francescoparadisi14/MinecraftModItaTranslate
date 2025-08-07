@@ -1,0 +1,17 @@
+{
+    "debug.reload_languages.help": "F3 + J = Ricarica lingua, Premi Shift per cambiare lingua",
+    "debug.reload_languages.message": "Lingua Ricaricata",
+    "debug.reload_languages.switch.failure": "Impossibile cambiare lingua. Cambia la lingua dal menu e riprova",
+    "debug.reload_languages.switch.success": "Lingua impostata su %s",
+    "language.default.tooltip": "La lingua default di Minecraft!",
+    "modmenu.descriptionTranslation.languagereload": "Rende più veloce il cambio di lingua, introduce una casella di ricerca e multi-selezione nel menu della lingua, rende la ricerca di item multilingue, aggiunge la feature per cambiare lingua con with Shift + F3 + J e rircaricare la lingua con F3 + J.",
+    "modmenu.summaryTranslation.languagereload": "Riduce la durata del caricamento delle lingue e aggiunge dei miglioramenti.",
+    "options.languagereload.multilingualItemSearch": "Ricerca Multilingua",
+    "options.languagereload.multilingualItemSearch.tooltip": "Permette di cercare oggetti nel menu creativa ed il menù delle ricette in qualsiasi lingua",
+    "options.languagereload.removableDefaultLanguage": "Lingua predefinita",
+    "options.languagereload.removableDefaultLanguage.fixed": "Fissato",
+    "options.languagereload.removableDefaultLanguage.fixed.tooltip": "Impedisce di deselezionare l'inglese (Stati Uniti).",
+    "options.languagereload.removableDefaultLanguage.removable": "Rimuovibile",
+    "options.languagereload.removableDefaultLanguage.removable.tooltip": "Consente di deselezionare l'inglese (Stati Uniti) e può essere utile per il debug.",
+    "options.languagereload.title": "Opzioni di Language Reload"
+}

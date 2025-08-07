@@ -1,0 +1,15 @@
+{
+    "colorfulskies.commands.color.cloud.reset": "Reset cloud color",
+    "colorfulskies.commands.color.cloud.success": "Cloud color set to %s",
+    "colorfulskies.commands.color.invalid_hex": "Invalid Hex",
+    "colorfulskies.commands.color.moon.reset": "Reset moon color",
+    "colorfulskies.commands.color.moon.success": "Moon color set to %s",
+    "colorfulskies.commands.color.sky.reset": "Reset sky color",
+    "colorfulskies.commands.color.sky.success": "Sky color set to %s",
+    "colorfulskies.commands.color.sun.reset": "Reset sun color",
+    "colorfulskies.commands.color.sun.success": "Sun color set to %s",
+    "colorfulskies.commands.color.sunrise.reset": "Reset sunrise color",
+    "colorfulskies.commands.color.sunrise.success": "Sunrise color set to %s",
+    "colorfulskies.commands.sunrise.success": "Disabled sunrise visual",
+    "colorfulskies.commands.sunrise.success1": "Enabled sunrise visual"
+}

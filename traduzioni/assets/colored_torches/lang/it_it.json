@@ -1,0 +1,19 @@
+{
+    "block.colored_torches.black_torch": "Torrino nero",
+    "block.colored_torches.blue_torch": "Torrice azzurra",
+    "block.colored_torches.brown_torch": "Torrice marrone",
+    "block.colored_torches.cyan_torch": "Torrace ciano",
+    "block.colored_torches.gray_torch": "Torrino grigio",
+    "block.colored_torches.green_torch": "Torrice verde",
+    "block.colored_torches.light_blue_torch": "Torrino azzurro",
+    "block.colored_torches.light_gray_torch": "Torrino grigio chiaro",
+    "block.colored_torches.lime_torch": "Torrino di lime",
+    "block.colored_torches.magenta_torch": "Torcia magenta",
+    "block.colored_torches.orange_torch": "Torrice arancione",
+    "block.colored_torches.pink_torch": "Torrino rosa",
+    "block.colored_torches.purple_torch": "Torrace viola",
+    "block.colored_torches.red_torch": "Torrino rosso",
+    "block.colored_torches.white_torch": "Torrino bianco",
+    "block.colored_torches.yellow_torch": "Torrino giallo",
+    "itemGroup.colored_torches": "Torci colorate"
+}

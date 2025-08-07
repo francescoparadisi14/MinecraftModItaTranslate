@@ -1,0 +1,20 @@
+{
+    "attribute.name.ranged_weapon.damage": "Ranged Damage",
+    "attribute.name.ranged_weapon.haste": "Draw Speed",
+    "attribute.name.ranged_weapon.pull_time": "sec Pull Time",
+    "attribute.name.ranged_weapon.velocity": "Arrow Velocity",
+    "effect.ranged_weapon.damage": "Impact",
+    "effect.ranged_weapon.damage.description": "Increases ranged damage",
+    "effect.ranged_weapon.haste": "Rapid Fire",
+    "effect.ranged_weapon.haste.description": "Increases ranged attack speed",
+    "item.minecraft.lingering_potion.effect.ranged_weapon.damage": "Lingering Potion of Ranged Damage",
+    "item.minecraft.lingering_potion.effect.ranged_weapon.haste": "Lingering Potion of Draw Speed",
+    "item.minecraft.potion.effect.ranged_weapon.damage": "Potion of Ranged Damage",
+    "item.minecraft.potion.effect.ranged_weapon.haste": "Potion of Draw Speed",
+    "item.minecraft.splash_potion.effect.ranged_weapon.damage": "Splash Potion of Ranged Damage",
+    "item.minecraft.splash_potion.effect.ranged_weapon.haste": "Splash Potion of Draw Speed",
+    "item.minecraft.tipped_arrow.effect.ranged_weapon.damage": "Arrow of Ranged Damage",
+    "item.minecraft.tipped_arrow.effect.ranged_weapon.haste": "Arrow of Draw Speed",
+    "item.modifiers.both_hands": "When Held:",
+    "item.ranged_weapon.pull_time": "%1$s sec Pull Time"
+}

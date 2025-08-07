@@ -1,0 +1,11 @@
+{
+    "text.skills.spell_fire_damage_additive+0.8%.title": "+a 0,8% [+] danno da incantesimo di fuoco e terra",
+    "text.skills.spell_fire_damage_additive+1%.title": "+a 3% [+] danno da incantesimo fuoco e terra",
+    "text.skills.spell_fire_damage_multi+1%.title": "+a 5% [+] danno da incantesimo di fuoco e terra",
+    "text.skills.spell_frost_damage_additive+0.8%.title": "+a 0,8% [+] danni da incantesimo di gelo e acqua",
+    "text.skills.spell_frost_damage_additive+1%.title": "+a 3% [+] danno da incantesimo di gelo e acqua",
+    "text.skills.spell_frost_damage_multi+1%.title": "+a 5% [+] danno da incantesimo di gelo e acqua",
+    "text.skills.spell_lightning_damage_additive+0.8%.title": "+a 0,8% [+] danni di incantesimo elettrico e d'aria",
+    "text.skills.spell_lightning_damage_additive+1%.title": "+a 3% [+] danni di incantesimo elettrico e d'aria",
+    "text.skills.spell_lightning_damage_multi+1%.title": "+a 5% [+] danno da incantesimo di fulmine e aria"
+}

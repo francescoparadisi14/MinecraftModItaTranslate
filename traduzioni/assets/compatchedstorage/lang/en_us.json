@@ -1,0 +1,22 @@
+{
+    "block.compatchedstorage.barrel": "Barrel",
+    "block.compatchedstorage.chest": "Compact Chest",
+    "block.compatchedstorage.chest_builder": "Chest Builder",
+    "block.compatchedstorage.fluid_barrel": "Drum",
+    "compatchedstorage.backpack.inv": "Backpack",
+    "compatchedstorage.chest.inv": "Chest (%sx%s)",
+    "compatchedstorage.msg.retain": "This chest will now retain items when broken.",
+    "compatchedstorage.text.amountreq": "Amount Required: %s",
+    "compatchedstorage.text.columns": "Columns",
+    "compatchedstorage.text.empty": "Empty",
+    "compatchedstorage.text.fluidformat": "%s\/%smB",
+    "compatchedstorage.text.hue": "Hue",
+    "compatchedstorage.text.hue2": "Hue: %s",
+    "compatchedstorage.text.nonretaining": "Non-Retaining",
+    "compatchedstorage.text.retaining": "Retaining",
+    "compatchedstorage.text.rows": "Rows",
+    "compatchedstorage.text.slots": "Slots: %s",
+    "compatchedstorage.text.white": "White",
+    "item.compatchedstorage.backpack": "Backpack",
+    "itemGroup.compatchedstorage": "ComPatchedStorage"
+}

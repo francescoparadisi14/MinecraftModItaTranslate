@@ -1,0 +1,17 @@
+{
+    "block.ender_crop.ender_crop": "Ender Crop",
+    "block.endercrop.tilled_end_stone": "Tilled End Stone",
+    "config.jade.plugin_endercrop.endercrop": "Ender Crop Info",
+    "config.jade.plugin_endercrop.endstone": "End Stone Tilling",
+    "endercrop.alert.hoe": "This block can only be tilled by a hoe enchanted with Unbreaking I+",
+    "endercrop.alert.hoetool": "This block can only be tilled by a tool with mining level %s",
+    "endercrop.tip.seed": "Plant on farmland or tilled end stone",
+    "endercrop.top.hoe": "Hoe",
+    "endercrop.waila.hoeable": "Can till",
+    "endercrop.waila.nothoeable": "Can't till",
+    "endercrop.wailatop.dry": "Dry",
+    "endercrop.wailatop.light": "Light",
+    "endercrop.wailatop.moist": "Moist",
+    "endercrop.wailatop.nogrowth": "Can't grow",
+    "item.endercrop.ender_seeds": "Ender Seeds"
+}

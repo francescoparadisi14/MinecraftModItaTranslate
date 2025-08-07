@@ -1,0 +1,19 @@
+{
+    "block.phosphophyllite.fluid_black_hole": "buco nero fluido",
+    "block.phosphophyllite.fluid_white_hole": "Buco bianco fluido",
+    "block.phosphophyllite.item_black_hole": "Buco nero di oggetto",
+    "block.phosphophyllite.item_white_hole": "Buco bianco",
+    "block.phosphophyllite.phosphophyllite_ore": "Minerale di fosforite",
+    "block.phosphophyllite.power_black_hole": "Buco Nero di Potere",
+    "block.phosphophyllite.power_white_hole": "Buco bianco di potere",
+    "item.phosphophyllite.debug_tool": "Debeefer",
+    "itemGroup.phosphophyllite": "Fosforite di filite",
+    "multiblock.error.phosphophyllite.dimensions": "Dimensioni non consentite\ndimensioni attuali: %d, %d, %d,\ndimensioni minime consentite: %d, %d, %d,\ndimensioni massime consentite: %d, %d, %d,",
+    "multiblock.error.phosphophyllite.invalid_block.corner": "Blocco non valido (%s) per angolo in %s",
+    "multiblock.error.phosphophyllite.invalid_block.exterior": "Blocco non valido (%s) per esterno in %s",
+    "multiblock.error.phosphophyllite.invalid_block.frame": "Blocco non valido (%s) per il frame in %s",
+    "multiblock.error.phosphophyllite.invalid_block.generic": "Blocco non valido (%s) in %s",
+    "multiblock.error.phosphophyllite.invalid_block.interior": "Blocco non valido (%s) per l'interno in %s",
+    "multiblock.error.phosphophyllite.unknown": "Si è verificato un errore di multiblocco sconosciuto, segnalare all'autore del modulo.",
+    "random.bullshit.that.doesnt.actually.get.used.anywhere": "È per poter avere una virgola di trailing, okay"
+}

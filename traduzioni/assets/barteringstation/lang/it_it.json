@@ -1,5 +1,6 @@
 {
     "block.barteringstation.bartering_station": "Stazione di scambio",
     "container.bartering_station": "Stazione di scambio",
+    "container.barteringstation.bartering_station": "negoziato di scambio",
     "gui.barteringstation.bartering_station.piglins": "%s x %s"
 }

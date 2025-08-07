@@ -1,0 +1,17 @@
+{
+    "block.forbiddensmoothies.blender": "Blender",
+    "block.forbiddensmoothies.printer": "Printer",
+    "config.forbiddensmoothies": "Forbidden Smoothies",
+    "container.forbiddensmoothies.blender": "Blender",
+    "container.forbiddensmoothies.printer": "Printer",
+    "gui.forbiddensmoothies.lockButton": "Toggle Input Lock",
+    "item.forbiddensmoothies.ugly_steel_plating": "Ugly Steel Plating",
+    "itemGroup.forbiddensmoothies.forbiddensmoothies": "Forbidden Smoothies",
+    "jei.forbiddensmoothies.blender": "Blender",
+    "jei.forbiddensmoothies.printer": "Printer",
+    "tooltip.forbiddensmoothies.energyConsumed": "Consuming %d FE\/t",
+    "tooltip.forbiddensmoothies.energyStored": "%d FE",
+    "tooltip.forbiddensmoothies.lockInputs": "Lock Input Slots",
+    "tooltip.forbiddensmoothies.ugly_steel_plating": "Apply to a Blender or Printer to make it ugly.",
+    "tooltip.forbiddensmoothies.unlockInputs": "Unlock Input Slots"
+}

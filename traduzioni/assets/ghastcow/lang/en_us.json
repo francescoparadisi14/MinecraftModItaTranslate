@@ -1,0 +1,6 @@
+{
+    "entity.ghastcow.ghast_cow": "The Ghast Cow",
+    "text.autoconfig.ghastcow.option.general": "General",
+    "text.autoconfig.ghastcow.option.general.requireNamed": "Require Name",
+    "text.autoconfig.ghastcow.title": "General"
+}

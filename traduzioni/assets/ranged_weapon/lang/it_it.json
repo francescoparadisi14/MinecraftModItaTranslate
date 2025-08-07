@@ -1,0 +1,20 @@
+{
+    "attribute.name.ranged_weapon.damage": "Danno a distanza",
+    "attribute.name.ranged_weapon.haste": "Velocità di scoccata",
+    "attribute.name.ranged_weapon.pull_time": "sec tempo di tiro",
+    "attribute.name.ranged_weapon.velocity": "Velocità dell'arco",
+    "effect.ranged_weapon.damage": "Impatto",
+    "effect.ranged_weapon.damage.description": "Incrementa il danno a distanza",
+    "effect.ranged_weapon.haste": "Fuoco rapido",
+    "effect.ranged_weapon.haste.description": "Incrementa la velocità di attacco a distanza",
+    "item.minecraft.lingering_potion.effect.ranged_weapon.damage": "Potion di danno a distanza persistente",
+    "item.minecraft.lingering_potion.effect.ranged_weapon.haste": "Polvere di velocità del tiratore",
+    "item.minecraft.potion.effect.ranged_weapon.damage": "Pozione di danno a distanza",
+    "item.minecraft.potion.effect.ranged_weapon.haste": "Potion di velocità di estrazione",
+    "item.minecraft.splash_potion.effect.ranged_weapon.damage": "Pozione di danno a distanza",
+    "item.minecraft.splash_potion.effect.ranged_weapon.haste": "Pozione di velocità del tiro",
+    "item.minecraft.tipped_arrow.effect.ranged_weapon.damage": "Fucile a freccia di danno a distanza",
+    "item.minecraft.tipped_arrow.effect.ranged_weapon.haste": "Freccia di velocità di estrazione",
+    "item.modifiers.both_hands": "Quando in mano:",
+    "item.ranged_weapon.pull_time": "%1$s sec tempo di tiro"
+}

@@ -1,0 +1,10 @@
+{
+    "dimpaintings.cooldown": "La teleportazione è in attesa di rilascio.",
+    "dimpaintings.same_dimension": "Non è possibile teletrasportarsi nello stesso dimensione.",
+    "entity.dimpaintings.dimensional_painting": "Dipinto dimensionale",
+    "item.dimpaintings.custom_painting": "Dipinto personalizzato",
+    "item.dimpaintings.end_painting": "Pittura finale",
+    "item.dimpaintings.nether_painting": "Dipinto del Nether",
+    "item.dimpaintings.overworld_painting": "Dipinto della superficie terrestre",
+    "itemGroup.dimpaintings": "Dipinture dimensional"
+}

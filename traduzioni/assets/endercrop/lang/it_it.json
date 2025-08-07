@@ -1,0 +1,17 @@
+{
+    "block.ender_crop.ender_crop": "Coltura di fine",
+    "block.endercrop.tilled_end_stone": "Terra lavorata di fine stazione",
+    "config.jade.plugin_endercrop.endercrop": "Informazioni sulla coltura di Ender",
+    "config.jade.plugin_endercrop.endstone": "Tessitura di pietra finale",
+    "endercrop.alert.hoe": "Questo blocco può essere lavorato solo con una forchetta incantata con resistenza I+",
+    "endercrop.alert.hoetool": "Questo blocco può essere lavorato solo con un utensile con livello di estrazione %s",
+    "endercrop.tip.seed": "Pianta su terreno coltivato o pietra di fine lavorata.",
+    "endercrop.top.hoe": "Aratro",
+    "endercrop.waila.hoeable": "Può essere arato",
+    "endercrop.waila.nothoeable": "Non è possibile arare",
+    "endercrop.wailatop.dry": "asciutto",
+    "endercrop.wailatop.light": "Luce",
+    "endercrop.wailatop.moist": "umido",
+    "endercrop.wailatop.nogrowth": "Non può crescere",
+    "item.endercrop.ender_seeds": "Semi di finezza"
+}

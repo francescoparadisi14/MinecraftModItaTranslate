@@ -1,0 +1,9 @@
+{
+    "block.thismatters.organic_matter_compressor": "Organic Matter Compressor",
+    "itemGroup.thismatters": "This Matters",
+    "thismatters.container.organic_matter_compressor": "Organic Matter Compressor",
+    "thismatters.gui.jei.category.organic_matter_compressing": "Organic Matter Compressor",
+    "thismatters.gui.jei.compressing.matter": "<Matter>",
+    "thismatters.gui.jei.compressing.matter_amount": "Produces %s Matter",
+    "thismatters.organic_matter_compressor.not_low_enough": "Pressure too low, try placing the block deeper"
+}

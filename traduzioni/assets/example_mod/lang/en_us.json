@@ -1,4 +1,4 @@
 {
-    "sodiumoptionsmodcompat.configuration.client": "client",
-    "sodiumoptionsmodcompat.configuration.example": "example"
+    "welcomescreen.configuration.client": "client",
+    "welcomescreen.configuration.example": "example"
 }

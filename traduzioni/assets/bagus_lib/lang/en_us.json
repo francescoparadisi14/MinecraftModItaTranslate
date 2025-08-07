@@ -1,0 +1,13 @@
+{
+    "bagus_lib.config.aprilFeature": "Enable April Feature",
+    "bagus_lib.config.betterEndPoem": "Better End Poem",
+    "bagus_lib.config.playableFirstPerson": "Playable First Person",
+    "bagus_lib.config.shakeCameraForVanilla": "Enable Shake Camera For Vanilla",
+    "bagus_lib.watermelon": "Water Melon",
+    "command.bagus_lib.dialog": "Successfully add Dialog",
+    "command.bagus_lib.image_dialog": "Successfully add Image Dialog",
+    "command.bagus_lib.item_dialog": "Successfully add Item Dialog",
+    "command.bagus_lib.remove_all_dialog": "Successfully Removed All Dialog",
+    "item.bagus_lib.book": "Book",
+    "item.bagus_lib.spawn_egg_mini_bagu": "Mini Bagu Spawn Egg"
+}

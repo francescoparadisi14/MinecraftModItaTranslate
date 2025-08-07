@@ -1,0 +1,9 @@
+{
+    "block.thismatters.organic_matter_compressor": "Compressore di materia organica",
+    "itemGroup.thismatters": "Questo conta",
+    "thismatters.container.organic_matter_compressor": "Compressore di materia organica",
+    "thismatters.gui.jei.category.organic_matter_compressing": "Compressore di materia organica",
+    "thismatters.gui.jei.compressing.matter": "Materia",
+    "thismatters.gui.jei.compressing.matter_amount": "produce %s materia",
+    "thismatters.organic_matter_compressor.not_low_enough": "La pressione è troppo bassa, prova a collocare il blocco più in profondità."
+}

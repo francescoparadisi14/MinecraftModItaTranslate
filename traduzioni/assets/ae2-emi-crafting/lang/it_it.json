@@ -1,0 +1,16 @@
+{
+    "ae2-emi-crafting.category_attunement": "Attunamento per tunnel p2p",
+    "ae2-emi-crafting.category_charger": "Caricatore",
+    "ae2-emi-crafting.category_condenser": "Condensatore di materia",
+    "ae2-emi-crafting.category_entropy_manipulator": "Manipolatore di entropia",
+    "ae2-emi-crafting.category_inscriber": "Inscribite",
+    "ae2-emi-crafting.category_transform": "Trasformazione in mondo",
+    "ae2-emi-crafting.error.crafting.storage_terminal": "Non è possibile creare utilizzando un terminale di archiviazione ME.",
+    "text.autoconfig.ae2-emi-crafting.category.emi": "EMI",
+    "text.autoconfig.ae2-emi-crafting.category.integration": "Integrazione dei mod",
+    "text.autoconfig.ae2-emi-crafting.option.bomsync": "Sincronizzazione di elenco di materiali",
+    "text.autoconfig.ae2-emi-crafting.option.bomsync.@Tooltip": "Consente a EMI di leggere il contenuto del sistema ME.",
+    "text.autoconfig.ae2-emi-crafting.option.exmi": "Integrazioni di mod extra",
+    "text.autoconfig.ae2-emi-crafting.option.exmi.@Tooltip": "Rimuove le ricette AE2 ExMI dal registro",
+    "text.autoconfig.ae2-emi-crafting.title": "Integrazione di crafting AE2 EMI"
+}

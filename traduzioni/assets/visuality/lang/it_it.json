@@ -8,6 +8,7 @@
     "config.visuality.option.shinyBlocks": "I blocchi lucidi sono abilitati",
     "config.visuality.option.shinyBlocks.entries": "Voci di blocchi lucenti",
     "config.visuality.option.slime": "Abilitato il rendering dei globi di lombrico",
+    "config.visuality.option.slime.color": "Colore dei globi di lombrico",
     "config.visuality.option.soul": "Abilitato il particolare dell'anima",
     "config.visuality.option.sparkle": "Abilitato il particolare scintillante",
     "config.visuality.option.waterCircle": "Abilitato il cerchio d'acqua",

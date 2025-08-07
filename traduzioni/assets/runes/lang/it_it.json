@@ -1,0 +1,15 @@
+{
+    "block.runes.crafting_altar": "Altare runico",
+    "block.runes.crafting_altar.hint": "Crea rune più economicamente.",
+    "gui.runes.rune_crafting": "Creazione rune",
+    "item.runes.arcane_stone": "Runa arcana",
+    "item.runes.fire_stone": "Runa di fuoco",
+    "item.runes.frost_stone": "Runa del gelo",
+    "item.runes.healing_stone": "Runa curativa",
+    "item.runes.large_rune_pouch": "Borsa di rune mistiche",
+    "item.runes.lightning_stone": "Runa del fulmine",
+    "item.runes.medium_rune_pouch": "Borsa di rune fantasma",
+    "item.runes.rune_pouch.hint": "Fornisce rune per l'esecuzione di incantesimi, quando indossato.",
+    "item.runes.small_rune_pouch": "Borsa di rune",
+    "item.runes.soul_stone": "Runa dell'anima"
+}

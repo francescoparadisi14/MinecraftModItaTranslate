@@ -1,0 +1,23 @@
+{
+    "block.mcpaint.canvas": "Blocco dipinto",
+    "item.mcpaint.brush": "Pennello",
+    "item.mcpaint.stamp": "Timbro",
+    "mcpaint.drawgui": "Disegna un'immagine",
+    "mcpaint.drawsetup": "Imposta la risoluzione di un'immagine",
+    "mcpaint.gui.alpha": "Alpha:",
+    "mcpaint.gui.blue": "blu:",
+    "mcpaint.gui.eraser": "Sfumatore",
+    "mcpaint.gui.export": "Esporta",
+    "mcpaint.gui.fill": "Riempire",
+    "mcpaint.gui.green": "Verde:",
+    "mcpaint.gui.pencil": "Penna",
+    "mcpaint.gui.pick_color": "Selezionatore di colori",
+    "mcpaint.gui.red": "rosso:",
+    "mcpaint.gui.redo": "Ripeti",
+    "mcpaint.gui.rleft": "ruota a sinistra",
+    "mcpaint.gui.rright": "Ruota a destra",
+    "mcpaint.gui.saved": "Dipinto salvato come %s",
+    "mcpaint.gui.undo": "Annulla",
+    "mcpaint.tooltip.stamp.nopaint": "Clicca con il tasto destro sul blocco per copiare la pittura",
+    "mcpaint.tooltip.stamp.paint": "Clicca con il tasto destro per cancellare"
+}

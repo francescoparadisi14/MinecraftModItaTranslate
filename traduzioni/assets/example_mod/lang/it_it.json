@@ -14,5 +14,7 @@
     "packanalytics.configuration.client": "Configurazione del client",
     "packanalytics.configuration.example": "Esempio",
     "sodiumoptionsmodcompat.configuration.client": "Configurazione del client Sodium Options Mod Compat",
-    "sodiumoptionsmodcompat.configuration.example": "Esempio"
+    "sodiumoptionsmodcompat.configuration.example": "Esempio",
+    "welcomescreen.configuration.client": "Client",
+    "welcomescreen.configuration.example": "Esempio"
 }

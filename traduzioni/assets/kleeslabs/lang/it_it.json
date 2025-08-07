@@ -1,4 +1,11 @@
 {
+    "config.kleeslabs.disabledCompat": "Incompatibilità disabilitata",
+    "config.kleeslabs.disabledCompat.tooltip": "ID dei mod la cui compatibilità deve essere disattivata.",
+    "config.kleeslabs.dumpSlabs": "Dump lastri di debug",
+    "config.kleeslabs.dumpSlabs.tooltip": "Per scopi di sviluppo. Impostare su vero per avere KleesLabs scaricare una lista di oggetti che contengono il nome \"slab\" nel loro nome al caricamento del mondo.",
+    "config.kleeslabs.mode": "Modalità",
+    "config.kleeslabs.mode.tooltip": "Determina se Kleeslabs dovrebbero attivarsi sempre, solo quando si è in agguato o solo quando non si è in agguato.",
+    "config.kleeslabs.title": "Klee's Labs",
     "kleeslabs.configuration.disabledCompat": "Incompatibilità disabilitata",
     "kleeslabs.configuration.disabledCompat.tooltip": "ID dei mod la cui compatibilità deve essere disattivata.",
     "kleeslabs.configuration.dumpSlabs": "Dump lastre di debug",

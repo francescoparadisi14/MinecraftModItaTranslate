@@ -8,6 +8,7 @@
     "config.visuality.option.shinyBlocks": "Shiny Blocks Enabled",
     "config.visuality.option.shinyBlocks.entries": "Shiny Blocks Entries",
     "config.visuality.option.slime": "Slime Blobs Enabled",
+    "config.visuality.option.slime.color": "Slime Blobs Color",
     "config.visuality.option.soul": "Soul Particle Enabled",
     "config.visuality.option.sparkle": "Sparkle Particle Enabled",
     "config.visuality.option.waterCircle": "Water Circles Enabled",
@@ -15,5 +16,5 @@
     "config.visuality.option.waterCircle.density": "Water Circles Density",
     "config.visuality.option.waterCircle.radius": "Water Circles Radius",
     "config.visuality.title": "Visuality Config",
-    "modmenu.descriptionTranslation.visuality": "Visual improvements by adding a bunch of new particles."
+    "modmenu.descriptionTranslation.visuality": "Little visual improvements by adding a bunch of new particles."
 }

@@ -1,0 +1,17 @@
+{
+    "block.forbiddensmoothies.blender": "Blender",
+    "block.forbiddensmoothies.printer": "Stampante di smoothie proibito",
+    "config.forbiddensmoothies": "Smoothie proibiti",
+    "container.forbiddensmoothies.blender": "Blender",
+    "container.forbiddensmoothies.printer": "Stampante di smoothie proibito",
+    "gui.forbiddensmoothies.lockButton": "Blocca\/Disblocca input",
+    "item.forbiddensmoothies.ugly_steel_plating": "Piastrino di acciaio brutto",
+    "itemGroup.forbiddensmoothies.forbiddensmoothies": "Smoothie proibiti",
+    "jei.forbiddensmoothies.blender": "Blender",
+    "jei.forbiddensmoothies.printer": "Stampante di smoothie proibito",
+    "tooltip.forbiddensmoothies.energyConsumed": "consuma %d fe\/t",
+    "tooltip.forbiddensmoothies.energyStored": "%d FE",
+    "tooltip.forbiddensmoothies.lockInputs": "Blocca slot di input",
+    "tooltip.forbiddensmoothies.ugly_steel_plating": "Applica a un frullatore o stampante per renderlo brutto.",
+    "tooltip.forbiddensmoothies.unlockInputs": "Sblocca slot di input"
+}

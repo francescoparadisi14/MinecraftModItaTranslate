@@ -1,0 +1,21 @@
+{
+    "block.animalcrops.anemonemal": "Anemonemalo",
+    "block.animalcrops.crops": "Colture animali",
+    "block.animalcrops.magnemone": "Magnemone",
+    "block.animalcrops.shrooms": "Funghi animali",
+    "item.animalcrops.anemonemal": "Semi di anemone %s",
+    "item.animalcrops.anemonemal.default": "Semi di anemonemal",
+    "item.animalcrops.anemonemal.tooltip": "Pianta sott'acqua per far crescere l'animale",
+    "item.animalcrops.magnemone": "Spore di magnemone %s",
+    "item.animalcrops.magnemone.default": "Spore di magnemone",
+    "item.animalcrops.magnemone.tooltip": "Pianta sotto la lava per far crescere l'animale",
+    "item.animalcrops.pollen": "Polpa animale",
+    "item.animalcrops.pollen.invalid": "Nessun seme disponibile per %s",
+    "item.animalcrops.pollen.tooltip": "Usa su animali per creare semi di animali",
+    "item.animalcrops.seeds": "Semi di %s",
+    "item.animalcrops.seeds.default": "Semi animali",
+    "item.animalcrops.seeds.tooltip": "Pianta sul prato o sulla podzola per far crescere l'animale.",
+    "item.animalcrops.spores": "Spore %s",
+    "item.animalcrops.spores.default": "Spore animali (predefinito)",
+    "item.animalcrops.spores.tooltip": "Pianta sul terreno del Nether per far crescere l'animale"
+}

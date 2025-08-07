@@ -1,0 +1,12 @@
+{
+    "fakerlib.cmd.not_found": "%s non è stato trovato.",
+    "fakerlib.cmd.serialize_failure": "Si è verificato un errore durante il processo di serializzazione.",
+    "fakerlib.cmd.serialize_success": "Salvato %s in %s.",
+    "fakerlib.toggleTrails": "Attiva\/Disattiva Patreon Trails",
+    "fakerlib.toggleTrailsOff": "Attiva\/Disattiva sentieri Patreon",
+    "fakerlib.toggleTrailsOn": "Attiva le tracce Patreon",
+    "fakerlib.toggleWings": "Attiva\/Disattiva Patreon Wings",
+    "fakerlib.toggleWingsOff": "Attiva ali Patreon (disattivata)",
+    "fakerlib.toggleWingsOn": "Attiva ali Patreon",
+    "key.categories.fakerlib": "Placebo"
+}

@@ -1,0 +1,5 @@
+{
+    "item.waybackstone.way_back_stone": "Wayback Stone",
+    "item.waybackstone.way_back_stone.desc": "Teleports the user back to their spawn point.",
+    "itemGroup.waybackstone.creative_tab": "Wayback Stones"
+}

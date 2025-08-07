@@ -1,0 +1,11 @@
+{
+    "block.clickmachine.click_machine": "Click Machine",
+    "gui.clickmachine.autoclick": "Click Machine",
+    "gui.clickmachine.power": "FE: %s\/%s",
+    "gui.clickmachine.power.usage": "Using %s FE\/t",
+    "gui.clickmachine.rainbow_magic": "Powered by Rainbow Magic!",
+    "gui.clickmachine.right_click": "Right-Clicking",
+    "gui.clickmachine.sneaking": "Sneaking",
+    "gui.clickmachine.speed": "%s clicks\/s",
+    "gui.clickmachine.speed_slow": "1 click\/%ss"
+}

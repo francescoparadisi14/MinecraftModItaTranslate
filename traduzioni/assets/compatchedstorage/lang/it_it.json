@@ -1,0 +1,22 @@
+{
+    "block.compatchedstorage.barrel": "Barile",
+    "block.compatchedstorage.chest": "Cassetto compatto",
+    "block.compatchedstorage.chest_builder": "Costruttore di cassetti",
+    "block.compatchedstorage.fluid_barrel": "Drum",
+    "compatchedstorage.backpack.inv": "Borsa da viaggio",
+    "compatchedstorage.chest.inv": "Cassetto (%sx%s)",
+    "compatchedstorage.msg.retain": "Questa cassa retiene ora gli oggetti quando viene distrutta.",
+    "compatchedstorage.text.amountreq": "Quantità richiesta: %s",
+    "compatchedstorage.text.columns": "Colonne",
+    "compatchedstorage.text.empty": "Vuoto",
+    "compatchedstorage.text.fluidformat": "%s\/%s MB",
+    "compatchedstorage.text.hue": "Tono",
+    "compatchedstorage.text.hue2": "Tono: %s",
+    "compatchedstorage.text.nonretaining": "Non mantenuto",
+    "compatchedstorage.text.retaining": "Ritenzione",
+    "compatchedstorage.text.rows": "Righe",
+    "compatchedstorage.text.slots": "Sedi: %s",
+    "compatchedstorage.text.white": "Bianco",
+    "item.compatchedstorage.backpack": "Zaino",
+    "itemGroup.compatchedstorage": "Ricoveri compressi"
+}

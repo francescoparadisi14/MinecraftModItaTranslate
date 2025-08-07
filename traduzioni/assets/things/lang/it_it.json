@@ -1,0 +1,240 @@
+{
+    "advancement.things.agglomerate.description": "Combina due oggetti da decorazione per divertimento e guadagno",
+    "advancement.things.agglomerate.title": "Due trinket, due divertimenti",
+    "advancement.things.agglomerate_apple.description": "Un'idea strana e innovativa",
+    "advancement.things.agglomerate_apple.title": "Nourishing",
+    "advancement.things.arm_extender.description": "Crea un'estensione per braccio",
+    "advancement.things.arm_extender.title": "Non più difficile da raggiungere",
+    "advancement.things.bater_wucket.description": "Ma era valsa la pena?",
+    "advancement.things.bater_wucket.title": "Acqua infinita",
+    "advancement.things.bempty_ucket.description": "Ci deve essere un buco nero miniaturizzato da qualche parte",
+    "advancement.things.bempty_ucket.title": "Infinite... mancanza di fluido?",
+    "advancement.things.broken_watch.description": "Crea un orologio rotto",
+    "advancement.things.broken_watch.title": "Giusto due volte al giorno",
+    "advancement.things.displacement_tome.description": "Crea un tomo di spostamento",
+    "advancement.things.displacement_tome.title": "Entanglement quantica",
+    "advancement.things.eat_agglomerated_apple.description": "Nutrisce te una volta. E ora è rotto",
+    "advancement.things.eat_agglomerated_apple.title": "Una volta",
+    "advancement.things.empty_agglomeration.description": "Crea un aggregazione vuota",
+    "advancement.things.empty_agglomeration.title": "Equilibrio? Chi si preoccupa dell'equilibrio?",
+    "advancement.things.enchanted_wax_gland.description": "Crea un ghiandro di cera incantato",
+    "advancement.things.enchanted_wax_gland.title": "Come un'anatra, ma più veloce",
+    "advancement.things.ender_pouch.description": "Crea un contenitore degli esseri del finimondo",
+    "advancement.things.ender_pouch.title": "Magazzino portatile perfetto",
+    "advancement.things.gleaming_compound.description": "Crea un composto lucente",
+    "advancement.things.gleaming_compound.title": "Un miscuglio veramente interessante",
+    "advancement.things.gleaming_powder.description": "Ottenere polvere lucente",
+    "advancement.things.gleaming_powder.title": "Come i diamanti, ma meno lucenti",
+    "advancement.things.hades_crystal.description": "Crea un cristallo di Ade",
+    "advancement.things.hades_crystal.title": "Vibin' con le onde di calore",
+    "advancement.things.infernal_scepter.description": "Indossare con orgoglio il tuo scettro infernale",
+    "advancement.things.infernal_scepter.title": "Ghast, spettrale, infernale",
+    "advancement.things.item_magnet.description": "Crea un impianto di attrazione per oggetti",
+    "advancement.things.item_magnet.title": "Sei molto attraente",
+    "advancement.things.mining_gloves.description": "Abbiamo il nostro piccone che oscillava da un lato all'altro",
+    "advancement.things.mining_gloves.title": "Siamo di nuovo nel miniera",
+    "advancement.things.monocle.description": "Crea un occhiale",
+    "advancement.things.monocle.title": "Visione brillante",
+    "advancement.things.moss_necklace.description": "Molto disgustoso",
+    "advancement.things.moss_necklace.title": "Si sviluppa sulle tue ferite",
+    "advancement.things.placebo.description": "Crea un placebo",
+    "advancement.things.placebo.title": "Sperimentazioni cliniche",
+    "advancement.things.rabbit_foot_charm.description": "Crea un amuleto per piede di coniglio",
+    "advancement.things.rabbit_foot_charm.title": "Chi non ama il salto B?",
+    "advancement.things.recall_potion.description": "Crea un elisir di ricordo",
+    "advancement.things.recall_potion.title": "Mamma, mi sento a casa",
+    "advancement.things.riot_gauntlet.description": "Non disponibile",
+    "advancement.things.riot_gauntlet.title": "Missingno",
+    "advancement.things.root.description": "Probabilmente utili, almeno a quel punto",
+    "advancement.things.root.title": "Cose",
+    "advancement.things.shock_absorber.description": "Crea un assorbitore di shock",
+    "advancement.things.shock_absorber.title": "Budget cat reflexes",
+    "block.things.deepslate_gleaming_ore": "Ore di pietra profonda lucente",
+    "block.things.deepslate_glowstone_fixture": "Fissa di luminescente del deepslate",
+    "block.things.diamond_pressure_plate": "Piatto di pressione di diamante",
+    "block.things.gleaming_ore": "Minerale lucente",
+    "block.things.quartz_glowstone_fixture": "Fissa di luminescenza del quarzo",
+    "block.things.stone_glowstone_fixture": "Fissa di luminescente in pietra",
+    "category.things.broken_watch": "Orologio rotto",
+    "category.things.things": "Cose",
+    "container.enderpouch": "Borsa dei portali",
+    "effect.things.momentum": "Momentum",
+    "enchantment.things.retribution": "Ritorsione",
+    "enchantment.things.retribution.desc": "Riconosce il proprietario con forza ogni volta che blocca un attacco con lo scudo incantato.",
+    "gui.things.displacement_tome.charges": [
+        {
+            "text": "Charges: ",
+            "color": "gray"
+        },
+        {
+            "index": 0,
+            "color": "white"
+        }
+    ],
+    "gui.things.displacement_tome.create": "Crea",
+    "gui.things.displacement_tome.delete": "Elimina",
+    "gui.things.displacement_tome.edit_hint": "✎",
+    "gui.things.displacement_tome.no_pages": [
+        "",
+        {
+            "text": "! ",
+            "color": "yellow",
+            "bold": true
+        },
+        {
+            "text": "No Displacement Pages",
+            "color": "gray"
+        }
+    ],
+    "gui.things.displacement_tome.rename": "Rinomina",
+    "item.things.agglomeration": "Agglomerazione",
+    "item.things.arm_extender": "Estensione del braccio",
+    "item.things.arm_extender.tooltip": "Estende la tua portata di 2 blocchi",
+    "item.things.bater_wucket": "Batteria wucket",
+    "item.things.bempty_ucket": "Bempty Bucket",
+    "item.things.broken_watch": "Orologio rotto",
+    "item.things.broken_watch.tooltip": "Incrementa la durata degli effetti speciali del gioco di 50%",
+    "item.things.consolation_cake": [
+        {
+            "italic": false,
+            "text": ""
+        },
+        {
+            "text": "❤",
+            "color": "#EB1D36"
+        },
+        {
+            "text": " Consolation Cake "
+        },
+        {
+            "text": "❤",
+            "color": "#EB1D36"
+        }
+    ],
+    "item.things.consolation_cake.hint": "Puoi scambiare questo per un dolce di consolazione.",
+    "item.things.container_key": "Tasto di contenitore",
+    "item.things.container_key.tooltip": "Usato per bloccare contenitori, cliccare con il tasto Shift per bloccare\/descrivere. Richiesto per aprire un contenitore bloccato.",
+    "item.things.displacement_page": "pagina di spostamento",
+    "item.things.displacement_tome": "Tomo di spostamento",
+    "item.things.displacement_tome.tooltip": "Un utensile elegante utilizzato per la teletrasporto. Fai clic destro su perle di Ender per caricare.",
+    "item.things.displacement_tome.tooltip.charges": [
+        {
+            "text": "Charges: ",
+            "color": "gray"
+        },
+        {
+            "index": 0,
+            "color": "#5800FF"
+        }
+    ],
+    "item.things.empty_agglomeration": "Agglomerazione vuota",
+    "item.things.empty_agglomeration.tooltip": "Combina due oggetti da decorazione che condividono almeno un slot per aggregarli.",
+    "item.things.enchanted_wax_gland": "Glanda di cera incantata",
+    "item.things.enchanted_wax_gland.tooltip": "Fa sì che tu galleggi nell'acqua e, apparentemente, anche molto velocemente",
+    "item.things.ender_pouch": "Borsa dei portali",
+    "item.things.ender_pouch.tooltip": [
+        {
+            "text": "Press ",
+            "color": "gray"
+        },
+        {
+            "index": 0,
+            "color": "white"
+        },
+        " to open ender Chest inventory"
+    ],
+    "item.things.gleaming_compound": "Composto lucente",
+    "item.things.gleaming_powder": "Polvere lucente",
+    "item.things.hades_crystal": "Cristallo di Ade",
+    "item.things.hades_crystal.tooltip": "Concede resistenza al fuoco permanente. indossare insieme con un glande di cera §f per un'extra awesomeness §7",
+    "item.things.hardening_catalyst": "Catalizzatore di hardening",
+    "item.things.hardening_catalyst.tooltip": "Applica in un martello da fabbro per rendere qualsiasi oggetto indistruttibile.",
+    "item.things.infernal_scepter": "Astuccio infernale",
+    "item.things.infernal_scepter.tooltip": "Lancia infernale: lancia palle di fuoco, utilizza cariche di fuoco come munizioni",
+    "item.things.item_magnet": "Magnet per oggetti",
+    "item.things.item_magnet.tooltip": [
+        {
+            "text": "⚡ ",
+            "color": "#8000ff"
+        },
+        {
+            "text": "Charge: ",
+            "color": "gray"
+        },
+        {
+            "index": 0,
+            "color": "dark_gray"
+        }
+    ],
+    "item.things.luck_of_the_irish": "La fortuna dell'irlandese",
+    "item.things.luck_of_the_irish.tooltip": "Sembra che faccia diventare le patate velenose in mele d'oro",
+    "item.things.mining_gloves": "Guanto di miniera",
+    "item.things.mining_gloves.tooltip": "Concede velocità permanente II",
+    "item.things.monocle": "Monocolo",
+    "item.things.monocle.tooltip": "Concede visibilità notturna permanente",
+    "item.things.moss_necklace": "Collare di muschio",
+    "item.things.moss_necklace.tooltip": "Concede rigenerazione II quando si è in luce.",
+    "item.things.placebo": "Placebo",
+    "item.things.placebo.tooltip": "Concede un 25% di probabilità di non consumare una pozione quando indossato.",
+    "item.things.rabbit_foot_charm": "Amuleto di piede di coniglio",
+    "item.things.rabbit_foot_charm.tooltip": "Concede aumento di salto permanente II",
+    "item.things.recall_potion": "Potions di richiamo",
+    "item.things.riot_gauntlet": "Guantone di sommossa",
+    "item.things.riot_gauntlet.tooltip": "Concede forza permanente",
+    "item.things.shock_absorber": "Assorbitore di shock",
+    "item.things.shock_absorber.tooltip": "Riduce il danno da caduta di 20% fino a 8 cuori e riduce il danno cinetico del 75%",
+    "item.things.socks": "Calze",
+    "item.things.socks.jumpy": "Calzini saltellanti",
+    "item.things.socks.speed_0": "normale",
+    "item.things.socks.speed_1": "veloce",
+    "item.things.socks.speed_2": "Usain Bolt",
+    "item.things.socks.speed_illegal": "sciocchi",
+    "item.things.socks.tooltip": [
+        "Provides increased walking speed and optionally Jump Boost including step-assist. Press ",
+        {
+            "index": 0,
+            "color": "white"
+        },
+        " to toggle Jump Boost"
+    ],
+    "item.things.things_almanac": "Almanacco delle cose",
+    "itemGroup.things.things": "Cose",
+    "key.mouse.4": "Tasto del mouse destro",
+    "key.mouse.5": "Tasto del mouse 5",
+    "key.things.openenderchest": "Apri borsa finale",
+    "key.things.place_item": "Collo oggetto nel mondo",
+    "key.things.toggle_socks_jump_boost": "Abilita di boost salto con calzettoni",
+    "text.config.things.category.effectLevels": "Effetti dei trinket",
+    "text.config.things.option.appleTrinket": "Abilitato il trinket dell'arancia",
+    "text.config.things.option.displacementTomeFuelConsumption": "Consumo di carburante del libro di spostamento",
+    "text.config.things.option.effectLevels.miningGloveMomentum": "Livello di impulso della guaina mineraria",
+    "text.config.things.option.effectLevels.mossNecklaceRegen": "Livello di rigenerazione del collare muschioso",
+    "text.config.things.option.effectLevels.riotGauntletStrength": "Livello di forza del guantalonzo della rivolta",
+    "text.config.things.option.enableAgglomeration": "Abilita aggregazione",
+    "text.config.things.option.enableAgglomerationInvScrollSelection": "Abilita scorrimento inventario durante l'agglomerazione",
+    "text.config.things.option.enableRecallPotionRecipe": "Abilita ricetta pozione di richiamo",
+    "text.config.things.option.generateGleamingOre": "Generazione di minerale lucente",
+    "text.config.things.option.infernalScepterDurability": "Durata scettro infernale",
+    "text.config.things.option.makeLockedContainersUnbreakable": "Contenitori chiusi indestructibili",
+    "text.config.things.option.nerfBeaconsWithMomentum": "Ridurre i segnali",
+    "text.config.things.option.recallPotionIngredient": "Ingrediente del potere di ricordo",
+    "text.config.things.option.renderAgglomerationTrinket": "Rendere gioiello di aggregazione",
+    "text.config.things.option.renderAppleTrinket": "Visualizza trinketto di mela",
+    "text.config.things.option.renderTrinkets": "Rendere oggetti da tasca",
+    "text.config.things.option.sockPerLevelSpeedAmplifier": "Aumentatore di velocità dei calzini",
+    "text.config.things.option.waxGlandMultiplier": "Multiplatore di velocità ghiandola cera",
+    "text.config.things.title": "Configurazione delle cose",
+    "text.things.crafting_component": "Componente di crafting",
+    "text.things.tooltip_hint": [
+        {
+            "text": "Hold ",
+            "color": "gray"
+        },
+        {
+            "text": "SHIFT",
+            "color": "gold"
+        },
+        " for more info"
+    ],
+    "trinkets.slot.feet.charm": "Amuleto"
+}

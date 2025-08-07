@@ -1,0 +1,23 @@
+{
+    "block.mcpaint.canvas": "Painted Block",
+    "item.mcpaint.brush": "Brush",
+    "item.mcpaint.stamp": "Stamp",
+    "mcpaint.drawgui": "Draw an image",
+    "mcpaint.drawsetup": "Set the resolution of an image",
+    "mcpaint.gui.alpha": "alpha:",
+    "mcpaint.gui.blue": "blue:",
+    "mcpaint.gui.eraser": "Eraser",
+    "mcpaint.gui.export": "Export",
+    "mcpaint.gui.fill": "Fill",
+    "mcpaint.gui.green": "green:",
+    "mcpaint.gui.pencil": "Pencil",
+    "mcpaint.gui.pick_color": "Picker",
+    "mcpaint.gui.red": "red:",
+    "mcpaint.gui.redo": "Redo",
+    "mcpaint.gui.rleft": "Turn L",
+    "mcpaint.gui.rright": "Turn R",
+    "mcpaint.gui.saved": "Saved painting as %s",
+    "mcpaint.gui.undo": "Undo",
+    "mcpaint.tooltip.stamp.nopaint": "Sneak-click on block with paint to copy",
+    "mcpaint.tooltip.stamp.paint": "Sneak-click on air to clear"
+}

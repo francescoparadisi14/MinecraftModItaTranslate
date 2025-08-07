@@ -1,4 +1,6 @@
 {
+    "entity.minecraft.villager.chef": "Cuoco",
     "entity.minecraft.villager.chefsdelight.chef": "Cuoco",
-    "entity.minecraft.villager.chefsdelight.cook": "Cuocere"
+    "entity.minecraft.villager.chefsdelight.cook": "Cuocere",
+    "entity.minecraft.villager.cook": "Cuocere"
 }

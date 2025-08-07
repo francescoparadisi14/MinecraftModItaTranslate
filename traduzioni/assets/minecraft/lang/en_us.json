@@ -1,3 +1,6 @@
 {
-    "block.minecraft.crafting_table": "Oak Crafting Table"
+    "rarity.common.name": "Common",
+    "rarity.epic.name": "Epic",
+    "rarity.rare.name": "Rare",
+    "rarity.uncommon.name": "Uncommon"
 }

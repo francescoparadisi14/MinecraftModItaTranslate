@@ -1,0 +1,23 @@
+{
+    "item.morebuckets.aluminum_bucket": "Secchio di alluminio",
+    "item.morebuckets.bronze_bucket": "Secchio di rame",
+    "item.morebuckets.copper_bucket": "Secchio di rame",
+    "item.morebuckets.diamond_bucket": "Bucchetta di diamante",
+    "item.morebuckets.emerald_bucket": "Cestino di smaraldo",
+    "item.morebuckets.golden_bucket": "Secchio d'oro",
+    "item.morebuckets.imperium_bucket": "Bicchieri Impero",
+    "item.morebuckets.inferium_bucket": "Bottiglia di inferno",
+    "item.morebuckets.insanium_bucket": "Bucchetta di insanium",
+    "item.morebuckets.obsidian_bucket": "Bottiglia di obsidiano",
+    "item.morebuckets.prudentium_bucket": "Bottino prudentium",
+    "item.morebuckets.quartz_bucket": "Bottiglia di quarzo",
+    "item.morebuckets.rubber_bucket": "Impugnatura di gomma",
+    "item.morebuckets.silver_bucket": "Secchio d'argento",
+    "item.morebuckets.steel_bucket": "Secchio di acciaio",
+    "item.morebuckets.supremium_bucket": "Bucchetta Supremium",
+    "item.morebuckets.tertium_bucket": "Bottino di terziario",
+    "item.morebuckets.tin_bucket": "Cannuccia di stagno",
+    "itemGroup.morebuckets": "Altro contenitori",
+    "tooltip.morebuckets.buckets": "%s\/%s - %s",
+    "tooltip.morebuckets.empty": "Vuoto"
+}

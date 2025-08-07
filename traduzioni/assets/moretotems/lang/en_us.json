@@ -1,0 +1,15 @@
+{
+    "effect.moretotems.cephalopod": "Cephalopod",
+    "effect.moretotems.necrosis": "Necrosis",
+    "effect.moretotems.sniper": "Sniper",
+    "entity.moretotems.summoned_bee": "Totem Bee",
+    "entity.moretotems.summoned_zombie": "Totem Zombie",
+    "item.moretotems.explosive_totem_of_undying": "Explosive Totem of Undying",
+    "item.moretotems.ghastly_totem_of_undying": "Ghastly Totem of Undying",
+    "item.moretotems.rotting_totem_of_undying": "Rotting Totem of Undying",
+    "item.moretotems.skeletal_totem_of_undying": "Skeletal Totem of Undying",
+    "item.moretotems.stinging_totem_of_undying": "Stinging Totem of Undying",
+    "item.moretotems.teleporting_totem_of_undying": "Teleporting Totem of Undying",
+    "item.moretotems.tentacled_totem_of_undying": "Tentacled Totem of Undying",
+    "itemGroup.moretotems.moretotems_items": "More Totems of Undying"
+}
