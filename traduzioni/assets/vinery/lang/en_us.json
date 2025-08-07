@@ -18,7 +18,7 @@
     "advancement.vinery.nectar_of_life": "Nectar of Life",
     "advancement.vinery.nectar_of_life.desc": "Collect all Grapejuice variants.",
     "advancement.vinery.overgrown_lattices": "Overgrown Lattices",
-    "advancement.vinery.overgrown_lattices.desc": "Grow Jungle Seeds Lattices.",
+    "advancement.vinery.overgrown_lattices.desc": "Grow Jungle Seeds on a Oak Lattice..",
     "advancement.vinery.purely_apple": "Purely Apple",
     "advancement.vinery.purely_apple.desc": "Collect Apple Juice.",
     "advancement.vinery.root": "Welcome to Vinery!",
@@ -146,7 +146,7 @@
     "block.vinery.noir_wine": "Noir Wine",
     "block.vinery.oak_lattice": "Oak Lattice",
     "block.vinery.oak_wine_rack_big": "Big Oak Wine Bottle Storage",
-    "block.vinery.oak_wine_rack_mid": "Oak Rack",
+    "block.vinery.oak_wine_rack_mid": "Oak Wine Rack",
     "block.vinery.oak_wine_rack_small": "Small Oak Wine Bottle Storage",
     "block.vinery.red_grape_bag": "Red Grape Bag",
     "block.vinery.red_grape_bush": "Red Grape Bush",
@@ -328,6 +328,8 @@
     "tooltip.vinery.banner.thankyou_2": "When placed:",
     "tooltip.vinery.banner.thankyou_3": "Thank you for playing Vinery!",
     "tooltip.vinery.banner.thankyou_4": "Grants Regeneration II within an 8-block radius",
+    "tooltip.vinery.bottle_size.big": "Big Bottle",
+    "tooltip.vinery.bottle_size.small": "Small Bottle",
     "tooltip.vinery.canbeplaced": "Can be placed",
     "tooltip.vinery.fermentation_barrel.apple_juice_with_percentage": "Apple Juice: %s%%",
     "tooltip.vinery.fermentation_barrel.crafting_time": "Crafting Time: %s",
@@ -342,5 +344,10 @@
     "tooltip.vinery.fermentation_barrel.white_savanna_juice_with_percentage": "Savanna White Grapejuice: %s%%",
     "tooltip.vinery.fermentation_barrel.white_taiga_juice_with_percentage": "Taiga White Grapejuice: %s%%",
     "tooltip.vinery.fermentation_barrel.white_warped_juice_with_percentage": "Warped White Grapejuice: %s%%",
-    "tooltip.vinery.next_upgrade": "Days Left to Improve Quality: %s"
+    "tooltip.vinery.large_bottle_first": "all",
+    "tooltip.vinery.large_bottle_rest": "Wine Bottle sizes",
+    "tooltip.vinery.next_upgrade": "Days Left to Improve Quality: %s",
+    "tooltip.vinery.small_bottle_first": "small",
+    "tooltip.vinery.small_bottle_rest": "Wine Bottles",
+    "tooltip.vinery.storage": "Storage for %s"
 }

@@ -1814,6 +1814,7 @@
     "config.gtceu.option.machines": "Macchine",
     "config.gtceu.option.machinesEmissiveTextures": "Opzioni di testura emissiva delle macchine",
     "config.gtceu.option.machinesHaveBERsByDefault": "Le macchine hanno BERS di default",
+    "config.gtceu.option.maintenanceTime": "Tempo di manutenzione",
     "config.gtceu.option.meHatchEnergyUsage": "Utilizzo di energia del cassetto ME Hatch",
     "config.gtceu.option.minerSpeed": "Velocità minatrice",
     "config.gtceu.option.minimap": "Minimappa",
