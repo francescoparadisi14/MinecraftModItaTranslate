@@ -7,5 +7,10 @@
     "jukebox_song.snowpig.frosty_snig": "Luz - Frosty Snig",
     "subtitles.entity.snow_pig.ambient": "Il maiale di neve grugnisce",
     "subtitles.entity.snow_pig.death": "Il maiale di neve muore",
-    "subtitles.entity.snow_pig.hurt": "Il maiale di neve si ferisce"
+    "subtitles.entity.snow_pig.hurt": "Il maiale di neve si ferisce",
+    "subtitles.snowpig.entity.snow_pig.ambient": "I maiali di neve grugniscono",
+    "subtitles.snowpig.entity.snow_pig.death": "Muore il maiale di neve",
+    "subtitles.snowpig.entity.snow_pig.hurt": "Il maiale di neve si ferisce",
+    "tag.entity_type.snowpig.killer_for_snowpig_disc": "Assassino per disco di cinghiale di neve",
+    "tag.worldgen.biome.snowpig.spawns_snow_pig": "Genera maiale della neve"
 }

@@ -1,0 +1,13 @@
+{
+    "block.createlowheated.basic_burner": "Bruciatore di base",
+    "block.createlowheated.basic_burner.tooltip": "Bruciatore di base",
+    "block.createlowheated.basic_burner.tooltip.behaviour1": "Clicca con il pulsante destro su di esso con un _combustibile_ o utilizza un _fogliaio\/assemeccanismo\/articolo meccanico_.",
+    "block.createlowheated.basic_burner.tooltip.behaviour2": "Per accendere il fuoco è necessario cliccare destro con _pietra e acciarino_. fintanto che viene alimentato costantemente, il fuoco si manterrà acceso.",
+    "block.createlowheated.basic_burner.tooltip.behaviour3": "Può essere potenziato utilizzando un ventilatore a rpm massimo contro di esso.",
+    "block.createlowheated.basic_burner.tooltip.condition1": "Richiede combustibile",
+    "block.createlowheated.basic_burner.tooltip.condition2": "Richiede carbonella e acciaio da fuoco",
+    "block.createlowheated.basic_burner.tooltip.condition3": "Bruciatore potenziato",
+    "block.createlowheated.basic_burner.tooltip.summary": "Fornisce calore alle ricette del bacino e all'ingranaggio a vapore.",
+    "create.recipe.heat_requirement.lowheated": "Riscaldamento basso",
+    "itemGroup.createlowheated.base": "Crea bassa temperatura"
+}

@@ -1,0 +1,20 @@
+{
+    "argument.sparkweave.debug.dump_recipes.type_not_found": "Recipe type not found: %s",
+    "argument.sparkweave.registry.not_found": "Registry not found: %s",
+    "chat.sparkweave.open_folder": "Click to view in File Explorer",
+    "commands.sparkweave.debug.dump_recipes.multi_success": "Successfully exported recipes for %s types",
+    "commands.sparkweave.debug.dump_recipes.multi_success_path": "Successfully exported recipes for %s types to %s",
+    "commands.sparkweave.debug.dump_recipes.success": "Successfully exported recipes for type %s",
+    "commands.sparkweave.debug.dump_recipes.success_path": "Successfully exported recipes for type %s to %s",
+    "commands.sparkweave.debug.dump_registries.multi_success": "Successfully exported %s registries",
+    "commands.sparkweave.debug.dump_registries.multi_success_path": "Successfully exported %s registries to %s",
+    "commands.sparkweave.debug.dump_registries.success": "Successfully exported registry %s",
+    "commands.sparkweave.debug.dump_registries.success_path": "Successfully exported registry %s to %s",
+    "commands.sparkweave.debug.dump_tags.multi_success": "Successfully exported tags for %s registries",
+    "commands.sparkweave.debug.dump_tags.multi_success_path": "Successfully exported tags for %s registries to %s",
+    "commands.sparkweave.debug.dump_tags.success": "Successfully exported tags for registry %s",
+    "commands.sparkweave.debug.dump_tags.success_path": "Successfully exported tags for registry %s to %s",
+    "commands.sparkweave.error.io_exception": "An IO error occurred while performing the command: %s",
+    "itemGroup.sparkweave.developer_tab": "Developer Utilities",
+    "screen.sparkweave.consent.title": "Consent Required"
+}

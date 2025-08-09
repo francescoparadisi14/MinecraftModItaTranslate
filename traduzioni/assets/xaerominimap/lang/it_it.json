@@ -522,6 +522,7 @@
     "gui.xaero_toggle_map_waypoints": "Abilita\/Disabilita punti di riferimento sulla mappa",
     "gui.xaero_toggle_pac_chunk_claims": "Abilita\/gestisci pretese di blocco",
     "gui.xaero_toggle_slime": "Attiva\/Disattiva Slime Chunks",
+    "gui.xaero_toggle_tracked_players": "Alternare giocatori tracciati",
     "gui.xaero_toggle_tracked_players_in_world": "Alternare giocatori tracciati nel mondo",
     "gui.xaero_toggle_tracked_players_on_map": "Alternare giocatori tracciati sulla mappa",
     "gui.xaero_toggle_waypoints": "Attiva\/Disattiva punti di riferimento nel mondo",

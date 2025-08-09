@@ -11,6 +11,7 @@
     "catalogue.gui.filters.updates_only": "Moduli con aggiornamenti",
     "catalogue.gui.hide_libraries": "Nascondi librerie",
     "catalogue.gui.info": "Questo menu è fornito da Catalogue. Clicca qui per aprire la pagina CurseForge di questo modulo!",
+    "catalogue.gui.internal_libraries": "Mostra librerie interne",
     "catalogue.gui.library_count": "%s biblioteche",
     "catalogue.gui.licenses": "Licenza(i): %s",
     "catalogue.gui.mod_count": "%s moduli",
@@ -28,5 +29,6 @@
     "catalogue.gui.sort.alphabetically_reverse": "Da z a a",
     "catalogue.gui.sort.favourites_first": "Primi i favoriti",
     "catalogue.gui.update_available": "Aggiornamento disponibile: %s",
-    "catalogue.gui.version": "Versione: %s"
+    "catalogue.gui.version": "Versione: %s",
+    "fml.menu.mods.filter_updates": "Mostra solo mod con aggiornamenti"
 }

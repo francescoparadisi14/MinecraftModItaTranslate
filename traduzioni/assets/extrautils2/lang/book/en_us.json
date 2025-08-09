@@ -1,4 +1,5 @@
 {
+    "title": "Extra Utilities 2 Manual",
     "author": "RWTema",
     "pages": [
         {
@@ -236,6 +237,5 @@
             "entry": "villager_shady_merchant",
             "text": "These suspicious villagers always seem to have good items and a strong reluctance to explain where they came from. If you're a cop you have to tell them, that's the rules."
         }
-    ],
-    "title": "Extra Utilities 2 Manual"
+    ]
 }

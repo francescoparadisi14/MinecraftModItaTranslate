@@ -1,0 +1,23 @@
+{
+    "block.lampicus.colorlight_black": "Black Lamp",
+    "block.lampicus.colorlight_blue": "Blue Lamp",
+    "block.lampicus.colorlight_brown": "Brown Lamp",
+    "block.lampicus.colorlight_cyan": "Cyan Lamp",
+    "block.lampicus.colorlight_gray": "Gray Lamp",
+    "block.lampicus.colorlight_green": "Green Lamp",
+    "block.lampicus.colorlight_lightblue": "Light Blue Lamp",
+    "block.lampicus.colorlight_lightgray": "Light Gray Lamp",
+    "block.lampicus.colorlight_magenta": "Magenta Lamp",
+    "block.lampicus.colorlight_orange": "Orange Lamp",
+    "block.lampicus.colorlight_pink": "Pink Lamp",
+    "block.lampicus.colorlight_purple": "Purple Lamp",
+    "block.lampicus.colorlight_red": "Red Lamp",
+    "block.lampicus.colorlight_white": "White Lamp",
+    "block.lampicus.colorlight_yellow": "Yellow Lamp",
+    "block.lampicus.glowstone_diamond": "Diamond Glowstone",
+    "block.lampicus.glowstone_purple": "Purple Glowstone",
+    "block.lampicus.glowstone_white": "White Glowstone",
+    "block.lampicus.redstone_lamp_inverted": "Inverted Redstone Lamp",
+    "itemGroup.lampicus": "Lampicus",
+    "tooltip.lampicus.redstone_lamp_inverted": "Goes off when a redstone signal is given"
+}

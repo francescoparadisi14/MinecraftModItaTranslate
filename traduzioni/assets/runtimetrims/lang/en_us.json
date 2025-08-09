@@ -1,0 +1,23 @@
+{
+    "configurable.runtimetrims.yacl.category.client": "Client",
+    "configurable.runtimetrims.yacl.category.client.tooltip": "Client Settings",
+    "configurable.runtimetrims.yacl.description.animate": "Trim colours will cycle giving a wave-like effect. Enable \"Override Existing Trims\" to allow vanilla and other mods' trims to animate.",
+    "configurable.runtimetrims.yacl.description.debug": "Modern renderer will render trim indexes. Generated texture files and palettes will be outputted to \".minecraft\/rt-debug\/\" to view the layered textures and resources that the legacy renderer uses.",
+    "configurable.runtimetrims.yacl.description.msBetweenCycles": "Animation speed, lower is faster. 0 for every frame.",
+    "configurable.runtimetrims.yacl.description.overrideExisting": "Enable this to override the existing texture palettes with generated ones and support trim animating on them.",
+    "configurable.runtimetrims.yacl.description.paletteSorting": "How should the generated palettes be sorted?",
+    "configurable.runtimetrims.yacl.description.useLegacyRenderer": "The modern renderer uses a custom shader to render the dynamic trims, which is 9x more performant, however, the old renderer is present for shader compat.",
+    "configurable.runtimetrims.yacl.option.animate": "Animate Trim Rendering",
+    "configurable.runtimetrims.yacl.option.debug": "Debug",
+    "configurable.runtimetrims.yacl.option.msBetweenCycles": "Milliseconds Between Cycles",
+    "configurable.runtimetrims.yacl.option.overrideExisting": "Override Existing Trims",
+    "configurable.runtimetrims.yacl.option.paletteSorting": "Palette Sorting",
+    "configurable.runtimetrims.yacl.option.paletteSorting.brightness": "Brightness",
+    "configurable.runtimetrims.yacl.option.paletteSorting.brightness_reversed": "Brightness Reversed",
+    "configurable.runtimetrims.yacl.option.paletteSorting.colour": "Colour",
+    "configurable.runtimetrims.yacl.option.paletteSorting.colour_reversed": "Colour Reversed",
+    "configurable.runtimetrims.yacl.option.paletteSorting.saturation": "Saturation",
+    "configurable.runtimetrims.yacl.option.paletteSorting.saturation_reversed": "Saturation Reversed",
+    "configurable.runtimetrims.yacl.option.useLegacyRenderer": "Use Legacy Renderer",
+    "runtimetrims.material": "%s Material"
+}

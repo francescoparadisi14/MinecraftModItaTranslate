@@ -1,0 +1,16 @@
+{
+    "block.weather2.anemometer": "Anemometro",
+    "block.weather2.sand_layer": "Strato di sabbia collocabile",
+    "block.weather2.tornado_sensor": "Sensore di tornado",
+    "block.weather2.tornado_siren": "Sirena del tempo",
+    "block.weather2.tornado_siren_manual": "Sirena a mano di redstone",
+    "block.weather2.weather_deflector": "Diflettore del tempo",
+    "block.weather2.weather_forecast": "Previsioni meteorologiche",
+    "block.weather2.weather_machine": "Macchina del tempo (clic destro per ciclare)",
+    "block.weather2.wind_turbine": "Turbina eolica",
+    "block.weather2.wind_vane": "Vano di vento",
+    "item.weather2.pocket_sand": "Sabbia da tasca!",
+    "item.weather2.sand_layer_placeable": "Strato di sabbia collocabile",
+    "item.weather2.weather_item": "Oggetto del tempo",
+    "itemGroup.weather2": "Elementi del tempo 2"
+}

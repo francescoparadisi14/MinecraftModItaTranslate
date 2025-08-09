@@ -1,0 +1,13 @@
+{
+    "gamerule.impersonate:fakeCapes": "Copiare le vesti dei giocatori impersonati",
+    "gamerule.impersonate:logRevealImpersonations": "Rivelare le impersonazioni in corso nei registri del server",
+    "gamerule.impersonate:opRevealImpersonations": "Rivelare le impersonazioni in corso agli operatori",
+    "impersonate:commands.disguise.clear.success.other": "%s ha smesso di impersonare %s",
+    "impersonate:commands.disguise.clear.success.self": "Si è smesso di impersonare %s",
+    "impersonate:commands.disguise.query.no_one.success.other": "%s non sta impersonando nessuno",
+    "impersonate:commands.disguise.query.no_one.success.self": "Non sto impersonando nessuno",
+    "impersonate:commands.disguise.query.success.other": "%s si sta fingendo di essere %s",
+    "impersonate:commands.disguise.query.success.self": "Sto impersonando %s",
+    "impersonate:commands.disguise.start.success.other": "%s ha iniziato a impersonare %s",
+    "impersonate:commands.disguise.start.success.self": "Ha iniziato a impersonare %s"
+}

@@ -1,0 +1,23 @@
+{
+    "block.lampicus.colorlight_black": "Lampada nera",
+    "block.lampicus.colorlight_blue": "Lampada azzurra",
+    "block.lampicus.colorlight_brown": "Lampada marrone",
+    "block.lampicus.colorlight_cyan": "Lampada cianca",
+    "block.lampicus.colorlight_gray": "Lampada grigia",
+    "block.lampicus.colorlight_green": "Lampada verde",
+    "block.lampicus.colorlight_lightblue": "Lampada azzurra luminosa",
+    "block.lampicus.colorlight_lightgray": "Lampada grigia chiaro",
+    "block.lampicus.colorlight_magenta": "Lampada magenta",
+    "block.lampicus.colorlight_orange": "Lampada arancione",
+    "block.lampicus.colorlight_pink": "Lampada rosa",
+    "block.lampicus.colorlight_purple": "Lampada viola",
+    "block.lampicus.colorlight_red": "Lampada rossa",
+    "block.lampicus.colorlight_white": "Lampada bianca",
+    "block.lampicus.colorlight_yellow": "Lampada gialla",
+    "block.lampicus.glowstone_diamond": "Glowstone di diamante",
+    "block.lampicus.glowstone_purple": "Pietra luminescente viola",
+    "block.lampicus.glowstone_white": "Glowstone bianco",
+    "block.lampicus.redstone_lamp_inverted": "Lampada a incandescenza inversa di risonanza rossa",
+    "itemGroup.lampicus": "Lampicus",
+    "tooltip.lampicus.redstone_lamp_inverted": "Si spegne quando un segnale di Redstone viene fornito"
+}

@@ -1,0 +1,10 @@
+{
+    "config.cumulus_menus.client.menu.active_menu": "Imposta il titolo schermo attivo corrente del menu",
+    "config.cumulus_menus.client.menu.enable_menu_api": "Determina se l'API del menu è abilitata o meno.",
+    "config.cumulus_menus.client.menu.enable_menu_list_button": "Aggiunge un pulsante in alto a destra dello schermo del menu principale per aprire uno schermo di selezione dei menu.",
+    "cumulus_menus.menu_title.minecraft": "Minecraft",
+    "gui.cumulus_menus.button.menu_launch": "Menu di lancio",
+    "gui.cumulus_menus.button.menu_list": "Elenco menu",
+    "gui.cumulus_menus.title.menu_selection": "Scegli un menu principale",
+    "pack.cumulus_menus.mod.description": "Risorse cumulus"
+}

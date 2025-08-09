@@ -1,0 +1,10 @@
+{
+    "minemention.defaults": "Menzioni predefinite modificate.",
+    "minemention.everyone": "Menziona ogni giocatore sul server",
+    "minemention.ftb": "Meniona tutti gli utenti del tuo team FTB.",
+    "minemention.here": "Menziona ogni giocatore nella stessa dimensione",
+    "minemention.near": "Menziona ogni giocatore entro 100 blocchi",
+    "minemention.one_player": "Menziona il giocatore '%s'",
+    "minemention.reply": "Clicca per rispondere",
+    "minemention.sent": "Messaggio inviato a"
+}

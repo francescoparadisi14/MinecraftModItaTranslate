@@ -1,0 +1,23 @@
+{
+    "configurable.runtimetrims.yacl.category.client": "Client",
+    "configurable.runtimetrims.yacl.category.client.tooltip": "Impostazioni del client",
+    "configurable.runtimetrims.yacl.description.animate": "I colori delle trim cicleranno, creando un effetto ondulatorio. abilita \"override existing trims\" per consentire alle trims di Vanilla e altri mod di animarsi.",
+    "configurable.runtimetrims.yacl.description.debug": "Il renderer moderno renderà gli indici di taglio. I file di testo generati e le palette saranno esportate in \".minecraft\/rt-debug\/\" per visualizzare i texture layerizzati e risorse utilizzate dal renderer legacy.",
+    "configurable.runtimetrims.yacl.description.msBetweenCycles": "Velocità di animazione, valore più basso significa velocità maggiore. 0 per ogni frame.",
+    "configurable.runtimetrims.yacl.description.overrideExisting": "Abilita questo per sovrascrivere le palette di testo esistenti con generati e supportare l'animazione dei tagli su di esse.",
+    "configurable.runtimetrims.yacl.description.paletteSorting": "Come dovrebbero essere ordinati i palette generati?",
+    "configurable.runtimetrims.yacl.description.useLegacyRenderer": "Il renderer moderno utilizza un filtro personalizzato per rendere le trame dinamiche, il che è 9 volte più performante, tuttavia, il vecchio renderer è presente per garantire la compatibilità con i filtri.",
+    "configurable.runtimetrims.yacl.option.animate": "Rendere animazione del taglio",
+    "configurable.runtimetrims.yacl.option.debug": "Debug",
+    "configurable.runtimetrims.yacl.option.msBetweenCycles": "Millesimi di secondo tra i cicli",
+    "configurable.runtimetrims.yacl.option.overrideExisting": "Sostituire trame esistenti",
+    "configurable.runtimetrims.yacl.option.paletteSorting": "Ordinamento palette",
+    "configurable.runtimetrims.yacl.option.paletteSorting.brightness": "Brillantezza",
+    "configurable.runtimetrims.yacl.option.paletteSorting.brightness_reversed": "Ordine di luminosità inverso",
+    "configurable.runtimetrims.yacl.option.paletteSorting.colour": "Colore",
+    "configurable.runtimetrims.yacl.option.paletteSorting.colour_reversed": "Inverso colore",
+    "configurable.runtimetrims.yacl.option.paletteSorting.saturation": "Saturazione",
+    "configurable.runtimetrims.yacl.option.paletteSorting.saturation_reversed": "Inversione della saturazione",
+    "configurable.runtimetrims.yacl.option.useLegacyRenderer": "Usa renderizzatore di vecchia generazione",
+    "runtimetrims.material": "Materiale %s"
+}

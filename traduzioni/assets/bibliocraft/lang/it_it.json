@@ -1989,6 +1989,7 @@
     "tag.block.bibliocraft.tables": "Tavole",
     "tag.block.bibliocraft.tool_racks": "Schede strumenti",
     "tag.block.bibliocraft.typewriters": "Macchine da scrivere",
+    "tag.enchantment.bibliocraft.printing_table_cloning_blacklist": "Lista nera di clonazione per tavola di stampa",
     "tag.item.bibliocraft.bookcase_books": "Libri per librerie",
     "tag.item.bibliocraft.bookcases": "Scaffali libreria",
     "tag.item.bibliocraft.cookie_jar_cookies": "Coscette per giare di biscotti",

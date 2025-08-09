@@ -1,0 +1,14 @@
+{
+    "entity.theducksmod.mallard_duck": "Anatra di palude",
+    "entity.theducksmod.mallard_duck_egg": "Uovo di anatra muschiata",
+    "entity.theducksmod.pekin_duck": "Anatra Pekin",
+    "entity.theducksmod.pekin_duck_egg": "Uovo di anatra Pekin",
+    "item.theducksmod.boiled_duck_egg": "Uovo di anatra cotto",
+    "item.theducksmod.cooked_duck": "Anatra cucinata",
+    "item.theducksmod.duck": "Anatra",
+    "item.theducksmod.mallard_duck_egg": "Uovo di anatra mallarda",
+    "item.theducksmod.mallard_duck_spawn_egg": "Uovo di anatra mallarda",
+    "item.theducksmod.pekin_duck_egg": "Uovo di anatra Pekin",
+    "item.theducksmod.pekin_duck_spawn_egg": "Uovo di cigno pekin",
+    "itemGroup.the_ducks_tab": "Il modulo delle anatre"
+}

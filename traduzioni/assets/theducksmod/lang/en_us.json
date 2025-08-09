@@ -1,0 +1,14 @@
+{
+    "entity.theducksmod.mallard_duck": "Mallard Duck",
+    "entity.theducksmod.mallard_duck_egg": "Mallard Duck Egg",
+    "entity.theducksmod.pekin_duck": "Pekin Duck",
+    "entity.theducksmod.pekin_duck_egg": "Pekin Duck Egg",
+    "item.theducksmod.boiled_duck_egg": "Boiled Duck Egg",
+    "item.theducksmod.cooked_duck": "Cooked Duck",
+    "item.theducksmod.duck": "Duck",
+    "item.theducksmod.mallard_duck_egg": "Mallard Duck Egg",
+    "item.theducksmod.mallard_duck_spawn_egg": "Mallard Duck Spawn Egg",
+    "item.theducksmod.pekin_duck_egg": "Pekin Duck Egg",
+    "item.theducksmod.pekin_duck_spawn_egg": "Pekin Duck Spawn Egg",
+    "itemGroup.the_ducks_tab": "The Ducks Mod"
+}

@@ -1,0 +1,21 @@
+{
+    "biolith.command.describe.biome.moderner_beta": "Bioma moderner beta:",
+    "biolith.command.describe.biome.nearest": "più vicino:",
+    "biolith.command.describe.biome.none": "(nessuno)",
+    "biolith.command.describe.biome.replacement": "Bioma di sostituzione:",
+    "biolith.command.describe.biome.scale": "Scala",
+    "biolith.command.describe.biome.sub": "Sottobioma selezionato:",
+    "biolith.command.describe.biome.terrablender": "ecosistema di terra blender:",
+    "biolith.command.describe.biome.vanilla": "Bioma di base:",
+    "biolith.command.describe.header": "Valori di bioma",
+    "biolith.command.describe.nonPlayer": "Il chiamante non è un giocatore; per favore fornisce un entità o una posizione.",
+    "biolith.command.describe.notOurs": "Il target è un dimensione non modificata da Biolith.",
+    "biolith.command.help": "Opzioni del comando:\n§9\/biolith aiuto§r - informazioni sul comando biolith\n§9\/biolith descrivi§r - informazioni sulla bioma e il rumore",
+    "biolith.command.help.describe": "§9\/biolith describe [at (<entità>|<posizione>)§r - informazioni sulla rumorosità e la selezione di biomi",
+    "biolith.command.help.missing": "Non ci sono informazioni di aiuto per il comando specificato.",
+    "biolith.command.hint": "(tentare \"try §9\/biolith help§6\" per informazioni sul comando... )",
+    "biolith.world.minecraft.overworld": "Mondo superficie",
+    "biolith.world.minecraft.the_end": "Il fine",
+    "biolith.world.minecraft.the_nether": "Il Niente",
+    "modmenu.descriptionTranslation.biolith": "Strumenti di generazione del mondo per i bioliti"
+}

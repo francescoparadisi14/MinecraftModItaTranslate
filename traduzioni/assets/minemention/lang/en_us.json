@@ -1,0 +1,10 @@
+{
+    "minemention.defaults": "Default mentions changed.",
+    "minemention.everyone": "Mention every player on the server",
+    "minemention.ftb": "Mention everyone from your FTB-Teams team.",
+    "minemention.here": "Mention every player in the same dimension",
+    "minemention.near": "Mention every player within 100 blocks",
+    "minemention.one_player": "Mention player '%s'",
+    "minemention.reply": "Click to reply",
+    "minemention.sent": "Message sent to"
+}

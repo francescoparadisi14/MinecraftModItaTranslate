@@ -1,0 +1,20 @@
+{
+    "argument.sparkweave.debug.dump_recipes.type_not_found": "Tipo di ricetta non trovato: %s",
+    "argument.sparkweave.registry.not_found": "Registro non trovato: %s",
+    "chat.sparkweave.open_folder": "Clicca per visualizzare nel esploratore di file",
+    "commands.sparkweave.debug.dump_recipes.multi_success": "Esportati con successo ricette per %s tipi",
+    "commands.sparkweave.debug.dump_recipes.multi_success_path": "Esportati con successo ricette per %s tipi in %s",
+    "commands.sparkweave.debug.dump_recipes.success": "Esportati con successo le ricette per il tipo %s",
+    "commands.sparkweave.debug.dump_recipes.success_path": "Esportati con successo le ricette per tipo %s in %s",
+    "commands.sparkweave.debug.dump_registries.multi_success": "Esportati con successo %s registri",
+    "commands.sparkweave.debug.dump_registries.multi_success_path": "Esportati con successo %s registri in %s",
+    "commands.sparkweave.debug.dump_registries.success": "Esportato registro %s con successo",
+    "commands.sparkweave.debug.dump_registries.success_path": "Esportato con successo registro %s in %s",
+    "commands.sparkweave.debug.dump_tags.multi_success": "Esportati con successo le etichette per %s registri",
+    "commands.sparkweave.debug.dump_tags.multi_success_path": "Esportati con successo le etichette per %s registri in %s",
+    "commands.sparkweave.debug.dump_tags.success": "Esportati con successo le etichette per il registro %s",
+    "commands.sparkweave.debug.dump_tags.success_path": "Esportati con successo le etichette per il registro %s in %s",
+    "commands.sparkweave.error.io_exception": "Si è verificato un errore di input\/output mentre si eseguiva il comando: %s",
+    "itemGroup.sparkweave.developer_tab": "Strumenti di sviluppo",
+    "screen.sparkweave.consent.title": "Richiesta di consenso"
+}

@@ -1,0 +1,16 @@
+{
+    "chair_pack.geckolib.desc": "Modelli che possono utilizzare il file di animazione del pacchetto Bedrock Edition",
+    "chair_pack.geckolib.name": "Modello geckolib",
+    "maid_pack.geckolib.desc": "Modelli che possono utilizzare il file di animazione del pacchetto Bedrock Edition",
+    "maid_pack.geckolib.name": "Modello di geckoLib",
+    "model.geckolib.foxmaid.desc": "Il santuario dell'Ōkami di Inari",
+    "model.geckolib.foxmaid.name": "Fata volpe",
+    "model.geckolib.hailuo.desc": "Autore: hai luo",
+    "model.geckolib.hailuo.name": "Hai Luo",
+    "model.geckolib.qingluka.desc": "Autore: qingluka",
+    "model.geckolib.qingluka.name": "Alex",
+    "model.geckolib.winefox.desc": "Una ragazza vulpe che ama il vino",
+    "model.geckolib.winefox.name": "Vulpes vino",
+    "model.geckolib.zhiban.desc": "Autore: zhi ban",
+    "model.geckolib.zhiban.name": "Zhi Ban"
+}
