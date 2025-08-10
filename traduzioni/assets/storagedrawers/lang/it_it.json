@@ -77,6 +77,8 @@
     "item.storagedrawers.personal_key.desc": "Proteggere l'accesso da altri giocatori\nnon protegge i blocchi dal rompimento",
     "item.storagedrawers.personal_key_cofh": "Chiave personale (COFH)",
     "item.storagedrawers.personal_key_cofh.desc": "Proteggere l'accesso da altri giocatori\nnon protegge i blocchi dal rompimento",
+    "item.storagedrawers.personal_key_unlock": "Chiave personale (amministratore)",
+    "item.storagedrawers.personal_key_unlock.desc": "Sblocca qualsiasi cassetto chiuso da una chiave personale di un altro giocatore.",
     "item.storagedrawers.portability_upgrade": "Aggiornamento portabilità",
     "item.storagedrawers.portability_upgrade.desc": "consente di portare cassetti pieni",
     "item.storagedrawers.portability_upgrade.warn": "Non ha effetto con la configurazione attuale del modulo.",

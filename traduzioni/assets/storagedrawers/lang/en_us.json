@@ -77,6 +77,8 @@
     "item.storagedrawers.personal_key.desc": "Protect access from other players\nDoes not protect blocks from breaking",
     "item.storagedrawers.personal_key_cofh": "Personal Key (CoFH)",
     "item.storagedrawers.personal_key_cofh.desc": "Protect access from other players\nDoes not protect blocks from breaking",
+    "item.storagedrawers.personal_key_unlock": "Personal Key (Admin)",
+    "item.storagedrawers.personal_key_unlock.desc": "Unlocks any drawer locked by another player's personal key",
     "item.storagedrawers.portability_upgrade": "Portability Upgrade",
     "item.storagedrawers.portability_upgrade.desc": "Allows you to carry filled drawers",
     "item.storagedrawers.portability_upgrade.warn": "Has no effect with current mod configuration",

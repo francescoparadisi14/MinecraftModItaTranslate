@@ -1,0 +1,23 @@
+{
+    "block.belts.chute": "Canale di scarico di articoli della cinta trasportatrice",
+    "block.belts.chute.tooltip": "Aggiungi questo a qualsiasi blocco di inventario. I cinturoni sono agganciati a questo.",
+    "block.belts.chute.tooltip.1": "Clicca destro con un oggetto per impostarlo come filtro.",
+    "block.belts.chute.tooltip.ftbfilters": "Supporta filtri intelligenti dal modulo \"FTB Filters\".",
+    "block.belts.conveyor_support": "Supporto del convogliatore",
+    "block.belts.conveyor_support.tooltip": "Usato per guidare percorsi di cintura di trasporto.",
+    "item.belts.belt": "Cintura di trasporto",
+    "item.belts.belt.tooltip.0": "Usa questo per creare cinture di trasmissione di qualsiasi forma e dimensione. Colloca automaticamente canali di oggetti all'inizio e alla fine.",
+    "item.belts.belt.tooltip.1": "Clicca le canalizzazioni esistenti per segnalarle come inizio\/fine. Clicca i supporti delle cinture di trasmissione per aggiungere punti intermedi opzionali.",
+    "item.belts.belt.tooltip.2": "Premi shift e destrociare senza selezionare un blocco per resettare.",
+    "item.belts.belt.tooltip.3": "I connessioni esistenti dei condotti possono essere cliccate con un oggetto per abilitare la filtrazione.",
+    "itemgroup.belts.items": "Cinture semplici",
+    "message.belts.belt_created": "È stata creata cintura!",
+    "message.belts.chute_used": "La cintura è già in uso!",
+    "message.belts.filter_reset": "Ripristino filtro oggetto",
+    "message.belts.filter_set": "Imposta filtro per gli oggetti",
+    "message.belts.midpoint_added": "Punto di riferimento immagazzinato!",
+    "message.belts.midpoint_duplicate": "Il punto medio è già memorizzato.",
+    "message.belts.reset": "Ripristina cintura!",
+    "message.belts.show_extra": "Tieni [Ctrl] per ulteriori informazioni.",
+    "message.belts.started": "Iniziato il deposito!"
+}
