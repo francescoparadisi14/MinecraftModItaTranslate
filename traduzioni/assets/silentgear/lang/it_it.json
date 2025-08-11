@@ -973,6 +973,7 @@
     "trait.silentgear.hard": "Duro",
     "trait.silentgear.hard.desc": "incrementa la velocità di raccolta o decrementa il danno a distanza in base all'uso e al deterioramento dell'oggetto",
     "trait.silentgear.heat_resistant": "Resistente al calore",
+    "trait.silentgear.heat_resistant.desc": "Riduce il danno da fuoco",
     "trait.silentgear.heavy": "pesante",
     "trait.silentgear.heavy.desc": "Il peso dell'armatura riduce la velocità di movimento",
     "trait.silentgear.holy": "Santo",

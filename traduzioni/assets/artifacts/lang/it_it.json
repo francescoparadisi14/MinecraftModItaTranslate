@@ -11,6 +11,8 @@
     "artifacts.config.client.cooldownOverlayOffset.title": "Impostazione di offset per l'overlay del cooldown",
     "artifacts.config.client.enableCooldownOverlay.description": "Visualizza gli artefatti in cooldown accanto alla barra degli slot",
     "artifacts.config.client.enableCooldownOverlay.title": "Abilita overlay di raffreddamento",
+    "artifacts.config.client.heliumFlamingoOverlayOffset.description": "Regola la posizione verticale del rilevatore di carica dell'uccello in balloone d'elio",
+    "artifacts.config.client.heliumFlamingoOverlayOffset.title": "Offset dell'overlay del fenicottero di elio",
     "artifacts.config.client.showFirstPersonGloves.description": "Se i modelli dei guanti possono essere mostrati in prima persona",
     "artifacts.config.client.showFirstPersonGloves.title": "Mostra i guanti in prima persona",
     "artifacts.config.client.showTooltips.description": "Se gli artefatti possono avere dei tooltip che spiegano i loro effetti",

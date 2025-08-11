@@ -2,5 +2,11 @@
     "item.camol.camo_item": "Camo Block",
     "item.camol.camo_item.camo": "Camo Block - %s",
     "item.camol.camo_item.hover": "Right click a block to disguise it as this block. Right click a camoed block to undisguise it.",
-    "item.camol.camo_item.hover_empty": "Craft together with a block."
+    "item.camol.camo_item.hover_empty": "Craft together with a block.",
+    "item.camol.camo_item.hover_type": "Uses the collision shape of the camoed block.",
+    "item.camol.solid_camo_item": "Shape Retaining Camo Block",
+    "item.camol.solid_camo_item.camo": "Shape Retaining Camo Block - %s",
+    "item.camol.solid_camo_item.hover": "Right click a block to disguise it as this block. Right click a camoed block to undisguise it.",
+    "item.camol.solid_camo_item.hover_empty": "Craft together with a block.",
+    "item.camol.solid_camo_item.hover_type": "Uses the collision shape of the camoing block."
 }

@@ -260,6 +260,8 @@
     "config.stellaris.orbitTeleportationYCoord.desc": "The Y coordinate at which the player will be teleported when using the orbit teleportation feature,",
     "config.stellaris.oxygenDamage": "Oxygen Damage",
     "config.stellaris.oxygenDamage.desc": "The Damage entites take every second when there is no oxygen.",
+    "config.stellaris.radiationCheckInterval": "Intervallo di controllo radiazioni",
+    "config.stellaris.radiationCheckInterval.desc": "L'intervallo di ticks al quale viene eseguita la verifica della radiazione. Il valore predefinito è 100 ticks (5 secondi).",
     "config.stellaris.rocketTpHeight": "Rocket Teleportation Height",
     "config.stellaris.rocketTpHeight.desc": "The height at which the rocket opens the teleportation screen. Default is 600 blocks.",
     "container.entity.stellaris.lander": "Lander",

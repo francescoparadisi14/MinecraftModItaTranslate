@@ -219,8 +219,6 @@
     "item.sophisticatedstorage.pickup_upgrade.tooltip": "Makes storage pickup items",
     "item.sophisticatedstorage.pump_upgrade": "Pump Upgrade",
     "item.sophisticatedstorage.pump_upgrade.tooltip": "Pumps fluids between Tank upgrade and adjacent blocks",
-    "item.sophisticatedstorage.sawmill.sawmill_upgrade": "Sawmill Upgrade",
-    "item.sophisticatedstorage.sawmill.sawmill_upgrade.tooltip": "Saw in an upgrade tab",
     "item.sophisticatedstorage.shulker_box": "Shulker Box",
     "item.sophisticatedstorage.smelting_upgrade": "Smelting Upgrade",
     "item.sophisticatedstorage.smelting_upgrade.tooltip": "Smelting in an upgrade tab",
@@ -283,7 +281,6 @@
     "wood_name.sophisticatedstorage.jungle": "Jungle",
     "wood_name.sophisticatedstorage.mangrove": "Mangrove",
     "wood_name.sophisticatedstorage.oak": "Oak",
-    "wood_name.sophisticatedstorage.pale_oak": "Pale Oak",
     "wood_name.sophisticatedstorage.spruce": "Spruce",
     "wood_name.sophisticatedstorage.warped": "Warped"
 }

@@ -2,5 +2,11 @@
     "item.camol.camo_item": "Blocco mimetico",
     "item.camol.camo_item.camo": "Blocco di mimetizzazione - %s",
     "item.camol.camo_item.hover": "Clicca destro su un blocco per nasconderlo come questo blocco. Clicca destro su un blocco nascosto per svelarlo.",
-    "item.camol.camo_item.hover_empty": "Assembla con un blocco."
+    "item.camol.camo_item.hover_empty": "Assembla con un blocco.",
+    "item.camol.camo_item.hover_type": "Usa la forma di collisione del blocco camuffato.",
+    "item.camol.solid_camo_item": "Blocco di mimetismo che mantiene la forma",
+    "item.camol.solid_camo_item.camo": "Blocco di mimetismo a forma mantenuta - %s",
+    "item.camol.solid_camo_item.hover": "Clicca destro su un blocco per nasconderlo come questo blocco. Clicca destro su un blocco nascosto per svelarlo.",
+    "item.camol.solid_camo_item.hover_empty": "Assembla con un blocco.",
+    "item.camol.solid_camo_item.hover_type": "Usa la forma di collisione del blocco di camouflage."
 }
