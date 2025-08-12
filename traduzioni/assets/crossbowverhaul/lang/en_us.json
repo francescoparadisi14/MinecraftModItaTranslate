@@ -1,0 +1,15 @@
+{
+    "item.crossbowverhaul.bolt_diamond": "Diamond Bolt",
+    "item.crossbowverhaul.bolt_diamond.tooltip": "§9A bolt made out of diamonds",
+    "item.crossbowverhaul.bolt_explosive": "Explosive Bolt",
+    "item.crossbowverhaul.bolt_explosive.tooltip": "§9A crossbow bolt.§c EXPLODES ON IMPACT!",
+    "item.crossbowverhaul.bolt_gold": "Golden Bolt",
+    "item.crossbowverhaul.bolt_gold.tooltip": "§9Shiny",
+    "item.crossbowverhaul.bolt_iron": "Iron Bolt",
+    "item.crossbowverhaul.bolt_iron.tooltip": "§9A normal bolt made of iron",
+    "item.crossbowverhaul.bolt_netherite": "Netherite Bolt",
+    "item.crossbowverhaul.bolt_netherite.tooltip": "§9The most refined version of a bolt",
+    "item.crossbowverhaul.boltdamagetooltip": "§9Bolt Base Damage: %d",
+    "item.crossbowverhaul.crossbow_netherite": "Netherite Crossbow",
+    "item.crossbowverhaul.tooltip.hold_shift": "§9Hold §f[§eSHIFT§f]§9 to see more"
+}

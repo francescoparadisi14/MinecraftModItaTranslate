@@ -1,0 +1,8 @@
+{
+    "block.ag_day_counter.calendar": "Calendar Block",
+    "block.ags_day_counter.calendar": "Calendar Block",
+    "item.ag_day_counter.calendar_item": "Calendar",
+    "item.ags_day_counter.calendar_item": "Calendar",
+    "itemGroup.tabday_counter_creative_tab": "Day Counter",
+    "item_group.ags_day_counter.day_counter_creative_tab": "Day Counter"
+}

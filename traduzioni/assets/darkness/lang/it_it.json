@@ -1,0 +1,17 @@
+{
+    "config.darkness.help.block_light_only": "Le aree illuminate dal cielo non saranno completamente buie",
+    "config.darkness.help.dark_default": "Abilitato nei dimensioni modificate con un cielo",
+    "config.darkness.help.dark_end": "Abilita nel mondo finale",
+    "config.darkness.help.dark_nether": "Abilitato nel Nether",
+    "config.darkness.help.dark_overworld": "Abilitare nel mondo superficiale",
+    "config.darkness.help.dark_skyless": "Abilitato nei dimensioni modificate senza cielo",
+    "config.darkness.help.ignore_moon_phase": "La notte è veramente oscura anche quando il luna è piena.",
+    "config.darkness.label.block_light_only": "Influenza solo la luce dei blocchi",
+    "config.darkness.label.dark_default": "Ombra di dimensione modificata",
+    "config.darkness.label.dark_end": "Fine oscura",
+    "config.darkness.label.dark_nether": "Nebbia oscura",
+    "config.darkness.label.dark_overworld": "Overworld buio",
+    "config.darkness.label.dark_skyless": "Ombra di dimensione senza cielo modificata",
+    "config.darkness.label.ignore_moon_phase": "Ignora fase lunare",
+    "config.darkness.title": "Configurazione oscurità vera"
+}

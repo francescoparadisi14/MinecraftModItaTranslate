@@ -1,0 +1,9 @@
+{
+    "effect.horde_hoard.thinking": "Thinking",
+    "gamerule.hordeMultiplying": "Horde Multiplying",
+    "gamerule.hordeMultiplying.description": "Horde mobs will dig up more mobs",
+    "gamerule.hordeStacking": "Horde Stacking",
+    "gamerule.hordeStacking.description": "Hordes crawl up one another",
+    "gamerule.ironGolemRegenPower": "Iron Golem Regeneration Level",
+    "gamerule.ironGolemRegenPower.description": "The level of regeneration effect that Iron Golems recieve when there is no danger."
+}

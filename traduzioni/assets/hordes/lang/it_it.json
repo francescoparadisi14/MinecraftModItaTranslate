@@ -1,0 +1,23 @@
+{
+    "commands.hordes.HordeClean.success": "Tutti i dati del mondo delle orde eliminati con successo.",
+    "commands.hordes.HordeClean.usage": "\/clearhordedata",
+    "commands.hordes.HordeDebug.success": "Output del registro orda in %1$s",
+    "commands.hordes.HordeDebug.usage": "\/hordes debug",
+    "commands.hordes.HordeReset.success": "Riavviato tutti i dati orda per il giocatore %1$s",
+    "commands.hordes.HordeReset.usage": "\/hordes reset [opzionale: giocatore]",
+    "commands.hordes.ListEntities.success": "Elenco di tutti gli entità inviato in %1$s.",
+    "commands.hordes.ListEntities.usage": "\/hordes listentities (uso)",
+    "commands.hordes.SpawnHordeWave.invalidValue": "\"%1$s\" non è un argomento valido per il numero di mostri da generare.",
+    "commands.hordes.SpawnHordeWave.success": "Succesivamente evocata ondata di orde;",
+    "commands.hordes.SpawnHordeWave.usage": "\/hordes spawnwave <numero di mostri da spawnare>",
+    "commands.hordes.SpawnHordeWave.wrongArgCount": "Numero di argomenti sbagliato fornito per \/spawnhordewave",
+    "commands.hordes.SpawnZombie.usage": "\/hordes spawnzombie <nomeutente> <posizione> <tipo>",
+    "commands.hordes.StartHorde.invalidValue": "%1$s non è un argomento valido per la lunghezza dell'evento;",
+    "commands.hordes.StartHorde.success": "È stato avviato con successo l'evento orda per %1$s tick.",
+    "commands.hordes.StartHorde.usage": "\/hordes start <lunghezza dell'evento>",
+    "commands.hordes.StartHorde.wrongArgCount": "Numero di argomenti sbagliato fornito per \/starthordeevent",
+    "commands.hordes.StopHorde.success": "Ha arrestato l'evento orda attiva per il giocatore %1$s",
+    "commands.hordes.StopHorde.usage": "\/hordes stop",
+    "jei.category.hordes.InfectionCures": "Cure per infezioni",
+    "message.hordes.DataError": "Si verificano errori nei dati attualmente caricati, per favore controlla il file %1$s per ulteriori informazioni."
+}

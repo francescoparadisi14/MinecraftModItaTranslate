@@ -1,0 +1,15 @@
+{
+    "item.crossbowverhaul.bolt_diamond": "Fionda di diamante",
+    "item.crossbowverhaul.bolt_diamond.tooltip": "Un proiettile a freccia fatto di diamanti",
+    "item.crossbowverhaul.bolt_explosive": "Fionda esplosiva",
+    "item.crossbowverhaul.bolt_explosive.tooltip": "Una freccia da crossbow §9a. §c Esplose al contatto!",
+    "item.crossbowverhaul.bolt_gold": "Fionda d'oro",
+    "item.crossbowverhaul.bolt_gold.tooltip": "§9shiny",
+    "item.crossbowverhaul.bolt_iron": "Fionda di ferro",
+    "item.crossbowverhaul.bolt_iron.tooltip": "Un proiettile normale in ferro",
+    "item.crossbowverhaul.bolt_netherite": "Fionda di netherite",
+    "item.crossbowverhaul.bolt_netherite.tooltip": "Il più raffinato tipo di freccia",
+    "item.crossbowverhaul.boltdamagetooltip": "Danni da proiettile di base: %d (rosso)",
+    "item.crossbowverhaul.crossbow_netherite": "Arco netherite",
+    "item.crossbowverhaul.tooltip.hold_shift": "Tenere [shift] per vedere di più"
+}
