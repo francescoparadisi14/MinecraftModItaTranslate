@@ -872,6 +872,8 @@
     "block_type.youkaishomecoming.handrail": "Corrimano %s",
     "car_variant.%s": "Variante di %s: %s",
     "container.everycomp.chest.name": "Cassetto %s",
+    "gui.everycomp.error_screen.message": "Il modulo di compatibilità EveryCompat dei seguenti mod [%s] ha avuto errori durante l'elaborazione. Ciò solitamente significa che i rispettivi mod potrebbero aver recentemente aggiornato con modifiche breaking, richiedendo un aggiornamento futuro del modulo di compatibilità EveryCompat, o che uno dei due mod è obsoleto. Il gioco non può procedere, ma puoi provare a downgradare uno dei due o attendere un aggiornamento.",
+    "gui.everycomp.error_screen.title": "Si è verificato un errore in ogni compatibilità",
     "itemGroup.everycomp": "Compatibilità ogni cosa",
     "itemGroup.everycomp.everycomp": "Compatibilità ogni cosa",
     "item_type.bewitchment.bark": "Corteccia di %s",

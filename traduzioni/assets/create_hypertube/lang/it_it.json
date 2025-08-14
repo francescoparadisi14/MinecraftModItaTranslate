@@ -1,6 +1,9 @@
 {
     "block.create_hypertube.hypertube": "Blocco iper-tubo",
+    "block.create_hypertube.hypertube_accelerator": "Blocco acceleratore di tubo iperdimensionale",
     "block.create_hypertube.hypertube_entrance": "Blocco di ingresso per tubi iper-veloci",
+    "block.hypertube.hyper_accelerator.accelerate_mode": "Modalità di accelerazione",
+    "block.hypertube.hyper_accelerator.brake_mode": "Modalità freno",
     "block.hypertube.hyper_entrance.automatic_lock": "Modalità di blocco automatico",
     "block.hypertube.hyper_entrance.manual_lock": "Modalità di blocco manuale",
     "block.hypertube.hyper_entrance.sneak_to_enter": "Sfiora per entrare",

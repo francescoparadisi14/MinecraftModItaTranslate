@@ -101,6 +101,7 @@
     "modifier.mysticalagradditions.soul_siphoner": "Soul Siphoner",
     "modifier.mysticalagradditions.soul_siphoner.description": "Weapons siphon Mob Souls like a Soulium Dagger.",
     "modifier.mysticalagradditions.soul_siphoner.flavor": "Soulful!",
+    "tooltip.mysticalagradditions.buff_line": "- %s (%s)",
     "tooltip.mysticalagradditions.drop_chance": "%s Drop Chance",
     "tooltip.mysticalagradditions.gives_buffs": "Gives Buffs:"
 }

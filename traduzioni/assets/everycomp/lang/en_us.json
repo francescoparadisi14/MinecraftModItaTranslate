@@ -872,6 +872,8 @@
     "block_type.youkaishomecoming.handrail": "%s Handrail",
     "car_variant.%s": "%s",
     "container.everycomp.chest.name": "%s Chest",
+    "gui.everycomp.error_screen.message": "The Every Compat Modules from the following mods [%s] had errors while loading.\nThis usually means that the respective mods might have recently updated with breaking changes, requiring a future Every Compat update, or that one of the two mods is outdated.\nThe game can't proceed but you can try to downgrade one of the two or wait for an update.",
+    "gui.everycomp.error_screen.title": "Every Compat encountered an Error",
     "itemGroup.everycomp": "Every Compat",
     "itemGroup.everycomp.everycomp": "Every Compat",
     "item_type.bewitchment.bark": "%s Bark",

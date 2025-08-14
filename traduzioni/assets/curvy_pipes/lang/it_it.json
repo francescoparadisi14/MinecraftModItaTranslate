@@ -78,5 +78,6 @@
     "curvy_pipes.too_costly": "Non ci sono abbastanza materiali",
     "curvy_pipes.too_far": "Troppo lontano",
     "curvy_pipes.unforce_joint": "Sfoglia giunto",
-    "curvy_pipes.wait": "In attesa del server"
+    "curvy_pipes.wait": "In attesa del server",
+    "itemGroup.curvy_pipes": "Tubi curvi"
 }

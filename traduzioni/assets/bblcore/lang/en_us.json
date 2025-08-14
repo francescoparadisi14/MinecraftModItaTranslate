@@ -34,7 +34,6 @@
     "color.bblcore.yellow": "Yellow",
     "item.bblcore.upgrade_base": "Upgrade Base",
     "jei.unbreakable_resource_block.name": "Resource Blocks",
-    "tooltip.core.light_level": "Will Place Light Level: %s",
     "tooltips.bblcore.alt": "Press ALT for more info",
     "tooltips.bblcore.block.unbreakable_resource_block_tool": "Collection tool: %s",
     "tooltips.bblcore.block.unbreakable_resource_block_tool_tag": "Collection tool tag: %s",

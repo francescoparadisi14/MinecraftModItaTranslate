@@ -179,6 +179,8 @@
     "item.sophisticatedbackpacks.refill_upgrade.tooltip": "Keeps refilling stack of selected items in player's inventory",
     "item.sophisticatedbackpacks.restock_upgrade": "Restock Upgrade",
     "item.sophisticatedbackpacks.restock_upgrade.tooltip": "Restocks backpack from sneak right clicked inventory",
+    "item.sophisticatedbackpacks.sawmill.sawmill_upgrade": "Sawmill Upgrade",
+    "item.sophisticatedbackpacks.sawmill.sawmill_upgrade.tooltip": "Saw in an upgrade tab",
     "item.sophisticatedbackpacks.smelting_upgrade": "Smelting Upgrade",
     "item.sophisticatedbackpacks.smelting_upgrade.tooltip": "Smelting in an upgrade tab",
     "item.sophisticatedbackpacks.smithing_upgrade": "Smithing Upgrade",

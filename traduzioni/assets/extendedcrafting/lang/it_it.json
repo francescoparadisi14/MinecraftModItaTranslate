@@ -139,6 +139,7 @@
     "message.extendedcrafting.copied_recipe": "Ricetta copiata nel portapenne.",
     "message.extendedcrafting.data_components_requires_crafttweaker": "È richiesto CraftTweaker per copiare componenti di dati.",
     "message.extendedcrafting.max_unique_items_exceeded": "Puoi avere solo un massimo di (%s) item unici in una ricetta di datapack a forma di AE2.",
+    "message.extendedcrafting.nbt_requires_crafttweaker": "È richiesto CraftTweaker per copiare i dati NBT.",
     "screen.extendedcrafting.crafting_core.no_power": "Non ci sono abbastanza potenza.",
     "screen.extendedcrafting.crafting_core.no_recipe": "Nessuna ricetta trovata.",
     "screen.extendedcrafting.crafting_core.pedestals": "Pedestali: %s",

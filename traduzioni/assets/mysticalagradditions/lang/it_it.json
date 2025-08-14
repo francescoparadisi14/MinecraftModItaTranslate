@@ -101,6 +101,7 @@
     "modifier.mysticalagradditions.soul_siphoner": "Sorciere delle anime",
     "modifier.mysticalagradditions.soul_siphoner.description": "Sorbe le anime dei mostri come un pugnale di Soulium.",
     "modifier.mysticalagradditions.soul_siphoner.flavor": "Spirituoso!",
+    "tooltip.mysticalagradditions.buff_line": "- %s (%s)",
     "tooltip.mysticalagradditions.drop_chance": "Caso di caduta %s",
     "tooltip.mysticalagradditions.gives_buffs": "conferisce buff:"
 }

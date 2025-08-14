@@ -75,6 +75,7 @@
     "itemGroup.pickletweaks": "Pickle Tweaks",
     "tooltip.pickletweaks.ammo": "Ammo: %s",
     "tooltip.pickletweaks.broken": "BROKEN",
+    "tooltip.pickletweaks.buff_list_item": "- %s%s %s",
     "tooltip.pickletweaks.disabled": "Disabled",
     "tooltip.pickletweaks.enabled": "Enabled",
     "tooltip.pickletweaks.gives_buffs": "Gives Buffs",

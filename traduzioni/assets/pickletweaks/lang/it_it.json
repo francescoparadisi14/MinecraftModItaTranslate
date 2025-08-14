@@ -75,6 +75,7 @@
     "itemGroup.pickletweaks": "Tweak di salsa",
     "tooltip.pickletweaks.ammo": "Carica: %s",
     "tooltip.pickletweaks.broken": "Rotto",
+    "tooltip.pickletweaks.buff_list_item": "- %s%s %s",
     "tooltip.pickletweaks.disabled": "Disabilitato",
     "tooltip.pickletweaks.enabled": "Abilitato",
     "tooltip.pickletweaks.gives_buffs": "Conferisce buff",
