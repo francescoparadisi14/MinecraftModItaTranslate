@@ -24,5 +24,22 @@
     "item.glow_sticks.glow_stick_red": "Glow Stick (red)",
     "item.glow_sticks.glow_stick_white": "Glow Stick (white)",
     "item.glow_sticks.glow_stick_yellow": "Glow Stick (yellow)",
-    "itemGroup.glow_sticks": "Glow Sticks"
+    "itemGroup.glow_sticks.tab": "Glow Sticks",
+    "text.glow_sticks.glow_stick_black_description": "Darker than a wither skeleton in the Nether.",
+    "text.glow_sticks.glow_stick_blue_description": "Shines like lapis lazuli but without enchantments.",
+    "text.glow_sticks.glow_stick_brown_description": "Brown like dirt and just as decorative.",
+    "text.glow_sticks.glow_stick_cyan_description": "Deep blue like an ocean monument full of guardians.",
+    "text.glow_sticks.glow_stick_gray_description": "As dull as gravel in the rain.",
+    "text.glow_sticks.glow_stick_green_description": "Glows like a slime but does not hop away.",
+    "text.glow_sticks.glow_stick_light_blue_description": "Colder glow than ice in an ocean biome.",
+    "text.glow_sticks.glow_stick_light_gray_description": "Almost invisible like a phantom during the day.",
+    "text.glow_sticks.glow_stick_lime_description": "Glows green like a Creeper but without the explosion.",
+    "text.glow_sticks.glow_stick_magenta_description": "So flashy that even Endermen take a second look.",
+    "text.glow_sticks.glow_stick_orange_description": "Shines like a torch but not forever.",
+    "text.glow_sticks.glow_stick_pink_description": "As pink as a pig but much harder to eat.",
+    "text.glow_sticks.glow_stick_purple_description": "Mysterious like an End portal and much easier to carry.",
+    "text.glow_sticks.glow_stick_red_description": "Red like redstone but without the shock.",
+    "text.glow_sticks.glow_stick_use": "Has a 1 in %s chance to age each random tick until it fades away.",
+    "text.glow_sticks.glow_stick_white_description": "Glows brighter than a skeleton in sunlight.",
+    "text.glow_sticks.glow_stick_yellow_description": "Shines like the sun but without the sunburn."
 }

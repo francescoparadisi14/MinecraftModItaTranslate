@@ -7,6 +7,7 @@
     "module.gmut.fix_fov": "Fix FOV",
     "module.gmut.fly_always": "Defy Gravity Always",
     "module.gmut.gravitational_modulating_additional_unit": "Gravitational Modulating Additional Unit",
+    "module.gmut.mute_modulating_sound": "Mute Modulating Sound",
     "module.gmut.stop_immediately": "Stop Immediately",
     "module.gmut.vertical_speed": "Vertical Speed Modifier"
 }

@@ -4,9 +4,21 @@
     "accessories.advanced_options.toggle.disabled.tooltip": "Mostra opzioni di configurazione dello schermo avanzate (non disponibile)",
     "accessories.advanced_options.toggle.enabled": "❤",
     "accessories.advanced_options.toggle.enabled.tooltip": "Nascondi opzioni di configurazione dello schermo aggiuntive",
+    "accessories.argument.livingEntities.nonLiving": "Solo gli entità viventi possono essere influenzati da questo comando, ma lo selezionatore fornito include anche entità non viventi.",
     "accessories.back.screen": "Torna alla schermata precedente",
+    "accessories.column_amount.label": "Quantità di accessori nella colonna:",
+    "accessories.column_amount.tooltip": "Regola il numero di colonne per il modulo degli accessori",
     "accessories.column_amount_slider.label": "Quantità di colonne:",
     "accessories.column_amount_slider.tooltip": "Impostazione slider per l'adattamento dell'ammontare di colonne per la disposizione degli accessori",
+    "accessories.commands.attribute.failed.modifier_already_present_itemstack": "Il modificatore %s è già presente per l'attributo %s nel contenitore %s.",
+    "accessories.commands.attribute.failed.no_modifier_itemstack": "L'attributo %s per il contenitore %s non ha modificatore %s.",
+    "accessories.commands.attribute.modifier.add.success_itemstack": "aggiunto modificatore %s all'attributo %s per il blocco %s",
+    "accessories.commands.attribute.modifier.remove.success_itemstack": "Rimosso modificatore %s dall'attributo %s per il contenitore %s",
+    "accessories.commands.attribute.modifier.value.get.success_itemstack": "Il valore del modificatore %s per l'attributo %s per lo stack %s è %s",
+    "accessories.commands.attribute.value.get.success": "Il valore dell'attributo %s per l'entità %s è %s",
+    "accessories.commands.slot.modifier.clear.all.success": "Le attribuzioni slot per tutti i contenitori sono state rimosse per l'entità %s",
+    "accessories.commands.slot.modifier.clear.container.success": "Le attribuzioni slot per %s sono state rimosse per l'entità %s",
+    "accessories.commands.slot.value.get.success": "Il valore del slot %s per l'entità %s è %s",
     "accessories.cosmetic_slot.tooltip.plural": "Slot di accessorio cosmetico:",
     "accessories.cosmetic_slot.tooltip.singular": "Slot accessorio:",
     "accessories.crafting_grid.toggle.disabled": "☐",
@@ -50,6 +62,41 @@
     "accessories.dark_mode_toggle.toggle.enabled.tooltip": "Cambia tema a modalità luminosa",
     "accessories.display.toggle.hide": "Nascondi accessorio",
     "accessories.display.toggle.show": "Mostra accessorio",
+    "accessories.entity_centered.label": "Pannello di entità centrato:",
+    "accessories.entity_centered.toggle.disabled": [
+        "",
+        {
+            "text": "[",
+            "color": "gray"
+        },
+        {
+            "text": "❌",
+            "color": "#EB1D36"
+        },
+        {
+            "text": "]",
+            "color": "gray"
+        },
+        " Disabled"
+    ],
+    "accessories.entity_centered.toggle.disabled.tooltip": "Fai apparire l'entità sempre vicina o al centro dello schermo",
+    "accessories.entity_centered.toggle.enabled": [
+        "",
+        {
+            "text": "[",
+            "color": "gray"
+        },
+        {
+            "text": "✔",
+            "color": "#28FFBF"
+        },
+        {
+            "text": "]",
+            "color": "gray"
+        },
+        " Enabled"
+    ],
+    "accessories.entity_centered.toggle.enabled.tooltip": "Consenti all'entità di essere spostata dal centro",
     "accessories.entity_look_at_cursor.label": "Guarda il puntatore del mouse:",
     "accessories.entity_look_at_cursor.toggle.disabled": [
         "",
@@ -206,6 +253,76 @@
         " Shown"
     ],
     "accessories.show_equipped_stack_slot_type.toggle.enabled.tooltip": "Nascondi tipo di slot equipaggiato",
+    "accessories.side_by_side_entity.label": "Numero di visualizzazioni entità:",
+    "accessories.side_by_side_entity.toggle.disabled": [
+        "",
+        {
+            "text": "[",
+            "color": "gray"
+        },
+        {
+            "text": "|",
+            "color": "#32a852"
+        },
+        {
+            "text": "]",
+            "color": "gray"
+        },
+        " Single"
+    ],
+    "accessories.side_by_side_entity.toggle.disabled.tooltip": "Attiva la visualizzazione doppia entità",
+    "accessories.side_by_side_entity.toggle.enabled": [
+        "",
+        {
+            "text": "[",
+            "color": "gray"
+        },
+        {
+            "text": "||",
+            "color": "#32a852"
+        },
+        {
+            "text": "]",
+            "color": "gray"
+        },
+        " Double"
+    ],
+    "accessories.side_by_side_entity.toggle.enabled.tooltip": "Passa a visualizzare un singolo entità",
+    "accessories.side_by_side_slots.label": "Modalità visualizzazione slot accessorio:",
+    "accessories.side_by_side_slots.toggle.disabled": [
+        "",
+        {
+            "text": "[",
+            "color": "gray"
+        },
+        {
+            "text": "\/",
+            "color": "#1e81b0"
+        },
+        {
+            "text": "]",
+            "color": "gray"
+        },
+        " Switch"
+    ],
+    "accessories.side_by_side_slots.toggle.disabled.tooltip": "Attiva o disattiva slot estetici",
+    "accessories.side_by_side_slots.toggle.enabled": [
+        "",
+        {
+            "text": "[",
+            "color": "gray"
+        },
+        {
+            "text": "O",
+            "color": "#eab676"
+        },
+        {
+            "text": "]",
+            "color": "gray"
+        },
+        " Toggle"
+    ],
+    "accessories.side_by_side_slots.toggle.enabled.tooltip": "Attiva\/Disattiva la selezione tra slot",
     "accessories.side_widget_position.label": "Posizione laterale:",
     "accessories.side_widget_position.toggle.disabled": [
         "",
@@ -356,6 +473,10 @@
     "text.config.accessories.category.clientOptions.tooltip": [
         "Contains more generic client side options for rendering or player input"
     ],
+    "text.config.accessories.category.contentOptions": "Opzioni di contenuto",
+    "text.config.accessories.category.contentOptions.tooltip": [
+        "Contains more content focused options like glider and totem equippablity"
+    ],
     "text.config.accessories.category.screenOptions": "Opzioni dello schermo",
     "text.config.accessories.category.screenOptions.hoveredOptions": "Opzioni sovrapposte",
     "text.config.accessories.category.screenOptions.hoveredOptions.tooltip": [
@@ -401,6 +522,30 @@
     "text.config.accessories.option.clientOptions.showCosmeticAccessories.tooltip": [
         "Enables\/Disables the rendering of cosmetic item variants if equipped."
     ],
+    "text.config.accessories.option.contentOptions.allowBannerEquip": "consentire ai banner di essere equipaggiati",
+    "text.config.accessories.option.contentOptions.allowBannerEquip.tooltip": [
+        "Toggles the ability for Banners to be equipped within Accessories Slots."
+    ],
+    "text.config.accessories.option.contentOptions.allowGliderEquip": "consentire ai paracaduti di essere equipaggiati",
+    "text.config.accessories.option.contentOptions.allowGliderEquip.tooltip": [
+        "Toggles the ability for Gliders to be equipped within Accessories Slots."
+    ],
+    "text.config.accessories.option.contentOptions.allowTotemEquip": "Consentire ai totemi di essere equipaggiati",
+    "text.config.accessories.option.contentOptions.allowTotemEquip.tooltip": [
+        "Toggles the ability for Totems to be equipped within Accessories Slots."
+    ],
+    "text.config.accessories.option.contentOptions.validBannerSlots": "Slot validi per bandiera",
+    "text.config.accessories.option.contentOptions.validBannerSlots.tooltip": [
+        "Adds the slots to which a Banner item is allowed to be equipped."
+    ],
+    "text.config.accessories.option.contentOptions.validGliderSlots": "Slot di paracadute validi",
+    "text.config.accessories.option.contentOptions.validGliderSlots.tooltip": [
+        "Adds the slots to which a Glider item is allowed to be equipped."
+    ],
+    "text.config.accessories.option.contentOptions.validTotemSlots": "Posizioni di totem valide",
+    "text.config.accessories.option.contentOptions.validTotemSlots.tooltip": [
+        "Adds the slots to which a Totem item is allowed to be equipped."
+    ],
     "text.config.accessories.option.disabledDefaultRenders": "Renderer disabilitati predefiniti",
     "text.config.accessories.option.disabledDefaultRenders.tooltip": [
         "Useful to disable default rendering for a given slot either\n",
@@ -424,6 +569,12 @@
         "Useful if the given mod allows for scrolling stacks\n",
         "leading to issues when going though accessories."
     ],
+    "text.config.accessories.option.screenOptions.alwaysShowCraftingGrid": "Mostra sempre la griglia di creazione",
+    "text.config.accessories.option.screenOptions.alwaysShowCraftingGrid.tooltip": [
+        "Will remove the toggle button for the crafting grid and always show it within the experimental screen."
+    ],
+    "text.config.accessories.option.screenOptions.backButtonClosesScreen": "Chiudi schermo invece di tornare allo schermo precedente",
+    "text.config.accessories.option.screenOptions.backButtonClosesScreen.tooltip": "Tenta chiudere lo schermo anziché tornare allo schermo dell'inventario precedente se possibile.",
     "text.config.accessories.option.screenOptions.creativeInventoryButtonOffset": "Offset del pulsante della inventario creativo",
     "text.config.accessories.option.screenOptions.creativeInventoryButtonOffset.x": "Dislivello orizzontale",
     "text.config.accessories.option.screenOptions.creativeInventoryButtonOffset.y": "Dislivello Y del pulsante di inventario creativo",
@@ -443,6 +594,13 @@
     "text.config.accessories.option.screenOptions.isDarkMode.tooltip": [
         "Changes the theming for the experimental screen to be dark mode."
     ],
+    "text.config.accessories.option.screenOptions.keybindIgnoresOtherTargets": "La combinazione di tasti per aprire la schermata ignora gli altri bersagli.",
+    "text.config.accessories.option.screenOptions.keybindIgnoresOtherTargets.tooltip": "Utile se desideri che la combinazione di tasti ignori altri bersagli trovati come l'animale che stai montando.",
+    "text.config.accessories.option.screenOptions.menuButtonInjections": "Pulsanti dello schermo iniettati",
+    "text.config.accessories.option.screenOptions.menuButtonInjections.menuType": "ID del menu",
+    "text.config.accessories.option.screenOptions.menuButtonInjections.mini": "È una versione miniaturizzata",
+    "text.config.accessories.option.screenOptions.menuButtonInjections.xOffset": "Dislocazione orizzontale",
+    "text.config.accessories.option.screenOptions.menuButtonInjections.yOffset": "Dislivello verticale",
     "text.config.accessories.option.screenOptions.selectedScreenType": "Tipo di schermo selezionato",
     "text.config.accessories.option.screenOptions.selectedScreenType.tooltip": [
         "Used to adjust what screen will be used, none will\n",

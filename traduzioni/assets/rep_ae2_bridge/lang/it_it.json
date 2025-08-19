@@ -1,5 +1,6 @@
 {
     "block.rep_ae2_bridge.rep_ae2_bridge": "Ponte AE2-Replication",
+    "block.rep_ae2_bridge.repae2bridge": "Ponte RepAE2",
     "item.rep_ae2_bridge.earth": "Materia Terrena",
     "item.rep_ae2_bridge.ender": "Materia dell'End",
     "item.rep_ae2_bridge.living": "Materia Vivente",
@@ -7,5 +8,6 @@
     "item.rep_ae2_bridge.nether": "Materia Infernale",
     "item.rep_ae2_bridge.organic": "Materia Organica",
     "item.rep_ae2_bridge.precious": "Materia Preziosa",
-    "item.rep_ae2_bridge.quantum": "Materia Quantica"
+    "item.rep_ae2_bridge.quantum": "Materia Quantica",
+    "item.rep_ae2_bridge.repae2bridge": "Ponte RepAE2"
 }

@@ -152,6 +152,8 @@
     "custommachinery.gui.creation.components.item.title": "Componente di item",
     "custommachinery.gui.creation.components.maxInput": "Ingressi massimi",
     "custommachinery.gui.creation.components.maxOutput": "Massimo output",
+    "custommachinery.gui.creation.components.minInput": "Ingresso minimo",
+    "custommachinery.gui.creation.components.minOutput": "Minimo output",
     "custommachinery.gui.creation.components.mode": "Modalità",
     "custommachinery.gui.creation.components.redstone.comparatorInputId": "ID del comparatore",
     "custommachinery.gui.creation.components.redstone.comparatorInputType": "Tipo di comparatore",
