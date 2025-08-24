@@ -1,0 +1,16 @@
+{
+    "name": "Recipe Changes",
+    "icon": "minecraft:book_and_quill",
+    "category": "patchouli:skyblock",
+    "sortnum": "5",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Various recipe have been added and\/or changed to make skyblock mode."
+        },
+        {
+            "type": "text",
+            "text": "A list of added recipes;$(li)Dirt Blocks$(li)Clay (Pulverizer)$(li)Lava Bucket (Furnace)$(li)Clay Lava Bucket (Furnace)$(li)Finders$(li)Mushrooms$(li)String"
+        }
+    ]
+}

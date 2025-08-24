@@ -1,0 +1,17 @@
+{
+    "name": "Hamster",
+    "category": "patchouli:pets",
+    "icon": "hamsters:hamster",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Doni possibili:$()$(br)Gnometto piccolo$(br)$(l)Oggetto per addomesticare:$()$(br)Semi$()$(br2)$(l)Note$()$(br)Può essere trovato nei prati. Non piacciono di essere raccolti e questo resetta la loro affezione."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "hamsters:hamster",
+            "scale": 0.7,
+            "text": "I hamster possono esplodere quando vengono alimentati"
+        }
+    ]
+}

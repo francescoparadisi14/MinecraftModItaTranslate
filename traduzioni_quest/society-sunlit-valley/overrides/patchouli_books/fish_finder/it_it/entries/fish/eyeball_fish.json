@@ -1,0 +1,19 @@
+{
+    "name": "Occhio di pesce",
+    "category": "patchouli:fish",
+    "icon": "netherdepthsupgrade:eyeball_fish",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Denaro: 408$(li)Dimensione: Inferno$(li)Bioma: Foresta di Crisantemo"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "netherdepthsupgrade:eyeball_fish",
+            "scale": 0.5,
+            "offset": -0.3,
+            "rotate": true,
+            "text": "Riferimento a Terraria?"
+        }
+    ]
+}

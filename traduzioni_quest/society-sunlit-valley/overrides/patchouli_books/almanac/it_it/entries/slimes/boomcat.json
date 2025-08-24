@@ -1,0 +1,18 @@
+{
+    "name": "Boomcat",
+    "category": "patchouli:slimes",
+    "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:boomcat\"}}",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Localizzazioni:$()$(li)Bioma: Caverne degli Squeletti (Caverna degli Squeletti)$(li)Fusione del Cuore$(li)Punti di scavo: Ghiaccio, Blocco di Neve$(li)Uccisione dei Creepers (20% di probabilità)$(br2)$(l)Rischii:$()$(br)Causa esplosioni quando è affamato e non rompe blocchi."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Boomcat Slime",
+            "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:boomcat\"}",
+            "scale": 0.9,
+            "text": "Entità: Splendido Slime di Boomcat"
+        }
+    ]
+}

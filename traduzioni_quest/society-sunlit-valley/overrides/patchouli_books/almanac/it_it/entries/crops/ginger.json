@@ -1,0 +1,31 @@
+{
+    "name": "Ginger ❆",
+    "category": "patchouli:crops",
+    "icon": "snowyspirit:ginger",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Denaro: 24$(li)❆ Stagione invernale$(li)Prezzo seme: Denaro 4$(li)Rendimento: 1$(li)Tempo di crescita: 7 giorni"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Ginger Crop",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ],
+                "mapping": {
+                    "0": "snowyspirit:ginger[age=7]",
+                    "F": "minecraft:farmland[moisture=7]"
+                }
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

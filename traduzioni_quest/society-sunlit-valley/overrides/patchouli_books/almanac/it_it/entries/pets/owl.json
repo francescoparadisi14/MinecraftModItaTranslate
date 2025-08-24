@@ -1,0 +1,17 @@
+{
+    "name": "Owl",
+    "category": "patchouli:pets",
+    "icon": "tanukidecor:owl_clock",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Doni possibili:$()$(br)Orologio di Civetta$(br)$(l)Articolo da addomesticare:$()$(br)Carne Putrida$(br2)$(l)Note$()$(br)Può essere trovato nei boschi."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "wildernature:owl",
+            "scale": 0.7,
+            "text": "Conserva questo lontano dagli animali più piccoli..."
+        }
+    ]
+}

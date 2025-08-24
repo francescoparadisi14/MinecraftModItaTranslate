@@ -1,0 +1,18 @@
+{
+    "name": "Brown Trout",
+    "category": "patchouli:fish",
+    "icon": "aquaculture:brown_trout",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Stats$()$(li):coin: 40$(li)§0🍂 §4Autumn§0 §0❆ §bWinter§0$(li)Water: River$(li)Weather: Any$(li)Time: Day"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "aquaculture:brown_trout",
+            "scale": 0.8,
+            "rotate": true,
+            "text": "As long as ropes unravel Brown Trout will travel."
+        }
+    ]
+}

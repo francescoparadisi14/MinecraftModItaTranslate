@@ -1,0 +1,12 @@
+{
+    "name": "Hexlands",
+    "icon": "minecraft:stone_bricks",
+    "category": "patchouli:world_types",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "text",
+            "text": "I biomi generano in esagoni invece che con la generazione normale di Minecraft, ha un'atmosfera completamente diversa quando si gioca. $(br2)Non sono stati aggiunti nuovi ricettari."
+        }
+    ]
+}

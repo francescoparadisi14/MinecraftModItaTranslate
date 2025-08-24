@@ -1,0 +1,91 @@
+{
+    "name": "Albero di sangue shroom",
+    "icon": "tconstruct:blood_slime_sapling",
+    "category": "patchouli:tree_absorber",
+    "sortnum": "1",
+    "pages": [
+        {
+            "type": "multiblock",
+            "name": "Piante di fungo sanguigno",
+            "enable_visualize": true,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "       ",
+                        "       ",
+                        "   l   ",
+                        "  lll  ",
+                        "   l   ",
+                        "       ",
+                        "       "
+                    ],
+                    [
+                        "       ",
+                        "   l   ",
+                        "  lll  ",
+                        " lloll ",
+                        "  lll  ",
+                        "   l   ",
+                        "       "
+                    ],
+                    [
+                        "   l   ",
+                        "  lll  ",
+                        " lllll ",
+                        "lllolll",
+                        " lllll ",
+                        "  lll  ",
+                        "   l   "
+                    ],
+                    [
+                        "  lll  ",
+                        " lllll ",
+                        "lllllll",
+                        "lllolll",
+                        "lllllll",
+                        " lllll ",
+                        "  lll  "
+                    ],
+                    [
+                        "   l   ",
+                        "       ",
+                        "       ",
+                        "l  o  l",
+                        "       ",
+                        "       ",
+                        "   l   "
+                    ],
+                    [
+                        "       ",
+                        "       ",
+                        "       ",
+                        "   o   ",
+                        "       ",
+                        "       ",
+                        "       "
+                    ],
+                    [
+                        "       ",
+                        "       ",
+                        "       ",
+                        "   m0  ",
+                        "       ",
+                        "       ",
+                        "       "
+                    ]
+                ],
+                "mapping": {
+                    "l": "tconstruct:blood_slime_leaves",
+                    "o": "tconstruct:bloodshroom_log",
+                    "m": "#kubejs:tree_absorber_side"
+                }
+            },
+            "text": ""
+        },
+        {
+            "type": "text",
+            "title": "Bloodshroom Tree",
+            "text": "Questa struttura richiede; $(li)Tronchi di Funghi Sanguinario$(li)Verme di Mucillagine$(li)Assorbitore d'Albero$(br2)Una volta completata, l'assorbitore d'albero inizierà a creare bottini del tipo di albero specifico. Richiede energia"
+        }
+    ]
+}

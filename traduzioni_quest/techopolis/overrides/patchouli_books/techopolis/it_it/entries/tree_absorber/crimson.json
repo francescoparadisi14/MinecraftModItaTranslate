@@ -1,0 +1,84 @@
+{
+    "name": "Albero di crimosso",
+    "icon": "minecraft:crimson_fungus",
+    "category": "patchouli:tree_absorber",
+    "sortnum": "1",
+    "pages": [
+        {
+            "type": "multiblock",
+            "name": "Struttura Multiblocco: Albero di Sanguigno",
+            "enable_visualize": true,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "     ",
+                        "  l  ",
+                        " lll ",
+                        "  l  ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "  l  ",
+                        " lll ",
+                        "  l  ",
+                        "     "
+                    ],
+                    [
+                        " lll ",
+                        "lllll",
+                        "lloll",
+                        "lllll",
+                        " lll "
+                    ],
+                    [
+                        " lll ",
+                        "lllll",
+                        "lloll",
+                        "lllll",
+                        " lll "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  o  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  o  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  o  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  m0 ",
+                        "     ",
+                        "     "
+                    ]
+                ],
+                "mapping": {
+                    "l": "minecraft:nether_wart_block",
+                    "o": "minecraft:crimson_stem",
+                    "m": "#kubejs:tree_absorber_side"
+                }
+            },
+            "text": ""
+        },
+        {
+            "type": "text",
+            "title": "Crimson Tree",
+            "text": "Questa struttura richiede; $(li)Stelo di Sangue$(li)Blocco di Funghi dell'Inferno$(li)Assorbente d'Albero$(br2)Una volta completata, l'assorbente d'albero inizierà a creare bottini del tipo di albero specifico. Richiede potenza"
+        }
+    ]
+}

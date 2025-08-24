@@ -1,0 +1,12 @@
+{
+    "name": "Grout",
+    "icon": "tconstruct:grout",
+    "category": "patchouli:skyblock",
+    "sortnum": "4",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Sabbia, ghiaia e argilla possono essere create entro il pulverizzatore o lo schiacciatore che ricevi al momento del lancio."
+        }
+    ]
+}

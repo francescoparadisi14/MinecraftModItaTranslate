@@ -1,0 +1,17 @@
+{
+    "name": "Capra",
+    "category": "patchouli:animals",
+    "icon": "society:large_goat_milk",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Prezzo: :coin: 16.384$(li)Latte: Latte di capra$(li)Ricarica del latte: 2 giorni$(li)Bottino: Corno di capra$(br2)$(l)Note$()$(br)I corni di capra sono un prodotto dell'avventuriero, che può essere sfruttato"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:goat",
+            "scale": 0.8,
+            "text": "Difficile da allevare, ma il valore delle loro corna e del formaggio rende lo sforzo degno di essere fatto."
+        }
+    ]
+}

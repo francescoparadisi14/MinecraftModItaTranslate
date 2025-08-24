@@ -1,0 +1,17 @@
+{
+    "name": "Lupo rosso",
+    "category": "patchouli:pets",
+    "icon": "species:wicked_treat",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Doni possibili:$()$(br)Vestito del cacciatore di lupi, Fossile di lupo$(br)$(l)Oggetto per addomesticare:$()$(br)Osso$(br2)$(l)Note$()$(br)Può essere trovato in taighe di pino vecchio crescita."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "wildernature:red_wolf",
+            "scale": 0.7,
+            "text": "Un lupo rosso! Che altro potresti chiedere?"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Amber Goby",
+    "category": "patchouli:fish",
+    "icon": "unusualfishmod:raw_amber_goby",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Stats$()$(li):coin: 288$(li)§0🍂 §4Autumn§0$(li)Water: Fresh$(li)Weather: Clear$(li)Time: Night"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "unusualfishmod:amber_goby",
+            "scale": 0.8,
+            "rotate": true,
+            "offset": -0.3,
+            "text": "Amber like darlings hair."
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "sortnum": -1,
+    "name": "Iconogaphy",
+    "category": "patchouli:crops",
+    "icon": "minecraft:written_book",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "To make it easier to see what crops have what seasons in this chapter, the following icons are used:$(li)🌼 §2Spring$(li)🔥 §6Summer$(li)🍂 §4Autumn$(li)❆ §bWinter$(li)🌐 §5Year-round"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Growth Duration",
+            "text": "$(li)Grow Time: Crop grows at 6:00 AM.$(li)Grow Stages: Crop randomly grows."
+        }
+    ]
+}

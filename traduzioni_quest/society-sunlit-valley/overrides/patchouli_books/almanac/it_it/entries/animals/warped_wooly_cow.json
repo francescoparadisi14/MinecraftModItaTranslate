@@ -1,0 +1,18 @@
+{
+    "name": "Vasca di lana warpata",
+    "category": "patchouli:animals",
+    "icon": "society:large_warped_milk",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Latte: Latte distorto$(li)Ritardo del latte: 2 giorni$(li)Bottino di taglio: Lana distorta$(li)Bottino: Lana distorta, Carne cruda, Pelle$(br2)$(l)Note$()$(br)Essi si generano casualmente nei boschi distorti"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Vitella lanuta distorta",
+            "entity": "meadow:wooly_cow{Variant:2}",
+            "scale": 0.8,
+            "text": "Il latte di questa vacca viene utilizzato per produrre un formaggio pregiato e costoso."
+        }
+    ]
+}

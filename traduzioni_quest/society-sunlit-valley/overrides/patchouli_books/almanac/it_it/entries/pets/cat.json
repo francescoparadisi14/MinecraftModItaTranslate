@@ -1,0 +1,17 @@
+{
+    "name": "Gatto",
+    "category": "patchouli:pets",
+    "icon": "minecraft:cod",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Doni Possibili:$()$(br)Cappello di Orecchie di Neko, Fossile di Ocelot$(br2)$(l)Domestico$()$(br)Pesci`"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:cat",
+            "scale": 0.7,
+            "text": "Nome il tuo gatto arancione Coquito e quello grigio Basil"
+        }
+    ]
+}

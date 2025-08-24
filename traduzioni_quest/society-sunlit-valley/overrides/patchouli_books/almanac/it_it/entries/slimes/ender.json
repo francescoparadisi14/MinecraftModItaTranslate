@@ -1,0 +1,18 @@
+{
+    "name": "Ender",
+    "category": "patchouli:slimes",
+    "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:ender\"}}",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Localizzazioni:$()$(li)Struttura: Generatori di Slime di Umbra Barrens (Caverne del Cranio)$(br2)$(l)Pericoli:$()$(br)Teletrasporterà gli entità verso sé stesso e teletrasporterà sé stesso verso fonti di cibo."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Ender Slime",
+            "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:ender\"}",
+            "scale": 0.9,
+            "text": "Entità: Splendido Slime di fine (Ender)"
+        }
+    ]
+}

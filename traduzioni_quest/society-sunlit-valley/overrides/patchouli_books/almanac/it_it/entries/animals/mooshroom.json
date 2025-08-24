@@ -1,0 +1,17 @@
+{
+    "name": "Moochroom",
+    "category": "patchouli:animals",
+    "icon": "minecraft:red_mushroom",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Latte: Latte$(li)Ricarica latte: 1 giorno$(li)Cerca: Funghi (20% di probabilità), sedie funghi (2% di probabilità)$(li)Bottino: Bottino: Carne cruda, Pelle$(br2)$(l)Note$()$(br)La ricerca dei funghi richiede 4+ cuori d'affetto. Le sedie funghi richiedono 8+."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:mooshroom",
+            "scale": 0.8,
+            "text": "Una bellezza rara che produce funghi."
+        }
+    ]
+}

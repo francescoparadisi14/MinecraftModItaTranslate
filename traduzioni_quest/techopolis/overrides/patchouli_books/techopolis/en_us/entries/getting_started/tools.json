@@ -1,0 +1,16 @@
+{
+    "name": "Tools",
+    "icon": "minecraft:wooden_pickaxe",
+    "category": "patchouli:getting_started",
+    "sortnum": "1",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Vanilla tools have been disabled, use tinkers construct to make tools."
+        },
+        {
+            "type": "text",
+            "text": "A tinkers kama can be used as a hoe and used to collect leaves."
+        }
+    ]
+}

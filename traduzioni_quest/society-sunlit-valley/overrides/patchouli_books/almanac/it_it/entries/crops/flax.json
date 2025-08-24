@@ -1,0 +1,35 @@
+{
+    "name": "Flax 🌼",
+    "category": "patchouli:crops",
+    "icon": "supplementaries:flax",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Denaro: 68$(li)🌼 Primavera $(li)Prezzo seme: Denaro 8$(li)Rendimento: 1$(li)Tempo di crescita: 7 giorni"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Flax Crop",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "1"
+                    ],
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ],
+                "mapping": {
+                    "1": "supplementaries:flax[age=7,half=upper]",
+                    "0": "supplementaries:flax[age=7,half=lower]",
+                    "F": "minecraft:farmland[moisture=7]"
+                }
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

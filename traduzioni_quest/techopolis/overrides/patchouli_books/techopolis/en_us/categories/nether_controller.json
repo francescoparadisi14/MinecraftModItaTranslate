@@ -1,0 +1,6 @@
+{
+    "name": "Nether Controller",
+    "description": "Some machines require a structure around them to work.",
+    "icon": "kubejs:nether_controller_side",
+    "sortnum": "3"
+}

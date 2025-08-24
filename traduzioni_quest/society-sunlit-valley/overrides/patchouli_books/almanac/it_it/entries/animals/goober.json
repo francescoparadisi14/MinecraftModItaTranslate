@@ -1,0 +1,17 @@
+{
+    "name": "Goober",
+    "category": "patchouli:animals",
+    "icon": "species:petrified_egg",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Uovo: Uovo petrificato (25% di probabilità)$(br2)$(l)Note$()$(br)Gli uova richiedono 5+ cuori."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "species:goober",
+            "scale": 0.8,
+            "text": "Gli uova dei Goober necessitano del calore di Magma per essere fecondate."
+        }
+    ]
+}

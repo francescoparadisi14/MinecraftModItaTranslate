@@ -1,0 +1,19 @@
+{
+    "name": "Blazefish",
+    "category": "patchouli:fish",
+    "icon": "netherdepthsupgrade:blazefish",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Denaro: 408$(li)Dimensione: Inferno$(li)Bioma: Qualsiasi"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "netherdepthsupgrade:blazefish",
+            "scale": 0.5,
+            "offset": -0.3,
+            "rotate": true,
+            "text": "È un po' come se l'Uranio, ma se fosse fuoco."
+        }
+    ]
+}

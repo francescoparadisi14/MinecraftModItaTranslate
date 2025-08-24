@@ -1,0 +1,91 @@
+{
+    "name": "Albero dell'Inferno",
+    "icon": "tconstruct:ender_slime_sapling",
+    "category": "patchouli:tree_absorber",
+    "sortnum": "1",
+    "pages": [
+        {
+            "type": "multiblock",
+            "name": "Struttura Multiblocco: Albero di Cuore Verde",
+            "enable_visualize": true,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "       ",
+                        "       ",
+                        "   l   ",
+                        "  lll  ",
+                        "   l   ",
+                        "       ",
+                        "       "
+                    ],
+                    [
+                        "       ",
+                        "   l   ",
+                        "  lll  ",
+                        " lloll ",
+                        "  lll  ",
+                        "   l   ",
+                        "       "
+                    ],
+                    [
+                        "   l   ",
+                        "  lll  ",
+                        " lllll ",
+                        "lllolll",
+                        " lllll ",
+                        "  lll  ",
+                        "   l   "
+                    ],
+                    [
+                        "  lll  ",
+                        " lllll ",
+                        "lllllll",
+                        "lllolll",
+                        "lllllll",
+                        " lllll ",
+                        "  lll  "
+                    ],
+                    [
+                        "   l   ",
+                        "       ",
+                        "       ",
+                        "l  o  l",
+                        "       ",
+                        "       ",
+                        "   l   "
+                    ],
+                    [
+                        "       ",
+                        "       ",
+                        "       ",
+                        "   o   ",
+                        "       ",
+                        "       ",
+                        "       "
+                    ],
+                    [
+                        "       ",
+                        "       ",
+                        "       ",
+                        "   m0  ",
+                        "       ",
+                        "       ",
+                        "       "
+                    ]
+                ],
+                "mapping": {
+                    "l": "tconstruct:ender_slime_leaves",
+                    "o": "tconstruct:greenheart_log",
+                    "m": "#kubejs:tree_absorber_side"
+                }
+            },
+            "text": ""
+        },
+        {
+            "type": "text",
+            "title": "Ender Tree",
+            "text": "Questa struttura richiede; $(li)Tronchi di Greenheart$(li)Foglie purpuree viscide$(li)Assorbente d'albero$(br2)Una volta completata, l'assorbente d'albero inizierà a creare bottini dal tipo di albero corrispondente. Richiede potenza"
+        }
+    ]
+}

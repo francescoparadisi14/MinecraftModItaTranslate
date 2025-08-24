@@ -1,0 +1,18 @@
+{
+    "name": "Bitwise",
+    "category": "patchouli:slimes",
+    "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:bitwise\"}}",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Localizzazioni:$()$(li)Bioma: Maelstrom Congelato (Caverna del Cranio)$(br2)$(l)Pericoli:$()$(br)Procura l'effetto di Confusione quando è disturbata."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Bitwise Slime",
+            "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:bitwise\"}",
+            "scale": 0.9,
+            "text": "Entità: Splendido Slime Bitwise"
+        }
+    ]
+}

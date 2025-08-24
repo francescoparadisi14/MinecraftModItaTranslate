@@ -1,0 +1,18 @@
+{
+    "name": "Gar",
+    "category": "patchouli:fish",
+    "icon": "aquaculture:gar",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Moneta: 88$(li)Simbolo di stagione: 🍂 $(li)Stagione: Autunno$(li)Acqua: Fresca$(li)Clima: Pioggia Neve$(li)Ora: Giorno"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "aquaculture:gar",
+            "scale": 0.8,
+            "rotate": true,
+            "text": "Qualcuno prendi le tue chiavi di Gar."
+        }
+    ]
+}

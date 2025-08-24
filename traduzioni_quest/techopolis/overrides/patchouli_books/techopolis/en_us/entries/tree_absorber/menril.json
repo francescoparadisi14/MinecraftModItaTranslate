@@ -1,0 +1,105 @@
+{
+    "name": "Menril Tree",
+    "icon": "integrateddynamics:menril_sapling",
+    "category": "patchouli:tree_absorber",
+    "sortnum": "1",
+    "pages": [
+        {
+            "type": "multiblock",
+            "name": "Menril Tree",
+            "enable_visualize": true,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "     ",
+                        "  l  ",
+                        " lll ",
+                        "  l  ",
+                        "     "
+                    ],
+                    [
+                        " lll ",
+                        "lllll",
+                        "lloll",
+                        "lllll",
+                        " lll "
+                    ],
+                    [
+                        " lll ",
+                        "lloll",
+                        "loool",
+                        "lloll",
+                        " lll "
+                    ],
+                    [
+                        " lll ",
+                        "lloll",
+                        "loool",
+                        "lloll",
+                        " lll "
+                    ],
+                    [
+                        " lll ",
+                        "lloll",
+                        "loool",
+                        "lloll",
+                        " lll "
+                    ],
+                    [
+                        "     ",
+                        "  l  ",
+                        " lol ",
+                        "  l  ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  o  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  o  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  o  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  m  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  0  ",
+                        "     ",
+                        "     "
+                    ]
+                ],
+                "mapping": {
+                    "l": "integrateddynamics:menril_leaves",
+                    "o": "integrateddynamics:menril_log",
+                    "m": "#kubejs:tree_absorber_side"
+                }
+            },
+            "text": ""
+        },
+        {
+            "type": "text",
+            "title": "Menril Tree",
+            "text": "This structure requires;$(li)Menril log$(li)Menril Leaves$(li)Tree Absorber$(br2)Once fully built the tree absorber will start create drops from that type of tree. Requires power"
+        }
+    ]
+}

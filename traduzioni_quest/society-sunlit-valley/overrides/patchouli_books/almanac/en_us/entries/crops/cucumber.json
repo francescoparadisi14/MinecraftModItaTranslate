@@ -1,0 +1,30 @@
+{
+    "name": "Cucumber 🌼",
+    "category": "patchouli:crops",
+    "icon": "vintagedelight:cucumber",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Stats$()$(li):coin: 72$(li)🌼 §2Spring§r$(li)Seed Price: :coin: 64$(li)Yield: 1$(li)Grow time: 7 days$(br2)$(l)Notes$()$(br)Seeds bought from Master Cultivator only"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Cucumber Crop",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ],
+                "mapping": {
+                    "0": "vintagedelight:cucumber_crop[age=7]",
+                    "F": "minecraft:farmland[moisture=7]"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "name": "Banana Tree 🔥",
+    "category": "patchouli:trees",
+    "icon": "pamhc2trees:banana_sapling",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)🔥 Estate $(li)Prezzo: 512 monete $(li)Dimensioni: 1x1 $(li)Cresce in:`$(l:tree_crops\/banana)8 banane $(\/l)$(br2)$(l)Note$()$(li)Venduti come semi nel Mercato.`"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Banana Tree",
+            "enable_visualize": false,
+            "multiblock": {
+                "mapping": {
+                    "0": "minecraft:jungle_leaves",
+                    "L": "minecraft:jungle_leaves",
+                    "W": "minecraft:jungle_log[axis=y]",
+                    "F": "pamhc2trees:pambanana[age=7]"
+                },
+                "pattern": [
+                    [
+                        "     ",
+                        "     ",
+                        "  0  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  L  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        " LLL ",
+                        " LWL ",
+                        " LLL ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        " LLL ",
+                        " LWL ",
+                        " LLL ",
+                        "     "
+                    ],
+                    [
+                        "LLLLL",
+                        "LLLLL",
+                        "LLWLL",
+                        "LLLLL",
+                        "LLLLL"
+                    ],
+                    [
+                        "     ",
+                        " FFF ",
+                        " FWF ",
+                        " FFF ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  W  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  W  ",
+                        "     ",
+                        "     "
+                    ]
+                ]
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

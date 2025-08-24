@@ -1,0 +1,31 @@
+{
+    "name": "oat 🔥",
+    "category": "patchouli:crops",
+    "icon": "farm_and_charm:oat",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Denaro: 36$(li)🔥 Estate $(li)Prezzo seme: Denaro 4$(li)Rendimento: 1$(li)Tempo di crescita: 5 giorni"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Oat Crop",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ],
+                "mapping": {
+                    "0": "farm_and_charm:oat_crop[age=5]",
+                    "F": "minecraft:farmland[moisture=7]"
+                }
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

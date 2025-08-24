@@ -1,0 +1,12 @@
+{
+    "name": "Duplicatore di cadute mob",
+    "icon": "minecraft:ender_pearl",
+    "category": "patchouli:mob_drop_duplicator",
+    "sortnum": "1",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Il duplicatore di bottino di mostro duplicherà un bottino di mostro selezionato quando fornito di potenza e essenza di mostro liquida. L'importo di potenza e essenza di mostro utilizzato dipende dall'oggetto che si sta cercando di duplicare."
+        }
+    ]
+}

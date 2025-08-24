@@ -1,0 +1,17 @@
+{
+    "name": "Chapple",
+    "category": "patchouli:animals",
+    "icon": "minecraft:apple",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Uovo: Mela$(li)Bottino: Pollo crudo, Piuma$(br2)$(l)Note$()$(br)Le Chapples affamate o infelici (meno di 2 cuori d'affetto) non depongono Melate"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "etcetera:chapple",
+            "scale": 0.8,
+            "text": "Una strana mutazione nata da un Eggple trovato in una cassa di bottino."
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Cinghiale di neve",
+    "category": "patchouli:animals",
+    "icon": "snowpig:frozen_porkchop",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Raccolta: Tartufo (20% di probabilità)$(li)Bottino: Cotoletto di maiale congelato$(br2)$(l)Note$()$(br)La raccolta richiede 4+ cuori di affetto. Può essere trovato in biomi innebbiati e non è influenzato dal freddo invernale.`"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "snowpig:snow_pig",
+            "scale": 0.7,
+            "text": "Un maiale che sembra essere stato assorbito dal gelo. Forse c'è un modo per aiutare questi..."
+        }
+    ]
+}

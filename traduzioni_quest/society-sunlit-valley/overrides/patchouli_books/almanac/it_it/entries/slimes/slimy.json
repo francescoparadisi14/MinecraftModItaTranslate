@@ -1,0 +1,18 @@
+{
+    "name": "Slimy",
+    "category": "patchouli:slimes",
+    "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:slimy\"}}",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Localizzazioni:$()$(li)Struttura: Spawners di Slime$(li)Punti di scavo: Superficie$(br2)$(l)Rischii:$()$(br)Quando viene trasformato in un Largo, si arrabbierà se non mangia da entrambe le diete (una dopo l'altra)."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Slimy Slime",
+            "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:slimy\"}",
+            "scale": 0.9,
+            "text": "Entità: Splendido Slime (Razza: Slimy)"
+        }
+    ]
+}

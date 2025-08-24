@@ -1,0 +1,17 @@
+{
+    "name": "Turkey",
+    "category": "patchouli:animals",
+    "icon": "autumnity:turkey_egg",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Uovo: Uovo di tacchino$(li)Bottino: Tacchino crudo, Piuma$(br2)$(l)Note$()$(br)I tacchini affamati non depongono uova e quelli infelici ne depongono molto meno. I tacchini depongono le uova più lentamente rispetto ad altri uccelli."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "autumnity:turkey",
+            "scale": 0.8,
+            "text": "Tutti sono sempre grati per il loro delizioso maionese di tacchino"
+        }
+    ]
+}

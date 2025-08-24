@@ -1,0 +1,18 @@
+{
+    "name": "Bluegill",
+    "category": "patchouli:fish",
+    "icon": "aquaculture:bluegill",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Denaro: 16 monete$(li)Periodo di disponibilità: Tutti gli anni$(li)Acqua: Fresca, Fiume$(li)Clima: Qualsiasi$(li)Ora: Notte"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "aquaculture:bluegill",
+            "scale": 0.8,
+            "rotate": true,
+            "text": "Tutti i pesci che catturo sono questi stupidi pesce blu!!!."
+        }
+    ]
+}

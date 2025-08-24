@@ -1,0 +1,6 @@
+{
+    "name": "Slimes",
+    "description": "Fornisce informazioni su dove trovare splendidi lombrichi, nonché i rischi relativi all'allevamento. Alcuni lombrichi possono essere ottenuti solo creando il loro cuore di lombrico in un torchio di pressione di lombrichi. Ciò è noto come \"fusione del cuore\" in questo sezione.",
+    "icon": "splendid_slimes:slime_heart{slime:{id:\"splendid_slimes:slimy\"}}",
+    "category": "patchouli:slimes"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Assorbitore di albero",
+    "description": "Questo macchinario può essere posizionato sotto un albero costruito manualmente per creare legno, foglie e piante di saggina.",
+    "icon": "kubejs:tree_absorber_side",
+    "sortnum": "4"
+}

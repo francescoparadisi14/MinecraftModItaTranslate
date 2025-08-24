@@ -1,0 +1,17 @@
+{
+    "name": "Golden Chapple",
+    "category": "patchouli:animals",
+    "icon": "minecraft:golden_apple",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Uovo: Mela d'oro$(li)Bottino: Pollo crudo, Piuma$(br2)$(l)Note$()$(br)Le Chapples affamate o infelici (meno di 2 cuori di affetto) non depongono Meli"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "etcetera:chapple{Type:golden}",
+            "scale": 0.8,
+            "text": "Una strana mutazione nata da un Uovo d'Eggple d'oro trovato nei Baluardi."
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "name": "Dark Oak Tree",
+    "icon": "minecraft:dark_oak_sapling",
+    "category": "patchouli:tree_absorber",
+    "sortnum": "1",
+    "pages": [
+        {
+            "type": "multiblock",
+            "name": "Dark Oak Tree",
+            "enable_visualize": true,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "     ",
+                        "  l  ",
+                        " lll ",
+                        "  l  ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "  l  ",
+                        " lll ",
+                        "  l  ",
+                        "     "
+                    ],
+                    [
+                        " lll ",
+                        "lllll",
+                        "lloll",
+                        "lllll",
+                        " lll "
+                    ],
+                    [
+                        " lll ",
+                        "lllll",
+                        "lloll",
+                        "lllll",
+                        " lll "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  o  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  o  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  o  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  m0 ",
+                        "     ",
+                        "     "
+                    ]
+                ],
+                "mapping": {
+                    "l": "minecraft:dark_oak_leaves",
+                    "o": "minecraft:dark_oak_log",
+                    "m": "#kubejs:tree_absorber_side"
+                }
+            },
+            "text": ""
+        },
+        {
+            "type": "text",
+            "title": "Dark Oak Tree",
+            "text": "This structure requires;$(li)Dark Oak Logs$(li)Dark Oak Leaves$(li)Tree Absorber$(br2)Once fully built the tree absorber will start create drops from that type of tree. Requires power"
+        }
+    ]
+}

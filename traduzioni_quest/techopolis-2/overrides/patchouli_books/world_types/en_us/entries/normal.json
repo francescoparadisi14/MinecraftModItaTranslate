@@ -1,0 +1,12 @@
+{
+    "name": "Normal",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:world_types",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Normal world is the normal default way to play Techopolis 2.$(br2)No additional recipes added."
+        }
+    ]
+}

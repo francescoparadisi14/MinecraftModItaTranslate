@@ -1,0 +1,31 @@
+{
+    "name": "Patata dolce 🍂",
+    "category": "patchouli:crops",
+    "icon": "veggiesdelight:sweet_potato",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li):moneta: 20$(li)🍂 §4Autunno$(li)Prezzo seme: :moneta: 64$(li)Rendimento: 1-4$(li)Tempo di crescita: 5 giorni$(br2)$(l)Note$()$(br)I semi acquistati solo dal Cultivatore Maestro.`"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Sweet Potato Crop",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ],
+                "mapping": {
+                    "0": "veggiesdelight:sweet_potato_crop[age=5]",
+                    "F": "minecraft:farmland[moisture=7]"
+                }
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Flat",
+    "icon": "minecraft:oak_log",
+    "category": "patchouli:world_types",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Completly flat world with only dirt and grass.$(br2)In this mode shift right clicking grass blocks with both hands empty will get you stone pebbles.$(br2)Various additional recipes added for common resources such as sand, gravel and clay.$(br2)Saplings can also be converted into other saplings by crafting then in your crafting table."
+        },
+        {
+            "type": "text",
+            "text": "Lava and water ceramic buckets can be crafted using redstone and lapis.$(br2)Seeds can be found in villages"
+        }
+    ]
+}

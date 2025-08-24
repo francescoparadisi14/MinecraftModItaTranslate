@@ -1,0 +1,17 @@
+{
+    "name": "Ferret",
+    "category": "patchouli:pets",
+    "icon": "minecraft:iron_shovel",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Doni possibili:$()$(br)Uovo di ragnatela saltatrice$(br)$(l)Oggetto per addomesticare:$()$(br)Ragno crudo$(br2)$(l)Note$()$(br)Può essere trovato in pianure e foreste."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "crittersandcompanions:ferret",
+            "scale": 0.7,
+            "text": "Possono scavare cose quando ti dai da mangiare Pollo crudo!"
+        }
+    ]
+}

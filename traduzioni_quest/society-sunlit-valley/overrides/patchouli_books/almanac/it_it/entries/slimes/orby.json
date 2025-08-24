@@ -1,0 +1,18 @@
+{
+    "name": "Orby",
+    "category": "patchouli:slimes",
+    "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:orby\"}}",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Localizzazioni:$()$(li)Struttura: Città Antica$(br2)$(l)Rischii:$()$(br)Ha la Forza I e causa l'effetto Oscurità quando è disturbata. Fa diventare positive gli effetti negativi degli altri Schiume. Resterà con un oggetto dato fino a quando non sarà ucciso\/splitto."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Orby Slime",
+            "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:orby\"}",
+            "scale": 0.9,
+            "text": "Un Splendido Slime di razza Orby"
+        }
+    ]
+}

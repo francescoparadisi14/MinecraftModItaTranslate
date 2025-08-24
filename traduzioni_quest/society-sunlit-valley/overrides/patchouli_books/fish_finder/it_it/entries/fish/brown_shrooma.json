@@ -1,0 +1,18 @@
+{
+    "name": "Brown Shrooma",
+    "category": "patchouli:fish",
+    "icon": "aquaculture:brown_shrooma",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Denaro: 264 monete$(li)Simbolo: ❆ $(li)Stagione: Inverno$(li)Acqua: Oceano$(li)Clima: Pioggia, Neve$(li)Ora: Qualsiasi ora"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "aquaculture:brown_shrooma",
+            "scale": 0.8,
+            "rotate": true,
+            "text": "L'ente acquatico Brown Shrooma dice semplicemente \"Non venire a\"."
+        }
+    ]
+}

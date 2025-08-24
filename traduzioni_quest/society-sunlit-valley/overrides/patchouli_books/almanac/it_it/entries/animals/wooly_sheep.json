@@ -1,0 +1,17 @@
+{
+    "name": "Agnello di lana",
+    "category": "patchouli:animals",
+    "icon": "meadow:rocky_wool",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Latte: Latte di pecora$(li)Ritardo del latte: 2 giorni$(li)Bottino della tosa: Lana, Lana fine (50% di probabilità) $(li)Bottino: Carne cruda di agnello, Lana$(br2)$(l)Note$()$(br)La Lana fine si può ottenere solo con 5+ cuori di affetto"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "meadow:wooly_sheep",
+            "scale": 0.8,
+            "text": "Una pecora con 4 varianti che rilasciano lana a disegni."
+        }
+    ]
+}

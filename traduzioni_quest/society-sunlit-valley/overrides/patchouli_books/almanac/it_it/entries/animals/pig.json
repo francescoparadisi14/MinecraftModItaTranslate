@@ -1,0 +1,17 @@
+{
+    "name": "Maiale",
+    "category": "patchouli:animals",
+    "icon": "society:truffle",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Prezzo: :coin: 8,192$(li)Raccolta: Tartufo (20% di probabilità)$(li)Bottino: Cotoletto di maiale crudo$(br2)$(l)Note$()$(br)La raccolta richiede 4+ cuori di affetto."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:pig",
+            "scale": 0.7,
+            "text": "Semplici e umori, richiedono molto attenzione prima di scavare i preziosi Funghi Tartufi."
+        }
+    ]
+}

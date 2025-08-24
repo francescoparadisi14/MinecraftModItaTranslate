@@ -1,0 +1,53 @@
+{
+    "name": "Mammutilazione",
+    "category": "patchouli:animals",
+    "icon": "species:ichor_bottle",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Latte: Otre di Ico$(li)Ricarica latte: 2 giorni$(li)Bottino: Nessuno$(br2)$(l)Note$()$(br)Devono essere ricostruiti come mostrato sulla destra e colpiti da un fulmine. I loro resti possono essere trovati congelati nel ghiaccio sottomarino..."
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Costruisci, poi aspetta il fulmine",
+            "enable_visualize": true,
+            "symmetrical": true,
+            "multiblock": {
+                "pattern": [
+                    [
+                        " BBB ",
+                        "SBBBN",
+                        " BBB ",
+                        "     "
+                    ],
+                    [
+                        " BBB ",
+                        " B0B ",
+                        "TBPBT",
+                        "T   T"
+                    ],
+                    [
+                        " BBB ",
+                        " BBB ",
+                        " BBB ",
+                        "     "
+                    ]
+                ],
+                "mapping": {
+                    "T": "minecraft:bone_block[axis=x]",
+                    "P": "minecraft:carved_pumpkin[facing=east]",
+                    "B": "#species:mammutilation_body_blocks",
+                    "0": "#species:mammutilation_body_blocks",
+                    "S": "minecraft:lightning_rod[facing=north]",
+                    "N": "minecraft:lightning_rod[facing=south]"
+                }
+            }
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "species:mammutilation",
+            "scale": 0.8,
+            "text": "Un'abominazione della natura, perduta nel tempo..."
+        }
+    ]
+}

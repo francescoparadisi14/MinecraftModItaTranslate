@@ -1,0 +1,31 @@
+{
+    "name": "Tomato 🌼🔥🍂",
+    "category": "patchouli:crops",
+    "icon": "farmersdelight:tomato",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li):moneta: 26$(li)🌼 §2Primavera§r 🔥 §6Estate§r 🍂 §4Autunno$(li)Prezzo seme: :moneta: 4$(li)Rendimento: 1$(li)Tempo di crescita: 4 giorni$(li)Tempo di ricrescita: 3 giorni$(br2)$(l)Note$()$(br)Può crescere in corda sopra.$(br)Raremente rilascia Pomodori Putridi."
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Tomato Crop",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ],
+                "mapping": {
+                    "0": "farmersdelight:tomatoes[age=3]",
+                    "F": "minecraft:farmland[moisture=7]"
+                }
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

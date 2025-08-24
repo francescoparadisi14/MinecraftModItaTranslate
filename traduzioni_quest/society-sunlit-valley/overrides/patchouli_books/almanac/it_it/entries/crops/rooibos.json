@@ -1,0 +1,31 @@
+{
+    "name": "Rooibos 🔥",
+    "category": "patchouli:crops",
+    "icon": "herbalbrews:rooibos_leaf",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li):moneta: 8$(li)🔥 §6 Estate$(li)Rendita: 2$(li)Tempo di crescita: 3 giorni$(br2)$(l)Note$()$(br)Si trova in Biomi simili a Savanna."
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Rooibos Crop",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ],
+                "mapping": {
+                    "0": "herbalbrews:rooibos_plant[age=3]",
+                    "F": "minecraft:farmland[moisture=7]"
+                }
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

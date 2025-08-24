@@ -1,0 +1,18 @@
+{
+    "name": "Tuna",
+    "category": "patchouli:fish",
+    "icon": "aquaculture:tuna",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Denaro: 192 monete$(li)§0🔥 §6Estate§0$(li)Acqua: Oceano$(li)Clima: Qualsiasi$(li)Ora: Giorno"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "aquaculture:tuna",
+            "scale": 0.8,
+            "rotate": true,
+            "text": "Questo anche desidera essere un Sneep Snorp per qualche ragione."
+        }
+    ]
+}

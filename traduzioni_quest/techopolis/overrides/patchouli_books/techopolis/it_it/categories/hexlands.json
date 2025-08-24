@@ -1,0 +1,6 @@
+{
+    "name": "Hexlands Mode",
+    "description": "Il tipo di mondo \"Hexlands\" offre un nuovo tipo di mondo composto da esagoni. Utilizzare il tipo di mondo \"Hexlands\" quando si crea un nuovo mondo per avere un'overworld e un inferno pieni di esagoni. Utilizzare il tipo di mondo \"Hexlands (Overworld)\" quando si crea un nuovo mondo per avere solo un'overworld piena di esagoni.",
+    "icon": "minecraft:oak_sapling",
+    "sortnum": "1"
+}

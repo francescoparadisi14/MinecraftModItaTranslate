@@ -1,0 +1,31 @@
+{
+    "name": "Lemon 🌼🔥",
+    "category": "patchouli:tree_crops",
+    "icon": "pamhc2trees:lemonitem",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li):Moneta: 160$(li)🌼 §2Primavera§r 🔥 §6Estate§r$(li)Rendita: 1$(li)Stadi di crescita: 8$(br2)$(l)Note$()$(li)Vedi anche: $(l:trees\/pams\/lemon)Limoncello$(\/l)`"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Lemon Tree",
+            "enable_visualize": false,
+            "multiblock": {
+                "mapping": {
+                    "0": "minecraft:oak_leaves",
+                    "F": "pamhc2trees:pamlemon[age=7]"
+                },
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ]
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

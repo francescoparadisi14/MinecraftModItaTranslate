@@ -1,0 +1,31 @@
+{
+    "name": "Corn 🔥🍂",
+    "category": "patchouli:crops",
+    "icon": "farm_and_charm:corn",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li):moneta: 28$(li)🔥 Estate §6§r 🍂 Autunno $(li)Prezzo seme: :moneta: 4$(li)Rendimento: 1$(li)Tempo di crescita: 4 giorni"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Corn Crop",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ],
+                "mapping": {
+                    "0": "farm_and_charm:corn_crop[age=4]",
+                    "F": "minecraft:farmland[moisture=7]"
+                }
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Peperone di campana 🔥",
+    "category": "patchouli:crops",
+    "icon": "veggiesdelight:bellpepper",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Denaro: 32$(li)§6Summer§r$(li)Prezzo seme: 64 denari$(li)Rendita: 1-3$(li)Tempo di crescita: 7 giorni"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Bell Pepper Crop",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ],
+                "mapping": {
+                    "0": "veggiesdelight:bellpepper_crop[age=7]",
+                    "F": "minecraft:farmland[moisture=7]"
+                }
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

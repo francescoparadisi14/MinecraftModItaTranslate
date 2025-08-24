@@ -1,0 +1,17 @@
+{
+    "name": "Flamingo",
+    "category": "patchouli:animals",
+    "icon": "society:flamingo_egg",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Uovo: Uovo di fenicottero$(li)Bottino: Piuma$(br2)$(l)Note$()$(br)Gli uova richiedono 4+ cuori. Possono essere trovate nei Giardini e non possono essere incrociati."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "wildernature:flamingo",
+            "scale": 0.5,
+            "text": "Mostra il tuo colore naturale, Fiammingo!"
+        }
+    ]
+}

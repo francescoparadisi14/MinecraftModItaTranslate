@@ -1,0 +1,18 @@
+{
+    "name": "Minnow",
+    "category": "patchouli:fish",
+    "icon": "aquaculture:minnow",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Denaro: 16 monete$(li)Stagionalità: Annuale$(li)Acqua: Fiume fresco$(li)Clima: Qualsiasi$(li)Ora: Giorno"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "aquaculture:minnow",
+            "scale": 0.8,
+            "rotate": true,
+            "text": "Un pesce che non vale mai lo sforzo di catturarlo"
+        }
+    ]
+}

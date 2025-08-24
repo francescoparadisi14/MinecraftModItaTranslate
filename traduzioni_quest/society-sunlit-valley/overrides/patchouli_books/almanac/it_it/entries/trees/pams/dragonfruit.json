@@ -1,0 +1,84 @@
+{
+    "name": "Albero di dragon fruit ❆",
+    "category": "patchouli:trees",
+    "icon": "pamhc2trees:dragonfruit_sapling",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)❆ Stagione invernale $(li)Prezzo: :coin: 43.008$(li)Dimensioni: 1x1$(li)Cresce:(l:tree_crops\/dragonfruit)8 Dragonfruit(\/l)$(br2)$(l)Note$()$(li)Vendita di sementili acquistati dal Cultivatore Maestro"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Dragonfruit Tree",
+            "enable_visualize": false,
+            "multiblock": {
+                "mapping": {
+                    "0": "minecraft:jungle_leaves",
+                    "L": "minecraft:jungle_leaves",
+                    "W": "minecraft:jungle_log[axis=y]",
+                    "F": "pamhc2trees:pamdragonfruit[age=7]"
+                },
+                "pattern": [
+                    [
+                        "     ",
+                        "     ",
+                        "  0  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  L  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        " LLL ",
+                        " LWL ",
+                        " LLL ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        " LLL ",
+                        " LWL ",
+                        " LLL ",
+                        "     "
+                    ],
+                    [
+                        "LLLLL",
+                        "LLLLL",
+                        "LLWLL",
+                        "LLLLL",
+                        "LLLLL"
+                    ],
+                    [
+                        "     ",
+                        " FFF ",
+                        " FWF ",
+                        " FFF ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  W  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  W  ",
+                        "     ",
+                        "     "
+                    ]
+                ]
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

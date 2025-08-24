@@ -1,0 +1,17 @@
+{
+    "name": "Sniffer",
+    "category": "patchouli:animals",
+    "icon": "minecraft:sniffer_egg",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Uovo: Uovo di Sniffer$(li)Raccolta: Frammenti d'Artefatto$(br2)$(l)Note$()$(br)La raccolta richiede 5+ cuori."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:sniffer",
+            "scale": 0.8,
+            "text": "Essi amano scavare nel terreno per vecchie cose."
+        }
+    ]
+}

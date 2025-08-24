@@ -1,0 +1,12 @@
+{
+    "name": "Ores",
+    "icon": "minecraft:coal_ore",
+    "category": "patchouli:skyblock",
+    "sortnum": "3",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Ore can be purchased from the market, nether and end ores must still be found in their respective dimensions first. See the miners page in the book for more information. $(l:patchouli:miners)"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "name": "Stone Miners",
+    "icon": "kubejs:miner",
+    "category": "patchouli:miners",
+    "sortnum": "3",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Stone miners are blocks that can be place on top of a 5x5x5 area of some stone blocks to mine it for you.$(br2)Stone miners require a small amount of power to use"
+        },
+        {
+            "type": "multiblock",
+            "name": "Miner",
+            "enable_visualize": true,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "     ",
+                        "     ",
+                        "  m  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "ooooo",
+                        "ooooo",
+                        "ooooo",
+                        "ooooo",
+                        "ooooo"
+                    ],
+                    [
+                        "ooooo",
+                        "ooooo",
+                        "ooooo",
+                        "ooooo",
+                        "ooooo"
+                    ],
+                    [
+                        "ooooo",
+                        "ooooo",
+                        "ooooo",
+                        "ooooo",
+                        "ooooo"
+                    ],
+                    [
+                        "ooooo",
+                        "ooooo",
+                        "ooooo",
+                        "ooooo",
+                        "ooooo"
+                    ],
+                    [
+                        "ooooo",
+                        "ooooo",
+                        "oo0oo",
+                        "ooooo",
+                        "ooooo"
+                    ]
+                ],
+                "mapping": {
+                    "o": "minecraft:stone",
+                    "0": "minecraft:stone",
+                    "m": "#kubejs:miner"
+                }
+            },
+            "text": ""
+        },
+        {
+            "type": "text",
+            "title": "Stone Miner",
+            "text": "A stone miner can mine any thing from the techopolis:stone_miner block tag. Use $stone_miner in JEI to view all blocks"
+        }
+    ]
+}

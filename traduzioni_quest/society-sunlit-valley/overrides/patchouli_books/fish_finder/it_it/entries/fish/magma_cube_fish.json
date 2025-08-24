@@ -1,0 +1,19 @@
+{
+    "name": "Magma Cube Fish",
+    "category": "patchouli:fish",
+    "icon": "netherdepthsupgrade:magmacubefish",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Denaro: 620$(li)Dimensione: Inferno$(li)Bioma: Delti di Basalto"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "netherdepthsupgrade:magmacubefish",
+            "scale": 0.5,
+            "offset": -0.3,
+            "rotate": true,
+            "text": "Un abitante del magma gonfio e tremolante"
+        }
+    ]
+}

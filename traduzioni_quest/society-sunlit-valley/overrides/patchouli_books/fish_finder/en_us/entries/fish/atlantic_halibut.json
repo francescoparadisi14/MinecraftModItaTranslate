@@ -1,0 +1,18 @@
+{
+    "name": "Atlantic Halibut",
+    "category": "patchouli:fish",
+    "icon": "aquaculture:atlantic_halibut",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Stats$()$(li):coin: 232$(li)§0🌼 §2Spring§0$(li)Water: Ocean$(li)Weather: Rain Snow$(li)Time: Day"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "aquaculture:atlantic_halibut",
+            "scale": 0.8,
+            "rotate": true,
+            "text": "Not to be confused with the Herring."
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Orso polare",
+    "category": "patchouli:pets",
+    "icon": "minecraft:snowball",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Regali Possibili:$()$(br)Cappello di Orso Teddy"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:polar_bear",
+            "scale": 0.7,
+            "text": "Sii molto cauto per non farti attaccare"
+        }
+    ]
+}

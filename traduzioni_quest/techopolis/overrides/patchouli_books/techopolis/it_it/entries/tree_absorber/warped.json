@@ -1,0 +1,84 @@
+{
+    "name": "Albero distorto",
+    "icon": "minecraft:warped_fungus",
+    "category": "patchouli:tree_absorber",
+    "sortnum": "1",
+    "pages": [
+        {
+            "type": "multiblock",
+            "name": "Struttura di Multiblocco: Albero Distorto",
+            "enable_visualize": true,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "     ",
+                        "  l  ",
+                        " lll ",
+                        "  l  ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "  l  ",
+                        " lll ",
+                        "  l  ",
+                        "     "
+                    ],
+                    [
+                        " lll ",
+                        "lllll",
+                        "lloll",
+                        "lllll",
+                        " lll "
+                    ],
+                    [
+                        " lll ",
+                        "lllll",
+                        "lloll",
+                        "lllll",
+                        " lll "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  o  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  o  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  o  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  m0 ",
+                        "     ",
+                        "     "
+                    ]
+                ],
+                "mapping": {
+                    "l": "minecraft:warped_wart_block",
+                    "o": "minecraft:warped_stem",
+                    "m": "#kubejs:tree_absorber_side"
+                }
+            },
+            "text": ""
+        },
+        {
+            "type": "text",
+            "title": "Warped Tree",
+            "text": "Questa struttura richiede; $(li)Stelo distorto$(li)Blocco di macchia distorta$(li)Assorbente d'albero$(br2)Una volta completata la struttura, l'assorbente d'albero inizierà a creare bottini del tipo di albero specificato. Richiede energia"
+        }
+    ]
+}

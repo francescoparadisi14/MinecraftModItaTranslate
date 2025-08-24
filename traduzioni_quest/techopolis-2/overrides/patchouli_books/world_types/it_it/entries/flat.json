@@ -1,0 +1,16 @@
+{
+    "name": "Flat",
+    "icon": "minecraft:oak_log",
+    "category": "patchouli:world_types",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Mondo completamente piano con solo terra e erba. $(br2)In questo modo, cliccare destro su blocchi d'erba con entrambe le mani vuote otterrà ciottoli di pietra. $(br2)Vengono aggiunte varie ricette supplementari per risorse comuni come sabbia, ghiaia e argilla. $(br2)I semi possono anche essere convertiti in altri semi mediante la creazione nel tuo tavolo da lavoro."
+        },
+        {
+            "type": "text",
+            "text": "Il materiale ceramico per secchi di lava e acqua può essere creato utilizzando redstone e lapislazzuli. $(br2)I semi possono essere trovati nei villaggi."
+        }
+    ]
+}

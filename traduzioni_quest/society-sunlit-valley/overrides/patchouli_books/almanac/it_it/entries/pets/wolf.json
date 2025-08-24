@@ -1,0 +1,17 @@
+{
+    "name": "Lupo",
+    "category": "patchouli:pets",
+    "icon": "minecraft:bone",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Doni possibili:$()$(br)Cappello di orecchie di volpe lunghe, Fossile di lupo$(br2)$(l)Oggetto per addomesticare:$()$(br)Osso"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:wolf",
+            "scale": 0.7,
+            "text": "Il miglior amico di tutti"
+        }
+    ]
+}

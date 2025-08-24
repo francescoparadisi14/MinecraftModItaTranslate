@@ -1,0 +1,18 @@
+{
+    "name": "Tartaruga marrone",
+    "category": "patchouli:fish",
+    "icon": "aquaculture:brown_trout",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Denaro: 40 monete$(li)Simbolo di stagione: Autunno $(li)Acqua: Fiume$(li)Clima: Qualsiasi$(li)Ora: Giorno"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "aquaculture:brown_trout",
+            "scale": 0.8,
+            "rotate": true,
+            "text": "Finché le corde si sfilano, i Truite marroni viaggeranno."
+        }
+    ]
+}

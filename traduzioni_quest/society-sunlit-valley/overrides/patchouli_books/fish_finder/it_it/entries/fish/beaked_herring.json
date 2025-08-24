@@ -1,0 +1,18 @@
+{
+    "name": "Rinoceronte beccuto",
+    "category": "patchouli:fish",
+    "icon": "unusualfishmod:raw_beaked_herring",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Denaro: 32 monete$(li)Simbolo di stagione: Primavera$(li)Acqua: Fresca$(li)Clima: Qualsiasi$(li)Ora del giorno: Giorno"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "unusualfishmod:beaked_herring",
+            "scale": 0.8,
+            "rotate": true,
+            "text": "Non vedo proprio alcuna becco?"
+        }
+    ]
+}

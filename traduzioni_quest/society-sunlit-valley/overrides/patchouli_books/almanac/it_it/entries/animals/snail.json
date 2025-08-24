@@ -1,0 +1,17 @@
+{
+    "name": "Snail",
+    "category": "patchouli:animals",
+    "icon": "autumnity:snail_shell_piece",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Raccolta: Conchiglia di lumaca$(li)Bottino: Mucillagine di lumaca$(br2)$(l)Note$()$(br)La raccolta richiede 3+ cuori."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "autumnity:snail",
+            "scale": 0.8,
+            "text": "Essi odiano essere accarezzati, ma se ti piacciono abbastanza daranno loro i loro piedi in eccesso... In qualche modo..."
+        }
+    ]
+}

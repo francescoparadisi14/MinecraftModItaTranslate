@@ -1,0 +1,17 @@
+{
+    "name": "Coniglio",
+    "category": "patchouli:animals",
+    "icon": "minecraft:rabbit_foot",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Prezzo: :coin: 4.096$(li)Raccolta: Lana fine (50% di probabilità), Coda di coniglio (16% di probabilità)$(li)Bottino: Oca cruda, Pelle di coniglio$(br2)$(l)Note$()$(br)La raccolta della Lana fine richiede 3+ cuori e la Coda di coniglio richiede 7+."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:rabbit",
+            "scale": 0.8,
+            "text": "Essi odiano essere accarezzati, ma se ti piacciono abbastanza daranno loro i loro piedi in eccesso... In qualche modo..."
+        }
+    ]
+}

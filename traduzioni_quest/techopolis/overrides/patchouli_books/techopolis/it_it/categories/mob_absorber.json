@@ -1,0 +1,6 @@
+{
+    "name": "Assorbitore di mostri",
+    "description": "Certuni mostri possono essere posti sopra l'assorbente per creare oggetti dal mostro stesso! $(br2)Il mostro deve rimanere sulla superficie del blocco, quindi utilizza blocchi per tenerlo in posto! $(br2)Vari mostri pasivi come mucche, polli e pecore sono supportati.",
+    "icon": "kubejs:mob_absorber_side",
+    "sortnum": "1"
+}

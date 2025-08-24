@@ -1,0 +1,84 @@
+{
+    "name": "Albero di mango 🔥",
+    "category": "patchouli:trees",
+    "icon": "pamhc2trees:mango_sapling",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)🔥 Estate $(li)Prezzo: 16.384 :coin$(li)Dimensioni: 1x1$(li)Cresce in:` $(l:tree_crops\/mango)8 Mango $(\/l)$(br2)$(l)Note$()$(li)Venduti come semi dal Cultivatore Maestro.`"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Mango Tree",
+            "enable_visualize": false,
+            "multiblock": {
+                "mapping": {
+                    "0": "minecraft:jungle_leaves",
+                    "L": "minecraft:jungle_leaves",
+                    "W": "minecraft:jungle_log[axis=y]",
+                    "F": "pamhc2trees:pammango[age=7]"
+                },
+                "pattern": [
+                    [
+                        "     ",
+                        "     ",
+                        "  0  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  L  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        " LLL ",
+                        " LWL ",
+                        " LLL ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        " LLL ",
+                        " LWL ",
+                        " LLL ",
+                        "     "
+                    ],
+                    [
+                        "LLLLL",
+                        "LLLLL",
+                        "LLWLL",
+                        "LLLLL",
+                        "LLLLL"
+                    ],
+                    [
+                        "     ",
+                        " FFF ",
+                        " FWF ",
+                        " FFF ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  W  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  W  ",
+                        "     ",
+                        "     "
+                    ]
+                ]
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

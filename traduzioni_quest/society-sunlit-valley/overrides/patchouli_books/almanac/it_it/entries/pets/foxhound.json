@@ -1,0 +1,17 @@
+{
+    "name": "Foxhound",
+    "category": "patchouli:pets",
+    "icon": "minecraft:coal",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Doni Possibili:$()$(br)Cappello di Fuochi d'Artificio$(br2)$(l)Domesticazione$()$(br)Hai l'effetto di Resistenza al Fuoco e alimentali con carbone."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "quark:foxhound",
+            "scale": 0.7,
+            "text": "Questi amici infuocati accelerano i forni su cui si sedono."
+        }
+    ]
+}

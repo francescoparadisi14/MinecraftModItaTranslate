@@ -1,0 +1,18 @@
+{
+    "name": "Salmon rosa",
+    "category": "patchouli:fish",
+    "icon": "aquaculture:pink_salmon",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li):moneta: 64$(li)§0🌼 §2Primavera§0 §0❆ §bInverno§0$(li)Acqua: Fiume$(li)Clima: Qualsiasi$(li)Ora: Primavera (notte), Inverno (giorno)`"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "aquaculture:pink_salmon",
+            "scale": 0.8,
+            "rotate": true,
+            "text": "Simbolo del Pink Salmon Club."
+        }
+    ]
+}

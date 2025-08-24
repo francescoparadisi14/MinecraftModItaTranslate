@@ -1,0 +1,17 @@
+{
+    "name": "Minisheep",
+    "category": "patchouli:animals",
+    "icon": "society:fine_wool",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Prezzo: :coin: 1.024$(li)Latte: Latte di pecora$(li)Ritardo del latte: 2 giorni$(li)Bottino della tosa: Lana, Lana fine $(li)Bottino: Carne cruda di agnello, Lana$(br2)$(l)Note$()$(br)La Lana fine si può ottenere solo con 6+ cuori di affetto"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "wildernature:minisheep",
+            "scale": 0.8,
+            "text": "I più soffici dei soffici! I migliori dei migliori lanuti!"
+        }
+    ]
+}

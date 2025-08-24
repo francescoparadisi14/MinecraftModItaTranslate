@@ -1,0 +1,283 @@
+{
+    "name": "Faster Miners",
+    "icon": "kubejs:miner",
+    "category": "patchouli:miners",
+    "sortnum": "2",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Technium ingots can be used to speed up your miners.$(br2)Higher miner tiers are not faster only allow the collection of higher tier ores.$(br2)The following structures increase mining speed and amount of ore produced from one cycle of the miner"
+        },
+        {
+            "type": "multiblock",
+            "name": "Basic Miner",
+            "enable_visualize": true,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "   ",
+                        " m ",
+                        "   "
+                    ],
+                    [
+                        "ooo",
+                        "ooo",
+                        "ooo"
+                    ],
+                    [
+                        "ooo",
+                        "ooo",
+                        "ooo"
+                    ],
+                    [
+                        "ooo",
+                        "o0o",
+                        "ooo"
+                    ]
+                ],
+                "mapping": {
+                    "o": "#forge:ores",
+                    "0": "#forge:ores",
+                    "m": "#kubejs:miner"
+                }
+            },
+            "text": "200 Ticks, 1 Ore Roll"
+        },
+        {
+            "type": "multiblock",
+            "name": "Advanced Miner",
+            "enable_visualize": true,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "   ",
+                        " m ",
+                        "   "
+                    ],
+                    [
+                        "obo",
+                        "bob",
+                        "obo"
+                    ],
+                    [
+                        "ooo",
+                        "ooo",
+                        "ooo"
+                    ],
+                    [
+                        "ooo",
+                        "ooo",
+                        "ooo"
+                    ],
+                    [
+                        "ooo",
+                        "o0o",
+                        "ooo"
+                    ]
+                ],
+                "mapping": {
+                    "o": "#forge:ores",
+                    "b": "mekanism:block_bronze",
+                    "0": "#forge:ores",
+                    "m": "#kubejs:miner"
+                }
+            },
+            "text": "Requires Bronze Blocks.$(br)175 Ticks, 2 Ore Rolls, 5RF per tick"
+        },
+        {
+            "type": "multiblock",
+            "name": "Elite Miner",
+            "enable_visualize": true,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "     ",
+                        "     ",
+                        "  m  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        " bob ",
+                        " ooo ",
+                        " bob ",
+                        "     "
+                    ],
+                    [
+                        "  b  ",
+                        " ooo ",
+                        "booob",
+                        " ooo ",
+                        "  b  "
+                    ],
+                    [
+                        "  o  ",
+                        " ooo ",
+                        "ooooo",
+                        " ooo ",
+                        "  o  "
+                    ],
+                    [
+                        "  o  ",
+                        " ooo ",
+                        "ooooo",
+                        " ooo ",
+                        "  o  "
+                    ],
+                    [
+                        " ooo ",
+                        "ooooo",
+                        "oo0oo",
+                        "ooooo",
+                        " ooo "
+                    ]
+                ],
+                "mapping": {
+                    "o": "#forge:ores",
+                    "b": "mekanism:block_steel",
+                    "0": "#forge:ores",
+                    "m": "#kubejs:miner"
+                }
+            },
+            "text": "Requires Steel Blocks.$(br)150 Ticks, 3 Ore Rolls, 20RF per tick"
+        },
+        {
+            "type": "multiblock",
+            "name": "Ultimate Miner",
+            "enable_visualize": true,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "     ",
+                        "     ",
+                        "  m  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        " obo ",
+                        " bob ",
+                        " obo ",
+                        "     "
+                    ],
+                    [
+                        "  b  ",
+                        " ooo ",
+                        "booob",
+                        " ooo ",
+                        "  b  "
+                    ],
+                    [
+                        "  o  ",
+                        " ooo ",
+                        "ooooo",
+                        " ooo ",
+                        "  o  "
+                    ],
+                    [
+                        "  o  ",
+                        " ooo ",
+                        "ooooo",
+                        " ooo ",
+                        "  o  "
+                    ],
+                    [
+                        " ooo ",
+                        "ooooo",
+                        "ooooo",
+                        "ooooo",
+                        " ooo "
+                    ],
+                    [
+                        "ooooo",
+                        "ooooo",
+                        "oo0oo",
+                        "ooooo",
+                        "ooooo"
+                    ]
+                ],
+                "mapping": {
+                    "o": "#forge:ores",
+                    "b": "appliedenergistics2:fluix_block",
+                    "0": "#forge:ores",
+                    "m": "#kubejs:miner"
+                }
+            },
+            "text": "Requires Fluix Blocks.$(br)125 Ticks, 4 Ore Rolls, 50RF per tick"
+        },
+        {
+            "type": "multiblock",
+            "name": "Supreme Miner",
+            "enable_visualize": true,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "     ",
+                        "     ",
+                        "  m  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        " bob ",
+                        " ooo ",
+                        " bob ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        " ooo ",
+                        " ooo ",
+                        " ooo ",
+                        "     "
+                    ],
+                    [
+                        "  b  ",
+                        " ooo ",
+                        "booob",
+                        " ooo ",
+                        "  b  "
+                    ],
+                    [
+                        "  o  ",
+                        " ooo ",
+                        "ooooo",
+                        " ooo ",
+                        "  o  "
+                    ],
+                    [
+                        " ooo ",
+                        "ooooo",
+                        "ooooo",
+                        "ooooo",
+                        " ooo "
+                    ],
+                    [
+                        "ooooo",
+                        "ooooo",
+                        "ooooo",
+                        "ooooo",
+                        "ooooo"
+                    ],
+                    [
+                        "ooooo",
+                        "ooooo",
+                        "oo0oo",
+                        "ooooo",
+                        "ooooo"
+                    ]
+                ],
+                "mapping": {
+                    "o": "#forge:ores",
+                    "b": "fluxnetworks:flux_block",
+                    "0": "#forge:ores",
+                    "m": "#kubejs:miner"
+                }
+            },
+            "text": "Requires Flux Blocks.$(br)100 Ticks, 5 Ore Rolls, 100RF per tick"
+        }
+    ]
+}

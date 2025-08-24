@@ -1,0 +1,31 @@
+{
+    "name": "Fruita antica 🌼🔥🍂",
+    "category": "patchouli:crops",
+    "icon": "society:ancient_fruit",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li):moneta: 96$(li)🌼 §2Primavera§r 🔥 §6Estate§r 🍂 §4Autunno$(li)Rendita: 1$(li)Tempo di crescita: 10 giorni$(br2)$(l)Note$()$(br)I semi sono incredibilmente rari. Un Antico Cog sarà probabilmente la strada più facile.`"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Ancient Fruit Crop",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ],
+                "mapping": {
+                    "0": "society:ancient_fruit[age=10]",
+                    "F": "minecraft:farmland[moisture=7]"
+                }
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

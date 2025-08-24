@@ -1,0 +1,19 @@
+{
+    "name": "Obsidianfish",
+    "category": "patchouli:fish",
+    "icon": "netherdepthsupgrade:obsidianfish",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Denaro: 512$(li)Dimensione: Inferno$(li)Bioma: Delti di Basalto"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "netherdepthsupgrade:obsidianfish",
+            "scale": 0.8,
+            "offset": -0.3,
+            "rotate": true,
+            "text": "Un pesce di obsidiano che ha un debole per i giochi di ruolo, anche se non può giocarne nessuno."
+        }
+    ]
+}

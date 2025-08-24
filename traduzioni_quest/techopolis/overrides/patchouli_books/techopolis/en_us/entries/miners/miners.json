@@ -1,0 +1,77 @@
+{
+    "name": "Ore Miners",
+    "icon": "kubejs:miner",
+    "category": "patchouli:miners",
+    "sortnum": "1",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Miners are blocks that can be place on top of a 3x3x3 area of ore to mine it for you.$(br2)Higher tiers of miner will be able to collect higher tier of ores, miner tiers do not increase mining speed, see faster miners.$(br2)Technium ingots can be placed inside the miner to increase speed."
+        },
+        {
+            "type": "multiblock",
+            "name": "Miner",
+            "enable_visualize": true,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "   ",
+                        " m ",
+                        "   "
+                    ],
+                    [
+                        "ooo",
+                        "ooo",
+                        "ooo"
+                    ],
+                    [
+                        "ooo",
+                        "ooo",
+                        "ooo"
+                    ],
+                    [
+                        "ooo",
+                        "o0o",
+                        "ooo"
+                    ]
+                ],
+                "mapping": {
+                    "o": "geolosys:coal_ore",
+                    "0": "geolosys:coal_ore",
+                    "m": "#kubejs:miner"
+                }
+            },
+            "text": ""
+        },
+        {
+            "type": "text",
+            "title": "Miner Tier 1",
+            "text": "A miner tier 1 can mine;$(br)$(li)Coal$(li)Grout$(li)Lapis$(li)Malachite (Copper)$(li)Azurite (Copper)$(li)Cassiterite (Tin)$(li)Teallite (Tin)"
+        },
+        {
+            "type": "text",
+            "title": "Miner Tier 2",
+            "text": "A miner tier 2 can mine;$(br)$(li)Cinnabar (Redstone)$(li)Hematite (Iron)$(li)Bauxite (Aluminum)$(li)Limonite (Nickel)"
+        },
+        {
+            "type": "text",
+            "title": "Miner Tier 3",
+            "text": "A miner tier 3 can mine;$(br)$(li)Assorted Crystal$(li)Galena (Silver and Lead)$(li)Platinum$(li)Gold"
+        },
+        {
+            "type": "text",
+            "title": "Miner Tier 4",
+            "text": "A miner tier 4 can mine;$(br)$(li)Kimberlite (Diamond)$(li)Beryl (Emerald)$(li)Sphalerite (Zinc)$(li)Autunite (Uranium)"
+        },
+        {
+            "type": "text",
+            "title": "Miner Tier 5",
+            "text": "A miner tier 5 can mine;$(br)$(li)Ancient Debris$(li)End Crystal$(li)Cobalt$(li)Glowstone$(br)(In The Nether)"
+        },
+        {
+            "type": "text",
+            "title": "Miner Tier 5",
+            "text": "A miner tier 5 can mine;$(br)$(li)Biotite$(li)Tungsten$(li)Draconium$(li)Iridium$(br)(In The End)"
+        }
+    ]
+}

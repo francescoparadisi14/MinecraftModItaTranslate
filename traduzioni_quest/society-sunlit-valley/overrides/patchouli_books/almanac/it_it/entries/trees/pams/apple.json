@@ -1,0 +1,84 @@
+{
+    "name": "Albero di mele 🍂",
+    "category": "patchouli:trees",
+    "icon": "pamhc2trees:apple_sapling",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Stagione: Autunno $(li)Prezzo: 512 monete $(li)Dimensioni: 1x1 $(li)Cresce in:`8 x Mele` $(\/l)$(br2)$(l)Note$()$(li)Vendute dai Cultori di Master.`"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Apple Tree",
+            "enable_visualize": false,
+            "multiblock": {
+                "mapping": {
+                    "0": "minecraft:oak_leaves",
+                    "L": "minecraft:oak_leaves",
+                    "W": "minecraft:oak_log[axis=y]",
+                    "F": "pamhc2trees:pamapple[age=7]"
+                },
+                "pattern": [
+                    [
+                        "     ",
+                        "     ",
+                        "  0  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  L  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        " LLL ",
+                        " LWL ",
+                        " LLL ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        " LLL ",
+                        " LWL ",
+                        " LLL ",
+                        "     "
+                    ],
+                    [
+                        "LLLLL",
+                        "LLLLL",
+                        "LLWLL",
+                        "LLLLL",
+                        "LLLLL"
+                    ],
+                    [
+                        "     ",
+                        " FFF ",
+                        " FWF ",
+                        " FFF ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  W  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  W  ",
+                        "     ",
+                        "     "
+                    ]
+                ]
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

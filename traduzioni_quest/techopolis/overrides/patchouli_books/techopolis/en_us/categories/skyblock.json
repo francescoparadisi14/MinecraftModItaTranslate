@@ -1,0 +1,6 @@
+{
+    "name": "Skyblock Mode",
+    "description": "Skyblock mode needs an additional config to be changed. In the main techopolis install file there will be a file called skyblockMode.json. Change enableSkyblockMode to true to enable additional recipes for skyblock mode.$(br2)Use world type Skyblock to get a new skyblock world",
+    "icon": "minecraft:oak_sapling",
+    "sortnum": "1"
+}

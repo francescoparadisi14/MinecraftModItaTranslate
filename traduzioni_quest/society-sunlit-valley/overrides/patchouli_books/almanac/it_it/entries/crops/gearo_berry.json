@@ -1,0 +1,31 @@
+{
+    "name": "Gearo Berries 🌼",
+    "category": "patchouli:crops",
+    "icon": "vintagedelight:gearo_berry",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li):moneta: 24$(li)🌼 §2Primavera$(li)Rendita: 1-2$(li)Tempo di crescita: 4 giorni$(li)Tempo di rigenerazione: 2 giorni$(br2)$(l)Note$()$(br)Ottenuto dal commercio Elvico della Botania e raramente dai plorts grassi dell'Alga.$(br)Non ci sono semi, semplicemente pianta il frutto."
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Gearo Berry Bush",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ],
+                "mapping": {
+                    "0": "vintagedelight:gearo_berry_bush[age=4]",
+                    "F": "minecraft:grass_block"
+                }
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

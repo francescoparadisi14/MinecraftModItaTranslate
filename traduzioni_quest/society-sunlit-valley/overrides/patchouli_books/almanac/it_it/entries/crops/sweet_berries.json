@@ -1,0 +1,31 @@
+{
+    "name": "Sweet Berries 🌼🍂",
+    "category": "patchouli:crops",
+    "icon": "minecraft:sweet_berries",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li):moneta: 2$(li)🌼 §2Primavera§r 🍂 §4Autunno$(li)Rendita: 1-2\/2-3$(li)Tempo di crescita: 2\/3 giorni$(li)Tempo di ricrescita: 1\/2 giorni$(br2)$(l)Note:$()$(br)Si trova in biomi simili alla Taiga.$(br)Non ci sono semi, semplicemente pianta il frutto.$(br)Ha due stadi raccolti"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Sweet Berry Bush",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ],
+                "mapping": {
+                    "0": "minecraft:sweet_berry_bush[age=3]",
+                    "F": "minecraft:grass_block"
+                }
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

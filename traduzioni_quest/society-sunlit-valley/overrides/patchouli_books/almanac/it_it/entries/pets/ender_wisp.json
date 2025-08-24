@@ -1,0 +1,17 @@
+{
+    "name": "Ender Wisp",
+    "category": "patchouli:pets",
+    "icon": "minecraft:ender_pearl",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Doni Possibili:$()$(br)Cappello Orecchie di Pika"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "legendarycreatures:ender_wisp",
+            "scale": 0.7,
+            "text": "Essi lasciano cadere sacchi di esperienza quando vengono uccisi, ma perché farebbe qualcuno una cosa simile?"
+        }
+    ]
+}

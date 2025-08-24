@@ -1,0 +1,17 @@
+{
+    "name": "Shima Enaga",
+    "category": "patchouli:pets",
+    "icon": "relics:elytra_booster",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Doni possibili:$()$(br)Boostatore di Elytra$(br)$(l)Oggetto per addomesticare:$()$(br)Semi$(br2)$(l)Note$()$(br)Può essere trovato in biomi innebbiati."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "crittersandcompanions:shima_enaga",
+            "scale": 0.7,
+            "text": "Uccello di neve adorabile!!!@"
+        }
+    ]
+}

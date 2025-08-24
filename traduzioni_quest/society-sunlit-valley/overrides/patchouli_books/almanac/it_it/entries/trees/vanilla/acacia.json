@@ -1,0 +1,114 @@
+{
+    "name": "Albero di acacia 🔥",
+    "category": "patchouli:trees",
+    "icon": "minecraft:acacia_sapling",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Stagione: 🔥 §6Summer§r $(li)Prezzo del seme: :coin: 8 $(li)Dimensioni: 1x1"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Oak Tree",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "        ",
+                        "    L   ",
+                        "   LLL  ",
+                        "  LLLLL ",
+                        "   LLL  ",
+                        "    L   ",
+                        "        ",
+                        "        ",
+                        "        "
+                    ],
+                    [
+                        "  LLLLL ",
+                        " LLLLLLL",
+                        " LLLLLLL",
+                        " LLLWLLL",
+                        " LLLLLLL",
+                        " LLLLLLL",
+                        "  LLLLL ",
+                        "        ",
+                        "        "
+                    ],
+                    [
+                        "        ",
+                        "        ",
+                        "        ",
+                        "    W   ",
+                        "        ",
+                        " LLL    ",
+                        " LLL    ",
+                        " LLL    ",
+                        "        "
+                    ],
+                    [
+                        "        ",
+                        "        ",
+                        "        ",
+                        "    W   ",
+                        " LLL    ",
+                        "LLLLL   ",
+                        "LLWLL   ",
+                        "LLLLL   ",
+                        " LLL    "
+                    ],
+                    [
+                        "        ",
+                        "        ",
+                        "        ",
+                        "   W    ",
+                        "        ",
+                        "  W     ",
+                        "        ",
+                        "        ",
+                        "        "
+                    ],
+                    [
+                        "        ",
+                        "        ",
+                        "        ",
+                        "  W     ",
+                        "  W     ",
+                        "        ",
+                        "        ",
+                        "        ",
+                        "        "
+                    ],
+                    [
+                        "        ",
+                        "        ",
+                        "        ",
+                        "  W     ",
+                        "        ",
+                        "        ",
+                        "        ",
+                        "        ",
+                        "        "
+                    ],
+                    [
+                        "        ",
+                        "        ",
+                        "        ",
+                        "  W     ",
+                        "    0   ",
+                        "        ",
+                        "        ",
+                        "        ",
+                        "        "
+                    ]
+                ],
+                "mapping": {
+                    "0": "minecraft:air",
+                    "L": "minecraft:acacia_leaves",
+                    "W": "minecraft:acacia_log[axis=y]"
+                }
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

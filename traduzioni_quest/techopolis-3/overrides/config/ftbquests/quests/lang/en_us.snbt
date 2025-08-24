@@ -2043,7 +2043,9 @@
     "quest.5BEBA3DCA958DF0F.quest_desc": [
         "You can use the &lDark Mode&r button at the bottom left of your inventory to enable various levels of &lDark Mode&r",
         "",
-        "By default, you can press the &lZ&r key to zoom in."
+        "By default, you can press the &lZ&r key to zoom in.",
+        "",
+        "Using &lCTRL + F&r in the quest book will allow you to search through the quests!"
     ],
     "quest.5BEBA3DCA958DF0F.title": "Useful Tips",
     "quest.5C082BD2A222FAAB.quest_desc": [
@@ -2872,7 +2874,7 @@
     "quest.7F81760FA260294B.quest_desc": [
         "Custom Machinery is the heart of Techopolis 3. Includes a lot of multiblock machines as well a simple machines.",
         "",
-        "Machines that require a multiblock will show an icon in &lJEI&r to view the strucutre in world. Most structures can share frames"
+        "Machines that require a multiblock will show an icon in &lJEI&r to view the structure in world. Most structures can share frames"
     ],
     "quest.7F81760FA260294B.title": "Custom Machinery",
     "quest.7FD959BD6D5C635F.quest_desc": [

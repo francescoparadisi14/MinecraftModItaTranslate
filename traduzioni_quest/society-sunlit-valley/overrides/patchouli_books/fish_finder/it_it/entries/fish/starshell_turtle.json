@@ -1,0 +1,18 @@
+{
+    "name": "Tartaruga con guscio stellare",
+    "category": "patchouli:fish",
+    "icon": "aquaculture:starshell_turtle",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Denaro: 240 monete$(li)Simbolo: ❆ $(li)Stagione: Inverno$(li)Acqua: Fiume$(li)Clima: Pioggia e Neve$(li)Ora: Notte"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "aquaculture:starshell_turtle",
+            "scale": 0.8,
+            "rotate": true,
+            "text": "Vive in qualche tipo di Oceano di Pietra...?"
+        }
+    ]
+}

@@ -15998,5 +15998,72 @@
     "task.7FB4D75ADDA4D50D.title": "Massi di minerale",
     "task.7FDCD12729529236.title": "Qualsiasi legno di Minecraft",
     "task.7FEC9CD030E4D844.title": "Cucinieri meccanici",
-    "task.7FF1BA8529B79913.title": "Centrifugi"
+    "task.7FF1BA8529B79913.title": "Centrifugi",
+    "quest.0AA1977AC1B5E5A9.title": "Riparazione del pilone",
+    "quest.0C5173F51D68317C.quest_desc": [
+        "Usando lo spirito ombroso, puoi creare diversi armi e artefatti potenti. Tra quelli ci sono:",
+        "",
+        "Il mondo spezzato ha l'abilità speciale di evocare spade volanti che si dirigono verso i tuoi nemici.",
+        "",
+        "Il rullo degli artefatti di replica fornisce riduzione mista del danno fisico, magico e da qualsiasi altra fonte."
+    ],
+    "quest.0C5173F51D68317C.title": "Armi di sacrificio",
+    "quest.1A867730290C7745.quest_desc": [
+        "La turbina a vapore grande consuma una varietà di fluidi per produrre fino a 16.384 EU\/t.",
+        "",
+        "\"Potresti riferirti al 'main large steam turbine quest', {'text': 'main large steam turbine quest', 'color': 'light_purple', 'underlined': True, 'clickevent': {'action': 'change_page', 'value': '4c3f295d0f44a730'}, 'hoverevent': {'action': 'show_text', 'contents': \"va alla richiesta di grande turbina a vapore\"}} per ulteriore informazioni o al 'mi questline', {'text': 'mi questline', 'color': 'yellow', 'underlined': True, 'clickevent': {'action': 'change_page', 'value': '51f2fc13fa7c3a89'}, 'hoverevent': {'action': 'show_text', 'contents': \"va al capitolo mi\"}} per iniziare.\""
+    ],
+    "quest.1BC994881BC225ED.title": "Bancarella dell'incantatrice",
+    "quest.29E6EF882A568585.title": "obelisco brillante",
+    "quest.2EE0FD7E1FC4646A.quest_desc": [
+        "Questo strano prodotto di putrefazione ha pochi utilizzi."
+    ],
+    "quest.2EE0FD7E1FC4646A.title": "Un grande cristallo strano",
+    "quest.33F236BD2DA075C3.title": "Hex Ash",
+    "quest.361D61EE15801A6E.quest_desc": [
+        "Il generatore di diesel hv può produrre fino a 1.024 EU\/t.",
+        "",
+        "Puoi fare riferimento al \"mi questline\" per iniziare."
+    ],
+    "quest.51373D5476F2FD7F.title": "Sacchetto anima intrecciata",
+    "quest.51D242BB3BA2BE40.quest_desc": [
+        "Il turbina a vapore &3hv consuma &7vapore& per produrre fino a 512 EU\/t.",
+        "",
+        "Puoi fare riferimento al \"mi questline\" per iniziare."
+    ],
+    "quest.5D8C8F6326C5BB5F.title": "Un altare spirituale",
+    "quest.652650C157E16712.title": "Seta animata dell'anima",
+    "quest.664551F5E62A9D00.quest_desc": [
+        "Il generatore di diesel mv può produrre fino a 256 EU\/t.",
+        "",
+        "Puoi fare riferimento al \"main mv diesel generator quest\" per ulteriori informazioni o alla \"mi questline\" per iniziare."
+    ],
+    "quest.67F79CE27B61F135.quest_desc": [
+        "Il generatore Diesel di Alv può produrre fino a 64 EU\/t.",
+        "",
+        "Puoi fare riferimento al \"mi questline\" per iniziare."
+    ],
+    "quest.6B971FA156A96BD5.title": "Un catalizzatore spirituale",
+    "quest.7061D35A3E480891.quest_desc": [
+        "Questi sono rune potenti e&2blu;r che possono fornire effetti potenti e unici per migliorare i tuoi effetti."
+    ],
+    "quest.7061D35A3E480891.title": "Runa ombrosa",
+    "quest.7169587C7DC4C8C0.quest_desc": [
+        "Ombre oscuri possono essere ottenute sacrificando anime dei viventi.",
+        "",
+        "Questo potrebbe essere fatto gettandoti nel pozzo delle lacrime &5&. Ciò può anche essere rilasciato raramente uccidendo villaggi con l'&6orlo del velo&."
+    ],
+    "quest.7169587C7DC4C8C0.title": "Lo spirito del sacrificio",
+    "quest.76A73B12FC436D0C.quest_desc": [
+        "Hai aperto gli occhi a tutti i segreti conosciuti",
+        "",
+        "È consigliabile creare personalmente l'&6enciclopedia rivelata&r per sbloccare tutto il contenuto disponibile per &eMalum&r e &eGaze&r."
+    ],
+    "quest.76A73B12FC436D0C.title": "Enciclopedia rivelata",
+    "quest.77074CE5719763BB.title": "Mnemonic del Hex Staff",
+    "quest.7A62B07AD0BCCCEA.title": "Automazione degli spiriti?",
+    "quest.7CD3D31BAA53F592.title": "Forza dei rifiutati",
+    "reward.7E0D3DCDED6AFCE6.title": "Pacco spirituale",
+    "task.04B4EE9AE7C56179.title": "Procedere",
+    "task.11B86810F19A15B9.title": "Rune ombrosa qualsiasi"
 }

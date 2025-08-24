@@ -1,0 +1,31 @@
+{
+    "name": "Torchflower 🔥",
+    "category": "patchouli:crops",
+    "icon": "minecraft:torchflower",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li):moneta: 128$(li)🔥 §6Summer§r$(li)Rendita: 1$(li)Tempo di crescita: 4 giorni$(br2)$(l)Note$()$(br)Semi scavati dai Sniffer"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Torchflower Crop",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ],
+                "mapping": {
+                    "0": "minecraft:torchflower",
+                    "F": "minecraft:farmland[moisture=7]"
+                }
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "patata 🌼",
+    "category": "patchouli:crops",
+    "icon": "minecraft:potato",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li):moneta: 24$(li)🌼 §2Primavera$(li)Prezzo seme: :moneta: 2$(li)Rendimento: 1-2$(li)Tempo di crescita: 7 giorni$(br2)$(l)Note$()$(br)Raremente produce Patata velenosa.`"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Potato Crop",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ],
+                "mapping": {
+                    "0": "minecraft:potatoes[age=7]",
+                    "F": "minecraft:farmland[moisture=7]"
+                }
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

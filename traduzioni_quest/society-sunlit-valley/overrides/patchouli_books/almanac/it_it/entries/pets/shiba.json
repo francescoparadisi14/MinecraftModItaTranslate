@@ -1,0 +1,17 @@
+{
+    "name": "Shiba",
+    "category": "patchouli:pets",
+    "icon": "minecraft:arrow",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Doni possibili:$()$(br)Cappello orecchie di Eevee$(br2)$(l)Oggetto per addomesticare:$()$(br)Osso`"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "quark:shiba",
+            "scale": 0.7,
+            "text": "Amano giocare a rincorrere frecce"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Hexlands Mode",
+    "description": "Hexlands mode offers a new world type made up of hexes.$(br2)Use HexLands world type when creating a new world for a overworld and nether full of hexes.$(br2)Use Hexlands (Overworld) world type when creating a new world for just a overworld full of hexes ",
+    "icon": "minecraft:oak_sapling",
+    "sortnum": "1"
+}

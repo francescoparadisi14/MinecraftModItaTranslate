@@ -1,0 +1,131 @@
+{
+    "name": "Albero di pino 🌐",
+    "category": "patchouli:trees",
+    "icon": "meadow:pine_sapling",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)🌐 §5Tutto l'anno§r$(li)Prezzo: :coin: 16$(li)Dimensioni: 1x1$(br2)$(l)Note$()$(li)Venduti nel Mercato.$(li)Si trasforma la terra vicina.`"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Pine Tree",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "     ",
+                        "  L  ",
+                        " LLL ",
+                        "  L  ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  L  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "  L  ",
+                        " LWL ",
+                        "  L  ",
+                        "     "
+                    ],
+                    [
+                        " LLL ",
+                        "LLLLL",
+                        "LLWLL",
+                        "LLLLL",
+                        " LLL "
+                    ],
+                    [
+                        "     ",
+                        "  L  ",
+                        " LWL ",
+                        "  L  ",
+                        "     "
+                    ],
+                    [
+                        " LLL ",
+                        "LLLLL",
+                        "LLWLL",
+                        "LLLLL",
+                        " LLL "
+                    ],
+                    [
+                        "     ",
+                        "  L  ",
+                        " LWL ",
+                        "  L  ",
+                        "     "
+                    ],
+                    [
+                        " LLL ",
+                        "LLLLL",
+                        "LLWLL",
+                        "LLLLL",
+                        " LLL "
+                    ],
+                    [
+                        "     ",
+                        "  L  ",
+                        " LWL ",
+                        "  L  ",
+                        "     "
+                    ],
+                    [
+                        " LLL ",
+                        "LLLLL",
+                        "LLWLL",
+                        "LLLLL",
+                        " LLL "
+                    ],
+                    [
+                        "     ",
+                        "  L  ",
+                        " LWL ",
+                        "  L  ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  W  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  W  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  W  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  0  ",
+                        "     ",
+                        "     "
+                    ]
+                ],
+                "mapping": {
+                    "0": "meadow:pine_log[axis=y]",
+                    "L": "meadow:pine_leaves",
+                    "W": "meadow:pine_log[axis=y]"
+                }
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

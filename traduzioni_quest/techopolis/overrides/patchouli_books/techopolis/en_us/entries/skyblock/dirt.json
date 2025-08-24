@@ -1,0 +1,12 @@
+{
+    "name": "Dirt",
+    "icon": "minecraft:dirt",
+    "category": "patchouli:skyblock",
+    "sortnum": "2",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Leaves and saplings can be used to make dirt."
+        }
+    ]
+}

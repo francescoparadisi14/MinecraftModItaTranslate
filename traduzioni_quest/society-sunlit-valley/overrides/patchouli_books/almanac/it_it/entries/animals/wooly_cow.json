@@ -1,0 +1,24 @@
+{
+    "name": "Wooly Cow",
+    "category": "patchouli:animals",
+    "icon": "meadow:highland_wool",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Latte: Latte$(li)Ritardo del latte: 1 giorno$(li)Bottino dopo la tosatura: Lana Umbra o Lana Highland$(li)Bottino: Lana Umbra o Lana Highland, Carne cruda di manzo, Pelle$(br2)$(l)Note$()$(br)Entrambe le varianti possono essere trovate nei biomi foresta di Prato e Bosco Oscuro."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Vitella di montagna lanuta",
+            "entity": "meadow:wooly_cow{Variant:0}",
+            "scale": 0.8,
+            "text": "Una specie di vacca soffice nota per la sua unica lana"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Entità: Umbra Wooly Cow (Variante 1)",
+            "entity": "meadow:wooly_cow{Variant:1}",
+            "scale": 0.8
+        }
+    ]
+}

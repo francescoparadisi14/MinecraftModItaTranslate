@@ -1,0 +1,30 @@
+{
+    "name": "Cauliflower 🌼",
+    "category": "patchouli:crops",
+    "icon": "veggiesdelight:cauliflower",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Stats$()$(li):coin: 48$(li)🌼 §2Spring§r$(li)Seed Price: :coin: 6$(li)Yield: 2$(li)Grow time: 7 days"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Strawberry Crop",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ],
+                "mapping": {
+                    "0": "veggiesdelight:cauliflower_crop[age=7]",
+                    "F": "minecraft:farmland[moisture=7]"
+                }
+            }
+        }
+    ]
+}

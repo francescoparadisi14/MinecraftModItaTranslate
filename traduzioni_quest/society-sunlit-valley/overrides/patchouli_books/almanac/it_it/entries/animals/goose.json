@@ -1,0 +1,17 @@
+{
+    "name": "Anatra",
+    "category": "patchouli:animals",
+    "icon": "untitledduckmod:goose_egg",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "**Statistiche**\n\n* Prezzo: Non venduto\n* Uovo: Uovo d'oca\n* Bottino: Oca cruda, Zampa d'oca\n\n**Note**\n\nHungry Geese don't lay eggs, and unhappy ones lay them a lot less.. Can be tamed with Seagrass"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "untitledduckmod:goose",
+            "scale": 0.8,
+            "text": " Creature odiose che ruberanno i tuoi oggetti e si difenderanno quando attaccate."
+        }
+    ]
+}

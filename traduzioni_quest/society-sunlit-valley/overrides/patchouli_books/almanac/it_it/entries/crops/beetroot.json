@@ -1,0 +1,31 @@
+{
+    "name": "Beetroot 🍂",
+    "category": "patchouli:crops",
+    "icon": "minecraft:beetroot",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Denaro: 24$(li)§4Autunno$(li)Prezzo seme: Denaro 4$(li)Rendimento: 1$(li)Tempo di crescita: 3 giorni"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Beetroot Crop",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ],
+                "mapping": {
+                    "0": "minecraft:beetroots[age=3]",
+                    "F": "minecraft:farmland[moisture=7]"
+                }
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

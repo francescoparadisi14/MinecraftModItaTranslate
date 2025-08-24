@@ -1,0 +1,17 @@
+{
+    "name": "Bufalo d'acqua",
+    "category": "patchouli:animals",
+    "icon": "society:large_buffalo_milk",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Latte: Latte di bufala$(li)Ricarica del latte: 1 giorno$(li)Bottino: Carne di bufala cruda, Pelle$(br2)$(l)Note$()$(br)Si trova lungo i fiumi e soprattutto in biomi di Savanna"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "meadow:water_buffalo",
+            "scale": 0.7,
+            "text": "Grandi e robusti, i loro bottini e il latte sono molto apprezzati."
+        }
+    ]
+}

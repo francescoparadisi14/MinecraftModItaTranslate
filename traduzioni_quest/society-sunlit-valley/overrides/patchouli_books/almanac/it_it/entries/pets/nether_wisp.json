@@ -1,0 +1,17 @@
+{
+    "name": "Favilla del Nether",
+    "category": "patchouli:pets",
+    "icon": "minecraft:blaze_powder",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Doni Possibili:$()$(br)Uovo di Spawn di Fiamma dell'Inferno"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "legendarycreatures:nether_wisp",
+            "scale": 0.7,
+            "text": "Tutte chiedono solo che ami i loro amici."
+        }
+    ]
+}

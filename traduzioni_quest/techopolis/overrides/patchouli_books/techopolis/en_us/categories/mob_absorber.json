@@ -1,0 +1,6 @@
+{
+    "name": "Mob Absorber",
+    "description": "Certain mobs can be placed on top of the absorber to create loot from that mob!$(br2)The mob must remain on top of the block so keep it in place using blocks!$(br2)Various passive mobs like cows, chicken and sheep are supported.",
+    "icon": "kubejs:mob_absorber_side",
+    "sortnum": "1"
+}

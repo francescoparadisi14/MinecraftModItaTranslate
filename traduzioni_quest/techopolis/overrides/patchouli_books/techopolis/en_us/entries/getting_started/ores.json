@@ -1,0 +1,12 @@
+{
+    "name": "Ores",
+    "icon": "minecraft:coal_ore",
+    "category": "patchouli:getting_started",
+    "sortnum": "2",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Vanilla ores have been disabled, you must use miners to collect ores."
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Grout",
+    "icon": "tconstruct:grout",
+    "category": "patchouli:skyblock",
+    "sortnum": "4",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Sand, gravel and clay can all be created inside the pulverizer or the crusher that you start with."
+        }
+    ]
+}

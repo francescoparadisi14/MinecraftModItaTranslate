@@ -1,0 +1,17 @@
+{
+    "name": "Cane",
+    "category": "patchouli:pets",
+    "icon": "farm_and_charm:dog_food",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Doni possibili:$()$(br)Fossile di pecora$(br)$(l)Oggetto per addomesticare:$()$(br)Osso$(br2)$(l)Note$()$(br)Può essere trovato in pianure."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "wildernature:dog",
+            "scale": 0.7,
+            "text": "Non è un grande amante dei gatti"
+        }
+    ]
+}

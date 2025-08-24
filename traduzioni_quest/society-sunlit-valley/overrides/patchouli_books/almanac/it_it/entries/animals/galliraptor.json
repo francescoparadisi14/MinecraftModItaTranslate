@@ -1,0 +1,17 @@
+{
+    "name": "Galliraptor",
+    "category": "patchouli:animals",
+    "icon": "farmlife:galliraptor_egg",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Uovo: Uovo di Galliraptor$(li)Bottino: Galliraptor cruda, Piuma$(br2)$(l)Note$()$(br)Sviluppato utilizzando un Siero di Mutazione Lunare su un Goober. Le Galliraptor affamate non depongono uova e quelle infelici ne depongono molto meno."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "farmlife:galliraptor",
+            "scale": 0.7,
+            "text": "È pre-storico? O post-storico?"
+        }
+    ]
+}

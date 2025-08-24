@@ -1,0 +1,12 @@
+{
+    "name": "Hexlands",
+    "icon": "minecraft:stone_bricks",
+    "category": "patchouli:world_types",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Biomes generate in hexes instead of normal minecraft generation, has a completly different feel when playing.$(br2)No additional recipes added."
+        }
+    ]
+}

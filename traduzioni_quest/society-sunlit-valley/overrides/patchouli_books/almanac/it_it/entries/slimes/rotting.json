@@ -1,0 +1,18 @@
+{
+    "name": "Rotting",
+    "category": "patchouli:slimes",
+    "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:rotting\"}}",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Localizzazioni:$()$(li)Bioma: Grotte Congelate (Caverna del Cranio)$(li)Struttura: Spawners di Schiuma$(li)Punti di scavo: Superficie$(li)Scatole dei palloni: Rosse$(br2)$(l)Rischii:$()$(br)Procura effetto fame quando è disturbato. Chiamate Zombie di Schiuma quando attacca i Villaggiatori."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Rotting Slime",
+            "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:rotting\"}",
+            "scale": 0.9,
+            "text": "Entità: Splendido Slime (Rottura)"
+        }
+    ]
+}

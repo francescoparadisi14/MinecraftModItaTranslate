@@ -1,0 +1,17 @@
+{
+    "name": "Agnello",
+    "category": "patchouli:animals",
+    "icon": "society:large_sheep_milk",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Prezzo: :coin: 1.024$(li)Latte: Latte di pecora$(li)Ritardo del latte: 2 giorni$(li)Bottino della tosa: Lana, Lana Finissima (50% di probabilità) $(li)Bottino: Carne cruda di agnello, Lana$(br2)$(l)Note$()$(br)La Lana Finissima si può ottenere solo con 5+ cuori di affetto"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:sheep",
+            "scale": 0.8,
+            "text": "Un animale da fattoria versatile che ha molti utilizzi. Meno ideale per l'allevamento."
+        }
+    ]
+}

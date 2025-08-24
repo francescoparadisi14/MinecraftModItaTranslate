@@ -1,0 +1,19 @@
+{
+    "name": "Fortress Grouper",
+    "category": "patchouli:fish",
+    "icon": "netherdepthsupgrade:fortress_grouper",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Denaro: 666$(li)Dimensione: Inferno$(li)Bioma: Qualsiasi"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "netherdepthsupgrade:fortressgrouper",
+            "scale": 0.5,
+            "offset": -0.3,
+            "rotate": true,
+            "text": "Un osservatore di pesci della fortezza inferiore"
+        }
+    ]
+}

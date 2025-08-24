@@ -1,0 +1,6 @@
+{
+    "name": "Technium",
+    "description": "Technium is a alloy of various items and fluids to create powerful ingots.$(br2)These ingots can be used in all custom machines to increase speed and on some machines like the miner increase their total item outputs as well.",
+    "icon": "techopolis:basic_technium_ingot",
+    "sortnum": "7"
+}

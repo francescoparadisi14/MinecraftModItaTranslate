@@ -1,0 +1,19 @@
+{
+    "name": "Searing Cod",
+    "category": "patchouli:fish",
+    "icon": "netherdepthsupgrade:searing_cod",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Denaro: 264$(li)Dimensione: Inferno$(li)Bioma: Qualsiasi"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "netherdepthsupgrade:searing_cod",
+            "scale": 0.8,
+            "offset": -0.3,
+            "rotate": true,
+            "text": "Il codotto bruciante dice \"Ooh!\""
+        }
+    ]
+}

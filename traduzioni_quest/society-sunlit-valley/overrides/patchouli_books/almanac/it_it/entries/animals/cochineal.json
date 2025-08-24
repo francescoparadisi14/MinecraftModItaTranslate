@@ -1,0 +1,17 @@
+{
+    "name": "Cochineal",
+    "category": "patchouli:animals",
+    "icon": "atmospheric:carmine_husk",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Raccolta: Cuscino di carmignano, Dragonfruit (50% di probabilità) $(li)Bottino: Cuscino di carmignano$(br2)$(l)Note$()$(br)La raccolta richiede 1+ cuori."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "atmospheric:cochineal",
+            "scale": 0.5,
+            "text": "Il materiale dei incubi, spero che i tuoi bei blocchi ne siano valsi la pena."
+        }
+    ]
+}

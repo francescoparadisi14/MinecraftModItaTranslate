@@ -1,0 +1,93 @@
+{
+    "name": "Nether Controller",
+    "icon": "techopolis:nether_teleportation_core",
+    "category": "patchouli:nether_controller",
+    "sortnum": "1",
+    "pages": [
+        {
+            "type": "multiblock",
+            "name": "Nether Controller",
+            "enable_visualize": true,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "ooooooo",
+                        "oogggoo",
+                        "ogggggo",
+                        "ogggggo",
+                        "ogggggo",
+                        "oogggoo",
+                        "ooooooo"
+                    ],
+                    [
+                        "oogggoo",
+                        "oq   qo",
+                        "g     g",
+                        "g     g",
+                        "g     g",
+                        "oq   qo",
+                        "oogggoo"
+                    ],
+                    [
+                        "ogggggo",
+                        "g     g",
+                        "g     g",
+                        "g     g",
+                        "g     g",
+                        "g     g",
+                        "ogggggo"
+                    ],
+                    [
+                        "ogggggo",
+                        "g     g",
+                        "g     g",
+                        "g  m  g",
+                        "g     g",
+                        "g     g",
+                        "ogggggo"
+                    ],
+                    [
+                        "ogggggo",
+                        "g     g",
+                        "g     g",
+                        "g     g",
+                        "g     g",
+                        "g     g",
+                        "ogggggo"
+                    ],
+                    [
+                        "oogggoo",
+                        "oq   qo",
+                        "g     g",
+                        "g     g",
+                        "g     g",
+                        "oq   qo",
+                        "oogggoo"
+                    ],
+                    [
+                        "ooooooo",
+                        "oogggoo",
+                        "ogggggo",
+                        "ogg0ggo",
+                        "ogggggo",
+                        "oogggoo",
+                        "ooooooo"
+                    ]
+                ],
+                "mapping": {
+                    "o": "minecraft:obsidian",
+                    "q": "mekanism:quantum_entangloporter",
+                    "m": "#kubejs:nether_controller_side",
+                    "g": "mekanism:structural_glass",
+                    "0": "mekanism:structural_glass"
+                }
+            },
+            "text": ""
+        },
+        {
+            "type": "text",
+            "title": "Nether Controller",
+            "text": "This structure requires;$(li)Obsidian$(li)Quantum Entangloporter$(li)Structural Glass$(li)Nether Controller$(br2)Once fully built you will be able to create the nether teleporter which can be used to travel to the nether."
+        }
+    ]
+}

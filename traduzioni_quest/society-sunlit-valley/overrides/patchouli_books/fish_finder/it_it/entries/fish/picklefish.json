@@ -1,0 +1,18 @@
+{
+    "name": "Picklefish",
+    "category": "patchouli:fish",
+    "icon": "unusualfishmod:raw_picklefish",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Denaro: 48 monete$(li)Simbolo di stagione: Autunno$(li)Acqua: Oceano$(li)Clima: Pioggia, Neve$(li)Ora del giorno: Notte"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "unusualfishmod:picklefish",
+            "scale": 0.8,
+            "rotate": true,
+            "text": "Non farò il gioco che puoi farlo."
+        }
+    ]
+}

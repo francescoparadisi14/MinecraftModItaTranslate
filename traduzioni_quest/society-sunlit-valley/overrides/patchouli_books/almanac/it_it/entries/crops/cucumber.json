@@ -1,0 +1,31 @@
+{
+    "name": "Cucumber 🌼",
+    "category": "patchouli:crops",
+    "icon": "vintagedelight:cucumber",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li):moneta: 72$(li)🌼 §2Primavera§r$(li)Prezzo seme: :moneta: 64$(li)Rendimento: 1$(li)Tempo di crescita: 7 giorni$(br2)$(l)Note$()$(br)I semi acquistati solo dal Cultivatore Maestro`"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Cucumber Crop",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ],
+                "mapping": {
+                    "0": "vintagedelight:cucumber_crop[age=7]",
+                    "F": "minecraft:farmland[moisture=7]"
+                }
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

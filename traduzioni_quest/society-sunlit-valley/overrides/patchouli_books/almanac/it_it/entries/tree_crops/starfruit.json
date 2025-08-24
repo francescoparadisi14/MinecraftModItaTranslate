@@ -1,0 +1,31 @@
+{
+    "name": "Starfruit 🌐",
+    "category": "patchouli:tree_crops",
+    "icon": "pamhc2trees:starfruititem",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li):moneta: 200$(li)🌐 §5Tutto l'anno§r$(li)Rendita: 1$(li)Fasi di crescita: 8$(br2)$(l)Note$()$(li)Vedi: $(l:trees\/pams\/starfruit)Albero di Frutta Stellata$(\/l)`"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Starfruit Tree",
+            "enable_visualize": false,
+            "multiblock": {
+                "mapping": {
+                    "0": "minecraft:jungle_leaves",
+                    "F": "pamhc2trees:pamstarfruit[age=7]"
+                },
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ]
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

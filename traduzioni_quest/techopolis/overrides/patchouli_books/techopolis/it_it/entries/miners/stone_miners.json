@@ -1,0 +1,74 @@
+{
+    "name": "Minatori di pietra",
+    "icon": "kubejs:miner",
+    "category": "patchouli:miners",
+    "sortnum": "3",
+    "pages": [
+        {
+            "type": "text",
+            "text": "I minatori di pietra sono blocchi che possono essere posti sopra un'area di 5x5x5 di blocchi di pietra per estrarre il materiale per te.\n\nI minatori di pietra richiedono una piccola quantità di potenza per funzionare."
+        },
+        {
+            "type": "multiblock",
+            "name": "Blocco minerario",
+            "enable_visualize": true,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "     ",
+                        "     ",
+                        "  m  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "ooooo",
+                        "ooooo",
+                        "ooooo",
+                        "ooooo",
+                        "ooooo"
+                    ],
+                    [
+                        "ooooo",
+                        "ooooo",
+                        "ooooo",
+                        "ooooo",
+                        "ooooo"
+                    ],
+                    [
+                        "ooooo",
+                        "ooooo",
+                        "ooooo",
+                        "ooooo",
+                        "ooooo"
+                    ],
+                    [
+                        "ooooo",
+                        "ooooo",
+                        "ooooo",
+                        "ooooo",
+                        "ooooo"
+                    ],
+                    [
+                        "ooooo",
+                        "ooooo",
+                        "oo0oo",
+                        "ooooo",
+                        "ooooo"
+                    ]
+                ],
+                "mapping": {
+                    "o": "minecraft:stone",
+                    "0": "minecraft:stone",
+                    "m": "#kubejs:miner"
+                }
+            },
+            "text": ""
+        },
+        {
+            "type": "text",
+            "title": "Stone Miner",
+            "text": "Un minatore di pietra può estrarre qualsiasi cosa dal blocco etichettato \"techopolis:stone_miner\". Utilizzare \"$stone_miner\" nel JEI per visualizzare tutti i blocchi."
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Isola di partenza",
+    "icon": "minecraft:stone_bricks",
+    "category": "patchouli:skyblock",
+    "sortnum": "1",
+    "pages": [
+        {
+            "type": "text",
+            "text": "L'isola di partenza contiene un albero, un generatore di pietra di Cobbles e alcuni macchinari."
+        }
+    ]
+}

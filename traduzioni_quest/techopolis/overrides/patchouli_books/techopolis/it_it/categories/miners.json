@@ -1,0 +1,6 @@
+{
+    "name": "Mineri",
+    "description": "I minatori sono macchine di prima ora utilizzate per raccogliere minerali e blocchi per conto tuo. I livelli di miner più alti ti consentono di raccogliere più tipi di minerale, non aumentano la velocità. (vedi i minatori più veloci per ulteriori informazioni)",
+    "icon": "kubejs:miner",
+    "sortnum": "2"
+}

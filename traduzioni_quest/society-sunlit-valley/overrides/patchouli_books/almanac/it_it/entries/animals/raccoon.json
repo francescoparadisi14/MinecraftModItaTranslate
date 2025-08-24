@@ -1,0 +1,17 @@
+{
+    "name": "Racchietto",
+    "category": "patchouli:animals",
+    "icon": "furniture:trash_bag",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Raccolta: ...rifiuti? (50% di probabilità)$(li)Bottino: Scatola di latta$(br2)$(l)Note$()$(br)La raccolta richiede 3+ cuori. Può essere trovato nei biomi delle Pianure."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "wildernature:raccoon",
+            "scale": 0.7,
+            "text": "Questi piccoli sono i migliori amici dei Mucchi Putridi!"
+        }
+    ]
+}

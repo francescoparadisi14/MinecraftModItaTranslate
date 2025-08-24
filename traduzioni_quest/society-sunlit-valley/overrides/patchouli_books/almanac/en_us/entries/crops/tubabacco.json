@@ -1,0 +1,30 @@
+{
+    "name": "Tubabacco 🌼❆",
+    "category": "patchouli:crops",
+    "icon": "society:tubabacco_leaf",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Stats$()$(li):coin: 87$(li)🌼 §2Spring§r ❆ §bWinter$(li)Seed Price: :coin: 512$(li)Yield: 1$(li)Grow time: 9 days$(br2)$(l)Notes$()$(br)Seeds bought from Master Cultivator only"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Tubabacco Crop",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ],
+                "mapping": {
+                    "0": "society:tubabacco_leaf[age=9]",
+                    "F": "minecraft:farmland[moisture=7]"
+                }
+            }
+        }
+    ]
+}

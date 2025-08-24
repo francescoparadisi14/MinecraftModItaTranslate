@@ -1,0 +1,18 @@
+{
+    "name": "Webby",
+    "category": "patchouli:slimes",
+    "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:webby\"}}",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Localizzazioni:$()$(li)Struttura: Miniere di Caverna del Cranio, cassoni delle miniere dell'Overworld, cassoni dei dungeon$(li)Scatole dei palloncini: Rosse$(br2)$(l)Rischii:$()$(br)Sale le pareti! Causa effetto di Lentezza quando è agitato."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Webby Slime",
+            "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:webby\"}",
+            "scale": 0.9,
+            "text": "Un Splendido Slime Webby, una specie di Slime noto per la sua capacità di creare complessi reticoli di filamenti per catturare le prede."
+        }
+    ]
+}

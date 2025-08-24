@@ -1,0 +1,17 @@
+{
+    "name": "Pinguino",
+    "category": "patchouli:animals",
+    "icon": "society:penguin_egg",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Uovo: Uovo di pinguino$(li)Bottino: Piuma$(br2)$(l)Note$()$(br)Gli uova richiedono 2+ cuori. Possono essere trovate nei biomi di Oceani Congelati e Spighe di Ghiaccio."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "wildernature:penguin",
+            "scale": 0.5,
+            "text": "Sono come il Pengo ma un mostro di Minecraft"
+        }
+    ]
+}

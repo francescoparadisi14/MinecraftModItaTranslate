@@ -1,0 +1,6 @@
+{
+    "name": "Grass Block",
+    "description": "Grass blocks can be made by right clicking any seed on a block of dirt!",
+    "icon": "minecraft:grass_block",
+    "sortnum": "1"
+}

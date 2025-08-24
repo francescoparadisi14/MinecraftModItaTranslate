@@ -1,0 +1,91 @@
+{
+    "name": "Skyroot Tree",
+    "icon": "tconstruct:sky_slime_sapling",
+    "category": "patchouli:tree_absorber",
+    "sortnum": "1",
+    "pages": [
+        {
+            "type": "multiblock",
+            "name": "Skyroot Tree",
+            "enable_visualize": true,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "       ",
+                        "       ",
+                        "   l   ",
+                        "  lll  ",
+                        "   l   ",
+                        "       ",
+                        "       "
+                    ],
+                    [
+                        "       ",
+                        "   l   ",
+                        "  lll  ",
+                        " lloll ",
+                        "  lll  ",
+                        "   l   ",
+                        "       "
+                    ],
+                    [
+                        "   l   ",
+                        "  lll  ",
+                        " lllll ",
+                        "lllolll",
+                        " lllll ",
+                        "  lll  ",
+                        "   l   "
+                    ],
+                    [
+                        "  lll  ",
+                        " lllll ",
+                        "lllllll",
+                        "lllolll",
+                        "lllllll",
+                        " lllll ",
+                        "  lll  "
+                    ],
+                    [
+                        "   l   ",
+                        "       ",
+                        "       ",
+                        "l  o  l",
+                        "       ",
+                        "       ",
+                        "   l   "
+                    ],
+                    [
+                        "       ",
+                        "       ",
+                        "       ",
+                        "   o   ",
+                        "       ",
+                        "       ",
+                        "       "
+                    ],
+                    [
+                        "       ",
+                        "       ",
+                        "       ",
+                        "   m0  ",
+                        "       ",
+                        "       ",
+                        "       "
+                    ]
+                ],
+                "mapping": {
+                    "l": "tconstruct:sky_slime_leaves",
+                    "o": "tconstruct:skyroot_log",
+                    "m": "#kubejs:tree_absorber_side"
+                }
+            },
+            "text": ""
+        },
+        {
+            "type": "text",
+            "title": "Skyroot Tree",
+            "text": "This structure requires;$(li)Skyroot Logs$(li)Blue Slimey Leaves$(li)Tree Absorber$(br2)Once fully built the tree absorber will start create drops from that type of tree. Requires power"
+        }
+    ]
+}

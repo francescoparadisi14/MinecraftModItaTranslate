@@ -1,0 +1,51 @@
+{
+    "name": "Grapes 🌐",
+    "category": "patchouli:crops",
+    "icon": "vinery:red_grape",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li):moneta: 4$(li)🌐 §5Tutto l'anno$(br2)$(l)Note$()$(br)Viticci possono essere trovati in specifici Biomi a seconda del nome. Possono essere coltivati su erba o sulla parte superiore dei tronchi di vite per un aumento.`"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Grapevine Stem",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ],
+                "mapping": {
+                    "0": "vinery:grapevine_stem[age=4,grape=red]",
+                    "F": "vinery:grapevine_stem"
+                }
+            },
+            "text": "Multiblock Structure"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Grape Bush",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ],
+                "mapping": {
+                    "0": "vinery:red_grape_bush[age=3]",
+                    "F": "minecraft:grass_block"
+                }
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Aero Mono",
+    "category": "patchouli:fish",
+    "icon": "unusualfishmod:raw_aero_mono",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Denaro: 128 monete$(li)Simbolo 0 ❆ Simbolo b Inverno $(li)Acqua: Fresca$(li)Clima: Qualsiasi$(li)Ora: Giorno"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "unusualfishmod:aero_mono",
+            "scale": 0.8,
+            "rotate": true,
+            "offset": -0.3,
+            "text": "Rifornimento d'aria? Pensavo fossi un pesce."
+        }
+    ]
+}

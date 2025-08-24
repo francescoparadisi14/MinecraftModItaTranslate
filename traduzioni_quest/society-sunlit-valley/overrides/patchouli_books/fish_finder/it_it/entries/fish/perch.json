@@ -1,0 +1,18 @@
+{
+    "name": "Perch",
+    "category": "patchouli:fish",
+    "icon": "aquaculture:perch",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li):moneta: 16$(li)§0🌼 §2Primavera§0 §0🍂 §4Autunno§0 §0❆ §bInverno§0$(li)Acqua: Fresca$(li)Clima: Qualsiasi$(li)Ora: Primavera, Autunno (Giorno), Inverno (Notte)`"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "aquaculture:perch",
+            "scale": 0.8,
+            "rotate": true,
+            "text": "Non è questo il comportamento dei uccelli."
+        }
+    ]
+}

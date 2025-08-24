@@ -1,0 +1,91 @@
+{
+    "name": "Greenheart Tree",
+    "icon": "tconstruct:earth_slime_sapling",
+    "category": "patchouli:tree_absorber",
+    "sortnum": "1",
+    "pages": [
+        {
+            "type": "multiblock",
+            "name": "Greenheart Tree",
+            "enable_visualize": true,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "       ",
+                        "       ",
+                        "   l   ",
+                        "  lll  ",
+                        "   l   ",
+                        "       ",
+                        "       "
+                    ],
+                    [
+                        "       ",
+                        "   l   ",
+                        "  lll  ",
+                        " lloll ",
+                        "  lll  ",
+                        "   l   ",
+                        "       "
+                    ],
+                    [
+                        "   l   ",
+                        "  lll  ",
+                        " lllll ",
+                        "lllolll",
+                        " lllll ",
+                        "  lll  ",
+                        "   l   "
+                    ],
+                    [
+                        "  lll  ",
+                        " lllll ",
+                        "lllllll",
+                        "lllolll",
+                        "lllllll",
+                        " lllll ",
+                        "  lll  "
+                    ],
+                    [
+                        "   l   ",
+                        "       ",
+                        "       ",
+                        "l  o  l",
+                        "       ",
+                        "       ",
+                        "   l   "
+                    ],
+                    [
+                        "       ",
+                        "       ",
+                        "       ",
+                        "   o   ",
+                        "       ",
+                        "       ",
+                        "       "
+                    ],
+                    [
+                        "       ",
+                        "       ",
+                        "       ",
+                        "   m0  ",
+                        "       ",
+                        "       ",
+                        "       "
+                    ]
+                ],
+                "mapping": {
+                    "l": "tconstruct:earth_slime_leaves",
+                    "o": "tconstruct:greenheart_log",
+                    "m": "#kubejs:tree_absorber_side"
+                }
+            },
+            "text": ""
+        },
+        {
+            "type": "text",
+            "title": "Greenheart Tree",
+            "text": "This structure requires;$(li)Greenheart Logs$(li)Green Slimey Leaves$(li)Tree Absorber$(br2)Once fully built the tree absorber will start create drops from that type of tree. Requires power"
+        }
+    ]
+}

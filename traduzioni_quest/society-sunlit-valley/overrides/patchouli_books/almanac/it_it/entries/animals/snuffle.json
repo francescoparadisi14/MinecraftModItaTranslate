@@ -1,0 +1,17 @@
+{
+    "name": "Snuffle",
+    "category": "patchouli:animals",
+    "icon": "snuffles:snuffle_fluff",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Cadute con le forbici: Fiocco di Snuffle, Fiocco di Frosty, Lana Finissima (50% di probabilità), Capelli Congelati (20% di probabilità) $(li)Bottino: Lacrima Congelata$(br2)$(l)Note$()$(br)La Lana Finissima si può ottenere solo con 5+ cuori di affetto. I Capelli Congelati richiedono 7+. Ritornerà lentamente a crescere il pelo nel tempo e diventerà ghiacciato nella neve."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "snuffles:snuffle",
+            "scale": 0.8,
+            "text": "Possono essere alimentati con palline di schiuma per cambiare il loro stile dei capelli!!!"
+        }
+    ]
+}

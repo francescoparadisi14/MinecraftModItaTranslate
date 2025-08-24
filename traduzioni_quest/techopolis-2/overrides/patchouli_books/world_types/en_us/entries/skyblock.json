@@ -1,0 +1,16 @@
+{
+    "name": "Skyblock",
+    "icon": "minecraft:oak_leaves",
+    "category": "patchouli:world_types",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Just you and the void.$(br2)Cobblestone can be generated in the vanilla way creating a cobblestone generator using lava and water.$(br2)Various additional recipes added for common resources such as sand, gravel and clay.$(br2)Saplings can also be converted into other saplings by crafting then in your crafting table."
+        },
+        {
+            "type": "text",
+            "text": "Lava and water ceramic buckets can be crafted using redstone and lapis.$(br2)Seeds and other plant can also be crafted from wheat, apples and leaves.$(br2)Don't worry about falling to your death, forgiving void will respawn you in the air if you fall"
+        }
+    ]
+}

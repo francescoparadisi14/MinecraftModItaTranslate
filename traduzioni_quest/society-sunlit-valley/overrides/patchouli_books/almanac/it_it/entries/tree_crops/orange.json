@@ -1,0 +1,31 @@
+{
+    "name": "arancione 🔥",
+    "category": "patchouli:tree_crops",
+    "icon": "atmospheric:orange",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li):moneta: 96$(li)§6Summer§r$(li)Rendita: 1$(li)Fasi di crescita: 8$(br2)$(l)Note$()$(li)Vedi: $(l:trees\/pams\/orange)Albero d'arancio$(\/l)`"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Orange Tree",
+            "enable_visualize": false,
+            "multiblock": {
+                "mapping": {
+                    "0": "minecraft:oak_leaves",
+                    "F": "pamhc2trees:pamorange[age=7]"
+                },
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ]
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

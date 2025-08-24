@@ -1,0 +1,17 @@
+{
+    "name": "Calamita luminosa",
+    "category": "patchouli:animals",
+    "icon": "minecraft:glow_ink_sac",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Latte: Sacco d'inchiostro$(li)Ritardo del latte: 1 giorno$(li)Cerca: Tentacoli di Calamari luminosi (20% di probabilità), Inchiostro leggendario (10% di probabilità) $(li)Bottino: Sacco d'inchiostro luminoso$(br2)$(l)Note$()$(br)I bottini si verificano a 5+ cuori di affetto"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:glow_squid",
+            "scale": 0.4,
+            "text": "Sudare un calamaro?"
+        }
+    ]
+}

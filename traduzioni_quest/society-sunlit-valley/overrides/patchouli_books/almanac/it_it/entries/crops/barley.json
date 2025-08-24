@@ -1,0 +1,31 @@
+{
+    "name": "Barley 🍂❆",
+    "category": "patchouli:crops",
+    "icon": "farm_and_charm:barley",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li):moneta: 11$(li)🍂 §4Autumn §r❆ §bWinter$(li)Prezzo seme: :moneta: 2$(li)Rendimento: 2$(li)Tempo di crescita: 4 giorni"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Barley Crop",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ],
+                "mapping": {
+                    "0": "farm_and_charm:barley_crop[age=4]",
+                    "F": "minecraft:farmland[moisture=7]"
+                }
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

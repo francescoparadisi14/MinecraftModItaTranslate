@@ -1,0 +1,17 @@
+{
+    "name": "Orso grizzuto",
+    "category": "patchouli:pets",
+    "icon": "buzzier_bees:honey_apple",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Doni Possibili:$()$(br)Sigillo Beeomonican$(br2)$(l)Note$()$(br)Può essere trovato solo da un uovo di spawn, che è nascosto dalla ricerca del JEI."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "buzzier_bees:grizzly_bear",
+            "scale": 0.6,
+            "text": "Mi chiedo da dove vengano questi..."
+        }
+    ]
+}

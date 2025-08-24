@@ -1,0 +1,17 @@
+{
+    "name": "Bison",
+    "category": "patchouli:animals",
+    "icon": "wildernature:bison_horn",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Latte: Latte di bufala$(li)Ricarica latte: 1 giorno$(li)Bottino: Carne di bisonte, Pelle, Corno di bisonte$(br2)$(l)Note$()$(br)Si trova in biomi di taiga. Attaccherà istintivamente i giocatori vicini, anche con un'affezione alta."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "wildernature:bison",
+            "scale": 0.7,
+            "text": "I bisonti sono capricciosi e molto diffidenti a causa del bracconaggio."
+        }
+    ]
+}

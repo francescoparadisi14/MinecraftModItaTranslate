@@ -1,0 +1,35 @@
+{
+    "name": "Aloe Vera 🔥",
+    "category": "patchouli:crops",
+    "icon": "atmospheric:aloe_leaves",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li):moneta: 16$(li)🔥 §6Summer§r$(li)Rendita: 1-2$(li)Stadi di crescita: 5-8$(br2)$(l)Note$()$(br)Si trova nel bioma delle Dune fiorite.$(br)Coltivabile allo stadio 5.$(br)Lascia cadere Fiori gialli a stadi più alti."
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Aloe Vera Crop",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "1"
+                    ],
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ],
+                "mapping": {
+                    "1": "atmospheric:tall_aloe_vera[age=8,half=upper]",
+                    "0": "atmospheric:tall_aloe_vera[age=8,half=lower]",
+                    "F": "minecraft:sand"
+                }
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

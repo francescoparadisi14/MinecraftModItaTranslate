@@ -1,0 +1,34 @@
+{
+    "name": "Rice 🔥🍂",
+    "category": "patchouli:crops",
+    "icon": "farmersdelight:rice",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Stats$()$(li):coin: 16$(li)🔥 §6Summer§r 🍂 §4Autumn$(li)Seed Price: :coin: 64$(li)Yield: 1$(li)Growth Stages: 6$(li)Regrow Stages: 3$(br2)$(l)Notes$()$(br)Must be planted in shallow water. "
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Flax Crop",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "U"
+                    ],
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ],
+                "mapping": {
+                    "U": "farmersdelight:rice_panicles[age=3]",
+                    "0": "farmersdelight:rice[age=3,supporting=true]",
+                    "F": "minecraft:dirt"
+                }
+            }
+        }
+    ]
+}

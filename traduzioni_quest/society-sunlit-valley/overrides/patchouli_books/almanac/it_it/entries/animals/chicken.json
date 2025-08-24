@@ -1,0 +1,17 @@
+{
+    "name": "Pollo",
+    "category": "patchouli:animals",
+    "icon": "minecraft:egg",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Prezzo: 256 monete$(li)Uovo: Uovo$(li)Bottino: Pollo crudo, Piuma$(br2)$(l)Note$()$(br)Le galline affamate non depongono uova e quelle infelici ne depongono molto meno."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:chicken",
+            "scale": 0.8,
+            "text": "Questi umili uccelli richiedono poca attenzione, solo cibo."
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Tree Absorber",
+    "description": "This machine can be placed underneath a manauly built tree to create wood, leaves and saplings.",
+    "icon": "kubejs:tree_absorber_side",
+    "sortnum": "4"
+}

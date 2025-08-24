@@ -1,0 +1,12 @@
+{
+    "name": "Terra",
+    "icon": "minecraft:dirt",
+    "category": "patchouli:skyblock",
+    "sortnum": "2",
+    "pages": [
+        {
+            "type": "text",
+            "text": " Foglie e piante possono essere utilizzate per creare terra."
+        }
+    ]
+}

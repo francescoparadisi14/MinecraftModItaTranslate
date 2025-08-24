@@ -1,0 +1,6 @@
+{
+    "name": "Miners",
+    "description": "Miners are early game machine used to collect ores and blocks for you. Higher miner tiers allow you to collect more types of ore, they do not increase speed. (See faster miners for more information)",
+    "icon": "kubejs:miner",
+    "sortnum": "2"
+}

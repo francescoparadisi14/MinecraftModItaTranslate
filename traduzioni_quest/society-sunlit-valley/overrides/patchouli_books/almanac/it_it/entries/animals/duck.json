@@ -1,0 +1,17 @@
+{
+    "name": "Duck",
+    "category": "patchouli:animals",
+    "icon": "untitledduckmod:duck_egg",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Prezzo: 512 monete$(li)Uovo: Uovo di anatra$(li)Bottino: Oca cruda, Piuma d'anatra$(br2)$(l)Note$()$(br)Le anatre affamate non depongono uova e quelle infelici ne depongono molto meno."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "untitledduckmod:duck",
+            "scale": 0.8,
+            "text": "Con piume più fini e carne, le anatre sono migliori da allevare per il bottino rispetto alle galline."
+        }
+    ]
+}

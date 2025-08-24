@@ -1,0 +1,18 @@
+{
+    "name": "Arrau Turtle",
+    "category": "patchouli:fish",
+    "icon": "aquaculture:arrau_turtle",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Denaro: 280 monete$(li)Stagione: Autunno$(li)Acqua: Fiume$(li)Clima: Pioggia e Neve$(li)Ora: Notte"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "aquaculture:arrau_turtle",
+            "scale": 0.8,
+            "rotate": true,
+            "text": "Corre un tipo di club di tartaruga."
+        }
+    ]
+}

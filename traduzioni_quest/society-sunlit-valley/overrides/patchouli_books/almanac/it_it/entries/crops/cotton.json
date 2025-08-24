@@ -1,0 +1,31 @@
+{
+    "name": "Cotton 🔥",
+    "category": "patchouli:crops",
+    "icon": "etcetera:cotton_flower",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li):moneta: 24$(li)§6Summer§r$(li)Rendita: 2$(li)Tempo di crescita: 3 giorni$(br2)$(l)Note$()$(br)Si trova in palloni verdi, pozzi da scavare e Mojo Forest."
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Cotton Crop",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ],
+                "mapping": {
+                    "0": "etcetera:cotton[age=3]",
+                    "F": "minecraft:farmland[moisture=7]"
+                }
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Axolotl",
+    "category": "patchouli:pets",
+    "icon": "beachparty:rubber_ring_axolotl",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Doni Possibili:$()$(br)Amico di Axolotl, Anello in Gomma di Axolotl"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:axolotl",
+            "scale": 0.8,
+            "text": "Un abitante delle Grotte Foltose che ama cacciare pesci"
+        }
+    ]
+}

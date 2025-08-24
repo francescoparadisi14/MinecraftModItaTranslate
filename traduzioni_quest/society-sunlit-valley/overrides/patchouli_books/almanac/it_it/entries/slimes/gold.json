@@ -1,0 +1,18 @@
+{
+    "name": "Oro",
+    "category": "patchouli:slimes",
+    "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:gold\"}}",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Localizzazioni:$()$(li)Fusione del cuore$(br2)$(l)Rischii:$()$(br)Causa effetto di Cattivo Omeno quando è in collera e assorbe 512 :coin: dalle banche dei giocatori vicini ogni volta. Molti umori estremamente instabili."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Gold Slime",
+            "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:gold\"}",
+            "scale": 0.9,
+            "text": "Entità: Splendido Slime d'Oro"
+        }
+    ]
+}

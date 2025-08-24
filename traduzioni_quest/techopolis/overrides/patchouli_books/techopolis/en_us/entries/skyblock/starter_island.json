@@ -1,0 +1,12 @@
+{
+    "name": "Starter Island",
+    "icon": "minecraft:stone_bricks",
+    "category": "patchouli:skyblock",
+    "sortnum": "1",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The starting island contains a tree, cobblestone generator and a couple of machines."
+        }
+    ]
+}

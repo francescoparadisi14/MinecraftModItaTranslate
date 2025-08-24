@@ -1,0 +1,19 @@
+{
+    "name": "Assorbente anime",
+    "category": "patchouli:fish",
+    "icon": "netherdepthsupgrade:soulsucker",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Denaro: 312$(li)Dimensione: Inferno$(li)Bioma: Valle del Sabbia dell'Anima"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "netherdepthsupgrade:soulsucker",
+            "scale": 0.5,
+            "offset": -0.3,
+            "rotate": true,
+            "text": "Non farò il gioco di parole, puoi farlo tu."
+        }
+    ]
+}

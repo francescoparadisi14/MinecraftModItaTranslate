@@ -1,0 +1,17 @@
+{
+    "name": "Panda rosso",
+    "category": "patchouli:animals",
+    "icon": "society:ruby",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Raccolta: Rubino (20% di probabilità), Rubino Pristino (10% di probabilità)$(br2)$(l)Note$()$(br)La raccolta richiede 3+ cuori. Possono essere addomesticate con Fragole Dolci I Panda Rossi hanno difficoltà con la fecondità e le Pozioni Miracolose hanno una alta probabilità di fallire..."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "crittersandcompanions:red_panda",
+            "scale": 0.8,
+            "text": "Piccoli cacciatori di tesori rossi."
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Hatchet Fish",
+    "category": "patchouli:fish",
+    "icon": "unusualfishmod:raw_hatchetfish",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Denaro: 96 monete$(li)Simbolo di stagione: Primavera $(li)Piuma: Fresca$(li)Clima: Qualsiasi$(li)Ora: Notte"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "unusualfishmod:hatchet_fish",
+            "scale": 0.8,
+            "rotate": true,
+            "text": "Il pesce preferito di Raskolnikov."
+        }
+    ]
+}

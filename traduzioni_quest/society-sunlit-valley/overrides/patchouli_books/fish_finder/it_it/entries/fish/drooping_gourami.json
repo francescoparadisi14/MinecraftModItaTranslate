@@ -1,0 +1,19 @@
+{
+    "name": "Gourami pendente",
+    "category": "patchouli:fish",
+    "icon": "unusualfishmod:raw_drooping_gourami",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Denaro: 176 monete$(li)Simbolo di stagione: Primavera$(li)Acqua: Oceano$(li)Clima: Qualsiasi$(li)Ora del giorno: Giorno"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "unusualfishmod:drooping_gourami",
+            "scale": 0.8,
+            "rotate": true,
+            "offset": -0.8,
+            "text": "Grimp grimp glop gloo."
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Cherry 🌼",
+    "category": "patchouli:tree_crops",
+    "icon": "vinery:cherry",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li):moneta: 12$(li)🌼 §2Primavera§r $(li)Rendita: 4$(li)Stadi di crescita: 8$(br2)$(l)Note$()$(li)Vedi: $(l:trees\/pams\/cherry)Albero di ciliegio$(\/l)$(li)Vedi: $(l:trees\/letsdo\/darkcherry)Albero di ciliegi oscuri$(\/l)`"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Apple Tree",
+            "enable_visualize": false,
+            "multiblock": {
+                "mapping": {
+                    "0": "minecraft:oak_leaves",
+                    "F": "pamhc2trees:pamcherry[age=7]"
+                },
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ]
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

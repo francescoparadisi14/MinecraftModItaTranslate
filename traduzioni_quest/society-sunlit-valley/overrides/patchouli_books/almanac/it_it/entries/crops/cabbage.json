@@ -1,0 +1,31 @@
+{
+    "name": "Cabbage 🍂❆",
+    "category": "patchouli:crops",
+    "icon": "farmersdelight:cabbage",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li):moneta: 70$(li)🍂 §4Autunno §r❆ §bInverno$(li)Prezzo seme: :moneta: 64$(li)Rendimento: 1$(li)Tempo di crescita: 7 giorni$(br2)$(l)Note$()$(br)I semi acquistati solo dal Cultivatore Maestro`"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Cabbage Crop",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ],
+                "mapping": {
+                    "0": "farmersdelight:cabbages[age=7]",
+                    "F": "minecraft:farmland[moisture=7]"
+                }
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Normale",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:world_types",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Il mondo normale è il modo di gioco predefinito normale per giocare a Techopolis 2. $(br2)Non sono stati aggiunti alcune ricette in più."
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Ragno",
+    "category": "patchouli:animals",
+    "icon": "society:ribbit_gadget",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Raccolta: Succo di sughero (30% di probabilità), Zampa di rana (10% di probabilità), Gadget di ribbit (5% di probabilità), Luminari di rana (25% di probabilità)$(br2)$(l)Note$()$(br)La raccolta richiede 1+ cuori. Può essere trovato in biomi di palude."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:frog",
+            "scale": 0.7,
+            "text": "Amore per completare le taglie, odio ai Luminosi!"
+        }
+    ]
+}

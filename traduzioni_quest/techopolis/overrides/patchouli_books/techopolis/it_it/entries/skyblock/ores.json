@@ -1,0 +1,12 @@
+{
+    "name": "Ores",
+    "icon": "minecraft:coal_ore",
+    "category": "patchouli:skyblock",
+    "sortnum": "3",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Le miniere possono essere acquistate sul mercato, mentre le miniere di Nether e End devono ancora essere trovate nei rispettivi dimensioni. Per ulteriori informazioni, consulta la pagina dei minatori nel libro. $(l:patchouli:miners)`"
+        }
+    ]
+}

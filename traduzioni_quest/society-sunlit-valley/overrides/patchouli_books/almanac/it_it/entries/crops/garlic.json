@@ -1,0 +1,30 @@
+{
+    "name": "Garlic 🌼",
+    "category": "patchouli:crops",
+    "icon": "veggiesdelight:garlic",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li):moneta: 27$(li)🌼 §2Primavera§r$(li)Prezzo seme: :moneta: 32$(li)Rendimento: 1-3$(li)Tempo di crescita: 5 giorni$(br2)$(l)Note$()$(br)I semi acquistati solo dal Cultivatore Maestro.`"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Garlic Crop",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ],
+                "mapping": {
+                    "0": "veggiesdelight:garlic_crop[age=5]",
+                    "F": "minecraft:farmland[moisture=7]"
+                }
+            }
+        }
+    ]
+}

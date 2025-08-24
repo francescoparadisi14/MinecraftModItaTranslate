@@ -1,0 +1,18 @@
+{
+    "name": "Demon Herring",
+    "category": "patchouli:fish",
+    "icon": "unusualfishmod:raw_demon_herring",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Stats$()$(li):coin: 192$(li)§0🍂 §4Autumn§0$(li)Water: Ocean$(li)Weather: Any$(li)Time: Night"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "unusualfishmod:demon_herring",
+            "scale": 0.8,
+            "rotate": true,
+            "text": "Tanjiro sends his regards."
+        }
+    ]
+}

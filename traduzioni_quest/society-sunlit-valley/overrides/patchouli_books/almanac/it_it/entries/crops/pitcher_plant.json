@@ -1,0 +1,35 @@
+{
+    "name": "Pianta del pitchere 🔥",
+    "category": "patchouli:crops",
+    "icon": "minecraft:pitcher_plant",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li):moneta: 128$(li)🔥 §6Summer§r$(li)Rendita: 1$(li)Tempo di crescita: 4 giorni$(br2)$(l)Note$()$(br)Semi scavati dai Sniffer"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Pitcher Plant Crop",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "U"
+                    ],
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ],
+                "mapping": {
+                    "U": "minecraft:pitcher_crop[age=4,half=upper]",
+                    "0": "minecraft:pitcher_crop[age=4,half=lower]",
+                    "F": "minecraft:farmland[moisture=7]"
+                }
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Tuttovedente",
+    "category": "patchouli:slimes",
+    "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:all_seeing\"}}",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Localizzazioni:$()$(li)Fusione cardiaca$(br2)$(l)Rischii:$()$(br)Sale le scale delle pareti e causa l'effetto Veleno quando è agitato."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "All-Seeing Slime",
+            "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:all_seeing\"}",
+            "scale": 0.9,
+            "text": "Entità: Splendido Slime \"Tuttovedente\""
+        }
+    ]
+}

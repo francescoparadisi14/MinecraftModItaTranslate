@@ -1,0 +1,31 @@
+{
+    "name": "Blueberry 🔥",
+    "category": "patchouli:crops",
+    "icon": "society:blueberry",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Denaro: 24$(li)§6Summer§r$(li)Prezzo seme: 4$(li)Rendimento: 3-4$(li)Tempo di crescita: 7 giorni"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Blueberry Crop",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ],
+                "mapping": {
+                    "0": "society:blueberry[age=7]",
+                    "F": "minecraft:farmland[moisture=7]"
+                }
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

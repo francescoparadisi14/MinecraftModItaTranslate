@@ -1,0 +1,16 @@
+{
+    "name": "Strumenti",
+    "icon": "minecraft:wooden_pickaxe",
+    "category": "patchouli:getting_started",
+    "sortnum": "1",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Strumenti vanilla disabilitati, utilizzare Tinkers' Construct per creare strumenti."
+        },
+        {
+            "type": "text",
+            "text": "Un kama dei fabbri può essere utilizzato come vanga e usato per raccogliere foglie."
+        }
+    ]
+}

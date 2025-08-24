@@ -1,0 +1,84 @@
+{
+    "name": "Albero di ciliegio 🌼",
+    "category": "patchouli:trees",
+    "icon": "pamhc2trees:cherry_sapling",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Stagione: Primavera $(li)Prezzo: 512 monete $(li)Dimensioni: 1x1 $(li)Cresce in:` $(l:tree_crops\/cherry)8 Cherry $(\/l) $(br2) $(l)Note$()$(li)Venduti da Maestro Coltivatore.`"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Apple Tree",
+            "enable_visualize": false,
+            "multiblock": {
+                "mapping": {
+                    "0": "minecraft:oak_leaves",
+                    "L": "minecraft:oak_leaves",
+                    "W": "minecraft:oak_log[axis=y]",
+                    "F": "pamhc2trees:pamcherry[age=7]"
+                },
+                "pattern": [
+                    [
+                        "     ",
+                        "     ",
+                        "  0  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  L  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        " LLL ",
+                        " LWL ",
+                        " LLL ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        " LLL ",
+                        " LWL ",
+                        " LLL ",
+                        "     "
+                    ],
+                    [
+                        "LLLLL",
+                        "LLLLL",
+                        "LLWLL",
+                        "LLLLL",
+                        "LLLLL"
+                    ],
+                    [
+                        "     ",
+                        " FFF ",
+                        " FWF ",
+                        " FFF ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  W  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  W  ",
+                        "     ",
+                        "     "
+                    ]
+                ]
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

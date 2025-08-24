@@ -1,0 +1,16 @@
+{
+    "name": "Modifiche di ricetta",
+    "icon": "minecraft:book_and_quill",
+    "category": "patchouli:skyblock",
+    "sortnum": "5",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Sono stati aggiunti e\/o modificati diversi ricettari per rendere disponibile il modo Skyblock."
+        },
+        {
+            "type": "text",
+            "text": "Elenco di ricette aggiunte; $(li)Blocchi di terra$(li)Argilla (Pulverizzatore)$(li)Secchio di lava (Forno)$(li)Secchio di argilla-lava (Forno)$(li)Trovali$(li)Funghi$(li)Corda"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "banana 🔥",
+    "category": "patchouli:tree_crops",
+    "icon": "pamhc2trees:bananaitem",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li):moneta: 16$(li)§6Summer§r$(li)Rendita: 3$(li)Stadi di crescita: 8$(br2)$(l)Note$()$(li)Vedi: $(l:trees\/pams\/banana)Banana Tree$(\/l)`"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Banana Tree",
+            "enable_visualize": false,
+            "multiblock": {
+                "mapping": {
+                    "0": "minecraft:oak_leaves",
+                    "F": "pamhc2trees:pambanana[age=7]"
+                },
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ]
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

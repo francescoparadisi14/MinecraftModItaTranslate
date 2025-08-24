@@ -1,0 +1,77 @@
+{
+    "name": "Minatori di minerale",
+    "icon": "kubejs:miner",
+    "category": "patchouli:miners",
+    "sortnum": "1",
+    "pages": [
+        {
+            "type": "text",
+            "text": "I minatori sono blocchi che possono essere posti sopra un'area di 3x3x3 di minerali per estrarli per conto tuo. $(br2)Gli stadi superiori dei minatori saranno in grado di raccogliere minerali di tier più alto, i livelli di miner non aumentano la velocità di estrazione, vedi minatori più rapidi. $(br2)Si possono collocare lingotti di tecnio all'interno del minatore per aumentare la velocità."
+        },
+        {
+            "type": "multiblock",
+            "name": "Blocco minerario",
+            "enable_visualize": true,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "   ",
+                        " m ",
+                        "   "
+                    ],
+                    [
+                        "ooo",
+                        "ooo",
+                        "ooo"
+                    ],
+                    [
+                        "ooo",
+                        "ooo",
+                        "ooo"
+                    ],
+                    [
+                        "ooo",
+                        "o0o",
+                        "ooo"
+                    ]
+                ],
+                "mapping": {
+                    "o": "geolosys:coal_ore",
+                    "0": "geolosys:coal_ore",
+                    "m": "#kubejs:miner"
+                }
+            },
+            "text": ""
+        },
+        {
+            "type": "text",
+            "title": "Miner Tier 1",
+            "text": "Un minatore di livello 1 può estrarre: $(br)$(li)Carbone$(li)Grua$(li)Lapislazzuli$(li)Malachite (Rame)$(li)Azurite (Rame)$(li)Cassiterite (Stagno)$(li)Teallite (Stagno)"
+        },
+        {
+            "type": "text",
+            "title": "Miner Tier 2",
+            "text": "Un minatore di livello 2 può estrarre: $(br)$(li)Cinnabaro (Riduzione del tempo)$$(li)Ematite (Ferro)$$(li)Bauxite (Alluminio)$$(li)Limonite (Nickel)`"
+        },
+        {
+            "type": "text",
+            "title": "Miner Tier 3",
+            "text": "Un minatore di livello 3 può estrarre: $(br)$(li)Crystalli vari$(li)Galenite (Argento e Piombo)$(li)Platino$(li)Oro"
+        },
+        {
+            "type": "text",
+            "title": "Miner Tier 4",
+            "text": "Un minatore di livello 4 può estrarre: $(br)$(li)Kimberlite (Diamante)$(li)Berillo (Smeraldo)$(li)Sfalerite (Zinco)$(li)Autunita (Uranio)"
+        },
+        {
+            "type": "text",
+            "title": "Miner Tier 5",
+            "text": "Un minatore di livello 5 può estrarre: $(br)$(li)Rimembranze Antiche$(li)Crystallo del Finestra$(li)Cobalto$(li)Luminaria$(br) (nel Mondo dei Fuochi)"
+        },
+        {
+            "type": "text",
+            "title": "Miner Tier 5",
+            "text": "Un minatore di livello 5 può estrarre: $(br)$(li)Biocita$(li)Tungsteno$(li)Dracorio$(li)Iridio$(br)(Nel Mondo Finale)"
+        }
+    ]
+}

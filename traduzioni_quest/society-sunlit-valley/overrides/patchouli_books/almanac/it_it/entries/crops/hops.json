@@ -1,0 +1,31 @@
+{
+    "name": "Hops 🔥",
+    "category": "patchouli:crops",
+    "icon": "brewery:hops",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li):moneta: 21$(li)🔥 §6Summer§r$(li)Rendita: 2$(li)Tempo di crescita: 6 giorni$(br2)$(l)Note$()$(br)Si trova in biomi simili a quelli della taiga."
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Hops Crop",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ],
+                "mapping": {
+                    "0": "brewery:hop_trellis[age=6]",
+                    "F": "minecraft:farmland[moisture=7]"
+                }
+            },
+            "text": "Multiblock Structure"
+        }
+    ]
+}

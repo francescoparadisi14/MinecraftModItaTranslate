@@ -1,0 +1,16 @@
+{
+    "name": "Skyblock",
+    "icon": "minecraft:oak_leaves",
+    "category": "patchouli:world_types",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Solo tu e il vuoto.\n\n$(br2)Il pietrisco può essere generato nel modo vanilla creando un generatore di pietrisco utilizzando lava e acqua.\n\n$(br2)Vengono aggiunte varie ricette supplementari per risorse comuni come sabbia, ghiaia e argilla.\n\n$(br2)I semi possono anche essere convertiti in altri semi mediante la lavorazione nel tuo tavolo di lavorazione."
+        },
+        {
+            "type": "text",
+            "text": "Il materiale ceramico per secchi di lava e acqua può essere creato utilizzando redstone e lapislazzuli. $(br2)Inoltre, i semi e altri vegetali possono essere creati a partire da grano, mele e foglie. $(br2)Non preoccuparti se cadrai dalla tua morte, il vuoto perdonerà la tua caduta e ti rispunterà in aria"
+        }
+    ]
+}

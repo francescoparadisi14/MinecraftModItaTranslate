@@ -1,0 +1,18 @@
+{
+    "name": "Red Shrooma",
+    "category": "patchouli:fish",
+    "icon": "aquaculture:red_shrooma",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Denaro: 264 monete$(li)Simbolo di stagione: 🍂 Autunno$(li)Acqua: Oceano$(li)Clima: Pioggia, Neve$(li)Ora del giorno: Giorno"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "aquaculture:red_shrooma",
+            "scale": 0.8,
+            "rotate": true,
+            "text": "Scommetto che è sicuro da mangiare."
+        }
+    ]
+}

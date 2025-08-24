@@ -1,0 +1,17 @@
+{
+    "name": "Wraptor",
+    "category": "patchouli:animals",
+    "icon": "species:wraptor_egg",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Uovo: Uovo di Wraptor $(br2)$(l)Note$()$(br)Gli uova richiedono 2+ cuori. Possono essere trovate nei Boschi Distorti. Spariranno se non vengono etichettati con un nome!"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "species:wraptor",
+            "scale": 0.8,
+            "text": "Essi odiano stare fuori dalla calda e rassicurante temperatura del Nether."
+        }
+    ]
+}

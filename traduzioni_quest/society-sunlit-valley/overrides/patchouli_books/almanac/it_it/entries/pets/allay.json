@@ -1,0 +1,17 @@
+{
+    "name": "Allay",
+    "category": "patchouli:pets",
+    "icon": "minecraft:amethyst_shard",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Doni Possibili:$()$(br)Cappello delle Orecchie di Chi"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:allay",
+            "scale": 0.8,
+            "text": "Alternativamente, prova un'Upgrade a Magnetico da Sophisticated Storage"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Bonefish",
+    "category": "patchouli:fish",
+    "icon": "netherdepthsupgrade:bonefish",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Denaro: 264$(li)Dimensione: Inferno$(li)Bioma: Rifiuti dell'Inferno"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "netherdepthsupgrade:bonefish",
+            "scale": 0.8,
+            "offset": -0.3,
+            "rotate": true,
+            "text": "Un osso di pesce della pace è stato trovato nel braccio dei dinosauri."
+        }
+    ]
+}

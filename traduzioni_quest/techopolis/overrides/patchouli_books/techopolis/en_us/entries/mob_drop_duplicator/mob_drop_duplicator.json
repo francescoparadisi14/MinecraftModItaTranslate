@@ -1,0 +1,12 @@
+{
+    "name": "Mob Drop Duplicator",
+    "icon": "minecraft:ender_pearl",
+    "category": "patchouli:mob_drop_duplicator",
+    "sortnum": "1",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The mob drop duplicator will duplicate a selected mob drop when provided with power and liquid mob essence. The amount of power and mob essence used depends on the item your trying to duplicate."
+        }
+    ]
+}
