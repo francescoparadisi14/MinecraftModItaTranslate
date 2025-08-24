@@ -1,0 +1,67 @@
+<img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
+
+![](https://img.shields.io/badge/Ultimo%20Aggiornamento-24%2F08%2F2025-blue)
+![](https://img.shields.io/badge/Mod%20tradotte-1475-green)
+![](https://img.shields.io/badge/Quest%20tradotte-3-green)
+
+## Progetto che utilizza l’intelligenza artificiale per **tradurre automaticamente in italiano** i contenuti testuali delle mod di Minecraft.
+Supporta file `.json` (come `en_us.json`) e file `.snbt` (come `en_us.snbt`) per FTB Quests.
+Traduzioni basate su modelli AI
+
+---
+
+## Obiettivo del progetto
+
+Il nostro scopo è semplificare la localizzazione in italiano delle mod di Minecraft, mantenendo alta la qualità delle traduzioni e riducendo drasticamente il lavoro manuale. Questo permette una più ampia diffusione e fruizione delle mod anche da parte di chi non conosce l’inglese.
+
+---
+
+## Tecnologie usate
+
+- [PHP](https://www.php.net/)
+- [Api CurseForge](https://curseforge.com/)
+- [Ollama su Docker](https://hub.docker.com/r/ollama/ollama)
+
+---
+
+## Richiedi la traduzione di una mod
+
+Hai una mod specifica che vorresti vedere tradotta in italiano?  
+Compila il modulo qui sotto per inviarci la tua richiesta:
+
+👉 [Modulo richiesta traduzione mod](https://forms.gle/3SsGruLzzU6gDovv8)
+
+> Accettiamo richieste per mod singole o interi modpack!
+
+---
+# Lista Mod disponibili
+
+|  |Mod | Ultimo<br/>aggiornamento | Numero<br/>Traduzioni |Download |
+| ---- | ---- | ---- | ---- | ---- |
+| <img src="https://media.forgecdn.net/avatars/629/95/638026664077442713.png" loading="lazy" decoding="async" width="30" /> | [Gadgets Against Grind](https://www.curseforge.com/minecraft/mc-mods/gag "Web Site")  | 07/08/2025 | 57 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgag "Download") |
+| <img src="https://media.forgecdn.net/avatars/1162/72/638731009126653254.gif" loading="lazy" decoding="async" width="30" /> | [Gallery](https://www.curseforge.com/minecraft/mc-mods/gallery "Web Site")  | 07/08/2025 | 1 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgallery "Download") |
+| <img src="https://media.forgecdn.net/avatars/561/884/637914692469246256.png" loading="lazy" decoding="async" width="30" /> | [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere "Web Site")  | 07/08/2025 | 244 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgalosphere "Download") |
+| <img src="https://media.forgecdn.net/avatars/1087/917/638630611723440526.png" loading="lazy" decoding="async" width="30" /> | [Game Discs](https://www.curseforge.com/minecraft/mc-mods/game-discs "Web Site")  | 07/08/2025 | 42 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgamediscs "Download") |
+| <img src="https://media.forgecdn.net/avatars/208/210/636972859205299350.png" loading="lazy" decoding="async" width="30" /> | [Game Stages](https://www.curseforge.com/minecraft/mc-mods/game-stages "Web Site")  | 07/08/2025 | 15 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgamestages "Download") |
+| <img src="https://media.forgecdn.net/avatars/784/872/638134513563353277.png" loading="lazy" decoding="async" width="30" /> | [Gardens of the Dead](https://www.curseforge.com/minecraft/mc-mods/gardens-of-the-dead "Web Site")  | 07/08/2025 | 50 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgardens_of_the_dead "Download") |
+| <img src="https://media.forgecdn.net/avatars/585/611/637952776300526311.gif" loading="lazy" decoding="async" width="30" /> | [Gateways to Eternity](https://www.curseforge.com/minecraft/mc-mods/gateways-to-eternity "Web Site")  | 07/08/2025 | 92 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgateways "Download") |
+| <img src="https://media.forgecdn.net/avatars/1288/880/638837960729036637.png" loading="lazy" decoding="async" width="30" /> | [Gaze - A Malum Addon](https://www.curseforge.com/minecraft/mc-mods/gaze-a-malum-addon "Web Site")  | 04/08/2025 | 285 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgaze "Download") |
+| <img src="https://media.forgecdn.net/avatars/624/859/638021179754785349.jpeg" loading="lazy" decoding="async" width="30" /> | [Generator Galore](https://www.curseforge.com/minecraft/mc-mods/generatorgalore "Web Site")  | 07/08/2025 | 70 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgeneratorgalore "Download") |
+| <img src="https://media.forgecdn.net/avatars/1018/117/638544686166792768.png" loading="lazy" decoding="async" width="30" /> | [Genetics: Resequenced](https://www.curseforge.com/minecraft/mc-mods/genetics-resequenced "Web Site")  | 04/08/2025 | 1075 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgeneticsresequenced "Download") |
+| <img src="https://media.forgecdn.net/avatars/166/575/636698669149917062.png" loading="lazy" decoding="async" width="30" /> | [Geolosys](https://www.curseforge.com/minecraft/mc-mods/geolosys "Web Site")  | 03/08/2025 | 118 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgeolosys "Download") |
+| <img src="https://media.forgecdn.net/avatars/458/320/637732204117711114.png" loading="lazy" decoding="async" width="30" /> | [GeOre](https://www.curseforge.com/minecraft/mc-mods/geore "Web Site")  | 04/08/2025 | 274 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgeore "Download") |
+| <img src="https://media.forgecdn.net/avatars/608/508/637987916898855738.gif" loading="lazy" decoding="async" width="30" /> | [GeOre Nouveau](https://www.curseforge.com/minecraft/mc-mods/geore-nouveau "Web Site")  | 04/08/2025 | 105 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgeorenouveau "Download") |
+| <img src="https://media.forgecdn.net/avatars/303/586/637373199772307616.png" loading="lazy" decoding="async" width="30" /> | [Get It Together, Drops!](https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops "Web Site")  | 07/08/2025 | 4 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgetittogetherdrops "Download") |
+| <img src="https://media.forgecdn.net/avatars/1123/24/638679275190516166.png" loading="lazy" decoding="async" width="30" /> | [Glassential Renewed (Fabric/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/glassential-renewed "Web Site")  | 11/08/2025 | 96 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fglassential "Download") |
+| <img src="https://media.forgecdn.net/avatars/999/904/638518684505080004.png" loading="lazy" decoding="async" width="30" /> | [Global Packs](https://www.curseforge.com/minecraft/mc-mods/globalpacks "Web Site")  | 07/08/2025 | 2 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fglobalpacks "Download") |
+| <img src="https://media.forgecdn.net/avatars/1405/489/638910770828592105.png" loading="lazy" decoding="async" width="30" /> | [Glow Sticks](https://www.curseforge.com/minecraft/mc-mods/glow-sticks "Web Site")  | 18/08/2025 | 44 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fglow_sticks "Download") |
+| <img src="https://media.forgecdn.net/avatars/871/321/638288811545199466.png" loading="lazy" decoding="async" width="30" /> | [Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders "Web Site")  | 18/08/2025 | 23 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgoblintraders "Download") |
+| <img src="https://media.forgecdn.net/avatars/959/514/638454541029617098.png" loading="lazy" decoding="async" width="30" /> | [Goety - The Dark Arts](https://www.curseforge.com/minecraft/mc-mods/goety "Web Site")  | 08/08/2025 | 2665 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgoety "Download") |
+| <img src="https://media.forgecdn.net/avatars/52/925/636120005600395225.png" loading="lazy" decoding="async" width="30" /> | [GooglyEyes ](https://www.curseforge.com/minecraft/mc-mods/googlyeyes "Web Site")  | 04/08/2025 | 12 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgooglyeyes "Download") |
+| <img src="https://media.forgecdn.net/avatars/548/553/637884237311415435.png" loading="lazy" decoding="async" width="30" /> | [Grappling Hook Mod](https://www.curseforge.com/minecraft/mc-mods/grappling-hook-mod "Web Site")  | 04/08/2025 | 502 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgrapplemod "Download") |
+| <img src="https://media.forgecdn.net/avatars/789/778/638144413900343890.png" loading="lazy" decoding="async" width="30" /> | [Grass Overhaul (Sod)](https://www.curseforge.com/minecraft/mc-mods/grass-overhaul "Web Site")  | 07/08/2025 | 29 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgrassoverhaul "Download") |
+| <img src="https://media.forgecdn.net/avatars/276/919/637267971739647681.png" loading="lazy" decoding="async" width="30" /> | [GraveStone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod "Web Site")  | 07/08/2025 | 33 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgravestone "Download") |
+| <img src="https://media.forgecdn.net/avatars/587/21/637955708403022546.png" loading="lazy" decoding="async" width="30" /> | [Gravitational Modulating Additional Unit](https://www.curseforge.com/minecraft/mc-mods/gravitational-modulating-additional-unit "Web Site")  | 18/08/2025 | 11 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgmut "Download") |
+| <img src="https://media.forgecdn.net/avatars/850/975/638252863907612360.png" loading="lazy" decoding="async" width="30" /> | [GregTech CEu Modern](https://www.curseforge.com/minecraft/mc-mods/gregtechceu-modern "Web Site")  | 08/08/2025 | 5861 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgtceu "Download") |
+| <img src="https://media.forgecdn.net/avatars/280/785/637283115951339629.png" loading="lazy" decoding="async" width="30" /> | [Guard Villagers](https://www.curseforge.com/minecraft/mc-mods/guard-villagers "Web Site")  | 07/08/2025 | 15 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fguardvillagers "Download") |
+| <img src="https://media.forgecdn.net/avatars/1151/155/638718882756139313.png" loading="lazy" decoding="async" width="30" /> | [GuideME](https://www.curseforge.com/minecraft/mc-mods/guideme "Web Site")  | 07/08/2025 | 36 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fguideme "Download") |
