@@ -1,5 +1,6 @@
 {
     "block.smartcrafting.smart_crafting_table": "Tavola di craftaggio intelligente",
     "block.smartcrafting.smart_crafting_table.sort_by_mod": "ordinare per nome",
-    "block.smartcrafting.smart_crafting_table.sort_by_name": "ordinare per nome del modulo"
+    "block.smartcrafting.smart_crafting_table.sort_by_name": "ordinare per nome del modulo",
+    "item.smartcrafting.portable_smart_crafting_table": "Tavola da lavorazione intelligente portatile"
 }

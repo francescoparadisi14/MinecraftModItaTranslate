@@ -1,7 +1,20 @@
 {
+    "command.coins.add.success": "%2$s received %1$d %3$s",
+    "command.coins.rank.title": "Magnates Ranking",
+    "command.coins.set.success": "%2$s set to %1$d %3$s",
     "item.magic_coins.crystal_coin": "Crystal Coin",
+    "item.magic_coins.crystal_coin.description": "The value of this coin is $%s",
     "item.magic_coins.gold_coin": "Gold Coin",
+    "item.magic_coins.gold_coin.description": "The value of this coin is $%s",
     "item.magic_coins.prosperity_amulet": "Prosperity Amulet",
     "item.magic_coins.silver_coin": "Silver Coin",
-    "item_group.magic_coins.magic_group": "Magic Coins"
+    "item.magic_coins.silver_coin.description": "The value of this coin is $%s",
+    "item.prosperity_amulet.description_0.effect_0": "Protects the coins in",
+    "item.prosperity_amulet.description_0.effect_1": "When health is below 50% grants a",
+    "item.prosperity_amulet.description_1.effect_0": "your pouch if you die",
+    "item.prosperity_amulet.description_1.effect_1": "regeneration I effect for 3 seconds.",
+    "item_group.magic_coins.magic_group": "Magic Coins",
+    "text.coin": "coin",
+    "text.coins": "coins",
+    "text.page": "page"
 }

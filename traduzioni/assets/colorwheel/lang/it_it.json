@@ -1,0 +1,13 @@
+{
+    "colorwheel.alert.broken_pack": "Il pacchetto shader contiene shader danneggiati, si attendono problemi grafici.",
+    "colorwheel.alert.incompatible_pack": "'%s' non è compatibile",
+    "colorwheel.alert.incompatible_pack.patch_available": "Puoi utilizzare '%s' al posto",
+    "command.colorwheel.alert_broken_pack.get.off": "L'allarme per pacchetto shader rotto è disattivato",
+    "command.colorwheel.alert_broken_pack.get.on": "L'allarme per pacchetto shader rotto è abilitato",
+    "command.colorwheel.alert_broken_pack.set.off": "L'allarme per pacchetto shader rotto è ora disattivato.",
+    "command.colorwheel.alert_broken_pack.set.on": "L'allarme per pacchetto shader rotto è ora abilitato.",
+    "command.colorwheel.alert_incompatible_pack.get.off": "L'allarme di compatibilità del pacchetto shader è disattivato",
+    "command.colorwheel.alert_incompatible_pack.get.on": "L'allarme per pacchetto shader incompatibile è abilitato",
+    "command.colorwheel.alert_incompatible_pack.set.off": "L'allarme per pacchetto shader incompatibile è ora disattivato.",
+    "command.colorwheel.alert_incompatible_pack.set.on": "L'allarme per pacchetto shader incompatibile è ora abilitato."
+}

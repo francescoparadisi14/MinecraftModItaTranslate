@@ -1,5 +1,6 @@
 {
     "block.fantasyfurniture.furniture_station": "Stazione di arredamento fantastico",
+    "fantasyfurniture.loading_issue.missing_furniture_sets": "§c§l§nNon sono stati rilevati moduli di insieme di arredamento. §r\nL'arredo fantastico non fa nulla da solo, almeno un modulo di insieme di arredamento deve essere installato.§r",
     "feature_flag.fantasyfurniture.experimental": "Arredamento fantastico - sperimentale",
     "feature_flag.fantasyfurniture.experimental.desc": "Blocchi di arredamento sperimentali",
     "tag.item.fantasyfurniture.binding_agent": "Agenti di legame per mobili fantastici",

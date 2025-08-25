@@ -1,7 +1,20 @@
 {
+    "command.coins.add.success": "%2$s ha ricevuto %1$d %3$s",
+    "command.coins.rank.title": "Classificazione dei magnati",
+    "command.coins.set.success": "%2$s impostato in %1$d %3$s",
     "item.magic_coins.crystal_coin": "Moneta cristallina",
+    "item.magic_coins.crystal_coin.description": "Il valore di questo quattrino è $%s",
     "item.magic_coins.gold_coin": "Moneta d'oro",
+    "item.magic_coins.gold_coin.description": "Il valore di questo quattrino è $%s",
     "item.magic_coins.prosperity_amulet": "Amuleto di prosperità",
     "item.magic_coins.silver_coin": "Moneta d'argento",
-    "item_group.magic_coins.magic_group": "Monete magiche"
+    "item.magic_coins.silver_coin.description": "Il valore di questa moneta è $%s",
+    "item.prosperity_amulet.description_0.effect_0": "protegge le monete in",
+    "item.prosperity_amulet.description_0.effect_1": "quando la salute è inferiore al 50% concede un",
+    "item.prosperity_amulet.description_1.effect_0": "Il tuo borsello in caso di morte",
+    "item.prosperity_amulet.description_1.effect_1": "Effetto di rigenerazione I per 3 secondi.",
+    "item_group.magic_coins.magic_group": "Monete magiche",
+    "text.coin": "Moneta",
+    "text.coins": "Monete",
+    "text.page": "Pagina"
 }

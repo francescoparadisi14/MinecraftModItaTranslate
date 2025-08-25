@@ -1,0 +1,15 @@
+{
+    "ftbquestslangsplitter.commands.added_missing_lang_entries": "Added %s missing entries to language %s",
+    "ftbquestslangsplitter.commands.all_lang_file_split": "All Language files split successfully",
+    "ftbquestslangsplitter.commands.file_already_exists": "File at %s already exists, skipping...",
+    "ftbquestslangsplitter.commands.lang_file_split": "Language file %s split successfully",
+    "ftbquestslangsplitter.commands.lang_manager_force_saved": "Language Manager force saved",
+    "ftbquestslangsplitter.commands.no_missing_entries": "There is no missing entry on language %s",
+    "ftbquestslangsplitter.commands.permission_denied": "You don't have permission to run this command",
+    "ftbquestslangsplitter.commands.purged_merged_files": "Purged merged files",
+    "ftbquestslangsplitter.commands.unsupported_locale": "Locale %s is not supported",
+    "ftbquestslangsplitter.configuration.section.ftbquestslangsplitter.common.toml": "FTB Quests Lang Splitter Configs",
+    "ftbquestslangsplitter.configuration.section.ftbquestslangsplitter.common.toml.title": "FTB Quests Lang Splitter Configs",
+    "ftbquestslangsplitter.configuration.title": "FTB Quests Lang Splitter Configs",
+    "ftbquestslangsplitter.split.lang_saved_reminder": "You are in edit mode and looks like a lang file was saved, remember to split it when you are fully done!"
+}

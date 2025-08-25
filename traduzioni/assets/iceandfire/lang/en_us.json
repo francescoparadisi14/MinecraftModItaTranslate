@@ -1710,6 +1710,8 @@
     "modifier.surf_wax_america.desc": "\"You take your car to work, I'll take my board...:\"§r\\nDeals an additional 5 damage when players are riding a mount.",
     "modifier.sweater_song": "Undone",
     "modifier.sweater_song.desc": "\"If you want to destroy my sweater...\"§r\\nTargets wearing armor have a 30% chance of their armor being removed from a critical strike.",
+    "resourcePack.iceandfire.legacy.description": "Textures before IAF-CE 2.0",
+    "resourcePack.iceandfire.legacy.name": "Ice And Fire Legacy Textures",
     "screen.iceandfire.client.title": "Ice And Fire Client Settings",
     "screen.iceandfire.common.title": "Ice And Fire Common Settings",
     "sea_serpent.blue": "Blue",

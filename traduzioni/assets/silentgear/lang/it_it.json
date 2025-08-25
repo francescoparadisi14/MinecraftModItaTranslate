@@ -649,6 +649,7 @@
     "material.silentgear.blaze_rod": "Astuccio di fiamma",
     "material.silentgear.bone": "Osso",
     "material.silentgear.brass": "ottone",
+    "material.silentgear.breeze_rod": "Astuccio di vento",
     "material.silentgear.bronze": "Bronzo",
     "material.silentgear.compressed_iron": "Acciaio compresso",
     "material.silentgear.copper": "Rame",
@@ -1054,6 +1055,8 @@
     "trait.silentgear.vulcan.desc": "Colloca ossidiana ad un costo di durata elevato",
     "trait.silentgear.widen": "Allargare",
     "trait.silentgear.widen.desc": "incrementa il raggio d'azione dei martelli e degli escavatori",
+    "trait.silentgear.wind_blast": "Soffiata del vento",
+    "trait.silentgear.wind_blast.desc": "Crea un'onda di vento quando si attacca",
     "trait.silentgear.yummy": "Dolce",
     "trait.silentgear.yummy.desc": "rende l'oggetto commestibile, ma..."
 }

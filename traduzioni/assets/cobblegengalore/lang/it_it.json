@@ -7,5 +7,6 @@
     "block.cobblegengalore.block_gen_netherite": "Generatore di blocchi di netherite",
     "block.cobblegengalore.block_gen_stone": "Generatore di blocchi di pietra",
     "block_gen.tooltip": "Modificatore di velocità: %s",
-    "jei.cobblegengalore.blockgen": "Generatore di blocchi"
+    "jei.cobblegengalore.blockgen": "Generatore di blocchi",
+    "jei.cobblegengalore.consumed": "Il blocco di partenza è consumato"
 }

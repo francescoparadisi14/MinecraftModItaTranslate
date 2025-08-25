@@ -1,0 +1,10 @@
+{
+    "yacl3.config.simple-seasons:config.category.Server": "Configurazione del lato server",
+    "yacl3.config.simple-seasons:config.iceFormationInWaterDuringWinter": "Formazione di ghiaccio nell'acqua durante l'inverno",
+    "yacl3.config.simple-seasons:config.iceFormationInWaterDuringWinter.desc": "Determina se l'ghiaccio dovrebbe formarsi nell'acqua (eccetto che per l'acqua negli oceani e per l'acqua nei biomi con una stagione umida\/secca) durante l'inverno.",
+    "yacl3.config.simple-seasons:config.seasonLengthMultiplier": "Multiplicatore della lunghezza della stagione",
+    "yacl3.config.simple-seasons:config.seasonLengthMultiplier.desc": "Il moltiplicatore di lunghezza delle stagioni. aumentando questo valore, le stagioni saranno più lunghe, mentre diminuendo il loro tempo sarà più breve.",
+    "yacl3.config.simple-seasons:config.seasonProgressUpdateRate": "Tasso di aggiornamento del progresso della stagione",
+    "yacl3.config.simple-seasons:config.seasonProgressUpdateRate.desc": "La velocità di aggiornamento del progresso della stagione. ogni volta che il progresso della stagione si aggiorna in un mondo, viene inviato un pacchetto a tutti i client in quel mondo contenente il nuovo progresso della stagione. successivamente, tutti i client in quel mondo rilaseranno le informazioni di colore del mondo e pianificheranno una ricostruzione per tutti i blocchi.\nAumentando questo valore, verranno inviati pacchetti più spesso a tutti i client in un mondo e quindi i colori della stagione si aggiornneranno più spesso su tutti i client in quel mondo. Riducendo questo valore, verranno inviati pacchetti meno spesso a tutti i client in un mondo e quindi i colori della stagione si aggiornneranno meno spesso su tutti i client in quel mondo. Quest'opzione di configurazione può essere intensiva dal punto di vista delle prestazioni se impostata troppo alta.",
+    "yacl3.config.simple-seasons:config.title": "Configurazione di stagioni semplici"
+}

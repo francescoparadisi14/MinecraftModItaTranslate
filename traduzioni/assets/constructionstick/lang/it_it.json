@@ -115,6 +115,7 @@
     "constructionstick.option.upgrades.constructionstick:upgrade_replacement.desc": "Sostituisce I Blocchi Con Il Blocco Nella Tua Mano Secondaria",
     "constructionstick.option.upgrades.constructionstick:upgrade_unbreakable": "§dindistruttibile",
     "constructionstick.option.upgrades.constructionstick:upgrade_unbreakable.desc": "Consente Di Posizionare Senza Consumare Durata",
+    "constructionstick.placement.denied": "Questo blocco non può essere collocato con lo stuzzicadenti di costruzione!",
     "constructionstick.tooltip.blocks": "Massimo %d Blocchi",
     "constructionstick.tooltip.shift": "Premi [shift]",
     "constructionstick.tooltip.storage": "%1$s\/%2$s RF Immagazzinati",

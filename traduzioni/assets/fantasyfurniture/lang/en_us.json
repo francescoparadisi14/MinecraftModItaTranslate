@@ -1,5 +1,6 @@
 {
     "block.fantasyfurniture.furniture_station": "Furniture Station",
+    "fantasyfurniture.loading_issue.missing_furniture_sets": "§c§l§nNo Furniture Set modules detected.§r\n\nFantasy's Furniture does nothing on it's own, §lat least 1§r Furniture Set module must be installed.",
     "feature_flag.fantasyfurniture.experimental": "Fantasy's Furniture - Experimental",
     "feature_flag.fantasyfurniture.experimental.desc": "Experimental Furniture Blocks",
     "tag.item.fantasyfurniture.binding_agent": "Furniture Binding Agents",

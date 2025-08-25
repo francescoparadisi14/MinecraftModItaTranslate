@@ -1,0 +1,22 @@
+{
+    "create.hint.picky_biome_boost": "Biome efficiency",
+    "create.hint.picky_height_boost": "Height efficiency",
+    "create.hint.waterwheel_biome": "Waterwheels are picky about their biomes.",
+    "create.hint.waterwheel_biome.title": "Invalid Biome",
+    "create.hint.waterwheel_infinite": "The targeted body of fluid is not big enough.",
+    "create.hint.waterwheel_infinite.title": "Not Enough Water",
+    "create.hint.waterwheel_source": "Too many or too few water sources are trying to rotate this waterwheel.",
+    "create.hint.waterwheel_source.title": "Lacking Power Source",
+    "create.hint.windmill_biome": "Windmills are picky about their biomes.",
+    "create.hint.windmill_biome.title": "Invalid Biome",
+    "create.hint.windmill_flow": "This windmill lacks enough empty space around it. Or else, where all that wind would come from?",
+    "create.hint.windmill_flow.title": "Not Enough Air Flow",
+    "create.ponder.large_water_wheel.text_10": "Use wood planks on the wheel to change its appearance",
+    "create.ponder.large_water_wheel.text_6": "If the body of water is large enough, Large Water Wheels draw force from adjacent Water Sources. Boosted in River Biomes",
+    "create.ponder.large_water_wheel.text_7": "Covering additional sides, or fully submerging it, will disable its kinetic output",
+    "create.ponder.large_water_wheel.text_8": "These rotate only at half the speed of regular water wheels...",
+    "create.ponder.large_water_wheel.text_9": "...but provide a substantially higher stress capacity",
+    "create.ponder.water_wheel.text_4": "If the body of water is large enough, Water Wheels draw force from adjacent Water Sources. Boosted in River Biomes",
+    "create.ponder.water_wheel.text_5": "Covering additional sides, or fully submerging it, will disable its kinetic output",
+    "create.ponder.water_wheel.text_6": "Use wood planks on the wheel to change its appearance"
+}

@@ -1,7 +1,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
 
-![](https://img.shields.io/badge/Ultimo%20Aggiornamento-24%2F08%2F2025-blue)
-![](https://img.shields.io/badge/Mod%20tradotte-1475-green)
+![](https://img.shields.io/badge/Ultimo%20Aggiornamento-25%2F08%2F2025-blue)
+![](https://img.shields.io/badge/Mod%20tradotte-1523-green)
 ![](https://img.shields.io/badge/Quest%20tradotte-3-green)
 
 ## Progetto che utilizza l’intelligenza artificiale per **tradurre automaticamente in italiano** i contenuti testuali delle mod di Minecraft.
@@ -38,7 +38,7 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 
 |  |Mod | Ultimo<br/>aggiornamento | Numero<br/>Traduzioni |Download |
 | ---- | ---- | ---- | ---- | ---- |
-| <img src="https://media.forgecdn.net/avatars/822/958/638206522373034391.jpeg" loading="lazy" decoding="async" width="30" /> | [XaeroPlus](https://www.curseforge.com/minecraft/mc-mods/xaeroplus "Web Site")  | 09/08/2025 | 280 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fxaeroplus "Download") |
+| <img src="https://media.forgecdn.net/avatars/822/958/638206522373034391.jpeg" loading="lazy" decoding="async" width="30" /> | [XaeroPlus](https://www.curseforge.com/minecraft/mc-mods/xaeroplus "Web Site") ![](https://img.shields.io/badge/NEW-red) | 25/08/2025 | 295 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fxaeroplus "Download") |
 | <img src="https://media.forgecdn.net/avatars/92/854/636258666554688823.png" loading="lazy" decoding="async" width="30" /> | [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap "Web Site")  | 09/08/2025 | 689 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fxaerobetterpvp "Download")<br />[Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fxaerominimap "Download") |
 | <img src="https://media.forgecdn.net/avatars/92/855/636258671620913293.png" loading="lazy" decoding="async" width="30" /> | [Xaero's Minimap (Fair-play Edition)](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap-fair-play-edition "Web Site")  | 08/08/2025 | 689 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fxaerobetterpvp "Download")<br />[Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fxaerominimap "Download") |
 | <img src="https://media.forgecdn.net/avatars/196/654/636886857118683130.png" loading="lazy" decoding="async" width="30" /> | [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map "Web Site")  | 09/08/2025 | 272 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fxaeroworldmap "Download") |

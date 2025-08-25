@@ -1,10 +1,13 @@
 {
+    "block.amendments.candle_skull": "Candle Skull",
     "block.amendments.carpet_slab": "Carpet Slab",
     "block.amendments.carpet_stairs": "Carpet Stairs",
+    "block.amendments.ceiling_banner": "Ceiling Banner",
     "block.amendments.directional_cake": "Directional Cake",
     "block.amendments.double_cake": "Double Cake",
     "block.amendments.dye_cauldron": "Dye Cauldron",
     "block.amendments.hanging_flower_pot": "Hanging Flower Pot",
+    "block.amendments.hanging_pot": "Hanging Pot",
     "block.amendments.liquid_cauldron": "Liquid Cauldron",
     "block.amendments.skull_pile": "Skull Pile",
     "block.amendments.tool_hook": "Tool Hook",

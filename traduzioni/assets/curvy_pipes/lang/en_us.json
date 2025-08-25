@@ -74,6 +74,7 @@
     "curvy_pipes.start_config": "[%s] to configure this node",
     "curvy_pipes.start_extend": "[%s] to continue this pipe",
     "curvy_pipes.start_free": "[%s] to start pipe in midair",
+    "curvy_pipes.title": "Curvy Pipes",
     "curvy_pipes.too_costly": "not enough material",
     "curvy_pipes.too_far": "too far away",
     "curvy_pipes.unforce_joint": "Unforce Joint",

@@ -1,9 +1,11 @@
 {
     "block.slabmachines.blast_furnace_slab": "Lastre di forno a bassa temperatura",
+    "block.slabmachines.cartography_table_slab": "Lastro di cartografia",
     "block.slabmachines.chest_slab": "Baule a lastra",
     "block.slabmachines.crafting_station_slab": "Banco di lavoro a lastra",
     "block.slabmachines.crafting_table_slab": "Banco di Lavoro a lastra",
     "block.slabmachines.furnace_slab": "Fornace a lastra",
+    "block.slabmachines.loom_slab": "Lastre di telar",
     "block.slabmachines.note_slab": "Blocco musicale a lastra",
     "block.slabmachines.part_builder_slab": "Costruttore di parti a lastra",
     "block.slabmachines.part_chest_slab": "Baule per parti a lastra",
@@ -18,8 +20,10 @@
     "itemGroup.slabmachines.tab": "Slab Machines",
     "slabmachines.config.title": "Slab Machines Config",
     "slabmachines:container.blast_furnace": "Lastre di forno a bassa temperatura",
+    "slabmachines:container.cartography": "Tavoletta cartografica",
     "slabmachines:container.chest": "Baule a lastra",
     "slabmachines:container.crafting": "Banco di lavoro a lastra",
     "slabmachines:container.furnace": "Fornace a lastra",
+    "slabmachines:container.loom": "Lastre di telaricciolo",
     "slabmachines:container.smoker": "Slab da fumatore"
 }

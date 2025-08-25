@@ -7,5 +7,6 @@
     "block.cobblegengalore.block_gen_netherite": "Netherite Block Generator",
     "block.cobblegengalore.block_gen_stone": "Stone Block Generator",
     "block_gen.tooltip": "Speed modifier: %s",
-    "jei.cobblegengalore.blockgen": "Block Generator"
+    "jei.cobblegengalore.blockgen": "Block Generator",
+    "jei.cobblegengalore.consumed": "Source block is consumed"
 }

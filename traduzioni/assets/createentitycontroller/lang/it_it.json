@@ -1,0 +1,4 @@
+{
+    "create.gui.assembly.exception.structureTooLargeOrUnstable": "La struttura ha troppi blocchi o il coefficiente di stabilità strutturale supera il limite\nvalore massimo della struttura: [%1$s]\nvalore attuale della struttura: [%2$s]\nvalore massimo del coefficiente: [%3$s]\nvalore attuale del coefficiente: [%4$s]",
+    "create.gui.assembly.exception.unmovableBlock_test": "La struttura è troppo lunga, il blocco non può essere spostato o il numero di blocchi con funzione speciale supera la soglia\nubicazione: [%1$s, %2$s, %3$s]\nblocco: [%4$s]"
+}

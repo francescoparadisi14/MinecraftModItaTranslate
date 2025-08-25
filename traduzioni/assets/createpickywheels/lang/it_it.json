@@ -1,0 +1,22 @@
+{
+    "create.hint.picky_biome_boost": "Efficienza del bioma",
+    "create.hint.picky_height_boost": "Efficienza di altezza",
+    "create.hint.waterwheel_biome": "Le ruote d'acqua sono molto particolari riguardo ai loro ambienti.",
+    "create.hint.waterwheel_biome.title": "Bioma non valido",
+    "create.hint.waterwheel_infinite": "Il corpo di fluido bersaglio non è abbastanza grande.",
+    "create.hint.waterwheel_infinite.title": "Non ci sono abbastanza acqua",
+    "create.hint.waterwheel_source": "Ci sono troppi o troppo pochi fonti d'acqua che cercano di far ruotare questo mulino ad acqua.",
+    "create.hint.waterwheel_source.title": "Assenza di fonte di potenza",
+    "create.hint.windmill_biome": "Le palestre sono molto esigenti sulle loro biomi.",
+    "create.hint.windmill_biome.title": "Bioma non valido",
+    "create.hint.windmill_flow": "Questo mulino a vento manca di sufficiente spazio vuoto intorno a sé. O altrimenti, da dove potrebbe venire quel vento?",
+    "create.hint.windmill_flow.title": "Non ci è abbastanza flusso d'aria",
+    "create.ponder.large_water_wheel.text_10": "Usa assi di legno sulla ruota per cambiarne l'aspetto",
+    "create.ponder.large_water_wheel.text_6": "Se il corpo d'acqua è abbastanza grande, le grandi ruote idrauliche traggono forza da fonti d'acqua adiacenti. Amplificate nei biomi dei fiumi.",
+    "create.ponder.large_water_wheel.text_7": "Coprendo ulteriori lati o immergendo completamente potrebbe disattivare l'output cinetico.",
+    "create.ponder.large_water_wheel.text_8": "Questi ruotano solo a metà velocità delle ruote d'acqua normali...",
+    "create.ponder.large_water_wheel.text_9": "...ma devi fornire una capacità di sforzo sostanzialmente maggiore",
+    "create.ponder.water_wheel.text_4": "Se il corpo d'acqua è abbastanza grande, le ruote idrauliche traggono forza da fonti d'acqua adiacenti. Potenziato nei biomi dei fiumi.",
+    "create.ponder.water_wheel.text_5": "Coprendo ulteriori lati o immergendo completamente potrebbe disattivare l'output cinetico.",
+    "create.ponder.water_wheel.text_6": "Usa assi di legno sulla ruota per cambiarne l'aspetto"
+}

@@ -1851,6 +1851,8 @@
     "myrmex.message.trade": "Questa colonia di Myrmec è ora disposta a scambiare con te.",
     "myrmextools.hurt": "+4 danni contro non-artropodi e vermi mortali",
     "myrmextools.poison": "Veleni per 10 secondi",
+    "resourcePack.iceandfire.legacy.description": "Testi prima della versione iaf-ce 2.0",
+    "resourcePack.iceandfire.legacy.name": "Testi di testo ereditari di ghiaccio e fuoco",
     "screen.iceandfire.client.title": "Impostazioni del client Ice and Fire",
     "screen.iceandfire.common.title": "Impostazioni comuni di ghiaccio e fuoco",
     "sea_serpent.blue": "azzurro",

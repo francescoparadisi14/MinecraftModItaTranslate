@@ -115,6 +115,7 @@
     "constructionstick.option.upgrades.constructionstick:upgrade_replacement.desc": "Replaces blocks with the block in your offhand",
     "constructionstick.option.upgrades.constructionstick:upgrade_unbreakable": "§dUnbreakable",
     "constructionstick.option.upgrades.constructionstick:upgrade_unbreakable.desc": "Allows placing without using durability",
+    "constructionstick.placement.denied": "This block cannot be placed with the Construction Stick!",
     "constructionstick.tooltip.blocks": "Max. %d blocks",
     "constructionstick.tooltip.shift": "Press [SHIFT]",
     "constructionstick.tooltip.storage": "%s\/%s RF stored",

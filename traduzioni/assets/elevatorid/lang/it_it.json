@@ -26,5 +26,6 @@
     "screen.elevatorid.elevator.directional_south": "Sud",
     "screen.elevatorid.elevator.directional_west": "Ovest",
     "screen.elevatorid.elevator.hide_arrow": "Nascondi freccia",
-    "screen.elevatorid.elevator.reset_camo": "Rimuovi occultamento"
+    "screen.elevatorid.elevator.reset_camo": "Rimuovi occultamento",
+    "tag.item.elevatorid.elevators": "Ascensori"
 }

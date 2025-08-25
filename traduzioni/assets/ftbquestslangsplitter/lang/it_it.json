@@ -1,0 +1,15 @@
+{
+    "ftbquestslangsplitter.commands.added_missing_lang_entries": "aggiunti %s entry mancanti al linguaggio %s",
+    "ftbquestslangsplitter.commands.all_lang_file_split": "I file di lingua sono stati divisi con successo.",
+    "ftbquestslangsplitter.commands.file_already_exists": "Il file in %s esiste già, saltando...",
+    "ftbquestslangsplitter.commands.lang_file_split": "File di lingua %s diviso con successo",
+    "ftbquestslangsplitter.commands.lang_manager_force_saved": "Gestore lingue forzato salvato",
+    "ftbquestslangsplitter.commands.no_missing_entries": "Non ci sono entrate mancanti nel linguaggio %s",
+    "ftbquestslangsplitter.commands.permission_denied": "Non hai il permesso di eseguire questo comando.",
+    "ftbquestslangsplitter.commands.purged_merged_files": "File purgati e fusionati",
+    "ftbquestslangsplitter.commands.unsupported_locale": "Il locale \"%s\" non è supportato.",
+    "ftbquestslangsplitter.configuration.section.ftbquestslangsplitter.common.toml": "Configurazioni del splitter di lingue per le quest di FTB",
+    "ftbquestslangsplitter.configuration.section.ftbquestslangsplitter.common.toml.title": "Configurazioni del splitter di lingue per le quest FTEB",
+    "ftbquestslangsplitter.configuration.title": "Configurazioni del divisore di lingue per le quest di ftb",
+    "ftbquestslangsplitter.split.lang_saved_reminder": "Sei in modalità di modifica e sembra che un file di lingua sia stato salvato, ricorda di dividerlo quando sarai completamente pronto!"
+}

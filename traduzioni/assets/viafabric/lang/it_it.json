@@ -1,0 +1,14 @@
+{
+    "gui.client_side.disable": "Disattivare lato cliente",
+    "gui.client_side.enable": "Attivare lato cliente",
+    "gui.enable_client_side.enable": "Attivare",
+    "gui.enable_client_side.question": "Siete sicuri di voler attivare la modalità lato cliente?",
+    "gui.enable_client_side.warning": "Non posso garantire che questo mod sia consentito su ogni server (o anche solo su uno qualsiasi). Questo mod può causare problemi con i plugin anti-cheat. USO A PROPRIO RISCHIO E PERICOLO.",
+    "gui.enable_client_side_button": "Attivare ViaVersion",
+    "gui.hide_via_button.disable": "Mostra il pulsante VIA",
+    "gui.hide_via_button.enable": "Nascondi il pulsante VIA",
+    "gui.ping_version.translated": "VIA: %s",
+    "gui.protocol_version_field.name": "Versione del protocollo",
+    "gui.via_button": "VIA",
+    "gui.viafabric_config.title": "Configurazioni ViaFabric"
+}
