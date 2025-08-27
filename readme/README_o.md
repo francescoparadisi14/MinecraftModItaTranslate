@@ -1,7 +1,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
 
-![](https://img.shields.io/badge/Ultimo%20Aggiornamento-25%2F08%2F2025-blue)
-![](https://img.shields.io/badge/Mod%20tradotte-1523-green)
+![](https://img.shields.io/badge/Ultimo%20Aggiornamento-27%2F08%2F2025-blue)
+![](https://img.shields.io/badge/Mod%20tradotte-1528-green)
 ![](https://img.shields.io/badge/Quest%20tradotte-3-green)
 
 ## Progetto che utilizza l’intelligenza artificiale per **tradurre automaticamente in italiano** i contenuti testuali delle mod di Minecraft.
@@ -39,6 +39,7 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 |  |Mod | Ultimo<br/>aggiornamento | Numero<br/>Traduzioni |Download |
 | ---- | ---- | ---- | ---- | ---- |
 | <img src="https://media.forgecdn.net/avatars/464/755/637744772991786976.png" loading="lazy" decoding="async" width="30" /> | [Aquamirae (Forge)](https://www.curseforge.com/minecraft/mc-mods/ob-aquamirae "Web Site") ![](https://img.shields.io/badge/NEW-red) | 25/08/2025 | 238 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Faquamirae "Download") |
+| <img src="https://media.forgecdn.net/avatars/634/623/638035352241820947.png" loading="lazy" decoding="async" width="30" /> | [Obscure API (Forge)](https://www.curseforge.com/minecraft/mc-mods/obscure-api "Web Site") ![](https://img.shields.io/badge/NEW-red) | 27/08/2025 | 114 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fobscure_api "Download") |
 | <img src="https://media.forgecdn.net/avatars/652/778/638055002116648458.png" loading="lazy" decoding="async" width="30" /> | [Obscure Tooltips](https://www.curseforge.com/minecraft/mc-mods/obscure-tooltips "Web Site")  | 07/08/2025 | 176 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fminecraft "Download") |
 | <img src="https://media.forgecdn.net/avatars/412/569/637632275050101334.png" loading="lazy" decoding="async" width="30" /> | [Observable](https://www.curseforge.com/minecraft/mc-mods/observable "Web Site")  | 07/08/2025 | 34 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fobservable "Download") |
 | <img src="https://media.forgecdn.net/avatars/333/471/637466171132577369.png" loading="lazy" decoding="async" width="30" /> | [OpenComputers II](https://www.curseforge.com/minecraft/mc-mods/oc2 "Web Site")  | 07/08/2025 | 114 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Foc2 "Download") |

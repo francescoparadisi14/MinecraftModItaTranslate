@@ -1,7 +1,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
 
-![](https://img.shields.io/badge/Ultimo%20Aggiornamento-25%2F08%2F2025-blue)
-![](https://img.shields.io/badge/Mod%20tradotte-1523-green)
+![](https://img.shields.io/badge/Ultimo%20Aggiornamento-27%2F08%2F2025-blue)
+![](https://img.shields.io/badge/Mod%20tradotte-1528-green)
 ![](https://img.shields.io/badge/Quest%20tradotte-3-green)
 
 ## Progetto che utilizza l’intelligenza artificiale per **tradurre automaticamente in italiano** i contenuti testuali delle mod di Minecraft.
@@ -45,4 +45,4 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 | <img src="https://media.forgecdn.net/avatars/609/616/637990744047641620.gif" loading="lazy" decoding="async" width="30" /> | [Kiwi Boi](https://www.curseforge.com/minecraft/mc-mods/kiwi-boi "Web Site")  | 08/08/2025 | 8 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fkiwiboi "Download") |
 | <img src="https://media.forgecdn.net/avatars/203/889/636935511172009471.png" loading="lazy" decoding="async" width="30" /> | [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs "Web Site")  | 11/08/2025 | 14 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fkleeslabs "Download") |
 | <img src="https://media.forgecdn.net/avatars/456/437/637726961914562019.png" loading="lazy" decoding="async" width="30" /> | [KleeSlabs (Outdated Versions)](https://www.curseforge.com/minecraft/mc-mods/kleeslabs-fabric "Web Site")  | 07/08/2025 | 14 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fkleeslabs "Download") |
-| <img src="https://media.forgecdn.net/avatars/1355/434/638880517167316504.png" loading="lazy" decoding="async" width="30" /> | [KubeJS Tweaks](https://www.curseforge.com/minecraft/mc-mods/kubejs-tweaks "Web Site") ![](https://img.shields.io/badge/NEW-red) | 25/08/2025 | 4 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fkubejstweaks "Download") |
+| <img src="https://media.forgecdn.net/avatars/1355/434/638880517167316504.png" loading="lazy" decoding="async" width="30" /> | [KubeJS Tweaks](https://www.curseforge.com/minecraft/mc-mods/kubejs-tweaks "Web Site") ![](https://img.shields.io/badge/NEW-red) | 27/08/2025 | 4 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fkubejstweaks "Download") |

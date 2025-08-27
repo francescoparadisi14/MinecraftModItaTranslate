@@ -1,0 +1,8 @@
+{
+    "_comment": "Creative Tab Name",
+    "entity.resourcepandas.resource_panda": "Resource Panda",
+    "item.resourcepandas.resource_panda_spawn_egg": "Resource Panda Spawn Egg",
+    "itemGroup.resourcepandas:spawn_eggs": "Resource Pandas",
+    "resourcepandas.gui.jei.pandas.tooltip": "%s% Chance",
+    "resourcepandas.pandas.title": "Resource Pandas"
+}

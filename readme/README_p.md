@@ -1,7 +1,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
 
-![](https://img.shields.io/badge/Ultimo%20Aggiornamento-25%2F08%2F2025-blue)
-![](https://img.shields.io/badge/Mod%20tradotte-1523-green)
+![](https://img.shields.io/badge/Ultimo%20Aggiornamento-27%2F08%2F2025-blue)
+![](https://img.shields.io/badge/Mod%20tradotte-1528-green)
 ![](https://img.shields.io/badge/Quest%20tradotte-3-green)
 
 ## Progetto che utilizza l’intelligenza artificiale per **tradurre automaticamente in italiano** i contenuti testuali delle mod di Minecraft.
@@ -39,6 +39,7 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 |  |Mod | Ultimo<br/>aggiornamento | Numero<br/>Traduzioni |Download |
 | ---- | ---- | ---- | ---- | ---- |
 | <img src="https://media.forgecdn.net/avatars/1107/2/638656902027673442.png" loading="lazy" decoding="async" width="30" /> | [Pack Analytics](https://www.curseforge.com/minecraft/mc-mods/pack-analytics "Web Site")  | 07/08/2025 | 18 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fexample_mod "Download") |
+| <img src="https://media.forgecdn.net/avatars/1362/814/638885115958149175.png" loading="lazy" decoding="async" width="30" /> | [PackagedAuto](https://www.curseforge.com/minecraft/mc-mods/packagedauto "Web Site") ![](https://img.shields.io/badge/NEW-red) | 27/08/2025 | 97 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fpackagedauto "Download") |
 | <img src="https://media.forgecdn.net/avatars/244/144/637143842674144318.png" loading="lazy" decoding="async" width="30" /> | [PackMenu](https://www.curseforge.com/minecraft/mc-mods/packmenu "Web Site")  | 07/08/2025 | 7 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fpackmenu "Download")<br />[Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fbuiltin_resource_pack%2Fassets "Download") |
 | <img src="https://media.forgecdn.net/avatars/52/664/636116785560042346.png" loading="lazy" decoding="async" width="30" /> | [Paintings ++](https://www.curseforge.com/minecraft/mc-mods/paintings "Web Site")  | 08/08/2025 | 5 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fpaintings "Download") |
 | <img src="https://media.forgecdn.net/avatars/811/802/638184759029816524.png" loading="lazy" decoding="async" width="30" /> | [Paladins & Priests (RPG Series)](https://www.curseforge.com/minecraft/mc-mods/paladins-and-priests "Web Site") ![](https://img.shields.io/badge/NEW-red) | 25/08/2025 | 124 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fpaladins "Download") |
