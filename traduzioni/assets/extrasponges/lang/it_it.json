@@ -1,0 +1,15 @@
+{
+    "block.extrasponges.diamond_sponge": "Spongia di diamante",
+    "block.extrasponges.emerald_sponge": "Spongia di emerodio",
+    "block.extrasponges.gold_sponge": "Spongia d'oro",
+    "block.extrasponges.iron_sponge": "Spongia di ferro",
+    "block.extrasponges.lava_sponge": "Spongia di lava",
+    "block.extrasponges.netherite_sponge": "Spongia di netherite",
+    "block.extrasponges.wet_diamond_sponge": "Spongia di diamante umida",
+    "block.extrasponges.wet_emerald_sponge": "Spongia umida di emerodio",
+    "block.extrasponges.wet_gold_sponge": "Spongia d'oro umida",
+    "block.extrasponges.wet_iron_sponge": "Spongia di ferro umida",
+    "block.extrasponges.wet_lava_sponge": "Spongia di lava fusa",
+    "block.extrasponges.wet_netherite_sponge": "Spongia di netherite bagnata",
+    "itemGroup.extrasponges.items": "Sponge extra"
+}

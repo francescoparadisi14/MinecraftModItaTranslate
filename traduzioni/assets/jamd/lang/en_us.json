@@ -1,0 +1,16 @@
+{
+    "advancements.jamd.mining.description": "Enter the Mining Dimension",
+    "advancements.jamd.mining.title": "To Infinity and Underground",
+    "biome.jamd.end": "End Mining",
+    "biome.jamd.mining": "Mining",
+    "biome.jamd.nether": "Nether Mining",
+    "block.jamd.end_portal": "End Mining Portal",
+    "block.jamd.nether_portal": "Nether Mining Portal",
+    "block.jamd.portal_block": "Mining Portal",
+    "dimension.jamd.end": "End Mining",
+    "dimension.jamd.mining": "Mining",
+    "dimension.jamd.nether": "Nether Mining",
+    "jamd.argument.world_type.invalid": "Invalid World Type '%s'",
+    "jamd.invalid.pos": "Unable to find valid portal location",
+    "jamd.invalid.world": "Unable to find world '%s'"
+}

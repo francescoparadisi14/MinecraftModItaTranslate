@@ -1,0 +1,14 @@
+{
+    "entity_model_features.config.variable_explanation.mobplayeranimator.is_playeranimator_animation_active": "Se l'entità ha un'animazione di animatore del giocatore attiva",
+    "text.autoconfig.mobplayeranimator.option.client.emf_animation_halt_animation_blacklist": "Elenco di blocchi di animazione di fermata dell'animazione EMF",
+    "text.autoconfig.mobplayeranimator.option.client.emf_animation_halt_animation_blacklist.@Tooltip": "Per queste animazioni del giocatore animator, bloccare le animazioni EMF solo quando sono attive loro.",
+    "text.autoconfig.mobplayeranimator.option.client.emf_animation_halt_blacklist": "Elenco di blocchi per l'animazione EMF",
+    "text.autoconfig.mobplayeranimator.option.client.emf_animation_halt_blacklist.@Tooltip": "Per queste entità, bloccare l'animazione EMF quando un'animazione del giocatore è attiva.",
+    "text.autoconfig.mobplayeranimator.option.client.emf_force_vanilla_models": "Forza modelli vanilla di EMF",
+    "text.autoconfig.mobplayeranimator.option.client.emf_force_vanilla_models.@Tooltip": "Forre queste entità ad utilizzare il loro modello originale di Minecraft (vanilla) anziché bloccare le animazioni quando un'animazione del giocatore è attiva.",
+    "text.autoconfig.mobplayeranimator.option.client.guess_emf_part_modifier_animated_groups": "Indovina gruppi di animazione modificatori parte EMF",
+    "text.autoconfig.mobplayeranimator.option.client.guess_emf_part_modifier_animated_groups.@Tooltip": "Quando non viene specificato un gruppo di animazione per un modificatore di parte EMF, consente al sistema interno di indovinare il gruppo per esso.",
+    "text.autoconfig.mobplayeranimator.option.client.is_emf_animation_halt_enabled": "Fermo animazione EMF",
+    "text.autoconfig.mobplayeranimator.option.client.is_emf_animation_halt_enabled.@Tooltip": "Ferma le animazioni delle caratteristiche degli entità quando è attiva un'animazione del giocatore.",
+    "text.autoconfig.mobplayeranimator.title": "Animatore di giocatori mob"
+}

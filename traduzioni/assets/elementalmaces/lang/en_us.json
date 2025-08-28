@@ -1,0 +1,16 @@
+{
+    "item.elementalmaces.ender_mace": "Ender Mace",
+    "item.elementalmaces.ender_mace.lore.line1": "Ancient End technology creates levitation,",
+    "item.elementalmaces.ender_mace.lore.line2": "suspending your enemies in the air on impact",
+    "item.elementalmaces.resonating_mace": "Resonating Mace",
+    "item.elementalmaces.resonating_mace.lore.line1": "Vibrates with intense sonic power,",
+    "item.elementalmaces.resonating_mace.lore.line2": "causing a shockwave on impact",
+    "item.elementalmaces.resonating_rod": "Resonating Breeze Rod",
+    "item.elementalmaces.smouldering_mace": "Smouldering Mace",
+    "item.elementalmaces.smouldering_mace.lore.line1": "Burns with the power of the Nether,",
+    "item.elementalmaces.smouldering_mace.lore.line2": "igniting everything around you on impact",
+    "item.elementalmaces.withering_mace": "Withering Mace",
+    "item.elementalmaces.withering_mace.lore.line1": "Saps the life from your enemies,",
+    "item.elementalmaces.withering_mace.lore.line2": "slowly turning them to dust after impact",
+    "item.elementalmaces.withering_rod": "Withering Breeze Rod"
+}

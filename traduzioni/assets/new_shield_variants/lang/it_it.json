@@ -1,0 +1,15 @@
+{
+    "item.new_shield_variants.blaze_shield": "Scudo di fiamma",
+    "item.new_shield_variants.diamond_shield": "Scudo di diamante",
+    "item.new_shield_variants.dragon_head_shield": "Scudo testa drago",
+    "item.new_shield_variants.ender_shield": "Scudo dell'altro mondo",
+    "item.new_shield_variants.fire_charge_shield": "Scudo carica di fuoco",
+    "item.new_shield_variants.gold_shield": "Scudo d'oro",
+    "item.new_shield_variants.iron_shield": "Scudo di ferro",
+    "item.new_shield_variants.netherite_shield": "Scudo di netherite",
+    "item.new_shield_variants.redstone_shield": "Scudo a risonanza",
+    "item.new_shield_variants.shulker_shield": "Scudo dello Shulker",
+    "item.new_shield_variants.stone_shield": "Scudo di pietra",
+    "item.new_shield_variants.tnt_shield": "Scudo TNT",
+    "itemGroup.newShieldVariants": "Nuove varianti di scudo!"
+}

@@ -1,0 +1,10 @@
+{
+    "block.cfm_circuit_breaker.circuit_breaker": "Interruttore di circuito",
+    "container.cfm_circuit_breaker.circuit_breaker": "Interruttore di circuito",
+    "gui.cfm_circuit_breaker.node_count": "%s \/ %s",
+    "gui.cfm_circuit_breaker.progress": "%s fe \/ %s fe",
+    "gui.cfm_circuit_breaker.status.energy": "Nessuna energia",
+    "gui.cfm_circuit_breaker.status.offline": "Offline",
+    "gui.cfm_circuit_breaker.status.online": "In linea",
+    "gui.cfm_circuit_breaker.status.overloaded": "Sovraccarico"
+}

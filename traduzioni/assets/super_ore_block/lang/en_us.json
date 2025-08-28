@@ -1,0 +1,13 @@
+{
+    "block.super_ore_block.super_coal_block": "Super Coal Block",
+    "block.super_ore_block.super_copper_block": "Super Copper Block",
+    "block.super_ore_block.super_diamond_block": "Super Diamond Block",
+    "block.super_ore_block.super_emerald_block": "Super Emerald Block",
+    "block.super_ore_block.super_gold_block": "Super Gold Block",
+    "block.super_ore_block.super_iron_block": "Super Iron Block",
+    "block.super_ore_block.super_lapis_block": "Super Lapis Block",
+    "block.super_ore_block.super_netherite_block": "Super Netherite Block",
+    "block.super_ore_block.super_ore_block": "Super Ore Block",
+    "block.super_ore_block.super_redstone_block": "Super Redstone Block",
+    "itemGroup.super_ore_block.items": "Super Ore Blocks"
+}

@@ -1,0 +1,17 @@
+{
+    "item.pocketmachines.pocket_anvil": "Pocket Anvil",
+    "item.pocketmachines.pocket_blast_furnace": "Pocket Blast Furnace",
+    "item.pocketmachines.pocket_brewing_stand": "Pocket Brewing Stand",
+    "item.pocketmachines.pocket_cartography_table": "Pocket Cartography Table",
+    "item.pocketmachines.pocket_chest": "Pocket Chest",
+    "item.pocketmachines.pocket_crafting": "Pocket Crafting Table",
+    "item.pocketmachines.pocket_enchanting_table": "Pocket Enchanting Table",
+    "item.pocketmachines.pocket_ender_chest": "Pocket Ender Chest",
+    "item.pocketmachines.pocket_furnace": "Pocket Furnace",
+    "item.pocketmachines.pocket_grindstone": "Pocket Grindstone",
+    "item.pocketmachines.pocket_loom": "Pocket Loom",
+    "item.pocketmachines.pocket_smithing_table": "Pocket Smithing Table",
+    "item.pocketmachines.pocket_smoker": "Pocket Smoker",
+    "item.pocketmachines.pocket_stonecutter": "Pocket Stonecutter",
+    "itemGroup.pocket_machines": "Simple Pocket Machines"
+}

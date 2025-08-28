@@ -1,0 +1,7 @@
+{
+    "text.autoconfig.taxfreelevels.option.levelBase": "Livello di partenza",
+    "text.autoconfig.taxfreelevels.option.levelBase.@Tooltip": "Il livello del giocatore al quale inizia la riduzione delle tasse. \nPiù basso è il livello di partenza, più alta sarà la riduzione delle tasse.\n\n0 elimina completamente le tasse.\n30 è un livello ragionevole se non si vuole che i costi cambino troppo presto.\n\nNota che per la tavola degli incantesimi, il livello di partenza non scenderà mai al di sotto del requisito di livello della tavola.",
+    "text.autoconfig.taxfreelevels.option.removeAnvilLimit": "Rimuovi limite dell'anfora",
+    "text.autoconfig.taxfreelevels.option.removeAnvilLimit.@Tooltip": "Rimuove il limite di costo dell'incudine di 40 e il messaggio \"troppo caro!\" corrispondente.",
+    "text.autoconfig.taxfreelevels.title": "Livelli esenti da tasse"
+}

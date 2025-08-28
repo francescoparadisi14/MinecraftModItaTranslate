@@ -1,0 +1,7 @@
+{
+    "text.autoconfig.lambdabettergrass.option.betterLayer": "Neve migliore",
+    "text.autoconfig.lambdabettergrass.option.betterLayer.@Tooltip": "Abilita il miglioramento della neve. Se abilitato, alcuni blocchi potrebbero avere una variante innevata utilizzata e\/o un strato di neve aggiunto quando la neve è presente vicina.Nota: questo funziona anche per altri blocchi simili alla neve che hanno strati se i file corretti sono presenti.",
+    "text.autoconfig.lambdabettergrass.option.mode": "Modalità erba migliore",
+    "text.autoconfig.lambdabettergrass.option.mode.@Tooltip": "Abilita il miglioramento del prato.\n- disattiva disabilita completamente il miglioramento del prato.\n- più veloce copierà la texture superiore su ogni lato del blocco di prato. simile all'opzione rapida di OptiFine.\n- rapido connetterà le texture dei blocchi di prato come l'opzione fancy di OptiFine.\n- fancy connetterà le texture dei blocchi di prato e smooterà le texture laterali dei blocchi di prato vicini.",
+    "text.autoconfig.lambdabettergrass.title": "Configurazione di lambdabettergrass"
+}

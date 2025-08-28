@@ -1,0 +1,7 @@
+{
+    "item.mob_drops_recipes_nether.nether_essence_common": "Essenza del Nether comune",
+    "item.mob_drops_recipes_nether.nether_essence_epic": "Essenza del Nether epico",
+    "item.mob_drops_recipes_nether.nether_essence_rare": "Essenza del Nether rara",
+    "item.mob_drops_recipes_nether.nether_essence_uncommon": "Essenza del Nether rara",
+    "itemGroup.mobDropsRecipesNether": "Ricette cadute da mostri: inferno"
+}

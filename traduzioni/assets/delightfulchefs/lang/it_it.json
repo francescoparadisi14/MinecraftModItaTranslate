@@ -1,0 +1,15 @@
+{
+    "block.delightfulchefs.head_table_block": "Tavola da lavoro del cuoco capo",
+    "block.delightfulchefs.pastry_table_block": "Tavola da lavoro del pasticcere",
+    "block.delightfulchefs.prep_table_block": "Tavola di lavoro per cucina",
+    "block.delightfulchefs.serving_table_block": "Tavola da servire",
+    "block.delightfulchefs.sous_table_block": "Tavola da lavoro del cuoco sous",
+    "block.delightfulchefs.vendor_table_block": "Tavola di lavoro del venditore",
+    "entity.minecraft.villager.customer": "Cliente",
+    "entity.minecraft.villager.head_chef": "Cuciniere capo",
+    "entity.minecraft.villager.pastry_chef": "Cucina di pasticceria",
+    "entity.minecraft.villager.prep_cook": "Prepara il cibo",
+    "entity.minecraft.villager.sous_chef": "Cucina seconda",
+    "entity.minecraft.villager.vendor": "Negozio",
+    "itemGroup.delightfulchefs.group": "§f›"
+}

@@ -1,0 +1,15 @@
+{
+    "subtitles.item.bipbip": "Il oggetto emette un beep",
+    "subtitles.item.cardboard": "L'oggetto di cartone si sposta",
+    "subtitles.item.dark_breath": "Respiro oscuro",
+    "subtitles.item.equip_bone": "Indossare armatura ossea",
+    "subtitles.item.filled_sack": "Il sacco pieno si muove",
+    "subtitles.item.interference": "Interferenza",
+    "subtitles.item.magic_hum": "Sussurro magico",
+    "subtitles.item.metal_box_empty": "Gli oggetti metallici vuoti si spostano",
+    "subtitles.item.metal_box_full": "Il contenitore di metallo è pieno e si sposta",
+    "subtitles.item.night_vision": "Visione notturna",
+    "subtitles.item.small_motor": "Il piccolo motore gira",
+    "subtitles.item.viscous_slosh": "Un liquido viscoso nel bottiglia si agita",
+    "subtitles.screen.zip": "Si apre il file zip"
+}

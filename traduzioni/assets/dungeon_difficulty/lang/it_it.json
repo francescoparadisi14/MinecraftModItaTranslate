@@ -1,0 +1,9 @@
+{
+    "difficulty.type.adventure": "Avventura ☠",
+    "difficulty.type.apocalypse": "Apocalisse ☠",
+    "difficulty.type.dungeon": "☠ dungeon",
+    "difficulty.type.heroic": "☠ eroico",
+    "difficulty.type.mythic": "☠ mitico",
+    "difficulty.type.normal": "Normale",
+    "item.power.level": "♦ livello di potere: %s"
+}

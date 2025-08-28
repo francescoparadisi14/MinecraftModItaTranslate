@@ -1,0 +1,6 @@
+{
+    "item.gtbcs_spell_lib.random_imbue_curio.ex_required.tooltip": "Richiede punti esperienza!",
+    "item.gtbcs_spell_lib.spell_imbuing_curio.already_assigned.message": "Non è possibile imbuire lo stesso ecosistema con un'altra incantesimo!",
+    "item.gtbcs_spell_lib.spell_imbuing_curio.not_enough_xp.message": "Non hai abbastanza punti esperienza!",
+    "item.gtbcs_spell_lib.spell_imbuing_curio.success": "Incantato imbevuto!"
+}

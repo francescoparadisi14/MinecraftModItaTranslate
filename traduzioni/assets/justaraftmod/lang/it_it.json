@@ -1,0 +1,14 @@
+{
+    "entity.justaraftmod.raft": "Zattera",
+    "item.justaraftmod.acacia_raft": "Zattera di Legno di Acacia",
+    "item.justaraftmod.bamboo_raft": "Bamboo Raft",
+    "item.justaraftmod.birch_raft": "Zattera di Legno di Betulla",
+    "item.justaraftmod.cherry_raft": "Barca di tronco di ciliegio",
+    "item.justaraftmod.dark_oak_raft": "Zattera di Legno di Quercia Scura",
+    "item.justaraftmod.jungle_raft": "Zattera di Legno della Giungla",
+    "item.justaraftmod.mangrove_raft": "Mangrove Raft",
+    "item.justaraftmod.oak_raft": "Zattera di Legno di Quercia",
+    "item.justaraftmod.spruce_raft": "Zattera di Legno di Abete",
+    "itemGroup.justaraftmod.raft": "Just A Raft Mod",
+    "justaraftmod.config.title": "Configurazione di Just A Raft Mod"
+}

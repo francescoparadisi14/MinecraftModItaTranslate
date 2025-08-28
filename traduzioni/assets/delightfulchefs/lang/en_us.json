@@ -1,0 +1,15 @@
+{
+    "block.delightfulchefs.head_table_block": "Head Chef Worktable",
+    "block.delightfulchefs.pastry_table_block": "Pastry Chef Worktable",
+    "block.delightfulchefs.prep_table_block": "Prep Cook Worktable",
+    "block.delightfulchefs.serving_table_block": "Serving Table",
+    "block.delightfulchefs.sous_table_block": "Sous Chef Worktable",
+    "block.delightfulchefs.vendor_table_block": "Vendor Worktable",
+    "entity.minecraft.villager.customer": "Customer",
+    "entity.minecraft.villager.head_chef": "Head Chef",
+    "entity.minecraft.villager.pastry_chef": "Pastry Chef",
+    "entity.minecraft.villager.prep_cook": "Prep Cook",
+    "entity.minecraft.villager.sous_chef": "Sous Chef",
+    "entity.minecraft.villager.vendor": "Vendor",
+    "itemGroup.delightfulchefs.group": "§f"
+}

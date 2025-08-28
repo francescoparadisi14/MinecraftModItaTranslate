@@ -1,0 +1,17 @@
+{
+    "item.pocketmachines.pocket_anvil": "martello da tasca",
+    "item.pocketmachines.pocket_blast_furnace": "Fornace a mano per esplosione",
+    "item.pocketmachines.pocket_brewing_stand": "Pozza da brew in tasca",
+    "item.pocketmachines.pocket_cartography_table": "Tavola di cartografia portatile",
+    "item.pocketmachines.pocket_chest": "Cassetto portatile",
+    "item.pocketmachines.pocket_crafting": "Tavola da lavoro di creazione portatile",
+    "item.pocketmachines.pocket_enchanting_table": "Tavola da incantesimi portatile",
+    "item.pocketmachines.pocket_ender_chest": "Cassetto di fine del pozzo portatile",
+    "item.pocketmachines.pocket_furnace": "Fornello portatile",
+    "item.pocketmachines.pocket_grindstone": "Grattugia portatile",
+    "item.pocketmachines.pocket_loom": "telarino da taschino",
+    "item.pocketmachines.pocket_smithing_table": "Tavola da falegnameria portatile",
+    "item.pocketmachines.pocket_smoker": "Fumatore da taschino",
+    "item.pocketmachines.pocket_stonecutter": "Taglia pietra portatile",
+    "itemGroup.pocket_machines": "Macchine da tasca semplici"
+}

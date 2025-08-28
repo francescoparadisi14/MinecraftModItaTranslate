@@ -1,0 +1,12 @@
+{
+    "curios.identifier.qio": "qio",
+    "curios.identifier.teleporter": "Teleportatore",
+    "key.categories.mekanismcurios": "Curios Mekanism",
+    "key.mekanismcurios.portableteleporter": "Apri teleportatore portatile",
+    "key.mekanismcurios.protableqio": "Apri QIO portatile",
+    "key.mekanismcurios.quickteleport": "Teleporto rapido",
+    "key.mekanismcurios.quickteleport.empty": "Non hai alcun trasportatore portatile nei tuoi oggetti curiosi.",
+    "key.mekanismcurios.quickteleport.noenergy": "Il tuo teleportatore portatile è esaurito.",
+    "key.mekanismcurios.quickteleport.notconnected": "Portatile teletrasporto non collegato.",
+    "key.mekanismcurios.quickteleport.notfound": "Il teleportatore non è stato trovato in questa frequenza."
+}

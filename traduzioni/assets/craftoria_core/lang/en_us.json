@@ -1,0 +1,5 @@
+{
+    "craftoria_core.config.disable_search_tab_autofocus": "Disable Search Tab Autofocus",
+    "craftoria_core.config.mixin_toggles": "Mixin Toggles",
+    "craftoria_core.config.suppress_unknown_packet_id": "Suppress Unknown Packet ID Errors"
+}

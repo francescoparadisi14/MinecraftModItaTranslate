@@ -1,0 +1,5 @@
+{
+    "craftoria_core.config.disable_search_tab_autofocus": "Disabilita l'autofoco della scheda di ricerca",
+    "craftoria_core.config.mixin_toggles": "Impostazioni di toggle mixin",
+    "craftoria_core.config.suppress_unknown_packet_id": "Ignora gli errori di ID pacchetto sconosciuto"
+}

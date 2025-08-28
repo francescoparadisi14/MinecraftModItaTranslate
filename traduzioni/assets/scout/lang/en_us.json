@@ -1,0 +1,14 @@
+{
+    "item.scout": {
+        "tanned_leather": "Tanned Leather",
+        "satchel_strap": "Satchel Strap",
+        "satchel": "Satchel",
+        "upgraded_satchel": "Upgraded Satchel",
+        "pouch": "Pouch",
+        "upgraded_pouch": "Upgraded Pouch"
+    },
+    "itemGroup.scout.itemgroup": "Scout",
+    "lib39:enable_enhanced_lang": true,
+    "tooltip.scout.slots": "Holds {} items",
+    "trinkets.slot.legs.pouch": "Pouch"
+}

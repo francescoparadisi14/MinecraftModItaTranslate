@@ -1,0 +1,18 @@
+{
+    "block.wider_ender_chests.copper_ender_chest": "Cassa di fine rame",
+    "block.wider_ender_chests.diamond_ender_chest": "Cassa di fine diamante",
+    "block.wider_ender_chests.emerald_ender_chest": "Cassa di fine emeraldina",
+    "block.wider_ender_chests.gold_ender_chest": "Cassetto di fine oro",
+    "block.wider_ender_chests.iron_ender_chest": "Cassetto di fine ferro",
+    "block.wider_ender_chests.lapis_ender_chest": "Cassetto di fine lapis",
+    "block.wider_ender_chests.netherite_ender_chest": "Cassa di fine Netherite",
+    "block.wider_ender_chests.redstone_ender_chest": "Cassetto di fine del rame con rialzo",
+    "container.enderchest.copper": "Cassa di fine rame",
+    "container.enderchest.diamond": "Cassetto di diamante del fine mondo",
+    "container.enderchest.emerald": "Cassetto di fine emeralda",
+    "container.enderchest.gold": "Cassetto d'oro del creatore",
+    "container.enderchest.iron": "Cassetto di ferro del fine mondo",
+    "container.enderchest.lapis": "Cassetto di fine del lapis",
+    "container.enderchest.netherite": "Cassetto di fine del mondo in netherite",
+    "container.enderchest.redstone": "Cassetto di pietra con risonanza"
+}

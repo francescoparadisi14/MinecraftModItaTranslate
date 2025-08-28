@@ -1,0 +1,13 @@
+{
+    "fabricshieldlib.midnightconfig.allow_vanilla_shield_enchanting": "Consenti l'incantesimo di scudo vanilla",
+    "fabricshieldlib.midnightconfig.enable_tooltips": "Abilita i suggerimenti per lo scudo",
+    "fabricshieldlib.midnightconfig.enchantability_convention": "Convenzione di abilità incantatorie: 15 = legno || 5 = pietra || 14 = ferro || 10 = diamante || 22 = oro",
+    "fabricshieldlib.midnightconfig.title": "Configurazione del librario di scudo di Fabric",
+    "fabricshieldlib.midnightconfig.universal_disable": "Disabilitazione del scudo universale",
+    "fabricshieldlib.midnightconfig.universal_disable_description_1": "Se abilitato, ogni volta che un elmo viene disabilitato, tutti gli elmi saranno disabilitati.",
+    "fabricshieldlib.midnightconfig.universal_disable_description_2": "Se disattivato, la disattivazione di un scudo disattiverà solo gli scudi dello stesso tipo.",
+    "fabricshieldlib.midnightconfig.vanilla_shield_enchantability": "Enabilità incantesimi per scudo vanilla",
+    "fabricshieldlib.shield_tooltip.end": "Ricarica",
+    "fabricshieldlib.shield_tooltip.start": "Quando colpito da ascia",
+    "fabricshieldlib.shield_tooltip.unit": "secondi"
+}

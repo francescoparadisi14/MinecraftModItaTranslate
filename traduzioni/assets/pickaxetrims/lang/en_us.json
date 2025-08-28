@@ -1,0 +1,17 @@
+{
+    "item.pickaxetrims.fracture_armor_trim_smithing_template": "Smithing Template",
+    "itemGroup.pickaxetrims": "Trimmed Pickaxes",
+    "pickaxetrims.description.copper": "Double durability",
+    "pickaxetrims.description.crying_obsidian": "Break 3x3 at once",
+    "pickaxetrims.description.emerald": "Randomly double drops",
+    "pickaxetrims.description.lapis_lazuli": "Make nearby ores glow",
+    "pickaxetrims.description.quartz": "Bonus experience",
+    "pickaxetrims.description.redstone": "Break adjacent ores",
+    "pickaxetrims.material.copper": "Copper Material",
+    "pickaxetrims.material.crying_obsidian": "Crying Obsidian Material",
+    "pickaxetrims.material.emerald": "Emerald Material",
+    "pickaxetrims.material.lapis_lazuli": "Lapis Lazuli Material",
+    "pickaxetrims.material.quartz": "Quartz Material",
+    "pickaxetrims.material.redstone": "Redstone Material",
+    "trim_pattern.pickaxetrims.fracture": "Fracture Armor\/Pickaxe Trim"
+}

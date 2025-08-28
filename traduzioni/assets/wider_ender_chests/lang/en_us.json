@@ -1,0 +1,18 @@
+{
+    "block.wider_ender_chests.copper_ender_chest": "Copper Ender Chest",
+    "block.wider_ender_chests.diamond_ender_chest": "Diamond Ender Chest",
+    "block.wider_ender_chests.emerald_ender_chest": "Emerald Ender Chest",
+    "block.wider_ender_chests.gold_ender_chest": "Gold Ender Chest",
+    "block.wider_ender_chests.iron_ender_chest": "Iron Ender Chest",
+    "block.wider_ender_chests.lapis_ender_chest": "Lapis Ender Chest",
+    "block.wider_ender_chests.netherite_ender_chest": "Netherite Ender Chest",
+    "block.wider_ender_chests.redstone_ender_chest": "Redstone Ender Chest",
+    "container.enderchest.copper": "Copper Ender Chest",
+    "container.enderchest.diamond": "Diamond Ender Chest",
+    "container.enderchest.emerald": "Emerald Ender Chest",
+    "container.enderchest.gold": "Gold Ender Chest",
+    "container.enderchest.iron": "Iron Ender Chest",
+    "container.enderchest.lapis": "Lapis Ender Chest",
+    "container.enderchest.netherite": "Netherite Ender Chest",
+    "container.enderchest.redstone": "Redstone Ender Chest"
+}

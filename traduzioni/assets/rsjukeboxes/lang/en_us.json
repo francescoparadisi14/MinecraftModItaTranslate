@@ -1,0 +1,23 @@
+{
+    "block.rsjukeboxes.repeating_jukebox_block": "Repeating Jukebox",
+    "block.rsjukeboxes.rs_jukebox_block": "Redstone Jukebox",
+    "block.rsjukeboxes.tier1_advanced_jukebox_block": "Tier I Advanced Jukebox",
+    "block.rsjukeboxes.tier2_advanced_jukebox_block": "Tier II Advanced Jukebox",
+    "block.rsjukeboxes.tier3_advanced_jukebox_block": "Tier III Advanced Jukebox",
+    "gui.jukebox.next": "Next track",
+    "gui.jukebox.play": "Play",
+    "gui.jukebox.playlist": "Playlist",
+    "gui.jukebox.prev": "Previous track",
+    "gui.jukebox.stop": "Stop",
+    "item.rsjukeboxes.block.rsjukeboxes.repeating_jukebox_block.tooltip": "Repeats one song if it's powered by redstone",
+    "item.rsjukeboxes.block.rsjukeboxes.repeating_jukebox_block.tooltip.extended": "§lWiring:%nl%  Yellow: ON\/OFF%nl%  Red: Emits when track ends%nl%  Green: Tick pause delay addition%nl%  Blue: Tick pause delay coefficient%nl%%nl%  §o  delay = Blue*16 + Green",
+    "item.rsjukeboxes.block.rsjukeboxes.rs_jukebox_block.tooltip": "Basic jukebox which you can turn on by redstone",
+    "item.rsjukeboxes.block.rsjukeboxes.tier1_advanced_jukebox_block.tooltip": "Advanced redstone jukebox",
+    "item.rsjukeboxes.block.rsjukeboxes.tier1_advanced_jukebox_block.tooltip.extended": "Slots: 5%nl%%nl%§lWiring:%nl%  Yellow: Play\/Stop%nl%  Red: Emits when track ends%nl%  Green: Previous track%nl%  Blue: Next track",
+    "item.rsjukeboxes.block.rsjukeboxes.tier2_advanced_jukebox_block.tooltip": "Advanced redstone jukebox",
+    "item.rsjukeboxes.block.rsjukeboxes.tier2_advanced_jukebox_block.tooltip.extended": "Slots: 10%nl%%nl%§lWiring:%nl%  Yellow: Play\/Stop%nl%  Red: Emits when track ends%nl%  Green: Previous track%nl%  Blue: Next track",
+    "item.rsjukeboxes.block.rsjukeboxes.tier3_advanced_jukebox_block.tooltip": "Advanced redstone jukebox",
+    "item.rsjukeboxes.block.rsjukeboxes.tier3_advanced_jukebox_block.tooltip.extended": "Slots: 15%nl%%nl%§lWiring:%nl%  Yellow: Play\/Stop%nl%  Red: Emits when track ends%nl%  Green: Previous track%nl%  Blue: Next track",
+    "itemGroup.rsjukeboxes_jukeboxes": "Redstone Jukeboxes",
+    "tooltip.general.hold_shift": "Hold %key% to show advanced tooltip!"
+}

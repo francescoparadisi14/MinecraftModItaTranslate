@@ -1,0 +1,12 @@
+{
+    "curios.identifier.qio": "QIO",
+    "curios.identifier.teleporter": "Teleporter",
+    "key.categories.mekanismcurios": "Mekanism Curios",
+    "key.mekanismcurios.portableteleporter": "Open Portable Teleporter",
+    "key.mekanismcurios.protableqio": "Open Portable QIO",
+    "key.mekanismcurios.quickteleport": "Quick-Teleport",
+    "key.mekanismcurios.quickteleport.empty": "You don't have any Portable Teleporter in your curios.",
+    "key.mekanismcurios.quickteleport.noenergy": "Your Portable Teleporter is out of energy.",
+    "key.mekanismcurios.quickteleport.notconnected": "Portable Teleporter not linked.",
+    "key.mekanismcurios.quickteleport.notfound": "Teleporter not found in this frequency."
+}

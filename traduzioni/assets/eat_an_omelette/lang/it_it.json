@@ -1,0 +1,10 @@
+{
+    "block.eat_an_omelette.enchanted_golden_spanish_potato_omelette": "Uova d'oro incantate spagnole di patata",
+    "block.eat_an_omelette.golden_spanish_potato_omelette": "Frittata spagnola d'patate dorata",
+    "block.eat_an_omelette.spanish_potato_omelette": "Frittata di patate spagnola",
+    "item.eat_an_omelette.enchanted_golden_omelette": "Uovo d'oro incantato",
+    "item.eat_an_omelette.golden_omelette": "Uovo d'oro",
+    "item.eat_an_omelette.omelette": "Omelette",
+    "item.eat_an_omelette.spanish_omelette_mix": "Misto di frittata spagnola",
+    "itemGroup.eatAnOmelette": "Mangia un'omelette!"
+}

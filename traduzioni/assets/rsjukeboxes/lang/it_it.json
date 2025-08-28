@@ -1,0 +1,23 @@
+{
+    "block.rsjukeboxes.repeating_jukebox_block": "Jukebox ripetente",
+    "block.rsjukeboxes.rs_jukebox_block": "Jukebox di redstone",
+    "block.rsjukeboxes.tier1_advanced_jukebox_block": "Jukebox avanzato di primo livello",
+    "block.rsjukeboxes.tier2_advanced_jukebox_block": "Jukebox avanzato di secondo livello",
+    "block.rsjukeboxes.tier3_advanced_jukebox_block": "Jukebox avanzato di terza generazione",
+    "gui.jukebox.next": "Prossimo brano",
+    "gui.jukebox.play": "Gioca",
+    "gui.jukebox.playlist": "Playlist",
+    "gui.jukebox.prev": "Traccia precedente",
+    "gui.jukebox.stop": "Stop",
+    "item.rsjukeboxes.block.rsjukeboxes.repeating_jukebox_block.tooltip": "Riproduce una canzone se è alimentato da redstone",
+    "item.rsjukeboxes.block.rsjukeboxes.repeating_jukebox_block.tooltip.extended": "Impostazioni del jukebox ripetitore:\n yellow: on\/off\n red: emette quando il brano finisce\n green: ritardo di pausa in ticks aggiuntivo\n blue: coefficiente di ritardo di pausa\n delay = blu*16 + verde",
+    "item.rsjukeboxes.block.rsjukeboxes.rs_jukebox_block.tooltip": "Un jukebox di base che puoi attivare con il rame",
+    "item.rsjukeboxes.block.rsjukeboxes.tier1_advanced_jukebox_block.tooltip": "Jukebox avanzato di redstone",
+    "item.rsjukeboxes.block.rsjukeboxes.tier1_advanced_jukebox_block.tooltip.extended": "Pulsanti: 5%nl%%nl%Sistema di alimentazione: %nl% Giallo: riproduzione\/pausa%nl% Rosso: emette quando il brano finisce%nl% Verde: traccia precedente%nl% Blu: prossima traccia",
+    "item.rsjukeboxes.block.rsjukeboxes.tier2_advanced_jukebox_block.tooltip": "Jukebox avanzato di redstone",
+    "item.rsjukeboxes.block.rsjukeboxes.tier2_advanced_jukebox_block.tooltip.extended": "Pulsanti: 10%nl%%nl%Sistema di alimentazione: %nl% Giallo: riproduzione\/pausa%nl% Rosso: emette quando il brano finisce%nl% Verde: traccia precedente%nl% Blu: prossima traccia",
+    "item.rsjukeboxes.block.rsjukeboxes.tier3_advanced_jukebox_block.tooltip": "Jukebox avanzato di redstone",
+    "item.rsjukeboxes.block.rsjukeboxes.tier3_advanced_jukebox_block.tooltip.extended": "Pulsanti: 15%nl%%nl%Sistema di alimentazione: %nl% Giallo: riproduzione\/pausa%nl% Rosso: emette quando il brano finisce%nl% Verde: traccia precedente%nl% Blu: prossima traccia",
+    "itemGroup.rsjukeboxes_jukeboxes": "Jukebox di redstone",
+    "tooltip.general.hold_shift": "Tieni premuto %key% per visualizzare la tooltip avanzata!"
+}

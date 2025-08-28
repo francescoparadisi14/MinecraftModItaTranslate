@@ -1,0 +1,16 @@
+{
+    "advancements.jamd.mining.description": "Inserisci il mondo della miniera",
+    "advancements.jamd.mining.title": "Fino all'infinito e sottoterra",
+    "biome.jamd.end": "Miniera finale",
+    "biome.jamd.mining": "Miniera",
+    "biome.jamd.nether": "Miniera del Nether",
+    "block.jamd.end_portal": "Portale minerario finale",
+    "block.jamd.nether_portal": "Portale di miniera dell'Inferno",
+    "block.jamd.portal_block": "Portale di miniera",
+    "dimension.jamd.end": "Fine estrazione mineraria",
+    "dimension.jamd.mining": "Miniera",
+    "dimension.jamd.nether": "Miniera del Nether",
+    "jamd.argument.world_type.invalid": "Tipo di mondo non valido '%s'",
+    "jamd.invalid.pos": "Impossibile trovare una posizione di portale valida",
+    "jamd.invalid.world": "Impossibile trovare mondo \"%s\""
+}

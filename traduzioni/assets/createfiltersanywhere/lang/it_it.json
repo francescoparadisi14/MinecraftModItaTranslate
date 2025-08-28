@@ -1,0 +1,6 @@
+{
+    "create.item_attributes.has_backpack_upgrade": "è un zaino con \"%1$s\"",
+    "create.item_attributes.has_backpack_upgrade.inverted": "non è un zaino con \"%1$s\"",
+    "create.item_attributes.has_backpack_uuid": "È un zaino con un UUID di \"%1$s\"",
+    "create.item_attributes.has_backpack_uuid.inverted": "Non è un zaino con UUID \"%1$s\""
+}

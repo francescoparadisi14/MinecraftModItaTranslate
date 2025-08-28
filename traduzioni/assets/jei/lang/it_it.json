@@ -65,6 +65,7 @@
     "gui.jei.category.fuel": "Carburante",
     "gui.jei.category.fuel.smeltCount": "Cucina %s oggetti",
     "gui.jei.category.fuel.smeltCount.single": "Cucina 1 oggetto",
+    "gui.jei.category.grindstone.experience": "Da %s a %s XP",
     "gui.jei.category.itemInformation": "Descrizione",
     "gui.jei.category.recipe.crashed": "Questa Ricetta Si è Bloccata. Per Favore, Consulta I Registri Del Client Per Ulteriori Informazioni.",
     "gui.jei.category.smelting": "Fusione",

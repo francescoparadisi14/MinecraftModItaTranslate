@@ -1,0 +1,10 @@
+{
+    "block.eat_an_omelette.enchanted_golden_spanish_potato_omelette": "Enchanted Golden Spanish Potato Omelette",
+    "block.eat_an_omelette.golden_spanish_potato_omelette": "Golden Spanish Potato Omelette",
+    "block.eat_an_omelette.spanish_potato_omelette": "Spanish Potato Omelette",
+    "item.eat_an_omelette.enchanted_golden_omelette": "Enchanted Golden Omelette",
+    "item.eat_an_omelette.golden_omelette": "Golden Omelette",
+    "item.eat_an_omelette.omelette": "Omelette",
+    "item.eat_an_omelette.spanish_omelette_mix": "Spanish Omelette Mix",
+    "itemGroup.eatAnOmelette": "Eat an Omelette!"
+}

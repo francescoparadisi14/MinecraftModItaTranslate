@@ -1,0 +1,12 @@
+{
+    "fml.menu.mods.info.description.chatimpressiveanimation": "Makes the chat look better by adding animations, such as opening\/closing the chat bar, sending messages, etc. It also removes the message indicator",
+    "fml.menu.mods.info.displayname.chatimpressiveanimation": "Chat Impressive Animation",
+    "modmenu.descriptionTranslation.chatimpressiveanimation": "Makes the chat look better by adding animations, such as opening\/closing the chat bar, sending messages, etc. It also removes the message indicator",
+    "modmenu.nameTranslation.chatimpressiveanimation": "Chat Impressive Animation",
+    "text.autoconfig.chatimpressiveanimation.option.chatBarAnimationFadeTime": "Chat bar animation duration (ms)",
+    "text.autoconfig.chatimpressiveanimation.option.chatSendingAnimationFadeTime": "Message sending animation duration (ms)",
+    "text.autoconfig.chatimpressiveanimation.option.enableChatBarAnimation": "Enable chat bar animations",
+    "text.autoconfig.chatimpressiveanimation.option.enableChatSendingAnimation": "Enable message sending animation",
+    "text.autoconfig.chatimpressiveanimation.option.removeMessageIndicator": "Removes the message indicator",
+    "text.autoconfig.chatimpressiveanimation.title": "Chat Impressive Animation"
+}

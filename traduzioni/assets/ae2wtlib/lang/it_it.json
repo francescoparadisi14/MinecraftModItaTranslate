@@ -1,7 +1,9 @@
 {
     "ae2wtlib.configuration.magnet_card_range": "Raggio Della Carta Di Magnete",
+    "chat.ae2wtlib.NetworkNotPowered": "Rete non alimentata",
     "gui.ae2wtlib.Magnet": "Filtro Magnete",
     "gui.ae2wtlib.allow": "Consenti",
+    "gui.ae2wtlib.blacklist": "Elenco nero",
     "gui.ae2wtlib.copy_insert": "Copia Per Inserire",
     "gui.ae2wtlib.copy_pickup": "Copia In Raccolta",
     "gui.ae2wtlib.creativetab": "Pannelli Terminali Wireless Ae2 (ae2wtlib)",
@@ -30,6 +32,7 @@
     "gui.ae2wtlib.slot.magnetcard.desc": "Carta Magnete",
     "gui.ae2wtlib.switch": "Attiva Filtri",
     "gui.ae2wtlib.trash": "Immondizia",
+    "gui.ae2wtlib.whitelist": "Elenco bianco",
     "gui.ae2wtlib.wireless_terminal_settings_title": "Impostazioni Terminale Wireless",
     "item.ae2wtlib.infinity_booster_card": "Carta di boost infinito",
     "item.ae2wtlib.infinity_booster_card.desc": "Espande i terminali wireless all'infinito",
@@ -53,5 +56,7 @@
     "key.ae2wtlib.wct": "Apri terminale di crafting wireless",
     "key.ae2wtlib.wit": "Apri terminale interfaccia wireless",
     "key.ae2wtlib.wpt": "Apri terminale di schema wireless",
-    "key.category.ae2wtlib": "Terminali wireless AE2 (AE2WTLib)"
+    "key.category.ae2wtlib": "Terminali wireless AE2 (AE2WTLib)",
+    "text.autoconfig.de\/mari_023\/ae2wtlib.option.magnetCardRange": "Raggio della carta magnetica",
+    "text.autoconfig.de\/mari_023\/ae2wtlib.title": "Terminali wireless AE2"
 }

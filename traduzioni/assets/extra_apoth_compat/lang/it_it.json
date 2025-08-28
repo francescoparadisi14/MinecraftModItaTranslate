@@ -1,0 +1,14 @@
+{
+    "emi.category.extra_apoth_compat.enchanting": "Infusione",
+    "emi.category.extra_apoth_compat.gem_cutting": "Taglio dei gemme",
+    "emi.category.extra_apoth_compat.salvaging": "Salvagente",
+    "emi.category.extra_apoth_compat.spawner_modifier": "Modificatori di spawn",
+    "emi.extra_apoth_compat.socketing.info": "Il gemma verrà aggiunta a questo oggetto",
+    "emi.extra_apoth_compat.socketing_sigil.info": "L'oggetto avrà un foro aggiunto, fino a %d",
+    "emi.extra_apoth_compat.unnaming.info": "Il nome di affissione verrà rimosso",
+    "emi.extra_apoth_compat.withdrawal.info": "Tutti i gemmi verranno rimossi da questo oggetto",
+    "tag.item.apotheosis.rarity_materials": "Materiali di rarità",
+    "tag.item.apothic_enchanting.boon_drops": "Goccia di bene della terra",
+    "tag.item.apothic_enchanting.infused_shelves": "Scheletri infusi",
+    "tag.item.curios.charm": "Amuleti"
+}

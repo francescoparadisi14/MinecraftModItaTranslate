@@ -1,0 +1,17 @@
+{
+    "item.pickaxetrims.fracture_armor_trim_smithing_template": "Modello di lavorazione",
+    "itemGroup.pickaxetrims": "Pickaxe smussati",
+    "pickaxetrims.description.copper": "Doppia durata",
+    "pickaxetrims.description.crying_obsidian": "Rompe 3x3 contemporaneamente",
+    "pickaxetrims.description.emerald": "Doppia caduta casuale",
+    "pickaxetrims.description.lapis_lazuli": "Fai brillare le miniere vicine",
+    "pickaxetrims.description.quartz": "Esperienza bonus",
+    "pickaxetrims.description.redstone": "Rompe minerali adiacenti",
+    "pickaxetrims.material.copper": "Materiale di rame",
+    "pickaxetrims.material.crying_obsidian": "Materiale di ossidiano pianto",
+    "pickaxetrims.material.emerald": "Materiale di zaffiro",
+    "pickaxetrims.material.lapis_lazuli": "Materiale di lapis lazuli",
+    "pickaxetrims.material.quartz": "Materiale di quarzo",
+    "pickaxetrims.material.redstone": "Materiale di risonanza rossa",
+    "trim_pattern.pickaxetrims.fracture": "Arredo frattura\/trimma di piccozza"
+}

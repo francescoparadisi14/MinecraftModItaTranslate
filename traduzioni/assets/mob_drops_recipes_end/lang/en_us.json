@@ -1,0 +1,7 @@
+{
+    "item.mob_drops_recipes_end.end_essence_common": "Common End Essence",
+    "item.mob_drops_recipes_end.end_essence_epic": "Epic End Essence",
+    "item.mob_drops_recipes_end.end_essence_rare": "Rare End Essence",
+    "item.mob_drops_recipes_end.end_essence_uncommon": "Uncommon End Essence",
+    "itemGroup.mobDropsRecipesEnd": "Mob Drops Recipes: End"
+}

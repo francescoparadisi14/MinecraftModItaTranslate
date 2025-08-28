@@ -1,0 +1,13 @@
+{
+    "item.modernindustrialrouters.ev_upgrade": "Aggiornamento di energia EV",
+    "item.modernindustrialrouters.hv_upgrade": "Aggiornamento di energia HV",
+    "item.modernindustrialrouters.lv_upgrade": "Aggiornamento energetico di livello per router industriale moderno",
+    "item.modernindustrialrouters.mv_upgrade": "Aggiornamento di energia per router industriale moderno",
+    "item.modernindustrialrouters.superconductor_upgrade": "Aggiornamento di energia superconduttore",
+    "modernindustrialrouters.in_gui.eu_upgrade": "• la capacità energetica di questo router: %d EU\n• il tasso di trasferimento di questo router: %d EU\/riga di clock del router",
+    "modularrouters.itemText.usage.item.ev_upgrade": "Fornisce moduli di energia in un router che comportano come se stessero trasferendo l'industrializzazione moderna di livello %d.\nIncrementa la capacità del buffer di energia e il tasso di trasferimento di un router di %d eu e %d eu\/tasto di router.",
+    "modularrouters.itemText.usage.item.hv_upgrade": "Fornisce moduli di energia in un router che comportano come se stessero trasferendo l'industrializzazione moderna di livello %d.\nAumenta la capacità del buffer di energia e il tasso di trasferimento di un router di %d eu e %d eu\/tasto di router.",
+    "modularrouters.itemText.usage.item.lv_upgrade": "Fornisce moduli di energia in un router che comportano come se stessero trasferendo l'industrializzazione moderna di livello %d.\nAumenta la capacità del buffer di energia e il tasso di trasferimento di un router di %d eu e %d eu\/tasto di router.",
+    "modularrouters.itemText.usage.item.mv_upgrade": "Fornisce moduli di energia in un router che comportano come se stessero trasferendo l'industrializzazione moderna di livello %d.\nIncrementa la capacità del buffer di energia e il tasso di trasferimento di un router di %d eu e %d eu\/tasto di router.",
+    "modularrouters.itemText.usage.item.superconductor_upgrade": "Fatto che i moduli di energia in un router comportano come se stessero trasferendo l'industrializzazione moderna di livello %d.\nIncrementa la capacità del buffer di energia di un router di %d EU e il tasso di trasferimento di %d EU\/router tick."
+}

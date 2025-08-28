@@ -1,0 +1,12 @@
+{
+    "modmenu.descriptionTranslation.particle_effects": "Mod visivo che aggiunge particelle testurate uniche per ogni effetto presente nel Minecraft originale!",
+    "particle_effects.modmenu.category.general.name": "Generale",
+    "particle_effects.modmenu.formatter.enabled_or_disabled.false": "disabilitato",
+    "particle_effects.modmenu.formatter.enabled_or_disabled.true": "Abilitato",
+    "particle_effects.modmenu.no_config_library_screen.message": "Hai bisogno di installare §6§lyet un'altra libreria di configurazione [yacl]§f per aprire lo schermo di configurazione del modulo ${mod_name}\n\n§a§lopen §6§lyacl §a§lpagina di Modrinth?",
+    "particle_effects.modmenu.option.debug_log_enabled.description": "Se abilitato, ulteriori informazioni saranno registrate nella console per il debug; se disabilitato, non lo sarà.",
+    "particle_effects.modmenu.option.debug_log_enabled.name": "Debug log abilitato",
+    "particle_effects.modmenu.option.mod_enabled.description": "Se abilitato, ogni particella di ogni effetto sarà sostituita con un testo unico; se disabilitato, non lo sarà.",
+    "particle_effects.modmenu.option.mod_enabled.name": "Abilitato modulo",
+    "particle_effects.modmenu.title": "Configurazione di §l${mod_name}"
+}

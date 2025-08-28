@@ -1,0 +1,11 @@
+{
+    "item.xp_storage_trinkets.cristalis_lazuli": "Cristalis lazurio",
+    "item.xp_storage_trinkets.xp_conduit": "Conduzione XP",
+    "item.xp_storage_trinkets.xp_saver": "Salvatore XP",
+    "itemGroup.xp_storage_trinkets.trinkets": "Trinketti di archiviazione XP",
+    "text.autoconfig.xp_storage_trinkets.option.xpConduitMaxDamage": "Durabilità del condotto XP",
+    "text.autoconfig.xp_storage_trinkets.option.xpConduitTransfer": "Quantità di trasferimento del condotto XP (%)",
+    "text.autoconfig.xp_storage_trinkets.option.xpSaverMaxDamage": "Durabilità del salvatore XP",
+    "text.autoconfig.xp_storage_trinkets.option.xpSaverTransfer": "Quantità di trasferimento del salvataggio XP (%)",
+    "text.autoconfig.xp_storage_trinkets.title": "Configurazioni di archiviazione XP - Trinkets"
+}

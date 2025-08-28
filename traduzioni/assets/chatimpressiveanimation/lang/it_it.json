@@ -1,0 +1,12 @@
+{
+    "fml.menu.mods.info.description.chatimpressiveanimation": "Aggiunge animazioni al messaggio, come l'apertura\/chiusura della barra di chat, l'inoltro dei messaggi, ecc. Inoltre, rimuove l'indicatore del messaggio.",
+    "fml.menu.mods.info.displayname.chatimpressiveanimation": "Animazione di impressione nel chat",
+    "modmenu.descriptionTranslation.chatimpressiveanimation": "Aggiunge animazioni al messaggio di chat, come l'apertura\/chiusura della barra di chat, l'inoltro dei messaggi, ecc. Inoltre, rimuove l'indicatore del messaggio.",
+    "modmenu.nameTranslation.chatimpressiveanimation": "Animazione impressionante del chat",
+    "text.autoconfig.chatimpressiveanimation.option.chatBarAnimationFadeTime": "Durata dell'animazione della barra di chat (ms)",
+    "text.autoconfig.chatimpressiveanimation.option.chatSendingAnimationFadeTime": "Durata dell'animazione di invio del messaggio (ms)",
+    "text.autoconfig.chatimpressiveanimation.option.enableChatBarAnimation": "Abilita animazioni della barra di chat",
+    "text.autoconfig.chatimpressiveanimation.option.enableChatSendingAnimation": "Abilita l'animazione di invio del messaggio",
+    "text.autoconfig.chatimpressiveanimation.option.removeMessageIndicator": "Rimuove l'indicatore del messaggio",
+    "text.autoconfig.chatimpressiveanimation.title": "Animazione di chat impressionante"
+}

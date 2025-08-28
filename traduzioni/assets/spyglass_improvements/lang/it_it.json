@@ -1,0 +1,16 @@
+{
+    "category.spyglass-improvements": "Miglioramenti per il cannocchiale",
+    "key.spyglass-improvements.use": "Usa cannocchiale",
+    "options.spyglass-improvements.hideSettingsButton": "Nascondi pulsante impostazioni: %s",
+    "options.spyglass-improvements.hideSettingsButton.tooltip": "Nascondi il pulsante di impostazioni dello schermo opzioni di Minecraft. Puoi ancora accedere a questo schermo attraverso il menu del modulo.",
+    "options.spyglass-improvements.reset": "Ripristina configurazione",
+    "options.spyglass-improvements.showCrosshair": "Mostra puntatore: %s",
+    "options.spyglass-improvements.smoothCamera": "Rilevamento liscio: %s",
+    "options.spyglass-improvements.spyglassOverlay": "Ovrapposizione telescopio: %s",
+    "options.spyglass-improvements.spyglassOverlay.0": "Predefinito",
+    "options.spyglass-improvements.spyglassOverlay.1": "Chiaro",
+    "options.spyglass-improvements.spyglassOverlay.2": "cerchio",
+    "options.spyglass-improvements.spyglassOverlay.3": "Nessuno",
+    "options.spyglass-improvements.title": "Impostazioni miglioramenti per il cannocchiale",
+    "options.spyglass-improvements.zoomQuantity": "Incrementi di zoom: %s passaggi"
+}

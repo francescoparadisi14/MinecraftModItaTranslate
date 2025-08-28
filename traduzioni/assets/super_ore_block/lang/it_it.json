@@ -1,0 +1,13 @@
+{
+    "block.super_ore_block.super_coal_block": "Blocco di carbone superiore",
+    "block.super_ore_block.super_copper_block": "Blocco di rame superiore",
+    "block.super_ore_block.super_diamond_block": "Blocco di diamante superiore",
+    "block.super_ore_block.super_emerald_block": "Blocco di emerodio superiore",
+    "block.super_ore_block.super_gold_block": "Blocco d'oro superiore",
+    "block.super_ore_block.super_iron_block": "Blocco di ferro superiore",
+    "block.super_ore_block.super_lapis_block": "Blocco di lapis superiore",
+    "block.super_ore_block.super_netherite_block": "Blocco di super-netherite",
+    "block.super_ore_block.super_ore_block": "Blocco minerale superiore",
+    "block.super_ore_block.super_redstone_block": "Blocco di super rame",
+    "itemGroup.super_ore_block.items": "Blocchi di minerale superiore"
+}

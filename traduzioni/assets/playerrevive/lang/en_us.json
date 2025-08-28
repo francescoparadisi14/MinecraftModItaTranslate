@@ -1,0 +1,9 @@
+{
+    "argument.entity.options.bleeding.description": "Filters by whether an entity is bleeding or not",
+    "config.playerrevive.bleeding.bleedingMessageTrackingOnly.comment": "Only the players within the render distance of injured people receive the bleeding messages.",
+    "playerrevive.chat.bleeding": "%s is bleeding out and may need your help",
+    "playerrevive.chat.no_commands": "No commands allowed when bleeding",
+    "playerrevive.gui.hold": "Wait for help or hold '%s' for %s seconds to give up",
+    "playerrevive.gui.label.time_left": "Time left: %s",
+    "playerrevive.revive.item": "You need %s"
+}

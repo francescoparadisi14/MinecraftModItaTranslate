@@ -1,0 +1,9 @@
+{
+    "argument.entity.options.bleeding.description": "Filtra per entità che sanguinano o meno",
+    "config.playerrevive.bleeding.bleedingMessageTrackingOnly.comment": "Solo i giocatori all'interno della distanza di rendering delle persone ferite ricevono i messaggi di emorragia.",
+    "playerrevive.chat.bleeding": "%s sta perdendo sangue e potrebbe aver bisogno del tuo aiuto",
+    "playerrevive.chat.no_commands": "Non sono consentiti comandi quando si è in stato di emorragia",
+    "playerrevive.gui.hold": "Aspetta aiuto o tieni '%s' per %s secondi per rinunciare",
+    "playerrevive.gui.label.time_left": "Tempo rimanente: %s",
+    "playerrevive.revive.item": "hai bisogno di %s"
+}

@@ -1,0 +1,6 @@
+{
+    "item.gtbcs_spell_lib.random_imbue_curio.ex_required.tooltip": "Requires Experience Points!",
+    "item.gtbcs_spell_lib.spell_imbuing_curio.already_assigned.message": "Cannot imbue the same echo with another spell!",
+    "item.gtbcs_spell_lib.spell_imbuing_curio.not_enough_xp.message": "Not enough experience points!",
+    "item.gtbcs_spell_lib.spell_imbuing_curio.success": "Spell Imbued!"
+}
