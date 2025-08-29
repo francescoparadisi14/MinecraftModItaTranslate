@@ -1,4 +1,7 @@
 {
+    "common": "Common",
+    "epic": "Epic",
+    "legendary": "Legendary",
     "lootbeams.config.item.allItems": "All Items",
     "lootbeams.config.item.allItems.description": "If all Items Loot Beams should be rendered.\n Has priority over only_equipment and only_rare.",
     "lootbeams.config.item.blacklist": "Blacklist",
@@ -56,5 +59,8 @@
     "lootbeams.config.nametags.whiteRarities.description": "If rarities should ignore color and render as white \n(This is really only used for modpacks)",
     "lootbeams.config.nametags.yOffset": "Nametag Y Offset",
     "lootbeams.config.nametags.yOffset.description": "The Y-offset of the nametag.",
-    "lootbeams.title": "Loot Beams"
+    "lootbeams.title": "Loot Beams",
+    "mythic": "Mythic",
+    "rare": "Rare",
+    "uncommon": "Uncommon"
 }

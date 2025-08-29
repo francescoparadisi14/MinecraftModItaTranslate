@@ -1,0 +1,19 @@
+{
+    "entity.darkersouls.lightning_projectile": "fulmine",
+    "entity.darkersouls.nameless_king": "Re senza nome",
+    "entity.darkersouls.wind_no_collision": "Vento",
+    "item.darkersouls.crown_of_tempest": "Corona della tempesta",
+    "item.darkersouls.dragonslayer_spear": "Lancia del drago assassino",
+    "item.darkersouls.dragonslayer_swordspear": "Spada-lancia del drago assassino",
+    "item.darkersouls.golden_greaves": "Gambali d'oro",
+    "item.darkersouls.great_belfry": "Grande campana",
+    "item.darkersouls.lightning": "Lancia di fulmine",
+    "item.darkersouls.nameless_king_chestplate": "Pettorina d'oro",
+    "item.darkersouls.nameless_king_leggings": "Gonna di tempesta",
+    "item.darkersouls.nameless_king_spawn_egg": "Uova di spawn del re senza nome",
+    "item.darkersouls.storm_curved_sword": "Spada curva della tempesta",
+    "itemGroup.darksoulsarmour": "Armi delle anime più oscure",
+    "itemGroup.darksoulsentities": "Entità delle anime più oscure",
+    "itemGroup.darksoulsmagic": "Magie delle anime più oscure",
+    "itemGroup.darksoulsweapons": "Armi delle anime più oscure"
+}

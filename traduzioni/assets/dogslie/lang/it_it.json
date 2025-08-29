@@ -1,0 +1,14 @@
+{
+    "config.dogslie.prop.dogsSpawnLying.desc": "I cani si generano nel mondo sdraiati se già seduti.",
+    "config.dogslie.prop.dogsSpawnLying.name": "Cani che si accovacciato",
+    "config.dogslie.prop.enabledPoses.desc": "Pose per sdraiarsi abilitate. Se il modulo non riesce a trovare pose compatibili, sceglierà una serie casuale.",
+    "config.dogslie.prop.enabledPoses.name": "Pose di sdraio abilitate",
+    "config.dogslie.prop.getsUpFor.desc": "Chi il cane si alza per? Accetta: nessuno, proprietario, giocatori, qualsiasi entità vivente",
+    "config.dogslie.prop.getsUpFor.name": "Si alza per...",
+    "config.dogslie.prop.playSoundWhenLieStateChanges.desc": "Suonare un latrato\/piagnucolio quando il cane si alza\/si sdraia?",
+    "config.dogslie.prop.playSoundWhenLieStateChanges.name": "Suonare quando lo stato di menzogna cambia",
+    "config.dogslie.prop.rangeBeforeGettingUp.desc": "Raggio di azione per il bersaglio prima che il cane si alzi (in blocchi)",
+    "config.dogslie.prop.rangeBeforeGettingUp.name": "Raggio prima di alzarsi",
+    "config.dogslie.prop.timeBeforeLie.desc": "Tempo da trascorrere seduto (in tick) prima che i cani si sdraiano.",
+    "config.dogslie.prop.timeBeforeLie.name": "Tempo prima di mentire"
+}

@@ -1,0 +1,18 @@
+{
+    "class.dawncraft.astrologer": "Astrologo",
+    "class.dawncraft.astrologer.desc": "Gli astrologi, con salute bassa e resistenza inferiore alla media, la loro forza risiede nel passo finale potente per movimenti strategici, completati da un libro di incantesimi base per l'esecuzione di magie.",
+    "class.dawncraft.berserker": "Guerrafondaio",
+    "class.dawncraft.berserker.desc": "Furia implacabile bilanciata con salute media e resistenza superiore alla media. I Berserker si distinguono per le loro abilità specializzate nel combattimento prolungato.",
+    "class.dawncraft.brawler": "Brawler",
+    "class.dawncraft.brawler.desc": "I lottatori presentano una salute sopra la media e una resistenza alla fatica media, rendendoli formidabili nel combattimento corpo a corpo con forza duratura.",
+    "class.dawncraft.lancer": "Lancer",
+    "class.dawncraft.lancer.desc": "I lanciatori, con salute e resistenza mediocri, dimostrano precisione e agilità. Essi eccellono nell'esploitare i punti deboli dell'avversario e impiegano un rapido balzo per manovre di combattimento agile.",
+    "class.dawncraft.roamer": "Roamer",
+    "class.dawncraft.roamer.desc": "Armati di un arco e frecce, i vagabondi si abbracciano l'agilità, caratterizzati da salute inferiore media e alta resistenza.",
+    "class.dawncraft.ronin": "Ronin",
+    "class.dawncraft.ronin.desc": "Con bassa salute e staminas medio, i ronini sono guerrieri agili armati di katana, che eseguono colpi precisi mentre evitano abilmente il danno.",
+    "class.dawncraft.tank": "TANK",
+    "class.dawncraft.tank.desc": "La classe tank è caratterizzata da alta salute e scarsa resistenza, costruita per sopportare assalti incessanti. Con una abilità unica di resistenza allo stordimento, i tank sono protettori intransigenti sul campo di battaglia.",
+    "class.dawncraft.warrior": "Guerriero",
+    "class.dawncraft.warrior.desc": "Campioni formidabili con una resistenza e salute superiori alla media, rendendoli una forza equilibrata sul campo di battaglia."
+}

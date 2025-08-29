@@ -1,0 +1,5 @@
+{
+    "enchantlimiter.points": "Punti di incantesimo: %s",
+    "enchantlimiter.shift": "Tieni premuto Shift per i costi individuali...",
+    "enchantlimiter.tip": "Costo: %1$s + %2$s * %3$s = %4$s"
+}

@@ -1,0 +1,10 @@
+{
+    "config.waterdripsound.dripChance": "Caso di gocciolamento",
+    "config.waterdripsound.enable": "Abilitato",
+    "config.waterdripsound.general": "Configurazione suoni gocce d'acqua",
+    "config.waterdripsound.soundCategory": "Categoria del suono",
+    "config.waterdripsound.useDripstoneSounds": "Usare suoni di gocciolamento di pietra d'acqua",
+    "config.waterdripsound.volume": "Volume",
+    "key.waterdripsound.category": "generale",
+    "tooltip.config.waterdripsound.useDripstoneSounds": "Se abilitato, utilizza i suoni di gocciolamento dell'acqua\/lavafonte aggiunti nella versione 1.17. Se disabilitato, utilizza i suoni delle vecchie versioni del modulo."
+}

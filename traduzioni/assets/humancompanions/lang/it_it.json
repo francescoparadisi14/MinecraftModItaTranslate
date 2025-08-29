@@ -1,0 +1,11 @@
+{
+    "container.humancompanions.companion_inventory": "Inventario del compagno",
+    "entity.humancompanions.arbalist": "Arbalista",
+    "entity.humancompanions.archer": "Archer",
+    "entity.humancompanions.axeguard": "Guardiano dell'ascia",
+    "entity.humancompanions.knight": "Cavaliere",
+    "item.humancompanions.arbalist_spawn_egg": "Uovo di incubazione arbalista",
+    "item.humancompanions.archer_spawn_egg": "Uovo di spawn arciero",
+    "item.humancompanions.axeguard_spawn_egg": "Uova di spawn dell'Axeguard",
+    "item.humancompanions.knight_spawn_egg": "Uovo di generazione cavaliere"
+}

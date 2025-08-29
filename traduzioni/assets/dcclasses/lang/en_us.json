@@ -1,0 +1,9 @@
+{
+    "button.dcclasses.confirm": "Confirm",
+    "button.dcclasses.select": "Select",
+    "text.dcclasses.attributes": "Attributes",
+    "text.dcclasses.items": "Items",
+    "text.dcclasses.skills": "Skills",
+    "text.dcclasses.slot": "Slot: %s",
+    "title.dcclasses.screen": "Classes"
+}

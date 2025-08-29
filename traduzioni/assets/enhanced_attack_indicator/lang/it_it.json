@@ -1,0 +1,15 @@
+{
+    "enhanced_attack_indicator.midnightconfig.disableAxes": "Disabilita il raffreddamento del tempo di attacco dell'ascia",
+    "enhanced_attack_indicator.midnightconfig.disablePickaxesAndShovels": "Disabilita il raffreddamento del tempo di attacco per piccozze e zappe",
+    "enhanced_attack_indicator.midnightconfig.enum.WeaponCoolDownImportance.FIRST": "Primo",
+    "enhanced_attack_indicator.midnightconfig.enum.WeaponCoolDownImportance.LAST": "ultimo",
+    "enhanced_attack_indicator.midnightconfig.enum.WeaponCoolDownImportance.MIDDLE": "mezzo",
+    "enhanced_attack_indicator.midnightconfig.showBlockBreaking": "Mostra progresso di smantellamento del blocco",
+    "enhanced_attack_indicator.midnightconfig.showFoodAndPotions": "Mostra cibo e pozioni",
+    "enhanced_attack_indicator.midnightconfig.showItemContainerFullness": "Mostra piena contenitore Shulker",
+    "enhanced_attack_indicator.midnightconfig.showItemCooldowns": "Mostra raffreddamento oggetto",
+    "enhanced_attack_indicator.midnightconfig.showRangeWeaponDraw": "Mostra disegno di arma a distanza",
+    "enhanced_attack_indicator.midnightconfig.showSleep": "Mostra progresso del sonno",
+    "enhanced_attack_indicator.midnightconfig.title": "Indicatore di attacco migliorato",
+    "enhanced_attack_indicator.midnightconfig.weaponCoolDownImportance": "Priorità del raffreddamento dell'attacco"
+}

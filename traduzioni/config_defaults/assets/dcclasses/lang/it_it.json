@@ -1,0 +1,20 @@
+{
+    "class.dcclasses.agriculturalist": "Agricoltore",
+    "class.dcclasses.agriculturalist.desc": "Disprezzando il combattimento, gli agricoltori preferiscono la coltivazione di tutto il resto e priorizzano avere una fornitura stabile di cibo e risorse prima di avvicinarsi a qualsiasi combattimento.",
+    "class.dcclasses.berserker": "Guerrafondaio",
+    "class.dcclasses.berserker.desc": "Altissimo danno, velocità e feroce, ma scarsa salute e sopravvivenza, i bersaglieri preferiscono finire la lotta rapidamente ed efficacemente.",
+    "class.dcclasses.marauder": "Assassino",
+    "class.dcclasses.marauder.desc": "I guerrieri del mare hanno un equilibrio tra danno e sopravvivenza moderata, cercando di mantenere la loro presenza sul campo di battaglia se necessario.",
+    "class.dcclasses.miner": "Minatore",
+    "class.dcclasses.miner.desc": "I minatori rinunciano a gran parte delle loro capacità di combattimento con l'unico obiettivo di raggiungere il sottosuolo il più velocemente possibile e cacciare i tesori per equipaggiarsi correttamente.",
+    "class.dcclasses.paladin": "Paladino",
+    "class.dcclasses.paladin.desc": "I paladini pongono la difesa sopra ogni altra cosa, mancando di velocità e danno per mantenere sé stessi in vita a qualsiasi costo, lavorando efficacemente nel distogliere l'aggressione dai loro compagni.",
+    "class.dcclasses.ranger": "Ranger",
+    "class.dcclasses.ranger.desc": "I ranger preferiscono attaccare da lontano, con una mobilità superiore alla media e armati di un arco che li tiene a distanza dai loro nemici.",
+    "class.dcclasses.scout": "Scout",
+    "class.dcclasses.scout.desc": "Veloci e agili, gli scout desiderano esplorare, in grado di lottare se necessario, ma eccellono nel fuggire dal combattimento e muoversi con facilità.",
+    "class.dcclasses.speedrunner": "Speedrunner",
+    "class.dcclasses.speedrunner.desc": "I corridori dei tempi non hanno tempo per alcuna di queste abilità o statistiche, stanno per uccidere il drago prima che tu abbia costruito la tua prima base e nulla li fermerà.",
+    "class.dcclasses.warrior": "Guerrigliere",
+    "class.dcclasses.warrior.desc": "Mediocre in statistica, i guerrieri giocano il gioco in modo equilibrato, adatto ai giocatori che non si concentrano sulle statistiche e sulle abilità."
+}

@@ -1,0 +1,17 @@
+{
+    "block.zensummoning.altar": "Altare di evocazione",
+    "chat.zensummoning.busy": "L'altare è occupato.",
+    "chat.zensummoning.full": "L'altare è pieno.",
+    "chat.zensummoning.invalid_ingredient": "Questo non è un ingrediente valido.",
+    "chat.zensummoning.no_match": "L'altare non sa cosa desideri.",
+    "chat.zensummoning.success": "L'altare canta piano.",
+    "chat.zensummoning.unknown_error": "Si è verificato un errore sconosciuto e non è più possibile eseguire la richiesta di evocazione prevista.",
+    "chat.zensummoning.unsatisfied": "L'altare non è soddisfatto.",
+    "chat.zensummoning.unsatisfied_hand": "L'altare non è soddisfatto di ciò che tu reggi.",
+    "itemGroup.zensummoning": "Ricreazione Zen",
+    "jei.zensummoning.catalyst.lore": "\"Shift-rightclick con il catalizzatore una volta che tutti gli oggetti sono nell'altare per iniziare\"\n(colore scuro acqua)",
+    "jei.zensummoning.recipe.altar": "Altare di evocazione",
+    "jei.zensummoning.recipe.altar.entity": "%x1$d x %2$s",
+    "jei.zensummoning.recipe.altar.isCatalystConsumed": "Consuma il catalizzatore: %1$s",
+    "jei.zensummoning.recipe.altar.weight": "Peso: %f"
+}

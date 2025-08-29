@@ -1,4 +1,7 @@
 {
+    "common": "Comune",
+    "epic": "Epic",
+    "legendary": "Leggendario",
     "lootbeams.config.item.allItems": "Tutti gli oggetti",
     "lootbeams.config.item.allItems.description": "Se tutti gli oggetti dovrebbero essere visualizzati come raggi di bottino. Ha priorità rispetto a solo_equipaggiamento e solo_raro.",
     "lootbeams.config.item.blacklist": "Elenco nero",
@@ -56,5 +59,8 @@
     "lootbeams.config.nametags.whiteRarities.description": "Se le rareità dovrebbero ignorare il colore e renderle come bianche (questo è veramente utilizzato solo per i pacchetti di mod).",
     "lootbeams.config.nametags.yOffset": "Offset di etichetta nome (y)",
     "lootbeams.config.nametags.yOffset.description": "L'offset Y del nome.",
-    "lootbeams.title": "Fiamme di bottino"
+    "lootbeams.title": "Fiamme di bottino",
+    "mythic": "Mitico",
+    "rare": "Raro",
+    "uncommon": "Raro"
 }

@@ -1,7 +1,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
 
-![](https://img.shields.io/badge/Ultimo%20Aggiornamento-28%2F08%2F2025-blue)
-![](https://img.shields.io/badge/Mod%20tradotte-1709-green)
+![](https://img.shields.io/badge/Ultimo%20Aggiornamento-29%2F08%2F2025-blue)
+![](https://img.shields.io/badge/Mod%20tradotte-1788-green)
 ![](https://img.shields.io/badge/Quest%20tradotte-4-green)
 
 ## Progetto che utilizza l’intelligenza artificiale per **tradurre automaticamente in italiano** i contenuti testuali delle mod di Minecraft.
@@ -38,6 +38,7 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 
 |  |Mod | Ultimo<br/>aggiornamento | Numero<br/>Traduzioni |Download |
 | ---- | ---- | ---- | ---- | ---- |
+| <img src="https://media.forgecdn.net/avatars/183/677/636816679164439285.png" loading="lazy" decoding="async" width="30" /> | [Zen Summoning](https://www.curseforge.com/minecraft/mc-mods/zen-summoning "Web Site") ![](https://img.shields.io/badge/NEW-red) | 29/08/2025 | 15 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fzensummoning "Download") |
 | <img src="https://media.forgecdn.net/avatars/761/256/638097535841186527.png" loading="lazy" decoding="async" width="30" /> | [Zenith](https://www.curseforge.com/minecraft/mc-mods/zenith "Web Site")  | 07/08/2025 | 1025 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fzenith "Download") |
 | <img src="https://media.forgecdn.net/avatars/874/6/638294545044376140.png" loading="lazy" decoding="async" width="30" /> | [Zenith Attributes](https://www.curseforge.com/minecraft/mc-mods/zenith-attributes "Web Site")  | 07/08/2025 | 130 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fzenith_attributes "Download") |
 | <img src="https://media.forgecdn.net/avatars/1024/523/638547659298960257.png" loading="lazy" decoding="async" width="30" /> | [ZeroCore 2](https://www.curseforge.com/minecraft/mc-mods/zerocore "Web Site")  | 07/08/2025 | 50 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fzerocore "Download") |

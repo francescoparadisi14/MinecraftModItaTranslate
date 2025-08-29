@@ -1,0 +1,10 @@
+{
+    "compasscoords.east": "Est",
+    "compasscoords.north": "Nord",
+    "compasscoords.north_east": "Nord-Est",
+    "compasscoords.north_west": "Nord-Ovest",
+    "compasscoords.south": "Sud",
+    "compasscoords.south_east": "Sud-Est",
+    "compasscoords.south_west": "Sud-Ovest",
+    "compasscoords.west": "Ovest"
+}

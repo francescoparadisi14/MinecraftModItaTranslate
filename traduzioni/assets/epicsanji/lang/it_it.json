@@ -1,0 +1,13 @@
+{
+    "entity.common.armement_haki": "Arma Haki",
+    "entity.common.conqueror_haki": "Haki del Conquistatore",
+    "item.epicsanji.sanji": "Sigaretta di Sanji",
+    "item.epicsanji.sanji.tooltip": "Messing with a cook of the sea is a good way to get yourself killed.....remember that well.",
+    "itemGroup.epicsanji.items": "Elementi di Sanji epico",
+    "skill.epicsanji.armement_haki": "Haki d'arma",
+    "skill.epicsanji.armement_haki.tooltip": "Tieni premuto il tuo pulsante \"uso oggetto\/colloca blocco\" mentre attacchi per attivare l'armamento Haki. Ciò aumenterà il danno che infliggi di 50% e ridurrà il danno che ricevi di 50%, a scapito della tua resistenza alla fatica.",
+    "skill.epicsanji.conqueror_haki": "Haki del Conquistatore",
+    "skill.epicsanji.conqueror_haki.tooltip": "«Non possono nemmeno stare in piedi comunque»\n\nTieni premuto il pulsante \"uso oggetto\/inserimento blocco\" e premere contemporaneamente il pulsante \"sneak\" per attivare l'haki del conquistatore. Ciò farà 10 danni e farà cadere ogni entità in un'area ampia, ma ha un cooldown di 20 secondi e costa la metà della tua stamina.",
+    "skill.epicsanji.diablejambu": "Diable Jambu",
+    "skill.epicsanji.diablejambu.tooltip": "Cucinare è un dono dei dio, gli spezie sono un dono del diavolo. Sembra che fosse un po' troppo piccante per te."
+}

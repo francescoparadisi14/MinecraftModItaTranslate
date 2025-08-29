@@ -1,0 +1,9 @@
+{
+    "sspb.options.onlyaffectpathblocks.name": "Influenza solo blocchi di percorso",
+    "sspb.options.onlyaffectpathblocks.tooltip": "Il bug presente nel gioco Minecraft originale che causa blocchi di percorso oscuri in realtà influisce su tutti i blocchi non fluidi e non pieni.\n\nDi default, SSBP applica un'illuminazione liscia simile a quella del gioco originale a tutti i blocchi non fluidi e non pieni. Abilitando questa opzione, gli effetti saranno limitati ai blocchi di percorso solo.",
+    "sspb.options.shadowyness.name": "Ombrosità",
+    "sspb.options.shadowyness.tooltip": "Regola la potenza delle ombre simili al gioco originale su blocchi non pieni.\n\n0% - nessuna (default di Sodium)\n85% - default Sspb\n100% - massimo (stessa intensità del gioco originale, ma può essere più scura in alcuni casi)\n\nnon influisce sui blocchi di percorso quando \"usa illuminazione vanilla per i blocchi di percorso\" è abilitata.",
+    "sspb.options.vanillapathblocklighting.name": "Usa illuminazione di base per i blocchi dei sentieri",
+    "sspb.options.vanillapathblocklighting.tooltip": "Quando abilitato, l'illuminazione per i blocchi di percorso sarà elaborata con un algoritmo di illuminazione accurato vanilla, anziché una versione modificata dell'algoritmo di illuminazione di Sodium.\n\nQuesta opzione disabilita l'effetto del pulsante \"Shadowyness\" sui blocchi di percorso.",
+    "sspb.pages.sspb_page.name": "Pagine SSBP"
+}

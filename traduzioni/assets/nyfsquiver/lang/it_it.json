@@ -1,0 +1,20 @@
+{
+    "accessories.slot.quiver_back": "Fionda posteriore",
+    "accessories.slot.quiver_hip": "Cintura dell'arco",
+    "accessories.slot_group.nyfsquiver:quiver": "Fionda",
+    "enchantment.nyfsquiver.cycling": "Ciclo di carica",
+    "enchantment.nyfsquiver.cycling_enchant.desc": "I quivi ciclano sul prossimo slot se il slot corrente è vuoto",
+    "item.nyfsquiver.quiver": "Fucile",
+    "itemGroup.nyfsquiver.tab": "Fionda di nyfs",
+    "key.categories.nyfsquiver": "Fionde di NYFS",
+    "key.nyfsquiver.next_slot": "Prossimo slot",
+    "key.nyfsquiver.open_quiver": "Apri archetto equipaggiato",
+    "key.nyfsquiver.previous_slot": "Slot precedente",
+    "quiver.nyfsquiver.diamond": "Fucile di diamante",
+    "quiver.nyfsquiver.gold": "Fucile d'oro",
+    "quiver.nyfsquiver.iron": "Fucile di ferro",
+    "quiver.nyfsquiver.leather": "Fucile in pelle",
+    "quiver.nyfsquiver.netherite": "Fucile di netherite",
+    "tooltip.nyfsquiver": "Tieni '%s' per visualizzare il contenuto",
+    "tooltip.nyfsquiver.shift": "Sposta"
+}

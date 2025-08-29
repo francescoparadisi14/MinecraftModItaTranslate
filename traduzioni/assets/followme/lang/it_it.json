@@ -1,0 +1,9 @@
+{
+    "key.followme.category": "Seguimi",
+    "key.followme.follow.desc": "Inizia\/ferma di seguire",
+    "key.followme.stop.desc": "Fermare tutti i seguiti",
+    "message.followme.follow": "%1$s è ora a seguire te.",
+    "message.followme.followingplayer": "%1$s è già in corso di seguito a %2$s.",
+    "message.followme.unfollow": "%1$s non segue più il tuo profilo.",
+    "text.followme.following": "Seguendo"
+}

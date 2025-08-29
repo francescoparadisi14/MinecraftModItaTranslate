@@ -1,0 +1,6 @@
+{
+    "doespotatotick.warn.both.present": "Il tick delle patate è installato su questo server. Se trovi che il tuo fattoriaio non funziona quando sei lontano da esso, prova a utilizzare blocchi FTB o partite e pretese per rivendicare i blocchi di esso. Puoi disabilitare questo messaggio nella configurazione del tick delle patate.",
+    "doespotatotick.warn.ftbchunks.present": "Il tick delle patate è installato su questo server. Se trovi che il tuo mob farm non funziona quando sei lontano da esso, prova a utilizzare FTB Chunks per reclamare i blocchi di esso. Puoi disabilitare questo messaggio nella configurazione di Does Potato Tick.",
+    "doespotatotick.warn.notfound": "Il tick delle patate è installato, ma FTB Chunks o Open Parties e Claims non lo sono. Se trovi che il tuo mobfarm non funziona quando sei lontano da esso, prova a installare uno di questi due mod e reclamare i blocchi che contiene. Puoi disabilitare questo messaggio nella configurazione del tick delle patate.",
+    "doespotatotick.warn.openpartiesandclaims.present": "Il tick delle patate è installato su questo server. Se trovi che il tuo mobfarm non funziona quando sei lontano da esso, prova a utilizzare le partite aperte e le pretese per dichiarare i blocchi che lo contengono. Puoi disabilitare questo messaggio nella configurazione di does potato tick."
+}

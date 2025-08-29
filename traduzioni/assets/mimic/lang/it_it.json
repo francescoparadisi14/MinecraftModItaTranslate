@@ -1,0 +1,8 @@
+{
+    "entity.mimic.mimic": "Mimetico",
+    "item.mimic.fake_chest": "Cuore imitatore",
+    "item.mimic.mimic_key": "Chiave del mimetico",
+    "item.mimic.mimic_lock": "Blocco imitatore",
+    "item.mimic.mimic_spawn_egg": "Uovo di spawn del mimetico",
+    "mimic.no_open_standing": "Solo i mimici seduti possono essere aperti."
+}

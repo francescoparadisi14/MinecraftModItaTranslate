@@ -1,0 +1,9 @@
+{
+    "sspb.options.onlyaffectpathblocks.name": "Only affect path blocks",
+    "sspb.options.onlyaffectpathblocks.tooltip": "The bug in vanilla Minecraft that causes shadowy path blocks actually affects all non-fluid non-full blocks.\n\nBy default, SSPB applies the vanilla-like smooth lighting to all non-fluid non-full blocks as well. Enabling this will limit the effects to path blocks only.",
+    "sspb.options.shadowyness.name": "Shadowyness",
+    "sspb.options.shadowyness.tooltip": "Adjusts the strength of the vanilla-like shadows on non-full blocks.\n\n0% - None (Sodium default)\n85% - SSPB Default\n100% - Max (Vanilla strength, but may be darker than vanilla in certain cases)\n\nDoes not affect path blocks when \"Use vanilla lighting for path blocks\" is enabled.",
+    "sspb.options.vanillapathblocklighting.name": "Use vanilla lighting for path blocks",
+    "sspb.options.vanillapathblocklighting.tooltip": "When enabled, the lighting for path blocks will be rendered with a vanilla-accurate algorithm, rather than a modified version of Sodium's lighting algorithm.\n\nThis option disables the effect of the shadowyness slider on path blocks.",
+    "sspb.pages.sspb_page.name": "SSPB"
+}

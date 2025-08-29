@@ -1,0 +1,9 @@
+{
+    "key.followme.category": "Follow Me",
+    "key.followme.follow.desc": "Start\/Stop Following",
+    "key.followme.stop.desc": "Stop All Following",
+    "message.followme.follow": "%1$s is now following you.",
+    "message.followme.followingplayer": "%1$s is already following %2$s.",
+    "message.followme.unfollow": "%1$s is no longer following you.",
+    "text.followme.following": "Following"
+}

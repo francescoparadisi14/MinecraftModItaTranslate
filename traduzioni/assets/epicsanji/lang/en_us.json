@@ -1,0 +1,13 @@
+{
+    "entity.common.armement_haki": "Armement Haki",
+    "entity.common.conqueror_haki": "Conqueror Haki",
+    "item.epicsanji.sanji": "Sanji's cigarette",
+    "item.epicsanji.sanji.tooltip": "\"Messing with a cook of the sea is a good way to get yourself killed.....Remember that well.\"",
+    "itemGroup.epicsanji.items": "Epic Sanji items",
+    "skill.epicsanji.armement_haki": "Armement haki",
+    "skill.epicsanji.armement_haki.tooltip": "Hold your \"Use item\/placeblock\" button While attacking will activate the Armement Haki. This will increase your damage by 50% and decrease the damage you take by 50% at the cost of stamina.",
+    "skill.epicsanji.conqueror_haki": "Conqueror haki",
+    "skill.epicsanji.conqueror_haki.tooltip": "\"They can't stand on their feet anyway.\"\n\n Hold your \"Use item\/Place block\" button and press your \"Sneak\" button at the same time to activate the conqueror haki. This will do 10 damage and knock down every entity in a large area but it as a 20sec cooldown and cost half your stamina.",
+    "skill.epicsanji.diablejambu": "Diable jambu",
+    "skill.epicsanji.diablejambu.tooltip": "\"Cooking is a gift from the god's, spices are gift from the devil. Looks like it was a little too spicy for you.\""
+}
