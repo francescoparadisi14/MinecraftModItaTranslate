@@ -1,6 +1,8 @@
 {
     "effect.lne_archers.rangers_focus": "Ranger´s Focus",
     "effect.lne_archers.rangers_focus.description": "Increases Ranged Damage, Haste, reduces movement speed and pull time.",
+    "filled_map.loot_n_explore.archers_camps": "Hidden Ranger Camp Map",
+    "filled_map.loot_n_explore.archers_outposts": "Hidden Ranger Outpost Map",
     "item.archers.archer.treasure_spell_scroll": "Treasure Archery Scroll",
     "item.archers_expansion.deadeye.treasure_spell_scroll": "Treasure Deadeye Scroll",
     "item.archers_expansion.tundra_hunter.treasure_spell_scroll": "Treasure Tundra Hunter Scroll",

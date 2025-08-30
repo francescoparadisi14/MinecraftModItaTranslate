@@ -91,6 +91,7 @@
     "item.herbalbrews.lavender_blossom": "Lavender Blossom",
     "item.herbalbrews.top_hat": "Top Hat",
     "item.herbalbrews.witch_hat": "Witch Hat",
+    "subtitles.herbalbrews.tea_kettle_boiling": "Tea Kettle boils",
     "text.autoconfig.herbalbrews.option.blocks": "Blocks",
     "text.autoconfig.herbalbrews.option.blocks.brewingDuration": "Brewing Duration in Ticks:",
     "text.autoconfig.herbalbrews.option.blocks.brewingDuration.@PrefixText": "Note: Only affects Cauldron brewing. Tea Kettle Recipe Duration must be adjusted in the Recipe .json file.",

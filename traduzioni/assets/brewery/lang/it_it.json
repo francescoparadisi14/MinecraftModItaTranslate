@@ -201,6 +201,7 @@
     "effect.brewery.snowwhite": "Bianca neve",
     "effect.brewery.toxictouch": "Tocco tossico",
     "entity.brewery.beer_elemental": "birra elementale",
+    "entity.brewery.beer_elemental_attack": "Scoppio di birra",
     "entity.brewery.hanging_rope": "Corda appesa",
     "entity.brewery.rope_collision": "Corda",
     "entity.brewery.rope_knot": "Nodo di corda",

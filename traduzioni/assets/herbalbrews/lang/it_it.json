@@ -91,6 +91,7 @@
     "item.herbalbrews.lavender_blossom": "Fiore di lavanda",
     "item.herbalbrews.top_hat": "Cappello da copertura",
     "item.herbalbrews.witch_hat": "Cappello stregone",
+    "subtitles.herbalbrews.tea_kettle_boiling": "Il samovar bolle",
     "text.autoconfig.herbalbrews.option.blocks": "Blocchi",
     "text.autoconfig.herbalbrews.option.blocks.brewingDuration": "Durata di fermentazione in tick:",
     "text.autoconfig.herbalbrews.option.blocks.brewingDuration.@PrefixText": "Nota: l'effetto si applica solo alla cottura del calderone. La durata della ricetta del samovar deve essere regolata nel file json della ricetta.",

@@ -53,11 +53,13 @@
     "item.crystalix.crystalix_wand": "Crystalix Wand",
     "itemGroup.crystalix": "Crystalix",
     "key.crystalix.category": "Crystalix",
+    "key.crystalix.direction_modifier": "Direction Modifier",
     "key.crystalix.ghost": "Cycle Ghost Mode",
     "key.crystalix.invisible": "Toggle Invisible Mode",
     "key.crystalix.light": "Cycle Light Mode",
     "key.crystalix.reinforce": "Toggle Reinforced Mode",
     "key.crystalix.shadeless": "Toggle Shadeless Mode",
+    "key.crystalix.waterloggable": "Toggle Waterlogging Mode",
     "network.crystalix.cycle.failed": "Error sending Crystalix property change to server: %s",
     "property.crystalix.disabled": "Disabled",
     "property.crystalix.enabled": "Enabled",
@@ -76,5 +78,6 @@
     "property.crystalix.light.none": "None",
     "property.crystalix.reinforce": "Reinforced Mode",
     "property.crystalix.shadeless": "Shadeless Mode",
+    "property.crystalix.waterloggable": "Waterlogging Mode",
     "tooltip.crystalix.bulk": "Hold Shift to Bulk Edit"
 }

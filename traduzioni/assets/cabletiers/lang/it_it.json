@@ -23,6 +23,8 @@
     "block.cabletiers.ultra_disk_interface": "Interfaccia Disco Ultra",
     "block.cabletiers.ultra_exporter": "Esportatore Ultra",
     "block.cabletiers.ultra_importer": "Importatore Ultra",
+    "gui.cabletiers.act_as_importer": "Agisci come importatore",
+    "gui.cabletiers.act_as_importer.help": "Se abilitato, l'autocrafter cercherà di importare le risorse richieste.",
     "gui.cabletiers.advanced_filter.done": "Fatto",
     "gui.cabletiers.advanced_filter.tag_filter": "Filtro Per Etichetta",
     "gui.cabletiers.filter_slot.click_to_open_advanced_filter": "Clicca Per Aprire Il Filtro Avanzato",

@@ -23,6 +23,8 @@
     "block.cabletiers.ultra_disk_interface": "Ultra Disk Interface",
     "block.cabletiers.ultra_exporter": "Ultra Exporter",
     "block.cabletiers.ultra_importer": "Ultra Importer",
+    "gui.cabletiers.act_as_importer": "Act as Importer",
+    "gui.cabletiers.act_as_importer.help": "If this is enabled, the autocrafter will try to import the requested resources.",
     "gui.cabletiers.advanced_filter.done": "Done",
     "gui.cabletiers.advanced_filter.tag_filter": "Tag Filter",
     "gui.cabletiers.filter_slot.click_to_open_advanced_filter": "Click to open advanced filter",

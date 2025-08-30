@@ -1,6 +1,8 @@
 {
     "effect.lne_archers.rangers_focus": "Foco del ranger",
     "effect.lne_archers.rangers_focus.description": "Incrementa il danno a distanza, accelerazione e riduce la velocità di movimento e il tempo di trazione.",
+    "filled_map.loot_n_explore.archers_camps": "Carta del campo nascosto dei ranger",
+    "filled_map.loot_n_explore.archers_outposts": "Carta del forte nascosto dei ranger",
     "item.archers.archer.treasure_spell_scroll": "Rotolo di sortilegio dell'archeria del tesoro",
     "item.archers_expansion.deadeye.treasure_spell_scroll": "Foglio di incantesimo Deadeye del tesoro",
     "item.archers_expansion.tundra_hunter.treasure_spell_scroll": "Foglio di incantesimo del tesoro cacciatore della tundra",

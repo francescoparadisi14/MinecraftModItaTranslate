@@ -16065,5 +16065,10 @@
     "quest.7CD3D31BAA53F592.title": "Forza dei rifiutati",
     "reward.7E0D3DCDED6AFCE6.title": "Pacco spirituale",
     "task.04B4EE9AE7C56179.title": "Procedere",
-    "task.11B86810F19A15B9.title": "Rune ombrosa qualsiasi"
+    "task.11B86810F19A15B9.title": "Rune ombrosa qualsiasi",
+    "quest.4A0A19E73680034F.quest_desc": [
+        "In questo modpack, hai più flessibilità nel posizionare i scaffali dei libri. Le tavole di incantesimi possono estrarre da blocchi a &e8&distanza di 8 block!"
+    ],
+    "quest.4A0A19E73680034F.quest_subtitle": "Birra per breve",
+    "quest.4A0A19E73680034F.title": "Estensione del incantesimo della libreria estesa"
 }

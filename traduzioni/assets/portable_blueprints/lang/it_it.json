@@ -24,6 +24,7 @@
     "command.portable_blueprints.blueprintworn.set_global_error": "<Worn Blueprints> I Blueprint globali non possono essere aggiunti alla collezione usurata.",
     "command.portable_blueprints.blueprintworn.set_success": "<Worn Blueprints> Blueprint aggiunta con successo alla collezione usurata.",
     "gui.portable_blueprints.blueprint.blacklist_block": "[Questo blocco non è consentito in questo server]",
+    "gui.portable_blueprints.blueprint.button_build": "Inizia costruzione",
     "gui.portable_blueprints.blueprint.button_build_anyway": "Costruisce la struttura solo se tutti i blocchi necessari sono disponibili.",
     "gui.portable_blueprints.blueprint.button_mirrow_x": "Specchia X",
     "gui.portable_blueprints.blueprint.button_mirrow_y": "Specchia Y",

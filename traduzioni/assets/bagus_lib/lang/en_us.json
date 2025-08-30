@@ -4,6 +4,7 @@
     "bagus_lib.config.playableFirstPerson": "Playable First Person",
     "bagus_lib.config.shakeCameraForVanilla": "Enable Shake Camera For Vanilla",
     "bagus_lib.watermelon": "Water Melon",
+    "baguslib.config.shakeCameraForVanilla": "Enable Shake Camera For Vanilla",
     "command.bagus_lib.dialog": "Successfully add Dialog",
     "command.bagus_lib.image_dialog": "Successfully add Image Dialog",
     "command.bagus_lib.item_dialog": "Successfully add Item Dialog",

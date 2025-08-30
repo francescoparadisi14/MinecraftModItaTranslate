@@ -53,11 +53,13 @@
     "item.crystalix.crystalix_wand": "Astuccio cristallino",
     "itemGroup.crystalix": "Crystalix",
     "key.crystalix.category": "Crystalix",
+    "key.crystalix.direction_modifier": "Modificatore di direzione",
     "key.crystalix.ghost": "Modalità fantasma di ciclo",
     "key.crystalix.invisible": "Attiva modalità invisibile",
     "key.crystalix.light": "Modalità ciclica di illuminazione",
     "key.crystalix.reinforce": "Attiva modalità di rinforzo",
     "key.crystalix.shadeless": "Attiva modalità senza ombra",
+    "key.crystalix.waterloggable": "Attiva\/Disattiva modalità di loggatura acqua",
     "network.crystalix.cycle.failed": "Errore nell'invio del cambiamento della proprietà Crystalix al server: %s",
     "property.crystalix.disabled": "Disabilitato",
     "property.crystalix.enabled": "Abilitato",
@@ -76,5 +78,6 @@
     "property.crystalix.light.none": "Nessuno",
     "property.crystalix.reinforce": "Modalità rinforzata",
     "property.crystalix.shadeless": "Modalità senza ombra",
+    "property.crystalix.waterloggable": "Modalità di loggatura d'acqua",
     "tooltip.crystalix.bulk": "Tieni premuto Shift per modificare in blocco"
 }
