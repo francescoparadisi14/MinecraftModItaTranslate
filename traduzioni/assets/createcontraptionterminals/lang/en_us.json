@@ -1,0 +1,7 @@
+{
+    "createcontraptionterminals.ponder.terminals.header": "Using Tom's Simple Storage Terminals with Create",
+    "createcontraptionterminals.ponder.terminals.text_1": "Storage Terminals can easily access the contents of Vaults",
+    "createcontraptionterminals.ponder.terminals.text_2": "Terminals also work on assembled contraptions",
+    "createcontraptionterminals.ponder.terminals.text_3": "The terminal allows accessing the entire contraption inventory",
+    "tooltip.cct.worksOnContraptions": "Works on Create Contraptions"
+}

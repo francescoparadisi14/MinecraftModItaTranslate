@@ -1,0 +1,23 @@
+{
+    "block.dried_ghast.dried_ghast": "Dried Ghast",
+    "entity.dried_ghast.ghastling": "Ghastling",
+    "entity.dried_ghast.happy_ghast": "Happy Ghast",
+    "item.dried_ghast.black_harness": "Black Harness",
+    "item.dried_ghast.blue_harness": "Blue Harness",
+    "item.dried_ghast.brown_harness": "Brown Harness",
+    "item.dried_ghast.cyan_harness": "Cyan Harness",
+    "item.dried_ghast.ghastling_spawn_egg": "Ghastling Spawn Egg",
+    "item.dried_ghast.gray_harness": "Gray Harness",
+    "item.dried_ghast.green_harness": "Green Harness",
+    "item.dried_ghast.happy_ghast_spawn_egg": "Happy Ghast Spawn Egg",
+    "item.dried_ghast.light_blue_harness": "Light Blue Harness",
+    "item.dried_ghast.light_gray_harness": "Light Gray Harness",
+    "item.dried_ghast.lime_harness": "Lime Harness",
+    "item.dried_ghast.magenta_harness": "Magenta Harness",
+    "item.dried_ghast.orange_harness": "Orange Harness",
+    "item.dried_ghast.pink_harness": "Pink Harness",
+    "item.dried_ghast.purple_harness": "Purple Harness",
+    "item.dried_ghast.red_harness": "Red Harness",
+    "item.dried_ghast.white_harness": "White Harness",
+    "item.dried_ghast.yellow_harness": "Yellow Harness"
+}

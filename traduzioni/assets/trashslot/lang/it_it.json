@@ -15,6 +15,7 @@
     "key.trashslot.deleteAll": "Elimina tutti gli oggetti di un tipo",
     "key.trashslot.delete_all": "Elimina Tutti Gli Elementi Di Tipo",
     "key.trashslot.toggle": "Disattiva slot",
+    "key.trashslot.toggleLock": "Blocca\/Sblocca cassettino rifiuti",
     "key.trashslot.toggle_lock": "Blocca\/descioglila Slot Di Scarto",
     "tooltip.trashslot.destroy_item": "Distruggi l'oggetto",
     "tooltip.trashslot.trash_item": "oggetto spazzatura",

@@ -128,7 +128,7 @@
     "item.sophisticatedstorage.advanced_filter_upgrade": "Advanced Filter Upgrade",
     "item.sophisticatedstorage.advanced_filter_upgrade.tooltip": "Filters items piped in and\/or out of storage\nHas more filtering options",
     "item.sophisticatedstorage.advanced_hopper_upgrade": "Advanced Hopper Upgrade",
-    "item.sophisticatedstorage.advanced_hopper_upgrade.tooltip": "Pulls items from block on top and\/or pushes them to block below\nFaster and with input \/ output options",
+    "item.sophisticatedstorage.advanced_hopper_upgrade.tooltip": "Pulls items from block on top and\/or pushes them to block below\nFaster and with input \/ ouput options",
     "item.sophisticatedstorage.advanced_jukebox_upgrade": "Advanced Jukebox Upgrade",
     "item.sophisticatedstorage.advanced_jukebox_upgrade.tooltip": "Portable Jukebox with support for more music discs\nAlso more playback options",
     "item.sophisticatedstorage.advanced_magnet_upgrade": "Advanced Magnet Upgrade",

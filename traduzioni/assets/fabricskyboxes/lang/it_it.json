@@ -1,0 +1,8 @@
+{
+    "category.fabricskyboxes": "Pannelli di tessuto del cielo",
+    "fabricskyboxes.message.disabled": "I fabbricaskyboxes sono disabilitati!",
+    "fabricskyboxes.message.enabled": "I fabbricaskybox sono abilitati!",
+    "key.fabricskyboxes.toggle": "Abilita\/Sblocca fabbriche skybox",
+    "key.fabricskyboxes.toggle.debug_hud": "Alternare HUD di debug",
+    "key.fabricskyboxes.toggle.debug_screen": "Attiva schermo di debug"
+}

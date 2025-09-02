@@ -1,0 +1,11 @@
+{
+    "gui.colytra.config.energyCost.description": "Il costo di energia per secondo del volo in caduta se il tipo di fusione è unisono e la pettorina utilizza l'energia.",
+    "gui.colytra.config.energyCost.name": "Costo di energia per volare in caduta",
+    "gui.colytra.config.fusionType.description": "Determina come si comporteranno le elytra combinati con i pettorali. Normale: le elytra esisteranno separatamente dal pettorale, in grado di essere separate successivamente. Unisono: le elytra si fonderanno completamente col pettorale, impossibile da separare. Perfetto: le elytra si fonderanno completamente col pettorale e il volo non utilizzerà durata.",
+    "gui.colytra.config.fusionType.name": "Tipo di fusione artigianale",
+    "gui.colytra.config.itemListType.name": "Tipo di lista di oggetti per pettorale",
+    "gui.colytra.config.itemListType.tooltip": "Determina se l'elenco degli oggetti contiene gli oggetti consentiti o gli oggetti negati.",
+    "gui.colytra.config.itemsList.description": "Gli oggetti per la creazione con gli Elytra.",
+    "gui.colytra.config.itemsList.name": "Elementi di elmo",
+    "tooltip.colytra.broken": "Inutilizzabile"
+}

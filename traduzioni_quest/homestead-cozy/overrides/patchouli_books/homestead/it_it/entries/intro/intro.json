@@ -1,0 +1,32 @@
+{
+    "name": "Automation Awakening",
+    "icon": "create:mechanical_bearing",
+    "category": "patchouli:basics",
+    "pages": [
+        {
+            "type": "text",
+            "title": "Welcome, Tinkerer",
+            "text": "Sì... hai costruito il tuo primo allevamento di colture automatico, vero? Hai assaggiato il potere del movimento.Hai visto le tue colture raccogliere da sole. E ora, vuoi ancora di più. Benissimo."
+        },
+        {
+            "type": "text",
+            "title": "The Bones of a Machine",
+            "text": "$(br)Ogni macchinario inizia con due cose... $(#f00)$(l)Potenza $() e $(#f00)$(l)Finalità. $()L'automazione è un loop: $(#b182e5)$(l)Potenza,  $(#e5e582)Movimento,  $(#e58282)Azione,  $(#82d7e5)Risultati."
+        },
+        {
+            "type": "text",
+            "title": "Farm Tips",
+            "text": "$(li)Usa $(#FFAA00)Fune di rame $(l)per filtrare gli output. $(li)Incastri $(#7BC35C)Pompe $(l)per crescere grandi fattorie. $(li)Usa $(#AAAAAA)Distributore $(l)per ripiantare semi per automatizzare completamente.`"
+        },
+        {
+            "type": "text",
+            "title": "Things to Try Next",
+            "text": "Prova $(br)Mechanical Mixers,  $(#ff9c00)Crafters,   $()e $(#ed83ff)Sequenced Assembly   $()per automatizzare processi più complessi. Sì... alla fine... anche $(#83b1ff)Treni."
+        },
+        {
+            "type": "text",
+            "title": "Final Words",
+            "text": "$(br)I tuoi macchinari diventeranno più complessi. Le tue ruote gireranno più velocemente. Ma non dimenticare la tua prima raccolta. Speriamo che le tue assi non si rompano mai e i tuoi cinturoni continuino a funzionare. $(l)- 2013 T.M. Gearsprocket"
+        }
+    ]
+}

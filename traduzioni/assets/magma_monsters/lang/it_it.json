@@ -1,0 +1,8 @@
+{
+    "_comment": "Commenti sugli entità",
+    "entity.magma_monsters.magma_monster": "Mostro di magma",
+    "entity.magma_monsters.magma_monster_grunt": "Grugnito del mostro di magma",
+    "item.magma_monsters.magma_monster_grunt_spawn_egg": "Genera mostro magma brontolone",
+    "item.magma_monsters.magma_monster_spawn_egg": "Genera mostro di magma",
+    "itemGroup.magma_monsters": "Mostri di magma"
+}

@@ -1,0 +1,15 @@
+{
+    "fabrishot.config.category": "Screenshot configuration",
+    "fabrishot.config.custom_file_name": "Use different filename format",
+    "fabrishot.config.custom_file_name.tooltip": "Use %time% for the time,\n %world% for world or server name",
+    "fabrishot.config.delay": "Capture delay",
+    "fabrishot.config.delay.tooltip": "Frames to wait after resizing. Tweak for better exposure with shaders",
+    "fabrishot.config.file_format": "File format",
+    "fabrishot.config.height": "Screenshot height",
+    "fabrishot.config.hide_hud": "Automatically hide the HUD",
+    "fabrishot.config.override_screenshot_key": "Override normal screenshot with Fabrishot",
+    "fabrishot.config.save_file": "Save the screenshot file",
+    "fabrishot.config.title": "Fabrishot",
+    "fabrishot.config.width": "Screenshot width",
+    "key.fabrishot.screenshot": "Take large screenshot"
+}

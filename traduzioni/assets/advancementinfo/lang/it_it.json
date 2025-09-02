@@ -1,0 +1,15 @@
+{
+    "advancementinfo.infopane": "Informazioni",
+    "modmenu.descriptionTranslation.advancementinfo": "Fai più facile vedere quali avanzamenti hai e quali mancano.",
+    "modmenu.summaryTranslation.advancementinfo": "Fai più facile vedere quali avanzamenti hai e quali mancano.",
+    "text.autoconfig.advancementinfo.option.colorHave": "Colore dei requisiti completati",
+    "text.autoconfig.advancementinfo.option.colorHaveNot": "Colore richiesta non completata",
+    "text.autoconfig.advancementinfo.option.infoWidth": "Larghezza informazioni",
+    "text.autoconfig.advancementinfo.option.infoWidth.enabled": "Abilitato",
+    "text.autoconfig.advancementinfo.option.infoWidth.max": "Massimo",
+    "text.autoconfig.advancementinfo.option.infoWidth.min": "Minimo",
+    "text.autoconfig.advancementinfo.option.infoWidth.percent": "Percentuale",
+    "text.autoconfig.advancementinfo.option.marginX": "Margine X",
+    "text.autoconfig.advancementinfo.option.marginY": "Margine Y",
+    "text.autoconfig.advancementinfo.title": "Impostazioni informazioni avanzamento"
+}

@@ -1,4 +1,5 @@
 {
+    "compat.litematica.gui.label.task.remaining_contents": "Storage contents received: %s\/%s",
     "fluid_type.sophisticatedcore.experience": "Experience",
     "gui.sophisticatedcore.buttons.cancel": "Cancel",
     "gui.sophisticatedcore.buttons.confirm": "Confirm",

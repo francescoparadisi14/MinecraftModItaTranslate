@@ -1,0 +1,19 @@
+{
+    "block.sliceanddice.fertilizer": "Fertilizzante",
+    "block.sliceanddice.slicer": "Slicer",
+    "block.sliceanddice.sprinkler": "Aspersore",
+    "block.sliceanddice.wet_air": "Aria umida",
+    "fluid.sliceanddice.fertilizer": "Fertilizzante liquido",
+    "item.sliceanddice.fertilizer_bucket": "Bottiglia di concime liquido",
+    "sliceanddice.gui.contraptions.wrong_direction": "sembra che questo %s stia ruotando nella direzione sbagliata.",
+    "sliceanddice.ponder.slicer.header": "Tagliando con il tagliafoglie",
+    "sliceanddice.ponder.slicer.text_1": "Clicca destro con uno strumento valido",
+    "sliceanddice.ponder.slicer.text_2": "Il troncatore può anche operare su un bacino",
+    "sliceanddice.ponder.sprinkler\/intro.header": "Sprinkli sulla sommità",
+    "sliceanddice.ponder.sprinkler\/intro.text_1": "Collo un irrigatore sotto una condotta",
+    "sliceanddice.ponder.sprinkler\/uses.header": "Tipi di zucchero filato",
+    "sliceanddice.ponder.sprinkler\/uses.text_1": "I fluidi diversi influenzano gli entità in modo diverso",
+    "sliceanddice.recipe.assembly.slicer": "Taglia con troncatore",
+    "sliceanddice.recipe.slicer": "Slicer",
+    "sliceanddice.tooltip.rotationDirection": "Direzione di rotazione"
+}

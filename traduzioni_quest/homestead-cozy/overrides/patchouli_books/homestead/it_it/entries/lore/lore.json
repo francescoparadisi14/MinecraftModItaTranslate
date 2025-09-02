@@ -1,0 +1,57 @@
+{
+    "name": "Il Shift (lore)",
+    "icon": "create:cogwheel",
+    "category": "patchouli:basics",
+    "pages": [
+        {
+            "type": "text",
+            "title": "First Turn",
+            "text": "Prima che il vapore sfumasse o le ruote cliccasero, il mondo girava in silenzio. Poi arrivò lo Spostamento Grande - un tempo in cui qualcosa di profondo sotto la terra cominciò a ruotare. La terra gemette. I fiumi scorsero più velocemente. E con loro, venne il movimento. Nessuno sa cosa l'ha causato. Alcuni dicono che fu una seme di bronzo puro piantata dal primo sognatore. Altri dicono che fu un macchinario dimenticato che si svegliava."
+        },
+        {
+            "type": "text",
+            "title": "The First Engineers",
+            "text": "$(br)I primi a comprendere il Turning non furono re o guerrieri - furono gli inventori. Contadini che incollavano leve ai carri. Pastori che facevano girare mulini a vento per macinare grano. I loro discendenti sono gli ingegneri di oggi: umili, astuti, curiosi. Tagliando macchine non per la conquista, ma per il comfort."
+        },
+        {
+            "type": "text",
+            "title": "A Gentle Power",
+            "text": "$(br)Qui, nella terra plasmata da muschio e movimento, il potere non è rumoroso. È silenzioso. Sussurra attraverso i travi di quercia e le guglie di pietra, attraverso le gocce di pioggia sulle ruote idriche e il morbido clic delle ruote dentate sotto la luce delle stelle. In questo mondo, il progresso sussurra invece di urlare."
+        },
+        {
+            "type": "text",
+            "title": "T.M. Gearsprocket",
+            "text": "$(br)Tra i primi ingegneri c'era una persona gentile chiamata T.M. Gearsprocket. Un pensatore che beveva il tè con maniche di giacca macchiate d'olio, Gearsprocket credeva che le macchine dovessero portare comodità, non impero. I suoi quaderni, pieni di diagrammi e disegni, diventarono la base dell'ingegneria rilassata come la conosciamo oggi."
+        },
+        {
+            "type": "text",
+            "title": "The Journals",
+            "text": "$(br)Sparsi per il territorio, i diari di Gearsprocket sono detti contenere non solo istruzioni, ma anche riflessioni - sulla ragione per cui il vento gira, su come la luce si abbatte sul rame e cosa significhi costruire qualcosa con cura. Alcune pagine sono macchiate di marmellata. Altre di fuliggine. Tutti sono tesori."
+        },
+        {
+            "type": "text",
+            "title": "The Great Spinmill",
+            "text": "$(br)Si dice che nel cuore dei vecchi boschi, nascosto tra l'edera e i funghi, ci sia un Mulino a Spin so grande che una volta ha girato tutta la valle. Nessuno ricorda cosa lo facesse ruotare. Alcuni dicono che lo facesse ruotare i sogni. Altri dicono semplicemente che giri, perché poteva."
+        },
+        {
+            "type": "text",
+            "title": "The Cogfolk",
+            "text": "$(br)Nelle quieti angoli del mondo, alcuni affermano di aver incontrato il Cogfolk - piccole creature di rame e curiosità. Non macchine, non proprio persone. Ristrutturano cinture rotte, fischiando in camino, e scompaiono se ti ringraziano. Gearsprocket giurò che loro gli aiutarono a costruire il suo primo cuscinetto di rotazione."
+        },
+        {
+            "type": "text",
+            "title": "On Super Glue",
+            "text": "$(br)T.M. Gearsprocket ha scritto un giorno: \"Il Super Colla non è tanto un adesivo, quanto una promessa. Una promessa che due blocchi resteranno sempre uniti, non importa quante volte si girino\". Questo ingresso era accompagnato da uno schizzo di due pecore legate a un piatto rotante. Era etichettato \"NON RIPETERE\"."
+        },
+        {
+            "type": "text",
+            "title": "Why We Build",
+            "text": "$(br)Non costruiamo per dominare. Costruiamo per fare il tè senza dover stare in piedi. Costruiamo affinché i raccolti di grano si svolgano da soli e le nostre schiene non si indoloriscono. Costruiamo per sentire il quieto ronzio del fine settimana nella nebbia mattutina. Questo è sufficiente. Questo è tutto."
+        },
+        {
+            "type": "text",
+            "title": "In the Turning",
+            "text": "$(br)Costruire è ricordare. Girare la leva è onorare il Volgimento. E finché ci saranno mani per piazzare un asse e cuori per meravigliarsi di come giri, il mondo non sarà mai del tutto immobile."
+        }
+    ]
+}

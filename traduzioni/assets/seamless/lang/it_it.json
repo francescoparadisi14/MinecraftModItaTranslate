@@ -1,0 +1,5 @@
+{
+    "options.fast_seamless": "Velocità di avvio senza interruzioni",
+    "options.fast_seamless.tooltip": "Questo fa diventare liscio, quando si guarda un nuovo luogo, controlla solo i blocchi di connessione una volta sola, migliorando le prestazioni. Lo svantaggio è che quando si collocano alcuni doppioni di blocchi, l'outline non si collega ancora fino a quando non si allontana lo sguardo. I cambiamenti ai blocchi di connessione non verranno rilevati.",
+    "seamless.resource_pack": "Risorse senza intoppi predefinite"
+}

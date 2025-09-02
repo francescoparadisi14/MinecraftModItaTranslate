@@ -13,6 +13,7 @@
     "ftbquests.task.questsadditions.interaction": "Entity Interaction",
     "ftbquests.task.questsadditions.killnbt": "Advanced Kill Entity",
     "ftbquests.task.questsadditions.killnbt.entity": "Entity Name",
+    "ftbquests.task.questsadditions.killnbt.value": "Count",
     "ftbquests.task.questsadditions.place": "Place Block",
     "ftbquests.task.questsadditions.place.block": "Block",
     "ftbquests.task.questsadditions.place.replace": "Replace",

@@ -13,6 +13,7 @@
     "ftbquests.task.questsadditions.interaction": "Interazione con entità",
     "ftbquests.task.questsadditions.killnbt": "Uccidere entità avanzata",
     "ftbquests.task.questsadditions.killnbt.entity": "Nome dell'entità",
+    "ftbquests.task.questsadditions.killnbt.value": "Conteggio",
     "ftbquests.task.questsadditions.place": "Collo blocco",
     "ftbquests.task.questsadditions.place.block": "Blocco",
     "ftbquests.task.questsadditions.place.replace": "Sostituisci",

@@ -1,0 +1,103 @@
+{
+    "name": "Radici prendono piede",
+    "icon": "minecraft:flower_pot",
+    "category": "patchouli:journey",
+    "pages": [
+        {
+            "type": "text",
+            "title": "Of Soil and Sky",
+            "text": "Mi sono avvicinato per la prima volta a questo suolo con solo il rumore di polvere sotto i miei stivali e il vento che si intrecciava tra le foglie sopra di me. Sembrò che il mondo tenesse il fiato, solo per un momento, per vedere se mi sarei fermato.C'è una quiete qui - non vuota, ma *ascoltante*."
+        },
+        {
+            "type": "image",
+            "images": [
+                "homestead:textures\/roots\/of_soil_and_sky.png"
+            ],
+            "border": true
+        },
+        {
+            "type": "text",
+            "title": "The Shape of Shelter",
+            "text": "$(br)Un tetto è più di legno e chiodi. È una promessa che ti fai a te stesso.E anche il più piccolo riparo in legno sembra un forte quando lo costruisci con le tue stesse mani.Le pareti non devono essere perfette, solo vere.Trova il cuore del tuo rifugio. Lascialo battere con calore."
+        },
+        {
+            "type": "image",
+            "images": [
+                "homestead:textures\/roots\/the_shape_of_shelter.png"
+            ],
+            "border": true
+        },
+        {
+            "type": "text",
+            "title": "The Language of Leaves",
+            "text": "$(br)I alberi sussurrano se ti prendi il tempo di ascoltare. Le loro foglie cambiano tono con le stagioni, con il suolo, con i venti.Un verde acuto per l'energia, un marrone stanco per il cambiamento. Alcune brillano d'oro non per sparire, ma per splendere ancora una volta.Ascolta. Ti guideranno."
+        },
+        {
+            "type": "image",
+            "images": [
+                "homestead:textures\/roots\/the_language_of_leaves.png"
+            ],
+            "border": true
+        },
+        {
+            "type": "text",
+            "title": "Underfoot, Unseen",
+            "text": "$(br)Le radici nascondono segreti. Non solo acqua e minerali, ma storie. Vecchie storie.I una volta scavarono un sasso intagliato con simboli sotto un betulla. Forse da un viaggiatore come me. O un avvertimento. O una benedizione.Il suolo ricorda. Anche quando noi non lo facciamo."
+        },
+        {
+            "type": "image",
+            "images": [
+                "homestead:textures\/roots\/underfoot_unseen.png"
+            ],
+            "border": true
+        },
+        {
+            "type": "text",
+            "title": "Harvests Small and Sweet",
+            "text": "$(br)Ho trovato le mie prime fragole per caso - le mie mani macchiate di porpora per giorni.Non ogni raccolta deve essere grandiosa. Altre volte, è un solo mele. Un fungo dopo la pioggia. Una manciata di grano condivisa con un amico.Non è ciò che raccogli. È come lo savori."
+        },
+        {
+            "type": "image",
+            "images": [
+                "homestead:textures\/roots\/harvests_small_and_sweet.png"
+            ],
+            "border": true
+        },
+        {
+            "type": "text",
+            "title": "Hands in Harmony",
+            "text": "$(br)Il ritmo di lavorare il legno, di posizionare la pietra - è come musica.Mie mani si fanno male alla fine del giorno, ma il mio cuore si sente leggero. Quando si crea con cura, il mondo risponde allo stesso modo."
+        },
+        {
+            "type": "image",
+            "images": [
+                "homestead:textures\/roots\/hands_in_harmony.png"
+            ],
+            "border": true
+        },
+        {
+            "type": "text",
+            "title": "Nights That Hold You",
+            "text": "$(br)Le notti mi usavano spesso spaventare. Il silenzio. L'oscurità.Ma poi imparai a accendere le candele. A costruire fuochi. A avvolgermi nella calura.Ora la notte si sente come un copriletto - non per imprigionarmi, ma per accudirmi. C'è bellezza nel silenzio."
+        },
+        {
+            "type": "image",
+            "images": [
+                "homestead:textures\/roots\/nights_that_hold_you.png"
+            ],
+            "border": true
+        },
+        {
+            "type": "text",
+            "title": "Pages Yet to Grow",
+            "text": "$(br)La mia storia non è ancora finita. Neanche la tua.Se hai letto fino a qui, allora le tue radici sono state piantate anch'esse. *Lascia che crescano.*"
+        },
+        {
+            "type": "image",
+            "images": [
+                "homestead:textures\/roots\/pages_yet_to_grow.png"
+            ],
+            "border": true
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "modmenu.descriptionTranslation.cubes-without-borders": "Allows you to play Minecraft in a borderless fullscreen window.",
+    "modmenu.nameTranslation.cubes-without-borders": "Cubes Without Borders",
+    "options.borderlessFullscreen": "Borderless",
+    "options.borderlessFullscreenType": "Borderless Fullscreen Type",
+    "options.fullscreenType": "Fullscreen Type",
+    "options.pauseOnLostFocus": "Pause On Lost Focus"
+}

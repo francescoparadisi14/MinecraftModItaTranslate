@@ -1,0 +1,23 @@
+{
+    "block.dried_ghast.dried_ghast": "Ghasto essiccato",
+    "entity.dried_ghast.ghastling": "Ghastling",
+    "entity.dried_ghast.happy_ghast": "Ghasto felice",
+    "item.dried_ghast.black_harness": "Cintura nera",
+    "item.dried_ghast.blue_harness": "Fascia blu",
+    "item.dried_ghast.brown_harness": "Cintura marrone",
+    "item.dried_ghast.cyan_harness": "Fascia cianca",
+    "item.dried_ghast.ghastling_spawn_egg": "Uovo di ghastling",
+    "item.dried_ghast.gray_harness": "Cintura grigia",
+    "item.dried_ghast.green_harness": "Cintura verde",
+    "item.dried_ghast.happy_ghast_spawn_egg": "Uovo di incubazione felice di strega",
+    "item.dried_ghast.light_blue_harness": "Cintura blu chiaro",
+    "item.dried_ghast.light_gray_harness": "Cintura grigia chiaro",
+    "item.dried_ghast.lime_harness": "Fascia di limone",
+    "item.dried_ghast.magenta_harness": "Cintura magenta",
+    "item.dried_ghast.orange_harness": "Cintura arancione",
+    "item.dried_ghast.pink_harness": "Cintura rosa",
+    "item.dried_ghast.purple_harness": "Fascia porpora",
+    "item.dried_ghast.red_harness": "Cintura rossa",
+    "item.dried_ghast.white_harness": "Cintura bianca",
+    "item.dried_ghast.yellow_harness": "Cintura gialla"
+}

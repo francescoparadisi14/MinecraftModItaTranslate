@@ -1,0 +1,23 @@
+{
+    "_comment": "Note per la tooltip",
+    "config.jeiintegration.tooltips.burnTimeTooltipMode": "Indicatore tempo di bruciatura",
+    "config.jeiintegration.tooltips.durabilityTooltipMode": "Indicatore di durata",
+    "config.jeiintegration.tooltips.enchantabilityTooltipMode": "Avanzamento incantesimi (tooltip)",
+    "config.jeiintegration.tooltips.foodTooltipMode": "Avvisi di tooltip per fame e saturazione",
+    "config.jeiintegration.tooltips.maxStackSizeTooltipMode": "Mostra dimensioni di pila massimo",
+    "config.jeiintegration.tooltips.nbtTooltipMode": "Avvisamento di dati NBT",
+    "config.jeiintegration.tooltips.registryNameTooltipMode": "Intestazione di registro della tooltip",
+    "config.jeiintegration.tooltips.tagsTooltipMode": "Etichetta tag",
+    "config.jeiintegration.tooltips.translationKeyTooltipMode": "Avviso di traduzione della chiave",
+    "tooltip.jeiintegration.burnTime": "Tempo di bruciatura:",
+    "tooltip.jeiintegration.burnTime.suffix": "secondi",
+    "tooltip.jeiintegration.durability": "Durata:",
+    "tooltip.jeiintegration.enchantability": "Facilità incantesimi:",
+    "tooltip.jeiintegration.hunger": "Sete:",
+    "tooltip.jeiintegration.maxStackSize": "Dimensione massima della pila:",
+    "tooltip.jeiintegration.nbtTagData": "Dati NBT:",
+    "tooltip.jeiintegration.registryName": "Nome registro ID:",
+    "tooltip.jeiintegration.saturation": "Saturazione:",
+    "tooltip.jeiintegration.tags": "Etichette:",
+    "tooltip.jeiintegration.translationKey": "Chiave di traduzione:"
+}

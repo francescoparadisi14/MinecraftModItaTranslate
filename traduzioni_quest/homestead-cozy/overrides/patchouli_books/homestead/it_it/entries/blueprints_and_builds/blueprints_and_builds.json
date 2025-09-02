@@ -1,0 +1,52 @@
+{
+    "name": "Blueprints & Builds",
+    "icon": "create:crafting_blueprint",
+    "category": "patchouli:basics",
+    "pages": [
+        {
+            "type": "text",
+            "title": "About These Blueprints",
+            "text": "Questi sono pagine copiate dai quaderni laterali di T.M. Gearsprocket - semplici diagrammi di piccole macchine, annotate con spiegazioni rassicuranti. Non sono a scala. Non sono in codice. Ma funzionano comunque."
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "homestead:textures\/farm_diagram.png"
+            ],
+            "title": "Farm Diagram",
+            "text": "Una semplice fattoria rotante utilizzando raccoglitori e un supporto meccanico."
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "homestead:textures\/millstone_diagram.png"
+            ],
+            "title": "Vertical Millstone",
+            "text": "Una ruota idraulica azionata verticalmente in un mulino. Adatto per macinare grano, semi o blocchi ossei. Colloca una cassetta o un canale sottostante per raccogliere la farina."
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "homestead:textures\/press_diagram.png"
+            ],
+            "title": "Basic Press Setup",
+            "text": "![Immagine non disponibile](Drop ingots on the depot. Power the press from behind or above. Smack it into sheets. Very satisfying. Do not stand under the press.)"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "homestead:textures\/power_diagram.png"
+            ],
+            "title": "Power Train Example",
+            "text": "Usando ingranaggi e un cambio per trasferire la rotazione in due direzioni. Utile quando hai bisogno di una macchina che giri in un senso e un'altra in senso opposto."
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "homestead:textures\/chute_diagram.png"
+            ],
+            "title": "Chute & Funnel Chain",
+            "text": "Immagine: Item Drop Chute"
+        }
+    ]
+}

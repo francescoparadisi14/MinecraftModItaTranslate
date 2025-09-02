@@ -1,0 +1,15 @@
+{
+    "fabrishot.config.category": "Configurazione screenshot",
+    "fabrishot.config.custom_file_name": "Usa formato di nome file diverso",
+    "fabrishot.config.custom_file_name.tooltip": "Usa %time% per l'ora, %world% per il nome del mondo o del server.",
+    "fabrishot.config.delay": "Ritardo cattura",
+    "fabrishot.config.delay.tooltip": "Secondi di attesa dopo la ridimensionamento. regola per un'esposizione migliore con shader",
+    "fabrishot.config.file_format": "Formato file",
+    "fabrishot.config.height": "Altezza screenshot",
+    "fabrishot.config.hide_hud": "Nascondi automaticamente l'HUD",
+    "fabrishot.config.override_screenshot_key": "Sostituisci la chiave di screenshot normale con FabriShot",
+    "fabrishot.config.save_file": "Salva il file della schermata di sistema",
+    "fabrishot.config.title": "FabriShot",
+    "fabrishot.config.width": "Larghezza screenshot",
+    "key.fabrishot.screenshot": "Prendi schermo grande"
+}

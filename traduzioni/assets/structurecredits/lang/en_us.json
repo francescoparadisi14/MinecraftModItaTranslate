@@ -1,0 +1,14 @@
+{
+    "category.structurecredits.keys": "Structure Credits",
+    "key.structurecredits.deactivate_key": "Deactivate Structure Message",
+    "key.structurecredits.dont_show_key": "Never Show This Structure Again",
+    "key.structurecredits.show_again_key": "Show Structure Message Again",
+    "text.structurecredits.activated": "§7The structure message has been activated.",
+    "text.structurecredits.already_dont_show": "§7This structure is already set to not show a message.",
+    "text.structurecredits.deactivated": "§7The structure message has been deactivated.",
+    "text.structurecredits.dont_show": "§7This structure will not display a message.",
+    "text.structurecredits.message": "§7Welcome to: %1$s §7- By: %2$s",
+    "text.structurecredits.message_dimensional_dungeon": "§7Welcome to: %1$s §7- By: %2$s",
+    "text.structurecredits.message_no_creator": "§7Welcome to: %1$s",
+    "text.structurecredits.message_no_creator_dimensional_dungeon": "§7Welcome to: %1$s"
+}

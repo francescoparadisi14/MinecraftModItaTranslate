@@ -1,0 +1,40 @@
+{
+    "name": "Benvenuto a Homestead",
+    "icon": "homestead:golden_leaf",
+    "category": "patchouli:welcome",
+    "pages": [
+        {
+            "type": "text",
+            "title": "A Labor of Love",
+            "text": "$(br)La Homestead è più di un pacchetto di mod; è un mondo costruito a mano plasmato dalla pazienza, passione e creatività di Tokimi e del Team CozyCord. Dopo 4 mesi di lavoro, è il risultato di centinaia di ore, migliaia di dollari e più tazze di tè di quante ne contiamo."
+        },
+        {
+            "type": "text",
+            "title": "The Heart of the Pack",
+            "text": "$(br)La Homestead è il Vanilla Plus più accogliente; familiare abbastanza da farti sentire a casa, eppure pieno di nuovi meccanismi, biomi, creature e curiosità in attesa di essere scoperte. Sia che stia creando dispositivi o coltivando i angoli più tranquilli del mondo, c'è qualcosa per te."
+        },
+        {
+            "type": "text",
+            "title": "A Guide Through the Quiet",
+            "text": "$(br)Il libro dei compiti è il tuo compagno di viaggio; la tua guida sussurrante attraverso l'avanzamento in questo nuovo mondo. È progettato per aiutarti a scoprire nuove cose, ricompensare le tue esplorazioni e aiutarti a plasmare il tuo viaggio al tuo ritmo."
+        },
+        {
+            "type": "text",
+            "title": "Don't Miss the Tips",
+            "text": "$(br)Assicurati di controllare la sezione \"Suggerimenti\" del libro dei compiti! È pieno di trucchi utili, funzionalità meno note dei mod e piccole toccature che potrebbero sorprenderti. Persino i giocatori esperti troveranno qualcosa di nuovo in queste pagine."
+        },
+        {
+            "type": "text",
+            "title": "Enjoy the Journey",
+            "text": "$(br)Speriamo che ti piaccia Homestead, sia che sei qui per costruire, esplorare, automatizzare o semplicemente rilassarti. C'è magia nella terra, mistero nel pietra e una storia in ogni seme che pianti. Benvenuto a casa."
+        },
+        {
+            "type": "image",
+            "images": [
+                "homestead:textures\/welcome\/logo.png"
+            ],
+            "border": true,
+            "text": "<br>Ringraziamenti a Meleon, Army, Lyn, Yuki, Nylon, Alexelle, Gonzo, Cobra, Mama, Bloxcrew, Snowy, Wist, Xod e Navinor per tutte le loro contribuzioni durante la fase di test alpha e beta ♡"
+        }
+    ]
+}

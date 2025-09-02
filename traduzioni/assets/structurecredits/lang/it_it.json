@@ -1,0 +1,14 @@
+{
+    "category.structurecredits.keys": "Structure Credits",
+    "key.structurecredits.deactivate_key": "Disattiva Messaggio Struttura",
+    "key.structurecredits.dont_show_key": "Non Mostrare Mai Più Questa Struttura",
+    "key.structurecredits.show_again_key": "Mostra di Nuovo il Messaggio della Struttura",
+    "text.structurecredits.activated": "§7Il messaggio della struttura è stato attivato.",
+    "text.structurecredits.already_dont_show": "§7Questa struttura è già impostata per non mostrare alcun messaggio.",
+    "text.structurecredits.deactivated": "§7Il messaggio della struttura è stato disattivato.",
+    "text.structurecredits.dont_show": "§7Questa struttura non mostrerà un messaggio.",
+    "text.structurecredits.message": "§7Benvenuto in: %1$s §7- Da: %2$s",
+    "text.structurecredits.message_dimensional_dungeon": "§7Benvenuto in: %1$s §7- Da: %2$s",
+    "text.structurecredits.message_no_creator": "§7Benvenuto in: %1$s",
+    "text.structurecredits.message_no_creator_dimensional_dungeon": "§7Benvenuto in: %1$s"
+}

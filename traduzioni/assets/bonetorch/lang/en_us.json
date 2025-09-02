@@ -1,0 +1,8 @@
+{
+    "block.bonetorch.bonetorch": "Bone Torch",
+    "block.bonetorch.soul_bonetorch": "Soul Bone Torch",
+    "block.bonetorch.wall_bonetorch": "Bone Torch",
+    "block.bonetorch.wall_soul_bonetorch": "Soul Bone Torch",
+    "item.bonetorch.bone_torch_bandolier": "Bone Torch Bandolier",
+    "item.bonetorch.soul_bone_torch_bandolier": "Soul Bone Torch Bandolier"
+}

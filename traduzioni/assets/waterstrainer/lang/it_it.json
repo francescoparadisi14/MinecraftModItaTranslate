@@ -1,0 +1,20 @@
+{
+    "block.waterstrainer.strainer_base": "Base di straniatore",
+    "block.waterstrainer.worm_bin": "Cassetto di vermi",
+    "item.waterstrainer.bait_pot": "Otre da pesca",
+    "item.waterstrainer.efficiency_meter": "Indicatore di efficienza",
+    "item.waterstrainer.fertilizer": "Fertilizzante",
+    "item.waterstrainer.garden_trowel": "Lama da giardino",
+    "item.waterstrainer.iron_mesh": "Rete di ferro",
+    "item.waterstrainer.obsidian_mesh": "Rete di obsidiano",
+    "item.waterstrainer.strainer_fisherman": "Straniera del pescatore",
+    "item.waterstrainer.strainer_fisherman_reinforced": "Straniera del pescatore rinforzata",
+    "item.waterstrainer.strainer_fisherman_solid": "Straniere solida del pescatore",
+    "item.waterstrainer.strainer_survivalist": "Straniere del sopravvissuto",
+    "item.waterstrainer.strainer_survivalist_reinforced": "Straniere del sopravvissuto rinforzata",
+    "item.waterstrainer.strainer_survivalist_solid": "Straniere solida del sopravvissuto",
+    "item.waterstrainer.string_mesh": "Rete di stringa",
+    "item.waterstrainer.super_worm": "verme superiore",
+    "item.waterstrainer.worm": "verme",
+    "itemGroup.waterstrainer.main": "Straniera d'acqua"
+}
