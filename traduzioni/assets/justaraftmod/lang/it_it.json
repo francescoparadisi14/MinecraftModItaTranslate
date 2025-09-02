@@ -8,7 +8,18 @@
     "item.justaraftmod.jungle_raft": "Zattera di Legno della Giungla",
     "item.justaraftmod.mangrove_raft": "Mangrove Raft",
     "item.justaraftmod.oak_raft": "Zattera di Legno di Quercia",
+    "item.justaraftmod.pale_oak_raft": "Barca di quercia pallida",
     "item.justaraftmod.spruce_raft": "Zattera di Legno di Abete",
     "itemGroup.justaraftmod.raft": "Just A Raft Mod",
-    "justaraftmod.config.title": "Configurazione di Just A Raft Mod"
+    "justaraftmod.config.title": "Configurazione di Just A Raft Mod",
+    "justaraftmod.configuration.Server": "Server",
+    "justaraftmod.configuration.Server.tooltip": "Impostazioni del server",
+    "justaraftmod.configuration.SinkTheRaft": "Affondare la barca",
+    "justaraftmod.configuration.SinkTheRaft.tooltip": "Cambiando questo a vero, il raft affonderà se ci sono 2 entità su di esso. (predefinito: falso)",
+    "justaraftmod.configuration.SlipperyFast": "Velocissimo scivoloso",
+    "justaraftmod.configuration.SlipperyFast.tooltip": "Modifica questo impostazione su \"false\" rende le barche con velocità identica a quelle sulla terraferma mentre sono su un blocco scivoloso. (predefinito: vero)",
+    "justaraftmod.configuration.SpeedMultiplier": "Multiplicatore di velocità",
+    "justaraftmod.configuration.SpeedMultiplier.tooltip": "Regola l'accelerazione del raft. (predefinito: 1,0). [inferiore a 1 = più lento | superiore a 1 = più veloce]",
+    "justaraftmod.configuration.TurnMultiplier": "Multiplatore di virata",
+    "justaraftmod.configuration.TurnMultiplier.tooltip": "Regola l'accelerazione del giro della barca. (predefinito: 1,0) [inferiore a 1 = più lento | superiore a 1 = più veloce]"
 }

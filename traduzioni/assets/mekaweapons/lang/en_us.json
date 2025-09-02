@@ -14,6 +14,8 @@
     "item.mekaweapons.magnetizer": "Wireless Charger (Magnetizer)",
     "item.mekaweapons.meka_bow": "Meka-Bow",
     "item.mekaweapons.meka_tana": "Meka-Tana",
+    "item.mekaweapons.mekabow": "Meka-Bow",
+    "item.mekaweapons.mekatana": "Meka-Tana",
     "module.mekaweapons.arrowenergy_mode": "Energy Arrows Mode",
     "module.mekaweapons.arrowenergy_unit": "Energy Arrows Unit",
     "module.mekaweapons.arrowvelocity_unit": "Arrow Velocity Unit",

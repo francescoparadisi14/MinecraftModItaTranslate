@@ -18,6 +18,7 @@
     "hunters_return.config.spacing": "Distanza",
     "hunters_return.config.structureSpacing": "Spazio di generazione del capanno del cacciatore",
     "item.hunters_return.boomerang": "Boomerang",
+    "item.hunters_return.hunter_spawn_egg": "Uovo generatore di cacciatore",
     "item.hunters_return.mini_crossbow": "Arco da caccia miniaturizzato",
     "item.hunters_return.quiver": "Faretre",
     "item.hunters_return.quiver.desc": "È possibile rifoderare la freccia facendo click con il tasto destro del mouse mentre si tengono la faretra e la freccia in mano.",

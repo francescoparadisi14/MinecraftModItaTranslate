@@ -2309,6 +2309,7 @@
     "frequency.mekanism.delete_confirm": "Are you sure you want to delete this frequency? This can't be undone.",
     "frequency.mekanism.format": "Frequency: %1$s",
     "frequency.mekanism.none": "No frequency",
+    "gas.mekanism.enriched_nuclear_waste": "Enriched Nuclear Waste",
     "generic.mekanism.block_pos": "%1$s, %2$s, %3$s",
     "generic.mekanism.fraction": "%1$s\/%2$s",
     "generic.mekanism.greater_equal": "%1$s ≥ %2$s",

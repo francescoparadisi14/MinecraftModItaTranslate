@@ -18,6 +18,7 @@
     "hunters_return.config.spacing": "Spacing",
     "hunters_return.config.structureSpacing": "Hunter House Generate Spacing",
     "item.hunters_return.boomerang": "Boomerang",
+    "item.hunters_return.hunter_spawn_egg": "Hunter Spawn Egg",
     "item.hunters_return.mini_crossbow": "Mini CrossBow",
     "item.hunters_return.quiver": "Quiver",
     "item.hunters_return.quiver.empty.description": "Can store two stacks of multiple arrows",

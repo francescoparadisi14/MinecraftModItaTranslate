@@ -1,6 +1,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
 
-![](https://img.shields.io/badge/Ultimo%20Aggiornamento-02%2F09%2F2025-blue)
+![](https://img.shields.io/badge/Ultimo%20Aggiornamento-03%2F09%2F2025-blue)
 ![](https://img.shields.io/badge/Mod%20tradotte-1896-green)
 ![](https://img.shields.io/badge/Quest%20tradotte-4-green)
 
@@ -38,7 +38,7 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 
 |  |Mod | Ultimo<br/>aggiornamento | Numero<br/>Traduzioni |Download |
 | ---- | ---- | ---- | ---- | ---- |
-| <img src="https://media.forgecdn.net/avatars/629/95/638026664077442713.png" loading="lazy" decoding="async" width="30" /> | [Gadgets Against Grind](https://www.curseforge.com/minecraft/mc-mods/gag "Web Site")  | 07/08/2025 | 57 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgag "Download") |
+| <img src="https://media.forgecdn.net/avatars/629/95/638026664077442713.png" loading="lazy" decoding="async" width="30" /> | [Gadgets Against Grind](https://www.curseforge.com/minecraft/mc-mods/gag "Web Site") ![](https://img.shields.io/badge/NEW-red) | 02/09/2025 | 63 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgag "Download") |
 | <img src="https://media.forgecdn.net/avatars/1162/72/638731009126653254.gif" loading="lazy" decoding="async" width="30" /> | [Gallery](https://www.curseforge.com/minecraft/mc-mods/gallery "Web Site")  | 07/08/2025 | 1 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgallery "Download") |
 | <img src="https://media.forgecdn.net/avatars/561/884/637914692469246256.png" loading="lazy" decoding="async" width="30" /> | [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere "Web Site")  | 07/08/2025 | 244 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgalosphere "Download") |
 | <img src="https://media.forgecdn.net/avatars/1087/917/638630611723440526.png" loading="lazy" decoding="async" width="30" /> | [Game Discs](https://www.curseforge.com/minecraft/mc-mods/game-discs "Web Site")  | 07/08/2025 | 42 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgamediscs "Download") |

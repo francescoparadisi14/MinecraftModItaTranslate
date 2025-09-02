@@ -87,6 +87,7 @@
     "item.portable_blueprints.tablet": "Tablet",
     "item.portable_blueprints.worn_blueprint": "Worn blueprint",
     "item.portable_blueprints.worn_blueprint.owner_name": "Unknown",
+    "itemGroup.portable_blueprints": "Portable blueprints",
     "system.portable_blueprints.inv_full": "Inventory full!",
     "tab.portable_blueprints.title": "Portable blueprints"
 }

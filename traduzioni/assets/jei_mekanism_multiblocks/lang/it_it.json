@@ -1,6 +1,8 @@
 {
+    "text.jei_mekanism_multiblocks.building.better_fusion_reactor": "Reattore a fusione migliorato",
     "text.jei_mekanism_multiblocks.building.extra_matrix": "Matrice di induzione rinforzata",
     "text.jei_mekanism_multiblocks.costs": "Costi",
+    "text.jei_mekanism_multiblocks.not_supported": "Non supportato",
     "text.jei_mekanism_multiblocks.recipe_category.title": "Costruzione [%s]",
     "text.jei_mekanism_multiblocks.result.blocks": "%s blocchi",
     "text.jei_mekanism_multiblocks.result.boil_capacity": "Capacità di bollitura",

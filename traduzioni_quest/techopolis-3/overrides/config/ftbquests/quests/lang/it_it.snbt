@@ -3002,5 +3002,16 @@
     "task.7B7C3E181C680553.title": "Usa desh per Marte?",
     "task.7D4132FC794A879D.title": "Raccoglitori di legno",
     "task.7DDF9A1CCCA27F5A.title": "Marsium",
-    "task.7F928CEAE483E1AA.title": "Curiosità finale"
+    "task.7F928CEAE483E1AA.title": "Curiosità finale",
+    "quest.3508602627DFB450.quest_desc": [
+        "Riduttori in un modulo che aggiunge trasporto wireless di oggetti, fluidi, energia e sostanze chimiche. L'esportatore si connette a un blocco da cui vuoi prendere materiale.",
+        "",
+        "Il &lexporter& deve avere gli aggiornamenti installati per poter fare qualcosa."
+    ],
+    "quest.562F6AA46E60A340.quest_desc": [
+        "Riduttori in un modulo che aggiunge trasporto senza fili di oggetti, fluidi, energia e sostanze chimiche. L'importatore si connette a un blocco da cui ricevere materiale."
+    ],
+    "quest.7989398728B3D7C4.quest_desc": [
+        "Cliccando su un &limporter& che poi su un &lexporter& li connetterà insieme. Gli &lexporters& possono inviare a più &limporters&."
+    ]
 }

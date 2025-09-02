@@ -1,6 +1,12 @@
 {
     "_comment": "Nota: clothconfig",
     "item.measurements.tape_measure": "Misuratore a nastro",
+    "measurements.configuration.client": "Client",
+    "measurements.configuration.lineColor": "Colore della linea",
+    "measurements.configuration.lineWidth": "Larghezza della riga",
+    "measurements.configuration.lineWidthMax": "Larghezza massima della riga",
+    "measurements.configuration.textColor": "Colore del testo",
+    "measurements.configuration.textSize": "Dimensione del testo",
     "text.autoconfig.measurements.option.client": "Opzione client per misurazioni automatiche",
     "text.autoconfig.measurements.option.client.lineColor": "Colore della riga",
     "text.autoconfig.measurements.option.client.lineWidth": "Larghezza della riga",

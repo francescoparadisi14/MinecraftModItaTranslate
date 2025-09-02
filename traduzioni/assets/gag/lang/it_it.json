@@ -1,4 +1,6 @@
 {
+    "block.gag.fluid_proxy": "Prossima fluidità",
+    "block.gag.item_proxy": "Prossima oggetto",
     "block.gag.no_solicitors": "Segnale \"Non venditori!\"",
     "block.gag.no_solicitors.info.1": "Ricaccia certi intrusi fastidiosi all'interno di un'area ragionevole.",
     "block.gag.no_solicitors.info.2": "(Clicca destro con lana per abilitare\/disabilitare il modulo silenzioso)",
@@ -6,6 +8,7 @@
     "commands.gag.give_time.no_pouch": "%s non ha un sacchetto temporale nel suo inventario!",
     "commands.gag.give_time.success": "Concesso con successo a %s %s secondi di tempo",
     "effect.gag.repelling": "Ripulsione",
+    "features.gag.capability_proxy": "Prossimi abilità (GAG)",
     "info.gag.lightning_crafting_hint": "Colpisci con il fulmine",
     "info.gag.repelling_item": "Quando applicato, concede all'utente un effetto che impedisce la nascita di mostri ostili vicini.",
     "info.gag.supports_unbreaking": "Può essere incantato con resistenza e riparazione",
@@ -50,10 +53,13 @@
     "item.gag.sacred_salve.extra": "Questo dura un po' più a lungo del sale e funziona anche in una zona più ampia.",
     "item.gag.time_sand": "Sabbie del tempo",
     "item.gag.time_sand_pouch": "Borsa temporale",
+    "item.gag.time_sand_pouch.info": "Si accumula lentamente il tempo mentre è presente nell'inventario di un giocatore. Utilizzare su un blocco che tick per accelerare il processo, utilizzando parte del tempo accumulato dalla borsa.",
     "item.gag.time_sand_pouch.info.1": "Si accumula lentamente il tempo mentre è presente nella inventario di un giocatore.",
     "item.gag.time_sand_pouch.info.2": "Usa su un blocco che ticka per accelerarlo, utilizzando parte del tempo immagazzinato nella borsa.",
     "item.gag.time_sand_pouch.info.stored_grains": "contiene %2$s di grani del tempo",
     "itemGroup.gag.gag": "Gag - gadget contro il grilletto",
     "subtitles.gag.entity.dynamite.throw": "Dinamite lanciata",
-    "subtitles.gag.item.repelling.apply": "Applicato oggetto respingente"
+    "subtitles.gag.item.repelling.apply": "Applicato oggetto respingente",
+    "subtitles.gag.item.time_sand_pouch.ding": "Il tempo accelera!",
+    "subtitles.gag.item.time_sand_pouch.dong": "Il tempo bloccato è stato accelerato a velocità molto elevate."
 }

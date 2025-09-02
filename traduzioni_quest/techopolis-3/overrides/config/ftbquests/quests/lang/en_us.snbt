@@ -1169,6 +1169,11 @@
     "quest.34FD3253812C2865.quest_desc": [
         "Used to create Waystones"
     ],
+    "quest.3508602627DFB450.quest_desc": [
+        "&lRouters&r in a mod that adds wireless &lItem, Fluid, Energy&r and &lChemical&r transportation. The &lExporter&r connects to a block you want to take stuff from. ",
+        "",
+        "The &lExporter&r must have upgrades installed for it to do anything"
+    ],
     "quest.35115D2ED3BBD85C.quest_desc": [
         "Allows &lDesh&r to be directly obtained. Used to create &lThe Interdimensional Infuser&r"
     ],
@@ -1881,6 +1886,9 @@
     ],
     "quest.560A61D6A7632C63.quest_desc": [
         "Simple Item Transport"
+    ],
+    "quest.562F6AA46E60A340.quest_desc": [
+        "&lRouters&r in a mod that adds wireless &lItem, Fluid, Energy&r and &lChemical&r transportation. The &lImporter&r connects to a block you want to receive stuff. "
     ],
     "quest.569AA7A2E4BB962E.quest_desc": [
         "Yummy"
@@ -2709,6 +2717,9 @@
     ],
     "quest.795B98C57909A168.quest_desc": [
         "Smelted &lNetherite Dust&r"
+    ],
+    "quest.7989398728B3D7C4.quest_desc": [
+        "Clicking on an &lImporter&r than onto an &lExporter&r will connect them together. &lExporters&r can send to multiple &lImporters.&r"
     ],
     "quest.798D68F189D87870.quest_desc": [
         "Crafted a &lTwig&r makes a &lStick&r"

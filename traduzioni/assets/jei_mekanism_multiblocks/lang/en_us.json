@@ -1,6 +1,8 @@
 {
+    "text.jei_mekanism_multiblocks.building.better_fusion_reactor": "Better Fusion Reactor",
     "text.jei_mekanism_multiblocks.building.extra_matrix": "Reinforced Induction Matrix",
     "text.jei_mekanism_multiblocks.costs": "Costs",
+    "text.jei_mekanism_multiblocks.not_supported": "Not supported",
     "text.jei_mekanism_multiblocks.recipe_category.title": "Building [%s]",
     "text.jei_mekanism_multiblocks.result.blocks": "%s Blocks",
     "text.jei_mekanism_multiblocks.result.boil_capacity": "Boil Capacity",
