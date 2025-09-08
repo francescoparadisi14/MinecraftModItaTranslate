@@ -1,0 +1,13 @@
+{
+    "illagersweararmor.config.blacklist": "Blacklist for illagers (and vexes) that prohibits them from wearing armor",
+    "illagersweararmor.config.illagerArmor": "Allow illagers to wear armor at all",
+    "illagersweararmor.config.illagerCrossArms": "Allow illagers to cross their arms?",
+    "illagersweararmor.config.wave1": "Armor chances for wave 1",
+    "illagersweararmor.config.wave2": "Armor chances for wave 2",
+    "illagersweararmor.config.wave3": "Armor chances for wave 3",
+    "illagersweararmor.config.wave4": "Armor chances for wave 4",
+    "illagersweararmor.config.wave5": "Armor chances for wave 5",
+    "illagersweararmor.config.wave6": "Armor chances for wave 6",
+    "illagersweararmor.config.wave7": "Armor chances for wave 7",
+    "illagersweararmor.config.wave8": "Armor chances for wave 8"
+}

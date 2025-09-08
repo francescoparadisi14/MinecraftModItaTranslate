@@ -1,0 +1,13 @@
+{
+    "illagersweararmor.config.blacklist": "Elenco nero per i malvagi (e le Vex) che impedisce loro di indossare armatura",
+    "illagersweararmor.config.illagerArmor": "Consenti agli illusi di indossare armatura in ogni momento",
+    "illagersweararmor.config.illagerCrossArms": "Consentire agli illusi di incrociare le braccia?",
+    "illagersweararmor.config.wave1": "Probabilità di armatura per ondata 1",
+    "illagersweararmor.config.wave2": "Probabilità di armatura per ondata 2",
+    "illagersweararmor.config.wave3": "Probabilità di armatura per ondata 3",
+    "illagersweararmor.config.wave4": "Probabilità di armatura per ondata 4",
+    "illagersweararmor.config.wave5": "Probabilità di armatura per ondata 5",
+    "illagersweararmor.config.wave6": "Probabilità di armatura per ondata 6",
+    "illagersweararmor.config.wave7": "Probabilità di armatura per ondata 7",
+    "illagersweararmor.config.wave8": "Probabilità di armatura per ondata 8"
+}
