@@ -1,0 +1,14 @@
+{
+    "_comment": "Commento: tasti di scelta rapida",
+    "crafts.key.down": "Scendi",
+    "crafts.key.left": "Muovi a sinistra",
+    "crafts.key.right": "Muovi a destra",
+    "crafts.key.up": "Spostamento in alto",
+    "item.thutcrafts.craftmaker": "Fabbricatore di oggetti",
+    "keys.crafts": "Tasti delle arti thutcraft",
+    "msg.craft.create": "Creato con successo.",
+    "msg.craft.fail": "Non è stato creato il craft.",
+    "msg.craft.setcorner": "Imposta il primo angolo del craft in %s",
+    "msg.craft.toobig": "Non puoi creare un craft di questo tipo.",
+    "msg.lift.killed": "ucciso craft"
+}

@@ -1,0 +1,20 @@
+{
+    "_comment": "Curios Support",
+    "button.wearables.off": "Close",
+    "button.wearables.on": "Open",
+    "curios.identifier.ankle": "Ankle",
+    "curios.identifier.ear": "Ear",
+    "curios.identifier.eyes": "Eyes",
+    "key.categories.wearables": "Wearables",
+    "key.wearables.activate": "Activate",
+    "key.wearables.toggle_gui": "Open Wearables Gui",
+    "key.wearables.wearable": "Wearable",
+    "wearables.command.fail.noperms": "You may not use this command.",
+    "wearables.command.fail.targetted": "Failed to Open Wearables of Target.",
+    "wearables.gui.button.close": "Close Wearables",
+    "wearables.gui.button.open": "Open Wearables",
+    "wearables.keyuse.left": "§7Left Keybind: §6[§r§7%s§6]",
+    "wearables.keyuse.right": "§7Right Keybind: §6[§r§7%s§6]",
+    "wearables.keyuse.single": "§7Keybind: §6[§r§7%s§6]",
+    "wearables.other.fail": "Failed to Open Wearables of Target."
+}

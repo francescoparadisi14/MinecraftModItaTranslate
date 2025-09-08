@@ -1,0 +1,9 @@
+{
+    "cullleaves.midnightconfig.cullRoots": "Abilita la cullazione dei rami di mangrovia",
+    "cullleaves.midnightconfig.cullRoots.tooltip": "Abilita la rimozione dei rami per le radici degli alberi di mangrovia.\n§cDopo aver modificato questo impostazione, è necessario ricaricare tutti i blocchi (F3 + A)",
+    "cullleaves.midnightconfig.cullRoots.tooltip.sodium": "Abilita la rimozione dei rami per le radici di mangrovia.",
+    "cullleaves.midnightconfig.enabled": "Abilita la cullizione delle foglie",
+    "cullleaves.midnightconfig.enabled.tooltip": "Abilita la riduzione delle foglie, offrendo un aumento di prestazioni gradevole.§Dopo aver modificato questo impostazione, è necessario ricaricare tutti i blocchi (F3 + A).",
+    "cullleaves.midnightconfig.enabled.tooltip.sodium": "Abilita la rimozione delle foglie, offrendo un aumento di prestazioni gradevole",
+    "cullleaves.midnightconfig.title": "Configurazione eliminazione foglie"
+}

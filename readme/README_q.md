@@ -1,7 +1,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
 
-![](https://img.shields.io/badge/Ultimo%20Aggiornamento-03%2F09%2F2025-blue)
-![](https://img.shields.io/badge/Mod%20tradotte-1896-green)
+![](https://img.shields.io/badge/Ultimo%20Aggiornamento-08%2F09%2F2025-blue)
+![](https://img.shields.io/badge/Mod%20tradotte-1939-green)
 ![](https://img.shields.io/badge/Quest%20tradotte-4-green)
 
 ## Progetto che utilizza l’intelligenza artificiale per **tradurre automaticamente in italiano** i contenuti testuali delle mod di Minecraft.
@@ -44,5 +44,5 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 | <img src="https://media.forgecdn.net/avatars/588/295/637958240318838626.png" loading="lazy" decoding="async" width="30" /> | [Quark](https://www.curseforge.com/minecraft/mc-mods/quark "Web Site")  | 07/08/2025 | 1536 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fquark "Download") |
 | <img src="https://media.forgecdn.net/avatars/338/917/637478417616120300.png" loading="lazy" decoding="async" width="30" /> | [Quartz Elevator](https://www.curseforge.com/minecraft/mc-mods/quartz-elevator "Web Site")  | 07/08/2025 | 9 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fquartzelv "Download") |
 | <img src="https://media.forgecdn.net/avatars/493/889/637804258699325177.png" loading="lazy" decoding="async" width="30" /> | [Quests Additions (Forge)](https://www.curseforge.com/minecraft/mc-mods/quests-additions "Web Site")  | 07/08/2025 | 58 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fquestsadditions "Download") |
-| <img src="https://media.forgecdn.net/avatars/493/896/637804294345803722.png" loading="lazy" decoding="async" width="30" /> | [Quests Additions (Fabric)](https://www.curseforge.com/minecraft/mc-mods/quests-additions-fabric "Web Site") ![](https://img.shields.io/badge/NEW-red) | 02/09/2025 | 58 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fquestsadditions "Download") |
+| <img src="https://media.forgecdn.net/avatars/493/896/637804294345803722.png" loading="lazy" decoding="async" width="30" /> | [Quests Additions (Fabric)](https://www.curseforge.com/minecraft/mc-mods/quests-additions-fabric "Web Site")  | 02/09/2025 | 58 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fquestsadditions "Download") |
 | <img src="https://media.forgecdn.net/avatars/239/955/637117858328489273.png" loading="lazy" decoding="async" width="30" /> | [Quickstack](https://www.curseforge.com/minecraft/mc-mods/quickstack "Web Site")  | 07/08/2025 | 5 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fdropoff "Download") |

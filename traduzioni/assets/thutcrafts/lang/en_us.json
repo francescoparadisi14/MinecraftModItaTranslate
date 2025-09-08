@@ -1,0 +1,14 @@
+{
+    "_comment": "Keybinds",
+    "crafts.key.down": "Move Down",
+    "crafts.key.left": "Move Left",
+    "crafts.key.right": "Move Right",
+    "crafts.key.up": "Move Up",
+    "item.thutcrafts.craftmaker": "Craft Maker",
+    "keys.crafts": "ThutCrafts Keys",
+    "msg.craft.create": "Successfully Made Craft.",
+    "msg.craft.fail": "Failed to create the Craft.",
+    "msg.craft.setcorner": "Set first corner of the Craft to %s",
+    "msg.craft.toobig": "You cannot make a Craft this big.",
+    "msg.lift.killed": "Killed Craft"
+}

@@ -1,7 +1,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
 
-![](https://img.shields.io/badge/Ultimo%20Aggiornamento-03%2F09%2F2025-blue)
-![](https://img.shields.io/badge/Mod%20tradotte-1896-green)
+![](https://img.shields.io/badge/Ultimo%20Aggiornamento-08%2F09%2F2025-blue)
+![](https://img.shields.io/badge/Mod%20tradotte-1939-green)
 ![](https://img.shields.io/badge/Quest%20tradotte-4-green)
 
 ## Progetto che utilizza l’intelligenza artificiale per **tradurre automaticamente in italiano** i contenuti testuali delle mod di Minecraft.

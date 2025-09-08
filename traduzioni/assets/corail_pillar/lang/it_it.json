@@ -1,0 +1,10 @@
+{
+    "corail_pillar.item.pillar_tweaker": "Tweak per pilastro",
+    "corail_pillar.item.pillar_tweaker.desc": "Ti consente di ciclare attraverso le varianti del pilastro",
+    "corail_pillar.item.pillar_tweaker.use1": "Clicca destro su un pilastro per modificare la sua variante",
+    "corail_pillar.item.pillar_tweaker.use2": "Clicca destro su un pilastro per modificare la sua grandezza",
+    "corail_pillar.itemGroup.mainTab": "Pilastro Corail",
+    "corail_pillar.pillar": "Pilastro %s",
+    "corail_pillar.pillar.desc": "Un blocco decorativo",
+    "corail_pillar.tooltip.more_info": "Tenere premuto Shift per avere ulteriore informazioni"
+}

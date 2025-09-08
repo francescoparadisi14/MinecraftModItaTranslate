@@ -1,0 +1,20 @@
+{
+    "_comment": "Supporto per Curios",
+    "button.wearables.off": "Chiudi",
+    "button.wearables.on": "Apri",
+    "curios.identifier.ankle": "Ankle",
+    "curios.identifier.ear": "Orecchio",
+    "curios.identifier.eyes": "Occhi",
+    "key.categories.wearables": "Indumenti",
+    "key.wearables.activate": "Attiva",
+    "key.wearables.toggle_gui": "Apri interfaccia utente indumenti",
+    "key.wearables.wearable": "Indumento",
+    "wearables.command.fail.noperms": "Non hai i permessi per utilizzare questo comando.",
+    "wearables.command.fail.targetted": "non è stato possibile aprire gli indumenti del bersaglio.",
+    "wearables.gui.button.close": "Chiudi abbigliamento",
+    "wearables.gui.button.open": "Apri indumenti",
+    "wearables.keyuse.left": "Bind per tastiera sinistra: [§r§7%s§6]",
+    "wearables.keyuse.right": "Bind per tastiera destro: [§r§7%s§6]",
+    "wearables.keyuse.single": "Chiave di bind: [§r§7%s§6]",
+    "wearables.other.fail": "non è stato possibile aprire gli accessori del bersaglio."
+}
