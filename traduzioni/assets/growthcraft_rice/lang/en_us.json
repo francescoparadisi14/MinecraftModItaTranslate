@@ -1,0 +1,20 @@
+{
+    "block.growthcraft_rice.cultivated_farmland": "Cultivated Farmland",
+    "block.growthcraft_rice.rice_crop": "Rice Crop",
+    "fluid_type.growthcraft_rice.rice_water_fluid": "Rice Water",
+    "fluid_type.growthcraft_rice.rice_wine_fluid": "Rice Wine",
+    "fluid_type.growthcraft_rice.sake_fluid": "Sake",
+    "item.growthcraft_rice.chicken_rice": "Chicken Rice",
+    "item.growthcraft_rice.cultivator": "Cultivator",
+    "item.growthcraft_rice.knife": "Knife",
+    "item.growthcraft_rice.onigiri": "Onigiri",
+    "item.growthcraft_rice.rice": "Rice",
+    "item.growthcraft_rice.rice_cooked": "Cooked Rice",
+    "item.growthcraft_rice.rice_grains": "Rice Grains",
+    "item.growthcraft_rice.rice_stalk": "Rice Stalk",
+    "item.growthcraft_rice.rice_water_fluid_bucket": "Rice Water Bucket",
+    "item.growthcraft_rice.rice_wine_fluid_bucket": "Rice Wine Bucket",
+    "item.growthcraft_rice.sake_fluid_bucket": "Sake Bucket",
+    "item.growthcraft_rice.sushi_roll": "Sushi Roll",
+    "item.growthcraft_rice.yeast_seishu": "Seishu Yeast"
+}
