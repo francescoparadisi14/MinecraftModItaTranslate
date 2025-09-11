@@ -1,0 +1,11 @@
+{
+    "bbb.biomeBlendRadius": "Riradiusione biomi migliori",
+    "bbb.biomeBlendRadius.tooltip": "Regola il raggio di fusione utilizzato da Better Biome Reblend.",
+    "options.biomeBlendRadius.17": "17x17 (grande)",
+    "options.biomeBlendRadius.19": "19x19 (molto grande)",
+    "options.biomeBlendRadius.21": "21x21 (massivo)",
+    "options.biomeBlendRadius.23": "23x23 (confuso)",
+    "options.biomeBlendRadius.25": "25x25 (criminale)",
+    "options.biomeBlendRadius.27": "27x27 (elevato)",
+    "options.biomeBlendRadius.29": "29x29 (oh mio dio!)"
+}

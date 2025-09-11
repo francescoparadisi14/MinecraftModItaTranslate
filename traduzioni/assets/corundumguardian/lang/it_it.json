@@ -1,0 +1,11 @@
+{
+    "entity.corundumguardian.corundum_guardian": "Guardiano di corundum",
+    "entity.corundumguardian.shockwave": "onda d'urto",
+    "item.corundumguardian.corundum_guardian_spawn_egg": "Uova di spawn del guardiano corundum",
+    "subtitles.corundum_guardian_attack": "Il guardiano di corundum attacca",
+    "subtitles.corundum_guardian_hit": "Il guardiano di corindone viene colpito",
+    "subtitles.corundum_guardian_land": "Territori dei guardiani di corundum",
+    "subtitles.corundum_guardian_move_arm": "Il guardian Corundum muove il braccio",
+    "subtitles.corundum_guardian_steam": "Il guardiano di corundum emette vapore",
+    "subtitles.corundum_guardian_stomp": "Corundum Guardian calpesta"
+}

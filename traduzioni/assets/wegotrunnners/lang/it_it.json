@@ -1,0 +1,21 @@
+{
+    "block.wegotrunnners.test": "Test",
+    "config.wegotrunnners.wegorrunnersconfig": "Configurazione dei corridori di Wegot",
+    "config.wegotrunnners.wegotrunnerclientconfig": "Configurazione client WegotRunners",
+    "effect.aggrozom": "Aggro Zomn",
+    "effect.grounded": "In terra",
+    "effect.groundertmp": "Zombie del terreno",
+    "effect.normalzombietmp": "Walker",
+    "effect.runertmp": "Zombie runner",
+    "effect.runnerspreads": "Diffusione del corridore",
+    "effect.runnerzombieeff": "Perfetti zombie",
+    "effect.wegotrunnners.aggrozom": "aggro zomn",
+    "effect.wegotrunnners.grounded": "In terra",
+    "effect.wegotrunnners.groundertmp": "Zombie del terreno",
+    "effect.wegotrunnners.normalzombietmp": "Walker",
+    "effect.wegotrunnners.runertmp": "Zombie runner",
+    "effect.wegotrunnners.runnerspreads": "Diffusione runner",
+    "effect.wegotrunnners.runnerzombieeff": "Perfetti zombie",
+    "subtitles.iron_crit": "Golemino di ferro critico colpito",
+    "subtitles.stuncrit": "Colpo di stordimento al suolo"
+}

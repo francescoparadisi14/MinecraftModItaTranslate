@@ -1,0 +1,16 @@
+{
+    "soundCategory.extrasounds$action": "Suoni d'azione",
+    "soundCategory.extrasounds$chat": "Messaggi di chat",
+    "soundCategory.extrasounds$chat_mention": "Menzione di chat",
+    "soundCategory.extrasounds$effects": "Effetti\/Potioni",
+    "soundCategory.extrasounds$empty_hotbar": "Barra degli strumenti vuota",
+    "soundCategory.extrasounds$enabled_effects": "Effetti",
+    "soundCategory.extrasounds$enabled_footstep": "Passo",
+    "soundCategory.extrasounds$enabled_poof": "Poof",
+    "soundCategory.extrasounds$hotbar": "Barra degli strumenti",
+    "soundCategory.extrasounds$inventory": "Inventario",
+    "soundCategory.extrasounds$item_drop": "Goccia d'oggetto",
+    "soundCategory.extrasounds$master": "Suoni extra",
+    "soundCategory.extrasounds$typing": "Tastiera",
+    "tooltip.soundCategory.extrasounds_action": "Questo volume viene applicato quando si interagiscono gli oggetti, i blocchi e gli eventi degli entità."
+}

@@ -1,0 +1,14 @@
+{
+    "books.excalibur.cit_naming_guide.description": "Renaming an item on an anvil unlocks special models and textures whenever the new name matches a keyword. Once renamed, the item will always display its custom look. $(br)$(br)Tip: Keywords are shown at the top of each page.",
+    "books.excalibur.cit_naming_guide.name": "CIT Naming Guide",
+    "books.excalibur.clarentmod.description": "Clarent and ClarentMod stuff.",
+    "books.excalibur.clarentmod.name": "Clarent",
+    "books.excalibur.credits.description": "Excalibur began with Maffhew, but it has grown beyond a single pack. Over time, players and artists have added their own ideas, textures, and projects. $(br)$(br)Find more Excalibur-based projects from our Community Artisans.",
+    "books.excalibur.credits.name": "Credits & Community",
+    "books.excalibur.entity_naming_guide.description": "Renaming a Name Tag on an anvil unlocks unique models and textures when the new name matches a keyword. Apply the tag to the entity to see the change. $(br)$(br)Tip: Keywords are shown at the top of each page.",
+    "books.excalibur.entity_naming_guide.name": "Entity Naming Guide",
+    "books.excalibur.hidden_blocks.description": "Unobvious textures and blocks included in the pack (e.g., Cactus Juice, Double Slabs).",
+    "books.excalibur.hidden_blocks.name": "Hidden Blocks",
+    "books.excalibur.round_table.description": "Dedicated to modular Round Table support.",
+    "books.excalibur.round_table.name": "The Round Table"
+}

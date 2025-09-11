@@ -1,0 +1,10 @@
+{
+    "catloaf.config.category.general": "General",
+    "catloaf.config.header": "Cat Loaf Config",
+    "catloaf.config.hideTailWhenLoafing": "Hide Tail When Loafing",
+    "catloaf.config.hideTailWhenLoafing.description": "The cat's tail is hidden when loafing, making it a more real loaf.",
+    "catloaf.config.loafChance": "Loaf Chance (%)",
+    "catloaf.config.loafChance.description": "Defines the chance of the cat becoming a loaf instead of sitting.",
+    "catloaf.config.overrideChanceWithBread": "Override Chance With Bread",
+    "catloaf.config.overrideChanceWithBread.description": "If holding bread, the chance of the cat becoming a loaf is 100%"
+}

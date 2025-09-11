@@ -1,0 +1,8 @@
+{
+    "key.categories.memoryusagescreen": "Schermo utilizzo memoria",
+    "key.memoryusagescreen.show": "Mostra utilizzo della memoria",
+    "text.autoconfig.memoryusagescreen.option.enableInitLoadingScreen": "Abilita visualizzazione sulla schermata di caricamento iniziale",
+    "text.autoconfig.memoryusagescreen.option.enableToggleMode": "Abilita modalità di visualizzazione a scatto",
+    "text.autoconfig.memoryusagescreen.option.enableWorldLoadingScreen": "Abilita visualizzazione sullo schermo di caricamento del mondo",
+    "text.autoconfig.memoryusagescreen.title": "Configurazione schermo utilizzo memoria"
+}

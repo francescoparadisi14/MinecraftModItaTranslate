@@ -1,0 +1,17 @@
+{
+    "warriorrage.configuration.bonusDamage": "Bonus Damage",
+    "warriorrage.configuration.client": "Client",
+    "warriorrage.configuration.enableFireDamage": "Enable Fire Damage",
+    "warriorrage.configuration.fireDamageRequiredKillCount": "Fire Damage Required Kill Count",
+    "warriorrage.configuration.killIntervalBetweenNextBonus": "Kill Interval Between Next Bonus",
+    "warriorrage.configuration.maxKillCountCap": "Max Kill Count Cap",
+    "warriorrage.configuration.minimalKillCount": "Minimal Kill Count",
+    "warriorrage.configuration.offsetX": "Icon X Offset",
+    "warriorrage.configuration.offsetY": "Icon Y Offset",
+    "warriorrage.configuration.onHitEffects": "On Hit Effects",
+    "warriorrage.configuration.rageDuration": "Rage Duration",
+    "warriorrage.configuration.renderFireParticles": "Render Fire Particles",
+    "warriorrage.configuration.renderRageBar": "Render Rage Bar",
+    "warriorrage.configuration.renderRageIcon": "Render Rage Icon",
+    "warriorrage.configuration.server": "Server"
+}

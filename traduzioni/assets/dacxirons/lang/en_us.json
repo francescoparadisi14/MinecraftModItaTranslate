@@ -1,0 +1,22 @@
+{
+    "effect.dacxirons.cast_speed": "Cast Speed",
+    "effect.dacxirons.spell_strength": "Spell Strength",
+    "item.dacxirons.crimson_cloth": "Crimson Cloth",
+    "item.dacxirons.crimson_wizard_boots": "§cCrimson Wizard Boots",
+    "item.dacxirons.crimson_wizard_hood": "§cCrimson Wizard Hood",
+    "item.dacxirons.crimson_wizard_leggings": "§cCrimson Wizard Leggings",
+    "item.dacxirons.crimson_wizard_robe": "§cCrimson Wizard Robe",
+    "item.dacxirons.divine_manuscript_spell_book": "Divine Manuscript",
+    "item.dacxirons.scepter_of_over_compensation": "Scepter of OverCompensation",
+    "itemGroup.dacxirons.dacxirons_tab": "Dac x Irons items",
+    "spell.dacxirons.magic_arrow": "Magic Arrow",
+    "spell.dacxirons.summonkamath": "Eldritch Champion",
+    "spell.dacxirons.summonkamath.guide": "Summon the eldritch champion, Kamath himself",
+    "spell.dacxirons.sunleia_beam": "Sunleia Beam",
+    "tooltip.dacxirons.crimson_wizard": "Full Set Bonus:",
+    "tooltip.dacxirons.crimson_wizard2": "§ While Bleeding, Gain Spell Strength 3, Resistance 3, Speed 3 and Cast Speed 3\"",
+    "tooltip.dacxirons.enhance_spell_level": "§e+1 level to %s",
+    "ui.dacxirons.kamath.summon_duration": "%ds summoned kamath duration",
+    "ui.dacxirons.kamath.summon_hp": "%d summoned kamath hp",
+    "ui.dacxirons.sunleia.beam": "%d Damage"
+}

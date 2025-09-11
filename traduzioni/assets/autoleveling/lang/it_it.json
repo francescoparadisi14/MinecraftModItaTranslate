@@ -1,0 +1,14 @@
+{
+    "autoleveling.level": "Livello %s",
+    "config.jade.plugin_autoleveling.level": "Livello",
+    "item.autoleveling.blacklist_tool": "Strumento blacklist",
+    "item.autoleveling.blacklist_tool.added": "%s è stato aggiunto alla lista nera",
+    "item.autoleveling.blacklist_tool.removed": "%s è stato rimosso dalla lista nera",
+    "item.autoleveling.blacklist_tool.tooltip": "Aggiunge o rimuove entità dalla lista nera",
+    "item.autoleveling.whitelist_tool": "Strumento di whitelist",
+    "item.autoleveling.whitelist_tool.added": "%s è stato aggiunto alla lista bianca",
+    "item.autoleveling.whitelist_tool.removed": "%s è stato rimosso dalla lista bianca",
+    "item.autoleveling.whitelist_tool.tooltip": "Aggiunge o rimuove entità dalla lista bianca",
+    "itemGroup.autoleveling": "Strumenti di livellamento automatico",
+    "jade.autoleveling.tooltip": "Livello: %d"
+}

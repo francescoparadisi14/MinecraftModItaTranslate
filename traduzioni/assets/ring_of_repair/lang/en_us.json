@@ -1,0 +1,7 @@
+{
+    "item.ring_of_repair.ring_of_repair": "Ring of Repair",
+    "item.ring_of_repair.ring_of_repair.line1": "Slowly repairs damaged items in player inventory",
+    "item.ring_of_repair.ring_of_repair.line2": "Works while ring is in player inventory",
+    "item.ring_of_repair.ring_of_repair.line3": "Works while ring is in player enderchest",
+    "itemGroup.ring_of_repair": "Ring of Repair"
+}

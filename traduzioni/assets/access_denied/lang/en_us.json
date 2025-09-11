@@ -1,0 +1,5 @@
+{
+    "block.access_denied.example_block": "Example Block",
+    "item.access_denied.example_item": "Example Item",
+    "itemGroup.access_denied": "Example Mod Tab"
+}

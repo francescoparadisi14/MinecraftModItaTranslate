@@ -1,0 +1,22 @@
+{
+    "settlement-roads.midnightconfig.allowArtificial": "Consenti strade artificiali",
+    "settlement-roads.midnightconfig.allowArtificial.tooltip": "Se sono consentite le strade artificiali generazione",
+    "settlement-roads.midnightconfig.allowNatural": "Consenti strade naturali",
+    "settlement-roads.midnightconfig.allowNatural.tooltip": "Se sono consentiti i percorsi naturali generati",
+    "settlement-roads.midnightconfig.averagingRadius": "Raggio di media",
+    "settlement-roads.midnightconfig.averagingRadius.tooltip": "Quantità di elaborazione del terreno per strade artificiali",
+    "settlement-roads.midnightconfig.category.pre-generation": "Pre-generazione",
+    "settlement-roads.midnightconfig.category.roads": "Strade",
+    "settlement-roads.midnightconfig.category.structures": "Strutture",
+    "settlement-roads.midnightconfig.distanceBetweenBuoys": "Distanza tra le banchine",
+    "settlement-roads.midnightconfig.distanceBetweenBuoys.tooltip": "Distanza approssimativa tra le banchine in blocchi",
+    "settlement-roads.midnightconfig.initialLocatingCount": "Numero di strutture da localizzare al caricamento del mondo",
+    "settlement-roads.midnightconfig.initialLocatingCount.tooltip": "Seleziona il numero di strutture da localizzare al caricamento del mondo. Maggiore numero = tempo di caricamento più lungo",
+    "settlement-roads.midnightconfig.maxLocatingCount": "Numero massimo di strutture da localizzare",
+    "settlement-roads.midnightconfig.maxLocatingCount.tooltip": "Seleziona il numero massimo di strutture da localizzare dinamicamente. Numero più alto = utilizzo di memoria maggiore",
+    "settlement-roads.midnightconfig.placeWaypoints": "Collocare punti di riferimento anziché strade",
+    "settlement-roads.midnightconfig.placeWaypoints.tooltip": "Disabilita la generazione di strade in favore della generazione di punti di riferimento.",
+    "settlement-roads.midnightconfig.structureToLocate": "Struttura da localizzare",
+    "settlement-roads.midnightconfig.structureToLocate.tooltip": "Seleziona o digita la struttura che vuoi localizzare. Ad esempio, \"#minecraft:village\", \"minecraft:village_plains\" o \"modid:custom_structure\". Consentito anche gli identificatori di struttura e le chiavi.",
+    "settlement-roads.midnightconfig.title": "Strade dei villaggi di countered"
+}

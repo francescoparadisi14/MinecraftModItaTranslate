@@ -1,0 +1,8 @@
+{
+    "voidfog.config.blacklisted_dims": "Elenco dimensioni bloccate",
+    "voidfog.config.distance": "Distanza nebbia",
+    "voidfog.config.particle_density": "Densità di particelle",
+    "voidfog.config.voidscape": "Integrazione VoidScape",
+    "voidfog.config.whitelist_toggle": "Modalità whitelist",
+    "voidfog.config.y": "Livello massimo Y"
+}

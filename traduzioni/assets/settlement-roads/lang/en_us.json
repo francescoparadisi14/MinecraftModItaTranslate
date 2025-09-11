@@ -1,0 +1,22 @@
+{
+    "settlement-roads.midnightconfig.allowArtificial": "Allow artificial roads",
+    "settlement-roads.midnightconfig.allowArtificial.tooltip": "Whether artificial roads are allowed to generate",
+    "settlement-roads.midnightconfig.allowNatural": "Allow natural roads",
+    "settlement-roads.midnightconfig.allowNatural.tooltip": "Whether natural roads are allowed to generate",
+    "settlement-roads.midnightconfig.averagingRadius": "Averaging radius",
+    "settlement-roads.midnightconfig.averagingRadius.tooltip": "Amount of terrain averaging done for artificial roads",
+    "settlement-roads.midnightconfig.category.pre-generation": "Pre-Generation",
+    "settlement-roads.midnightconfig.category.roads": "Roads",
+    "settlement-roads.midnightconfig.category.structures": "Structures",
+    "settlement-roads.midnightconfig.distanceBetweenBuoys": "Distance between buoys",
+    "settlement-roads.midnightconfig.distanceBetweenBuoys.tooltip": "Approximate distance between buoys in blocks",
+    "settlement-roads.midnightconfig.initialLocatingCount": "Number of structures to locate on world load",
+    "settlement-roads.midnightconfig.initialLocatingCount.tooltip": "Select the number of structures to locate on world load. Higher number = longer loading time",
+    "settlement-roads.midnightconfig.maxLocatingCount": "Maximum number of structures to locate",
+    "settlement-roads.midnightconfig.maxLocatingCount.tooltip": "Select the maximum number of structures to locate dynamically. Higher number = more memory usage",
+    "settlement-roads.midnightconfig.placeWaypoints": "Place Waypoints instead of Roads",
+    "settlement-roads.midnightconfig.placeWaypoints.tooltip": "Disables road generation in favor of waypoint generation",
+    "settlement-roads.midnightconfig.structureToLocate": "Structure to locate",
+    "settlement-roads.midnightconfig.structureToLocate.tooltip": "Select or type the structure you want to locate. E.g., #minecraft:village, minecraft:village_plains or modid:custom_structure. Allows structure tags and keys.",
+    "settlement-roads.midnightconfig.title": "Countered's Settlement Roads"
+}

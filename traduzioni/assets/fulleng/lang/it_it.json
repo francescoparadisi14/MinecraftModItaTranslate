@@ -1,0 +1,4 @@
+{
+    "config.jade.plugin_fulleng.storage_monitor": "Monitoraggio di archiviazione a blocchi completi del plugin Jade",
+    "gui.fulleng.not_installed": "%s non è installato."
+}

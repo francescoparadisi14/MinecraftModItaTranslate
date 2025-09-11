@@ -1,0 +1,17 @@
+{
+    "warriorrage.configuration.bonusDamage": "Danno di bonus",
+    "warriorrage.configuration.client": "Configurazione client",
+    "warriorrage.configuration.enableFireDamage": "Abilita danni da fuoco abilitata",
+    "warriorrage.configuration.fireDamageRequiredKillCount": "Conteggio di uccisioni richiesto per danni da fuoco",
+    "warriorrage.configuration.killIntervalBetweenNextBonus": "Intervallo di uccisioni tra il prossimo bonus",
+    "warriorrage.configuration.maxKillCountCap": "Limite massimo di conti di uccisione",
+    "warriorrage.configuration.minimalKillCount": "Conteggio minimo di uccisioni",
+    "warriorrage.configuration.offsetX": "Offset x dell'icona",
+    "warriorrage.configuration.offsetY": "Offset Y dell'icona",
+    "warriorrage.configuration.onHitEffects": "Effetti al colpo",
+    "warriorrage.configuration.rageDuration": "Durata dell'ira",
+    "warriorrage.configuration.renderFireParticles": "Rendere particelle di fuoco",
+    "warriorrage.configuration.renderRageBar": "Visualizza barra di rabbia",
+    "warriorrage.configuration.renderRageIcon": "Visualizza icone di rabbia",
+    "warriorrage.configuration.server": "Server"
+}

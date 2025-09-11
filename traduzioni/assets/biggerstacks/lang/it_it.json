@@ -1,0 +1,13 @@
+{
+    "biggerstacks.config.title": "Configura limite di pila",
+    "biggerstacks.enchbox.alt": "Limite di accumulo dei libri incantati",
+    "biggerstacks.enchbox.label": "Libri incantati",
+    "biggerstacks.exact.count": "Conteggio esatto: %s",
+    "biggerstacks.normalbox.alt": "Limite di accumulo degli oggetti normali",
+    "biggerstacks.normalbox.label": "Elementi normali",
+    "biggerstacks.overwrite.warn": "Questo sovrascriverà il tuo file di regole personalizzato!",
+    "biggerstacks.player.expected": "Il comando deve essere eseguito da un giocatore.",
+    "biggerstacks.potsbox.alt": "Limite di accumulo delle pozioni",
+    "biggerstacks.potsbox.label": "Potioni",
+    "biggerstacks.save": "Salva"
+}

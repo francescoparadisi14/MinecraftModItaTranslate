@@ -1,0 +1,15 @@
+{
+    "commands.uteamcore.dimteleport.success.multiple": "trasportati %s entità a %s",
+    "commands.uteamcore.dimteleport.success.position.multiple": "trasportati %s entità a %s in %s, %s, %s",
+    "commands.uteamcore.dimteleport.success.position.single": "trasportato %s a %s in %s, %s, %s",
+    "commands.uteamcore.dimteleport.success.single": "trasportato %s in %s",
+    "commands.uteamcore.ping.success.other": "Il ping di %s è %sms",
+    "commands.uteamcore.ping.success.self": "Il tuo ping è %sms",
+    "commands.uteamcore.stackinfo.success.block": "Blocco: %s",
+    "commands.uteamcore.stackinfo.success.copy": "Copia nel portapenne",
+    "commands.uteamcore.stackinfo.success.item": "oggetto: %s",
+    "commands.uteamcore.stackinfo.success.nbt": "nbt: %s",
+    "commands.uteamcore.stackinfo.success.tag": "Etichette: %s",
+    "gui.widget.uteamcore.energy.fe_tooltip": "%s fe\/%s fe",
+    "jei.uteamcore.dyeable.info": "Questi oggetti possono essere tingibili con il colore nel campo di lavorazione."
+}

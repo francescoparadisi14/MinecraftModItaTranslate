@@ -1,0 +1,7 @@
+{
+    "item.ring_of_repair.ring_of_repair": "Anello di riparazione",
+    "item.ring_of_repair.ring_of_repair.line1": "Riparazioni lente di oggetti danneggiati nel inventario del giocatore",
+    "item.ring_of_repair.ring_of_repair.line2": "Funziona mentre l'anello è nell'inventario del giocatore",
+    "item.ring_of_repair.ring_of_repair.line3": "Funziona mentre l'anello è nel cassettone di fine del giocatore.",
+    "itemGroup.ring_of_repair": "Anello di riparazione"
+}

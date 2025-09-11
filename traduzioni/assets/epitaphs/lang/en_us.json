@@ -1,0 +1,17 @@
+{
+    "block.epitaphs.grave": "Grave",
+    "command.epitaphs.backup_failed": "Failed to backup. Check your logs for more info",
+    "command.epitaphs.backup_success": "Backup complete",
+    "command.epitaphs.not_found": "No grave found for for %s",
+    "command.epitaphs.restore_failed": "Failed to restore items of player %s. Check your logs for more info",
+    "command.epitaphs.restore_overflow": "Failed to insert some items into uuid %s.",
+    "command.epitaphs.restore_success": "Restored items of player %s",
+    "container.epitaphs.grave": "Grave",
+    "enchantment.epitaphs.experience_soulbound": "Experience Soulbound",
+    "enchantment.epitaphs.soulbound": "Soulbound",
+    "message.epitaphs.grave_error": "An error occurred trying to load this grave. Check your logs for more info",
+    "message.epitaphs.grave_failed": "Something went wrong trying to create a grave. Your items are laying on the ground",
+    "message.epitaphs.grave_no_pos": "Found no valid position for a grave",
+    "message.epitaphs.grave_success": "Created a grave with your items at",
+    "message.epitaphs.no_access": "This grave belongs to %s. You do not have access to it"
+}

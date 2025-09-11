@@ -1,0 +1,18 @@
+{
+    "subtitles.entity.possessed.hurt": "Il mostro posseduto si ferisce",
+    "subtitles.entity.possessed.idle": "Il mostro posseduto ulula",
+    "subtitles.entity.possessed.unpossess": "Il mostro posseduto è stato rilasciato",
+    "subtitles.entity.wither.barrage": "Il Maledetto piove fuoco",
+    "subtitles.entity.wither.charge": "Cariche del Maledetto",
+    "subtitles.entity.wither.death": "Muore il Wither",
+    "subtitles.entity.wither.deflect_skull": "Proiettile deviato",
+    "subtitles.entity.wither.hurt": "Il Wither si ferisce",
+    "subtitles.entity.wither.idle": "Il Wither ringhia",
+    "subtitles.entity.wither.idle_weak": "Urla del wither",
+    "subtitles.entity.wither.laser": "Carica dell'aspetto del Mietitore, raggio laser",
+    "subtitles.entity.wither.possess": "Il Wither possiede un mostro",
+    "subtitles.entity.wither.projectile_explosion": "Esplosione a distanza",
+    "subtitles.entity.wither.shoot": "Il Wither spara",
+    "subtitles.entity.wither.spawn": "Il Wither è stato rilasciato",
+    "subtitles.entity.wither.stun": "Il Wither è stato stordito"
+}

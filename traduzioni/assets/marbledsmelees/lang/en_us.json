@@ -1,0 +1,21 @@
+{
+    "item.marbledsmelees.barbed_baseball_bat": "Barbed Baseball Bat",
+    "item.marbledsmelees.baseball_bat": "Baseball Bat",
+    "item.marbledsmelees.bone_saw": "Bone Saw",
+    "item.marbledsmelees.combat_knife": "Combat Knife",
+    "item.marbledsmelees.crowbar": "Crowbar",
+    "item.marbledsmelees.fire_axe": "Fire Axe",
+    "item.marbledsmelees.golf_club": "Golf Club",
+    "item.marbledsmelees.katana": "Katana",
+    "item.marbledsmelees.machete": "Machete",
+    "item.marbledsmelees.modern_axe": "Modern Axe",
+    "item.marbledsmelees.pipe": "Pipe",
+    "item.marbledsmelees.pipe_wrench": "Pipe Wrench",
+    "item.marbledsmelees.police_baton": "Police Baton",
+    "item.marbledsmelees.sledgehammer": "Sledgehammer",
+    "item.marbledsmelees.steel_baseball_bat": "Steel Baseball Bat",
+    "item.marbledsmelees.stop_sign": "Stop Sign",
+    "item.marbledsmelees.tanto": "Tanto",
+    "item.marbledsmelees.tomahawk": "Tomahawk",
+    "itemGroup.marbleds_melees": "Marbled's Melees"
+}

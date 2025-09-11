@@ -1,0 +1,22 @@
+{
+    "container.barrel": "Barile",
+    "container.blast_furnace": "Fornace a razzo",
+    "container.brewing": "Stand per la birra",
+    "container.cartography_table": "Tavola cartografica",
+    "container.chest": "Cassetto",
+    "container.chestDouble": "Cassetto grande",
+    "container.crafter": "§7Crafter",
+    "container.crafting": "Crafting",
+    "container.creative": "Seleziona oggetto (in colore giallo)",
+    "container.dispenser": "Dispensatore",
+    "container.dropper": "Dropper",
+    "container.enchant": "enchant",
+    "container.enderchest": "Cassetto dei portali",
+    "container.furnace": "Fornace",
+    "container.hopper": "Item hopper",
+    "container.inventory": "inventario",
+    "container.loom": "Loom",
+    "container.smoker": "smoker",
+    "container.stonecutter": "§7Stonecutter",
+    "jade.theme.jade_excalibur.excalibur": "Excalibur"
+}

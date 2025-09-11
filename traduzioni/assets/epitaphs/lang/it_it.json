@@ -1,0 +1,17 @@
+{
+    "block.epitaphs.grave": "Tomba",
+    "command.epitaphs.backup_failed": "Fallito il backup. controlla i tuoi log per ulteriori informazioni",
+    "command.epitaphs.backup_success": "Backup completato",
+    "command.epitaphs.not_found": "Non è stato trovato un cimitero per %s",
+    "command.epitaphs.restore_failed": "Non è stato possibile ripristinare gli oggetti del giocatore %s. Controlla i tuoi log per ulteriori informazioni.",
+    "command.epitaphs.restore_overflow": "non è stato possibile inserire alcuni oggetti nel UUID %s.",
+    "command.epitaphs.restore_success": "Ristabiliti gli oggetti del giocatore %s",
+    "container.epitaphs.grave": "Tomba",
+    "enchantment.epitaphs.experience_soulbound": "Spirito esperienza vincolato",
+    "enchantment.epitaphs.soulbound": "Legato all'anima",
+    "message.epitaphs.grave_error": "Si è verificato un errore durante l'elaborazione di questa tomba. Controllare i log per ulteriori informazioni.",
+    "message.epitaphs.grave_failed": "Qualcosa è andato storto nel tentativo di creare una tomba. I tuoi oggetti sono sparsi per terra",
+    "message.epitaphs.grave_no_pos": "Non è stato trovato alcun posizionamento valido per un sepolcro",
+    "message.epitaphs.grave_success": "creato un sepolcro con i tuoi oggetti in `%s`",
+    "message.epitaphs.no_access": "Questo sepolcro appartiene a %s. Non hai accesso a esso."
+}

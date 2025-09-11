@@ -1,0 +1,18 @@
+{
+    "block.createappliedkinetics.energy_provider": "Fornitore di energia",
+    "block.createappliedkinetics.me_proxy": "Prossimo ME",
+    "item.createappliedkinetics.incomplete_calculation_processor": "Processore di calcolo incompleto",
+    "item.createappliedkinetics.incomplete_calculation_processor_press": "Tasto di elaborazione calcolo incompleto",
+    "item.createappliedkinetics.incomplete_engineering_processor": "Processore di ingegneria incompleto",
+    "item.createappliedkinetics.incomplete_engineering_processor_press": "Pressa di elaborazione ingegneristica incompleta",
+    "item.createappliedkinetics.incomplete_logic_processor": "Processore di logica incompleta",
+    "item.createappliedkinetics.incomplete_logic_processor_press": "Premi elaboratore logico incompleto",
+    "item.createappliedkinetics.incomplete_printed_calculation_circuit": "Circuito di calcolo stampato incompleto",
+    "item.createappliedkinetics.incomplete_printed_engineering_circuit": "Circuito di ingegneria stampato incompleto",
+    "item.createappliedkinetics.incomplete_printed_logic_circuit": "Circuito logico stampato incompleto",
+    "item.createappliedkinetics.incomplete_silicon_press": "Pressa di silicio incompleta",
+    "item.createappliedkinetics.incomplete_silicon_print": "Stampa di silicio incompleta",
+    "itemGroup.createappliedkinetics": "Creare cinematiche applicate",
+    "tooltip.createappliedkinetics.energy_provider": "Fornisce energia all'accettore di energia AE §f.",
+    "tooltip.createappliedkinetics.me_proxy": "Un proxy per accedere ai §fae2 §rreti di rete degli oggetti\/fluidi"
+}

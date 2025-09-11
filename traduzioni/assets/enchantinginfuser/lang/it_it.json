@@ -1,0 +1,16 @@
+{
+    "block.enchantinginfuser.advanced_enchanting_infuser": "Infusore di incantesimi avanzato",
+    "block.enchantinginfuser.description.choose": "Scegli incantesimi per il tuo equipaggiamento.",
+    "block.enchantinginfuser.description.chooseAndModify": "Scegli, modifica e rimuovi incantesimi per il tuo equipaggiamento.",
+    "block.enchantinginfuser.description.repair": "Ripara il tuo equipaggiamento con i livelli.",
+    "block.enchantinginfuser.enchanting_infuser": "Infusore di incantesimi",
+    "gui.enchantinginfuser.tooltip.change": "%s -> %s",
+    "gui.enchantinginfuser.tooltip.current_enchanting_power": "Potenza di incantesimo attuale: %s \/ %s",
+    "gui.enchantinginfuser.tooltip.durability": "Durata: %s",
+    "gui.enchantinginfuser.tooltip.enchanting_power.hint": "Collo più scaffalature dei libri intorno all'infusore, massimo due livelli.",
+    "gui.enchantinginfuser.tooltip.incompatible": "Questo incantesimo è incompatibile con: %s",
+    "gui.enchantinginfuser.tooltip.lowPower1": "Per aumentare ulteriormente il livello di questo incantesimo è richiesta un'infusione con più potere incantatorio.",
+    "gui.enchantinginfuser.tooltip.lowPower2": "Il livello di questo incantesimo deve essere modificato con un infusore dotato di più potere enigmatico.",
+    "gui.enchantinginfuser.tooltip.points": "Acquisisci punti esperienza",
+    "gui.enchantinginfuser.tooltip.unknown_enchantment": "Questo incantesimo è troppo potente per un infusore con così poca potenza di incantazione."
+}

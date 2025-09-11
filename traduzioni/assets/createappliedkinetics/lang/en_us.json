@@ -1,0 +1,18 @@
+{
+    "block.createappliedkinetics.energy_provider": "Energy Provider",
+    "block.createappliedkinetics.me_proxy": "ME Proxy",
+    "item.createappliedkinetics.incomplete_calculation_processor": "Incomplete Calculation Processor",
+    "item.createappliedkinetics.incomplete_calculation_processor_press": "Incomplete Calculation Processor Press",
+    "item.createappliedkinetics.incomplete_engineering_processor": "Incomplete Engineering Processor",
+    "item.createappliedkinetics.incomplete_engineering_processor_press": "Incomplete Engineering Processor Press",
+    "item.createappliedkinetics.incomplete_logic_processor": "Incomplete Logic Processor",
+    "item.createappliedkinetics.incomplete_logic_processor_press": "Incomplete Logic Processor Press",
+    "item.createappliedkinetics.incomplete_printed_calculation_circuit": "Incomplete Printed Calculation Circuit",
+    "item.createappliedkinetics.incomplete_printed_engineering_circuit": "Incomplete Printed Engineering Circuit",
+    "item.createappliedkinetics.incomplete_printed_logic_circuit": "Incomplete Printed Logic Circuit",
+    "item.createappliedkinetics.incomplete_silicon_press": "Incomplete Silicon Press",
+    "item.createappliedkinetics.incomplete_silicon_print": "Incomplete Silicon Print",
+    "itemGroup.createappliedkinetics": "Create Applied Kinetics",
+    "tooltip.createappliedkinetics.energy_provider": "Provides energy to AE's §fEnergy Acceptor",
+    "tooltip.createappliedkinetics.me_proxy": "A proxy to access §fAE2 §rnetwork's item\/fluid"
+}

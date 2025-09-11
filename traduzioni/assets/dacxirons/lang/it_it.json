@@ -1,0 +1,22 @@
+{
+    "effect.dacxirons.cast_speed": "Velocità di lancio",
+    "effect.dacxirons.spell_strength": "Forza incantesimo",
+    "item.dacxirons.crimson_cloth": "Stoffa cremisi",
+    "item.dacxirons.crimson_wizard_boots": "Stivali del mago crimosso di colore rosso",
+    "item.dacxirons.crimson_wizard_hood": "Cappuccio stregone di sangue crimosso",
+    "item.dacxirons.crimson_wizard_leggings": "Pantaloni stregoni di sangue crimosso",
+    "item.dacxirons.crimson_wizard_robe": "Tunica stregone crimosina",
+    "item.dacxirons.divine_manuscript_spell_book": "Manoscritto divino",
+    "item.dacxirons.scepter_of_over_compensation": "Astuccio di sovracompensazione",
+    "itemGroup.dacxirons.dacxirons_tab": "Elementi dac x ferro",
+    "spell.dacxirons.magic_arrow": "Freccia magica",
+    "spell.dacxirons.summonkamath": "Campionatore Eldritch",
+    "spell.dacxirons.summonkamath.guide": "Evoca il campione Eldritch, Kamath stesso",
+    "spell.dacxirons.sunleia_beam": "Raggio di Sunleia",
+    "tooltip.dacxirons.crimson_wizard": "Premio di completo insieme:",
+    "tooltip.dacxirons.crimson_wizard2": "Mentre si versa sangue, guadagna forza magica 3, resistenza 3, velocità 3 e velocità di lancio 3.",
+    "tooltip.dacxirons.enhance_spell_level": "+1 livello a %s",
+    "ui.dacxirons.kamath.summon_duration": "Durata di richiamo di Kamath: %ds",
+    "ui.dacxirons.kamath.summon_hp": "%d HP di Kamath evocati",
+    "ui.dacxirons.sunleia.beam": "%d danni"
+}

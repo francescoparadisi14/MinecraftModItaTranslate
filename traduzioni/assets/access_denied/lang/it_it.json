@@ -1,0 +1,5 @@
+{
+    "block.access_denied.example_block": "Blocco di esempio",
+    "item.access_denied.example_item": "Esempio di oggetto",
+    "itemGroup.access_denied": "Tab del modulo di esempio (Accesso negato)"
+}

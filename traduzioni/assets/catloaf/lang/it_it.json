@@ -1,0 +1,10 @@
+{
+    "catloaf.config.category.general": "Generale",
+    "catloaf.config.header": "Configurazione del gatto rannicchiato",
+    "catloaf.config.hideTailWhenLoafing": "Nascondi coda quando si ronfa",
+    "catloaf.config.hideTailWhenLoafing.description": "Il coda del gatto è nascosta quando si sdraia, rendendolo un più reale panino.",
+    "catloaf.config.loafChance": "Caso di pane (%)",
+    "catloaf.config.loafChance.description": "Definisce la probabilità del gatto di diventare un panino (loaf) invece di sedersi.",
+    "catloaf.config.overrideChanceWithBread": "Sostituisci la probabilità con il pane",
+    "catloaf.config.overrideChanceWithBread.description": "Se si tiene il pane, la possibilità che il gatto diventi un panino è del 100%"
+}

@@ -1,0 +1,11 @@
+{
+    "entity.corundumguardian.corundum_guardian": "Corundum Guardian",
+    "entity.corundumguardian.shockwave": "Shockwave",
+    "item.corundumguardian.corundum_guardian_spawn_egg": "Corundum Guardian Spawn Egg",
+    "subtitles.corundum_guardian_attack": "CorundumGuardian attacks",
+    "subtitles.corundum_guardian_hit": "CorundumGuardian being hit",
+    "subtitles.corundum_guardian_land": "CorundumGuardian lands",
+    "subtitles.corundum_guardian_move_arm": "CorundumGuardian moves arm",
+    "subtitles.corundum_guardian_steam": "CorundumGuardian emits steam",
+    "subtitles.corundum_guardian_stomp": "CorundumGuardian stomps"
+}

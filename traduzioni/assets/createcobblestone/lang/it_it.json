@@ -1,0 +1,7 @@
+{
+    "block.createcobblestone.generators.hovertext.itemprefix": "genera:",
+    "block.createcobblestone.generators.hovertext.no_item": "Clicca sul generatore con un tipo di pietra per impostare il tipo di generatore.",
+    "block.createcobblestone.mechanical_generator": "Generatore meccanico",
+    "createcobblestone.gui.goggles.generators.itemprefix": "Genera: %1$s",
+    "itemGroup.create_cobblestone": "Crea pietra di base"
+}

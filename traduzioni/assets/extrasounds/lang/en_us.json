@@ -1,0 +1,16 @@
+{
+    "soundCategory.extrasounds$action": "Actions",
+    "soundCategory.extrasounds$chat": "Chat Messages",
+    "soundCategory.extrasounds$chat_mention": "Chat Mention",
+    "soundCategory.extrasounds$effects": "Effects\/Potions",
+    "soundCategory.extrasounds$empty_hotbar": "Empty Hotbar",
+    "soundCategory.extrasounds$enabled_effects": "Effects",
+    "soundCategory.extrasounds$enabled_footstep": "Footstep",
+    "soundCategory.extrasounds$enabled_poof": "Poof",
+    "soundCategory.extrasounds$hotbar": "Hotbar",
+    "soundCategory.extrasounds$inventory": "Inventory",
+    "soundCategory.extrasounds$item_drop": "Item Drop",
+    "soundCategory.extrasounds$master": "ExtraSounds",
+    "soundCategory.extrasounds$typing": "Typing",
+    "tooltip.soundCategory.extrasounds_action": "This volume is applied when Item interactions, Block interactions and Entity events."
+}
