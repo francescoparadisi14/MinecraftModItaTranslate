@@ -1,8 +1,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
 
-![](https://img.shields.io/badge/Ultimo%20Aggiornamento-08%2F09%2F2025-blue)
-![](https://img.shields.io/badge/Mod%20tradotte-1961-green)
-![](https://img.shields.io/badge/Quest%20tradotte-4-green)
+![](https://img.shields.io/badge/Ultimo%20Aggiornamento-11%2F09%2F2025-blue)
+![](https://img.shields.io/badge/Mod%20tradotte-2127-green)
+![](https://img.shields.io/badge/Quest%20tradotte-5-green)
 
 ## Progetto che utilizza l’intelligenza artificiale per **tradurre automaticamente in italiano** i contenuti testuali delle mod di Minecraft.
 Supporta file `.json` (come `en_us.json`) e file `.snbt` (come `en_us.snbt`) per FTB Quests.

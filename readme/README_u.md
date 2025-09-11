@@ -1,8 +1,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
 
-![](https://img.shields.io/badge/Ultimo%20Aggiornamento-08%2F09%2F2025-blue)
-![](https://img.shields.io/badge/Mod%20tradotte-1961-green)
-![](https://img.shields.io/badge/Quest%20tradotte-4-green)
+![](https://img.shields.io/badge/Ultimo%20Aggiornamento-11%2F09%2F2025-blue)
+![](https://img.shields.io/badge/Mod%20tradotte-2127-green)
+![](https://img.shields.io/badge/Quest%20tradotte-5-green)
 
 ## Progetto che utilizza l’intelligenza artificiale per **tradurre automaticamente in italiano** i contenuti testuali delle mod di Minecraft.
 Supporta file `.json` (come `en_us.json`) e file `.snbt` (come `en_us.snbt`) per FTB Quests.
@@ -38,6 +38,7 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 
 |  |Mod | Ultimo<br/>aggiornamento | Numero<br/>Traduzioni |Download |
 | ---- | ---- | ---- | ---- | ---- |
+| <img src="https://media.forgecdn.net/avatars/108/684/636374315485450120.png" loading="lazy" decoding="async" width="30" /> | [U Team Core](https://www.curseforge.com/minecraft/mc-mods/u-team-core "Web Site") ![](https://img.shields.io/badge/NEW-red) | 11/09/2025 | 13 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Futeamcore "Download") |
 | <img src="https://media.forgecdn.net/avatars/248/107/637167009352402084.png" loading="lazy" decoding="async" width="30" /> | [Ultimate Car Mod](https://www.curseforge.com/minecraft/mc-mods/ultimate-car-mod "Web Site")  | 12/08/2025 | 435 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fcar "Download") |
 | <img src="https://media.forgecdn.net/avatars/307/56/637387012816830832.png" loading="lazy" decoding="async" width="30" /> | [Ultimate Plane Mod](https://www.curseforge.com/minecraft/mc-mods/ultimate-plane-mod "Web Site")  | 25/08/2025 | 56 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fplane "Download") |
 | <img src="https://media.forgecdn.net/avatars/810/971/638183246156426755.png" loading="lazy" decoding="async" width="30" /> | [Umbral Skies](https://www.curseforge.com/minecraft/mc-mods/umbral-skies "Web Site")  | 05/08/2025 | 31 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fumbral_skies "Download") |

@@ -296,6 +296,7 @@
     "tag.item.deeperdarker.scutes": "Scute",
     "tooltips.deeperdarker.crystallized_amber.item": "contiene %s",
     "tooltips.deeperdarker.crystallized_amber.leech": "Contiene parassita di skulk",
+    "tooltips.deeperdarker.ice_lily.flowerless": "Senza fiori",
     "tooltips.deeperdarker.sculk_transmitter.linked": "Collegato a %s",
     "tooltips.deeperdarker.sculk_transmitter.location": "Ubicato a %s, %s, %s",
     "tooltips.deeperdarker.sculk_transmitter.not_linked": "Non collegato",

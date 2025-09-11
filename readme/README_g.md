@@ -1,8 +1,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
 
-![](https://img.shields.io/badge/Ultimo%20Aggiornamento-08%2F09%2F2025-blue)
-![](https://img.shields.io/badge/Mod%20tradotte-1961-green)
-![](https://img.shields.io/badge/Quest%20tradotte-4-green)
+![](https://img.shields.io/badge/Ultimo%20Aggiornamento-11%2F09%2F2025-blue)
+![](https://img.shields.io/badge/Mod%20tradotte-2127-green)
+![](https://img.shields.io/badge/Quest%20tradotte-5-green)
 
 ## Progetto che utilizza l’intelligenza artificiale per **tradurre automaticamente in italiano** i contenuti testuali delle mod di Minecraft.
 Supporta file `.json` (come `en_us.json`) e file `.snbt` (come `en_us.snbt`) per FTB Quests.
@@ -69,6 +69,7 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 | <img src="https://media.forgecdn.net/avatars/276/919/637267971739647681.png" loading="lazy" decoding="async" width="30" /> | [GraveStone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod "Web Site")  | 27/08/2025 | 33 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgravestone "Download") |
 | <img src="https://media.forgecdn.net/avatars/587/21/637955708403022546.png" loading="lazy" decoding="async" width="30" /> | [Gravitational Modulating Additional Unit](https://www.curseforge.com/minecraft/mc-mods/gravitational-modulating-additional-unit "Web Site")  | 18/08/2025 | 11 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgmut "Download") |
 | <img src="https://media.forgecdn.net/avatars/850/975/638252863907612360.png" loading="lazy" decoding="async" width="30" /> | [GregTech CEu Modern](https://www.curseforge.com/minecraft/mc-mods/gregtechceu-modern "Web Site")  | 08/08/2025 | 5861 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgtceu "Download") |
+| <img src="https://media.forgecdn.net/avatars/1378/258/638894092603946929.png" loading="lazy" decoding="async" width="30" /> | [Growth Accelerator Tiers](https://www.curseforge.com/minecraft/mc-mods/growth-accelerator-tiers "Web Site") ![](https://img.shields.io/badge/NEW-red) | 11/09/2025 | 27 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgrowthacceleratortiers "Download") |
 | <img src="https://media.forgecdn.net/avatars/1102/398/638650365978970776.png" loading="lazy" decoding="async" width="30" /> | [GTBC's Spellbooks - Iron's Spells Addon](https://www.curseforge.com/minecraft/mc-mods/gtbcs-spellbooks "Web Site")  | 28/08/2025 | 168 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgametechbcs_spellbooks "Download") |
 | <img src="https://media.forgecdn.net/avatars/1172/692/638744372383267797.png" loading="lazy" decoding="async" width="30" /> | [GTBC's SpellLib/API](https://www.curseforge.com/minecraft/mc-mods/gtbcs-spelllib "Web Site")  | 28/08/2025 | 4 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fgtbcs_spell_lib "Download") |
 | <img src="https://media.forgecdn.net/avatars/280/785/637283115951339629.png" loading="lazy" decoding="async" width="30" /> | [Guard Villagers](https://www.curseforge.com/minecraft/mc-mods/guard-villagers "Web Site")  | 07/08/2025 | 34 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fguardvillagers "Download") |
