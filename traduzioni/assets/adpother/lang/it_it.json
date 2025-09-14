@@ -21,6 +21,13 @@
     "item.adpother.iron_vacuum_bag": "Sacchetto di vuoto in ferro",
     "item.adpother.iron_vacuum_tube": "Tubo vuoto di ferro",
     "item.adpother.polluted_water_bucket": "Bacinella d'acqua inquinata",
+    "subtitles.adpother.item.aerometer.beep": "Il rilevatore di aria emette un beep",
+    "tooltip.adpother.aerometer.beeps": "%2$s beep %1$s notifica sulla presenza di blocchi di gas vicini.",
+    "tooltip.adpother.aerometer.details": "Tenere %2$s %3$s%1$s per ulteriori informazioni",
+    "tooltip.adpother.aerometer.gas_detection_radius": "Raggio di rilevamento dei gas",
+    "tooltip.adpother.aerometer.needles": "%2$sneedles%1$s mostrano il livello di inquinamento dell'aria causato da diversi%2$s inquinanti%1$s in una data area",
+    "tooltip.adpother.aerometer.red_triangle": "%2$s rosso triangolo %1$s indica un alto %2$s rischio di esplosione %1$s a causa dell'accumulo di %2$s gas infiammabile %1$s vicino. siate cauti con il %2$s torcia %1$s!",
+    "tooltip.adpother.aerometer.threshold": "Quando utilizzato %2$sfermo%1$s (collocato nel riquadro degli oggetti), la soglia di allarme del%2$s termometro%1$s può essere regolata da 1 a 8 blocchi di gas in base all'angolo di rotazione mediante un clic destro %2$s sul riquadro.",
     "tooltip.adpother.storage_item.capacity": "Capacità",
     "tooltip.adpother.storage_item.contents": "Contenuti filtro:"
 }

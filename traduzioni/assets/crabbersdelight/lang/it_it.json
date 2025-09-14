@@ -34,6 +34,7 @@
     "crabbersdelight.advancement.root.desc": "Un'avventura di pesca a mare ti aspetta!",
     "crabbersdelight.advancement.squid_killer": "Assassino dei mari profondi",
     "crabbersdelight.advancement.squid_killer.desc": "Raccogli le tentacoli di calamaro utilizzando un coltello da un calamaro.",
+    "crabbersdelight.block.crab_trap.insufficient_surrounding_water": "Il trappola per granchi ha bisogno di un'area di 3x3 d'acqua intorno a sé per funzionare!",
     "crabbersdelight.block.crab_trap.not_waterlogged": "Il trappola per granchi deve essere in acqua",
     "crabbersdelight.jei.crab_trap_loot": "Trappola per granchi",
     "entity.crabbersdelight.crab": "Granchio",
@@ -72,6 +73,7 @@
     "item.crabbersdelight.jar_of_pickles": "Scatola di sottaceti",
     "item.crabbersdelight.kelp_shake": "Sbattito di kelp",
     "item.crabbersdelight.pearl": "Perla",
+    "item.crabbersdelight.pearl_necklace": "Collare di perle",
     "item.crabbersdelight.pufferfish_slice": "Fetta di pesce puffer cruda",
     "item.crabbersdelight.raw_clam_meat": "Carne di vongola cruda",
     "item.crabbersdelight.raw_frog_leg": "Zampa di rana cruda",
@@ -107,5 +109,6 @@
     "tag.item.crabbersdelight.jei_display_results.minecraft.salmon": "Cibo per salmone",
     "tag.item.crabbersdelight.jei_display_results.minecraft.tropical_fish": "Sostanza per pesca di pesce tropicale",
     "tag.item.crabbersdelight.raw_seafood": "Cibo di mare crudo",
-    "tag.item.crabbersdelight.raw_squid": "Calamari crudi"
+    "tag.item.crabbersdelight.raw_squid": "Calamari crudi",
+    "trim_material.crabbersdelight.pearl": "Materiale perla"
 }

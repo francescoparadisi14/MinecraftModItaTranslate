@@ -1,11 +1,20 @@
 {
     "block.hardcore_torches.burnt_torch": "Torrace bruciata",
+    "block.hardcore_torches.hardcore_campfire": "Focolare non acceso",
     "block.hardcore_torches.lit_lantern": "Lanterna accesa",
+    "block.hardcore_torches.lit_soul_lantern": "Lanterna anima accesa",
+    "block.hardcore_torches.lit_soul_torch": "Torcia anima accesa",
     "block.hardcore_torches.lit_torch": "Torcia accesa",
     "block.hardcore_torches.smoldering_torch": "Torrace fumante",
+    "block.hardcore_torches.stove": "Stufa primitiva",
     "block.hardcore_torches.unlit_lantern": "Lanterna non accesa",
+    "block.hardcore_torches.unlit_soul_lantern": "Lanterna dell'anima non accesa",
+    "block.hardcore_torches.unlit_soul_torch": "Torrice anima non accesa",
     "block.hardcore_torches.unlit_torch": "Torcia non accesa",
     "item.hardcore_torches.animal_fat": "Grasso animale",
     "item.hardcore_torches.fire_starter": "Innesco del fuoco",
-    "item.hardcore_torches.oil_can": "Olio per lanterna"
+    "item.hardcore_torches.hardcore_campfire": "Campo da fuoco non acceso",
+    "item.hardcore_torches.oil_can": "Olio per lanterna",
+    "item.hardcore_torches.stove": "Stufa primitiva",
+    "item.hardcore_torches.unlit_campfire": "Focolare non acceso"
 }

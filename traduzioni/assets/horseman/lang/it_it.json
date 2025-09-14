@@ -46,6 +46,7 @@
     "horseman.configuration.leather_horse_armor_powder_snow": "L'armatura di cavallo in pelle consente di camminare sulla neve soffice",
     "horseman.configuration.leaves_collision_mode_when_mounted": "Modalità di collisione foglie quando montato",
     "horseman.configuration.max_opacity": "Massima trasparenza",
+    "horseman.configuration.max_transparency": "Massima trasparenza",
     "horseman.configuration.misc": "Impostazioni vari",
     "horseman.configuration.mounted_block_break_speed_modifier": "Velocità di spezzamento del blocco montato",
     "horseman.configuration.movement": "Configurazione movimento",

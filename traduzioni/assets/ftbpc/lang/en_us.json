@@ -1,5 +1,12 @@
 {
     "ftbpackcompanion.pause.mods": "Mods (%s)",
+    "ftbpackcompanion.shaders_notice.no_shaders.description": "Shaders have been included in this pack but are disabled by default. Would you like to enable them? Shaders can be performance-intensive, cause issues with certain mods, and may not be compatible with your hardware.",
+    "ftbpackcompanion.shaders_notice.no_shaders.title": "No shaders",
+    "ftbpackcompanion.shaders_notice.shaders.description": "If you'd like shaders, you can enable them here to experience the pack with a vibrant look and feel. If you encounter any issues, you can always disable them later in the video settings.",
+    "ftbpackcompanion.shaders_notice.shaders.title": "Shaders",
+    "ftbpackcompanion.shaders_notice.shaders_btn.disable": "Disable shaders",
+    "ftbpackcompanion.shaders_notice.shaders_btn.enable": "Enable shaders",
+    "ftbpackcompanion.shaders_notice.title": "Would you like to use shaders?",
     "ftbpackcompanion.tooltip.support_discord": "Need help? Join our Discord server!",
     "ftbpackcompanion.tooltip.support_github": "Found a bug? Report it on GitHub!"
 }

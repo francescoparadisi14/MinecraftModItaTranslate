@@ -1,6 +1,8 @@
 {
     "difficulty.type.adventure": "Avventura ☠",
     "difficulty.type.apocalypse": "Apocalisse ☠",
+    "difficulty.type.boss": "Capitano dei mostri",
+    "difficulty.type.boss_dungeon": "Dungeon del capoboss",
     "difficulty.type.dungeon": "☠ dungeon",
     "difficulty.type.heroic": "☠ eroico",
     "difficulty.type.mythic": "☠ mitico",

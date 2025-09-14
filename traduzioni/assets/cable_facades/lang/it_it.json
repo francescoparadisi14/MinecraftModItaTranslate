@@ -1,3 +1,18 @@
 {
+    "cable_facades.creative_tab": "Facce di cavi",
+    "cable_facades.error.block_disabled": "Questo blocco non può essere utilizzato come copertura (disabilitato dalla configurazione)",
+    "cable_facades.error.cannot_facade_itself": "Non è possibile creare un facciata per il blocco con se stesso.",
+    "cable_facades.facade.empty": "Facciata vuota",
+    "cable_facades.facade.name_prefix": "Facenda -",
+    "cable_facades.jei.any_block": "qualsiasi blocco",
+    "cable_facades.jei.facade_any_block": "Facchina - qualsiasi blocco",
+    "cable_facades.message.shaders_detected": "Sono stati rilevati shader:",
+    "cable_facades.message.shaders_warning": "⚠",
+    "cable_facades.message.transparency_enabled": "La trasparenza della facciata è ora",
+    "cable_facades.message.transparency_may_not_work": "La trasparenza del fasciatoio potrebbe non funzionare correttamente",
+    "cable_facades.tooltip.current_state": "Stato corrente:",
+    "cable_facades.tooltip.disabled": "Disabilitato",
+    "cable_facades.tooltip.enabled": "Abilitato",
+    "cable_facades.tooltip.toggle_transparency": "Clicca destro per abilitare\/disabilitare la trasparenza del fasciatoio",
     "item.cable_facades.facade_wrench": "Chiave Per Facciate"
 }

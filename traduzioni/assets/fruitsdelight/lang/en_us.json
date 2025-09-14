@@ -411,7 +411,7 @@
     "fruitsdelight.tooltip.durian_seed": "Feed sniffer to reset sniffing cool down",
     "fruitsdelight.tooltip.jam_block": "Sticky, but not connecting to other sticky blocks.",
     "fruitsdelight.tooltip.jam_content": "Contains:",
-    "fruitsdelight.tooltip.jello_block": "Slippery. Sticks to sticky blocks and same jello\/jelly blocks.",
+    "fruitsdelight.tooltip.jello_block": "Slippery. Sticks to sticky blocks and same jello\/jam blocks.",
     "fruitsdelight.tooltip.jelly_block": "Sticky, but not connecting to other sticky blocks.",
     "fruitsdelight.tooltip.jelly_content": "Contains:",
     "fruitsdelight.tooltip.place": "Shift right click to place down",

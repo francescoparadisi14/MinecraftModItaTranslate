@@ -1,7 +1,16 @@
 {
+    "emi.category.justenoughbreeding.allay_duplication": "Riproduzione allay",
     "emi.category.justenoughbreeding.breeding": "Allevamento",
+    "emi.category.justenoughbreeding.taming": "Domesticazione",
+    "emi.category.justenoughbreeding.temper": "Temperamento",
+    "emi.category.justenoughbreeding.transformation": "Trasformazione",
+    "emi.category.justenoughbreeding.trusting": "fedele",
     "modmenu.descriptionTranslation.justenoughbreeding": "Plugin che visualizza informazioni sulla riproduzione (JEI\/REI\/EMI)",
+    "translation.justenoughbreeding.allay_duplication": "Riproduzione allay",
     "translation.justenoughbreeding.breeding": "Crescita",
     "translation.justenoughbreeding.tamed": "Domato",
+    "translation.justenoughbreeding.taming": "Domesticazione",
+    "translation.justenoughbreeding.temper": "Temperamento",
+    "translation.justenoughbreeding.transformation": "trasformazione",
     "translation.justenoughbreeding.trusting": "fiducioso"
 }

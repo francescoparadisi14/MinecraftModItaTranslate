@@ -1,0 +1,5 @@
+{
+    "text.config.accessories_compat.option.dumpDataWhenNullEntries": "Dump dati quando sono vuoti",
+    "text.config.accessories_compat.option.dumpDataWhenNullEntries.tooltip": "Utile quando si verifica un errore all'interno dei trinkets a causa di valore nullo e tale comportamento porta al crash del gioco.",
+    "text.config.accessories_compat.title": "Configurazione di compatibilità accessori"
+}

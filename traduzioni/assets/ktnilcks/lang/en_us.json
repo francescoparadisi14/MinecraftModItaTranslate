@@ -5,6 +5,7 @@
     "config.ktnilcks.action.bypassaoffhand.long": "When enabled, swapping items with the offhand will always bypass locks",
     "config.ktnilcks.action.bypassheld.long": "When enabled, holding an item in an inventory will always bypass locks",
     "config.ktnilcks.action.bypassheld.short": "Auto-Bypass held items",
+    "config.ktnilcks.action.bypassoffhand.long": "When enabled, swapping items with the offhand will always bypass locks",
     "config.ktnilcks.action.bypassoffhand.short": "Auto-Bypass offhand swapping",
     "config.ktnilcks.base.config_title": "ItemLocks Config",
     "config.ktnilcks.base.modname": "ItemLocks",

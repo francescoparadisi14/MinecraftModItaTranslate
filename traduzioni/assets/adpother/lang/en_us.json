@@ -21,6 +21,13 @@
     "item.adpother.iron_vacuum_bag": "Iron Vacuum Bag",
     "item.adpother.iron_vacuum_tube": "Iron Vacuum Tube",
     "item.adpother.polluted_water_bucket": "Polluted Water Bucket",
+    "subtitles.adpother.item.aerometer.beep": "Aerometer beeps",
+    "tooltip.adpother.aerometer.beeps": "%2$sBeeps%1$s notify about detected gas blocks nearby.",
+    "tooltip.adpother.aerometer.details": "%1$sHold%2$s %3$s%1$s for details",
+    "tooltip.adpother.aerometer.gas_detection_radius": "Gas Detection Radius",
+    "tooltip.adpother.aerometer.needles": "%2$sNeedles%1$s show the level of air contamination by various%2$s pollutants%1$s in a given area",
+    "tooltip.adpother.aerometer.red_triangle": "%2$sRed triangle%1$s indicates a high%2$s explosion%1$s risk due to the accumulation of %2$sflammable%1$s gases nearby. Be careful with the%2$s torch%1$s!",
+    "tooltip.adpother.aerometer.threshold": "%1$sWhen used %2$sstationary%1$s (placed in the item frame), the%2$s alarm threshold%1$s can be adjusted from 1 to 8 gas blocks depending on the rotation angle by%2$s right-clicking%1$s the frame",
     "tooltip.adpother.storage_item.capacity": "Capacity",
     "tooltip.adpother.storage_item.contents": "Filters:"
 }

@@ -1,0 +1,5 @@
+{
+    "text.config.accessories_compat.option.dumpDataWhenNullEntries": "Dump Data when Null Entries",
+    "text.config.accessories_compat.option.dumpDataWhenNullEntries.tooltip": "Useful when an error within trinkets occurs due to null value and such behavior leads to crashing",
+    "text.config.accessories_compat.title": "Accessories Compat Config"
+}

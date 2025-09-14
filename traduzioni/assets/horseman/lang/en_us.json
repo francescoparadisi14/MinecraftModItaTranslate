@@ -46,6 +46,7 @@
     "horseman.configuration.leather_horse_armor_powder_snow": "Leather Horse Armor allows walking on Powder Snow",
     "horseman.configuration.leaves_collision_mode_when_mounted": "Leaves collision mode when mounted",
     "horseman.configuration.max_opacity": "Max opacity",
+    "horseman.configuration.max_transparency": "Max transparency",
     "horseman.configuration.misc": "Misc",
     "horseman.configuration.mounted_block_break_speed_modifier": "Mounted block break speed",
     "horseman.configuration.movement": "Movement",

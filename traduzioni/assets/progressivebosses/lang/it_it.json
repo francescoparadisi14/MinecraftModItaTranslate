@@ -1,4 +1,10 @@
 {
+    "advancement.progressivebosses.max_lvl_dragon.description": "Uccidi il Drago + frt",
+    "advancement.progressivebosses.max_lvl_dragon.title": "Drago corrotto",
+    "advancement.progressivebosses.max_lvl_wither.description": "Uccidi il Wither + frt",
+    "advancement.progressivebosses.max_lvl_wither.title": "Wither finale",
+    "advancement.progressivebosses.wither_death.description": "Uccidi un wither e fuggi prima che esploda",
+    "advancement.progressivebosses.wither_death.title": "Sta per esplodereeeeee",
     "block.progressivebosses.corrupted_soul_sand": "Sabbia delle anime corrotta",
     "death.attack.progressivebosses:dragon_fireball": "%1$s è stato colpito dalla palla acida di %2$s",
     "death.attack.progressivebosses:wither_charge": "%1$s è stato caricato da %2$s",

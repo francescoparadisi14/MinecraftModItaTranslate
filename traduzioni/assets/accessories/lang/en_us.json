@@ -1,9 +1,9 @@
 {
     "#comment": "Config Related Below",
     "accessories.advanced_options.toggle.disabled": "⚗",
-    "accessories.advanced_options.toggle.disabled.tooltip": "Show Extra Screen configuration options",
+    "accessories.advanced_options.toggle.disabled.tooltip": "Show Screen options",
     "accessories.advanced_options.toggle.enabled": "❤",
-    "accessories.advanced_options.toggle.enabled.tooltip": "Hide Extra Screen configuration options",
+    "accessories.advanced_options.toggle.enabled.tooltip": "Hide Screen options",
     "accessories.argument.livingEntities.nonLiving": "Only living entities may be affected by this command, but the provided selector includes non living entities",
     "accessories.back.screen": "To Previous Screen",
     "accessories.column_amount.label": "Accessory Column Amount:",
@@ -22,10 +22,10 @@
     "accessories.cosmetic_slot.tooltip.plural": "Cosmetic Slots:",
     "accessories.cosmetic_slot.tooltip.singular": "Cosmetic Slot:",
     "accessories.crafting_grid.toggle.disabled": "☐",
-    "accessories.crafting_grid.toggle.disabled.tooltip": "Show the small crafting grid",
+    "accessories.crafting_grid.toggle.disabled.tooltip": "Show crafting grid",
     "accessories.crafting_grid.toggle.enabled": "☒",
-    "accessories.crafting_grid.toggle.enabled.tooltip": "Hide the small crafting grid",
-    "accessories.dark_mode_toggle.label": "Theme Mode:",
+    "accessories.crafting_grid.toggle.enabled.tooltip": "Hide crafting grid",
+    "accessories.dark_mode_toggle.label": "Screen theme mode:",
     "accessories.dark_mode_toggle.toggle.disabled": [
         "",
         {
@@ -97,7 +97,7 @@
         " Enabled"
     ],
     "accessories.entity_centered.toggle.enabled.tooltip": "Allow entity to be offset from the center",
-    "accessories.entity_look_at_cursor.label": "Look at Mouse:",
+    "accessories.entity_look_at_cursor.label": "Entity looks at Mouse:",
     "accessories.entity_look_at_cursor.toggle.disabled": [
         "",
         {
@@ -132,7 +132,7 @@
         " Enabled"
     ],
     "accessories.entity_look_at_cursor.toggle.enabled.tooltip": "Disable looking at cursor",
-    "accessories.group_filter.label": "Group Filters:",
+    "accessories.group_filter.label": "Group filter widget:",
     "accessories.group_filter.toggle.disabled": [
         "",
         {
@@ -173,7 +173,7 @@
     "accessories.lines.toggle.enabled.tooltip": "Hide all Line Rendering",
     "accessories.lines.toggle.hide": "Hide All Lines",
     "accessories.lines.toggle.show": "Show All Lines",
-    "accessories.main_widget_position.label": "Widget Position:",
+    "accessories.main_widget_position.label": "Accessories widget position:",
     "accessories.main_widget_position.toggle.disabled": [
         "",
         {
@@ -218,7 +218,7 @@
         "Accessories Config if the given option is not \n",
         "to your liking."
     ],
-    "accessories.show_equipped_stack_slot_type.label": "Equipped Type:",
+    "accessories.show_equipped_stack_slot_type.label": "Show equipped Type:",
     "accessories.show_equipped_stack_slot_type.toggle.disabled": [
         "",
         {
@@ -323,7 +323,7 @@
         " Toggle"
     ],
     "accessories.side_by_side_slots.toggle.enabled.tooltip": "Switch to toggle between slots",
-    "accessories.side_widget_position.label": "Side Position:",
+    "accessories.side_widget_position.label": "Side widget position:",
     "accessories.side_widget_position.toggle.disabled": [
         "",
         {
@@ -395,7 +395,7 @@
     "accessories.tooltip.currently_equipped_in": "Equipped in:",
     "accessories.unique_slots.toggle.hide": "Hide Unique Slots",
     "accessories.unique_slots.toggle.show": "Show Unique Slots",
-    "accessories.unused_slots.label": "Unused Slots:",
+    "accessories.unused_slots.label": "Show unused slots:",
     "accessories.unused_slots.toggle.disabled": [
         "",
         {
@@ -432,7 +432,7 @@
     "accessories.unused_slots.toggle.enabled.tooltip": "Hide all Unused Slots",
     "accessories.unused_slots.toggle.hide": "Hide Unused Slots",
     "accessories.unused_slots.toggle.show": "Show Unused Slots",
-    "accessories.widget_type.label": "Widget Variant:",
+    "accessories.widget_type.label": "Accessory widget variant:",
     "accessories.widget_type.paginated": [
         "",
         {
@@ -449,7 +449,7 @@
         },
         " Paginated"
     ],
-    "accessories.widget_type.paginated.tooltip": "A Paginated Layout for Accessories Slots",
+    "accessories.widget_type.paginated.tooltip": "Uses Pages for navigating the Accessories Slots",
     "accessories.widget_type.scrollable": [
         "",
         {
@@ -466,7 +466,7 @@
         },
         " Scrollable"
     ],
-    "accessories.widget_type.scrollable.tooltip": "A Scrollable Layout for Accessories Slots",
+    "accessories.widget_type.scrollable.tooltip": "Uses Scrolling for navigating the Accessories Slots",
     "argument.livingEntities.nonLiving": "Only living entities may be affected by this command, but the provided selector includes non living entities",
     "gamerule.accessories.keepAccessoryInventory": "Keep Accessory Inventory",
     "text.config.accessories.category.clientOptions": "Client Options",

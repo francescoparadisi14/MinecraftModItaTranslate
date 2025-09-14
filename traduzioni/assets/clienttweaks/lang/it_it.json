@@ -1,4 +1,7 @@
 {
+    "chat.clienttweaks.disable_log_stripping.toggled": "Disabilita la rimozione dei log: %s",
+    "chat.clienttweaks.disable_step_assist.toggled": "Disabilita assistenza passo: %s",
+    "chat.clienttweaks.hide_offhand_item.toggled": "Nascondi oggetto in mano secondaria: %s",
     "chat.clienttweaks.lastMending": "fuori durata",
     "chat.clienttweaks.lastTorch": "Fini le torce",
     "chat.clienttweaks.off": "Disattivato",

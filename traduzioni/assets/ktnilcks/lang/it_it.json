@@ -5,6 +5,7 @@
     "config.ktnilcks.action.bypassaoffhand.long": "Quando abilitato, lo scambio di oggetti con la mano libera sempre bypassa le serrature.",
     "config.ktnilcks.action.bypassheld.long": "Quando abilitato, l'item tenuto nella inventario sempre bypassa le serrature.",
     "config.ktnilcks.action.bypassheld.short": "Auto-superamento di oggetti tenuti",
+    "config.ktnilcks.action.bypassoffhand.long": "Quando abilitato, lo scambio di oggetti con la mano libera sempre bypassa le serrature.",
     "config.ktnilcks.action.bypassoffhand.short": "Sostituisci automaticamente lo scambio di mano",
     "config.ktnilcks.base.config_title": "Configurazione itemlocks",
     "config.ktnilcks.base.modname": "ItemLocks",

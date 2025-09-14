@@ -1,7 +1,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
 
 ![](https://img.shields.io/badge/Ultimo%20Aggiornamento-14%2F09%2F2025-blue)
-![](https://img.shields.io/badge/Mod%20tradotte-2239-green)
+![](https://img.shields.io/badge/Mod%20tradotte-2245-green)
 ![](https://img.shields.io/badge/Quest%20tradotte-5-green)
 
 ## Progetto che utilizza l’intelligenza artificiale per **tradurre automaticamente in italiano** i contenuti testuali delle mod di Minecraft.
@@ -39,7 +39,7 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 |  |Mod | Ultimo<br/>aggiornamento | Numero<br/>Traduzioni |Download |
 | ---- | ---- | ---- | ---- | ---- |
 | <img src="https://media.forgecdn.net/avatars/1151/680/638719675384229378.png" loading="lazy" decoding="async" width="30" /> | [KeyBind Bundles](https://www.curseforge.com/minecraft/mc-mods/keybind-bundles "Web Site")  | 18/08/2025 | 26 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fkeybindbundles "Download") |
-| <img src="https://media.forgecdn.net/avatars/1076/343/638613884004070339.png" loading="lazy" decoding="async" width="30" /> | [KeybindsPurger](https://www.curseforge.com/minecraft/mc-mods/keybindspurger "Web Site")  | 07/08/2025 | 4 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fkeybindspurger "Download") |
+| <img src="https://media.forgecdn.net/avatars/1076/343/638613884004070339.png" loading="lazy" decoding="async" width="30" /> | [KeybindsPurger](https://www.curseforge.com/minecraft/mc-mods/keybindspurger "Web Site") ![](https://img.shields.io/badge/NEW-red) | 14/09/2025 | 4 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fkeybindspurger "Download") |
 | <img src="https://media.forgecdn.net/avatars/278/366/637273360776797079.png" loading="lazy" decoding="async" width="30" /> | [Kibe Utilities](https://www.curseforge.com/minecraft/mc-mods/kibe "Web Site")  | 07/08/2025 | 230 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fkibe "Download") |
 | <img src="https://media.forgecdn.net/avatars/470/512/637757521542557138.png" loading="lazy" decoding="async" width="30" /> | [Kitteh6660's MoreCraft](https://www.curseforge.com/minecraft/mc-mods/kitteh6660s-morecraft "Web Site")  | 08/09/2025 | 330 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fmorecraft "Download") |
 | <img src="https://media.forgecdn.net/avatars/775/790/638117430215424259.png" loading="lazy" decoding="async" width="30" /> | [Kiwi 🥝 (Neo/Forge)](https://www.curseforge.com/minecraft/mc-mods/kiwi "Web Site")  | 25/08/2025 | 73 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fkiwi "Download") |

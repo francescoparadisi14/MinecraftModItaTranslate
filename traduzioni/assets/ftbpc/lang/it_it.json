@@ -1,5 +1,12 @@
 {
     "ftbpackcompanion.pause.mods": "Moduli (%s)",
+    "ftbpackcompanion.shaders_notice.no_shaders.description": "I moduli shader sono stati inclusi nel pacchetto, ma sono disabilitati di default. Vuoi abilitarli? I shader possono essere intensivi in termini di prestazioni, causare problemi con alcuni mod e non essere compatibili con il tuo hardware.",
+    "ftbpackcompanion.shaders_notice.no_shaders.title": "Nessun shader",
+    "ftbpackcompanion.shaders_notice.shaders.description": "Se desideri shader, puoi abilitarli qui per esperimentare il pacchetto con un aspetto vivido e coinvolgente. Se incontri problemi, puoi sempre disabilitarli più tardi nei parametri di riproduzione del video.",
+    "ftbpackcompanion.shaders_notice.shaders.title": "Shaders",
+    "ftbpackcompanion.shaders_notice.shaders_btn.disable": "Disabilita shader",
+    "ftbpackcompanion.shaders_notice.shaders_btn.enable": "Abilita shader",
+    "ftbpackcompanion.shaders_notice.title": "Vorresti utilizzare shader?",
     "ftbpackcompanion.tooltip.support_discord": "Hai bisogno di aiuto? Unisciti al nostro server Discord!",
     "ftbpackcompanion.tooltip.support_github": "Ha trovato un bug? Segnalarlo su GitHub!"
 }

@@ -1,4 +1,10 @@
 {
+    "advancement.progressivebosses.max_lvl_dragon.description": "Kill the strongest Dragon",
+    "advancement.progressivebosses.max_lvl_dragon.title": "Corrupted Dragon",
+    "advancement.progressivebosses.max_lvl_wither.description": "Kill the strongest Wither",
+    "advancement.progressivebosses.max_lvl_wither.title": "Ultimate Wither",
+    "advancement.progressivebosses.wither_death.description": "Kill a Wither and flee before it explodes",
+    "advancement.progressivebosses.wither_death.title": "It's gonna exploooode",
     "block.progressivebosses.corrupted_soul_sand": "Corrupted Soul Sand",
     "death.attack.progressivebosses:dragon_fireball": "%1$s was acidballed by %2$s",
     "death.attack.progressivebosses:wither_charge": "%1$s was charged by %2$s",

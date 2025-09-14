@@ -34,7 +34,8 @@
     "crabbersdelight.advancement.root.desc": "A seafood adventure awaits you!",
     "crabbersdelight.advancement.squid_killer": "Deep Sea Slayer",
     "crabbersdelight.advancement.squid_killer.desc": "Use a Knife to retrieve Squid Tentacles from a Squid",
-    "crabbersdelight.block.crab_trap.not_waterlogged": "Crab Trap must be in Water",
+    "crabbersdelight.block.crab_trap.insufficient_surrounding_water": "Crab trap needs a 3x3 of water surrounding it to function!",
+    "crabbersdelight.block.crab_trap.not_waterlogged": "Crab trap must be in water to function!",
     "crabbersdelight.jei.crab_trap_loot": "Crab Trap",
     "entity.crabbersdelight.crab": "Crab",
     "item.crabbersdelight.arid_flesh": "Arid Flesh",
@@ -72,6 +73,7 @@
     "item.crabbersdelight.jar_of_pickles": "Jar of Pickles",
     "item.crabbersdelight.kelp_shake": "Kelp Shake",
     "item.crabbersdelight.pearl": "Pearl",
+    "item.crabbersdelight.pearl_necklace": "Pearl Necklace",
     "item.crabbersdelight.pufferfish_slice": "Raw Pufferfish Slice",
     "item.crabbersdelight.raw_clam_meat": "Raw Clam Meat",
     "item.crabbersdelight.raw_frog_leg": "Raw Frog Leg",
@@ -107,5 +109,6 @@
     "tag.item.crabbersdelight.jei_display_results.minecraft.salmon": "Salmon Bait",
     "tag.item.crabbersdelight.jei_display_results.minecraft.tropical_fish": "Tropical Fish Bait",
     "tag.item.crabbersdelight.raw_seafood": "Raw Seafood",
-    "tag.item.crabbersdelight.raw_squid": "Raw Squid"
+    "tag.item.crabbersdelight.raw_squid": "Raw Squid",
+    "trim_material.crabbersdelight.pearl": "Pearl Material"
 }
