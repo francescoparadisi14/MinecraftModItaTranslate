@@ -1,0 +1,13 @@
+{
+    "entity.droppedbuffs.absorption_buff": "Absorption Buff",
+    "entity.droppedbuffs.buff": "Buff",
+    "entity.droppedbuffs.haste_buff": "Haste Buff",
+    "entity.droppedbuffs.heal_buff": "Heal Buff",
+    "entity.droppedbuffs.invisibility_buff": "Invisibility Buff",
+    "entity.droppedbuffs.luck_buff": "Luck Buff",
+    "entity.droppedbuffs.meat_buff": "Meat Buff",
+    "entity.droppedbuffs.resistance_buff": "Resistance Buff",
+    "entity.droppedbuffs.speed_buff": "Speed Buff",
+    "entity.droppedbuffs.strength_buff": "Strength Buff",
+    "entity.droppedbuffs.water_breathing_buff": "Water Breathing Buff"
+}

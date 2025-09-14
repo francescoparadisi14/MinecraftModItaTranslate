@@ -1,0 +1,20 @@
+{
+    "block.buildcraft.combustion_engine": "Combustion Engine",
+    "block.buildcraft.crate": "Crate",
+    "block.buildcraft.oil_fluid": "Oil",
+    "block.buildcraft.redstone_engine": "Redstone Engine",
+    "block.buildcraft.stirling_engine": "Stirling Engine",
+    "block.buildcraft.tank": "Tank",
+    "fluid_type.buildcraft.oil": "Oil",
+    "item.buildcraft.diamond_gear": "Diamond Gear",
+    "item.buildcraft.gold_gear": "Gold Gear",
+    "item.buildcraft.iron_gear": "Iron Gear",
+    "item.buildcraft.oil_bucket": "Oil Bucket",
+    "item.buildcraft.stone_gear": "Stone Gear",
+    "item.buildcraft.wooden_gear": "Wooden Gear",
+    "item.buildcraft.wrench": "Wrench",
+    "itemGroup.buildcraft.bc_tab": "Buildcraft",
+    "redstone_signal_type.buildcraft.high_signal": "High Signal",
+    "redstone_signal_type.buildcraft.ignored": "Ignored",
+    "redstone_signal_type.buildcraft.low_signal": "Low Signal"
+}

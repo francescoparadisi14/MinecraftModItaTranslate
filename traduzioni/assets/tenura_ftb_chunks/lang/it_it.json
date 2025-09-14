@@ -1,0 +1,22 @@
+{
+    "ftbteamsconfig.tensura_ftb": "Blocchi tensura FTB",
+    "ftbteamsconfig.tensura_ftb.energy_drain": "Drainaggio di energia del giocatore",
+    "ftbteamsconfig.tensura_ftb.energy_drain.tooltip": "Questo protegge la pretesa del team dalle perdite di energia dei giocatori\nPrivato: solo le abilità dei membri del team possono causare perdite di energia\nAlleati: solo gli alleati e i membri del team possono causare perdite di energia\nPubblico: qualsiasi persona",
+    "ftbteamsconfig.tensura_ftb.force_teleport": "Forza teletrasporto del giocatore",
+    "ftbteamsconfig.tensura_ftb.force_teleport.tooltip": "Questo protegge la pretesa del team dai teletrasporti forzati dei giocatori\nPrivato: solo le abilità dei membri del team possono eseguire teletrasporti forzati\nAlleati: solo gli alleati e i membri del team possono eseguire teletrasporti forzati.\nPubblico: chiunque",
+    "ftbteamsconfig.tensura_ftb.possession": "Possesso del giocatore",
+    "ftbteamsconfig.tensura_ftb.possession.tooltip": "Questo protegge la pretesa del team dalle pretese dei giocatori\nprivato: solo le abilità dei membri del team possono possedere\namici: solo gli alleati e le abilità dei membri del team possono possedere\npubblico: chiunque",
+    "ftbteamsconfig.tensura_ftb.skill_damage": "Danni d'abilità del giocatore",
+    "ftbteamsconfig.tensura_ftb.skill_damage.tooltip": "Questo protegge la pretesa del team dai danni causati dalle entità o giocatori di altri giocatori; privato: solo le abilità dei membri del team possono utilizzare le abilità per infliggere danni; alleati: solo gli alleati e i membri del team possono utilizzare le abilità. Pubblico: qualsiasi persona",
+    "ftbteamsconfig.tensura_ftb.skill_grief": "Distruzione abilità giocatore",
+    "ftbteamsconfig.tensura_ftb.skill_grief.tooltip": "Questo protegge solo la pretesa del team dalle azioni di devastazione causate dalle abilità del giocatore. Per proteggere dalla devastazione causata dai mostri, utilizzare l'opzione \"Consenti azioni di devastazione dei mostri\".\nPrivato: le abilità dei membri del team possono devastare la pretesa, a meno che non sia attivata la protezione dalle abilità di devastazione del team.\nAlleati: solo gli alleati e i membri del team possono devastare.\nPubblico: qualsiasi giocatore può devastare.",
+    "ftbteamsconfig.tensura_ftb.skill_plunder": "Rapina abilità giocatore",
+    "ftbteamsconfig.tensura_ftb.skill_plunder.tooltip": "Questo protegge la pretesa del team dalle ruberie di abilità dei giocatori\nPrivato: solo le abilità dei membri del team possono rubare abilità\nAlleati: solo gli alleati e i membri del team possono rubare abilità.\nPubblico: tutti possono rubare abilità",
+    "ftbteamsconfig.tensura_ftb.spirit_hurt": "Il dolore spirituale del giocatore",
+    "ftbteamsconfig.tensura_ftb.spirit_hurt.tooltip": "Questo protegge la pretesa del team dai danni spirituali dei giocatori\nPrivato: solo le abilità dei membri del team possono causare danni spirituali\nAlleati: solo gli alleati e i membri del team possono causare danni spirituali.\nPubblico: qualsiasi persona",
+    "ftbteamsconfig.tensura_ftb.team_protection": "Protezione dalle distruzioni dei membri del team per abilità",
+    "ftbteamsconfig.tensura_ftb.team_protection.tooltip": "Protegge la tua affermazione di squadra dalle tue stesse abilità della squadra che rompono o spostano blocchi.",
+    "ftbteamsconfig.tensura_teams": "Squadre FTB Tensura",
+    "ftbteamsconfig.tensura_teams.teamate_damage_protection": "Protezione dai danni da squadra",
+    "ftbteamsconfig.tensura_teams.teamate_damage_protection.tooltip": "Impedisce ai giocatori di danneggiarsi reciprocamente e ai mob domesticati posseduti da un giocatore del team con abilità."
+}

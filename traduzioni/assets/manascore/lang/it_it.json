@@ -1,0 +1,14 @@
+{
+    "manascore.attribute.crit_chance.name": "Tasso di critico %",
+    "manascore.attribute.crit_multiplier.name": "Multiplatore di moltiplicazione critico aggiuntivo",
+    "manascore.attribute.flying_speed.name": "Multiplatore di velocità di volo",
+    "manascore.attribute.jump_power.name": "Potenza di salto",
+    "manascore.attribute.mining_speed.name": "Multiplatore di velocità estrazione",
+    "manascore.attribute.sprinting_speed.name": "Multiplatore di velocità in corsa",
+    "manascore.attribute.sweep_chance.name": "Caso di raccolta",
+    "manascore.category.test": "Categoria di binding del punteggio mana per il test",
+    "manascore.keybinding.skill": "Impostazione tastiera abilità con attivazione e rilascio",
+    "manascore.keybinding.skill_toggle": "Impostazione tastiera per toggling abilità (test)",
+    "manascore.keybinding.test": "Impostazione di tastiera di test (rilascio)",
+    "manascore.keybinding.test_press": "Impostazione di tastiera di testo (tic)"
+}

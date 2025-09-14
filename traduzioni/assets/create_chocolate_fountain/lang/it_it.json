@@ -1,0 +1,10 @@
+{
+    "block.create_chocolate_fountain.chocolate_fountain": "Fontana di cioccolato",
+    "create_chocolate_fountain.ponder.chocolate_fountain.header": "Impostazione fontane di cioccolato",
+    "create_chocolate_fountain.ponder.chocolate_fountain.text_1": "I fontane di cioccolato possono essere rifornite di cioccolato dal basso.",
+    "create_chocolate_fountain.ponder.chocolate_fountain.text_2": "I fontane di cioccolato possono essere disattivate da un segnale di redstone.",
+    "create_chocolate_fountain.ponder.chocolate_fountain_range.header": "Usando fontane di cioccolato",
+    "create_chocolate_fountain.ponder.chocolate_fountain_range.text_1": "Di default, le fontane di cioccolato hanno un raggio di 10 blocchi.",
+    "create_chocolate_fountain.ponder.chocolate_fountain_range.text_2": "I giocatori all'interno di questo raggio vengono alimentati automaticamente con cioccolato.",
+    "itemGroup.create_chocolate_fountain.base": "Creare fontana di cioccolato"
+}

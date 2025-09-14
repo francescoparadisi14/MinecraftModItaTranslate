@@ -1,0 +1,20 @@
+{
+    "block.buildcraft.combustion_engine": "Motore di combustione",
+    "block.buildcraft.crate": "Cassetto",
+    "block.buildcraft.oil_fluid": "Olio",
+    "block.buildcraft.redstone_engine": "Motore a raddrizzamento di redstone",
+    "block.buildcraft.stirling_engine": "Motore Stirling",
+    "block.buildcraft.tank": "TANK",
+    "fluid_type.buildcraft.oil": "Olio",
+    "item.buildcraft.diamond_gear": "Freno di diamante",
+    "item.buildcraft.gold_gear": "Ingranaggio d'oro",
+    "item.buildcraft.iron_gear": "Pompa di ferro",
+    "item.buildcraft.oil_bucket": "Bicchieri di olio",
+    "item.buildcraft.stone_gear": "Ingranaggio di pietra",
+    "item.buildcraft.wooden_gear": "Assia in legno",
+    "item.buildcraft.wrench": "Chiave inglese",
+    "itemGroup.buildcraft.bc_tab": "Pannello BuildCraft",
+    "redstone_signal_type.buildcraft.high_signal": "Segnale alto",
+    "redstone_signal_type.buildcraft.ignored": "Ignorato",
+    "redstone_signal_type.buildcraft.low_signal": "Segnale basso"
+}

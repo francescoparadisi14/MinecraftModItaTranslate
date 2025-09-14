@@ -122,6 +122,8 @@
     "event.minecraft.raid.defeat.full": " Raid - Defeat",
     "event.minecraft.raid.victory.full": " Raid - Victory",
     "inventory.binSlot": "§4Destroy Item",
+    "item.minecraft.arrow": "Flint Arrow",
+    "item.minecraft.bow": "Old Bow",
     "item.minecraft.enchanted_golden_apple": "Unalloyed Gold Apple",
     "item.minecraft.lingering_potion.effect.dnt_blindness": "Lingering Potion of Blindness",
     "item.minecraft.lingering_potion.effect.dnt_levitation": "Lingering Potion of Levitation",

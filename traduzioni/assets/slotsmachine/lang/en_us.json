@@ -1,0 +1,23 @@
+{
+    "block.slotsmachine.player_shop": "Player Shop",
+    "block.slotsmachine.player_shop_desc": "To setup this shop, you will have to place it on top of a chest. After Shift+Right Clicking the shop, you can add item and amount to sell in top slot and the price and amount in bottom slot. Make sure the chest is stocked with items you are selling.",
+    "block.slotsmachine.slot_machine": "Slot Machine",
+    "block.slotsmachine.slot_machine_desc": "Right click to play the slot machine!\nShift+Right Click to open owner GUI.\nShift+Left Click to pick up the machine.",
+    "creativetab.slots_machine": "Slots Machine",
+    "item.slotsmachine.coin_pouch": "Coin Pouch",
+    "item.slotsmachine.coin_pouch_desc": "This simply stores your coins.\nRight click to open the coin pouch.",
+    "item.slotsmachine.copper_coin": "Copper Coin",
+    "item.slotsmachine.gold_coin": "Gold Coin",
+    "item.slotsmachine.iron_coin": "Iron Coin",
+    "item.slotsmachine.netherite_coin": "Netherite Coin",
+    "slots.gui.spin": "Spin!",
+    "slots.gui.stop": "Stop",
+    "text.slotsmachine.shop.admin_shop_toggled": "Toggled this shop as an admin shop.",
+    "text.slotsmachine.shop.how_to_buy": "Hold the correct item in your hand and right click the shop to buy.",
+    "text.slotsmachine.shop.incorrect_item": "You are clicking with the wrong item in your main hand.",
+    "text.slotsmachine.shop.invalid_amount": "You don't have enough in hand to buy this item.",
+    "text.slotsmachine.shop.out_of_order": "Something is wrong with this shop, please reach out to the shop owner.",
+    "text.slotsmachine.shop.out_of_stock": "This shop is out of stock, please come back later.",
+    "text.slotsmachine.shop.setup_incorrect": "Shop setup is incorrect. Contact the shop owner to resolve the issue.",
+    "text.slotsmachine.shop.successfully_bought": "Successfully bought %s"
+}

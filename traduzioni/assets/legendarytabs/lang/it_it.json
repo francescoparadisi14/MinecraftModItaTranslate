@@ -1,0 +1,15 @@
+{
+    "tooltip.legendarytabs.tab.backpack.description": "Borsa",
+    "tooltip.legendarytabs.tab.body_damage.description": "Salute del corpo",
+    "tooltip.legendarytabs.tab.diet.description": "Regime alimentare",
+    "tooltip.legendarytabs.tab.ftb_quests.description": "Cercate avventure",
+    "tooltip.legendarytabs.tab.ftb_teams.description": "Squadre",
+    "tooltip.legendarytabs.tab.inventory.description": "Inventario",
+    "tooltip.legendarytabs.tab.journey_map.description": "Mappa del viaggio",
+    "tooltip.legendarytabs.tab.map_atlases.description": "Mappa",
+    "tooltip.legendarytabs.tab.passive_skill_tree.description": "Albero delle abilità",
+    "tooltip.legendarytabs.tab.pufferfish_skills.description": "Arboreto delle abilità",
+    "tooltip.legendarytabs.tab.reskillable.description": "Abilità",
+    "tooltip.legendarytabs.tab.reskillable_reimagined.description": "Abilità",
+    "tooltip.legendarytabs.tab.xaeros_map.description": "Mappa"
+}

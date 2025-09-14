@@ -1,0 +1,8 @@
+{
+    "multiblock.info.actual_block": "Blocco reale: %s",
+    "multiblock.info.block_pos": "Coordinate: %d, %d, %d",
+    "multiblock.info.expected_block": "Blocco previsto: %s",
+    "multiblock.info.failed_to_construct": "Non è stato possibile costruire",
+    "pdl.tooltip.liquid.amount": "%d megabyte",
+    "pdl.tooltip.liquid.amount_with_capacity": "%d\/mB (con capacità)"
+}

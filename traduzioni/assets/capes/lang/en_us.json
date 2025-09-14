@@ -1,0 +1,12 @@
+{
+    "modmenu.descriptionTranslation.capes": "A mod that lets you use capes from Optifine, LabyMod, Cosmetica, Wynntils, Capes++, and the MinecraftCapes Mod.",
+    "options.capes.capetype": "Cape Type: %s",
+    "options.capes.elytra": "Cape Texture on Elytra",
+    "options.capes.optifineeditor": "OptiFine Cape Editor",
+    "options.capes.other": "Other",
+    "options.capes.selector": "Cape Selector",
+    "options.capes.selector.elytra": "Toggle Elytra",
+    "options.capes.selector.player": "Toggle Player",
+    "options.capes.title": "Cape Options",
+    "options.capes.toggle": "Toggle"
+}

@@ -126,6 +126,8 @@
     "event.minecraft.raid.defeat.full": " Incursione - Sconfitta",
     "event.minecraft.raid.victory.full": " Incursione - Vittoria",
     "inventory.binSlot": "Elimina oggetto",
+    "item.minecraft.arrow": "Freccia di piombo",
+    "item.minecraft.bow": "Arco vecchio",
     "item.minecraft.enchanted_golden_apple": "Mela d'oro non lavorata",
     "item.minecraft.glow_ink_sac": "Sacchetto di inchiostro luminoso",
     "item.minecraft.lingering_potion.effect.dnt_blindness": "Pozione persistente di cecità",

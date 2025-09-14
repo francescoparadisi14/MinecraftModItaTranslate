@@ -1,0 +1,16 @@
+{
+    "entity.tensura_neb.carrion": "Carrione",
+    "entity.tensura_neb.luminous_valentine": "Valentino luminoso",
+    "entity.tensura_neb.rimuru_ogre_fight": "Rimuru",
+    "item.tensura_neb.carrion_spawn_egg": "Uovo di spawn dei cadaveri",
+    "item.tensura_neb.luminous_valentine_spawn_egg": "Uova di spawn luminosa del giorno dei sogni d'amore",
+    "item.tensura_neb.night_rose": "Fiore della notte",
+    "item.tensura_neb.rimuru_ogre_fight_spawn_egg": "Uova di spawn di Rimuru Ogre",
+    "item.tensura_neb.white_tiger_azure_dragon_halberd": "Spicchio del tigre bianco-drago azzurro",
+    "tensura_neb.advancements.lion_king.description": "Sconfiggi il carcassone.",
+    "tensura_neb.advancements.lion_king.title": "Il re leone",
+    "tensura_neb.advancements.monster_ruler.description": "Sconfiggi Rimuru.",
+    "tensura_neb.advancements.monster_ruler.title": "Il signore dei mostri",
+    "tensura_neb.advancements.queen_of_nightmares.description": "Sconfiggi Valentine luminoso.",
+    "tensura_neb.advancements.queen_of_nightmares.title": "la regina dei incubi"
+}

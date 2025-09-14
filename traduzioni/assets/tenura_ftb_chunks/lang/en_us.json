@@ -1,0 +1,22 @@
+{
+    "ftbteamsconfig.tensura_ftb": "Tensura FTB Chunks",
+    "ftbteamsconfig.tensura_ftb.energy_drain": "Player Energy Drain",
+    "ftbteamsconfig.tensura_ftb.energy_drain.tooltip": "This protects Team's claim from Players' Energy Drain\nPrivate: Only Team Member's skills can Energy Drain\nAllies: Only allies and team members' skills.\nPublic: Anyone",
+    "ftbteamsconfig.tensura_ftb.force_teleport": "Player Force Teleport",
+    "ftbteamsconfig.tensura_ftb.force_teleport.tooltip": "This protects Team's claim from Players' Force Teleports\nPrivate: Only Team Member's skills can force teleport\nAllies: Only allies and team members' skills.\nPublic: Anyone",
+    "ftbteamsconfig.tensura_ftb.possession": "Player Possession",
+    "ftbteamsconfig.tensura_ftb.possession.tooltip": "This protects Team's claim from Players' Possession\nPrivate: Only Team Member's skills can Possess\nAllies: Only allies and team members' skills.\nPublic: Anyone",
+    "ftbteamsconfig.tensura_ftb.skill_damage": "Player Skill Damage",
+    "ftbteamsconfig.tensura_ftb.skill_damage.tooltip": "This protects Team's claim from Players' Skill Damaging entities or players\nPrivate: Only Team Member's skills can use skills to deal damage\nAllies: Only allies and team members' skills.\nPublic: Anyone",
+    "ftbteamsconfig.tensura_ftb.skill_grief": "Player Skill Grief",
+    "ftbteamsconfig.tensura_ftb.skill_grief.tooltip": "This only protects Team's claim from Player's Skill griefing. For Mobs, use Allow Mob Griefing Actions \nPrivate: Only Team Member's skills can grief claim, unless Team Skill Griefing Protection is on.\nAllies: Only allies and team members' skills can grief.\nPublic: Anyone can grief",
+    "ftbteamsconfig.tensura_ftb.skill_plunder": "Player Skill Plunder",
+    "ftbteamsconfig.tensura_ftb.skill_plunder.tooltip": "This protects Team's claim from Players' Skill Plunder\nPrivate: Only Team Member's skills can Skill Plunder\nAllies: Only allies and team members' skills.\nPublic: Anyone",
+    "ftbteamsconfig.tensura_ftb.spirit_hurt": "Player Spiritual Hurt",
+    "ftbteamsconfig.tensura_ftb.spirit_hurt.tooltip": "This protects Team's claim from Players' Spiritual Hurt\nPrivate: Only Team Member's skills can Spiritual Hurt\nAllies: Only allies and team members' skills.\nPublic: Anyone",
+    "ftbteamsconfig.tensura_ftb.team_protection": "Team Skill Griefing Protection",
+    "ftbteamsconfig.tensura_ftb.team_protection.tooltip": "Protects your team's claim from your own team's skills that break\/move blocks",
+    "ftbteamsconfig.tensura_teams": "Tensura FTB Teams",
+    "ftbteamsconfig.tensura_teams.teamate_damage_protection": "Teammate Damage Protection",
+    "ftbteamsconfig.tensura_teams.teamate_damage_protection.tooltip": "Prevents Players from damaging each other and tamed mobs that are owned by a player in the team with skills"
+}

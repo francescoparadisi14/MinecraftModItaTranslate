@@ -1,0 +1,10 @@
+{
+    "block.create_chocolate_fountain.chocolate_fountain": "Chocolate Fountain",
+    "create_chocolate_fountain.ponder.chocolate_fountain.header": "Setting up Chocolate Fountains",
+    "create_chocolate_fountain.ponder.chocolate_fountain.text_1": "Chocolate Fountains can be supplied with chocolate from the bottom",
+    "create_chocolate_fountain.ponder.chocolate_fountain.text_2": "Chocolate Fountains can be turned off by a redstone signal",
+    "create_chocolate_fountain.ponder.chocolate_fountain_range.header": "Using Chocolate Fountains",
+    "create_chocolate_fountain.ponder.chocolate_fountain_range.text_1": "By default Chocolate Fountains have a range of 10 Blocks",
+    "create_chocolate_fountain.ponder.chocolate_fountain_range.text_2": "Within this range Players get auto-fed with chocolate",
+    "itemGroup.create_chocolate_fountain.base": "Create Chocolate Fountain"
+}

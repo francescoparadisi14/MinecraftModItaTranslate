@@ -1,0 +1,12 @@
+{
+    "attribute.name.betterparagliders.base_melee_stamina_reduction": "Riduzione di resistenza alla fatica in combattimento base",
+    "attribute.name.betterparagliders.block_stamina_reduction": "Riduzione di resistenza al blocco",
+    "attribute.name.betterparagliders.idle_stamina_regen": "Ripresa di resistenza durante l'inerzia",
+    "attribute.name.betterparagliders.one_handed_stamina_reduction": "Riduzione di resistenza alla fatica con una mano",
+    "attribute.name.betterparagliders.range_stamina_reduction": "Riduzione della resistenza allo sforzo a distanza",
+    "attribute.name.betterparagliders.sprinting_stamina_reduction": "Riduzione della resistenza allo sprint",
+    "attribute.name.betterparagliders.submerged_stamina_regen": "Ricreazione della resistenza idlica in immersione",
+    "attribute.name.betterparagliders.swimming_stamina_reduction": "Riduzione della resistenza al nuoto",
+    "attribute.name.betterparagliders.two_handed_stamina_reduction": "Riduzione di resistenza alla fatica con entrambe le mani",
+    "attribute.name.betterparagliders.water_breathing_stamina_regen": "Ripresa dell'energia del respiro sottomarino"
+}

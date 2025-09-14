@@ -1,0 +1,11 @@
+{
+    "command.okzoomer.client.config_present": "La configurazione è stata reimpostata sul preset %s!",
+    "key.okzoomer.category": "Zoom",
+    "key.okzoomer.decrease_zoom": "Riduci zoom",
+    "key.okzoomer.increase_zoom": "Aumenta zoom",
+    "key.okzoomer.reset_zoom": "Ripristina zoom",
+    "key.okzoomer.zoom": "Zoom",
+    "toast.okzoomer.acknowledge_mod": "Il modulo è consentito da questo server",
+    "toast.okzoomer.acknowledge_mod_restrictions": "Questo server limita i modelli",
+    "toast.okzoomer.title": "Ok Zoomer"
+}

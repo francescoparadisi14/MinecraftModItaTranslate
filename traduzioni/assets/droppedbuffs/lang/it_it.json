@@ -1,0 +1,13 @@
+{
+    "entity.droppedbuffs.absorption_buff": "Buff di assorbimento",
+    "entity.droppedbuffs.buff": "Buff",
+    "entity.droppedbuffs.haste_buff": "Buff di velocità",
+    "entity.droppedbuffs.heal_buff": "Buff di guarigione",
+    "entity.droppedbuffs.invisibility_buff": "Buff di invisibilità",
+    "entity.droppedbuffs.luck_buff": "Buff di fortuna",
+    "entity.droppedbuffs.meat_buff": "Buff carne",
+    "entity.droppedbuffs.resistance_buff": "Buff di resistenza",
+    "entity.droppedbuffs.speed_buff": "Buff di velocità",
+    "entity.droppedbuffs.strength_buff": "Buff di forza",
+    "entity.droppedbuffs.water_breathing_buff": "Buff dell'equilibrio acquatico"
+}

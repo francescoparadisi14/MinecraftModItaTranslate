@@ -1,0 +1,16 @@
+{
+    "entity.tensura_neb.carrion": "Carrion",
+    "entity.tensura_neb.luminous_valentine": "Luminous Valentine",
+    "entity.tensura_neb.rimuru_ogre_fight": "Rimuru",
+    "item.tensura_neb.carrion_spawn_egg": "Carrion Spawn Egg",
+    "item.tensura_neb.luminous_valentine_spawn_egg": "Luminous Valentine Spawn Egg",
+    "item.tensura_neb.night_rose": "Night Rose",
+    "item.tensura_neb.rimuru_ogre_fight_spawn_egg": "Rimuru Spawn Egg",
+    "item.tensura_neb.white_tiger_azure_dragon_halberd": "White Tiger-Azure Dragon Halberd",
+    "tensura_neb.advancements.lion_king.description": "Defeat Carrion.",
+    "tensura_neb.advancements.lion_king.title": "The Lion King",
+    "tensura_neb.advancements.monster_ruler.description": "Defeat Rimuru.",
+    "tensura_neb.advancements.monster_ruler.title": "The Monster Ruler",
+    "tensura_neb.advancements.queen_of_nightmares.description": "Defeat Luminous Valentine.",
+    "tensura_neb.advancements.queen_of_nightmares.title": "The Queen of Nightmares"
+}

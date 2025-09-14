@@ -108,6 +108,8 @@
     "key.cgm.reload": "Ricarica",
     "key.cgm.unload": "Scarica",
     "minecraft.crosshair.default": "Standard",
+    "pack.cgm.pbr.desc": "Testi pbr per armi cgm",
+    "pack.cgm.pbr.title": "Testi cgm pbr",
     "perk.cgm.additional_damage.negative": "Danno negativo §r(§l-%s ♥§r)",
     "perk.cgm.additional_damage.positive": "Danno aggiuntivo §r(§l+%s ♥§r)",
     "perk.cgm.ads_speed.negative": "Velocità ADS ridotta",

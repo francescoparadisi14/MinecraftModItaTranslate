@@ -1,0 +1,15 @@
+{
+    "tooltip.legendarytabs.tab.backpack.description": "Backpack",
+    "tooltip.legendarytabs.tab.body_damage.description": "Body Health",
+    "tooltip.legendarytabs.tab.diet.description": "Diet",
+    "tooltip.legendarytabs.tab.ftb_quests.description": "Quests",
+    "tooltip.legendarytabs.tab.ftb_teams.description": "Teams",
+    "tooltip.legendarytabs.tab.inventory.description": "Inventory",
+    "tooltip.legendarytabs.tab.journey_map.description": "Map",
+    "tooltip.legendarytabs.tab.map_atlases.description": "Map",
+    "tooltip.legendarytabs.tab.passive_skill_tree.description": "Skill Tree",
+    "tooltip.legendarytabs.tab.pufferfish_skills.description": "Skill Tree",
+    "tooltip.legendarytabs.tab.reskillable.description": "Skills",
+    "tooltip.legendarytabs.tab.reskillable_reimagined.description": "Skills",
+    "tooltip.legendarytabs.tab.xaeros_map.description": "Map"
+}

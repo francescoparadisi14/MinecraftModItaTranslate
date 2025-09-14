@@ -1,0 +1,7 @@
+{
+    "category.beacon_base_blocks": "Blocchi di base per beacons",
+    "category.beacon_payments": "Pagamenti Beacon",
+    "category.conduit_frame_blocks": "Blocchi di cornice del condotto",
+    "jei.just_enough_beacons.base_blocks.tooltip": "Incrementa l'amplificatore degli effetti primari a %s quando utilizzato per costruire il faro.",
+    "jei.just_enough_beacons.payment_item.tooltip": "Estende la portata del faro di %s blocchi quando utilizzato per attivare il faro."
+}

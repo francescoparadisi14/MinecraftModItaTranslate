@@ -1,0 +1,8 @@
+{
+    "block.cmparallelpipes.locked_copycat_fluid_pipe": "Tubo di fluido copia chiuso",
+    "block.cmparallelpipes.locked_fluid_pipe": "Tubo di fluido chiuso",
+    "cmparallelpipes.ponder.locked_pipe.header": "Pompe di fluido bloccate",
+    "cmparallelpipes.ponder.locked_pipe.text_1": "I tubi di fluido sempre si connetteranno ad altri tubi di fluido.",
+    "cmparallelpipes.ponder.locked_pipe.text_2": "qualsiasi blocco di impalcatura può essere utilizzato per bloccare lo stato di connettività del tubo, simile a tubo incapsulato",
+    "cmparallelpipes.ponder.locked_pipe.text_3": "Il tubo di fluido può essere sbloccato nuovamente con un chiave inglese."
+}

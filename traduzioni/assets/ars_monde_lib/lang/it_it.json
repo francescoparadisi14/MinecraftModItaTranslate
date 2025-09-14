@@ -1,0 +1,11 @@
+{
+    "block.ars_monde_lib.amethyst_leaves": "Foglie di legno arco risuonante",
+    "block.ars_monde_lib.amethyst_log": "Tavoletta di legno arcuato risuonante",
+    "block.ars_monde_lib.amethyst_planks": "Tavolette di legno armonizzato dell'archimonte",
+    "block.ars_monde_lib.amethyst_sapling": "Sapling di legno arco risuonante",
+    "block.ars_monde_lib.amethyst_vines": "Viti di sorbillo",
+    "block.ars_monde_lib.gilded_amethyst_blackstone": "Pietra di ametista dorata nera",
+    "block.ars_monde_lib.gilded_amethyst_smooth_basalt": "Pietra di basalto liscia decorata con ametista gialla",
+    "block.ars_monde_lib.stripped_amethyst_log": "Tavoletta di legno arcuato risonante priva di gemma ametista",
+    "itemGroup.ars_monde_lib": "Ars Monde Lib"
+}

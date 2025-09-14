@@ -108,6 +108,8 @@
     "key.cgm.reload": "Reload",
     "key.cgm.unload": "Unload",
     "minecraft.crosshair.default": "Default",
+    "pack.cgm.pbr.desc": "PBR Textures for CGM Guns",
+    "pack.cgm.pbr.title": "CGM PBR Textures",
     "perk.cgm.additional_damage.negative": "Negative Damage §r(§l-%s ♥§r)",
     "perk.cgm.additional_damage.positive": "Additional Damage §r(§l+%s ♥§r)",
     "perk.cgm.ads_speed.negative": "Reduced ADS Speed",

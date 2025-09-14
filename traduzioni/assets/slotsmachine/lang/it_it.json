@@ -1,0 +1,23 @@
+{
+    "block.slotsmachine.player_shop": "Negozio del giocatore",
+    "block.slotsmachine.player_shop_desc": "Per configurare questo negozio, dovrai posizionarlo sopra un cassetto. Dopo aver premuto Shift+Destra clic sul negozio, puoi aggiungere gli articoli e la quantità da vendere nel slot superiore e il prezzo e la quantità nel slot inferiore. Assicurati che il cassetto sia rifornito di articoli da vendere.",
+    "block.slotsmachine.slot_machine": "Macchina a slot",
+    "block.slotsmachine.slot_machine_desc": "Clicca destro per giocare alla macchina da gioco!\nShift+clicca destro per aprire la GUI del proprietario.\nShift+clicca sinistro per raccogliere la macchina.",
+    "creativetab.slots_machine": "Macchina slot",
+    "item.slotsmachine.coin_pouch": "Borsa di monete",
+    "item.slotsmachine.coin_pouch_desc": "Questo semplicemente conserva le tue monete. Fai clic destro per aprire la borsa delle monete.",
+    "item.slotsmachine.copper_coin": "Moneta di rame",
+    "item.slotsmachine.gold_coin": "Moneta d'oro",
+    "item.slotsmachine.iron_coin": "Moneta di ferro",
+    "item.slotsmachine.netherite_coin": "Moneta di Netherite",
+    "slots.gui.spin": "Spin!",
+    "slots.gui.stop": "Fermare",
+    "text.slotsmachine.shop.admin_shop_toggled": "Abilitato questo negozio come negozio amministratore.",
+    "text.slotsmachine.shop.how_to_buy": "Tenere l'oggetto corretto nella mano e fare clic destro sul negozio per acquistare.",
+    "text.slotsmachine.shop.incorrect_item": "Stai cliccando con l'oggetto sbagliato nella tua mano principale.",
+    "text.slotsmachine.shop.invalid_amount": "Non hai abbastanza denaro in mano per acquistare questo oggetto.",
+    "text.slotsmachine.shop.out_of_order": "Qualcosa non va in questo negozio, per favore contatta il proprietario del negozio.",
+    "text.slotsmachine.shop.out_of_stock": "Questo negozio è esaurito, torna più tardi.",
+    "text.slotsmachine.shop.setup_incorrect": "Impostazione negozio è errata. Contattare il proprietario del negozio per risolvere l'issue.",
+    "text.slotsmachine.shop.successfully_bought": "Acquistato con successo %s"
+}

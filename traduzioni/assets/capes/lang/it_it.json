@@ -1,0 +1,12 @@
+{
+    "modmenu.descriptionTranslation.capes": "Un modulo che ti consente di utilizzare mantelli da OptiFine, Labymod, Cosmetica, Wynntils, Capes++ e il modulo MinecraftCapes.",
+    "options.capes.capetype": "Tipo di Mantello: %s",
+    "options.capes.elytra": "Applica il Mantello all'Elitra",
+    "options.capes.optifineeditor": "Editor del Mantello OptiFine",
+    "options.capes.other": "Altro",
+    "options.capes.selector": "Seleziona il Mantello",
+    "options.capes.selector.elytra": "Mostra Elitra",
+    "options.capes.selector.player": "Mostra Giocatore",
+    "options.capes.title": "Opzioni dei Mantelli",
+    "options.capes.toggle": "Generale"
+}
