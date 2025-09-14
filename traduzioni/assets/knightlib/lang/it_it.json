@@ -1,0 +1,16 @@
+{
+    "block.knightlib.great_chalice": "Calice grande",
+    "item.knightlib.empty_grail": "Calice vuoto",
+    "item.knightlib.filled_grail": "Calice pieno",
+    "item.knightlib.great_essence": "Essenza grande",
+    "item.knightlib.homunculus": "Omino",
+    "item.knightlib.small_essence": "Essenza piccola",
+    "jei.knightlib.great_chalice_fill_interaction.title": "Riempi la coppa grande",
+    "jei.knightlib.great_chalice_grail_interaction.title": "La grande calice",
+    "tooltip.item.knightlib.empty_grail": "Riempie con essenza.",
+    "tooltip.item.knightlib.filled_grail": "Bevendo da essa coppa è danzare con la morte stessa.",
+    "tooltip.item.knightlib.great_chalice": "Sussurra nomi che non hai mai sentito... eppure, in qualche modo, li ricordi.",
+    "tooltip.item.knightlib.great_essence": "Persino i re diventano combustibile alla fine. (con gli sfondi di colore)",
+    "tooltip.item.knightlib.homunculus": "Un miracolo deformato, legato dal prezzo dell'alchimia.",
+    "tooltip.item.knightlib.small_essence": "Il ultimo respiro di una vita che non cambiò nulla. (con colorazione speciali)"
+}

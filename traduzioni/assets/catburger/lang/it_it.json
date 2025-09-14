@@ -1,0 +1,23 @@
+{
+    "creativetab.catburger.catburger_tab": "Panino gatto",
+    "item.catburger.cat_burger": "Panino gatto",
+    "item.catburger.cat_burger.tooltip": "Meow!",
+    "text.autoconfig.catburger.option.client": "Configurazione client",
+    "text.autoconfig.catburger.option.client.float_distance": "Distanza float (blocco)",
+    "text.autoconfig.catburger.option.client.front_back_offset": "Offset anteriore e posteriore",
+    "text.autoconfig.catburger.option.client.left_right_offset": "Offset di spostamento a sinistra e a destra",
+    "text.autoconfig.catburger.option.client.scale": "Scala",
+    "text.autoconfig.catburger.option.client.time": "Tempo per completare un ciclo di flusso (tick)",
+    "text.autoconfig.catburger.option.client.vertical_offset": "Offset verticale",
+    "text.autoconfig.catburger.option.food_max_restoration": "Ristorazione massima del cibo",
+    "text.autoconfig.catburger.option.food_restoration_form_totem": "Effetto di rigenerazione alimentare da totem",
+    "text.autoconfig.catburger.option.food_restoration_form_trinket": "Effetto di ripristino alimentare da oggetto decorativo",
+    "text.autoconfig.catburger.option.health_restoration_form_totem": "Effetto di ripristino della salute dal totem",
+    "text.autoconfig.catburger.option.saturation_restoration_form_totem": "Effetto di ripristino della saturazione da forma di totem",
+    "text.autoconfig.catburger.option.totem_cooldown": "Timeout dell'effetto totem (tasto)",
+    "text.autoconfig.catburger.option.totem_effect_active": "Effetto totem attivo?",
+    "text.autoconfig.catburger.option.trinket_cooldown": "Timeout dell'effetto degli oggetti da portare (tasto)",
+    "text.autoconfig.catburger.option.wake_up_can_reset_cooldown": "Può resettare il cooldown dell'effetto del totem al risveglio?",
+    "text.autoconfig.catburger.title": "Configurazione del panino gatto",
+    "trinkets.slot.head.head": "Gatto"
+}

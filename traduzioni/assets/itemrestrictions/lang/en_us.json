@@ -1,0 +1,16 @@
+{
+    "itemrestrictions.inventory.cant_break_block": "You can't break this block yet.",
+    "itemrestrictions.inventory.cant_brew": "You can't brew this item yet.",
+    "itemrestrictions.inventory.cant_craft": "You can't craft this item yet.",
+    "itemrestrictions.inventory.cant_enchant": "You can't enchant this item yet.",
+    "itemrestrictions.inventory.cant_hurt_entity": "You can't hurt with this item yet.",
+    "itemrestrictions.inventory.cant_item_break_block": "You can't break this block with this item yet.",
+    "itemrestrictions.inventory.cant_place_block": "You can't place this block yet.",
+    "itemrestrictions.inventory.cant_repair": "You can't repair this item yet.",
+    "itemrestrictions.inventory.cant_smelt": "You can't smelt this item yet.",
+    "itemrestrictions.inventory.cant_use_item": "You can't use this item yet.",
+    "yamlconfig.itemrestrictions": "Item Restrictions",
+    "yamlconfig.itemrestrictions.item-restrictions-common": "Common",
+    "yamlconfig.itemrestrictions.item-restrictions-common.debug": "Debug",
+    "yamlconfig.itemrestrictions.item-restrictions-common.debug.is_debug": "Debug Enabled"
+}

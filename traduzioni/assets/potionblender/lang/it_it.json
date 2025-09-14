@@ -1,0 +1,9 @@
+{
+    "block.potionblender.brewing_cauldron": "Calderone per infusione",
+    "item.potionblender.brewing_cauldron": "Calderone per infusione",
+    "item.potionblender.combined_potion": "Pozione combinata",
+    "item.potionblender.lingering_combined_potion": "Pozione combinata persistente",
+    "item.potionblender.splash_combined_potion": "Pozione combinata di schizzo",
+    "potionblender.recipe.merged_potion_wildcard_names": "Pozione con gli effetti delle ingredienti fuse",
+    "potionblender.recipe.potion_wildcard_names": "qualsiasi pozione"
+}

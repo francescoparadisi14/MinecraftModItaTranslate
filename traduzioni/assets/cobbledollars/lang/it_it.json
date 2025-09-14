@@ -1,0 +1,23 @@
+{
+    "chat.cobbledollars.earn": "hai guadagnato %s dollari di pietra.",
+    "cobbledollars.bank_screen.title": "Banca di Cobblo",
+    "cobbledollars.shop_screen.title": "Negozio di pietra cesellata",
+    "commands.cobbledollars.give.success": "ha dato a %s %s dollari di pietra",
+    "commands.cobbledollars.pay.failure": "Non ci sono abbastanza dollari di pietra cesellata.",
+    "commands.cobbledollars.pay.receive": "%s ti ha inviato $ %s",
+    "commands.cobbledollars.pay.success": "Inviato $ %s a %s",
+    "commands.cobbledollars.query": "%s ha %s dollari di pietra",
+    "commands.cobbledollars.remove.success": "Rimosso %s dollari di pietra da %s",
+    "commands.cobbledollars.set.success": "Impostato cobbledollari a %s per %s",
+    "commands.cobblemerchant.failure.air": "Non è possibile aggiungere aria.",
+    "commands.cobblemerchant.failure.no_cobble_merchants": "Non sono stati trovati mercanti di pietra di Cobbler",
+    "commands.cobblemerchant.failure.no_targets": "Nessun entità trovata",
+    "commands.cobblemerchant.failure.not_a_player": "Non un giocatore",
+    "commands.cobblemerchant.success.add_category": "Creato la categoria [%s] per %s mercanti di pietra, già ne hanno %s",
+    "commands.cobblemerchant.success.add_item_to_category": "Creato l'offerta %s nella categoria [%s] per %s mercanti di pietra di Cobblo, %s in nuove categorie.",
+    "commands.cobblemerchant.success.remove_category": "rimossa la categoria [%s] da %s mercanti di pietra di Cobb, %s mercanti di pietra di Cobb non hanno quella categoria",
+    "commands.cobblemerchant.success.remove_item_from_category": "rimossa l'item %s dalla categoria [%s] per %s mercanti di pietra, %s mercanti di pietra non hanno quella categoria",
+    "entity.cobbledollars.cobble_merchant": "Mercante di ciottoli",
+    "entity.minecraft.villager.cobble_merchant": "Mercante di pietra",
+    "item.cobbledollars.cobble_merchant_spawn_egg": "Uovo di spawn del mercante di pietra Cobbledollars"
+}

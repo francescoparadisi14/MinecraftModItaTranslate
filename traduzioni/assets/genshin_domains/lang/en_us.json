@@ -1,0 +1,7 @@
+{
+    "block.genshin_domains.dungeon_start": "Domain Key",
+    "block.genshin_domains.portal_block": "Domain Door",
+    "block.genshin_domains.return_portal": "Exit",
+    "item.genshin_domains.door_finder": "Door Finder",
+    "item_group.genshin_domains.genshin_domains": "Genshin Domains"
+}

@@ -1,0 +1,23 @@
+{
+    "chat.cobbledollars.earn": "You earned %s CobbleDollars.",
+    "cobbledollars.bank_screen.title": "Cobble Bank",
+    "cobbledollars.shop_screen.title": "Cobble Shop",
+    "commands.cobbledollars.give.success": "Gave %s CobbleDollars to %s",
+    "commands.cobbledollars.pay.failure": "Not enough CobbleDollars",
+    "commands.cobbledollars.pay.receive": "%s sent you $ %s",
+    "commands.cobbledollars.pay.success": "Sent $ %s to %s",
+    "commands.cobbledollars.query": "%s has %s CobbleDollars",
+    "commands.cobbledollars.remove.success": "Removed %s CobbleDollars from %s",
+    "commands.cobbledollars.set.success": "Set CobbleDollars at %s for %s",
+    "commands.cobblemerchant.failure.air": "Can't add air",
+    "commands.cobblemerchant.failure.no_cobble_merchants": "No Cobble Merchants found",
+    "commands.cobblemerchant.failure.no_targets": "No entities found",
+    "commands.cobblemerchant.failure.not_a_player": "Not a player",
+    "commands.cobblemerchant.success.add_category": "Created the category [%s] to %s Cobble Merchant(s), %s Cobble Merchant(s) already have that category",
+    "commands.cobblemerchant.success.add_item_to_category": "Created the offer %s to the category [%s] for %s Cobble Merchant(s), %s in new categories",
+    "commands.cobblemerchant.success.remove_category": "Removed the category [%s] from %s Cobble Merchant(s), %s Cobble Merchant(s) don't have that category",
+    "commands.cobblemerchant.success.remove_item_from_category": "Removed the item %s from the category [%s] for %s Cobble Merchant(s), %s Cobble Merchant(s) don't have that category",
+    "entity.cobbledollars.cobble_merchant": "Cobble Merchant",
+    "entity.minecraft.villager.cobble_merchant": "Cobble Merchant",
+    "item.cobbledollars.cobble_merchant_spawn_egg": "Cobble Merchant Spawn Egg"
+}

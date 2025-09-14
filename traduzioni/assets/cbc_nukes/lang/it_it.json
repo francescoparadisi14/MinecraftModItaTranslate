@@ -1,0 +1,7 @@
+{
+    "block.cbc_nukes.nuke_shell": "Cono nucleare",
+    "block.createnukecannon.nuke_shell.tooltip.behaviour1": "Lascia scatenare un potente impatto nucleare, devastando l'area immediata in un inferno e irradiando l'ambiente circostante.",
+    "block.createnukecannon.nuke_shell.tooltip.condition1": "Al momento dell'esplosione",
+    "block.createnukecannon.nuke_shell.tooltip.summary": "Ora, io sono diventato la morte, il distruttore di mondi.",
+    "entity.cbc_nukes.nuke_shell": "Proiettile nucleare"
+}

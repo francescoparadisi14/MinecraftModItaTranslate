@@ -1,0 +1,8 @@
+{
+    "bocchium.cull_bottom": "Dovrebbe eliminare il fondo",
+    "bocchium.cull_bottom.tooltip": "Se il blocco di rendering è in fondo alla dimensione, disabilita la sua parte inferiore di rendering.",
+    "bocchium.cull_top": "Dovrebbe eliminare il vertice superiore",
+    "bocchium.cull_top.tooltip": "Se il blocco di rendering è nella parte superiore della dimensione simile al Nether, disabilita la sua renderizzazione laterale.",
+    "bocchium.desc": "Il bocchium è un modulo di prestazioni che elimina i blocchi di roccia inferiore e superiore nei dimensioni per guadagnare FPS aggiuntivi.",
+    "bocchium.enable": "Abilita Bocchium"
+}

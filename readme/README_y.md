@@ -1,7 +1,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
 
-![](https://img.shields.io/badge/Ultimo%20Aggiornamento-14%2F09%2F2025-blue)
-![](https://img.shields.io/badge/Mod%20tradotte-2245-green)
+![](https://img.shields.io/badge/Ultimo%20Aggiornamento-15%2F09%2F2025-blue)
+![](https://img.shields.io/badge/Mod%20tradotte-2303-green)
 ![](https://img.shields.io/badge/Quest%20tradotte-5-green)
 
 ## Progetto che utilizza l’intelligenza artificiale per **tradurre automaticamente in italiano** i contenuti testuali delle mod di Minecraft.
@@ -78,3 +78,4 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 | <img src="https://media.forgecdn.net/avatars/992/739/638507120849888245.png" loading="lazy" decoding="async" width="30" /> | [YUNG's Better Witch Huts (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts-neoforge "Web Site")  | 07/08/2025 | 4 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fbetterwitchhuts "Download") |
 | <img src="https://media.forgecdn.net/avatars/1088/902/638631841930294017.png" loading="lazy" decoding="async" width="30" /> | [YUNG's Cave Biomes (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-cave-biomes "Web Site")  | 25/08/2025 | 127 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fyungscavebiomes "Download") |
 | <img src="https://media.forgecdn.net/avatars/882/601/638314585094908731.png" loading="lazy" decoding="async" width="30" /> | [YUNG's Menu Tweaks (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-menu-tweaks "Web Site")  | 05/08/2025 | 12 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fbettermenu "Download") |
+| <img src="https://media.forgecdn.net/avatars/577/447/637940899763675655.png" loading="lazy" decoding="async" width="30" /> | [Yuushya Townscape [Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/yuushya-townscape "Web Site") ![](https://img.shields.io/badge/NEW-red) | 14/09/2025 | 2321 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fyuushya "Download") |

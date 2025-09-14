@@ -1,0 +1,23 @@
+{
+    "creativetab.catburger.catburger_tab": "Cat Burger",
+    "item.catburger.cat_burger": "Cat Burger",
+    "item.catburger.cat_burger.tooltip": "Meow!",
+    "text.autoconfig.catburger.option.client": "Client Config",
+    "text.autoconfig.catburger.option.client.float_distance": "Float distance (blocks)",
+    "text.autoconfig.catburger.option.client.front_back_offset": "Front & back offset",
+    "text.autoconfig.catburger.option.client.left_right_offset": "Left & right offset",
+    "text.autoconfig.catburger.option.client.scale": "Scale",
+    "text.autoconfig.catburger.option.client.time": "Time to complete a float cycle (tick)",
+    "text.autoconfig.catburger.option.client.vertical_offset": "Vertical offset",
+    "text.autoconfig.catburger.option.food_max_restoration": "Food max restoration",
+    "text.autoconfig.catburger.option.food_restoration_form_totem": "Food restoration from totem effect",
+    "text.autoconfig.catburger.option.food_restoration_form_trinket": "Food restoration from trinket effect",
+    "text.autoconfig.catburger.option.health_restoration_form_totem": "Health restoration from totem effect",
+    "text.autoconfig.catburger.option.saturation_restoration_form_totem": "Saturation restoration from totem effect",
+    "text.autoconfig.catburger.option.totem_cooldown": "Totem effect cooldown (tick)",
+    "text.autoconfig.catburger.option.totem_effect_active": "Totem effect active?",
+    "text.autoconfig.catburger.option.trinket_cooldown": "Trinket effect cooldown (tick)",
+    "text.autoconfig.catburger.option.wake_up_can_reset_cooldown": "Wake up can reset totem effect cooldown?",
+    "text.autoconfig.catburger.title": "Cat Burger Config",
+    "trinkets.slot.head.head": "Cat"
+}

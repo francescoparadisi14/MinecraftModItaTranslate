@@ -1,0 +1,8 @@
+{
+    "_comment": "Nota UI",
+    "block.disenchanting.disenchanter": "Disenchantatore",
+    "block.disenchanting.disenchanter.tooltip": "Disincanta i tuoi oggetti e mettili nei libri.",
+    "gui.disenchanting.disenchanter.cost": "Costo",
+    "itemGroup.Disenchanting": "Disincantamento",
+    "tabs.disenchanting.tab": "Disenchanting"
+}

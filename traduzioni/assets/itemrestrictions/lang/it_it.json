@@ -1,0 +1,16 @@
+{
+    "itemrestrictions.inventory.cant_break_block": "Non puoi rompere questo blocco ancora.",
+    "itemrestrictions.inventory.cant_brew": "Non puoi ancora preparare questo oggetto.",
+    "itemrestrictions.inventory.cant_craft": "Non puoi creare questo oggetto ancora.",
+    "itemrestrictions.inventory.cant_enchant": "Non puoi incantare questo oggetto ancora.",
+    "itemrestrictions.inventory.cant_hurt_entity": "Non puoi ferire con questo oggetto ancora.",
+    "itemrestrictions.inventory.cant_item_break_block": "Non puoi rompere questo blocco con questo oggetto ancora.",
+    "itemrestrictions.inventory.cant_place_block": "Non puoi posizionare questo blocco ancora.",
+    "itemrestrictions.inventory.cant_repair": "Non puoi riparare questo oggetto ancora.",
+    "itemrestrictions.inventory.cant_smelt": "Non puoi fondere questo oggetto ancora.",
+    "itemrestrictions.inventory.cant_use_item": "Non puoi utilizzare questo oggetto ancora.",
+    "yamlconfig.itemrestrictions": "Restrizioni sugli oggetti",
+    "yamlconfig.itemrestrictions.item-restrictions-common": "Comune",
+    "yamlconfig.itemrestrictions.item-restrictions-common.debug": "Modalità debug",
+    "yamlconfig.itemrestrictions.item-restrictions-common.debug.is_debug": "Abilitato il debug"
+}
