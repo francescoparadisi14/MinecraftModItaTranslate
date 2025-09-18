@@ -1,0 +1,17 @@
+{
+    "extraquests.key_value.key": "Chiave",
+    "extraquests.key_value.key.tooltip": "Tastiera per l'archiviazione dei valori",
+    "extraquests.key_value.title": "%s: %s",
+    "extraquests.key_value.value": "Valore",
+    "extraquests.key_value.value.tooltip": "Descrizione della chiave valore",
+    "extraquests.reward.command.console": "Console",
+    "extraquests.reward.command.console.tooltip": "Esegui un comando dal console",
+    "extraquests.timer.questid": "L'ID della quest da reimpostare",
+    "extraquests.timer.questid.tooltip": "Lascia vuoto per reimpostare la missione corrente",
+    "extraquests.timer.time": "Tempo per il riavvio della missione",
+    "extraquests.timer.time.tooltip": "Il numero di secondi fino al reset della missione. Se la task è basata su un team, allora il premio sarà anche basato su un team.",
+    "extraquests.timer.title": "Ripristina ogni %s secondo",
+    "ftbquests.reward.extraquests.key_value": "Valore-chiave",
+    "ftbquests.reward.extraquests.timer": "Timer",
+    "ftbquests.task.extraquests.key_value": "Chiave-valore"
+}

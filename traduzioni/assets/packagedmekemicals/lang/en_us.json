@@ -1,0 +1,8 @@
+{
+    "block.packagedmekemicals.chemical_package_filler": "Chemical Package Filler",
+    "block.packagedmekemicals.chemical_package_filler.redstone": "Activate with redstone to start",
+    "itemGroup.packagedmekemicals": "PackagedMekemicals",
+    "jei.category.packagedmekemicals.chemical_package_contents": "Chemical Package Contents",
+    "jei.category.packagedmekemicals.chemical_package_filling": "Chemical Package Filling",
+    "volume.packagedmekemicals.mekanism.chemical": "Chemical"
+}

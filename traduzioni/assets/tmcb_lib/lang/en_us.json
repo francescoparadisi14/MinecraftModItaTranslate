@@ -1,0 +1,14 @@
+{
+    "config.tmcb_lib.formatting.modNameFormat": "Mod Name Format",
+    "config.tmcb_lib.formatting.modNameFormat.comment": "How the mod name should be formatted in the tooltip. Leave blank to disable.",
+    "config.tmcb_lib.gui.energyUnit": "Energy Unit",
+    "config.tmcb_lib.gui.energyUnit.comment": "Energy Unit rendered in machines",
+    "item.tmcb_lib.wrench": "Wrench",
+    "misc.tmcb_lib.empty": "Empty",
+    "misc.tmcb_lib.energy": "%s %s",
+    "misc.tmcb_lib.energyWithMax": "%s \/ %s %s",
+    "misc.tmcb_lib.fluidAmount": "%s mB",
+    "misc.tmcb_lib.fluidWithMax": "%s \/ %s mB",
+    "misc.tmcb_lib.fluidWithMaxName": "%s: %s \/ %s mB",
+    "misc.tmcb_lib.holdShift": "§7Hold §e§oShift §7for Description"
+}

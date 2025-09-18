@@ -1,0 +1,16 @@
+{
+    "modmenu.descriptionTranslation.smoke_suppression": "Client mod to suppress campfire smoke when certain blocks are below the campfire.",
+    "modmenu.summaryTranslation.smoke_suppression": "Selectively stop campfire smoke",
+    "text.autoconfig.smoke_suppression.option.always_suppress_smoke": "Always suppress smoke",
+    "text.autoconfig.smoke_suppression.option.always_suppress_smoke.@Tooltip": "Suppress smoke particles regardless of\nwhich block is beneath a campfire.\n§lExisting campfires must be re-placed\nor re-loaded to reflect config changes",
+    "text.autoconfig.smoke_suppression.option.fetch_translation_updates": "Download translation updates",
+    "text.autoconfig.smoke_suppression.option.fetch_translation_updates.@Tooltip": "Download translations from Crowdin when the game launches",
+    "text.autoconfig.smoke_suppression.option.invert_list_behavior": "Invert list behavior",
+    "text.autoconfig.smoke_suppression.option.invert_list_behavior.@Tooltip": "Instead of suppressing smoke, blocks on the list will enable smoke,\nand all other blocks will suppress smoke.\n§lExisting campfires must be re-placed\nor re-loaded to reflect config changes",
+    "text.autoconfig.smoke_suppression.option.suppressing_blocks": "Suppressing blocks list",
+    "text.autoconfig.smoke_suppression.option.suppressing_blocks.@Tooltip": "List of blocks that will suppress the\nsmoke of any campfire placed above them.\n§lExisting campfires must be re-placed\nor re-loaded to reflect config changes",
+    "text.autoconfig.smoke_suppression.title": "Smoke Suppression Configuration",
+    "text.smoke_suppression.name": "Smoke Suppression",
+    "text.smoke_suppression.no_config_screen.message": "§cInstall Cloth Config to enable configuration.",
+    "text.smoke_suppression.no_config_screen.title": "${name} Configuration Unavailable"
+}

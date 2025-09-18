@@ -1,0 +1,17 @@
+{
+    "block.centrifugetiersreproduced.tier_1_centrifuge_casing": "Cassetto di centrifuga di tier 1",
+    "block.centrifugetiersreproduced.tier_1_centrifuge_controller": "Controllore centrifuga di tier 1",
+    "block.centrifugetiersreproduced.tier_2_centrifuge_casing": "Cassetto di centrifuga di secondo livello",
+    "block.centrifugetiersreproduced.tier_2_centrifuge_controller": "Controllore centrifuga di secondo livello",
+    "block.centrifugetiersreproduced.tier_3_centrifuge_casing": "Cassetto di centrifuga di terzo livello",
+    "block.centrifugetiersreproduced.tier_3_centrifuge_controller": "Controllore centrifuga di terzo livello",
+    "block.centrifugetiersreproduced.tier_4_centrifuge_casing": "Cassetto di centrifuga di livello 4",
+    "block.centrifugetiersreproduced.tier_4_centrifuge_controller": "Controllore centrifuga di quarto livello",
+    "itemGroup.centrifugetiersreproduced": "Tieri di centrifuga riprodotti",
+    "tooltip.centrifugetiersreproduced.hold_shift": "Tenere premuto Shift per avere più informazioni",
+    "tooltip.centrifugetiersreproduced.input_slots": "Slot di input: %s",
+    "tooltip.centrifugetiersreproduced.item_max_stack_size": "Dimensione massima di pila dell'oggetto: %s",
+    "tooltip.centrifugetiersreproduced.multiblock_size": "Dimensione multiblocco: %s",
+    "tooltip.centrifugetiersreproduced.output_multiplier": "Multiplatore di output: %s",
+    "tooltip.centrifugetiersreproduced.processing_speed": "Velocità: x più veloce"
+}

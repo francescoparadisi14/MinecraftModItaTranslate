@@ -1,0 +1,17 @@
+{
+    "advancements.iceologers_revenge.descr": "Uccidi un glosquidio utilizzando uno staff di ghiacciaiologo",
+    "advancements.iceologers_revenge.title": "La vendetta dell'iceologo",
+    "block.mutant_iceologer.chilled_spike": "Spina gelida",
+    "death.attack.iceblock": "%1$s è stato gelato da un logoratore di ghiaccio mutante",
+    "death.attack.mutant_iceologer": "%1$s è stato schiacciato da un mutante ghiacciaio",
+    "entity.mutant_iceologer.mutant_iceologer": "Iceologo mutante",
+    "item.mutant_iceologer.chilled_iron_rod": "Astuccio di ferro raffreddato",
+    "item.mutant_iceologer.iceologer_staff": "Staff dell'iceologo mutante",
+    "item.mutant_iceologer.iron_rod": "Barra di ferro",
+    "item.mutant_iceologer.jei_icon": "Icona JEI",
+    "item.mutant_iceologer.mutant_iceologer_spawn_egg": "Uovo di generazione del mutante Iceologer",
+    "subtitles.entity.mutant.attack": "L'omino attacca",
+    "subtitles.entity.mutant.death": "Muore il mutante",
+    "subtitles.entity.mutant.hurt": "Mutante ferito",
+    "subtitles.entity.mutant.idle": "Idle mutante"
+}

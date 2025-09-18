@@ -1,0 +1,21 @@
+{
+    "advancement.kill_dark_doppelganger.description": "Hai sconfitto il doppelganger oscuro. Un premio ti attende!",
+    "advancement.kill_dark_doppelganger.title": "Assassino di sosia oscuro",
+    "advancement.summon_dark_doppelganger.description": "Usa il rotolo di evocazione per chiamare il doppio oscuro.",
+    "advancement.summon_dark_doppelganger.title": "Un doppio oscuro risvegliato",
+    "item.darkdoppelganger.doppelganger_ring": "Anello del doppelganger",
+    "item.darkdoppelganger.elder_necklace": "Collare dell'anziano",
+    "item.darkdoppelganger.shadow_orb": "Orbite ombra",
+    "item.darkdoppelganger.summon_scroll": "Foglio di evocazione",
+    "item.darkdoppelganger.summon_scroll.tooltip": "Usa questo per evocare il doppio oscuro!",
+    "item.darkdoppelganger.summons_necklace": "Collare del chiamatore",
+    "itemGroup.darkdoppelganger.example_tab": "Tabella del doppio oscuro",
+    "itemGroup.item.darkdoppelganger": "Doppio oscuro",
+    "itemGroup.items.darkdoppelganger": "Doppioganger oscuro",
+    "spell.darkdoppelganger.doppel_portal": "Salto del portale",
+    "spell.irons_spellbooks.doppel_portal": "Salto del portale",
+    "spell.irons_spellbooks.doppel_portal.guide": "Entrare attraverso un portale evocato davanti a te per uscire attraverso un altro portale alcuni blocchi lontano.",
+    "tooltip.doppelganger.cooldown_reduction": "Riduce il raffreddamento di %s",
+    "tooltip.doppelganger.health_bonus": "concede +%s salute massima",
+    "tooltip.doppelganger.passive_ability": "Raffreddamento abilità passiva: %s secondi"
+}

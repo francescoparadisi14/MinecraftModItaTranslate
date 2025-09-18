@@ -1,0 +1,17 @@
+{
+    "advancement.queen_bee.im_the_queen.descr": "Sconfiggi la regina api e ottieni le sue antenne",
+    "advancement.queen_bee.im_the_queen.title": "Sono la regina",
+    "advancement.queen_bee.it_shouldnt_bee_edible.descr": "Mangia lo stinger dell'ape",
+    "advancement.queen_bee.it_shouldnt_bee_edible.title": "Non dovrebbe essere commestibile",
+    "advancement.queen_bee.root.descr": "Avanzamenti della regina api",
+    "advancement.queen_bee.root.title": "La regina ape del modulo",
+    "creativemodetab.queen_bee.queen_bee_tab": "Api Regina",
+    "entity.queen_bee.queen_bee": "Ape Regina",
+    "item.queen_bee.antenna": "Antenna della Regina delle Api",
+    "item.queen_bee.queen_bee_spawn_egg": "Uovo di generazione della regina api",
+    "item.queen_bee.stinger": "Punta di ape regina",
+    "item.queen_bee.stinger_sword": "Spada stenatrice",
+    "tooltip.queen_bee.antenna": "Quando indossato, le api non si aggrupperanno mai contro di te.",
+    "tooltip.queen_bee.item.shift_up": "Premi Shift per avere più informazioni!",
+    "tooltip.queen_bee.stinger_sword": "Quando l'antenna è equipaggiata, premere Shift + destro clic per evocare un'ape amica che ti darà e ai vicini il effetto di rigenerazione. Inoltre, questa spada infligge veleno e nausea."
+}

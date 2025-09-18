@@ -1,0 +1,8 @@
+{
+    "block.castirongrill.cast_iron_grill_firepit": "Cast Iron Grill",
+    "block.castirongrill.stovetop_cast_iron_grill": "Stovetop Cast Iron Grill",
+    "castirongrill.block_entity.cast_iron_grill": "Cast Iron Grill",
+    "castirongrill.block_entity.stovetop_cast_iron_grill": "Stovetop Cast Iron Grill",
+    "castirongrill.creative_tab.main": "TFC Cast Iron Grill",
+    "item.castirongrill.cast_iron_grill": "Cast Iron Grill"
+}

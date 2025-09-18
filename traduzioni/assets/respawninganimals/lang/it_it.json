@@ -1,0 +1,6 @@
+{
+    "gamerule.animalMobCap": "Limite di creature animali",
+    "gamerule.animalMobCap.description": "Costante per aiutare a determinare quando smettere di generare animali nel mondo.",
+    "gamerule.persistentAnimals": "Animali persistenti",
+    "gamerule.persistentAnimals.description": "Gli animali resteranno nel mondo per sempre e possono essere riprodotti solo attraverso la selezione naturale."
+}

@@ -1,0 +1,11 @@
+{
+    "item.overclocked_watches.diamond_watch": "Orologio di diamante",
+    "item.overclocked_watches.golden_watch": "Orologio d'oro",
+    "item.overclocked_watches.netherite_watch": "Orologio di Netherite",
+    "itemGroup.overclockedWatches": "Orologi overclockati!",
+    "key.category.overclocked_watches.day_night": "Orologi sovralimentati",
+    "key.overclocked_watches.day_night": "Alternare giorno\/notte",
+    "magic.overclocked_watches.charge_consumed": "Carica di orologio overclock consumata!",
+    "text.overclocked_watches.charges": "Cariche: %s",
+    "text.overclocked_watches.default_charges": "Cariche predefinite: %s"
+}

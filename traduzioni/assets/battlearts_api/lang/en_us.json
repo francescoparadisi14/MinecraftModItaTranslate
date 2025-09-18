@@ -1,0 +1,19 @@
+{
+    "epicfight.skill_slot.battle_style": "Battle Style",
+    "epicfight.skill_slot.burst_art": "Burst Art",
+    "epicfight.skill_slot.combat_art": "Combat Art",
+    "epicfight.skill_slot.ultimate_art": "Ultimate Art",
+    "key.battlearts_api.burst_art_use": "Use Burst Art",
+    "key.battlearts_api.combat_art_use": "Use Combat Art",
+    "key.battlearts_api.mana_art_use": "Use Mana Art",
+    "key.battlearts_api.ultimate_art_use": "Use Ultimate Art",
+    "skill.battlearts_api.mana_charge": "Mana Charge",
+    "skill.battlearts_api.mana_charge.tooltip": "Severely dampens your mana regeneration speed, but in exchange... you gain an active charge ability that charges your mana extremely fast.",
+    "skill.battlearts_api.traveler": "Traveler",
+    "skill.battlearts_api.traveler.tooltip": "Not meant to be used.",
+    "skill.epicfight.battle_style.category": "Battle Style",
+    "skill.epicfight.burst_art.category": "Burst Art",
+    "skill.epicfight.combat_art.category": "Combat Art",
+    "skill.epicfight.mana_art.category": "Mana Art",
+    "skill.epicfight.ultimate_art.category": "Ultimate Art"
+}

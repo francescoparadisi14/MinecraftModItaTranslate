@@ -1,0 +1,12 @@
+{
+    "enchantment.enchanting_with_tfc.crushing_protection": "Crushing Protection",
+    "enchantment.enchanting_with_tfc.crushing_protection.desc": "Reduces the effect of crushing damage.",
+    "enchantment.enchanting_with_tfc.hunting": "Hunting",
+    "enchantment.enchanting_with_tfc.hunting.desc": "Increase the damage against predators.",
+    "enchantment.enchanting_with_tfc.piercing_protection": "Piercing Protection",
+    "enchantment.enchanting_with_tfc.piercing_protection.desc": "Reduces the effect of piercing damage.",
+    "enchantment.enchanting_with_tfc.slashing_protection": "Slashing Protection",
+    "enchantment.enchanting_with_tfc.slashing_protection.desc": "Reduces the effect of slashing damage.",
+    "enchantment.enchanting_with_tfc.slow_aspect": "Slow Aspect",
+    "enchantment.enchanting_with_tfc.slow_aspect.desc": "Slow the target."
+}

@@ -1,0 +1,8 @@
+{
+    "death.attack.cutting": "%1$s è stato tagliato in un %2$s",
+    "death.attack.cutting.player": "%1$s è stato tagliato in un %3$s mentre tentava di fuggire da %2$s",
+    "text.autoconfig.dangerousstonecutter.option.damage": "Quantità di danno",
+    "text.autoconfig.dangerousstonecutter.option.enableBloodParticle": "Abilita particolina di sangue",
+    "text.autoconfig.dangerousstonecutter.option.enableJudgmentDangerous": "Abilita giudizio per pietra cutter pericolosa",
+    "text.autoconfig.dangerousstonecutter.title": "Configurazione del tagliatore di pietra pericoloso"
+}

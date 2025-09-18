@@ -1,0 +1,14 @@
+{
+    "tconjei.tool_stats.armor": "Statistiche dell'armatura",
+    "tconjei.tool_stats.harvest": "Statistiche raccolta",
+    "tconjei.tool_stats.ranged": "Statistiche a distanza",
+    "tconjei.tool_stats.skull": "Statistiche teschio slumberio",
+    "tconjei.tooltip.and": "e e",
+    "tconjei.tooltip.armor": "Armadura",
+    "tconjei.tooltip.harvest": "Raccolta",
+    "tconjei.tooltip.material": "Materiale",
+    "tconjei.tooltip.ranged": "Rilascio",
+    "tconjei.tooltip.separator": ",",
+    "tconjei.tooltip.skull": "Skull di slime",
+    "tconjei.tooltip.tier": "Livello %s"
+}

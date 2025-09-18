@@ -1,5 +1,9 @@
 {
     "block.appliede.emc_interface": "ME Transmutation Interface",
+    "config.appliede.mapper.facade": "Facade Mapper",
+    "config.appliede.mapper.inventory": "Inventory Item Processor",
+    "config.appliede.mapper.p2p_tunnel": "P2P Tunnel Mapper",
+    "config.appliede.mapper.recipe": "AE2 Recipe Mapper",
     "gui.appliede.are_you_sure": "Are you sure?",
     "gui.appliede.learn_all": "Learn all transmutable items in storage",
     "gui.appliede.learned": "Learned!",

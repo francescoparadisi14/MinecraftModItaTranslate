@@ -1,0 +1,18 @@
+{
+    "block.mystianapiary.flower_block": "Scatola di fiori dell'apiario",
+    "block.mystianapiary.input_block": "Cassa delle api dell'alveare",
+    "block.mystianapiary.output_block": "Magazzino apicolo",
+    "block.mystianapiary.upgrade_block": "Controllore apiario",
+    "creativetab.mystianapiary": "Apiario misterioso",
+    "jei.mystianapiary.category": "Apiario misteriano",
+    "screen.mystianapiary.status.all_present": "Tutti i moduli sono presenti!",
+    "screen.mystianapiary.status.missing": "Manca modulo!",
+    "screen.mystianapiary.status.too_many": "Troppi moduli rilevati!",
+    "tooltip.mystianapiary.only_processing": "Solo elaborazione: %1$s \/ %2$s",
+    "tooltip.mystianapiary.upgrade.count": "Conteggio: %1$s\/%2$s",
+    "tooltip.mystianapiary.upgrade.installed": "Installato: %1$s",
+    "tooltip.mystianapiary.upgrade.output_multiplier": "Multiplatore di output: x %1$s",
+    "tooltip.mystianapiary.upgrade.time_multiplier": "Multiplatore di tempo: x %1$s",
+    "word.mystianapiary.no": "No",
+    "word.mystianapiary.yes": "Sì"
+}

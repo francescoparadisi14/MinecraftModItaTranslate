@@ -2,6 +2,7 @@
     "arseng.page.source_acceptor": "Il convertitore di fonte ME converte la fonte in energia AE. Attaccalo a una rete ME e alimentala con un relais.",
     "arseng.page.source_acceptor_description": "Il convertitore di fonte è disponibile in forma di parte blocco e cavo.",
     "arseng.page.source_cell_housing": "I contenitori di origine possono essere creati con un contenitore di abitazione per origini ME. Raccoglieranno molti recipienti di origine.",
+    "block.arseng.me_source_jar": "Jar di origine ME",
     "block.arseng.source_acceptor": "Convertitore di fonti per me",
     "item.arseng.cable_source_acceptor": "Accettore di sorgente me",
     "item.arseng.creative_source_cell": "Cella di origine creativa",

@@ -1,0 +1,19 @@
+{
+    "block.useful_ribbits.ribbit_bed": "Letto dei ribbit",
+    "block.useful_ribbits.ribbit_chest": "Cassetto dei ribbit",
+    "entity.useful_ribbits.chef_ribbit": "Ribbit del cuoco",
+    "entity.useful_ribbits.farmer_ribbit": "Ribbit del contadino",
+    "entity.useful_ribbits.miner_ribbit": "Ribbit del minatore",
+    "gui.useful_ribbits.ribbit_bed_gui.button_empty": "<",
+    "gui.useful_ribbits.ribbit_bed_gui.button_empty1": "<",
+    "gui.useful_ribbits.ribbit_bed_gui.button_empty2": "<",
+    "gui.useful_ribbits.ribbit_chest_gui.label_ribbit_chest": "Cassetto dei ribbit",
+    "item.useful_ribbits.chef_ribbit_spawn_egg": "Uova di spawn del ribbit cuoco",
+    "item.useful_ribbits.farmer_ribbit_spawn_egg": "Uova di spawn del ribbit agricoltore",
+    "item.useful_ribbits.miner_ribbit_spawn_egg": "Uova di spawn del ribbit miner",
+    "item_group.useful_ribbits.useful_ribbits": "Ribbit utili",
+    "subtitles.ribbit_ambiant": "",
+    "subtitles.ribbit_death": "",
+    "subtitles.ribbit_hurt": "",
+    "subtitles.ribbit_step": ""
+}

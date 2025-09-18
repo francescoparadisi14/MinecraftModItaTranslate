@@ -1,0 +1,18 @@
+{
+    "shell.extra_shells.ancient": "Ancient",
+    "shell.extra_shells.chibnall_rtd_era": "Chibnall\/RTD2",
+    "shell.extra_shells.delorean": "Delorean",
+    "shell.extra_shells.emerald": "Emerald",
+    "shell.extra_shells.engineers": "Engineers",
+    "shell.extra_shells.glasgow": "Glasgow",
+    "shell.extra_shells.lego": "Lego",
+    "shell.extra_shells.maddoc_2005": "(Maddoc) Tennant",
+    "shell.extra_shells.maddoc_brachacki": "(Maddoc) Brachaki",
+    "shell.extra_shells.maddoc_newberry": "(Maddoc) Newberry",
+    "shell.extra_shells.maddoc_smith": "(Maddoc) Smith",
+    "shell.extra_shells.maddoc_whittaker": "(Maddoc) Whittaker",
+    "shell.extra_shells.moffat_era": "Moffat Era",
+    "shell.extra_shells.old_school": "Old School",
+    "shell.extra_shells.rtd_era": "RTD Era",
+    "shell.extra_shells.sea_blue": "Sea Blue"
+}

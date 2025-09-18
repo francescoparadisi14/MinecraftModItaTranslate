@@ -1,0 +1,10 @@
+{
+    "entity.trotting_wagons.armored_wagon": "Armored Wagon",
+    "entity.trotting_wagons.conestoga_wagon": "Conestoga Wagon",
+    "entity.trotting_wagons.royal_wagon": "Royal Wagon",
+    "item.trotting_wagons.armored_wagon": "Armored Wagon",
+    "item.trotting_wagons.conestoga_wagon": "Conestoga Wagon",
+    "item.trotting_wagons.horse_whip": "Horse Whip",
+    "item.trotting_wagons.royal_wagon": "Royal Wagon",
+    "item.trotting_wagons.wheel": "Wheel"
+}

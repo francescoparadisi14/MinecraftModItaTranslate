@@ -1,0 +1,10 @@
+{
+    "text.autoconfig.bedrock_hotbar.option.offset": "Offset del barile caldo",
+    "text.autoconfig.bedrock_hotbar.option.renderTexture": "Rendere il fondo del testo (dal 1.20.2 in poi)",
+    "text.autoconfig.bedrock_hotbar.option.renderTexture.@Tooltip": "Mostra il fondo del testo di selezione della barra calda?",
+    "text.autoconfig.bedrock_hotbar.option.xpLevelMode": "Tipo di visualizzazione del livello di esperienza",
+    "text.autoconfig.bedrock_hotbar.option.xpLevelMode.@Tooltip": "Mostra il livello di esperienza con ...",
+    "text.autoconfig.bedrock_hotbar.title": "Impostazioni barra degli strumenti",
+    "text.bedrock_hotbar.option.xpLevelMode.outline": "Contorno",
+    "text.bedrock_hotbar.option.xpLevelMode.shadow": "Ombra"
+}

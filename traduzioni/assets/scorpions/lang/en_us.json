@@ -1,0 +1,15 @@
+{
+    "effect.scorpions.venom_coat_effect": "Venom Coat",
+    "entity.scorpions.brown_scorpions": "Brown Scorpion",
+    "entity.scorpions.emperor_scorpions": "Emperor Scorpion",
+    "entity.scorpions.nether_scorpions": "Nether Scorpion",
+    "item.minecraft.lingering_potion.effect.venom_coat_potion": "Lingering Venom Coat Potion",
+    "item.minecraft.potion.effect.venom_coat_potion": "Venom Coat Potion",
+    "item.minecraft.splash_potion.effect.venom_coat_potion": "Venom Coat Splash Potion",
+    "item.minecraft.tipped_arrow.effect.venom_coat_potion": "Arrow of Venom Coat",
+    "item.scorpions.brown_scorpion_spawn_egg": "Brown Scorpion Spawn Egg",
+    "item.scorpions.emperor_scorpion_spawn_egg": "Emperor Scorpion Spawn Egg",
+    "item.scorpions.nether_scorpion_spawn_egg": "Nether Scorpion Spawn Egg",
+    "item.scorpions.scorpion_stinger": "Scorpion Stinger",
+    "itemGroup.scorpions": "Scorpions Mod"
+}

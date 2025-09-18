@@ -1,0 +1,15 @@
+{
+    "command.patched.dump.file_not_found": "Quel file non è stato trovato.",
+    "command.patched.dump.not_json": "Quel patch non è un file JSON. (vedi la console per i dettagli).",
+    "command.patched.dump.pack_not_found": "Quel pacchetto non esiste.",
+    "command.patched.dump.patch_not_found": "Quella patch non è stata trovata.",
+    "command.patched.list.pack_not_found": "Quel pacchetto non esiste.",
+    "command.patched.list.packs.multi": "Ci sono %1$s pacchetti con patching abilitato:",
+    "command.patched.list.packs.single": "Ci sono 1 pacchetto con patching abilitato:",
+    "command.patched.list.packs.verbose": "inoltre, i seguenti pacchetti non hanno abilitato la patching:",
+    "command.patched.list.patches.dynamic": "(applicando a spazi di nome %1$s e percorsi %2$s)",
+    "command.patched.list.patches.multi": "Ci sono %1$s patch in %2$s:",
+    "command.patched.list.patches.single": "Ci sono 1 patch in %2$s:",
+    "command.patched.list.patching_disabled": "Quel pacchetto non ha abilitato le patch.",
+    "command.patched.list.too_many_packs": "Ci sono più di uno pacchetto con quel nome."
+}

@@ -1,0 +1,10 @@
+{
+    "entity.trotting_wagons.armored_wagon": "Carro armato",
+    "entity.trotting_wagons.conestoga_wagon": "Carro conestoga",
+    "entity.trotting_wagons.royal_wagon": "Carro reale",
+    "item.trotting_wagons.armored_wagon": "Carro armato",
+    "item.trotting_wagons.conestoga_wagon": "Carro conestoga",
+    "item.trotting_wagons.horse_whip": "Frusta per cavalli",
+    "item.trotting_wagons.royal_wagon": "Carro reale",
+    "item.trotting_wagons.wheel": "Ruota"
+}

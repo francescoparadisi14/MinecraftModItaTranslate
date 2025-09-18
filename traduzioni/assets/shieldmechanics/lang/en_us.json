@@ -1,0 +1,14 @@
+{
+    "enchantment.shieldmechanics.block_blind_enchant": "Blindness - Shield",
+    "enchantment.shieldmechanics.block_blind_enchant.desc": "Chance to blind attackers on block",
+    "enchantment.shieldmechanics.block_damage_enchant": "Blocking - Shield",
+    "enchantment.shieldmechanics.block_damage_enchant.desc": "Increases the amount of damage blocked",
+    "enchantment.shieldmechanics.block_knock_back_enchant": "Knockback - Shield",
+    "enchantment.shieldmechanics.block_knock_back_enchant.desc": "Chance to knockback attackers on block",
+    "enchantment.shieldmechanics.block_last_resort_enchant": "Last Resort - Shield",
+    "enchantment.shieldmechanics.block_last_resort_enchant.desc": "Chance to rescue you on low life, on block",
+    "enchantment.shieldmechanics.block_slowness_enchant": "Slowness - Shield",
+    "enchantment.shieldmechanics.block_slowness_enchant.desc": "Chance to slow attackers on block",
+    "shieldmechanics.blockdmgreduct": "Damage reduction on block: %s",
+    "shieldmechanics.holddmgreduct": "Damage reduction while holding: %s"
+}

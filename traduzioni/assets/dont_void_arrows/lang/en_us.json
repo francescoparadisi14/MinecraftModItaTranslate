@@ -1,0 +1,4 @@
+{
+    "gamerule.dropSpectralArrows": "drop Spectral Arrows",
+    "gamerule.dropSpectralArrows.description": "makes mobs shot by spectral arrows drop them instead of normal ones"
+}

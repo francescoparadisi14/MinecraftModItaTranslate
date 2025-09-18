@@ -1,0 +1,11 @@
+{
+    "text.autoconfig.rpgz.option.despawn_corps_after_ticks": "I tick prima che i corpi si dissolvano",
+    "text.autoconfig.rpgz.option.despawn_immediately_when_empty": "Fare sparire i cadaveri immediatamente quando vuoti",
+    "text.autoconfig.rpgz.option.drop_after_ticks": "Secondi prima del rilascio automatico dei tesori",
+    "text.autoconfig.rpgz.option.drop_after_ticks.@PrefixText": "Durata in tick (1s = 20tick)",
+    "text.autoconfig.rpgz.option.drop_unlooted": "Lascia il bottino dopo un certo tempo",
+    "text.autoconfig.rpgz.option.excluded_entities": "Escludi entità per nome (modid:mobname)",
+    "text.autoconfig.rpgz.option.hopper_extracting": "Consenti al contenitore di estrarre gli oggetti",
+    "text.autoconfig.rpgz.option.surfacing_in_water": "Risalita in acqua",
+    "text.autoconfig.rpgz.title": "Configurazione RPGZ"
+}

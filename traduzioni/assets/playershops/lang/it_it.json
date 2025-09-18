@@ -1,0 +1,20 @@
+{
+    "block.playershops.acacia_player_shop": "Shop di legno di acacia",
+    "block.playershops.bamboo_player_shop": "Shop di legno di bamboo",
+    "block.playershops.birch_player_shop": "Shop di legno di betulla",
+    "block.playershops.cherry_player_shop": "Shop di legno di ciliegia",
+    "block.playershops.crimson_player_shop": "Shop di legno di cremisi",
+    "block.playershops.dark_oak_player_shop": "Shop di legno di quercia scura",
+    "block.playershops.jungle_player_shop": "Shop di legno di giungla",
+    "block.playershops.mangrove_player_shop": "Shop di legno di mangrovia",
+    "block.playershops.oak_player_shop": "Shop di legno di quercia",
+    "block.playershops.spruce_player_shop": "Shop di legno di abete",
+    "block.playershops.warped_player_shop": "Shop di legno distorto",
+    "message.playershops.inv_full": "Il tuo inventario è pieno, libera dello spazio",
+    "message.playershops.no_funds": "Non hai abbanstanza monete",
+    "message.playershops.not_team_shop": "Il team non può modificare lo shop",
+    "message.playershops.shop_empty_stock": "I materiali sono finiti",
+    "message.playershops.shop_full_profit": "Lo slot delle monete è pieno",
+    "message.playershops.team_shop": "Il team può ora modificare questo shop",
+    "title.playershops.shop": "Il tuo shop"
+}

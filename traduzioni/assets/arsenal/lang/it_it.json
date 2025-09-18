@@ -1,0 +1,12 @@
+{
+    "entity.arsenal.soul_knight": "Cavaliere dell'anima",
+    "item.arsenal.charge_halberd": "Alabarda ricaricabile",
+    "item.arsenal.charge_halberd.desc": "Si alterna tra lama di giavellotto e lama di ascia all'uso",
+    "item.arsenal.charge_halberd2_desc": "Quando il carico è di 15 o più, si trasforma in un piccone da usare mentre si è in posizione accucciata.",
+    "item.arsenal.soul_knight_great_sword": "Spada grande del cavaliere dell'anima",
+    "item.arsenal.soul_knight_great_sword.desc": "Imposta gli avversari in fiamme o accende l'arma quando sei in fiamme.",
+    "item.arsenal.soul_knight_great_sword2.desc": "Attiva abilità quando utilizzato mentre l'arma è in fiamme.",
+    "item.arsenal.soul_knight_spawn_egg": "Uovo di incubazione cavaliere dell'anima",
+    "item.arsenal.soul_metal_ingot": "Ingot di metallo anima",
+    "itemGroup.arsenal": "Arsenale"
+}

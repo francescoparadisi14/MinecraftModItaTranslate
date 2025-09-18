@@ -1,0 +1,21 @@
+{
+    "block.siegeweapons.siege_table_block": "Tavolo d'assedio",
+    "entity.siegeweapons.ballista": "Ballista",
+    "entity.siegeweapons.cart": "Carro da guerra",
+    "entity.siegeweapons.catapult": "Catapulta",
+    "entity.siegeweapons.transportCart": "carrello di trasporto",
+    "gui.siegeweapons.craft": "Crea",
+    "gui.siegeweapons.siegewapontable": "Tavola di armi da assedio",
+    "item.siegeweapons.ballista_item": "oggetto ballista",
+    "item.siegeweapons.ballista_projectile_item": "Fionda di ballista",
+    "item.siegeweapons.catapult_item": "oggetto catapulta",
+    "item.siegeweapons.cobble_cluster_item": "Proiettile di aggregato di pietra",
+    "item.siegeweapons.explosion_pot_item": "Colpo di pentola esplosiva",
+    "item.siegeweapons.fire_pot_item": "Colpo di pentola incendiaria",
+    "itemGroup.siegeweapons.siegeweapons_tab": "Tabella armi d'assedio",
+    "tips.siegeweapons.ballista_reload": "Ricarica",
+    "tips.siegeweapons.catapult_change_range": "Cambia raggio",
+    "tips.siegeweapons.vehicle_aim": "Mirare",
+    "tips.siegeweapons.vehicle_load_shoot": "Carica e spara",
+    "tips.siegeweapons.vehicle_move": "Guida"
+}

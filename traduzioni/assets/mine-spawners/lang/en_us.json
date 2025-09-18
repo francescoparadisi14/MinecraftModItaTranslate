@@ -1,0 +1,5 @@
+{
+    "config.blacklisted_pickaxes": "Blacklisted pickaxes",
+    "config.drop_chance": "Drop chance",
+    "config.title": "Mine spawners configuration"
+}

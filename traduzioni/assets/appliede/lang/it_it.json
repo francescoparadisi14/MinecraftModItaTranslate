@@ -1,5 +1,9 @@
 {
     "block.appliede.emc_interface": "Interfaccia di trasmutazione me",
+    "config.appliede.mapper.facade": "Mappatura interfaccia",
+    "config.appliede.mapper.inventory": "Processore di elementi dell'inventario",
+    "config.appliede.mapper.p2p_tunnel": "Mappatore di tunnel P2P",
+    "config.appliede.mapper.recipe": "Mappatura ricetta AE2",
     "gui.appliede.are_you_sure": "Sei sicuro?",
     "gui.appliede.learn_all": "Impara tutti gli oggetti trasformabili nel magazzino",
     "gui.appliede.learned": "Appreso!",

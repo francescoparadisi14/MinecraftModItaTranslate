@@ -1,0 +1,20 @@
+{
+    "attribute.vminus.name.blast_protection": "Protezione da esplosioni",
+    "attribute.vminus.name.blunt_protection": "Protezione da colpi",
+    "attribute.vminus.name.fall_protection": "Protezione dal cadere",
+    "attribute.vminus.name.fire_protection": "Protezione dal fuoco",
+    "attribute.vminus.name.magic_protection": "Protezione magica",
+    "attribute.vminus.name.mining_speed": "Velocità di estrazione",
+    "attribute.vminus.name.protection": "Protezione generale",
+    "itemTrait.vminus.insulated": "Isolato",
+    "itemTrait.vminus.lightfooted": "Leggero come un uccello",
+    "itemTrait.vminus.piglin_charm": "Incantazione piglina",
+    "rarity.common": "Comune",
+    "rarity.delicacy": "Rarità delicata",
+    "rarity.epic": "Epic",
+    "rarity.inverted": "Invertito",
+    "rarity.legendary": "Leggendario",
+    "rarity.rare": "Raro",
+    "rarity.uncommon": "Raro",
+    "rarity.unobtainable": "Inottenibile"
+}

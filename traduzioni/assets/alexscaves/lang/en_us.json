@@ -1710,5 +1710,17 @@
     "rarity.alexscaves.demonic.name": "Demonic",
     "rarity.alexscaves.nuclear.name": "Nuclear",
     "rarity.alexscaves.rainbow.name": "Rainbow",
+    "trim_material.alexscaves.amber": "Amber Material",
+    "trim_material.alexscaves.azure_neodymium": "Azure Neodymium Material",
+    "trim_material.alexscaves.bioluminesscence": "Bioluminesscence Material",
+    "trim_material.alexscaves.candy_cane": "Candy Cane Material",
+    "trim_material.alexscaves.occult_gem": "Occult Gem Material",
+    "trim_material.alexscaves.pearl": "Pearl Material",
+    "trim_material.alexscaves.pure_darkness": "Pure Darkness Material",
+    "trim_material.alexscaves.radiant_essence": "Radiant Essence Material",
+    "trim_material.alexscaves.scarlet_neodymium": "Scarlet Neodymium Material",
+    "trim_material.alexscaves.sulfur": "Sulfur Material",
+    "trim_material.alexscaves.tectonic": "Tectonic Shard Material",
+    "trim_material.alexscaves.uranium": "Uranium Material",
     "trim_pattern.alexscaves.polarity": "Polarity Armor Trim"
 }

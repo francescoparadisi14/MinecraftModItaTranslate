@@ -1,0 +1,18 @@
+{
+    "shell.extra_shells.ancient": "Antico",
+    "shell.extra_shells.chibnall_rtd_era": "chibnall\/rtd2",
+    "shell.extra_shells.delorean": "DeLorean",
+    "shell.extra_shells.emerald": "Emeraldo",
+    "shell.extra_shells.engineers": "Ingegneri",
+    "shell.extra_shells.glasgow": "Glasgow",
+    "shell.extra_shells.lego": "Lego",
+    "shell.extra_shells.maddoc_2005": "(maddoc) Tannente",
+    "shell.extra_shells.maddoc_brachacki": "(maddoc) Brachaki",
+    "shell.extra_shells.maddoc_newberry": "(maddoc) newberry",
+    "shell.extra_shells.maddoc_smith": "(maddoc) Smith",
+    "shell.extra_shells.maddoc_whittaker": "(maddoc) Whittaker",
+    "shell.extra_shells.moffat_era": "Era di Moffat",
+    "shell.extra_shells.old_school": "Vecchio stile",
+    "shell.extra_shells.rtd_era": "Era di rtd",
+    "shell.extra_shells.sea_blue": "Blu del mare"
+}

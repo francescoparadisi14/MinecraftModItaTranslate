@@ -1,0 +1,17 @@
+{
+    "extraquests.key_value.key": "Key",
+    "extraquests.key_value.key.tooltip": "Key for storing values",
+    "extraquests.key_value.title": "%s: %s",
+    "extraquests.key_value.value": "Value",
+    "extraquests.key_value.value.tooltip": "Key value",
+    "extraquests.reward.command.console": "Console",
+    "extraquests.reward.command.console.tooltip": "Execute a command from the console",
+    "extraquests.timer.questid": "The quest ID to reset",
+    "extraquests.timer.questid.tooltip": "Leave blank to reset the current quest",
+    "extraquests.timer.time": "Time to quest reset",
+    "extraquests.timer.time.tooltip": "Number of second until the quest resets. If the task is team-based, then make the reward team-based.",
+    "extraquests.timer.title": "Reset every %s second",
+    "ftbquests.reward.extraquests.key_value": "Key-value",
+    "ftbquests.reward.extraquests.timer": "Timer",
+    "ftbquests.task.extraquests.key_value": "Key-value"
+}

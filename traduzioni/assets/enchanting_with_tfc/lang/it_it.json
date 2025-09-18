@@ -1,0 +1,12 @@
+{
+    "enchantment.enchanting_with_tfc.crushing_protection": "Protezione da schiacciamento",
+    "enchantment.enchanting_with_tfc.crushing_protection.desc": "Riduce l'effetto del danno di schiacciamento.",
+    "enchantment.enchanting_with_tfc.hunting": "Caccia",
+    "enchantment.enchanting_with_tfc.hunting.desc": "Incrementa il danno contro i predatori.",
+    "enchantment.enchanting_with_tfc.piercing_protection": "Protezione da punta",
+    "enchantment.enchanting_with_tfc.piercing_protection.desc": "Riduce l'effetto del danno perforante.",
+    "enchantment.enchanting_with_tfc.slashing_protection": "Protezione colpo",
+    "enchantment.enchanting_with_tfc.slashing_protection.desc": "Riduce l'effetto del danno da colpo.",
+    "enchantment.enchanting_with_tfc.slow_aspect": "Aspetto lento",
+    "enchantment.enchanting_with_tfc.slow_aspect.desc": "Lentezza del bersaglio."
+}

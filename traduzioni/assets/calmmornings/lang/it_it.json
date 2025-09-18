@@ -1,0 +1,22 @@
+{
+    "calmmornings.config.AMBIENT_CHECK": "Controllo ambientale",
+    "calmmornings.config.BOSS_CHECK": "Controllo boss",
+    "calmmornings.config.CATEGORY_CHECKS": "Verifiche condizionali",
+    "calmmornings.config.CATEGORY_GENERAL": "Impostazioni generali",
+    "calmmornings.config.CATEGORY_MOB_GROUP_CHECKS": "Controlli di gruppo di mob",
+    "calmmornings.config.CATEGORY_RANGE": "Impostazioni di range",
+    "calmmornings.config.CONSTRUCT_CHECK": "Controllo costruzione",
+    "calmmornings.config.CREATURE_CHECK": "Controllo creature",
+    "calmmornings.config.ENABLED_SCALING": "Abilita scalatura",
+    "calmmornings.config.ENABLE_LIST": "Abilita lista",
+    "calmmornings.config.HORIZONTAL_RANGE": "Raggio orizzontale",
+    "calmmornings.config.LATE_CHECK": "Controllo tardivo",
+    "calmmornings.config.MISC_CHECK": "Controllo opzionale",
+    "calmmornings.config.MOB_GROUP_LIST": "Elenco di gruppi di mob",
+    "calmmornings.config.MOB_LIST": "Elenco di mostri",
+    "calmmornings.config.MONSTER_CHECK": "Controllo mostri",
+    "calmmornings.config.MORNING_CHECK": "Controllo mattino",
+    "calmmornings.config.PLAYER_CHECK": "Controllo giocatore",
+    "calmmornings.config.VERTICAL_RANGE": "Intervallo verticale",
+    "calmmornings.config.VILLAGER_CHECK": "Controllo villaggio"
+}

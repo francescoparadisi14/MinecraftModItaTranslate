@@ -1,0 +1,21 @@
+{
+    "aces_spell_utils.configuration.section.aces_spell_utils.common.toml": "Configurazioni degli utili incantesimi di Ace",
+    "aces_spell_utils.configuration.section.aces_spell_utils.common.toml.title": "Configurazioni degli utili incantesimi di ace",
+    "aces_spell_utils.configuration.title": "Configurazioni degli utili incantesimi di ace",
+    "attribute.aces_spell_utils.evasive": "Evasivo",
+    "attribute.aces_spell_utils.goliath_slayer": "Assassino di giganti",
+    "attribute.aces_spell_utils.hunger_steal": "Rubare fame",
+    "attribute.aces_spell_utils.mana_rend": "Rendicino di mana",
+    "attribute.aces_spell_utils.mana_steal": "Rubare mana",
+    "attribute.aces_spell_utils.spell_res_penetration": "Penetrazione della resistenza magica",
+    "creative_tab.aces_spell_utils.items": "Esempi di oggetti per gli strumenti incantesimi di Ace",
+    "curios.identifier.sheath": "Fodero per spada",
+    "curios.modifiers.null": "Modificatore vuoto",
+    "curios.modifiers.sheath": "Fodero di lama",
+    "item.aces_spell_utils.example_curio": "pendente da teschio",
+    "item.aces_spell_utils.example_curio.desc": "Un pendente che emana una luce mortale",
+    "item.aces_spell_utils.example_sheath": "Fodero stellaluce",
+    "item.aces_spell_utils.example_sheath.desc": "Al colpo, evoca un cometa sopra la testa dell'entità",
+    "item.aces_spell_utils.example_staff": "Staffetta stellare",
+    "itemGroup.aces_spell_utils": "Strumenti incantesimi di Ace"
+}

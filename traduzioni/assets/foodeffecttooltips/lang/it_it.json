@@ -1,0 +1,14 @@
+{
+    "cloth_config.FoodEffectTooltips.BlacklistedItemIdentifiers": "Identificatori di item esclusi",
+    "cloth_config.FoodEffectTooltips.BlacklistedModsIDs": "ID dei mod blacklistati",
+    "cloth_config.FoodEffectTooltips.ShowSuspiciousStewTooltips": "Mostra tooltip sospetto stufato",
+    "cloth_config.FoodEffectTooltips.UseAsWhitelistInstead": "Usa come lista bianca invece",
+    "cloth_config.FoodEffectTooltips.category.general": "Generale",
+    "config.foodeffecttooltips.title": "Intestazioni degli effetti alimentari",
+    "foodeffecttooltips.food.whenEaten": "quando mangiato:",
+    "foodeffecttooltips.food.withChance": "%s [%d%]",
+    "text.cloth_config.FoodEffectTooltips.option.BlacklistedItemIdentifiers": "Identificatori di items esclusi",
+    "text.cloth_config.FoodEffectTooltips.option.BlacklistedModsIDs": "ID dei mod bloccati",
+    "text.cloth_config.FoodEffectTooltips.option.ShowSuspiciousStewTooltips": "Mostra tooltip effetti alimentari sospetti del brodo",
+    "text.cloth_config.FoodEffectTooltips.option.UseAsWhitelistInstead": "Usare liste come whitelist al posto"
+}

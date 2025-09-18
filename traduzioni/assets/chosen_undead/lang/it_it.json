@@ -1,0 +1,10 @@
+{
+    "advancements.savetheworld.descr": "Indossare armatura dei morti scelti",
+    "advancements.savetheworld.title": "Ora, salviamo il mondo?",
+    "item.chosen_undead.chosenundead_boots": "Stivali scelti dei morti viventi",
+    "item.chosen_undead.chosenundead_chestplate": "Corazza dei morti scelti",
+    "item.chosen_undead.chosenundead_helmet": "Elmetto dei morti scelti",
+    "item.chosen_undead.chosenundead_leggings": "Pantaloni scelti dei morti viventi",
+    "itemGroup.tabchosenundeadarmor": "Armi scelte dei morti viventi",
+    "item_group.chosen_undead.chosenundeadarmor": "Armi dell'undead scelto"
+}

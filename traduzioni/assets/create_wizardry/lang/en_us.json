@@ -1,0 +1,7 @@
+{
+    "fluid_type.create_wizardry.lightning": "Liquid Lightning",
+    "fluid_type.create_wizardry.mana": "Mana",
+    "item.create_wizardry.lightning.guide": "An extremely volatile fluid that is charged with electric energy. Can be obtained by channeling lightning bolts onto the top of fluid tanks using a lightning rod or extracting from charged creepers in a bottle.",
+    "item.create_wizardry.mana.guide": "The liquid essence of magic. Can be used to form arcane essence when combined with dust.",
+    "item.irons_spellbooks.blood_staff.guide": "The lifeblood of all organisms. Can be obtained by compressing meat or boiling mobs."
+}

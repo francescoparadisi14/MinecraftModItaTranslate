@@ -1,0 +1,23 @@
+{
+    "gui.extendedterminal.advancedTerminal": "Termineale avanzato esteso",
+    "gui.extendedterminal.basicTerminal": "Termineale esteso di base",
+    "gui.extendedterminal.eliteTerminal": "Termine esteso elite",
+    "gui.extendedterminal.endTerminal": "Fine del terminale di crafting",
+    "gui.extendedterminal.extremeTerminal": "Termine di crafting estremo",
+    "gui.extendedterminal.netherTerminal": "Termine di crafting del Nether",
+    "gui.extendedterminal.sculkTerminal": "Termine di crafting sculk",
+    "gui.extendedterminal.ultimateTerminal": "Terminal esteso definitivo",
+    "item.extendedterminal.advanced_terminal": "Terminal di crafting esteso avanzato",
+    "item.extendedterminal.basic_terminal": "Terminal di crafting esteso di base",
+    "item.extendedterminal.compat_processor": "Processore di compatibilità",
+    "item.extendedterminal.elite_terminal": "Terminal di crafting esteso elite",
+    "item.extendedterminal.end_terminal": "Termine di crafting finale",
+    "item.extendedterminal.extreme_terminal": "Terminal di crafting estremo",
+    "item.extendedterminal.item.tooltip.unregistered_terminal": "Terminal non registrato",
+    "item.extendedterminal.neo_extreme_terminal": "Terminal di crafting estremo",
+    "item.extendedterminal.nether_terminal": "Terminal di crafting dell'Inferno",
+    "item.extendedterminal.printed_compat_processor": "Circuito di compatibilità stampato",
+    "item.extendedterminal.sculk_terminal": "Termine di crafting sculk",
+    "item.extendedterminal.ultimate_terminal": "Terminal di crafting esteso ultimo",
+    "itemGroup.extendedterminal": "Terminal esteso"
+}

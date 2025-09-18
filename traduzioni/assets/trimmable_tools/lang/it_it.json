@@ -1,0 +1,23 @@
+{
+    "advancements.adventure.trim_with_any_armor_pattern.description": "Tagliare un utensile o pezzo d'armatura su una tavola di fonderia",
+    "item.minecraft.smithing_template.armor_trim.applies_to": "armatura e strumenti",
+    "item.minecraft.smithing_template.armor_trim.base_slot_description": "Aggiungi pezzo di strumento o armatura",
+    "trim_pattern.minecraft.bolt": "Schema di bullone",
+    "trim_pattern.minecraft.coast": "Modello di costa",
+    "trim_pattern.minecraft.dune": "Modello duna di Minecraft",
+    "trim_pattern.minecraft.eye": "Pattern occhio di Minecraft",
+    "trim_pattern.minecraft.flow": "Schema di flusso Minecraft",
+    "trim_pattern.minecraft.host": "Pattern di host Minecraft",
+    "trim_pattern.minecraft.raiser": "Schema di alleviatore",
+    "trim_pattern.minecraft.rib": "Pattino rib",
+    "trim_pattern.minecraft.sentry": "Modello di sentinella",
+    "trim_pattern.minecraft.shaper": "Modello di forma del gioco Minecraft",
+    "trim_pattern.minecraft.silence": "Pattino di silenzio",
+    "trim_pattern.minecraft.snout": "Schema di naso",
+    "trim_pattern.minecraft.spire": "Schema della torre di guardia",
+    "trim_pattern.minecraft.tide": "Schema di marea",
+    "trim_pattern.minecraft.vex": "Pattern vex",
+    "trim_pattern.minecraft.ward": "Modello di guardia",
+    "trim_pattern.minecraft.wayfinder": "Modello di orientamento",
+    "trim_pattern.minecraft.wild": "Pattern selvaggio"
+}

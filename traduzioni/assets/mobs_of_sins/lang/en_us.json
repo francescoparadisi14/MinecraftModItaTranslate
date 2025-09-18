@@ -1,0 +1,21 @@
+{
+    "effect.mobs_of_sins.bane_of_undead": "Bane of Undead",
+    "effect.mobs_of_sins.emergency_peel": "Emergency Peel",
+    "effect.mobs_of_sins.lingering_pheromones": "Lingering Pheromones",
+    "effect.mobs_of_sins.paralyzing_sting": "Paralyzing Sting",
+    "effect.mobs_of_sins.piercing_eyes": "Piercing Eyes",
+    "effect.mobs_of_sins.serrated": "Serrated",
+    "item.mobs_of_sins.capucin_monkey_heart": "§6Capucin Monkey Heart",
+    "item.mobs_of_sins.cockroach_heart": "§6Cockroach Heart",
+    "item.mobs_of_sins.frilled_shark_ribs": "§6Frilled Shark Ribs",
+    "item.mobs_of_sins.gazelle_ribs": "§6Gazelle Ribs",
+    "item.mobs_of_sins.grizzly_bear_ribs": "§6Grizzly Bear Ribs",
+    "item.mobs_of_sins.mobs_of_sins_icon": "Mobs Of Sins Icon",
+    "item.mobs_of_sins.nuisances_muscle": "§6Nuisance's Muscles",
+    "item.mobs_of_sins.rattle_sickle_of_struggle": "§eRattled Sickle Of Struggle",
+    "item.mobs_of_sins.soul_sickle_of_struggle": "§eSoulish Of Struggle",
+    "item.mobs_of_sins.tarantula_hawk_muscles": "§6Tarantula Hawk Muscles",
+    "item.mobs_of_sins.tentacle_sickle_of_struggle": "§eTentacled Sickle Of Struggle",
+    "item.mobs_of_sins.tiger_muscles": "§6Tiger Muscles",
+    "item_group.mobs_of_sins.mobs_of_sins": "Mobs Of Sins: Alex's Mobs Integration"
+}

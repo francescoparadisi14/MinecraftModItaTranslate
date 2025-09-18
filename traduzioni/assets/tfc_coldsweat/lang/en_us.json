@@ -1,0 +1,12 @@
+{
+    "block.tfc_coldsweat.rock.magma.andesite": "Andesite Magma Block",
+    "block.tfc_coldsweat.rock.magma.basalt": "Basalt Magma Block",
+    "block.tfc_coldsweat.rock.magma.dacite": "Dacite Magma Block",
+    "block.tfc_coldsweat.rock.magma.diorite": "Diorite Magma Block",
+    "block.tfc_coldsweat.rock.magma.gabbro": "Gabbro Magma Block",
+    "block.tfc_coldsweat.rock.magma.granite": "Granite Magma Block",
+    "item.tfc_coldsweat.cursed_prepared_hide": "Cursed Prepared Hide",
+    "item.tfc_coldsweat.cursed_scraped_hide": "Cursed Scraped Hide",
+    "item.tfc_coldsweat.cursed_soaked_hide": "Cursed Soaked Hide",
+    "tfc.jei.hoglin_hide_knapping": "Cursed Leather Knapping"
+}

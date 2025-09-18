@@ -1,0 +1,13 @@
+{
+    "death.attack.exhaustion": "%1$s died from exhaustion",
+    "death.attack.exhaustion.item": "%1$s was killed by %2$s using %3$s",
+    "death.attack.exhaustion.player": "%1$s died from exhaustion whilst trying to escape %2$s",
+    "effect.sleep_deprived.awake": "Awake",
+    "effect.sleep_deprived.sleep_deprivation": "Sleep Deprived",
+    "effect.sleepmechanic.sleep_deprived": "Sleep Deprived",
+    "item.sleep_deprived.debug_stick": "Stick of Tiredness",
+    "item.sleep_deprived.red_horse_energy": "Red Horse Energy",
+    "item.sleepmechanic.debug_stick": "Debug Stick",
+    "subtitles.yawn": "[Yawn]",
+    "subtitles.yawn2": ""
+}

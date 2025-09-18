@@ -1,0 +1,13 @@
+{
+    "key.category.playeremotes": "PlayerEmotes",
+    "key.playeremotes.trigger": "QuickWheel",
+    "playeremotes.author": "Author:",
+    "playeremotes.cancel": "Cancel",
+    "playeremotes.config": "Config",
+    "playeremotes.done": "Done",
+    "playeremotes.emotelist": "Emote List",
+    "playeremotes.search": "Search...",
+    "screen.playeremotes.emoteconfig": "Emote Config Screen",
+    "screen.playeremotes.emotelist": "Emote List Screen",
+    "screen.playeremotes.quickwheel": "Quick Wheel Screen"
+}

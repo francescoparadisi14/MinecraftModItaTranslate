@@ -1,0 +1,13 @@
+{
+    "$_comment1": "do not translate here",
+    "$_comment2": "translate here",
+    "block.uncraftingtable76.uncraftingtable": "Uncrafting Table",
+    "category.uncraftingtable76.general": "General",
+    "container.uncraftingtable76.uncrafting": "Uncrafting Table",
+    "message.uncraftingtable76.not_enough_xp": "§7[Uncrafting Table] §cNot enough experience",
+    "option.uncraftingtable76.consume_xp": "Consume XP",
+    "option.uncraftingtable76.disable_uncrafting_uu_matter": "Disable uncrafting UU-Matter (Tech Reborn)",
+    "option.uncraftingtable76.restore_enchantment_book": "Restore enchantment books",
+    "option.uncraftingtable76.uncraft_damaged_item": "Enable uncrafting damaged item",
+    "title.uncraftingtable76.config": "Uncrafting Table Config"
+}

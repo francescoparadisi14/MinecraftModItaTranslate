@@ -1,0 +1,13 @@
+{
+    "death.attack.exhaustion": "%1$s è morto per stanchezza",
+    "death.attack.exhaustion.item": "Fu ucciso da %2$s utilizzando %3$s",
+    "death.attack.exhaustion.player": "%1$s è morto per stanchezza mentre tentava di fuggire da %2$s",
+    "effect.sleep_deprived.awake": "Destrautito",
+    "effect.sleep_deprived.sleep_deprivation": "Privato del sonno",
+    "effect.sleepmechanic.sleep_deprived": "Spossato",
+    "item.sleep_deprived.debug_stick": "Foglia di stanchezza",
+    "item.sleep_deprived.red_horse_energy": "Energia del cavallo rosso",
+    "item.sleepmechanic.debug_stick": "Astuccio di debug",
+    "subtitles.yawn": "[yawn]",
+    "subtitles.yawn2": ""
+}

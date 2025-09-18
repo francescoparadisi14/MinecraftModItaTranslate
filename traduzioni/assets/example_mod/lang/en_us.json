@@ -1,4 +1,6 @@
 {
+    "bossultimatum.configuration.client": "client",
+    "bossultimatum.configuration.example": "example",
     "sodiumoptionsmodcompat.configuration.client": "client",
     "sodiumoptionsmodcompat.configuration.example": "example",
     "welcomescreen.configuration.client": "client",

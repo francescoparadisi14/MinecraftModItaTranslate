@@ -1,0 +1,11 @@
+{
+    "block.bitsandchisels.bits_block": "Blocco di raccolta bit",
+    "item.bitsandchisels.bit_item": "Bit %s",
+    "item.bitsandchisels.blueprint": "Disegno",
+    "item.bitsandchisels.blueprint.unwritten": "Disegno (inedito)",
+    "item.bitsandchisels.diamond_chisel": "Liscio di diamante semplice",
+    "item.bitsandchisels.iron_chisel": "Liscio di ferro semplice",
+    "item.bitsandchisels.smart_chisel": "Chiusa intelligente",
+    "item.bitsandchisels.wrench": "Chiusa a vite (bits e chiseli)",
+    "itemGroup.bitsandchisels.bitsandchisels": "Bit e ceselli"
+}

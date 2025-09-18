@@ -1,0 +1,15 @@
+{
+    "block.hardmodeores.richcopperore": "Rich Copper Ore",
+    "block.hardmodeores.richdeepslatecopperore": "Rich Deepslate Copper Ore",
+    "block.hardmodeores.richdeepslatediamondore": "Rich Deepslate Diamond Ore",
+    "block.hardmodeores.richdeepslategoldore": "Rich Deepslate Gold Ore",
+    "block.hardmodeores.richdeepslateironore": "Rich Deepslate Iron Ore",
+    "block.hardmodeores.richdiamondore": "Rich Diamond Ore",
+    "block.hardmodeores.richgoldore": "Rich Gold Ore",
+    "block.hardmodeores.richironore": "Rich Iron Ore",
+    "item.hardmodeores.copper_nugget": "Copper Nugget",
+    "item.hardmodeores.diamond_shard": "Diamond Shard",
+    "item.hardmodeores.pure_raw_copper": "Pure Raw Copper",
+    "item.hardmodeores.pure_raw_gold": "Pure Raw Gold",
+    "item.hardmodeores.pure_raw_iron": "Pure Raw Iron"
+}

@@ -1,0 +1,20 @@
+{
+    "alert.tomeofblood.no_lp": "Il tuo spirito si sente debole...",
+    "ars_nouveau.school.bloodmagic": "Magia del sangue",
+    "effect.tomeofblood.serene": "Serenità",
+    "effect.tomeofblood.vulnerable": "Vulnerabile",
+    "item.tomeofblood.apprentice_tome_of_blood": "Tomo di sangue apprendista",
+    "item.tomeofblood.archmage_tome_of_blood": "Tomo di sangue dell'arcimago",
+    "item.tomeofblood.living_mage_boots": "Stivali dell'eretico",
+    "item.tomeofblood.living_mage_hood": "Cappuccio dell'eretico",
+    "item.tomeofblood.living_mage_leggings": "Pantaloni eretici",
+    "item.tomeofblood.living_mage_robes": "Vesti dell'eretico",
+    "item.tomeofblood.mint_tea": "Tè di menta",
+    "item.tomeofblood.novice_tome_of_blood": "Tomo di sangue iniziante",
+    "itemGroup.tomeofblood.tome_of_blood": "Codice dei morti",
+    "living_upgrade.tomeofblood.mana_bonus": "Sintonizzazione mana",
+    "tomeofblood.glyph_desc.glyph_sentient_harm": "Consuma l'anima del demone e attacca il tuo bersaglio (il danno è proporzionale all'anima presente nell'inventario). Il bersaglio lascia cadere anelli di anima alla morte. $(br2)Estende il tempo applicando un effetto di pozione in base al tipo di anima. $(br2)Rudimentale - veleno $(br)Corrosivo - atrofizzazione $(br)Vendicativo - debolezza $(br)Fermo - lentezza $(br)Distruttivo - vulnerabilità",
+    "tomeofblood.glyph_desc.glyph_sentient_wrath": "Segna un bersaglio al primo colpo. Attaccando un bersaglio segnato si esegue un attacco pesante a raggio e si segnano tutti i bersagli. Consuma la volontà. (br2)Concede bonus al giocatore all'uccisione quando non si utilizza la volontà cruda.(br2)Corrosivo - resistenza(bre)Vendicativo - velocità(bre)Fermo - assorbimento(bre)Distruttivo - potere di incantesimo",
+    "tomeofblood.glyph_name.glyph_sentient_harm": "Danno ai sensati",
+    "tomeofblood.glyph_name.glyph_sentient_wrath": "Ira senziente"
+}

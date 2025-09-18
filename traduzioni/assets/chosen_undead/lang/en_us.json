@@ -1,0 +1,10 @@
+{
+    "advancements.savetheworld.descr": "wear chosen undead armor",
+    "advancements.savetheworld.title": "Now, let's go save the world?",
+    "item.chosen_undead.chosenundead_boots": "Chosen undead Boots",
+    "item.chosen_undead.chosenundead_chestplate": "Chosen undead Body",
+    "item.chosen_undead.chosenundead_helmet": "Chosen undead Helmet",
+    "item.chosen_undead.chosenundead_leggings": "Chosen undead Leggings",
+    "itemGroup.tabchosenundeadarmor": "Chosen undead armor",
+    "item_group.chosen_undead.chosenundeadarmor": "Chosen undead armor"
+}

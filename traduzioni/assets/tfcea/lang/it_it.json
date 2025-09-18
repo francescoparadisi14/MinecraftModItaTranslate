@@ -1,0 +1,7 @@
+{
+    "block.tfcea.refrigerator": "Frigorifero",
+    "item.tfcea.appliances.portable_refrigerator": "Riscaldatore portatile",
+    "itemGroup.tfcea.creative_tab": "Pannelli elettromeccanici TFC",
+    "tooltip.tfcea.food_trait.refrigerating": "Raffreddamento",
+    "tooltip.tfcea.toggle": "Attiva\/Disattiva"
+}

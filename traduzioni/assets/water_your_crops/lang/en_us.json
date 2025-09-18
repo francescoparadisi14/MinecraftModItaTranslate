@@ -1,0 +1,4 @@
+{
+    "gamerule.cropDeathRate": "Drop Death Rate",
+    "gamerule.cropDeathRate.description": "Crop death rate if they aren't being watered. Set to zero to disable crop death."
+}

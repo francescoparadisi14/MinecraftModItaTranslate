@@ -1,0 +1,12 @@
+{
+    "block.tfc_coldsweat.rock.magma.andesite": "Blocco di andesite magma",
+    "block.tfc_coldsweat.rock.magma.basalt": "Blocco di magma di basalto",
+    "block.tfc_coldsweat.rock.magma.dacite": "Blocco di magmatico dacita",
+    "block.tfc_coldsweat.rock.magma.diorite": "Blocco di magmadiorite",
+    "block.tfc_coldsweat.rock.magma.gabbro": "Blocco di gabbro magma",
+    "block.tfc_coldsweat.rock.magma.granite": "Blocco di granito magma",
+    "item.tfc_coldsweat.cursed_prepared_hide": "Pelle preparata maledetta",
+    "item.tfc_coldsweat.cursed_scraped_hide": "Pelle di cuoio maledetta raschiata",
+    "item.tfc_coldsweat.cursed_soaked_hide": "Pelle bagnata maledetta",
+    "tfc.jei.hoglin_hide_knapping": "Affilatura di pelle maledetta"
+}

@@ -1,0 +1,5 @@
+{
+    "toast.polytone.early_load_fail": "Il caricamento delle risorse di polytone è fallito in anticipo",
+    "toast.polytone.lazy_load_fail": "Il caricamento dei risorse di polytone è fallito in ritardo.",
+    "toast.polytone.load_fail": "Il pacchetto presenta errori. Verifica il file log\/polytone.log"
+}

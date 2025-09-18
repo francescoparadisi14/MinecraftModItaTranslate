@@ -1,0 +1,14 @@
+{
+    "enchantment.shieldmechanics.block_blind_enchant": "Cecità - scudo",
+    "enchantment.shieldmechanics.block_blind_enchant.desc": "Caso di cecità degli attaccanti al blocco",
+    "enchantment.shieldmechanics.block_damage_enchant": "Bloccaggio - scudo",
+    "enchantment.shieldmechanics.block_damage_enchant.desc": "Incrementa l'ammontare di danno bloccato",
+    "enchantment.shieldmechanics.block_knock_back_enchant": "Ripulsione indietro - scudo",
+    "enchantment.shieldmechanics.block_knock_back_enchant.desc": "Caso di respingimento degli attaccanti al blocco",
+    "enchantment.shieldmechanics.block_last_resort_enchant": "Ultimo rifugio - scudo",
+    "enchantment.shieldmechanics.block_last_resort_enchant.desc": "Caso di emergenza: possibilità di salvarti quando la tua vita è bassa e blocchi un attacco.",
+    "enchantment.shieldmechanics.block_slowness_enchant": "Lentezza - scudo",
+    "enchantment.shieldmechanics.block_slowness_enchant.desc": "Caso di rallentimento degli attaccanti al bloccare",
+    "shieldmechanics.blockdmgreduct": "Riduzione danno su blocco: %s",
+    "shieldmechanics.holddmgreduct": "Riduzione danno mentre si tiene: %s"
+}

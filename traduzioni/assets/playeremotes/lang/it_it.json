@@ -1,0 +1,13 @@
+{
+    "key.category.playeremotes": "Emozioni del giocatore",
+    "key.playeremotes.trigger": "Pulsante rapido del volantino",
+    "playeremotes.author": "Autore:",
+    "playeremotes.cancel": "Annulla",
+    "playeremotes.config": "Configurazione emozioni giocatore",
+    "playeremotes.done": "Fatto",
+    "playeremotes.emotelist": "Elenco di emozioni",
+    "playeremotes.search": "Cerca...",
+    "screen.playeremotes.emoteconfig": "Schermo di configurazione degli emotes del giocatore",
+    "screen.playeremotes.emotelist": "Schermo elenco emoticon",
+    "screen.playeremotes.quickwheel": "Schermo ruota rapida"
+}

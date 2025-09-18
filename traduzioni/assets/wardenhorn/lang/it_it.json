@@ -1,0 +1,10 @@
+{
+    "death.attack.horned_shriek.player": "%1$s è stato distrutto da un urlo acustico lanciato da %2$s",
+    "instrument.wardenhorn.call_warden_horn": "urlaio",
+    "item.wardenhorn.warden_horn": "Corno del guardiano (in colore dorato)",
+    "wardenhorn.text.damage": "Danni d'attacco di %1$s",
+    "wardenhorn.text.knockback": "Forza di respingimento %1$s",
+    "wardenhorn.text.range": "Raggio di %1$s blocchi",
+    "wardenhorn.text.recharge_time": "Tempo di ricarica in  %1$s secondi",
+    "wardenhorn.text.whatitdo": "Usato per urlare gli strilli sonoramente carichi del custode"
+}

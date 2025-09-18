@@ -1,0 +1,11 @@
+{
+    "item.overclocked_watches.diamond_watch": "Diamond Watch",
+    "item.overclocked_watches.golden_watch": "Golden Watch",
+    "item.overclocked_watches.netherite_watch": "Netherite Watch",
+    "itemGroup.overclockedWatches": "Overclocked Watches!",
+    "key.category.overclocked_watches.day_night": "Overclocked Watches",
+    "key.overclocked_watches.day_night": "Toggle Day\/Night",
+    "magic.overclocked_watches.charge_consumed": "Overclocked Watch Charge Consumed!",
+    "text.overclocked_watches.charges": "Charges: %s",
+    "text.overclocked_watches.default_charges": "Default Charges: %s"
+}

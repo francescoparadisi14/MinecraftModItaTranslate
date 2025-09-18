@@ -1,0 +1,18 @@
+{
+    "item.endores.end_ore_coal": "Carbone di fine della terra",
+    "item.endores.end_ore_copper": "Minerale di rame dell'oltretomba",
+    "item.endores.end_ore_diamond": "Carbone di fine della terra",
+    "item.endores.end_ore_emerald": "Minerale di emeraldo dell'oltretomba",
+    "item.endores.end_ore_gold": "Carbone d'oro dell'estremo",
+    "item.endores.end_ore_iron": "Carbone di ferro dell'End",
+    "item.endores.end_ore_lapis": "Carbone di lapislazzulo dell'oltretomba",
+    "item.endores.end_ore_redstone": "Carbone di Endrosso rossa",
+    "item.endores.nether_ore_coal": "Carbone dell'oltretomba",
+    "item.endores.nether_ore_copper": "Carbone del Nether",
+    "item.endores.nether_ore_diamond": "Carbone di diamante del Nether",
+    "item.endores.nether_ore_emerald": "Carbone di emerodio del Nether",
+    "item.endores.nether_ore_iron": "Carbone di ferro del Nether",
+    "item.endores.nether_ore_lapis": "Carbone di lapislazzulo dell'oltretomba",
+    "item.endores.nether_ore_redstone": "Carbone del Nether di Redstone",
+    "itemGroup.endores": "Minerali dell'End"
+}

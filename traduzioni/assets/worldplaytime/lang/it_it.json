@@ -1,0 +1,20 @@
+{
+    "worldplaytime.config.category.general": "Generale",
+    "worldplaytime.config.category.server_entry": "Inserimento server",
+    "worldplaytime.config.category.world_entry": "Ingresso mondo",
+    "worldplaytime.config.header": "Configurazione tempo di gioco mondo",
+    "worldplaytime.config.serverPlayTimeColor": "Colore del tempo di gioco del server",
+    "worldplaytime.config.serverPlayTimePosition": "Posizione tempo di gioco del server",
+    "worldplaytime.config.serverPlayTimePosition.after_name": "Dopo il nome",
+    "worldplaytime.config.serverPlayTimePosition.behind_count": "Conteggio dietro",
+    "worldplaytime.config.serverPlayTimePosition.left": "Sinistra",
+    "worldplaytime.config.serverPlayTimePosition.right": "Destra",
+    "worldplaytime.config.showServerPlayTime": "Mostra tempo di gioco del server",
+    "worldplaytime.config.showWorldPlayTime": "Mostra tempo di gioco del mondo",
+    "worldplaytime.config.worldPlayTimeColor": "Colore tempo di gioco mondo",
+    "worldplaytime.config.worldPlayTimePosition": "Posizione tempo di gioco mondo",
+    "worldplaytime.config.worldPlayTimePosition.left": "Sinistra",
+    "worldplaytime.config.worldPlayTimePosition.right": "Destra",
+    "worldplaytime.config.worldPlayTimePosition.top_right": "Destra superiore",
+    "worldplaytime.format": "%sh"
+}

@@ -1,0 +1,4 @@
+{
+    "gamerule.hardcoreGamerule": "Regola del gioco hardcore",
+    "gamerule.hardcoreGamerule.description": "Se vero, trasformerà i giocatori in spettatori quando moriranno."
+}

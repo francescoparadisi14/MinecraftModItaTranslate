@@ -1,0 +1,5 @@
+{
+    "toast.polytone.early_load_fail": "Polytone Early Resource Reload failed",
+    "toast.polytone.lazy_load_fail": "Polytone Late Resource Reload failed",
+    "toast.polytone.load_fail": "Pack has errors. Check logs\/polytone.log"
+}

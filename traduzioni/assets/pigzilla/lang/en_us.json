@@ -1,0 +1,19 @@
+{
+    "block.pigzilla.vomit": "Vomit",
+    "entity.pigzilla.biting_pig": "Biting Pig",
+    "entity.pigzilla.laser_example": "Laser Example",
+    "entity.pigzilla.pigzilla": "Pigzilla",
+    "entity.pigzilla.quake_entity": "Quake Entity",
+    "entity.pigzilla.vibration_entity": "Vibration Entity",
+    "entity.pigzilla.vomit_ray": "Vomit Ray",
+    "fluid.pigzilla.vomit": "Vomit",
+    "item.pigzilla.biting_pig_spawn_egg": "Biting Pig Spawn Egg",
+    "item.pigzilla.laser_example_spawn_egg": "Laser Example Spawn Egg",
+    "item.pigzilla.laser_item": "Laser Item",
+    "item.pigzilla.pigzilla_spawn_egg": "Pigzilla Spawn Egg",
+    "item.pigzilla.vomit_bucket": "Vomit Bucket",
+    "item.pigzilla.vomit_ray_spawn_egg": "Vomit Ray Spawn Egg",
+    "subtitles.pigzilla_stomp": "Pigzilla stomps",
+    "subtitles.pigzilla_tusk_wielding": "Pigzilla wields its tusks",
+    "subtitles.tusk_wielding": "Pigzilla wields its tusks."
+}

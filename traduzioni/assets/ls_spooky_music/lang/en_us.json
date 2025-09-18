@@ -1,0 +1,14 @@
+{
+    "block.ls_spooky_music.block_trader_spooky_music": "Spooky Music Block",
+    "entity.minecraft.villager.ls_spooky_music.spooky_music_trader": "Spooky Music Trader",
+    "entity.villager.ls_spooky_music.spooky_music_trader": "Spooky Music Trader",
+    "gui.ls_spooky_music.screen_album_kurzel_covenant.label_jed_kurzel_alien_covenant": "Jed Kurzel - Alien Covenant",
+    "item.ls_spooky_music.album_kurzel_covenant": "Jed Kurzel - Alien Covenant",
+    "item.ls_spooky_music.block_trader_spooky_music": "Spooky Music Block",
+    "item.ls_spooky_music.disc_eleven_fixed": "Music DIsc",
+    "item.ls_spooky_music.disc_eleven_fixed.desc": "Jed Kurzel - Alien Covenant (fixed)",
+    "painting.ls_spooky_music.painting_alien.author": "Taknax",
+    "painting.ls_spooky_music.painting_alien.title": "Alien",
+    "subtitles.eleven_fixed": "Jed Kuzel - Alien Covenant",
+    "subtitles.spookybreathing": ""
+}

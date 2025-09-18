@@ -1,0 +1,15 @@
+{
+    "effect.scorpions.venom_coat_effect": "Vestito velenoso",
+    "entity.scorpions.brown_scorpions": "Scorpione marrone",
+    "entity.scorpions.emperor_scorpions": "Scorpione imperatore",
+    "entity.scorpions.nether_scorpions": "Scorpione del Nether",
+    "item.minecraft.lingering_potion.effect.venom_coat_potion": "Pozione di mantello velenoso persistente",
+    "item.minecraft.potion.effect.venom_coat_potion": "Potion di camicia veleno",
+    "item.minecraft.splash_potion.effect.venom_coat_potion": "Pozione di splendore velenoso",
+    "item.minecraft.tipped_arrow.effect.venom_coat_potion": "Freccia di veleno di copertura",
+    "item.scorpions.brown_scorpion_spawn_egg": "Uovo di generazione di scorpione marrone",
+    "item.scorpions.emperor_scorpion_spawn_egg": "Uovo di generazione del scorpione imperatore",
+    "item.scorpions.nether_scorpion_spawn_egg": "Uovo di generazione di scorpione dell'Inferno",
+    "item.scorpions.scorpion_stinger": "Punta scorpione",
+    "itemGroup.scorpions": "Mod scorpioni"
+}

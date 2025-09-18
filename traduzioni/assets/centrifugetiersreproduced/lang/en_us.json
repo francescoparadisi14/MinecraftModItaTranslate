@@ -1,0 +1,17 @@
+{
+    "block.centrifugetiersreproduced.tier_1_centrifuge_casing": "Tier 1 Centrifuge Casing",
+    "block.centrifugetiersreproduced.tier_1_centrifuge_controller": "Tier 1 Centrifuge Controller",
+    "block.centrifugetiersreproduced.tier_2_centrifuge_casing": "Tier 2 Centrifuge Casing",
+    "block.centrifugetiersreproduced.tier_2_centrifuge_controller": "Tier 2 Centrifuge Controller",
+    "block.centrifugetiersreproduced.tier_3_centrifuge_casing": "Tier 3 Centrifuge Casing",
+    "block.centrifugetiersreproduced.tier_3_centrifuge_controller": "Tier 3 Centrifuge Controller",
+    "block.centrifugetiersreproduced.tier_4_centrifuge_casing": "Tier 4 Centrifuge Casing",
+    "block.centrifugetiersreproduced.tier_4_centrifuge_controller": "Tier 4 Centrifuge Controller",
+    "itemGroup.centrifugetiersreproduced": "Centrifuge Tiers Reproduced",
+    "tooltip.centrifugetiersreproduced.hold_shift": "Hold shift for more info",
+    "tooltip.centrifugetiersreproduced.input_slots": "Input Slots: %s",
+    "tooltip.centrifugetiersreproduced.item_max_stack_size": "Item Max Stack Size: %s",
+    "tooltip.centrifugetiersreproduced.multiblock_size": "Multiblock Size: %s",
+    "tooltip.centrifugetiersreproduced.output_multiplier": "Output Multiplier: %s",
+    "tooltip.centrifugetiersreproduced.processing_speed": "Speed: %sx faster"
+}

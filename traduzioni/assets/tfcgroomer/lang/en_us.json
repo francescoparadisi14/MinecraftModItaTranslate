@@ -1,0 +1,18 @@
+{
+    "block.tfcgroomer.bismuth_bronze_grooming_station": "Bismuth Bronze Grooming Station",
+    "block.tfcgroomer.black_bronze_grooming_station": "Black Bronze Grooming Station",
+    "block.tfcgroomer.black_steel_grooming_station": "Black Steel Grooming Station",
+    "block.tfcgroomer.blue_steel_grooming_station": "Blue Steel Grooming Station",
+    "block.tfcgroomer.bronze_grooming_station": "Bronze Grooming Station",
+    "block.tfcgroomer.copper_grooming_station": "Copper Grooming Station",
+    "block.tfcgroomer.grooming_station": "Grooming Station",
+    "block.tfcgroomer.red_steel_grooming_station": "Red Steel Grooming Station",
+    "block.tfcgroomer.steel_grooming_station": "Steel Grooming Station",
+    "block.tfcgroomer.wrought_iron_grooming_station": "Wrought Iron Grooming Station",
+    "config.jade.plugin_tfcgroomer.grooming_station": "Grooming Station",
+    "gui.tfcgroomer.enable_breeding": "Enable Breeding",
+    "tfcgroomer.grooming_station.range": "Range: %s",
+    "tfcgroomer.tooltip.breedDisabled": "Breeding Disabled",
+    "tfcgroomer.tooltip.breedEnabled": "Breeding Enabled",
+    "tfcgroomer.tooltip.toggleBreeding": "Toggle Breeding"
+}

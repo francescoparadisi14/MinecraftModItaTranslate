@@ -1,0 +1,20 @@
+{
+    "improved-signs.midnightconfig.disableSignEditOnPlace": "Finestra di modifica del segno disabilitata al posizionamento",
+    "improved-signs.midnightconfig.enableFramePassthrough": "Passaggio attraverso il frame degli oggetti all'inventario",
+    "improved-signs.midnightconfig.enableFramePassthrough.tooltip": "Quando si clicca su un frame di oggetti appeso a un blocco di inventario, il click passa attraverso il frame di oggetti e interagisce con l'inventario. Utilizzare Shift-clic per forzare l'interazione con il frame di oggetti.",
+    "improved-signs.midnightconfig.enableInvisibleFrames": "Abilita la visualizzazione di frame degli oggetti invisibili",
+    "improved-signs.midnightconfig.enableSignCopy": "Copiare testo del segno",
+    "improved-signs.midnightconfig.enableSignCopy.tooltip": "Clicca il segno di partenza con un pacco di segni nella mano per copiare il testo sul lato cliccato.",
+    "improved-signs.midnightconfig.enableSignPassthrough": "Passaggio attraverso i segni per l'inventario",
+    "improved-signs.midnightconfig.enableSignPassthrough.tooltip": "Quando si clicca su un segno appeso su un blocco di inventario, il click passa attraverso lo stesso e interagisce con l'inventario. Utilizzare Shift-clic per forzare l'interazione con il segno.",
+    "improved-signs.midnightconfig.enableSignRetain": "Conserva testo su segnale al rompimento",
+    "improved-signs.midnightconfig.enableSignRetain.tooltip": "Quando si rompe un segno, l'oggetto conserva il testo e i colori di tintura.",
+    "improved-signs.midnightconfig.enum.InvisibleFrameEnum.AMETHYST_SHARD": "Frammento di ametista",
+    "improved-signs.midnightconfig.enum.InvisibleFrameEnum.GLASS_PANE": "Pannello di vetro",
+    "improved-signs.midnightconfig.invisibleFrameItem": "Oggetto utilizzato per rendere invisibili i frame degli oggetti",
+    "improved-signs.midnightconfig.retainDyeOnSignCopy": "Conserva i colori del segno durante la copia",
+    "improved-signs.midnightconfig.retainDyeOnSignCopy.tooltip": "Questo opzione copierà il colore e la luce del segno di partenza. Disabilitato per impostazione predefinita poiché duplicherebbe i colori.",
+    "improved-signs.midnightconfig.sectionItemFrames": "Frami oggetti",
+    "improved-signs.midnightconfig.sectionSigns": "Sezioni dei segni",
+    "improved-signs.midnightconfig.title": "Configurazione dei segni migliorati"
+}

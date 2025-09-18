@@ -1,6 +1,8 @@
 {
     "blueprintfix.configuration.client": "Configurazione del client",
     "blueprintfix.configuration.example": "Esempio",
+    "bossultimatum.configuration.client": "Configurazione client",
+    "bossultimatum.configuration.example": "Esempio",
     "cerulean.configuration.client": "Configurazione client Cerulean",
     "cerulean.configuration.example": "Esempio",
     "earlybedtime.configuration.client": "Configurazione del client per Early Bedtime",

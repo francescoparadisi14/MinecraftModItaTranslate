@@ -1,0 +1,18 @@
+{
+    "block.tfcgroomer.bismuth_bronze_grooming_station": "Stazione di pulizia in bronzo bismutato",
+    "block.tfcgroomer.black_bronze_grooming_station": "Stazione di pulizia in bronzo nero",
+    "block.tfcgroomer.black_steel_grooming_station": "Stazione di pulizia in acciaio nero",
+    "block.tfcgroomer.blue_steel_grooming_station": "Stazione di pulizia in acciaio blu",
+    "block.tfcgroomer.bronze_grooming_station": "Stazione di pulizia in bronzo",
+    "block.tfcgroomer.copper_grooming_station": "Stazione di pulizia del rame",
+    "block.tfcgroomer.grooming_station": "Stazione di pulizia",
+    "block.tfcgroomer.red_steel_grooming_station": "Stazione di pulizia in acciaio rosso",
+    "block.tfcgroomer.steel_grooming_station": "Stazione di pulizia in acciaio",
+    "block.tfcgroomer.wrought_iron_grooming_station": "Stazione di pulizia in ferro lavorato",
+    "config.jade.plugin_tfcgroomer.grooming_station": "Stazione di rasatura",
+    "gui.tfcgroomer.enable_breeding": "Abilita la selezione",
+    "tfcgroomer.grooming_station.range": "Raggio: %s",
+    "tfcgroomer.tooltip.breedDisabled": "Riproduzione disabilitata",
+    "tfcgroomer.tooltip.breedEnabled": "Abilitato riproduzione",
+    "tfcgroomer.tooltip.toggleBreeding": "Abilita\/Disabilita la moltiplicazione"
+}

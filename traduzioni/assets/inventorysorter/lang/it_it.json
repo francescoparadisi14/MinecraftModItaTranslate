@@ -73,6 +73,8 @@
     "inventorysorter.config.sortPlayerInventory": "Ordina inventario del giocatore",
     "inventorysorter.config.sortPlayerInventory.tooltip": "Utile quando si desidera ordinare l'inventario del giocatore separatamente da quello del contenitore.",
     "inventorysorter.config.sortType": "Tipo di ordinamento da utilizzare",
+    "inventorysorter.config.sortbycountfirst": "Ordina per conteggio in primo luogo",
+    "inventorysorter.config.sortorder": "Ordine di ordinamento",
     "inventorysorter.discord": "Discord",
     "inventorysorter.gui.allMoving": "Spostare Tutti Gli Oggetti",
     "inventorysorter.gui.allMoving.tooltip": "È Abilitato Il Modulo Di Spostamento Di Tutti Gli Elementi Con Lo Spazio Bar?",

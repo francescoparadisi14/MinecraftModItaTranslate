@@ -1,0 +1,19 @@
+{
+    "block.pigzilla.vomit": "Vomito",
+    "entity.pigzilla.biting_pig": "Cinghiale affamato",
+    "entity.pigzilla.laser_example": "Esempio di laser",
+    "entity.pigzilla.pigzilla": "Pigzilla",
+    "entity.pigzilla.quake_entity": "Entità di scossa",
+    "entity.pigzilla.vibration_entity": "Entità di vibrazione",
+    "entity.pigzilla.vomit_ray": "Raggio di vomito",
+    "fluid.pigzilla.vomit": "Vomito",
+    "item.pigzilla.biting_pig_spawn_egg": "Uovo di cavia affamata",
+    "item.pigzilla.laser_example_spawn_egg": "Uovo di spawn esempio laser",
+    "item.pigzilla.laser_item": "Oggetto laser",
+    "item.pigzilla.pigzilla_spawn_egg": "Uova di spawn del maiale gigante",
+    "item.pigzilla.vomit_bucket": "Bottiglia di vomito",
+    "item.pigzilla.vomit_ray_spawn_egg": "Uovo di generazione del raggio vomitario",
+    "subtitles.pigzilla_stomp": "Pigzilla calpesta",
+    "subtitles.pigzilla_tusk_wielding": "Pigzilla brandisce le sue zanne",
+    "subtitles.tusk_wielding": "Pigzilla brandisce le sue zanne."
+}

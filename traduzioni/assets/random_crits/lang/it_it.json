@@ -1,0 +1,11 @@
+{
+    "effect.random_crits.adrenaline": "Adrenalina",
+    "enchantment.random_crits.safeguard": "Sicurezza",
+    "enchantment.random_crits.safeguard.desc": "Riduce il danno da colpi critici in arrivo.",
+    "enchantment.random_crits.starstruck": "Stupito dalle stelle",
+    "enchantment.random_crits.starstruck.desc": "Incrementa la probabilità di colpo critico.",
+    "enchantment.random_crits.vitality": "Vitalità",
+    "enchantment.random_crits.vitality.desc": "C'è una possibilità di ottenere assorbimento in caso di colpo critico.",
+    "random_crits.critchance": "Probabilità di critico",
+    "subtitles.randomcrit": "Colpo critico"
+}

@@ -1,0 +1,17 @@
+{
+    "item.mermod.deep_sea_crystal_modifier": "Cristallo del mare profondo",
+    "item.mermod.glowing_pearl_modifier": "Perla luminosa",
+    "item.mermod.mermaid_bra_modifier": "Reggiseno di sirena",
+    "item.mermod.moon_rock_modifier": "Modificatore di roccia lunare",
+    "item.mermod.sea_crystal": "Cristallo del mare",
+    "item.mermod.sea_necklace": "Collare del mare",
+    "item.mermod.tail_gradient_modifier": "Modificatore di gradiente coda",
+    "item.mermod.tail_moisturizer_modifier": "Idratante per coda",
+    "item.mermod.ursula_shell_modifier": "Conchiglia di Ursula",
+    "option.mermod.disableNightVisionFlashing": "Disattiva lampeggio visore notturno",
+    "option.mermod.replaceSwimAnimation": "Sostituisci animazione nuoto",
+    "tooltip.mermod.dyeable_modifier": "Può essere tingibile o combinato con un collare di mare",
+    "tooltip.mermod.modifier": "Può essere combinato con un collare di mare",
+    "tooltip.mermod.modifiers": "Modificatori:",
+    "tooltip.mermod.remove_modifiers": "Premi il tasto destro e inginocchiati per rimuovere modificatori"
+}

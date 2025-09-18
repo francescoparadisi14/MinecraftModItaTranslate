@@ -1,0 +1,19 @@
+{
+    "config.level_hp.levelhpconfig": "Configurazione comune del livello HP",
+    "gui.level_hp.hpexp.label_empty": "\/",
+    "gui.level_hp.hpexp.label_lv": "Lv",
+    "gui.level_hp.hpexp.label_varintegerhpexp": "<HPExp>",
+    "gui.level_hp.hpexp.label_varintegerhplevel": "<livello di esperienza>",
+    "gui.level_hp.hpexp.label_varintegerleveluphpexp": "Livello di esperienza HP: <var:integer:leveluphpexp>",
+    "item.level_hp.heartcontainers": "Contenitori di cuore",
+    "message.adielost": "Hai perso, §e hai perso tutti i punti esperienza e livello.",
+    "message.dielost": "Hai perso la vita, §e",
+    "message.getexp": "Ottenere §c",
+    "message.idielost": "§fhp exp e §e",
+    "message.igetexp": "§f hp exp!",
+    "message.iidielost": "Livelli HP: §f§h(p)",
+    "message.ilevelup": "Livello §f%s",
+    "message.imlevelup": "**TIMES!!!**",
+    "message.levelup": "hp level up!",
+    "message.mlevelup": "hp livello aumentato"
+}

@@ -1,0 +1,8 @@
+{
+    "block.castirongrill.cast_iron_grill_firepit": "Griglia in ferro battuto",
+    "block.castirongrill.stovetop_cast_iron_grill": "Griglia in ferro di cottura a stufa",
+    "castirongrill.block_entity.cast_iron_grill": "Griglia in ferro fuso",
+    "castirongrill.block_entity.stovetop_cast_iron_grill": "Griglia in ferro di cottura a stufa",
+    "castirongrill.creative_tab.main": "Griglia in ferro battuto TFC",
+    "item.castirongrill.cast_iron_grill": "Griglia in ferro fuso"
+}

@@ -1710,5 +1710,17 @@
     "rarity.alexscaves.demonic.name": "Demoniaco",
     "rarity.alexscaves.nuclear.name": "Nucleare",
     "rarity.alexscaves.rainbow.name": "Arcobaleno",
+    "trim_material.alexscaves.amber": "Materiale ambra",
+    "trim_material.alexscaves.azure_neodymium": "Materiale di neodimio azzurro",
+    "trim_material.alexscaves.bioluminesscence": "Materiale bioluminescente",
+    "trim_material.alexscaves.candy_cane": "Materiale di candito",
+    "trim_material.alexscaves.occult_gem": "Materiale di gemma occulta",
+    "trim_material.alexscaves.pearl": "Materiale perla",
+    "trim_material.alexscaves.pure_darkness": "Materiale di oscurità pura",
+    "trim_material.alexscaves.radiant_essence": "Materiale di essenza radiante",
+    "trim_material.alexscaves.scarlet_neodymium": "Materiale di neodimio scarlatto",
+    "trim_material.alexscaves.sulfur": "Materiale zolfo",
+    "trim_material.alexscaves.tectonic": "Materiale di frammento tectonico",
+    "trim_material.alexscaves.uranium": "Materiale di uranio",
     "trim_pattern.alexscaves.polarity": "Decorazione di polarità per armatura"
 }

@@ -1,0 +1,17 @@
+{
+    "advancements.iceologers_revenge.descr": "Kill a glowsquid using an Iceologer Staff",
+    "advancements.iceologers_revenge.title": "Iceologer's Revenge",
+    "block.mutant_iceologer.chilled_spike": "Chilled Spike",
+    "death.attack.iceblock": "%1$s was chilled by a Mutant Iceologer",
+    "death.attack.mutant_iceologer": "%1$s was crushed by a Mutant Iceologer",
+    "entity.mutant_iceologer.mutant_iceologer": "Mutant Iceologer",
+    "item.mutant_iceologer.chilled_iron_rod": "Chilled Iron Rod",
+    "item.mutant_iceologer.iceologer_staff": "Iceologer Staff",
+    "item.mutant_iceologer.iron_rod": "Iron Rod",
+    "item.mutant_iceologer.jei_icon": "JEI Icon",
+    "item.mutant_iceologer.mutant_iceologer_spawn_egg": "Mutant Iceologer Spawn Egg",
+    "subtitles.entity.mutant.attack": "Mutant attacks",
+    "subtitles.entity.mutant.death": "Mutant dies",
+    "subtitles.entity.mutant.hurt": "Mutant hurt",
+    "subtitles.entity.mutant.idle": "Mutant Idle"
+}

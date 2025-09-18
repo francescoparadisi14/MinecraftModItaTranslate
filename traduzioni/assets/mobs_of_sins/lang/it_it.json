@@ -1,0 +1,21 @@
+{
+    "effect.mobs_of_sins.bane_of_undead": "Maledizione degli spiriti mortali",
+    "effect.mobs_of_sins.emergency_peel": "Sfoglia di emergenza",
+    "effect.mobs_of_sins.lingering_pheromones": "Feromoni persistenti",
+    "effect.mobs_of_sins.paralyzing_sting": "Colpo paralizzante",
+    "effect.mobs_of_sins.piercing_eyes": "Occhi penetranti",
+    "effect.mobs_of_sins.serrated": "Serrato",
+    "item.mobs_of_sins.capucin_monkey_heart": "Cuore di scimmia capuchino (rosso)",
+    "item.mobs_of_sins.cockroach_heart": "Cuore di scarafaggio",
+    "item.mobs_of_sins.frilled_shark_ribs": "Costole di squalo frilled (in colore verde)",
+    "item.mobs_of_sins.gazelle_ribs": "Costole di cervo gazzella (in colore verde)",
+    "item.mobs_of_sins.grizzly_bear_ribs": "Costole di orso grizzuto (in colore giallo)",
+    "item.mobs_of_sins.mobs_of_sins_icon": "Icona dei mostri del peccato",
+    "item.mobs_of_sins.nuisances_muscle": "Muscoli di disturbo (in grassetto)",
+    "item.mobs_of_sins.rattle_sickle_of_struggle": "Falcetto di lotta ronzante",
+    "item.mobs_of_sins.soul_sickle_of_struggle": "§eSpirito di lotta",
+    "item.mobs_of_sins.tarantula_hawk_muscles": "Muscoli falena tarantola (in colore verde)",
+    "item.mobs_of_sins.tentacle_sickle_of_struggle": "Falcia tentacolare della lotta",
+    "item.mobs_of_sins.tiger_muscles": "muscoli di tigre",
+    "item_group.mobs_of_sins.mobs_of_sins": "Mobs dei peccati: integrazione di Alex per i mob"
+}

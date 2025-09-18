@@ -1,0 +1,7 @@
+{
+    "block.tfcea.refrigerator": "Refrigerator",
+    "item.tfcea.appliances.portable_refrigerator": "Portable Refrigerator",
+    "itemGroup.tfcea.creative_tab": "Tfc Electrical Appliances",
+    "tooltip.tfcea.food_trait.refrigerating": "Refrigerating",
+    "tooltip.tfcea.toggle": "Turn on\/off"
+}

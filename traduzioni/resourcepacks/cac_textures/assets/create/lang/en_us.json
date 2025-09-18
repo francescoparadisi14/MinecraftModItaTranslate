@@ -1,0 +1,21 @@
+{
+    "block.create.cut_limestone": "Cut Dolomite",
+    "block.create.cut_limestone_brick_slab": "Cut Dolomite Brick Slab",
+    "block.create.cut_limestone_brick_stairs": "Cut Dolomite Brick Stairs",
+    "block.create.cut_limestone_brick_wall": "Cut Dolomite Brick Wall",
+    "block.create.cut_limestone_bricks": "Cut Dolomite Bricks",
+    "block.create.cut_limestone_slab": "Cut Dolomite Slab",
+    "block.create.cut_limestone_stairs": "Cut Dolomite Stairs",
+    "block.create.cut_limestone_wall": "Cut Dolomite Wall",
+    "block.create.layered_limestone": "Layered Dolomite",
+    "block.create.limestone": "Dolomite",
+    "block.create.limestone_pillar": "Dolomite Pillar",
+    "block.create.polished_cut_limestone": "Polished Cut Dolomite",
+    "block.create.polished_cut_limestone_slab": "Polished Cut Dolomite Slab",
+    "block.create.polished_cut_limestone_stairs": "Polished Cut Dolomite Stairs",
+    "block.create.polished_cut_limestone_wall": "Polished Cut Dolomite Wall",
+    "block.create.small_limestone_brick_slab": "Small Dolomite Brick Slab",
+    "block.create.small_limestone_brick_stairs": "Small Dolomite Brick Stairs",
+    "block.create.small_limestone_brick_wall": "Small Dolomite Brick Wall",
+    "block.create.small_limestone_bricks": "Small Dolomite Bricks"
+}

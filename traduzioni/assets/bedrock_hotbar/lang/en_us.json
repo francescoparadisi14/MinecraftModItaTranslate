@@ -1,0 +1,10 @@
+{
+    "text.autoconfig.bedrock_hotbar.option.offset": "Hotbar offset",
+    "text.autoconfig.bedrock_hotbar.option.renderTexture": "Render bottom of texture (1.20.2+)",
+    "text.autoconfig.bedrock_hotbar.option.renderTexture.@Tooltip": "Whether to show the bottom of the hotbar selection texture",
+    "text.autoconfig.bedrock_hotbar.option.xpLevelMode": "Experience level display type",
+    "text.autoconfig.bedrock_hotbar.option.xpLevelMode.@Tooltip": "Display experience level with ...",
+    "text.autoconfig.bedrock_hotbar.title": "Hotbar Settings",
+    "text.bedrock_hotbar.option.xpLevelMode.outline": "Outline",
+    "text.bedrock_hotbar.option.xpLevelMode.shadow": "Shadow"
+}

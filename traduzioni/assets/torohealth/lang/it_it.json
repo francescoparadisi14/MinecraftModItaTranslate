@@ -1,0 +1,21 @@
+{
+    "config.bar.damageNumberType": "Tipo di numero danno",
+    "config.category.hud": "Impostazioni HUD",
+    "config.hud.hideDelay": "Ritardo nascondimento",
+    "config.hud.scale": "Scala",
+    "config.hud.x": "Posizione x",
+    "config.hud.y": "Posizione y",
+    "config.inWorld.distance": "Distanza",
+    "config.inWorld.mode": "Modalità",
+    "config.title": "Configurazione di ToroHealth",
+    "config.torohealth.alpha": "Alpha",
+    "config.torohealth.blue": "Blu",
+    "config.torohealth.category.bar": "Impostazioni della barra di salute",
+    "config.torohealth.category.inWorld": "Impostazioni nel mondo",
+    "config.torohealth.foeColor.title": "Colore della barra nemica",
+    "config.torohealth.foeColorSecondary.title": "Colore del barra nemico secondario",
+    "config.torohealth.friendColor.title": "Colore della barra degli amici",
+    "config.torohealth.friendColorSecondary.title": "Colore della barra degli amici (secondario)",
+    "config.torohealth.green": "Verde",
+    "config.torohealth.red": "rosso"
+}

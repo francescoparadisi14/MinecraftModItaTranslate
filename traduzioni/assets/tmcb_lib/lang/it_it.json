@@ -1,0 +1,14 @@
+{
+    "config.tmcb_lib.formatting.modNameFormat": "Formato nome modulo",
+    "config.tmcb_lib.formatting.modNameFormat.comment": "Come deve essere formattato il nome del modulo nella barra degli strumenti. Lasciare vuoto per disabilitare.",
+    "config.tmcb_lib.gui.energyUnit": "Unità di energia",
+    "config.tmcb_lib.gui.energyUnit.comment": "Unità di energia visualizzata nei macchinari",
+    "item.tmcb_lib.wrench": "Chiave inglese",
+    "misc.tmcb_lib.empty": "Vuoto",
+    "misc.tmcb_lib.energy": "%s %s",
+    "misc.tmcb_lib.energyWithMax": "%s \/ %s %s",
+    "misc.tmcb_lib.fluidAmount": "%s ml",
+    "misc.tmcb_lib.fluidWithMax": "%s \/ %s ml",
+    "misc.tmcb_lib.fluidWithMaxName": "%s: %s \/ %s ml",
+    "misc.tmcb_lib.holdShift": "Tenere premuto Shift per la descrizione"
+}

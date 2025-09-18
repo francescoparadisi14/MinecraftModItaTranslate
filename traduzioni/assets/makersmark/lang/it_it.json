@@ -1,0 +1,12 @@
+{
+    "item.makersmark.stamp": "Timbro del fabbricante",
+    "item.makersmark.stamp_blank": "Timbro del fabbricante vuoto",
+    "item.stamp.expanded_tooltip": "Usa questo timbro con un pezzo di attrezzo nella mano opposta per marchiare l'attrezzo.",
+    "item.stamp.primary": "Primario",
+    "item.stamp.secondary": "Secondario",
+    "item.stamp.tooltip_expand": "[shift+]",
+    "item.stamp.tooltip_expanded": "[shift+]",
+    "itemGroup.makersmark": "Marchio del fabbro",
+    "makersmark.toggle": "Imposta pulsante",
+    "makersmark.tooltip.made_by": "Fatto da %s il %s"
+}

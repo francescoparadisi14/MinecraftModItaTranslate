@@ -1,0 +1,19 @@
+{
+    "_comment1": "Materiali",
+    "_comment2": "Pelle",
+    "_comment3": "Ferro",
+    "_comment4": "Acciaio rosso",
+    "item.waterflasks.bladder": "Resistente",
+    "item.waterflasks.broken_iron_flask": "Otre di ferro rotto",
+    "item.waterflasks.broken_leather_flask": "Otre di pelle rotto",
+    "item.waterflasks.iron_flask": "Otre d'acciaio",
+    "item.waterflasks.iron_flask.filled": "%s flacone di ferro pieno",
+    "item.waterflasks.leather_flask": "Otre di pelle",
+    "item.waterflasks.leather_flask.filled": "Otre di pelle %s",
+    "item.waterflasks.leather_side": "Lato di flacone in pelle",
+    "item.waterflasks.red_steel_flask": "Otre di acciaio rosso",
+    "item.waterflasks.red_steel_flask.filled": "%s flacone di acciaio rosso pieno",
+    "item.waterflasks.unfinished_iron_flask": "Flacone di ferro non finito",
+    "item.waterflasks.unfinished_red_steel_flask": "Otre da acciaio rosso non finito",
+    "waterflasks.item.flaskbreak": "Il flacone si rompe"
+}

@@ -1,0 +1,20 @@
+{
+    "block.playershops.acacia_player_shop": "Acacia Player Shop",
+    "block.playershops.bamboo_player_shop": "Bamboo Player Shop",
+    "block.playershops.birch_player_shop": "Birch Player Shop",
+    "block.playershops.cherry_player_shop": "Cherry Player Shop",
+    "block.playershops.crimson_player_shop": "Crimson Player Shop",
+    "block.playershops.dark_oak_player_shop": "Dark Oak Player Shop",
+    "block.playershops.jungle_player_shop": "Jungle Player Shop",
+    "block.playershops.mangrove_player_shop": "Mangrove Player Shop",
+    "block.playershops.oak_player_shop": "Oak Player Shop",
+    "block.playershops.spruce_player_shop": "Spruce Player Shop",
+    "block.playershops.warped_player_shop": "Warped Player Shop",
+    "message.playershops.inv_full": "Your inventory is full, please clear space",
+    "message.playershops.no_funds": "Insufficient funds, please hold the payment item",
+    "message.playershops.not_team_shop": "Your team can no longer edit this shop",
+    "message.playershops.shop_empty_stock": "Shop is out of stock",
+    "message.playershops.shop_full_profit": "Shop profit slot is full",
+    "message.playershops.team_shop": "Your team can now edit this shop",
+    "title.playershops.shop": "Your Shop"
+}

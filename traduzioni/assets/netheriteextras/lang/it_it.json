@@ -1,0 +1,11 @@
+{
+    "item.netheriteextras.enchanted_netherite_apple": "Mela di netherite incantata",
+    "item.netheriteextras.netherite_apple": "Mela di netherite",
+    "item.netheriteextras.netherite_horse_armor": "Armatura da cavallo di netherite",
+    "item.netheriteextras.netherite_nugget": "Briccone di netherite",
+    "item.netheriteextras.netherite_wolf_armor": "Armadura lupo netherite",
+    "item.netheriteextras.totem_of_neverdying": "Totem dell'eternità",
+    "text.config.netheriteextras.option.piglinBruteNetheriteNuggetDropChance": "Caso di caduta del nugget di Netherite per il brutto Piglin",
+    "text.config.netheriteextras.option.piglinBruteNetheriteNuggetDropChance.tooltip": "Probabilità che i bruti piglin lascino cadere un nugget di Netherite quando vengono uccisi da un giocatore.",
+    "text.config.netheriteextras.title": "Extra di Netherite"
+}

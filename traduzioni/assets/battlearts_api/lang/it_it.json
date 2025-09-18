@@ -1,0 +1,19 @@
+{
+    "epicfight.skill_slot.battle_style": "Stile di battaglia",
+    "epicfight.skill_slot.burst_art": "Arte di esplosione",
+    "epicfight.skill_slot.combat_art": "Arte di combattimento",
+    "epicfight.skill_slot.ultimate_art": "Arte ultima",
+    "key.battlearts_api.burst_art_use": "Usa arte di implosione",
+    "key.battlearts_api.combat_art_use": "Usa arte di combattimento",
+    "key.battlearts_api.mana_art_use": "Usa arte di mana",
+    "key.battlearts_api.ultimate_art_use": "Usa arte suprema",
+    "skill.battlearts_api.mana_charge": "Carica mana",
+    "skill.battlearts_api.mana_charge.tooltip": "Rende molto lento il recupero della tua velocità di ricarica mana, ma in cambio... ottieni un'abilità di carica attiva che ricarica la tua mana estremamente rapidamente.",
+    "skill.battlearts_api.traveler": "Viaggiatore",
+    "skill.battlearts_api.traveler.tooltip": "Non è destinato all'uso.",
+    "skill.epicfight.battle_style.category": "Stile di battaglia",
+    "skill.epicfight.burst_art.category": "Arte di impatto",
+    "skill.epicfight.combat_art.category": "Arte del combattimento",
+    "skill.epicfight.mana_art.category": "Arte mana",
+    "skill.epicfight.ultimate_art.category": "Arte suprema"
+}

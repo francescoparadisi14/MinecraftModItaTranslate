@@ -1,0 +1,21 @@
+{
+    "config.bar.damageNumberType": "Damage Number Type",
+    "config.category.hud": "HUD Settings",
+    "config.hud.hideDelay": "Hide Delay",
+    "config.hud.scale": "Scale",
+    "config.hud.x": "X Position",
+    "config.hud.y": "Y Position",
+    "config.inWorld.distance": "Distance",
+    "config.inWorld.mode": "Mode",
+    "config.title": "ToroHealth Config",
+    "config.torohealth.alpha": "Alpha",
+    "config.torohealth.blue": "Blue",
+    "config.torohealth.category.bar": "Health Bar Settings",
+    "config.torohealth.category.inWorld": "In World Settings",
+    "config.torohealth.foeColor.title": "Foe Bar Color",
+    "config.torohealth.foeColorSecondary.title": "Foe Bar Color (Secondary)",
+    "config.torohealth.friendColor.title": "Friend Bar Color",
+    "config.torohealth.friendColorSecondary.title": "Friend Bar Color (Secondary)",
+    "config.torohealth.green": "Green",
+    "config.torohealth.red": "Red"
+}

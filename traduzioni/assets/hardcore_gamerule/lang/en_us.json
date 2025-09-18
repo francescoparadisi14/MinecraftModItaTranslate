@@ -1,0 +1,4 @@
+{
+    "gamerule.hardcoreGamerule": "Hardcore Gamerule",
+    "gamerule.hardcoreGamerule.description": "If on true, its gonna turn players to spectator when they die"
+}

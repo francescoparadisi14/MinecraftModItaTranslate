@@ -1,0 +1,13 @@
+{
+    "$_comment1": "Non tradurre qui",
+    "$_comment2": "Traduci qui",
+    "block.uncraftingtable76.uncraftingtable": "Tavola di decodifica",
+    "category.uncraftingtable76.general": "Generale",
+    "container.uncraftingtable76.uncrafting": "Tavola di decodifica",
+    "message.uncraftingtable76.not_enough_xp": "[Tabella di decostazione] non hai abbastanza esperienza",
+    "option.uncraftingtable76.consume_xp": "Consuma XP",
+    "option.uncraftingtable76.disable_uncrafting_uu_matter": "Disabilita la ricomposizione dei materiali UU-Tech Reborn",
+    "option.uncraftingtable76.restore_enchantment_book": "Ripristina libri di incantesimi",
+    "option.uncraftingtable76.uncraft_damaged_item": "Abilita decrifrazione di oggetti danneggiati",
+    "title.uncraftingtable76.config": "Configurazione della tavola di decodifica"
+}

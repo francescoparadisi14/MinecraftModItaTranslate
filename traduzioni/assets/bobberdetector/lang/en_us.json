@@ -1,0 +1,9 @@
+{
+    "block.bobberdetector.bobber_detector": "Bobber Detector",
+    "bobberdetector.ponder.detector.header": "Automatic Fishing",
+    "bobberdetector.ponder.detector.text_1": "Deployers can be given fishing rods to fish for you",
+    "bobberdetector.ponder.detector.text_2": "Sadly you wont be able to see the fishing bobber in the water, only the particles",
+    "bobberdetector.ponder.detector.text_3": "But whenever a bobber is inside it´s range the bobber detector lights up",
+    "bobberdetector.ponder.detector.text_4": "When a fish is being caught the detector emits a redstone signal",
+    "bobberdetector.ponder.detector.text_5": "You will have to figure out how to pickup the items though"
+}
