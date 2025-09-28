@@ -1,0 +1,21 @@
+{
+    "entity.minecraft.villager.create_better_villagers.andesite_worker": "Andesite Worker",
+    "entity.minecraft.villager.create_better_villagers.brassworker": "Brass Worker",
+    "entity.minecraft.villager.create_better_villagers.copperworker": "Copper Wopker",
+    "entity.minecraft.villager.create_better_villagers.miner": "Miner",
+    "entity.minecraft.villager.create_better_villagers:andesite_worker": "Andesite Worker",
+    "entity.minecraft.villager.create_better_villagers:brassworker": "Brass Worker",
+    "entity.minecraft.villager.create_better_villagers:copperworker": "Copper Wopker",
+    "entity.minecraft.villager.create_better_villagers:miner": "Miner",
+    "text.autoconfig.create_better_villagers.option.common.ENABLE_ANDESITE_WORKER": "Enable Andesite Worker Profession",
+    "text.autoconfig.create_better_villagers.option.common.ENABLE_ANDESITE_WORKER.@Tooltip": "Requires game restart after changing this setting.",
+    "text.autoconfig.create_better_villagers.option.common.ENABLE_BRASSWORKER": "Enable Brassworker Profession",
+    "text.autoconfig.create_better_villagers.option.common.ENABLE_BRASSWORKER.@Tooltip": "Requires game restart after changing this setting.",
+    "text.autoconfig.create_better_villagers.option.common.ENABLE_COPPERWORKER": "Enable copper worker Profession",
+    "text.autoconfig.create_better_villagers.option.common.ENABLE_COPPERWORKER.@Tooltip": "Requires game restart after changing this setting.",
+    "text.autoconfig.create_better_villagers.option.common.ENABLE_IN_GAME_MESSAGE": "Enable or disable the welcome message",
+    "text.autoconfig.create_better_villagers.option.common.ENABLE_IN_GAME_MESSAGE.@Tooltip": "Requires game restart after changing this setting.",
+    "text.autoconfig.create_better_villagers.option.common.ENABLE_MINER": "Enable miner Profession",
+    "text.autoconfig.create_better_villagers.option.common.ENABLE_MINER.@Tooltip": "Requires game restart after changing this setting.",
+    "text.autoconfig.create_better_villagers.title": "Create Better Villagers Config"
+}

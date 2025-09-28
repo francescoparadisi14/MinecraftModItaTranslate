@@ -1,0 +1,19 @@
+{
+    "advancementframes.display_source.stat": "Valore dello stato",
+    "advancementframes.gui": "Seleziona un progresso da mostrare",
+    "advancementframes.gui.advancements": "Seleziona un'avanzamento da visualizzare",
+    "advancementframes.gui.statistics": "Seleziona una statistica da visualizzare",
+    "advancementframes.message": "%1$s ha compiuto il progresso %2$s",
+    "advancementframes.message.advancement": "%1$s ha raggiunto l'avanzamento %2$s",
+    "advancementframes.message.stat": "%1$s di %2$s: %3$s",
+    "block.advancementframes.advancement_frame": "Cornice di progresso",
+    "block.advancementframes.stat_frame": "Frammento di stato",
+    "stat.advancementframes.broken": "%s rotto",
+    "stat.advancementframes.crafted": "%s creato",
+    "stat.advancementframes.dropped": "%s caduto",
+    "stat.advancementframes.killed": "%s ucciso",
+    "stat.advancementframes.killed_by": "ucciso da %s",
+    "stat.advancementframes.mined": "%s minato",
+    "stat.advancementframes.picked_up": "%s raccolto",
+    "stat.advancementframes.used": "%s usato"
+}

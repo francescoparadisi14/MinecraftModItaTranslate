@@ -1,0 +1,17 @@
+{
+    "block.igleelib.blazum_block": "Blocco Blazum",
+    "block.igleelib.derium_block": "Blocco di derio",
+    "block.igleelib.lavium_block": "Blocco di lavio",
+    "block.igleelib.modium_block": "Blocco di modio",
+    "item.igleelib.blaze_shard": "Frammento di fuoco",
+    "item.igleelib.blazum_ingot": "Ingot di Blazum",
+    "item.igleelib.derium_ingot": "Ingot di derio",
+    "item.igleelib.iglium_upgrade_smithing_template": "Aggiornamento Iglium",
+    "item.igleelib.lavium_ingot": "Ingot di lavio",
+    "item.igleelib.modium_ingot": "Ingot di Modio",
+    "item.igleelib.smithing_template.iglium_upgrade.additions_slot_description": "Aggiungi diamante o ossidiano pianto o bastone di fiamma o frammento di fiamma",
+    "item.igleelib.smithing_template.iglium_upgrade.applies_to": "Ingot di netherite",
+    "item.igleelib.smithing_template.iglium_upgrade.base_slot_description": "Aggiungi un ingottino di Netherite",
+    "item.igleelib.smithing_template.iglium_upgrade.ingredients": "Diamante, ossidiano pianto, bastone di fiamma, frammento di fiamma",
+    "itemGroup.igleelib.base": "La biblioteca di iglee"
+}

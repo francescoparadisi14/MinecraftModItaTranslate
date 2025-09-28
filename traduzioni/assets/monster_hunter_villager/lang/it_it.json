@@ -1,0 +1,17 @@
+{
+    "block.monster_hunter_villager.hunters_table": "Banchetto del cacciatore",
+    "death.attack.trap": "%1$s si è infilato in una trappola",
+    "death.attack.trap.item": "%1$s si è infilato in una trappola perché %2$s ha utilizzato %3$s",
+    "death.attack.trap.player": "%1$s si è infilato in una trappola mentre cercava di fuggire da %2$s",
+    "entity.minecraft.villager.monster_hunter_villager.monster_hunter": "Cacciatore di mostri",
+    "entity.monster_hunter_villager.empty_trap": "Trappola vuota",
+    "entity.monster_hunter_villager.sharpened_trap": "Trappola affilata",
+    "entity.monster_hunter_villager.soul_chain_trap": "Trappola a catena di anime",
+    "entity.monster_hunter_villager.sticky_trap": "Trappola adesiva",
+    "gui.monster_hunter_villager.hunters_table_gui.label_hunters_table": "Banchetto del cacciatore",
+    "item.monster_hunter_villager.hunters_knife": "coltello cacciatore",
+    "item.monster_hunter_villager.sharpened_trap_item": "Trappola affilata",
+    "item.monster_hunter_villager.soul_chain_trap_item": "Trappola a catena di anime",
+    "item.monster_hunter_villager.sticky_trap_item": "Trappola adesiva",
+    "item.monster_hunter_villager.trap_prototype": "Prova di trappola"
+}

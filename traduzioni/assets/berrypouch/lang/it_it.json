@@ -1,0 +1,23 @@
+{
+    "accessories.slot.pouch": "Borsa",
+    "accessories.slot_group.utility": "Cobblemon",
+    "berrypouch.berry_pouch.tab": "Pannocchia di frutta",
+    "item.berrypouch.berry_pouch_30": "Borsa di bacche piccole",
+    "item.berrypouch.berry_pouch_69": "Borsa di bacche grande",
+    "key.berrypouch.cycle_bait_left": "precedente cibo per esca",
+    "key.berrypouch.cycle_bait_right": "Prossimo cibo per esca",
+    "key.berrypouch.open_pouch": "Aprire la borsa di frutta nel slot",
+    "key.berrypouch.toggle_auto_berry": "Fascio di frutta automatico",
+    "key.categories.berrypouch": "Borsa di frutta",
+    "message.berrypouch.auto_berry_toggled.false": "Falsa equipazione di cibo automatica",
+    "message.berrypouch.auto_berry_toggled.true": "Equipaggio automatico di cibo vero",
+    "message.berrypouch.autobait": "Equipaggio automatico di cattura: %s",
+    "message.berrypouch.bait_dropped": "Il tuo sacchetto è pieno, hai lasciato cadere %s a terra",
+    "message.berrypouch.capability_missing": "Errore sistema accessori",
+    "message.berrypouch.marked_bait_exhausted": "Il cibo segnato si è esaurito!",
+    "message.berrypouch.marked_bait_exhausted_switching_none": "Il cibo segnato si è esaurito! Sono passato a nessuno.",
+    "message.berrypouch.need_pouch": "hai bisogno di equipaggiare un contenitore di frutta",
+    "message.berrypouch.no_bait_in_pouch": "Nessun frutto disponibile nella borsa",
+    "message.berrypouch.not_holding_rod": "Devi tenere un bastone da pesca di pietra in mano.",
+    "message.berrypouch.switched_bait": "Sostituito con: %s"
+}

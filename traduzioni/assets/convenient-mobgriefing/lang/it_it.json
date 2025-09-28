@@ -1,0 +1,8 @@
+{
+    "gamerule.dragonGriefing": "Consentire la devastazione del drago finale",
+    "gamerule.dragonGriefing.description": "Sovrascrive la regola di mobgriefing del gioco originale.",
+    "gamerule.lenientGriefing": "Consenti azioni dei mostri non distruttive",
+    "gamerule.lenientGriefing.description": "Sovrascrive la regola di gioco \"mobgriefing\" vanilla. Controlla le azioni passive dei mostri come l'allevamento dei villaggi, il baratto con i piglin, i mostri che raccolgono oggetti, ecc.",
+    "gamerule.witherGriefing": "Consentire alla devastazione del Mietitore",
+    "gamerule.witherGriefing.description": "Sovrascrive la regola di mobgriefing del gioco originale."
+}

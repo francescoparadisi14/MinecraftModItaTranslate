@@ -1,0 +1,14 @@
+{
+    "block.modernminecarts.copper_rail": "Treno di rame",
+    "block.modernminecarts.exposed_copper_rail": "Treno di rame esposto",
+    "block.modernminecarts.oxidized_copper_rail": "Treno di rame ossidato",
+    "block.modernminecarts.powered_detector_rail": "Treno di rilevamento alimentato",
+    "block.modernminecarts.rail_crossing": "Incrocio ferroviario",
+    "block.modernminecarts.sloped_rail": "Salto del binario",
+    "block.modernminecarts.waxed_copper_rail": "Rame di rame ceroso",
+    "block.modernminecarts.waxed_exposed_copper_rail": "Treno di rame coperchio esposto verniciato",
+    "block.modernminecarts.waxed_oxidized_copper_rail": "Rete di rame ossidato e cera",
+    "block.modernminecarts.waxed_weathered_copper_rail": "Treno di rame coperchio invecchiato e unto",
+    "block.modernminecarts.weathered_copper_rail": "Treno di rame ossidato",
+    "entity.modernminecarts.chest_minecart": "Carro minatore con cassa"
+}

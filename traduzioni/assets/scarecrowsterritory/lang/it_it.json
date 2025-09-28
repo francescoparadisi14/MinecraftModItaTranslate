@@ -1,0 +1,22 @@
+{
+    "scarecrowsterritory.block.black_scarecrow": "Scorpione nero",
+    "scarecrowsterritory.block.blue_scarecrow": "Scorpione azzurro",
+    "scarecrowsterritory.block.brown_scarecrow": "Sciacallo marrone",
+    "scarecrowsterritory.block.cyan_scarecrow": "Scorpione ciano",
+    "scarecrowsterritory.block.gray_scarecrow": "Sciacallo grigio",
+    "scarecrowsterritory.block.green_scarecrow": "Sciacallo verde",
+    "scarecrowsterritory.block.light_blue_scarecrow": "Sciacallo blu chiaro",
+    "scarecrowsterritory.block.light_gray_scarecrow": "Sciacallo grigio chiaro",
+    "scarecrowsterritory.block.lime_scarecrow": "Sciacallo di limone",
+    "scarecrowsterritory.block.magenta_scarecrow": "Sciacallo magenta",
+    "scarecrowsterritory.block.orange_scarecrow": "Sciacallo arancione",
+    "scarecrowsterritory.block.pink_scarecrow": "Sciacallo rosa",
+    "scarecrowsterritory.block.primitive_scarecrow": "Scorpione viola",
+    "scarecrowsterritory.block.red_scarecrow": "Scorpione rosso",
+    "scarecrowsterritory.block.white_scarecrow": "Scorpione bianco",
+    "scarecrowsterritory.block.yellow_scarecrow": "Scorpione giallo",
+    "scarecrowsterritory.item_group": "Territorio dei guardiani di campagna",
+    "scarecrowsterritory.primitive_scarecrow.info.both": "Mantiene attivi i generatori di mostri entro un raggio di %1$d blocchi e consente la spawnizzazione di mostri pasivi entro un raggio di %2$d blocchi.",
+    "scarecrowsterritory.primitive_scarecrow.info.passive": "consente la generazione di spawn pasivo di mostri entro un raggio di %1$d blocchi",
+    "scarecrowsterritory.primitive_scarecrow.info.spawners": "Mantiene attivi i generatori entro un raggio di %1$d blocchi"
+}

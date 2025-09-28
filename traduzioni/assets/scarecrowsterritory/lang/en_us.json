@@ -1,0 +1,22 @@
+{
+    "scarecrowsterritory.block.black_scarecrow": "Black Scarecrow",
+    "scarecrowsterritory.block.blue_scarecrow": "Blue Scarecrow",
+    "scarecrowsterritory.block.brown_scarecrow": "Brown Scarecrow",
+    "scarecrowsterritory.block.cyan_scarecrow": "Cyan Scarecrow",
+    "scarecrowsterritory.block.gray_scarecrow": "Gray Scarecrow",
+    "scarecrowsterritory.block.green_scarecrow": "Green Scarecrow",
+    "scarecrowsterritory.block.light_blue_scarecrow": "Light Blue Scarecrow",
+    "scarecrowsterritory.block.light_gray_scarecrow": "Light Gray Scarecrow",
+    "scarecrowsterritory.block.lime_scarecrow": "Lime Scarecrow",
+    "scarecrowsterritory.block.magenta_scarecrow": "Magenta Scarecrow",
+    "scarecrowsterritory.block.orange_scarecrow": "Orange Scarecrow",
+    "scarecrowsterritory.block.pink_scarecrow": "Pink Scarecrow",
+    "scarecrowsterritory.block.primitive_scarecrow": "Purple Scarecrow",
+    "scarecrowsterritory.block.red_scarecrow": "Red Scarecrow",
+    "scarecrowsterritory.block.white_scarecrow": "White Scarecrow",
+    "scarecrowsterritory.block.yellow_scarecrow": "Yellow Scarecrow",
+    "scarecrowsterritory.item_group": "Scarecrows' Territory",
+    "scarecrowsterritory.primitive_scarecrow.info.both": "Keeps spawners in a %1$d block range activated and allows passive mob spawning in a %2$d block range",
+    "scarecrowsterritory.primitive_scarecrow.info.passive": "Allows passive mob spawning in a %1$d block range",
+    "scarecrowsterritory.primitive_scarecrow.info.spawners": "Keeps spawners in a %1$d block range activated"
+}

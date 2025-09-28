@@ -1,0 +1,12 @@
+{
+    "text.autoconfig.underground_village.option.common.ENABLE_IN_GAME_MESSAGE": "Abilita o disabilita il messaggio di benvenuto",
+    "text.autoconfig.underground_village.option.common.maxDistanceFromCenter": "Distanza massima dal centro",
+    "text.autoconfig.underground_village.option.common.maxDistanceFromCenter.@Tooltip": "Distanza massima che i pezzi della struttura possono essere lontani dal centro (da 1 a 128)",
+    "text.autoconfig.underground_village.option.common.structureSize": "Dimensione del villaggio sotterraneo",
+    "text.autoconfig.underground_village.option.common.structureSize.@Tooltip": "Dimensione predefinita della struttura sotterranea (da 1 a 30)",
+    "text.autoconfig.underground_village.option.common.watermaxDistanceFromCenter": "Distanza massima dal centro",
+    "text.autoconfig.underground_village.option.common.watermaxDistanceFromCenter.@Tooltip": "Distanza massima in cui i pezzi strutturali possono essere dalla centrale (da 1 a 128)",
+    "text.autoconfig.underground_village.option.common.waterstructureSize": "Dimensione del villaggio sottomarino",
+    "text.autoconfig.underground_village.option.common.waterstructureSize.@Tooltip": "Dimensione predefinita della struttura sottomarina (da 1 a 30)",
+    "text.autoconfig.underground_village.title": "Configurazione del villaggio sotterraneo"
+}

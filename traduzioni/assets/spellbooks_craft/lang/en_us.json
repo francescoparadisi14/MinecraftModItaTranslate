@@ -1,0 +1,11 @@
+{
+    "description.spellbooks_craft.amethyst_onient": "§7Healing ointment filled with the power of amethysts. §dRemoves all effects and gives invisibility for a couple of seconds. §7Ointment is unstable so it can teleport you into blocks.",
+    "description.spellbooks_craft.concentrated_lapis_lazuli": "§7Concentrated arcane obtained from lapis lazuli.",
+    "description.spellbooks_craft.mortar": "§7Mortar for mixing §damethysts §7or §blapis lazuli with diamonds.",
+    "description.spellbooks_craft.totem": "§7Great artifact, used to summon thunder. §5Q to activate",
+    "item.spellbooks_craft.amietistovaia_maz": "Мазь из аметиста",
+    "item.spellbooks_craft.concentratedmana": "Концентрированный лазурит",
+    "item.spellbooks_craft.stupka": "Amethyst mortar",
+    "item.spellbooks_craft.totem": "The thunder totem",
+    "item_group.spellbooks_craft.irons_crafts": "Iron's crafts"
+}

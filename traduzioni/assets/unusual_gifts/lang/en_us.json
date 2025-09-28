@@ -1,0 +1,10 @@
+{
+    "gamerule.canGiveGift": "canGiveGift",
+    "gamerule.canGiveGift.description": "Whether you can send or receive gifts",
+    "item.unusual_gifts.blue_gift": "Blue Gift",
+    "item.unusual_gifts.green_gift": "Green Gift",
+    "item.unusual_gifts.purple_gift": "Purple Gift",
+    "item.unusual_gifts.red_gift": "Red Gift",
+    "item.unusual_gifts.white_gift": "White Gift",
+    "item.unusual_gifts.yellow_gift": "Yellow Gift"
+}

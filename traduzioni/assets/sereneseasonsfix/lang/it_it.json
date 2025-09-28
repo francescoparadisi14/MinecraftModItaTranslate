@@ -1,0 +1,11 @@
+{
+    "commands.sereneseasonsfix.get_season.not_whitelisted": "Le stagioni sono disabilitate per questo dimensione.",
+    "commands.sereneseasonsfix.set_season.not_whitelisted": "Le stagioni sono disabilitate per questo dimensione.",
+    "commands.sereneseasonsfix.time.info": "Il tempo della stagione è: %s\nl'ora di inizio della stagione è: %s\nil tempo del mondo è: %s\nla differenza è: %s\nla dimensione è elencata: %s",
+    "commands.sereneseasonsfix.time.set_season.not_whitelisted": "Le stagioni sono disabilitate per questo dimensione.",
+    "commands.sereneseasonsfix.time.set_season.success": "Impostato il tempo di stagione su %s",
+    "commands.sereneseasonsfix.time.set_season_start.not_whitelisted": "Le stagioni sono disabilitate per questo dimensione.",
+    "commands.sereneseasonsfix.time.set_season_start.success": "Impostato il tempo di inizio stagione a %s",
+    "commands.sereneseasonsfix.time.sync_season.not_whitelisted": "Le stagioni sono disabilitate per questo dimensione.",
+    "commands.sereneseasonsfix.time.sync_season.success": "Sincronizzato l'ora della stagione con l'ora del mondo."
+}

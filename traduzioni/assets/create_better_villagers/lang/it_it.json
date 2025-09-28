@@ -1,0 +1,21 @@
+{
+    "entity.minecraft.villager.create_better_villagers.andesite_worker": "Lavoratore di andesite",
+    "entity.minecraft.villager.create_better_villagers.brassworker": "Lavoratore di rame",
+    "entity.minecraft.villager.create_better_villagers.copperworker": "Fabbro di rame",
+    "entity.minecraft.villager.create_better_villagers.miner": "Minatore",
+    "entity.minecraft.villager.create_better_villagers:andesite_worker": "Lavoratore di andesite",
+    "entity.minecraft.villager.create_better_villagers:brassworker": "Lavoratore di rame",
+    "entity.minecraft.villager.create_better_villagers:copperworker": "Fabbro di rame",
+    "entity.minecraft.villager.create_better_villagers:miner": "Minatore",
+    "text.autoconfig.create_better_villagers.option.common.ENABLE_ANDESITE_WORKER": "Abilita la professione del lavoratore di andesite",
+    "text.autoconfig.create_better_villagers.option.common.ENABLE_ANDESITE_WORKER.@Tooltip": "Richiede riavvio del gioco dopo aver modificato questo impostazione.",
+    "text.autoconfig.create_better_villagers.option.common.ENABLE_BRASSWORKER": "Abilita la professione del fabbro di rame",
+    "text.autoconfig.create_better_villagers.option.common.ENABLE_BRASSWORKER.@Tooltip": "Richiede riavvio del gioco dopo aver modificato questo impostazione.",
+    "text.autoconfig.create_better_villagers.option.common.ENABLE_COPPERWORKER": "Abilita la professione del lavoratore di rame",
+    "text.autoconfig.create_better_villagers.option.common.ENABLE_COPPERWORKER.@Tooltip": "Richiede riavvio del gioco dopo aver modificato questo impostazione.",
+    "text.autoconfig.create_better_villagers.option.common.ENABLE_IN_GAME_MESSAGE": "Abilitare o disabilitare il messaggio di benvenuto",
+    "text.autoconfig.create_better_villagers.option.common.ENABLE_IN_GAME_MESSAGE.@Tooltip": "Richiede riavvio del gioco dopo aver modificato questo impostazione.",
+    "text.autoconfig.create_better_villagers.option.common.ENABLE_MINER": "Abilita la professione minatrice",
+    "text.autoconfig.create_better_villagers.option.common.ENABLE_MINER.@Tooltip": "Richiede riavvio del gioco dopo aver modificato questo impostazione.",
+    "text.autoconfig.create_better_villagers.title": "Configurazione villaggi migliori"
+}

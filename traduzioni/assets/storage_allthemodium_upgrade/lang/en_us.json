@@ -1,0 +1,9 @@
+{
+    "item.storage_allthemodium_upgrade.stack_upgrade_tier_6": "Stack Upgrade Tier 6",
+    "item.storage_allthemodium_upgrade.stack_upgrade_tier_6.tooltip": "Multiplies the number of stacks that can fit in a slot by 40",
+    "item.storage_allthemodium_upgrade.stack_upgrade_tier_7": "Stack Upgrade Tier 7",
+    "item.storage_allthemodium_upgrade.stack_upgrade_tier_7.tooltip": "Multiplies the number of stacks that can fit in a slot by 48",
+    "item.storage_allthemodium_upgrade.stack_upgrade_tier_8": "Stack Upgrade Tier 8",
+    "item.storage_allthemodium_upgrade.stack_upgrade_tier_8.tooltip": "Multiplies the number of stacks that can fit in a slot by 64",
+    "itemGroup.storage_allthemodium_upgrade": "Sophisticated Storage Allthemodium tier"
+}

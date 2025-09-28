@@ -1,0 +1,10 @@
+{
+    "gamerule.canGiveGift": "Può essere dato regalo",
+    "gamerule.canGiveGift.description": "Se puoi inviare o ricevere regali",
+    "item.unusual_gifts.blue_gift": "Regalo blu",
+    "item.unusual_gifts.green_gift": "Regalo verde",
+    "item.unusual_gifts.purple_gift": "Regalo viola",
+    "item.unusual_gifts.red_gift": "Regalo rosso",
+    "item.unusual_gifts.white_gift": "Dono bianco",
+    "item.unusual_gifts.yellow_gift": "Regalo giallo"
+}

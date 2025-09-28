@@ -1,0 +1,11 @@
+{
+    "description.spellbooks_craft.amethyst_onient": "Olio di guarigione riempito del potere degli ametisti. Rimuove tutti gli effetti e concede l'invisibilità per alcuni secondi. L'olio è instabile, quindi può teletrasportarti dentro i blocchi.",
+    "description.spellbooks_craft.concentrated_lapis_lazuli": "ottenuto da lapislazzulo, potente e concentrato.",
+    "description.spellbooks_craft.mortar": "Mortello per mescolare diamanti con ametiste o lapislazzuli.",
+    "description.spellbooks_craft.totem": "Un grande artefatto, utilizzato per evocare la tempesta. (Q per attivazione)",
+    "item.spellbooks_craft.amietistovaia_maz": "Мазь из ametista",
+    "item.spellbooks_craft.concentratedmana": "Концентрированный лазурит",
+    "item.spellbooks_craft.stupka": "Mortaretto di ametista",
+    "item.spellbooks_craft.totem": "Il totem del tuono",
+    "item_group.spellbooks_craft.irons_crafts": "Artigianato di ferro"
+}

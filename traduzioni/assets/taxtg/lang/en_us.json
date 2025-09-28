@@ -1,0 +1,8 @@
+{
+    "item.taxtg.generator_cherryblossom_tree": "Cherryblossom Tree Generator",
+    "item.taxtg.generator_jungle_tree": "Jungle Tree Generator",
+    "item.taxtg.generator_oak_tree": "Oak Tree Generator",
+    "item.taxtg.generator_spruce_tree": "Spruce Tree Generator",
+    "itemGroup.tab_giant_trees": "Giant Trees",
+    "item_group.taxtg.giant_trees": "Giant Trees"
+}

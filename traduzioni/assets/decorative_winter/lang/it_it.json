@@ -1,0 +1,23 @@
+{
+    "block.decorative_winter.dry_fern": "Foglia secca",
+    "block.decorative_winter.dry_grass": "Erba secca",
+    "block.decorative_winter.dry_grass_block": "Blocco di erba secca",
+    "block.decorative_winter.dry_large_fern": "Foglia secca grande",
+    "block.decorative_winter.dry_tall_grass": "Erba alta secca",
+    "block.decorative_winter.festive_chain": "Catena festiva",
+    "block.decorative_winter.fluid_snow": "Neve liquida",
+    "block.decorative_winter.snowy_acacia_palisade": "Palizzata di acacia innebbiata",
+    "block.decorative_winter.snowy_birch_palisade": "Palizzata di betulla innebbiata",
+    "block.decorative_winter.snowy_crimson_palisade": "Palizzata di criste rosse innevate",
+    "block.decorative_winter.snowy_dark_oak_palisade": "Palizzata di betulla scura innebbiata",
+    "block.decorative_winter.snowy_jungle_palisade": "Palizzata di giungla innebbiata",
+    "block.decorative_winter.snowy_mangrove_palisade": "Palizzata di mangrovia innebbiata",
+    "block.decorative_winter.snowy_oak_palisade": "Palizzata di quercia innebbiata",
+    "block.decorative_winter.snowy_spruce_palisade": "Palizzata di pino innevato",
+    "block.decorative_winter.snowy_thin_branch": "Rametto sottile innevato",
+    "block.decorative_winter.snowy_warped_palisade": "Palizzata distorta innebbiata di neve",
+    "block.decorative_winter.thin_branch": "Rametto sottile",
+    "block.decorative_winter.wreath": "Ghirlanda",
+    "fluid_type.decorative_winter.fluid_snow": "Neve liquida",
+    "item.decorative_winter.frosty_wand": "Astuccio invernale ghiacciato"
+}

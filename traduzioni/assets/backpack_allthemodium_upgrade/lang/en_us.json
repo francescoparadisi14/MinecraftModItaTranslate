@@ -1,0 +1,9 @@
+{
+    "item.backpack_allthemodium_upgrade.stack_upgrade_tier_5": "Stack Upgrade Tier 5",
+    "item.backpack_allthemodium_upgrade.stack_upgrade_tier_5.tooltip": "Multiplies the number of stacks that can fit in a slot by 32",
+    "item.backpack_allthemodium_upgrade.stack_upgrade_tier_6": "Stack Upgrade Tier 6",
+    "item.backpack_allthemodium_upgrade.stack_upgrade_tier_6.tooltip": "Multiplies the number of stacks that can fit in a slot by 48",
+    "item.backpack_allthemodium_upgrade.stack_upgrade_tier_7": "Stack Upgrade Tier 7",
+    "item.backpack_allthemodium_upgrade.stack_upgrade_tier_7.tooltip": "Multiplies the number of stacks that can fit in a slot by 64",
+    "itemGroup.backpack_allthemodium_upgrade": "backpack Allthemodium tier"
+}

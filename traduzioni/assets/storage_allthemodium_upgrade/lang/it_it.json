@@ -1,0 +1,9 @@
+{
+    "item.storage_allthemodium_upgrade.stack_upgrade_tier_6": "Aggiornamento di pila livello 6",
+    "item.storage_allthemodium_upgrade.stack_upgrade_tier_6.tooltip": "Incrementa il numero di stack che possono essere contenuti in una slot di 40 volte.",
+    "item.storage_allthemodium_upgrade.stack_upgrade_tier_7": "Aggiornamento di pila livello 7",
+    "item.storage_allthemodium_upgrade.stack_upgrade_tier_7.tooltip": "Moltiplica il numero di stack che possono essere contenuti in una slot per 48.",
+    "item.storage_allthemodium_upgrade.stack_upgrade_tier_8": "Aggiornamento di pila livello 8",
+    "item.storage_allthemodium_upgrade.stack_upgrade_tier_8.tooltip": "Moltiplica il numero di stack che possono essere contenuti in una slot per 64.",
+    "itemGroup.storage_allthemodium_upgrade": "Magazzino avanzato di tutti gli elementi del livello superiore"
+}

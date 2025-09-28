@@ -1,0 +1,23 @@
+{
+    "accessories.slot.pouch": "Pouch",
+    "accessories.slot_group.utility": "Cobblemon",
+    "berrypouch.berry_pouch.tab": "Berry Pouch",
+    "item.berrypouch.berry_pouch_30": "Small Berry Pouch",
+    "item.berrypouch.berry_pouch_69": "Large Berry Pouch",
+    "key.berrypouch.cycle_bait_left": "Previous Bait",
+    "key.berrypouch.cycle_bait_right": "Next Bait",
+    "key.berrypouch.open_pouch": "Open the Berry Pouch in the slot",
+    "key.berrypouch.toggle_auto_berry": "Auto-equipped Bait",
+    "key.categories.berrypouch": "Berry Pouch",
+    "message.berrypouch.auto_berry_toggled.false": "Auto-equipped bait False",
+    "message.berrypouch.auto_berry_toggled.true": "Auto-equipped bait True",
+    "message.berrypouch.autobait": "Auto-equipped bait: %s",
+    "message.berrypouch.bait_dropped": "Your pouch is full, dropped %s to the ground",
+    "message.berrypouch.capability_missing": "Accessories system error",
+    "message.berrypouch.marked_bait_exhausted": "Marked bait exhausted!",
+    "message.berrypouch.marked_bait_exhausted_switching_none": "Marked bait exhausted! Switched to none.",
+    "message.berrypouch.need_pouch": "You need to equip a Berry Pouch",
+    "message.berrypouch.no_bait_in_pouch": "No available berries in pouch",
+    "message.berrypouch.not_holding_rod": "You must holding a Cobblemon fishing rod.",
+    "message.berrypouch.switched_bait": "Bait: %s"
+}

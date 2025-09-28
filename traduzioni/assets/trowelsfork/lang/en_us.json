@@ -1,0 +1,14 @@
+{
+    "creative_tab.trowels": "Trowels",
+    "desc.trowels.trowel": "When right-clicked, the trowel will place a random block from your hotbar.",
+    "desc.trowels.trowel.destroy_recent": "You can break blocks which have been recently (5 latest) placed by the trowel instantly, they are returned to your inventory.",
+    "desc.trowels.trowel.upgrades": "Can be upgraded by combining it with an upgrade item in anvil.",
+    "item.trowelsfork.break_upgrade": "Break Upgrade",
+    "item.trowelsfork.refill_upgrade": "Refill Upgrade",
+    "item.trowelsfork.trowel": "Trowel",
+    "tooltip.trowels.upgrades": "Upgrades:",
+    "trowel_upgrade.break": "Break Upgrade",
+    "trowel_upgrade.break.desc": "Combine with a Trowel in an anvil in order to give it an ability to instantly break blocks recently (5 latest) placed with the trowel.",
+    "trowel_upgrade.refill": "Refill Upgrade",
+    "trowel_upgrade.refill.desc": "Combine with a Trowel in an anvil in order to make it refill the slot of the used block after placement, from your inventory."
+}

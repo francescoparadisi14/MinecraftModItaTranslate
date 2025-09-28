@@ -1,0 +1,14 @@
+{
+    "creative_tab.trowels": "Limi",
+    "desc.trowels.trowel": "Quando clicchi destro, il piccone piazza un blocco casuale dalla tua barra degli slot.",
+    "desc.trowels.trowel.destroy_recent": "Puoi rompere i blocchi che sono stati recentemente (gli ultimi 5) posizionati con la spatola istantaneamente, vengono restituiti nella tua inventario.",
+    "desc.trowels.trowel.upgrades": "Può essere migliorato combinando un oggetto di miglioramento con un martello da muratore in un incudine.",
+    "item.trowelsfork.break_upgrade": "Aggiornamento di rottura",
+    "item.trowelsfork.refill_upgrade": "Aggiornamento di ricarica",
+    "item.trowelsfork.trowel": "Lama per la terra",
+    "tooltip.trowels.upgrades": "Aggiornamenti:",
+    "trowel_upgrade.break": "Aggiornamento di rottura",
+    "trowel_upgrade.break.desc": "Combina un piccone con un martello da fabbro per dotare il piccone della capacità di rompere immediatamente i blocchi recentemente posati con il piccone (gli ultimi 5).",
+    "trowel_upgrade.refill": "Aggiornamento di ricarica",
+    "trowel_upgrade.refill.desc": "Combina un piccone con un incudine per farlo rifornire di blocchi utilizzati nel tuo inventario."
+}
