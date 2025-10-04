@@ -1,0 +1,7 @@
+{
+    "block.brewingcauldron.brewing_cauldron": "Cauldron",
+    "block.brewingcauldron.lava_brewing_cauldron": "Lava Filled Cauldron",
+    "block.brewingcauldron.powder_snow_brewing_cauldron": "Powder Snow Filled Cauldron",
+    "block.brewingcauldron.water_brewing_cauldron": "Water Filled Cauldron",
+    "item.brewingcauldron.potion_bucket": "Potion Bucket"
+}

@@ -1,0 +1,5 @@
+{
+    "enchantment.fallingattack.falling_attack": "Sharpness of Falling Attack",
+    "options.fallingattack.third.person": "Third Person View",
+    "options.fallingattack.third.person.desc": "Whether the perspective changes to third person when the player starts the falling attack."
+}

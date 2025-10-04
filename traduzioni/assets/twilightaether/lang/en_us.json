@@ -1,0 +1,16 @@
+{
+    "item.twilightaether.arctic_gloves": "Arctic Gloves",
+    "item.twilightaether.fiery_cape": "Fiery Cape",
+    "item.twilightaether.fiery_cape.desc": "Gives Fire Resistance after getting fire damage",
+    "item.twilightaether.fiery_gloves": "Fiery Gloves",
+    "item.twilightaether.fiery_gloves.desc": "Burns targets, when you attack with empty hand",
+    "item.twilightaether.ironwood_gloves": "Ironwood Gloves",
+    "item.twilightaether.knightmetal_gloves": "Knightmetal Gloves",
+    "item.twilightaether.knightmetal_gloves.desc": "Extra damage to unarmored targets",
+    "item.twilightaether.naga_gloves": "Naga Gloves",
+    "item.twilightaether.phantom_gloves": "Phantom Gloves (WIP)",
+    "item.twilightaether.steeleaf_gloves": "Steeleaf Gloves",
+    "item.twilightaether.yeti_gloves": "Yeti Gloves",
+    "item.twilightaether.yeti_gloves.desc": "Chills targets, when you attack with empty hand",
+    "itemGroup.twilightaether": "Twilight Aether"
+}

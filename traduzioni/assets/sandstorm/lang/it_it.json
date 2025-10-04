@@ -1,0 +1,13 @@
+{
+    "sandstorm.command.shake.default": "Scomparsa schermo attivata di default!",
+    "sandstorm.command.shake.success": "Ha attivato lo scuotimento dello schermo! Intensità: %s, Durata: %s",
+    "sandstorm.debug.blocked": "Niente da segnalare. rimani all'erta.",
+    "sandstorm.ui.phase": "Fase",
+    "sandstorm.ui.shelter.excellent": "Rifugio eccellente",
+    "sandstorm.ui.shelter.good": "Buon rifugio",
+    "sandstorm.ui.shelter.minimal": "Rifugio minimale",
+    "sandstorm.ui.shelter.moderate": "Rifugio moderato",
+    "sandstorm.ui.shelter.none": "nessun rifugio",
+    "sandstorm.ui.shelter.poor": "rifugio povero",
+    "sandstorm.ui.storm_active": "Sabbia tempestosa: fase %s | %s"
+}

@@ -1,0 +1,6 @@
+{
+    "block.weatherdetector.weather_detector": "Sensore del tempo",
+    "block.weatherdetector.weather_detector.tooltip_1": "Emette un segnale di rosston con intensità 1-8 se piove\/nevicia.",
+    "block.weatherdetector.weather_detector.tooltip_2": "Emette un segnale di rosston di intensità 9-15 se sta tuonando.",
+    "block.weatherdetector.weather_detector.tooltip_3": "Interagisci con il rilevatore per invertire il segnale."
+}

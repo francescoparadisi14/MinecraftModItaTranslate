@@ -1,0 +1,18 @@
+{
+    "block.projectatmosphere.anemometer": "Anemometer",
+    "block.projectatmosphere.barometer_block": "Barometer",
+    "block.projectatmosphere.dust": "Dust",
+    "block.projectatmosphere.humidimeter_block": "Hygrometer",
+    "block.projectatmosphere.sand_layer": "Sand Layer",
+    "block.projectatmosphere.thermometer_block": "Thermometer",
+    "block.projectatmosphere.weather_vane": "Weather Vane",
+    "item.projectatmosphere.balai_bois": "Wooden Broom",
+    "item.projectatmosphere.balai_diamant": "Diamond Broom",
+    "item.projectatmosphere.balai_fer": "Iron Broom",
+    "item.projectatmosphere.balai_netherite": "Netherite Broom",
+    "item.projectatmosphere.balai_pierre": "Stone Broom",
+    "item.projectatmosphere.barometer": "Barometer",
+    "item.projectatmosphere.humidimeter": "Hygrometer",
+    "item.projectatmosphere.thermometer": "Thermometer",
+    "item.projectatmosphere.weather_radar": "Weather Radar"
+}

@@ -1,0 +1,13 @@
+{
+    "sandstorm.command.shake.default": "Default screen shake triggered!",
+    "sandstorm.command.shake.success": "Screen shake triggered! Intensity: %s, Duration: %s",
+    "sandstorm.debug.blocked": "Nothing, Fuck off",
+    "sandstorm.ui.phase": "Phase",
+    "sandstorm.ui.shelter.excellent": "Excellent Shelter",
+    "sandstorm.ui.shelter.good": "Good Shelter",
+    "sandstorm.ui.shelter.minimal": "Minimal Shelter",
+    "sandstorm.ui.shelter.moderate": "Moderate Shelter",
+    "sandstorm.ui.shelter.none": "No Shelter",
+    "sandstorm.ui.shelter.poor": "Poor Shelter",
+    "sandstorm.ui.storm_active": "Sandstorm: Phase %s | %s"
+}

@@ -1,0 +1,15 @@
+{
+    "emi.category.emixx.villager_trades": "Villager Trades",
+    "emixx.configuration.creativeModeTabs": "Creative Mode Tabs",
+    "emixx.configuration.disabledStackGroups": "Disabled Stack Groups",
+    "emixx.configuration.enableCreativeModeTabs": "Enable Creative Mode Tabs",
+    "emixx.configuration.enableStackGroups": "---------------------",
+    "emixx.configuration.stackGroups": "Stack Groups",
+    "emixx.configuration.syncSelectedCreativeModeTab": "Sync Selected Creative Mode Tab",
+    "emixx.configuration.title": "EMI++ Config",
+    "gui.emixx.possible_enchantments": "Possible enchantments:",
+    "gui.emixx.possible_enchantments_for_enchanted_book": "All the non-treasure enchantments",
+    "gui.emixx.random_color": "Random Color",
+    "gui.emixx.stack_group_config": "Stack Group Config",
+    "stackgroup.emixx.tooltip": "item(s)"
+}

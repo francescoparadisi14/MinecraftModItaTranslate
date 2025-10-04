@@ -1,0 +1,5 @@
+{
+    "block.craftingrecipeexporter.example_block": "Blocco di esempio",
+    "item.craftingrecipeexporter.example_item": "Oggetto di esempio",
+    "itemGroup.craftingrecipeexporter": "Pannello di esempio del modulo"
+}

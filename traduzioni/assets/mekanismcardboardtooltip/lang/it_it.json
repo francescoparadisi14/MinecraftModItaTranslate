@@ -1,0 +1,5 @@
+{
+    "cardboard_box.mekanism.block_entity.spawn_type": "Si generano: %1$s",
+    "config.jade.plugin_mekanismcardboardtooltip.cardboard_box": "Scatola di cartone",
+    "jade.mekanismcardboardtooltip.cardboard_box.type": "Tipo: %1$s"
+}

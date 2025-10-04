@@ -1,0 +1,7 @@
+{
+    "reactive_music.config.category.debug": "Debug",
+    "reactive_music.config.category.general": "Generale",
+    "reactive_music.config.option.debug_mode_enabled": "Modalità di debug abilitata",
+    "reactive_music.config.option.music_delay": "Ritardo della musica",
+    "reactive_music.title": "Musica reattiva"
+}

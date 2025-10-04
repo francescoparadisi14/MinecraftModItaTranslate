@@ -1,0 +1,13 @@
+{
+    "attribute.name.generic.aim_speed": "Velocità di mira",
+    "attribute.name.generic.bullet_damage": "Danno per colpo",
+    "attribute.name.generic.mag_size": "Dimensione carica magica",
+    "effect.vzling.vertigo": "Vertigine",
+    "entity.vzling.example_laser_beam": "Fascio laser di esempio",
+    "entity.vzling.example_mob": "Entità di esempio (mob)",
+    "item.vzling.bullet": "Proiettile",
+    "item.vzling.example_gun": "Arma di esempio",
+    "item.vzling.example_gun.tooltip.0": "Prova: mk.14 mod0 fucile da battaglia migliorato",
+    "item.vzling.laser_staff": "Astuccio laser",
+    "subtitles.vzling.gun_shoot": "sparo d'arma"
+}

@@ -1,8 +1,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
 
-![](https://img.shields.io/badge/Ultimo%20Aggiornamento-28%2F09%2F2025-blue)
-![](https://img.shields.io/badge/Mod%20tradotte-2936-green)
-![](https://img.shields.io/badge/Quest%20tradotte-19-green)
+![](https://img.shields.io/badge/Ultimo%20Aggiornamento-04%2F10%2F2025-blue)
+![](https://img.shields.io/badge/Mod%20tradotte-3098-green)
+![](https://img.shields.io/badge/Quest%20tradotte-20-green)
 
 ## Progetto che utilizza l’intelligenza artificiale per **tradurre automaticamente in italiano** i contenuti testuali delle mod di Minecraft.
 Supporta file `.json` (come `en_us.json`) e file `.snbt` (come `en_us.snbt`) per FTB Quests.
@@ -47,6 +47,7 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 | <img src="https://media.forgecdn.net/avatars/1272/19/638827466765781091.jpeg" loading="lazy" decoding="async" width="30" /> | [YDM's Red Panda](https://www.curseforge.com/minecraft/mc-mods/ydms-red-panda "Web Site")  | 08/08/2025 | 2 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fydms_redpanda "Download") |
 | <img src="https://media.forgecdn.net/avatars/491/359/637800375031659473.png" loading="lazy" decoding="async" width="30" /> | [YDM's Scorpions](https://www.curseforge.com/minecraft/mc-mods/ydms-scorpions "Web Site")  | 17/09/2025 | 13 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fscorpions "Download") |
 | <img src="https://media.forgecdn.net/avatars/536/689/637858960020801019.png" loading="lazy" decoding="async" width="30" /> | [YDM's Weapon Master](https://www.curseforge.com/minecraft/mc-mods/ydms-weapon-master "Web Site")  | 28/08/2025 | 44 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fweaponmaster_ydm "Download") |
+| <img src="https://media.forgecdn.net/avatars/496/695/637811735967861165.png" loading="lazy" decoding="async" width="30" /> | [You Died](https://www.curseforge.com/minecraft/mc-mods/you-died "Web Site") ![](https://img.shields.io/badge/NEW-red) | 29/09/2025 | 1 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fyou_died "Download") |
 | <img src="https://media.forgecdn.net/avatars/958/774/638453328319002494.png" loading="lazy" decoding="async" width="30" /> | [Gensokyo Delight ~ Youkai's Homecoming](https://www.curseforge.com/minecraft/mc-mods/youkais-homecoming "Web Site")  | 27/09/2025 | 978 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fyoukaishomecoming "Download") |
 | <img src="https://media.forgecdn.net/avatars/453/234/637718285687638364.png" loading="lazy" decoding="async" width="30" /> | [You're in Grave Danger](https://www.curseforge.com/minecraft/mc-mods/youre-in-grave-danger "Web Site")  | 07/08/2025 | 257 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fyigd "Download") |
 | <img src="https://media.forgecdn.net/avatars/206/415/636957224024858592.png" loading="lazy" decoding="async" width="30" /> | [Yoyos](https://www.curseforge.com/minecraft/mc-mods/yoyos "Web Site")  | 07/08/2025 | 95 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fyoyos "Download") |

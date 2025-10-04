@@ -1,0 +1,11 @@
+{
+    "cobblemonboxlink.key_open_pc.no_box_link": "No Box Link",
+    "cobblemonboxlink.message.box_link_not_required": "A Box Link is not required to Open PC Storage in this World.\nPress '%s' to open the PC.",
+    "curios.identifier.box_link": "Box Link",
+    "item.cobblemonboxlink.box_link": "Box Link",
+    "item.cobblemonboxlink.box_link.desc": "Used to access your PC Storage System remotely at any time, from anywhere.",
+    "item.cobblemonboxlink.box_link.desc2": "Press '%s' to open the PC.",
+    "key.cobblemonboxlink.category": "Cobblemon Box Link",
+    "key.cobblemonboxlink.open_pc.desc": "Open PC Storage",
+    "trinkets.slot.legs.box_link": "Box Link"
+}

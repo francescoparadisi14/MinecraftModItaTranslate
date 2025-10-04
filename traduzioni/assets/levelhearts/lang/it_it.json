@@ -1,0 +1,10 @@
+{
+    "item.levelhearts.heart_container": "Contenitore di cuori",
+    "item.levelhearts.heart_piece": "Pezzo di cuore",
+    "text.levelhearts.disabled": "Questo oggetto è stato disattivato. Per favore, contatta un amministratore del sistema se hai qualsiasi domanda.",
+    "text.levelhearts.hardcore": "Oh no! Hai perso tutto il tuo progresso. La tua salute è stata resettata al valore di default.",
+    "text.levelhearts.healed": "Hai ricevuto la guarigione di %d cuori!",
+    "text.levelhearts.heartadded": "La tua vita è aumentata di uno.",
+    "text.levelhearts.punish": "come punizione per la tua morte, hai perso %d cuori!",
+    "text.levelhearts.replenished": "Il tuo stato di salute è ora completamente ristabilito!"
+}

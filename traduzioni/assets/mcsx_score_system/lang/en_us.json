@@ -1,0 +1,6 @@
+{
+    "gui.mcsx_score_system.score.text": "Score:",
+    "gui.mcsx_score_system.score.value": "%mcsxscore",
+    "gui.mcsx_score_system.score_color.text": "§f",
+    "gui.mcsx_score_system.score_color.value": "§e"
+}

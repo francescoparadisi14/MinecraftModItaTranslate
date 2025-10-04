@@ -1,0 +1,15 @@
+{
+    "emi.category.emixx.villager_trades": "Scambi villaggi",
+    "emixx.configuration.creativeModeTabs": "Pannelli di modalità creativa",
+    "emixx.configuration.disabledStackGroups": "Gruppi di pila disabilitati",
+    "emixx.configuration.enableCreativeModeTabs": "Abilita schede di modalità creativa",
+    "emixx.configuration.enableStackGroups": "Sì (abilitato)",
+    "emixx.configuration.stackGroups": "Gruppi di accumulo",
+    "emixx.configuration.syncSelectedCreativeModeTab": "Sincronizza scheda di modalità creativa selezionata",
+    "emixx.configuration.title": "Configurazione emi++",
+    "gui.emixx.possible_enchantments": "Possibili incantesimi:",
+    "gui.emixx.possible_enchantments_for_enchanted_book": "Tutti gli incantesimi non-rari presenti in un libro incantato",
+    "gui.emixx.random_color": "Colore casuale",
+    "gui.emixx.stack_group_config": "Configurazione del gruppo di stack",
+    "stackgroup.emixx.tooltip": "elementi (s)"
+}

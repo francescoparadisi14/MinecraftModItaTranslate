@@ -1,0 +1,16 @@
+{
+    "advancements.warwither.blood_war.desc": "Defeat the War Wither",
+    "advancements.warwither.blood_war.title": "Blood War",
+    "entity.warwither.war_wither": "War Wither",
+    "item.warwither.music_disc_war_wither": "Music Disc",
+    "item.warwither.music_disc_war_wither.desc": "The Planets, Op. 32 - I. Mars, the Bringer of War",
+    "item.warwither.war_wither_spawn_egg": "War Wither Spawn Egg",
+    "item_group.warwither.warwither_tab": "War Wither",
+    "subtitle.warwither.war_wither_bomb": "War Wither Wither Dynamite",
+    "subtitle.warwither.war_wither_light": "War Wither Wither Illumination",
+    "subtitle.warwither.war_wither_meteor": "War Wither Wither Divine Assistance",
+    "subtitle.warwither.war_wither_music": "The Planets, Op. 32 - I. Mars, the Bringer of War",
+    "subtitle.warwither.war_wither_repeating": "War Wither Wither Repeating Crossbow",
+    "subtitle.warwither.war_wither_rush": "War Wither Wither Rush",
+    "subtitle.warwither.war_wither_waltz": "War Wither Wither Waltz"
+}

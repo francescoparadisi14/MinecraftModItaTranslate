@@ -1,0 +1,11 @@
+{
+    "cobblemonboxlink.key_open_pc.no_box_link": "Nessun collegamento alla scatola",
+    "cobblemonboxlink.message.box_link_not_required": "Un collegamento alla cassa non è richiesto per aprire lo storage PC in questo mondo. Premi '%s' per aprire il PC.",
+    "curios.identifier.box_link": "Collegamento scatola",
+    "item.cobblemonboxlink.box_link": "Collegamento della scatola",
+    "item.cobblemonboxlink.box_link.desc": "Usato per accedere al sistema di archiviazione del PC remotamente in qualsiasi momento e da qualsiasi luogo.",
+    "item.cobblemonboxlink.box_link.desc2": "Premi '%s' per aprire il PC.",
+    "key.cobblemonboxlink.category": "Collegamento cassa cobblemon",
+    "key.cobblemonboxlink.open_pc.desc": "Apri archiviazione PC",
+    "trinkets.slot.legs.box_link": "Collegamento della scatola"
+}

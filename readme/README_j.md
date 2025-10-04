@@ -1,8 +1,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
 
-![](https://img.shields.io/badge/Ultimo%20Aggiornamento-28%2F09%2F2025-blue)
-![](https://img.shields.io/badge/Mod%20tradotte-2936-green)
-![](https://img.shields.io/badge/Quest%20tradotte-19-green)
+![](https://img.shields.io/badge/Ultimo%20Aggiornamento-04%2F10%2F2025-blue)
+![](https://img.shields.io/badge/Mod%20tradotte-3098-green)
+![](https://img.shields.io/badge/Quest%20tradotte-20-green)
 
 ## Progetto che utilizza l’intelligenza artificiale per **tradurre automaticamente in italiano** i contenuti testuali delle mod di Minecraft.
 Supporta file `.json` (come `en_us.json`) e file `.snbt` (come `en_us.snbt`) per FTB Quests.
@@ -54,6 +54,7 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 | <img src="https://media.forgecdn.net/avatars/106/916/636362572840734804.png" loading="lazy" decoding="async" width="30" /> | [JEI Integration](https://www.curseforge.com/minecraft/mc-mods/jei-integration "Web Site")  | 02/09/2025 | 21 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fjeiintegration "Download") |
 | <img src="https://media.forgecdn.net/avatars/255/940/637203420213364761.png" loading="lazy" decoding="async" width="30" /> | [JEITweaker](https://www.curseforge.com/minecraft/mc-mods/jeitweaker "Web Site")  | 07/08/2025 | 2 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fjeitweaker "Download") |
 | <img src="https://media.forgecdn.net/avatars/315/154/637414791308042648.png" loading="lazy" decoding="async" width="30" /> | [Jellyfishing](https://www.curseforge.com/minecraft/mc-mods/jellyfishing "Web Site")  | 17/09/2025 | 182 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fjellyfishing "Download") |
+| <img src="https://media.forgecdn.net/avatars/1236/484/638809791203603497.png" loading="lazy" decoding="async" width="30" /> | [Jerotes Warehouse](https://www.curseforge.com/minecraft/mc-mods/jerotes-warehouse "Web Site") ![](https://img.shields.io/badge/NEW-red) | 04/10/2025 | 316 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fjerotes "Download") |
 | <img src="https://media.forgecdn.net/avatars/739/591/638086487533170032.png" loading="lazy" decoding="async" width="30" /> | [Jet and Elia's Armors](https://www.curseforge.com/minecraft/mc-mods/jet-and-elias-armors "Web Site")  | 29/08/2025 | 356 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fjet_and_elias_armors "Download") |
 | <img src="https://media.forgecdn.net/avatars/874/746/638296236288128550.png" loading="lazy" decoding="async" width="30" /> | [Jewelry (RPG Series)](https://www.curseforge.com/minecraft/mc-mods/jewelry "Web Site")  | 07/08/2025 | 86 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fjewelry "Download") |
 | <img src="https://media.forgecdn.net/avatars/882/261/638313599649257083.png" loading="lazy" decoding="async" width="30" /> | [Jobs+ Remastered](https://www.curseforge.com/minecraft/mc-mods/jobs-remastered "Web Site")  | 14/09/2025 | 478 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fjobsplus "Download") |

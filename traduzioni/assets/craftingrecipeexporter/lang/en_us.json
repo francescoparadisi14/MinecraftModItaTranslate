@@ -1,0 +1,5 @@
+{
+    "block.craftingrecipeexporter.example_block": "Example Block",
+    "item.craftingrecipeexporter.example_item": "Example Item",
+    "itemGroup.craftingrecipeexporter": "Example Mod Tab"
+}

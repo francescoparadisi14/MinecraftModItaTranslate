@@ -1,0 +1,5 @@
+{
+    "block.linkedchests.linked_chest": "Cassetto collegato",
+    "block.linkedchests.linked_chest.description": "Concede l'accesso a oggetti archiviati nei regni interdimensionali.",
+    "item.linkedchests.linked_pouch": "Borsa collegata"
+}

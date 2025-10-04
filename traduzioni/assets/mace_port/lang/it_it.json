@@ -1,0 +1,19 @@
+{
+    "advancements.adventure.overoverkill.description": "Infliggere 50 punti di danno con un solo colpo utilizzando la mazza.",
+    "advancements.adventure.overoverkill.title": "Over-overkill",
+    "advancements.adventure.who_needs_rockets.description": "Usa una carica di vento per lanciarti in alto 8 blocchi",
+    "advancements.adventure.who_needs_rockets.title": "Chi ha bisogno di razzi?",
+    "block.mace_port.heavy_core": "Nucleo pesante",
+    "enchantment.mace_port.breach": "Infrangimento",
+    "enchantment.mace_port.density": "Densità",
+    "enchantment.mace_port.wind_burst": "Raffica di vento",
+    "entity.mace_port.wind_charge": "Carica del vento",
+    "item.mace_port.breeze_rod": "Astuccio del vento",
+    "item.mace_port.heavy_core": "Nucleo pesante",
+    "item.mace_port.mace": "Mazza",
+    "item.mace_port.wind_charge": "Carica di vento",
+    "subtitles.entity.generic.wind_burst": "Cariche di vento esplose",
+    "subtitles.entity.wind_charge.throw": "Il carico del vento vola",
+    "subtitles.item.mace.smash_air": "Spada da guerra colpisce",
+    "subtitles.item.mace.smash_ground": "La mazza schianta"
+}

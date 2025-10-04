@@ -1,0 +1,23 @@
+{
+    "cursormod.authors": "da %s",
+    "cursormod.config.clickAnim": "Animazione di clic",
+    "cursormod.config.dynCursor": "Puntatore dinamico",
+    "cursormod.config.location": "Posizione del file",
+    "cursormod.config.no": "No",
+    "cursormod.config.xhotspot": "Punto caldo x",
+    "cursormod.config.yes": "Sì",
+    "cursormod.config.yhotspot": "Punto caldo Y",
+    "cursormod.cursor.beam": "Fascio di luce",
+    "cursormod.cursor.cross": "Croce",
+    "cursormod.cursor.hand": "Mano",
+    "cursormod.cursor.hand_grab": "Mano afferrante",
+    "cursormod.cursor.pointer": "Puntatore",
+    "cursormod.gui.animate": "Animare",
+    "cursormod.gui.cancel": "Annulla",
+    "cursormod.gui.config": "Menu di configurazione del cursore",
+    "cursormod.gui.configCursor": "Menu di configurazione del cursore",
+    "cursormod.gui.cursorList": "Menu di configurazione dei cursori",
+    "cursormod.gui.default": "Valore predefinito",
+    "cursormod.gui.error": "Errore durante il caricamento del cursore",
+    "cursormod.licence": "Licenza %s"
+}

@@ -1,0 +1,7 @@
+{
+    "block.brewingcauldron.brewing_cauldron": "Calderone",
+    "block.brewingcauldron.lava_brewing_cauldron": "Cauldron pieno di lava",
+    "block.brewingcauldron.powder_snow_brewing_cauldron": "Cauldron pieno di neve in polvere",
+    "block.brewingcauldron.water_brewing_cauldron": "Cauldron riempito d'acqua",
+    "item.brewingcauldron.potion_bucket": "Bottiglia di pozione"
+}

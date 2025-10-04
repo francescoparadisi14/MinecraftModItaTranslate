@@ -1,0 +1,23 @@
+{
+    "toolswap.configuration.ignore_empty_hand": "Mode for swapping with tools in hand",
+    "toolswap.configuration.ignore_empty_hand.tooltip": "Choose when tools can swap based on items in your hand:\nALWAYS = Always swap\nEMPTY_HAND = Only swap if your hand is empty\nITEMS = Swap if holding an item\nTOOLS = Swap if holding a tool\nNO_TOOLS = Swap only if holding a non-tool item",
+    "toolswap.configuration.ignore_harvest_level": "Ignore harvest level when swapping tools",
+    "toolswap.configuration.ignore_harvest_level.tooltip": "Enable this to ignore harvest levels when selecting tools.",
+    "toolswap.configuration.min_durability": "Minimum durability for tools to be saved",
+    "toolswap.configuration.min_durability.tooltip": "Set the minimum durability a tool must have to be saved when it's about to break.",
+    "toolswap.configuration.one_block_mode": "One Block Mode",
+    "toolswap.configuration.one_block_mode.tooltip": "Enable this to continuously search for the best tool while mining.",
+    "toolswap.configuration.save": "Save breaking tools",
+    "toolswap.configuration.save.tooltip": "Enable this to save tools with low durability while breaking blocks.",
+    "toolswap.configuration.section.toolswap.client.toml.title": "ToolSwap Client Config",
+    "toolswap.configuration.sneak_to_prevent": "Sneak to prevent tool swapping",
+    "toolswap.configuration.sneak_to_prevent.tooltip": "Enable this to prevent tool swapping while sneaking.",
+    "toolswap.configuration.sorttype": "Tool selection sort mode",
+    "toolswap.configuration.sorttype.tooltip": "Choose how tools are sorted for selection:\nLEVEL = sorted by harvest level, lowest first\nLEVEL_INVERTED = sorted by harvest level, highest first\nLEFT_TO_RIGHT = sorted from left to right\nRIGHT_TO_LEFT = sorted from right to left\nENCHANTED_FIRST = enchanted tools are prioritized\nENCHANTED_LAST = unenchantable tools are prioritized",
+    "toolswap.configuration.title": "ToolSwap",
+    "toolswap.key.toggle_toolswap_mode": "Toggle tool swap mode",
+    "toolswap.key.toggle_toolswap_notification": "Tool swap mode",
+    "toolswap.key.toggle_toolswap_notification.state_off": "off",
+    "toolswap.key.toggle_toolswap_notification.state_on": "on",
+    "toolswap.warning": "NO EMPTY SLOT FOR SAVING BREAKING TOOL"
+}

@@ -1,0 +1,13 @@
+{
+    "block.hoppergadgetry.chute": "Canale",
+    "block.hoppergadgetry.duct": "Canale",
+    "block.hoppergadgetry.grated_hopper": "Grattugiante di grano",
+    "container.chute": "Canale di oggetti",
+    "container.duct": "Canale di oggetti",
+    "container.grated_hopper": "Cassetto a griglia",
+    "entity.hoppergadgetry.chute_minecart": "Carro minatore con vallo",
+    "entity.hoppergadgetry.grated_hopper_minecart": "Carro minatore con griglia per sacchi",
+    "item.hoppergadgetry.chute_minecart": "Carro minatore di sfogo",
+    "item.hoppergadgetry.grated_hopper_minecart": "Carro minatore a griglia per contenitori",
+    "itemGroup.hoppergadgetry.main": "Attrezzi per pompa"
+}

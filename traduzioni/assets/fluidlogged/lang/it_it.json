@@ -1,0 +1,22 @@
+{
+    "fluidlogged.config.cancel": "Annulla",
+    "fluidlogged.config.compatibilityMode": "Modalità di compatibilità",
+    "fluidlogged.config.compatibilityMode.tooltip": "Alcuni mod potrebbero causare incompatibilità con questo modulo. Abilitando questa opzione, si risolveranno la maggior parte degli issue e solo i blocchi vanilla saranno fluidloggabili.",
+    "fluidlogged.config.fluids": "Fluidi",
+    "fluidlogged.config.save": "Salva",
+    "fluidlogged.config.title": "Configurazione fluidlogged",
+    "fluidlogged.config.warning": "Avviso: §navvertimento:§r le modifiche a questa configurazione possono mescolare i blocchi di fluido nella tua precedente mondo. Assicurati di fare un backup dei tuoi mondi prima di entrare in uno di essi!",
+    "fluidlogged.confirm_save.message": "Vuoi salvare queste modifiche?",
+    "fluidlogged.confirm_save.title": "Modifiche non salvate",
+    "fluidlogged.fluidMismatchWarning.description": "Questa configurazione del mondo fluidlogged non corrisponde alla tua configurazione attuale di mod.\nL'ingresso in questo mondo potrebbe causare blocchi fluidlogged misti. Assicurati di fare un backup prima di entrare in questo mondo!",
+    "fluidlogged.fluidMismatchWarning.title": "Configurazione non coerente",
+    "fluidlogged.fluid_config.category.enforced": "Imposto dai moduli",
+    "fluidlogged.fluid_config.category.other": "Altro",
+    "fluidlogged.fluid_config.error_toast.description": "Almeno un fluido deve essere abilitato!",
+    "fluidlogged.fluid_config.error_toast.title": "Seleziona non valida",
+    "fluidlogged.fluid_config.title": "Fluidi",
+    "fluidlogged.restart_required.later": "Non ora",
+    "fluidlogged.restart_required.message": "Il tuo gioco deve essere riavviato per applicare queste modifiche!",
+    "fluidlogged.restart_required.quit": "Uscire dal gioco",
+    "fluidlogged.restart_required.title": "Richiesta di riavvio del gioco"
+}

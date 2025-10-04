@@ -1,0 +1,23 @@
+{
+    "toolswap.configuration.ignore_empty_hand": "Modalità per scambiare strumenti nella mano",
+    "toolswap.configuration.ignore_empty_hand.tooltip": "Scegli quando gli strumenti possono scambiarsi in base agli oggetti nella tua mano:\nsempre = sempre scambia\nmano_vuota = scambia solo se la tua mano è vuota\noggetti = scambia se stai tenendo un oggetto\nstrumenti = scambia se stai tenendo uno strumento\nnessuno_strumento = scambia solo se stai tenendo un oggetto non-strumento",
+    "toolswap.configuration.ignore_harvest_level": "Ignora il livello di raccolta quando si scambiano gli strumenti",
+    "toolswap.configuration.ignore_harvest_level.tooltip": "Abilita questa opzione per ignorare i livelli di raccolta quando si selezionano gli strumenti.",
+    "toolswap.configuration.min_durability": "Minima durata per strumenti da salvare",
+    "toolswap.configuration.min_durability.tooltip": "Imposta la minima durata che un utensile deve avere per essere salvato quando è sul punto di rompersi.",
+    "toolswap.configuration.one_block_mode": "Modalità un blocco solo",
+    "toolswap.configuration.one_block_mode.tooltip": "Abilita questo per cercare costantemente il miglior strumento mentre si estraevano.",
+    "toolswap.configuration.save": "Salva strumenti di rottura",
+    "toolswap.configuration.save.tooltip": "Abilita questo per salvare gli strumenti con bassa durata mentre si rompono i blocchi.",
+    "toolswap.configuration.section.toolswap.client.toml.title": "Configurazione client toolswap",
+    "toolswap.configuration.sneak_to_prevent": "Sfiorare per evitare lo scambio di strumenti",
+    "toolswap.configuration.sneak_to_prevent.tooltip": "Abilita questo per impedire lo scambio di strumenti mentre si è in modalità stealth.",
+    "toolswap.configuration.sorttype": "Modalità di ordinamento per la selezione degli strumenti",
+    "toolswap.configuration.sorttype.tooltip": "Scegli come sono ordinati gli strumenti per la selezione:\nlivello = ordinati in base al livello di raccolta, più basso per primo\nlivello_inverso = ordinati in base al livello di raccolta, più alto per primo\nda sinistra a destra = ordinati da sinistra a destra\nda destra a sinistra = ordinati da destra a sinistra\nprimo_enchanted = gli strumenti incantati hanno priorità\nultimo_non_enchanted = gli strumenti non incantabili hanno priorità",
+    "toolswap.configuration.title": "ToolSwap",
+    "toolswap.key.toggle_toolswap_mode": "Attiva\/Disattiva modalità scambio strumenti",
+    "toolswap.key.toggle_toolswap_notification": "Modalità di scambio strumenti",
+    "toolswap.key.toggle_toolswap_notification.state_off": "Disattivato",
+    "toolswap.key.toggle_toolswap_notification.state_on": "Attivo",
+    "toolswap.warning": "Non ci sono slot vuoti per salvare lo strumento in corso di rottura."
+}

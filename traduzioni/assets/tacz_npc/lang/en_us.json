@@ -1,0 +1,10 @@
+{
+    "entity.tacz_npc.bandit": "Bandit",
+    "entity.tacz_npc.duty": "Duty",
+    "item.tacz_npc.bandit_spawn_egg": "Bandit Spawn Egg",
+    "item.tacz_npc.duty_spawn_egg": "Duty Spawn Egg",
+    "item.tacz_npc.experienced": "Experienced Patch",
+    "item.tacz_npc.expert": "Expert Patch",
+    "item.tacz_npc.rookie": "Rookie Patch",
+    "item.tacz_npc.veteran": "Veteran Patch"
+}

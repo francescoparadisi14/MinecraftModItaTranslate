@@ -1,0 +1,8 @@
+{
+    "restartWorld.confirm.description": "This will remove all progress and restore the world to default",
+    "restartWorld.confirm.title": "Confirm Restart",
+    "restartWorld.missing": "You cannot restart",
+    "restartWorld.missing.back": "Return to previous screen",
+    "selectWorld.restart": "Restart",
+    "selectWorld.restart.unsupported": "Unknown error"
+}

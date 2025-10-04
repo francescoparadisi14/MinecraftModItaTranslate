@@ -1,0 +1,13 @@
+{
+    "block.radiotowers.airdrop_crate": "Airdrop Crate",
+    "block.radiotowers.metal_bars": "Metal Bars",
+    "block.radiotowers.radio_panel": "Radio Panel",
+    "block.radiotowers.trashblock": "Trashblock",
+    "gui.radiotowers.airdrop_crategui.label_airfrop_crate": "Airdrop Crate",
+    "item_group.radiotowers.radiotowers": "Radio Towers",
+    "subtitles.fall_in_trash": "Fall In Trash",
+    "subtitles.fall_on_trash": "Fall On Trash",
+    "subtitles.radio_switch": "radio tunes",
+    "subtitles.radio_tuning": "Radio Tuning",
+    "subtitles.trash_walking": "Walking In Trash"
+}

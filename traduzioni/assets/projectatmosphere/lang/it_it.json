@@ -1,0 +1,18 @@
+{
+    "block.projectatmosphere.anemometer": "Anemometro",
+    "block.projectatmosphere.barometer_block": "Barometro",
+    "block.projectatmosphere.dust": "Polvere",
+    "block.projectatmosphere.humidimeter_block": "Umidimetro",
+    "block.projectatmosphere.sand_layer": "Strato di sabbia",
+    "block.projectatmosphere.thermometer_block": "Termometro",
+    "block.projectatmosphere.weather_vane": "Vano del tempo",
+    "item.projectatmosphere.balai_bois": "Scopa di legno",
+    "item.projectatmosphere.balai_diamant": "Scoiattolo di diamante",
+    "item.projectatmosphere.balai_fer": "Aspirapolvero di ferro",
+    "item.projectatmosphere.balai_netherite": "Scoiattolo di Netherite",
+    "item.projectatmosphere.balai_pierre": "Scoiattolo di pietra",
+    "item.projectatmosphere.barometer": "Barometro",
+    "item.projectatmosphere.humidimeter": "Umidimetro",
+    "item.projectatmosphere.thermometer": "Termometro",
+    "item.projectatmosphere.weather_radar": "Rilevatore del tempo"
+}

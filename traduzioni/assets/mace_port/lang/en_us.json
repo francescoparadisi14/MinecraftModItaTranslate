@@ -1,0 +1,19 @@
+{
+    "advancements.adventure.overoverkill.description": "Deal 50 hearts of damage in a single hit using the Mace",
+    "advancements.adventure.overoverkill.title": "Over-Overkill",
+    "advancements.adventure.who_needs_rockets.description": "Use a Wind Charge to launch yourself upward 8 blocks",
+    "advancements.adventure.who_needs_rockets.title": "Who Needs Rockets?",
+    "block.mace_port.heavy_core": "Heavy Core",
+    "enchantment.mace_port.breach": "Breach",
+    "enchantment.mace_port.density": "Density",
+    "enchantment.mace_port.wind_burst": "Wind Burst",
+    "entity.mace_port.wind_charge": "Wind Charge",
+    "item.mace_port.breeze_rod": "Breeze Rod",
+    "item.mace_port.heavy_core": "Heavy Core",
+    "item.mace_port.mace": "Mace",
+    "item.mace_port.wind_charge": "Wind Charge",
+    "subtitles.entity.generic.wind_burst": "Wind Charge bursts",
+    "subtitles.entity.wind_charge.throw": "Wind Charge flies",
+    "subtitles.item.mace.smash_air": "Mace smashes",
+    "subtitles.item.mace.smash_ground": "Mace smashes"
+}

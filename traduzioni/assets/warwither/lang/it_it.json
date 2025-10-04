@@ -1,0 +1,16 @@
+{
+    "advancements.warwither.blood_war.desc": "Sconfiggere la War Wither",
+    "advancements.warwither.blood_war.title": "Guerra del sangue",
+    "entity.warwither.war_wither": "War Wither",
+    "item.warwither.music_disc_war_wither": "Disco musicale",
+    "item.warwither.music_disc_war_wither.desc": "I pianeti, op. 32 - I. Marte, il portatore di guerra",
+    "item.warwither.war_wither_spawn_egg": "Uovo di generazione del War Wither",
+    "item_group.warwither.warwither_tab": "Tavola del War Wither",
+    "subtitle.warwither.war_wither_bomb": "Dinamite del Wither della Guerra",
+    "subtitle.warwither.war_wither_light": "Illuminazione del War Wither con la guerra",
+    "subtitle.warwither.war_wither_meteor": "Assistenza divina del War Wither con il Meteorite",
+    "subtitle.warwither.war_wither_music": "Il pianeti, Op. 32 - I. Marte, il portatore di guerra",
+    "subtitle.warwither.war_wither_repeating": "Arco da guerra Wither con ripetizione",
+    "subtitle.warwither.war_wither_rush": "Invasione del War Wither",
+    "subtitle.warwither.war_wither_waltz": "La valzer della morte del guerra con il Wither"
+}

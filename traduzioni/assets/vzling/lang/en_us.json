@@ -1,0 +1,13 @@
+{
+    "attribute.name.generic.aim_speed": "ADS Speed",
+    "attribute.name.generic.bullet_damage": "Damage per Shot",
+    "attribute.name.generic.mag_size": "Mag Size",
+    "effect.vzling.vertigo": "Vertigo",
+    "entity.vzling.example_laser_beam": "Example Laser Beam",
+    "entity.vzling.example_mob": "Example Mob",
+    "item.vzling.bullet": "Bullet",
+    "item.vzling.example_gun": "Example Gun",
+    "item.vzling.example_gun.tooltip.0": "Prototype: Mk.14 Mod0 Enhanced Battle Rifle",
+    "item.vzling.laser_staff": "Laser Staff",
+    "subtitles.vzling.gun_shoot": "Gun shoot"
+}

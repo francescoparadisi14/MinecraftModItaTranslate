@@ -1,0 +1,21 @@
+{
+    "block.minecraft.banner.tyrannotitan.black": "Black Playstation",
+    "block.minecraft.banner.tyrannotitan.blue": "Blue Playstation",
+    "block.minecraft.banner.tyrannotitan.brown": "Brown Playstation",
+    "block.minecraft.banner.tyrannotitan.cyan": "Cyan Playstation",
+    "block.minecraft.banner.tyrannotitan.gray": "Gray Playstation",
+    "block.minecraft.banner.tyrannotitan.green": "Green Playstation",
+    "block.minecraft.banner.tyrannotitan.light_blue": "Light Blue Playstation",
+    "block.minecraft.banner.tyrannotitan.light_gray": "Light Gray Playstation",
+    "block.minecraft.banner.tyrannotitan.lime": "Lime Playstation",
+    "block.minecraft.banner.tyrannotitan.magenta": "Magenta Playstation",
+    "block.minecraft.banner.tyrannotitan.orange": "Orange Playstation",
+    "block.minecraft.banner.tyrannotitan.pink": "Pink Playstation",
+    "block.minecraft.banner.tyrannotitan.purple": "Purple Playstation",
+    "block.minecraft.banner.tyrannotitan.red": "Red Playstation",
+    "block.minecraft.banner.tyrannotitan.white": "White Playstation",
+    "block.minecraft.banner.tyrannotitan.yellow": "Yellow Playstation",
+    "item.tyrannotitanlib.copper_nugget": "Copper Nugget",
+    "item.tyrannotitanlib.tyrannotitan_banner_pattern": "PlayStation Banner Pattern",
+    "item.tyrannotitanlib.tyrannotitan_banner_pattern.desc": "PlayStation"
+}

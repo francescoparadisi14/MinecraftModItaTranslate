@@ -1,0 +1,21 @@
+{
+    "block.minecraft.banner.tyrannotitan.black": "PlayStation Nero",
+    "block.minecraft.banner.tyrannotitan.blue": "PlayStation blu",
+    "block.minecraft.banner.tyrannotitan.brown": "PlayStation marrone",
+    "block.minecraft.banner.tyrannotitan.cyan": "Ciano PlayStation",
+    "block.minecraft.banner.tyrannotitan.gray": "PlayStation grigio",
+    "block.minecraft.banner.tyrannotitan.green": "PlayStation verde",
+    "block.minecraft.banner.tyrannotitan.light_blue": "Blu chiaro PlayStation",
+    "block.minecraft.banner.tyrannotitan.light_gray": "Grigio chiaro PlayStation",
+    "block.minecraft.banner.tyrannotitan.lime": "Lime PlayStation",
+    "block.minecraft.banner.tyrannotitan.magenta": "PlayStation magenta",
+    "block.minecraft.banner.tyrannotitan.orange": "PlayStation orange",
+    "block.minecraft.banner.tyrannotitan.pink": "PlayStation rosa",
+    "block.minecraft.banner.tyrannotitan.purple": "PlayStation viola",
+    "block.minecraft.banner.tyrannotitan.red": "PlayStation rosso",
+    "block.minecraft.banner.tyrannotitan.white": "PlayStation Bianca",
+    "block.minecraft.banner.tyrannotitan.yellow": "PlayStation giallo",
+    "item.tyrannotitanlib.copper_nugget": "Borsone di rame",
+    "item.tyrannotitanlib.tyrannotitan_banner_pattern": "Pattern di bandiera PlayStation per Tyrannotitan",
+    "item.tyrannotitanlib.tyrannotitan_banner_pattern.desc": "PlayStation"
+}

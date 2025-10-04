@@ -1,0 +1,6 @@
+{
+    "block.weatherdetector.weather_detector": "Weather Sensor",
+    "block.weatherdetector.weather_detector.tooltip_1": "Outputs a redstone signal of strength 1-8 if it's raining\/snowing.",
+    "block.weatherdetector.weather_detector.tooltip_2": "Outputs a redstone signal of strength 9-15 if it's thundering.",
+    "block.weatherdetector.weather_detector.tooltip_3": "Interact with the detector to invert the signal."
+}

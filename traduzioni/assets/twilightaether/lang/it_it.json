@@ -1,0 +1,16 @@
+{
+    "item.twilightaether.arctic_gloves": "Guanti artici",
+    "item.twilightaether.fiery_cape": "Cappello infuocato",
+    "item.twilightaether.fiery_cape.desc": "Conferisce resistenza al fuoco dopo aver subito danni da fuoco.",
+    "item.twilightaether.fiery_gloves": "Guanti infuocati",
+    "item.twilightaether.fiery_gloves.desc": "Brucia bersagli, quando attacchi con mano vuota",
+    "item.twilightaether.ironwood_gloves": "Guanti di legno ferroso",
+    "item.twilightaether.knightmetal_gloves": "Guanti di metallo cavaliere",
+    "item.twilightaether.knightmetal_gloves.desc": "Danni aggiuntivi ai bersagli non armati",
+    "item.twilightaether.naga_gloves": "Guanti del Naga",
+    "item.twilightaether.phantom_gloves": "Guanti fantasma (in corso di sviluppo)",
+    "item.twilightaether.steeleaf_gloves": "Guanti Steeleaf",
+    "item.twilightaether.yeti_gloves": "Guanti Yeti",
+    "item.twilightaether.yeti_gloves.desc": "Rinfresca il bersaglio quando attacchi con la mano vuota",
+    "itemGroup.twilightaether": "Aria del crepuscolo"
+}

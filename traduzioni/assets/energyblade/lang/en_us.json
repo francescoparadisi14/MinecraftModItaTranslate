@@ -1,0 +1,6 @@
+{
+    "item.energyblade.forge_energy_blade": "Prototype HF SlashBlade",
+    "item.energyblade.hf_blade": "HF Blade",
+    "tip.energyblade.energy_info": "Hold down the %s key to display more information.",
+    "tip.energyblade.forge_energy_info": "Current Energy: %s FE"
+}

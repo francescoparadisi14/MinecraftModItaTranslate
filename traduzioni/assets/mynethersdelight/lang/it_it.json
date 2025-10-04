@@ -47,8 +47,11 @@
     "block.mynethersdelight.zoglin_trophy": "Tropheo di Zoglin",
     "effect.mynethersdelight.b_pungent": "Pungente",
     "effect.mynethersdelight.b_pungent.desc": "Incrementa la sensibilità al calore e impedisce ustioni quando si lascia la zona di calore",
+    "effect.mynethersdelight.b_pungent.description": "Incrementa la sensibilità al calore e impedisce ustioni quando si lascia la zona di calore",
     "effect.mynethersdelight.g_pungent": "Pungente",
     "effect.mynethersdelight.g_pungent.desc": "Ricrea con calore",
+    "effect.mynethersdelight.g_pungent.description": "Ricrea con calore",
+    "emi.category.mynethersdelight.forgoting": "Dimenticazione",
     "enchantment.mynethersdelight.poaching": "Caccia",
     "enchantment.mynethersdelight.poaching.desc": "Caccia responsabile può fornirti ingredienti aggiuntivi!!! Ma attento a scegliere il tuo bersaglio...",
     "farmersdelight.tooltip.enchanted_golden_egg": "Nutrito da tutti gli effetti dannosi",
@@ -150,5 +153,13 @@
     "mynethersdelight.jei.info.plate_of_stuffed_hoglin": "È incredibile quanti piatti si possano ottenere da un banchetto così primitivo...",
     "mynethersdelight.jei.info.r_soil": "Quasi ogni pianta o coltura si sentirebbe a suo agio in questo terreno; se vuoi bagnarlo, invece di acqua, hai bisogno del fuoco.",
     "mynethersdelight.jei.info.strider_egg": "Aspetta... gli strider sono ovovivipari? è strano...\n\nin ogni caso, può essere ottenuto solo mediante caccia attenta.\ncarne dura, può essere mangiata solo stellare...",
-    "mynethersdelight.jei.info.wild_powdery": "I rami polverosi sono una coltura invasiva nei boschi di crisi.\n\ni suoi frutti esplosivi al contatto, prova a tagliare lo stelo rosso..."
+    "mynethersdelight.jei.info.wild_powdery": "I rami polverosi sono una coltura invasiva nei boschi di crisi.\n\ni suoi frutti esplosivi al contatto, prova a tagliare lo stelo rosso...",
+    "tag.item.mynethersdelight.block_of_powdery": "Blocchi di canna polverosa",
+    "tag.item.mynethersdelight.boiled_egg_candidate": "Candidati uova bollite",
+    "tag.item.mynethersdelight.hoglin_cure": "Cure per i porci",
+    "tag.item.mynethersdelight.hoglin_waxed": "Lavandoli di cinghiale",
+    "tag.item.mynethersdelight.hot_spice": "Salse piccanti",
+    "tag.item.mynethersdelight.stove_fire_fuel": "Carburanti per fuoco cucina",
+    "tag.item.mynethersdelight.stove_soul_fuel": "Carburanti anime stufa",
+    "tag.item.mynethersdelight.stuffed_hoglin_items": "Gli oggetti di maiale imbottiti"
 }

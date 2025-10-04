@@ -1,0 +1,17 @@
+{
+    "servertabinfo.gui.mean": "Medio",
+    "servertabinfo.gui.ms": "ms",
+    "servertabinfo.gui.not_installed": "Informazioni scheda server non installate sul server",
+    "servertabinfo.gui.page": "pagina %d di %d",
+    "servertabinfo.gui.tps": "TPS",
+    "servertabinfo.gui.unknown": "Sconosciuto",
+    "servertabinfo.keys.category": "Informazioni scheda server",
+    "servertabinfo.keys.show": "Mostra TPS elenco",
+    "servertabinfo.lostcities:lostcities": "Le città perse",
+    "servertabinfo.minecraft:overworld": "Mondo superiore",
+    "servertabinfo.minecraft:the_end": "Il Finale",
+    "servertabinfo.minecraft:the_nether": "Il Niente",
+    "servertabinfo.msg.not_allowed": "Non hai il permesso di visualizzare le informazioni sul TPS.",
+    "servertabinfo.servertabinfo:overall": "In generale",
+    "servertabinfo.twilightforest:twilight_forest": "Il bosco crepuscolare"
+}
