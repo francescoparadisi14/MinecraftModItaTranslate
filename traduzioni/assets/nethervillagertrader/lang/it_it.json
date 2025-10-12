@@ -1,0 +1,18 @@
+{
+    "effect.nethervillagertrader.ghasteffect": "Protezione dal ghast",
+    "entity.minecraft.villager.nethervillagertrader.nether_trader": "Negozianti del Nether",
+    "item.nethervillagertrader.hell_armor_boots": "Stivali di armatura infernale",
+    "item.nethervillagertrader.hell_armor_chestplate": "Cintura di armatura infernale",
+    "item.nethervillagertrader.hell_armor_helmet": "Elmo d'armatura infernale",
+    "item.nethervillagertrader.hell_armor_leggings": "Pantaloni di armatura infernale",
+    "item.nethervillagertrader.hell_axe": "Ascia dell'Inferno",
+    "item.nethervillagertrader.hell_ingot": "Ingot dell'Inferno",
+    "item.nethervillagertrader.hell_ingot.description_0": "Usalo per riparare gli strumenti e l'armatura",
+    "item.nethervillagertrader.hell_potion": "Potions dell'Inferno",
+    "item.nethervillagertrader.hell_sword": "Spada dell'Inferno",
+    "item.nethervillagertrader.hell_trident": "Tridente dell'Inferno",
+    "item.nethervillagertrader.nether_sickle": "Sickle del Nether",
+    "item.nethervillagertrader.the_hell_trident": "La tridente dell'inferno",
+    "itemGroup.tab_nether_villager_trader": "Mercante dei villaggi dell'Inferno",
+    "item_group.nethervillagertrader.nether_villager_trader": "Negozio del villaggio dell'Inferno"
+}

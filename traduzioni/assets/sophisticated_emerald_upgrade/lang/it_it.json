@@ -1,0 +1,9 @@
+{
+    "creativetab.reggarf.sophisticated_emerald_upgrade": "Aggiornamento emerodio sofisticato",
+    "item.sophisticated_emerald_upgrade.stack_upgrade_tier_sb_5": "Aggiornamento di pila di livello 5",
+    "item.sophisticated_emerald_upgrade.stack_upgrade_tier_sb_5.tooltip": "Moltiplica il numero di pile che possono essere contenute in una slot di 48",
+    "item.sophisticated_emerald_upgrade.stack_upgrade_tier_sbs_7": "Aggiornamento di pila livello 7",
+    "item.sophisticated_emerald_upgrade.stack_upgrade_tier_sbs_7.tooltip": "Moltiplica il numero di pile che possono essere contenute in una slot da 128 e questo aggiornamento della pila funziona per entrambe le tasche\/dispenseri.",
+    "item.sophisticated_emerald_upgrade.stack_upgrade_tier_ss_6": "Livello di miglioramento della pila 6",
+    "item.sophisticated_emerald_upgrade.stack_upgrade_tier_ss_6.tooltip": "Moltiplica il numero di stack che possono essere contenuti in una slot di 48"
+}

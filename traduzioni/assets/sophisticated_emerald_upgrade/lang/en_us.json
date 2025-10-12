@@ -1,0 +1,9 @@
+{
+    "creativetab.reggarf.sophisticated_emerald_upgrade": "Sophisticated Emerald Upgrade",
+    "item.sophisticated_emerald_upgrade.stack_upgrade_tier_sb_5": "Stack Upgrade Tier 5",
+    "item.sophisticated_emerald_upgrade.stack_upgrade_tier_sb_5.tooltip": "Multiplies the number of stacks that can fit in a slot by 48",
+    "item.sophisticated_emerald_upgrade.stack_upgrade_tier_sbs_7": "Stack Upgrade Tier 7",
+    "item.sophisticated_emerald_upgrade.stack_upgrade_tier_sbs_7.tooltip": "Multiplies the number of stacks that can fit in a slot by 128 And this stack upgrade work's for both backpacks\/storages",
+    "item.sophisticated_emerald_upgrade.stack_upgrade_tier_ss_6": "Stack Upgrade Tier 6",
+    "item.sophisticated_emerald_upgrade.stack_upgrade_tier_ss_6.tooltip": "Multiplies the number of stacks that can fit in a slot by 48"
+}

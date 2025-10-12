@@ -1,0 +1,14 @@
+{
+    "commands.neohome.addhome.failure": "Exceeded maximum amount of allowed homes",
+    "commands.neohome.addhome.success": "Added home %s",
+    "commands.neohome.deletehome.failure": "Unknown home %s",
+    "commands.neohome.deletehome.success": "Deleted home %s",
+    "commands.neohome.home.failure": "Unknown home %s",
+    "commands.neohome.home.failure_dimension": "Cannot teleport to home %s in a different dimension",
+    "commands.neohome.home.success": "Teleported you to %s",
+    "commands.neohome.listhome.header": "List of homes:",
+    "commands.neohome.listhome.line": "%s: %s, %s, %s (in %s)",
+    "commands.neohome.listhome.none": "You do not currently have any home.",
+    "gamerule.maxHomes": "Maximum homes",
+    "gamerule.maxHomes.description": "Maximum number of homes a player may have at the same time."
+}

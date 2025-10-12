@@ -1,0 +1,18 @@
+{
+    "effect.nethervillagertrader.ghasteffect": "Ghast protection",
+    "entity.minecraft.villager.nethervillagertrader.nether_trader": "Nether Trader",
+    "item.nethervillagertrader.hell_armor_boots": "Hell Armor Boots",
+    "item.nethervillagertrader.hell_armor_chestplate": "Hell Armor Chestplate",
+    "item.nethervillagertrader.hell_armor_helmet": "Hell Armor Helmet",
+    "item.nethervillagertrader.hell_armor_leggings": "Hell Armor Leggings",
+    "item.nethervillagertrader.hell_axe": "Hell Axe",
+    "item.nethervillagertrader.hell_ingot": "Hell Ingot",
+    "item.nethervillagertrader.hell_ingot.description_0": "Use it to repair the tools and armor",
+    "item.nethervillagertrader.hell_potion": "Hell Potion",
+    "item.nethervillagertrader.hell_sword": "Hell Sword",
+    "item.nethervillagertrader.hell_trident": "Hell Trident",
+    "item.nethervillagertrader.nether_sickle": "Nether Sickle",
+    "item.nethervillagertrader.the_hell_trident": "The Hell Trident",
+    "itemGroup.tab_nether_villager_trader": "Nether Villager Trader",
+    "item_group.nethervillagertrader.nether_villager_trader": "Nether Villager Trader"
+}

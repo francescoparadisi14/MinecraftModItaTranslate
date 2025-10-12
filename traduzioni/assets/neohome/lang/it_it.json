@@ -1,0 +1,14 @@
+{
+    "commands.neohome.addhome.failure": "Ecco il numero massimo di case consentite è stato superato.",
+    "commands.neohome.addhome.success": "aggiunto casa %s",
+    "commands.neohome.deletehome.failure": "Casa sconosciuta %s",
+    "commands.neohome.deletehome.success": "Casa eliminata %s",
+    "commands.neohome.home.failure": "Casa sconosciuta %s",
+    "commands.neohome.home.failure_dimension": "Non è possibile teletrasportarti a casa %s in un diverso dimensione.",
+    "commands.neohome.home.success": "Ti hai teletrasportato a %s",
+    "commands.neohome.listhome.header": "Elenco delle case:",
+    "commands.neohome.listhome.line": "%s: %s, %s, %s (nel %s)",
+    "commands.neohome.listhome.none": "Non hai attualmente alcun luogo di ritorno.",
+    "gamerule.maxHomes": "Massimo numero di case",
+    "gamerule.maxHomes.description": "Numero massimo di case che un giocatore può avere nello stesso momento."
+}
