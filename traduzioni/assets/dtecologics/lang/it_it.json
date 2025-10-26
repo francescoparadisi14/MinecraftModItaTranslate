@@ -1,0 +1,13 @@
+{
+    "block.dtecologics.azalea_branch": "Albero di azalea",
+    "block.dtecologics.coconut_branch": "Palma",
+    "block.dtecologics.walnut_branch": "Albero di noce",
+    "death.attack.dtecologics.falling_fruit.coconut": "%1$s è stato colpito alla testa da un cocco caduto",
+    "item.dtecologics.coconut_seed": "Cocco",
+    "item.dtecologics.prickly_pear_cactus_seed": "Semi di cactus spinoso",
+    "item.dtecologics.walnut_seed": "Seme di noce germinato",
+    "species.dtecologics.coconut": "Cocco",
+    "species.dtecologics.prickly_pear_cactus": "Cactus di prugna spinosa",
+    "species.dtecologics.walnut": "Noce",
+    "subtitle.dtecologics.falling_fruit.bonk": "Il giocatore si è schiantato con un frutto"
+}

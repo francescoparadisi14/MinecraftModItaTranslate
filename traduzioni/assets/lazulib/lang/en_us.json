@@ -1,0 +1,9 @@
+{
+    "commands.lazulib.error.missing_qualifier": "Missing qualifier in qualified name:",
+    "commands.lazulib.error.unexpected_qualifier": "Unexpected qualifier in unqualified name:",
+    "commands.lazulib.error.unexpected_separator": "Unexpected separator in qualified name:",
+    "key.display.wrap": "<%s>",
+    "key.keyboard.alt": "Alt",
+    "key.keyboard.control": "Ctrl",
+    "key.keyboard.shift": "Shift"
+}

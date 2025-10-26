@@ -1,0 +1,7 @@
+{
+    "block.fortune_on_netherite_forge.netherite_scrap_block": "Netherite Scrap Block",
+    "block.fortune_on_netherite_forge.raw_debris_block": "Raw Debris Block",
+    "gamerule.alowRawBlocksSmelting": "Allow Raw Blocks Smelting",
+    "gamerule.alowRawBlocksSmelting.description": "Allows you to disable smelting or blasting the raw copper, iron, gold and debris blocks (does not work yet)",
+    "item.fortune_on_netherite_forge.raw_debris": "Raw Debris"
+}

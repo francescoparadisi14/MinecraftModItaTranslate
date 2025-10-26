@@ -1,0 +1,13 @@
+{
+    "block.morelights.pyle_headlight": "Locomotive Headlight",
+    "block.morelights.skinny_tube_light": "Small Thin Tube Light",
+    "block.morelights.small_armored_light": "Small Armored Light",
+    "block.morelights.small_cage_light": "Small Cage Light",
+    "block.morelights.small_edison_bulb": "Small Edison Bulb",
+    "block.morelights.small_green_sconce": "Small Banker's Light",
+    "block.morelights.small_light_with_reflector": "Small Light With Reflector",
+    "block.morelights.small_tube_light": "Small Tube Light",
+    "item.morelights.yet_another_screwdriver": "Y.A.S.S (Yet Another Standard Screwdriver)",
+    "tab.morelights": "More Lights",
+    "tab.morelightstab": "Create: Additional Lights"
+}

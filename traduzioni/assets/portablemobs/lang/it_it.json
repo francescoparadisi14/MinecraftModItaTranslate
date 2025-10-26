@@ -1,0 +1,17 @@
+{
+    "portablemobs.advancement.basiccelladvancement.desc": "Crea una cella di cattura base",
+    "portablemobs.advancement.basiccelladvancement.title": "Capturare mostri",
+    "portablemobs.advancement.captureadvancement.desc": "Captura un mostro utilizzando una cella di cattura",
+    "portablemobs.advancement.captureadvancement.title": "Un mostro nella scatola",
+    "portablemobs.advancement.mastercelladvancement.desc": "Crea un cellulare di cattura maestro",
+    "portablemobs.advancement.mastercelladvancement.title": "Devi catturarli tutti!",
+    "portablemobs.advancement.playercaptureadvancement.desc": "Prova a catturare un giocatore utilizzando una cella di cattura",
+    "portablemobs.advancement.playercaptureadvancement.title": "Sì, ci siamo pensati...",
+    "portablemobs.capture_failed": "Non è possibile catturare questo mostro.",
+    "portablemobs.capture_failed_player": "Non è possibile catturare i giocatori!",
+    "portablemobs.capture_success": "Cattura riuscita",
+    "portablemobs.item.basic_capture_cell": "Cella di cattura base",
+    "portablemobs.item.master_capture_cell": "Cella di cattura master",
+    "portablemobs.item_group": "Mobili portatili",
+    "portablemobs.tooltip_name": "Nome del portatile: %s"
+}

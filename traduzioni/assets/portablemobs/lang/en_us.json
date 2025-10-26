@@ -1,0 +1,17 @@
+{
+    "portablemobs.advancement.basiccelladvancement.desc": "Craft a Basic Capture Cell",
+    "portablemobs.advancement.basiccelladvancement.title": "Capturing Mobs",
+    "portablemobs.advancement.captureadvancement.desc": "Capture a mob using a Capture Cell",
+    "portablemobs.advancement.captureadvancement.title": "Mob in a Box",
+    "portablemobs.advancement.mastercelladvancement.desc": "Craft a Master Capture Cell",
+    "portablemobs.advancement.mastercelladvancement.title": "Gotta Capture Them All!",
+    "portablemobs.advancement.playercaptureadvancement.desc": "Try to capture a player using a Capture Cell",
+    "portablemobs.advancement.playercaptureadvancement.title": "Yes, we thought of this...",
+    "portablemobs.capture_failed": "It's not possible to capture this mob",
+    "portablemobs.capture_failed_player": "Cannot capture players!",
+    "portablemobs.capture_success": "Capture successful",
+    "portablemobs.item.basic_capture_cell": "Basic Capture Cell",
+    "portablemobs.item.master_capture_cell": "Master Capture Cell",
+    "portablemobs.item_group": "Portable Mobs",
+    "portablemobs.tooltip_name": "%s"
+}

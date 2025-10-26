@@ -1,0 +1,497 @@
+{
+    "chapter.06D6C00D504BF8A8.title": "Applied Energistics 2",
+    "chapter.13E66880751F871B.title": "Second Chapter",
+    "chapter.146CB13F0E6075DC.title": "Vampirism",
+    "chapter.19F264284CD3DA7F.title": "Functional Storage",
+    "chapter.22C20C1827FE6805.title": "Immersive Engineering",
+    "chapter.249443E379CBC224.title": "Tom's Simple Storage",
+    "chapter.280B623FEEC99342.title": "Industrial Foregoing",
+    "chapter.3D120DE9DFA2C4B7.title": "Applied Energistics 2",
+    "chapter.3E7D92CADCCFB861.title": "Extreme Reactors",
+    "chapter.449CAC5A9ACC7526.title": "Psi",
+    "chapter.4625075C7CD0A659.title": "Bounty Board",
+    "chapter.47DD00170D38C18A.title": "Hostile Neural Networks",
+    "chapter.48EC561D880A51CA.title": "Powah",
+    "chapter.4BE7A0D4CC927D3B.title": "Modern Industrialization",
+    "chapter.4D4372B7AE791259.title": "Industrial Foregoing",
+    "chapter.4EBB2171D5A3AAAC.title": "Forbidden and Arcanus",
+    "chapter.5527F2EC38ED3C08.title": "Iron's Spells",
+    "chapter.561A5EA25FE966F5.title": "AE2",
+    "chapter.59395B6806F2A98A.title": "Cataclysm",
+    "chapter.67EA3C934935FB5F.title": "First Chapter",
+    "chapter.6A8CE6EDDCA76FB3.title": "Ars Nouveau",
+    "chapter.6AEDA2F9BEB57759.title": "Ars Nouveau",
+    "chapter.70822E2C0141F612.title": "Tips",
+    "chapter.745290F62A72C71C.title": "Powah",
+    "chapter.76DF5FAA7961E5E7.title": "Iron's Spellbooks",
+    "chapter.7BD80211A645DA4F.title": "Flux Networks",
+    "chapter.7D482754CF70EFFE.title": "Mekanism",
+    "chapter.7D53B2CB6E9CDF69.title": "Sophisticated",
+    "chapter_group.02360BD7BE383180.title": "Adventure",
+    "chapter_group.1976ACA522BAF321.title": "Tech",
+    "chapter_group.1C25C38C9771266F.title": "Magic",
+    "chapter_group.22065BFB76D5CE39.title": "Basic",
+    "chapter_group.37096A782911CBAC.title": "Storage",
+    "quest.04D9F6587EF8D9B7.quest_desc": [
+        "Stores potions"
+    ],
+    "quest.05024864BCD3A6B4.quest_desc": [
+        "A machine capable of converting chemicals into their fluid form and vice versa"
+    ],
+    "quest.05F1E515A85BE975.quest_desc": [
+        "After your first Basic reactor, which is limited by size, is now time for you to build your Reinforced Reactor!",
+        "",
+        "PS.: You DO NOT need to use anything as a coolant. Extreme Reactor's Reactor works fine without a coolant, coolants are made EXCLUSIVELY for efficiency. It WILL NOT generate more FE\/t."
+    ],
+    "quest.082D2D2910D9BD14.title": "Go to the Nether",
+    "quest.0862CF78AFF35B1D.quest_desc": [
+        "A few useful tips for, but not only, your start"
+    ],
+    "quest.086E7435DA8D6325.quest_desc": [
+        "ZEALOT Bloodline",
+        "",
+        "The Zealot Bloodline are used to a life underground, and as such take significantly more sun damage. However, they need to drink less blood and can mine faster.",
+        "",
+        "Some of their unlockable skills include:",
+        "",
+        ".Flesh Eater, They can consume Rotten Flesh for blood",
+        "",
+        ".Shadow Step, Teleport between dark areas",
+        "",
+        ".Dark Cloak, Invisibility at wall in dark areas",
+        "",
+        ".Wall Climbing",
+        "",
+        ".Underground Export, Faster movement on Stone-like materials.",
+        "",
+        "JOINING",
+        "",
+        "Deep underground in the Deep Dark biome there are small shrine structures. In the centre, there is an altar. As a vampire, crafting and using a Zealot Ritual Catalyst on this altar will start a ritual, leading to you becoming a Zealot"
+    ],
+    "quest.086E7435DA8D6325.title": "ZEALOT",
+    "quest.09A405780C30E854.quest_desc": [
+        "BLOODKNIGHT Bloodline",
+        "",
+        "The Bloodknight Bloodline are a strain that primarily feast on the fresh blood of other vampires. As a result, they lose blood slower but other sources of blood are not as nourishing.",
+        "",
+        "Some of their unlockable skills include:",
+        "",
+        ".Daywalker, Continuously consume blood, but receive sun immunity",
+        "",
+        ".Still Water, Gain a large amount of blood from drinking Vampire ",
+        "Blood Bottles",
+        "",
+        ".Blood Extraction, Extract Vampire Blood Bottles from Vampires",
+        "",
+        ".Blood Hunt, Continuously consume blood, but turn invisible",
+        "",
+        ".Feeding Frenzy, Drinking vampire blood temporarily empowers you.",
+        " ",
+        "",
+        "JOINING",
+        "",
+        "To become a Bloodknight, you must create and drink the Heinous Elixir. Corrupted Blood Samples can be dropped from Vampires when killed with a Heartstriker or Heartseeker, or can be found in chests within Vampire Crypts. The elixir will apply many negative effects for 30 seconds, but if you survive you will become a Bloodknight"
+    ],
+    "quest.09A405780C30E854.title": "BLOODKNIGHT",
+    "quest.09F28FB71996BBBF.title": "Werewolf level 12",
+    "quest.0ACE3F3E54D401FD.quest_desc": [
+        "A fairly advanced machine used to compress osmium into various dusts in order to create their ingot counterparts"
+    ],
+    "quest.0C4A2AE2C2496370.title": "Vampire level 14",
+    "quest.0C6F27E1F2DB257C.quest_desc": [
+        "A machine used to crush ingots into their dust counterparts, as well as perform many other operations."
+    ],
+    "quest.0CB60F1570381F80.quest_desc": [
+        "NOBLE Bloodline",
+        " ",
+        "",
+        "The Noble Bloodline are typically more fragile than other vampires, they take more damage and have less health. However, the threat of the Sun and Fire is less pronounced for them.",
+        "",
+        "Some of their unlockable skills include:",
+        "",
+        ".Slower Sundamage, They can stay out in the sun for longer without feeling the negative effects",
+        "",
+        ".Sanguine Delicacyy, They will gain more nourishment from drinking blood directly from mobs",
+        "",
+        ".Faster Bat Flight",
+        "",
+        ".Bottomless Chalice, Allows access to a chalice that can store huge amounts of blood",
+        "",
+        ".Intrigue and Flank, Increased damaging when attacking from behind and the ability to teleport behind     creatues that can't see you",
+        " ",
+        "JOINING",
+        "",
+        "To become a Noble, you must already be a Rank 2 Vampire Lord. You must then craft a Lordslayer injection and find a Vampire Baron. Corrupted Blood Samples can be dropped from Vampires when killed with a Heartstriker or Heartseeker, or can be found in chests within Vampire Crypts That Vampire Baron must be brought to under 30% health, and should have the Weakness affect applied to him. Then, attack the Baron with the Lordslayer injection to become a Noble"
+    ],
+    "quest.0CB60F1570381F80.title": "NOBLE",
+    "quest.0D5DA885A2A9518F.title": "Vampire level 9",
+    "quest.0DCE22E0AC8CB4E1.quest_desc": [
+        "You will need to place the blocks like this, each \" \/ \"represents a pedestal, and the \" E \" is the Enchant Apparatus, The core needs to be bellow the Apparatus.",
+        "",
+        "                    \/ \/ \/",
+        "                    \/ E \/",
+        "                    \/ \/ \/"
+    ],
+    "quest.0E8CCF973279D55E.quest_desc": [
+        "An elite machine capable of processing ores into four shards, serving as the initial stage of 400% ore processing"
+    ],
+    "quest.10115D83731485D8.title": "Vampire level 7",
+    "quest.10387D99D21FAB45.quest_desc": [
+        "It cannot be found. Then there you go."
+    ],
+    "quest.12325A4D0E8D342E.title": "Werewolf level 11",
+    "quest.13F45CAFD93C7244.quest_desc": [
+        "ECTOTHERM Bloodline",
+        "",
+        "The Ectotherm Bloodline live in the frigid cold and underwater. They take more fire damage and are weakened in hot areas or biomes. However, they have significantly faster swim speed and have more innate power related to their bloodline than other bloodlines. This includes gaining access to the 'Lord of Frost' action innately at Rank 2, which is further upgraded by skills",
+        "",
+        "Some of their unlockable skills include:",
+        "",
+        ".Fishmonger, Raw Fish can be eaten to gain blood",
+        "",
+        ".Dolphin Leap, Whilst in Water, gain the ability to quickly propel yourself in the direction you're facing, even out of water.",
+        "",
+        ".Refraction, No sun damage whilst underwater",
+        "",
+        ".Lord of Ice, whilst Lord of Frost is active, they can move freely through ice",
+        "",
+        ".Frost Control, Whilst Lord of Frost is active, water can be turned into ice",
+        "",
+        "JOINING",
+        "",
+        "To become an Ectotherm, you must create and drink the Freezing Elixir. Frozen Blood Samples for crafting this are found by killing Ectotherm Vampires using a Heartstriker or Heartseeker. Ectotherms are found commonly in cold biomes. The Freezing Elixir will apply a temporary effect, and if you die from Sundamage whilst submerged in shallow water and under the effects of the Elixir, you will become an Ectotherm"
+    ],
+    "quest.13F45CAFD93C7244.title": "ECTOTHERM",
+    "quest.149C4E8DEE57B85D.quest_desc": [
+        "When first putting flux point\/plug\/controller on the ground you should create your first network.",
+        "Note that you can create private, secured and public networks."
+    ],
+    "quest.14CAD7A9D5E44424.quest_desc": [
+        "Put it alongside your chests\/storage blocks to connect them to it."
+    ],
+    "quest.17118336957170C5.quest_desc": [
+        "If you want to leave the werewolf faction you have to get a Strange Injection by right click on a werewolf with a Empty Syringe and then inject it to yourself at an injection table. The strange effect you receive cleanses you from being a werewolf after 100 seconds."
+    ],
+    "quest.19D02325579F2AA8.quest_desc": [
+        "Generate source by consuming nearby burnable items.",
+        "Archwood logs generates bonus source, blazing archwood generating the most."
+    ],
+    "quest.19D562FBE27D2438.title": "Construction Stick",
+    "quest.1BCAD6E2D62C33CD.title": "Werewolf level 9",
+    "quest.1CFD1822C190A34B.quest_desc": [
+        "A generator that harnesses the varying molecular gases to produce energy."
+    ],
+    "quest.1D2A89FE1253C115.title": "Vampire level 10",
+    "quest.1E2E292B63E33932.title": "Werewolf level 5",
+    "quest.20559953E51CEEDC.quest_desc": [
+        "Uses substrate, oxygen and liquid ethene at the Pressurized Reaction Chamber to be made"
+    ],
+    "quest.227DBA8836021B0B.quest_desc": [
+        "It will absorb source from a nearby sourcelink"
+    ],
+    "quest.236D3250A2D010C8.title": "Energizing Orb",
+    "quest.278B232BABB2AFF4.quest_desc": [
+        "From this level on you will need to use the Altar of Infusion. Like the previous levels the altar is already made in our village. You can get Hearts by killing hunters around the map."
+    ],
+    "quest.278B232BABB2AFF4.title": "Vampire level 5",
+    "quest.27F94A36BBC942E8.quest_desc": [
+        "This tool is used to add or remove any drawer from a specific Storage Controller"
+    ],
+    "quest.295C77EEC89000FC.quest_desc": [
+        "Generate source from nearby mob death, and animal breeding.",
+        "Additionally, the vitalic source link will generate passive source from nearby baby animals and will accelerate their growth."
+    ],
+    "quest.2A6319C07BE13042.quest_desc": [
+        "This allows wireless charging, it is quite useful."
+    ],
+    "quest.2AD04E51C05D7440.quest_desc": [
+        "A simple machine used to enrich ores into two of their dust counterparts.",
+        "",
+        "It can also help you to get enriched materials, which are better ways to use the infuser."
+    ],
+    "quest.2AD499199B0112D0.title": "Werewolf level 14",
+    "quest.2B54D7A144959E95.quest_desc": [
+        "It cannot be found. Then there you go."
+    ],
+    "quest.2B54D7A144959E95.title": "Go to Ancient City",
+    "quest.2B65EAF8B757C86A.quest_desc": [
+        "Use Ebony \\& Ivory trick on one of these to transform it. You have to be in the End."
+    ],
+    "quest.2C9129D86B8CC358.quest_desc": [
+        "This \"basic\" wireless connector isn't really a wireless connector. It just gives you the ability to click on the terminal further away."
+    ],
+    "quest.2CF31C8DB72A3DA2.quest_desc": [
+        "An advanced machine that processes a solid, liquid and chemical mixture and creates both a chemical and solid product"
+    ],
+    "quest.2D0CF18C8B2ABB7D.quest_desc": [
+        "Place it near a crop farm and it will generate source",
+        "",
+        "&e&lNOTE: USING BONE MEALS DOES NOT GENERATE SOURCE&r&r"
+    ],
+    "quest.2D5766F40471C6F1.quest_desc": [
+        "More quests coming soon"
+    ],
+    "quest.2F625AAB296C29B2.quest_desc": [
+        "If you no longer want to be a vampire you need to find or craft an Altar of Cleansing and interact with it. There you will die to leave the faction unless you hold a Totem of Undying or play in a hardcore world."
+    ],
+    "quest.3359C43884ED53F5.title": "Werewolf level 7",
+    "quest.33C7179B81C3CD92.quest_desc": [
+        "&e&lFor leveling as a werewolf you will need 3 thinks. Bones, Livers, and damage done.",
+        "",
+        "&e&l.Damage Done means the sum of the max health of all killed creatures",
+        "&e&lThe progress is tracked in the Vampirism Menu",
+        "",
+        "&e&l.Cracked Bones are dropped by Werewolves and Skeletons",
+        "",
+        "&e&l.Livers are dropped by Werewolves and Villagers"
+    ],
+    "quest.33C7179B81C3CD92.title": "Werewolf level 2",
+    "quest.34696F561B1AA768.quest_desc": [
+        "It cannot be found. Then there you go."
+    ],
+    "quest.34DD916B994D1D7A.quest_desc": [
+        "You will need to use the Altar of Inspiration to level up, you need to place blood in there than SHIFT + RIGHT CLICK with you empty hand. To get blood you just need to drain blood from your victims with a glass bottle on you hand.",
+        "There is an altar in the center of our village"
+    ],
+    "quest.34DD916B994D1D7A.title": "Vampire level 2",
+    "quest.3655E6F4EDFEC7DE.title": "Gather Uraninite",
+    "quest.36C5F4C6AC02B263.title": "Dielectric Casing",
+    "quest.36DBD523EB602978.quest_desc": [
+        "Drop any amount of redstone on top of a bedrock, put a obsidian block one block above the bedrock, left click the obsidian."
+    ],
+    "quest.3808F9088A719C6A.quest_desc": [
+        "Can be made at the crusher, using almost any biological resource"
+    ],
+    "quest.38D935EBF17C1A62.quest_desc": [
+        "Just throw your Gold Cad Assembly and use Infusion on it."
+    ],
+    "quest.3C4B9A3A8DFC8F98.quest_desc": [
+        "Storage Controller can be used to link multiple drawers."
+    ],
+    "quest.3C9B052F308DBB2F.quest_desc": [
+        "This drawer works, as the name says, compacting your items. e.g. you put a iron ingot there, then it will store your iron ingot as a iron nugget, iron ingot and iron block at the same time."
+    ],
+    "quest.3D862A3D3F83CA26.quest_desc": [
+        "The &9Enchanting Apparatus&r is used to craft various items within the mod. It requires Source to work.\\n\\nIt is also a multiblock structure that utilizes Arcane Pedestals to craft.\\n\\nStart by placing an Arcane Core in the ground, then place the Enchanting Apparatus on top of it. Surround the Apparatus with Arcane Pedestals.\\n"
+    ],
+    "quest.3D8FF9D7D3776B48.quest_desc": [
+        "Once your reached the highest level of your faction, you can be make yourself a name and become a vampire lord or hunter lord respectively.",
+        "As a lord you are able to obtain and control minions. To become a lord you have to fulfill a certain task for your faction. You can accept and complete it at any vampire\/hunter representative.",
+        "They can be found in villages of your faction."
+    ],
+    "quest.3D8FF9D7D3776B48.title": "Vampire Lord",
+    "quest.408FCA77AC4BC545.title": "Vampire level 3",
+    "quest.40B40EEC60DE735E.quest_desc": [
+        "This tool is used to change a lot of configurations. You can SHIFT + RIGHT CLICK looking to the air in order to swap modes."
+    ],
+    "quest.4131594535787BFF.quest_desc": [
+        "After becoming a lord you will have some options."
+    ],
+    "quest.41A0BE357C8A74E1.quest_desc": [
+        "Generates source by consuming potions from adjacent potion jars.",
+        "The amount of source varies per potion and is dependent on the complexity of the potion.",
+        "Bonus source is given for the length and level of the potion with multipliers for each effect a potion contains."
+    ],
+    "quest.4231F11F58258FE3.quest_desc": [
+        "Flux plug will gather energy from your energy generator to the selected network."
+    ],
+    "quest.42AFA73ED8EF8ABC.title": "Become a Werewolf",
+    "quest.45C49C9E0F344926.title": "Iron Armor",
+    "quest.46D25EC5D4D44E11.quest_desc": [
+        "Collect Certus Quartz Crystal"
+    ],
+    "quest.46D25EC5D4D44E11.title": "Collect Certus Quartz",
+    "quest.49F9F7BD831AF568.quest_desc": [
+        "Infinite water source"
+    ],
+    "quest.4A555EA8AA2C796E.title": "Werewolf level 3",
+    "quest.4AF7775D29F29951.title": "Become a Vampire",
+    "quest.4B458FE76969774B.quest_desc": [
+        "You can get pure blood by killing Vampire Lords in their biome.",
+        "Lords have different levels 1-5 and they drop their respective purity blood."
+    ],
+    "quest.4B458FE76969774B.title": "Vampire level 6",
+    "quest.4C884A03B5C43E5E.quest_desc": [
+        "Put a beacon next to your Simple Storage system in order to use this one. "
+    ],
+    "quest.4CD8EE82886ADE1D.quest_desc": [
+        "Put this one connected to any side of Inventory Connector. "
+    ],
+    "quest.4DC764EED629D2DC.quest_desc": [
+        "Works exactly like a ender chest."
+    ],
+    "quest.4E0DD2B829A426F8.quest_desc": [
+        "An advanced machine capable of processing ores into three clumps, serving as  the initial  stage of 300% ore processing.",
+        "",
+        "It uses oxygen that is produced into the electrolytic separator using water"
+    ],
+    "quest.4EC310B147473D11.quest_desc": [
+        "Block that you use to make your CAD, using CAD Assembly + some optional items."
+    ],
+    "quest.501476630742E4C5.title": "Vampire level 8",
+    "quest.50BB5858F60E0264.quest_desc": [
+        "Make a farm and put the Source link near it, place the source jar close to it and use the Dominion Wand to link then"
+    ],
+    "quest.51D8CB90A0245FC1.quest_desc": [
+        "Uses biofuel hydrogen and water at the Pressurized Reaction Chamber to be made"
+    ],
+    "quest.524FCB81A8A62310.title": "Vampire level 4",
+    "quest.525880B905CBF781.title": "Vampire level 13",
+    "quest.529A64F92B8DAD6E.title": "Werewolf level 10",
+    "quest.53C8DF9E8AAB0AB9.title": "Werewolf level 13",
+    "quest.53ECBCFBF5C97C96.quest_desc": [
+        "A machine that uses electrolysis to split apart a certain fluid into two different chemicals"
+    ],
+    "quest.5766C8B9E850C186.quest_desc": [
+        "Place Lapis Lazuli here and it will generate source gems"
+    ],
+    "quest.57C294A5CFE4CF49.quest_desc": [
+        "You can right click any compatible mob using Model Framework. It will be transformed into a Model from the specific mob you right clicked.",
+        "",
+        "Open your deep learner, put that model inside your deep learner, then kill that mob at least till your model isn't Faulty. "
+    ],
+    "quest.584089F815C61833.title": "Vampire level 12",
+    "quest.58505D698B7A113D.quest_desc": [
+        "A highly-adavanced, filter-based, auto-miner that can mine whatever block you tell it to within a 32 (max) radius."
+    ],
+    "quest.5A6C2BC5352B2B0E.quest_desc": [
+        "Enriched version of Redstone, more cost effective into the infusing machine"
+    ],
+    "quest.5ADE1C64EC864DC9.quest_desc": [
+        "A simple machine that serves as the mekanism-based furnace that runs off of energy"
+    ],
+    "quest.5CB72F970DD73BB3.quest_desc": [
+        "Any questions, look at Tattered Tome"
+    ],
+    "quest.5EB0CF9F8F6E7604.quest_desc": [
+        "An ultimate machine used to crystallize purified ore slurry into ore crystals."
+    ],
+    "quest.601540CF636DC82C.quest_desc": [
+        "I recommend you get one, it will be usefull on you journey."
+    ],
+    "quest.65755255C5DEF788.quest_desc": [
+        "Made at the enrichment chamber using 3 HDPE"
+    ],
+    "quest.6C2EE70FBB9275C3.title": "Vampire level 11",
+    "quest.6E0E13806F388D7E.quest_desc": [
+        "Any questions about the mod, look at the book"
+    ],
+    "quest.6E67538B6F6BD4E8.quest_desc": [
+        "Enriched version of Diamond, more cost effective into the infusing machine"
+    ],
+    "quest.7058445743B500B6.quest_desc": [
+        "So... You know the math class that you aways tought that was useless and that you would never use it in your life. Well you was wrong"
+    ],
+    "quest.70B12626EED16A99.title": "Werewolf level 6",
+    "quest.70DD5E133C8E9A75.quest_desc": [
+        "Basic item storage drawer. Can be 1x1, 1x2, 2x2."
+    ],
+    "quest.72DEA812CBA39A04.quest_desc": [
+        "You should not transform it in a CAD."
+    ],
+    "quest.74EECD0425992124.quest_desc": [
+        "Enriched version of Coal, more cost effective into the infusing machine"
+    ],
+    "quest.752A6586719B6F39.quest_desc": [
+        "Shhh."
+    ],
+    "quest.75A078AAC483B30B.quest_desc": [
+        "Flux point will gather your energy from a selected network and then distribute to any nearby energy cable and\/or any block that accepts FE."
+    ],
+    "quest.75CED31F4266B76D.quest_desc": [
+        "Now that you already have your model, you just need to put it inside this machine, do not forget to also put a few Prediction Matrix there."
+    ],
+    "quest.7633B66DF5D408A3.quest_desc": [
+        "Item storage drawer, but this one is a customizable version. You can choose any block for it's visual."
+    ],
+    "quest.76CCCBB319768A18.quest_desc": [
+        "Enriched version of Refined Obsidian, more cost effective into the infusing machine"
+    ],
+    "quest.76E9F136FD9A5F51.quest_desc": [
+        "You will need a lot of Graphite Bars in order to make powerful reactors using Extreme Reactors."
+    ],
+    "quest.77145113CD5B26FB.quest_desc": [
+        "Generate source from nearby food.",
+        "Generating more from more nourishing foods.",
+        "",
+        "&e&lNOTE: Source berry food is worth far more than other mundane foods&r&r"
+    ],
+    "quest.775F5DD72FC76EED.quest_desc": [
+        "A machine used to infuse various materials into (generally) metals to create metal alloys and other compounds."
+    ],
+    "quest.78B425A52825B02F.title": "Werewolf level 4",
+    "quest.78D7156DE2CCFBA6.quest_desc": [
+        "Uses extreme amounts of heat to process certains elements"
+    ],
+    "quest.79F4A3A20B23D30A.quest_desc": [
+        "Same as a vampire, you will need to get a werewolf village there you will encounter the Werewolf Representative.",
+        "",
+        "The Werewolf Representative will offer the task \"Are you worthy?\" to become a lord. To complete this task you need to",
+        "",
+        "Kill 10 Hunter",
+        "Kill 10 Vampire",
+        "Have 2 Werewolf Tooth",
+        "Have 32 Gold Ingot",
+        "Win 3 Village Raids (attacks\/defense)"
+    ],
+    "quest.79F4A3A20B23D30A.title": "Werewolf Lord",
+    "quest.7A5930897DD1C150.title": "Werewolf level 8",
+    "quest.7AA157B612762E49.quest_desc": [
+        "Basic fluid storage. Can be 1x1, 1x2 or 2x2."
+    ],
+    "quest.7B290879D7E8164D.quest_desc": [
+        "Use to make source gem, just put a Lapis Lazuli"
+    ],
+    "quest.7C4AD00D10AF062C.quest_desc": [
+        "Pretty obvious, but you just need to insert your mob prediction produced by the Simulation Chamber inside this machine.",
+        "",
+        "PS.: In a automated system one Loot Fabricator could easily take 5 Simulation Chambers."
+    ],
+    "quest.7EA96B3CA74204F9.quest_desc": [
+        "&l&eI don't have any idea about how this mod works. This book should help. Good lucky yall, maybe there will be a quest about it in the future."
+    ],
+    "reward.3E701D9A6CF59B48.title": "Apple",
+    "reward.40DFF527DD2CB826.title": "Unobtainium Ingot",
+    "reward.44B06394FBC5E126.title": "King Crimson",
+    "reward_table.0C6280431848193B.title": "Extreme Reactors",
+    "reward_table.1997549B2C7B7A4A.title": "Flux",
+    "reward_table.1F0ABAF93DC08101.title": "AE2",
+    "reward_table.2D32B64313BD515F.title": "IF",
+    "reward_table.6039B8DE9AF1B08B.title": "Extreme Reinforced",
+    "reward_table.61A5FC5515F137EA.title": "Mekanism Basic",
+    "reward_table.6C46518B0B9B79A4.title": "Powah Advanced",
+    "reward_table.6F19CF123FAA1A60.title": "Mekanism Advanced",
+    "reward_table.7567AE5DD3CED997.title": "Iron's Spells",
+    "reward_table.7D9B0F04A4C0BCE5.title": "Powah",
+    "reward_table.7E62A1757805332C.title": "Ars",
+    "task.049A369ACA7B29F1.title": "1125 damage",
+    "task.07A5E19113942BB4.title": "Stay tuned",
+    "task.081CB32FF406B32E.title": "625 damage",
+    "task.0B0885FD7138B4A1.title": "Leaving The faction",
+    "task.0D9F495F52F88AFD.title": "1625 damage",
+    "task.0E111B1754D5CA7C.title": "Basic Reactor",
+    "task.1279A08A3A038F84.title": "Any #functionalstorage:drawer",
+    "task.232472D3E8B84547.title": "First Stage",
+    "task.248D213CC449BDF1.title": "Lord",
+    "task.28FB98BA7590CA19.title": "Any #constructionstick:construction_sticks",
+    "task.2EF49720DE10E6ED.title": "Psicopath",
+    "task.307228F8B99FCEC1.title": "Any #minecraft:logs",
+    "task.338FCB51A1ED0C6E.title": "Tips",
+    "task.3424CE837CC64A4B.title": "250 damage",
+    "task.34F9CBD0605B074F.title": "1375 damage",
+    "task.3A2DC147A51965AD.title": "First Chapter",
+    "task.40289989DEF7D304.title": "750 damage",
+    "task.463112C0397C07B4.title": "370 damage",
+    "task.467FB21437252EEE.title": "Basic Tier",
+    "task.4EFACD77B48272CB.title": "Complete",
+    "task.54384FD21D6BE872.title": "Tips",
+    "task.56C7D4B77FCAFA17.title": "1750 damage",
+    "task.5710802DC051B9DB.title": "Lord",
+    "task.60CAA633D80959A4.title": "1000 damage",
+    "task.64A11E16FE6AC975.title": "1255 damage",
+    "task.665183C00702C2C1.title": "What's Next",
+    "task.695531D0377F319C.title": "1500 damage",
+    "task.74FCED33BC9A7311.title": "500 damage",
+    "task.769D00CBE8B3C62A.title": "875 damage",
+    "task.7CE2E40EF0D81386.title": "Leaving the Faction"
+}

@@ -1,0 +1,12 @@
+{
+    "cfwinfo.config.fade_speed": "Velocità di animazione del fade",
+    "cfwinfo.config.info_enabled": "Abilita overlay di informazioni",
+    "cfwinfo.config.messages_enabled": "Mostra messaggi di debug",
+    "cfwinfo.config.overlay_opacity": "Opacità sovrapposizione",
+    "cfwinfo.config.simplified_enabled": "Modalità semplificata",
+    "cfwinfo.config.sprite_scale_factor": "Fattore di scala per il carro armato",
+    "cfwinfo.configuration.overlay": "Overlay",
+    "key.categories.cfwinfo": "Informazioni carburante e acqua (creare)",
+    "key.cfwinfo.toggle_overlay": "Attiva\/Disattiva sovrapposizione",
+    "key.cfwinfo.toggle_simplified": "Alternare semplice"
+}

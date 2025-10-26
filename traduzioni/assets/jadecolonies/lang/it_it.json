@@ -1,0 +1,14 @@
+{
+    "config.jade.plugin_jadecolonies.colony.citizens": "Elenco dei cittadini",
+    "config.jade.plugin_jadecolonies.colony.colonist": "Informazioni colonista",
+    "config.jade.plugin_jadecolonies.colony.hut": "Nome del edificio",
+    "config.jade.plugin_jadecolonies.colony.pack": "Pacchetto di costruzione",
+    "config.jade.plugin_jadecolonies.colony.visitor_cost": "Costo di reclutamento dei visitatori",
+    "config.jade.plugin_jadecolonies.domum.materials": "Materiali di ornamento della Domus",
+    "jadecolonies.jade.colony.gender.female": "femmina",
+    "jadecolonies.jade.colony.gender.male": "maschio",
+    "jadecolonies.jade.colony.job.child": "Figlio",
+    "jadecolonies.jade.colony.job.none": "inoccupato",
+    "jadecolonies.jade.colony.job.visitor": "Visitatore",
+    "jadecolonies.jade.colony.visitor_cost": "Recruita per"
+}

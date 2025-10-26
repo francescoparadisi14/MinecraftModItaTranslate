@@ -1,0 +1,9 @@
+{
+    "commands.lazulib.error.missing_qualifier": "Manca il qualificatore nel nome qualificato:",
+    "commands.lazulib.error.unexpected_qualifier": "Squalificatore imprevisto nel nome non qualificato:",
+    "commands.lazulib.error.unexpected_separator": "Separatore imprevisto nel nome qualificato:",
+    "key.display.wrap": "<%s>",
+    "key.keyboard.alt": "Alt",
+    "key.keyboard.control": "Ctrl",
+    "key.keyboard.shift": "F5"
+}

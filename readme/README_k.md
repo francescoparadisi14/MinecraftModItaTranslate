@@ -1,8 +1,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
 
-![](https://img.shields.io/badge/Ultimo%20Aggiornamento-12%2F10%2F2025-blue)
-![](https://img.shields.io/badge/Mod%20tradotte-3127-green)
-![](https://img.shields.io/badge/Quest%20tradotte-21-green)
+![](https://img.shields.io/badge/Ultimo%20Aggiornamento-26%2F10%2F2025-blue)
+![](https://img.shields.io/badge/Mod%20tradotte-3201-green)
+![](https://img.shields.io/badge/Quest%20tradotte-23-green)
 
 ## Progetto che utilizza l’intelligenza artificiale per **tradurre automaticamente in italiano** i contenuti testuali delle mod di Minecraft.
 Supporta file `.json` (come `en_us.json`) e file `.snbt` (come `en_us.snbt`) per FTB Quests.
@@ -50,6 +50,7 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 | <img src="https://media.forgecdn.net/avatars/775/789/638117429952734432.png" loading="lazy" decoding="async" width="30" /> | [Kiwi 🥝 (Fabric)](https://www.curseforge.com/minecraft/mc-mods/kiwi-fabric "Web Site")  | 28/08/2025 | 73 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fkiwi "Download") |
 | <img src="https://media.forgecdn.net/avatars/203/889/636935511172009471.png" loading="lazy" decoding="async" width="30" /> | [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs "Web Site")  | 11/08/2025 | 14 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fkleeslabs "Download") |
 | <img src="https://media.forgecdn.net/avatars/456/437/637726961914562019.png" loading="lazy" decoding="async" width="30" /> | [KleeSlabs (Outdated Versions)](https://www.curseforge.com/minecraft/mc-mods/kleeslabs-fabric "Web Site")  | 07/08/2025 | 14 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fkleeslabs "Download") |
+| <img src="https://media.forgecdn.net/avatars/795/84/638154304645295794.png" loading="lazy" decoding="async" width="30" /> | [Klsts' Beyond Netherite](https://www.curseforge.com/minecraft/mc-mods/klsts-beyond-netherite "Web Site") ![](https://img.shields.io/badge/NEW-red) | 25/10/2025 | 245 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fbeyond "Download") |
 | <img src="https://media.forgecdn.net/avatars/1118/569/638673951732088526.png" loading="lazy" decoding="async" width="30" /> | [Klsts' Monsters](https://www.curseforge.com/minecraft/mc-mods/klsts-monsters "Web Site")  | 17/09/2025 | 1156 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fkmonsters "Download") |
 | <img src="https://media.forgecdn.net/avatars/761/310/638097611993061146.png" loading="lazy" decoding="async" width="30" /> | [Knaves' Needs](https://www.curseforge.com/minecraft/mc-mods/knaves-needs "Web Site")  | 11/09/2025 | 631 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fknavesneeds "Download") |
 | <img src="https://media.forgecdn.net/avatars/1084/451/638625514374500036.png" loading="lazy" decoding="async" width="30" /> | [Knight Lib](https://www.curseforge.com/minecraft/mc-mods/knight-lib "Web Site")  | 14/09/2025 | 14 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fknightlib "Download") |

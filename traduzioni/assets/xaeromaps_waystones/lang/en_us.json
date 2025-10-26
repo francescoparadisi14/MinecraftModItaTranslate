@@ -1,0 +1,13 @@
+{
+    "xaeromaps_waystones.config.category.general.name": "General",
+    "xaeromaps_waystones.config.category.general.tooltip": "General Settings",
+    "xaeromaps_waystones.config.group.waypoint_colors.description": "Mapping of waystone colors.",
+    "xaeromaps_waystones.config.group.waypoint_colors.name": "Waypoint Colors",
+    "xaeromaps_waystones.config.option.waypoint_color_fallback.description": "Fallback color if a waystone does not have a color set.",
+    "xaeromaps_waystones.config.option.waypoint_color_fallback.name": "Fallback Color",
+    "xaeromaps_waystones.config.option.waypoint_icon.description": "1-2 characters",
+    "xaeromaps_waystones.config.option.waypoint_icon.name": "Waypoint Icon",
+    "xaeromaps_waystones.config.option.waypoint_name_template.description": "{waystone_name}will be replaced with the name of the waystone.",
+    "xaeromaps_waystones.config.option.waypoint_name_template.name": "Waypoint Name Template",
+    "xaeromaps_waystones.config.title": "Xaero's Waystones Settings"
+}

@@ -1,0 +1,13 @@
+{
+    "xaeromaps_waystones.config.category.general.name": "Generale",
+    "xaeromaps_waystones.config.category.general.tooltip": "Impostazioni generali",
+    "xaeromaps_waystones.config.group.waypoint_colors.description": "Mappatura dei colori delle stazioni di riferimento.",
+    "xaeromaps_waystones.config.group.waypoint_colors.name": "Colori punti di riferimento",
+    "xaeromaps_waystones.config.option.waypoint_color_fallback.description": "Colore di fallback se un punto di riferimento non ha un colore impostato.",
+    "xaeromaps_waystones.config.option.waypoint_color_fallback.name": "Colore di fallback",
+    "xaeromaps_waystones.config.option.waypoint_icon.description": "Descrizione dell'icona del punto di riferimento (1-2 caratteri)",
+    "xaeromaps_waystones.config.option.waypoint_icon.name": "Icona punto di riferimento",
+    "xaeromaps_waystones.config.option.waypoint_name_template.description": "Il nome del punto di riferimento sarà sostituito con il nome del punto di riferimento.",
+    "xaeromaps_waystones.config.option.waypoint_name_template.name": "Template di nome punto di riferimento",
+    "xaeromaps_waystones.config.title": "Impostazioni dei segnalini di xaero"
+}

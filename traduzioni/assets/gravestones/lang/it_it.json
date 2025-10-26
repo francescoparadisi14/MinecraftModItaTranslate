@@ -1,0 +1,20 @@
+{
+    "block.gravestones.gravestone": "Stele sepolcrale",
+    "text.autoconfig.gravestones.option.mainSettings": "Impostazioni principali",
+    "text.autoconfig.gravestones.option.mainSettings.dropType": "Tipo di caduta del monumento funerario",
+    "text.autoconfig.gravestones.option.mainSettings.dropType.@Tooltip": "Cosa succede agli oggetti quando vengono recuperati",
+    "text.autoconfig.gravestones.option.mainSettings.enableGraveLooting": "Abilita il saccheggio delle lapidi",
+    "text.autoconfig.gravestones.option.mainSettings.enableGraveLooting.@Tooltip": "Se altri giocatori dovrebbero poter recuperare la lapide di un giocatore.",
+    "text.autoconfig.gravestones.option.mainSettings.enableGraves": "Abilita lapidi",
+    "text.autoconfig.gravestones.option.mainSettings.enableGraves.@Tooltip": "Abilita funzionalità del modulo per i monumenti funerari",
+    "text.autoconfig.gravestones.option.mainSettings.minimumOpLevelToLoot": "Livello di operatore minimo per saccheggiare",
+    "text.autoconfig.gravestones.option.mainSettings.minimumOpLevelToLoot.@Tooltip": "Il livello di operatore minimo richiesto per bypassare la protezione del mondo delle lapidi",
+    "text.autoconfig.gravestones.option.mainSettings.retrievalType": "Tipo di recupero delle lapidi",
+    "text.autoconfig.gravestones.option.mainSettings.retrievalType.@Tooltip": "Come vengono recuperati gli oggetti da un monumento funerario.",
+    "text.autoconfig.gravestones.option.mainSettings.sendGraveCoordinates": "Inviare coordinate del monumento funebre",
+    "text.autoconfig.gravestones.option.mainSettings.sendGraveCoordinates.@Tooltip": "Se il giocatore dovrebbe ricevere le coordinate della sua lapide dopo la morte.",
+    "text.autoconfig.gravestones.option.mainSettings.xpPercentage": "Percentuale XP da mantenere",
+    "text.autoconfig.gravestones.option.mainSettings.xpPercentage.@Tooltip": "Percentuale di esperienza che verrà mantenuta alla morte",
+    "text.autoconfig.gravestones.title": "Configurazione lapidi",
+    "text.gravestones.grave_coordinates": "Il tuo sepolcro si è generato in [x: %d, y: %d, z: %d]"
+}

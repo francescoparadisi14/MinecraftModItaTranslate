@@ -1,0 +1,12 @@
+{
+    "cfwinfo.config.fade_speed": "Fade Animation Speed",
+    "cfwinfo.config.info_enabled": "Enable Info Overlay",
+    "cfwinfo.config.messages_enabled": "Show debug messages",
+    "cfwinfo.config.overlay_opacity": "Overlay Opacity",
+    "cfwinfo.config.simplified_enabled": "Simplified Mode",
+    "cfwinfo.config.sprite_scale_factor": "Tank Scale Factor",
+    "cfwinfo.configuration.overlay": "Overlay",
+    "key.categories.cfwinfo": "Create: Fuel and Water Information",
+    "key.cfwinfo.toggle_overlay": "Toggle Overlay",
+    "key.cfwinfo.toggle_simplified": "Toggle Simplified"
+}

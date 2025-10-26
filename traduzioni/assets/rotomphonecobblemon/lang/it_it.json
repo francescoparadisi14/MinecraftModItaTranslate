@@ -1,0 +1,19 @@
+{
+    "advancements.advancement_rotom_phone.descr": "Ora puoi utilizzare il tuo PC e guarire ovunque, in aggiunta a salvare gli oggetti in un cassetto sicuro e ho potuto utilizzare CheckSpawn.",
+    "advancements.advancement_rotom_phone.title": "Telefono Rotom",
+    "gui.rotomphonecobblemon.gui_check_spawn.label_checkspawn": "Verifica spawn",
+    "gui.rotomphonecobblemon.gui_check_spawn.label_common": "Raro",
+    "gui.rotomphonecobblemon.gui_check_spawn.label_common1": "Comune",
+    "gui.rotomphonecobblemon.gui_check_spawn.label_rare": "Raro",
+    "gui.rotomphonecobblemon.gui_check_spawn.label_ultrarare": "Ultra-raro",
+    "gui.rotomphonecobblemon.gui_chest.label_chest_rotom_phone": "Cassetta Rotom Phone",
+    "gui.rotomphonecobblemon.gui_chest.label_inventory": "Inventario",
+    "gui.rotomphonecobblemon.gui_gacha.button_empty": "",
+    "gui.rotomphonecobblemon.gui_rotom_phone.button_config": "Configurazione",
+    "gui.rotomphonecobblemon.gui_rotom_phone.button_gacha": "Gacha",
+    "gui.rotomphonecobblemon.gui_rotom_phone.button_teste": "teste",
+    "item.rotomphonecobblemon.rotom_phone": "telefono Rotom",
+    "subtitles.click": "",
+    "subtitles.healing_machine_active": "",
+    "subtitles.rotom_phone_open": ""
+}

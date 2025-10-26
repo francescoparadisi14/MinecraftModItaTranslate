@@ -1,8 +1,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
 
-![](https://img.shields.io/badge/Ultimo%20Aggiornamento-12%2F10%2F2025-blue)
-![](https://img.shields.io/badge/Mod%20tradotte-3127-green)
-![](https://img.shields.io/badge/Quest%20tradotte-21-green)
+![](https://img.shields.io/badge/Ultimo%20Aggiornamento-26%2F10%2F2025-blue)
+![](https://img.shields.io/badge/Mod%20tradotte-3201-green)
+![](https://img.shields.io/badge/Quest%20tradotte-23-green)
 
 ## Progetto che utilizza l’intelligenza artificiale per **tradurre automaticamente in italiano** i contenuti testuali delle mod di Minecraft.
 Supporta file `.json` (come `en_us.json`) e file `.snbt` (come `en_us.snbt`) per FTB Quests.
@@ -38,7 +38,7 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 
 |  |Mod | Ultimo<br/>aggiornamento | Numero<br/>Traduzioni |Download |
 | ---- | ---- | ---- | ---- | ---- |
-| <img src="https://media.forgecdn.net/avatars/1433/356/638928654943320405.gif" loading="lazy" decoding="async" width="30" /> | [Qliphoth Awakening](https://www.curseforge.com/minecraft/mc-mods/qliphoth-awakening "Web Site") ![](https://img.shields.io/badge/NEW-red) | 04/10/2025 | 174 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Ffdbosses "Download") |
+| <img src="https://media.forgecdn.net/avatars/1433/356/638928654943320405.gif" loading="lazy" decoding="async" width="30" /> | [Qliphoth Awakening](https://www.curseforge.com/minecraft/mc-mods/qliphoth-awakening "Web Site")  | 04/10/2025 | 174 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Ffdbosses "Download") |
 | <img src="https://media.forgecdn.net/avatars/973/248/638475788632844281.png" loading="lazy" decoding="async" width="30" /> | [Quad](https://www.curseforge.com/minecraft/mc-mods/quad "Web Site")  | 08/08/2025 | 28 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fquad "Download") |
 | <img src="https://media.forgecdn.net/avatars/1103/337/638651847328659210.png" loading="lazy" decoding="async" width="30" /> | [Quality Food](https://www.curseforge.com/minecraft/mc-mods/quality-food "Web Site")  | 07/08/2025 | 13 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fquality_food "Download") |
 | <img src="https://media.forgecdn.net/avatars/105/721/636354881151350197.png" loading="lazy" decoding="async" width="30" /> | [QuantumStorage](https://www.curseforge.com/minecraft/mc-mods/quantumstorage "Web Site")  | 04/08/2025 | 34 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fquantumstorage "Download") |

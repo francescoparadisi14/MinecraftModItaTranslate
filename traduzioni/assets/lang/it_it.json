@@ -8,5 +8,8 @@
     "attribute.name.betterparagliders.submerged_stamina_regen": "Ricreazione della resistenza idlica in immersione",
     "attribute.name.betterparagliders.swimming_stamina_reduction": "Riduzione della resistenza al nuoto",
     "attribute.name.betterparagliders.two_handed_stamina_reduction": "Riduzione di resistenza alla fatica con entrambe le mani",
-    "attribute.name.betterparagliders.water_breathing_stamina_regen": "Ripresa dell'energia del respiro sottomarino"
+    "attribute.name.betterparagliders.water_breathing_stamina_regen": "Ripresa dell'energia del respiro sottomarino",
+    "key.tactical.leanleft": "Inclinati a sinistra",
+    "key.tactical.leanright": "Inclinare a destra",
+    "keys.categories.tactical": "Movimento tattico"
 }

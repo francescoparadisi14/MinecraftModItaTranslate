@@ -1,0 +1,23 @@
+{
+    "config.jade.plugin_vampirism.alchemy_table": "Tavola di alchimia",
+    "config.jade.plugin_vampirism.altar_of_infusion": "Altare di infusione",
+    "config.jade.plugin_vampirism.altar_of_inspiration": "Altare dell'ispirazione",
+    "config.jade.plugin_vampirism.altar_pillar": "Pilastro dell'altare",
+    "config.jade.plugin_vampirism.entity_blood": "Sangue dell'entità",
+    "config.jade.plugin_vampirism.entity_blood.icon_per_line": "Icone per riga",
+    "config.jade.plugin_vampirism.entity_blood.max_for_render": "Massimo sangue per rendering",
+    "config.jade.plugin_vampirism.entity_blood.show_fraction": "Mostra frazioni",
+    "config.jade.plugin_vampirism.garlic_beacon": "Beccuccio d'aglio",
+    "config.jade.plugin_vampirism.pedestal_charging": "Caricamento del piedistallo",
+    "config.jade.plugin_vampirism.player_faction": "Fazione del giocatore",
+    "config.jade.plugin_vampirism.player_faction.lord_level_number": "Mostra numero di livello del signore",
+    "config.jade.plugin_vampirism.potion_table": "Tavola dei pozzi",
+    "config.jade.plugin_vampirism.research_table": "Tavola di ricerca",
+    "config.jade.plugin_vampirism.totem": "Totem",
+    "config.jade.plugin_vampirism.weapon_table": "Tavola d'armi",
+    "narration.vampirism.health": "Sangue: %s",
+    "text.vampirism_integrations.attacking": "Attacco",
+    "text.vampirism_integrations.controlling": "Controllando",
+    "text.vampirism_integrations.defending": "difendendo",
+    "text.vampirism_integrations.value": "Valore: %s"
+}

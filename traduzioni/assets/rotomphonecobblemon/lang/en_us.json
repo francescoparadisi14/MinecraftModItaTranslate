@@ -1,0 +1,19 @@
+{
+    "advancements.advancement_rotom_phone.descr": "Now you can use your PC and Healing anywhere in addition to saving your items in a secure Chest and I was able to use CheckSpawn",
+    "advancements.advancement_rotom_phone.title": "Rotom Phone",
+    "gui.rotomphonecobblemon.gui_check_spawn.label_checkspawn": "CheckSpawn",
+    "gui.rotomphonecobblemon.gui_check_spawn.label_common": "UnCommon",
+    "gui.rotomphonecobblemon.gui_check_spawn.label_common1": "Common",
+    "gui.rotomphonecobblemon.gui_check_spawn.label_rare": "Rare",
+    "gui.rotomphonecobblemon.gui_check_spawn.label_ultrarare": "Ultra-Rare",
+    "gui.rotomphonecobblemon.gui_chest.label_chest_rotom_phone": "Chest Rotom Phone",
+    "gui.rotomphonecobblemon.gui_chest.label_inventory": "Inventory",
+    "gui.rotomphonecobblemon.gui_gacha.button_empty": "",
+    "gui.rotomphonecobblemon.gui_rotom_phone.button_config": "Config",
+    "gui.rotomphonecobblemon.gui_rotom_phone.button_gacha": "gacha",
+    "gui.rotomphonecobblemon.gui_rotom_phone.button_teste": "teste",
+    "item.rotomphonecobblemon.rotom_phone": "Rotom Phone",
+    "subtitles.click": "",
+    "subtitles.healing_machine_active": "",
+    "subtitles.rotom_phone_open": ""
+}
