@@ -1,0 +1,9 @@
+{
+    "item.create__coins.copper_coins": "Copper Coins",
+    "item.create__coins.diamond_coins": "Diamond Coins",
+    "item.create__coins.emerald_coins": "Emerald Coins",
+    "item.create__coins.gold_coins": "Gold Coins",
+    "item.create__coins.iron_coins": "Iron Coins",
+    "item.create__coins.steel_coins": "Steel Coins",
+    "item_group.create__coins.coins": "Coins"
+}

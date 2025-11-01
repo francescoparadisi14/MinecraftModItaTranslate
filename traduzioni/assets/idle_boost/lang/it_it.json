@@ -1,0 +1,12 @@
+{
+    "modmenu.descriptionTranslation.idle_boost": "Questo modulo ottimizza le prestazioni quando Minecraft è in esecuzione in background.",
+    "options.idle_boost.debugModeToggle": "Modalità di debug",
+    "options.idle_boost.debugModeToggle.tooltip": "Abilita o disabilita il modalità di debug per l'output aggiuntivo nella console. (utile per trovare o segnalare bug)",
+    "options.idle_boost.framerateLimit.tooltip": "Imposta il limite di frame rate quando Minecraft è inattivo.",
+    "options.idle_boost.framerateLimitToggle.tooltip": "Abilita o disabilita la limitazione del frame rate massimo quando Minecraft è inattivo.",
+    "options.idle_boost.modToggle": "Boost di inattività",
+    "options.idle_boost.modToggle.tooltip": "Abilita o disabilita le funzionalità di boost inattività.",
+    "options.idle_boost.renderDistance.tooltip": "Imposta la distanza di rendering quando Minecraft è inattivo.",
+    "options.idle_boost.renderDistanceToggle.tooltip": "Abilita o disabilita la limitazione della distanza di rendering quando Minecraft è inattivo.",
+    "options.idle_boost.title": "Opzioni di boost inattività"
+}

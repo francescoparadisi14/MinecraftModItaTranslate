@@ -1,0 +1,12 @@
+{
+    "death.attack.dodosmobs.wound": "The wound has opened up.",
+    "death.attack.dodosmobs.wound.player": "The wound has opened up",
+    "effect.dodosmobs.wound": "Wound",
+    "entity.dodosmobs.bone_chimera": "Bone Chimera",
+    "entity.dodosmobs.dead_horn": "Dead Horn",
+    "item.dodosmobs.amalgam_claws": "Amalgam Claws",
+    "item.dodosmobs.bone_chimera_spawn_egg": "Bone Chimera Spawn Egg",
+    "item.dodosmobs.chimera_armor_chestplate": "Chimera Armor Chestplate",
+    "item.dodosmobs.chimera_claw": "Chimera Claw",
+    "itemGroup.dodosmobs.item": "Dodo's Mods Item"
+}

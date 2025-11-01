@@ -1,0 +1,12 @@
+{
+    "attribute.name.rpgbackpacks.storage": "Slot di archiviazione",
+    "item.rpgbackpacks.diamond_backpack": "Borsa di diamante",
+    "item.rpgbackpacks.golden_backpack": "Borsa d'oro",
+    "item.rpgbackpacks.iron_backpack": "Foglietto di ferro",
+    "item.rpgbackpacks.leather_backpack": "Borsa in pelle",
+    "item.rpgbackpacks.netherite_backpack": "Zaino di Netherite",
+    "itemGroup.rpgbackpacks.backpacks_tab": "Indumenti RPG",
+    "key.categories.inventory": "Inventario",
+    "key.rpgbackpacks.open_backpack": "Apri zainetto",
+    "tooltip.rpgbackpacks.backpack_open_info": "Si può aprire la sacca da pressione di [%s]"
+}

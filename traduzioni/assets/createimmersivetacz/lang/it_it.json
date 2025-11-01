@@ -1,0 +1,19 @@
+{
+    "block.createimmersivetacz.test_block": "Blocco di test",
+    "creativetab.create_immersive_tacz_tab": "Crea: Tacz Immersivo",
+    "fluid_type.createimmersivetacz.gunpowder_fluid": "Fluido di polvere da sparo",
+    "fluid_type.createimmersivetacz.nitropowder_fluid": "Fluido di polvere esplosiva",
+    "item.createimmersivetacz.40mmhe_casing": "Cassetta di proiettile da 40 mm HE",
+    "item.createimmersivetacz.firing_mechanism": "Mechanismo di partenza",
+    "item.createimmersivetacz.gernade_casing": "Impiallaccio a gas pneumatico",
+    "item.createimmersivetacz.gun_trigger": "meccanismo di scatto",
+    "item.createimmersivetacz.gunbarrel": "Canale di sparo",
+    "item.createimmersivetacz.gunpowder_bucket": "Bicchiere di polvere da sparo",
+    "item.createimmersivetacz.incomplete_twelve_gauge_shell": "Proiettile a canna 12 pollici incompleto",
+    "item.createimmersivetacz.nitropowder_bucket": "Bucchetta di polvere esplosiva",
+    "item.createimmersivetacz.pneumatic_pistol_casing": "Cassetta di cartuccia per pistola pneumatica",
+    "item.createimmersivetacz.primer": "Primer",
+    "item.createimmersivetacz.rimmed_blunt_ap_casing": "Impacco di proiettile a percussione blanda con bordo",
+    "item.createimmersivetacz.slap_casing": "Impugnatura di schiaffo",
+    "item.createimmersivetacz.twelve_gauge_shell": "Proiettile a canna 12 pollici"
+}

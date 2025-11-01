@@ -1,0 +1,12 @@
+{
+    "attribute.name.rpgbackpacks.storage": "Storage Slots",
+    "item.rpgbackpacks.diamond_backpack": "Diamond Backpack",
+    "item.rpgbackpacks.golden_backpack": "Golden Backpack",
+    "item.rpgbackpacks.iron_backpack": "Iron Backpack",
+    "item.rpgbackpacks.leather_backpack": "Leather Backpack",
+    "item.rpgbackpacks.netherite_backpack": "Netherite Backpack",
+    "itemGroup.rpgbackpacks.backpacks_tab": "RPG Backpacks",
+    "key.categories.inventory": "Inventory",
+    "key.rpgbackpacks.open_backpack": "Open Backpack",
+    "tooltip.rpgbackpacks.backpack_open_info": "Can open backpack by pressing [%s]"
+}

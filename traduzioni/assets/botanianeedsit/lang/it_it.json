@@ -1,0 +1,15 @@
+{
+    "block.botanianeedsit.mana_charger": "Caricatore di mana",
+    "botanianeedsit.entry.mana_capacitors": "Capacitori di mana",
+    "botanianeedsit.entry.mana_charger": "Caricatore di mana",
+    "botanianeedsit.page.mana_capacitors.0": "I manacapacitori sono un'altra forma di stoccaggio della mana. Non sono come anelli o tablet, non puoi utilizzare la mana da loro per alimentare gli strumenti. $(br)Modifica il modulo del pool in \"da item a pool\" e getta il capacitor nel pool. Il capacitor si caricherà. Se desideri trasferire la mana dal capacitor caricato al pool, modifica il modulo del pool in \"dal pool all'item\".",
+    "botanianeedsit.page.mana_charger.0": "Come spesso hai dimenticato il tuo Terra Shatterer galleggiante nella piscina? $(br)ora puoi dormire tranquillo.",
+    "botanianeedsit.page.mana_charger.1": "imposta sulla piscina di mana.",
+    "item.botanianeedsit.mana_capacitor_elementium": "Capacitore di mana elementio",
+    "item.botanianeedsit.mana_capacitor_elementium.charged": "Capacitore di mana elementio caricato",
+    "item.botanianeedsit.mana_capacitor_manasteel": "Capacitore di mana in acciaio manastico",
+    "item.botanianeedsit.mana_capacitor_manasteel.charged": "Capacitore di mana in carica di manasteel",
+    "item.botanianeedsit.mana_capacitor_terrasteel": "Capacitore di mana in terrastele",
+    "item.botanianeedsit.mana_capacitor_terrasteel.charged": "Capacitore di mana in terrasteel caricato",
+    "itemGroup.botanianeedsit": "Botania ha bisogno di queste cose!"
+}

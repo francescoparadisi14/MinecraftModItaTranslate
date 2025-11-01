@@ -1,0 +1,23 @@
+{
+    "item.simply_tokens.abyss_token": "Token dell'abisso",
+    "item.simply_tokens.celestial_token": "Token celestiale",
+    "item.simply_tokens.chrono_token": "Token cronologico",
+    "item.simply_tokens.copper_token": "Token di rame",
+    "item.simply_tokens.dark_token": "Token oscuro",
+    "item.simply_tokens.diamond_token": "Token di diamante",
+    "item.simply_tokens.elegant_token": "Token elegante",
+    "item.simply_tokens.emerald_token": "Token di smaragdo",
+    "item.simply_tokens.etherial_token": "Token etereale",
+    "item.simply_tokens.gold_token": "Token d'oro",
+    "item.simply_tokens.kawaii_token": "Token kawaii",
+    "item.simply_tokens.lapis_token": "Token di lapis",
+    "item.simply_tokens.legion_token": "Token della legione",
+    "item.simply_tokens.light_token": "Token di luce",
+    "item.simply_tokens.netherite_token": "Token di Netherite",
+    "item.simply_tokens.shadow_token": "Token ombra",
+    "item.simply_tokens.silver_token": "Token d'argento",
+    "item.simply_tokens.slayertoken": "Token dell'assassino",
+    "item.simply_tokens.warm_token": "Token caldo",
+    "itemGroup.tabsimply_tokens": "Token semplici",
+    "item_group.simply_tokens.simply_tokens": "Token semplici"
+}

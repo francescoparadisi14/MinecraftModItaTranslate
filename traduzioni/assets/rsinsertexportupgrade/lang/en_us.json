@@ -1,0 +1,6 @@
+{
+    "item.rsinsertexportupgrade.export_upgrade": "Export Upgrade",
+    "item.rsinsertexportupgrade.insert_upgrade": "Insert Upgrade",
+    "itemGroup.rsinsertexportupgrade": "RS Insert Export Upgrade",
+    "sidebutton.rsinsertexportupgrade.open_upgrade": "Open %s"
+}

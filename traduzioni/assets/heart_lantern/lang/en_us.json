@@ -1,0 +1,8 @@
+{
+    "advancements.life_in_a_lantern.descr": "Craft a Heart Lantern",
+    "advancements.life_in_a_lantern.title": "Life In A Lantern",
+    "block.heart_lantern.heart_lantern": "Heart Lantern",
+    "block.heart_lantern.heart_lantern.description_0": "A magical Lantern that heals you!",
+    "effect.heart_lantern.heart_lantern_regeneration": "Lantern Regeneration",
+    "item.heart_lantern.heart_lantern": "Heart Lantern"
+}

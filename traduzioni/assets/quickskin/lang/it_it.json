@@ -1,0 +1,14 @@
+{
+    "gui.quickskin.cape.default": "Seleziona cappello",
+    "gui.quickskin.cape.grid.title": "Seleziona mantello",
+    "gui.quickskin.cape.none": "nessun cappello",
+    "gui.quickskin.cape.rarity.common": "Comune",
+    "gui.quickskin.cape.rarity.epic": "Epic",
+    "gui.quickskin.cape.rarity.legendary": "Leggendario",
+    "gui.quickskin.cape.rarity.rare": "Raro",
+    "gui.quickskin.cape.rarity.special": "speciale",
+    "gui.quickskin.cape.rarity.uncommon": "Raro",
+    "gui.quickskin.cape.status.obtainable": "✓ ancora ottenibile",
+    "gui.quickskin.cape.status.unobtainable": "✗ non più ottenibile",
+    "gui.quickskin.cape.tooltip.click": "Clicca per selezionare"
+}

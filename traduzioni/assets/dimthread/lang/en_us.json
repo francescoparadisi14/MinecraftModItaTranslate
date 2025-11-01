@@ -1,0 +1,4 @@
+{
+    "gamerule.dimthread_active": "Enable Dimensional Threading",
+    "gamerule.dimthread_thread_count": "Dimension thread count"
+}

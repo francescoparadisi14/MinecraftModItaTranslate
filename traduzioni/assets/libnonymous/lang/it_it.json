@@ -1,0 +1,5 @@
+{
+    "gui.libnonymous.label.button.redstone.tooltip.ignore": "Ignora segnali di redstone vicini",
+    "gui.libnonymous.label.button.redstone.tooltip.rejected": "Previene l'esecuzione con un segnale di redstone vicino",
+    "gui.libnonymous.label.button.redstone.tooltip.required": "Funziona solo con un segnale di Redstone vicino"
+}

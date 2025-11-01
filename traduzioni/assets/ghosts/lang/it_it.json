@@ -1,0 +1,17 @@
+{
+    "entity.ghosts.client_message.interaction_0": "%1$s è ora seduto",
+    "entity.ghosts.client_message.interaction_1": "%1$s è ora che ti segue",
+    "entity.ghosts.client_message.interaction_2": "\"%1$s\" è ora vagabondo\"",
+    "entity.ghosts.ghost": "Fantasma",
+    "entity.ghosts.kodama": "Kodama",
+    "entity.ghosts.small_ghost": "Fantasma piccolo",
+    "ghosts.ghost_ambient": "Soffi di fantasma",
+    "ghosts.ghost_death": "Muore lo spettro",
+    "ghosts.ghost_hurt": "Il fantasma si ferisce",
+    "ghosts.mini_ghost_ambient": "Soffioline di fantasma piccolo",
+    "ghosts.mini_ghost_death": "Muore un fantasma piccolo",
+    "ghosts.mini_ghost_hurt": "Il fantasma piccolo si fa male",
+    "item.ghosts.ghost_spawn_egg": "Genera spettro",
+    "item.ghosts.kodama_spawn_egg": "Genera Kodama",
+    "item.ghosts.small_ghost_spawn_egg": "Genera fantasma piccolo"
+}

@@ -1,0 +1,20 @@
+{
+    "commands.dimensionalworldborder.dimworldborder.center.failed": "Niente è cambiato. Il confine del mondo `%s` è già centrato lì.",
+    "commands.dimensionalworldborder.dimworldborder.center.success": "Impostato il centro del confine di mondo %s in %s, %s.",
+    "commands.dimensionalworldborder.dimworldborder.damage.amount.failed": "Niente è cambiato. Il danno al confine del mondo %s è già di quel tipo di quantità.",
+    "commands.dimensionalworldborder.dimworldborder.damage.amount.success": "Impostato il danno del confine del mondo dimensionale a %s per blocco ogni secondo.",
+    "commands.dimensionalworldborder.dimworldborder.damage.buffer.failed": "Niente è cambiato. Il buffer di danno del confine del mondo \"%s\" è già a quella distanza.",
+    "commands.dimensionalworldborder.dimworldborder.damage.buffer.success": "Impostato il buffer di danno del confine del mondo dimensionale per %s blocchi.",
+    "commands.dimensionalworldborder.dimworldborder.get": "Il confine del mondo \"%s\" è attualmente largo %s blocchi.",
+    "commands.dimensionalworldborder.dimworldborder.set.failed.big": "I confini del mondo non possono essere più larghi di %s blocchi",
+    "commands.dimensionalworldborder.dimworldborder.set.failed.far": "I confini del mondo non possono essere più lontani di %s blocchi.",
+    "commands.dimensionalworldborder.dimworldborder.set.failed.nochange": "Niente è cambiato. Il confine del mondo `%s` è già di quella grandezza.",
+    "commands.dimensionalworldborder.dimworldborder.set.failed.small": "I confini del mondo non possono essere più piccoli di 1 blocco",
+    "commands.dimensionalworldborder.dimworldborder.set.grow": "Sta crescendo il confine del mondo %s a %s blocchi di larghezza in %s secondi",
+    "commands.dimensionalworldborder.dimworldborder.set.immediate": "Imposta il confine del mondo a %s blocchi di larghezza",
+    "commands.dimensionalworldborder.dimworldborder.set.shrink": "Stiamo restringendo il confine del mondo %s a %s blocchi di larghezza in %s secondi.",
+    "commands.dimensionalworldborder.dimworldborder.warning.distance.failed": "Niente è cambiato. La distanza di avviso del confine del mondo %s è già quella.",
+    "commands.dimensionalworldborder.dimworldborder.warning.distance.success": "Impostato la distanza di avviso del confine del mondo dimensionale per %s a %s blocchi.",
+    "commands.dimensionalworldborder.dimworldborder.warning.time.failed": "Niente è cambiato. La raccomandazione di confine del mondo %s è già di quel tempo.",
+    "commands.dimensionalworldborder.dimworldborder.warning.time.success": "Impostato il tempo di avviso del confine del mondo dimensionale %s a %s secondi."
+}

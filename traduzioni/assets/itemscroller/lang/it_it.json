@@ -180,6 +180,7 @@
     "itemscroller.gui.label.trade_uses": "Usi di scambio: %d \/ %d",
     "itemscroller.gui.label.trades": "Scambi",
     "itemscroller.gui.title.configs": "Configurazioni del visualizzatore di oggetti - %s",
+    "itemscroller.hotkeys.category.hotkeys": "Scatole calde",
     "itemscroller.message.toggled_mod_off": "Tutte le funzionalità del visualizzatore di oggetti disattivate §cUff",
     "itemscroller.message.toggled_mod_on": "Abilitato tutte le funzionalità dello scroller degli oggetti §a",
     "modmenu.descriptionTranslation.itemscroller": "Spostare gli oggetti nella gestione degli inventari con il rullino del mouse o trascinando sopra le slot."

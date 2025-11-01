@@ -1,0 +1,12 @@
+{
+    "block.shulkerstuff.dye_station": "Stazione di tingimento dei Shulker",
+    "enchantment.shulkerstuff.deep_storage": "Magazzino profondo",
+    "enchantment.shulkerstuff.refill": "Ricarica",
+    "enchantment.shulkerstuff.vacuum": "Aspirazione",
+    "enchantment.shulkerstuff.void": "Vuoto",
+    "item.shulkerstuff.hardened_shulker_upgrade_smithing_template": "Aggiornamento shulker resistentemente",
+    "item.shulkerstuff.plated_shulker_upgrade_smithing_template": "Aggiornamento in ghisa per Shulker",
+    "shulkerstuff.gui\/block\/dye_station": "Stazione di tingimento Shulker",
+    "shulkerstuff.tooltip.upgrades.hardened": "Rafforzato",
+    "shulkerstuff.tooltip.upgrades.plated": "Placcato"
+}

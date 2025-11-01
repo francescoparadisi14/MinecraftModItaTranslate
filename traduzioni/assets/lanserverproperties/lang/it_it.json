@@ -1,0 +1,20 @@
+{
+    "lanserverproperties.button.lan_server_options": "Opzioni del server LAN",
+    "lanserverproperties.button.preference_load": "Carica preferenza",
+    "lanserverproperties.button.preference_save": "Salva preferenza",
+    "lanserverproperties.gui.always_offline": "Giocatori sempre offline",
+    "lanserverproperties.gui.always_offline.message": "Elenco di nomi di giocatori separati da spazi che sono sempre considerati offline. Solo valido nel modo \"offline mode + UUID fix\" e può essere utile per risolvere il conflitto di nome tra un giocatore offline e un giocatore online registrato.",
+    "lanserverproperties.gui.max_player": "Massimo giocatori:",
+    "lanserverproperties.gui.port": "Porta:",
+    "lanserverproperties.gui.port_listening": "In ascolto su:",
+    "lanserverproperties.gui.pvp_allowed": "Consentito PvP",
+    "lanserverproperties.options.online_mode": "Modalità online",
+    "lanserverproperties.options.online_mode.off.fixed": "Modalità offline + correzione UUID",
+    "lanserverproperties.options.online_mode.off.fixed.message": "Questo modo consentirà a qualsiasi utente di unirsi al server LAN, mantenendo l'UUID per coloro che si sono loggati con gli account Microsoft\/Mojang. Utilizza questo modo se stai migrando dal modalità online e vuoi mantenere le inventari.",
+    "lanserverproperties.options.online_mode.off.vanilla": "Modalità online: disattivata",
+    "lanserverproperties.options.online_mode.off.vanilla.message": "Disabilitando il modalità online consentirà a qualsiasi utente di unirsi al server LAN.",
+    "lanserverproperties.options.online_mode.on": "Modalità online: attiva",
+    "lanserverproperties.options.online_mode.on.message": "Abilitando il modalità online, solo i giocatori con account Microsoft\/Mojang validi potranno unirsi al server LAN.",
+    "lanserverproperties.options.preference_enabled": "Carica preferenza automatica",
+    "lanserverproperties.options.preference_enabled.message": "Caricare automaticamente le impostazioni dalle preferenze memorizzate, se il server non è pubblicato. Altrimenti, questa finestra visualizza la configurazione corrente del server."
+}

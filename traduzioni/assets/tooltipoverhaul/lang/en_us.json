@@ -1,0 +1,9 @@
+{
+    "tooltipoverhaul.binds.category": "Tooltip Overhaul",
+    "tooltipoverhaul.binds.compare_bind": "Toggle equipment comparison",
+    "tooltipoverhaul.common_rarity": "Common",
+    "tooltipoverhaul.epic_rarity": "Epic",
+    "tooltipoverhaul.equipped_badge_text": "Equipped",
+    "tooltipoverhaul.rare_rarity": "Rare",
+    "tooltipoverhaul.uncommon_rarity": "Uncommon"
+}

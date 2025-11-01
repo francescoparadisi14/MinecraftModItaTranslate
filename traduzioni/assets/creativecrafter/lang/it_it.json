@@ -1,0 +1,10 @@
+{
+    "advancements.creativecrafter.creative_crafter": "Crafter creativo",
+    "advancements.creativecrafter.creative_crafter.description": "Creazione istantanea!",
+    "block.creativecrafter.creative_crafter": "Crealettore Creativo",
+    "gui.creativecrafter.creative_crafter": "Creastruttore Creativo",
+    "itemGroup.creativecrafter": "Creaatore creativo",
+    "tooltip.creativecrafter.hold_shift": "Tieni premuto il tasto Shift a sinistra per ulteriori informazioni",
+    "tooltip.creativecrafter.rfconsume": "Consumi:",
+    "tooltip.creativecrafter.slots": "Sedi: 108"
+}

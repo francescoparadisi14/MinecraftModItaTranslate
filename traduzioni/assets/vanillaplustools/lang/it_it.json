@@ -1,0 +1,15 @@
+{
+    "item.vanillaplustools.diamond_hammer": "Martello di diamante",
+    "item.vanillaplustools.diamond_shovel": "Spalatore di diamante",
+    "item.vanillaplustools.gold_hammer": "Picco d'oro",
+    "item.vanillaplustools.gold_shovel": "Spalatore d'oro",
+    "item.vanillaplustools.iron_hammer": "Martello di ferro",
+    "item.vanillaplustools.iron_shovel": "Spalatore di ferro",
+    "item.vanillaplustools.netherite_hammer": "Martello netherite",
+    "item.vanillaplustools.netherite_shovel": "Cazzuola di netherite",
+    "item.vanillaplustools.stone_hammer": "Martello di pietra",
+    "item.vanillaplustools.stone_shovel": "Spalatore di pietra",
+    "item.vanillaplustools.wooden_hammer": "Piccone di legno",
+    "item.vanillaplustools.wooden_shovel": "Cazzuola di legno",
+    "itemGroup.vanillaplustools": "Strumenti vanilla+"
+}

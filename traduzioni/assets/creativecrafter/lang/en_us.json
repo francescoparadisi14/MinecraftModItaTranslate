@@ -1,0 +1,10 @@
+{
+    "advancements.creativecrafter.creative_crafter": "Creative Crafter",
+    "advancements.creativecrafter.creative_crafter.description": "Instant Crafting!",
+    "block.creativecrafter.creative_crafter": "Creative Crafter",
+    "gui.creativecrafter.creative_crafter": "Creative Crafter",
+    "itemGroup.creativecrafter": "Creative Crafter",
+    "tooltip.creativecrafter.hold_shift": "Hold LEFT SHIFT for details",
+    "tooltip.creativecrafter.rfconsume": "Consumes:",
+    "tooltip.creativecrafter.slots": "Slots: 108"
+}

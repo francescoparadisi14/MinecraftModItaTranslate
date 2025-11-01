@@ -1,0 +1,12 @@
+{
+    "text.config.health_levels.option.enableHealthExperienceBar": "Abilita la barra di esperienza della salute",
+    "text.config.health_levels.option.healOnLevelUp": "Ricarica al raggiungimento del livello",
+    "text.config.health_levels.option.hpPerLevel": "Punti vita per livello",
+    "text.config.health_levels.option.levelsAndXP": "Livelli e XP",
+    "text.config.health_levels.option.loseType": "Tipo di perdita",
+    "text.config.health_levels.option.loseType.value.levels_and_xp": "Livelli e XP",
+    "text.config.health_levels.option.loseType.value.none": "Nessuno",
+    "text.config.health_levels.option.loseType.value.xp": "XP",
+    "text.config.health_levels.option.startingHP": "Punti salute iniziali",
+    "text.config.health_levels.title": "Configurazione dei livelli di salute"
+}

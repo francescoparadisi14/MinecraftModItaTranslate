@@ -1,0 +1,8 @@
+{
+    "permissionlevels.command.bypass_player_limit.allowed": "Allowed %s to bypass player limit",
+    "permissionlevels.command.bypass_player_limit.denied": "Denied %s to bypass player limit",
+    "permissionlevels.command.bypass_player_limit.failed": "Nothing changed",
+    "permissionlevels.command.op.level_too_high": "Cannot op player to higher level than your level",
+    "permissionlevels.command.op.opped_with_level": "Made %s a server operator with permission level %d",
+    "permissionlevels.command.op.opped_with_level_bypass": "Made %s a server operator with permission level %d and allowed to bypass player limit"
+}

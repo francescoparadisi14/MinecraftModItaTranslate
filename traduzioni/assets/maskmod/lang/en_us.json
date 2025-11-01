@@ -1,0 +1,19 @@
+{
+    "curios.identifier.mask": "MASK",
+    "item.maskmod.blue_kitsune_mask": "Blue Kitsune Mask",
+    "item.maskmod.brown_kitsune_mask": "Brown Kitsune Mask",
+    "item.maskmod.ender_kitsune_mask": "Ender Kitsune Mask",
+    "item.maskmod.gold_kitsune_mask": "Golden Kitsune Mask",
+    "item.maskmod.green_kitsune_mask": "Green Kitsune Mask",
+    "item.maskmod.grey_kitsune_mask": "Grey Kitsune Mask",
+    "item.maskmod.jorogumo_kitsune_mask": "Jorogumo Kitsune Mask",
+    "item.maskmod.light_blue_kitsune_mask": "Light Blue Kitsune Mask",
+    "item.maskmod.lime_kitsune_mask": "Lime Kitsune Mask",
+    "item.maskmod.orange_kitsune_mask": "Orange Kitsune Mask",
+    "item.maskmod.purple_kitsune_mask": "Purple Kitsune Mask",
+    "item.maskmod.red_kitsune_mask": "Kitsune Mask",
+    "item.maskmod.witherkitsune_mask": "Wither Kitsune Mask",
+    "item.maskmod.yellow_kitsune_mask": "Yellow Kitsune Mask",
+    "item_group.maskmod.masks": "Masks",
+    "key.maskmod.masks_projectiles": "Masks Projectiles"
+}

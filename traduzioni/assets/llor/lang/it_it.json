@@ -1,0 +1,10 @@
+{
+    "key.categories.llor": "Overlay di livello di luce ripristinato",
+    "key.llor.hotkey": "Alternare (on\/off)",
+    "llor.message.binding_error": "Ovrapposizione di livello di luce: non è stato possibile legare il testo per %s",
+    "llor.message.opening_error": "Overlay di livello di luce: non è stato possibile aprire %s",
+    "llor.message.parsing_error": "Visualizzazione livello di luce: non è stato possibile elaborare %s",
+    "llor.message.switch_mode": "Overlay di livello di luce: modalità %s",
+    "llor.message.toggle_off": "Visualizzazione livello di luce: disattivato",
+    "llor.message.toggle_on": "Sovrapposizione livello di luce: attivato"
+}

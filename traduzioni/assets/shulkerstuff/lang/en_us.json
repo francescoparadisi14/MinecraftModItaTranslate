@@ -1,0 +1,12 @@
+{
+    "block.shulkerstuff.dye_station": "Shulker Dyeing Station",
+    "enchantment.shulkerstuff.deep_storage": "Deep Storage",
+    "enchantment.shulkerstuff.refill": "Refill",
+    "enchantment.shulkerstuff.vacuum": "Vacuum",
+    "enchantment.shulkerstuff.void": "Void",
+    "item.shulkerstuff.hardened_shulker_upgrade_smithing_template": "Hardened Shulker Upgrade",
+    "item.shulkerstuff.plated_shulker_upgrade_smithing_template": "Plated Shulker Upgrade",
+    "shulkerstuff.gui\/block\/dye_station": "Shulker Dyeing Station",
+    "shulkerstuff.tooltip.upgrades.hardened": "Hardened",
+    "shulkerstuff.tooltip.upgrades.plated": "Plated"
+}

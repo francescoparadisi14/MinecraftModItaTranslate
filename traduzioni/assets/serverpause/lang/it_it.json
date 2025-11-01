@@ -1,0 +1,22 @@
+{
+    "commands.pause.alreadyPaused": "Il server è già in pausa!",
+    "commands.pause.pausing": "Stiamo pausando il server...",
+    "commands.pause.unpausing": "Stavo riprendendo il servizio...",
+    "config.serverpause.prop.commandPermissionLevel.desc": "Livello di permessi richiesto per utilizzare i comandi OP per la pausa del server multigiocatore",
+    "config.serverpause.prop.commandPermissionLevel.name": "Livello di permessi del comando",
+    "config.serverpause.prop.disabledCompatibilities.desc": "Disabilita queste compatibilità di modulo se si verificano errori con loro attivate. Accetta: ValkyrienSkies",
+    "config.serverpause.prop.disabledCompatibilities.name": "Compatibilità di modulo disabilitate",
+    "config.serverpause.prop.pauseWhenAllPlayersPaused.desc": "Imposta su vero per sospendere il server quando tutti i giocatori sono in pausa.",
+    "config.serverpause.prop.pauseWhenAllPlayersPaused.name": "Pausa quando tutti i giocatori sono in pausa",
+    "config.serverpause.prop.pauseWhenNoPlayers.desc": "Imposta su vero per sospendere il server quando non ci sono giocatori connessi.",
+    "config.serverpause.prop.pauseWhenNoPlayers.name": "Pausa quando non ci sono giocatori",
+    "config.serverpause.prop.sendChatMessageWhenPauseStateChanges.desc": "Imposta su vero per inviare un messaggio di chat a tutti i giocatori quando lo stato di pausa del server cambia.",
+    "config.serverpause.prop.sendChatMessageWhenPauseStateChanges.name": "Invia messaggio di chat quando lo stato di pausa del server cambia",
+    "config.serverpause.prop.sendChatMessageWhenPlayerPauseStateChanges.desc": "Imposta su vero per inviare un messaggio di chat a tutti i giocatori (e al registro del server) quando lo stato di pausa di un giocatore cambia.",
+    "config.serverpause.prop.sendChatMessageWhenPlayerPauseStateChanges.name": "Invia messaggio di chat quando lo stato di pausa del giocatore cambia",
+    "serverpause.message.paused": "Il server è stato momentaneamente interrotto.",
+    "serverpause.message.playerPaused": "%s è stato momentaneamente fermato.",
+    "serverpause.message.playerUnpaused": "%s si è ripausato.",
+    "serverpause.message.playersPaused": "I giocatori sono stati momentaneamente fermati: %s.",
+    "serverpause.message.unpaused": "Il server è ripreso."
+}

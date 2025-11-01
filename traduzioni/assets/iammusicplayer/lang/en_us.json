@@ -22,7 +22,7 @@
     "advancements.iammusicplayer.listen_to_remote_music.description": "Play playlists directly using a parabolic antenna",
     "advancements.iammusicplayer.listen_to_remote_music.title": "Listen directly",
     "advancements.iammusicplayer.root.description": "The ikisugi music player mod",
-    "advancements.iammusicplayer.root.title": "Iam Music Player Renewed",
+    "advancements.iammusicplayer.root.title": "Iam Music Player",
     "advancements.iammusicplayer.write_cassette_tape.description": "Write music on cassette tapes using a cassette deck",
     "advancements.iammusicplayer.write_cassette_tape.title": "Writing...",
     "block.iammusicplayer.boombox": "Boombox",
@@ -250,12 +250,12 @@
     "item.iammusicplayer.invalid_item.desc": "This item is invalid!",
     "item.iammusicplayer.invalid_item.patchouli.config.desc": "Integration with Patchouli must be enabled in config",
     "item.iammusicplayer.invalid_item.patchouli.desc": "Patchouli must be installed",
-    "item.iammusicplayer.manual": "Iam Music Player Renewed Manual",
+    "item.iammusicplayer.manual": "Iam Music Player Manual",
     "item.iammusicplayer.parabolic_antenna": "Parabolic Antenna",
     "item.iammusicplayer.parabolic_antenna.desc": "Required to listen to music without using cassette tapes",
     "item.iammusicplayer.radio_antenna": "Radio Antenna",
     "item.iammusicplayer.radio_antenna.desc": "Required to listen to radio streams",
-    "itemGroup.iammusicplayer.iammusicplayer": "Iam Music Player Renewed",
+    "itemGroup.iammusicplayer.iammusicplayer": "Iam Music Player",
     "modmenu.descriptionTranslation.iammusicplayer": "Add a music player that you can listen to with multiple players.\nThe ikisugi music player mod...",
     "soundCategory.iammusicplayer": "IMP Music",
     "subtitleType.off": "Off",
@@ -282,5 +282,5 @@
     "text.autoconfig.iammusicplayer.option.spatial": "Spatial",
     "text.autoconfig.iammusicplayer.option.useYoutubeDownloader": "Use YoutubeDownloader",
     "text.autoconfig.iammusicplayer.option.volume": "Volume",
-    "text.autoconfig.iammusicplayer.title": "Iam Music Player Renewed Config"
+    "text.autoconfig.iammusicplayer.title": "Iam Music Player Config"
 }

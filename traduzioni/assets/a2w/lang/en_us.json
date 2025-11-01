@@ -1,0 +1,6 @@
+{
+    "message.a2w.no_experience": "You don't have enough Experience",
+    "tooltip.level_cost.multiple": "(%d Levels)",
+    "tooltip.level_cost.single": "(1 Level)",
+    "tooltip.warp": "Warp Here"
+}

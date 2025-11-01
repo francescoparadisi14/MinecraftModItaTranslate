@@ -1,0 +1,13 @@
+{
+    "certain_questing_additions": "Aggiunte di certi completamenti",
+    "certain_questing_additions.animations": "Impostazioni per animazioni specifiche",
+    "certain_questing_additions.animations.panel_animation": "Animazione di apparizione del pannello delle missioni",
+    "certain_questing_additions.animations.panel_button_hover": "Animazione al passaggio del mouse sopra i pulsanti di pannello",
+    "certain_questing_additions.animations.quest_hover": "Animazione durante l'hover su una missione",
+    "certain_questing_additions.animations.smooth_chapter_panel": "Animazione di apertura del pannello capitolo liscio",
+    "certain_questing_additions.animations.smooth_scrolling": "Scorrimento liscio dentro e fuori dal pannello delle missioni",
+    "certain_questing_additions.appearance": "Impostazioni di apparenza",
+    "certain_questing_additions.appearance.button_hover_glow_alpha": "Opacità del bagliore di hover sul pulsante (0-255)",
+    "certain_questing_additions.appearance.quest_hover_glow_alpha": "Opacità del bagliore di hover per le missioni (0-255)",
+    "certain_questing_additions.appearance.smooth_animations": "Animazioni lisce con funzioni di easing"
+}

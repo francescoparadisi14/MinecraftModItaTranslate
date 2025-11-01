@@ -1,0 +1,14 @@
+{
+    "gui.quickskin.cape.default": "Select Cape",
+    "gui.quickskin.cape.grid.title": "Select Cape",
+    "gui.quickskin.cape.none": "No Cape",
+    "gui.quickskin.cape.rarity.common": "Common",
+    "gui.quickskin.cape.rarity.epic": "Epic",
+    "gui.quickskin.cape.rarity.legendary": "Legendary",
+    "gui.quickskin.cape.rarity.rare": "Rare",
+    "gui.quickskin.cape.rarity.special": "Special",
+    "gui.quickskin.cape.rarity.uncommon": "Uncommon",
+    "gui.quickskin.cape.status.obtainable": "✓ Still obtainable",
+    "gui.quickskin.cape.status.unobtainable": "✗ No longer obtainable",
+    "gui.quickskin.cape.tooltip.click": "Click to select"
+}

@@ -1,0 +1,15 @@
+{
+    "block.disenchanter.disenchanter": "Disenchantatore",
+    "disenchanter.catalyst.amethyst_shard": "Ricupera l'incantesimo principale. Preserva l'oggetto, ma non gli altri incantesimi.",
+    "disenchanter.catalyst.diamond": "Ricupera i primi due incantesimi casuali. Distrugge l'oggetto.",
+    "disenchanter.catalyst.emerald": "Ricupera due incantesimi casuali. Distrugge l'oggetto.",
+    "disenchanter.catalyst.ender_pearl": "Ricupera un incantesimo casuale. Preserva l'oggetto, ma causa 500 danni di durata",
+    "disenchanter.catalyst.experience_bottle": "Ricupera tutti gli incantesimi al livello più alto presenti sull'oggetto. Distrugge l'oggetto.",
+    "disenchanter.catalyst.heart_of_the_sea": "Ricupera tutti gli incantesimi, ma li riduce di un livello. Distrugge l'oggetto.",
+    "disenchanter.catalyst.nether_star": "Ricupera tutti gli incantesimi. Preserva l'oggetto.",
+    "disenchanter.gui.button": "Disincantare",
+    "disenchanter.gui.title": "Disenchantatore",
+    "disenchanter.rei.title": "Catalizzatore",
+    "text.disenchanter.blacklisted": "Nel blacklist",
+    "text.disenchanter.extra_catalysts_required": "Ulteriori %1$d oggetti richiesti"
+}

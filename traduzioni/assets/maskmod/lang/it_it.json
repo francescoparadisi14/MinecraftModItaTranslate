@@ -1,0 +1,19 @@
+{
+    "curios.identifier.mask": "Maschera",
+    "item.maskmod.blue_kitsune_mask": "Maschera del lupo azzurro",
+    "item.maskmod.brown_kitsune_mask": "Maschera di kitsune marrone",
+    "item.maskmod.ender_kitsune_mask": "Maschera Kitsune del fine mondo",
+    "item.maskmod.gold_kitsune_mask": "Maschera di kitsune d'oro",
+    "item.maskmod.green_kitsune_mask": "Maschera kitsune verde",
+    "item.maskmod.grey_kitsune_mask": "Maschera kitsune grigia",
+    "item.maskmod.jorogumo_kitsune_mask": "Maschera kitsune jorogumo",
+    "item.maskmod.light_blue_kitsune_mask": "Maschera di kitsune azzurra",
+    "item.maskmod.lime_kitsune_mask": "Maschera kitsune lime",
+    "item.maskmod.orange_kitsune_mask": "Maschera kitsune arancione",
+    "item.maskmod.purple_kitsune_mask": "Maschera kitsune viola",
+    "item.maskmod.red_kitsune_mask": "Maschera kitsune rossa",
+    "item.maskmod.witherkitsune_mask": "Maschera del lupo della morte (WITHER KITSUNE)",
+    "item.maskmod.yellow_kitsune_mask": "Maschera kitsune gialla",
+    "item_group.maskmod.masks": "Maschere",
+    "key.maskmod.masks_projectiles": "Maschera proiettili"
+}

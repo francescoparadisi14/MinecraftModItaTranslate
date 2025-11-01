@@ -57,7 +57,7 @@
     "fml.menu.backupfailed.title": "Backup Failed",
     "fml.menu.loadingmods": "{0,choice,0#No mods|1#1 mod|1<{0} mods} loaded",
     "fml.menu.modoptions": "Mod Options...",
-    "fml.menu.mods": "Mods",
+    "fml.menu.mods": "􊆐 Mods",
     "fml.menu.mods.a_to_z": "A-Z",
     "fml.menu.mods.config": "Config",
     "fml.menu.mods.info.authors": "Authors: {0}",

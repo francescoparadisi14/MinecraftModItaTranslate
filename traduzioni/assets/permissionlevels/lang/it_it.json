@@ -1,0 +1,8 @@
+{
+    "permissionlevels.command.bypass_player_limit.allowed": "Consentito a %s eludere il limite di giocatori",
+    "permissionlevels.command.bypass_player_limit.denied": "Negato a %s il superamento del limite di giocatori.",
+    "permissionlevels.command.bypass_player_limit.failed": "Niente è stato modificato",
+    "permissionlevels.command.op.level_too_high": "Non è possibile assegnare il livello di operatore a un giocatore più alto del tuo livello.",
+    "permissionlevels.command.op.opped_with_level": "Ha reso %s operatore del server con livello di permessi %d",
+    "permissionlevels.command.op.opped_with_level_bypass": "Ha reso %s operatore del server con livello di permesso %d e ha consentito di bypassare il limite dei giocatori."
+}

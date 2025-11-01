@@ -1,0 +1,20 @@
+{
+    "commands.dimensionalworldborder.dimworldborder.center.failed": "Nothing changed. %s world border is already centered there",
+    "commands.dimensionalworldborder.dimworldborder.center.success": "Set the center of %s world border to %s, %s",
+    "commands.dimensionalworldborder.dimworldborder.damage.amount.failed": "Nothing changed. %s world border damage is already that amount",
+    "commands.dimensionalworldborder.dimworldborder.damage.amount.success": "Set %s world border damage to %s per block each second",
+    "commands.dimensionalworldborder.dimworldborder.damage.buffer.failed": "Nothing changed. %s world border damage buffer is already that distance",
+    "commands.dimensionalworldborder.dimworldborder.damage.buffer.success": "Set %s world border damage buffer to %s blocks",
+    "commands.dimensionalworldborder.dimworldborder.get": "%s world border is currently %s blocks wide",
+    "commands.dimensionalworldborder.dimworldborder.set.failed.big": "World borders cannot be bigger than %s blocks wide",
+    "commands.dimensionalworldborder.dimworldborder.set.failed.far": "World borders cannot be further out than %s blocks",
+    "commands.dimensionalworldborder.dimworldborder.set.failed.nochange": "Nothing changed. %s world border is already that size",
+    "commands.dimensionalworldborder.dimworldborder.set.failed.small": "World borders cannot be smaller than 1 block wide",
+    "commands.dimensionalworldborder.dimworldborder.set.grow": "Growing %s world border to %s blocks wide over %s seconds",
+    "commands.dimensionalworldborder.dimworldborder.set.immediate": "Set %s world border to %s blocks wide",
+    "commands.dimensionalworldborder.dimworldborder.set.shrink": "Shrinking %s world border to %s blocks wide over %s seconds",
+    "commands.dimensionalworldborder.dimworldborder.warning.distance.failed": "Nothing changed. %s world border warning is already that distance",
+    "commands.dimensionalworldborder.dimworldborder.warning.distance.success": "Set %s world border warning distance to %s blocks",
+    "commands.dimensionalworldborder.dimworldborder.warning.time.failed": "Nothing changed. %s world border warning is already that amount of time",
+    "commands.dimensionalworldborder.dimworldborder.warning.time.success": "Set %s world border warning time to %s seconds"
+}

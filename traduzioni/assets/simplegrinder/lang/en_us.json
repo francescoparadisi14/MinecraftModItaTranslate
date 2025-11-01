@@ -1,0 +1,17 @@
+{
+    "block.simplegrinder.coal_grinder": "Coal Grinder",
+    "block.simplegrinder.energy_grinder": "[WIP] Energy Grinder",
+    "block.simplegrinder.machine_core": "Machine Core",
+    "container.coal_grinder": "Coal Grinder",
+    "gui.jei.category.grinder": "Grindering",
+    "gui.jei.category.grinder.experience": "%s XP",
+    "gui.jei.category.grinder.time.seconds": "%ss",
+    "item.simplegrinder.dust_copper": "Copper Dust",
+    "item.simplegrinder.dust_gold": "Gold Dust",
+    "item.simplegrinder.dust_iron": "Iron Dust",
+    "item.simplegrinder.flour": "Flour",
+    "item.simplegrinder.mash_carrot": "Mash Carrot",
+    "item.simplegrinder.mash_potato": "Mash Potato",
+    "item.simplegrinder.omlete": "Omlete",
+    "itemGroup.simplegrinder": "Simple Grinder"
+}

@@ -1,0 +1,13 @@
+{
+    "creativetab.orbital_railgun": "Orbital Railgun Reforged",
+    "death.attack.strike": "%1$s was obliterated by an Orbital Strike",
+    "item.orbital_railgun.orbital_railgun": "Orbital Railgun Reforged",
+    "item.orbital_railgun.orbital_railgun.tooltip": "Calls down a devastating orbital strike.",
+    "item.orbital_railgun.orbital_railgun.tooltip.shift1": "⚡ Hold to charge; release at full power.",
+    "item.orbital_railgun.orbital_railgun.tooltip.shift2": "⚙ Highly configurable",
+    "item.orbital_railgun.orbital_railgun.tooltip.shift3": "⚠ Shader effects are incompatible with Oculus shader packs\nso you will not see the mods shader effects while using shader packs.",
+    "subtitles.orbital_railgun.equip": "Railgun equipped",
+    "subtitles.orbital_railgun.railgun_shoot": "Orbital Strike Called",
+    "subtitles.orbital_railgun.scope_on": "Scope online",
+    "tooltip.orbital_railgun.hold_shift": "Hold ⇧ Shift for details"
+}

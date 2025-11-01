@@ -1,0 +1,9 @@
+{
+    "item.create__coins.copper_coins": "Monete di rame",
+    "item.create__coins.diamond_coins": "Monete di diamante",
+    "item.create__coins.emerald_coins": "Monete di emerodio",
+    "item.create__coins.gold_coins": "Monete d'oro",
+    "item.create__coins.iron_coins": "Monete di ferro",
+    "item.create__coins.steel_coins": "Monete di acciaio",
+    "item_group.create__coins.coins": "Monete"
+}

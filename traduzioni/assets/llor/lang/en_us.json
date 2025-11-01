@@ -1,0 +1,10 @@
+{
+    "key.categories.llor": "Light Level Overlay Reloaded",
+    "key.llor.hotkey": "Toggle On\/Off",
+    "llor.message.binding_error": "Light Level Overlay: failed to bind texture for %s",
+    "llor.message.opening_error": "Light Level Overlay: failed to open %s",
+    "llor.message.parsing_error": "Light Level Overlay: failed to parse %s",
+    "llor.message.switch_mode": "Light Level Overlay: %s mode",
+    "llor.message.toggle_off": "Light Level Overlay: off",
+    "llor.message.toggle_on": "Light Level Overlay: on"
+}

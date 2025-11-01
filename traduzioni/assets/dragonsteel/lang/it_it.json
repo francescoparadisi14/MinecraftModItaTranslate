@@ -1,0 +1,17 @@
+{
+    "block.dragonsteel.star_alloy_block": "Blocco di lega stellare",
+    "item.dragonsteel.ender_dragonsteel_axe": "Ascia di drago di fine dragonsteel",
+    "item.dragonsteel.ender_dragonsteel_ingot": "Ingot di ferro dell'Ultimo Drago",
+    "item.dragonsteel.ender_dragonsteel_pickaxe": "Pickaxe di ferro dell'Ultimo Drago",
+    "item.dragonsteel.ender_dragonsteel_shovel": "Spalatore di drago di fine dragonsteel",
+    "item.dragonsteel.ender_dragonsteel_sword": "Spada di drago steel dell'abisso",
+    "item.dragonsteel.ender_dragonsteel_upgrade_smithing_template": "Template di lavorazione per l'upgrade della spada di drago con acciaio del drago finale",
+    "item.dragonsteel.nether_star_fragment": "Frammento di stella infernale",
+    "item.dragonsteel.star_alloy_axe": "Ascia di lega stellare",
+    "item.dragonsteel.star_alloy_ingot": "Ingot di lega stellare",
+    "item.dragonsteel.star_alloy_nugget": "Bricchetto di lega stellare",
+    "item.dragonsteel.star_alloy_pickaxe": "Pickaxe in lega stellare",
+    "item.dragonsteel.star_alloy_shovel": "Spalatore di lega stellare",
+    "item.dragonsteel.star_alloy_sword": "Spada di alluminio stellare",
+    "item.dragonsteel.star_alloy_upgrade_smithing_template": "Template di lavorazione in lega stellare per spada drago"
+}
