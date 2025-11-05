@@ -1,0 +1,15 @@
+{
+    "block.databank.megastructure_save": "Blocco di struttura gigante: salva",
+    "block.databank.megastructure_save.center": "Seleziona il centro, per favore",
+    "block.databank.megastructure_save.corner1": "Seleziona il primo angolo, per favore.",
+    "block.databank.megastructure_save.corner2": "Seleziona il secondo angolo, per favore.",
+    "block.databank.megastructure_save.finished": "I confini sono ora da %1$s a %2$s",
+    "block.databank.megastructure_save.reset": "I confini sono stati riportati con successo",
+    "block.databank.megastructure_save.saved": "Salvato come %1$s",
+    "commands.databank.megastructure": "Generato %1$s in %2$s",
+    "commands.databank.recheck_advancements": "Ricontrollato con successo tutti gli avanzamenti per il giocatore %1$s.",
+    "commands.databank.recheck_advancements.plural": "Riconosciuti con successo tutti gli avanzamenti per %1$s giocatori",
+    "databank.configuration.accessibility": "Accessibilità",
+    "databank.configuration.compatibility": "Compatibilità",
+    "entity.databank.world_gui": "Interfaccia del mondo"
+}

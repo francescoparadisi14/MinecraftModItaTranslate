@@ -1,0 +1,5 @@
+{
+    "createenderstorage.ponder.mounted_ender_chest.header": "Compatibilità di archiviazione del portale finale",
+    "createenderstorage.ponder.mounted_ender_chest.text_1": "I cassoni di stoccaggio del portale che hanno lo stesso colore della seta condividono la stessa inventario.",
+    "createenderstorage.ponder.mounted_ender_chest.text_2": "Questo include anche le configurazioni mentre si è su dispositivi. I blocchi dell'archivio di fine sono accessibili dagli attori dei dispositivi per l'automazione."
+}

@@ -1,39 +1,3 @@
-<img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
-
-![](https://img.shields.io/badge/Ultimo%20Aggiornamento-01%2F11%2F2025-blue)
-![](https://img.shields.io/badge/Mod%20tradotte-3412-green)
-![](https://img.shields.io/badge/Quest%20tradotte-23-green)
-
-## Progetto che utilizza l’intelligenza artificiale per **tradurre automaticamente in italiano** i contenuti testuali delle mod di Minecraft.
-Supporta file `.json` (come `en_us.json`) e file `.snbt` (come `en_us.snbt`) per FTB Quests.
-Traduzioni basate su modelli AI
-
----
-
-## Obiettivo del progetto
-
-Il nostro scopo è semplificare la localizzazione in italiano delle mod di Minecraft, mantenendo alta la qualità delle traduzioni e riducendo drasticamente il lavoro manuale. Questo permette una più ampia diffusione e fruizione delle mod anche da parte di chi non conosce l’inglese.
-
----
-
-## Tecnologie usate
-
-- [PHP](https://www.php.net/)
-- [Api CurseForge](https://curseforge.com/)
-- [Ollama su Docker](https://hub.docker.com/r/ollama/ollama)
-
----
-
-## Richiedi la traduzione di una mod
-
-Hai una mod specifica che vorresti vedere tradotta in italiano?  
-Compila il modulo qui sotto per inviarci la tua richiesta:
-
-👉 [Modulo richiesta traduzione mod](https://forms.gle/3SsGruLzzU6gDovv8)
-
-> Accettiamo richieste per mod singole o interi modpack!
-
----
 # Lista Mod disponibili
 
 |  |Mod | Ultimo<br/>aggiornamento | Numero<br/>Traduzioni |Download |
@@ -88,6 +52,7 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 | <img src="https://media.forgecdn.net/avatars/807/101/638175844021994571.png" loading="lazy" decoding="async" width="30" /> | [Permanent Sponges](https://www.curseforge.com/minecraft/mc-mods/permanent-sponges "Web Site")  | 07/08/2025 | 5 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fpermanentsponges "Download") |
 | <img src="https://media.forgecdn.net/avatars/302/519/637367986470567031.png" loading="lazy" decoding="async" width="30" /> | [Permission Levels](https://www.curseforge.com/minecraft/mc-mods/permission-levels "Web Site") ![](https://img.shields.io/badge/NEW-red) | 01/11/2025 | 6 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fpermissionlevels "Download") |
 | <img src="https://media.forgecdn.net/avatars/883/934/638317698886614983.png" loading="lazy" decoding="async" width="30" /> | [Pet Cemetery](https://www.curseforge.com/minecraft/mc-mods/pet-cemetery "Web Site")  | 07/08/2025 | 24 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fpet_cemetery "Download") |
+| <img src="https://media.forgecdn.net/avatars/90/665/636241495133791984.png" loading="lazy" decoding="async" width="30" /> | [Petrock - Forge](https://www.curseforge.com/minecraft/mc-mods/petrock-mod "Web Site") ![](https://img.shields.io/badge/NEW-red) | 05/11/2025 | 58 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fpetrock "Download") |
 | <img src="https://media.forgecdn.net/avatars/627/662/638023107190922765.png" loading="lazy" decoding="async" width="30" /> | [End's Phantasm](https://www.curseforge.com/minecraft/mc-mods/phantasm "Web Site")  | 08/09/2025 | 211 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fphantasm "Download") |
 | <img src="https://media.forgecdn.net/avatars/1158/484/638726823486955417.png" loading="lazy" decoding="async" width="30" /> | [Phantom's Utilities](https://www.curseforge.com/minecraft/mc-mods/phantoms-utilities "Web Site")  | 28/08/2025 | 24 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fphantoms_utilities "Download") |
 | <img src="https://media.forgecdn.net/avatars/1178/804/638751617613822335.png" loading="lazy" decoding="async" width="30" /> | [Pharaohs Legacy](https://www.curseforge.com/minecraft/mc-mods/pharaohs-legacy "Web Site")  | 27/09/2025 | 65 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fmysticrift_pharaohs_legacy "Download") |

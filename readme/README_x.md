@@ -1,39 +1,3 @@
-<img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
-
-![](https://img.shields.io/badge/Ultimo%20Aggiornamento-01%2F11%2F2025-blue)
-![](https://img.shields.io/badge/Mod%20tradotte-3412-green)
-![](https://img.shields.io/badge/Quest%20tradotte-23-green)
-
-## Progetto che utilizza l’intelligenza artificiale per **tradurre automaticamente in italiano** i contenuti testuali delle mod di Minecraft.
-Supporta file `.json` (come `en_us.json`) e file `.snbt` (come `en_us.snbt`) per FTB Quests.
-Traduzioni basate su modelli AI
-
----
-
-## Obiettivo del progetto
-
-Il nostro scopo è semplificare la localizzazione in italiano delle mod di Minecraft, mantenendo alta la qualità delle traduzioni e riducendo drasticamente il lavoro manuale. Questo permette una più ampia diffusione e fruizione delle mod anche da parte di chi non conosce l’inglese.
-
----
-
-## Tecnologie usate
-
-- [PHP](https://www.php.net/)
-- [Api CurseForge](https://curseforge.com/)
-- [Ollama su Docker](https://hub.docker.com/r/ollama/ollama)
-
----
-
-## Richiedi la traduzione di una mod
-
-Hai una mod specifica che vorresti vedere tradotta in italiano?  
-Compila il modulo qui sotto per inviarci la tua richiesta:
-
-👉 [Modulo richiesta traduzione mod](https://forms.gle/3SsGruLzzU6gDovv8)
-
-> Accettiamo richieste per mod singole o interi modpack!
-
----
 # Lista Mod disponibili
 
 |  |Mod | Ultimo<br/>aggiornamento | Numero<br/>Traduzioni |Download |
@@ -52,6 +16,7 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 | <img src="https://media.forgecdn.net/avatars/76/239/636171488076601325.png" loading="lazy" decoding="async" width="30" /> | [xNICEx](https://www.curseforge.com/minecraft/mc-mods/xnicex "Web Site")  | 04/08/2025 | 578 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fnice "Download") |
 | <img src="https://media.forgecdn.net/avatars/335/859/637471300727925460.png" loading="lazy" decoding="async" width="30" /> | [XP Storage](https://www.curseforge.com/minecraft/mc-mods/xp-storage "Web Site")  | 28/08/2025 | 35 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fxp_storage "Download") |
 | <img src="https://media.forgecdn.net/avatars/1103/471/638652026778285971.png" loading="lazy" decoding="async" width="30" /> | [XP Storage - Trinkets](https://www.curseforge.com/minecraft/mc-mods/xp-storage-trinkets "Web Site")  | 28/08/2025 | 9 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fxp_storage_trinkets "Download") |
+| <img src="https://media.forgecdn.net/avatars/1135/526/638696915129437805.png" loading="lazy" decoding="async" width="30" /> | [XP Synthesiser](https://www.curseforge.com/minecraft/mc-mods/xp-synthesiser "Web Site") ![](https://img.shields.io/badge/NEW-red) | 05/11/2025 | 15 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fxp_synthesiser "Download") |
 | <img src="https://media.forgecdn.net/avatars/229/164/637053785549438117.png" loading="lazy" decoding="async" width="30" /> | [XP Tome](https://www.curseforge.com/minecraft/mc-mods/xp-tome "Web Site")  | 04/08/2025 | 8 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fxpbook "Download") |
 | <img src="https://media.forgecdn.net/avatars/628/241/638024609443315767.png" loading="lazy" decoding="async" width="30" /> | [Xtones Reworked](https://www.curseforge.com/minecraft/mc-mods/xtones-reworked "Web Site")  | 07/08/2025 | 531 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fxtonesreworked "Download") |
 | <img src="https://media.forgecdn.net/avatars/597/707/637974897701013308.png" loading="lazy" decoding="async" width="30" /> | [XyCraft](https://www.curseforge.com/minecraft/mc-mods/xycraft "Web Site")  | 11/08/2025 | 108 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fxycraft_core "Download") |

@@ -1,0 +1,8 @@
+{
+    "message.structures_tweaker.item_blacklisted": "Questo oggetto non può essere utilizzato in questa struttura",
+    "message.structures_tweaker.no_creative_flight": "Volo creativo non consentito in questo struttura §c",
+    "message.structures_tweaker.no_elytra": "Elytra volo non è consentito in questo struttura §c",
+    "message.structures_tweaker.no_ender_teleportation": "Il teletrasporto con gli esseri del fuoco non è consentito in questa struttura",
+    "message.structures_tweaker.no_pearls": "Non è possibile utilizzare perle di fine in questa struttura",
+    "message.structures_tweaker.no_riptide": "§criptide non può essere utilizzato in questa struttura"
+}

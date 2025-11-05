@@ -1,39 +1,3 @@
-<img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
-
-![](https://img.shields.io/badge/Ultimo%20Aggiornamento-01%2F11%2F2025-blue)
-![](https://img.shields.io/badge/Mod%20tradotte-3412-green)
-![](https://img.shields.io/badge/Quest%20tradotte-23-green)
-
-## Progetto che utilizza l’intelligenza artificiale per **tradurre automaticamente in italiano** i contenuti testuali delle mod di Minecraft.
-Supporta file `.json` (come `en_us.json`) e file `.snbt` (come `en_us.snbt`) per FTB Quests.
-Traduzioni basate su modelli AI
-
----
-
-## Obiettivo del progetto
-
-Il nostro scopo è semplificare la localizzazione in italiano delle mod di Minecraft, mantenendo alta la qualità delle traduzioni e riducendo drasticamente il lavoro manuale. Questo permette una più ampia diffusione e fruizione delle mod anche da parte di chi non conosce l’inglese.
-
----
-
-## Tecnologie usate
-
-- [PHP](https://www.php.net/)
-- [Api CurseForge](https://curseforge.com/)
-- [Ollama su Docker](https://hub.docker.com/r/ollama/ollama)
-
----
-
-## Richiedi la traduzione di una mod
-
-Hai una mod specifica che vorresti vedere tradotta in italiano?  
-Compila il modulo qui sotto per inviarci la tua richiesta:
-
-👉 [Modulo richiesta traduzione mod](https://forms.gle/3SsGruLzzU6gDovv8)
-
-> Accettiamo richieste per mod singole o interi modpack!
-
----
 # Lista Mod disponibili
 
 |  |Mod | Ultimo<br/>aggiornamento | Numero<br/>Traduzioni |Download |
@@ -65,6 +29,7 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 | <img src="https://media.forgecdn.net/avatars/601/344/637980221070966733.png" loading="lazy" decoding="async" width="30" /> | [LazuLib](https://www.curseforge.com/minecraft/mc-mods/lazulib "Web Site")  | 25/10/2025 | 7 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Flazulib "Download") |
 | <img src="https://media.forgecdn.net/avatars/1174/843/638746976743325551.png" loading="lazy" decoding="async" width="30" /> | [Lazy Utilities](https://www.curseforge.com/minecraft/mc-mods/lazy-utilities "Web Site") ![](https://img.shields.io/badge/NEW-red) | 01/11/2025 | 110 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Flazy_utilities "Download")<br />[Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Flzm_bettercombat "Download")<br />[Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Flzm_elements "Download") |
 | <img src="https://media.forgecdn.net/avatars/1390/433/638901495840171464.png" loading="lazy" decoding="async" width="30" /> | [LDLib](https://www.curseforge.com/minecraft/mc-mods/ldlib "Web Site")  | 14/09/2025 | 271 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fldlib "Download") |
+| <img src="https://media.forgecdn.net/avatars/1484/399/638964770699886139.png" loading="lazy" decoding="async" width="30" /> | [Leaderboards](https://www.curseforge.com/minecraft/mc-mods/leaderboards "Web Site") ![](https://img.shields.io/badge/NEW-red) | 05/11/2025 | 87 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fleaderboards "Download") |
 | <img src="https://media.forgecdn.net/avatars/898/118/638343552543032374.png" loading="lazy" decoding="async" width="30" /> | [Leawind's Third Person](https://www.curseforge.com/minecraft/mc-mods/leawind-third-person "Web Site")  | 07/08/2025 | 7240 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fminecraft "Download") |
 | <img src="https://media.forgecdn.net/avatars/992/542/638506857927032025.gif" loading="lazy" decoding="async" width="30" /> | [Legendary Additions](https://www.curseforge.com/minecraft/mc-mods/legendary-additions "Web Site")  | 27/09/2025 | 67 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Flegendary_additions "Download") |
 | <img src="https://media.forgecdn.net/avatars/992/504/638506808397705675.gif" loading="lazy" decoding="async" width="30" /> | [Legendary Creatures](https://www.curseforge.com/minecraft/mc-mods/legendary-creatures "Web Site")  | 14/09/2025 | 102 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Flegendarycreatures "Download") |

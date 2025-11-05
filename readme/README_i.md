@@ -1,39 +1,3 @@
-<img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
-
-![](https://img.shields.io/badge/Ultimo%20Aggiornamento-01%2F11%2F2025-blue)
-![](https://img.shields.io/badge/Mod%20tradotte-3412-green)
-![](https://img.shields.io/badge/Quest%20tradotte-23-green)
-
-## Progetto che utilizza l’intelligenza artificiale per **tradurre automaticamente in italiano** i contenuti testuali delle mod di Minecraft.
-Supporta file `.json` (come `en_us.json`) e file `.snbt` (come `en_us.snbt`) per FTB Quests.
-Traduzioni basate su modelli AI
-
----
-
-## Obiettivo del progetto
-
-Il nostro scopo è semplificare la localizzazione in italiano delle mod di Minecraft, mantenendo alta la qualità delle traduzioni e riducendo drasticamente il lavoro manuale. Questo permette una più ampia diffusione e fruizione delle mod anche da parte di chi non conosce l’inglese.
-
----
-
-## Tecnologie usate
-
-- [PHP](https://www.php.net/)
-- [Api CurseForge](https://curseforge.com/)
-- [Ollama su Docker](https://hub.docker.com/r/ollama/ollama)
-
----
-
-## Richiedi la traduzione di una mod
-
-Hai una mod specifica che vorresti vedere tradotta in italiano?  
-Compila il modulo qui sotto per inviarci la tua richiesta:
-
-👉 [Modulo richiesta traduzione mod](https://forms.gle/3SsGruLzzU6gDovv8)
-
-> Accettiamo richieste per mod singole o interi modpack!
-
----
 # Lista Mod disponibili
 
 |  |Mod | Ultimo<br/>aggiornamento | Numero<br/>Traduzioni |Download |
@@ -139,6 +103,7 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 | <img src="https://media.forgecdn.net/avatars/1060/755/638592586315395606.png" loading="lazy" decoding="async" width="30" /> | [Iron's Spell Books: Arcane Essence Blocks](https://www.curseforge.com/minecraft/mc-mods/irons-spell-books-arcane-essence-blocks "Web Site")  | 27/09/2025 | 3 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Farcaneessenceblock "Download") |
 | <img src="https://media.forgecdn.net/avatars/1202/674/638779938919907035.png" loading="lazy" decoding="async" width="30" /> | [Iron's Spells Crafting addon](https://www.curseforge.com/minecraft/mc-mods/irons-spells-crafting-addon "Web Site")  | 27/09/2025 | 9 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fspellbooks_craft "Download") |
 | <img src="https://media.forgecdn.net/avatars/871/265/638288661913483053.png" loading="lazy" decoding="async" width="30" /> | [Iron's Spells 'n Spellbooks](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks "Web Site")  | 14/09/2025 | 1237 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Firons_spellbooks "Download") |
+| <img src="https://media.forgecdn.net/avatars/1443/811/638936269964768699.png" loading="lazy" decoding="async" width="30" /> | [Irregular Implements](https://www.curseforge.com/minecraft/mc-mods/irregular-implements "Web Site") ![](https://img.shields.io/badge/NEW-red) | 05/11/2025 | 833 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Firregular_implements "Download") |
 | <img src="https://media.forgecdn.net/avatars/561/769/637914383465201197.png" loading="lazy" decoding="async" width="30" /> | [It Takes a Pillage](https://www.curseforge.com/minecraft/mc-mods/it-takes-a-pillage "Web Site")  | 07/08/2025 | 62 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Ftakesapillage "Download") |
 | <img src="https://media.forgecdn.net/avatars/1088/404/638631273109179063.png" loading="lazy" decoding="async" width="30" /> | [It Takes a Pillage Continuation](https://www.curseforge.com/minecraft/mc-mods/it-takes-a-pillage-continuation "Web Site")  | 25/08/2025 | 62 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Ftakesapillage "Download") |
 | <img src="https://media.forgecdn.net/avatars/632/475/638032571958750547.png" loading="lazy" decoding="async" width="30" /> | [Item Alchemy (Fabric)](https://www.curseforge.com/minecraft/mc-mods/item-alchemy-fabric "Web Site")  | 29/09/2025 | 58 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fitemalchemy "Download") |

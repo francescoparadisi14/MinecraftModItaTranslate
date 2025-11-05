@@ -1,39 +1,3 @@
-<img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
-
-![](https://img.shields.io/badge/Ultimo%20Aggiornamento-01%2F11%2F2025-blue)
-![](https://img.shields.io/badge/Mod%20tradotte-3412-green)
-![](https://img.shields.io/badge/Quest%20tradotte-23-green)
-
-## Progetto che utilizza l’intelligenza artificiale per **tradurre automaticamente in italiano** i contenuti testuali delle mod di Minecraft.
-Supporta file `.json` (come `en_us.json`) e file `.snbt` (come `en_us.snbt`) per FTB Quests.
-Traduzioni basate su modelli AI
-
----
-
-## Obiettivo del progetto
-
-Il nostro scopo è semplificare la localizzazione in italiano delle mod di Minecraft, mantenendo alta la qualità delle traduzioni e riducendo drasticamente il lavoro manuale. Questo permette una più ampia diffusione e fruizione delle mod anche da parte di chi non conosce l’inglese.
-
----
-
-## Tecnologie usate
-
-- [PHP](https://www.php.net/)
-- [Api CurseForge](https://curseforge.com/)
-- [Ollama su Docker](https://hub.docker.com/r/ollama/ollama)
-
----
-
-## Richiedi la traduzione di una mod
-
-Hai una mod specifica che vorresti vedere tradotta in italiano?  
-Compila il modulo qui sotto per inviarci la tua richiesta:
-
-👉 [Modulo richiesta traduzione mod](https://forms.gle/3SsGruLzzU6gDovv8)
-
-> Accettiamo richieste per mod singole o interi modpack!
-
----
 # Lista Mod disponibili
 
 |  |Mod | Ultimo<br/>aggiornamento | Numero<br/>Traduzioni |Download |
@@ -143,6 +107,7 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 | <img src="https://media.forgecdn.net/avatars/214/988/636995179309161946.png" loading="lazy" decoding="async" width="30" /> | [Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel "Web Site")  | 07/08/2025 | 24 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fcitadel "Download") |
 | <img src="https://media.forgecdn.net/avatars/960/475/638456252553866218.png" loading="lazy" decoding="async" width="30" /> | [City Craft](https://www.curseforge.com/minecraft/mc-mods/city-craft "Web Site")  | 04/10/2025 | 1275 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fcitycraft "Download") |
 | <img src="https://media.forgecdn.net/avatars/957/986/638451747688481642.png" loading="lazy" decoding="async" width="30" /> | [Classic Battle Towers](https://www.curseforge.com/minecraft/mc-mods/classic-battle-towers "Web Site")  | 17/09/2025 | 2 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fbattletowers "Download") |
+| <img src="https://media.forgecdn.net/avatars/1454/494/638944011641285523.png" loading="lazy" decoding="async" width="30" /> | [Classic Pipes](https://www.curseforge.com/minecraft/mc-mods/classic-pipes "Web Site") ![](https://img.shields.io/badge/NEW-red) | 05/11/2025 | 162 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fclassicpipes "Download") |
 | <img src="https://media.forgecdn.net/avatars/765/57/638100630301650012.png" loading="lazy" decoding="async" width="30" /> | [Classic Sword Blocking](https://www.curseforge.com/minecraft/mc-mods/classic-sword-blocking "Web Site")  | 16/09/2025 | 1 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fsword_block "Download") |
 | <img src="https://media.forgecdn.net/avatars/1345/371/638874319351751690.gif" loading="lazy" decoding="async" width="30" /> | [Clavis](https://www.curseforge.com/minecraft/mc-mods/clavis "Web Site")  | 29/09/2025 | 31 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fclavis "Download") |
 | <img src="https://media.forgecdn.net/avatars/772/158/638112070010679519.png" loading="lazy" decoding="async" width="30" /> | [Clayworks](https://www.curseforge.com/minecraft/mc-mods/clayworks "Web Site")  | 02/09/2025 | 229 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fclayworks "Download") |
@@ -328,6 +293,7 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 | <img src="https://media.forgecdn.net/avatars/1228/494/638805706133372066.png" loading="lazy" decoding="async" width="30" /> | [Create: Enchantable Machinery](https://www.curseforge.com/minecraft/mc-mods/create-enchantable-machinery "Web Site")  | 04/08/2025 | 56 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fcreateenchantablemachinery "Download") |
 | <img src="https://media.forgecdn.net/avatars/901/433/638348809421890435.png" loading="lazy" decoding="async" width="30" /> | [Create Enchantment Industry Plus](https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry-plus "Web Site")  | 08/08/2025 | 1 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fcreate_enchantment_industry_plus "Download") |
 | <img src="https://media.forgecdn.net/avatars/1218/450/638797350106284603.png" loading="lazy" decoding="async" width="30" /> | [Create: Ender Link](https://www.curseforge.com/minecraft/mc-mods/create-ender-link "Web Site")  | 28/08/2025 | 36 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fcreateenderlink "Download") |
+| <img src="https://media.forgecdn.net/avatars/1391/586/638902154434416718.jpg" loading="lazy" decoding="async" width="30" /> | [Create Ender Storage](https://www.curseforge.com/minecraft/mc-mods/create-ender-storage "Web Site") ![](https://img.shields.io/badge/NEW-red) | 05/11/2025 | 3 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fcreateenderstorage "Download") |
 | <img src="https://media.forgecdn.net/avatars/1253/956/638817658356998728.png" loading="lazy" decoding="async" width="30" /> | [Create:Entity Control](https://www.curseforge.com/minecraft/mc-mods/create-entitycontroller "Web Site")  | 25/08/2025 | 2 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fcreateentitycontroller "Download") |
 | <img src="https://media.forgecdn.net/avatars/1261/902/638821569425963837.gif" loading="lazy" decoding="async" width="30" /> | [Create: Escalated](https://www.curseforge.com/minecraft/mc-mods/create-escalated "Web Site")  | 11/09/2025 | 61 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fescalated "Download") |
 | <img src="https://media.forgecdn.net/avatars/678/973/638068706453658102.png" loading="lazy" decoding="async" width="30" /> | [Create: Extended Cogwheels ](https://www.curseforge.com/minecraft/mc-mods/create-extended-cogs "Web Site")  | 04/10/2025 | 6 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fextendedgears "Download") |
@@ -434,6 +400,8 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 | <img src="https://media.forgecdn.net/avatars/535/965/637857347057810791.png" loading="lazy" decoding="async" width="30" /> | [Cursery[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/cursery "Web Site")  | 16/09/2025 | 47 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fcursery "Download") |
 | <img src="https://media.forgecdn.net/avatars/147/189/636575153366622252.png" loading="lazy" decoding="async" width="30" /> | [Cursor Mod (Fabric/Forge)](https://www.curseforge.com/minecraft/mc-mods/cursor-mod "Web Site")  | 04/10/2025 | 21 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fcursormod "Download") |
 | <img src="https://media.forgecdn.net/avatars/380/902/637563347249192471.png" loading="lazy" decoding="async" width="30" /> | [Custom Machinery](https://www.curseforge.com/minecraft/mc-mods/custom-machinery "Web Site")  | 25/08/2025 | 522 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fcustommachinery "Download") |
+| <img src="https://media.forgecdn.net/avatars/941/532/638423065009951958.png" loading="lazy" decoding="async" width="30" /> | [Custom Machinery Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/custom-machinery-ars-nouveau "Web Site") ![](https://img.shields.io/badge/NEW-red) | 05/11/2025 | 22 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fcustommachineryars "Download") |
+| <img src="https://media.forgecdn.net/avatars/816/777/638194152793787515.png" loading="lazy" decoding="async" width="30" /> | [Custom Machinery Create](https://www.curseforge.com/minecraft/mc-mods/custom-machinery-create "Web Site") ![](https://img.shields.io/badge/NEW-red) | 05/11/2025 | 10 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fcustommachinerycreate "Download") |
 | <img src="https://media.forgecdn.net/avatars/658/405/638058469406551359.png" loading="lazy" decoding="async" width="30" /> | [Custom Machinery Mekanism](https://www.curseforge.com/minecraft/mc-mods/custom-machinery-mekanism "Web Site")  | 25/08/2025 | 32 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fcustommachinerymekanism "Download") |
 | <img src="https://media.forgecdn.net/avatars/7/987/635394772410491871.png" loading="lazy" decoding="async" width="30" /> | [Custom NPCs](https://www.curseforge.com/minecraft/mc-mods/custom-npcs "Web Site")  | 13/09/2025 | 793 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fcustomnpcs "Download") |
 | <img src="https://media.forgecdn.net/avatars/345/676/637493525593605940.png" loading="lazy" decoding="async" width="30" /> | [Customizable Player Models](https://www.curseforge.com/minecraft/mc-mods/custom-player-models "Web Site")  | 11/09/2025 | 1186 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fcpm "Download") |

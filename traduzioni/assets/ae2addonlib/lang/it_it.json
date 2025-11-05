@@ -1,0 +1,13 @@
+{
+    "gui.ae2addonlib.SetAmount": "Imposta quantità",
+    "gui.tooltips.ae2addonlib.ClearButton": "Cancella",
+    "gui.tooltips.ae2addonlib.ClearFluidButtonHint": "Svuota il fluido residuo dalla macchina.",
+    "gui.tooltips.ae2addonlib.ClearSidesButtonHint": "Disabilita l'output da tutte le facce della macchina.",
+    "gui.tooltips.ae2addonlib.DirectionalOutput": "Uscita diretta",
+    "gui.tooltips.ae2addonlib.DirectionalOutputHint": "Configura i direzioni consentite per l'esportazione automatica dell'output",
+    "gui.tooltips.ae2addonlib.Disabled": "Disabilitato",
+    "gui.tooltips.ae2addonlib.Enabled": "Abilitato",
+    "gui.tooltips.ae2addonlib.InvalidHexInput": "Codice di input esadecimale non valido",
+    "gui.tooltips.ae2addonlib.TankAmount": "%s \/ %s b",
+    "gui.tooltips.ae2addonlib.TankEmpty": "Vuoto"
+}

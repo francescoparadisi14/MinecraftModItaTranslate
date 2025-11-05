@@ -1,0 +1,17 @@
+{
+    "block.xp_synthesiser.xp_synthesiser": "Sintetizzatore XP",
+    "item.xp_synthesiser.kill_recorder": "Ricordatore di uccisioni",
+    "itemGroup.xp_synthesiser": "Sintetizzatore XP",
+    "xp_synthesiser.configuration.general": "Impostazioni generali",
+    "xp_synthesiser.configuration.general.button": "Apri",
+    "xp_synthesiser.configuration.general.tooltip": "Impostazioni",
+    "xp_synthesiser.configuration.requiresPower": "Il sintetizzatore XP richiede energia",
+    "xp_synthesiser.configuration.requiresPower.tooltip": "Richiede potenza",
+    "xp_synthesiser.configuration.section.xp.synthesiser.server.toml": "Sintetizzatore XP",
+    "xp_synthesiser.configuration.section.xp.synthesiser.server.toml.title": "Sintetizzatore XP",
+    "xp_synthesiser.configuration.title": "Sintetizzatore XP",
+    "xp_synthesiser.configuration.xpPointCost": "Costo di potenza per punto XP",
+    "xp_synthesiser.configuration.xpPointCost.tooltip": "Costo punti XP",
+    "xp_synthesiser.configuration.xpScalingCost": "Costo di potenza di scalamento per punto di XP",
+    "xp_synthesiser.configuration.xpScalingFactor": "Fattore di scalatura del potere XP"
+}

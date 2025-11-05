@@ -1,0 +1,21 @@
+{
+    "block.moofluids.fluid_cow_jar": "Olio di mucca",
+    "block.moofluids.fluid_cow_jar_filled": "Barattolo di fluido vitello (riempito)",
+    "entity.moofluids.fluid_cow": "Vitello liquido",
+    "item.moofluids.alchemy_glass": "Vetro alchimico",
+    "item.moofluids.alchemy_glass.tooltip": "Clicca destro per visualizzare le ricette di allevamento del bestiame dei fluidi",
+    "item.moofluids.fluid_cow_spawn_egg": "Uovo di generazione di mucca fluida",
+    "itemGroup.moofluids.moo_fluids": "Fluidi di mucca",
+    "jei.moofluids.category.breeding": "Riproduzione fluido bovina",
+    "jei.moofluids.fluid_cow.tooltip": "Clicca destro per visualizzare le ricette\/flussi dei fluidi",
+    "moofluids.jade.fluid_mismatch": "Incongruenza di fluido - svuota il serbatoio!",
+    "moofluids.top.cooldown": "Timeout per mungitura",
+    "moofluids.top.fluid": "Fluido",
+    "moofluids.top.fluid_mismatch": "Incongruenza di fluido - svuota il serbatoio!",
+    "moofluids.top.ready": "Pronto per mungere",
+    "tooltip.moofluids.fluid_cow_jar.amount": "Quantità: %s ml",
+    "tooltip.moofluids.fluid_cow_jar.contains": "Contiene: %s",
+    "tooltip.moofluids.fluid_cow_jar.fluid": "Fluido: %s",
+    "tooltip.moofluids.fluid_cow_jar.hint": "Sfrega un martello su una vacca dei fluidi per catturarla",
+    "tooltip.moofluids.fluid_cow_jar.release": "Clicca con shift e le mani vuote per rilasciare il vitello"
+}

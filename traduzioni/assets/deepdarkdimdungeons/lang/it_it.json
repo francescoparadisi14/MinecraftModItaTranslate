@@ -1,0 +1,12 @@
+{
+    "block.deepdarkdimdungeons.deep_dark_portal": "Portale oscuro profondo",
+    "deepdarkdimdungeons.portal.complete": "Portale attivato! Generazione del dungeon completa.",
+    "deepdarkdimdungeons.portal.complete_consumed": "Portale attivato! Generazione del dungeon completa. Catalyst consumato.",
+    "deepdarkdimdungeons.portal.generating_progress": "Generazione dungeon in corso... (%ds)",
+    "deepdarkdimdungeons.portal.generation_failed": "Non è stato generato il dungeon.",
+    "deepdarkdimdungeons.portal.invalid_frame": "Non è stato rilevato alcun frame di porta valido.",
+    "deepdarkdimdungeons.portal.no_catalyst": "Generazione del portale annullata: non è stato trovato alcun catalizzatore nell'inventario!",
+    "deepdarkdimdungeons.portal.starting_generation": "Generazione di dungeon iniziale...",
+    "item.deepdarkdimdungeons.deep_dark_catalyst": "Catalizzatore oscuro profondo",
+    "itemGroup.deepdarkdimdungeons": "Gallerie oscure del buio profondo"
+}

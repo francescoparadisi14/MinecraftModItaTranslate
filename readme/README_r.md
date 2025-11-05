@@ -1,39 +1,3 @@
-<img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
-
-![](https://img.shields.io/badge/Ultimo%20Aggiornamento-01%2F11%2F2025-blue)
-![](https://img.shields.io/badge/Mod%20tradotte-3412-green)
-![](https://img.shields.io/badge/Quest%20tradotte-23-green)
-
-## Progetto che utilizza l’intelligenza artificiale per **tradurre automaticamente in italiano** i contenuti testuali delle mod di Minecraft.
-Supporta file `.json` (come `en_us.json`) e file `.snbt` (come `en_us.snbt`) per FTB Quests.
-Traduzioni basate su modelli AI
-
----
-
-## Obiettivo del progetto
-
-Il nostro scopo è semplificare la localizzazione in italiano delle mod di Minecraft, mantenendo alta la qualità delle traduzioni e riducendo drasticamente il lavoro manuale. Questo permette una più ampia diffusione e fruizione delle mod anche da parte di chi non conosce l’inglese.
-
----
-
-## Tecnologie usate
-
-- [PHP](https://www.php.net/)
-- [Api CurseForge](https://curseforge.com/)
-- [Ollama su Docker](https://hub.docker.com/r/ollama/ollama)
-
----
-
-## Richiedi la traduzione di una mod
-
-Hai una mod specifica che vorresti vedere tradotta in italiano?  
-Compila il modulo qui sotto per inviarci la tua richiesta:
-
-👉 [Modulo richiesta traduzione mod](https://forms.gle/3SsGruLzzU6gDovv8)
-
-> Accettiamo richieste per mod singole o interi modpack!
-
----
 # Lista Mod disponibili
 
 |  |Mod | Ultimo<br/>aggiornamento | Numero<br/>Traduzioni |Download |
@@ -102,6 +66,7 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 | <img src="https://media.forgecdn.net/avatars/1046/771/638574943877965895.png" loading="lazy" decoding="async" width="30" /> | [Repeatable Trial Vaults](https://www.curseforge.com/minecraft/mc-mods/repeatable-trial-vaults "Web Site")  | 07/08/2025 | 1 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Frepeatable_trial_vaults "Download") |
 | <img src="https://media.forgecdn.net/avatars/980/270/638486456329003372.gif" loading="lazy" decoding="async" width="30" /> | [Replication](https://www.curseforge.com/minecraft/mc-mods/replication "Web Site")  | 06/08/2025 | 67 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Freplication "Download") |
 | <img src="https://media.forgecdn.net/avatars/1271/700/638827247810538095.png" loading="lazy" decoding="async" width="30" /> | [Replication AE2 Bridge](https://www.curseforge.com/minecraft/mc-mods/replication-ae2-bridge "Web Site")  | 14/09/2025 | 11 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Frep_ae2_bridge "Download") |
+| <img src="https://media.forgecdn.net/avatars/1505/439/638977747788236481.png" loading="lazy" decoding="async" width="30" /> | [Replication: Matter Overflow Tank](https://www.curseforge.com/minecraft/mc-mods/replication-matter-overflow-tank "Web Site") ![](https://img.shields.io/badge/NEW-red) | 05/11/2025 | 4 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Freplication_matter_overflow "Download") |
 | <img src="https://media.forgecdn.net/avatars/255/455/637201901951380334.png" loading="lazy" decoding="async" width="30" /> | [Repurposed Structures (Neoforge/Forge)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures "Web Site")  | 07/08/2025 | 163 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Frepurposed_structures "Download") |
 | <img src="https://media.forgecdn.net/avatars/281/216/637284732980858259.png" loading="lazy" decoding="async" width="30" /> | [Repurposed Structures (Fabric/Quilt)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric "Web Site")  | 02/09/2025 | 163 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Frepurposed_structures "Download") |
 | <img src="https://media.forgecdn.net/avatars/586/727/637955018376760565.png" loading="lazy" decoding="async" width="30" /> | [Reputation](https://www.curseforge.com/minecraft/mc-mods/reputation "Web Site")  | 29/08/2025 | 22 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Freputation "Download") |

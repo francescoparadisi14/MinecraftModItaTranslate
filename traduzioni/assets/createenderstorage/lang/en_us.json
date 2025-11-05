@@ -1,0 +1,5 @@
+{
+    "createenderstorage.ponder.mounted_ender_chest.header": "Ender Storage Compatibility",
+    "createenderstorage.ponder.mounted_ender_chest.text_1": "Ender Storage Chests of same dye-coded frequencies share the same inventory.",
+    "createenderstorage.ponder.mounted_ender_chest.text_2": "This includes while on contraptions. The blocks from Ender Storage are accessible by contraption actors for automation."
+}

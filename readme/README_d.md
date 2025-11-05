@@ -1,39 +1,3 @@
-<img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
-
-![](https://img.shields.io/badge/Ultimo%20Aggiornamento-01%2F11%2F2025-blue)
-![](https://img.shields.io/badge/Mod%20tradotte-3412-green)
-![](https://img.shields.io/badge/Quest%20tradotte-23-green)
-
-## Progetto che utilizza l’intelligenza artificiale per **tradurre automaticamente in italiano** i contenuti testuali delle mod di Minecraft.
-Supporta file `.json` (come `en_us.json`) e file `.snbt` (come `en_us.snbt`) per FTB Quests.
-Traduzioni basate su modelli AI
-
----
-
-## Obiettivo del progetto
-
-Il nostro scopo è semplificare la localizzazione in italiano delle mod di Minecraft, mantenendo alta la qualità delle traduzioni e riducendo drasticamente il lavoro manuale. Questo permette una più ampia diffusione e fruizione delle mod anche da parte di chi non conosce l’inglese.
-
----
-
-## Tecnologie usate
-
-- [PHP](https://www.php.net/)
-- [Api CurseForge](https://curseforge.com/)
-- [Ollama su Docker](https://hub.docker.com/r/ollama/ollama)
-
----
-
-## Richiedi la traduzione di una mod
-
-Hai una mod specifica che vorresti vedere tradotta in italiano?  
-Compila il modulo qui sotto per inviarci la tua richiesta:
-
-👉 [Modulo richiesta traduzione mod](https://forms.gle/3SsGruLzzU6gDovv8)
-
-> Accettiamo richieste per mod singole o interi modpack!
-
----
 # Lista Mod disponibili
 
 |  |Mod | Ultimo<br/>aggiornamento | Numero<br/>Traduzioni |Download |
@@ -53,6 +17,7 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 | <img src="https://media.forgecdn.net/avatars/567/189/637927269452409374.png" loading="lazy" decoding="async" width="30" /> | [Dark Waters](https://www.curseforge.com/minecraft/mc-mods/dark-waters "Web Site") ![](https://img.shields.io/badge/NEW-red) | 01/11/2025 | 49 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fdarkwaters "Download") |
 | <img src="https://media.forgecdn.net/avatars/358/895/637520344760572134.png" loading="lazy" decoding="async" width="30" /> | [Darker Depths](https://www.curseforge.com/minecraft/mc-mods/darker-depths "Web Site")  | 14/09/2025 | 234 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fdarkerdepths "Download") |
 | <img src="https://media.forgecdn.net/avatars/620/448/638009250714465630.png" loading="lazy" decoding="async" width="30" /> | [Darker Souls](https://www.curseforge.com/minecraft/mc-mods/darker-souls "Web Site")  | 29/08/2025 | 17 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fdarkersouls "Download") |
+| <img src="https://media.forgecdn.net/avatars/1158/800/638727302314946314.png" loading="lazy" decoding="async" width="30" /> | [Databank](https://www.curseforge.com/minecraft/mc-mods/databank "Web Site") ![](https://img.shields.io/badge/NEW-red) | 05/11/2025 | 13 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fdatabank "Download") |
 | <img src="https://media.forgecdn.net/avatars/538/56/637862655655174015.png" loading="lazy" decoding="async" width="30" /> | [Dawn API](https://www.curseforge.com/minecraft/mc-mods/dawn "Web Site")  | 07/08/2025 | 34 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fdawn "Download") |
 | <img src="https://media.forgecdn.net/avatars/961/81/638457067445019871.gif" loading="lazy" decoding="async" width="30" /> | [DawnCraft - Echoes of Legends](https://www.curseforge.com/minecraft/modpacks/dawn-craft "Web Site")  | 14/09/2025 | 32 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni_quest%2Fdawn-craft%2Foverrides%2Fconfig "Download")<br />[Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni_quest%2Fdawn-craft%2Foverrides%2Fdefaultconfigs "Download") |
 | <img src="https://media.forgecdn.net/avatars/1387/942/638899982063845209.gif" loading="lazy" decoding="async" width="30" /> | [Dawn of the Flood - "Rising Tides"](https://www.curseforge.com/minecraft/mc-mods/dawn-of-the-flood "Web Site")  | 11/09/2025 | 609 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fdotf "Download") |
@@ -74,6 +39,7 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 | <img src="https://media.forgecdn.net/avatars/325/734/637443910985529999.png" loading="lazy" decoding="async" width="30" /> | [Decorative Winter](https://www.curseforge.com/minecraft/mc-mods/decorative-winter "Web Site")  | 27/09/2025 | 21 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fdecorative_winter "Download") |
 | <img src="https://media.forgecdn.net/avatars/1094/609/638639296143733455.png" loading="lazy" decoding="async" width="30" /> | [Deep Aether](https://www.curseforge.com/minecraft/mc-mods/deep-aether "Web Site")  | 07/08/2025 | 1004 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fdeep_aether "Download")<br />[Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fpacks%2Fclient "Download") |
 | <img src="https://media.forgecdn.net/avatars/875/665/638298608268720068.png" loading="lazy" decoding="async" width="30" /> | [Deep Blood](https://www.curseforge.com/minecraft/mc-mods/deep-blood "Web Site")  | 17/09/2025 | 102 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fdeep_blood "Download") |
+| <img src="https://media.forgecdn.net/avatars/1421/206/638920826182917652.png" loading="lazy" decoding="async" width="30" /> | [Deep Dark Dimensional Dungeons](https://www.curseforge.com/minecraft/mc-mods/deep-dark-dimensional-dungeons "Web Site") ![](https://img.shields.io/badge/NEW-red) | 05/11/2025 | 10 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fdeepdarkdimdungeons "Download") |
 | <img src="https://media.forgecdn.net/avatars/989/308/638501818718338016.png" loading="lazy" decoding="async" width="30" /> | [Deep Dark: Regrowth](https://www.curseforge.com/minecraft/mc-mods/deep-dark-regrowth "Web Site")  | 14/09/2025 | 567 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fdeep_dark_regrowth "Download") |
 | <img src="https://media.forgecdn.net/avatars/1055/574/638586877714541407.png" loading="lazy" decoding="async" width="30" /> | [Deeper and Darker](https://www.curseforge.com/minecraft/mc-mods/deeperdarker "Web Site")  | 07/08/2025 | 302 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fdeeperdarker "Download") |
 | <img src="https://media.forgecdn.net/avatars/25/393/635772772655629740.png" loading="lazy" decoding="async" width="30" /> | [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options "Web Site")  | 14/09/2025 | 10 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fdefaultoptions "Download") |

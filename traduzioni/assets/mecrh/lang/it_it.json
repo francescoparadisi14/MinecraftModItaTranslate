@@ -1,0 +1,16 @@
+{
+    "entity.mecrh.egg_bomb": "Bombola d'uovo",
+    "entity.mecrh.ender_chicken": "Pollo di fine potente",
+    "item.mecrh.ender_chicken_spawn_egg": "Uovo di incubazione pollo dell'altro mondo",
+    "item.mecrh.music_disc_chicken_of_chaos": "Disco musicale \"Pollo della caos\"",
+    "item.mecrh.music_disc_chicken_of_chaos.desc": "ftb team - pollo della caos",
+    "item.mecrh.test_stick": "Astuccio di prova",
+    "mecrh.message.wrong_forcefield_item": "Arma non valida per il campo di forza!",
+    "mecrh.subtitle.charge_start": "Il pollo carica",
+    "mecrh.subtitle.chicken_spin": "Il pollo inizia a ruotare",
+    "mecrh.subtitle.forcefield_off": "Disattiva campo di forza",
+    "mecrh.subtitle.forcefield_on": "Attiva campo di forza",
+    "mecrh.subtitle.laser_end": "Il laser si spegne",
+    "mecrh.subtitle.laser_loop": "Il laser è in funzione",
+    "mecrh.subtitle.laser_start": "Laser attiva"
+}

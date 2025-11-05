@@ -1,39 +1,3 @@
-<img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
-
-![](https://img.shields.io/badge/Ultimo%20Aggiornamento-01%2F11%2F2025-blue)
-![](https://img.shields.io/badge/Mod%20tradotte-3412-green)
-![](https://img.shields.io/badge/Quest%20tradotte-23-green)
-
-## Progetto che utilizza l’intelligenza artificiale per **tradurre automaticamente in italiano** i contenuti testuali delle mod di Minecraft.
-Supporta file `.json` (come `en_us.json`) e file `.snbt` (come `en_us.snbt`) per FTB Quests.
-Traduzioni basate su modelli AI
-
----
-
-## Obiettivo del progetto
-
-Il nostro scopo è semplificare la localizzazione in italiano delle mod di Minecraft, mantenendo alta la qualità delle traduzioni e riducendo drasticamente il lavoro manuale. Questo permette una più ampia diffusione e fruizione delle mod anche da parte di chi non conosce l’inglese.
-
----
-
-## Tecnologie usate
-
-- [PHP](https://www.php.net/)
-- [Api CurseForge](https://curseforge.com/)
-- [Ollama su Docker](https://hub.docker.com/r/ollama/ollama)
-
----
-
-## Richiedi la traduzione di una mod
-
-Hai una mod specifica che vorresti vedere tradotta in italiano?  
-Compila il modulo qui sotto per inviarci la tua richiesta:
-
-👉 [Modulo richiesta traduzione mod](https://forms.gle/3SsGruLzzU6gDovv8)
-
-> Accettiamo richieste per mod singole o interi modpack!
-
----
 # Lista Mod disponibili
 
 |  |Mod | Ultimo<br/>aggiornamento | Numero<br/>Traduzioni |Download |
@@ -61,6 +25,7 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 | <img src="https://media.forgecdn.net/avatars/874/814/638296370585148809.png" loading="lazy" decoding="async" width="30" /> | [MaFgLib](https://www.curseforge.com/minecraft/mc-mods/mafglib "Web Site")  | 14/09/2025 | 322 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fmalilib "Download") |
 | <img src="https://media.forgecdn.net/avatars/1330/438/638864767646199036.png" loading="lazy" decoding="async" width="30" /> | [MafiaBoys Team Kitsune Mask](https://www.curseforge.com/minecraft/mc-mods/mafiaboys-team-kitsune-mask "Web Site") ![](https://img.shields.io/badge/NEW-red) | 01/11/2025 | 17 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fmaskmod "Download") |
 | <img src="https://media.forgecdn.net/avatars/1192/38/638767044880062237.png" loading="lazy" decoding="async" width="30" /> | [Magic Coins](https://www.curseforge.com/minecraft/mc-mods/magic-coins "Web Site")  | 25/08/2025 | 18 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fmagic_coins "Download") |
+| <img src="https://media.forgecdn.net/avatars/1441/345/638934510909240508.png" loading="lazy" decoding="async" width="30" /> | [Magic Coins Tweak](https://www.curseforge.com/minecraft/mc-mods/magic-coins-tweak "Web Site") ![](https://img.shields.io/badge/NEW-red) | 05/11/2025 | 3 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fmagiccoinstweak "Download") |
 | <img src="https://media.forgecdn.net/avatars/1203/196/638780611703268926.png" loading="lazy" decoding="async" width="30" /> | [Magic From The East](https://www.curseforge.com/minecraft/mc-mods/magic-from-the-east "Web Site")  | 14/09/2025 | 188 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fiss_magicfromtheeast "Download") |
 | <img src="https://media.forgecdn.net/avatars/947/361/638433712305082077.png" loading="lazy" decoding="async" width="30" /> | [Magic Origins](https://www.curseforge.com/minecraft/mc-mods/magic-origins "Web Site") ![](https://img.shields.io/badge/NEW-red) | 01/11/2025 | 7240 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fminecraft "Download") |
 | <img src="https://media.forgecdn.net/avatars/1033/447/638556971731571936.png" loading="lazy" decoding="async" width="30" /> | [Magic Vibe Decorations (Crystals, Halloween)](https://www.curseforge.com/minecraft/mc-mods/magic-vibe-decorations "Web Site")  | 27/09/2025 | 195 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fmagic_vibe_decorations "Download") |
@@ -253,6 +218,7 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 | <img src="https://media.forgecdn.net/avatars/1221/908/638800501615537094.png" loading="lazy" decoding="async" width="30" /> | [Monsters&Girls](https://www.curseforge.com/minecraft/mc-mods/monsters-girls-mushroom-update "Web Site") ![](https://img.shields.io/badge/NEW-red) | 01/11/2025 | 510 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fmonsters_and_girls "Download") |
 | <img src="https://media.forgecdn.net/avatars/1428/384/638925360454792693.png" loading="lazy" decoding="async" width="30" /> | [Monsters&Girls: Witchy Stuff](https://www.curseforge.com/minecraft/mc-mods/monsters-girls-witchy-stuff "Web Site") ![](https://img.shields.io/badge/NEW-red) | 01/11/2025 | 34 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fmg__witchy_stuff "Download") |
 | <img src="https://media.forgecdn.net/avatars/1167/161/638737645157796336.png" loading="lazy" decoding="async" width="30" /> | [Monstrosteve](https://www.curseforge.com/minecraft/mc-mods/monstrosteve "Web Site")  | 17/09/2025 | 6 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fmonstrosteve "Download") |
+| <img src="https://media.forgecdn.net/avatars/1003/358/638524004079756924.png" loading="lazy" decoding="async" width="30" /> | [MooFluids Modern](https://www.curseforge.com/minecraft/mc-mods/moo-fluids-modern "Web Site") ![](https://img.shields.io/badge/NEW-red) | 05/11/2025 | 19 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fmoofluids "Download") |
 | <img src="https://media.forgecdn.net/avatars/906/277/638356236098188240.png" loading="lazy" decoding="async" width="30" /> | [More Armor Trims [FABRIC/NEOFORGE]](https://www.curseforge.com/minecraft/mc-mods/more-armor-trims "Web Site")  | 07/08/2025 | 22 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fmore_armor_trims "Download") |
 | <img src="https://media.forgecdn.net/avatars/1134/877/638695935678126398.png" loading="lazy" decoding="async" width="30" /> | [More Artifacts](https://www.curseforge.com/minecraft/mc-mods/more-artifacts "Web Site") ![](https://img.shields.io/badge/NEW-red) | 01/11/2025 | 199 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fmoreartifacts "Download") |
 | <img src="https://media.forgecdn.net/avatars/420/973/637647996590902623.png" loading="lazy" decoding="async" width="30" /> | [More Banner Features](https://www.curseforge.com/minecraft/mc-mods/more-banner-features "Web Site")  | 02/09/2025 | 30 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fmbf "Download") |

@@ -1,39 +1,3 @@
-<img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
-
-![](https://img.shields.io/badge/Ultimo%20Aggiornamento-01%2F11%2F2025-blue)
-![](https://img.shields.io/badge/Mod%20tradotte-3412-green)
-![](https://img.shields.io/badge/Quest%20tradotte-23-green)
-
-## Progetto che utilizza l’intelligenza artificiale per **tradurre automaticamente in italiano** i contenuti testuali delle mod di Minecraft.
-Supporta file `.json` (come `en_us.json`) e file `.snbt` (come `en_us.snbt`) per FTB Quests.
-Traduzioni basate su modelli AI
-
----
-
-## Obiettivo del progetto
-
-Il nostro scopo è semplificare la localizzazione in italiano delle mod di Minecraft, mantenendo alta la qualità delle traduzioni e riducendo drasticamente il lavoro manuale. Questo permette una più ampia diffusione e fruizione delle mod anche da parte di chi non conosce l’inglese.
-
----
-
-## Tecnologie usate
-
-- [PHP](https://www.php.net/)
-- [Api CurseForge](https://curseforge.com/)
-- [Ollama su Docker](https://hub.docker.com/r/ollama/ollama)
-
----
-
-## Richiedi la traduzione di una mod
-
-Hai una mod specifica che vorresti vedere tradotta in italiano?  
-Compila il modulo qui sotto per inviarci la tua richiesta:
-
-👉 [Modulo richiesta traduzione mod](https://forms.gle/3SsGruLzzU6gDovv8)
-
-> Accettiamo richieste per mod singole o interi modpack!
-
----
 # Lista Mod disponibili
 
 |  |Mod | Ultimo<br/>aggiornamento | Numero<br/>Traduzioni |Download |
@@ -212,7 +176,8 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 | <img src="https://media.forgecdn.net/avatars/305/933/637382822465912091.png" loading="lazy" decoding="async" width="30" /> | [Expanded Combat](https://www.curseforge.com/minecraft/mc-mods/expanded-combat "Web Site")  | 16/09/2025 | 1178 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fexpanded_combat "Download") |
 | <img src="https://media.forgecdn.net/avatars/1220/130/638798928454836278.png" loading="lazy" decoding="async" width="30" /> | [Expanded Delight](https://www.curseforge.com/minecraft/mc-mods/expanded-delight "Web Site")  | 07/08/2025 | 116 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fexpandeddelight "Download") |
 | <img src="https://media.forgecdn.net/avatars/869/230/638284287720557223.png" loading="lazy" decoding="async" width="30" /> | [Experienced Crops](https://www.curseforge.com/minecraft/mc-mods/experienced-crops "Web Site")  | 02/09/2025 | 3 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fexperienced_crops "Download") |
-| <img src="https://media.forgecdn.net/avatars/392/538/637586809619523367.png" loading="lazy" decoding="async" width="30" /> | [Explorer's Compass](https://www.curseforge.com/minecraft/mc-mods/explorers-compass "Web Site")  | 07/08/2025 | 66 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fexplorerscompass "Download") |
+| <img src="https://media.forgecdn.net/avatars/392/538/637586809619523367.png" loading="lazy" decoding="async" width="30" /> | [Explorer's Compass](https://www.curseforge.com/minecraft/mc-mods/explorers-compass "Web Site")  | 07/08/2025 | 68 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fexplorerscompass "Download") |
+| <img src="https://media.forgecdn.net/avatars/1182/279/638755759292463884.png" loading="lazy" decoding="async" width="30" /> | [Explorer's Compass Edited](https://www.curseforge.com/minecraft/mc-mods/explorers-compass-edited "Web Site") ![](https://img.shields.io/badge/NEW-red) | 05/11/2025 | 68 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fexplorerscompass "Download") |
 | <img src="https://media.forgecdn.net/avatars/1413/964/638916261075580988.png" loading="lazy" decoding="async" width="30" /> | [Explosion Overhaul: A new level of destruction](https://www.curseforge.com/minecraft/mc-mods/explosion-overhaul-a-new-level-of-destruction "Web Site")  | 11/09/2025 | 119 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fexplosionoverhaul "Download") |
 | <img src="https://media.forgecdn.net/avatars/1219/142/638798088223804758.gif" loading="lazy" decoding="async" width="30" /> | [Exposure](https://www.curseforge.com/minecraft/mc-mods/exposure "Web Site")  | 07/08/2025 | 388 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fexposure "Download") |
 | <img src="https://media.forgecdn.net/avatars/1189/891/638764711077202765.png" loading="lazy" decoding="async" width="30" /> | [Exposure Catalog](https://www.curseforge.com/minecraft/mc-mods/exposure-catalog "Web Site")  | 07/08/2025 | 73 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fexposure_catalog "Download") |

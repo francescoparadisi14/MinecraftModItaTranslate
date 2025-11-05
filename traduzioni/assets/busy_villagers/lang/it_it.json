@@ -1,0 +1,5 @@
+{
+    "block.busy_villagers.example_block": "Blocco di esempio",
+    "item.busy_villagers.example_item": "oggetto di esempio",
+    "itemGroup.busy_villagers": "Riquadro dell'esempio del modulo degli abitanti occupati"
+}

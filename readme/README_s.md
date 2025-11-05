@@ -1,39 +1,3 @@
-<img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
-
-![](https://img.shields.io/badge/Ultimo%20Aggiornamento-01%2F11%2F2025-blue)
-![](https://img.shields.io/badge/Mod%20tradotte-3412-green)
-![](https://img.shields.io/badge/Quest%20tradotte-23-green)
-
-## Progetto che utilizza l’intelligenza artificiale per **tradurre automaticamente in italiano** i contenuti testuali delle mod di Minecraft.
-Supporta file `.json` (come `en_us.json`) e file `.snbt` (come `en_us.snbt`) per FTB Quests.
-Traduzioni basate su modelli AI
-
----
-
-## Obiettivo del progetto
-
-Il nostro scopo è semplificare la localizzazione in italiano delle mod di Minecraft, mantenendo alta la qualità delle traduzioni e riducendo drasticamente il lavoro manuale. Questo permette una più ampia diffusione e fruizione delle mod anche da parte di chi non conosce l’inglese.
-
----
-
-## Tecnologie usate
-
-- [PHP](https://www.php.net/)
-- [Api CurseForge](https://curseforge.com/)
-- [Ollama su Docker](https://hub.docker.com/r/ollama/ollama)
-
----
-
-## Richiedi la traduzione di una mod
-
-Hai una mod specifica che vorresti vedere tradotta in italiano?  
-Compila il modulo qui sotto per inviarci la tua richiesta:
-
-👉 [Modulo richiesta traduzione mod](https://forms.gle/3SsGruLzzU6gDovv8)
-
-> Accettiamo richieste per mod singole o interi modpack!
-
----
 # Lista Mod disponibili
 
 |  |Mod | Ultimo<br/>aggiornamento | Numero<br/>Traduzioni |Download |
@@ -59,6 +23,7 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 | <img src="https://media.forgecdn.net/avatars/332/736/637464363905743019.png" loading="lazy" decoding="async" width="30" /> | [Scarecrows' Territory](https://www.curseforge.com/minecraft/mc-mods/scarecrows-territory "Web Site")  | 27/09/2025 | 20 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fscarecrowsterritory "Download") |
 | <img src="https://media.forgecdn.net/avatars/541/77/637867794468152319.png" loading="lazy" decoding="async" width="30" /> | [scattered weapons](https://www.curseforge.com/minecraft/mc-mods/scattered-weapons "Web Site")  | 29/08/2025 | 95 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fscattered_weapons "Download") |
 | <img src="https://media.forgecdn.net/avatars/132/931/636479159064114593.png" loading="lazy" decoding="async" width="30" /> | [Scavenge](https://www.curseforge.com/minecraft/mc-mods/scavenge "Web Site")  | 08/08/2025 | 107 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fscavenge "Download") |
+| <img src="https://media.forgecdn.net/avatars/1308/620/638850860406188796.png" loading="lazy" decoding="async" width="30" /> | [Schematic Energistics](https://www.curseforge.com/minecraft/mc-mods/schematic-energistics "Web Site") ![](https://img.shields.io/badge/NEW-red) | 05/11/2025 | 29 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fschematicenergistics "Download") |
 | <img src="https://media.forgecdn.net/avatars/1060/603/638592438856504663.png" loading="lazy" decoding="async" width="30" /> | [Scholar](https://www.curseforge.com/minecraft/mc-mods/scholar "Web Site")  | 13/09/2025 | 86 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fscholar "Download") |
 | <img src="https://media.forgecdn.net/avatars/1039/982/638565756146976499.png" loading="lazy" decoding="async" width="30" /> | [~SCORCHED GUNS 2](https://www.curseforge.com/minecraft/mc-mods/scorched-guns "Web Site")  | 16/09/2025 | 1125 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fscguns "Download") |
 | <img src="https://media.forgecdn.net/avatars/956/180/638448649113549957.png" loading="lazy" decoding="async" width="30" /> | [Scorchful](https://www.curseforge.com/minecraft/mc-mods/scorchful "Web Site")  | 08/08/2025 | 143 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fscorchful "Download") |
@@ -295,6 +260,7 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 | <img src="https://media.forgecdn.net/avatars/1156/901/638724796475545514.jpg" loading="lazy" decoding="async" width="30" /> | [Structure Credits](https://www.curseforge.com/minecraft/mc-mods/structure-credits "Web Site")  | 02/09/2025 | 12 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fstructurecredits "Download") |
 | <img src="https://media.forgecdn.net/avatars/549/200/637886005152471553.png" loading="lazy" decoding="async" width="30" /> | [Structure Gel API](https://www.curseforge.com/minecraft/mc-mods/structure-gel-api "Web Site")  | 07/08/2025 | 282 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fstructure_gel "Download") |
 | <img src="https://media.forgecdn.net/avatars/1064/650/638597948705502911.png" loading="lazy" decoding="async" width="30" /> | [Structure Layout Optimizer](https://www.curseforge.com/minecraft/mc-mods/structure-layout-optimizer "Web Site")  | 07/08/2025 | 6 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fstructure_layout_optimizer "Download") |
+| <img src="https://media.forgecdn.net/avatars/1177/187/638749671967804680.png" loading="lazy" decoding="async" width="30" /> | [Structures Tweaker](https://www.curseforge.com/minecraft/mc-mods/structures-tweaker "Web Site") ![](https://img.shields.io/badge/NEW-red) | 05/11/2025 | 6 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fstructures_tweaker "Download") |
 | <img src="https://media.forgecdn.net/avatars/1379/587/638894925771666988.png" loading="lazy" decoding="async" width="30" /> | [Structurify](https://www.curseforge.com/minecraft/mc-mods/structurify "Web Site")  | 07/08/2025 | 67 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fstructurify "Download") |
 | <img src="https://media.forgecdn.net/avatars/162/647/636677942988125938.png" loading="lazy" decoding="async" width="30" /> | [Structurize](https://www.curseforge.com/minecraft/mc-mods/structurize "Web Site")  | 07/08/2025 | 209 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fstructurize "Download") |
 | <img src="https://media.forgecdn.net/avatars/1201/335/638778148479953058.png" loading="lazy" decoding="async" width="30" /> | [Sturdy Farmland - Growth Edition](https://www.curseforge.com/minecraft/mc-mods/sturdy-farmland-growth-edition "Web Site")  | 07/08/2025 | 17 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fdew_drop_farmland_growth "Download") |

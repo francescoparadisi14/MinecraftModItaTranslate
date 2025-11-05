@@ -1,39 +1,3 @@
-<img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
-
-![](https://img.shields.io/badge/Ultimo%20Aggiornamento-01%2F11%2F2025-blue)
-![](https://img.shields.io/badge/Mod%20tradotte-3412-green)
-![](https://img.shields.io/badge/Quest%20tradotte-23-green)
-
-## Progetto che utilizza l’intelligenza artificiale per **tradurre automaticamente in italiano** i contenuti testuali delle mod di Minecraft.
-Supporta file `.json` (come `en_us.json`) e file `.snbt` (come `en_us.snbt`) per FTB Quests.
-Traduzioni basate su modelli AI
-
----
-
-## Obiettivo del progetto
-
-Il nostro scopo è semplificare la localizzazione in italiano delle mod di Minecraft, mantenendo alta la qualità delle traduzioni e riducendo drasticamente il lavoro manuale. Questo permette una più ampia diffusione e fruizione delle mod anche da parte di chi non conosce l’inglese.
-
----
-
-## Tecnologie usate
-
-- [PHP](https://www.php.net/)
-- [Api CurseForge](https://curseforge.com/)
-- [Ollama su Docker](https://hub.docker.com/r/ollama/ollama)
-
----
-
-## Richiedi la traduzione di una mod
-
-Hai una mod specifica che vorresti vedere tradotta in italiano?  
-Compila il modulo qui sotto per inviarci la tua richiesta:
-
-👉 [Modulo richiesta traduzione mod](https://forms.gle/3SsGruLzzU6gDovv8)
-
-> Accettiamo richieste per mod singole o interi modpack!
-
----
 # Lista Mod disponibili
 
 |  |Mod | Ultimo<br/>aggiornamento | Numero<br/>Traduzioni |Download |
@@ -69,6 +33,7 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 | <img src="https://media.forgecdn.net/avatars/288/992/637313713211625416.png" loading="lazy" decoding="async" width="30" /> | [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric "Web Site")  | 25/08/2025 | 12 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fviafabric "Download") |
 | <img src="https://media.forgecdn.net/avatars/932/32/638406203730800557.png" loading="lazy" decoding="async" width="30" /> | [Vic's Point Blank](https://www.curseforge.com/minecraft/mc-mods/vics-point-blank "Web Site")  | 11/09/2025 | 197 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fpointblank "Download") |
 | <img src="https://media.forgecdn.net/avatars/577/611/637941189092760834.png" loading="lazy" decoding="async" width="30" /> | [ViesCraft Machines](https://www.curseforge.com/minecraft/mc-mods/viescraft-airships "Web Site")  | 07/08/2025 | 402 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fviescraftmachines "Download") |
+| <img src="https://media.forgecdn.net/avatars/486/213/637787533660091792.png" loading="lazy" decoding="async" width="30" /> | [VillagerConfig](https://www.curseforge.com/minecraft/mc-mods/villagerconfig "Web Site") ![](https://img.shields.io/badge/NEW-red) | 05/11/2025 | 27 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fvillagerconfig "Download") |
 | <img src="https://media.forgecdn.net/avatars/756/47/638093261425078515.png" loading="lazy" decoding="async" width="30" /> | [VillagersPlus (FABRIC)](https://www.curseforge.com/minecraft/mc-mods/villagersplus-fabric "Web Site")  | 07/08/2025 | 24 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fvillagersplus "Download") |
 | <img src="https://media.forgecdn.net/avatars/765/316/638101086628942097.png" loading="lazy" decoding="async" width="30" /> | [VillagersPlus (FORGE)](https://www.curseforge.com/minecraft/mc-mods/villagersplus-forge "Web Site")  | 05/08/2025 | 24 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fvillagersplus "Download") |
 | <img src="https://media.forgecdn.net/avatars/1334/675/638867609537802480.png" loading="lazy" decoding="async" width="30" /> | [Vintage Vibes](https://www.curseforge.com/minecraft/mc-mods/vintage-vibes "Web Site") ![](https://img.shields.io/badge/NEW-red) | 01/11/2025 | 389 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fvintagevibes "Download") |

@@ -1,0 +1,5 @@
+{
+    "block.busy_villagers.example_block": "Example Block",
+    "item.busy_villagers.example_item": "Example Item",
+    "itemGroup.busy_villagers": "Example Mod Tab"
+}

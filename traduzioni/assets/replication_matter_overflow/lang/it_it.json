@@ -1,0 +1,6 @@
+{
+    "block.replication_matter_overflow.matter_void": "Tanca di sovraccarico di materia",
+    "itemGroup.replication_matter_overflow": "Tanque di overflow di materia di riproduzione",
+    "tooltip.replication_matter_overflow.matter_void.line1": "Raccoglie materia come un serbatoio normale",
+    "tooltip.replication_matter_overflow.matter_void.line2": "Materia vuota quando piena"
+}

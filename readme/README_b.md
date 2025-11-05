@@ -1,39 +1,3 @@
-<img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
-
-![](https://img.shields.io/badge/Ultimo%20Aggiornamento-01%2F11%2F2025-blue)
-![](https://img.shields.io/badge/Mod%20tradotte-3412-green)
-![](https://img.shields.io/badge/Quest%20tradotte-23-green)
-
-## Progetto che utilizza l’intelligenza artificiale per **tradurre automaticamente in italiano** i contenuti testuali delle mod di Minecraft.
-Supporta file `.json` (come `en_us.json`) e file `.snbt` (come `en_us.snbt`) per FTB Quests.
-Traduzioni basate su modelli AI
-
----
-
-## Obiettivo del progetto
-
-Il nostro scopo è semplificare la localizzazione in italiano delle mod di Minecraft, mantenendo alta la qualità delle traduzioni e riducendo drasticamente il lavoro manuale. Questo permette una più ampia diffusione e fruizione delle mod anche da parte di chi non conosce l’inglese.
-
----
-
-## Tecnologie usate
-
-- [PHP](https://www.php.net/)
-- [Api CurseForge](https://curseforge.com/)
-- [Ollama su Docker](https://hub.docker.com/r/ollama/ollama)
-
----
-
-## Richiedi la traduzione di una mod
-
-Hai una mod specifica che vorresti vedere tradotta in italiano?  
-Compila il modulo qui sotto per inviarci la tua richiesta:
-
-👉 [Modulo richiesta traduzione mod](https://forms.gle/3SsGruLzzU6gDovv8)
-
-> Accettiamo richieste per mod singole o interi modpack!
-
----
 # Lista Mod disponibili
 
 |  |Mod | Ultimo<br/>aggiornamento | Numero<br/>Traduzioni |Download |
@@ -216,6 +180,7 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 | <img src="https://media.forgecdn.net/avatars/480/829/637779653432055981.png" loading="lazy" decoding="async" width="30" /> | [Bumblecore](https://www.curseforge.com/minecraft/mc-mods/bumblecore "Web Site")  | 07/09/2025 | 1 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fbumblecore "Download") |
 | <img src="https://media.forgecdn.net/avatars/976/143/638480021893383732.png" loading="lazy" decoding="async" width="30" /> | [Burnt: Better Vanilla Fire](https://www.curseforge.com/minecraft/mc-mods/burnt "Web Site")  | 29/09/2025 | 503 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fburnt "Download") |
 | <img src="https://media.forgecdn.net/avatars/621/217/638011333314615143.png" loading="lazy" decoding="async" width="30" /> | [Bushier Flowers](https://www.curseforge.com/minecraft/mc-mods/bushier-flowers "Web Site") ![](https://img.shields.io/badge/NEW-red) | 01/11/2025 | 29 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fbushierflowers "Download") |
+| <img src="https://media.forgecdn.net/avatars/1476/938/638958735366296678.gif" loading="lazy" decoding="async" width="30" /> | [Busy Villagers](https://www.curseforge.com/minecraft/mc-mods/busy-villagers "Web Site") ![](https://img.shields.io/badge/NEW-red) | 05/11/2025 | 3 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fbusy_villagers "Download") |
 | <img src="https://media.forgecdn.net/avatars/619/754/638007861091914873.png" loading="lazy" decoding="async" width="30" /> | [Butchercraft](https://www.curseforge.com/minecraft/mc-mods/butchercraft "Web Site")  | 17/09/2025 | 319 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fbutchercraft "Download") |
 | <img src="https://media.forgecdn.net/avatars/1149/680/638716979916498132.png" loading="lazy" decoding="async" width="30" /> | [Butchery](https://www.curseforge.com/minecraft/mc-mods/butchery "Web Site")  | 11/09/2025 | 1709 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fbutcher "Download") |
 | <img src="https://media.forgecdn.net/avatars/582/835/637949117785909406.png" loading="lazy" decoding="async" width="30" /> | [Buzzier Bees](https://www.curseforge.com/minecraft/mc-mods/buzzier-bees "Web Site")  | 14/09/2025 | 89 | [Download ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffrancescoparadisi14%2FMinecraftModItaTranslate%2Ftree%2Fmain%2Ftraduzioni%2Fassets%2Fbuzzier_bees "Download") |

@@ -1,0 +1,8 @@
+{
+    "message.structures_tweaker.item_blacklisted": "§cThis item cannot be used in this structure",
+    "message.structures_tweaker.no_creative_flight": "§cCreative flight is not allowed in this structure",
+    "message.structures_tweaker.no_elytra": "§cElytra flight is not allowed in this structure",
+    "message.structures_tweaker.no_ender_teleportation": "§cEnder teleportation is not allowed in this structure",
+    "message.structures_tweaker.no_pearls": "§cEnder Pearls cannot be used in this structure",
+    "message.structures_tweaker.no_riptide": "§cRiptide cannot be used in this structure"
+}

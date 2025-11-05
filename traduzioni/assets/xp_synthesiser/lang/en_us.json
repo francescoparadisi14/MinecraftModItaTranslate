@@ -1,0 +1,17 @@
+{
+    "block.xp_synthesiser.xp_synthesiser": "XP Synthesiser",
+    "item.xp_synthesiser.kill_recorder": "Kill Recorder",
+    "itemGroup.xp_synthesiser": "XP Synthesiser",
+    "xp_synthesiser.configuration.general": "General Settings",
+    "xp_synthesiser.configuration.general.button": "Open",
+    "xp_synthesiser.configuration.general.tooltip": "Settings",
+    "xp_synthesiser.configuration.requiresPower": "XP Synthesiser Requires Power",
+    "xp_synthesiser.configuration.requiresPower.tooltip": "Requires Power",
+    "xp_synthesiser.configuration.section.xp.synthesiser.server.toml": "XP Synthesiser",
+    "xp_synthesiser.configuration.section.xp.synthesiser.server.toml.title": "XP Synthesiser",
+    "xp_synthesiser.configuration.title": "XP Synthesiser",
+    "xp_synthesiser.configuration.xpPointCost": "Power Cost Per XP Point",
+    "xp_synthesiser.configuration.xpPointCost.tooltip": "XP Point Cost",
+    "xp_synthesiser.configuration.xpScalingCost": "Scaling Power Cost Per XP Point",
+    "xp_synthesiser.configuration.xpScalingFactor": "Scaling Power Factor"
+}
