@@ -1,5 +1,5 @@
 {
-	"chapter.08EC6A07A9C7A8F2.title": "Esplorazione",
+    "chapter.08EC6A07A9C7A8F2.title": "Esplorazione",
     "chapter.091DB004D9DE93BA.title": "Magia",
     "chapter.0C812DF8D14584AB.title": "Mekanism",
     "chapter.1769B71219D1B9F7.title": "Tier 1: Fondazione",
@@ -11,12 +11,12 @@
     "chapter.33808F1AE9F1266A.title": "Backstage",
     "chapter.391B65CD04A90459.title": "Potere",
     "chapter.39E1055DAEF9F36E.title": "Tier 3: Solaris",
-    "chapter.3B99F85218D37371.title": "Oggetti utili \& consigli",
+    "chapter.3B99F85218D37371.title": "Oggetti utili & consigli",
     "chapter.3BF272F9FDD1D8F9.title": "Evoluzione draconica",
     "chapter.41A8FE9D26EFA401.title": "Iniziare",
     "chapter.446E3CE6936F2CAE.title": "Tecnologia generale",
     "chapter.4F0F16931654DF58.title": "Tabella dei ricercati",
-    "chapter.5653350BC99D4290.title": "Logistica \& Automazione",
+    "chapter.5653350BC99D4290.title": "Logistica & Automazione",
     "chapter.5BBD28643F4FD3B6.title": "Evoluzione draconica",
     "chapter.65414C40BFA33425.title": "Magazzino",
     "chapter.7ECA39E2497C35D1.title": "Generazione risorse",
@@ -25,7 +25,7 @@
     "chapter_group.337473E1389D8A71.title": "Conoscenze dimenticate",
     "chapter_group.4B65568899D62A0C.title": "Echi della storia",
     "file.0000000000000001.title": "Stoneblock 4",
-	"quest.0065DA4214B7B303.quest_desc": [
+    "quest.0065DA4214B7B303.quest_desc": [
         "Il resto antico può essere trovato all'interno di un dungeon dell'altro mondo.",
         "",
         "Questi sono trovati sparsi per tutta la &dvoid chasm&r ring."
@@ -35,7 +35,7 @@
     "quest.007CD364F96C2912.quest_desc": [
         "Corri il libero raccogliendo gli stivali del libero corsiero, che offrono poca protezione ma aumentano significativamente la tua velocità di movimento e ti impediscono di subire danni da caduta."
     ],
-	"quest.007F4A173D5CA51F.quest_desc": [
+    "quest.007F4A173D5CA51F.quest_desc": [
         "\"Comune\" era probabilmente un'estensione.",
         "",
         "avra bisogno delle anime di mob specifici, e questo significa travestirsi da Re della Morte e brandire un'accetta.",
@@ -46,7 +46,7 @@
         "Pagina dirottamento",
         "I mostri zombi e le mummie dovrebbero avere tutti i fantasmi che hai bisogno per questo artigianato."
     ],
-	"quest.007F4A173D5CA51F.title": "Raccogliendo anime",
+    "quest.007F4A173D5CA51F.title": "Raccogliendo anime",
     "quest.0089BFB911BD5E5B.quest_desc": [
         "Mentre può operare solo all'interno di un raggio (1 blocco per modulo di scala &2r&), la matrice di interdizione non è meno potente per questo.",
         "",
@@ -81,7 +81,7 @@
         "",
         "Da solo, questo ti consente di bruciare oggetti come carbone o legno per generare potenza in base al livello del forno che hai. Puoi accoppiare questo generatore con un'augmentazione &a di esplosione& per consentirti di bruciare metalli come ferro o diamante per ancora più potenza."
     ],
-	"quest.011DBD2652E49B97.quest_desc": [
+    "quest.011DBD2652E49B97.quest_desc": [
         "L'Apotheosi ha un nuovo sistema di tier del mondo che può essere acceso premendo \"Ctrl + T\" di default.",
         "",
         "Inizia nel rifugio dietro l'acquisizione del tuo primo oggetto di affissione e sblocca più livelli man mano che avanzhi nel modulo.",
@@ -206,7 +206,7 @@
         "",
         "È consigliabile automatizzare la produzione di questi elementi il prima possibile!"
     ],
-	"quest.0306C0D774144DAD.quest_desc": [
+    "quest.0306C0D774144DAD.quest_desc": [
         "Questo compasso punta verso la località di un deposito segreto.",
         "",
         "Il compass può essere premuto con il pulsante destro e tenuto premuto con la fune quando si è a almeno 256 blocchi dalla cassaforte per teletrasportarsi immediatamente all'ingresso!"
@@ -312,9 +312,9 @@
     "quest.051AA9C595DC9B02.quest_desc": [
         "Questa missione stabilirà un punto di riferimento per l'archivio del catalizzatore."
     ],
-	"quest.051AA9C595DC9B02.title": "Trovare il catalizzatore",
+    "quest.051AA9C595DC9B02.title": "Trovare il catalizzatore",
     "quest.0533C0C07AE600FD.quest_desc": [
-        "I reformatto il testo per renderlo più leggibile:\n\nEmekanism\nDifissioni reactori\nPrendono carburante fissile e raffreddamento, e li convertono in\nNucleare rifiuti\ne Raffreddamento caldo",
+        "I reformatto il testo per renderlo più leggibile:nnEmekanismnDifissioni reactorinPrendono carburante fissile e raffreddamento, e li convertono innNucleare rifiutine Raffreddamento caldo",
         "",
         "I reazioni di fissione dei reattori non generano potenza da sole. possono produrre vapore che può essere pompato in un turbina.",
         "Pagina dirottamento",
@@ -431,7 +431,7 @@
         "",
         "Il blocco di crafting base è l'unità di crafting quantico (&dquantum crafting unit&r), che è necessario sia per il &6quantum crafter&r che per il &6quantum computer multiblocco&r."
     ],
-	 "quest.06EC32E6140E68C1.title": "Quantum Autocrafting",
+    "quest.06EC32E6140E68C1.title": "Quantum Autocrafting",
     "quest.07062B805D9238C0.quest_desc": [
         "Il dispositivo nucleare del modulo, l'obelisco di esperienza (&aexperience obelisko&r), consente lo stoccaggio e la manipolazione fine dei livelli di esperienza (xp) senza perdite convertendoli internamente in un fluido chiamato &bcognitium&r.",
         "",
@@ -737,7 +737,7 @@
     ],
     "quest.0D159FD643581C18.title": "Rimembranze del passato",
     "quest.0D38D67E3FD120CB.quest_desc": [
-        "Una descrizione di quest che dice: \"\"\nArmi caotiche sono gli ultimi miglioramenti per le armi \"\", con lo spazio più grande per i moduli di upgrade e la massima personalizzabilità.",
+        "Una descrizione di quest che dice: \"\"nArmi caotiche sono gli ultimi miglioramenti per le armi \"\", con lo spazio più grande per i moduli di upgrade e la massima personalizzabilità.",
         "",
         "Puoi anche migliorare nella &zChaos Staff of Power&r, uno strumento e un'arma tuttofare.",
         "",
@@ -938,7 +938,7 @@
     ],
     "quest.1111B3ACEDDF5633.title": "Buie nere",
     "quest.11A35E8F97ACA240.quest_desc": [
-        "Istruzioni del quesito:\n\"draconic\" strumenti sono versioni aggiornate di \"wyvern\" strumenti, con spazio per più moduli di upgrade e maggiore personalizzabilità.",
+        "Istruzioni del quesito:n\"draconic\" strumenti sono versioni aggiornate di \"wyvern\" strumenti, con spazio per più moduli di upgrade e maggiore personalizzabilità.",
         "",
         "Puoi anche creare lo stafetta draconico di potere, uno strumento e un'arma tuttofare.",
         "",
@@ -1208,7 +1208,7 @@
     "quest.16F7490FA5DE307C.quest_subtitle": "Sottotitolo della quest: Industrial Foregoing",
     "quest.16F7490FA5DE307C.title": "Mob distruttore",
     "quest.1770A460E1FD7CC8.quest_desc": [
-        "La descrizione della quest è la seguente:\n\n\" particle accelerators\ncan be built in various ways, depending on their goals. A straight line of linear motors can shoot particles at something, but higher speeds are more efficiently reached with a circular design. Very large rings might be needed to reach certain elements. Slow particles require guide rings to be close together, so starting in a small ring and then using redstone to move to a larger ring often makes sense.\"",
+        "La descrizione della quest è la seguente:nn\" particle acceleratorsncan be built in various ways, depending on their goals. A straight line of linear motors can shoot particles at something, but higher speeds are more efficiently reached with a circular design. Very large rings might be needed to reach certain elements. Slow particles require guide rings to be close together, so starting in a small ring and then using redstone to move to a larger ring often makes sense.\"",
         "",
         "Potrebbero essere necessarie diverse fasi di anello per alcuni casi."
     ],
@@ -2538,7 +2538,7 @@
     "quest.364B2143B874582D.quest_desc": [
         ""
     ],
-	"quest.364B2143B874582D.title": "Rivelare l'ingegnere del mondo",
+    "quest.364B2143B874582D.title": "Rivelare l'ingegnere del mondo",
     "quest.36BA7AADD98E9868.quest_subtitle": "Prezzo in diamanti e oro",
     "quest.36CB035F6484A70F.quest_desc": [
         ""
@@ -3070,15 +3070,15 @@
         "",
         "Il danno può essere ridotto collocando scaffalature dei libri intorno al disenchantatore, simile ad un setup di incantesimo regolare."
     ],
-	"quest.3FE99AE10B0737BB.quest_desc": [
+    "quest.3FE99AE10B0737BB.quest_desc": [
         "Il deposito di base archivia una grande quantità di un tipo di oggetto singolo. Inoltre, può generare pietra con l'upgrade del generatore di pietra installato.",
         "",
         "Il serbatoio di fluido base (&#5efcb6) può contenere 32 secchie di un solo tipo di fluido, ma funziona anche come secchia.",
         "",
         "Mentre tenete questo oggetto nella mano e vi muovete furtivamente, potrete cambiare il modulo in &aImpugnatura& facendo ruotare la ruota del mouse. Ciò consentirà di raccogliere più di un secchio di fluidi come acqua o lava."
     ],
-	"quest.3FE99AE10B0737BB.title": "Opzioni di archiviazione Mekanism (⚗️)",
-	"quest.400EF0F598308431.quest_desc": [
+    "quest.3FE99AE10B0737BB.title": "Opzioni di archiviazione Mekanism (⚗️)",
+    "quest.400EF0F598308431.quest_desc": [
         "Ora che abbiamo il latex, possiamo creare l'unità di elaborazione del latex.",
         "",
         "Quando attivato, questo macchinario assorbe il latice liquido e lo converte in gomma secca, che può essere fusa per ottenere la plastica.",
@@ -3754,7 +3754,7 @@
         "",
         "Aggiungere l'orbite di miglioramento all'equipaggiamento utilizzando l'anfora arcana. Fino a 3 orbite possono essere applicate per pezzo d'equipaggiamento."
     ],
-	"quest.4D55D9FBE06DAA46.title": "Orbetti di upgrade",
+    "quest.4D55D9FBE06DAA46.title": "Orbetti di upgrade",
     "quest.4D64F277A4330749.quest_desc": [
         "Il libro esteso dell'incantesimo di raggio (&6b.e.e.r.) ti consente di modificare la distanza che le tavole incantatorie possono scansionare per i scaffali dei libri!",
         "",
@@ -3816,7 +3816,7 @@
         "",
         "L'energia può essere inserita attraverso i tre connettori posteriori."
     ],
-	"quest.4DABDC2484C732AC.title": "Fornace oscura",
+    "quest.4DABDC2484C732AC.title": "Fornace oscura",
     "quest.4DBD57AF035CAA6B.title": "Gioca per 100 ore",
     "quest.4DE483256F9E1D4F.quest_desc": [
         "Il sigillo di ritiro &r rimuoverà tutti i gemme inserite &r in un oggetto senza danneggiare l'oggetto.",
@@ -3951,12 +3951,12 @@
         "Lasciare creare alcuni dei conduttori termo-dinamici ultimi &dquesti dovrebbero fare il trucco."
     ],
     "quest.50B7A38F7E66139C.title": "Trasferendo calore",
-	 "quest.50B7CA94F8BB6F58.quest_desc": [
+    "quest.50B7CA94F8BB6F58.quest_desc": [
         "Il centrifuga è una macchina semplice che separa e trasforma specifici oggetti, la maggior parte dei quali sono filamenti di fibra di carbonio.",
         "",
         "Questo macchinario può essere aggiornato per separare fluidi con l'aggiunta del \"macchinario fluido\" per creare oggetti come il \"plastica\", o può essere utilizzato per automatizzare la lavorazione delle miniere quando si utilizzerà un \"forno di frammenti\" più avanti."
     ],
-	"quest.50B7CA94F8BB6F58.title": "Spinare per vincere",
+    "quest.50B7CA94F8BB6F58.title": "Spinare per vincere",
     "quest.50BB7069AC5A1A14.quest_desc": [
         "Puoi trovare &ztyros&r nel &ccitadel&r che si genera nei &dvoid chasms&r.",
         "",
@@ -4040,7 +4040,7 @@
         "Imparare di più sugli oggetti da utilizzare, controlla le ricette nel JEI per un generatore."
     ],
     "quest.52ADC3D46CCB2659.title": "Spawners dell'apoteosi",
-	  "quest.52B46D49B5C4A7F2.quest_desc": [
+    "quest.52B46D49B5C4A7F2.quest_desc": [
         "Il generatore in fiamme può bruciare l'etene per produrre potenza ad un tasso molto alto! Si può aspettare che ogni generatore pieno produca circa 8k RF\/t."
     ],
     "quest.53060D307C063C25.quest_desc": [
@@ -4061,14 +4061,14 @@
         "Il blocco di trasporto entità è un blocco del pavimento che spinge i mostri nella direzione dell'arco. Il giocatore può nascondersi sopra per annullare l'effetto."
     ],
     "quest.537DE7A354AF8E9E.title": "Spostamento mostri",
-	"quest.5388B67410670702.quest_desc": [
-		"[\"\", {\"text\": \"Draconic\", \"color\": \"gold\"}, \" weapons are upgraded versions of \", {\"text\": \"Wyvern\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2C141655079AC173\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Wyvern Weapons Quest\"}}, \" weapons, with room for more \", {\"text\": \"Upgrade Modules\", \"color\": \"green\"}, \" and better customizability.\"]"
-		""
-		"You can also craft the &6Draconic Staff of Power&r, an All-In-One tool and weapon."
-		""
-		"Their module inventory can be accessed via the keybind &eTool Modules&r, which isn't bound by default."
-	],
-	"quest.5388B67410670702.title": "Armi draconiche",
+    "quest.5388B67410670702.quest_desc": [
+        "[\"\", {\"text\": \"Draconic\", \"color\": \"gold\"}, \" weapons are upgraded versions of \", {\"text\": \"Wyvern\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2C141655079AC173\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Wyvern Weapons Quest\"}}, \" weapons, with room for more \", {\"text\": \"Upgrade Modules\", \"color\": \"green\"}, \" and better customizability.\"]",
+        "",
+        "You can also craft the &6Draconic Staff of Power&r, an All-In-One tool and weapon.",
+        "",
+        "Their module inventory can be accessed via the keybind &eTool Modules&r, which isn't bound by default."
+    ],
+    "quest.5388B67410670702.title": "Armi draconiche",
     "quest.53C947D1E96420A1.quest_desc": [
         "Usando un riconstruttore atomico, puoi installare un obiettivo del minatore per convertire certi blocchi di pietra in minerali con l'energia.",
         "",
@@ -4311,7 +4311,7 @@
         "",
         "Ignora il limite del dispositivo e lo imposta al massimo."
     ],
-	"quest.583FFE29C881EE8C.title": "Impostazione reti",
+    "quest.583FFE29C881EE8C.title": "Impostazione reti",
     "quest.584B4C34CBF0E028.quest_desc": [
         "Mentre la camera di imbuiamento può lentamente assorbire l'essenza magica dal mondo, non può creare il \"fonte\" che hai bisogno per aggiornare il motore del mondo.",
         "",
@@ -4557,7 +4557,7 @@
     "quest.5E1FFB29D89798F5.title": "Dashboard QIO portatile",
     "quest.5E2764E8DB1B789B.title": "Rincontro del manipolatore di luce",
     "quest.5E2F4A6147694D5C.quest_desc": [
-        "Una descrizione di quête che dice: \"\"\n\"Strumenti caotici sono gli ultimi miglioramenti per \"\n\"Strumenti draconici, con lo spazio più grande per \"\n\"Modi di upgrade personalizzabili e massime.\"",
+        "Una descrizione di quête che dice: \"\"n\"Strumenti caotici sono gli ultimi miglioramenti per \"n\"Strumenti draconici, con lo spazio più grande per \"n\"Modi di upgrade personalizzabili e massime.\"",
         "",
         "Puoi anche migliorare nella &zChaos Staff of Power&r, uno strumento e un'arma tuttofare.",
         "",
@@ -4842,7 +4842,7 @@
     "quest.64123F6FE4DEB4EF.quest_desc": [
         "Ricompensando questa missione, si stabilirà un punto di riferimento all'entrata dell'archivio dei Dechi."
     ],
-	"quest.64123F6FE4DEB4EF.title": "Trovare il piegatore di luce",
+    "quest.64123F6FE4DEB4EF.title": "Trovare il piegatore di luce",
     "quest.6461D19F839957B6.quest_desc": [
         "Il calore proveniente dalle ghette d'ignizio &c darà ai spiriti infusi negli ingoti di acciaio soulstained &b il senso di casa...",
         "",
@@ -5160,7 +5160,7 @@
         "",
         "Suggerimento: puoi posizionare il riscaldatore direttamente sulla valvola, quindi non ci sono bisogno di tubi!"
     ],
-	"quest.6C4441CC63BC7603.title": "Tornei di evaporazione termica",
+    "quest.6C4441CC63BC7603.title": "Tornei di evaporazione termica",
     "quest.6C4783132CC50BF0.quest_desc": [
         "Il safe di Schrödinger è un impianto di stoccaggio di energia a blocchi multipli che può memorizzare miliardi di RF quando configurato correttamente.",
         "",
@@ -5291,7 +5291,7 @@
     ],
     "quest.705E4FFB4FCADFD1.title": "Creare materia",
     "quest.706E469302F9F383.title": "Fonte",
-	"quest.70753CD7045AE9E1.quest_desc": [
+    "quest.70753CD7045AE9E1.quest_desc": [
         "&E6 80 6D 61 6c 69 67 6e 74 20 70 65 77 74 65 72 72 26 72 20 69 73 20 61 20 6d 61 74 65 72 69 61 6c 20 6d 61 64 65 20 6f 66 20 6d 61 67 69 63 20 74 68 61 74 20 69 73 20 69 6e 68 65 72 65 6e 74 20 63 6f 75 6e 74 65 72 20 74 6f 20 74 68 65 20 77 6f 72 6c 64 20 6f 66 20 6d 61 67 69 63 20 61 6e 64 20 63 72 65 61 74 69 6f 6e 2e",
         "Le armi e l'armatura fatte con questo materiale sembrano cercare di annullare, di porre fine, se non addirittura distruggere.",
         "",
@@ -5487,7 +5487,7 @@
         "Porcini",
         "Sheep"
     ],
-	"quest.726B56E54CAC971B.title": "Componenti del pentacolo",
+    "quest.726B56E54CAC971B.title": "Componenti del pentacolo",
     "quest.727070B13B966DE1.quest_desc": [
         "Inviando i blocchi richiesti per l'&3upgrade&f e reclamando i suoi premi, si assemblerà automaticamente il motore del mondo della tua squadra.",
         "",
@@ -5553,7 +5553,7 @@
         "",
         "Funziona come picco, ascia e vanga contemporaneamente."
     ],
-	"quest.744120E37CD03AE0.title": "Disassemblatore atomico",
+    "quest.744120E37CD03AE0.title": "Disassemblatore atomico",
     "quest.749634B68269401A.quest_desc": [
         "Progetto ProjectE ha diverse armi molto forti che possono essere create una volta che hai in mano abbastanza EMC e un modello di lavorazione netherite.",
         "",
@@ -5622,7 +5622,7 @@
         "",
         "Sembriamo di utilizzare la struttura del macchinario API per entrare nella creazione di plastica successiva!"
     ],
-	"quest.75D124AF83D637A8.title": "Industrial Foregoing",
+    "quest.75D124AF83D637A8.title": "Industrial Foregoing",
     "quest.75D3AC9CCA5A82E4.quest_desc": [
         "I meccanici creatori sono enormi tavole da lavoro che possono essere automatizzate in diversi modi.",
         "",
@@ -5713,33 +5713,33 @@
         "Armi uniche &6anche possono essere trovate raramente durante le tue esplorazioni, sebbene alcune possano anche essere forgiate."
     ],
     "quest.777F76601D213DF2.title": "Semplicemente spade",
-	"quest.778A876616D4638E.quest_desc": [
-		"When a redstone signal is applied to a non-straight &aGuide Ring&r, it becomes a switch block. When powered on, it leads particles straight; when powered off, it guides them into the original curved direction. A particle can also enter from the 'other' direction, visualized by the smaller red glass tube, following the path of the white tube, and entering from both the red and white tubes."
-		""
-		"At higher speeds, the particle can't take tight turns. If the last full 90-degree turn is too close, it exits the guided path and shoots out into the world. If the distance between &aGuide Rings&r is too big, or no next &aGuide Ring&r is found, it will also shoot out."
-		""
-		"{@pagebreak}"
-		"A particle's speed can be measured with a &aParticle Accelerator Sensor&r. A comparator can then provide a redstone signal based on the particle's speed."
-		""
-		"The following shows the required speed for each redstone level:"
-		""
-		"&71.&r  0"
-		"&72.&r  10"
-		"&73.&r  50"
-		"&74.&r  75"
-		"&75.&r  100"
-		"&76.&r  150"
-		"&77.&r  250"
-		"&78.&r  500"
-		"&79.&r  750"
-		"&710.&r 1000"
-		"&711.&r 2500"
-		"&712.&r 5000"
-		"&713.&r 7500"
-		"&714.&r 10000"
-		"&715.&r 15000"
-	],
-	"quest.7791DA964DA2A80D.quest_desc": [
+    "quest.778A876616D4638E.quest_desc": [
+        "When a redstone signal is applied to a non-straight &aGuide Ring&r, it becomes a switch block. When powered on, it leads particles straight; when powered off, it guides them into the original curved direction. A particle can also enter from the 'other' direction, visualized by the smaller red glass tube, following the path of the white tube, and entering from both the red and white tubes.",
+        "",
+        "At higher speeds, the particle can't take tight turns. If the last full 90-degree turn is too close, it exits the guided path and shoots out into the world. If the distance between &aGuide Rings&r is too big, or no next &aGuide Ring&r is found, it will also shoot out.",
+        "",
+        "{@pagebreak}",
+        "A particle's speed can be measured with a &aParticle Accelerator Sensor&r. A comparator can then provide a redstone signal based on the particle's speed.",
+        "",
+        "The following shows the required speed for each redstone level:",
+        "",
+        "&71.&r  0",
+        "&72.&r  10",
+        "&73.&r  50",
+        "&74.&r  75",
+        "&75.&r  100",
+        "&76.&r  150",
+        "&77.&r  250",
+        "&78.&r  500",
+        "&79.&r  750",
+        "&710.&r 1000",
+        "&711.&r 2500",
+        "&712.&r 5000",
+        "&713.&r 7500",
+        "&714.&r 10000",
+        "&715.&r 15000"
+    ],
+    "quest.7791DA964DA2A80D.quest_desc": [
         "Quando i particolari di diversi oggetti si urtano, possono creare nuovi oggetti. Il particolare inizia dal blocco dell'acceleratore delle particelle, dove puoi inserire qualsiasi oggetto da utilizzare come particella. È necessario collocare un anello guida rettilineo dietro il controllore, affacciato sul lato, con le visuali che si allineano correttamente.",
         "Pagina dirottamento",
         "Una volta inserita, la particella viaggia lungo un percorso definito dalle anelli di guida. possono essere cliccati con il pulsante destro per aggiungere una svolta di 45 gradi su uno dei lati. è necessario che ci sia un altro anello di guida nella traiettoria della particella, come definita dagli anelli di guida. Dipende dalla velocità, aumenta la distanza consentita tra gli anelli di guida.",
@@ -5752,7 +5752,7 @@
         ""
     ],
     "quest.77ABD20EB652F302.title": "Rilascio di animali da fattoria",
-	"quest.77F8CCE971B9B186.quest_desc": [
+    "quest.77F8CCE971B9B186.quest_desc": [
         "Il sistema di archiviazione dell'occultismo ti consente di memorizzare i tuoi oggetti in una dimensione separata del mondo degli altri.",
         "",
         "L'attuatore di archiviazione di base è la prima delle due parti necessarie per accedere alla tua dimensione di archiviazione.",
@@ -5773,7 +5773,7 @@
         "",
         "Premere shift + destro il pulsante destro su un attuatore di archiviazione adimensionale con un accessoraggio di archiviazione per collegarli e permettere l'accesso ai propri oggetti da qualsiasi luogo nel mondo, anche attraverso le dimensioni."
     ],
-	"quest.77F8CCE971B9B186.title": "Magazzino della setta",
+    "quest.77F8CCE971B9B186.title": "Magazzino della setta",
     "quest.77FC846DC0EF4ED2.quest_desc": [
         "Casa | questo comando viene sbloccato durante la missione principale nel gioco iniziale e apre un portale per portarti indietro alla tua base.",
         "",
@@ -6041,7 +6041,7 @@
         "",
         "Nota che richiede etene liquido, il che significa che dovrai creare un condensatore rotatorio per convertire il gas in liquido prima. Hai già pompato il gas dentro? Usa un dispensatore di gauge per rimuoverlo!"
     ],
-	"quest.7CA687749E953A19.quest_desc": [
+    "quest.7CA687749E953A19.quest_desc": [
         "► per il progresso di psi in particolare vogliamo un semplice trucco: l'infusione per ottenere accesso a un materiale migliore per i nostri cadi, psimetal!",
         "",
         "Clicca con il pulsante destro sul qualsiasi punto di questo rettangolo, quindi digita -> \"trick: infusion\" e clicca su di esso per collocarlo nel rettangolo.",
@@ -6054,7 +6054,7 @@
         "",
         "• &8&o● e non preoccuparti, nessuno nasce con conoscenza infinita, assicurati di iniziare piccole poi aumentare la complessità dei tuoi incantesimi nel tempo mentre impari più sul modulo &=)r&"
     ],
-	"quest.7CA687749E953A19.quest_subtitle": "Questo è un po' difficile",
+    "quest.7CA687749E953A19.quest_subtitle": "Questo è un po' difficile",
     "quest.7CA687749E953A19.title": "Il tuo primo incantesimo",
     "quest.7D1FB9A40B5CAE97.quest_desc": [
         "Controlla: ottenere token lavoratore",
@@ -7005,5 +7005,46 @@
     "task.7F73108709C402C8.title": "Generatori di gioco tardivo",
     "task.7F7FC9A4E8AADA7F.title": "Scambio con il villaggio",
     "task.7FAA87B19ACACCBC.title": "Qualsiasi inchiostro",
-    "task.7FF2F415F5685DBA.title": "Rimuovi creare eco sblocca"
+    "task.7FF2F415F5685DBA.title": "Rimuovi creare eco sblocca",
+    "quest.10DEA5CE1800F935.quest_desc": [
+        "Alcuni volte le cose vanno storte e poiché Minecraft non ha un pulsante \"Annulla\", abbiamo aggiunto uno per te.",
+        "",
+        "Se accidentalmente rompi il tuo blocco di motore del mondo, cliccando questo pulsante sostituirete il blocco per voi.",
+        "",
+        "Tenete presente che questo cancellerà qualsiasi impostazione o oggetto esistente all'interno dell'\\&6motore del mondo\\&r."
+    ],
+    "quest.1666835CA3297C7D.quest_desc": [
+        "Ci sono 2 rotoli speciali \\&aartigiani\\&r che ti insegneranno a creare gioielli \\&6di dualità\\&r.",
+        "",
+        "Questo gioiello prende sia gli attributi dal \\&metal\\& che dal \\&gem\\&, e ha una qualità generale più alta.",
+        "",
+        "Nota: entrambe queste ricette richiedono l'upgrade del motore del mondo per la decantazione."
+    ],
+    "quest.1666835CA3297C7D.title": "Dualità (gioielli)",
+    "quest.34A2BA2C754CE27A.quest_desc": [
+        "Il raccoglitore di nidi e il nutrimento per i nidi possono consegnare semi e ritirare oggetti da qualsiasi nido vicino fino a 30 blocchi di distanza. Questo range può essere configurato all'interno dell'interfaccia cliccando sui pulsanti \"+\" e \"-\".",
+        "",
+        "Il \\&2roost feeder\\&r consente di filtrare quali semi possono essere alimentati a quali nidi trascinando un oggetto di seme dalla tua inventario o JEI nel riquadro di filtro laterale di ogni nido all'interno dell'interfaccia del \\&2feeder's\\&r.",
+        "",
+        "Perché entrambi i blocchi funzionino, devi selezionare anche un nido per raccogliere risorse da cliccando sul `[ ]` sulla sinistra per mostrare `[x]`.",
+        "",
+        "Rinominare i tuoi \\&2nidi\\&r visualizzerà il loro nome in queste interfacce."
+    ],
+    "quest.34A2BA2C754CE27A.title": "Polli wireless",
+    "quest.4D17FE7D41FEEC95.title": "Tutto un po' di caos",
+    "quest.60B8D5DAA4BA7DC4.quest_desc": [
+        "Riproduzione di materia: l'eccezione di materia consente di creare serbatoi di overflow che elimineranno automaticamente la materia eccedente del tipo imposto.",
+        "",
+        "Devi creare uno per ogni tipo di materia e bloccarli, in modo che la materia in eccesso sempre abbia un luogo dove andare e non si riversi in altri serbatoi della tua rete."
+    ],
+    "quest.60B8D5DAA4BA7DC4.title": "Troppo materiale",
+    "quest.77DE3D57E5B58948.quest_desc": [
+        "Questa volta non ci sono bussarde!",
+        "",
+        "Uscire verso l'anello dell'oceano e utilizzare il tuo compasso esploratore per trovare l'arena del globo acquatico dove potrai evocare la Leviatana!"
+    ],
+    "quest.77DE3D57E5B58948.title": "Trovare il mostro Leviatano",
+    "reward.32A31D445DC7FF87.title": "Oceani di frammenti",
+    "task.5123D0CFBA53F360.title": "Aggiunti metalli",
+    "task.78F8128005EE1240.title": "Aggiunti gemme"
 }

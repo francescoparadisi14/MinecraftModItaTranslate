@@ -456,7 +456,9 @@
         "",
         "While chickens are in a &2Roost&r, they will need seeds matching their tier to produce resources. These tiered seeds are crafted using &bSouls&r.",
         "",
-        "The higher the Chicken's level, the more resources that are produced per seed."
+        "The higher the Chicken's level, the more resources that are produced per seed.",
+        "",
+        "&eNote&f: You can rename your &2Roosts&r to keep things more organized, especially when using the &aRoost Collector&r."
     ],
     "quest.081EA35CCBDF793F.title": "Roost Ultimate",
     "quest.08204AA5ACCC914E.quest_desc": [
@@ -929,6 +931,13 @@
         "&bMithril&r is a legendary metal not obtainable through usual methods in the void, or at least what passes for usual. Perhaps some magical source could provide it, some sort of gate..."
     ],
     "quest.107C26E8BF309BC1.title": "&fArcane Discoveries",
+    "quest.10DEA5CE1800F935.quest_desc": [
+        "&7&oSometimes things go wrong, and since Minecraft has no \"Undo\" button. We've added one for you.",
+        "",
+        "If you accidentally break your &6World Engine&r machine block, clicking this button will replace it for you.",
+        "",
+        "Keep in mind that this will wipe any of your existing settings and items inside the &6World Engine&r."
+    ],
     "quest.1111B3ACEDDF5633.quest_desc": [
         "If you let &cRed Matter&r collide into &zAntimatter&r, you might destroy your world.",
         "",
@@ -1172,6 +1181,14 @@
         "These can be stored in a &aWallet&r to keep your inventory clean."
     ],
     "quest.165A1B6F56051FA6.title": "The &6Tempad&r Mod",
+    "quest.1666835CA3297C7D.quest_desc": [
+        "There are 2 special &aArtisan Scrolls&r that will teach you how to craft &6Duality&r jewelry.",
+        "",
+        "This jewelry takes both the attributes from the &eMetal&r and the &dGem&r, and has a higher quality overall.",
+        "",
+        "&eNote&r: Both of these recipes need the &dEnchanting&r &6World Engine Upgrade&r."
+    ],
+    "quest.1666835CA3297C7D.title": "&6Duality&r &aJewelry&r",
     "quest.166BA0D04A1686C7.quest_desc": [
         "&3Fortron&r can be extracted from the buffer of a &aCoercion Deriver&r or any other &bFortron-based machines&r.",
         "",
@@ -1844,7 +1861,9 @@
     "quest.26D7C5298D95C69A.quest_desc": [
         "When crafting &bJewelry&r, &aBanding Materials&r can be used by themselves to grant effects and\/or stat increases.",
         "",
-        "Their main use, however, is to multiply &aGem&r effects with their quality multiplier."
+        "Their main use, however, is to multiply &aGem&r effects with their quality multiplier.",
+        "",
+        "While most vanilla gems will work, you can also search for &ajewelry_metal&r in JEI for a list."
     ],
     "quest.26D7C5298D95C69A.title": "&aBanding Materials",
     "quest.26F18323EB6EFCA0.quest_desc": [
@@ -2181,9 +2200,11 @@
     ],
     "quest.2F15D918EF183051.title": "Welcome To &6Stoneblock 4&r!",
     "quest.2F2DC018DD6A2A23.quest_desc": [
-        "&aGems&r are the part of most &bJewelry&r that grants effects.",
+        "&aGems&r are the part of most &bJewelry&r that grants effects or attributes.",
         "",
-        "Different pieces of &bJewelry&r are affected by &aGems&r in different ways, so be sure to check each piece carefully before crafting."
+        "Different pieces of &bJewelry&r are affected by &aGems&r in different ways, so be sure to check each piece carefully before crafting.",
+        "",
+        "While most vanilla gems will work, you can also search for &ajewelry_gem&r in JEI for a list."
     ],
     "quest.2F2DC018DD6A2A23.title": "&aGems",
     "quest.2F8BB4724991B7C4.quest_desc": [
@@ -2468,6 +2489,16 @@
         "&bSponge Modules&r affect the &lentire&r space enclosed by a mode's field, evaporating all fluids present within."
     ],
     "quest.3435641A78B90D97.title": "&fAffecting the Area",
+    "quest.34A2BA2C754CE27A.quest_desc": [
+        "The &2Roost Feeder&r and &aRoost Collector&r can deliver seeds and pick up items from any nearby Roost up to 30 blocks away. This range can be configured inside the interface by clicking the '+' and '-' buttons.",
+        "",
+        "The &2Roost Feeder&r allows you to filter which seeds can be fed to which roost by draggin a seed item from your inventory or JEI to the right-side filter slot of each roost within the &2Feeder's&r interface.",
+        "",
+        "For either block to function, you must also select a Roost to collect resources from by clicking the `[ ]` on the left to show `[x]`.",
+        "",
+        "&eNote&f: Renaming your &2Roosts&r will display their name on these interfaces."
+    ],
+    "quest.34A2BA2C754CE27A.title": "Wireless Chickens",
     "quest.34C8824842867F5D.quest_desc": [
         "The &zMighty Ender Chicken&r has a home on both the North and South parts of the map, specifically in &eEnd&r ring. Rumor has it, the chicken has an impenetrable shield. Perhaps a &bChicken Stick&r might help with that..."
     ],
@@ -2568,7 +2599,7 @@
         "",
         "The &cResistive Heater&r, however, specializes in converting power directly into heat. It allows for fine-tuning how much power is converted, and generates significantly more heat.",
         "",
-        "&eNote&r: 2k RF\/t is ideal for hitting around 350°C."
+        "&eNote&r: 2k FE\/t is ideal for hitting around 350°C."
     ],
     "quest.370B05FC62884456.quest_subtitle": "Minor World Engine Upgrade",
     "quest.370B05FC62884456.title": "&fHeating Things Up",
@@ -2652,16 +2683,6 @@
     ],
     "quest.38869642A2E6F8B6.quest_subtitle": "They Can Do Anything",
     "quest.38869642A2E6F8B6.title": "Modular Routers",
-    "quest.38D2CAF4BD36DED8.quest_desc": [
-        "Using the &6Chaos Fragments&r, you will eventually be able to upgrade to 12 &6Chaotic Infusion Injectors&r.",
-        "",
-        "This will allow you to make the best method for creating &6Awakened Draconium&r, which is...",
-        "",
-        "A Chicken.",
-        "",
-        "P.S. - Alfred Approves"
-    ],
-    "quest.38D2CAF4BD36DED8.title": "Embracing The &zChaos&r",
     "quest.38E2176886386133.quest_desc": [
         "The &aAlloy Kiln&r is an early-game multiblock used to make alloys like: constantan, invar, electrum, and bronze.",
         "",
@@ -3387,11 +3408,15 @@
     ],
     "quest.45B2C8BD2ACBA46D.title": "Designing The Reactor",
     "quest.45BA73F16B7AE681.quest_desc": [
-        "Found within lower deepslate, the &3Ancient City&r holds a giant portal that can finally be activated.",
+        "Found within lower deepslate, the &3Ancient City&r holds a giant portal that can finally be activated, allowing you to defeat the boss within.",
         "",
-        "Once activated, enter the &3Vault&r and defeat the boss.",
+        "Upon entering the portal you will receive a blindness effect that can only be cured by filling your &dSoul Cage&r with mob souls dropped from killing strengthened enemies inside the &3Vault&r.",
         "",
-        "&eNote&r: You will need to fill your &dSoul Cage&r by killing mobs. This will cure your blindness, then locate the elevator in the starting room. You will need a full &dSoul Cage&r to activate the boss."
+        "&cYou must hold the &dSoul Cage &cin your offhand to charge it!",
+        "",
+        "Once you have filled your &dSoul Cage&r, you may start the boss fight by taking the elevator in the starting room.",
+        "",
+        "&eNote&r: Killing mobs with the &6Reaper&r enchantment will fill your Cage quicker (+1 per Level)"
     ],
     "quest.45BA73F16B7AE681.title": "&3An Ancient Portal",
     "quest.45CB3F325010A5AD.quest_desc": [
@@ -3542,7 +3567,7 @@
         "",
         "To learn more advanced &bJewelry&r, you will need to find their blueprints by trading with villagers, or making a purchase from the &6Shop&r.",
         "",
-        "Most &bJewelry&r consists of a &aBand Material&r and a &aGem&r."
+        "Most &bJewelry&r consists of a &aBand Metal&r and a &aGem&r."
     ],
     "quest.496903AB7E8A0A92.title": "&eIron's Gems \\&\\ Jewelry&f!",
     "quest.49835EC10C5AE8D8.quest_desc": [
@@ -3737,6 +3762,7 @@
         "",
         "Once installed into a &aReplicator&r, you can configure its speed. The fastest it can go is 20%, but increases the chance for the replication to fail."
     ],
+    "quest.4D17FE7D41FEEC95.title": "&zA Whole Lotta Chaos",
     "quest.4D1EBD92C674531E.quest_desc": [
         "Applying five arcane spirits at the totem pole and activating it will invoke &bThe Unchained Rite&r.",
         "",
@@ -3786,7 +3812,15 @@
         "",
         "Start by setting up a &aStasis Chamber&r setup for the boss. This might be worth doing somewhere like a &dCompact Machine&r.",
         "",
-        "The goal will be to teleport the &zMighty Ender Chicken&r onto a &aStasis Chamber&r so that you can use a &6Fluid Laser Drill&r to milk it."
+        "The goal will be to teleport the &zMighty Ender Chicken&r onto a &aStasis Chamber&r so that you can use a &6Fluid Laser Drill&r to milk it.",
+        "",
+        "&eNote&r: The chicken will teleport back if it is in the same dimension. You should set this up in a &aCompact Machine&r!",
+        "{@pagebreak}",
+        "The &aLaser Base&r needs to be placed depending on the size of the chicken that you warp over.",
+        "",
+        "The goal should be to place the Base directly above the chicken's head, which if tiny, will be one block above it.",
+        "",
+        "To achieve a tiny chicken, as soon as you summon it, place in the &dDislocator&r to immediately open the portal."
     ],
     "quest.4D7C7DE95E56C7B3.title": "Bringing Home The Chicken",
     "quest.4DABDC2484C732AC.quest_desc": [
@@ -4657,6 +4691,12 @@
         "Finally, attach a &bSoul Pipe&r to the &aInterface&r and it will use its &3Warden Souls&r to power &bSoul Surges&r."
     ],
     "quest.609DF15D870AE2C0.title": "&eSoulplied Energistics",
+    "quest.60B8D5DAA4BA7DC4.quest_desc": [
+        "&eReplication: Matter Overflow&f allows you to craft &aOverflow Tanks&r that will automatically void excess matter of its set type.",
+        "",
+        "You should make one for each matter type and lock them so that excess matter always has somewhere to go and won't overflow into other tanks in your network."
+    ],
+    "quest.60B8D5DAA4BA7DC4.title": "Too Much Matter",
     "quest.60BBE214131DF6EB.quest_desc": [
         "Once you have a Data Model for a mob, you'll need to level it up to at least the &aBasic&r tier by killing that type of mob.",
         "",
@@ -4984,7 +5024,7 @@
         "",
         "This is found scattered throughout the &bOcean&r ring.",
         "",
-        "To summon this boss, you must use an &dAbyssal Sacrifice&r on the &aAltar of Abyss&r."
+        "&eNote&r: You will need an &dAbyssal Sacrifice&r to activate the altar. The items required to craft it can be acquired from the &9Coralssus&r &aGateway of Eternity&r."
     ],
     "quest.67D1E0D81B2C5D8D.title": "Kill The &dLeviathan&r",
     "quest.67DE9E103F50E3F1.quest_desc": [
@@ -5752,6 +5792,12 @@
         ""
     ],
     "quest.77ABD20EB652F302.title": "&fSpawning Farm Animals",
+    "quest.77DE3D57E5B58948.quest_desc": [
+        "No &eCompass &rthis time!",
+        "",
+        "Head out to the Ocean Ring and use your &bExplorer's Compass&r to find the Water Orb arena where you can summon the &dLeviathan&r!"
+    ],
+    "quest.77DE3D57E5B58948.title": "&fLocating The &3Leviathan",
     "quest.77F8CCE971B9B186.quest_desc": [
         "&eOccultism's&r upgradeable storage system allows you to store your items in a separate dimension of &9The Otherworld&r.",
         "",
@@ -6271,6 +6317,7 @@
     "reward.31A55C1C7979AC74.title": "End East",
     "reward.31B152CBB7E9CDAD.title": "Nether West",
     "reward.31B318A2B60F4CC5.title": "Assemble The &3Shadow Casing Upgrade",
+    "reward.32A31D445DC7FF87.title": "&3Ocean Shards",
     "reward.3322D2E72CD06BE1.title": "Mekanism Teleporter",
     "reward.338E0593C527D311.title": "Mycelial Reactor Set",
     "reward.35FBC3A2C111904A.title": "{\"translate\": \"ftb.shop.notification\"}",
@@ -6758,6 +6805,7 @@
     "task.50FC826E34DC4B21.title": "unlocks Magician",
     "task.510157E7876C7332.title": "Cooldown Timer",
     "task.5117CEC9D541E6AD.title": "Enderium WE Crafts",
+    "task.5123D0CFBA53F360.title": "Added Metals",
     "task.515FA27128F1F9F4.title": "Infused Charm of Flying",
     "task.517166DF490B8DF9.title": "Level 2",
     "task.517D541820F94242.title": "Cooldown Timer",
@@ -6973,6 +7021,7 @@
     "task.78780481BF9D2140.title": "&eLocate&f: Ice Spider Den",
     "task.78869974512F8AD0.title": "Elevators",
     "task.78AD19380F54B22A.title": "JDT Coals",
+    "task.78F8128005EE1240.title": "Added Gems",
     "task.7921E8D54B0095CE.title": "Dark Matter Tools",
     "task.794B10BF050056EB.title": "Better Enchanting Bookshelves",
     "task.79B0BA2223437C7E.title": "Chaotic Tools",
