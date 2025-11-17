@@ -1,6 +1,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" alt="drawing" />
 
-![](https://img.shields.io/badge/Ultimo%20Aggiornamento-13%2F11%2F2025-blue)
+![](https://img.shields.io/badge/Ultimo%20Aggiornamento-17%2F11%2F2025-blue)
 ![](https://img.shields.io/badge/Mod%20tradotte-3439-green)
 ![](https://img.shields.io/badge/Quest%20tradotte-24-green)
 
@@ -60,3 +60,5 @@ Compila il modulo qui sotto per inviarci la tua richiesta:
 - [X](./readme/README_x.md)
 - [Y](./readme/README_y.md)
 - [Z](./readme/README_z.md)
+## Grazie ai Contributor ✨
+- **[GiandoSaba](https://github.com/GiandoSaba)**
