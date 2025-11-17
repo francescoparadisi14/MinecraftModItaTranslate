@@ -1,0 +1,20 @@
+{
+    "itemGroup.dimdungeons": "Dimensional Dungeons",
+
+    "biome.dimdungeons.biome_dungeon": "Dungeon",
+    "dimension.dimdungeons.dimension_dungeon": "Dimensione Dungeon",
+
+    "dimdungeons:activate_key": "Attivazione Chiave",
+
+    "block.dimdungeons.block_gilded_portal": "Blocco Portale Animato",
+    "block.dimdungeons.block_gold_portal": "Portale del Dungeon",
+    "block.dimdungeons.block_portal_crown": "Blocco Potenziamento Portale",
+    "error.dimdungeons.portal_error_4": "Le cornici del portale devono essere costruite con Deepslate Brick, non con ",
+    "error.dimdungeons.portal_error_6": "Le guglie del portale devono essere costruite con Deepslate Brick, non con ",
+    "error.dimdungeons.portal_error_7": "Le guglie del portale devono avere il Blocco Portale Animato in cima, non ",
+    "error.dimdungeons.portal_error_8": "Devi aggiungere due Blocchi Potenziamento Portale alla sommità della cornice.",
+    "advancements.dimdungeons.dungeons.find_crown.description": "Trova due blocchi potenziamento portale nel dungeon.",
+    "npart.dimdungeons.theme_1": "Arena Antica",
+    "npart.dimdungeons.theme_2": "Arena dell'Anima",
+    "npart.dimdungeons.theme_3": "Arena Antica"
+}

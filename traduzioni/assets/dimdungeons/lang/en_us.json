@@ -1,1 +1,20 @@
-[]
+{
+    "itemGroup.dimdungeons": "Dimensional Dungeons",
+
+    "biome.dimdungeons.biome_dungeon": "Dungeon",
+    "dimension.dimdungeons.dimension_dungeon": "Dungeon Dimension",
+
+    "dimdungeons:activate_key": "Key Activation",
+
+    "block.dimdungeons.block_gilded_portal": "Ensouled Portal Block",
+    "block.dimdungeons.block_gold_portal": "Dungeon Portal",
+    "block.dimdungeons.block_portal_crown": "Portal Enhancement Block",
+    "error.dimdungeons.portal_error_4": "Portal frames should be built out of Deepslate Brick, not ",
+    "error.dimdungeons.portal_error_6": "Portal spires should be built out of Deepslate Brick, not ",
+    "error.dimdungeons.portal_error_7": "Portal spires need to have Ensouled Portal Block on top, not ",
+    "error.dimdungeons.portal_error_8": "You must add two Portal Enhancement Blocks to the top of the frame.",
+    "advancements.dimdungeons.dungeons.find_crown.description": "Find two portal enhancement blocks in the dungeon.",
+    "npart.dimdungeons.theme_1": "Ancient Arena",
+    "npart.dimdungeons.theme_2": "Soulful Arena",
+    "npart.dimdungeons.theme_3": "Ancient Arena"
+}
