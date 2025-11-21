@@ -1,0 +1,7 @@
+{
+    "craftedcore.command.clear_cache": "Cleared Cache.",
+    "craftedcore.command.invalid_perms": "You don't have the right permissions to execute the command!",
+    "craftedcore.config.get": "Config entry %s is set to %s",
+    "craftedcore.config.set": "Config entry %s is now %s",
+    "craftedcore.update": "A new version of %s is available: %s"
+}

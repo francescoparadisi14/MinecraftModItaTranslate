@@ -1,0 +1,7 @@
+{
+    "craftedcore.command.clear_cache": "Eseguito il riavvio del cache.",
+    "craftedcore.command.invalid_perms": "Non hai i permessi necessari per eseguire il comando!",
+    "craftedcore.config.get": "L'ingresso di configurazione %s è impostato su %s",
+    "craftedcore.config.set": "L'ingresso di configurazione %s è ora %s",
+    "craftedcore.update": "Una nuova versione di %s è disponibile: %s"
+}
