@@ -6,6 +6,7 @@
     "gui.ae2wtlib.blacklist": "Elenco nero",
     "gui.ae2wtlib.copy_insert": "Copia Per Inserire",
     "gui.ae2wtlib.copy_pickup": "Copia In Raccolta",
+    "gui.ae2wtlib.craft_if_missing.text": "Crea se mancante",
     "gui.ae2wtlib.creativetab": "Pannelli Terminali Wireless Ae2 (ae2wtlib)",
     "gui.ae2wtlib.cycle_terminal.desc": "Apri %s",
     "gui.ae2wtlib.cycle_terminal.desc1": "Clicca Destro Per Aprire %s",

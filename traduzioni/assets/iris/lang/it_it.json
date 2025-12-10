@@ -29,6 +29,7 @@
     "iris.unsupported.pack.description": "Il pacchetto di shaders che stai cercando di caricare contiene features non supportate da %s. Per favore prova un altro pacchetto. Lista %s",
     "iris.unsupported.pack.macos": "Il MacOS è Noto Per Avere Problemi Con Molti Pacchetti Di Sfumature.",
     "iris.unsupported.pc": "il tuo PC",
+    "key.category.iris.keybinds": "Impostazioni tastiera Iris",
     "label.iris.false": "Disattivato",
     "label.iris.true": "Attivato",
     "options.iris.apply": "Applica",

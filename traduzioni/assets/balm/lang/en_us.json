@@ -5,6 +5,7 @@
     "balm.configuration.exampleCategory.innerField": "Example Inner Field",
     "balm.configuration.exampleEnum": "Example Enum",
     "balm.configuration.exampleEnumList": "Example Enum List",
+    "balm.configuration.exampleIdentifierSet": "Example Resource Location Set",
     "balm.configuration.exampleInt": "Example Int",
     "balm.configuration.exampleIntList": "Example Int List",
     "balm.configuration.exampleMultilineString": "Example Multiline String",

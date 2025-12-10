@@ -8,6 +8,8 @@
     "block.torchmaster.megatorch.tooltip": "Prevents natural spawning of hostile monsters in a big radius around the torch",
     "command.torchmaster.entity_dump.completed": "Entities have been dumped to the log file",
     "command.torchmaster.torch_list.completed": "Torches have been dumped to the log file",
+    "item.torchmaster.frozen_pearl": "Frozen Pearl",
+    "item.torchmaster.frozen_pearl.tooltip": "Clears residual lights from a Feral Flare Lantern",
     "itemGroup.torchmaster": "Torchmaster",
     "text.config.torchmaster-config.option.blockOnlyNaturalSpawns": "Block only natural spawns",
     "text.config.torchmaster-config.option.blockOnlyNaturalSpawns.tooltip": "If disabled, the megatorch and dreadlamp will prevent spawns from minecraft spawners.",

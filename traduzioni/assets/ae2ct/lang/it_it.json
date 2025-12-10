@@ -13,6 +13,8 @@
     "gui.ae2ct.ScreenShotShowCountCheckbox": "Mostra Conteggio Screenshot",
     "gui.ae2ct.Screenshot": "Schermo Di Ripresa",
     "gui.ae2ct.Setting": "Impostazione",
+    "gui.ae2ct.ShowMissingOnly": "Mostra solo le quantità mancanti",
+    "gui.ae2ct.ShowMissingOnlyByDefault": "Mostra solo quantità mancanti per impostazione predefinita",
     "gui.ae2ct.ShowTree": "Mostra Albero Di Crafting",
     "gui.ae2ct.StoredAmount": "Quantità Archiviata: %s",
     "gui.ae2ct.UseCompactTreeCheckbox": "Usa Albero Di Crafting Compatto (beta)"

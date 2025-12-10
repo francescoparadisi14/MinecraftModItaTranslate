@@ -55,6 +55,7 @@
     "configured.gui.title.recently_played": "Recently Played",
     "configured.gui.title.server_configuration": "Server Configurations",
     "configured.gui.unsaved_changes": "There are unsaved changes. Are you sure you want to stop editing?",
+    "configured.gui.unsupported_property": "Unsupported property. Edit the raw config file to change this property",
     "configured.gui.update_error.generic": "Failed to update the config",
     "configured.gui.update_error.read_only": "Failed to update the config as it is read-only",
     "configured.gui.update_error.unloaded": "Failed to update the config due to it not being loaded",

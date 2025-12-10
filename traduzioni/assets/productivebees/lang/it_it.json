@@ -1031,6 +1031,7 @@
     "productivebees.information.bee_helmet.info1": "Ci siamo dentro insieme",
     "productivebees.information.bee_helmet.info2": "Api arrabbiate non ti attaccheranno",
     "productivebees.information.bee_helmet.info3": "Probabilita di %s%% di far nascere una KamikApe quando colpito",
+    "productivebees.information.beebee_death": "La api api ti ha preso. Dovresti indossare un elmetto per nido di api la prossima volta.",
     "productivebees.information.breeding_item": "Oggetti di Accoppiamento: %s",
     "productivebees.information.breeding_item_default": "Qualunque fiore",
     "productivebees.information.cage_release": "Accovacciati(Shift) mentre rilasci le api per reimpostare la posizione dell'alveare",

@@ -55,6 +55,7 @@
     "configured.gui.title.recently_played": "Recently Played",
     "configured.gui.title.server_configuration": "Configurazioni server",
     "configured.gui.unsaved_changes": "Ci sono modifiche non salvate. Sei sicuro di voler interrompere la modifica?",
+    "configured.gui.unsupported_property": "Proprietà non supportata. Modifica il file di configurazione raw per modificare questa proprietà.",
     "configured.gui.update_error.generic": "Fallito L'aggiornamento Della Configurazione",
     "configured.gui.update_error.read_only": "Fallito L'aggiornamento Della Configurazione Poiché è Di Sola Lettura",
     "configured.gui.update_error.unloaded": "Fallito L'aggiornamento Della Configurazione A Causa Del Fatto Che Non è Caricata",

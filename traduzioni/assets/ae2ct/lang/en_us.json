@@ -13,6 +13,8 @@
     "gui.ae2ct.ScreenShotShowCountCheckbox": "screenshot show count",
     "gui.ae2ct.Screenshot": "Screenshot",
     "gui.ae2ct.Setting": "Setting",
+    "gui.ae2ct.ShowMissingOnly": "Show Missing Only",
+    "gui.ae2ct.ShowMissingOnlyByDefault": "show missing only by default",
     "gui.ae2ct.ShowTree": "Show Crafting Tree",
     "gui.ae2ct.StoredAmount": "stored: %s",
     "gui.ae2ct.UseCompactTreeCheckbox": "use compact crafting tree (beta)"

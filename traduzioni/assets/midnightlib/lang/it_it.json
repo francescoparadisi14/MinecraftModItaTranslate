@@ -1,4 +1,7 @@
 {
+    "midnightconfig.action.color_chooser": "Apri scegliere colore",
+    "midnightconfig.action.file_chooser": "Apri scegliere file",
+    "midnightconfig.action.list_index": "Modifica lista all'indice %s",
     "midnightconfig.colorChooser.title": "Scegli Un Colore",
     "midnightlib.curseforge": "CurseForge",
     "midnightlib.midnightconfig.config_screen_list": "Abilita Lista Di Schermo Di Configurazione",

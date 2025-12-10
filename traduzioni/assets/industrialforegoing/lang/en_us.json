@@ -474,6 +474,7 @@
     "text.industrialforegoing.tooltip.contains": "Contains",
     "text.industrialforegoing.tooltip.ctrl_left": "(Press Ctrl + Left Click to change)",
     "text.industrialforegoing.tooltip.ctrl_right": "(Press Ctrl + Right Click to change)",
+    "text.industrialforegoing.tooltip.data": "Required Data",
     "text.industrialforegoing.tooltip.efficiency": "Processing Time Reduction:",
     "text.industrialforegoing.tooltip.energy_field_charge": "Charge:",
     "text.industrialforegoing.tooltip.energy_field_linked": "Linked Pos:",

@@ -985,6 +985,7 @@
     "productivebees.information.bee_helmet.info1": "We are in it together",
     "productivebees.information.bee_helmet.info2": "Angry bees won't attack you",
     "productivebees.information.bee_helmet.info3": "%s%% chance to spawn a KamikazBee when hit",
+    "productivebees.information.beebee_death": "BeeBee got you. You should put on a Bee Nest Helmet next time",
     "productivebees.information.breeding_item": "Breeding items: %s",
     "productivebees.information.breeding_item_default": "Any flower",
     "productivebees.information.cage_release": "Sneak while releasing the bee to reset its hive position",

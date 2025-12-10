@@ -66,7 +66,7 @@
     "block.extendedae.silicon_block": "Block of Silicon",
     "block.extendedae.wireless_connect": "ME Wireless Connector",
     "chat.ex_pattern_access_terminal.pos": "The pattern provider is now highlighted at: %s, Dim: %s",
-    "chat.pattern_view.error": "This pattern isn't supported by expatternprovider, please report it to Github: %s",
+    "chat.pattern_view.error": "This pattern isn't supported by ExtendedAE, please report it to Github: %s",
     "chat.wireless.highlight": "The wireless connector is now highlighted at: %s, Dim: %s",
     "chat.wireless_bind": "Bound to X: %s, Y: %s, Z: %s",
     "chat.wireless_connect": "Connected to X: %s, Y: %s, Z: %s",

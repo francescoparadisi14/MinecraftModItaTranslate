@@ -28,7 +28,9 @@
     "catalogue.gui.sort.alphabetically": "Da a a z",
     "catalogue.gui.sort.alphabetically_reverse": "Da z a a",
     "catalogue.gui.sort.favourites_first": "Primi i favoriti",
+    "catalogue.gui.submit_bug": "Invia segnalazione di errore",
     "catalogue.gui.update_available": "Aggiornamento disponibile: %s",
     "catalogue.gui.version": "Versione: %s",
+    "catalogue.gui.website": "Sito web",
     "fml.menu.mods.filter_updates": "Mostra solo mod con aggiornamenti"
 }

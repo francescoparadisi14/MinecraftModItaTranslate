@@ -42,6 +42,7 @@
     "ftblibrary.panel.position.top": "Alto",
     "ftblibrary.panel.position.top_left": "Alto A Sinistra",
     "ftblibrary.panel.position.top_right": "Destra Superiore",
+    "ftblibrary.select_entity.all_entities": "Tutti gli entità viventi",
     "ftblibrary.select_fluid.gui": "Seleziona Liquido",
     "ftblibrary.select_fluid.list_mode.all": "Tutti I Fluidi",
     "ftblibrary.select_image.all_images": "Tutte Le Immagini",

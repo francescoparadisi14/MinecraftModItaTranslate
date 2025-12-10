@@ -1,0 +1,17 @@
+{
+    "block.quartzchests.chest": "Cassetto di quarzo",
+    "block.quartzchests.chest.border_color": "Colore del bordo",
+    "block.quartzchests.chest.chest_color": "Colore della cassa",
+    "block.quartzchests.chest.icon": "Icona del cassetto di quarzo",
+    "block.quartzchests.chest.label": "Etichetta",
+    "block.quartzchests.chest.label.unnamed": "Senza nome",
+    "block.quartzchests.chest.slots_used": "%d\/%d sloti utilizzati",
+    "block.quartzchests.chest.text_color": "Colore del testo",
+    "block.quartzchests.chest.upgrades": "Aggiornamenti:",
+    "item.quartzchests.bold_text_upgrade": "Aggiornamento testo grassetto",
+    "item.quartzchests.glowing_text_upgrade": "Aggiornamento di testo luminoso",
+    "item.quartzchests.italic_text_upgrade": "Aggiornamento testo italico",
+    "item.quartzchests.keep_inventory_upgrade": "Aggiornamento inventario mantenuto",
+    "item.quartzchests.upgrade": "Aggiornamento cassa di quarzo",
+    "itemGroup.quartzchests": "Cassetti di quartz"
+}

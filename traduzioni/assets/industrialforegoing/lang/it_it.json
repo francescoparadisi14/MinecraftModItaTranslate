@@ -474,6 +474,7 @@
     "text.industrialforegoing.tooltip.contains": "Contiene",
     "text.industrialforegoing.tooltip.ctrl_left": "(tasti Ctrl + Clic Sinistro Per Cambiare)",
     "text.industrialforegoing.tooltip.ctrl_right": "(tasti Ctrl + Destra Per Modificare)",
+    "text.industrialforegoing.tooltip.data": "Dati richiesti",
     "text.industrialforegoing.tooltip.efficiency": "Riduzione Del Tempo Di Elaborazione:",
     "text.industrialforegoing.tooltip.energy_field_charge": "Carica:",
     "text.industrialforegoing.tooltip.energy_field_linked": "Collegato A Pos:",

@@ -1,4 +1,7 @@
 {
+    "midnightconfig.action.color_chooser": "Open color chooser",
+    "midnightconfig.action.file_chooser": "Open file chooser",
+    "midnightconfig.action.list_index": "Editing list at index %s",
     "midnightconfig.colorChooser.title": "Choose a color",
     "midnightlib.curseforge": "CurseForge",
     "midnightlib.midnightconfig.config_screen_list": "Enable Config Screen List",

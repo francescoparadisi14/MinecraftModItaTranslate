@@ -293,6 +293,7 @@
     "tetra.material.allthemodium": "Allthemodium",
     "tetra.material.unobtainium": "Unobtainium",
     "tetra.material.vibranium": "Vibranium",
+    "tooltip.allthemodium.teleport_pad": "Sneak + Right Click with both hands empty to teleport",
     "troll.blood": "Regeneration",
     "unobtainium.loc": "End Highlands Biomes Only",
     "upgrade.allthemodium.allthemodium_upgrade": "AllTheModium Upgrade",

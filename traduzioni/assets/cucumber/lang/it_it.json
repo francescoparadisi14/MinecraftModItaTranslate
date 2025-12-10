@@ -7,6 +7,7 @@
     "tooltip.cucumber.empty": "Vuoto",
     "tooltip.cucumber.failed_to_load_nbt": "Impossibile caricare NBT",
     "tooltip.cucumber.filled": "Riempito",
+    "tooltip.cucumber.fluid_tags": "Etichette di fluido:",
     "tooltip.cucumber.hold_alt_for_data_components": "Tieni Premuto Alt Per Visualizzare I Componenti Di Dati",
     "tooltip.cucumber.hold_alt_for_nbt": "Tieni premuto Alt per visualizzare le informazioni NBT",
     "tooltip.cucumber.hold_ctrl_for_tags": "Tieni Premuto Ctrl Per Vedere Le Etichette",
