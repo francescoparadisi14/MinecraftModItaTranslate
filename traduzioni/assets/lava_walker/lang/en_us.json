@@ -1,6 +1,6 @@
 {
     "block.lava_walker.modded_crying_obsidian": "Crying Obsidian(Mod)",
-    "block.lava_walker.modded_obsidian": "Obsidian(Mod)",
-    "enchantment.lava_walker.lava_walker": "Magma Walker",
-    "enchantment.lava_walker.lava_walker.desc": ""
+    "block.lava_walker.modded_obsidian": "Obsidian",
+    "enchantment.lava_walker.lava_walker": "Lava Walker",
+    "enchantment.lava_walker.lava_walker.desc": "You can walk over the lava."
 }

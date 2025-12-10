@@ -1,0 +1,12 @@
+{
+    "block.reinnovation.copper_drain": "Drain di rame",
+    "block.reinnovation.dripleaf_launcher": "Lanciatore foglia triplice",
+    "block.reinnovation.harvester": "Raccoglitore",
+    "block.reinnovation.sculk_receiver": "Ricevitore sculk",
+    "block.reinnovation.sculk_transmitter": "Trasmettitore sculk",
+    "itemGroup.reinnovation": "Rinovazione",
+    "subtitles.reinnovation.drain": "L'oggetto assorbe",
+    "subtitles.reinnovation.harvest": "Il raccoltore ruota",
+    "subtitles.reinnovation.launch": "Attivazione lanciatore Dripleaf",
+    "subtitles.reinnovation.transmit": "Il segnale del Skulk è stato trasmesso"
+}

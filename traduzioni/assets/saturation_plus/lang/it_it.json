@@ -1,0 +1,17 @@
+{
+    "gamerule.alwaysHungry": "Può mangiare sempre cibo",
+    "gamerule.alwaysHungry.description": "Determina se è possibile mangiare qualsiasi cibo, indipendentemente dal livello di fame, nel gioco di sopravvivenza o avventura.",
+    "gamerule.hungerLimitsSaturation": "Limiti di fame e saturazione",
+    "gamerule.hungerLimitsSaturation.description": "Se vero, limita il livello di assorbimento del giocatore a non superare mai il livello attuale di fame.",
+    "gamerule.maxExhaustion": "Livello di stanchezza massimo",
+    "gamerule.maxExhaustion.description": "Livello di esaurimento massimo prima che la fame o la saturazione vengano persi (numeri più grandi significano durate più lunghe prima della perdita). Impostare a 0 o inferiore per disabilitare l'esaurimento.",
+    "gamerule.maxSaturation": "Limite di saturazione massimo",
+    "gamerule.maxSaturation.description": "Livello di saturazione massimo per i giocatori (impostare a valori inferiori a 0 per disabilitare questo limite). Impostare \"limiti fame saturazione\" su false per consentire livelli di saturazione superiori a 20.",
+    "gamerule.saturationEffectDecayRate": "Tasso di decadenza degli effetti di saturazione",
+    "gamerule.saturationEffectDecayRate.description": "Se un giocatore ha l'effetto di saturazione, il tasso di acquisizione di saturazione diminuirà in base alla quantità di saturazione che già possiede. Utilizzare valori più grandi per amplificare questo decremento del tasso o impostare a 0 per disabilitare questo meccanismo (non consigliato).",
+    "message.hungerbar.plural": "Barre di fame",
+    "message.hungerbar.singular": "Barra di fame",
+    "message.saturation": "Attuale saturazione: %s (%s %s)",
+    "message.saturation.changed": "Il livello di saturazione è stato modificato (%s)",
+    "message.saturation.unchanged": "La saturazione non è cambiata"
+}

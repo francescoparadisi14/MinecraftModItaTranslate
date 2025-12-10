@@ -3237,6 +3237,7 @@
     "fluid.create.honey": "Honey",
     "fluid.create.potion": "Potion",
     "fluid.create.tea": "Builder's Tea",
+    "fluid_type.trialanderror.ominous_bile": "Ominous Sludge",
     "item.create.andesite_alloy": "Andesite Alloy",
     "item.create.attribute_filter": "Attribute Filter",
     "item.create.attribute_filter.tooltip": "ATTRIBUTE FILTER",

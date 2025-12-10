@@ -1,0 +1,7 @@
+{
+    "text.autoconfig.homing_ender_eye.option.INDIVIDUAL_MODE": "Individual Mode",
+    "text.autoconfig.homing_ender_eye.option.SCANNING_RADIUS": "Scanning Radius",
+    "text.autoconfig.homing_ender_eye.option.SCANNING_RATE": "Scanning Rate",
+    "text.autoconfig.homing_ender_eye.option.WARPING_PROBABILITY": "Warping Probability",
+    "text.autoconfig.homing_ender_eye.title": "Homing Ender Eye Setting"
+}

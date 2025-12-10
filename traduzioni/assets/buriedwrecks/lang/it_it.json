@@ -1,0 +1,8 @@
+{
+    "buriedwrecks.configuration.generation": "Generazione",
+    "buriedwrecks.configuration.generation.tooltip": "Impostazioni di generazione",
+    "buriedwrecks.configuration.overwriteYLevel": "Sostituisci livello Y",
+    "buriedwrecks.configuration.overwriteYLevel.tooltip": "Sostituire il livello di altezza predefinito con il livello di altezza specificato nel campo \"ylevel\"",
+    "buriedwrecks.configuration.yLevel": "Livello y",
+    "buriedwrecks.configuration.yLevel.tooltip": "Il livello Y in cui si genereranno i relitti di navi"
+}

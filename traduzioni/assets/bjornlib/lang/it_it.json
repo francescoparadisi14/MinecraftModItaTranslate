@@ -1,0 +1,7 @@
+{
+    "category.bjornlib.main_quest.name": "Missione principale",
+    "category.bjornlib.secondary_quest.name": "Missione secondaria",
+    "step.bjornlib.collect_item_step": "Ottenere %s - %s\/%s",
+    "step.bjornlib.consume_item_step": "Consuma %s - %s\/%s",
+    "step.bjornlib.kill_mob_step": "Uccidi %s - %s\/%s"
+}

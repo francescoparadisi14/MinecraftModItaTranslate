@@ -1,0 +1,16 @@
+{
+    "_comment": "Tooltips",
+    "key.jei_integration_reborn": "JEI Integration Reborn Keys",
+    "key.jei_integration_reborn.copy_id_key": "Copy Item ID",
+    "tooltip.jei_integration_reborn.burnTime": "Burn Time:",
+    "tooltip.jei_integration_reborn.burnTime.suffix": "ticks",
+    "tooltip.jei_integration_reborn.data_components": "Data Components:",
+    "tooltip.jei_integration_reborn.durability": "Durability:",
+    "tooltip.jei_integration_reborn.enchantability": "Enchantability:",
+    "tooltip.jei_integration_reborn.hunger": "Hunger:",
+    "tooltip.jei_integration_reborn.maxStackSize": "Max Stack Size:",
+    "tooltip.jei_integration_reborn.registryName": "ID:",
+    "tooltip.jei_integration_reborn.saturation": "Saturation:",
+    "tooltip.jei_integration_reborn.tags": "Tags:",
+    "tooltip.jei_integration_reborn.translationKey": "Translation Key:"
+}

@@ -1,0 +1,12 @@
+{
+    "block.reinnovation.copper_drain": "Item Drain",
+    "block.reinnovation.dripleaf_launcher": "Dripleaf Launcher",
+    "block.reinnovation.harvester": "Harvester",
+    "block.reinnovation.sculk_receiver": "Sculk Receiver",
+    "block.reinnovation.sculk_transmitter": "Sculk Transmitter",
+    "itemGroup.reinnovation": "Reinnovation",
+    "subtitles.reinnovation.drain": "Item drains",
+    "subtitles.reinnovation.harvest": "Harvester spins",
+    "subtitles.reinnovation.launch": "Dripleaf launcher activates",
+    "subtitles.reinnovation.transmit": "Sculk signal transmitted"
+}

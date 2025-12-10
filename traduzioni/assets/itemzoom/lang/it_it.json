@@ -1,0 +1,22 @@
+{
+    "_comment": "Commento di configurazione",
+    "config.itemzoom.jei.only": "Solo sovrapposizioni JEI",
+    "config.itemzoom.jei.only.comment": "Zooma gli elementi solo dalle sovrapposizioni di lista di ingrediente e segnalibro del JEI.",
+    "config.itemzoom.show.cooldown": "Mostra raffreddamento",
+    "config.itemzoom.show.cooldown.comment": "Visualizza l'animazione di raffreddamento dell'oggetto quando si utilizza la funzione di ingrandimento.",
+    "config.itemzoom.show.damage.bar": "Mostra barra di durata",
+    "config.itemzoom.show.damage.bar.comment": "Visualizza la barra di durata dell'oggetto quando si è in modalità ingrandimento.",
+    "config.itemzoom.show.help.text": "Mostra testo di aiuto",
+    "config.itemzoom.show.help.text.comment": "Mostra il nome dell'oggetto \"zoom item\" e la chiave di scelta rapida per abilitare\/disabilitare questo modulo sotto l'oggetto zoomato.",
+    "config.itemzoom.show.stack.size": "Mostra dimensione della pila",
+    "config.itemzoom.show.stack.size.comment": "Mostra la grandezza della pila dell'oggetto quando si è in zoom.",
+    "config.itemzoom.title": "Configurazione di %modname",
+    "config.itemzoom.toggle.enabled": "Abilita zoom oggetto",
+    "config.itemzoom.toggle.enabled.comment": "Se impostato su \"falso\", il zoom degli oggetti sarà disattivato.",
+    "config.itemzoom.zoom.amount": "Quantità di zoom",
+    "config.itemzoom.zoom.amount.comment": "Imposta un valore inferiore per rendere lo zoom dell'oggetto meno intenso.",
+    "key.itemzoom.hold": "Tieni premuto per visualizzare",
+    "key.itemzoom.toggle": "Alternare zoom oggetto",
+    "key.itemzoom.zoom.in": "Zoom dentro",
+    "key.itemzoom.zoom.out": "Zoom fuori"
+}

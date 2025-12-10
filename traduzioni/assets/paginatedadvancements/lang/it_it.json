@@ -1,0 +1,18 @@
+{
+    "text.autoconfig.PaginatedAdvancements.option.FadeOutBackgroundOnAdvancementHover": "Fai sfumare il fondo leggermente in grigio quando si passa sopra un avanzamento",
+    "text.autoconfig.PaginatedAdvancements.option.LastSelectedTab": "L'identificatore del pannello selezionato precedentemente",
+    "text.autoconfig.PaginatedAdvancements.option.MaxCriterionEntries": "Massimi elementi di critero di avanzamento visualizzati",
+    "text.autoconfig.PaginatedAdvancements.option.PinnedTabs": "Elenco di schede pinne (identificatore di avanzamento radice)",
+    "text.autoconfig.PaginatedAdvancements.option.PinningEnabled": "Abilita l'annuncio delle schede di avanzamento",
+    "text.autoconfig.PaginatedAdvancements.option.SaveLastSelectedTab": "Salva e ripristina l'ultima scheda selezionata",
+    "text.autoconfig.PaginatedAdvancements.option.ShowAdvancementIDInDebugTooltip": "Mostra ID di avanzamento nella tooltip di debug",
+    "text.autoconfig.PaginatedAdvancements.option.ShowDebugInfo": "Mostra informazioni di debug sulle avanzamenti al passaggio del mouse",
+    "text.autoconfig.PaginatedAdvancements.option.SpacingBetweenHorizontalTabs": "Spaziatura tra le schede orizzontali",
+    "text.autoconfig.PaginatedAdvancements.option.SpacingBetweenPinnedTabs": "Spaziatura tra schede pinne",
+    "text.autoconfig.PaginatedAdvancements.title": "Configurazione avanzamenti paginati",
+    "text.paginated_advancements.copied_to_clipboard": "ID di avanzamento copiato nel portapenne",
+    "text.paginated_advancements.copy_to_clipboard": "(Ctrl+C per copiare)",
+    "text.paginated_advancements.expand_debug": "[Crtl+Shift] più...",
+    "text.paginated_advancements.group": "Gruppo:",
+    "text.paginated_advancements.scroll_debug": "[scrollare] più..."
+}

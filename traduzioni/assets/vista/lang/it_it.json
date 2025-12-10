@@ -1,0 +1,20 @@
+{
+    "block.vista.television": "Televisore",
+    "block.vista.viewfinder": "Viewfinder",
+    "cassette_tape.vista.67.tooltip": "mehvahdjukaar - 67",
+    "cassette_tape.vista.block_wave.tooltip": "Onda di blocchi (uccide piante)",
+    "cassette_tape.vista.bounce.tooltip": "mehvahdjukaar - bounce",
+    "cassette_tape.vista.mc98.tooltip": "Pianta uccidibile - MC 98",
+    "cassette_tape.vista.mc_98.tooltip": "Pianta uccidibile - MC 98",
+    "cassette_tape.vista.space_sniffer.tooltip": "Pianta uccidibile - sniffatore spaziale",
+    "item.vista.cassette": "Cassetta",
+    "item.vista.hollow_cassette": "Cassetta vuota",
+    "item.vista.picture_tape": "Nastro di foto",
+    "message.vista.viewfinder.control": "Premi %1$s per smontare, %2$s per bloccare\/ sbloccare",
+    "subtitles.vista.television.eject": "Eietta cassette",
+    "subtitles.vista.television.insert": "Inserimento di cassetta",
+    "tooltip.vista.cassette.tape": "Nastro: %s",
+    "tooltip.vista.hollow_cassette.linked": "collegato a [%1$s, %2$s, %3$s]",
+    "tooltip.vista.hollow_cassette.linked_away": "collegato altrove in %s",
+    "tooltip.vista.hollow_cassette.linked_unknown": "Collegato a posizione non valida"
+}

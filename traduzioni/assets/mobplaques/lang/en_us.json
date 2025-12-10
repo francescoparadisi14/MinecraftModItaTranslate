@@ -1,0 +1,5 @@
+{
+    "key.category.mobplaques.main": "Mob Plaques",
+    "key.mobplaques.toggle_plaques": "Toggle Mob Plaques",
+    "key.mobplaques.toggle_plaques.message": "Render Mob Plaques: %s"
+}

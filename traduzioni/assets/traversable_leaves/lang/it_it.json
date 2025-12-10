@@ -1,0 +1,12 @@
+{
+    "block.traversable_leaves.example_block": "Blocco di esempio",
+    "item.traversable_leaves.example_item": "Esempio di oggetto",
+    "itemGroup.traversable_leaves": "Riquadro esempio del modulo",
+    "traversable_leaves.configuration.items": "Elenco di elementi",
+    "traversable_leaves.configuration.logDirtBlock": "Blocco di terra da registro",
+    "traversable_leaves.configuration.magicNumber": "Numero magico",
+    "traversable_leaves.configuration.magicNumberIntroduction": "Testo del numero magico",
+    "traversable_leaves.configuration.section.traversable_leaves.common.toml": "Configurazioni di foglie percorribili",
+    "traversable_leaves.configuration.section.traversable_leaves.common.toml.title": "Configurazioni di traversabili foglie",
+    "traversable_leaves.configuration.title": "Configurazioni di traversabili foglie"
+}

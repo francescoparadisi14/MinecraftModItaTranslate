@@ -1,0 +1,16 @@
+{
+    "_comment": "Note per strumenti",
+    "key.jei_integration_reborn": "Tasti di integrazione JEI Reborn",
+    "key.jei_integration_reborn.copy_id_key": "Copia ID oggetto",
+    "tooltip.jei_integration_reborn.burnTime": "Tempo di bruciatura:",
+    "tooltip.jei_integration_reborn.burnTime.suffix": "secondi",
+    "tooltip.jei_integration_reborn.data_components": "Componenti dati:",
+    "tooltip.jei_integration_reborn.durability": "Durabilità:",
+    "tooltip.jei_integration_reborn.enchantability": "Facilità incantesimi:",
+    "tooltip.jei_integration_reborn.hunger": "Fame:",
+    "tooltip.jei_integration_reborn.maxStackSize": "Dimensione massima della pila:",
+    "tooltip.jei_integration_reborn.registryName": "Nome registro: id:",
+    "tooltip.jei_integration_reborn.saturation": "Saturazione:",
+    "tooltip.jei_integration_reborn.tags": "Etichette:",
+    "tooltip.jei_integration_reborn.translationKey": "Chiave di traduzione:"
+}

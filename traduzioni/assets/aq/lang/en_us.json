@@ -1,0 +1,16 @@
+{
+    "block.aq.scute_block": "Scute Block",
+    "block.aq.turtle_block": "Turtle Block",
+    "item.aq.scute_block": "Scute Block",
+    "item.aq.turtle_block": "Block of the Turtle Master",
+    "item.aq.turtle_boots": "Boots of the Turtle Master",
+    "item.aq.turtle_chestplate": "Chestplate of the Turtle Master",
+    "item.aq.turtle_helmet": "Helmet of the Turtle Master",
+    "item.aq.turtle_ingot": "Turtle Master Ingot",
+    "item.aq.turtle_leggings": "Leggings of the Turtle Master",
+    "item.aq.turtle_master_upgrade_template": "Turtle Master Upgrade",
+    "item.aq.vturtle_boots": "Turtle Boots",
+    "item.aq.vturtle_chestplate": "Turtle Chestplate",
+    "item.aq.vturtle_leggings": "Turtle Leggings",
+    "itemGroup.aq": "Aquatic Additions"
+}

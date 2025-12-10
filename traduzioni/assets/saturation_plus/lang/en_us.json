@@ -1,0 +1,17 @@
+{
+    "gamerule.alwaysHungry": "Can always eat food",
+    "gamerule.alwaysHungry.description": "Determines whether any food can be eaten regardless of hunger level in survival or adventure mode.",
+    "gamerule.hungerLimitsSaturation": "Hunger limits saturation",
+    "gamerule.hungerLimitsSaturation.description": "If true, limit the player's saturation level to never exceed the current hunger level.",
+    "gamerule.maxExhaustion": "Max exhaustion level",
+    "gamerule.maxExhaustion.description": "Maximum exhaustion level before hunger or saturation is lost (larger numbers mean longer durations before loss). Set to 0 or below to disable exhaustion.",
+    "gamerule.maxSaturation": "Max saturation limit",
+    "gamerule.maxSaturation.description": "Maximum saturation level for players (set below 0 to disable this limit). Set \"Hunger limits saturation\" to false to allow saturation levels above 20.",
+    "gamerule.saturationEffectDecayRate": "Saturation status effect decay rate",
+    "gamerule.saturationEffectDecayRate.description": "If a player has the Saturation status effect, the rate of saturation gain will decrease the more saturation they already have. Use larger values to amplify this decreasing rate, or set to 0 to disable this mechanic (not recommended).",
+    "message.hungerbar.plural": "hunger bars",
+    "message.hungerbar.singular": "hunger bar",
+    "message.saturation": "Current Saturation: %s (%s %s)",
+    "message.saturation.changed": "Saturation Changed (%s)",
+    "message.saturation.unchanged": "Saturation Unchanged"
+}

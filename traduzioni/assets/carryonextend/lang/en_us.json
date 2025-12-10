@@ -1,0 +1,11 @@
+{
+    "advancement.carryonextend.player_throw.description": "Throw a player",
+    "advancement.carryonextend.player_throw.title": "Airborne Flight",
+    "advancement.carryonextend.root.description": "Throw everything you carry",
+    "advancement.carryonextend.root.title": "CarryOn Extend",
+    "advancement.carryonextend.self_destruction.description": "Get killed by a TNT you threw",
+    "advancement.carryonextend.self_destruction.title": "Self-Destruction",
+    "advancement.carryonextend.tnt_thrower.description": "Throw a lit TNT",
+    "advancement.carryonextend.tnt_thrower.title": "TNT Thrower",
+    "message.carryonextend.power_level": "Throw Power: %1$s\/%2$s (%3$s%%)"
+}

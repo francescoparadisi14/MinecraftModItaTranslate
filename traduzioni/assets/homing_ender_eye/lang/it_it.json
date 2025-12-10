@@ -1,0 +1,7 @@
+{
+    "text.autoconfig.homing_ender_eye.option.INDIVIDUAL_MODE": "Modalità individuale",
+    "text.autoconfig.homing_ender_eye.option.SCANNING_RADIUS": "Raggio di scansione",
+    "text.autoconfig.homing_ender_eye.option.SCANNING_RATE": "Tasso di scansione",
+    "text.autoconfig.homing_ender_eye.option.WARPING_PROBABILITY": "Probabilità di teleportazione",
+    "text.autoconfig.homing_ender_eye.title": "Impostazione occhio del fine estremo di ritorno"
+}

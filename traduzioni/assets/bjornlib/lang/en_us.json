@@ -1,0 +1,7 @@
+{
+    "category.bjornlib.main_quest.name": "Main Quest",
+    "category.bjornlib.secondary_quest.name": "Secondary Quest",
+    "step.bjornlib.collect_item_step": "Obtain %s - %s \/ %s",
+    "step.bjornlib.consume_item_step": "Consume %s - %s \/ %s",
+    "step.bjornlib.kill_mob_step": "Kill %s - %s \/ %s"
+}

@@ -1,0 +1,12 @@
+{
+    "block.traversable_leaves.example_block": "Example Block",
+    "item.traversable_leaves.example_item": "Example Item",
+    "itemGroup.traversable_leaves": "Example Mod Tab",
+    "traversable_leaves.configuration.items": "Item List",
+    "traversable_leaves.configuration.logDirtBlock": "Log Dirt Block",
+    "traversable_leaves.configuration.magicNumber": "Magic Number",
+    "traversable_leaves.configuration.magicNumberIntroduction": "Magic Number Text",
+    "traversable_leaves.configuration.section.traversable_leaves.common.toml": "TraversableLeaves Configs",
+    "traversable_leaves.configuration.section.traversable_leaves.common.toml.title": "TraversableLeaves Configs",
+    "traversable_leaves.configuration.title": "TraversableLeaves Configs"
+}

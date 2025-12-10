@@ -1,6 +1,6 @@
 {
-    "block.goldenhopper.golden_hopper": "Copper Hopper",
-    "container.goldenhopper.golden_hopper": "Copper Hopper",
-    "entity.goldenhopper.golden_hopper_minecart": "Minecart with Copper Hopper",
-    "item.goldenhopper.golden_hopper_minecart": "Minecart with Copper Hopper"
+    "block.goldenhopper.golden_hopper": "Golden Hopper",
+    "container.goldenhopper.golden_hopper": "Golden Hopper",
+    "entity.goldenhopper.golden_hopper_minecart": "Minecart with Golden Hopper",
+    "item.goldenhopper.golden_hopper_minecart": "Minecart with Golden Hopper"
 }

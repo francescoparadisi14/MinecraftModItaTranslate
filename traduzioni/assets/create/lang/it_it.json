@@ -3272,6 +3272,7 @@
     "fluid.create.honey": "Miele",
     "fluid.create.potion": "Pozione",
     "fluid.create.tea": "Tè del costruttore",
+    "fluid_type.trialanderror.ominous_bile": "Fangoso ominoso",
     "item.create.andesite_alloy": "Lega di andesite",
     "item.create.attribute_filter": "Filtro di caratteristiche",
     "item.create.attribute_filter.tooltip": "Filtro di attributo",

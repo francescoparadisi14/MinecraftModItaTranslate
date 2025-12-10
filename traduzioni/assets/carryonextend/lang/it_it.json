@@ -1,0 +1,11 @@
+{
+    "advancement.carryonextend.player_throw.description": "Lanciare un giocatore",
+    "advancement.carryonextend.player_throw.title": "Volo in aria",
+    "advancement.carryonextend.root.description": "Lancia tutto ciò che porti con te",
+    "advancement.carryonextend.root.title": "Estendere il viaggio",
+    "advancement.carryonextend.self_destruction.description": "Venne ucciso da un tnt che hai lanciato",
+    "advancement.carryonextend.self_destruction.title": "Distruzione personale",
+    "advancement.carryonextend.tnt_thrower.description": "Lanciare un tnt acceso",
+    "advancement.carryonextend.tnt_thrower.title": "Lanciatore di tnt",
+    "message.carryonextend.power_level": "Potenza di lancio: %1$s\/%2$s (%3$s%)"
+}

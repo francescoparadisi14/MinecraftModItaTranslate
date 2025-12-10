@@ -1,0 +1,12 @@
+{
+    "commands.skin_changer.cape.load_failed": "Non è stato possibile caricare il cappello.",
+    "commands.skin_changer.cape.load_succeeded": "Il cappello è stato caricato con successo",
+    "commands.skin_changer.cape.loading": "Caricamento cappello...",
+    "commands.skin_changer.cape.remove_succeeded": "Il cappello è stato rimosso con successo",
+    "commands.skin_changer.cape.removing": "Sto rimuovendo il cappello...",
+    "commands.skin_changer.skin.load_failed": "Non è stato possibile caricare la pelle.",
+    "commands.skin_changer.skin.load_succeeded": "La pelle è stata caricata con successo",
+    "commands.skin_changer.skin.loading": "Caricamento della pelle...",
+    "commands.skin_changer.skin.remove_succeeded": "La pelle è stata rimossa con successo",
+    "commands.skin_changer.skin.removing": "Sto rimuovendo la pelle..."
+}

@@ -1,0 +1,8 @@
+{
+    "buriedwrecks.configuration.generation": "Generation",
+    "buriedwrecks.configuration.generation.tooltip": "Generation Settings",
+    "buriedwrecks.configuration.overwriteYLevel": "Overwrite Y Level",
+    "buriedwrecks.configuration.overwriteYLevel.tooltip": "Overwrite the default yLevel with the y level specified in 'yLevel'",
+    "buriedwrecks.configuration.yLevel": "Y Level",
+    "buriedwrecks.configuration.yLevel.tooltip": "The Y level it'll try to generate ship wrecks at"
+}

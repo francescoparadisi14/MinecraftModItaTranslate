@@ -1,0 +1,9 @@
+{
+    "block.holographic_renders.iron_projector": "Proiettore di ferro",
+    "item.holographic_renders.area_scanner": "Scansionatore di area",
+    "item.holographic_renders.entity_scanner": "Scanner di entità",
+    "item.holographic_renders.iron_projector": "Proiettore di ferro",
+    "item.holographic_renders.texture_scanner": "Scansionatore di texture",
+    "item.holographic_renders.widget_scanner": "Scansionatore di widget",
+    "itemGroup.holographic_renders.general": "Rendimenti holografici"
+}

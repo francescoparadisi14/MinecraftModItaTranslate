@@ -1,0 +1,16 @@
+{
+    "block.aq.scute_block": "Blocco scuta",
+    "block.aq.turtle_block": "Blocco tartaruga",
+    "item.aq.scute_block": "Blocco di scuta",
+    "item.aq.turtle_block": "Blocco del Maestro Tartaruga",
+    "item.aq.turtle_boots": "Stivali del maestro tartaruga",
+    "item.aq.turtle_chestplate": "Elmetto del maestro tartaruga",
+    "item.aq.turtle_helmet": "Elmo del maestro tartaruga",
+    "item.aq.turtle_ingot": "Ingot del Maestro Tartaruga",
+    "item.aq.turtle_leggings": "Gambali del maestro tartaruga",
+    "item.aq.turtle_master_upgrade_template": "Aggiornamento mastro tartaruga",
+    "item.aq.vturtle_boots": "Stivali tartaruga",
+    "item.aq.vturtle_chestplate": "Pettorina tartaruga",
+    "item.aq.vturtle_leggings": "Gamberi di tartaruga",
+    "itemGroup.aq": "Aggiunte acquatiche"
+}
