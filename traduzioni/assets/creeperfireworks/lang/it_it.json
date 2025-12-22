@@ -1,0 +1,23 @@
+{
+    "creeperfireworks.configuration.colors.description": "Colori da utilizzare nei fuochi d'artificio. Richiede colori esadecimali formattati.",
+    "creeperfireworks.configuration.colors.name": "Colori di fuochi d'artificio",
+    "creeperfireworks.configuration.disableblockdamage.description": "Impostare su vero\/ON per disabilitare il danno ai blocchi durante l'esplosione del crepito.",
+    "creeperfireworks.configuration.disableblockdamage.name": "Disabilita danni al blocco",
+    "creeperfireworks.configuration.disableitemdamage.description": "Impostare su vero\/ON per disabilitare il danno ai materiali caduti durante l'esplosione del fuoco d'artificio dei creaker.",
+    "creeperfireworks.configuration.disableitemdamage.name": "Disabilita danni oggetti",
+    "creeperfireworks.configuration.fireworkschance.description": "Probabilità di fuochi d'artificio dopo esplosione di crepitoio.",
+    "creeperfireworks.configuration.fireworkschance.name": "Probabilità di fuochi d'artificio",
+    "creeperfireworks.configuration.fireworksflicker.description": "Impostazione scintillio dei fuochi d'artificio in relazione ai fuochi d'artificio di Minecraft.",
+    "creeperfireworks.configuration.fireworksflicker.name": "Flicker dei fuochi d'artificio",
+    "creeperfireworks.configuration.fireworksheight.description": "Altezza sopra il crespone in cui gli aquiloni esplodono.",
+    "creeperfireworks.configuration.fireworksheight.name": "Altezza dei fuochi d'artificio",
+    "creeperfireworks.configuration.fireworksshape.description": "Impostazione forma di fuochi d'artificio in relazione ai fuochi d'artificio di Minecraft.",
+    "creeperfireworks.configuration.fireworksshape.name": "Forma di fuoco d'artificio",
+    "creeperfireworks.configuration.fireworkstrail.description": "Impostazione della scia dei fuochi d'artificio in relazione ai fuochi d'artificio di Minecraft.",
+    "creeperfireworks.configuration.fireworkstrail.name": "Tracciato di fuochi d'artificio",
+    "creeperfireworks.configuration.general.description": "Configurazioni per tutte le funzionalità di interazione con il mondo dei Creeper nel modulo.",
+    "creeperfireworks.configuration.general.name": "Impostazioni generali",
+    "creeperfireworks.configuration.title": "Fuochi d'artificio dei crepuscoli",
+    "creeperfireworks.configuration.visuals.description": "Impostazioni relative alla visualizzazione dei fuochi d'artificio quando un crespello esplode.",
+    "creeperfireworks.configuration.visuals.name": "Impostazioni visive"
+}

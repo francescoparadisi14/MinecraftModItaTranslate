@@ -1,0 +1,23 @@
+{
+    "creeperfireworks.configuration.colors.description": "Colors to use in fireworks. Requires hex formatted colors.",
+    "creeperfireworks.configuration.colors.name": "Fireworks Colors",
+    "creeperfireworks.configuration.disableblockdamage.description": "Set to true\/on to disable block damage on Creeper explosion.",
+    "creeperfireworks.configuration.disableblockdamage.name": "Disable Block Damage",
+    "creeperfireworks.configuration.disableitemdamage.description": "Set to true\/on to disable dropped item damage on Creeper explosion.",
+    "creeperfireworks.configuration.disableitemdamage.name": "Disable Item Damage",
+    "creeperfireworks.configuration.fireworkschance.description": "Chance of fireworks after creeper explosion.",
+    "creeperfireworks.configuration.fireworkschance.name": "Fireworks Chance",
+    "creeperfireworks.configuration.fireworksflicker.description": "Fireworks flicker setting as it relates to Minecraft fireworks.",
+    "creeperfireworks.configuration.fireworksflicker.name": "Fireworks Flicker",
+    "creeperfireworks.configuration.fireworksheight.description": "Height above creeper that fireworks explode.",
+    "creeperfireworks.configuration.fireworksheight.name": "Fireworks Height",
+    "creeperfireworks.configuration.fireworksshape.description": "Fireworks shape setting as it relates to Minecraft fireworks.",
+    "creeperfireworks.configuration.fireworksshape.name": "Fireworks Shape",
+    "creeperfireworks.configuration.fireworkstrail.description": "Fireworks trail setting as it relates to Minecraft fireworks.",
+    "creeperfireworks.configuration.fireworkstrail.name": "Fireworks Trail",
+    "creeperfireworks.configuration.general.description": "Configurations for all creeper world interaction features in the mod.",
+    "creeperfireworks.configuration.general.name": "General Settings",
+    "creeperfireworks.configuration.title": "Creeper Fireworks",
+    "creeperfireworks.configuration.visuals.description": "All settings related to the rendering of fireworks when a creeper explodes.",
+    "creeperfireworks.configuration.visuals.name": "Rendering Settings"
+}

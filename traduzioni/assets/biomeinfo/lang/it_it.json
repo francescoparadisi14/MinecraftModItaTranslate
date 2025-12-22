@@ -1,0 +1,18 @@
+{
+    "text.autoconfig.biomeinfo.option.appendModName": "Aggiungi il nome del modulo al nome di bioma",
+    "text.autoconfig.biomeinfo.option.color": "Colore del testo",
+    "text.autoconfig.biomeinfo.option.displayTime": "Mostra tempo",
+    "text.autoconfig.biomeinfo.option.enabled": "Abilitato",
+    "text.autoconfig.biomeinfo.option.fadeIn": "Fade in",
+    "text.autoconfig.biomeinfo.option.fadeOut": "Sfumare",
+    "text.autoconfig.biomeinfo.option.fallbackOnUntranslatableName": "Fallback su nome di bioma non traducibile",
+    "text.autoconfig.biomeinfo.option.hideOnDebugScreen": "Nascondi testo sulla schermata di debug (F3)",
+    "text.autoconfig.biomeinfo.option.hideWithUI": "Nascondi testo quando l'interfaccia utente è nascosta (F1)",
+    "text.autoconfig.biomeinfo.option.posX": "Posizione del testo orizzontale",
+    "text.autoconfig.biomeinfo.option.posY": "Posizione del testo verticale",
+    "text.autoconfig.biomeinfo.option.positionPreset": "Impostazione posizione predefinita",
+    "text.autoconfig.biomeinfo.option.scale": "Scala del testo",
+    "text.autoconfig.biomeinfo.option.textAlignment": "Allineamento del testo",
+    "text.autoconfig.biomeinfo.option.textShadow": "Ombra del testo",
+    "text.autoconfig.biomeinfo.title": "Impostazioni informazioni bioma"
+}

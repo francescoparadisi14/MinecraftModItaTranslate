@@ -1,0 +1,19 @@
+{
+    "_comment": "Nota: ------ sulle dinamiche di integrazione dei contenuti ------",
+    "block.integratedrest.http": "Proxie HTTP",
+    "block.integratedrest.http.info": "Leggi i valori che sono stati forniti da chiamate HTTP esterne.",
+    "http.integratedrest.error.http_invalid": "Proxetto HTTP con ID %s non esporre una variabile valida.",
+    "http.integratedrest.error.http_invalid_type": "Il proxy HTTP con ID %s è atteso per esporre una variabile di tipo %s mentre %s è stato trovato.",
+    "http.integratedrest.error.http_not_in_network": "Il proxy HTTP con l'ID %s non è stato trovato all'interno della rete corrente.",
+    "http.integratedrest.tooltip.delay_id": "Proxie ID HTTP: %s",
+    "info_book.integratedrest.http": "Proxie HTTP",
+    "info_book.integratedrest.http.text1": "Il proxy HTTP ha uno stato di valore interno che può essere aggiornato mediante richieste POST HTTP.",
+    "info_book.integratedrest.http.text2": "Deve essere selezionato un tipo di valore certo nel proxy HTTP e solo le richieste di quel tipo saranno accettate.",
+    "info_book.integratedrest.http.text3": "Ulteriori informazioni possono essere trovate sulla wiki di GitHub.",
+    "info_book.integratedrest.introduction": "Introduzione",
+    "info_book.integratedrest.introduction.text1": "&Egrave; integrated rest& è un modulo che ti consente di leggere e scrivere nei tuoi &Egrave; network dinamici& via API REST.",
+    "info_book.integratedrest.introduction.text2": "Questo consente di leggere lo stato delle tue reti e mondi attraverso protocolli web e interagire con loro inviando valori a blocchi proxy HTTP nel tuo mondo.",
+    "info_book.integratedrest.introduction.text3": "Controlla la console del server per vedere dove si trova il tuo server e cosa tipo di informazioni puoi trovare. (di default è &lhttp:\/\/localhost:3000\/&r)",
+    "info_book.integratedrest.section.main": "Riposo",
+    "itemGroup.integratedrest": "Riposo integrato"
+}
