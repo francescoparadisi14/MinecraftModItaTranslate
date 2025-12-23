@@ -1,0 +1,23 @@
+{
+    "commands.hourglass.config.failure": "Failed to set config: %s",
+    "commands.hourglass.config.query": "Config %s is currently set to: %s",
+    "commands.hourglass.config.set": "Config %s is now set to: %s",
+    "commands.hourglass.query.levelNotApplicable": "Hourglass does not control this dimension.",
+    "commands.hourglass.query.sleeperCount.success": "%s%% of players are sleeping. [%s\/%s]",
+    "commands.hourglass.query.timeSpeed.success": "The time speed is %s",
+    "hourglass.configgui.clockAlignment": "Clock Alignment",
+    "hourglass.configgui.clockMargin": "Clock Margin",
+    "hourglass.configgui.clockScale": "Clock Scale",
+    "hourglass.configgui.pixels": "%s px",
+    "hourglass.configgui.preventClockWobble": "Prevent Clock Wobble",
+    "hourglass.configgui.screenAlignment.bottomCenter": "Bottom Center",
+    "hourglass.configgui.screenAlignment.bottomLeft": "Bottom Left",
+    "hourglass.configgui.screenAlignment.bottomRight": "Bottom Right",
+    "hourglass.configgui.screenAlignment.centerCenter": "Center Center",
+    "hourglass.configgui.screenAlignment.centerLeft": "Center Left",
+    "hourglass.configgui.screenAlignment.centerRight": "Center Right",
+    "hourglass.configgui.screenAlignment.topCenter": "Top Center",
+    "hourglass.configgui.screenAlignment.topLeft": "Top Left",
+    "hourglass.configgui.screenAlignment.topRight": "Top Right",
+    "hourglass.configgui.title": "Hourglass Config"
+}
