@@ -1,0 +1,19 @@
+{
+    "cooldown.theft.left": "§cWait to steal again!",
+    "enchantment.theft.pocket_chain": "Pocket Chain",
+    "enchantment.theft.pocket_chain.description": "§7Prevents the thief from stealing your item.",
+    "gui.theft.stealing": "Stealing",
+    "item.theft.glove": "Thief's Glove",
+    "item.theft.glove.lore.1": "§7Right click on a player's back",
+    "item.theft.glove.lore.2": "§7While crouching to steal it!",
+    "item.theft.glove.lore.3": "",
+    "item.theft.missing": "Stolen Item",
+    "item.theft.missing.lore.1": "§7Stolen at %s§7 ago.",
+    "item.theft.missing.lore.2": "§8Click to remove.",
+    "tab.theft.name": "Theft Mod",
+    "timeframe.theft.and": "and",
+    "timeframe.theft.day": "day",
+    "timeframe.theft.hour": "hour",
+    "timeframe.theft.minute": "minute",
+    "timeframe.theft.second": "second"
+}

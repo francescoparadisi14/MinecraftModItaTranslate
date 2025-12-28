@@ -62,10 +62,12 @@
     "text.owo.config.search": "Search...",
     "text.owo.config.search.matches": "%d of %d",
     "text.owo.config.search.no_matches": "No matches",
-    "text.owo.config.sections": {
-        "text": "Sections",
-        "underlined": true
-    },
+    "text.owo.config.sections": [
+        {
+            "text": "Sections",
+            "underlined": true
+        }
+    ],
     "text.owo.config.sections_tooltip": "Sections",
     "text.owo.configure_hot_reload.choose_file": "Choose file",
     "text.owo.configure_hot_reload.model": [

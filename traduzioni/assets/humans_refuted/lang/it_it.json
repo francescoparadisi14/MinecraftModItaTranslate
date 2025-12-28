@@ -1,0 +1,12 @@
+{
+    "effect.humans_refuted.acid_spit": "Sputo acido",
+    "entity.humans_refuted.humans_refuted": "Uomini respinti",
+    "entity.humans_refuted.humans_refuted_egg": "Uovo dei rifiutati umani",
+    "entity.humans_refuted.humans_refuted_spawn": "Esseri umani respinti",
+    "item.humans_refuted.humans_refuted_egg_spawn_egg": "Uovo di spawn degli umani respinti",
+    "item.humans_refuted.humans_refuted_spawn_egg": "Uova di spawn degli umani respinti",
+    "item.humans_refuted.humans_refuted_spawn_spawn_egg": "Uova di spawn degli umani respinti",
+    "subtitles.entity.humans_refuted.ambient": "Umani respinti (ambiente)",
+    "subtitles.entity.humans_refuted.death": "Gli esseri umani hanno respinto la morte",
+    "subtitles.entity.humans_refuted.hurt": "Uomini respinti feriti"
+}

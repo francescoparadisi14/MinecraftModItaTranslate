@@ -1,0 +1,23 @@
+{
+    "block.engineered_schematics.schematic_table_block": "Schematic Table",
+    "desc.engineered_schematics.info.schematic.block_info": "Hold [%s] for Materials",
+    "desc.engineered_schematics.info.schematic.ie_tier": "Engineer's Hammer",
+    "desc.engineered_schematics.info.schematic.moved": "Schematic Moved",
+    "desc.engineered_schematics.info.schematic.no_multiblock": "Blank Schematics",
+    "desc.engineered_schematics.info.schematic.placed": "(Creative Only) Schematic Placed",
+    "desc.engineered_schematics.info.schematic.rotated": "Schematic Rotated",
+    "desc.engineered_schematics.info.schematic.size": "%s",
+    "desc.engineered_schematics.info.schematic.tier": "This can be formed using the %s",
+    "desc.engineered_schematics.schematic_table": "Schematic Table",
+    "engineered_schematics.gui.schematic_table.mirror": "Mirrored",
+    "item.engineered_schematics.multiblock_schematic": "Blank Schematic",
+    "item.engineered_schematics.multiblock_schematic.error": "Block Error",
+    "item.engineered_schematics.multiblock_schematic.formed": "Complete",
+    "item.engineered_schematics.multiblock_schematic.specific": "%s Schematic",
+    "item.engineered_schematics.multiblock_schematic.specific.mirrored": "Mirrored %s Schematic",
+    "itemGroup.engineered_schematics": "Engineered Schematics",
+    "language": "English",
+    "language.code": "en_us",
+    "language.region": "United States",
+    "manual.engineered_schematics.main": "Engineered Schematics"
+}

@@ -1,0 +1,12 @@
+{
+    "effect.humans_refuted.acid_spit": "Acid Spit",
+    "entity.humans_refuted.humans_refuted": "Humans Refuted",
+    "entity.humans_refuted.humans_refuted_egg": "Humans Refuted Egg",
+    "entity.humans_refuted.humans_refuted_spawn": "Humans Refuted",
+    "item.humans_refuted.humans_refuted_egg_spawn_egg": "Humans Refuted Egg Spawn Egg",
+    "item.humans_refuted.humans_refuted_spawn_egg": "Humans Refuted Spawn Egg",
+    "item.humans_refuted.humans_refuted_spawn_spawn_egg": "Humans Refuted Spawn Egg",
+    "subtitles.entity.humans_refuted.ambient": "Humans Refuted Ambient",
+    "subtitles.entity.humans_refuted.death": "Humans Refuted Death",
+    "subtitles.entity.humans_refuted.hurt": "Humans Refuted Hurt"
+}

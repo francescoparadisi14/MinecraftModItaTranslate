@@ -1,0 +1,4 @@
+{
+    "mod.nostructureoverlap.description": "Prevents structure bounding boxes from overlapping during world generation",
+    "mod.nostructureoverlap.name": "No Structure Overlap"
+}

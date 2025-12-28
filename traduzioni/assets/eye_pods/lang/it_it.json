@@ -1,0 +1,16 @@
+{
+    "entity.eye_pods.blue_eye_pod": "SCP-131",
+    "entity.eye_pods.eye_pod_spawn": "Spawn SCP-131",
+    "entity.eye_pods.green_eye_pod": "SCP-131",
+    "entity.eye_pods.red_eye_pod": "SCP-131",
+    "entity.eye_pods.yellow_eye_pod": "SCP-131",
+    "item.eye_pods.blue_eye_pod_spawn_egg": "Uova di spawn SCP-131",
+    "item.eye_pods.blue_scp_131": "SCP-131",
+    "item.eye_pods.eye_pod_spawn_spawn_egg": "Uova di spawn SCP-131",
+    "item.eye_pods.green_eye_pod_spawn_egg": "Uova di spawn SCP-131",
+    "item.eye_pods.green_scp_131": "SCP-131",
+    "item.eye_pods.red_eye_pod_spawn_egg": "Uova di spawn SCP-131",
+    "item.eye_pods.red_scp_131": "SCP-131",
+    "item.eye_pods.yellow_eye_pod_spawn_egg": "Uova di spawn SCP-131",
+    "item.eye_pods.yellow_scp_131": "SCP-131"
+}

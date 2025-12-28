@@ -1,0 +1,13 @@
+{
+    "entity.anatashesha.anatashesha": "Anatashesha",
+    "entity.anatashesha.anatashesha_jumping": "Anatashesha",
+    "entity.anatashesha.anatashesha_jumping_spawn": "Anatashesha",
+    "gamerule.enableAnatasheshaSpawn": "Enable Anatashesha Spawn",
+    "gamerule.enableAnatasheshaSpawn.description": "Enables SCP-3000 to spawn",
+    "item.anatashesha.anatashesha_jumping_spawn_egg": "Anatashesha Spawn Egg",
+    "item.anatashesha.anatashesha_spawn_egg": "Anatashesha Spawn Egg",
+    "subtitles.entity.anatashesha.ambient": "Anatashesha Growls",
+    "subtitles.entity.anatashesha.death": "Anatashesha Dies",
+    "subtitles.entity.anatashesha.hurt": "Anatashesha Hurt",
+    "subtitles.entity.anatashesha.spawn": "Anatashesha Spawn"
+}

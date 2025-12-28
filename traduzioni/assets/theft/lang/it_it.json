@@ -1,0 +1,19 @@
+{
+    "cooldown.theft.left": "Aspetta per rubare di nuovo!",
+    "enchantment.theft.pocket_chain": "Catena di tasca",
+    "enchantment.theft.pocket_chain.description": "Impedisce al ladro di rubare il tuo oggetto.",
+    "gui.theft.stealing": "Furtiva",
+    "item.theft.glove": "Guanto del ladro",
+    "item.theft.glove.lore.1": "Clicca destro su una spalla di un giocatore",
+    "item.theft.glove.lore.2": "Mentre ti inginocchi per rubarlo!",
+    "item.theft.glove.lore.3": "",
+    "item.theft.missing": "oggetto rubato",
+    "item.theft.missing.lore.1": "rubato in §7%a§7 tempo fa.",
+    "item.theft.missing.lore.2": "Clicca per rimuovere.",
+    "tab.theft.name": "Mod di furto",
+    "timeframe.theft.and": "e",
+    "timeframe.theft.day": "giorno",
+    "timeframe.theft.hour": "ora",
+    "timeframe.theft.minute": "minuto",
+    "timeframe.theft.second": "Secondo"
+}

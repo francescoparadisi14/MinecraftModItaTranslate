@@ -1,0 +1,16 @@
+{
+    "item.walkingcanes.bamboo_cane": "Bamboo Cane",
+    "item.walkingcanes.clump": "Membrane Clump",
+    "item.walkingcanes.ravager_horn": "Ravager Horn",
+    "item.walkingcanes.sea_cane": "Cane of the Sea",
+    "item.walkingcanes.shulker_cane": "Shulker Cane",
+    "item.walkingcanes.sword_cane": "Cane Sword",
+    "item.walkingcanes.tooth": "Polar Bear Tooth",
+    "item.walkingcanes.tooth_cane": "Walking Cane",
+    "item.walkingcanes.totem_cane": "Cane of Undying",
+    "itemGroup.walkingcanes_tab": "Walking Canes",
+    "tooltip.walkingcanes.sea_cane": "§eMakes you stride through water more efficiently§r",
+    "tooltip.walkingcanes.shulker_cane": "§eImproves the elytra's flight capabilities§r",
+    "tooltip.walkingcanes.sword_cane": "§eHas a blade hidden inside§r",
+    "tooltip.walkingcanes.totem_cane": "§eSaves you from death but only once§r"
+}

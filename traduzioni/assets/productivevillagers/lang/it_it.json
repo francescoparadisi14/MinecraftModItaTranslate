@@ -1,0 +1,18 @@
+{
+    "block.productivevillagers.workstation_depot": "Depot di stazione di lavoro",
+    "tooltip.productivevillagers.job_chop": "Raccoglie legno dalle piante circostanti",
+    "tooltip.productivevillagers.job_enchant": "Incantesimi sui libri",
+    "tooltip.productivevillagers.job_farm": "Raccoglie colture",
+    "tooltip.productivevillagers.job_finder": "Trova strutture vicine",
+    "tooltip.productivevillagers.job_fish": "Pesca acqua vicina",
+    "tooltip.productivevillagers.job_heal_aura": "Ricovera i vicini",
+    "tooltip.productivevillagers.job_meat_slice": "Raccoglie mostri",
+    "tooltip.productivevillagers.job_mine": "Esplora giacimenti vicini",
+    "tooltip.productivevillagers.job_process_stack": "Elabora pile di materiale grezzo",
+    "tooltip.productivevillagers.job_repair_bows": "Riparazione di archi e pistole a palla",
+    "tooltip.productivevillagers.job_repair_heavy_armor": "Riparazione armatura pesante",
+    "tooltip.productivevillagers.job_repair_leather_armor": "Riparazione armatura in pelle",
+    "tooltip.productivevillagers.job_repair_tools": "Riparazione di strumenti",
+    "tooltip.productivevillagers.job_repair_weapons": "Riparazione armi",
+    "tooltip.productivevillagers.job_shear": "Taglia pecore"
+}

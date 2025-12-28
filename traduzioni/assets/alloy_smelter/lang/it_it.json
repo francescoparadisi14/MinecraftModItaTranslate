@@ -1,0 +1,16 @@
+{
+    "block.alloy_smelter.alloy_smelter_controller": "Controllore forgiatore di leghe",
+    "block.alloy_smelter.forge_controller_tier1": "Controllore forgiatore in mattoni",
+    "block.alloy_smelter.forge_controller_tier2": "Controllore forgiatore in pietra nera lucida",
+    "block.alloy_smelter.forge_controller_tier3": "Controllore forgiatore di pietra di fine terra",
+    "gui.alloy_smelter.alloy_smelter_controller": "Raffinazione",
+    "gui.alloy_smelter.forge_tier": "Livello di fusione Forge:",
+    "itemGroup.alloy_smelter.alloy_smelter": "Fonderia di leghe",
+    "language": "inglese",
+    "language.code": "Inglese (Stati Uniti)",
+    "language.region": "Stati Uniti d'America",
+    "message.alloy_smelter.invalid_multiblock": "Configurazione di blocco multipla non valida",
+    "rei.alloy_smelter.forge_controller_tier1": "Fusione (livello 1)",
+    "rei.alloy_smelter.forge_controller_tier2": "Fusione (livello 2)",
+    "rei.alloy_smelter.forge_controller_tier3": "Fusione (livello 3)"
+}

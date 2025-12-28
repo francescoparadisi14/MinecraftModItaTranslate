@@ -1,0 +1,16 @@
+{
+    "tetra.material.apple": "Legno di mela",
+    "tetra.material.apple.prefix": "legno di mela",
+    "tetra.material.coconut": "Cocco",
+    "tetra.material.coconut.prefix": "Coconut",
+    "tetra.material.dark_cherry": "Ciliegio scuro",
+    "tetra.material.dark_cherry.prefix": "Dark Cherry",
+    "tetra.material.limestone": "Calcestruzzo",
+    "tetra.material.limestone.prefix": "Limestone",
+    "tetra.material.palm": "Palo",
+    "tetra.material.palm.prefix": "Palm-",
+    "tetra.material.pine": "Pino",
+    "tetra.material.pine.prefix": "Pino",
+    "tetra.material.seashell": "Conchiglia",
+    "tetra.material.seashell.prefix": "Conchiglia"
+}

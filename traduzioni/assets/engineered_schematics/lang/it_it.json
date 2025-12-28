@@ -1,0 +1,23 @@
+{
+    "block.engineered_schematics.schematic_table_block": "Tavola di schemi ingegnerizzati",
+    "desc.engineered_schematics.info.schematic.block_info": "Tieni [%s] per materiali",
+    "desc.engineered_schematics.info.schematic.ie_tier": "Martello dell'ingegnere",
+    "desc.engineered_schematics.info.schematic.moved": "Schematica spostata",
+    "desc.engineered_schematics.info.schematic.no_multiblock": "Schemi vuoti",
+    "desc.engineered_schematics.info.schematic.placed": "Schematica creativa posta (solo in modalità creativa)",
+    "desc.engineered_schematics.info.schematic.rotated": "Schematica ruotata",
+    "desc.engineered_schematics.info.schematic.size": "Dimensione del disegno: %s",
+    "desc.engineered_schematics.info.schematic.tier": "Questo può essere formato utilizzando il livello %s",
+    "desc.engineered_schematics.schematic_table": "Tavola di schemi ingegnerizzati",
+    "engineered_schematics.gui.schematic_table.mirror": "Riflessa",
+    "item.engineered_schematics.multiblock_schematic": "Scheda di blocchi vuota",
+    "item.engineered_schematics.multiblock_schematic.error": "Errore di blocco",
+    "item.engineered_schematics.multiblock_schematic.formed": "completo",
+    "item.engineered_schematics.multiblock_schematic.specific": "Schematica di blocco specifica %s",
+    "item.engineered_schematics.multiblock_schematic.specific.mirrored": "Scheda di blocco speciale riflessa %s",
+    "itemGroup.engineered_schematics": "Schemi ingegnerizzati",
+    "language": "inglese",
+    "language.code": "en_us",
+    "language.region": "Stati Uniti d'America",
+    "manual.engineered_schematics.main": "Schemi ingegnerizzati"
+}

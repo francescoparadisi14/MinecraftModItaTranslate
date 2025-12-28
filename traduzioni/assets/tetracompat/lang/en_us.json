@@ -1,0 +1,12 @@
+{
+    "tetra.stats.tetracompat:crystal_magnetizable": "Magnetizable Crystal",
+    "tetra.stats.tetracompat:crystal_magnetizable.tooltip": "Crystal that can be magnetized",
+    "tetra.stats.tetracompat:crystal_magnetizable.tooltip_short": "Crystal that can be magnetized",
+    "tetra.stats.tetracompat:magnetizable": "Magnetizable",
+    "tetra.stats.tetracompat:magnetizable.tooltip": "Metal that can be magnetized",
+    "tetra.stats.tetracompat:magnetizable.tooltip_short": "Metal that can be magnetized",
+    "tetracompat.effect.crystal_magnetizable.name": "Magnetizable Crystal",
+    "tetracompat.effect.crystal_magnetizable.tooltip": "Crystal that can be magnetized",
+    "tetracompat.effect.magnetizable.name": "Magnetizable",
+    "tetracompat.effect.magnetizable.tooltip": "Metal that can be magnetized"
+}

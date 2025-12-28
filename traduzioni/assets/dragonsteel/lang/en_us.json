@@ -1,5 +1,11 @@
 {
+    "block.dragonsteel.dragonsteel_block": "Dragonsteel Block",
     "block.dragonsteel.star_alloy_block": "Star Alloy Block",
+    "item.dragonsteel.dragon_smithing_template": "Dragon Smithing Template",
+    "item.dragonsteel.dragon_smithing_template_fire": "Fire Dragon Smithing Template",
+    "item.dragonsteel.dragon_smithing_template_ice": "Ice Dragon Smithing Template",
+    "item.dragonsteel.dragon_smithing_template_lightning": "Lightning Dragon Smithing Template",
+    "item.dragonsteel.dragonsteel_ingot": "Dragonsteel Ingot",
     "item.dragonsteel.ender_dragonsteel_axe": "Ender Dragonsteel Axe",
     "item.dragonsteel.ender_dragonsteel_ingot": "Ender Dragonsteel Ingot",
     "item.dragonsteel.ender_dragonsteel_pickaxe": "Ender Dragonsteel Pickaxe",
@@ -13,5 +19,6 @@
     "item.dragonsteel.star_alloy_pickaxe": "Star Alloy Pickaxe",
     "item.dragonsteel.star_alloy_shovel": "Star Alloy Shovel",
     "item.dragonsteel.star_alloy_sword": "Star Alloy Sword",
-    "item.dragonsteel.star_alloy_upgrade_smithing_template": "Star Alloy Upgrade Smithing Template"
+    "item.dragonsteel.star_alloy_upgrade_smithing_template": "Star Alloy Upgrade Smithing Template",
+    "itemGroup.dragonsteel_tab": "Ice and Fire: Dragonsteel"
 }

@@ -1,0 +1,19 @@
+{
+    "command.paucal.contributor": "%s è un contributore! livello di patron: %s. è sviluppatore: %s. è cool: %s. %s entry totali.",
+    "command.paucal.contributor.not_contributor": "%s non è un contributore",
+    "command.paucal.patSelf.bad_count": "Dovrebbe avere corrisposto esattamente un giocatore, ma invece ha ottenuto %s",
+    "command.paucal.patSelf.disabled": "I headpat sono disabilitati nella configurazione.",
+    "command.paucal.reload": "Sta ricaricando i contributori...",
+    "command.paucal.reload.disabled": "I contributor sono disabilitati nella configurazione.",
+    "message.paucal.patron": "Ehi, %s! grazie per il sostegno su Patreon e per aiutarmi a creare più mod Minecraft fantastici. :) -- petrak @",
+    "paucal.subtitles.pet.bwop": "Robot fa rumori di bwop",
+    "paucal.subtitles.pet.device": "il dispositivo emette un beep",
+    "paucal.subtitles.pet.neko": "Il gatto ronza",
+    "paucal.subtitles.pet.slime": "Il lombrico va schiacciato",
+    "paucal.subtitles.pet.splat": "SPLAT",
+    "paucal.subtitles.pet.tick": "Giri del dispositivo",
+    "paucal.subtitles.pet.ultrainstinct": "Maddy è un memelord",
+    "paucal.subtitles.pet.wire": "Il filo va \"mmm\"",
+    "stat.paucal.headpats_gotten": "Pattini sulla testa ricevuti",
+    "stat.paucal.players_patted": "Pattinate dati"
+}

@@ -1,0 +1,12 @@
+{
+    "death.attack.insomnia": "%s è morto di insomnie",
+    "effect.sleep_killer.insomnia": "insonnia",
+    "entity.sleep_killer.sleep_killer": "Assassino del sonno",
+    "entity.sleep_killer.sleep_killer_spawn": "Uccisore del sonno",
+    "item.sleep_killer.sleep_killer_spawn_egg": "Uovo di spawn del killer del sonno",
+    "item.sleep_killer.sleep_killer_spawn_spawn_egg": "Uovo di spawn del killer del sonno",
+    "subtitles.entity.sleep_killer.ambient": "Sussurro del killer del sonno",
+    "subtitles.entity.sleep_killer.death": "Morte da assassino del sonno",
+    "subtitles.entity.sleep_killer.hurt": "Un assassino del sonno si è ferito",
+    "subtitles.entity.sleep_killer.shoot": "Uccisore di sonno spara"
+}

@@ -1,0 +1,12 @@
+{
+    "death.attack.turn": "%s turned into a Flesh Beast.",
+    "entity.lovecraftian_locket.scp_427": "SCP-427",
+    "entity.lovecraftian_locket.scp_4271": "Flesh Beast",
+    "item.lovecraftian_locket.lovecraftian_locket": "SCP-427",
+    "item.lovecraftian_locket.lovecraftian_locket_open": "SCP-427",
+    "item.lovecraftian_locket.scp_4271_spawn_egg": "Flesh Beast Spawn Egg",
+    "item.lovecraftian_locket.scp_427_spawn_egg": "SCP-427 Spawn Egg",
+    "subtitles.entity.flesh_beast.ambient": "Flesh Beast Growls",
+    "subtitles.entity.flesh_beast.death": "Flesh Beast Dies",
+    "subtitles.entity.flesh_beast.hurt": "Flesh Beast Hurt"
+}

@@ -1,0 +1,16 @@
+{
+    "block.alloy_smelter.alloy_smelter_controller": "Alloy Smelter Controller",
+    "block.alloy_smelter.forge_controller_tier1": "Brick Forge Controller",
+    "block.alloy_smelter.forge_controller_tier2": "Polished Blackstone Forge Controller",
+    "block.alloy_smelter.forge_controller_tier3": "End Stone Brick Forge Controller",
+    "gui.alloy_smelter.alloy_smelter_controller": "Smelting",
+    "gui.alloy_smelter.forge_tier": "Forge Tier:",
+    "itemGroup.alloy_smelter.alloy_smelter": "Alloy Smelter",
+    "language": "English",
+    "language.code": "en_us",
+    "language.region": "United States",
+    "message.alloy_smelter.invalid_multiblock": "Invalid Multiblock Configuration",
+    "rei.alloy_smelter.forge_controller_tier1": "Smelting (Tier 1)",
+    "rei.alloy_smelter.forge_controller_tier2": "Smelting (Tier 2)",
+    "rei.alloy_smelter.forge_controller_tier3": "Smelting (Tier 3)"
+}

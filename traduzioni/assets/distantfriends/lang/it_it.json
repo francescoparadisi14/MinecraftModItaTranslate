@@ -1,0 +1,16 @@
+{
+    "distantfriends.configuration.addWhitelistPlayers": "Aggiungi giocatori alla lista bianca",
+    "distantfriends.configuration.addWhitelistPlayers.tooltip": "Aggiungi i giocatori della lista bianca alla lista degli amici [predefinito: vero]",
+    "distantfriends.configuration.compat_settings": "Impostazioni di compatibilità",
+    "distantfriends.configuration.compat_settings.tooltip": "Impostazioni di compatibilità",
+    "distantfriends.configuration.friend_settings": "Impostazioni amici",
+    "distantfriends.configuration.friend_settings.tooltip": "Impostazioni amici",
+    "distantfriends.configuration.friends": "Amici",
+    "distantfriends.configuration.friends.tooltip": "Elenco di utenti che possono essere selezionati quando si genera un amico a distanza",
+    "distantfriends.configuration.playerMobsCompat": "Compatibilità mostri giocatore",
+    "distantfriends.configuration.playerMobsCompat.tooltip": "Aggiungi giocatori da una lista di mostri dei giocatori alla lista degli amici [predefinito: falso]",
+    "distantfriends.configuration.playerMobsNameLinks": "Collegamenti nome mob giocatore",
+    "distantfriends.configuration.playerMobsNameLinks.tooltip": "Il collegamento del nome dei mostri del giocatore",
+    "distantfriends.configuration.title": "Configurazione amici lontani",
+    "entity.distantfriends.friend": "Amico lontano"
+}

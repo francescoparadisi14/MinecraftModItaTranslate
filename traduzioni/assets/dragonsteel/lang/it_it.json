@@ -1,5 +1,11 @@
 {
+    "block.dragonsteel.dragonsteel_block": "Blocco di dragonsteel",
     "block.dragonsteel.star_alloy_block": "Blocco di lega stellare",
+    "item.dragonsteel.dragon_smithing_template": "Modello di lavorazione del drago",
+    "item.dragonsteel.dragon_smithing_template_fire": "Modello di fonderia drago del fuoco",
+    "item.dragonsteel.dragon_smithing_template_ice": "Modello di fonderia drago di ghiaccio",
+    "item.dragonsteel.dragon_smithing_template_lightning": "Modello di fonderia drago di fulmine",
+    "item.dragonsteel.dragonsteel_ingot": "Ingot di dragonsteel",
     "item.dragonsteel.ender_dragonsteel_axe": "Ascia di drago di fine dragonsteel",
     "item.dragonsteel.ender_dragonsteel_ingot": "Ingot di ferro dell'Ultimo Drago",
     "item.dragonsteel.ender_dragonsteel_pickaxe": "Pickaxe di ferro dell'Ultimo Drago",
@@ -13,5 +19,6 @@
     "item.dragonsteel.star_alloy_pickaxe": "Pickaxe in lega stellare",
     "item.dragonsteel.star_alloy_shovel": "Spalatore di lega stellare",
     "item.dragonsteel.star_alloy_sword": "Spada di alluminio stellare",
-    "item.dragonsteel.star_alloy_upgrade_smithing_template": "Template di lavorazione in lega stellare per spada drago"
+    "item.dragonsteel.star_alloy_upgrade_smithing_template": "Template di lavorazione in lega stellare per spada drago",
+    "itemGroup.dragonsteel_tab": "Ice and Fire: Dragonsteel"
 }

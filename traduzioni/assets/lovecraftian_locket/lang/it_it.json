@@ -1,0 +1,12 @@
+{
+    "death.attack.turn": "%s si è trasformato in un mostro di carne.",
+    "entity.lovecraftian_locket.scp_427": "SCP-427",
+    "entity.lovecraftian_locket.scp_4271": "Bestia di carne",
+    "item.lovecraftian_locket.lovecraftian_locket": "SCP-427",
+    "item.lovecraftian_locket.lovecraftian_locket_open": "SCP-427",
+    "item.lovecraftian_locket.scp_4271_spawn_egg": "Uova di spawn del mostro carnale",
+    "item.lovecraftian_locket.scp_427_spawn_egg": "Uova di spawn SCP-427",
+    "subtitles.entity.flesh_beast.ambient": "Il mostro di carne ringhia",
+    "subtitles.entity.flesh_beast.death": "Muore un mostro di carne",
+    "subtitles.entity.flesh_beast.hurt": "Bestia di carne ferita"
+}

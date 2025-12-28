@@ -1,0 +1,8 @@
+{
+    "entity.guardillagers.guard_illager": "Guard Illager",
+    "guardillagers:subtitles.guardillager.ambient": "GuardIllager murmur",
+    "guardillagers:subtitles.guardillager.die": "GuardIllager die",
+    "guardillagers:subtitles.guardillager.hurt": "GuardIllager hurts",
+    "item.guardillagers.guard_helm": "Guard's Helm",
+    "item.guardillagers.guard_illager_egg": "Guard Illager Spawn Egg"
+}
