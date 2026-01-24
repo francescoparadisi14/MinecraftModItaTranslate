@@ -1,0 +1,10 @@
+{
+    "pneumaticcraft.armor.upgrade.tcgadditions.become_plane": "Diventare aereo",
+    "pneumaticcraft.armor.upgrade.tcgadditions.become_plane.desc": "Sblocca la tua telecamera e il modello del giocatore per ruotare, permettendo di eseguire virate a barilotto e capriole. I meccanismi di volo vengono modificati in modo che le inclinazioni e le rotazioni influenzino la tua velocità e direzione.",
+    "tcgadditions.insert": "inserisci (con sfondo blu)",
+    "tcgadditions.insert.disabled": "disabilitato",
+    "tcgadditions.inserted.cards.multiple": "%s carte inserite.",
+    "tcgadditions.inserted.cards.none": "nessun carta inserita.",
+    "tcgadditions.inserted.cards.single": "1 carta inserita.",
+    "tcgadditions.not_server": "Tcg aggiunte non sono installate sul server!"
+}

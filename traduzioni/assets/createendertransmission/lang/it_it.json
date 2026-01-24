@@ -1,0 +1,19 @@
+{
+    "block.createendertransmission.chunk_loader": "Caricatore di chunk",
+    "block.createendertransmission.energy_transmitter": "Trasmettitore di energia",
+    "block.createendertransmission.fluid_transmitter": "Trasmettitore di fluidi",
+    "block.createendertransmission.item_transmitter": "Trasmettitore di oggetti",
+    "create.gui.transmitter.channel_title": "Canale rete",
+    "createendertransmission.chunk_loader.loaded": "Caricatore di blocchi caricati %1$s blocchi vicini",
+    "itemGroup.ender_transmission": "Gruppo di oggetti trasmissione fine",
+    "transmitter.network.1": "Rete 1",
+    "transmitter.network.10": "Rete 10",
+    "transmitter.network.2": "Rete 2",
+    "transmitter.network.3": "Rete 3",
+    "transmitter.network.4": "Rete 4",
+    "transmitter.network.5": "Rete 5",
+    "transmitter.network.6": "Reti di trasmissione 6",
+    "transmitter.network.7": "Rete 7",
+    "transmitter.network.8": "Rete 8",
+    "transmitter.network.9": "Rete 9"
+}

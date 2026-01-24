@@ -1,0 +1,17 @@
+{
+    "advancements.mace_windu_advancement.descr": "Il Senato deciderà il tuo destino...",
+    "advancements.mace_windu_advancement.title": "È tradimento allora",
+    "advancements.over_overkill.descr": "Infliggere 50 punti vita con un colpo singolo utilizzando la martello.",
+    "advancements.over_overkill.title": "Over-overkill",
+    "enchantment.mace_backport.breach": "Intrusione",
+    "enchantment.mace_backport.density": "Densità",
+    "enchantment.mace_backport.wind_burst": "Raffica di vento",
+    "gamerule.maceDamageCap": "Limite danno martello",
+    "gamerule.maceDamageCap.description": "Limite massimo del danno che può infliggere la mazza (-1 è infinito)",
+    "gamerule.maceDebugMode": "Modalità di debug del martello",
+    "gamerule.maceDebugMode.description": "Abilita o disabilita il modalità di debug per il modulo Mace",
+    "item.mace_backport.mace": "Mazza",
+    "subtitles.mace_smash_air": "Si schianta la mazza aria",
+    "subtitles.mace_smash_ground": "La mazza schianta il terreno",
+    "subtitles.mace_smash_ground_heavy": "Il martello di guerra colpisce con forza"
+}

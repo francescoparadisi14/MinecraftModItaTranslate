@@ -1,0 +1,6 @@
+{
+    "jea.advancement.incomplete": "L'avanzamento non è stato completato ancora.",
+    "jea.advancement.partial": "Avanzamento \"%s\" completato.",
+    "jea.advancement.partial.simple": "Avanzamento parzialmente completato.",
+    "jea.category.advancement": "Progressione"
+}

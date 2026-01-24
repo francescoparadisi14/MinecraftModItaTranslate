@@ -36,6 +36,8 @@
     "config.tacz.client.render.disable_movement_fov.desc": "Disabilita tutti gli effetti FOV dovuti all'attributo: \"velocità di movimento con arma\"",
     "config.tacz.client.render.enable_tooltip_id": "Display TACZ ID",
     "config.tacz.client.render.enable_tooltip_id.desc": "Display the gun\/ammo\/attachment id in item tooltip when advanced tooltip(F3+H) is on.",
+    "config.tacz.client.render.enable_translucent": "Abilita traslucidezza per entità di blocco",
+    "config.tacz.client.render.enable_translucent.desc": "Abilita la trasparenza durante la renderizzazione degli entità di blocco come tavola del fabbro o statua. L'abilitazione di questa opzione comporterà un aumento del carico di prestazioni aggiuntivo.",
     "config.tacz.client.render.first_person_bullet_tracer_enable": "Abiilita proiettili traccianti in prima persona",
     "config.tacz.client.render.first_person_bullet_tracer_enable.desc": "Se renderizzare o meno la scia del proiettile in prima persona",
     "config.tacz.client.render.gun_hud_enable": "Attivare l'interfaccia dell'arma",

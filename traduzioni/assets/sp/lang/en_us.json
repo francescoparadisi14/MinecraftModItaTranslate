@@ -1,0 +1,19 @@
+{
+    "block.sp.camera": "Camera",
+    "block.sp.monitor": "Monitor",
+    "item.sp.flashlight_module": "Flashlight Module",
+    "item.sp.lens_module": "Lens Module",
+    "item.sp.mapper": "Mapper",
+    "item.sp.motion_detector_module": "Motion Detector Module",
+    "item.sp.nightvision_module": "Nightvision Module",
+    "item.sp.redstone_module": "Redstone Module",
+    "item.sp.tablet": "Tablet",
+    "itemGroup.sp": "Surveillance Package",
+    "key.category.sp.binds": "Camera binds",
+    "key.sp.crawling": "Crawling bind",
+    "key.sp.lock": "Lock Camera",
+    "subtitles.block.camera.open": "Camera selected",
+    "subtitles.flashlight.use": "Flashlight enabled",
+    "subtitles.item.tablet.use": "Tablet used",
+    "subtitles.night_vision.use": "Night Vision enabled"
+}

@@ -1,0 +1,12 @@
+{
+    "block.randomium.randomium_block": "Randomium Block",
+    "block.randomium.randomium_ore": "Randomium Ore",
+    "block.randomium.randomium_ore_deepslate": "Deepslate Randomium Ore",
+    "block.randomium.randomium_ore_end": "End Randomium Ore",
+    "block.randomium.randomium_stabilized": "Stabilized Randomium",
+    "entity.randomium.moving_block": "End Randomium Ore",
+    "item.randomium.any_item": "[Any Item]",
+    "item.randomium.randomium": "Randomium",
+    "message.randomium.description": "Unstable, morphs when crafted",
+    "randomium.jei.duplicate": "Duplicates"
+}

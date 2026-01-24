@@ -1,0 +1,23 @@
+{
+    "item.wyrmroostpatch.alpine_feed": "Honey Treat",
+    "item.wyrmroostpatch.bfl_feed": "Kelp-Wrapped Meat",
+    "item.wyrmroostpatch.breed_resetter": "Breed Counter Resetting Stick",
+    "item.wyrmroostpatch.feed.tooltip_alp": "Feed this to an alpine dragon to breed it.",
+    "item.wyrmroostpatch.feed.tooltip_alp_half": "Feed this to a second alpine dragon to breed it.",
+    "item.wyrmroostpatch.feed.tooltip_bfl": "Feed this to a butterfly leviathan to breed it.",
+    "item.wyrmroostpatch.feed.tooltip_bfl_half": "Feed this to a second butterfly leviathan to breed it.",
+    "item.wyrmroostpatch.feed.tooltip_fail": "Tooltip generation failed, dragon not recognized.",
+    "item.wyrmroostpatch.feed.tooltip_null": "Null dragon error",
+    "item.wyrmroostpatch.half_alpine_feed": "Half-Eaten Honey Treat",
+    "item.wyrmroostpatch.half_bfl_feed": "Half-Eaten Kelp-Wrapped Meat",
+    "item.wyrmroostpatch.halfnugget": "Half-Eaten Gold Nugget",
+    "item.wyrmroostpatch.halfnugget.tooltip": "Feed this to another rooststalker to breed it.",
+    "item.wyrmroostpatch.honey_tincture": "Honey Alpine Tincture",
+    "item.wyrmroostpatch.mint_tincture": "Mint Alpine Tincture",
+    "item.wyrmroostpatch.raven_tincture": "Raven Alpine Tincture",
+    "item.wyrmroostpatch.rose_tincture": "Rose Alpine Tincture",
+    "item.wyrmroostpatch.sky_tincture": "Bluesky Alpine Tincture",
+    "item.wyrmroostpatch.snowy_tincture": "Snowy Alpine Tincture",
+    "item.wyrmroostpatch.tincture_disabled": "Alpine recoloring is disabled by config.",
+    "item.wyrmroostpatch.tincture_tooltip": "Feed this to a tamed alpine dragon to change its color."
+}

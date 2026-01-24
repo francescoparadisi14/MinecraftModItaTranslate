@@ -1,0 +1,10 @@
+{
+    "pneumaticcraft.armor.upgrade.tcgadditions.become_plane": "Become Plane",
+    "pneumaticcraft.armor.upgrade.tcgadditions.become_plane.desc": "Unlock your camera and player model rotation allowing you to do barrel rolls and flips. Flight mechanics are changed to match, banking and rolling affect your speed and direction.",
+    "tcgadditions.insert": "§bInsert",
+    "tcgadditions.insert.disabled": "§7Disabled",
+    "tcgadditions.inserted.cards.multiple": "%s cards inserted.",
+    "tcgadditions.inserted.cards.none": "§bNo §fcards inserted.",
+    "tcgadditions.inserted.cards.single": "§b1 §fcard inserted.",
+    "tcgadditions.not_server": "§cTCG Additions is not installed on the server!"
+}

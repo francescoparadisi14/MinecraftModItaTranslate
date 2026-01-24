@@ -1,0 +1,17 @@
+{
+    "advancements.mace_windu_advancement.descr": "the senate will decide your fate...",
+    "advancements.mace_windu_advancement.title": "it's treason then",
+    "advancements.over_overkill.descr": "Deal 50 hearts of damage in a single hit using the Mace",
+    "advancements.over_overkill.title": "Over-Overkill",
+    "enchantment.mace_backport.breach": "Breach",
+    "enchantment.mace_backport.density": "Density",
+    "enchantment.mace_backport.wind_burst": "Wind Burst",
+    "gamerule.maceDamageCap": "Mace Damage Cap",
+    "gamerule.maceDamageCap.description": "Max damage the Mace can deal (-1 is infinite)",
+    "gamerule.maceDebugMode": "Mace Debug Mode",
+    "gamerule.maceDebugMode.description": "Toggles debug mode for the Mace mod",
+    "item.mace_backport.mace": "Mace",
+    "subtitles.mace_smash_air": "Mace Smashes Air",
+    "subtitles.mace_smash_ground": "Mace Smashes Ground",
+    "subtitles.mace_smash_ground_heavy": "Mace Lands a Heavy Blow"
+}

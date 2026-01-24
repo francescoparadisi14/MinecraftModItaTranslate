@@ -36,6 +36,8 @@
     "config.tacz.client.render.disable_movement_fov.desc": "Disable all fov effect from the movement speed attribute while holding a gun.",
     "config.tacz.client.render.enable_tooltip_id": "Display TACZ ID",
     "config.tacz.client.render.enable_tooltip_id.desc": "Display the gun\/ammo\/attachment id in item tooltip when advanced tooltip(F3+H) is on.",
+    "config.tacz.client.render.enable_translucent": "Enable Block Entity Translucent",
+    "config.tacz.client.render.enable_translucent.desc": "Should enable translucent while rendering block entity like gunsmith table or statue. Enable this option will result in ADDITIONAL PERFORMANCE OVERHEAD.",
     "config.tacz.client.render.first_person_bullet_tracer_enable": "First Person Bullet Tracer Enable",
     "config.tacz.client.render.first_person_bullet_tracer_enable.desc": "Whether or not to render first person bullet trail",
     "config.tacz.client.render.gun_hud_enable": "Gun HUD Enable",
