@@ -1,0 +1,173 @@
+{
+    "chapter.0E21FB2EFB41A583.title": "The start of something big",
+    "chapter.231570DE6A7FCD52.title": "When Dungeons Arise",
+    "chapter.403B16AA1D649552.title": "You wake up",
+    "chapter_group.4457617733E6E26B.title": "The Start",
+    "file.0000000000000001.title": "The Garden's Eden",
+    "quest.0331AC0315EBB66D.quest_desc": [
+        "Nestled among the trees, this lively tavern is usually a haven for villagers looking to unwind. Yet when the ale flows too freely, even the most peaceful patrons turn aggressive, defending their pub with surprising ferocity. Enter carefully or risk being caught in a drunken brawl."
+    ],
+    "quest.0331AC0315EBB66D.quest_subtitle": "Find a Greenwood Pub",
+    "quest.041A1C64A8468087.quest_desc": [
+        "Suspended high in the sky, this arrowhead-shaped airship drifts on a massive aft propeller. Boarding is perilous, but those who succeed will witness its strange and fearsome inhabitants riding boar-like beasts, their eyeless faces obscured by ominous cages. Danger and mystery ride with them across the clouds."
+    ],
+    "quest.041A1C64A8468087.quest_subtitle": "Find a Heavenly Rider",
+    "quest.07127A2700BF6919.title": "Let's Craft",
+    "quest.0B89EB36AC565461.quest_desc": [
+        "Deep within this subterranean city, the heat of molten lava and the hum of industry dominate the air. The Nether’s influence is strong here, fueling forges and animating Forge Sentinels that patrol every corridor. Only those prepared for fire and steel will survive, and claim the treasures forged within."
+    ],
+    "quest.0B89EB36AC565461.quest_subtitle": "Find a Foundry",
+    "quest.0CA67ACD52AAC179.title": "Better then gold, worse then Diamond",
+    "quest.0CE50A7F4F1A0E4D.quest_desc": [
+        "ladder stretches skyward, disappearing into the clouds. At its top floats a strange, floating vessel. What secrets or dangers await above, none can say… except that the view alone is enough to make even the bravest adventurer’s stomach turn."
+    ],
+    "quest.0CE50A7F4F1A0E4D.quest_subtitle": "Find a Small Blimp",
+    "quest.0DD7593B62A691D5.title": "First steps to paper",
+    "quest.120DC0FDA42EC436.quest_subtitle": "Welcome to The Garden's Eden! Thank you installing the pack. From here please do be warry as this is my first pack and first time doing quests. if you find any issues please do make a mention of it and i will try to find a way to fix it",
+    "quest.14857DBF1DCBF100.quest_desc": [
+        "Cresting the waves like a shadow of the past, this cursed vessel is crewed by skeletons that seem impossible to keep down. Every deck hides danger, every hold whispers of lost treasure and every strike you land may be fleeting. Only the bold (or the foolhardy) dare to face its relentless undead crew."
+    ],
+    "quest.14857DBF1DCBF100.quest_subtitle": "Find an Undead Pirate Ship",
+    "quest.188AAB5B74C6EAAE.quest_subtitle": "Discover an Infested Temple explorer map",
+    "quest.1C375606107C117F.quest_subtitle": "Find Keep Kayra",
+    "quest.1CCA31D9352C60E6.quest_desc": [
+        "Clustered around a towering central “grandmother” mushroom, these villages appear quaint from afar. Yet the villagers within are far more aggressive than their old-world counterparts, hiding a cunning fierceness beneath their colorful caps. Approach with caution as this village may welcome the unwary only to spring its traps."
+    ],
+    "quest.1CCA31D9352C60E6.quest_subtitle": "Find a mushroom village",
+    "quest.1CEF2A38948010A2.quest_desc": [
+        "Out on the open seas, the &6Illagers&r have taken to the waves, commandeering massive galleys and swift corsairs. Their sails cast long shadows, and their cannons roar with fury. Only the bravest dare to board, for fortune favors those who seize it."
+    ],
+    "quest.1CEF2A38948010A2.quest_subtitle": "Find an Illager Corsair or an Illager Galley",
+    "quest.1DBCB286842F6279.title": "Easy to mend",
+    "quest.1F10BC33D22328BD.quest_desc": [
+        "Time has claimed this once-sacred site, leaving its halls cracked and overgrown. Now, ghostly skeletons and trickster illusioners linger within, guarding little more than shadows of former glory. Though its dangers are real, the temple’s sturdy walls make it a tempting refuge for those seeking a foothold in this hostile world."
+    ],
+    "quest.1F10BC33D22328BD.quest_subtitle": "Find an Abandoned Temple",
+    "quest.1FF270329A0AECA3.quest_subtitle": "you find yourself somewhere unknown, yet you keep going",
+    "quest.1FF270329A0AECA3.title": "Awake",
+    "quest.21426F5EEC922866.quest_desc": [
+        "Half-submerged in the oceans lie the petrified remains of a colossal beast, its skeletal form stretching farther than the eye can follow. Was it a creature of the deep, dragged ashore in ages past—or did it fall from the heavens themselves? No records remain, only questions carved into stone."
+    ],
+    "quest.21426F5EEC922866.quest_subtitle": "Find a Typhon",
+    "quest.2A0A01BE836BB2AB.quest_desc": [
+        "A monument of grandeur and mystery, the Shiraz Palace sprawls in every direction, its halls twisting and turning beyond comprehension. Its purpose remains unknown, but its size and opulence are undeniable. Travelers beware: without a companion, it’s all too easy to lose your way in this labyrinthine estate."
+    ],
+    "quest.2A0A01BE836BB2AB.quest_subtitle": "Find the Shiraz Palace",
+    "quest.2A1B0386B7987DD3.quest_desc": [
+        "Vast and dreamlike, the Aviary stretches high into wtilight sky, its halls divided into four whimsical quadrants. Each one unfolds as a surreal scene—bright, strange, and perilous in its own way. To wander here feels like stepping beyond reality itself. Is this the journey’s end… or just another beginning?"
+    ],
+    "quest.2A1B0386B7987DD3.quest_subtitle": "Find an Aviary",
+    "quest.2B70445E6CD99EDB.quest_desc": [
+        "Strange structures have begun rising from the land. Mysterious dungeons, fortresses, and towers that pierce the skies. No one knows where they came from, only that they’re teeming with hostile creatures, forgotten treasures, and powerful secrets.",
+        "",
+        "Your task is to venture forth and uncover the mysteries of these ancient places. Each dungeon holds new dangers, but also the keys to survival: weapons, artifacts, and knowledge that will aid you in the trials ahead.",
+        "",
+        "Prepare yourself adventurer. &6Exploration&r and courage are the only ways to thrive in this world where the land itself rises against you."
+    ],
+    "quest.2DB4F395EA26DF4B.quest_subtitle": "Find a Coliseum",
+    "quest.2EFC5DBD8122A0AE.quest_desc": [
+        "Far below the surface lies a twisted network of chambers, where the air is thick with disease and shadow. Once a place of treatment, it now resembles a burial ground for forgotten rulers, its halls echoing with the whispers of those long lost. Only the brave (or the desperate) dare to tread these haunted corridors."
+    ],
+    "quest.2EFC5DBD8122A0AE.quest_subtitle": "Find a Plague Asylum",
+    "quest.339666D9A26C5D3F.quest_subtitle": "You start to get a feel of what you need to do",
+    "quest.339666D9A26C5D3F.title": "Miner",
+    "quest.33E91EB2C6EDD58C.title": "Upgrade",
+    "quest.36F3E20205C349E2.quest_subtitle": "You feel a bit less pain no longer needing to puch trees",
+    "quest.36F3E20205C349E2.title": "Chop Chop",
+    "quest.3D1C0F80B74B27D5.quest_subtitle": "Arrive at a Lighthouse",
+    "quest.3ECA226F08D5195F.quest_desc": [
+        "Hidden among hills and valleys, the monastery stands as a quiet refuge in a world of rising danger. Here, villagers tend to simple lives of prayer and work, untouched by Illager conquest. Though the halls hold little in the way of treasure, their sturdy walls and peaceful company make this an ideal sanctuary for weary adventurers."
+    ],
+    "quest.3ECA226F08D5195F.quest_subtitle": "Find a Monastery",
+    "quest.4118927D9D079DC8.quest_desc": [
+        "Rising like jagged thorns from the ground, these massive towers are defended by skeletons entwined with deadly roses. Each level is heavily fortified, and flying rose guards patrol the skies above. Only those who ascend to the top will claim the treasures and secrets hidden within."
+    ],
+    "quest.4118927D9D079DC8.quest_subtitle": "Visit the Thornborn Towers",
+    "quest.436231715C11E3BA.quest_desc": [
+        "Scattered across the wilds, small bands of Illagers set up camp beneath their distinctive purple tents. Though their supplies are meager and their loot scarce, their presence is a warning, the Illagers’ reach grows wider with every outpost."
+    ],
+    "quest.436231715C11E3BA.quest_subtitle": "Find an Illager Campsite",
+    "quest.43FC2914C24A6CD0.quest_subtitle": "When food is hard to hunt, its time to change things up",
+    "quest.43FC2914C24A6CD0.title": "Farming",
+    "quest.44D115281B0BFB75.quest_desc": [
+        "Whispers speak of a &9flying vessel&r that hovers above the world, shimmering with strange energy. Few dare approach, for those who return tell of eerie lights, warped corridors, and guardians not of this realm. Seek it out, if you dare—and uncover the secrets hidden within its metallic shell."
+    ],
+    "quest.44D115281B0BFB75.quest_subtitle": "Find a Giant Mushroom",
+    "quest.46E387229AF9684B.title": "Getting hotter",
+    "quest.4791FC0A2E834D85.quest_desc": [
+        "Dark magics linger in the depths of these dungeons, woven into items, halls, and even the very air. Power awaits the bold, but so do twisted fates for the careless."
+    ],
+    "quest.4791FC0A2E834D85.quest_subtitle": "Find a Bathhouse",
+    "quest.4A9F2459855FAC6A.title": "...or suger",
+    "quest.4E4052F7EAD4FDD6.quest_desc": [
+        "Bright banners and painted walls lure travelers closer, but inside these towering strongholds, chaos reigns. Each floor brims with bandits and traps, their laughter echoing as waves of foes pour from endless spawners. Conquer the towers, and their riches—and notoriety—are yours."
+    ],
+    "quest.4E4052F7EAD4FDD6.quest_subtitle": "Find the Bandit Towers",
+    "quest.509E9CA83FBC780E.quest_subtitle": "Find a Fishing Hut",
+    "quest.5100CFAD43E7D67A.quest_desc": [
+        "Rising like a monument to conquest, this sprawling fortress serves as a bastion of Illager power. Its many levels are patrolled by raiders and spellcasters, their banners declaring dominion over the land. Within its halls lie chambers of wealth, guarded by Evokers whose magic is as deadly as their stares."
+    ],
+    "quest.5100CFAD43E7D67A.quest_subtitle": "Find an Illager Fort",
+    "quest.53AF2B722A69DCDC.quest_desc": [
+        "Tucked away in the tall grass, this lonely house stands weathered and broken, its timbers groaning with age. Easy to overlook, it bears little more than the memory of those who once called it home. Still, even the smallest refuge can hold a story."
+    ],
+    "quest.53AF2B722A69DCDC.quest_subtitle": "Find a Small Prairie House",
+    "quest.541BBC35DA4F0B73.quest_desc": [
+        "Sprouting from a cluster of towering fungi, this outpost of miners has carved their livelihood into the surface world. Ruthless and territorial, they will defend their claim with tooth and nail. Whether the giant mushrooms shield them from the sun or serve some darker purpose, none can say. One truth remains certain: the mine runs rich with ore, for those bold enough to claim it."
+    ],
+    "quest.541BBC35DA4F0B73.quest_subtitle": "Find a Mushroom Mine",
+    "quest.5C12F4CC1F6F6C32.quest_desc": [
+        "Looming among the clouds, this massive airship bristles with defenses and hostile crew. Phantom-mounted fiends circle overhead, while fish-like raiders astride hoglins stalk the decks. Boarding it is no small feat. Tthose who triumph will etch their name among the few who dared challenge the skies."
+    ],
+    "quest.5C12F4CC1F6F6C32.quest_subtitle": "Find a Heavenly Challenger",
+    "quest.5E4E9E9192F3D62D.quest_subtitle": "Its going to be hot, but its for your own good",
+    "quest.63116691C92FD576.quest_desc": [
+        "A quiet spring hidden among the hills, its waters swirl mysteriously in the bottomless well. Travelers speak of subtle blessings for those brave enough to approach. Some even report a modest burst of speed for journeys ahead. Whether magic or rumor, the well offers a curious advantage to explorers."
+    ],
+    "quest.63116691C92FD576.quest_subtitle": "Find a Wishing Well",
+    "quest.6447492FAA873F93.quest_desc": [
+        "Suspended in the sky, this floating steampunk city glows in hues of orange and green. Strange, gear-driven inhabitants roam its platforms, each dominated by a singular central eye or monocle. Enter with caution, this mechanical hive is as clever as it is imposing, and its secrets are tightly guarded."
+    ],
+    "quest.6447492FAA873F93.quest_subtitle": "Find a Mechanical Nest",
+    "quest.67030CEFEC1CEF37.quest_desc": [
+        "Driven from their villages, these hardy merchants now wander the wilds, taking shelter beneath simple cyan and brown tents. Though weary from exile, they still offer trade and refuge to travelers brave enough to seek them out. In a world rising with danger, such camps are rare havens of trust."
+    ],
+    "quest.67030CEFEC1CEF37.quest_subtitle": "Find a Merchant Campsite",
+    "quest.6858E25E510AE0FA.quest_desc": [
+        "Drifting through the skies like a colossal squid, this otherworldly airship bristles with defenses. Phantom-riding monstrosities circle its hull, while fish-like warriors astride hoglins guard its decks. To face the Conqueror is to battle a skyborne legion. And only the strongest will claim victory."
+    ],
+    "quest.6858E25E510AE0FA.quest_subtitle": "Find a Heavenly Conqueror",
+    "quest.696FD7E71EF08600.title": "Can't cook it, but its good",
+    "quest.6A0237FADC519965.quest_desc": [
+        "From a distance, it looks peaceful. Fields of golden wheat swaying beside a proud windmill. But don’t be deceived: the Illagers tend no crops for trade. Behind the rustic facade lies a nest of evil, their blades as sharp as the sickles they carry."
+    ],
+    "quest.6A0237FADC519965.quest_subtitle": "Find an Illager Windmill",
+    "quest.6BFE5D35265080E6.quest_desc": [
+        "A sprawling underground stronghold, the Scorched Mines radiate in four cardinal directions from a central dome. Heat and shadows fill the tunnels, and danger lurks at every turn. Brave adventurers who navigate its branching paths may uncover riches, but only if they survive the hazards within."
+    ],
+    "quest.6BFE5D35265080E6.quest_subtitle": "Find the Scorched Mines",
+    "quest.6CB5ACBAAED66871.quest_desc": [
+        "Shaped from the stem and cap of a giant fungus, this whimsical dwelling offers a rare touch of charm in a perilous world. Lightly guarded and easy to claim, the mushroom house makes for a delightful refuge, perfect for any adventurer who’s ever dreamed of calling a mushroom home."
+    ],
+    "quest.6CB5ACBAAED66871.quest_subtitle": "Find a Mushroom House",
+    "quest.70327C3AC547B354.quest_desc": [
+        "Marked by its dark prismarine and yellow terracotta roof, this temple has long since fallen to corruption. Inside, swarms of spider-like creatures creep through its halls, striking with venom and ferocity. To enter is to step into a nest where every shadow crawls."
+    ],
+    "quest.70327C3AC547B354.quest_subtitle": "Find an Infested Temple",
+    "quest.7052C9A5A804E866.quest_desc": [
+        "A riot of color rises from the wilderness, marking the territory of a cunning band of raiders. Their homes are bright and inviting, but enter at your own risk. These defenders strike fast and often. Those who prevail will find spoils and secrets hidden among the lively façades."
+    ],
+    "quest.7052C9A5A804E866.quest_subtitle": "Find a Bandit Village",
+    "quest.71C3C6CF7AD73C96.title": "Hot",
+    "quest.73D5EE5238C37982.quest_desc": [
+        "In the wilds rests the skeletal form of a great creature. its skeleton stretching skyward like branches of pale bone. Whether a relic of forgotten myth or a beast once hunted to extinction, none can say. Its silent frame endures as a monument to creatures long lost."
+    ],
+    "quest.73D5EE5238C37982.quest_subtitle": "Find a Ceryneian Hind",
+    "quest.74F0819B5C1A8504.title": "getting somewhere",
+    "quest.76DAECF378BA3F19.quest_desc": [
+        "Far beneath the surface lies a labyrinth of rails and tunnels, carved by long-forgotten hands. The air is thick with dust and danger. Creatures lurk in the shadows, and the echoes of minecarts rattle through the dark. Yet for those who endure, veins of treasure and hidden chambers make the descent worthwhile."
+    ],
+    "quest.76DAECF378BA3F19.quest_subtitle": "Find a Mining System",
+    "reward_table.7DFE203D200A8C43.title": "Seeds",
+    "task.1E98B32669C0B8E4.title": "Welcome"
+}

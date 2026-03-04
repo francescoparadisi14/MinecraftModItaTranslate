@@ -1,0 +1,11 @@
+{
+    "tim_core.bits.someone_else": "qualcun altro",
+    "tim_core.buckets.common": "Comune",
+    "tim_core.buckets.rare": "Raro",
+    "tim_core.buckets.ultra_rare": "Estremamente raro",
+    "tim_core.buckets.uncommon": "Non comune",
+    "tim_core.buckets.unknown": "Secchio sconosciuto",
+    "tim_core.feedback.reserved": "Quello spazio è riservato a %2$.",
+    "tim_core.result.failure": "Fallimento",
+    "tim_core.result.success": "Successo"
+}

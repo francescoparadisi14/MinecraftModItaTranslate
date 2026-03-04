@@ -1,6 +1,6 @@
 {
-    "item.createastracompat.crushed_calorite_ore": "Minerale di calorite triturato",
-    "item.createastracompat.crushed_desh_ore": "Carbone di Desh triturato",
-    "item.createastracompat.crushed_ostrum_ore": "Carbone di ostrum triturato",
-    "itemGroup.createastracompattab": "Creare compatibilità Adastra"
+    "item.createastracompat.crushed_calorite_ore": "Caloritite macinata",
+    "item.createastracompat.crushed_desh_ore": "Polvere di caffè Desh Ore",
+    "item.createastracompat.crushed_ostrum_ore": "Ostrum macinato",
+    "itemGroup.createastracompattab": "Crea AdAstra Compat"
 }

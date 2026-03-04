@@ -1,13 +1,13 @@
 {
-    "block.lolmct.acacia_crafting_table": "Tavola da lavoro di acacia",
-    "block.lolmct.bamboo_crafting_table": "Tavola di lavorazione in bambù",
-    "block.lolmct.birch_crafting_table": "Tavola da lavoro di betulla",
-    "block.lolmct.cherry_crafting_table": "Tavola di lavorazione ciliegio",
-    "block.lolmct.crimson_crafting_table": "Tavola di lavorazione cruenta",
-    "block.lolmct.dark_oak_crafting_table": "Tavola di lavorazione di quercia oscura",
-    "block.lolmct.jungle_crafting_table": "Tavola da lavorazione giungla",
-    "block.lolmct.mangrove_crafting_table": "Tavola di lavorazione dei mangrovie",
-    "block.lolmct.pale_oak_crafting_table": "Tavola da lavoro di quercia pallida",
-    "block.lolmct.spruce_crafting_table": "Tavola di lavorazione di betulla",
-    "block.lolmct.warped_crafting_table": "Tavola di lavorazione distorta"
+    "block.lolmct.acacia_crafting_table": "Tavolo di lavoro in acacia",
+    "block.lolmct.bamboo_crafting_table": "Tavolo per la lavorazione del bambù",
+    "block.lolmct.birch_crafting_table": "Tavolo da lavoro in legno di betulla",
+    "block.lolmct.cherry_crafting_table": "Tavolo per la creazione di oggetti in legno (Cherry)",
+    "block.lolmct.crimson_crafting_table": "Tavolo di lavoro rosso scuro",
+    "block.lolmct.dark_oak_crafting_table": "Tavolo di lavoro in quercia scura",
+    "block.lolmct.jungle_crafting_table": "Tavolo per lavori artigianali a tema giungla",
+    "block.lolmct.mangrove_crafting_table": "Tavolo di lavoro in legno di mangrovia",
+    "block.lolmct.pale_oak_crafting_table": "Tavolo di lavoro in legno di quercia chiara",
+    "block.lolmct.spruce_crafting_table": "Tavolo di lavoro in legno di pino",
+    "block.lolmct.warped_crafting_table": "Tavolo di lavoro deformato"
 }

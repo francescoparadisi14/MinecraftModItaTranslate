@@ -1,10 +1,10 @@
 {
-    "command.shearmadness:chancecube.usage": "Utilizzo: shearmadness chancecubes",
-    "gui.not_a_chisel": "Pennello per dipingere pecore",
-    "item.shearmadness.not_a_chisel": "Non è un cesello",
-    "message.shearmadness:chancecube.notparticipating": "Non partecipa più al cubo delle pecore per caso",
-    "message.shearmadness:chancecube.participating": "Ora partecipa al cubo di chance pecora",
-    "subtitle.shearmadness:chancecube_giantcubespawned": "Dooooooooom",
-    "subtitle.shearmadness:chancecube_sheepdied": "baaaaaa... spirituale",
-    "subtitle.shearmadness:sheepchiseled": "L'agnello è confuso e allarmato"
+    "command.shearmadness:chancecube.usage": "shearmadness chancecubes",
+    "gui.not_a_chisel": "Pennello per dipingere la lana",
+    "item.shearmadness.not_a_chisel": "Non è un scalpello.",
+    "message.shearmadness:chancecube.notparticipating": "Non partecipo più a \"Chance Cube Sheep\"",
+    "message.shearmadness:chancecube.participating": "Ora partecipa al progetto \"Chance Cube\" per le pecore.",
+    "subtitle.shearmadness:chancecube_giantcubespawned": "DOOOOOooooom",
+    "subtitle.shearmadness:chancecube_sheepdied": "Suoni spettrali, simili a quelli di una pecora",
+    "subtitle.shearmadness:sheepchiseled": "L'agnello è confuso e spaventato."
 }

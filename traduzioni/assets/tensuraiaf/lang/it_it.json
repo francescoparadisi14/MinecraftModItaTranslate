@@ -1,5 +1,5 @@
 {
-    "entity.tensuraiaf.ice_breath": "Respiro di ghiaccio",
-    "tensuraiaf.skill.ice_breath": "Respiro di ghiaccio",
-    "tensuraiaf.skill.ice_breath.description": "Sputa un fiato glaciale per congelare i nemici."
+    "entity.tensuraiaf.ice_breath": "Respiro gelato",
+    "tensuraiaf.skill.ice_breath": "Respiro gelato",
+    "tensuraiaf.skill.ice_breath.description": "Emettere un alito gelido per congelare i nemici."
 }

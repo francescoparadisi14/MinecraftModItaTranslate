@@ -1,5 +1,5 @@
 {
-    "gui.aether.jei.swet_ball_conversion": "Conversione gel SWET",
-    "item.aether.swet_ball": "Gel blu di Swet",
-    "lore.item.aether.swet_ball": "Un globo di sostanza vischiosa che viene rilasciato dai Swet blu. Può essere utilizzato per fertilizzare il terreno. Un'altra possibile utilizzo è metterlo accanto alla corda per creare un filo di guida."
+    "gui.aether.jei.swet_ball_conversion": "Conversione in gel",
+    "item.aether.swet_ball": "Gel blu e bianco",
+    "lore.item.aether.swet_ball": "Un impasto appiccicoso a base di gel, prodotto da Blue Swets. Può essere utilizzato per fertilizzare il terreno. Un altro utilizzo è quello di applicarlo insieme a un filo per creare una trappola."
 }

@@ -1,18 +1,18 @@
 {
-    "name": "Rinoceronte beccuto",
+    "name": "Sgombro beccato",
     "category": "patchouli:fish",
     "icon": "unusualfishmod:raw_beaked_herring",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 32 monete$(li)Simbolo di stagione: Primavera$(li)Acqua: Fresca$(li)Clima: Qualsiasi$(li)Ora del giorno: Giorno"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 32$(li)§0🌼 §2Primavera§0$(li)Acqua: Fresca$(li)Tempo: Qualsiasi$(li)Ora: Giorno"
         },
         {
             "type": "patchouli:entity",
             "entity": "unusualfishmod:beaked_herring",
             "scale": 0.8,
             "rotate": true,
-            "text": "Non vedo proprio alcuna becco?"
+            "text": "patchouli: entità\n\nunusualfishmod: anguilla con becco\n\nNon riesco proprio a vedere alcun becco."
         }
     ]
 }

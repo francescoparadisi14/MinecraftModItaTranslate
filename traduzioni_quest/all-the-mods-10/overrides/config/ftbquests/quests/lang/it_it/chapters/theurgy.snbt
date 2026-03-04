@@ -1,0 +1,195 @@
+{
+    "quest.02593CD4B4AE814C.quest_desc": [
+        "\\&bSale\\&r è fondamentale per la creazione di \\&bSali alchemici\\&r!\n\nPer ottenere \\&bSali\\&r, dovremo cuocere alcuni oggetti. Tuttavia, diversi oggetti producono diversi tipi di \\&bSali\\&r. Gli \\&bSali\\&r hanno diversi livelli, e quelli più rari sono quelli con livelli più alti.\n\nPer cuocere gli \\&bSali\\&r, dovremo mettere gli oggetti nel forno e utilizzare una fonte di calore per riscaldarli. Quindi, prenderemo gli \\&bSali\\&r dal forno!",
+        "{image:atm:textures\/questpics\/theurgy\/theurgy_oven.png width:100 height:100 align:center}"
+    ],
+    "quest.02593CD4B4AE814C.title": "Impianto di desalinizzazione",
+    "quest.0460DDEEFDEB0AAF.quest_desc": [
+        "I bastoni divinatori sono gli strumenti che utilizziamo per entrare in contatto con gli spiriti e individuare oggetti specifici.\n\nInnanzitutto, dovete selezionare il blocco o l'oggetto cliccando con il tasto destro del mouse, oppure creare il bastone utilizzando il \"zolfo alchemico\".\n\nTenendo il bastone e premendo nuovamente il tasto destro, questo cercherà l'oggetto selezionato. Emetterà un suono e il bastone si illuminerà in base alla distanza dal blocco o dall'oggetto.\n\nSe la distanza è sufficiente, potrebbe apparire una sfera che vi indicherà la strada verso l'oggetto."
+    ],
+    "quest.0460DDEEFDEB0AAF.title": "Bastoncini per la divinazione",
+    "quest.0542FE108089A0A2.quest_desc": [
+        "\\&l\\&6La Teurgia\\&r è l'arte di utilizzare la magia per l'alchimia! Oppure, nel nostro caso, di utilizzare macchinari e oggetti per creare oggetti diversi o aggiuntivi!\n\nMolti dei macchinari di cui abbiamo bisogno per la Teurgia richiedono rame, quindi è meglio iniziare da lì!"
+    ],
+    "quest.0542FE108089A0A2.title": "\\&l\\&6Teurgia",
+    "quest.06AD25DB96F3A1CC.quest_desc": [
+        "Come un termometro, questi contenitori possono contenere e conservare il mercurio.\nPossono contenere cristalli o frammenti di mercurio.",
+        "{image:atm:textures\/questpics\/theurgy\/theurgy_vessel_1.png width:100 height:125 align:center}"
+    ],
+    "quest.06AD25DB96F3A1CC.title": "E altro ancora: Nave \"Mercury\"",
+    "quest.0830195863384CF0.quest_desc": [
+        "\\&bStrata\\&r è il primo e più semplice tipo di materiale, creato utilizzando blocchi comuni come pietra, sabbia o ossidiana.\n\nÈ possibile utilizzare 5 \\&bStrata Salt\\&r per creare \\&bMineral Salt\\&r."
+    ],
+    "quest.0830195863384CF0.title": "\\&bStrata Sale",
+    "quest.0854AD352218E1C3.quest_desc": [
+        "Non vi è mai capitato di avere così tanto potere, ma senza riscaldamento?\n\nOra potete cambiare questa situazione con l'Emettitore di Flusso Calorico! Utilizzatelo premendo il tasto destro per associarlo a una macchina. Quindi posizionatelo e attivatelo per inviare calore.\n\nNon è possibile associarlo a più macchine!"
+    ],
+    "quest.0854AD352218E1C3.quest_subtitle": "Come?",
+    "quest.0854AD352218E1C3.title": "Riscaldamento senza fili",
+    "quest.0EADCEA9AB001FC7.quest_desc": [
+        "Fonte di calore molto semplice. Posizionare sotto la macchina e alimentare con combustibile per il forno: carbone, legna, blocchi di alghe secche.",
+        "{image:atm:textures\/questpics\/theurgy\/theurgy_brazier.png width:100 height:100 align:center}"
+    ],
+    "quest.0EADCEA9AB001FC7.title": "Calore simile a quello di una stufa",
+    "quest.0F7BB4ECCA5C082C.quest_desc": [
+        "Qui è dove inserirai il \"\\&eAlchemical Sulfur\\&r\".\\n\\nQualsiasi oggetto presente nel \"\\&eAlchemical Sulfur\\&r\" verrà trasformato nuovamente in quell'oggetto grazie all'incubazione!",
+        "{image:atm:textures\/questpics\/theurgy\/theurgy_vessel_3.png width:100 height:125 align:center}"
+    ],
+    "quest.0F7BB4ECCA5C082C.title": "Vasca per \\&eSulfur\\&r",
+    "quest.161E7D934A21F849.quest_desc": [
+        "La riforma consiste nel trasformare una sostanza chimica in un'altra, ad esempio utilizzando il \"nitrato\" per ottenere un risultato diverso!\n\nIl primo passaggio è il \"Pedestale Sorgente\", dove si inserisce la sostanza chimica che si desidera trasformare.",
+        "{image:atm:textures\/questpics\/theurgy\/theurgy_reform_1.png width:100 height:100 align:center}"
+    ],
+    "quest.161E7D934A21F849.title": "Passo 1: Procurare la base",
+    "quest.16B88F46021E956D.quest_desc": [
+        "\\&l\\&6La Teurgia richiede macchinari, quindi ovviamente necessita di logistica!\\n\\n(Consultare la pagina di base sulla logistica per saperne di più).\\n\\nCon \\&cMercury\\&r, è possibile spostare oggetti e liquidi da un luogo all'altro utilizzando \\&cMercury Wires\\&r e altri oggetti! I cavi sono ciò che effettivamente sposterà gli oggetti."
+    ],
+    "quest.16B88F46021E956D.title": "Logistica con \\&cMercury\\&r",
+    "quest.19A2016B54C6FA34.quest_desc": [
+        "Alcune macchine, come il \"Liquefaction Cauldron\", il \"Calcination Oven\" e il \"Mercury Distiller\", necessitano di calore per funzionare. Tuttavia, il \"Theurgy\" è molto selettivo riguardo alle fonti di calore che può utilizzare; è possibile utilizzare solo questi due dispositivi come fonti di calore.\n\n(I dispositivi che utilizzano il calore sono: il \"Liquefaction Cauldron\", il \"Calcination Oven\" e il \"Mercury Distiller\".)"
+    ],
+    "quest.19A2016B54C6FA34.quest_subtitle": "Uomo, sei fantastico!",
+    "quest.19A2016B54C6FA34.title": "Uomo, sei fantastico!",
+    "quest.1A46A97A00A31C03.quest_desc": [
+        "Il secondo passaggio è la \"Pedestale di Destinazione\". Qui si posiziona il composto desiderato per essere trasformato nel primo prodotto.\n\nOppure, qui si posiziona il \"3 Nitrato di Alcamia\".",
+        "{image:atm:textures\/questpics\/theurgy\/theurgy_reform_2.png width:100 height:100 align:center}"
+    ],
+    "quest.1A46A97A00A31C03.title": "Passo 2: Stabilire l'obiettivo",
+    "quest.1C829609915E0012.quest_desc": [
+        "Inserire \\&cMercury\\&r e rimuovere il componente \\&cMercury\\&r.\n\nMF sta per \\&cMercury\\&r Flux, non per \"Metal Face\" o per un'espressione volgare per riferirsi a qualcuno!",
+        "{image:atm:textures\/questpics\/theurgy\/theurgy_mercuryflux.png width:100 height:100 align:center}"
+    ],
+    "quest.1C829609915E0012.title": "Utilizzo di energia e altri componenti contenenti mercurio",
+    "quest.20C3AADEE2D4800D.quest_desc": [
+        "È inoltre possibile spostare i liquidi da un serbatoio all'altro utilizzando i componenti \"\\&cMercury\\&r\".\n\nCollega il componente \"\\&cMercury\\&r\" al punto di partenza del liquido, ad esempio a un lavandino. Quindi, collega il componente \"\\&dSal Ammoniac\\&r\" al punto di destinazione, ad esempio a un contenitore per il sale ammoniacale. Collega entrambi i componenti tramite cavi e il movimento dovrebbe avvenire.",
+        "{image:atm:textures\/questpics\/theurgy\/theurgy_fluid.png width:200 height:75 align:center}"
+    ],
+    "quest.20C3AADEE2D4800D.title": "Movimento fluido",
+    "quest.26B462F2F41A77C7.quest_desc": [
+        "Tutti i doni della natura... possono essere bruciati senza pietà in un forno, riducendosi a semplici sali! \\n\\nLegna, foglie e raccolti possono essere trasformati in sali vegetali."
+    ],
+    "quest.26B462F2F41A77C7.title": "\\&bSale per piante",
+    "quest.285B3FB38B12F8CA.quest_desc": [
+        "Avremo bisogno di questi due contenitori per produrre \\&dSal Ammoniac\\&r (anche se non considero due contenitori un \"multi-contenitore\"). Un contenitore nella parte inferiore con un accumulatore di \\&dSal Ammoniac\\&r sopra.\n\nL'accumulatore di \\&dSal Ammoniac\\&r è dove verranno depositati l'acqua (\\&9Water\\&r) e i cristalli (\\&dCrystals\\&r). Può contenere 10.000 ml di acqua o 10 secchi, e una pila di cristalli di \\&dSal Ammoniac\\&r. Il contenitore conterrà l'ammoniaca prodotta e può contenere 2.000 ml o 2 secchi.",
+        "{image:atm:textures\/questpics\/theurgy\/theurgy_sal_front.png width:100 height:200 align:center}"
+    ],
+    "quest.285B3FB38B12F8CA.title": "Produzione di ammoniaca",
+    "quest.2B29E9AB9447E1C6.quest_desc": [
+        "Questo è un macchinario a più compartimenti!\n\nPer recuperare gli oggetti da \"\\&eZolfo Alchemico\\&r\", dovremo innanzitutto incubarli. Questo richiede la \"Incubatrice\" con tutti e tre i contenitori posizionati adiacenti ad essa. L'ordine non è importante, purché siano a contatto con la metà inferiore.\n\nUna volta che tutti gli oggetti sono nei contenitori e la temperatura è raggiunta, l'incubazione inizierà! Sarà evidente quando inizierà a emettere particelle di fumo.",
+        "{image:atm:textures\/questpics\/theurgy\/theurgy_incubator.png width:200 height:200 align:center}"
+    ],
+    "quest.2F0D6267569F740B.quest_desc": [
+        "I materiali comuni sono più rari e di qualità superiore rispetto a quelli abbondanti. Questi includono principalmente lingotti e oggetti più rari ottenuti dagli NPC, come perle di Ender o pelle di coniglio.\n\nCome potete vedere, l'elenco completo è disponibile nella sezione \"Tag\"."
+    ],
+    "quest.36926B5EBFF6E55A.quest_desc": [
+        "\\&cMercurio\\&r è uno dei materiali più importanti per la \\&l\\&6Teurgia\\&r!\n\nPer ottenerlo, dovremo distillare del mercurio nell'\\&cDistillatore di Mercurio\\&r. Inserire gli oggetti nel distillatore e fornire calore!\n\nAlcuni oggetti producono più \\&cMercurio\\&r, come i diamanti, che producono 1 \\&cMercurio\\&r per ogni diamante, rispetto alla pietra, che ne richiede 10 per produrre 1 \\&cMercurio\\&r.",
+        "{image:atm:textures\/questpics\/theurgy\/theurgy_distiller.png width:100 height:150 align:center}"
+    ],
+    "quest.36926B5EBFF6E55A.title": "Produzione e altro: Mercurio",
+    "quest.393DA9C9D808A851.quest_desc": [
+        "\\&l\\&6Lo strumento \"Theurgy's Wrench\" è equivalente alla \"Mercurial Wand\". È possibile utilizzare le funzioni di \"Shift\" e \"Scroll\" per modificare le sue modalità.\n\nÈ possibile attivare\/disattivare le funzioni per interrompere il trasferimento dei dati.\n\nÈ possibile modificare la direzione in cui gli oggetti vengono estratti o inseriti.\n\nE, inoltre, è possibile modificare il canale di frequenza!"
+    ],
+    "quest.393DA9C9D808A851.quest_subtitle": "Pensavo che questo fosse un mod con effetti speciali...",
+    "quest.393DA9C9D808A851.title": "Certo, c'è una chiave inglese.",
+    "quest.3B6F723B03C4BF55.quest_desc": [
+        "La digestione (una forma molto elementare di elaborazione) è il processo attraverso il quale trasformiamo i \\&3Alchemical Niters\\&r in diverse forme.\n\nInnanzitutto, avremo bisogno di Oro purificato, che si ottiene mettendo Oro, \\&bAlchemical Salt\\&r e \\&9Water\\&r nel Vat di Digestione e cliccando con il tasto destro per chiuderlo, come nel Vat di Fermentazione.\n\nSuccessivamente, possiamo combinare 4 unità di \\&3Alchemical Niter\\&r con Oro purificato e \\&dSal Ammoniac\\&r per ottenere un livello superiore, oppure fare il contrario per ottenere un livello inferiore."
+    ],
+    "quest.3B6F723B03C4BF55.title": "IVA sul cibo",
+    "quest.3C5734448FEC128B.quest_desc": [
+        "Lo strumento di divinazione più economico, lo strumento in vetro.\n\nÈ in grado di estrarre tutti i minerali che possono essere ottenuti con un piccone in pietra. Quindi rame, carbone e ferro. Nulla di più."
+    ],
+    "quest.3EB63AF53E70C931.quest_desc": [
+        "Reformation richiede l'utilizzo del \"Mercury Flux\"! Dovrete utilizzare il \"Sulfuric Flux Emitter\" per impostare tutti e tre i piedistalli. Quindi, posizionate l'emettitore e fornitegli l'alimentazione.\n\nUna volta fatto ciò, il processo di Reformation dovrebbe essere completato.",
+        "{image:atm:textures\/questpics\/theurgy\/theurgy_reform_setup.png width:200 height:50 align:center}"
+    ],
+    "quest.3EB63AF53E70C931.title": "Passo 4: Alimentazione",
+    "quest.41ABC09C798CA8BE.quest_desc": [
+        "Questo contenuto è stato creato da \\&6AllTheMods Staff\\&r, o da un \\&2contributore della community\\&r, per l'uso nei pacchetti mod di AllTheMods.\n\nPoiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti a \\&e\"Tutti i diritti riservati\", questo contenuto non può essere utilizzato in altri pacchetti pubblici, a meno che non sia stato rilasciato dal team \\&6AllTheMods\\&r.\n\nQuesto contenuto è intenzionalmente nascosto. Se lo state visualizzando, siete in modalità di modifica."
+    ],
+    "quest.457CAE66B0FA4CCF.quest_desc": [
+        "Tutti i minerali di tipo \"Vanilla\" e \"Netherite\" possono essere trovati utilizzando il bastone di divinazione \"Diamond\"."
+    ],
+    "quest.45996B848792379E.quest_desc": [
+        "È possibile ottenere cristalli di ammoniaca nel mondo di gioco, ma non è così semplice. Avremo comunque bisogno di acqua e delle macchine per trasformare l'ammoniaca in sale ammoniacale.\n\nI cristalli sono opzionali, ma sono molto utili: con solo 1000 ml di acqua, si otterrà 100 ml di sale ammoniacale. Con 1000 ml di acqua e un cristallo di sale ammoniacale, invece, si otterrà 1000 ml di sale ammoniacale.\n\nSi ottiene una produzione 10 volte maggiore con un solo oggetto!"
+    ],
+    "quest.45996B848792379E.quest_subtitle": "Perché abbiamo bisogno delle macchine se possiamo semplicemente estrarlo?",
+    "quest.45996B848792379E.title": "Perché le macchine?",
+    "quest.48EE6C807C1668D4.quest_desc": [
+        "Se hai bisogno di collegare cavi su distanze maggiori o a più punti, potresti aver bisogno di un nodo di connessione.\n\nÈ così semplice!"
+    ],
+    "quest.48EE6C807C1668D4.title": "I cavi vanno qui, i cavi vanno lì.",
+    "quest.49D1B01E07ABA471.quest_desc": [
+        "È possibile trasferire gli oggetti utilizzando i cavi \\&cMercury\\&r.\nCollega un \"Item Extractor\" nel punto da cui desideri prelevare gli oggetti, e un \"Item Inserter\" nel punto in cui desideri depositare gli oggetti. Collega entrambi con i cavi \\&cMercury\\&r e gli oggetti inizieranno a muoversi!\n\nQuesto può essere utilizzato con le macchine \\&l\\&6Theurgy\\&r per l'automazione!",
+        "{image:atm:textures\/questpics\/theurgy\/theurgy_item.png width:200 height:75 align:center}"
+    ],
+    "quest.49D1B01E07ABA471.title": "Movimento dell'articolo",
+    "quest.4EE482B9D61B5933.quest_desc": [
+        "Certo, il prezzo di 2Vanilla\\&r non è il massimo, esistono molte altre opzioni, alcune molto rare, nel mondo dei mod!"
+    ],
+    "quest.54F0C5C48CFC94D0.quest_desc": [
+        "Con la funzionalità di Logistica, è necessario un sistema di filtraggio. Esistono due tipi di filtri: \"Lista\" e \"Attributo\".\n\nIl filtro \"Lista\" consente di aggiungere elementi e di specificare se si tratta di una lista bianca o nera, e se rispetta i dati NBT o meno.\n\nIl filtro \"Attributo\" utilizza un elemento di riferimento e filtra in base a un attributo selezionato. Ciò include tag e altre caratteristiche, come la possibilità di utilizzarlo come combustibile per il forno o come percorso."
+    ],
+    "quest.55E321EFBE8956DE.quest_desc": [
+        "Se desiderate risparmiare sui vostri progetti di fermentazione, il \"Starter\" per la fermentazione è la soluzione ideale.\n\nÈ un'alternativa molto economica per altri prodotti utilizzati nella fermentazione."
+    ],
+    "quest.55E321EFBE8956DE.title": "Fermentazione più semplice",
+    "quest.5844DD2BEE5EC3DC.quest_desc": [
+        "Non mangiatelo! \\n\\nIl \"\\&cMercurio\\&r\" può essere utilizzato per 3 scopi diversi: incubazione, creazione di energia e logistica!"
+    ],
+    "quest.5844DD2BEE5EC3DC.quest_subtitle": "Venere... no e così via... Mercurio!",
+    "quest.5844DD2BEE5EC3DC.title": "Mercurio",
+    "quest.616364E6AE05C341.quest_desc": [
+        "\\&bSali minerali\\&r sono realizzati con... beh, minerali.\n\nTutto ciò che viene estratto in forma di minerale può essere trasformato in \\&bsale\\&r. Minerali grezzi, lingotti, gemme: tutto diventa \\&bsale mineralizzato\\&r!\n\nAnche l'Unobtainium può essere trasformato in \\&bsale\\&r! Per favore, però, evitate di farlo, ci sono così tante alternative migliori."
+    ],
+    "quest.616364E6AE05C341.title": "\\&Sale minerale",
+    "quest.61DA3D61D7103647.quest_desc": [
+        "\\&eAlchemical Sulfurs\\&r possono essere create da praticamente qualsiasi cosa e possono essere trasformate in praticamente qualsiasi cosa!\n\nEsistono diversi tipi di oggetti in \\&eAlchemical Sulfurs\\&r, che potrebbero essere spiegati più dettagliatamente in un'altra missione.\n\nEsistono 3 percorsi diversi per la lavorazione di \\&eAlchemical Sulfurs\\&r: 1. Fermentazione e digestione per ottenere il nitrato. 2. Incubazione per ricreare quegli oggetti. 3. Trasformazione dell'oggetto attraverso la riforma."
+    ],
+    "quest.61DA3D61D7103647.title": "\\&Solfi alchemici",
+    "quest.6A8E748B642DD16F.quest_desc": [
+        "Qui si svolgerà l'evento \\&bSalt\\&r.\n\nIl tipo di \\&bSalt\\&r è importante a seconda di ciò che si intende coltivare. Ad esempio, se si desidera ottenere l'Unobtainium, sarà necessario utilizzare il \\&bMineral Salt\\&r, se si desidera il grano, sarà necessario utilizzare il \\&bPlant Salt\\&r, e così via.",
+        "{image:atm:textures\/questpics\/theurgy\/theurgy_vessel_2.png width:100 height:125 align:center}"
+    ],
+    "quest.6A8E748B642DD16F.title": "Vasca per sale",
+    "quest.6C6F4EB5CBE2FBC2.quest_desc": [
+        "La bacchetta di divinazione in ferro è leggermente più alta, permettendo di trovare minerali che possono essere estratti con un piccone in ferro! Ad esempio, diamanti, redstone e oro."
+    ],
+    "quest.6CAD27627A3F8FD7.quest_desc": [
+        "Ora possiamo finalmente preparare il \"Alchemico Zolfo\", e per farlo avremo bisogno di una \"Caldrina di Liquefazione\", di un \"Sale di Ammonio\" e di un \"Riscaldatore\".\n\nIl riscaldamento è spiegato in un'altra missione, ma avrete bisogno di una \"Caldrina di Liquefazione\" o di un \"Riscaldatore\" per riscaldare il liquido.\n\nQuindi, aggiungete il \"Sale di Ammonio\" alla caldrina.\n\nInfine, inserite l'oggetto che desiderate trasformare in \"Alchemico Zolfo\".\n\nCapirete che il processo sta funzionando quando vedrete che il liquido bolle.",
+        "{image:atm:textures\/questpics\/theurgy\/theurgy_lique.png width:100 height:100 align:center}"
+    ],
+    "quest.6CAD27627A3F8FD7.title": "Preparazione del solforico alchemico",
+    "quest.7119F8C352D057BC.quest_desc": [
+        "Ora stiamo arrivando alla parte più interessante! Gli oggetti rari arrivano persino fino alle ali! Sì, penso che sia meglio degli oggetti rari, ma non ho fatto questa classificazione."
+    ],
+    "quest.7198ED7E97A256A4.quest_desc": [
+        "La prima bacchetta di divinazione creata appositamente è la \"Bacchetta dell'Abbondanza\"!\n\nQuando crei la bacchetta utilizzando un \"\\&eZolfo Alchemico\" di un oggetto, la bacchetta sarà legata a quell'oggetto.\n\nPuoi trovare l'elenco dei materiali disponibili nella sezione \"Tag\". È troppo lungo per poterlo leggere durante le missioni."
+    ],
+    "quest.72FADEAEE2DA03AF.quest_desc": [
+        "Il terzo passaggio è quello in cui il nuovo componente \\&eSulfur\\&r verrà posizionato, ovvero sul piedistallo di risultato. Una volta riformato, verrà collocato qui.",
+        "{image:atm:textures\/questpics\/theurgy\/theurgy_reform_3.png width:100 height:100 align:center}"
+    ],
+    "quest.72FADEAEE2DA03AF.title": "Passo 3: Base di risultato",
+    "quest.730F2D3329C4FF88.quest_desc": [
+        "\\&nFermentazione\\&r: Il processo chimico attraverso il quale molecole come il glucosio vengono scomposte in assenza di ossigeno.\n\n(In alternativa: \"Il processo di fermentazione, attraverso il quale molecole come il glucosio vengono scomposte in assenza di ossigeno.\")\n\n(In alternativa: \"Questo processo, noto anche come 'cambiamento dell'acqua e del tempo', permette di...\")\n\nPer utilizzare il Vat di Fermentazione, inserite gli oggetti e il fluido nel Vat, quindi cliccate con il tasto destro per chiuderlo.\n\nDopo un po', dovrebbe avvenire la fermentazione! In questo modo, trasformiamo il \\&eZolfo Alchemico\\&r in \\&3Nitrato Alchemico\\&r, che può essere ulteriormente trasformato in altri oggetti!"
+    ],
+    "quest.730F2D3329C4FF88.title": "Vasca di fermentazione",
+    "quest.76F675A898EAB4E8.quest_desc": [
+        "\\&dAmmoniaca\\&r è un componente fondamentale di \\&eZolfo alchemico\\&r, che utilizzeremo per creare e replicare oggetti.\n\nPer ottenere \\&dAmmoniaca\\&r, avremo bisogno di \\&9acqua\\&r."
+    ],
+    "quest.76F675A898EAB4E8.title": "\\&Ammoniaca",
+    "quest.7878F190BC8ADC82.quest_desc": [
+        "I migliori tra i migliori. Dai Diamanti alle stelle Nether Star, fino all'Allthemodium. Questo strumento individua solo gli oggetti di massima qualità!"
+    ],
+    "quest.7A1C117CA8FB7C31.quest_desc": [
+        "Questo è davvero unico!\\n\\nInvece di trovare minerali, troverà blocchi di ametista!\\n\\nNon dovrà più faticare per trovare geodi, signore!"
+    ],
+    "quest.7A271F425C3934CE.quest_desc": [
+        "Attualmente, questo può essere ottenuto combinando 2 unità di \"Sale per piante\" in 1 unità di \"Sale per creature\".\n\nSperiamo che nelle future versioni potremo ottenere più \"Sale\" uccidendo più creature!"
+    ],
+    "quest.7A271F425C3934CE.title": "\\&bSale per animali",
+    "task.339A5D32CC00D60C.title": "Tutti i diritti riservati",
+    "task.3489080F5FDE8B1B.title": "Calore",
+    "task.6D9221A533926A7B.title": "Tutti i diritti riservati",
+    "task.76F6BC2EC054BD3C.title": "Solfi alchemici"
+}

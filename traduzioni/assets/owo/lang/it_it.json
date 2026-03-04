@@ -41,13 +41,10 @@
         },
         " Enabled"
     ],
-    "text.owo.config.button.done": "Fatto",
-    "text.owo.config.button.exit_minecraft": "Uscire Da Minecraft",
-    "text.owo.config.button.ignore_restart": "Riavvia Più Tardi",
-    "text.owo.config.button.range.edit_as_text": "Modifica Come Testo",
-    "text.owo.config.button.range.edit_with_slider": "Modifica Con Slider",
-    "text.owo.config.button.reload": "Ricarica",
-    "text.owo.config.list.add_entry": "Aggiungi Voce",
+    "text.owo.config.button.done": "Completato",
+    "text.owo.config.button.exit_minecraft": "Uscire da Minecraft",
+    "text.owo.config.button.ignore_restart": "Riprova più tardi",
+    "text.owo.config.button.reload": "Ricaricare",
     "text.owo.config.managed_by_server": [
         {
             "text": "⚑ ",
@@ -58,54 +55,11 @@
             "color": "gray"
         }
     ],
-    "text.owo.config.must_restart": "Alcune Modifiche Apportate Richiedono Un Riavvio Per Essere Applicate",
-    "text.owo.config.search": "Ricerca...",
-    "text.owo.config.search.matches": "%d Di %d",
-    "text.owo.config.search.no_matches": "Nessun Match",
-    "text.owo.config.sections": {
-        "text": "Sections",
-        "underlined": true
-    },
-    "text.owo.config.sections_tooltip": "Sezioni",
-    "text.owo.configure_hot_reload.choose_file": "Scegli File",
-    "text.owo.configure_hot_reload.model": [
+    "text.owo.config.must_restart": "Alcune modifiche apportate richiedono un riavvio per essere applicate.",
+    "text.owo.config.sections": [
         {
-            "text": "Model: ",
-            "color": "yellow"
-        },
-        {
-            "index": 0,
-            "color": "gray"
-        }
-    ],
-    "text.owo.configure_hot_reload.reload_from": [
-        {
-            "text": "Reload from: ",
-            "color": "yellow"
-        },
-        {
-            "index": 0,
-            "color": "gray"
-        }
-    ],
-    "text.owo.configure_hot_reload.reload_from.unset": "Annullato",
-    "text.owo.configure_hot_reload.save": "Salva",
-    "text.owo.configure_hot_reload.title": "Configura Ricarica Calda",
-    "text.owo.itemGroup.select_hint": {
-        "text": "Shift-click to select multiple",
-        "color": "gray"
-    },
-    "text.owo.itemGroup.tab_template": [
-        {
-            "index": 0
-        },
-        {
-            "text": " > ",
-            "color": "gray"
-        },
-        {
-            "index": 1,
-            "color": "dark_gray"
+            "text": "Sections",
+            "underlined": true
         }
     ]
 }

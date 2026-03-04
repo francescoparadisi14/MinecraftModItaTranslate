@@ -1,8 +1,9 @@
 {
-    "block.flightblocks.flight_block.disabled_flight": "Flight Disabled!",
-    "block.flightblocks.flight_block.enabled_flight": "Flight Enabled!",
-    "block.flightblocks.flight_block.range": "Range: %s, showing range, right click to disable range area!",
-    "item.flightblocks.flight_block": "Flight Block",
+    "block.flightblocks.flight_block": "Flight Block",
+    "chat.flightblocks.disabled": "Flight Disabled",
+    "chat.flightblocks.enabled": "Flight Enabled",
+    "chat.flightblocks.info": "Place in world to allow flight around the block! Range: %s",
+    "chat.flightblocks.range": "Range: %s, showing range, right click to disable range area!",
     "itemGroup.flightblocks": "Flight Blocks",
-    "tooltips.flightblocks.flightblocks.shift.held": "Place in world to allow flight around the block! Range:"
+    "tooltip.flightblocks.shift": "Hold SHIFT for more info"
 }

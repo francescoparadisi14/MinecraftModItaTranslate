@@ -1,0 +1,11 @@
+{
+    "expcounter.deimosconfig.color_next_level": "Colore del piano di lavoro fino al livello successivo, in formato decimale.",
+    "expcounter.deimosconfig.color_total": "Colore del contatore totale delle spese in formato decimale.",
+    "expcounter.deimosconfig.position_off_centre_next_level": "Posizione sull'asse X fuori dal centro del contatore fino al livello successivo.",
+    "expcounter.deimosconfig.position_off_centre_total": "Posizione sull'asse X non centrata rispetto al contatore totale",
+    "expcounter.deimosconfig.position_y_next_level": "Posizione sull'asse Y del contatore di esperienza fino al livello successivo.",
+    "expcounter.deimosconfig.position_y_total": "Posizione sull'asse Y del contatore totale delle spese",
+    "expcounter.deimosconfig.show_next_level": "Mostra quanto XP mancano per raggiungere il livello successivo.",
+    "expcounter.deimosconfig.show_total": "Mostra l'ammontare totale di esperienza.",
+    "expcounter.deimosconfig.title": "Configurazione del contatore EXP"
+}

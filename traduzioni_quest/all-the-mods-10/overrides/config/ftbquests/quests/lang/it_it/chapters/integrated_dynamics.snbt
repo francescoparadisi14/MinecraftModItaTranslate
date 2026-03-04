@@ -1,0 +1,113 @@
+{
+    "quest.1568CBFA09827137.quest_desc": [
+        "Lo stesso principio del programmatore logico, ma questa versione può essere utilizzata ovunque."
+    ],
+    "quest.1B5C86AE05678420.quest_desc": [
+        "Quando si fa clic con il pulsante destro del mouse su un'interfaccia, si aprono diverse opzioni, e queste sono le loro funzioni:\n\n\\&lSet Side\\&r: Nella parte superiore dello schermo, è possibile impostare la \"parte\" dell'interfaccia su cui deve operare. Questa opzione può essere utile per macchine con ingressi\/uscite specifici.\n\n\\&lTicks\/Operation\\&r: Se un'interfaccia è impostata su 10 \"tick\" per operazione, importerà\/esporterà ogni 10 tick (0,5 secondi).\n\n\\&lPriority\\&r: Invia gli oggetti all'inventario utilizzando l'interfaccia con la priorità più alta.\n\n\\&lItem\/Energy Channels\\&r: Questa opzione suddivide il sistema in più canali. È possibile inviare e ricevere dati da diverse posizioni nella rete."
+    ],
+    "quest.232A06C9FF0EE7B2.quest_desc": [
+        "I semi di Menril possono essere utilizzati per automatizzare la coltivazione di Menril Berries, Menril Logs e Menril Saplings."
+    ],
+    "quest.232A06C9FF0EE7B2.quest_subtitle": "Automatizzare Menril",
+    "quest.2F37E284BB83BFF6.quest_desc": [
+        "Lo strumento \"Wrench\" viene utilizzato per ruotare o distruggere determinati blocchi; per cambiare modalità, è sufficiente fare clic con il tasto destro nell'aria."
+    ],
+    "quest.33F4A7613764A016.quest_desc": [
+        "Funziona come gli importatori, ma invece di importare, esportano."
+    ],
+    "quest.33F4A7613764A016.quest_subtitle": "Esportazione",
+    "quest.3BC94B0B922C0708.quest_desc": [
+        "Questi sono materiali utilizzati per attività di importazione, che riguardano beni, liquidi o energia."
+    ],
+    "quest.3C9539083BCC145C.quest_desc": [
+        "I \"Menril Bees\" possono essere utilizzati per automatizzare la produzione di \"Crystallized Menril Chunks\"."
+    ],
+    "quest.3C9539083BCC145C.quest_subtitle": "Automatizzare Menril",
+    "quest.437F4945AFBE0825.quest_desc": [
+        "Quando si fa clic con il pulsante destro del mouse su un Importatore o un Esportatore, si apre un menu. Questo menu è principalmente utilizzato per filtrare, ad esempio, se una scheda \"Variabile\" è impostata su \"Cobblestone\", l'esportatore invierà solo elementi\/fluidi\/energia di tipo \"Cobblestone\".\n\nA sinistra, accanto alle variabili, c'è un \"+\" che, cliccandoci sopra, apre un'altra interfaccia. Qui è possibile modificare i tassi di trasferimento per poter inviare elementi\/fluidi\/energia di tipo \"INFINITE\", oltre a poter eseguire altre operazioni.\n\nNella parte superiore a sinistra, troviamo le impostazioni, che corrispondono in gran parte alle impostazioni dell'interfaccia."
+    ],
+    "quest.44DA091B53473723.quest_desc": [
+        "La macchina per la spremitura utilizza l'energia per compattare."
+    ],
+    "quest.450EDE68EC992A5A.quest_desc": [
+        "Interfacce e \"cread\\&r\": qualunque cosa stiate visualizzando. Potete pensare a questo come a un \"Storage Bus\".\n\nNon sapete di cosa si tratta? Ecco un esempio: un contenitore con 100 pietre di cobblestone ha un'interfaccia associata. Ciò significa che la vostra rete ID ha 100 pietre di cobblestone nel suo sistema, ed è piuttosto semplice, no?"
+    ],
+    "quest.450EDE68EC992A5A.quest_subtitle": "Le interfacce hanno interfacce grafiche!",
+    "quest.499CF9F39CED8899.quest_desc": [
+        "\\&bIntegrated Dynamics\\&r (ID) è un modulo di logistica che può essere utilizzato per lo stoccaggio, il trasferimento di oggetti\/energia\/fluidi e altro ancora!\\n\\nGli alberi di Menril si trovano negli ecosistemi di Meneglin.\\n\\nQuesti compiti copriranno alcuni dei concetti fondamentali del modulo. Se desiderate approfondire, consultate la guida fornita come ricompensa per questo compito."
+    ],
+    "quest.499CF9F39CED8899.quest_subtitle": "Crescita di Menril",
+    "quest.499CF9F39CED8899.title": "\\&bIntegrated Dynamics",
+    "quest.4A05C037C0EE40BD.quest_desc": [
+        "I cavi Logica sono diversi dagli altri cavi. Gli altri cavi fungono da \"serbatoi\", quindi gli oggetti vengono spostati dal primo inventario, attraverso il cavo, e poi nel secondo inventario. I cavi Logica eliminano questo passaggio intermedio, riducendo così anche la latenza.\n\nSono progettati esclusivamente per collegare gli importatori e le interfacce."
+    ],
+    "quest.4A05C037C0EE40BD.quest_subtitle": "Creare reti",
+    "quest.4A05C037C0EE40BD.title": "Cavi logici",
+    "quest.4D4152032F0410D2.quest_desc": [
+        "Il Logic Programmer consente di impostare i valori delle variabili. Questi valori possono essere impostati per elementi e fluidi, oppure per valori specifici.\n\nAd esempio, selezionate \"\\&bItem\\&r\" dal lato sinistro, inserite l'elemento desiderato nello slot centrale dell'interfaccia utente che appare, e posizionate la scheda \"\\&bVariable\\&r\" nello slot in basso a destra. Se quindi inserite quella scheda variabile in un importatore\/esportatore, questo importerà\/esporterà solo quel blocco!"
+    ],
+    "quest.4D4152032F0410D2.quest_subtitle": "Avanzare",
+    "quest.4D62C62B523C69EC.quest_desc": [
+        "Il generatore produce energia elettrica utilizzando combustibili bruciabili come il carbone."
+    ],
+    "quest.4D62C62B523C69EC.quest_subtitle": "Fornire energia!",
+    "quest.56BF647EA84FFF7E.quest_desc": [
+        "Mostra quali ricette di artigianato sono in corso in un determinato momento."
+    ],
+    "quest.56BF647EA84FFF7E.quest_subtitle": "Ricette",
+    "quest.60D9F04E91171D16.quest_desc": [
+        "Questo può fungere da contenitore per le tue variabili, oppure può essere utilizzato anche in reti più avanzate.\n\nSe desiderate utilizzare reti avanzate, assicuratevi di leggere il capitolo \"\\&eDinamiche dell'integrazione\\&r\"."
+    ],
+    "quest.62B4A37CFDECA679.quest_desc": [
+        "Il Menril in resina verrà applicato su due lati del Squeezer. Posizionando una vasca per l'essiccazione accanto al Squeezer, questa raccoglierà il Menril in resina.\n\nDopo 7,5 secondi, il Menril in resina si trasformerà in un blocco di Menril cristallizzato."
+    ],
+    "quest.65D89991A45BC042.quest_desc": [
+        "Posiziona un'interfaccia di creazione su un tavolo di creazione e fai clic con il pulsante destro del mouse, il che ti fornirà degli slot per le \\&bCarte di Variabili\\&r.\n\nUtilizzando il Programmatore Logico, cerca la \\&eRicetta\\&r nella parte superiore sinistra e creala per l'automazione della creazione, quindi salvala in una \\&bCarta di Variabili\\&r. Se una ricetta richiede elementi che devono essere creati, crea una ricetta per ciascuno di essi, quindi inserisci tutto nell'interfaccia di creazione."
+    ],
+    "quest.65D89991A45BC042.quest_subtitle": "\\&l\\&cA\\&6U\\&eT\\&aO \\&bC\\&dR\\&9A\\&3F\\&0T",
+    "quest.65FA86357BC60573.quest_desc": [
+        "È ora di spostare oggetti da un luogo all'altro. Ecco i passaggi:\n\n\\&l1.\\&r Posizionate un'interfaccia su un inventario (come un Cesto o un Serbatoio)\n\n\\&l2.\\&r Posizionate un Importatore o un Esportatore su un altro inventario, a seconda che desideriate trasferire oggetti o inviarli.\n\n\\&l3.\\&r Collegateli tramite cavi, posizionate una Scheda Variabile sull'Importatore o sull'Esportatore, e voilà!"
+    ],
+    "quest.65FA86357BC60573.quest_subtitle": "Trasloco!",
+    "quest.68498ADEF9765F81.quest_desc": [
+        "Per creare \"Crystallized Menril Chunks\", è necessario prima inserire alcuni tronchi di Menril in un \"Squeezer\". Salire sul \"Squeezer\" per trasformarli in resina di Menril.\n\nÈ possibile svuotare il \"Squeezer\" inviando un segnale di Redstone."
+    ],
+    "quest.6ABDBE41880CFDA9.quest_desc": [
+        "Questo contenuto è stato creato da \\&6AllTheMods Staff\\&r, oppure da un \\&2contributore della community\\&r, per l'uso nei pacchetti di mod di AllTheMods.\\n\\nPoiché tutti i pacchetti di AllTheMods sono soggetti al copyright \\&eTutti i diritti riservati\\&r, questo contenuto non può essere utilizzato in altri pacchetti pubblici, a meno che non sia stato rilasciato dal team di AllTheMods, previa autorizzazione esplicita.\\n\\nQuesto contenuto è stato intenzionalmente nascosto. Se lo state visualizzando, siete in modalità di modifica."
+    ],
+    "quest.6C9191DA4B1039D6.quest_desc": [
+        "I frutti di Menril permettono di vedere nel buio per un breve periodo, una volta consumati."
+    ],
+    "quest.6D75CF34957ECCD9.quest_desc": [
+        "L'Energy Battery consente di immagazzinare l'energia FE. Per trasferirla, sarà necessario un'interfaccia energetica."
+    ],
+    "quest.6D75CF34957ECCD9.quest_subtitle": "Conservare l'energia",
+    "quest.72F57D77C3FB366D.quest_desc": [
+        "È possibile creare blocchi di menril cristallizzato, che possono essere trasformati in \"pezzi\" di menril cristallizzato. Questi pezzi sono l'ingrediente principale per la creazione di ID."
+    ],
+    "quest.72F57D77C3FB366D.quest_subtitle": "L'ingrediente principale per la creazione",
+    "quest.72F57D77C3FB366D.title": "Frammenti di Menril cristallizzati",
+    "quest.73EA326304C01C3B.quest_desc": [
+        "Aggiungete l'Importer al primo inventario da cui volete estrarre oggetti. Successivamente, aggiungete l'Interfaccia al secondo inventario e connetteteli utilizzando i cavi logici. Infine, inserite la Scheda Variabile nell'Importer e modificate i parametri secondo le vostre esigenze.\n\nÈ possibile configurare l'Importer per importare oggetti fino a un limite di 2 miliardi (intero).",
+        "{image:atm:textures\/questpics\/logistics\/id_item.png width:200 height:50 align:center}",
+        "{image:atm:textures\/questpics\/logistics\/id_fluid.png width:200 height:50 align:center}",
+        "{image:atm:textures\/questpics\/logistics\/id_energy.png width:200 height:50 align:center}"
+    ],
+    "quest.73EA326304C01C3B.quest_subtitle": "Importazione",
+    "quest.7413BB136EF9D6C5.quest_desc": [
+        "La vasca di essiccamento meccanica utilizza energia per l'essiccazione."
+    ],
+    "quest.79C1105A84B8BF8F.quest_desc": [
+        "Le \"Carte Variabili\" sono necessarie per avviare interazioni come l'importazione di oggetti. Le inserirai in uno dei slot dell'Importatore per aggiungerli.\n\nDa lì, potrai modificare tutto tramite il pulsante \"+\". Potrai modificare, ad esempio, la quantità da importare, lo slot dell'oggetto, il canale, praticamente tutto, utilizzando solo quella carta.\n\nSe semplicemente desideri spostare oggetti, senza particolari complicazioni, basta inserirla e, eventualmente, modificare il limite di quantità da spostare."
+    ],
+    "quest.79C1105A84B8BF8F.title": "Carte variabili",
+    "task.166BA23E49F6DCD6.title": "Importatori",
+    "task.1C045BB5FAFCF4D3.title": "Interfacce",
+    "task.1C7C0F345759111C.title": "Esportatori",
+    "task.22CCBBC66D509404.title": "Reti!",
+    "task.238B5BA2FAE9785B.title": "Tutti i diritti riservati",
+    "task.2656ACB55A33D4FE.title": "Interfaccia grafica (GUI)",
+    "task.267CE316E1F8FA83.title": "Tutti i diritti riservati",
+    "task.4209A06A392362DB.title": "Interfaccia grafica per importatori ed esportatori",
+    "task.5DD862CF56AF7BF9.title": "Registri di Menril"
+}

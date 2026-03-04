@@ -1,5 +1,5 @@
 {
-    "sixstairs.deimosconfig.blockStairsList": "Elenco di blocchi e scale che puoi creare da loro",
-    "sixstairs.deimosconfig.stairAmount": "Quanti scalini ricevi",
-    "sixstairs.deimosconfig.title": "Configurazione per convertire lastre in blocchi"
+    "sixstairs.deimosconfig.blockStairsList": "Elenco dei blocchi e degli oggetti che è possibile creare con essi.",
+    "sixstairs.deimosconfig.stairAmount": "Quante scale si ottengono?",
+    "sixstairs.deimosconfig.title": "Configurazione per la creazione di blocchi a partire da lastre di materiale."
 }

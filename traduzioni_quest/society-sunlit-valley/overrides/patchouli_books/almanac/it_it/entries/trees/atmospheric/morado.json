@@ -1,15 +1,15 @@
 {
-    "name": "Morado Tree 🌐",
+    "name": "Albero Morado 🌐",
     "category": "patchouli:trees",
     "icon": "atmospheric:morado_sapling",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)🌐 §5Tutto l'anno§r$(li)Dimensioni: 1x1`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🌐 Disponibile tutto l'anno§r$(li)Dimensioni: 1x1"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Morado Tree",
+            "name ": "patchouli:multiblock\n\nAlbero di mora",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -112,8 +112,7 @@
                     "T": "atmospheric:morado_log[axis=z]",
                     "t": "atmospheric:morado_log[axis=x]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

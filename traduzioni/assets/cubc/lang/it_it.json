@@ -1,0 +1,12 @@
+{
+    "block.cubc.example_block": "Esempio di blocco",
+    "cubc.configuration.items": "Elenco degli articoli",
+    "cubc.configuration.logDirtBlock": "Blocco di argilla per pavimentazione",
+    "cubc.configuration.magicNumber": "Numero magico",
+    "cubc.configuration.magicNumberIntroduction": "Numero Magico",
+    "cubc.configuration.section.cubc.common.toml": "Configurazioni per la collezione Cobblemon Ultra Beasts",
+    "cubc.configuration.section.cubc.common.toml.title": "Configurazioni per la collezione Cobblemon Ultra Beasts",
+    "cubc.configuration.title": "Configurazioni per la collezione Cobblemon Ultra Beasts",
+    "item.cubc.example_item": "Esempio di articolo",
+    "itemGroup.cubc": "Esempio di tabella Mod"
+}

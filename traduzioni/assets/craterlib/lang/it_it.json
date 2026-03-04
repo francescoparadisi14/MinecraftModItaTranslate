@@ -1,11 +1,11 @@
 {
-    "cl.buttons.add_entry": "+ Aggiungi voce d'elenco",
+    "cl.buttons.add_entry": "+ Aggiungi elemento",
     "cl.buttons.edit": "Modifica",
-    "cl.buttons.entry": "Inserisci %s",
-    "t.clc.cancel_discard": "Annulla",
-    "t.clc.opensubconfig": "Apri configurazione",
+    "cl.buttons.entry": "Inserimento n. %s",
+    "t.clc.cancel_discard": "Eliminare; gettare via; scartare",
+    "t.clc.opensubconfig": "Impostazioni",
     "t.clc.quit_config": "Modifiche non salvate",
-    "t.clc.quit_config_sure": "Hai modifiche non salvate alle impostazioni. Sei sicuro di volerle discartare?",
-    "t.clc.quit_discard": "Esci e abbandona",
+    "t.clc.quit_config_sure": "Hai apportato modifiche alla configurazione, ma non le hai salvate. Sei sicuro di volerle scartare?",
+    "t.clc.quit_discard": "Annulla e scarta",
     "t.clc.save": "Salva"
 }

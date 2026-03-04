@@ -1,9 +1,9 @@
 {
-    "block.sawmill.sawmill": "Asse",
-    "container.sawmill.sawmill": "Asse",
-    "entity.minecraft.villager.carpenter": "Carpentiere",
-    "entity.minecraft.villager.sawmill.carpenter": "Carpentiere",
-    "sawmill.category.wood_cutting": "Taglio legno",
-    "subtitles.sawmill.entity.villager.work_carpenter": "L'operario dei mobili lavora",
-    "subtitles.sawmill.ui.sawmill.take_result": "Sommersaio utilizzato"
+    "block.sawmill.sawmill": "Visto, osservato",
+    "container.sawmill.sawmill": "Visto, osservato",
+    "entity.minecraft.villager.carpenter": "Falegname",
+    "entity.minecraft.villager.sawmill.carpenter": "Falegname",
+    "sawmill.category.wood_cutting": "Taglio del legno",
+    "subtitles.sawmill.entity.villager.work_carpenter": "Il falegname lavora",
+    "subtitles.sawmill.ui.sawmill.take_result": "Maseria per la produzione di legname"
 }

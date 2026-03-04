@@ -283,6 +283,7 @@
     "item.mcwdoors.wooden_portcullis": "Wooden Portcullis",
     "itemGroup.mcwdoors": "Macaw's Doors",
     "mcwdoors.crafting.desc": "Crafting ingredient",
+    "mcwdoors.garage.desc": "Place only one on the ceiling and when opened it will roll down",
     "mcwdoors.metaldoor.desc": "Requires Redstone Power to open",
     "subtitle.mcwdoors.garage": "Open Garage Door",
     "subtitle.mcwdoors.shoji": "Open Shoji Door"

@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Regali Possibili:$()$(br)Cappello di Orso Teddy"
+            "text": "patchouli:testo\n\n$(l)Possibili regali:$()$(br)Cappello a forma di orso di peluche"
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:polar_bear",
             "scale": 0.7,
-            "text": "Sii molto cauto per non farti attaccare"
+            "text": "patchouli:entità\n\nminecraft:orso polare\n\nPrestate molta attenzione a non essere attaccati"
         }
     ]
 }

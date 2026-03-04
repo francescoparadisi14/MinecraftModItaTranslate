@@ -1,18 +1,18 @@
 {
-    "name": "Atlantic Cod",
+    "name": "Merl azzurro",
     "category": "patchouli:fish",
     "icon": "aquaculture:atlantic_cod",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 120 monete$(li)Simbolo: ❆ $(li)Stagione: Inverno$(li)Acqua: Oceano$(li)Clima: Qualsiasi$(li)Ora: Giorno"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 120$(li)§0❆ §bInverno§0$(li)Acqua: Oceano$(li)Meteo: Qualsiasi$(li)Ora: Giorno"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:atlantic_cod",
             "scale": 0.8,
             "rotate": true,
-            "text": "Che roba di merda! (Nota: \"codswallop\" è un'espressione idiomatica inglese che significa \"sciocchezze\", \"fandonie\")"
+            "text": "patchouli: entità\n\nacquacoltura: merluzzo atlantico\n\nChe sciocchezze!"
         }
     ]
 }

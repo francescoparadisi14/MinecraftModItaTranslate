@@ -1,4 +1,6 @@
 {
-    "cristellib.builtinPack": "Datapack integrato, fornito da cristel lib",
-    "cristellib.nameAndSource": "%s (%s)"
+    "cristellib.autoCategoryInfo": "Questo schermo è generato da %s. È possibile disabilitare la generazione automatica degli schermi nelle impostazioni.\n\nI creatori di mod possono cliccare qui per aprire la wiki e ottenere maggiori informazioni.",
+    "cristellib.nameAndSource": "%s (tramite §d§nCristel Lib§r)",
+    "cristellib.placementCategoryTitle": "Posizionamento della struttura",
+    "cristellib.toggleCategoryTitle": "Strutture modulari"
 }

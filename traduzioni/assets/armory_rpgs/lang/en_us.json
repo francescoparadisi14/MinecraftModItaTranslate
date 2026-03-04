@@ -62,7 +62,7 @@
     "spell.armory_rpgs.improved_charge.name": "Improved Charge",
     "spell.armory_rpgs.improved_circle_of_healing.description": "Increases duration of Circle of Healing Absorption by {effect_duration_add} sec",
     "spell.armory_rpgs.improved_circle_of_healing.name": "Improved Circle of Healing",
-    "spell.armory_rpgs.improved_entangling_roots.description": "Increases duration of Entangling Roots by {effect_duration_add} sec",
+    "spell.armory_rpgs.improved_entangling_roots.description": "Increases duration of Entangling Roots by {spawn_duration_add} sec",
     "spell.armory_rpgs.improved_entangling_roots.name": "Improved Entangling Roots",
     "spell.armory_rpgs.improved_frost_shield.description": "Increases duration of Frost Shield by {effect_duration_add} sec",
     "spell.armory_rpgs.improved_frost_shield.name": "Improved Frost Shield",

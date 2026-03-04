@@ -1,12 +1,12 @@
 {
-    "block.autosmithingtable.auto_smithing_table": "Tavola da smithaggio automatica",
-    "container.autosmithingtable.title": "Aggiornamento oggetti automatici",
-    "item.autosmithingtable.auto_smithing_table": "Tavola da smithaggio automatica",
-    "itemGroup.autosmithingtable": "Tavola di assemblaggio automatica",
-    "message.autosmithingtable.change_side_to_0": "[Autosmithingtable] Lato cambiato in: nulla",
-    "message.autosmithingtable.change_side_to_1": "[Autosmithingtable] Lato cambiato in: base di input",
-    "message.autosmithingtable.change_side_to_2": "[Autosmithingtable] Lato cambiato in: aggiunta di ingresso",
-    "message.autosmithingtable.change_side_to_3": "[Autosmithingtable] Lato cambiato in: output",
-    "tooltip.autosmithingtable.jade_progress": "Progressione: %d",
-    "tooltip.autosmithingtable.sides": "Clic destro con shift per configurare sulle facce"
+    "block.autosmithingtable.auto_smithing_table": "Banco per la lavorazione dei metalli (auto)",
+    "container.autosmithingtable.title": "Elementi di miglioramento (auto)",
+    "item.autosmithingtable.auto_smithing_table": "Banco per la lavorazione dei metalli (auto)",
+    "itemGroup.autosmithingtable": "Tavolo per la lavorazione del metallo (o \"forgiatura\")",
+    "message.autosmithingtable.change_side_to_0": "[§eAutoSmithingTable§r] §b Modificato in: Nothing",
+    "message.autosmithingtable.change_side_to_1": "[§eAutoSmithingTable§r] §bModificato da: Base di input",
+    "message.autosmithingtable.change_side_to_2": "[§eAutoSmithingTable§r] §b Modificato in: Aggiunta di input",
+    "message.autosmithingtable.change_side_to_3": "[§eAutoSmithingTable§r] §bModificato da: Output",
+    "tooltip.autosmithingtable.jade_progress": "Progresso: %d",
+    "tooltip.autosmithingtable.sides": "[Premi il tasto Maiusc + clic destro] sui lati per configurare."
 }

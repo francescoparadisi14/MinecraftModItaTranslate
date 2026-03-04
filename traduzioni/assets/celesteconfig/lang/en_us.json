@@ -1,0 +1,7 @@
+{
+    "text.autoconfig.celesteconfig.option.moonHeight": "Moon Height",
+    "text.autoconfig.celesteconfig.option.moonWidth": "Moon Width",
+    "text.autoconfig.celesteconfig.option.sunHeight": "Sun Width",
+    "text.autoconfig.celesteconfig.option.sunWidth": "Sun Width",
+    "text.autoconfig.celesteconfig.title": "Celestial Configuration Settings"
+}

@@ -1,11 +1,11 @@
 {
-    "bbb.biomeBlendRadius": "Riradiusione biomi migliori",
-    "bbb.biomeBlendRadius.tooltip": "Regola il raggio di fusione utilizzato da Better Biome Reblend.",
-    "options.biomeBlendRadius.17": "17x17 (grande)",
-    "options.biomeBlendRadius.19": "19x19 (molto grande)",
-    "options.biomeBlendRadius.21": "21x21 (massivo)",
-    "options.biomeBlendRadius.23": "23x23 (confuso)",
-    "options.biomeBlendRadius.25": "25x25 (criminale)",
-    "options.biomeBlendRadius.27": "27x27 (elevato)",
-    "options.biomeBlendRadius.29": "29x29 (oh mio dio!)"
+    "bbb.biomeBlendRadius": "Bioreblend migliorato",
+    "bbb.biomeBlendRadius.tooltip": "Controlla il raggio di miscelazione utilizzato da Better Biome ReBlend.",
+    "options.biomeBlendRadius.17": "17 x 17 (Grande)",
+    "options.biomeBlendRadius.19": "19 x 19 (Molto grande)",
+    "options.biomeBlendRadius.21": "21 x 21 (Grande)",
+    "options.biomeBlendRadius.23": "23 x 23 (Confuso)",
+    "options.biomeBlendRadius.25": "25x25 (Criminal)",
+    "options.biomeBlendRadius.27": "27x27 (Aumentato)",
+    "options.biomeBlendRadius.29": "29 x 29 (WOW!)"
 }

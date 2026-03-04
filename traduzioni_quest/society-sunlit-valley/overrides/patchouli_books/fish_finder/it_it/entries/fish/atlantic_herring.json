@@ -1,18 +1,18 @@
 {
-    "name": "Atlantic Herring",
+    "name": "Herring dell'Atlantico",
     "category": "patchouli:fish",
     "icon": "aquaculture:atlantic_herring",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 16 monete$(li)Simbolo di stagione: Primavera $(li)Piuma: Oceano$(li)Vento: Qualsiasi$(li)Ora: Giorno Notte"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 16$(li)§0🌼 §2Primavera§0 §0❆ §bInverno§0$(li)Acqua: Oceano$(li)Meteo: Qualsiasi$(li)Ora: Qualsiasi"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:atlantic_herring",
             "scale": 0.8,
             "rotate": true,
-            "text": "Non confondere con il Merluzzo."
+            "text": "Patchouli: entità\n\nAcquacoltura: sgombro dell'Atlantico\n\nDa non confondere con il merluzzo."
         }
     ]
 }

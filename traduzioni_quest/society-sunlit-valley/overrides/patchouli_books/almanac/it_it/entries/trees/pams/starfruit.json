@@ -1,16 +1,16 @@
 {
-    "name": "Albero di starfruit 🌐",
+    "name": "Albero della starfruit 🌐",
     "category": "patchouli:trees",
     "icon": "pamhc2trees:starfruit_sapling",
     "sortnum": -1,
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)🌐 §5Tutto l'anno§r$(li)Prezzo: :coin: 81,920$(li)Dimensioni: 1x1$(li)Cresce in: $(l:tree_crops\/starfruit)8 x Starfruit$(\/l)$(br2)$(l)Note$()$(li)Venduti da Master Cultivater.$(li)Inoltre costa 4x Fragmente Prismatiche."
+            "text": "patchouli:text\n\n$(l)Statistiche$()$(li)🌐 Disponibile tutto l'anno§r$(li)Prezzo: 81,920 §r$(li)Dimensioni: 1x1$(li)Coltivabile: 8x Starfruit$(\/l)$(br2)$(l)Note$()$(li)Piantine acquistate da un coltivatore esperto.$(li)Inoltre, richiede l'acquisto di 4 Schegge Prismatiche."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Starfruit Tree",
+            "name ": "Patchouli: Multibloc\n\nAlbero di starfruit",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {
@@ -77,8 +77,7 @@
                         "     "
                     ]
                 ]
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

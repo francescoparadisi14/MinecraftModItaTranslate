@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Stagione: 🔥 §6Summer§r $(li)Prezzo del seme: :coin: 8 $(li)Dimensioni: 1x1"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🔥 Estate$(li)Prezzo del seme: :moneta: 8$(li)Dimensione: 1x1"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Oak Tree",
+            "name ": "Patchouli: Multiblocco\n\nQuercia",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -107,8 +107,7 @@
                     "L": "minecraft:acacia_leaves",
                     "W": "minecraft:acacia_log[axis=y]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

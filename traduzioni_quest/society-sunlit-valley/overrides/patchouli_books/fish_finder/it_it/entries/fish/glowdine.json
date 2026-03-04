@@ -5,7 +5,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 448$(li)Dimensione: Inferno$(li)Bioma: Foresta Distorta della Guerra"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 448$(li)Dimensioni: Nether$(li)Bioma: Foresta distorta"
         },
         {
             "type": "patchouli:entity",
@@ -13,7 +13,7 @@
             "scale": 0.5,
             "offset": -0.3,
             "rotate": true,
-            "text": "Pesci Sprinker."
+            "text": "patchouli: entità\n\nnetherdepthsupgrade: glowdine\n\nPesce Sprinker."
         }
     ]
 }

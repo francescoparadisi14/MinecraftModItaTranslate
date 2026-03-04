@@ -1,0 +1,6 @@
+{
+    "advancement.netherportalconfigurator.portal_unlocked.desc": "Ora hai accesso permanente al Nether!",
+    "advancement.netherportalconfigurator.portal_unlocked.title": "L'errante infernale!",
+    "message.netherportalconfigurator.config_error": "§8 [Configuratore del portale Nether] Elemento non valido: %s",
+    "message.netherportalconfigurator.portal_denied": "§7 Per attivare un portale verso il Nether, è necessario un oggetto specifico! Cercatelo prima di riprovare!"
+}

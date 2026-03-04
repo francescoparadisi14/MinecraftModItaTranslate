@@ -1,4 +1,4 @@
 {
-    "responsiveshields.configuration.enabled": "Abilita override",
-    "responsiveshields.configuration.raiseTime": "Tempo di sollevamento"
+    "responsiveshields.configuration.enabled": "Abilita sovrascrittura",
+    "responsiveshields.configuration.raiseTime": "Tempo di esecuzione"
 }

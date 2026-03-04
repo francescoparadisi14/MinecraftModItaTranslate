@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Doni Possibili:$()$(br)Flauto da Cavallo"
+            "text": "patchouli:testo\n\n$(l)Possibili regali:$()$(br)Flauto per cavalli"
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:horse",
             "scale": 0.7,
-            "text": "Migliore delle auto!"
+            "text": "Patchouli: entità\n\nMinecraft: cavallo\n\nPiù economico di un'auto!"
         }
     ]
 }

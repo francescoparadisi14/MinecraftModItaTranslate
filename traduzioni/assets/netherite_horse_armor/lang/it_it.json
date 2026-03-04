@@ -1,5 +1,9 @@
 {
-    "item.netherite_horse_armor.netherite_horse_armor": "Armatura da cavallo di Netherite",
-    "netherite_horse_armor.advancements.obtain.description": "Ottenere un'armatura da cavallo di Netherite",
-    "netherite_horse_armor.advancements.obtain.title": "Cavaliere oscuro leggendario"
+    "item.netherite_horse_armor.netherite_horse_armor": "Armatura per cavallo in Netherite",
+    "netherite_horse_armor.advancements.obtain.description": "Ottenere un'armatura per cavallo in Netherite",
+    "netherite_horse_armor.advancements.obtain.title": "Il Cavaliere Oscuro leggendario",
+    "text.autoconfig.netherite_horse_armor.option.easyCrafting": "Creazioni facili",
+    "text.autoconfig.netherite_horse_armor.option.protectionValue": "Punti di armatura",
+    "text.autoconfig.netherite_horse_armor.option.title": "Configurazione per l'armatura da cavallo in Netherite",
+    "text.autoconfig.netherite_horse_armor.option.weight": "Peso nel tabellone di loot"
 }

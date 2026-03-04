@@ -1,7 +1,8 @@
 {
-    "block.genshin_domains.dungeon_start": "Chiave del dominio",
+    "block.genshin_domains.dungeon_start": "Chiave di dominio",
     "block.genshin_domains.portal_block": "Porta del dominio",
-    "block.genshin_domains.return_portal": "Portale di uscita",
-    "item.genshin_domains.door_finder": "Trova porta",
+    "block.genshin_domains.return_portal": "Uscita",
+    "item.genshin_domains.advanced_door_finder": "Sistema avanzato per la ricerca di porte",
+    "item.genshin_domains.door_finder": "Indicatore per porte",
     "item_group.genshin_domains.genshin_domains": "Domini di Genshin"
 }

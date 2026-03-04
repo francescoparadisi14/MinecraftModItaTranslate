@@ -1,0 +1,14 @@
+{
+    "block.cfm_wap.dark_circuit_breaker": "Dark Circuit Breaker",
+    "block.cfm_wap.light_circuit_breaker": "Light Circuit Breaker",
+    "container.cfm_wap.circuit_breaker": "Circuit Breaker",
+    "gui.cfm_wap.circuit_breaker": "Circuit Breaker",
+    "gui.cfm_wap.connect_to_power": "Ensure the block is receiving power from an %s or a %s. It can be connected using a %s.",
+    "gui.cfm_wap.node_count": "%s \/ %s",
+    "gui.cfm_wap.progress": "%sFE \/ %sFE",
+    "gui.cfm_wap.requires_power": "Requires power from an %s or a %s",
+    "gui.cfm_wap.status.energy": "No Energy",
+    "gui.cfm_wap.status.offline": "Offline",
+    "gui.cfm_wap.status.online": "Online",
+    "gui.cfm_wap.status.overloaded": "Overloaded"
+}

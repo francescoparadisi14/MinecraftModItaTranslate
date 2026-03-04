@@ -1,18 +1,18 @@
 {
-    "name": "Arrau Turtle",
+    "name": "Tartaruga di Arrau",
     "category": "patchouli:fish",
     "icon": "aquaculture:arrau_turtle",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 280 monete$(li)Stagione: Autunno$(li)Acqua: Fiume$(li)Clima: Pioggia e Neve$(li)Ora: Notte"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 280$(li)🍂 Autunno$(li)Acqua: Fiume$(li)Tempo: Notte"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:arrau_turtle",
             "scale": 0.8,
             "rotate": true,
-            "text": "Corre un tipo di club di tartaruga."
+            "text": "Patchouli: entità\n\nAllevamento di tartarughe (probabilmente un'associazione o un club dedicato)."
         }
     ]
 }

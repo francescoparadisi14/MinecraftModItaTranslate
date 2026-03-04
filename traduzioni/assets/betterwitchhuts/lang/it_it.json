@@ -1,6 +1,6 @@
 {
-    "Use \/locate structure betterwitchhuts:witch_hut instead!": "Usa \/locate Struttura Betterwitchhuts: Witch_hut Invece!",
-    "text.autoconfig.betterwitchhuts-fabric-1_21.option.general.disableVanillaWitchHuts": "Disabilita Le Capanne Streghe Di Base",
-    "text.autoconfig.betterwitchhuts-fabric-1_21.option.general.disableVanillaWitchHuts.@Tooltip": "Se Le Capanne Delle Streghe Di Minecraft Originale Dovrebbero Essere Disabilitate.",
-    "text.autoconfig.betterwitchhuts-fabric-1_21.title": "Le Migliori Capanne Streghe Di Yung"
+    "Use \/locate structure betterwitchhuts:witch_hut instead!": "Utilizzate invece la struttura `\/locate` con il termine `witch_hut`.",
+    "text.autoconfig.betterwitchhuts-fabric-1_21.option.general.disableVanillaWitchHuts": "Disabilitare le capanne delle streghe originali",
+    "text.autoconfig.betterwitchhuts-fabric-1_21.option.general.disableVanillaWitchHuts.@Tooltip": "Se è necessario disabilitare le \"capanne delle streghe\" a base di vaniglia.",
+    "text.autoconfig.betterwitchhuts-fabric-1_21.title": "Le case per streghe di YUNG"
 }

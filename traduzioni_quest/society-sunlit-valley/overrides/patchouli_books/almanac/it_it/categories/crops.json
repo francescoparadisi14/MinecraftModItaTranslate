@@ -1,6 +1,6 @@
 {
-    "name": "Cultivi",
-    "description": "Un riassunto di tutti i cereali. Elenco come ottenerli e quanti giorni richiedono per crescere.",
+    "name": "Colture agricole",
+    "description": "Una panoramica di tutte le colture. Elenca come ottenerle e quanti giorni impiegano per crescere.",
     "icon": "minecraft:netherite_hoe",
     "category": "patchouli:crops"
 }

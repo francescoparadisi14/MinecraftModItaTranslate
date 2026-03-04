@@ -1,0 +1,10 @@
+{
+    "pokerus.mark.pokerus": "Infected with Pokérus",
+    "pokerus.mark.pokerus.desc": "While infected, Pokémon are said to grow exceptionally well.",
+    "pokerus.mark.pokerus.title": "%1$s §7the Infected§r",
+    "pokerus.mark.pokerus_cured": "Recovered from Pokérus",
+    "pokerus.mark.pokerus_cured.desc": "It seems to still benefit from improved growth, but is no longer contagious and has gained immunity.",
+    "pokerus.mark.pokerus_cured.title": "%1$s §7the Cured§r",
+    "pokerus.notifications.pokerus.cured": "%1$s's Pokérus has been cured.",
+    "pokerus.notifications.pokerus.gained": "%1$s has been infected with Pokérus!"
+}

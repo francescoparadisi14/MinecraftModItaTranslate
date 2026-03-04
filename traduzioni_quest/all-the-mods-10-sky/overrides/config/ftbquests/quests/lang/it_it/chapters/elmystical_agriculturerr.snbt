@@ -1,0 +1,268 @@
+{
+    "quest.04A7AA70C23830FF.quest_desc": [
+        "Attrezzi per la raccolta di materiali organici, che possono essere utilizzati per rimuovere grandi quantità di materiale. Le falci rompono i blocchi nell'area circostante il blocco estratto."
+    ],
+    "quest.04B6E31120663EB2.quest_subtitle": "Livello: \\&a2",
+    "quest.06EAA74E0A10CBB6.quest_subtitle": "Intervallo: \\&b36\\&r Blocchi",
+    "quest.06EAA74E0A10CBB6.title": "\\&9 Acceleratore di crescita",
+    "quest.07564DBB023EE2A6.quest_subtitle": "Livello: \\&b4",
+    "quest.077B2D62FA7650FB.quest_subtitle": "Intervallo: 627 unità \/ blocchi",
+    "quest.077B2D62FA7650FB.title": "\\&cTertium Growth Accelerator",
+    "quest.0B37355262121DD5.quest_desc": [
+        "L'altare \"\\&aInfusion Altar\\&r\" è il luogo in cui si preparano tutti i semi. Prima di tutto, posiziona l'altare e questo ti indicherà dove posizionare i piedistalli.\\n\\nPer avviare il processo di infusione, l'altare richiede un segnale di \"\\&4Redstone\\&r\"."
+    ],
+    "quest.0B37355262121DD5.quest_subtitle": "Creare semi",
+    "quest.0B37355262121DD5.title": "\\&4Altare per l'infusione",
+    "quest.0EFEDB0DD90DFC81.quest_desc": [
+        "Il raccoglitore può raccogliere automaticamente i raccolti e ripiantarli. Gli oggetti raccolti dal raccoglitore vengono immagazzinati nel suo inventario interno."
+    ],
+    "quest.13124A7E22999850.quest_subtitle": "Livello: \\&e1",
+    "quest.15D764CAF047EA7A.title": "E altro ancora, \"Tertium Armor\"",
+    "quest.1609BF52108238B0.quest_subtitle": "Livello: \\&e1",
+    "quest.1636F3F12E92CAEA.quest_desc": [
+        "Per utilizzare una vasca per l'irrigazione, è necessario riempirla d'acqua facendo clic con il tasto destro su un blocco contenente acqua. Una volta riempita, è possibile fare clic con il tasto destro su una coltura per irrigare le colture all'interno dell'area d'effetto della vasca.",
+        "",
+        "Gli irrigatori Essence hanno la funzione di irrigazione automatica. Per attivare o disattivare l'irrigazione automatica, basta fare clic con il tasto destro sull'irrigatore nell'aria. Quando è attiva, l'irrigatore apparirà come se fosse incantato."
+    ],
+    "quest.16E3031D800B40D5.quest_desc": [
+        "Il Soulium Spawner utilizza le essenze dei mostri per creare nuovi mostri. Ad esempio, se inserisci dell'essenza di Ghast, potrai creare un Ghast."
+    ],
+    "quest.1C2CF6253F8B32EE.quest_subtitle": "Livello: \\&56",
+    "quest.1C4ABF4518638A82.quest_desc": [
+        "Abilità:\\n\\n - Assorbimento II (3:00)\\n - Velocità II (3:00)\\n - Resistenza II (3:00)\\n - Rigenerazione II (3:00)\\n - Forza II (3:00)"
+    ],
+    "quest.1C4ABF4518638A82.title": "\\&4Supremium Apple",
+    "quest.1CC4F8570A7A99EB.quest_desc": [
+        "\\&dEssence\\&r è il punto di partenza per tutte le vostre esigenze nel campo dell'agricoltura mistica.\n\n\\&eInferium Essence\\&r è il livello base di tutte le essenze. Potete ottenerla estraendo minerali, uccidendo mostri o coltivando semi!\n\nPer creare essenze più grandi e migliori, avrete bisogno di creare un \\&9Cristallo di Infusione\\&r."
+    ],
+    "quest.1CC4F8570A7A99EB.quest_subtitle": "Livello: \\&e1",
+    "quest.1CC4F8570A7A99EB.title": "\\&aInferium",
+    "quest.1CF8263756EE8F2A.quest_desc": [
+        "Questo oggetto speciale, chiamato \"\\&eDust\\&r\", viene ottenuto uccidendo il Wither e il Drago Ender, utilizzando un'arma incantata con \"\\&dMystical Enlightenment\\&r\"."
+    ],
+    "quest.1CF8263756EE8F2A.title": "\\&5Cognizant Dust\\&r",
+    "quest.1E0F92F07FDD162E.quest_desc": [
+        "Avrete bisogno di \"basi di coltivazione\" (Prosperity Seed Bases) per poter coltivare colture che generano risorse."
+    ],
+    "quest.1E0F92F07FDD162E.quest_subtitle": "Sono un grande sostenitore di (questa) base.",
+    "quest.1E0F92F07FDD162E.title": "\\&Base di finanziamento per la prosperità",
+    "quest.1E414D285E7A5FE2.title": "\\&cTertium Tools",
+    "quest.1E7DC8E0493BE99E.quest_subtitle": "Livello: \\&e1",
+    "quest.1F7591DB6D8EC1E7.quest_desc": [
+        "Abilità:\\n\\n - Assorbimento II (3:00)\\n - Velocità II (3:00)\\n - Resistenza II (3:00)\\n - Rigenerazione II (3:00)\\n - Forza II (3:00)\\n - Agilità II (3:00)"
+    ],
+    "quest.1F7591DB6D8EC1E7.title": "\\&5 Insanium Apple",
+    "quest.1F88C697817A7680.quest_desc": [
+        "Attrezzatura:\\n\\n - Assorbimento II (3:00)"
+    ],
+    "quest.1F88C697817A7680.title": "\\&aInferium Apple",
+    "quest.202B1F54D3F06DAB.quest_desc": [
+        "Questo è l'Essenza di livello 6, ottenuta combinando 4 cristalli Supremium con un cristallo di infusione."
+    ],
+    "quest.202B1F54D3F06DAB.quest_subtitle": "Livello: \\&56",
+    "quest.202B1F54D3F06DAB.title": "\\&5Insanium",
+    "quest.20851E0CF315F722.quest_desc": [
+        "Per quanto riguarda questi tipi di semi, sarà necessario posizionare un \"crux\" dello stesso tipo sotto il terreno coltivabile affinché i semi possano germogliare."
+    ],
+    "quest.20851E0CF315F722.title": "\\&5 Farmland di Insanium",
+    "quest.212EF8601746C500.quest_desc": [
+        "Abilità:\\n\\n - Assorbimento II (3:00)\\n - Velocità II (3:00)\\n - Resistenza II (3:00)\\n - Rigenerazione II (3:00)"
+    ],
+    "quest.212EF8601746C500.title": "\\&9 Imperium Apple",
+    "quest.21A90474590FCDB8.quest_desc": [
+        "Il \"Forno\" è una versione migliorata del forno standard, che può essere ulteriormente potenziato per ottenere una maggiore velocità e un'efficienza superiore."
+    ],
+    "quest.21A90474590FCDB8.title": "Caldaia",
+    "quest.224CE21E56703F6E.quest_desc": [
+        "Il bastone può essere utilizzato per attivare la trasformazione, basta fare clic con il tasto destro sull'altare per avviare il processo di infusione."
+    ],
+    "quest.224CE21E56703F6E.quest_subtitle": "Sei un mago! (Inserisci il tuo nome)!",
+    "quest.224CE21E56703F6E.title": "\\&2Bacchetta",
+    "quest.23C36E4B5DCEBFDD.quest_desc": [
+        "Questa quest è stata realizzata da \\&6AllTheMods Staff\\&r, oppure da un \\&2contributore della community\\&r, per l'uso nei pacchetti mod di AllTheMods.\\n\\nPoiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti a \\&eTutti i diritti riservati\\&r, questa quest non può essere utilizzata in altri pacchetti pubblici, se non quelli rilasciati dal team \\&6AllTheMods\\&r, senza un'esplicita autorizzazione.\\n\\nQuesta quest è intenzionalmente nascosta. Se la vedete, significa che siete in modalità di modifica."
+    ],
+    "quest.260F9C98DC2E485B.quest_subtitle": "Livello: \\&b4",
+    "quest.26A7746051A4A079.quest_subtitle": "Livello: 63",
+    "quest.27A0BCE75F198A82.quest_subtitle": "Livello: \\&e1",
+    "quest.27E8ED4B5F8127F9.quest_subtitle": "Livello: \\&b4",
+    "quest.29AE69722AB4C75C.quest_subtitle": "Livello: \\&a2",
+    "quest.2A59C2FE4AAA79D4.quest_subtitle": "Livello: \\&a2",
+    "quest.2A7E3F2CD335EAD0.quest_desc": [
+        "Per iniziare il processo di creazione dell'equipaggiamento \"aEssence Gear\", dovrai prima creare l'armatura \"Inferium Armor\".\n\nQuesto equipaggiamento può essere potenziato a livelli superiori, proprio come le \"Essences\". Inoltre, puoi potenziarlo utilizzando il \"Tinkering Table\"!"
+    ],
+    "quest.2A7E3F2CD335EAD0.title": "\\&aArmatura Inferiore",
+    "quest.2AECDD9E2DEA708C.quest_subtitle": "Livello: \\&a2",
+    "quest.2C73E3C5113BF2AC.quest_desc": [
+        "Bip bip, sono una pecora."
+    ],
+    "quest.2C73E3C5113BF2AC.quest_subtitle": "Livello: \\&a2",
+    "quest.2C9C9CB71941DC01.quest_desc": [
+        "Questo è l'Essenza di Terza Frazione, ottenuta combinando 4 Prudentium con un Cristallo di Infusione."
+    ],
+    "quest.2C9C9CB71941DC01.quest_subtitle": "Livello: \\&63",
+    "quest.2C9C9CB71941DC01.title": "E così via",
+    "quest.2DDA04088C8220D2.quest_desc": [
+        "I \"Frammenti di Prosperità\" sono un ingrediente fondamentale per la creazione di oggetti nel mod. È possibile ottenerli setacciando la Sabbia dell'Anima con un setaccio in ferro o uno più avanzato."
+    ],
+    "quest.2DDA04088C8220D2.quest_subtitle": "Possiamo finalmente raggiungere la prosperità?",
+    "quest.2DDA04088C8220D2.title": "\\&Prosperity Shards (Frammenti di Prosperità)",
+    "quest.30E9255DEC69C061.title": "\\&4Strumenti di alta qualità",
+    "quest.32B01BD789F0B037.quest_desc": [
+        "È possibile ottenere Supremium e altre essenze a livelli diversi utilizzando il mod \"\\&6Productive Bees\"."
+    ],
+    "quest.32B01BD789F0B037.title": "Automatizzazione di Awakened Supremium",
+    "quest.3339445194568D77.title": "\\&2Prudentium Tools",
+    "quest.3384308C78D86059.quest_subtitle": "Livello: \\&a2",
+    "quest.33D23C65E7274A8F.quest_desc": [
+        "Per risvegliare la tua Essenza Supremium, dovrai creare un nuovo Altare e 4 nuovi piedistalli, oltre a 4 contenitori per l'Essenza.\n\nI contenitori per l'Essenza richiederanno l'uso di 4 Elementi Essenziali di partenza: Fuoco, Acqua, Terra e Aria."
+    ],
+    "quest.33D23C65E7274A8F.title": "\\&dIl Risveglio\\&r",
+    "quest.37B297640F537383.quest_desc": [
+        "L'Augmento \"Unattuned\" viene utilizzato in una Trasmutazione per creare diversi tipi di potenziamenti. Ottieni potenziamenti come \"\\&eHaste\\&r\", \"\\&1Night Vision\\&r\", \"\\&bFall Damage Resistance\\&r\", \"\\&6Fire Resistance\\&r\" e molti altri con questi fantastici potenziamenti!"
+    ],
+    "quest.37B297640F537383.title": "\\&Funzione di potenziamento",
+    "quest.38A77DBAD24C4B53.quest_subtitle": "Livello: \\&63",
+    "quest.398DEF6BA2E488C1.quest_subtitle": "Livello: \\&56",
+    "quest.3BB3AA6C29285837.quest_desc": [
+        "Abilità:\n- Assorbimento II (3:00)\n- Velocità II (3:00)"
+    ],
+    "quest.3BB3AA6C29285837.title": "\\&2Prudentium Apple",
+    "quest.3BD8315851A3EE5F.quest_subtitle": "Livello: \\&a2",
+    "quest.3C9F5EB59D72AC90.quest_desc": [
+        "È necessario un blocco di lingotto \"Awakened Supremium\" per creare la \"Star\\&r\"."
+    ],
+    "quest.3E555B364FD88B43.quest_subtitle": "Gamma: \\&c45\\&r Blocchi",
+    "quest.3E555B364FD88B43.title": "\\&4Acceleratore di crescita premium",
+    "quest.3EA2578C3A56FAE8.quest_desc": [
+        "Il Soul Extractor consente di riempire i contenitori per l'estrazione di anime inserendo un contenitore e utilizzando oggetti ottenuti dagli NPC per riempirlo. Ad esempio, l'aggiunta di \"Carne Putrefatta\" permetterà di ottenere una parte dell'anima di un Zombi."
+    ],
+    "quest.3EBCBED3FD033117.quest_subtitle": "Livello: \\&a2",
+    "quest.408D8B1CFBA22BAF.quest_desc": [
+        "I blocchi, mattoni e vetri resistenti al wither presentano un'elevata resistenza agli esplosivi e non possono essere distrutti dal wither o dal drago Ender."
+    ],
+    "quest.408D8B1CFBA22BAF.title": "\\& Blocchi resistenti alle intemperie",
+    "quest.409A92D40F539485.quest_subtitle": "Livello: \\&e1",
+    "quest.41DBE44D7AA0B623.quest_desc": [
+        "La \"Tinkering Table\" è il modo in cui si aggiungono questi componenti al vostro equipaggiamento!"
+    ],
+    "quest.42218A7D42CF0A4C.quest_subtitle": "Livello: \\&a2",
+    "quest.4352505361D61BB2.quest_subtitle": "Livello: \\&a2",
+    "quest.4526E151BAE88310.quest_subtitle": "Livello: \\&e1",
+    "quest.4530C14828C3D153.quest_subtitle": "Livello: \\&b4",
+    "quest.45549E52B3CE2D23.quest_desc": [
+        "Le falci sono strumenti che consentono di coltivare ampie aree di terreno contemporaneamente. Possono anche essere utilizzate come armi, sebbene non siano particolarmente efficaci."
+    ],
+    "quest.4821419D44F8083F.quest_desc": [
+        "\\&9Acceleratori di crescita\\&r aumentano leggermente la velocità di crescita di un seme quando viene posizionato direttamente sotto il terreno coltivabile. Ogni livello ha un raggio che indica quante unità di blocco possono essere accelerate, con Inferium che ha il raggio più basso, pari a 12.",
+        "",
+        "Nota: Tutti i tipi di acceleratori di crescita forniscono lo stesso ritmo di crescita. Tuttavia, i livelli superiori hanno un raggio d'azione maggiore, quindi è possibile posizionarne più di uno sotto una singola pianta. Non importa quale livello si utilizzi, purché l'acceleratore di crescita sia posizionato all'interno del suo raggio massimo."
+    ],
+    "quest.4821419D44F8083F.quest_subtitle": "Gamma: Blocchi",
+    "quest.4821419D44F8083F.title": "\\&aAcceleratore di crescita di Inferium",
+    "quest.48BF71269DEA1AB1.title": "\\&4Supremium Farmland",
+    "quest.4EF5DE3FBA2A7AE3.quest_desc": [
+        "Partendo dall'Essenza, è possibile creare lingotti per ottenere sia l'Essenza che gli strumenti e l'armatura.\n\nGli strumenti realizzati con l'Essenza possono essere potenziati a livelli superiori, e, come l'armatura, possono essere modificati utilizzando il \"Tinkering Table\"."
+    ],
+    "quest.4EF5DE3FBA2A7AE3.title": "\\&aStrumenti Inferium",
+    "quest.4F0DD86CF6E5F1B5.quest_subtitle": "Livello: \\&b4",
+    "quest.4F137DB561F45306.title": "\\&2Armatura Prudentium\\&r",
+    "quest.52BB58D470560219.quest_subtitle": "Gamma: Blocchi \\&c54\\&r",
+    "quest.52BB58D470560219.title": "\\&6Acceleratore di crescita Supremium",
+    "quest.54735C5FCD2077B3.quest_desc": [
+        "\\&aMystical Agriculture\\&r è un mod che consente di generare una vasta gamma di risorse, sia di base che create da mod, utilizzando i \\&aSemi\\&r.",
+        "",
+        "Si prega di notare che molte delle piante sono state rimosse in questo pacchetto di mod; sì, lo so! Ma ci sono alcune alternative con Geores che potrebbero colmare questa lacuna."
+    ],
+    "quest.54735C5FCD2077B3.title": "\\&Agricoltura mistica!",
+    "quest.54D72C234EA76054.quest_subtitle": "Livello: \\&e1",
+    "quest.56201F98819478AB.quest_subtitle": "Livello: \\&a2",
+    "quest.576ABF43FCF886B7.title": "\\&2Prudentium Farmland",
+    "quest.5782E9F866453D1D.quest_subtitle": "Livello: \\&b4",
+    "quest.5B1E0E3E876339E7.title": "\\&4Armatura di alta qualità",
+    "quest.5BC4250E4C9F803C.title": "\\&9 Imperium Farmland",
+    "quest.5C590DB2F3D935E5.quest_desc": [
+        "Il processore di semi può trasformare i semi in essenze."
+    ],
+    "quest.5C590DB2F3D935E5.quest_subtitle": "Riciclaggio!",
+    "quest.5F6ACDE014A61F46.quest_desc": [
+        "Abilità:\n\n- Assorbimento II (3:00)\n- Velocità II (3:00)\n- Resistenza II (3:00)"
+    ],
+    "quest.5F6ACDE014A61F46.title": "E altro ancora, Apple",
+    "quest.617F1FA978197AFD.quest_subtitle": "Livello: \\&56",
+    "quest.6235B9923BE0AAEB.quest_desc": [
+        "L'Enchanter è un oggetto che consente di applicare incantesimi a oggetti incantabili utilizzando oggetti e essenze."
+    ],
+    "quest.6235B9923BE0AAEB.title": "\\&Incantatore",
+    "quest.62D572BAB055F56F.quest_subtitle": "Livello: \\&e1",
+    "quest.6501A410F1543C70.quest_desc": [
+        "Mystical Fertilizer funziona come il concime per le ossa, ma con risultati migliori. Fa sì che la pianta a cui viene applicato raggiunga rapidamente la piena maturazione."
+    ],
+    "quest.6501A410F1543C70.title": "\\&dFertilizzante Mistic",
+    "quest.66C52B137A4FF869.quest_desc": [
+        "Questo è l'Essenza di Terza Frazione, ottenuta combinando 4 unità di Terzio con un Cristallo di Infusione."
+    ],
+    "quest.66C52B137A4FF869.quest_subtitle": "Livello: \\&b4",
+    "quest.66C52B137A4FF869.title": "\\&9 Imperium",
+    "quest.67DBE6C59C0D9D1B.quest_desc": [
+        "Questo è l'Essenza di livello 4, ottenuta combinando 4 Imperium con un Cristallo di Infusione."
+    ],
+    "quest.67DBE6C59C0D9D1B.quest_subtitle": "Livello: \\&c5",
+    "quest.67DBE6C59C0D9D1B.title": "\\&4Supremium",
+    "quest.67DDFA6FB1F9EECA.title": "\\&9 Strumenti per Imperium",
+    "quest.685C4A646E092A82.title": "\\&6Armatura Supremium risvegliata",
+    "quest.6A18B971C3DB83AE.quest_subtitle": "Livello: \\&63",
+    "quest.712EB19B26D405DD.quest_subtitle": "Livello: \\&e1",
+    "quest.73350AD668200E99.quest_desc": [
+        "Questo è l'Essenza di Terza Frazione, ottenuta combinando 4 cristalli Inferium con un cristallo di infusione."
+    ],
+    "quest.73350AD668200E99.quest_subtitle": "Livello: \\&a2",
+    "quest.73350AD668200E99.title": "\\&2Prudentium",
+    "quest.75560045ED084900.quest_desc": [
+        "La maggior parte dei semi è facile da ottenere, ma per creare i semi di \"\\&8Soulium\", dovrai recarti nel Nether per raccoglierli.",
+        "",
+        "Utilizzando le pietre e i minerali che troverete, dovrete creare la \"Daga di Soulium\" e le \"Barattoli di Soulium\". Utilizzando la daga per uccidere i mostri, potrete raccogliere le loro \"anime\", che verranno utilizzate nell'Altare dell'Infusione per creare i semi corrispondenti.",
+        "",
+        "In alternativa, è possibile riempire i \"Soul Jars\" all'interno del \"\\&3Soul Extractor\" inserendo un contenitore e utilizzando oggetti ottenuti dagli NPC per riempirlo. Ad esempio, l'aggiunta di \"Rotten Flesh\" fornirà una parte dell'anima di un Zombi."
+    ],
+    "quest.75560045ED084900.title": "Creazione di semi per \"Mob Seeds\"",
+    "quest.7580037DB8ADEB3C.quest_desc": [
+        "Miao, miao, sono una mucca..."
+    ],
+    "quest.7580037DB8ADEB3C.quest_subtitle": "Livello: \\&a2",
+    "quest.76071C22A73A2026.title": "E altro ancora, Terreno agricolo",
+    "quest.7655E1C6C5E5469F.quest_subtitle": "Intervallo: Blocchi a18",
+    "quest.7655E1C6C5E5469F.title": "\\&2Prudentium Growth Accelerator",
+    "quest.77C6667B4C37589C.quest_desc": [
+        "Gli aggiornamenti delle macchine vengono utilizzati per velocizzare e migliorare le prestazioni delle macchine agricole."
+    ],
+    "quest.7A103577EAE7B3F1.quest_desc": [
+        "Questo è il Tier 5 – Essenza Risvegliata, ottenuto combinando 4 polveri di Cognizant, 10 di ogni Essenza Elementale e 1 blocco Supremium in un Altare di Risveglio."
+    ],
+    "quest.7A103577EAE7B3F1.quest_subtitle": "Livello: \\&c5 - Risvegliato",
+    "quest.7A103577EAE7B3F1.title": "\\&6Supremium Risvegliato",
+    "quest.7ADE214373DE135F.quest_subtitle": "Livello: \\&63",
+    "quest.7BBD85F94D98CA46.quest_desc": [
+        "La maggior parte dei semi di risorse è stata rimossa per fare spazio ai nuovi moduli \\&laquo;Flux Sieves\\&raquo; (ExDeorum) e \\&laquo;GeOres\\&raquo;, insieme ai 6 livelli di \\&laquo;Growth Accelerator\\&raquo;."
+    ],
+    "quest.7BBD85F94D98CA46.title": "Attenzione",
+    "quest.7CFA92CC48D1E7E3.quest_subtitle": "Livello: \\&c5",
+    "quest.7D43016926E77150.title": "\\&9Imperium Armor\\&r",
+    "quest.7DFF18CFEB0B8DBE.quest_desc": [
+        "È consigliabile iniziare a coltivare i semi di \\&Inferium\\& il prima possibile!\n\nAnche se non è obbligatorio, è possibile creare un \\&eCampi di Coltivazione Essenziale\\&r, che aumenterà la velocità di crescita dei semi (in particolare dei semi di \\&Inferium\\&). Tuttavia, alcuni semi richiederanno la coltivazione in specifici tipi di campi."
+    ],
+    "quest.7DFF18CFEB0B8DBE.title": "\\&aFarmland di Inferium",
+    "task.011F410922A4D859.title": "Forbici",
+    "task.0C92F7E44100B2BA.title": "Strumenti Tertium",
+    "task.2DA0BD7B2834A560.title": "Blocchi resistenti alla marciume",
+    "task.323D34AF775A642B.title": "Forbici da falci",
+    "task.34551E919FD101CF.title": "Strumenti Imperium",
+    "task.3E133AC7B615971D.title": "Strumenti Supremium",
+    "task.41910A3BC6C0E838.title": "Strumenti Prudentium",
+    "task.4C906A47EBC15BC1.title": "Boccali per l'irrigazione",
+    "task.4F6E8F2EC33DB910.title": "Strumenti Supremium attivati",
+    "task.518B9569DCE0A771.title": "Tutti i diritti riservati",
+    "task.51A3E013D2B3D744.title": "Aggiornamenti delle macchine",
+    "task.64FADC78A8AD3FE4.title": "Semi",
+    "task.773CA1FDC4CEFCEF.title": "Tutti i diritti riservati",
+    "task.7D9A58EBADE91F54.title": "Strumenti Inferium"
+}

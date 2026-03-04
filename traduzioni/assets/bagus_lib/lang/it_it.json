@@ -1,14 +1,15 @@
 {
-    "bagus_lib.config.aprilFeature": "Abilita la funzionalità di aprile",
-    "bagus_lib.config.betterEndPoem": "Poema finale migliorato",
-    "bagus_lib.config.playableFirstPerson": "Modalità prima persona giocabile",
-    "bagus_lib.config.shakeCameraForVanilla": "Abilita scuotimento della telecamera per il gioco originale",
-    "bagus_lib.watermelon": "Melone d'acqua",
-    "baguslib.config.shakeCameraForVanilla": "Abilita scuotimento della telecamera per il gioco originale",
-    "command.bagus_lib.dialog": "Aggiunto dialogo con successo",
-    "command.bagus_lib.image_dialog": "Dialogo di aggiunta immagine con successo",
-    "command.bagus_lib.item_dialog": "Dialogo di aggiunta di elemento con successo",
-    "command.bagus_lib.remove_all_dialog": "Rimosso con successo tutti i dialoghi.",
+    "bagus_lib.config.aprilFeature": "Abilita la funzione \"April Fools\"",
+    "bagus_lib.config.aprilFeatureAlway": "Abilitare sempre la funzione \"April Fools\"!",
+    "bagus_lib.config.betterEndPoem": "Il poema finale",
+    "bagus_lib.config.playableFirstPerson": "Giocabile in prima persona",
+    "bagus_lib.config.shakeCameraForVanilla": "Abilita la vibrazione della fotocamera per Vanilla",
+    "bagus_lib.watermelon": "Anguria",
+    "command.bagus_lib.dialog": "Aggiunto con successo il modulo Dialog.",
+    "command.bagus_lib.image_dialog": "Aggiunto con successo il dialogo per la selezione di immagini.",
+    "command.bagus_lib.item_dialog": "Aggiunto con successo il dialogo per la gestione degli elementi.",
+    "command.bagus_lib.remove_all_dialog": "Tutti i dialoghi sono stati eliminati con successo.",
+    "entity.bagus_lib.mini_bagu": "Baguette piccola",
     "item.bagus_lib.book": "Libro",
-    "item.bagus_lib.spawn_egg_mini_bagu": "Uova di spawn del mini Bagu"
+    "item.bagus_lib.mini_bagu_spawn_egg": "Uovo di allevamento Mini Bagu"
 }

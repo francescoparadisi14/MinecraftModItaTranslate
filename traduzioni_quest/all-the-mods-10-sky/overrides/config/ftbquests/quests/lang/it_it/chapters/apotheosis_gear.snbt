@@ -1,0 +1,130 @@
+{
+    "quest.001C1881E9289566.quest_desc": [
+        "«\\&9Rarità di livello medio\\&r».\n\nSi trova in tutti i «\\&lLivelli del Mondo\\&r», ma è più comune nel «\\&lLivello del Mondo: \\&eAscesa\\&r».\n\n«\\&9Frammenti di Cristallo Luminosi\\&r» sono realizzati utilizzando «\\&9Oggetti Rari\\&r» in una «\\&c\\&lTavola di Recupero\\&r»."
+    ],
+    "quest.001C1881E9289566.quest_subtitle": "\\&9Raro",
+    "quest.001C1881E9289566.title": "\\&9Frammento di cristallo luminoso",
+    "quest.0089A394566B0F3B.quest_desc": [
+        "\\&aUncommon\\&r è il secondo livello di rarità.\n\nAppare principalmente in \\&lWorld Tier: \\&9Haven\\&r, ed è più abbondante in \\&lWorld Tier: \\&2Frontier\\&r, e scompare in \\&lWorld Tier: \\&4Pinnacle\\&r.\n\n\\&aTimeworn Fabric\\&r è prodotto utilizzando \\&aUncommon\\&r \\&eItems\\&r in una \\&c\\&lSalvaging Table\\&r."
+    ],
+    "quest.0089A394566B0F3B.quest_subtitle": "\\&aUnico",
+    "quest.0089A394566B0F3B.title": "\\& Tessuto usurato",
+    "quest.097FDC136BC843A7.quest_desc": [
+        "\\&lSummit\\&r di livello superiore richiederà che aggiorni il tuo \\&eArmatura\\&r e il tuo \\&eStrumento\/Arma\\&r da \\&aNon Comune\\&r a \\&9Raro\\&r (o migliore)! Dovrai anche sconfiggere \\&0\\&lThe Wither\\&r.\n\n\\&0\\&lThe Wither\\&r non deve essere un \\&4Invasore\\&r, e in realtà, sarà più facile se non lo è.\n\nNel \\&6\\&lSummit\\&r, \\&5Epico\\&r, \\&eOggetti\\&r e \\&2Gemme\\&r saranno i più comuni. Per gli \\&eOggetti\\&r, ora potrai ottenere \\&6Mitico\\&r e, per le \\&aGemme\\&r, potrai trovare \\&zPerfetto\\&r. Ancora una volta, entrambi sono estremamente rari!\n\nOra otterremo l'87,5% di esperienza e il 50% di fortuna.\n\nAnche i \\&4Mostri\\&r saranno potenziati per ottenere 12 punti di armatura, 10 punti di resistenza, 15 punti di perforazione e 10 punti di protezione.\n\nÈ solo me, o gli aggiornamenti sono migliori dei nostri?"
+    ],
+    "quest.097FDC136BC843A7.title": "\\&lSummit di livello mondiale",
+    "quest.099C2A9B9CA138F8.quest_desc": [
+        "\\&6Le perle mitiche\\&r sono alcune delle più rare che si possono trovare! \\n\\nLe perle mitiche si trovano esclusivamente in \\&lLivello mondiale: \\&6Cima\\&r e in \\&lLivello mondiale: \\&4Apice\\&r, dove sono più comuni. \\n\\nLe perle forgiate dagli dei sono create utilizzando le perle mitiche in una \\&c\\&lTabella di recupero\\&r."
+    ],
+    "quest.099C2A9B9CA138F8.quest_subtitle": "\\&6Mitico",
+    "quest.099C2A9B9CA138F8.title": "\\& Perla forgiata da Dio",
+    "quest.1403D677CF2815C3.quest_desc": [
+        "La \\&5\\&lTabella di Rimodellamento\\&r fa tutto ciò che fa la \\&9\\&lTabella Semplice\\&r, ma in modo ancora migliore!\n\nPuò fornirci \\&5Affissi \\&eEpici\\&r e \\&6Mitici\\&r, oltre a quelli che abbiamo già!"
+    ],
+    "quest.1403D677CF2815C3.title": "(Migliore) \\&5\\&Tavolo di rifinitura",
+    "quest.166CE4243896A0CD.quest_desc": [
+        "Non ti piacciono i tuoi gemmi? Allora, cambiali!\n\nPer modificare la rarità dei tuoi gemmi, dovrai utilizzare questo tavolo.\n\nUtilizzando due gemmi dello stesso tipo e materiali di rarità, puoi aumentare la rarità dei tuoi gemmi, e questo aumenterà anche la loro potenza."
+    ],
+    "quest.166CE4243896A0CD.title": "Miglioramento in corso e gemme",
+    "quest.16C74B5F99AD6724.quest_desc": [
+        "\\&8Comune\\&r è il tipo di oggetto più basilare. Di conseguenza, è il più comune da trovare all'inizio del gioco, ma anche il più debole.\n\n\\&8Comune\\&r si trova principalmente nella \\&lFase: \\&9Haven\\&r, e smetterà di comparire dopo la \\&lFase: \\&6Summit\\&r.\n\n\\&8Metalli recuperati\\&r sono ottenuti utilizzando \\&8Comune\\&r \\&eOggetti\\&r in un \\&c\\&lTavolo di recupero\\&r."
+    ],
+    "quest.16C74B5F99AD6724.quest_subtitle": "\\&8Comune",
+    "quest.16C74B5F99AD6724.title": "\\&8Metalli misteriosi",
+    "quest.196312DF0D2E2CB6.quest_desc": [
+        "\\&4Invaders\\&r sono ciò che conosciamo come \\&6\\&lApotheosis\\&r, ovvero i boss.\n\nQuesti sono mostri che possono comparire in qualsiasi dimensione e che saranno sempre dotati di \\&eOggetti speciali\\&r.\n\nLa maggior parte avrà più punti vita, danni e effetti rispetto ai mostri normali! Quando vengono sconfitti, rilasceranno \\&eOggetti speciali\\&f e \\&aGemme\\&r.\n\nLa loro rarità corrisponde alla rarità di \\&6\\&lApotheosis\\&r. La loro rarità determina con cosa appaiono e le loro statistiche.\n\nLa loro rarità è determinata dal \\&lLivello del Mondo\\&r! I \\&lLivelli del Mondo\\&r sono una nuova aggiunta a \\&6\\&lApotheosis\\&r, e influenzeranno la rarità degli oggetti e dei boss che potrete trovare.\n\nPer accedere al menu \\&lLivello del Mondo\\&r, tenete premuto il tasto CTRL e premete T."
+    ],
+    "quest.196312DF0D2E2CB6.title": "\\&4Invasori\/Boss\\&r e \\&lLivelli del Mondo",
+    "quest.1CD05CB4A3DB112A.quest_desc": [
+        "La \"Tavola di Recupero\" può finalmente fornirti Materiali e \"Polvere di Pietre Preziose\" senza dover utilizzare i \"Martelli\".\n\nPuoi riciclare gli \"Strumenti\" e le \"Armature\" con gli \"Affissi\" per ottenere i relativi Materiali.\n\nI Materiali ottenuti dipendono dalla Rarità dell'oggetto: gli oggetti \"Comuni\" forniranno Materiali \"Comuni\".\n\nE, per qualche motivo, puoi smontare le armature per cavalli\/cani."
+    ],
+    "quest.1CD05CB4A3DB112A.title": "E altro, Tavolo di recupero",
+    "quest.1D1FAA2F86695781.quest_desc": [
+        "Per \\&l\\&2Frontier\\&r, la rarità degli \\&eAffixes\\&r non era importante, ma ora per \\&l\\&eAscent\\&r avrete bisogno di tutto ciò che è \\&aUncommon\\&r o superiore.\n\nInoltre, dovrete sconfiggere un \\&4Invader\\&r, ovvero un \\&6\\&lApothic\\&r Boss, per migliorare il vostro \\&lWorld Tier\\&r. La rarità del \\&4Boss\\&r non è importante!\n\nGli \\&eAffixes\\&r rimarranno solo fino al livello \\&5Epic\\&r, ma ora gli \\&9Rare\\&r sono più comuni. Potremo anche ottenere \\&6Mythic\\&r \\&aGems\\&r... ma solo con la fortuna!\n\nParlando di fortuna, la nostra fortuna aumenterà al 30% e l'esperienza aumenterà a 55%.\n\nGli \\&4Monsters\\&r, d'altra parte, ora avranno 8 punti di armatura e 5 punti di perforazione."
+    ],
+    "quest.1D1FAA2F86695781.title": "\\&lMondo: \\&eAscesa",
+    "quest.2002C7EB13626AE7.quest_desc": [
+        "La \"Tabella di Potenziamento\" richiede un carburante specifico, che sono gli \"\\&6Sigilli di Potenziamento\".\\n\\nOgni tentativo di \"Riavvolgimento\" costerà 1 \"\\&6Sigillo di Potenziamento\", mentre ogni \"Aggiornamento\" costerà 2!\\n\\nAvrete bisogno di 4 \"\\&6Perle Forgiate da Dio\" per utilizzarli."
+    ],
+    "quest.2002C7EB13626AE7.title": "\\&6 Sigillo di miglioramento",
+    "quest.22E57BF23B9BA2C5.quest_desc": [
+        "\\&6\\&L'integrazione con \\&aGateways\\&r è ora completa.\\n\\nSono disponibili \\&aGateways\\&r basati su ogni \\&lLivello del Mondo\\&r (ad eccezione di \\&l\\&9Haven\\&r), che offrono ondate di mostri e \\&4Invasori\\&r. Questi \\&aGateways\\&r possono essere utilizzati solo all'interno del loro corrispondente \\&lLivello del Mondo\\&r. Una volta sconfitte l'ultima ondata, si ottengono una varietà di ricompense, utili per completare il corrispondente \\&lLivello del Mondo\\&r.\\n\\nA differenza degli altri \\&aGateways\\&r, si hanno a disposizione un totale di 3 vite."
+    ],
+    "quest.24D11ED5F4EEDC48.quest_desc": [
+        "Per chi è nuovo a \\&6\\&lApotheosis\\&r, i \\&9Sockets\\&r possono risultare confusi e frustranti.\n\nIn breve, le tue armi e armature necessitano di \\&9Sockets\\&r per poter utilizzare \\&aGems\\&r.\n\nMa cosa succede se non ne ha uno?\n\nAllora avrai bisogno di un \\&9Sigil of Socketing\\&r!\n\nUnisci il tuo oggetto e un \\&9Sigil\\&r su un \\&8\\&lSmithing Table\\&r e voilà, potrai ottenere fino a 2 \\&9Sockets\\&r."
+    ],
+    "quest.24D11ED5F4EEDC48.title": "\\&9Sigillo per il collegamento",
+    "quest.29EA8E178F8F8FDB.quest_desc": [
+        "La \"Tabella di Fusione Semplice\" (Simple Reforging Table) funziona in modo simile alla \"Tabella di Incantamento\" (Enchantment Table), ma con l'aggiunta di \"Affissi\"!\n\nPer aggiungere un \"Affisso\" a qualsiasi \"Oggetto\", posiziona l'oggetto nello Slot centrale. Quindi, aggiungi il materiale di rarità nello Slot a sinistra.\n\nIl materiale di rarità determinerà quale \"Affisso\" di rarità otterrai sul tuo \"Oggetto\". Questo può essere utilizzato per migliorare alcuni oggetti, ad esempio da \"Comune\" a \"Non Comune\".\n\nOtterrai 3 opzioni di \"Affissi\" tra cui scegliere, simili alla \"Tabella di Incantamento\". I secondi e i terzi sono più costosi.\n\nCon la \"Tabella di Fusione Semplice\", possiamo ottenere solo \"Affissi\" fino a \"Rari\"."
+    ],
+    "quest.29EA8E178F8F8FDB.title": "\\&9\\&lTavolo di rifornimento semplice",
+    "quest.2A032EC573B5316C.quest_desc": [
+        "Per ottenere il \"Livello Mondo: Frontier\", ovviamente, sarà necessario aver completato la fase \"\\&lHaven\", ma anche possedere alcuni \"\\&eOggetti Affissi\"!\n\nQuanti? Avrete bisogno di un set completo di \"\\&eArmatura Affissata\" più uno \"\\&eStrumento Affisso\" per \"\\&eArma\".\n\nAttualmente, gli \"\\&aOggetti Rari\" e gli \"\\&aGems\" sono più abbondanti, seguiti dagli \"\\&8Oggetti Comuni\", dagli \"\\&9Oggetti Rari\" e infine dagli \"\\&5Oggetti Epici\".\n\nIl giocatore con il \"Livello Mondo: Frontier\" riceverà un aumento dell'esperienza del 35% più un bonus di fortuna del 20%!\n\nTuttavia, non sarà tutto facile: ora gli \"\\&4Mostri\" guadagneranno 4 punti di armatura extra."
+    ],
+    "quest.2A032EC573B5316C.title": "\\&lWorld Tier: \\&2Frontiera",
+    "quest.2E5E129F25707C5D.quest_desc": [
+        "«Sigillo di Supremacia»\\n\\nUn altro sigillo che non può essere creato, in modo simile al «Malice». Come il «Malice», può rendere gli affissi più potenti. A differenza del «Malice», lo fa per TUTTI gli affissi sull'equipaggiamento, senza sacrificare nessuno.\\n\\nÈ possibile ottenerlo sconfiggendo 100 ondate del «Endless Gateway of Apothic Invaders»."
+    ],
+    "quest.2E5E129F25707C5D.quest_subtitle": "Sto organizzando una corsa senza bracciali, che richiede un grande sforzo fisico.",
+    "quest.377A41499D8218C9.quest_desc": [
+        "Il 1° livello del \"Haven\" è il più facile da ottenere e da esplorare. Essendo il primo, offre le maggiori possibilità di trovare oggetti comuni, equipaggi e gemme. Inoltre, può contenere anche oggetti rari, sebbene con una probabilità molto bassa.",
+        "",
+        "Questo è anche l'unico livello \"World Tier\" in cui non è possibile affrontare gli \"Invaders\"."
+    ],
+    "quest.377A41499D8218C9.title": "\\&lWorld Tier: \\&9Haven",
+    "quest.38956DC28E317DEF.quest_desc": [
+        "L'\\&dSigil di Rinascita\\&r è il combustibile per tutti i\\&l\\&9Tavoli di Riformazione\\&r.\n\nTuttavia, hanno ancora bisogno degli altri materiali, e ovviamente dell'oggetto a cui si trasformeranno, per funzionare correttamente...\n\nAlmeno, sono relativamente più facili da creare!"
+    ],
+    "quest.38956DC28E317DEF.title": "\\&Sigillo della Rinascita",
+    "quest.3BF5B8DE7A1CC4D7.quest_desc": [
+        "Se desiderate un buon equipaggiamento, avrete bisogno di \"Gear\", e questo inizia con un \"Gem\"!\n\nI \"Gem\" sono oggetti rari ottenuti da qualsiasi mostro. Sono anche oggetti confermati ottenuti dagli \"Invaders\".\n\nNe saprete di più in seguito, ma per ora, catturate questi mostri!"
+    ],
+    "quest.3BF5B8DE7A1CC4D7.title": "\\&6\\&Avventura di Apoteosi",
+    "quest.45647395169978ED.quest_desc": [
+        "Per ottenere la polvere di \\&9Gem Dust\\&r, è necessario un \\&6\\&lApotheosis\\&r \\&aGem\\&r e un \\&7\\&lAnvil\\&r.\n\nQualsiasi \\&6\\&lApotheosis\\&r \\&aGem\\&r (consigliato solo con \\&8Common \\&fand \\&aUncommon\\&r)!\n\nUna volta ottenuti i \\&aGems\\&r, distruggeteli con un \\&7\\&lAnvil\\&r che cade!\n\nQuindi, potrete utilizzare il vostro \\&9Gem Dust\\&r per creare un \\&c\\&lSalvaging Table\\&r."
+    ],
+    "quest.45647395169978ED.title": "\\&9 Polvere di gemme",
+    "quest.4E9DDDBD8263D0E3.quest_desc": [
+        "\\&7Sigil di Anonimizzazione\\&r, come suggerisce il nome, consente di rimuovere la maggior parte del nome di un oggetto (\\&eOggetto Fissato\\&r) con un nome eccessivamente lungo, combinandolo con il \\&7Sigil\\&r su un \\&8\\&lTavolo di Fabbricazione\\&r.\n\n(Solo il materiale e il tipo di oggetto, come nel caso del colore di rarità, rimarranno)."
+    ],
+    "quest.4E9DDDBD8263D0E3.title": "\\&7Sigillo dell'Annullamento",
+    "quest.552BA5E6FA987256.quest_desc": [
+        "Lo \"Sigillo della Malizia\" è un sigillo misterioso. Nessuno sa come crearlo. Si diffondono voci secondo cui viene ottenuto dagli \"Invasori\".\n\nIl suo funzionamento è un altro mistero, anche se alcuni giocatori hanno scoperto che, utilizzandolo, hanno perso un affisso presente sull'equipaggiamento, rendendo un altro affisso più potente. Gli affissi utilizzati per questo scopo sono, come lo stesso sigillo, un altro mistero."
+    ],
+    "quest.57BB2CC6D9D2AE87.quest_desc": [
+        "Questo è ciò di cui avete veramente bisogno per ottenere risultati perfetti.\n\nInnanzitutto, avrete bisogno della \"Tabella\", uno strumento, e dei \"Sigilli di Potenziamento\".\n\nUna volta che avrete tutto ciò, il mondo sarà vostro! Potrete riassegnare gli \"Affixes\", scegliere un \"Affix\" specifico, o migliorare gli \"Affixes\" esistenti!"
+    ],
+    "quest.57BB2CC6D9D2AE87.title": "\\&6\\& Tavolo di supporto",
+    "quest.6667638252DB9C74.quest_desc": [
+        "\\&8Gli\\&Sigils\\&r sono oggetti utilizzati per modificare il tuo \\&6\\&lOggetto di Apoteosi\\&r e gli \\&eOggetti fissati\\&r; che si tratti di eliminare i \\&9Slot\\&r, aggiungere altri \\&9Slot\\&r, o rimuovere il nome!\n\nTutti possono essere utilizzati con il tuo oggetto su un \\&8\\&lTavolo di fabbricazione\\&r, un \\&9\\&lTavolo di rifabbricazione\\&r, o un \\&6\\&lTavolo di potenziamento\\&r."
+    ],
+    "quest.6667638252DB9C74.quest_subtitle": "Solo sigilli!",
+    "quest.6667638252DB9C74.title": "\\&Fialle e \\&Sigilli",
+    "quest.6B5B01C612951BAF.quest_desc": [
+        "A differenza delle altre \"Perle di Porta\", questa può essere ottenuta eliminando la \"Porta del Pinnacle\".\n\nQuesto comporterà il sacrificio di \"Craig l'Eterno\", una creatura con una notevole quantità di salute.\n\nQuesta porta evocherà un flusso continuo di onde sempre più potenti, con intervalli di tempo sempre più brevi tra di esse. Può generare \"Invasori\" da QUALSIASI dimensione, non solo da quella in cui è stata utilizzata. Ciò significa anche che è possibile ottenere gemme normalmente esclusive di altre dimensioni, come le \"Gems of End\", al di fuori di \"The End\".\n\nSe riesci a sconfiggere 100 onde, potrai ottenere..."
+    ],
+    "quest.6B5B01C612951BAF.title": "\\&zGate Pearl - Porta Infinita degli Invadenti di Apothic",
+    "quest.6EF206A0BD5BAC0A.quest_desc": [
+        "\\&5Epic\\&r sta diventando sempre più comune.\n\n\\&5Epic\\&r appare dopo \\&lWorld Tier: \\&2Frontier\\&r ed è più frequente in \\&lWorld Tier: \\&4Pinnacle\\&r.\n\n\\&5Arcane Sands\\&r vengono create utilizzando \\&5Epic\\&r \\&eItems\\&r in una \\&c\\&lSalvaging Table\\&r."
+    ],
+    "quest.6EF206A0BD5BAC0A.quest_subtitle": "\\&5Epico",
+    "quest.6EF206A0BD5BAC0A.title": "\\&5Sabbie Magiche",
+    "quest.7080F026A37F1832.quest_desc": [
+        "Questa quest è stata creata da \\&6AllTheMods Staff\\&r, o da un \\&2contributore della community\\&r, per l'uso nei pacchetti mod di AllTheMods.\n\nPoiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti a \\&eTutti i diritti riservati\\&r, questa quest non può essere utilizzata in altri pacchetti pubblici, a meno che non siano stati rilasciati dal team \\&6AllTheMods\\&r, previa autorizzazione esplicita.\n\nQuesta quest è intenzionalmente nascosta. Se la visualizzate, significa che siete in modalità di modifica."
+    ],
+    "quest.7C90008081DEBECA.quest_desc": [
+        "Avete ottenuto sia gli \\&eTools\\&r che gli \\&aGems\\&r... quindi, come possiamo combinarli?\n\nInnanzitutto, assicuratevi che il vostro \\&eTool\\&r abbia una \\&9Socket\\&r aperta. (Per maggiori informazioni sulle \\&9Sockets\\&r, consultate la sezione \"Sigils\").\n\nSe una delle due è aperta, potete combinare il vostro \\&eTool\\&r e l'\\&aGem\\&r su un \\&8\\&lSmithing Table\\&r.\n\nSe non siete soddisfatti dei vostri attuali \\&aGems\\&r, potreste aver bisogno di un tavolo diverso!"
+    ],
+    "quest.7C90008081DEBECA.title": "Utilizzo di \\&aGems\\&r (e altri prodotti simili)",
+    "quest.7CB03F92F9ECEFFB.quest_desc": [
+        "Fortunatamente, la funzione \"\\&6\\&lApotheosis\\&r\" ha reso molto più semplice l'estrazione dei \"\\&9Sockets\\&r\" dai \"\\&eTools\\&r\"!\n\nOra, invece di dover scegliere se salvare l' \"\\&eTool\\&r\" o l' \"\\&aGem\\&r\", è possibile conservare entrambi.\n\nUtilizzando l' \"\\&aSigil of Withdrawal\\&r\" con uno \"\\&eAffixed Tool\\&r\" su un \"\\&8\\&lSmithing Table\\&r\", sarà possibile separare l' \"\\&aGem\\&r\" dal suo contenitore."
+    ],
+    "quest.7CB03F92F9ECEFFB.title": "\\&Sigillo di recesso",
+    "quest.7EF873DCEB3B9D48.quest_desc": [
+        "L'ultimo livello, \"Livello Finale\". Per raggiungerlo, dovrai uccidere almeno una volta il \"Drago Ender\" e equipaggiare almeno un'armatura o uno strumento di tipo \"Epico\" o \"Mitico\".\n\nAttualmente, le armature e gli strumenti di tipo \"Epico\" e \"Mitico\" sono più comuni per ottenere gemme, e aumentano le probabilità di ottenere gemme \"Perfette\"! Questo comporta la perdita di armi e strumenti di tipo \"Comune\" e \"Non Comune\", ma chi se ne importa!\n\nSeguendo questo schema di potenziamento, otterremo un aumento dell'esperienza del 125% e un aumento della fortuna del 100%.\n\nI mostri riceveranno il loro ultimo potenziamento, ottenendo: 16 punti di armatura, 20 punti di resistenza, 25 punti di perforazione e 20 punti di protezione."
+    ],
+    "quest.7EF873DCEB3B9D48.title": "\\&lWorld Tier: \\&4Pinnacle",
+    "task.1F073FD0F4A296A3.title": "Portali di Apothic",
+    "task.31C72EBA091270E7.title": "Tutti i diritti riservati",
+    "task.67D884FA6DD22065.title": "Qualsiasi \"Apotheosis Gem\""
+}

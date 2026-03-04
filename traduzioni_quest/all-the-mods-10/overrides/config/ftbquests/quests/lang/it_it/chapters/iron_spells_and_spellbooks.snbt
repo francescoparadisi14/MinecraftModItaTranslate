@@ -1,0 +1,398 @@
+{
+    "quest.000C1ECD781F3F81.quest_desc": [
+        "\\&2\\&lLa Natura\\&r è progettata per sfruttare la Terra a nostro vantaggio, avvelenando e indebolendo i nostri nemici! Proprio come fanno le grandi aziende con la stessa Terra! \\nIl materiale principale per i \\&2Scrolls\\&r è costituito da \\&2Patate velenose\\&r. \\n\\nI \\&2Scrolls\\&r hanno un colore \\&aVerde chiaro\\&r con testo in \\&2Verde scuro\\&r."
+    ],
+    "quest.000C1ECD781F3F81.title": "\\&2\\&lNatura",
+    "quest.00D80AA4CDD8335C.quest_desc": [
+        "E se l'armatura del \\&6Sacerdote\\&r non è sufficiente per te? Beh, puoi creare l'armatura \\&6Lightbringer\\&r!\n\nInnanzitutto, avrai bisogno delle \\&6Robe del Sacerdote\\&r, che puoi creare.\n\nAvrai bisogno di 3 \\&bTessuti di Mithril\\&r, realizzati con \\&bMithril\\&r e catene.\n\nQuindi, dovrai ottenere lo \\&dFrammento dell'Anima Divina\\&r e potrai creare l'armatura \\&6Chestplate\\&r.\n\nQuesta \\&6Chestplate\\&r ha le stesse statistiche di difesa delle \\&6Robe del Sacerdote\\&r, ma tutto il resto migliora notevolmente!\n\nOltre alla difesa, otterrai anche resistenza agli attacchi, e ovviamente più \\&3Potere Magico\\&r e Mana."
+    ],
+    "quest.00D80AA4CDD8335C.title": "\\&6Pelle protettiva \"Lightbringer\"",
+    "quest.01119871B1D5C576.quest_desc": [
+        "Praticamente ogni villaggio può avere un o più sacerdoti. Questo include anche i villaggi modificati.\n\nSolitamente, questi sacerdoti si trovano al centro del villaggio, ad esempio vicino ai mercati. Tuttavia, non tutti i villaggi ne hanno uno.",
+        "{image:atm:textures\/questpics\/iron_spells\/spells_village.png width:200 height:100 align:center}"
+    ],
+    "quest.01119871B1D5C576.title": "\\&6Villaggio",
+    "quest.0436DF3308681913.quest_desc": [
+        "Seduto sul trono si trovano i resti di un re del passato. Tuttavia, una volta che vi avvicinate e li toccate, li vedrete tornare in vita; il re non è morto! Ma solo un assassinio lo manterrà in vita... e voi siete la creatura vivente più vicina.\n\nIl \"Re Morto\" è il boss più difficile: ha 400 punti ferita e rappresenta l'unico boss con una barra dedicata (e con musica). Può utilizzare una varietà di incantesimi provenienti da qualsiasi classe, frecce avvelenate dalla natura, o anche incantesimi di corruzione dalla magia sacra, fino a incantesimi di evocazione. Inoltre, può teletrasportarsi, evocare i morti e attaccarvi con la \"Bacchetta del Sangue\".\n\nSe riuscirete a sconfiggerlo, rilascerà una varietà di oggetti, tra cui rotoli, rune vuote e, potenzialmente, la \"Bacchetta del Sangue\" e il Necronomicon.",
+        "{image:atm:textures\/questpics\/iron_spells\/spells_king.png width:100 height:200 align:center}"
+    ],
+    "quest.0436DF3308681913.title": "\\&4\\&Il Re Morto",
+    "quest.0474C15D3AE3C2C9.quest_desc": [
+        "\\&c\"Scythe decadente\" è ciò che l'\\&c\"Eco di Tyrus\" utilizza per ucciderti. La nostra versione è semplicemente più piccola.\n\nHa statistiche molto simili a quelle dell'\\&5\"Scythe decadente\", ma con una velocità d'attacco leggermente superiore.\n\nPuò anche essere potenziato con \\&6\"Pyrium\", il che gli conferirà più danni e un \\&3\"Incantesimo\"!\n\nL'\\&3\"Incantesimo\" \\&c\"Hellrazer\" è \\&c\"Incubo\" (Raise Hell). Questo invierà un'onda di \\&c\"fuoco\" in tutte le direzioni intorno a te. Non si diffonderà il \\&c\"fuoco\", ma infliggerà un'enorme quantità di danni a tutti i mostri nelle vicinanze!"
+    ],
+    "quest.0474C15D3AE3C2C9.title": "E altro ancora: \"Falcio arrugginito\"",
+    "quest.05DBDD86FCFF3BA8.title": "\\&5Sfera di potenziamento\\&r",
+    "quest.06F2C42E6408149E.quest_desc": [
+        "Spero che tu non abbia preso questo da \\&c\\&lPyromancer\\&r, perché è la persona più gentile!",
+        "{image:atm:textures\/questpics\/iron_spells\/spells_outfit_pyromancer.png width:50 height:100 align:center}"
+    ],
+    "quest.06F2C42E6408149E.title": "E altri abiti da \"Pyromancer\"",
+    "quest.06F8EDF7513F8611.title": "\\&dEpic\\&r Inchiostro",
+    "quest.08767A1E6D48A5EA.quest_desc": [
+        "Lo \"Staff \\&7Graybeard\\&r\" è uno staff molto economico. Economico sia in termini di prezzo che di qualità.\n\nÈ in grado di infliggere solo 3-4 danni, ma offre anche il 25% di rigenerazione della mana e il 10% di potenza magica.\n\nÈ piuttosto utile se si utilizzano solo gli incantesimi per infliggere danni!"
+    ],
+    "quest.08767A1E6D48A5EA.quest_subtitle": "Quando diventeranno \"Whitebeards\"?",
+    "quest.08767A1E6D48A5EA.title": "\\&7Personale di Graybeard",
+    "quest.0CE1F6DE5FD6A6D9.title": "\\&aEvocazione\\&r Orbina di potenziamento",
+    "quest.0E594BC58CC7476F.quest_desc": [
+        "Potrebbe essere una persona malvagia, ma rimane comunque alla moda.",
+        "{image:atm:textures\/questpics\/iron_spells\/spells_outfit_archevoker.png width:60 height:100 align:center}"
+    ],
+    "quest.0E594BC58CC7476F.title": "Abbigliamento per l'Arcivescovo",
+    "quest.0EED5D755D2C866A.quest_desc": [
+        "\\&d\\&lEnder\\&r viene utilizzato per acquisire tutti i poteri di \\&dEndermen\\&r e del \\&dEnder Dragon\\&r, e ovviamente per usarli a nostro vantaggio. \\&dTeleporting\\&r, \\&dFireballs\\&r e \\&dDragon's Breath\\&r sono solo alcuni esempi!\n\n\\&d\\&lEnder's\\&r Focus Material sono le \\&dEnder Pearls\\&r.\n\nE i suoi \\&dScrolls\\&r hanno un colore \\&5Purple\\&r con testo \\&dPink\\&r."
+    ],
+    "quest.0EED5D755D2C866A.title": "\\&d\\&Ender",
+    "quest.0F8B349EBC9110D6.quest_desc": [
+        "Questo oggetto è piuttosto divertente da ottenere. Innanzitutto, avremo bisogno di un \"\\&5Fulmine\" e di un \"\\&5Nucleo Energetico\".\n\nSuccessivamente, quando c'è temporale, clicca con il tasto destro sull' \"\\&5Nucleo Energetico\" sopra l' \"\\&5Fulmine\". Se eseguito correttamente, l' \"\\&5Fulmine\" verrà colpito. Questo trasformerà l' \"\\&5Fulmine\" in \"\\&5Fulmine\"!\n\nQuesto oggetto infligge 5 danni e mantiene il 15% di riduzione del tempo di lancio. Tuttavia, ora fornirà solo il 5% di \"\\&3Potere Magico\" e fornirà il 15% di \"\\&3Potere Magico\" per gli \"\\&5Incantesimi di Fulmine\"."
+    ],
+    "quest.0F8B349EBC9110D6.title": "\\&5Rod o' Lightning",
+    "quest.12498F8B5740F66E.quest_desc": [
+        "\\&bWizard Gear\\&r è l'armatura predefinita per gli incantesimi di \\&lIron\\&r! \\n\\nOgni altra armatura sarà realizzata con essa, oppure realizzata a partire da qualcosa realizzato con essa! \\n\\nSarà necessario solo \\&5Tessuti Arcani\\&r per realizzarla. \\n\\nFornirà un notevole aumento del massimo mana, pari ai punti di armatura di \\&bDiamond Armor\\&r, e fornirà anche un aumento della potenza degli incantesimi!"
+    ],
+    "quest.12498F8B5740F66E.title": "\\&bWizard: Componenti e accessori",
+    "quest.1338EED4F26F3EFF.quest_desc": [
+        "\\&3Spellbreaker\\&r è un'arma potente e costosa che possiamo creare.\n\nPer realizzarla, avremo bisogno di \\&bParti per armi, \\&bDiamanti\\&f e 2 \\&bIngots di mithril\\&r.\n\n\\&3Spellbreaker\\&r infligge 10 \\&4punti di danno\\&r ed è leggermente più veloce di una spada.\n\nInoltre, contiene un \\&3Counterspell\\&r. Quando un mostro sta usando un \\&3Spell\\&r contro di te, usa questo per impedirgli di utilizzarlo!"
+    ],
+    "quest.1338EED4F26F3EFF.title": "\\&3Spellbreaker",
+    "quest.13F77C38AC015E9F.quest_desc": [
+        "Situata in posizione elevata, sopra le montagne e le nuvole, si trova un'altra torre, la \\&bTower\\&r. Questa torre vi farà venire i brividi.\n\nLa \\&bTower\\&r è costruita in pietra, legno scuro e pietra nera. Ha una seconda torre che si sviluppa da essa. C'è una scala esterna che conduce al primo piano. Da lì, è possibile salire sulla scala interna per raggiungere la camera da letto o la seconda torre.\n\nIn alternativa, è possibile scendere lungo la scala per raggiungere il seminterrato, dove è probabile che si trovi il \\&b\\&lCryomancer\\&r.\n\nNella \\&bTower\\&r, è possibile trovare tavoli con iscrizioni, ametiste e casse di tesori!",
+        "{image:atm:textures\/questpics\/iron_spells\/spells_mountaintower.png width:200 height:100 align:center}"
+    ],
+    "quest.13F77C38AC015E9F.title": "\\&bTorre Mountain",
+    "quest.161477ABCC437BD2.quest_desc": [
+        "La \\&bBoreal Blade\\&r è un'arma fantastica! Sia per quanto riguarda la personalità, sia per quanto riguarda la temperatura.\n\nÈ realizzata con \\&bParti di armi\\&r, \\&bGhiaccio\\&r, \\&bLingote di mithril\\&r e \\&bFiale di veleno di ghiaccio\\&r.\n\nPer ottenere il \\&bVeleno di ghiaccio\\&r, consulta la quest \\&bRagnatela di ghiaccio\\&r.\n\nQuesta arma infligge un danno enorme! Con 16 \\&4Cuori\\&r. Tuttavia, ha un movimento lento, simile a quello di un'ascia.\n\nLo \\&3Incantesimo\\&r che viene fornito con la \\&bBoreal Blade\\&r è \\&bCongelamento\\&r. È un altro effetto... non sono sicuro di cosa faccia."
+    ],
+    "quest.161477ABCC437BD2.title": "\\&Boreal Blade",
+    "quest.19542103E042BDB5.quest_desc": [
+        "{image:atm:textures\/questpics\/iron_spells\/spells_outfit_shadow.png width:60 height:100 align:center}"
+    ],
+    "quest.19542103E042BDB5.title": "\\&dOutfit per Shadow-Walker",
+    "quest.19B057DFF331E41C.quest_desc": [
+        "L'armatura \"Scarecrow Outfit\" è leggermente migliore rispetto all'\"Wandering Magician\", con 3 volte più Mana e più punti di armatura.\n\nTuttavia, per crearla, saranno necessarie più risorse.\n\nInvece di \"Essence\", sarà necessario utilizzare \"Arcane Cloth\", oltre a \"Hay Bales\" e \"Pumpkins\"."
+    ],
+    "quest.19B057DFF331E41C.title": "\\&4Abbigliamento da scarecrow (persona che allontana gli animali)",
+    "quest.1A0368CB49B8CBFF.quest_desc": [
+        "Questo oggetto, chiamato \"\\&eSpell Book\\&r\", è un oggetto raro che si ottiene dal \"\\&cBlazes\\&r\". Ricordo di averne trovato uno nel mio \"\\&cBlaze\\&r Farm\", e mi ha confuso.\n\nFornisce un bonus agli incantesimi di \"\\&cFire Spells\\&r\" e ha 10 slot per incantesimi."
+    ],
+    "quest.1A0368CB49B8CBFF.quest_subtitle": "Caldo! Caldo! Caldo!",
+    "quest.1A0368CB49B8CBFF.title": "\\&cBlaze: Manuale di istruzioni",
+    "quest.1BE69992D2C5085B.quest_desc": [
+        "\\&n\\&aInvocazione:\\&r\\nPer invocare uno Spirito o una Divinità.\\n\\nL'invocazione riguarda principalmente ciò che fanno gli invocatori, ovvero il processo di richiamo. Che si tratti di \"Fang\" o \"Vexes\", se viene evocato, è molto probabilmente un'invocazione.\\n\\nIl materiale principale per l'invocazione sono gli \"Emeralds\" (Smeraldi). È possibile creare il Sigillo o ottenerlo dall'\"Archevoker\" (Alto Invocatore). \\n\\nGli \"Invocation Scrolls\" (Rotoli di Invocazione) sono di colore \"Bianco\" con testo \"Nero\"."
+    ],
+    "quest.1BE69992D2C5085B.title": "\\&a\\&lEvocazione",
+    "quest.1CAEC4C273EDDB99.quest_desc": [
+        "È qui! È lì! È ovunque e è dannoso! Ne potrete trovare in quasi tutti i forzieri.\n\nPossono contenere 8 e 3 pozioni, ma vi forniranno una minore resistenza magica."
+    ],
+    "quest.1CAEC4C273EDDB99.title": "Libro di incantesimi corrotto",
+    "quest.204B969DA081056A.quest_desc": [
+        "Questi nemici possono apparire quasi ovunque, nelle aree designate per i nemici. Non sono boss, ma semplici nemici!\n\nHanno 25 punti di salute e possono attaccare in diversi modi: con i denti, come fanno gli Evokers, e lanciando palle di neve.\n\nPossono anche evocare zombi e scheletri per aiutarli a combattere. Questi non lasciano oggetti e appaiono con armature.\n\nAlla morte, rilasciano essenza arcana, e a volte anche un rotolo!",
+        "{image:atm:textures\/questpics\/iron_spells\/spells_necromancer.png width:100 height:200 align:center}"
+    ],
+    "quest.204B969DA081056A.title": "Necromanti",
+    "quest.24150DE600C2D761.quest_desc": [
+        "Questo oggetto ci porta da una valutazione E10 a Teen. \"Blood\" è incentrato sull'uccisione di nemici per recuperare salute. La maggior parte degli attacchi permette di ripristinare la salute.\n\nLe \"Blood Vials\" sono il materiale principale di \"Blood\", che si ottengono cucinando un Mob o un giocatore in una pentola.\n\nI \"Scrolls\" di \"Blood\" sono di colore marrone (non c'è un colore specifico per il marrone) con testo in \"rosso scuro\"."
+    ],
+    "quest.24150DE600C2D761.title": "\\&4\\&Sangue",
+    "quest.24BAC1C0392E950E.quest_desc": [
+        "Ho sentito dire che ora è possibile frequentare corsi online per ottenere la qualifica.",
+        "{image:atm:textures\/questpics\/iron_spells\/spells_outfit_priest.png width:60 height:100 align:center}"
+    ],
+    "quest.24BAC1C0392E950E.title": "\\&6 Abbigliamento per il clero",
+    "quest.258B4890CF13D199.quest_desc": [
+        "L'arma \"\\&aMagehunter\\&r\" è un'arma molto particolare da ottenere. \"Particolare\" nel senso che il modo per ottenerla è molto specifico.\n\nPer ottenerla, dovrai recarti nella \\&aFortezza dell'Evocatore\\&r e l'\\&aVindicator\\&r al secondo piano la possiede. Abbattilo per ottenerla.\n\nLa \\&aSpada\\&r è una buona spada, che infligge 10 danni con la velocità normale.\n\nMantenendo la spada, otterrai anche una piccola \\&3resistenza agli incantesimi\\&r. Inoltre, alcune potrebbero avere incantesimi, e la mia aveva!"
+    ],
+    "quest.258B4890CF13D199.title": "\\&aMagehunter",
+    "quest.25F79B40579B3909.quest_desc": [
+        "Lo \"Spada Decadente di Flamberge\" è l'arma ideale per gli \"Antichi Cavalieri\" e alcuni \"Arredi Maledetti\".\n\nÈ proprio da loro che si può ottenerla, sconfiggendoli!\n\nSembra una \"Spada di Netherite\", ma con una peculiarità: sembra muoversi durante la fabbricazione.\n\nInfligge 11 danni ai \"Cuori\", ma è leggermente più lenta rispetto a una spada.\n\nPuò essere potenziata con \"Pyrium\" per aumentare la sua velocità d'attacco."
+    ],
+    "quest.25F79B40579B3909.title": "\\&5Un'antica e fatiscente flamberge",
+    "quest.2664373E8977E7BE.quest_desc": [
+        "Chi sa usare la magia come i vampiri? Nessuno!\n\nQuesto \"Grimorio\" non è così difficile da creare, a parte il \"Libro Danneggiato\".\n\nGli altri oggetti sono semplicemente \"Ingots Arcani\" e \"Pelle Sanglante\". La \"Pelle Sanglante\" viene prodotta immergendo \"Pelle di Maiale\" in una pentola di un Alchimista piena di \"Sangue\".\n\nIl \"Grimorio\" ha 10 slot per incantesimi, e fornirà un livello extra a \"Colpo di Sangue\" e \"Passo di Sangue\"!"
+    ],
+    "quest.2664373E8977E7BE.title": "\\& Libro di incantesimi vampireschi",
+    "quest.27CF1A2587321A2C.quest_desc": [
+        "Il miglior libro \\&eSpell che tu possa immaginare! 15 slot \\&3Spell! Ci sono davvero 15 slot \\&3Spell?!?! Oh, aspetta, sì, ci sono 15... non è molto?\n\nSeguire le stesse istruzioni come prima: libro precedente, lingotto e modello."
+    ],
+    "quest.27CF1A2587321A2C.title": "\\&5Unobtainium\\&r Libro di incantesimi",
+    "quest.294418130521FDF4.quest_desc": [
+        "\\&bMithril\\&r è un minerale che si genera solo molto al di sotto del \\&2\\&lMondo\\&r.\nSi genera intorno ai livelli Y da -40 a \\&8Bedrock\\&r. Proprio dove si trovano le \\&cLava Pools\\&r!\nAvrete bisogno di un \\&5Piccone in Netherite per estrarlo, e rilascerà solo 1 \\&bMithril grezzo\\&r, a meno che non utilizziate il perk \"Fortune\".\nQuesto \\&bMithril grezzo\\&r può essere fuso per ottenere \\&bMithril in frammenti. Questi possono essere utilizzati nelle ricette, oppure possiamo combinarne 4 per creare un \\&bMithril ingot\\&r!"
+    ],
+    "quest.294418130521FDF4.title": "Ottenere Mithril",
+    "quest.29605960803BE885.quest_desc": [
+        "Lo \\&dAmethyst Rapier\\&r è un'opzione economicamente vantaggiosa per ciò che offre!\n\nConsiste solo in \\&bParti di Armi\\&f, \\&dAmethyst\\&r e Catene.\n\nLo \\&dAmethyst Rapier\\&r infligge 8 \\&4Cuori di Danno\\&r, come fa anche la \\&5Spada di Netherite\\&r. Tuttavia, questo rapier ha un'attacco molto più veloce, con una velocità di attacco di 2.3.\n\nLa caratteristica speciale dello \\&dAmethyst Rapier\\&r è lo \"Schiaffo Echeggiante\" che può utilizzare! \\&dEchoing Strike\\&r.\n\nPremendo (V) mentre si tiene lo \\&dRapier\\&r, si attiverà lo \"Schiaffo Echeggiante\". Qualsiasi creatura colpita con lo \\&dRapier\\&r emetterà un'onda d'urto. Questa onda danneggerà altre creature nelle vicinanze."
+    ],
+    "quest.29605960803BE885.title": "\\&Spada da duello Amethyst",
+    "quest.29BDCF3C1B11B4C6.quest_desc": [
+        "Lo \"Staff di Pyrium\" è l'arma più potente... almeno in termini di danno.\n\nPer crearlo, avrai bisogno di 2 \"Pyrium\", 1 \"Ingotto di Netherite\" e 1 \"Panno Arcane\".\n\nGli \"Ingotti di Netherite\" e i \"Panni Arcani\" sono facili da ottenere, mentre il \"Pyrium\" è più difficile. Dovrai aprire 2 \"Cassetto\" nella \"Fortezza\".\n\nLo \"Staff di Pyrium\" conferirà 5% di \"Potenza Magica\" e 15% di \"Potenza Magica di Fuoco\". Inoltre, ridurrà il tempo di lancio del 10%!"
+    ],
+    "quest.29BDCF3C1B11B4C6.title": "\\&6 Personale di Pyrium",
+    "quest.2A787B99A8B0C767.quest_desc": [
+        "Un elemento molto importante e molto comune! Può essere creato o trovato nella maggior parte delle strutture di tipo \"\\&lIron Spells\\&r\".\n\nQuesti vengono utilizzati per aggiungere e rimuovere \"\\&3Scrolls\\&r\" dai \"\\&eSpell Books\\&r\"! Metti il \"\\&eSpell Book\\&r\" nello slot del libro, quindi lo \"\\&3Scroll\\&r\" sottostante. Se vuoi rimuovere uno \"\\&3Scroll\\&r\", cliccalo e trascinalo dalla destra verso il tuo inventario.",
+        "{image:atm:textures\/questpics\/iron_spells\/spells_table_gui.png width:150 height:100 align:center}"
+    ],
+    "quest.2B901ECF97FFA181.quest_desc": [
+        "Una volta che avrete combinato tutti i frammenti di conoscenza antica, otterrete... l'\\&9Manoscritto Eldritico\\&r! Questo è l'ultimo corso.\n\nL'\\&9Manoscritto Eldritico\\&r è l'ultimo corso, il più potente di tutti gli\\&3Incantesimi\\&r. Sono creati con\\&9Frammenti di Eco\\&r e devono essere appresi dal\\&9Manoscritto\\&r per poterli utilizzare. Ogni\\&9Manoscritto\\&r può essere utilizzato solo una volta."
+    ],
+    "quest.2B901ECF97FFA181.quest_subtitle": "9° anno di scuola",
+    "quest.2B901ECF97FFA181.title": "\\&9\\&L'Eldritch",
+    "quest.2BB910B217DF3A12.quest_subtitle": "Perché è bagnato? Era in un lago?",
+    "quest.2BB910B217DF3A12.title": "\\&dEnder\\&r Orbina di potenziamento",
+    "quest.2D84DA544D7A24FA.quest_desc": [
+        "Questo contenuto è stato creato da \\&6AllTheMods Staff\\&r, o da un \\&2contributore della community\\&r, per l'uso nei pacchetti mod di AllTheMods.\n\nPoiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti a \\&e\"Tutti i diritti riservati\", questo contenuto non può essere utilizzato in altri pacchetti pubblici, a meno che non sia stato rilasciato dal team \\&6AllTheMods\\&r.\n\nQuesto contenuto è intenzionalmente nascosto. Se lo state visualizzando, siete in modalità di modifica."
+    ],
+    "quest.2E6F1C8718EB8C66.title": "\\&4 Orb di potenziamento",
+    "quest.3009018DEC1EC952.quest_desc": [
+        "Ci sono 6 aree nell'Overworld (zona principale) in cui i boss possono apparire! (Esiste anche un'area aggiuntiva, ma non ospita alcun boss)."
+    ],
+    "quest.3009018DEC1EC952.title": "E avventura!",
+    "quest.300F2E45D185A9A1.quest_desc": [
+        "\\&lIron\\&r ha creato un fantastico e molto divertente Mod magico! \\&lIron's Spells 'N Spellbooks!\\&r\n\n\\&lIron's Spells\\&r è incentrato sulla creazione e sull'utilizzo di \\&3incantesimi\\&r! Ogni \\&3incantesimo\\&r ha una rarità, un livello e una classe! E tutti possono essere utilizzati in un libro di incantesimi.\n\nNon potrete semplicemente creare quello che volete con \\&7Iron\\&r e \\&cRedstone\\&r; dovrete mettervi all'opera, affrontare avventure e combattere!"
+    ],
+    "quest.300F2E45D185A9A1.title": "E le incantesimi di Iron e i suoi libri di incantesimi",
+    "quest.30B7AF815D9D7553.quest_desc": [
+        "L'edificio, noto come \"Torre del Pyromante\", è una torre in pietra, parzialmente bruciata. Si dice che, se ci si avvicina abbastanza da vedere la torre, si può anche percepire il calore che emana.\n\nLa \"Torre del Pyromante\" è una torre in pietra, con interni in legno di pino e quercia. Inoltre, accanto alla torre si trova un altro edificio che fa parte della struttura.\n\nIn cima, si troverà la fonte del fumo, oltre a un deposito di \"Armatura\".\n\nPer trovare la \"Torre del Pyromante\", sarà necessario scendere nel seminterrato!",
+        "{image:atm:textures\/questpics\/iron_spells\/spells_pyromancertower.png width:200 height:100 align:center}"
+    ],
+    "quest.30B7AF815D9D7553.title": "\\& Torre del Pyromante",
+    "quest.32D2CE292E088939.title": "\\&cPalla di potenziamento\\&r",
+    "quest.34FC02F47F52887F.quest_desc": [
+        "Questo \"Spellbook\" richiede sicuramente un po' di impegno!\n\nAvrete bisogno di \"Vial di veleno glaciale\", che possono essere ottenuti da \"Denti glaciali\" o dal \"Nido di ragno glaciale\".\n\nInoltre, dovrete procurvi \"Tessuti arcani\", che sono molto facili da creare, e \"Scarti di mithril\", che dovrete estrarre!\n\nConsiderando quanto è freddo questo \"Spellbook\", penso che possa essere utile per lanciare \"Incantesimi di ghiaccio\"."
+    ],
+    "quest.34FC02F47F52887F.title": "\\&Libro di incantesimi con copertina in pelle",
+    "quest.36B283532D70776A.quest_desc": [
+        "\\&aBoots of Speed\\&r sono le migliori scarpe che si possano ottenere qui.\n\nInnanzitutto, avremo bisogno delle \\&aBoots of Speed\\&r. Se non vi piacciono le scarpe di seconda mano, vi consiglio di crearle voi stessi.\n\nSuccessivamente, avremo bisogno di un \\&bMithril Weave\\&r. Si tratta di una combinazione di \\&bMithril Ingots\\&r e catene. Queste vengono utilizzate solo per creare armature, quindi ne avrete bisogno solo di poche.\n\nInfine, avremo bisogno dello \\&dDivine Soulshard\\&r.\n\nQueste \\&aBoots\\&r forniranno più Mana rispetto a qualsiasi altra scarpa, più \\&3Spell Power\\&r, e inoltre vi renderanno più veloci? Come fanno a rendervi più veloci? Aumentando la vostra velocità di movimento e di lancio degli incantesimi!"
+    ],
+    "quest.36B283532D70776A.title": "\\&Scarpe da corsa",
+    "quest.36F87173D8CD1D68.quest_desc": [
+        "\"Utilizza l'elettricità per attaccare e difenderti. Alcuni attacchi funzionano effettivamente come fulmini!\n\nIl materiale principale per ottenere i fulmini è la \"Bottiglia di Fulmine\", che si ottiene utilizzando una bottiglia vuota su un Creeper carico. Avrai bisogno di \"Fulmine\" per creare altri \"Fulmine\"!\n\nI suoi \"Rotoli\" sono di colore grigio con testo blu chiaro."
+    ],
+    "quest.36F87173D8CD1D68.title": "\\&5\\&Fulmine",
+    "quest.373EBEB2E96D9361.quest_desc": [
+        "Mentre esplorate i biomi innevati, potreste imbattervi in ciò che sembra essere una vecchia chiesa.\n\nTuttavia, ciò che si trova al suo interno non è niente di speciale.\n\nScendete nelle cantine per raggiungere le catacombe. Qui troverete numerosi \"spawners\" (creature che generano), trappole di neve e oggetti da recuperare!\n\nInoltre, troverete... uova di ragno ghiacciato. Provate a romperle e attirerete..."
+    ],
+    "quest.373EBEB2E96D9361.title": "E la tana della ragno di ghiaccio",
+    "quest.395A33977B18B9AD.quest_desc": [
+        "Dopo aver tentato di raccogliere i \"Pili di Armatura\", sembra che ritornino alla vita, come se ci fosse un'entità che li utilizza. Possono anche essere generati dagli \"Spawners\".\n\nHanno 60 \"Cuori\" e sono diversi dagli altri boss, poiché non utilizzano la magia, ma credo che siano qualcosa creato con la magia. Attaccheranno utilizzando la loro spada, sia sferrando colpi, sia attaccando direttamente.\n\nDa ciò che ho osservato, attaccheranno qualsiasi cosa vedano, ad eccezione degli \"Altri Cavalieri\"!\n\nUna volta uccisi, lasciano cadere frammenti di Netherite e \"Essenza di Cinder\". Raramente, lasciano cadere anche la loro \"Arma\". Gli \"Altri Cavalieri\" all'interno della \"Citadella\" lasciano cadere \"Chiavi Decadute\".",
+        "{image:atm:textures\/questpics\/iron_spells\/spells_knight.png width:100 height:150 align:center}"
+    ],
+    "quest.395A33977B18B9AD.title": "\\&5\\& Un cavaliere antico",
+    "quest.3A85110725E81CDF.quest_desc": [
+        "Se avete già giocato a Minecraft, sapete cosa sono e a cosa servono le armature!\n\n\"Iron's Spells\" aggiunge anche i propri tipi di armature.\n\nQueste funzionano come le armature normali, ma ognuna conferisce diversi bonus alle vostre abilità magiche. Ad esempio, maggiore \"Potere Magico\", più Mana, e persino bonus elementali."
+    ],
+    "quest.3A85110725E81CDF.title": "\\&lArmor",
+    "quest.3DCD38634176BD92.quest_desc": [
+        "Combinare l'oggetto \"\\&6Allthemodium\\&r\" e il libro \"\\&eSpell Book\\&r\" con un lingotto di Vibranium e un modello su un banco da fabbro.\n\nQuesto modello può essere ottenuto raccogliendo Sabbia di Anima sospetta in un Bastion."
+    ],
+    "quest.3DCD38634176BD92.title": "\\&3Vibranium\\&r Libro di incantesimi",
+    "quest.3E8077AB45C79E6A.quest_desc": [
+        "Assolutamente migliore di una semplice pentola di Minecraft!\n\nLa pentola dell'alchimista può:\n\n1. Essere utilizzata per ottenere sangue, cucinando Mob o il giocatore.\n2. Creare e potenziare pozioni.\n3. Avere una possibilità di ottenere inchiostro da un rotolo.\n4. Combinare 4 inchiostri di una determinata rarità per ottenere uno di una rarità superiore.",
+        "{image:atm:textures\/questpics\/iron_spells\/spells_cauldron.png width:100 height:100 align:center}"
+    ],
+    "quest.401BB95B740385B7.title": "\\&6Sfera di potenziamento\\&r",
+    "quest.4104ABDC0E577350.title": "\\&2Nature\\&r Orbita di potenziamento",
+    "quest.420CB9502DF8E1BC.quest_desc": [
+        "Il ragno \\&b\\&lIce Spider\\&r.\n\nQuesto è un nemico con 50 punti di salute e 20 punti di armatura.\n\nSe si avvicina, vi morderà o vi colpirà con una delle sue molte braccia!\n\nSe si allontana, potrebbe lanciare una sorta di \\&b\"cocoon\" ghiacciato? Forse. Qualunque sia, questo attacco vi danneggia e vi congela sul posto. Oppure potrebbe lanciare una fila di \\&b\"rocce ghiacciate\" verso di voi, partendo dal terreno, per danneggiarvi.\n\nQuando muore, rilascerà una corda, 5 \"essenza arcana\" e, a volte, un \\&b\"dente ghiacciato\"."
+    ],
+    "quest.420CB9502DF8E1BC.title": "\\&b\\&lIce Ragno",
+    "quest.4407BD7B5F033765.quest_desc": [
+        "Un altro libro \"Craftable \\&eSpell\" e, seguendo questo schema, questo è ancora più costoso. Richiede abiti magici, oro e un libro incantato. Non è necessario che sia un libro specifico, basta che sia incantato!\n\nHa 10 slot per incantesimi e fornisce un notevole aumento di mana!"
+    ],
+    "quest.4407BD7B5F033765.title": "Libro di incantesimi magici",
+    "quest.445C21949ADA1FE3.quest_desc": [
+        "Unisci un Codice Antico con un Ingresso di \\&6Allthemodium\\&r e un Modello su un Banco da Forgiatura.\n\nPuoi ottenere il Modello spazzando la \\&9Terra Suspezione\\&r."
+    ],
+    "quest.445C21949ADA1FE3.title": "\\&6Il Libro degli Incantesimi di Allthemodium",
+    "quest.44E8D5DAD7E22724.quest_desc": [
+        "Incredibilmente, questo non porta a molti miglioramenti.\n\nGli attributi di \"\\&3Potere Magico\" e \"\\&3Mana\" rimangono invariati, così come i \"\\&3Punti di Armatura\". L'unica modifica è l'aggiunta di \"\\&3Resistenza all'Armatura\".\n\nQuesto ha senso, dato che si tratta solo di un \"\\&5Aggiornamento Netherite\" per \"\\&bL'equipaggiamento di Wizzard\"!"
+    ],
+    "quest.44E8D5DAD7E22724.title": "\\& Armatura Guerriero di Netherite",
+    "quest.4567A27C53A01903.quest_desc": [
+        "\\&c\\&lEcho of Tyrus\\&r è il primo vero boss che otteniamo da \\&lIron's\\&r!\n\nHa 1000 \\&4Cuori\\&r con 16 punti di armatura. Inoltre, ha la capacità di evocare \\&5Cavalieri Antichi\\&r per combattere al suo fianco!\n\nCome potete intuire dal suo titolo di \\&c\\&lPrimo Portatore della Fiamma\\&r, saprete che utilizza \\&cMagia del Fuoco\\&r per attaccare.\n\nPuò usare il suo \\&cScythe\\&r per colpire o per far tremare il terreno, rilasciando un'onda di \\&cFuoco\\&r in tutte le direzioni.\n\nAltri attacchi includono \\&cSpade di Fuoco\\&r: può lanciartene una fila o evocare decine per farle emergere dal terreno e danneggiarvi.\n\nL'ultimo attacco che può fare è l'uso di \\&cSfere di Fuoco\\&r, che lancerà contro di voi, sia rimanendo fermo, sia saltando in aria!\n\nQuando raggiunge un quarto dei suoi \\&4Cuori\\&r, si inginocchia. È il momento ideale per colpirlo al massimo! Ma una volta che raggiunge i 300 \\&4Cuori\\&r, aggiornerà le sue armi e armature, e anche i suoi \\&5Cavalieri Antichi\\&r!\n\nSe riuscirete a sconfiggerlo, otterrete il suo \\&cScythe\\&r e un \\&dFrammento di Anima Divina\\&r. Inoltre, otterrete delle essenze, ma chi se ne frega, abbiamo già un \\&cScythe\\&r!",
+        "{image:atm:textures\/questpics\/iron_spells\/spells_echo.png width:125 height:100 align:center}"
+    ],
+    "quest.4567A27C53A01903.title": "\\&c\\&lEcho of Tyrus, Primo portatore della fiamma",
+    "quest.489833A2A6C39151.quest_desc": [
+        "Era maleducato, poteva rubarlo, non mi interessa.",
+        "{image:atm:textures\/questpics\/iron_spells\/spells_outfit_cryomancer.png width:60 height:100 align:center}"
+    ],
+    "quest.489833A2A6C39151.title": "\\&Cryomancecr Abbigliamento",
+    "quest.48C68664319B0294.quest_desc": [
+        "Per ottenere questo libro di incantesimi speciale, dovrai sconfiggere il \\&4\\&lRe Morto\\&r!\n\nContiene 10 \\&3Slot di incantesimi\\&r, ma 4 sono già occupati. Gli incantesimi \\&4Blood Slash\\&r, \\&4Blood Step\\&r, \\&4Ray of Siphoning\\&r e \\&4Blaze Storm\\&r sono già presenti e non possono essere rimossi."
+    ],
+    "quest.48C68664319B0294.title": "Necronomicom",
+    "quest.4CCA1E2AAA9AB9D9.quest_desc": [
+        "Quando arriverà questo modello al Mod?",
+        "{image:atm:textures\/questpics\/iron_spells\/spells_outfit_electromancer.png width:50 height:100 align:center}"
+    ],
+    "quest.4CCA1E2AAA9AB9D9.title": "\\&5 Abbigliamento da \"Electromancer\"",
+    "quest.4E3355FDCB65BB63.quest_desc": [
+        "\\&aEvokers\\&r sono noti per essere un potente e pericoloso miniboss di Minecraft. Quindi, ovviamente, \\&lIron\\&r ha creato una versione ancora più potente e pericolosa! E sì, questo \\&eBook\\&r è un oggetto raro che può essere ottenuto da entrambi.\n\nInclude 10 slot per incantesimi, ma 3 sono già occupati. \\&aFang Strike\\&r, \\&aFang Ward\\&r e \\&aVex Swarm\\&r sono tutti inclusi nell'\\&eBook\\&r e non possono essere spostati.\n\nInoltre, fornisce un bonus a \\&a\\&lEvocation\\&r!"
+    ],
+    "quest.4E3355FDCB65BB63.title": "\\&«Grimorio di evocazione»",
+    "quest.541446863A72B96C.title": "\\&7Comune\\&r Inchiostro",
+    "quest.548F85EE6B6F1811.quest_desc": [
+        "Come i Piglins, anche questo essere, chiamato \\&2lApotheocarist\\&r, è neutrale. Non si preoccupa dell'oro come fanno i suoi simili, ma solo di chi lo attacca.\n\nPuoi commerciare con lui: offrigli smeraldi o ingredienti per pozioni in cambio di pozioni, ingredienti per pozioni e \\&2Nature Scrolls\\&r.\n\nSe desideri sconfiggerlo, ha 60 punti vita. Attaccherà usando pozioni e \\&2Nature Spells\\&r. Quando è ferito, cercherà di curarsi con pozioni (penso che le ami molto).\n\nQuando viene ucciso, rilascerà essenza arcana, inchiostro e \\&2Nature Runes\\&r, e \\&2Nature Scrolls\\&r!",
+        "{image:atm:textures\/questpics\/iron_spells\/spells_apotheocarist.png width:100 height:200 align:center}"
+    ],
+    "quest.548F85EE6B6F1811.title": "\\&2\\&Farmacia",
+    "quest.551A4916F032ACCF.quest_desc": [
+        "L'Arcane Anvil è l'oggetto con il maggior numero di utilizzi in \\&lIron Spells\\&r.\n\nÈ possibile combinare \\&3Spells\\&r con la stessa inchiostro per potenziarlo.\nPuò essere combinato con \\&3Scrolls\\&r per creare armi da utilizzare insieme, come una spada.\nÈ inoltre possibile assegnare un affinità agli anelli utilizzando le sfere di potenziamento, oppure aggiungere sfere di potenziamento alle armi e all'equipaggiamento.",
+        "{image:atm:textures\/questpics\/iron_spells\/spells_anvil_gui.png width:100 height:100 align:center}"
+    ],
+    "quest.555ED1E39131D91B.quest_desc": [
+        "Non dovreste entrare nel complesso \\&bTower\\&r, poiché il \\&b\\&lCryomancer\\&r non approva la presenza dei giocatori, e li considera ostili.\n\nIl \\&b\\&lCryomancer\\&r inizierà immediatamente ad attaccarvi con incantesimi di ghiaccio. Potrebbe persino utilizzare animali contro di voi! Sacrificare animali per vincere una battaglia, dimostra una vera e propria crudeltà.\n\nUna volta sconfitto, rilascerà essenza arcana, inchiostro, rune e rotoli di ghiaccio.",
+        "{image:atm:textures\/questpics\/iron_spells\/spells_cryomancer.png width:100 height:200 align:center}"
+    ],
+    "quest.555ED1E39131D91B.title": "\\&b\\&lCryomante",
+    "quest.59E68086A8B99EA7.quest_desc": [
+        "Il \"Pyromancer\" (diverso dal \"Pie Romancer\") è un altro mostro neutrale aggiunto da \"Iron's Spells\". Potrebbe infiammare i mostri nelle vicinanze...\n\nPuoi scambiarlo con qualsiasi oggetto che contenga \"Fuoco\", inchiostro e persino \"Rotoli di Fuoco\"!\n\nSe vuoi rischiare di essere infiammato, preparati: ha 60 punti vita. Ti infiammerà con \"Incantesimi di Fuoco\", senza possibilità di evitarlo.\n\nQuando morirà, rilascerà \"Essenza Arcana\", inchiostro, \"Runes di Fuoco\" e \"Incantesimi di Fuoco\"!",
+        "{image:atm:textures\/questpics\/iron_spells\/spells_pyromancer.png width:100 height:200 align:center}"
+    ],
+    "quest.59E68086A8B99EA7.title": "\\&c\\&lPyromancer",
+    "quest.5B013A3A37D6902B.quest_desc": [
+        "È possibile trovare i frammenti di Antico Sapere sparsi nelle \"Casse\" della \"Città Antica\".\n\nInoltre, avrete bisogno di \"Frammenti di Eco\" per: 1. Combinare i frammenti e imparare gli \"Incantesimi\", e 2. Creare effettivamente gli \"Incantesimi\"."
+    ],
+    "quest.5B013A3A37D6902B.title": "Nella città antica",
+    "quest.5DE863C3FB6492BE.quest_desc": [
+        "{image:atm:textures\/questpics\/iron_spells\/spells_outfit_cultist.png width:60 height:100 align:center}"
+    ],
+    "quest.5DE863C3FB6492BE.title": "\\&4Abbigliamento da cultista",
+    "quest.5ED368C926E5F32C.quest_desc": [
+        "C'è un'ultima lezione, la numero \\&3, che ho dimenticato di menzionare. In realtà, abbiamo tutti dimenticato tutto riguardo a queste \\&9. Quindi non è solo una questione personale.\\n\\nPer recuperare i ricordi, dobbiamo camminare tranquillamente lungo la \"strada dei ricordi\", che corrisponde alla \\&9Città Antica."
+    ],
+    "quest.5ED368C926E5F32C.title": "L'ultima lezione...",
+    "quest.6046CA1F6AFE2AEA.quest_desc": [
+        "«\\&4Lo Staff del Sangue\\&r è un oggetto ottenibile da \\&4Il Re Morto\\&r. Probabilmente perché è letteralmente il suo staff! \\n\\nQuesto staff infligge 8 danni, più di quelli degli staff precedenti. \\n\\nFornisce il 5% di Potenza Magica a tutti gli incantesimi e il 15% specificamente agli incantesimi del Sangue, oltre al 10% di Potenza di Summoning."
+    ],
+    "quest.6046CA1F6AFE2AEA.title": "\\&4 Il personale medico",
+    "quest.60FAD8BF235E381B.title": "\\&bInchiostro raro\\&r",
+    "quest.615C3E012B2DECD3.quest_desc": [
+        "\\&eLibri di incantesimi\\&r! Dove altro potresti mettere \\&3Incantesimi\\&r? \\n\\nPuoi aggiungere \\&3Tabelle di incantesimi\\&r al tuo \\&eLibro di incantesimi\\&r inserendo entrambi nella stessa tabella. Hanno una certa capacità, ma non dovrai più preoccuparti della rarità. \\n\\nQuando aggiungi \\&3Tabelle di incantesimi\\&r al tuo \\&eLibro di incantesimi\\&r, non verranno consumate, ma invece, sarà la Mana a essere consumata."
+    ],
+    "quest.615C3E012B2DECD3.title": "\\&eSpellBooks\\&r!",
+    "quest.6187837A51BA09DC.quest_desc": [
+        "\\&0Citadella\\&r è la struttura più grande che Iron's Spells ci offre. È quasi interamente costruita in \\&0Blackstone\\&r.\n\nDispone di imponenti mura e torri che la circondano e la collegano all'edificio principale. Queste mura e torri contengono \\&5Ancient Knight\\&r Spawners e barili di oggetti.\n\nL'edificio principale ospita la sala della biblioteca\/ricerca al primo piano. Questa sala contiene miliardi di libri, oltre a casse e altri \\&5Ancient Knights\\&r!\n\nIl piano superiore ospiterà le casse della citadella, oltre a \\&5Cursed Armor Stands\\&r. Fate attenzione quando cercate di prelevare oggetti, potrebbero difendere le proprie proprietà!\n\nIl piano superiore è l'arena..."
+    ],
+    "quest.6187837A51BA09DC.title": "E altro",
+    "quest.637C87D8968CD51A.title": "\\&aInchiostro insolito\\&r",
+    "quest.639531AB27DCD267.quest_desc": [
+        "\\&7Le Rune\\&r sono gli elementi che utilizziamo per creare le nostre classi e i loro componenti. Per ottenere una \\&7Runa Vuota\\&r, è possibile uccidere il \\&4Re Morto\\&r oppure pulire una Runa Incisa con una Pietra Sacrificale.\n\nEsistono 8 classi diverse (una segreta), ognuna con i propri \\&3Manuali, Materiale di Focus, Aggiornamenti e Equipaggiamento."
+    ],
+    "quest.639531AB27DCD267.title": "\\&Classi",
+    "quest.641888DC7BC40AA9.quest_desc": [
+        "La fortezza, fortemente sorvegliata, è la dimora dell'Arcivescovo e dei suoi seguaci. La riconoscerete per le sue imponenti mura di pino e la grande fortezza all'interno.\n\nAll'interno delle mura e della fortezza, si possono trovare: banditi, guerrieri, evocatori e saccheggiatori. Una volta superati questi ostacoli, è possibile salire le scale, utilizzare il parkour per raggiungere il tetto e incontrare il \"Leader\" della fortezza.\n\nNaturalmente, data la sua forte sorveglianza, all'interno della fortezza si possono trovare molte risorse.",
+        "{image:atm:textures\/questpics\/iron_spells\/spells_evokerfort.png width:200 height:100 align:center}"
+    ],
+    "quest.641888DC7BC40AA9.title": "\\&aEvoker Fort",
+    "quest.652A14E17DDE97E6.quest_desc": [
+        "Un altro oggetto necessario per creare l'Armatura. Potete trovare gli Armi Rotte nei forzieri dell'\\&\"Città Antica\" (Chest).\n\nAvrete anche bisogno della Pelle del Drago, che si ottiene uccidendo il \\&\"Drago Ender\" (Ender Dragon)!\n\nQuesta armatura avrà 12 slot per incantesimi e aumenterà la potenza degli incantesimi del \\&\"Drago Ender\" (Ender Spells)!"
+    ],
+    "quest.652A14E17DDE97E6.title": "\\&dLibro di incantesimi \"Dragonskin\"",
+    "quest.660D8AD3EE975340.quest_desc": [
+        "\\&bLe parti delle armi\\&r saranno necessarie per creare alcune armi.\n\nE sì, dovremo anche crearle.\n\nSono piuttosto semplici: 3 \\&bIngots di Mithril\\&r e 2 \\&bIngots Arcani\\&r.\n\nGli \\&bIngots Arcani\\&r sono realizzati con 1 \\&bIngot di rame\\&r e 8 \\&bEssenze Arcane\\&r."
+    ],
+    "quest.660D8AD3EE975340.title": "\\& Parti di armi",
+    "quest.66762A4743104157.quest_desc": [
+        "Un altro libro di incantesimi, questo è leggermente più costoso. Richiederà del \"Hogskin\", che si ottiene uccidendo i Hoglins.\n\nQuesto libro può contenere 8 incantesimi, il che è tecnicamente ancora un numero limitato, ma è comunque un miglioramento."
+    ],
+    "quest.66762A4743104157.title": "Il libro degli incantesimi per apprendisti",
+    "quest.67308C5DDF4A10D2.quest_desc": [
+        "L'armatura \"\\&7Wandering Magician\" è l'armatura con le minori statistiche offerte da \"\\&7Iron's Spells\".\n\nIn pratica, è un aggiornamento per \"\\&7Leather Armor\"! Ma chi produce \"\\&7Leather Armor\"?\n\nBasta mettere \"\\&7Leather Armor\" su un tavolo di crafting per crearla.\n\nQuesto aumenterà il numero di punti di armatura e fornirà anche un leggero aumento di mana!"
+    ],
+    "quest.67308C5DDF4A10D2.title": "\\& Abbigliamento da mago errante",
+    "quest.67439337E29A308B.quest_desc": [
+        "\\&eArtificer's Cane\\&r è più costoso rispetto a \\&7Graybeard Staff\\&r, e per questo motivo è più potente.\n\nOra infliggerà 4 danni e fornirà una riduzione del 15% del tempo di ricarica e del tempo di lancio, oltre a un aumento del 10% della potenza degli incantesimi.\n\nHo solo detto che era migliore, non ho detto che era molto migliore!"
+    ],
+    "quest.67439337E29A308B.title": "\\& \"Il cane dell'artigiano\"",
+    "quest.67A587F4BAD76C70.quest_desc": [
+        "Il modello più semplice, chiamato \"\\&eSpellbook\\&r\", che lo rende anche il più economico!\n\nPuò contenere un massimo di 5 incantesimi."
+    ],
+    "quest.67A587F4BAD76C70.title": "Giornale fragile",
+    "quest.67D40A1A9332C03D.title": "\\&6Inchiostro leggendario\\&r",
+    "quest.68B44B9E939F4228.quest_desc": [
+        "Nella parte più alta di \\&aFort\\&r si trova \\&aArchimago\\&r. È ostile solo al Giocatore e a chiunque lo attacchi.\n\nPossiede 60 cuori e attacca come un normale \\&aArchimago\\&r, ma con ulteriori attacchi: \\&aFuochi d'artificio\\&r, \\&aScudo\\&r, e \\&aVento impetuoso\\&r!\n\nUna volta sconfitto, rilascerà: \\&aEssenza Arcana\\&r, \\&aInchiostro\\&r, \\&aRuni di evocazione\\&r, \\&aRotoli di evocazione\\&r, e un raro oggetto: \\&aGrimorio di evocazione\\&r!",
+        "{image:atm:textures\/questpics\/iron_spells\/spells_evoker.png width:100 height:200 align:center}"
+    ],
+    "quest.68B44B9E939F4228.title": "\\&a\\&lArcivescovo",
+    "quest.6963EC8A71D66AE3.quest_desc": [
+        "Nascosto nelle paludi fangose di Mangrove, si trova il rifugio della setta, soprannominata \\&2\\&lApotheocarist\\&r.\n\nQui, l'individuo può trovare tutto ciò di cui ha bisogno per preparare le sue pozioni.\n\nÈ possibile trovare l'individuo nel suo \\&2Hut\\&r.\n\nQui si possono trovare anche pentole e banchi per la preparazione delle pozioni!",
+        "{image:atm:textures\/questpics\/iron_spells\/spells_magrovehut.png width:200 height:100 align:center}"
+    ],
+    "quest.6963EC8A71D66AE3.title": "\\&2Mangrove Hut",
+    "quest.69763C2E2F454A73.quest_desc": [
+        "\\&c\\&lFire\\&r è ovviamente correlato a \\&cFire\\&r. La maggior parte dei \"Scrolls\" utilizza \\&cFire\\&r per bruciare e danneggiare oggetti.\n\nIl \"Focus Material\" di \\&cFire\\&r è \\&cBlaze Rods\\&r. È possibile creare \\&cFire Runes\\&r o ottenerle uccidendo il \\&c\\&lPyromancer\\&r.\n\nI suoi \"Scrolls\" sono di colore \\&8Grey\\&r con testo \\&8Grey\\&r."
+    ],
+    "quest.69763C2E2F454A73.title": "e altre",
+    "quest.69838E3F12218D68.quest_desc": [
+        "Scroll Forge: potete intuire cosa fa!\n\nCrea uno o più \\&3Scroll\\&r!\n\nAggiungete dell'inchiostro per definire la rarità. Carta per lo \\&3Scroll\\&r stesso. Quindi, selezionate l'oggetto corrispondente al \\&3Spell\\&r desiderato (ad esempio, \"Bastone di Fuoco\" per il \\&3Spell\\&r \"Fuoco\", \"Patata Tossica\" per il \\&3Spell\\&r \"Natura\", ecc.). Infine, selezionate il \\&3Spell\\&r desiderato e sarà creato!",
+        "{image:atm:textures\/questpics\/iron_spells\/spells_scroll_gui.png width:150 height:100 align:center}"
+    ],
+    "quest.6CE7115DA2B23776.quest_desc": [
+        "Non è molto migliore del \"Flimsy Journal\"...\\n\\nQuesto può contenere un'altra \"Spell\", superando la capacità del \"Flimsy Journal\"! Ciò significa avere a disposizione un'altra \"Spell\" molto potente!"
+    ],
+    "quest.6CE7115DA2B23776.title": "Rivista Ironbound",
+    "quest.6D232F6D8E8DA546.quest_desc": [
+        "Estremamente popolare durante la festa di Halloween!",
+        "{image:atm:textures\/questpics\/iron_spells\/spells_outfit_plagued.png width:60 height:100 align:center}"
+    ],
+    "quest.6D232F6D8E8DA546.title": "E l'abbigliamento, ormai malandato.",
+    "quest.6DB5732177AABB87.quest_desc": [
+        "La struttura più grande e complessa di \\&lIron's Spells\\&r.\n\nSi tratta di strutture sotterranee profonde, simili alle \"Sale del Giudizio\". Potete anche utilizzare i \"Bussola Smarrita\" per aiutarvi a trovarla!\n\nAl suo interno troverete numerosi \"Spawners\", \"Spawners del Giudizio\" e, ovviamente, oggetti di valore.\n\nLa stanza più importante è la \"Sala del Trono\". Una volta arrivati, lo scheletro del \"Re Morto\" si risveglierà! (Se non succede, potrebbe essere necessario cliccarci sopra).",
+        "{image:atm:textures\/questpics\/iron_spells\/spells_catacombs.png width:200 height:100 align:center}"
+    ],
+    "quest.6DB5732177AABB87.title": "\\&4Catacombe",
+    "quest.6F5F1C525CF08F96.quest_desc": [
+        "Bastoni e... oggetti simili a bastoni, sono armi che conferiscono bonus magici quando vengono impugnati!\n\nInoltre, sono anche molto eleganti!"
+    ],
+    "quest.6F5F1C525CF08F96.title": "Bastoni, aste e canne",
+    "quest.71F0E9C36AA02B46.quest_desc": [
+        "Beh, questa arena sembra piuttosto vuota... oh, aspetta, cos'è questo!\n\nL'\\&cCinderous Soul Rune\\&r. Sembra quasi una serratura, ma le chiavi \"Decadute\" non funzionano su di essa.\n\nCredetemi, non funzionano.\n\nInvece, avremo bisogno dell'\\&cCinderous Soulcaller\\&r! Realizzata con \\&cCinder Essence\\&r, \\&5Netherite Scraps\\&r, e un \\&9Echo Shard\\&r.\n\nGli \\&5Netherite Scraps\\&r provengono dagli \\&5Ancient Debris\\&r, gli \\&9Echo Shards\\&r provengono dalla \\&9Ancient City\\&r, e l'\\&cCinder Essence\\&r è ottenuta dai \\&5Ancient Knights\\&r!"
+    ],
+    "quest.71F0E9C36AA02B46.title": "\\&Cello, l'Anima Incenerita",
+    "quest.7270A37E31A70C91.quest_desc": [
+        "\\&6\\&lHoly\\&r è pensato per tutti i giocatori di ruolo\/supporto. Principalmente, serve per curare e fornire assistenza.\n\n\\&6\\&lHoly\\&r si basa principalmente su \\&6Perle Divine\\&r, che devono essere create. Con queste, è possibile creare Rune o uccidere il \\&6\\&lSacerdote\\&r per ottenere le \\&6\\&lRunes di Holy\\&r.\n\nLe \\&6\\&lRunes di Holy\\&r sono \\&fBianche\\&r con testo in \\&6Oro\\&r."
+    ],
+    "quest.7270A37E31A70C91.title": "\\&6\\&lSanto",
+    "quest.72AB70FD8D8FABBF.quest_subtitle": "E così via!",
+    "quest.72AB70FD8D8FABBF.title": "Sulla autostrada verso...",
+    "quest.73D6B980D35082A0.quest_desc": [
+        "Questo richiede un po' di tempo, quindi siate pazienti.\n\nInnanzitutto, cercate un \"Evoker Fort\".\nSuccessivamente, trovate un \"Research Book\" nascosto al suo interno. Quindi, fate tradurre il libro da un \"Trader\" che si trova in ostaggio all'interno del \"Fort\". (Proprio come i nostri traduttori per missioni!)\nUna volta tradotto, portatelo a un \"Priest\" in un \"Village\" per scambiarlo con il \"Spell Book\"!\n\nQuesto vi darà un aumento per gli \"Holy Spells\" e non preoccupatevi, i \"Trader\" in ostaggio sono estremamente rari, quindi continuate a cercarli!"
+    ],
+    "quest.73D6B980D35082A0.title": "\\&6Bibbia del villaggio",
+    "quest.7408CCF998D9CD37.quest_desc": [
+        "Un libro \"Craftable \\&eSpell Book\\&r\"... sì, non è facile da creare.\n\nIl libro più difficile da ottenere è il \"Ruined Book\", che si può trovare nei forzieri dell'\"Ancient City\". Le \"Blood Vials\" si possono ottenere mettendo un Mob (o anche se stessi) in una pentola sopra un fuoco da campo o in una pentola alchemica. La \"Bottle O' Lightning\" si ottiene utilizzando una bottiglia su un Creeper caricato.\n\nUna volta completate tutte queste azioni, è possibile creare il \"Ancient Codex\". I suoi 12 slot per \"Spell\" sono molto utili!"
+    ],
+    "quest.7408CCF998D9CD37.title": "Codice antico",
+    "quest.76558D23A70AFF78.title": "\\&bIce\\&r Orbina di potenziamento",
+    "quest.78AA7BFABBFB9973.quest_desc": [
+        "\\&2\\&lLibro di Incantesimi della Natura\\&r. \\n\\nContiene 10 \\&3incantesimi\\&r e potenzia gli \\&2incantesimi della natura\\&r! \\n\\nTuttavia, è necessario un Libro di Incantesimi Danneggiato per crearlo..."
+    ],
+    "quest.78AA7BFABBFB9973.title": "\\&2Il tomo druidico",
+    "quest.794D6F9B8DB31E7D.quest_desc": [
+        "\\&bIce Staff\\&r mi ha confuso per un po', ma ora ho capito!\n\nAvrete bisogno di un \\&bPermafrost Shard\\&r e di un \\&bFrosted Helve\\&r. Il \\&bPermafrost Shard\\&r è un oggetto ottenibile all'interno della struttura \"Ice Breaker\". Si tratta di relitti presenti negli ambienti glaciali.\n\nIl \\&bFrosted Helve\\&r è un oggetto creato. Utilizza \\&5Arcane Ingots \\&fand\\&b Frozen Bones\\&r. Quest'ultimo è un oggetto ottenuto dagli \\&bStrays\\&r.\n\nL'\\&bIce Staff\\&r infligge 5 danni e fornisce il 25% di rigenerazione della mana. Fornisce il 5% di potenza magica a tutti gli incantesimi, e il 15% specificamente per gli incantesimi di \\&bIce Spells\\&r."
+    ],
+    "quest.794D6F9B8DB31E7D.title": "\\&bIce personale",
+    "quest.79EC8A49368421BF.quest_desc": [
+        "\\&6Pyrium\\&r è un oggetto garantito proveniente dai forzieri di \\&cCitadels\\&r... \\n\\nTuttavia, questi forzieri non accettano le chiavi normali. Incredibile, sembra quasi che una sola chiave non possa aprire ogni serratura! \\n\\nAvremo bisogno della Chiave Decaduta, che si ottiene dagli \\&5Cavalieri Antichi\\&r all'interno di \\&cCitadels\\&r. Appariranno nelle Torri e nel livello inferiore della Biblioteca."
+    ],
+    "quest.79EC8A49368421BF.title": "\\&6Pyrium",
+    "quest.7C79BCE482A06199.quest_desc": [
+        "\\&b\\&lIce\\&r si concentra sugli incantesimi invernali. Utilizza \\&bIce\\&r e \\&bSnow\\&r per raffreddare e danneggiare i nemici.\n\nIl materiale principale di \\&b\\&lIce\\&r è l'\\&bOsso Congelato\\&r, che si ottiene uccidendo gli \\&bStrays\\&r. Puoi utilizzare questi ossi per creare l'\\&bRuno di Ghiaccio\\&r o per sconfiggere l'\\&b\\&lCryomancer\\&r\\&r per ottenerlo.\n\nI suoi \\&bScrolls\\&r hanno un colore \\&bBlu Chiaro\\&r con del testo in \\&9Blu Scuro\\&r."
+    ],
+    "quest.7C79BCE482A06199.title": "\\&b\\&lIce",
+    "quest.7F85669FEA41CD97.quest_desc": [
+        "È il protettore neutrale del villaggio. Attaccherà tutte le creature ostili nelle vicinanze. Sembra un golem di ferro, ma per qualche motivo gli assomiglia a qualcuno che conosciamo? Forse qualcuno che indossa una maschera?\n\nPuoi scambiarlo con pozioni curative e smeraldi per ottenere una mappa arrotolata, che presto sarà utilizzata per combattere le fortezze degli \"Evoker\"!\n\nSe desideri attaccarlo, utilizzerà ripetutamente incantesimi sacri. Inoltre, si curerà quando la sua salute sarà bassa.\n\nUna volta sconfitto, rilascerà essenza arcana, inchiostro, rune sacre e rotoli sacri.",
+        "{image:atm:textures\/questpics\/iron_spells\/spells_priest.png width:100 height:200 align:center}"
+    ],
+    "quest.7F85669FEA41CD97.title": "\\&6\\&lSacerdote",
+    "quest.7FC54AF87CBDD222.quest_desc": [
+        "I resti di antichi campi di battaglia sono solo frammenti del passato.\n\nNon sappiamo cosa sia realmente accaduto.\n\nNon sappiamo chi abbia combattuto contro chi. Al momento, abbiamo solo resti di mura e questi \"accumuli di armature\". Potremmo semplicemente raccoglierli scavando con il piccone.",
+        "{image:atm:textures\/questpics\/iron_spells\/spells_battleground.png width:200 height:100 align:center}"
+    ],
+    "quest.7FC54AF87CBDD222.title": "\\&5Antico campo di battaglia",
+    "task.00C6A5CB44392D7E.title": "Tutti i diritti riservati",
+    "task.1CC0E97BB8DC4F35.title": "Uccidere 5 necromanti",
+    "task.6D7DD99A02A8F451.title": "Visita The Deep Dark",
+    "task.76B722B1AE7B6CF2.title": "Tutti i diritti riservati"
+}

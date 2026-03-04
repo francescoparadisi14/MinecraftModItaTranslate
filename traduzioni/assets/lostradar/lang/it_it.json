@@ -1,0 +1,21 @@
+{
+    "button.lostradar.clear": "Chiaro",
+    "button.lostradar.scan": "Scansione",
+    "item.lostradar.radar": "Radar",
+    "itemGroup.lostradar": "LostRadar",
+    "lostradar.buildings": "Costruzione",
+    "lostradar.center": "Centro della città",
+    "lostradar.chunk.dist": "Distanza %s",
+    "lostradar.chunk.pos": "Coordinate: %s",
+    "lostradar.city": "Città",
+    "lostradar.default": "Edificio sconosciuto",
+    "lostradar.energylow": "Nessuna energia!",
+    "lostradar.highway": "Autostrada",
+    "lostradar.library": "Biblioteca comunale",
+    "lostradar.notenoughenergy": "Non ho abbastanza energia per eseguire questa ricerca!",
+    "lostradar.paused_scan": "In pausa: %d%",
+    "lostradar.shopping": "Centro commerciale",
+    "message.lostradar.discovered.center": "È stato tu a scoprire il centro!",
+    "message.lostradar.discovered.library": "Hai scoperto la biblioteca!",
+    "message.lostradar.discovered.shopping": "È stato tu a scoprire il centro commerciale!"
+}

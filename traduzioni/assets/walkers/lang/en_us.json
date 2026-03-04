@@ -27,6 +27,5 @@
     "walkers.unlock_entity": "Unlocked %s as second shape.",
     "walkers.unlock_entity_blacklisted": "This Entity is not available for you.",
     "walkers.unlock_progress": "You feel it tingling.",
-    "walkers.variants.minecraft.snow_golem.0": "Headless %s",
-    "walkers.variants_menu_guide": "Cycle variants by scrolling, select with '%s'"
+    "walkers.variants.minecraft.snow_golem.0": "Headless %s"
 }

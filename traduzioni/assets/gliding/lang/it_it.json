@@ -1,8 +1,11 @@
 {
-    "item.gliding.diamond_glider": "Paracadute di diamante",
-    "item.gliding.golden_glider": "Paracadute d'oro",
-    "item.gliding.iron_glider": "Paracadute di ferro",
-    "item.gliding.netherite_glider": "Paracadute di netherite",
-    "item.gliding.stone_glider": "Paracadute di pietra",
-    "item.gliding.wooden_glider": "Paracadute di legno"
+    "item.gliding.diamond_glider": "Diamond Glider",
+    "item.gliding.golden_glider": "Golden Glider",
+    "item.gliding.iron_glider": "Iron Glider",
+    "item.gliding.netherite_glider": "Ala di Netherite",
+    "item.gliding.stone_glider": "Stone Glider",
+    "item.gliding.wooden_glider": "Slitta in legno",
+    "text.autoconfig.gliding.option.offHandEnabled": "Abilita l'attivazione del Glider quando è tenuto in mano con la mano non dominante.",
+    "text.autoconfig.gliding.option.offHandEnabled.@Tooltip": "Assicurati di disconnetterti e riconnetterti al mondo singolo per far funzionare questa funzione.",
+    "text.autoconfig.gliding.title": "Configurazione lato server (per uso singolo)"
 }

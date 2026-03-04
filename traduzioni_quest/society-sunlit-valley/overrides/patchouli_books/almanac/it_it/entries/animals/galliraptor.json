@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Uovo: Uovo di Galliraptor$(li)Bottino: Galliraptor cruda, Piuma$(br2)$(l)Note$()$(br)Sviluppato utilizzando un Siero di Mutazione Lunare su un Goober. Le Galliraptor affamate non depongono uova e quelle infelici ne depongono molto meno."
+            "text": "Patchouli: testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile$(li)Uovo: Uovo di Galliraptor$(li)Droppi: Uovo di Galliraptor crudo, piuma$(br2)$(l)Note$()$(br)Creato utilizzando un siero di mutazione lunare su un Goober. I Galliraptor affamati non depongono uova, e quelli infelici ne depongono molto meno."
         },
         {
             "type": "patchouli:entity",
             "entity": "farmlife:galliraptor",
             "scale": 0.7,
-            "text": "È pre-storico? O post-storico?"
+            "text": "patchouli: entità\n\nfarmlife: galliraptor\n\nÈ preistorico o postistorico?"
         }
     ]
 }

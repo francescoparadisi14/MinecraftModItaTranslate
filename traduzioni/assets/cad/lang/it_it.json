@@ -1,0 +1,12 @@
+{
+    "block.cad.example_block": "Esempio di blocco",
+    "cad.configuration.items": "Elenco degli articoli",
+    "cad.configuration.logDirtBlock": "Blocco di argilla per pavimentazione",
+    "cad.configuration.magicNumber": "Numero magico",
+    "cad.configuration.magicNumberIntroduction": "Numero Magico",
+    "cad.configuration.section.cad.common.toml": "Configurazioni per Cobblemon: cani antichi",
+    "cad.configuration.section.cad.common.toml.title": "Configurazioni per Cobblemon: cani antichi",
+    "cad.configuration.title": "Configurazioni per Cobblemon: cani antichi",
+    "item.cad.example_item": "Esempio di articolo",
+    "itemGroup.cad": "Esempio di tabella Mod"
+}

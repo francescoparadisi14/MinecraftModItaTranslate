@@ -1,16 +1,16 @@
 {
-    "name": "Albero di noce di hazelnut 🍂",
+    "name": "Albero di nocciole 🍂",
     "category": "patchouli:trees",
     "icon": "pamhc2trees:hazelnut_sapling",
     "sortnum": -1,
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)🍂 §4Autunno§r $(li)Dimensione: 1x1$(li)Cresce in: $(l:tree_crops\/hazelnut)8 Hazelnut$(\/l)$(br2)$(l)Note$()$(li)Semi vinti alla macchina dei premi."
+            "text": "patchouli:text\n\n$(l)Statistiche$()$(li)🍂 Autunno§r $(li)Dimensione: 1x1$(li)Coltivabile:$(l:albero_noci\/noci) 8 noci$(\/l)$(br2)$(l)Note$()$(li)Piantine ottenute dalla macchina premi."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Hazelnut Tree",
+            "name ": "Patchouli: Multiblocco\n\nCocco",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {
@@ -77,8 +77,7 @@
                         "     "
                     ]
                 ]
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

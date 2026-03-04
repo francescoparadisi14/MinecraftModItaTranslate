@@ -84,6 +84,7 @@
     "config.jade.plugin_beautify.trellis.pot_plant": "Show planting plant",
     "entity.beautify.villager.botanist": "Botanist",
     "entity.minecraft.villager.beautify.botanist": "Botanist",
+    "entity.minecraft.villager.botanist": "Botanist",
     "frame.description1": "Places Frame with a random motive.",
     "frame.description2": "Shift-Right-click on Block to change the picture.",
     "glowstone_essence_lamp.description1": "Can be placed hanging and standing like Lanterns.",

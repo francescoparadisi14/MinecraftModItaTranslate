@@ -1,17 +1,17 @@
 {
-    "name": "Foxhound",
+    "name": "Cane da caccia Foxhound",
     "category": "patchouli:pets",
     "icon": "minecraft:coal",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Doni Possibili:$()$(br)Cappello di Fuochi d'Artificio$(br2)$(l)Domesticazione$()$(br)Hai l'effetto di Resistenza al Fuoco e alimentali con carbone."
+            "text": "patchouli:testo\n\n$(l)Possibili regali:$()$(br)Cappello per fuochi d'artificio$(br2)$(l)Addomesticamento$(br)Applica l'effetto di resistenza al fuoco e fornisci loro carbone."
         },
         {
             "type": "patchouli:entity",
             "entity": "quark:foxhound",
             "scale": 0.7,
-            "text": "Questi amici infuocati accelerano i forni su cui si sedono."
+            "text": "patchouli: entità\n\nquark: cane da caccia\n\nQuesti amici vivaci accelerano i forni su cui si trovano."
         }
     ]
 }

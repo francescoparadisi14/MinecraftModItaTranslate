@@ -1,7 +1,7 @@
 {
-    "block.fortune_on_netherite_forge.netherite_scrap_block": "Blocco di scarti di netherite",
-    "block.fortune_on_netherite_forge.raw_debris_block": "Blocco di residui grezzi",
-    "gamerule.alowRawBlocksSmelting": "Consenti la fusione di blocchi crudi",
-    "gamerule.alowRawBlocksSmelting.description": "Consente di disabilitare la fusione o l'esplosione dei blocchi di rame grezzo, ferro, oro e detriti (non funziona ancora)",
-    "item.fortune_on_netherite_forge.raw_debris": "Rifiuti crudi"
+    "block.fortune_on_netherite_forge.netherite_scrap_block": "Blocco di scarti di Netherite",
+    "block.fortune_on_netherite_forge.raw_debris_block": "Blocco di detriti grezzi",
+    "gamerule.alowRawBlocksSmelting": "Permettere la fusione dei minerali grezzi",
+    "gamerule.alowRawBlocksSmelting.description": "Permette di disabilitare la fusione o l'esplosione dei blocchi di rame, ferro, oro e detriti (funzionalità non ancora implementata).",
+    "item.fortune_on_netherite_forge.raw_debris": "Detriti grezzi"
 }

@@ -1,13 +1,13 @@
 {
-    "item.modernindustrialrouters.ev_upgrade": "Aggiornamento di energia EV",
-    "item.modernindustrialrouters.hv_upgrade": "Aggiornamento di energia HV",
-    "item.modernindustrialrouters.lv_upgrade": "Aggiornamento energetico di livello per router industriale moderno",
-    "item.modernindustrialrouters.mv_upgrade": "Aggiornamento di energia per router industriale moderno",
-    "item.modernindustrialrouters.superconductor_upgrade": "Aggiornamento di energia superconduttore",
-    "modernindustrialrouters.in_gui.eu_upgrade": "• la capacità energetica di questo router: %d EU\n• il tasso di trasferimento di questo router: %d EU\/riga di clock del router",
-    "modularrouters.itemText.usage.item.ev_upgrade": "Fornisce moduli di energia in un router che comportano come se stessero trasferendo l'industrializzazione moderna di livello %d.\nIncrementa la capacità del buffer di energia e il tasso di trasferimento di un router di %d eu e %d eu\/tasto di router.",
-    "modularrouters.itemText.usage.item.hv_upgrade": "Fornisce moduli di energia in un router che comportano come se stessero trasferendo l'industrializzazione moderna di livello %d.\nAumenta la capacità del buffer di energia e il tasso di trasferimento di un router di %d eu e %d eu\/tasto di router.",
-    "modularrouters.itemText.usage.item.lv_upgrade": "Fornisce moduli di energia in un router che comportano come se stessero trasferendo l'industrializzazione moderna di livello %d.\nAumenta la capacità del buffer di energia e il tasso di trasferimento di un router di %d eu e %d eu\/tasto di router.",
-    "modularrouters.itemText.usage.item.mv_upgrade": "Fornisce moduli di energia in un router che comportano come se stessero trasferendo l'industrializzazione moderna di livello %d.\nIncrementa la capacità del buffer di energia e il tasso di trasferimento di un router di %d eu e %d eu\/tasto di router.",
-    "modularrouters.itemText.usage.item.superconductor_upgrade": "Fatto che i moduli di energia in un router comportano come se stessero trasferendo l'industrializzazione moderna di livello %d.\nIncrementa la capacità del buffer di energia di un router di %d EU e il tasso di trasferimento di %d EU\/router tick."
+    "item.modernindustrialrouters.ev_upgrade": "Aggiornamento di EV Energy",
+    "item.modernindustrialrouters.hv_upgrade": "Aggiornamento dell'energia per applicazioni ad alta tensione",
+    "item.modernindustrialrouters.lv_upgrade": "Aggiornamento dell'energia per LV (bassa tensione)",
+    "item.modernindustrialrouters.mv_upgrade": "Aggiornamento di MV Energy",
+    "item.modernindustrialrouters.superconductor_upgrade": "Aggiornamento dell'energia tramite superconduttori",
+    "modernindustrialrouters.in_gui.eu_upgrade": "• Capacità energetica di questo router: %d unità di misura\n• Velocità di trasferimento di questo router: %d unità di misura\/ciclo",
+    "modularrouters.itemText.usage.item.ev_upgrade": "Permette ai moduli di gestione dell'energia in un router di comportarsi come se stessero trasferendo l'energia in conformità con lo standard di industrializzazione moderna dell'UE, specificamente al livello %d.\nAumenta la capacità di buffer energetico di un router del %d e la velocità di trasferimento del %d EU per ogni ciclo.",
+    "modularrouters.itemText.usage.item.hv_upgrade": "Permette ai moduli di gestione dell'energia in un router di comportarsi come se stessero trasferendo l'energia in conformità con lo standard di industrializzazione moderna dell'UE, specificamente al livello %d.\nAumenta la capacità di buffer energetico di un router del %d e la velocità di trasferimento del %d EU per ogni ciclo.",
+    "modularrouters.itemText.usage.item.lv_upgrade": "Permette ai moduli di gestione dell'energia in un router di comportarsi come se stessero trasferendo l'energia in conformità con lo standard di industrializzazione moderna dell'UE, specificamente al livello %d.\nAumenta la capacità di buffer energetico di un router del %d e la velocità di trasferimento del %d EU per ogni ciclo.",
+    "modularrouters.itemText.usage.item.mv_upgrade": "Permette ai moduli di gestione dell'energia in un router di comportarsi come se stessero trasferendo l'energia in conformità con lo standard di industrializzazione moderna dell'UE, specificamente al livello %d.\nAumenta la capacità di buffer energetico di un router del %d e la velocità di trasferimento del %d EU per ogni ciclo.",
+    "modularrouters.itemText.usage.item.superconductor_upgrade": "Permette ai moduli di gestione dell'energia in un router di comportarsi come se stessero trasferendo l'energia in conformità con lo standard di industrializzazione moderna dell'UE, specificamente al livello %d.\nAumenta la capacità di buffer energetico di un router del %d e la velocità di trasferimento del %d EU per ogni ciclo."
 }

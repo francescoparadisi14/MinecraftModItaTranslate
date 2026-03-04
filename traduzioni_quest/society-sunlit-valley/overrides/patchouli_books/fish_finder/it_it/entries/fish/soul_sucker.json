@@ -1,11 +1,11 @@
 {
-    "name": "Assorbente anime",
+    "name": "Assorbitore di anime",
     "category": "patchouli:fish",
     "icon": "netherdepthsupgrade:soulsucker",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 312$(li)Dimensione: Inferno$(li)Bioma: Valle del Sabbia dell'Anima"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 312$(li)Dimensioni: Nether$(li)Bioma: Valle di Sabbia dell'Inferno"
         },
         {
             "type": "patchouli:entity",
@@ -13,7 +13,7 @@
             "scale": 0.5,
             "offset": -0.3,
             "rotate": true,
-            "text": "Non farò il gioco di parole, puoi farlo tu."
+            "text": "patchouli: entità\n\nnetherdepthsupgrade: aspiratore di anime\n\nNon farò la battuta che potresti fare tu."
         }
     ]
 }

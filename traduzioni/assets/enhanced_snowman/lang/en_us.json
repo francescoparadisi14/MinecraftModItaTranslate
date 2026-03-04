@@ -1,0 +1,12 @@
+{
+    "enhanced_snowman.configuration.common": "Global configuration",
+    "enhanced_snowman.configuration.convert": "Convert killed mobs",
+    "enhanced_snowman.configuration.convert_chance": "Conversion chance",
+    "enhanced_snowman.configuration.disable_heat_damage": "Disable snowman melting",
+    "enhanced_snowman.configuration.disable_water_damage": "Disable snowman water damage",
+    "enhanced_snowman.configuration.onlyHostile": "Only hostile",
+    "enhanced_snowman.configuration.playersDealDamage": "Players deal damage",
+    "enhanced_snowman.configuration.prevent_snow_trail": "Prevent snow trails",
+    "enhanced_snowman.configuration.slowness": "Slowness effect",
+    "enhanced_snowman.configuration.snowballDamage": "Damage of single snowball"
+}

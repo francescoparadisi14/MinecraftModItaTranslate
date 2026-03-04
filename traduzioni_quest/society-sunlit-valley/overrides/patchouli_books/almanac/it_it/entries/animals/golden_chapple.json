@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Uovo: Mela d'oro$(li)Bottino: Pollo crudo, Piuma$(br2)$(l)Note$()$(br)Le Chapples affamate o infelici (meno di 2 cuori di affetto) non depongono Meli"
+            "text": "patchouli: testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile$(li)Uovo: Mela dorata$(li)Drop: Pollo crudo, piuma$(br2)$(l)Note$()$(br)Affamato o infelice (meno di 2 cuori di affetto) I Chapples non depongono uova."
         },
         {
             "type": "patchouli:entity",
             "entity": "etcetera:chapple{Type:golden}",
             "scale": 0.8,
-            "text": "Una strana mutazione nata da un Uovo d'Eggple d'oro trovato nei Baluardi."
+            "text": "Patchouli: entità\n\neccetera: chapple{Tipo: dorato}\n\nUna strana mutazione, nata da un \"Golden Eggple\" scoperto a Bastions."
         }
     ]
 }

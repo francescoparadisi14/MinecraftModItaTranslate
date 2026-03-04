@@ -1,12 +1,12 @@
 {
-    "Naturalist Delight": "Diletto naturalista",
+    "Naturalist Delight": "Delizia per gli amanti della natura",
     "item.farmerd_naturalist_compat.biltong": "Biltong",
-    "item.farmerd_naturalist_compat.bushmeat_strip_sandwich": "Panino di strisce di carne selvatica",
-    "item.farmerd_naturalist_compat.bushmeat_strips": "Strisce di carne selvatica",
-    "item.farmerd_naturalist_compat.bushmeat_strips_cooked": "Strisce di carne di bush cotta",
-    "item.farmerd_naturalist_compat.bushsteak_and_potatoes": "Carne di bush e patate",
-    "item.farmerd_naturalist_compat.cooked_duck_cuts": "Tagli di anatra cucinata",
-    "item.farmerd_naturalist_compat.deer_jerky": "Carne di cervo secata",
-    "item.farmerd_naturalist_compat.duck_cuts": "Tagli di anatra cruda",
-    "item.farmerd_naturalist_compat.venison_strips": "Strisce di cervo"
+    "item.farmerd_naturalist_compat.bushmeat_strip_sandwich": "Panino con carne selvatica",
+    "item.farmerd_naturalist_compat.bushmeat_strips": "Fette di carne di selvaggina",
+    "item.farmerd_naturalist_compat.bushmeat_strips_cooked": "Fette di carne selvatica cotta",
+    "item.farmerd_naturalist_compat.bushsteak_and_potatoes": "Bistecca e patate",
+    "item.farmerd_naturalist_compat.cooked_duck_cuts": "Fette di anatra cotte",
+    "item.farmerd_naturalist_compat.deer_jerky": "Manzo essiccato (tipo \"jerky\")",
+    "item.farmerd_naturalist_compat.duck_cuts": "Fette di anatra crude",
+    "item.farmerd_naturalist_compat.venison_strips": "Fettine di cervo"
 }

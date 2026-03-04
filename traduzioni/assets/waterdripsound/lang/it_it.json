@@ -1,10 +1,17 @@
 {
-    "config.waterdripsound.dripChance": "Caso di gocciolamento",
-    "config.waterdripsound.enable": "Abilitato",
-    "config.waterdripsound.general": "Configurazione suoni gocce d'acqua",
-    "config.waterdripsound.soundCategory": "Categoria del suono",
-    "config.waterdripsound.useDripstoneSounds": "Usare suoni di gocciolamento di pietra d'acqua",
-    "config.waterdripsound.volume": "Volume",
-    "key.waterdripsound.category": "generale",
-    "tooltip.config.waterdripsound.useDripstoneSounds": "Se abilitato, utilizza i suoni di gocciolamento dell'acqua\/lavafonte aggiunti nella versione 1.17. Se disabilitato, utilizza i suoni delle vecchie versioni del modulo."
+    "config.waterdripsound.blockAnimateCountMultiplier": "Moltiplicatore per il conteggio delle particelle bloccate",
+    "config.waterdripsound.blockAnimateNotSupported": "Opzioni per l'eBlock Particle disabilitate a causa di un conflitto con un mod:",
+    "config.waterdripsound.blockAnimateNotSupported.effective": "«eMod \"Effective\"» ha già questa funzionalità.",
+    "config.waterdripsound.blockAnimateRangeMultiplier": "Multiplicatore dell'intervallo di particelle bloccate",
+    "config.waterdripsound.dripChance": "Probabilità di successo",
+    "config.waterdripsound.enable": "Attiva il suono a goccia",
+    "config.waterdripsound.general": "Impostazioni per effetti sonori di tipo \"drip\"",
+    "config.waterdripsound.soundCategory": "Categoria: Suoni di gocciolamento",
+    "config.waterdripsound.useDripstoneSounds": "Utilizza i suoni di Dripstone",
+    "config.waterdripsound.volume": "Volume di gocciolamento",
+    "key.waterdripsound.category": "Generale",
+    "tooltip.config.waterdripsound.blockAnimateCountMultiplier": "Moltiplica il numero di blocchi che generano effetti di particelle ad ogni tick.\nQuesto ha un impatto significativo sulle prestazioni, soprattutto se impostato a valori elevati!\n1.0 = Configurazione predefinita, valori più alti significano la generazione di più blocchi.\nPer mantenere la stessa densità rispetto alla configurazione predefinita, questo valore dovrebbe essere il quadrato dell'intervallo.\n(ad esempio, intervallo di 2.0 -> conteggio di 4.0, intervallo di 3.0 -> conteggio di 9.0, ecc.)",
+    "tooltip.config.waterdripsound.blockAnimateRangeMultiplier": "Aumenta la distanza massima per gli effetti di particelle (gocce, fumo, foglie cadenti, lucciole, colonne di bolle, ecc.)\nInfluisce anche sui suoni ambientali di alcuni blocchi (fuoco, lava, portali, ecc.)\n1.0 = Valore predefinito, valori più alti consentono la creazione di particelle a distanze maggiori.",
+    "tooltip.config.waterdripsound.dripChance": "Possibilità che una particella di goccia appaia quando un blocco viene animato in modo casuale.\n1 su 10 = Vanilla (standard), un valore più alto significa una minore frequenza.",
+    "tooltip.config.waterdripsound.useDripstoneSounds": "Se abilitato, utilizza i suoni di gocciolamento dell'acqua\/lava aggiunti nella versione 1.17.\nAltrimenti, utilizza i suoni provenienti dalle versioni precedenti del mod."
 }

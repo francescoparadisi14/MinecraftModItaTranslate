@@ -1,0 +1,456 @@
+{
+    "quest.001DE8028CAF0A08.quest_desc": [
+        "I macchinari e i meccanismi possono essere piuttosto rumorosi! \\n\\nCerchiamo di ridurre il rumore!"
+    ],
+    "quest.001DE8028CAF0A08.quest_subtitle": "Shhh... troppo rumoroso...",
+    "quest.001DE8028CAF0A08.title": "Muffling: Aggiornamento",
+    "quest.0095422BC87AA135.quest_desc": [
+        "Di nuovo? Ragazzi, vogliamo le \\&7Lingote\\&r, non i \\&7Frammenti\\&r! \\n\\nMettete quei \\&7Frammenti di minerale\\&r in un \\&b\\&lPurificatore\\&r con \\&bOssigeno\\&r (probabilmente proveniente dal nostro precedente \\&9\\&lSeparatore Elettrolitico\\&r) per ottenere i \\&7Frammenti di minerale\\&r. \\n\\nOra ripetiamo semplicemente i passaggi del livello precedente. \\&4Macinate i \\&7Frammenti di minerale\\&r per ottenere la \\&7Polvere sporca\\&r. \\n\\n\\&dPurificate la \\&7Polvere sporca\\&r per pulirla. \\n\\nQuindi, \\&6Fusete la \\&7Polvere\\&r per ottenere le nostre \\&7Lingote\\&r!",
+        "{image:atm:textures\/questpics\/mek\/mek_tier3_3.png width:250 height:100 align:center}"
+    ],
+    "quest.0095422BC87AA135.quest_subtitle": "Lavorazione di materie prime di terza categoria",
+    "quest.0095422BC87AA135.title": "e 7Shard, e 7Clump, e 7Dust, e 7Ingot",
+    "quest.01A90E2541C91DB2.quest_desc": [
+        "La maggior parte dei dispositivi \\&5Machines\\&r, almeno quelli più semplici, possono utilizzare gli \\&8Aggiornamenti\\&r!\n\nGli \\&8Aggiornamenti\\&r si trovano nell'angolo in alto a destra dell'interfaccia. Potrebbe sembrare complicato, ma non preoccupatevi, vi spiegherò!\n\nInnanzitutto, nella parte inferiore, vedrete gli \\&8Aggiornamenti\\&r disponibili. Gli \\&8Aggiornamenti\\&r chiari sono contrassegnati come \\&aSupportati\\&r, mentre quelli più trasparenti sono \\&4non\\&r! Potete anche passarci sopra con il mouse per visualizzare i loro nomi e verificare se sono \\&aSupportati\\&r.\n\nGli \\&8Aggiornamenti\\&r vengono aggiunti tramite la posizione superiore, dopodiché appariranno nella posizione a destra. Qui potrete cliccarli per vedere quanti sono presenti nel dispositivo e visualizzare i loro effetti!\n\nSe desiderate rimuovere uno degli \\&8Aggiornamenti\\&r, cliccate su quello che volete eliminare, quindi premete il pulsante \"Rimuovi\". Questo sposterà l'\\&8Aggiornamento\\&r nella posizione inferiore."
+    ],
+    "quest.01A90E2541C91DB2.title": "\\&8Aggiornamenti delle macchine",
+    "quest.041365A540BF5A03.quest_desc": [
+        "Il \"Dizionario\" non è utile per il giocatore medio: non permette di estrarre risorse, posizionare blocchi, creare oggetti, fondere minerali, né interagisce realmente con nulla.\n\nInvece, viene utilizzato per trovare i tag!\n\nPossiamo fare clic con il tasto destro del mouse tenendo il \"Dizionario\" in mano e i tag degli oggetti appariranno nella chat. Possiamo fare lo stesso con le entità.\n\nÈ sufficiente? Beh, possiamo anche usare il tasto Shift per aprire il \"Dizionario\"!\n\nQui possiamo vedere gli oggetti nel nostro inventario e controllare tutti i diversi tag associati. Dai tag per oggetti, alle pozioni, agli incantesimi, il \"Dizionario\" non lascia nulla nascosto!"
+    ],
+    "quest.041365A540BF5A03.title": "\\&7 Dizionario",
+    "quest.0498A578D0EC3254.quest_desc": [
+        "L'ultimo oggetto importante da creare è il \"\\&aCircuito di Controllo Base\\&r\".\\n\\nQuesto oggetto viene creato combinando 20mB di \"\\&4Redstone\\&r\" con un \"\\&7Osmium Ingot\\&r\".\\n\\nConsultate la \"\\&cQuest per l'Alluminio Infuso\\&r\" per scoprire come aggiungere \"\\&4Redstone\\&r\" all' \"\\&9\\&lInfuser Metallurgico\\&r\"!"
+    ],
+    "quest.0498A578D0EC3254.quest_subtitle": "Il circuito di controllo di base",
+    "quest.06210B6FD0F9989B.quest_desc": [
+        "\\&d\\&lTiera Finale\\&r è quella che possiamo ottenere da \\&5\\&lMekanism\\&r! Almeno in modalità Sopravvivenza.\n\nQueste forniranno il maggior numero di slot, potranno contenere il maggior numero di oggetti e potranno spostare il maggior numero di oggetti!\n\nOgni \\&d\\&lTiera Finale\\&r richiederà \\&dLeghe Atomiche\\&f, \\&dCircuiti di Controllo Ultimati\\&f e \\&bDiamanti\\&r.\n\nLe \\&dLeghe Atomiche\\&r richiederanno \\&5Obsidiana Raffinata\\&r per essere create, seguendo la quest \\&7\"Osmium Compressor Quest\\&r\" per ottenerla. In sostanza, dovremo infondere un \\&bLegame Rinforzato\\&r con 20 unità di \\&5Obsidiana Raffinata\\&r.\n\nSuccessivamente, combinare 2 \\&dLeghe Atomiche\\&r con 1 \\&bCircuito di Controllo Elite\\&r per creare il \\&dCircuito di Controllo Ultimo\\&r!"
+    ],
+    "quest.06210B6FD0F9989B.title": "\\&d\\&l: Livello Supremo",
+    "quest.0650996C7818ADB5.quest_desc": [
+        "Il generatore \\&6\\&l ha 2 modalità per generare \\&a energia\\&r.\n\nPassiva: Posizionando una \\&cLava Source\\&r attorno al generatore, o utilizzando blocchi che scorrono, si crea \\&a energia\\&r grazie alla produzione di \\&6 calore\\&r.\nPosiziona un \\&cLava Source Block\\&r sopra e lascia che scorra sui lati.\nAssicurati di collegare prima le \\&bPipes\\&r!\n\nAttiva: Inserendo materiali combustibili come \\&0Carbone\\&r o \\&6Legno\\&r nel generatore, si accenderà il combustibile per creare \\&c energia\\&r.\nOra produce 320 FE\/t."
+    ],
+    "quest.0650996C7818ADB5.quest_subtitle": "Energia di base",
+    "quest.0650996C7818ADB5.title": "\\&6\\&Generatore di calore",
+    "quest.07084582F9562740.quest_desc": [
+        "\\&5\\&lMekanism\\&r dispone di alcuni macchinari specificamente progettati per la colorazione! \\n\\n Ci sono 3 macchinari che dovremo utilizzare, e nell'ordine corretto. \\n\\nIl \"Pigment Extractor\" estrarrà il colore dai blocchi e lo trasformerà in un pigmento. I pigmenti sono sostanze chimiche, e vengono utilizzati nello stesso modo di altre sostanze chimiche: vengono trasportati attraverso tubi e conservati in contenitori. \\n\\nIl \"Pigment Mixer\" combinerà 2 pigmenti per creare un nuovo pigmento. Questo può anche creare nuovi colori specifici per \\&5\\&lMekanism\\&r \\&eOggetti\\&r! \\n\\nLa \"Painting Machine\" applicherà i pigmenti sui blocchi e sugli oggetti che possono essere colorati, proprio come fa la \"Painting Machine\" in \\&2\\&lVanilla\\&r!"
+    ],
+    "quest.07084582F9562740.title": "\\&cD\\&ey\\&ae\\&bs\\&r e Pigmenti",
+    "quest.081DC030A0546549.quest_desc": [
+        "\\&2Bio Fuel\\&r è prodotto schiacciando \\&2Piante\\&r! Ogni tipo di \\&2Piante\\&r fornisce una quantità diversa. \\n\\n\\&6Torta di zucca\\&r fornisce la maggiore quantità di \\&2Bio Fuel\\&r, ma \\&aFettine di melone\\&r sono le più efficienti. \\n\\n\\&2Bio Fuel\\&r può essere utilizzato in molti modi diversi! Possiamo \\&aAlimentare\\&r un \\&2Generatore bio\\&r, \\&9\\&lInfondere\\&r oggetti con \\&2Combustibile bio\\&r, o..."
+    ],
+    "quest.081DC030A0546549.title": "\\&4: Macinatura e 2 piante per ottenere 2 biocarburanti",
+    "quest.08DDE018A804BFE7.quest_desc": [
+        "La \\&d\\&lCamera di \\&lArricchimento\\&r arricchirà gli \\&eOggetti\\&r che la attraversano. Basta posizionare gli \\&eOggetti\\&r nelle \\&4Slot Rosse\\&r e gli \\&dOggetti\\&r arricchiti usciranno dalle \\&9Slot Blu\\&r.\n\nCosa significa un \\&dOggetto\\&r arricchito? O cosa succede quando un \\&eOggetto\\&r viene \\&dArricchito\\&r? Possiamo ottenere più \\&eOggetti\\&r, oppure possiamo modificare gli \\&eOggetti\\&r stessi!\n\nPossiamo ottenere 2 polveri da 1 pietra. Possiamo ottenere più coloranti da un singolo fiore. Possiamo persino modificare le \\&6Pietre di rame\\&r o rimuovere \\&2Muschio\\&r dalle \\&7Pietre di Cobblestone\\&r!\n\nCon le fasi successive delle \\&d\\&lCamere di \\&lArricchimento\\&r, otteniamo anche più \\&dSlot\\&r per arricchire più \\&eOggetti\\&r contemporaneamente.\n\nInoltre, otteniamo la possibilità di ordinare automaticamente. Premendo questo pulsante, possiamo impostare il sistema in modo che gli \\&eOggetti\\&r vengano distribuiti in modo uniforme in ogni \\&dSlot\\&r, rendendo la \\&dMacchina\\&r più efficiente."
+    ],
+    "quest.08DDE018A804BFE7.quest_subtitle": "Trasforma i minerali grezzi in polvere",
+    "quest.08DDE018A804BFE7.title": "Camera di arricchimento",
+    "quest.090B564935D7A8F5.quest_desc": [
+        "Non vi piace dover aggiornare le vostre macchine utilizzando gli oggetti? Invece, potete semplicemente utilizzare gli oggetti!\n\nCon gli \"Installer\" di livello, potete semplicemente utilizzare l'oggetto per aggiornare le macchine.\n\nMettete l'Installer di livello \"Basic\" su una macchina predefinita per aggiornarla a \"Basic\".\n\nNo, non potete saltare gli aggiornamenti. Non potete trasformare un \"Basic\" in \"Ultimate\" con un singolo installer."
+    ],
+    "quest.090B564935D7A8F5.title": "\\&lTier\\&r Installatori",
+    "quest.09830BB2A23E94B4.quest_desc": [
+        "Alcuni dispositivi, come il \"Metallurgic Infuser\" e l'\"Chemical Injector\", utilizzeranno sostanze chimiche, in particolare per aggiungere proprietà agli oggetti. \\n\\nIn questo modo, sarà possibile utilizzare meno sostanze chimiche per ottenere gli stessi risultati! \\n\\nNon posso garantire che funzionerà con ogni tipo di oggetto e dispositivo. E no, non sto testando con ogni singolo dispositivo."
+    ],
+    "quest.09830BB2A23E94B4.title": "\\&cChimica \\&8Aggiornamento",
+    "quest.0AA9EF3981E9BA37.quest_desc": [
+        "\\&aBlocchi di Energia\\&r non contengono abbastanza \\&aEnergia\\&r? Allora, avrete bisogno di \\&aBlocchi di Energia\\&r!\n\n\\&aBlocchi di Energia\\&r possono contenere \\&aEnergia\\&r in entrata e in uscita. Ogni blocco ha una quantità di spazio predefinita per l' \\&aEnergia\\&r, che dipende dal suo livello.\n\nTutti i lati di un \\&aBlocco di Energia\\&r possono contenere o rilasciare \\&aEnergia\\&r, a seconda che i cavi siano in posizione di spinta o di trazione.\n\n\\&aBase\\&r: può contenere 1,6 mFE.\n\n\\&aAvanzato\\&r: può contenere 6,4 mFE.\n\n\\&aElite\\&r: può contenere 25,6 mFE.\n\n\\&aUltimo\\&r: può contenere 102,4 mFE."
+    ],
+    "quest.0AA9EF3981E9BA37.title": "\\& Energia in cubi",
+    "quest.0ACE573560A19309.quest_desc": [
+        "Quasi tutte le macchine \\&5 utilizano l'energia, e quando ne abbiamo decine... ciò ha sicuramente un impatto sulle nostre reti.\n\nSe aggiungiamo gli aggiornamenti dell'energia, le macchine \\&5 svolgeranno la stessa funzione, ma richiedendo meno energia!\n\nSperiamo solo di poterli applicare alle macchine \\&d\\&lS.P."
+    ],
+    "quest.0ACE573560A19309.title": "\\&aEnergia \\&8Aggiornamento",
+    "quest.0E175356D43E6A10.quest_desc": [
+        "Bene, bene, ora abbiamo l'idrogeno e il cloro. Cosa altro ci serve per produrre acido cloridrico? Sì, l'idrogeno!\n\nVersiamo dell'acqua in un separatore elettrolitico, come nel primo livello, per ottenere idrogeno e ossigeno. Questa volta, dobbiamo conservare l'idrogeno.\n\nCon il nostro infusore chimico, possiamo combinare idrogeno e cloro per produrre acido cloridrico.\n\nVersiamo l'acido cloridrico in una camera di iniezione chimica per iniettare i minerali e ottenere frammenti.\n\n4 blocchi di minerali daranno 4 frammenti di minerali, mentre 3 minerali grezzi daranno 8 frammenti di minerali.",
+        "{image:atm:textures\/questpics\/mek\/mek_tier3_2.png width:150 height:100 align:center}"
+    ],
+    "quest.0E175356D43E6A10.quest_subtitle": "Lavorazione di materie prime di terza categoria",
+    "quest.0E175356D43E6A10.title": "\\&cIniezione di acido cloridrico",
+    "quest.0F326EEEC2EBE4E5.quest_desc": [
+        "Utilizzando la camera di arricchimento \\&d\\&l, è possibile \\&dEnrichare\\&r gli \\&eOggetti\\&r per convertirli in varianti \\&dArricchite\\&r.",
+        "",
+        "Questi elementi arricchiti forniscono 8 volte la quantità di MB (unità di misura) nell'infusore metallurgico.",
+        "",
+        "\\&dMateriale arricchito\\&r aiuterà a produrre più \\&8acciaio\\&r. \\&dMateriale arricchito\\&r aiuterà con \\&cleghe di leghe\\&r e \\&a circuiti di controllo di base\\&r. E \\&dMateriale arricchito\\&r aiuterà a creare \\&doggetti di ultima generazione!"
+    ],
+    "quest.0F326EEEC2EBE4E5.quest_subtitle": "Migliorate prima i vostri prodotti!",
+    "quest.0F326EEEC2EBE4E5.title": "\\& Articoli arricchiti",
+    "quest.109310AF19AAC482.quest_desc": [
+        "Lo \\&4Flamethrower\\&r è uno dei \\&5Armi a distanza\\&l offerti da \\&5Mekanism\\&r.\n\nCome il \\&cJetpack\\&r, utilizza l'idrogeno come combustibile e viene caricato nello stesso modo del \\&cJetpack\\&r.\n\nPossiamo premere (N) per cambiare le sue modalità.\n\n\\&eCombattimento\\&r: accende i mostri e infligge danni, ma non brucia blocchi o oggetti.\n\\&6Calore\\&r: da quello che posso capire, può fare solo questo.\n\n\\&4Inferno\\&r: brucia tutto!"
+    ],
+    "quest.109310AF19AAC482.title": "\\&4Lanciafiamme",
+    "quest.119BED334E331C25.quest_desc": [
+        "Il primo e più semplice processo prevede l'utilizzo di soli 2 macchine: i macchinari per l'arricchimento e i macchinari per la fusione!\n\nPossiamo utilizzare i blocchi di minerale per ottenere il doppio della polvere, in modo da ottenere 1\/3 in più. Quindi, 3 blocchi di minerale per ottenere 4 volte la polvere.\n\nMetti i blocchi di minerale nel macchinario per l'arricchimento e otterrai la polvere! Quindi, fonda la polvere nel macchinario per la fusione per ottenere le lingote!\n\nCongratulazioni, hai appena completato il processo!",
+        "{image:atm:textures\/questpics\/mek\/mek_tier1_1.png width:150 height:50 align:center}"
+    ],
+    "quest.119BED334E331C25.quest_subtitle": "Lavorazione delle materie prime di livello 1",
+    "quest.119BED334E331C25.title": "\\&dEnrich \\&fthen \\&6Smelt",
+    "quest.120572510F525930.quest_desc": [
+        "L'impianto di evaporazione termica è una struttura composta da più blocchi che utilizza l'acqua e il calore per produrre sale da tavola. Inoltre, utilizzerà il calore per trasformare il sale da tavola in litio liquido!\n\nPer iniziare, avrai bisogno di molti blocchi di evaporazione termica. La struttura è di dimensioni 4x4 e può essere composta esclusivamente da blocchi di evaporazione termica.\n\nLe pareti devono essere almeno alte 3 blocchi e al massimo 18. L'interno e la parte superiore devono essere vuote, come nella maggior parte delle strutture composte da più blocchi. L'acqua e il sale da tavola devono essere posizionati in un luogo.\n\nAll'interno delle pareti (non negli angoli), possiamo posizionare i nostri valvole e il controller! Il controller è il modo per accedere all'interfaccia utente dell'impianto di evaporazione termica. Da lì, possiamo visualizzare la quantità di calore presente. Avremo bisogno di un solo controller.\n\nLe valvole sono utilizzate per spostare l'acqua e il sale da tavola, e il sale da tavola e il litio liquido. Non è necessario configurare le valvole, ma è necessario configurare i tubi e i conduttori.\n\nLa parte superiore dell'impianto non può essere occupata da blocchi di evaporazione termica. Tuttavia, se desideri più calore, puoi aggiungere generatori solari avanzati negli angoli della parte superiore.",
+        "{@pagebreak}",
+        "{image:atm:textures\/questpics\/mek\/mek_thermal1.png width:125 height:100 align:center}",
+        "Crea una struttura 4x4 utilizzando i blocchi termici \"\\&6\".",
+        "{image:atm:textures\/questpics\/mek\/mek_thermal2.png width:125 height:100 align:center}",
+        "Questa sezione può avere qualsiasi dimensione, purché l'impianto di evaporazione termica (indicato come \"\\&6Thermal Evaporation Plant\\&r\") sia alto tra 3 e 18 blocchi. È anche qui che posizioniamo le nostre valvole e i controllori (indicati come \"\\&6Valves \\&fand \\&6Controllers\\&r\").",
+        "{image:atm:textures\/questpics\/mek\/mek_thermal3.png width:110 height:100 align:center}",
+        "Gli angoli devono essere vuoti o contenere i generatori solari avanzati.",
+        "{image:atm:textures\/questpics\/mek\/mek_thermal4.png width:110 height:100 align:center}",
+        "Capirà che l'apparecchio è correttamente posizionato quando la luce del \\&6Controller\\&r si accende!"
+    ],
+    "quest.120572510F525930.title": "\\&6\\&Impianto di evaporazione termica",
+    "quest.162CE44400A63575.quest_desc": [
+        "Il primo e più importante strumento è il \"\\&9\\&lInfusore Metallurgico\\&r\"!\n\nL' \"\\&9\\&lInfusore Metallurgico\\&r\" combinerà un \"\\&eOggetto\\&r\" e \"\\&cProdotti Chimici\\&r\" per creare nuovi \"\\&eOggetti\\&r\" e leghe.\n\nI \"\\&cProdotti Chimici\\&r\" per \"\\&aTipi di Infusione\\&r\" saranno presenti nella \"\\&eCasella Gialla\\&r\" e appariranno nella \"\\&eBarra\\&r\" a sinistra.\n\nLa \"\\&eCasella Rossa\\&r\" conterrà l'oggetto da infondere.\n\nLa \"\\&eCasella Blu Scuro\\&r\" sarà il luogo in cui il prodotto verrà depositato!\n\nA destra, la \"\\&aFascia Verde Chiaro\\&r\" e la \"\\&aBarra\\&r\" sono per \"\\&aEnergia\\&r\"!\n\nSe hai bisogno di liberare spazio nella \"\\&eBarra Prodotti Chimici\\&r\", utilizza il pulsante \"\\&lDUMP\\&r\". Questo rimuoverà tutti i \"\\&aProdotti Chimici\\&r\" presenti!"
+    ],
+    "quest.162CE44400A63575.quest_subtitle": "La macchina di partenza",
+    "quest.162CE44400A63575.title": "\\&9\\&Infusore per metallurgia",
+    "quest.166971866A9234C7.quest_desc": [
+        "Uno degli 3 oggetti più importanti da creare è l'\"Alluminio Infuso\".\n\nPer realizzarlo, avremo bisogno di infondere un \"Ingotto di rame\" con 10m di \"Redstone\".\n\nCome otteniamo 10m di \"Redstone\", mi chiedo? Posizionando un \"Oggetto di Redstone\" nell'\"Angolo Quadrato Giallo\" del \"Infusore Metallurgico\"!\n\nPerderemo l'\"Oggetto di Redstone\" e diversi oggetti di \"Redstone\" forniscono quantità diverse. \"Polvere di Redstone\" fornisce 10m, \"Redstone potenziato\" fornisce 80m, e un \"Blocco di Redstone\" fornisce 90m."
+    ],
+    "quest.166971866A9234C7.quest_subtitle": "L'alleaggio di base per la creazione di oggetti",
+    "quest.166971866A9234C7.title": "\\&cLegatura di lega",
+    "quest.1796E08BBDC09B84.quest_desc": [
+        "\\&b\\&lI contenitori \\&cDynamic \\&cTanks\\&r sono contenitori multifunzionali che possono essere realizzati in qualsiasi dimensione, purché siano almeno 3x3x3! \\n\\n\\&b\\&lI contenitori \\&cDynamic \\&cTanks\\&r possono contenere grandi quantità di \\&bFluido \\&per \\&cChimici\\&r. Quanti contenitori di \\&bFluido \\&per \\&cChimici\\&r possono contenere i \\&c\\&lTank\\&r? Dipende dalle dimensioni. \\n\\n\\&b\\&lI contenitori \\&cDynamic \\&cTanks\\&r sono realizzati con \\&bBlocchi di contenitore \\&cDynamic \\&cTank\\&r, con l'interno della struttura vuoto. Le pareti possono essere realizzate con vetro di struttura o di reattore, ma la struttura dovrà essere realizzata con \\&bBlocchi di contenitore \\&cDynamic \\&cTank\\&r. \\n\\nAvrete anche bisogno di \\&bPorte di contenitore \\&cDynamic \\&cTank\\&r nelle pareti per poter effettivamente prelevare e depositare fluidi e sostanze chimiche. Se prelevano o depositano dipende da come funzionano."
+    ],
+    "quest.1796E08BBDC09B84.title": "\\&b\\&l Serbatoi multifunzionali dinamici",
+    "quest.18783C62009934DB.quest_desc": [
+        "L'\\&9\\&lSeparatore Elettrolitico\\&r utilizzerà un \\&bFluido\\&r e lo dividerà in 2 \\&cSostanze Chimiche\\&r! \\n\\nIl \\&bFluido\\&r andrà nella \\&4barra Rossa\\&r e le \\&cSostanze Chimiche\\&r appariranno nelle \\&9barre Blu e Ciano\\&r. \\n\\nAbbiamo anche due pulsanti su ciascun lato inferiore dell'interfaccia. Questi permetteranno di alternare le funzioni delle due barre di output. \\n\\n\"Idle\" raggiungerà semplicemente il limite massimo e non prenderà altro. Quindi, se è pieno di idrogeno, non utilizzerà più l'acqua. \\n\\n\"Dumping Excess\" raggiungerà la parte superiore, ma ne rilascerà abbastanza per continuare a produrre ciascuna \\&cSostanza Chimica\\&r. Questo è utile per chi ha bisogno di molta \\&bOssigeno\\&r, ma non di idrogeno. \\n\\n\"Dumping\" eliminerà tutte le \\&cSostanze Chimiche\\&r prodotte."
+    ],
+    "quest.18783C62009934DB.title": "\\&9\\& Separatore elettrolitico",
+    "quest.1922623A26E08078.quest_desc": [
+        "Come i serbatoi \\&bFluid Tanks\\&r, ma senza il liquido! Vogliamo tutto il resto!\n\nTutti i serbatoi \\&cPressurized Tubes\\&r possono essere spostati, e il serbatoio \\&cChemical Tank\\&r può contenere il liquido.\n\n\\&a\\&lBasic\\&r: conterrà 64 contenitori di prodotti chimici.\n\n\\&c\\&lAdvanced\\&r: conterrà 256 contenitori di prodotti chimici.\n\n\\&b\\&lElite\\&r: conterrà 1.024 contenitori di prodotti chimici.\n\n\\&d\\&lUltimate\\&r: conterrà 8.192 contenitori."
+    ],
+    "quest.1922623A26E08078.title": "E altri contenitori chimici",
+    "quest.19341B01E048ACAB.quest_desc": [
+        "\\&a\\&lLivello Base\\&r è il più semplice, economico e di qualità inferiore tra tutti i \\&5Macchine\\&r e i Blocchi!\n\nOvviamente, a meno che non si consideri l'insieme delle \\&5Macchine\\&r come un nuovo \\&lLivello\\&r, ma io non lo faccio. Lo considero semplicemente come \\&a\\&lBase\\&r.\n\nLe \\&5Macchine\\&r inizieranno con le impostazioni predefinite e potranno essere aggiornate a \\&a\\&lBase\\&r. Allo stesso modo, i blocchi come \\&bPipes\\&f e \\&aEnergy Cubes\\&r inizieranno con le impostazioni \\&a\\&lBase\\&r.\n\nTutti questi componenti sono realizzati con \\&4Redstone\\&f, \\&aBasic Control Circuits\\&f, e a volte anche con \\&7Iron\\&r!"
+    ],
+    "quest.19341B01E048ACAB.title": "Livello base",
+    "quest.195729280394ABFB.quest_desc": [
+        "La macchina \\&7\\&l crea due lingotti molto resistenti: \\&eGlosstone raffinato\\&f e \\&5Obsidiano raffinato\\&r.\n\nPermette di infondere un \\&eOggetto\\&r con \\&7Osmio\\&r per creare un lingotto più potente.\n\nDovremo posizionare \\&7Lingotti di Osmio\\&f, \\&7Blocchi di Osmio\\&f, o un \\&cSerbatoio chimico\\&f con \\&7Chimica a base di Osmio\\&r, per alimentare la \\&l\\&7Compressore\\&r con \\&7Osmio\\&r!"
+    ],
+    "quest.195729280394ABFB.quest_subtitle": "Funziona davvero solo per due cose.",
+    "quest.195729280394ABFB.title": "\\&7\\&Compattatore di Osmium",
+    "quest.1ABD22AA58E093A6.quest_desc": [
+        "Solo i migliori materiali, combinati con le migliori macchine, daranno i migliori risultati.\n\nUtilizzate gli oggetti \"Ultimate\" per creare queste macchine e molto altro!\n\nSì, desidererete queste macchine, sono un investimento valido in termini di tempo e materiali!"
+    ],
+    "quest.1ABD22AA58E093A6.title": "Alcune delle migliori macchine!",
+    "quest.1AEFF93A398B8BBF.quest_desc": [
+        "\\&b\\&lLivello Elite\\&r segue direttamente \\&c\\&lLivello Avanzato\\&r. Hanno gli stessi bonus di \\&c\\&lLivello Avanzato\\&r… ma in più!\n\n\\&b\\&lLivello Elite\\&r sono realizzati con \\&bLeghe Rinforzate\\&f, \\&bCircuiti di Controllo Elite\\&f, e spesso anche \\&eLingotti d'Oro\\&r.\n\nÈ possibile ottenere \\&bLeghe Rinforzate\\&r infondendo una \\&cLegge Infondata\\&r con 20mb di \\&bDiamanti\\&r. Ciò equivale a 2 \\&bPolvere di Diamante\\&r o a 1\/4 di \\&bDiamante Arricchito\\&r!\n\nSuccessivamente, è possibile utilizzare queste \\&bLeghe Rinforzate\\&r (2 unità) con un \\&cCircuito di Controllo Avanzato\\&r per creare il \\&bCircuito di Controllo Elite\\&r."
+    ],
+    "quest.1AEFF93A398B8BBF.title": "\\&b\\&l Livello Elite",
+    "quest.1F8B4F648EB5A0DC.quest_desc": [
+        "Preferite i contenitori a cassetto? Vi piacciono meglio le borse da viaggio? Allora avrete bisogno di un contenitore\/barril personale!\n\nEntrambi funzioneranno esattamente allo stesso modo. Dopo averli creati, cliccate con il tasto destro per assegnarvi come proprietario.\n\nSolo voi potrete aprire questo contenitore\/barril. Sì, e inoltre, potete aprirlo sia dal vostro inventario, sia semplicemente posizionandolo come fareste con un contenitore\/barril normale.\n\nHa 54 scomparti, ma senza possibilità di aggiornamento..."
+    ],
+    "quest.21D8B88155648EA6.quest_desc": [
+        "Capito, sappiamo tutti a cosa servono queste macchine... \\&5\\&MACHINES\\&r!\n\nLe \\&5MACHINES\\&r sono le nostre piccole fabbriche, ognuna svolgerà un compito unico per aiutarci ad ottenere più \\&eItems\\&r. Seguite le singole missioni per scoprire cosa fa ciascuna. \n\nQui parlerò più nel dettaglio delle configurazioni e degli \\&8Upgrades\\&r!",
+        "{@pagebreak}",
+        "Tutte le macchine sono diverse, ma i colori delle fessure e delle barre indicheranno la loro funzione!\n\n*   **Verde chiaro:** Energia\n*   **Rosso:** Oggetto\/Fluido\/Chimica iniziale\n*   **Blu:** Prodotto\n*   **Ciano:** Secondo prodotto\n*   **Giallo:** Tipi di infusione\n\nOgni macchina ha delle configurazioni predefinite. Queste sono le fessure in cui verranno inseriti e prelevati gli oggetti. È possibile modificarle nell'interfaccia utente della macchina, nelle configurazioni delle fessure.\n\nQuesto si applica a oggetti, fluidi, sostanze chimiche ed energia, ma ogni categoria ha fessure simili che possono essere modificate.\n\n*   **Rosso:** Input\n*   **Arancione:** Secondo input\n*   **Blu:** Output\n*   **Ciano:** Secondo output\n*   **Viola:** Input e output\n*   **Verde chiaro:** Energia\n*   **Giallo:** Extra, come tipi di infusione\n\nPer far sì che gli oggetti vengano inseriti e prelevati, è necessario impostare l'interfaccia utente in modalità \"Auto-Eject\".",
+        "{@pagebreak}",
+        "Alcune macchine possono anche utilizzare gli \"Aggiornamenti\". Questi si trovano nell'angolo in alto a destra dell'interfaccia.\n\nQui è possibile vedere quali \"Aggiornamenti\" possono essere utilizzati dalla macchina. Quando li inserisce, il sistema vi indicherà quanti ne può contenere. Gli \"Aggiornamenti\" per la velocità possono contenere più elementi, mentre quelli per il \"Muffling\" non ne necessitano."
+    ],
+    "quest.21D8B88155648EA6.title": "\\&l\\&5Macchine",
+    "quest.21F3379C904BFD50.quest_desc": [
+        "L'elemento riscaldante \\&6Resistive Heater\\&r genererà anche \\&6Calore\\&r, ma invece di utilizzare il combustibile del forno, utilizzerà \\&aEnergia\\&r!\n\nFornendo \\&aEnergia\\&r, potremo scegliere la quantità di \\&6Calore\\&r che produrrà.\n\nPiù \\&6Calore\\&r produce, più \\&aEnergia\\&r richiede!\n\nIl massimo \\&6Calore\\&r è di 9.999.999."
+    ],
+    "quest.21F3379C904BFD50.title": "\\&6Resistenza elettrica",
+    "quest.227E9783382527CA.quest_desc": [
+        "\\&cI corridori\\&r sono diversi dagli altri equipaggiamenti, e utilizzeranno l'\\&aEnergia\\&r invece del \\&cCarburante chimico\\&r.\n\nQuando sono attivati e fissati ai piedi, è possibile premere il pulsante (B) per attivare la funzione, e premendolo di nuovo è possibile cambiare le modalità.\n\n\\&2Standard\\&r: gli \\&cI corridori\\&r proteggeranno da danni dovuti alla caduta e permetteranno di saltare automaticamente sopra gli ostacoli.\n\n\\&6Sicurezza\\&r: impediranno danni dovuti alla caduta, ma non permetteranno di saltare automaticamente. (Il metodo preferito).\n\n\\&4Disabilitati\\&r: gli \\&cI corridori\\&r non offriranno protezione né permetteranno di saltare automaticamente, ma saranno comunque eleganti!\n\nÈ inoltre possibile migliorare gli \\&cI corridori\\&r per conferire loro protezione, proprio come il \\&cJetpack\\&r."
+    ],
+    "quest.227E9783382527CA.title": "E altro ancora: \"Free Runners\"",
+    "quest.24BA664B60E49461.quest_desc": [
+        "Uno degli strumenti più potenti in assoluto per Minecraft modificato! Il \\&6Scatola di Cartone\\&r!\n\nQuesti sono realizzati con ingredienti molto semplici, solo \\&6Polvere di Legno\\&r. La \\&6Polvere di Legno\\&r è ottenuta mettendo \\&7Bastoncini\\&r in una \\&e\\&l Sega di Precisione\\&r.\n\nOra che abbiamo ottenuto almeno una scatola di cartone, basta fare clic con il tasto destro su un blocco e il blocco verrà inserito nella \\&6Scatola di Cartone\\&r. Ora possiamo rompere la \\&6Scatola di Cartone\\&r e spostare il blocco, reinserendolo e facendo nuovamente clic con il tasto destro per rimuovere la scatola.\n\nAlcuni blocchi non funzioneranno, come ad esempio \\&8Bedrock\\&r o \\&dEnd Portal Frames\\&r... ma ce ne sono molti altri che funzioneranno! Ad esempio, \\&5Obsidian\\&f, \\&3Reinforced Deepslate\\&r, e Spawners!"
+    ],
+    "quest.24BA664B60E49461.title": "\\&6 Scatola di cartone",
+    "quest.27512B0434531195.quest_desc": [
+        "La \\&3Camera di iniezione chimica\\&r è un altro \\&5macchinario\\&r che combina \\&eoggetti\\&r e \\&cprodotti chimici\\&r, ma in questo caso si tratta solo di 1 \\&eoggetto\\&r più 1 \\&cprodotto chimico\\&r per creare 1 nuovo \\&eoggetto\\&r!\n\nÈ possibile ottenere \\&bVapore acqueo\\&r mettendo \\&9acqua\\&r in un \\&ccondensatore rotativo\\&r, quindi iniettare quel \\&bvapore acqueo\\&r nel corallo morto per farlo rivivere.\n\nÈ possibile ottenere \\&bossigeno\\&r da un \\&lseparatore elettrolitico\\&r e iniettare quel \\&bossigeno\\&f nel \\&6rame\\&r per ossidarlo.\n\nE, soprattutto, utilizzare \\&3acido cloridrico\\&r su blocchi di minerale per ottenere schegge di minerale per la lavorazione!"
+    ],
+    "quest.27512B0434531195.title": "\\&c\\&lCamera di iniezione chimica",
+    "quest.2A793B35FE25003C.quest_desc": [
+        "Il condensatore potrebbe trasformare i liquidi in gas, ma l'ossidante chimico può trasformare (alcuni) oggetti in gas!\n\nQuesto include tipi come il \"carbone\" in \"carbonio\".\n\nSarà necessario anche per trasformare spazzole usate e spazzole in \"materiali\" chimici!\n\nGli oggetti andranno nella fessura rossa e le loro nuove forme gassose appariranno nella barra blu."
+    ],
+    "quest.2A793B35FE25003C.title": "\\&c\\&l Chimica e ossidante",
+    "quest.2D1CBCEC82F1B37D.quest_desc": [
+        "Il \\&6Riscaldatore a legna\\&r genererà \\&6calore\\&r utilizzando combustibili per focolari.\n\nLegna, \\&0carbone\\&f, \\&0carbone di legna\\&r, persino spade di legno!\n\nNon posso dirti quanto possa diventare \\&6caldo\\&r, ma capirai che è \\&6riscaldato\\&r dal cambiamento del colore del \\&6riscaldatore\\&r!"
+    ],
+    "quest.2D1CBCEC82F1B37D.title": "\\&6Stufa a legna",
+    "quest.2EA0C74AE7366656.quest_desc": [
+        "L'\\&aTeletrasportatore Portatile\\&r ti permetterà di teletrasportarti a qualsiasi \\&aTeletrasportatore\\&r (alimentato).\n\nNaturalmente, avrà bisogno anche di \\&aEnergia\\&r, quindi dovrai ricaricarlo. Inoltre, fai clic con il tasto destro per assegnarlo a te per motivi di sicurezza.\n\nUna volta ricaricato e assegnato a te, puoi fare clic con il tasto destro per aprire la sua interfaccia utente. Da qui, puoi selezionare qualsiasi rete e premere il pulsante di teletrasporto per teletrasportarti a quella \\&aTeletrasportatore\\&r.\n\nNo, non è possibile teletrasportarsi a \\&aTeletrasportatore Portatile\\&r, è un oggetto..."
+    ],
+    "quest.2EA0C74AE7366656.title": "\\& Trasportatore portatile",
+    "quest.31B73D16C0199785.quest_desc": [
+        "Mettete il \"Polvere di ossidiana raffinata\" in un \"Compressore di ossidio\" e comprimete l'ossidio!\n\nCredo che sia così che funziona il \"Compressore di ossidio\".\n\nOra avremo \"Lingotti di ossidio raffinato\", che possono essere utilizzati per creare altre macchine o persino strumenti e armature!"
+    ],
+    "quest.31B73D16C0199785.title": "\\&5Obsidian raffinato",
+    "quest.33415CB421F7620A.quest_desc": [
+        "La \\&b\\&lCamera di Purificazione\\&r è tecnicamente un aggiornamento della \\&d\\&lCamera di Arricchimento\\&r. Tuttavia, perde molte funzioni, ma migliora il processo di \\&lEstrazione\\&r!\n\nIn pratica, fa solo questo: combina \\&7Minerali\\&r con \\&bOssigeno\\&r per ottenere più lingotti!\n\nIn realtà, non produce lingotti, ma crea dei \\&7Blocchi\\&r... per saperne di più, consultate la quest relativa a \\&lEstrazione\\&r!"
+    ],
+    "quest.33415CB421F7620A.title": "Camera di purificazione",
+    "quest.33C69B5934BE4D64.quest_desc": [
+        "\\&bTubazioni meccaniche\\&r trasporteranno \\&bfluidi\\&r. Esatto! Non solo \\&9acqua\\&r!\n\n\\&bLe tubazioni meccaniche\\&r sono realizzate con 2 \\&8 lingotti di acciaio\\&r e 1 \\&7 secchio vuoto\\&r. Vengono anche potenziate nello stesso modo delle \\&eTrasporti logistici\\&r.\n\n\\&a\\&lBase\\&r: possono contenere 2 secchi di fluidi e trasportare 250m³ di fluido ogni tick.\n\n\\&c\\&lAvanzato\\&r: possono contenere 8 secchi di fluidi e trasportare 1 secchio di fluido ogni tick.\n\n\\&b\\&lElite\\&r: possono contenere 32 secchi di fluido e trasportare 8 secchi ogni tick.\n\n\\&d\\&lUltimo\\&r: possono contenere 128 secchi e trasportare 32 secchi ogni tick."
+    ],
+    "quest.33C69B5934BE4D64.quest_subtitle": "Liquidi",
+    "quest.33C69B5934BE4D64.title": "\\&bTubature meccaniche",
+    "quest.376532CD98D39781.quest_desc": [
+        "\\&c\\&lChemical Infuser\\&r combinerà 2 diversi \\&cChemicals\\&r...\n\nQuesto non è utile nelle prime fasi, ma sarà molto importante in seguito!\n\nInnanzitutto, il primo \\&cChemical\\&r va inserito nella \\&4Barra Rossa\\&r a sinistra, e il secondo \\&cChemical\\&r va inserito nella \\&6Barra Arancione\\&r a destra.\n\nSì, l'ordine in cui vengono inseriti è importante. L'ho imparato a mie spese in \\&6\\&l9TTS\\&r!"
+    ],
+    "quest.376532CD98D39781.title": "\\&c\\&l Infusore chimico",
+    "quest.37D4E5ACB35D8BF1.quest_desc": [
+        "Il meccanismo \\&5\\&lMekanism\\&r e il \\&cJetpack\\&r funzionano in modo simile ai \\&l\\&7Iron Jetpacks\\&r, ma con modalità diverse e richiedono idrogeno come carburante invece di \\&aEnergia\\&r!\n\nBasta inserire dell'idrogeno nel \\&cJetpack\\&r utilizzando una \\&5Macchina\\&r che lo contiene. Incredibilmente, anche il \\&9\\&lSeparatore Elettrolitico\\&r contiene idrogeno quando è presente dell'\\&bOssigeno\\&r!\n\nUna volta indossato, è possibile premere (G) per passare tra le modalità.\n\n\\&4Normale\\&r: tenere premuto il tasto Salto per andare su, si muoverà in qualsiasi direzione premendo i tasti WASD e se non si premono, si andrà solo su. Rilasciando il tasto Salto, si cadrà.\n\n\\&bVolo\\&r: controlli uguali a quelli predefiniti, ma con movimenti più lenti e senza cadere quando si rilascia il tasto Salto. Si può abbassare premendo (Shift).\n\n\\&6Vettore\\&r: non risponde ai comandi WASD, ma si muove nella direzione in cui il giocatore sta guardando quando si tiene premuto il tasto Salto per andare su.\n\n\\&4Disabilitato\\&r: non funziona!\n\nA proposito, è possibile migliorare il \\&cJetpack\\&r con alcuni blocchi e oggetti per ottenere una protezione!"
+    ],
+    "quest.37D4E5ACB35D8BF1.quest_subtitle": "Necessita di idrogeno per funzionare!",
+    "quest.37D4E5ACB35D8BF1.title": "e altro",
+    "quest.3AF1DC02E9A0010C.quest_desc": [
+        "\\&cTubi pressurizzati\\&r possono spostare praticamente qualsiasi cosa che gli altri tubi non possono! \\&cProdotti chimici\\&f, \\&cpigmenti\\&f e \\&ctipi di infusione\\&r vengono tutti spostati utilizzando \\&ctubi pressurizzati\\&r.\n\nPer spostare \\&cprodotti chimici\\&r all'interno delle \\&5macchine\\&r, tuttavia, dovremo modificare le impostazioni all'interno delle \\&5macchine\\&r. Queste si trovano nell'angolo in alto a sinistra dell'interfaccia utente della macchina, sotto \"Impostazioni laterali\". Dovranno essere impostate su \"Eject Automatico\" per l'uscita!\n\nPossono essere create utilizzando 2 \\&8lingotti di acciaio\\&r e un pezzo di vetro, qualsiasi tipo di vetro! Quindi, possono essere migliorate con 8 \\&c tubi\\&r e un circuito di controllo.\n\n\\&a\\&lBase\\&r: può contenere 4 secchi di prodotti chimici e spostare 750 MB di prodotti chimici ogni tick.\n\\&c\\&lAvanzato\\&r: può contenere 16 secchi di prodotti chimici e spostare 2 secchi di prodotti chimici ogni tick.\n\\&b\\&lElite\\&r: può contenere 256 secchi di prodotti chimici e spostare 64 secchi ogni tick.\n\\&d\\&lUltimo\\&r: può contenere 1.024 secchi e spostare 256 secchi ogni tick."
+    ],
+    "quest.3AF1DC02E9A0010C.quest_subtitle": "Prodotti chimici, pigmenti, tipi di impregnazione",
+    "quest.3AF1DC02E9A0010C.title": "\\&c Tubi pressurizzati",
+    "quest.3C8D9278B81BB37A.quest_desc": [
+        "Non abbiamo tutto il tempo del mondo, quindi mettiamoci al lavoro! \\n\\nI reattori non aspettano all'infinito!"
+    ],
+    "quest.3C8D9278B81BB37A.title": "\\&eSpeed \\&8Aggiornamento",
+    "quest.424B3E3B299D3999.quest_desc": [
+        "Lo strumento \"Gauge \\& Dropper\" è uno strumento utile per svuotare le \"inventarie chimici\".\n\nNell'interfaccia utente (GUI) della \"macchina\", prelevate lo strumento \"Gauge \\& Dropper\" e trascinatelo sopra le \"sostanze chimiche\" nell'interfaccia. Quindi, cliccate semplicemente con il tasto destro e le \"sostanze chimiche\" verranno rimosse e aggiunte al \"Gauge \\& Dropper\".\n\nAvrei dovuto specificare che non è possibile recuperare le \"sostanze chimiche\" dal \"Gauge \\& Dropper\". Possiamo svuotarlo solo cliccando con il tasto destro sull'oggetto."
+    ],
+    "quest.424B3E3B299D3999.title": "Misuratore e sistema di dosaggio",
+    "quest.4274E777FB60BA28.quest_desc": [
+        "«E\\&lPads di ricarica» ricaricheranno tutti gli oggetti del giocatore non appena questo entrerà in contatto con l'\\&lPad!\n\nOvviamente, avrà bisogno di \\&aEnergia\\&r per funzionare. Possiamo aggiungerla sul retro o sul fondo dell'\\&lPad di ricarica.\n\nUna volta che avrà \\&aEnergia\\&r, ricaricherà ogni oggetto nel tuo inventario che può contenere energia!\n\nNon importa da quale mod provenga!\n\nPrioritizzerà i primi oggetti nel tuo inventario e, una volta pieno, ricaricherà il successivo.\n\nSembra che il tempo necessario per ricaricare ogni oggetto sia lo stesso."
+    ],
+    "quest.4274E777FB60BA28.title": "\\&a\\&l Targhetta",
+    "quest.445CC9AAA6F8AAB6.quest_desc": [
+        "Per la prossima fase di lavorazione dei minerali, avremo bisogno di \\&bPurifiers\\&r e avremo bisogno di \\&bOxygen\\&r. Quindi, iniziamo a produrre \\&bOxygen\\&r!\n\nUtilizzate una \\&9\\&lElectric Pump\\&r o qualsiasi sistema automatizzato per fornire \\&9Water\\&r a un \\&9\\&lElectrolytic Separator\\&r.\n\nUna volta fornito l'energia e l'acqua, l'\\&9\\&lElectrolytic Separator\\&r convertirà l'acqua (H2O) in H (Idrogeno) e O (\\&bOxygen\\&r)!\n\nPossiamo quindi raccogliere l'idrogeno e inviare l'ossigeno al \\&b\\&lPurifier\\&r.\n\nOra che il \\&b\\&lPurifier\\&r ha l'ossigeno, possiamo inserire i nostri \\&7Ores\\&r per ottenere 3 \\&7Ore Clumps\\&f dai \\&7Ore Blocks\\&f o 2 \\&7Ore Clumps \\&ffrom \\&7Raw Ore\\&r.",
+        "{image:atm:textures\/questpics\/mek\/mek_tier2_1.png width:100 height:100 align:center}"
+    ],
+    "quest.445CC9AAA6F8AAB6.quest_subtitle": "Elaborazione di materie prime di secondo livello",
+    "quest.445CC9AAA6F8AAB6.title": "Creazione di un purificatore d'aria con tecnologia \\&b\\&ffOxygen",
+    "quest.47E79DFD123BF617.quest_desc": [
+        "L'insieme \\&eScube\\&r è sia un elmetto che una corazza toracica che, una volta indossati, permettono di \\&9respirare sott'acqua!\n\nPer ottenere la possibilità di \\&9respirare\\&r, dobbiamo fornire all'\\&eScube Tank\\&r dell'\\&bOssigeno\\&r. Basta posizionarlo all'interno di una \\&5Macchina\\&r, come un \\&9\\&lSeparatore Elettrolitico\\&r, e si riempirà gradualmente!\n\nQuindi, indossate sia la \\&eScube Mask\\&r che l'\\&eScube Tank\\&r e premete (G) per accenderla. Una volta che l'\\&eScube Gear\\&r è attivo, utilizzerà l'\\&bOssigeno\\&r, permettendovi di \\&9respirare sott'acqua!"
+    ],
+    "quest.47E79DFD123BF617.title": "Kit per immersioni",
+    "quest.47F38E606AD3FF53.quest_desc": [
+        "Alcune ricette richiederanno polvere di \\&7! \\n\\nGrazie a \\&6\\&lAllTheOres\\&r, possiamo creare polvere di \\&7 in mille modi diversi! \\n\\nI metodi con \\&5\\&lMekanism\\&r sono l'utilizzo del \\&4\\&lCrusher\\&r e della \\&d\\&lEnrichment Chamber\\&r. \\n\\nPossiamo \\&4Frantumare\\&r \\&7Ingots\\&f in \\&7Dust\\&r. Oppure \\&dArricchire\\&r \\&7Ore Blocks\\&r per ottenere 2 \\&7Dusts\\&r."
+    ],
+    "quest.47F38E606AD3FF53.title": "E 4: Polvere!",
+    "quest.488DBE69595F38F8.quest_desc": [
+        "No, non più utilizzare il carbone per alimentare i nostri forni. Abbiamo bisogno di carbone per la produzione di acciaio!\n\nInvece, utilizzate il \"Fornello Energetico\"! Questo utilizza l'energia per fondere gli oggetti.\n\nÈ anche possibile aggiornare il fornel per contenerne più slot, proprio come un fornel di grandi dimensioni.\n\nGli aggiornamenti includeranno anche un pulsante \"Auto-Sort\", che permette alla macchina di distribuire automaticamente gli oggetti in modo uniforme tra gli slot, per una maggiore efficienza!"
+    ],
+    "quest.488DBE69595F38F8.quest_subtitle": "Il forno a combustione di Mekanism",
+    "quest.488DBE69595F38F8.title": "\\&6\\&Fornace ad alta energia",
+    "quest.4935209D870E25F2.quest_desc": [
+        "Il 90% delle macchine di \\&5\\&lMekanism\\&r richiederà energia per funzionare. \\&5\\&lMekanism\\&r utilizza il FE (Fuel Energy) per alimentare le macchine!\n\n1kFE equivale a 1000 FE, e 1mFE equivale a 1.000.000 FE!\n\nIl \"Fuel Energy Tablet\" è la versione di \\&5\\&lMekanism\\&r della batteria. Sarà inoltre necessario per la creazione della maggior parte dei generatori.\n\nSì, \\&5\\&lMekanism\\&r ha i generatori, e sì, sono fantastici!"
+    ],
+    "quest.4935209D870E25F2.title": "Potenza!",
+    "quest.4A1C8125896F7F1A.quest_desc": [
+        "Questa quest è stata realizzata da \\&6AllTheMods Staff\\&r, oppure da un \\&2contributore della community\\&r, per l'uso nei pacchetti mod di AllTheMods.\\n\\nPoiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti a \\&eTutti i diritti riservati\\&r, questa quest non può essere utilizzata in altri pacchetti pubblici, se non quelli rilasciati dal team \\&6AllTheMods\\&r, senza un'esplicita autorizzazione.\\n\\nQuesta quest è intenzionalmente nascosta. Se la vedete, significa che siete in modalità di modifica."
+    ],
+    "quest.4B35C01F5D0AAC58.quest_desc": [
+        "Ora che abbiamo il nostro \"Infusione Metallurgica\" e, speriamo, anche l'energia necessaria, possiamo iniziare a produrre il \"Ferro\"!\n\nAvremo bisogno di \"Carbonio\" nel nostro \"Laboratorio Chimico\". Possiamo utilizzare \"Carbone\", \"Carbone di Legna\" o qualsiasi variante disponibile nella \"Scheda Chimica\" per aggiungere \"Carbonio\".\n\nQuindi, se aggiungiamo un \"Lingotto di Ferro\" o \"Polvere di Ferro\" nella \"Scheda Oggetti\", questo verrà infuso con 10m di \"Carbonio\" per ottenere \"Ferro Potenziato\".\n\nDovremo ripetere questo passaggio, aggiungendo 10m di \"Carbonio\" per trasformare il nostro \"Ferro Potenziato\" in \"Polvere di Ferro\"! Fondere la \"Polvere di Ferro\" per ottenere un \"Lingotto di Ferro\".\n\nIl \"Ferro\" è utilizzato per quasi tutto! Macchine, strumenti, miglioramenti, reattori, celle energetiche! Ne avrete bisogno in grandi quantità."
+    ],
+    "quest.4B35C01F5D0AAC58.title": "\\&8Acciaio",
+    "quest.4E7823C2FCEBE4DC.quest_desc": [
+        "Semplicemente un arco normale che utilizza l'energia invece della durabilità."
+    ],
+    "quest.4E7823C2FCEBE4DC.title": "\\&3Arco elettrico",
+    "quest.4EDD96EB60EF5814.quest_desc": [
+        "Se vi state chiedendo se valga la pena effettuare questo aggiornamento, la risposta è sì.\n\nI generatori solari avanzati (\\&e\\&l\\&o) occuperanno più spazio e saranno più costosi da costruire, ma genereranno molta più energia (\\&a\\&r).\n\nFunzionano allo stesso modo dei normali generatori solari (\\&e\\&l\\&o), richiedono esposizione al \\&b\\&r cielo.\n\nPossono contenere fino a 100.000 FE!\n\nÈ inoltre possibile utilizzarli sopra le piante di evaporazione termica (\\&6\\&l\\&r) per produrre più \\&6\\&r calore."
+    ],
+    "quest.4EDD96EB60EF5814.quest_subtitle": "Produce circa 480 FE\/t",
+    "quest.4EDD96EB60EF5814.title": "\\&l\\&e\\&o Generatore solare avanzato",
+    "quest.515A60B89ED5440D.quest_desc": [
+        "\\&7Stone Generator\\&r è destinato esclusivamente all'\\&7\\&lDigital Miner\\&r.\nQuando viene utilizzato, produrrà automaticamente \\&7Stone\\&r, invece di richiedere materiali.\nUtilizzerà questi \\&7Stone\\&r per sostituire i minerali che raccoglie!"
+    ],
+    "quest.515A60B89ED5440D.title": "\\&7Generatore di pietra \\&8Aggiornamento",
+    "quest.566C1DBA9829E328.quest_desc": [
+        "Il \\&e\\&lCombiner\\&r può automatizzare ricette semplici, come quelle che richiedono due diversi ingredienti, ad esempio coloranti o fango e grano per ottenere fango compatto.\n\nPuò anche eseguire ricette più complesse, come la creazione di \\&7Gravel\\&f utilizzando \\&7Cobble\\&f e \\&0Flint\\&r, oppure la creazione di \\&5Obsidian\\&r combinando \\&5Obsidian Dust\\&f e \\&8Deepslate\\&f!"
+    ],
+    "quest.566C1DBA9829E328.title": "\\&e\\&lCombinare",
+    "quest.58B125BD4876054C.quest_desc": [
+        "\\&5\\&lMekanism\\&r è un mod tecnologico che cambierà il modo in cui giochi a \\&2\\&lMinecraft\\&r.\n\nQuesto mod si concentra sulla scomposizione dei materiali nella loro composizione chimica, e sull'ottenimento del massimo da ogni materiale che incontri.\n\nQuesto mod include jetpack alimentati dall'idrogeno, un piccolo robot amico, reattori, e un minatore digitale per automatizzare l'estrazione, e molto, molto altro.\n\nCredetemi, capirete perché è presente in quasi tutti i modpack \\&6\\&lATM\\&r!"
+    ],
+    "quest.58B125BD4876054C.quest_subtitle": "L'inizio della tua fabbrica",
+    "quest.58B125BD4876054C.title": "\\&5\\&Meccanismo",
+    "quest.5B556192F060F3F1.quest_desc": [
+        "\\&5Obsidian raffinato\\&r sarà importante per molti \\&eoggetti\\&f e \\&5macchinari\\&r all'interno di \\&5Mekanism\\&r, in particolare al \\&dlivello finale\\&r.\nInnanzitutto, dovremo \\&3macinare l'\\&5Obsidian raffinato\\&f per ottenere l'\\&5Obsidian in polvere\\&r. Ovviamente, dovremo utilizzare un \\&4\\&lmacinatore\\&r per questo.\n\nSuccessivamente, possiamo utilizzare il \\&9\\&lInfusore metallurgico\\&r per \\&9infondere\\&f l'\\&5Obsidian in polvere\\&r con \\&bDiamanti chimici\\&r. Consiglio di utilizzare \\&bDiamanti arricchiti\\&r per ottenere il massimo beneficio!\n\nOra abbiamo diverse opzioni: possiamo \\&darricchirlo\\&r per ottenere più \\&5Obsidian raffinato\\&r, oppure..."
+    ],
+    "quest.5B556192F060F3F1.title": "\\&5Polvere di ossidiana raffinata",
+    "quest.5E116409DC7D30BB.quest_desc": [
+        "Dovreste già conoscere i concetti di logistica! Questa guida sarà ora dedicata all'utilizzo dell'\\&3Configurator\\&r!\n\nPremendo il tasto Shift e scorrendo, è possibile cambiare la modalità dell'\\&3Configurator\\&r.\n\n\\&dWrench\\&r: quando viene utilizzata su una macchina o un blocco, questa la farà scomparire.\n\\&eRotate\\&r: semplicemente ruota la direzione del blocco.\n\\&4Empty\\&r: la farà funzionare come un dispositivo per rilasciare oggetti.\n\nGli altri strumenti interagiranno con l'\\&3Configurator\\&r per modificare le impostazioni delle macchine.\n\nSe la si utilizza su tubi, cambierà la loro funzione (spingere, tirare o entrambe). Può essere utilizzata su porte per impostare gli ingressi e le uscite. E persino su contenitori per impostare l'esportazione automatica sotto di essi."
+    ],
+    "quest.5E116409DC7D30BB.quest_subtitle": "Il configuratore",
+    "quest.5E116409DC7D30BB.title": "\\&5\\&Meccanismi logistici",
+    "quest.602A6CF9D5B66AD3.quest_desc": [
+        "La \"\\&5\\&lMacchina di Cristallizzazione Chimica\\&r\" è in realtà una macchina piuttosto semplice! Abbiamo solo bisogno di \"\\&cChimici\" e \"\\&aEnergia\".\n\nE sì, questa macchina non viene utilizzata solo per la \"lavorazione dei minerali\"! Anche se, in parte, lo è... ma non esclusivamente.\n\nBasta versare \"\\&7Slurry di Minerali Puliti\" nella \"\\&5\\&lMacchina di Cristallizzazione\\&r\" e otterrete \"\\&7Cristalli di Minerali\".\n\nÈ possibile anche alimentare la macchina con \"\\&dAntimateria\" per ottenere \"\\&dGranuli di Antimateria\", oppure con \"\\&6Litio\" per ottenere \"\\&6Polvere di Litio\"!"
+    ],
+    "quest.602A6CF9D5B66AD3.title": "\\&5\\&Crystallizzatore chimico",
+    "quest.603BEDD49070ECAD.quest_desc": [
+        "\\&bCondensazione\\&r consiste nel trasformare il \\&bLiquido\\&r in \\&cGas\\&r. \\&cDecondensazione\\&r consiste nel trasformare il \\&cGas\\&r in \\&bLiquido\\&r.\n\n\\&cIl \\&bCondensatore rotativo\\&r fa entrambe le cose!\n\nIl \\&cGas\\&r verrà inserito nella barra a sinistra. Può essere aggiunto tramite \\&cTubature\\&r per \\&cSerbatoi chimici\\&r che si posizionano nelle fessure a sinistra.\n\nIl \\&bLiquido\\&r verrà inserito nella barra a destra. Può anche essere aggiunto tramite \\&bPipette\\&r per \\&bSerbatoi di fluidi\\&r posizionati nelle fessure a destra.\n\nQuando alimentato, il \\&cGas\\&r diventerà \\&bLiquido\\&r, e il \\&bLiquido\\&r diventerà \\&cGas\\&r. Passerà da una barra all'altra e potrà quindi essere estratto tramite \\&cTubature\\&f\/\\&bPipette\\&r o \\&cSerbatoi chimici\/fluidi\\&r."
+    ],
+    "quest.603BEDD49070ECAD.title": "\\&c\\&lRotary \\&bCondensatore",
+    "quest.60B52705049D1BA5.quest_desc": [
+        "Il \\&a\\&lLavaggio Chimico\\&r è destinato esclusivamente alla lavorazione dell'\\&7\\&lOro\\&r.\n\nCome il \\&9\\&lSeparatore Elettrolitico\\&r, questo funziona solo con \\&c\\&lProdotti Chimici\\&f\/\\&bFluidi\\&r!\n\nL'\\&9\\&lAcqua\\&r (o l'acqua sostitutiva) andrà nel Bar a sinistra! E la schiuma di oro andrà nel bar accanto.\n\nQuando viene fornita l'\\&a\\&lEnergia\\&r, il \\&a\\&lLavaggio Chimico\\&r trasformerà la schiuma sporca in schiuma pulita!\n\nCome una lavatrice!"
+    ],
+    "quest.60B52705049D1BA5.title": "\\&a\\&lLavatrice chimica",
+    "quest.60ECCCAB66AAC05D.quest_desc": [
+        "\\&eTrasportatori Logistici\\&r sposteranno \\&eoggetti\\&f e \\&eblocchi\\&r da un inventario all'altro!\n\nPer spostare \\&eoggetti\\&f all'interno delle \\&5macchine\\&r, però, dovremo modificare le impostazioni all'interno delle \\&5macchine\\&r. Queste si trovano nell'angolo in alto a sinistra dell'interfaccia utente delle \\&5macchine\\&r, sotto la sezione \"Impostazioni laterali\". Dovranno essere impostate per l'espulsione automatica degli \\&eoggetti\\&f.\n\nGli \\&eTrasportatori Logistici\\&r sono realizzati con 2 \\&8lingotti di acciaio\\&r e 1 \\&aCircuito di controllo base\\&r. È quindi possibile combinare 8 \\&eTrasportatori Logistici\\&r con il circuito di controllo successivo per aggiornarli.\n\n\\&a\\&lBase\\&r: sposta 2 blocchi\/oggetti su 1 blocco ogni secondo.\n\n\\&c\\&lAvanzato\\&r: sposta 32 blocchi\/oggetti su 2 blocchi ogni secondo.\n\n\\&b\\&lElite\\&r: sposta una pila di oggetti o blocchi su 4 blocchi ogni secondo.\n\n\\&d\\&lUltimo\\&r: sposta 2 pile di oggetti o blocchi su 10 blocchi ogni secondo."
+    ],
+    "quest.60ECCCAB66AAC05D.quest_subtitle": "Articoli",
+    "quest.60ECCCAB66AAC05D.title": "\\& Trasportatori logistici",
+    "quest.6263A27182B2CE3D.quest_desc": [
+        "Alcune macchine di livello superiore richiedono materiali più avanzati, quindi avremo bisogno di più materiali di livello superiore per poterle costruire!\n\nParlando di materiali di livello superiore, questi richiedono gli stessi materiali delle macchine di livello superiore."
+    ],
+    "quest.6263A27182B2CE3D.title": "Migliore e 5Macchine",
+    "quest.62827AA1AD29A222.quest_desc": [
+        "I cavi \"Universal Cables\" vengono utilizzati per trasferire l'energia da una macchina all'altra!\n\nLa maggior parte delle macchine avrà un'impostazione predefinita per l'energia, indicata dal \"Green Square\". Queste impostazioni possono essere modificate all'interno dell'interfaccia utente della macchina, nelle impostazioni di configurazione.\n\nLe macchine condivideranno anche l'energia che contengono con le altre macchine adiacenti, se le loro impostazioni lo consentono!\n\nI cavi \"Universal Cables\" sono realizzati con 2 lingotti di acciaio e 1 pozzolo di polvere di redstone. Possono essere potenziati combinando 8 lingotti dello stesso livello con un circuito di controllo!\n\n*   **Base:** Trasferisce 3.2kFE al tick.\n*   **Avanzato:** Trasferisce 51.2kFE al tick.\n*   **Elite:** Trasferisce 409.6kFE al tick.\n*   **Ultimo:** Trasferisce 3.27mFE al tick."
+    ],
+    "quest.62827AA1AD29A222.title": "\\&a Universal Cables",
+    "quest.66A450CAC07232E1.quest_desc": [
+        "\\&6Conduttori termici\\&r trasferiranno il \\&6calore\\&r. Sì, alcuni \\&5meccanismi \\&5utilizzano il \\&6calore\\&r! Ad esempio, la \\&6macchina di evaporazione termica\\&r.\n\nLa maggior parte delle \\&6unità di riscaldamento\\&r avranno delle impostazioni predefinite per l'emissione di \\&6calore\\&r!\n\nNon sono sicuro di cosa significhino questi numeri, ma seguendo il modello: più costosi, migliori!"
+    ],
+    "quest.66A450CAC07232E1.quest_subtitle": "Calore",
+    "quest.66A450CAC07232E1.title": "\\&6 Conduttori termici",
+    "quest.67E7A9A65B14C933.quest_desc": [
+        "Abbiamo ottenuto dei \"pezzi di minerale\"? Cosa facciamo con questi \"pezzi\", volevamo dei \"blocchi\"!\n\nPer iniziare, dobbiamo \"frantumare\" questi \"pezzi\" per ottenere 1 \"polvere di minerale sporca\".\n\nNon possiamo \"fusare\" questa \"polvere\", altrimenti danneggerebbe il forno! Quindi, dobbiamo \"purificarla\" per ottenere la nostra \"polvere\" normale.\n\nE, come sempre, dobbiamo \"fusare\" la \"polvere\" per ottenere i \"blocchi\".",
+        "{image:atm:textures\/questpics\/mek\/mek_tier2_2.png width:250 height:50 align:center}"
+    ],
+    "quest.67E7A9A65B14C933.quest_subtitle": "Elaborazione di materie prime di secondo livello",
+    "quest.67E7A9A65B14C933.title": "\\&4Distruggere \\&afferrare \\&dArricchire \\&quattro \\&7Grumi",
+    "quest.6B8040401B512E50.quest_desc": [
+        "L'\\&3\\&lC.D.C.\\&r (non è l'Organizzazione per il Controllo e la Prevenzione delle Malattie) è un\\&5macchina\\&r utilizzata esclusivamente per la\\&lLavorazione dei minerali\\&r.\n\nL'\\&3\\&lC.D.C.\\&r richiederà\\&aSolfato di acido\\&r e\\&7minerali\\&r.\n\nI\\&7minerali\\&r andranno inseriti nello\\&4slot rosso\\&r, mentre il\\&aSolfato di acido\\&r andrà inserito nello\\&4barra rossa\\&r.\n\nIl\\&7slurry risultante andrà a generarsi nello\\&9barra blu\\&r!"
+    ],
+    "quest.6B8040401B512E50.title": "\\&3\\&lCamera di dissoluzione chimica",
+    "quest.6CD1720B76F47806.quest_desc": [
+        "L'unità \\&2\\&lBio-Generator\\&r funziona prendendo \\&2Bio Fuel\\&r, trasformandolo in \\&2Bioetanolo\\&r, e utilizzandolo per la produzione di \\&aEnergia\\&r!\n\nTuttavia, questa unità è stata significativamente ridotta nelle sue prestazioni, quindi non è consigliabile utilizzarla.\n\nQuesto perché voi continuate a creare enormi \\&aMelon Farms\\&r che consumano le risorse del server!"
+    ],
+    "quest.6CD1720B76F47806.title": "\\&2\\&Generatore di biografie",
+    "quest.6DC1E08D019FD543.quest_desc": [
+        "I nostri cristalli richiederanno un ulteriore processo di \"elaborazione\"!\n\nRipetere i passaggi precedenti per creare una \"pianta di evaporazione termica\" e ottenere \"sale da tavola\".\n\nUtilizzare un \"separatore elettrolitico\" per separare il \"cloro\" dal \"sale da tavola\".\n\nQuindi, ottenere l'idrogeno facendo passare l'acqua attraverso un \"separatore elettrolitico\".\n\nCombinare il \"cloro\" e l'idrogeno in un \"infusore chimico\" per ottenere \"acido cloridrico\"!\n\nGrazie al nostro \"infusore chimico\", possiamo iniettare l'acido cloridrico negli \"cristalli\" per ottenere un \"frammento di minerale\" da ogni \"cristallo di minerale\".",
+        "{image:atm:textures\/questpics\/mek\/mek_tier4_3.png width:250 height:100 align:center}"
+    ],
+    "quest.6DC1E08D019FD543.quest_subtitle": "Elaborazione di minerali di tipo 4",
+    "quest.6DC1E08D019FD543.title": "Produzione di più acido cloridrico",
+    "quest.6F62B5510FA881CD.quest_desc": [
+        "\\&7L'Osmium\\&r è una risorsa che si genera sotto il livello Y 56. La sua forma è simile a quella dell'\\&7Emerald\\&r, con un colore grigio \\&7bluastro\\&r!\n\nSarà utile per molte delle \\&5macchine\\&r utilizzate in \\&5\\&lMekanism\\&r! Quindi ne avrete bisogno in grandi quantità!\n\nPotrete anche creare \\&7armature\\&r e \\&7strumenti\\&r utilizzando questo materiale. Le \\&7armature\\&r e la \\&7spada\\&r hanno le stesse caratteristiche dell'\\&cNetherite\\&r! Mentre l'\\&7piccola\\&r è identica a una \\&7piccola\\&r in ferro."
+    ],
+    "quest.6F62B5510FA881CD.quest_subtitle": "L'ingrediente base per la fabbricazione",
+    "quest.6F62B5510FA881CD.title": "\\&7Osmio",
+    "quest.71869B1D81D6A7EF.quest_desc": [
+        "L'\\&2\\&lP.R.C.\\&r (Camera di Reazione Pressurizzata) combina diversi \\&bFluidi \\&fand \\&cProdotti Chimici\\&r con un \\&eArticolo\\&f per creare nuovi \\&eArticoli \\&fand \\&cProdotti Chimici\\&r!\n\nGli \\&bFluidi\\&r, probabilmente l'\\&9Acqua\\&r, vanno nella barra più a sinistra. Gli \\&cProdotti Chimici\\&r vanno nella barra adiacente, e gli \\&eArticoli\\&f nella barra \\&4Rosso\\&f.\n\nL'\\&eArticolo\\&f risultante apparirà nella barra \\&9Blu\\&f e il \\&cProdotto Chimico\\&r finito sarà nella barra \\&9Blu\\&f.\n\nL'\\&2\\&lP.R.C.\\&r può creare diversi articoli come articoli in HDPE, \\&7Polvere da Fuoco\\&r e \\&aSolfato\\&r, e persino \\&2Articoli Nucleari\\&r!"
+    ],
+    "quest.71869B1D81D6A7EF.title": "\\&2\\&Chambera a pressione",
+    "quest.71CF9E59F8F0B4A6.quest_desc": [
+        "Questi \\&5Macchine\\&r sono addirittura migliori delle \\&c\\&lMacchine Avanzate\\&r! \\n\\nUtilizza gli \\&eOggetti\\&r della \\&b\\&lTiera Elite\\&r per creare queste \\&5Macchine\\&r!"
+    ],
+    "quest.71CF9E59F8F0B4A6.title": "Ancora meglio!",
+    "quest.7276892E129A739B.quest_desc": [
+        "Pensate che sia tutto ciò che \\&5\\&lMekanism\\&r ha? Non avete nemmeno un'idea!\n\nPrima di arrivare a questo però, mettiamo a posto le \\&5Macchine \\&fand \\&aSolfato\\&r!\n\nAvremo una lunga strada da percorrere."
+    ],
+    "quest.7276892E129A739B.title": "\\&5\\&lMekanismo: Reattori",
+    "quest.73E6878553BA6908.quest_desc": [
+        "Ti piacciono i contenitori? I \"contenitori\" (chiamati \"\\&eBins\") ti offrono questo!\n\nI \"\\&eBins\" possono contenere solo un tipo di oggetto, ma possono contenere moltissime pile di quel determinato \"\\&eItem\"!\n\nPuoi utilizzare un \"\\&3Configurator\" su un \"\\&eBin\" per impostarlo in modo che, automaticamente, gli oggetti vengano trasferiti nell'inventario sottostante.\n\nSe c'è un \"\\&eItem\" all'interno di un \"\\&eBin\", puoi fare clic con il tasto destro e premere \"Shift\" per bloccare quell' \"\\&eItem\".\n\n*   \\&a\\&lBasic: contiene 64 pile.\n*   \\&c\\&lAdvanced: contiene 128 pile.\n*   \\&b\\&lElite: contiene 512 pile.\n*   \\&d\\&lUltimate: contiene 4.096 pile."
+    ],
+    "quest.73E6878553BA6908.quest_subtitle": "Cassetti",
+    "quest.73E6878553BA6908.title": "\\&eBins",
+    "quest.74200A48498DD7F8.quest_desc": [
+        "Il generatore solare sarà in grado di produrre energia in base all'esposizione al cielo durante il giorno.\n\nSi tratta di un generatore automatico molto semplice da utilizzare, ma la creazione è un processo fastidioso!\n\nNon produrrà tanta energia come i generatori eolici (solo di giorno), ma produrrà più energia in brevi scatti e occuperà meno spazio!\n\nSono stati migliorati e ora possono immagazzinare circa 40.000 FE!"
+    ],
+    "quest.74200A48498DD7F8.quest_subtitle": "Produce circa 60 FE\/t",
+    "quest.74200A48498DD7F8.title": "\\&e\\&l Generatore solare",
+    "quest.7485BCBE366501DF.quest_desc": [
+        "Se desideriamo ottenere ancora più \\&7Ores\\&r, avremo bisogno di un metodo migliore per \\&lProcessing\\&r le stesse. L'idrogeno non funzionerà, proviamo con \\&3Cloruro di Idrogeno\\&r.\n\nOvviamente, per questo avremo bisogno di \\&eCloro\\&r!\n\nOsservate la \\&6\\&lImpianto di Evaporazione Termica\\&r per capire meglio come creare il Mutliblock, ma in sostanza ne avremo bisogno.\n\nVersate \\&9Acqua\\&f in un \\&6\\&lImpianto di Evaporazione Termica\\&r per ottenere lentamente \\&eBrina\\&r.\n\nVersate questa \\&eBrina\\&r in un \\&9\\&lSeparatore Elettrolitico\\&r per ottenere \\&7Sodio\\&r e \\&eCloro\\&r! Il \\&7Sodio\\&r è utile per il \\&2\\&lReattore di Fissione\\&r... ma non per il \\&lProcessing di Minerali\\&r!",
+        "{image:atm:textures\/questpics\/mek\/mek_tier3_1.png width:200 height:100 align:center}"
+    ],
+    "quest.7485BCBE366501DF.quest_subtitle": "Lavorazione di materie prime di terza categoria",
+    "quest.7485BCBE366501DF.title": "Produzione di eCloro",
+    "quest.75E4751F7A802A44.quest_desc": [
+        "Che divertimento! Ecco una lista di materiali chimici! Stiamo diventando Walter White?\n\nInnanzitutto, e soprattutto, per l'acido solforico, abbiamo bisogno di \\&eZolfo\\&r! Ne dobbiamo estrarre, quindi \\&bossidarlo\\&r per ottenere \\&eAnidride solforosa\\&r.\n\nAvremo comunque bisogno di più \\&bOssigeno\\&r, quindi ne procuriamoci con un \\&9\\&lSeparatore elettrolitico\\&r alimentato con \\&9Acqua\\&r.\n\nPoi, combinare l'\\&bOssigeno\\&r ottenuto con l'\\&eAnidride solforosa\\&r in un \\&c\\&lInfusore chimico\\&r per ottenere \\&cSolfato di zolfo\\&r.\n\nPer ora, mettiamo da parte l'\\&eZolfo\\&r, fino a quando non otterremo il vapore acqueo! Per ottenere il vapore acqueo, facciamo passare l'\\&9\\&lAcqua\\&r attraverso un \\&c\\&lCondensatore rotativo\\&r.",
+        "{image:atm:textures\/questpics\/mek\/mek_tier4_1.png width:200 height:100 align:center}"
+    ],
+    "quest.75E4751F7A802A44.quest_subtitle": "Elaborazione di minerali di tipo 4",
+    "quest.75E4751F7A802A44.title": "Creazione di acido solforico",
+    "quest.763FB27929E053BE.quest_desc": [
+        "I filtri e gli aggiornamenti sono utilizzati esclusivamente nelle pompe elettriche.\n\nLe pompe funzioneranno allo stesso modo, ma invece di aspirare acqua, aspireranno \"acqua pesante\".\n\nL'acqua pesante sarà necessaria per alimentare il reattore di fissione!"
+    ],
+    "quest.763FB27929E053BE.title": "\\&9Filtra \\&8Aggiorna",
+    "quest.7778937DF377C1B4.quest_desc": [
+        "Questa è un'ottima opzione per generare automaticamente i dati relativi a\\&Energy\\&r.",
+        "",
+        "La quantità di energia prodotta da un generatore eolico dipende dal suo livello di efficienza.",
+        "",
+        "Questo genera circa 90 FE\/t a livello del mare, e il valore massimo che può raggiungere è di 360 FE\/t!",
+        "",
+        "Anche l'aerogeneratore \\&b\\&l dovrà avere un punto di riferimento \\&b\\&r sopra di esso, come una sorta di segnale!"
+    ],
+    "quest.7778937DF377C1B4.quest_subtitle": "Genera energia dall'eolico",
+    "quest.7778937DF377C1B4.title": "\\&b\\&lGeneratore eolico",
+    "quest.77FB313845779AED.quest_desc": [
+        "Ora utilizziamo un altro dispositivo, il \"dispositivo di infusione chimica\", per infondere i nostri vapori d'acqua e l'ossido di zolfo. Ora abbiamo l'acido solforico!\n\nVersiamo l'acido solforico in un \"dispositivo di fusione chimica\" per fondere i nostri \"minerali\" con l'acido. Questo ci darà una \"sostanza liquida di minerali\", una forma chimica dei \"minerali\".\n\n3 \"minerali grezzi\" daranno 2 secchi di \"sostanza liquida di minerali\" e 1 \"blocco di minerali\" darà 1 secchio di \"sostanza liquida di minerali\".\n\nNon possiamo camminare con la \"sostanza liquida di minerali\", è imbarazzante! Dobbiamo pulirla! Avviamo un \"lavaggio chimico\" e mettiamo dentro dell'acqua (e detersivo per bucato).\n\nOgni 1mb di \"sostanza liquida di minerali\" si trasformerà in 1mb di \"sostanza liquida di minerali\".\n\nOra che la nostra \"sostanza liquida di minerali\" è pulita, possiamo metterla in un \"cristallizzatore chimico\". Questo ci darà \"cristalli di minerali\"! Sì, diversi da \"frammenti\" e \"grumi\". Ogni 200mb di \"sostanza liquida di minerali\" equivale a 1 \"cristallo\".",
+        "{image:atm:textures\/questpics\/mek\/mek_tier4_2.png width:300 height:50 align:center}"
+    ],
+    "quest.77FB313845779AED.quest_subtitle": "Elaborazione di minerali di tipo 4",
+    "quest.77FB313845779AED.title": "Fusione e cristallizzazione di minerali",
+    "quest.78DD2A3DFF6D1613.quest_desc": [
+        "Utilizzando il processo \\&2\\&lP.R.C.\\&r, possiamo ottenere 1 unità di \\&aSubstrate\\&r a partire da 2 unità di \\&2Bio Fuel\\&r.\n\nInoltre, avremo bisogno di \\&9Water\\&r e di idrogeno all'interno del processo \\&2\\&lP.R.C.\\&r, ma in questo modo otterremo anche l'\\&aSubstrate\\&r e l'\\&dChemical Ethene\\&r.\n\nPer produrre le palline di HDPE, avremo bisogno sia dell'\\&aSubstrate\\&r, sia di trasformare l'\\&dChemical Ethene\\&r in \\&dLiquid Ethene\\&r. Possiamo utilizzare un \\&c\\&lRotary \\&bCondensator\\&r per farlo!\n\nOra, mettiamo sia l'\\&dLiquid Ethene\\&r che l'\\&aSubstrate\\&r nel processo \\&2\\&lP.R.C.\\&r per ottenere le palline di HDPE!\n\nPossiamo quindi unire 4 palline per creare una barra di HDPE, oppure arricchire 3 palline per ottenere una lastra di HDPE."
+    ],
+    "quest.78DD2A3DFF6D1613.title": "Utilizzando tutto il materiale per creare il combustibile derivato da alghe (r2Bio Fuel) e trasformarlo in HDPE.",
+    "quest.7934873E784C4B3C.quest_desc": [
+        "Sembra familiare?\n\nOra abbiamo bisogno di \\&bShards\\&r. Prima di fare qualsiasi cosa, però, avremo bisogno di \\&bOxygen\\&r.\n\nPer ottenere \\&bOxygen\\&r, dobbiamo utilizzare \\&9Water \\&finto un \\&9\\&lElectrolytic Separator\\&r. Quindi, inviare \\&bOxygen\\&r dal \\&9\\&lSeparator\\&r al \\&b\\&lPurifier\\&r.\n\nCon questo \\&bOxygen\\&r, il \\&b\\&lPurifier\\&r può trasformare i \\&7Shards\\&finto \\&7Ore Clumps\\&r.\n\nOra, dobbiamo \\&cCrush\\&r quei \\&7Clumps\\&f per ottenere \\&7Dirty Dust\\&r. Quindi, \\&dEnrich\\&r quel \\&7Dirty Dust\\&f per ottenere \\&7Ore Dust\\&r.\n\nInfine, \\&6Smelt\\&r quel \\&7Dust\\&r, per ottenere il nostro \\&lProcessed Ore\\&r!",
+        "{image:atm:textures\/questpics\/mek\/mek_tier3_3.png width:250 height:100 align:center}"
+    ],
+    "quest.7934873E784C4B3C.quest_subtitle": "Elaborazione di minerali di tipo 4",
+    "quest.7934873E784C4B3C.title": "\\&7Cristallo\\&f, \\&7Frammento\\&f, \\&7Agglomerato\\&f, ecc.",
+    "quest.7952DA35B4F5C598.quest_desc": [
+        "Cosa succede se un singolo contenitore da 7 litri non è sufficiente? E nemmeno una pila di contenitori da 7 litri? In questo caso, avrete bisogno di dei serbatoi!\n\nI serbatoi possono contenere più contenitori da 7 litri di un determinato liquido e possono essere spostati come tali. Tuttavia, non possono essere utilizzati per posizionare blocchi di origine.\n\nPer aggiungere o rimuovere liquidi, avrete bisogno di tubi meccanici configurati per farlo.\n\n*   **Basic:** Contiene 32 contenitori da 7 litri.\n*   **Advanced:** Contiene 64 contenitori da 7 litri.\n*   **Elite:** Contiene 128 contenitori da 7 litri.\n*   **Ultimate:** Contiene 256 contenitori da 7 litri."
+    ],
+    "quest.7952DA35B4F5C598.title": "\\& Serbatoi per fluidi",
+    "quest.7AE502EDB73BD57A.quest_desc": [
+        "Come suggerisce il nome, il \"Crusher\" funziona esattamente come previsto! Proprio come tutti gli altri \"Crusher\" dei Mod...\\n\\nPossiamo ottenere polvere da lingotti, pietra da pietra, e combustibile biologico da piante!\\n\\nLa polvere sarà necessaria per molte ricette, quindi ne avrete sicuramente bisogno. Soprattutto per creare miglioramenti!"
+    ],
+    "quest.7AE502EDB73BD57A.quest_subtitle": "Lo schiaccia.",
+    "quest.7AE502EDB73BD57A.title": "\\&4\\&Crusher",
+    "quest.7B0DFA55B4D8B16D.quest_desc": [
+        "\\&a\\&lI teletrasportatori\\&r ci permetteranno di teletrasportarci in qualsiasi luogo e dimensione, purché la \\&5macchina\\&r sia stata costruita e \\&aalimentata\\&r!\n\nQuindi, come possiamo costruirla e alimentarla?\n\nInnanzitutto, per costruire l'\\&a\\&lteletrasportatore\\&r, avremo bisogno di 1 \\&aBlocco di teletrasportatore\\&f e 9 \\&acornici di teletrasportatore\\&r.\n\nL'\\&aBlocco di teletrasportatore\\&r è il componente principale dell'\\&a\\&lteletrasportatore\\&r. È il componente che richiederà \\&aenergia\\&r, e una volta \\&aalimentato\\&r, potremo aprirlo. Qui possiamo impostare una rete simile alla \\&5Quantum Entangloporter\\&r, inserendo un nome e facendo clic sull'icona di spunta per creare la rete!\n\nUna volta che altri \\&a\\&lteletrasportatori\\&r o \\&aBlocchi di teletrasportatore\\&r sono impostati su quella rete (facendo clic sulla rete denominata nella loro interfaccia), potrete utilizzare l'\\&a\\&lteletrasportatore\\&r per teletrasportarvi ovviamente agli altri \\&a\\&lteletrasportatori\\&r sulla stessa rete.\n\nOra, per costruire l'\\&a\\&lteletrasportatore\\&r, posizionare un \\&acornice di teletrasportatore\\&r su ciascun lato del \\&aBlocco di teletrasportatore\\&r. Sopra, posizionare altre 3 per raggiungere un'altezza di 4 blocchi. Con 2 blocchi di spazio sopra il \\&aBlocco di teletrasportatore\\&r, possiamo posizionare le nostre ultime \\&acornici di teletrasportatore\\&r.\n\nUna volta costruito e alimentato, l'\\&a\\&lteletrasportatore\\&r sarà pronto e potrete attraversare qualsiasi \\&aPortale colorato che sia apparso!\n\n(È possibile modificare il colore in ogni \\&a\\&lteletrasportatore\\&r tramite l'interfaccia!)",
+        "{@pagebreak}",
+        "{image:atm:textures\/questpics\/mek\/meka_portal1.png width:200 height:75 align:center}",
+        "Posiziona il blocco \"\\&aTeleporter Block\\&r\" insieme a 2 \"frame\" del tipo \"\\&aTeleporter Frame\\&r\".",
+        "{image:atm:textures\/questpics\/mek\/meka_portal2.png width:150 height:125 align:center}",
+        "Ora, posizionate i telai \"aTeleporter Frames\" sui precedenti.",
+        "{image:atm:textures\/questpics\/mek\/meka_portal3.png width:100 height:125 align:center}",
+        "Ripetere.",
+        "{image:atm:textures\/questpics\/mek\/meka_portal4.png width:100 height:140 align:center}",
+        "Ora, avremo bisogno di una fila completa di cornici \"\\&aTeleporter\" per la parte superiore.",
+        "{image:atm:textures\/questpics\/mek\/meka_portal5.png width:110 height:150 align:center}",
+        "Una volta che tutto è configurato, il portale che hai scelto dovrebbe apparire così!"
+    ],
+    "quest.7B0DFA55B4D8B16D.quest_subtitle": "Teletrasporto al suo massimo livello",
+    "quest.7B0DFA55B4D8B16D.title": "Piattaforme personalizzate!",
+    "quest.7C687DCF71D77761.quest_desc": [
+        "\\&c\\&lAdvanced\\&r è l'aggiornamento di \\&a\\&lBasic\\&r.\n\nLe macchine \\&c\\&lAdvanced\\&r possono contenere più \\&eItems\\&f, spostare più \\&eItems\\&r, e hanno più slot rispetto alla \\&a\\&lBasic Tier\\&r.\n\nLe macchine \\&c\\&lAdvanced\\&r sono realizzate in \\&cInfused Alloys\\&f, con un \\&cAdvanced Control Circuit\\&f, e solitamente includono anche \\&7Osmium\\&r!\n\nGli \\&cAdvanced Control Circuits\\&r sono realizzati con 2 \\&cInfused Alloys\\&r e un \\&aBasic Control Circuit\\&r."
+    ],
+    "quest.7C687DCF71D77761.title": "e altri livelli avanzati",
+    "quest.7CC49360D07086B8.quest_desc": [
+        "\"Utilizzando macchinari atomici estremamente dettagliati, possiamo scomporre la materia fino al livello molecolare e spostare queste molecole attraverso specifiche lunghezze d'onda...\"\n\"Ma davvero? Sembra magia!\nCon due 'Trasmettitori Quantici', possiamo spostare senza fili oggetti, fluidi, sostanze chimiche e persino calore ed energia!\n\nInnanzitutto, dobbiamo collegare i due 'Trasmettitori Quantici'. Per farlo, inseriamo il nome della rete nel campo di testo di uno dei dispositivi.\nPuò essere un numero, una lettera, un simbolo, o qualsiasi cosa. Basta digitarlo e premere il pulsante \"OK\". Quindi, inseriamo il nome della rete nel secondo dispositivo. Ora sono collegati.\nSuccessivamente, collegare i tubi, le tubature o i cavi a uno dei dispositivi e posizionare un altro dispositivo sull'altro.\nUna volta che tutto è pronto, modificare le impostazioni per spostare effettivamente gli oggetti. Non dimenticate di attivare la funzione di \"Eject\"."
+    ],
+    "quest.7CC49360D07086B8.quest_subtitle": "Energia wireless, gas, liquidi, tutto.",
+    "quest.7CC49360D07086B8.title": "\\&5Trasportatori quantistici entangled",
+    "quest.7ECA0633AF1AEC19.quest_desc": [
+        "La sega \"Precision Sawmill\" trasformerà gli oggetti in legno in:\n\n*   3 assi di legno e 3 pezze di lana.\n*   3 assi di legno (invece di 3 porte).\n\nInoltre, trasformerà i bastoncini in polvere di legno, che è necessaria per la scatola di cartone!"
+    ],
+    "quest.7ECA0633AF1AEC19.title": "\\&e\\&l, Fabbrica di macelli di precisione",
+    "task.03C590DB786810FB.title": "Cubetti energetici",
+    "task.09788D3638E59F3B.title": "Installatori di impianti",
+    "task.11EF7663818B6CC6.title": "Contenitori",
+    "task.16E5E87F1CAC042A.title": "Serbatoi chimici",
+    "task.2C1B1D314E190B80.title": "Archiviazione personale",
+    "task.36B9FB74D9BF26E4.title": "Materiali con elevata conducibilità termica",
+    "task.4558919345C3BE5D.title": "Elementi di arricchimento",
+    "task.4632192573FD8501.title": "Tubi meccanici",
+    "task.4B60ACBCC3B46D1D.title": "Articoli arricchiti",
+    "task.4B6C5B2099B18AB7.title": "Fonderie",
+    "task.50795B2B2A320D16.title": "Tubi pressurizzati",
+    "task.564D0E533237E951.title": "Purificatori",
+    "task.62F11A588B293CA6.title": "Tutti i diritti riservati",
+    "task.6877D91D6603E4FD.title": "Cavi universali",
+    "task.68C11540A9010775.title": "Serbatoi per liquidi",
+    "task.6B24D8667BC856A3.title": "Trasporti logistici",
+    "task.6DCF32EB40B8E9C6.title": "Polveri di orzo",
+    "task.729C1974AE346ECA.title": "Purificatori",
+    "task.770B8B984F85AB73.title": "Tutti i diritti riservati"
+}

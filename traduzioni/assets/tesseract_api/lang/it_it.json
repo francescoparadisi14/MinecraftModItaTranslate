@@ -1,6 +1,6 @@
 {
     "eu_cost_transformer.tesseract_api.percentage": "%d%",
-    "text.tesseract_api.mi_machine_batcher_recipe": "Può eseguire %s ricette in batch.",
-    "text.tesseract_api.mi_machine_batcher_size_and_cost": "Esegue in lotti di fino a %d al costo EU di %s.",
-    "text.tesseract_api.tooltips_shift_required": "Premi [Shift] per informazioni"
+    "text.tesseract_api.mi_machine_batcher_recipe": "È possibile eseguire %s ricette in batch.",
+    "text.tesseract_api.mi_machine_batcher_size_and_cost": "Esegue in lotti fino al %d unità al costo di %s, secondo gli standard dell'UE.",
+    "text.tesseract_api.tooltips_shift_required": "Premi il tasto [Shift] per maggiori informazioni."
 }

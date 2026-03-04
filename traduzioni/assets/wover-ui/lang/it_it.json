@@ -1,0 +1,17 @@
+{
+    "description.config.wover.client.general.check_for_new_versions": "WorldWeaver include una semplice funzione di controllo degli aggiornamenti che può informarti quando sono disponibili nuove versioni dei nostri mod. Per farlo, dobbiamo leggere una risorsa da uno dei nostri server web. Per elaborare la richiesta, insieme al tuo indirizzo IP (abbiamo bisogno di sapere dove inviare la risposta), inviamo anche la versione di Minecraft che utilizzi (in modo da poter scegliere la versione del mod appropriata). I dati trasmessi non verranno mai utilizzati o elaborati da noi per altri scopi, ma devono essere conservati nei nostri file di log per 4 settimane per motivi legali.",
+    "description.config.wover.client.general.force_betterx_world_type": "Il tipo di mondo determina come viene generato il mondo. Nella maggior parte dei casi, è consigliabile mantenere il tipo predefinito (puoi modificare il tipo in qualsiasi momento nella schermata di creazione del mondo). Questo tipo è ottimizzato per la massima compatibilità tra i DataPacks, il nostro mod e altri mod di NeoForge. Inoltre, offre alcune funzionalità uniche per BetterNether e BetterEnd. Dovresti disattivare questa opzione solo se hai una ragione specifica per farlo!",
+    "description.config.wover.client.loading.disable_experimental_warning": "Il messaggio di avviso appare ogni volta che il tuo mondo utilizza impostazioni diverse dalla versione standard. Questo può accadere quando inizi un mondo in una versione di anteprima, ma anche quando utilizzi mod per modificare la creazione del mondo. Se questa opzione è abilitata, il messaggio di avviso verrà ignorato quando carichi un mondo esistente. Tuttavia, continuerà a essere visualizzato (come promemoria) quando viene creato un nuovo mondo.",
+    "title.config.wover.client.general.check_for_new_versions": "Verificare la presenza di nuove versioni e informare.",
+    "title.config.wover.client.general.force_betterx_world_type": "MiglioreX World come impostazione predefinita per i nuovi mondi",
+    "title.config.wover.client.loading.disable_experimental_warning": "Nascondi avviso sperimentale",
+    "warning.config.wover.client.general.force_betterx_world_type": "È molto probabile che desidererete mantenere questa opzione attiva.",
+    "wover.updates.curseforge_link": "[Curseforge]",
+    "wover.updates.description": "Alcune delle mod installate sono obsolete. Continuiamo a migliorare e ampliare i nostri contenuti, oltre a fornire importanti correzioni di bug.\n\nVi invitiamo a considerare l'aggiornamento delle vostre mod utilizzando i link forniti di seguito.",
+    "wover.updates.disable_check": "Disabilita il controllo degli aggiornamenti",
+    "wover.updates.download_link": "Scarica",
+    "wover.updates.modrinth_link": "[Modrinth]",
+    "wover.updates.title": "Aggiornamenti del software",
+    "wover.welcome.description": "... e un enorme grazie per aver scaricato e utilizzato i nostri mod. Speriamo che vi piacciano tanto quanto a noi.\n\nPrima di iniziare, ci sono alcune cose che dobbiamo configurare, quindi vi preghiamo di continuare a leggere la seguente sezione.",
+    "wover.welcome.title": "Benvenuti a"
+}

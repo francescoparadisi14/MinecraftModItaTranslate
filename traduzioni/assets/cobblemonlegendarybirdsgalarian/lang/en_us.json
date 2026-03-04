@@ -1,0 +1,12 @@
+{
+    "block.cobblemonlegendarybirdsgalarian.example_block": "Example Block",
+    "cobblemonlegendarybirdsgalarian.configuration.items": "Item List",
+    "cobblemonlegendarybirdsgalarian.configuration.logDirtBlock": "Log Dirt Block",
+    "cobblemonlegendarybirdsgalarian.configuration.magicNumber": "Magic Number",
+    "cobblemonlegendarybirdsgalarian.configuration.magicNumberIntroduction": "Magic Number Text",
+    "cobblemonlegendarybirdsgalarian.configuration.section.cobblemonlegendarybirdsgalarian.common.toml": "Cobblemon Legendary Birds Galarian Configs",
+    "cobblemonlegendarybirdsgalarian.configuration.section.cobblemonlegendarybirdsgalarian.common.toml.title": "Cobblemon Legendary Birds Galarian Configs",
+    "cobblemonlegendarybirdsgalarian.configuration.title": "Cobblemon Legendary Birds Galarian Configs",
+    "item.cobblemonlegendarybirdsgalarian.example_item": "Example Item",
+    "itemGroup.cobblemonlegendarybirdsgalarian": "Example Mod Tab"
+}

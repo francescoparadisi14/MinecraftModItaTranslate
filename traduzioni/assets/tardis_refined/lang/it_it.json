@@ -192,7 +192,7 @@
     "tardis_refined.display_source.door": "Door Status",
     "tardis_refined.display_source.fuel": "Fuel",
     "tardis_refined.display_source.gps": "GPS",
-    "tardis_refined.display_source.in_flight": "volo: %s",
+    "tardis_refined.display_source.in_flight": "Volo: %s",
     "tardis_refined.display_source.locked": "Lock Status",
     "tardis_refined.display_source.tardis_bigdata": "Tardis Summary",
     "tooltip.tardis_refined.screwdriver_description": "Un manipolatore di frequenza ametista",

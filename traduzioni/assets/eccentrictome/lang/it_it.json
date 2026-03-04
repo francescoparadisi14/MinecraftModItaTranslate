@@ -1,5 +1,9 @@
 {
-    "eccentrictome.convert": "Shift + Destra-clic",
-    "eccentrictome.name": "Tomo eccentrico (%s)",
-    "item.eccentrictome.tome": "Tomo eccentrico"
+    "eccentrictome.configuration.aliases": "Alias di Modid",
+    "eccentrictome.configuration.common": "Configurazione insolita",
+    "eccentrictome.configuration.disable_overlay": "Disattivare l'overlay",
+    "eccentrictome.configuration.items": "Articoli consentiti",
+    "eccentrictome.convert": "Shift + Clicca con il tasto destro",
+    "eccentrictome.name": "Tome eccentrico (%s)",
+    "item.eccentrictome.tome": "Libro insolito"
 }

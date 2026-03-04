@@ -1,0 +1,10 @@
+{
+    "commands.missingargument": "Argomento mancante!",
+    "mdecore.command.mde.generate.start": "Creazione di un quadrato di dimensione {0}x{0} centrato attorno al chunk {1},{2} nella dimensione {3}",
+    "mdecore.command.mde.help.0": "\/mattdahepic aiuto - stampa questo messaggio",
+    "mdecore.command.mde.help.1": "\/mattdahepic pos <giocatore> - mostra la posizione di un giocatore",
+    "mdecore.command.mde.help.2": "\/mattdahepic enderchest <giocatore> - mostra l'enderchest di un giocatore",
+    "mdecore.command.mde.help.3": "\/mattdahepic invsee <giocatore> - mostra l'inventario di un giocatore",
+    "mdecore.command.mde.help.4": "`\/mattdahepic generate <xCenter> <yCenter> <zCenter> <size> <dimension> - genera un blocco di terreno di dimensioni specificate, centrato attorno a <xCenter>, <yCenter> e <zCenter>`",
+    "mdecore.command.mde.pos": "[%s] si trova alle coordinate [%f, %f, %f] nella dimensione %s"
+}

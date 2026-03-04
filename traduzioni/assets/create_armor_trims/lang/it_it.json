@@ -1,9 +1,9 @@
 {
-    "trim_material.create_armor_trims.andesite": "Materiale di alluminio di andesite",
-    "trim_material.create_armor_trims.brass": "Materiale di rame",
-    "trim_material.create_armor_trims.exp": "Materiale di esperienza in forma di nugolo",
-    "trim_material.create_armor_trims.refined_radiance": "Materiale di raffinata luminosità",
-    "trim_material.create_armor_trims.rose_quartz": "Materiale di rose quarzo",
-    "trim_material.create_armor_trims.shadow_steel": "Materiale di acciaio ombra",
-    "trim_material.create_armor_trims.zinc": "Materiale di zinco"
+    "trim_material.create_armor_trims.andesite": "Legante di andesite",
+    "trim_material.create_armor_trims.brass": "Materiale: ottone",
+    "trim_material.create_armor_trims.exp": "Esperienza con materiali Nugget",
+    "trim_material.create_armor_trims.refined_radiance": "Materiale per effetti di luce raffinato",
+    "trim_material.create_armor_trims.rose_quartz": "Rosa Quarzo",
+    "trim_material.create_armor_trims.shadow_steel": "Materiale in acciaio al carbonio",
+    "trim_material.create_armor_trims.zinc": "Materiale in zinco"
 }

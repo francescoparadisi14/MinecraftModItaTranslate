@@ -1,18 +1,17 @@
 {
-    "name": "Minty",
+    "name": "A base di menta",
     "category": "patchouli:slimes",
     "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:minty\"}}",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Localizzazioni:$()$(li)Fusione cardiaca$(br2)$(l)Rischii:$()$(br)Attacca i giocatori, ha Forza III, vola e causa l'effetto Ebbro quando è irritato. Ha una possibilità di risorgere quando viene ucciso da attacchi con danni elevati. Estremamente pericoloso."
+            "text": "patchouli:testo\n\n$(l)Posizioni:$()$(li)Fusione con il cuore$(br2)$(l)Rischi:$()$(br) Attacca i giocatori, ha Forza III, può volare e provoca l'effetto \"Intossicato\" quando è arrabbiato. Ha la possibilità di essere riportato in vita quando viene colpito da attacchi ad alto danno. Estremamente pericoloso."
         },
         {
             "type": "patchouli:entity",
-            "name": "Minty Slime",
+            "name": "patchouli:entità\n\nsplendid\\_slimes:splendid\\_slime{Razza:\"splendid\\_slimes:minty\"}\n\nSlime alla menta",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:minty\"}",
-            "scale": 0.9,
-            "text": "Entità: Splendido Slime di Minta"
+            "scale": 0.9
         }
     ]
 }

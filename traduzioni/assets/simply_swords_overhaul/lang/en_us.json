@@ -22,5 +22,6 @@
     "tooltip.simply_swords_overhaul.stormsedgeitem_shift_1": "Includes hits from an active ability.",
     "tooltip.simply_swords_overhaul.stormsedgeitem_shift_2": "If you already have Haste, its level increases by 1, up to a maximum of level %d.",
     "tooltip.simply_swords_overhaul.watchersworditem": "§6Unique Effect: Omen§r\nWhen killing an enemy, heal for %d%% of the victim's Max HP.\n \n§6Unique Effect: Watcher§r\nHeal for %d HP on hit.",
-    "tooltip.simply_swords_overhaul.whisperwinditem": "§6Unique Effect: Fatal Flicker§r\nKilling an enemy resets this ability’s cooldown, including kills from an active ability.\n \n§2On Right Click:§r\nDash forward up to %d blocks, dealing critical attack damage to enemies in your path."
+    "tooltip.simply_swords_overhaul.whisperwinditem": "§6Unique Effect: Fatal Flicker§r\nKilling an enemy resets this ability’s cooldown, including kills from an active ability.\n \n§2On Right Click:§r\nDash forward up to %d blocks, dealing critical attack damage to enemies in your path.",
+    "tooltip.simply_swords_overhaul.whisperwinditem_1": "Using it again during a dash will cancel the dash."
 }

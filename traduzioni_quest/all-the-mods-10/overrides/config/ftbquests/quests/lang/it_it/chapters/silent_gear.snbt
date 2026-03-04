@@ -1,0 +1,125 @@
+{
+    "quest.002D65E4D7E8F62B.title": "Catalizzatore di secondo livello",
+    "quest.036D5767E07005BC.quest_desc": [
+        "«I canali» sono quelli che utilizzeremo per estrarre i «metalli liquidi». Sì, purtroppo sono troppo caldi per essere maneggiati con le mani o con secchi.\n\nÈ necessario collegare il «forno» al «canale» per scaricare i «metalli liquidi» premendo il tasto destro sul forno.\n\nÈ inoltre possibile visualizzare la quantità di liquidi presenti nel «forno» visualizzando il «canale»!"
+    ],
+    "quest.036D5767E07005BC.title": "e altre strutture di fonderia e sistemi di drenaggio",
+    "quest.047F3F99035CE623.quest_subtitle": "Desidero ardentemente tornare nelle miniere.",
+    "quest.061A51A0EC13CA0F.quest_desc": [
+        "Ora che abbiamo il \"\\&aController\\&r\", i \"\\&bDrains\\&r\" e i \"\\&4Tanks\\&r\", avremo bisogno di altri elementi.\n\nInnanzitutto, avremo bisogno delle \"\\&6Liquid Heating Coils\\&r\". Queste costituiranno il pavimento della \"\\&c\\&lFoundry\\&r\" e sono necessarie per riscaldare la \"\\&c\\&lFoundry\\&r\".\n\nInfine, avremo bisogno di finestre per la \"\\&c\\&lFoundry\\&r\" o di mattoni refrattari. Questi saranno utilizzati per completare la struttura! In pratica, saranno gli elementi costitutivi.\n\nLa \"\\&c\\&lFoundry\\&r\" non avrà bisogno di una struttura portante, quindi ogni angolo potrà rimanere vuoto; ma dovrà avere 4 pareti e un pavimento per essere completata. L' \"\\&aController\\&r\" vi indicherà se manca un elemento.\n\nLa \"\\&c\\&lFoundry\\&r\" può essere di dimensioni minime, ad esempio 1x1 internamente, purché abbia l' \"\\&aController\\&r\", le \"\\&6Liquid Heating Coils\\&r\" e le altre pareti completate!\n\nTuttavia, non consiglio di costruirla così piccola, perché più grande è la \"\\&c\\&lFoundry\\&r\", più spazio avrà!\n\nSaprete che la \"\\&c\\&lFoundry\\&r\" è completa quando l' \"\\&aController\\&r\" si accende come un forno, e le \"\\&6Liquid Heating Coils\\&r\" diventano arancioni."
+    ],
+    "quest.061A51A0EC13CA0F.title": "Costruzione di \\&c\\&lFoundry\\&r",
+    "quest.083ABBA1C45FF960.quest_subtitle": "Solo un tosaerba",
+    "quest.0947B4ED95B0267E.quest_desc": [
+        "Riveste oggetti e utensili.\n\nIl Netherite è un ottimo materiale per la rivestimento."
+    ],
+    "quest.0947B4ED95B0267E.quest_subtitle": "Non è solo per il Netherite.",
+    "quest.0D26E5EF6CFCFDBF.quest_desc": [
+        "Maggiore resistenza rispetto a una daga, ma minore danno e velocità."
+    ],
+    "quest.0D26E5EF6CFCFDBF.quest_subtitle": "Stabby",
+    "quest.0DF4B01CC5B49E4E.quest_desc": [
+        "Con questo set di componenti, è possibile creare una spada di base. Offre danni affidabili e una velocità affidabile."
+    ],
+    "quest.0DF4B01CC5B49E4E.quest_subtitle": "Affidabile, come sempre.",
+    "quest.0FEAD3CA2CC4A8B1.title": "Catalizzatore per caricatore a energia stellare di livello 3",
+    "quest.11B0B93D725ABE43.quest_desc": [
+        "Le ingranaggi di Silent Gear possono essere riparati utilizzando il kit di riparazione.\n\nPer riparare un oggetto, posizionate il kit di riparazione in una griglia di creazione, quindi inserite i materiali necessari per riparare lo strumento all'interno. Questo \"riempirà\" il kit di riparazione.\n\nPer riparare lo strumento, combinate il kit di riparazione riempito con lo strumento che desiderate riparare in una griglia di creazione."
+    ],
+    "quest.11B0B93D725ABE43.quest_subtitle": "Non sono necessari martelli.",
+    "quest.158B24939A269D83.quest_desc": [
+        "L'upgrade \"Punta Migliorata\" viene utilizzata per aumentare il livello di estrazione di uno strumento.\n\nAd esempio: se avete un piccone in ferro con 1 diamante, potete effettuare un upgrade \"Punta Migliorata\" e applicarlo al vostro piccone. Questo vi permetterà di estrarre ossidiana, oltre a fornire un aumento delle statistiche."
+    ],
+    "quest.158B24939A269D83.quest_subtitle": "Quando non si trovano 3 diamanti.",
+    "quest.2156C00E30424844.quest_desc": [
+        "E i serbatoi sono progettati per aggiungere liquidi alla nostra fonderia.\n\nPrincipalmente carburante.\n\nPrincipalmente \"lava\"!\n\nSembra essere uno dei soli modi per alimentare effettivamente la fonderia."
+    ],
+    "quest.2156C00E30424844.title": "\\&l\\&cFoundry\\&r e 4 serbatoi",
+    "quest.222D08F43B995FED.quest_subtitle": "Provate a danneggiarlo.",
+    "quest.22A0A9C81A5C85A1.quest_subtitle": "Mantenere tutto insieme",
+    "quest.262036FE8E87F50A.quest_subtitle": "Estrazione a strati di 3x3",
+    "quest.26F9DB31A835B69C.quest_desc": [
+        "\\&nFonderia\\&r: \\&aVerifica\\&r\n\\&nMetallo liquido nella fonderia\\&r: \\&aVerifica\\&r\n\nOra, come possiamo estrarlo?\n\nRicordate il nostro amico di prima? L'\\&c\\&lFonderia\\&r \\&bScarico\\&r? Dobbiamo presentarglielo al nostro nuovo amico, l'\\&c\\&lFonderia\\&r \\&7Pompa\\&r.\n\nPosizioniamo la \\&c\\&lFonderia\\&r \\&7Pompa\\&r sull'\\&bScarico\\&r, così possiamo posizionare dei Blocchi sotto di essa per far defluire il \\&7Metallo liquido\\&r in...\n\nBlocchi come il \\&8Cassa per colate\\&r, che convertiranno circa 900 m³ di \\&7Metallo liquido\\&r in un \\&7Blocco di metallo\\&r completo.\n\nOppure la \\&8Tavolo per colate\\&r, che sarà necessaria per realizzare..."
+    ],
+    "quest.26F9DB31A835B69C.title": "Oggetti da utilizzare per la prova (casting)",
+    "quest.29131C3532610ADF.quest_desc": [
+        "Questo è un supporto per la colonna di livello 2 per il caricatore Starlight."
+    ],
+    "quest.29131C3532610ADF.title": "Tappo per pilastro di ricarica Starlight (Livello 2)",
+    "quest.2BF119DD5D977409.title": "Catalizzatore per ricarica di energia di livello 2 (Starlight)",
+    "quest.2EB96FF06627FD9A.quest_desc": [
+        "Il Salvager permette di scomporre l'equipaggiamento nei singoli oggetti da cui è composto.\n\nAd esempio: se inserite delle \"Scarpe di Diamante\", otterrete 4 diamanti in cambio."
+    ],
+    "quest.2EB96FF06627FD9A.quest_subtitle": "Analisi dettagliata (di alcuni) articoli!",
+    "quest.2EB96FF06627FD9A.title": "Recuperatore",
+    "quest.3722B43822F80470.quest_desc": [
+        "Più dannoso di una spada, ma più lento."
+    ],
+    "quest.3722B43822F80470.quest_subtitle": "Libera il tuo guerriero interiore",
+    "quest.3930404D5C8B44EB.quest_desc": [
+        "Questo viene utilizzato per creare leghe personalizzate.\n\nÈ anche l'unico modo per ottenere l'acciaio di Tyrian!"
+    ],
+    "quest.3930404D5C8B44EB.quest_subtitle": "Combina materiali",
+    "quest.39B85DB54B1037FE.quest_desc": [
+        "Leggermente più veloce di una spada, ma con un danno inferiore."
+    ],
+    "quest.39B85DB54B1037FE.quest_subtitle": "Spada spessa",
+    "quest.3AC03D1FA5C341A7.quest_desc": [
+        "Il Ricristallizzatore consente di combinare diversi cristalli per creare nuovi cristalli, che possono essere utilizzati per fabbricare armi, utensili e armature."
+    ],
+    "quest.3B560B2ECE331CAF.quest_desc": [
+        "Questo è un supporto per la base di livello 3 per il caricatore Starlight."
+    ],
+    "quest.3B560B2ECE331CAF.title": "Tappo per pilastro di ricarica Starlight (livello 3)",
+    "quest.3D2C6FF462B17205.quest_desc": [
+        "Bassa quantità di danno, ma velocità di attacco molto elevata. Riduce il tempo di invulnerabilità del bersaglio."
+    ],
+    "quest.3D2C6FF462B17205.quest_subtitle": "Stabby Stab",
+    "quest.3F39BEB788175CEF.quest_subtitle": "Scavo a griglia 3x3!",
+    "quest.405DCD3E36232EEA.quest_desc": [
+        "Meno dannoso di una spada, ma con una portata maggiore."
+    ],
+    "quest.405DCD3E36232EEA.quest_subtitle": "Risveglia il tuo spirito guerriero.",
+    "quest.427516AA3E8C9442.quest_subtitle": "Pala versatile",
+    "quest.45899579D9B92D91.quest_desc": [
+        "\\&aController\\&r è il componente centrale di \\&c\\&lFoundry\\&r.\n\nOgni \\&c\\&lFoundry\\&r avrà bisogno di almeno uno \\&aController\\&r.\n\nPossiamo utilizzare l'\\&aController\\&r per visualizzare l'interfaccia grafica di \\&c\\&lFoundry\\&r. Qui possiamo vedere le quantità di liquidi presenti in \\&c\\&lFoundry\\&r.\n\nPossiamo anche utilizzarlo per aggiungere e rimuovere oggetti da e all'interno di \\&c\\&lFoundry\\&r."
+    ],
+    "quest.45899579D9B92D91.title": "e altri",
+    "quest.462C1F75A2FB9F02.quest_subtitle": "Dove è Willy?",
+    "quest.48D358470A019E7A.title": "Catalizzatore Starlight Charger di livello 1",
+    "quest.52CDB46F6CBF007B.quest_subtitle": "Ti piace? \/ Ti sta piacendo?",
+    "quest.63CAD77A4488F2CE.quest_subtitle": "Pala + Asse + Zappa",
+    "quest.657B3116A6419420.quest_subtitle": "Il tuo nome utente!",
+    "quest.67216EC5274F08B9.quest_subtitle": "Utilizzato da Shear-perds",
+    "quest.69383DA579901E7E.quest_subtitle": "Permettimi di farti una domanda.",
+    "quest.6A393C7A24899E3E.quest_desc": [
+        "Inserire un lingotto nel Grader, utilizzando un Catalizzatore per il Grader, conferirà al materiale un determinato livello.\n\nMaggiore è il livello, migliori saranno le statistiche del materiale.\n\nIl livello più alto è \"MAX\"."
+    ],
+    "quest.6A393C7A24899E3E.quest_subtitle": "Il test di materiali",
+    "quest.6B78378BC8036227.title": "Catalizzatore di livello 1",
+    "quest.6BBC440BD0AD0E93.quest_desc": [
+        "Alcune persone preferiscono \"Silent Gear\", mentre altre preferiscono \"Tinker's Construct\".\n\nInvece di scegliere tra le due, abbiamo deciso di combinare i vantaggi di entrambe, utilizzando sia \"Silent Gear\" che \"Productive Metalworks\"!\n\n\"Productive Metalworks\" cambierà il modo in cui otteniamo gli oggetti \"Silent\". Invece di utilizzare i \"Blueprints\", ora avremo bisogno di \"Casts\" e di un \"Foundry\".\n\nPer iniziare a utilizzare il \"Foundry\", inizia con la \"Fire Clay\"."
+    ],
+    "quest.6BBC440BD0AD0E93.title": "\\&9\\&lSilent Gear\\&r e \\&c\\&lProductive Metalworks",
+    "quest.6BFD7854F078BF16.quest_subtitle": "Prendi il controllo; Afferra la situazione; Afferra la situazione e gestiscila.",
+    "quest.711826BBCA832EE2.quest_desc": [
+        "Tutti i materiali ottenuti tramite fusione sono equivalenti. In un altro senso, intendo dire che vengono prodotti nello stesso modo.\n\nIn particolare, si ottiene il metallo fondendo qualsiasi oggetto o lingotto di metallo in una \"fabbrica\".\n\nCome si ottiene il metallo, mi chiedo? Basta fondere qualsiasi oggetto o lingotto di metallo. Oppure, si può fondere 9 unità di \"ferro\" con 10 unità di \"carbone\".\n\nLa fusione avverrà quando la \"fabbrica\" è riscaldata e contenga le giuste quantità di diversi metalli liquidi. Questi due metalli liquidi si combineranno in un unico metallo liquido!"
+    ],
+    "quest.711826BBCA832EE2.title": "\\&Casting",
+    "quest.766C80E5D7B7A916.quest_subtitle": "Scegliene uno!",
+    "quest.769D5DE66D13B256.quest_desc": [
+        "Questo contenuto è stato creato da \\&6AllTheMods Staff\\&r, oppure da un \\&2contributore della community\\&r, per l'uso nei pacchetti di mod di AllTheMods.\\n\\nPoiché tutti i pacchetti di AllTheMods sono soggetti al copyright \\&eTutti i diritti riservati\\&r, questo contenuto non può essere utilizzato in altri pacchetti pubblici, a meno che non sia stato rilasciato dal team di AllTheMods, previa autorizzazione esplicita.\\n\\nQuesto contenuto è stato intenzionalmente nascosto. Se lo state visualizzando, siete in modalità di modifica."
+    ],
+    "quest.7C3D763CF22D167A.quest_desc": [
+        "Lo Starlight Charger può \"potenziare\" i materiali con l'incantesimo \"Caricato con la Luce Stellare\".\\n\\nÈ necessario costruire una struttura con lo Starlight Charger al centro, rivolta verso il cielo notturno. Lo Starlight Charger ottiene energia solo durante la notte.\\n\\nLo Starlight Charger deve essere posizionato al centro di una struttura di 7x7, con un pilastro in ogni angolo. Ogni pilastro deve avere un \"cappello per lo Starlight Charger\".\\n\\nÈ inoltre necessario un catalizzatore per lo Starlight Charger per ogni materiale."
+    ],
+    "quest.7C3D763CF22D167A.quest_subtitle": "Materiali affascinanti",
+    "quest.7C3D763CF22D167A.title": "\\& Caricatore Starlight",
+    "quest.7D690A7D0FF6E328.title": "Catalizzatore di terza categoria",
+    "quest.7E13007340A818C5.quest_desc": [
+        "Questo è un supporto per la base di livello 1 per il caricatore Starlight."
+    ],
+    "quest.7E13007340A818C5.title": "Tappo per pilastro di ricarica Starlight (Livello 1)",
+    "task.55E0635973A828B0.title": "Tutti i diritti riservati",
+    "task.6D9DBD885FE4C94C.title": "Tutti i diritti riservati"
+}

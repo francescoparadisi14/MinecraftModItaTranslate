@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Prezzo: :coin: 16.384$(li)Latte: Latte di capra$(li)Ricarica del latte: 2 giorni$(li)Bottino: Corno di capra$(br2)$(l)Note$()$(br)I corni di capra sono un prodotto dell'avventuriero, che può essere sfruttato"
+            "text": "patchouli:text\n\n$(l)Statistiche$()$(li)Prezzo: 16,384$(li)Latte: Latte di capra$(li)Tempo di ricarica del latte: 2 giorni$(li)Oggetti ottenuti: Corno di capra$(br2)$(l)Note$()$(br)I corni di capra sono un oggetto di equipaggiamento per gli avventurieri, che possono essere utilizzati"
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:goat",
             "scale": 0.8,
-            "text": "Difficile da allevare, ma il valore delle loro corna e del formaggio rende lo sforzo degno di essere fatto."
+            "text": "Patchouli: entità\n\nCapra (Minecraft)\n\nAnche se richiedono molta cura, il valore delle loro corna e del formaggio le rende un investimento valido."
         }
     ]
 }

@@ -8,6 +8,7 @@
     "block.createlowheated.basic_burner.tooltip.condition2": "Requires Flint and Steel",
     "block.createlowheated.basic_burner.tooltip.condition3": "Empowered Burner",
     "block.createlowheated.basic_burner.tooltip.summary": "Provides _heat_ to _Basin Recipes_ and the _Steam Engine_.",
+    "create.addon.basicburner.burner_contents": "Basic Burner Contents:",
     "create.recipe.heat_requirement.lowheated": "Low-Heated",
     "itemGroup.createlowheated.base": "Create Low-Heated"
 }

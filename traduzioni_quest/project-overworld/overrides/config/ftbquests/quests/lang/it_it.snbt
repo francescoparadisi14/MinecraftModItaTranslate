@@ -2,13 +2,13 @@
     "chapter.25979D2AF2843801.title": "Capitolo 1",
     "chapter_group.64E2D7E19EC9DAF0.title": "Nuovi inizi",
     "quest.1955DB5ED3C5A70A.quest_desc": [
-        "Benvenuto nel progetto Overworld!",
+        "\\&l\\&nBenvenuti in Project Overworld!",
         "",
-        "Lo scopo di questo modpack è creare un'esperienza molto ampia e aperta, in cui tutti possono godersi!",
+        "L'obiettivo di questo pacchetto di modifiche è quello di creare un'esperienza ampia e versatile, in grado di essere apprezzata da tutti!",
         "",
-        "Questo è il mio primo pacchetto di mod, quindi potrebbero esserci bug e problemi, se ne emergono, farò del mio meglio per risolverli al più presto possibile!"
+        "Questo è il mio primo pacchetto di modifiche, quindi potrebbero esserci bug o problemi. Farò del mio meglio per risolverli il prima possibile!"
     ],
-    "quest.1955DB5ED3C5A70A.quest_subtitle": "Hai saputo che un pinguino ha creato questo?",
-    "task.39C2630634E36F34.title": "Benvenuto!",
-    "task.3A93C08F700DBEDB.title": "Qualsiasi #minecraft:logs"
+    "quest.1955DB5ED3C5A70A.quest_subtitle": "Sai che è stato un pinguino a creare questo?",
+    "task.39C2630634E36F34.title": "Benvenuti!",
+    "task.3A93C08F700DBEDB.title": "Qualsiasi log relativo a Minecraft."
 }

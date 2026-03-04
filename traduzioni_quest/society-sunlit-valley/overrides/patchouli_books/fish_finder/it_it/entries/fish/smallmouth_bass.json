@@ -1,18 +1,18 @@
 {
-    "name": "Bassotto piccolo",
+    "name": "Eso, persico di fiume",
     "category": "patchouli:fish",
     "icon": "aquaculture:smallmouth_bass",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li):moneta: 40$(li)§0🌼 §2Primavera§0 §0🔥 §6Estate§0 §0🍂 §4Autunno§0$(li)Acqua: Fiume$(li)Vento: Qualsiasi$(li)Ora: Primavera (notte), Estate (notte\/giorno), Autunno (giorno)`"
+            "text": "patchouli: testo\n\n$(l)Statistiche$()$(li): monete: 40$(li)§0🌼 §2Primavera§0 §0🔥 §6Estate§0 §0🍂 §4Autunno§0$(li)Acqua: Fiume$(li)Meteo: Qualsiasi$(li)Ora: Primavera (notte), Estate (notte\/giorno), Autunno (giorno)"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:smallmouth_bass",
             "scale": 0.8,
             "rotate": true,
-            "text": "Portami al fiume"
+            "text": "patchouli: entità\n\nacquacoltura: persico di piccola taglia\n\nPORTAMI AL Fiume."
         }
     ]
 }

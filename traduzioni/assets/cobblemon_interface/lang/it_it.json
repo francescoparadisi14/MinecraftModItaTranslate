@@ -1,0 +1,13 @@
+{
+    "rpo.cobblemonInterface": "Interfaccia Cobblemon",
+    "rpo.cobblemonInterface.boostClickSound": "Aumenta il suono del clic",
+    "rpo.cobblemonInterface.boostClickSound.tooltip": "Aumenta il volume del suono associato ai clic nell'interfaccia utente, rendendolo più forte.",
+    "rpo.cobblemonInterface.hudColor": "Colori degli sprite HUD",
+    "rpo.cobblemonInterface.hudColor.minecraft": "Minecraft",
+    "rpo.cobblemonInterface.hudColor.minecraft.tooltip": "Schema di colori basato sulla vaniglia",
+    "rpo.cobblemonInterface.hudColor.pokemon": "Pokémon",
+    "rpo.cobblemonInterface.hudColor.pokemon.tooltip": "La barra della salute e dell'esperienza dei Pokémon di Cobblemon.",
+    "rpo.cobblemonInterface.hudColor.tooltip": "Quale schema di colori utilizzare per le barre che rappresentano \"Cuore\", \"Fame\" e \"Esperienza\"?",
+    "rpo.cobblemonInterface.panorama": "Panoramica",
+    "rpo.cobblemonInterface.panorama.tooltip": "Dovresti utilizzare un panorama personalizzato a tema Cobblemon."
+}

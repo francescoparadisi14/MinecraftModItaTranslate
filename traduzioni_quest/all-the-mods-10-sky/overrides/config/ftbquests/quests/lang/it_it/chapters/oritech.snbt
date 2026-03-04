@@ -1,0 +1,141 @@
+{
+    "quest.01C0DC225CB25A0C.quest_subtitle": "L'addon Hunter consente di puntare i nemici con il laser.",
+    "quest.01C0DC225CB25A0C.title": "Gruppi di persone che danneggiano",
+    "quest.02315D55EB638E3C.quest_subtitle": "Utilizzare la biomassa",
+    "quest.0C9F9196CA49FF8D.quest_subtitle": "Trova il minerale di nichel per iniziare il tuo viaggio.",
+    "quest.0C9F9196CA49FF8D.title": "Le origini di Oritech",
+    "quest.0EC0F93FA4B4BE49.quest_desc": [
+        "Questa macchina può essere alimentata esclusivamente con laser Enderic. È utilizzata per creare oggetti di alto valore."
+    ],
+    "quest.0EC0F93FA4B4BE49.quest_subtitle": "Macchina per la creazione di oggetti di ultima generazione",
+    "quest.114EACA9B32B32FB.quest_subtitle": "Sapete come funziona...",
+    "quest.11A4C57600E692EC.quest_subtitle": "Aumentare la capacità energetica della macchina",
+    "quest.124CD4B8876B81F6.quest_subtitle": "Conserva l'energia che produci.",
+    "quest.124CD4B8876B81F6.title": "Memorizzazione dell'energia",
+    "quest.161EDD68FF1A7F1B.quest_subtitle": "Funziona grazie al magma",
+    "quest.1630CFBFB562C43B.quest_subtitle": "Utilizzare combustibili liquidi per generare energia.",
+    "quest.175509632CBF8631.quest_desc": [
+        "Migliora la resa di tutti i processi di macinatura."
+    ],
+    "quest.175509632CBF8631.quest_subtitle": "Un frantoio più efficiente",
+    "quest.1831B35A3239B583.quest_subtitle": "Preparare più ricette contemporaneamente",
+    "quest.1B2BD489D5173B40.quest_subtitle": "Molti modi per ottenerlo.",
+    "quest.1D9A00C81C2A97F0.quest_subtitle": "Deludente",
+    "quest.1DBF1D4061518B0B.quest_subtitle": "Trasformare qualcosa in qualcosa di più",
+    "quest.1DBF1D4061518B0B.title": "Purificazione dei minerali",
+    "quest.1F139091C1B4E50B.quest_subtitle": "Un circuito normale",
+    "quest.208F759905CF7744.quest_desc": [
+        "Le basi per droni sono relativamente veloci, ma richiedono una distanza minima di 450 blocchi per funzionare.",
+        "",
+        "Per utilizzare i portali per droni, posiziona due di essi e, quindi, fai clic con il tasto destro sul tuo \\&5indicatore di bersaglio\\&r su uno di essi per memorizzare la sua posizione. Apri l'interfaccia del secondo e posiziona il tuo \\&5indicatore di bersaglio\\&r al suo interno.",
+        "",
+        "Ora, quando il centro di gestione dei droni, dove avete posizionato il sistema di designazione, sarà operativo, lancerà un drone per trasportare gli oggetti."
+    ],
+    "quest.208F759905CF7744.quest_subtitle": "Sì, ci sono droni.",
+    "quest.24310BEACE75749D.quest_desc": [
+        "Gli addon fungono sia da aggiornamenti, sia come moduli per \\&5Oritech.",
+        "",
+        "Gli addon devono essere aggiunti in modo simile a delle fessure, come nel caso di componenti aggiuntivi. Il numero di addon dipende dal numero di core utilizzati.",
+        "",
+        "",
+        "{image:atm:textures\/questpics\/oritech\/ori-addon-slot.png width:50 height:100 align:left}",
+        "",
+        "Gli add-on aggiungono inoltre funzionalità aggiuntive alle macchine. A volte, sarà necessario aggiungere degli add-on specifici per consentire l'esecuzione delle ricette."
+    ],
+    "quest.24310BEACE75749D.quest_subtitle": "Rendere l'esperienza degna di nota; rendere l'investimento valido.",
+    "quest.290C1416EA2B5DF2.quest_subtitle": "Sembrano un po' aridi.",
+    "quest.2A69272FD3C57924.quest_subtitle": "Leggermente migliore",
+    "quest.310FA9380CB3E0BB.quest_subtitle": "Permette di aggiungere liquidi al centrifugatore.",
+    "quest.334AB2ED426108C7.quest_subtitle": "Chiamatelo come volete, ma funziona comunque.",
+    "quest.35BC118040E7428F.quest_desc": [
+        "I laser di Enderic hanno molteplici applicazioni:",
+        "",
+        "1. Sono in grado di trasferire energia in modo molto efficiente.",
+        "2. Vengono utilizzati per trasformare i materiali.",
+        "3. Possono distruggere i blocchi.",
+        "4. Accelerano la crescita dell'amazzone."
+    ],
+    "quest.35BC118040E7428F.quest_subtitle": "Non utilizzare in presenza di gatti.",
+    "quest.38F4448F9603FE68.quest_subtitle": "2 ulteriori passaggi verso l'eccellenza",
+    "quest.3DD27DED791C6A0B.quest_desc": [
+        "Per lavorare i minerali utilizzando il modulo \"\\&5Oritech\", è necessario utilizzare un \"\\&aCentrifuga\" e un \"\\&6Additivo per fluidi\" insieme a un \"\\&aFrantoio\" o a un \"\\&6Forgia per frammenti\"."
+    ],
+    "quest.3DD27DED791C6A0B.quest_subtitle": "Massimo rendimento",
+    "quest.3DD27DED791C6A0B.title": "Lavorazione del grano",
+    "quest.3EB34CC8A3B0DB3C.quest_subtitle": "Non è adatto come alimento per criceti.",
+    "quest.418E0A23EC74F320.quest_desc": [
+        "Un macchinario fondamentale per i vostri futuri progetti."
+    ],
+    "quest.418E0A23EC74F320.quest_subtitle": "Mi fai girare la testa...",
+    "quest.46EFCAE81C09368A.quest_desc": [
+        "I nuclei delle macchine costituiscono la base di \\&9Oritech. Per costruire le macchine, è necessario utilizzare i nuclei delle macchine.",
+        "",
+        "Non influiscono direttamente sulla velocità o sull'efficienza delle macchine, ma solo sul numero di modificatori."
+    ],
+    "quest.46EFCAE81C09368A.quest_subtitle": "Tutte le macchine utilizzano componenti specifici per macchine.",
+    "quest.46EFCAE81C09368A.title": "Nuclei di macchine",
+    "quest.49D03933633D6A45.quest_subtitle": "È intelligenza artificiale.",
+    "quest.4CFA7EE8174E3FD8.quest_subtitle": "Aumentare il tasso di apporto energetico",
+    "quest.4EAD06B0B3AD7D6E.quest_subtitle": "Estrarre minerali grezzi",
+    "quest.4EAD06B0B3AD7D6E.title": "Grandi gruppi; ammassi",
+    "quest.4ED29ACF4A699E1B.quest_subtitle": "È meglio",
+    "quest.4F89C04CEBF812F9.quest_subtitle": "Fusione delle gemme in lingotti",
+    "quest.4F89C04CEBF812F9.title": "Lingotti",
+    "quest.50243E5CF1B156ED.quest_desc": [
+        "Per ottenere 5 unità di polvere di Plutonio, è necessario frammentare 1 unità di Uranio grezzo nel Forno di Frammentazione per ottenere 5 unità di \"Polvere di Plutonio\". Non preoccupatevi del fatto che provenga da \"Industrializzazione Moderna\", potrete comunque utilizzarla per Oritech."
+    ],
+    "quest.50243E5CF1B156ED.quest_subtitle": "Dal uranio al plutonio",
+    "quest.5189D72ED3808DC6.quest_desc": [
+        "Selezionate il designatore del bersaglio all'interno del gruppo di ametista, quindi cliccate nuovamente con il tasto destro per impostare il bersaglio.",
+        "",
+        "Questi piccoli cristalli non sono solo belli da vedere. Sono in grado di immagazzinare energia e possono essere utilizzati per creare macchinari più complessi."
+    ],
+    "quest.5189D72ED3808DC6.quest_subtitle": "Caricare l'ametista con il laser",
+    "quest.53880926982968FD.quest_subtitle": "Dì il mio nome.",
+    "quest.53D5A6F210DF199C.quest_subtitle": "Trasferire in modo fluido 10.000 unità di frequenza\/tempo",
+    "quest.53D5A6F210DF199C.title": "Trasferimento di energia",
+    "quest.55DCCC4035B8BB2A.quest_subtitle": "Mescola il Netherite e il platino.",
+    "quest.58819CE09A648A43.quest_subtitle": "Questi verranno utilizzati per costruire la maggior parte delle macchine.",
+    "quest.58819CE09A648A43.title": "Componenti fondamentali",
+    "quest.5932B5AD48F6AB74.quest_desc": [
+        "Utilizzare un dispositivo di potenziamento, come il \"\\&5Pipe Booster\", per aumentare la velocità di estrazione delle tubature \"\\&2Oritech\"."
+    ],
+    "quest.5932B5AD48F6AB74.quest_subtitle": "Li rende più veloci",
+    "quest.5E9AF8BB2C67DCCE.quest_subtitle": "Molti modi per trasportare liquidi",
+    "quest.5E9AF8BB2C67DCCE.title": "Trasporto di liquidi",
+    "quest.5F8363EC8F4499B6.quest_subtitle": "Creazione di leghe",
+    "quest.6134991F25B25B42.quest_desc": [
+        "I \"Assemblatori\" non solo consentono di creare nuovi oggetti, ma migliorano anche la resa per alcuni altri oggetti."
+    ],
+    "quest.6134991F25B25B42.quest_subtitle": "Più di un semplice artigiano",
+    "quest.6134991F25B25B42.title": "Assemblare le cose",
+    "quest.6539582429A70EE8.quest_subtitle": "Oritech può utilizzare l'energia prodotta da diverse fonti presenti in questo pacchetto.",
+    "quest.6EBFA16D212A7B22.quest_subtitle": "Migliore",
+    "quest.6FFD0301AC8C83ED.quest_subtitle": "Utilizzando meno energia",
+    "quest.7032AC2B9066CC39.quest_desc": [
+        "Posizionalo in uno slot aggiuntivo e avrai più spazio per installare i tuoi componenti aggiuntivi."
+    ],
+    "quest.7032AC2B9066CC39.quest_subtitle": "Più funzionalità!",
+    "quest.7084E47579D62B52.quest_subtitle": "Un circuito per fare di più.",
+    "quest.70FAD4013FA8A14A.quest_subtitle": "Aumentare la velocità di elaborazione",
+    "quest.72E7AE66F2A7C4C4.quest_subtitle": "Utilizzare fluidi nelle macchine",
+    "quest.7937DE650CABC1FF.quest_subtitle": "Funziona con combustibile per caldaia",
+    "quest.7CBAD1047B087803.quest_desc": [
+        "Ora, con l'aggiunta di \"\\&eclumps\\&r\", potrete utilizzare un add-on per centrifughe per introdurre \"\\&aSulphuric Acid\\&r\". Quando \"\\&eclumps\\&r\" vengono trattati con questo acido, otterrete gemme.",
+        "",
+        "In alternativa, è possibile utilizzare il fertilizzante \\&9Water\\&r per ottenere una resa inferiore.",
+        "",
+        "\\&Nota",
+        "",
+        "Attualmente, alcune ricette presentano errori che producono polvere o piccoli pezzi."
+    ],
+    "quest.7CBAD1047B087803.quest_subtitle": "Centrare un groviglio di materiale mi permette di ottenere gemme...?",
+    "quest.7CBAD1047B087803.title": "Trasformare in gemme",
+    "quest.7D2F41DD9774DDA7.title": "Trasporto di merci",
+    "task.2687A493F6A78164.title": "Gemme",
+    "task.3CC9C741B461AD4B.title": "Grandi gruppi; ammassi",
+    "task.400E42F53FDE783C.title": "Lingotti",
+    "task.6E85FE06F0AA556A.title": "Gemme",
+    "task.7C454550A8F933AC.title": "Produzione di energia",
+    "task.7C85CBE79E91F28B.title": "Estensioni"
+}

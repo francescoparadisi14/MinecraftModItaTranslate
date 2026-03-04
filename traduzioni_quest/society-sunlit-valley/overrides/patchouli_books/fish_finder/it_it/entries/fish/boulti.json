@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 128 monete$(li)Simbolo di fuoco: Estivo$(li)Acqua: Fresca$(li)Clima: Qualsiasi$(li)Ora: Notte"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 128$(li)§0🔥 §6Estate§0$(li)Acqua: Fresca$(li)Meteo: Qualsiasi$(li)Ora: Notte"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:boulti",
             "scale": 0.8,
             "rotate": true,
-            "text": "Si attacca a cosa?"
+            "text": "patchouli: entità\n\nacquacoltura: boulti\n\n\"Bolting\" a cosa?"
         }
     ]
 }

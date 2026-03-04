@@ -1,0 +1,20 @@
+{
+    "attribute.name.critical_strike.chance": "Critical Hit Chance",
+    "attribute.name.critical_strike.damage": "Critical Hit Damage",
+    "effect.critical_strike.chance": "Critical Hit",
+    "effect.critical_strike.chance.description": "Increases the chance to deal critical hits.",
+    "effect.critical_strike.damage": "Critical Impact",
+    "effect.critical_strike.damage.description": "Increases the damage dealt by critical hits.",
+    "enchantment.critical_strike.chance": "Critical Hit",
+    "enchantment.critical_strike.chance.description": "Increase chance to deal critical hits.",
+    "enchantment.critical_strike.damage": "Critical Impact",
+    "enchantment.critical_strike.damage.description": "Increase damage dealt by critical hits.",
+    "item.minecraft.lingering_potion.effect.critical_strike_chance": "Lingering Potion of Critical Hit",
+    "item.minecraft.lingering_potion.effect.critical_strike_damage": "Lingering Potion of Critical Impact",
+    "item.minecraft.potion.effect.critical_strike_chance": "Potion of Critical Hit",
+    "item.minecraft.potion.effect.critical_strike_damage": "Potion of Critical Impact",
+    "item.minecraft.splash_potion.effect.critical_strike_chance": "Splash Potion of Critical Hit",
+    "item.minecraft.splash_potion.effect.critical_strike_damage": "Splash Potion of Critical Impact",
+    "item.minecraft.tipped_arrow.effect.critical_strike_chance": "Arrow of Critical Hit",
+    "item.minecraft.tipped_arrow.effect.critical_strike_damage": "Arrow of Critical Impact"
+}

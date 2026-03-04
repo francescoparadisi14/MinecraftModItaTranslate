@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 48 monete$(li)Simbolo di fuoco: Estate$(li)Acqua: Fresca$(li)Clima: Pioggia Neve$(li)Ora: Notte"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 48$(li)§0🔥 §6Estate§0$(li)Acqua: Fresca$(li)Tempo: Pioggia, Neve$(li)Ora: Notte"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:piranha",
             "scale": 0.8,
             "rotate": true,
-            "text": "Ha, ti mangierà."
+            "text": "Patchouli: organismo\n\nAcquacoltura: piranha\n\nTi mangerà."
         }
     ]
 }

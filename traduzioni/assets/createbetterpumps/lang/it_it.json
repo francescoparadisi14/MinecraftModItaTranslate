@@ -1,0 +1,13 @@
+{
+    "block.createbetterpumps.brass_pump": "Pompa in ottone",
+    "block.createbetterpumps.diamond_pump": "Pompa a diamante",
+    "block.createbetterpumps.gold_pump": "Pompa dorata",
+    "block.createbetterpumps.iron_pump": "Pompa in acciaio",
+    "block.createbetterpumps.large_cog_brass_pump": "Pompa in ottone di grandi dimensioni",
+    "block.createbetterpumps.large_cog_diamond_pump": "Pompa a diaframma per grandi coltelli",
+    "block.createbetterpumps.large_cog_gold_pump": "Pompa per oro di grandi dimensioni",
+    "block.createbetterpumps.large_cog_iron_pump": "Pompa in ferro di grandi dimensioni",
+    "block.createbetterpumps.large_cog_wood_pump": "Pompa per legno a ingranaggi di grandi dimensioni",
+    "block.createbetterpumps.wood_pump": "Pompa in legno",
+    "itemGroup.better_pumps": "Crea: Pompe Migliori"
+}

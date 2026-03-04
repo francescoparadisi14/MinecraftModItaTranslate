@@ -1,14 +1,14 @@
 {
-    "block.molten_vents.active_molten_asurine": "Asurina in ebollizione attiva",
-    "block.molten_vents.active_molten_crimsite": "Sito di crisi in fusione attivo",
-    "block.molten_vents.active_molten_ochrum": "Ochruro in ebollizione attivo",
-    "block.molten_vents.active_molten_scorchia": "Scorchia in ebollizione attiva",
-    "block.molten_vents.active_molten_scoria": "Soria fusa attiva",
-    "block.molten_vents.active_molten_veridium": "Veridio in fusione attivo",
-    "block.molten_vents.dormant_molten_asurine": "Asurina in stato di letargo",
-    "block.molten_vents.dormant_molten_crimsite": "Sito di crisi idrotermale dormiente",
-    "block.molten_vents.dormant_molten_ochrum": "Ochruro di magma addormentato",
-    "block.molten_vents.dormant_molten_scorchia": "Scorchia in stato di letargo",
-    "block.molten_vents.dormant_molten_scoria": "Scoria di magma addormentata",
-    "block.molten_vents.dormant_molten_veridium": "Veridio in stato di quiete"
+    "block.molten_vents.active_molten_asurine": "Materiale fuso attivo",
+    "block.molten_vents.active_molten_crimsite": "Attivo, materiale fuso, Crimsite",
+    "block.molten_vents.active_molten_ochrum": "Ocre fusa attiva",
+    "block.molten_vents.active_molten_scorchia": "Attivo, fuso, Scorchia",
+    "block.molten_vents.active_molten_scoria": "Fusione attiva di scorie",
+    "block.molten_vents.active_molten_veridium": "Veridium attivo",
+    "block.molten_vents.dormant_molten_asurine": "Asurina dormiente, in forma liquida",
+    "block.molten_vents.dormant_molten_crimsite": "Crimsite in stato di dormienza",
+    "block.molten_vents.dormant_molten_ochrum": "Ocre fuso in stato di dormienza",
+    "block.molten_vents.dormant_molten_scorchia": "Scorchia dormiente",
+    "block.molten_vents.dormant_molten_scoria": "Fusione dormiente di scorie",
+    "block.molten_vents.dormant_molten_veridium": "Veridium in stato di quiescenza"
 }

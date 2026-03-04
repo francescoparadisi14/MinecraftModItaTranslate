@@ -1,9 +1,8 @@
 {
-    "appfkux.type.fe.name": "FE",
-    "appfkux.type.gteu.name": "EU(GT)",
     "appflux.cell.storage": "Contains: %s %s",
     "appflux.key.flux": "Energy",
     "appflux.type.fe.name": "FE",
+    "appflux.type.gteu.name": "EU(GT)",
     "block.appflux.charged_redstone_block": "Charged Redstone Crystal Block",
     "block.appflux.flux_accessor": "Flux Accessor",
     "block.appflux.flux_accessor.tooltip.1": "Pull energy from network.",

@@ -1,8 +1,8 @@
 {
     "calmmornings.sleep.not_safe": "Una presenza ostile ti sveglia...",
-    "letmesleep.config.BETTER_CHECKING": "Controllo migliore",
+    "letmesleep.config.BETTER_CHECKING": "Controllo più accurato",
     "letmesleep.config.CATEGORY_GENERAL": "Impostazioni generali",
-    "letmesleep.config.HORIZONTAL_RANGE": "Raggio orizzontale",
-    "letmesleep.config.MOB_CHECK": "Controllo mostro",
-    "letmesleep.config.VERTICAL_RANGE": "Intervallo verticale"
+    "letmesleep.config.HORIZONTAL_RANGE": "Campo orizzontale",
+    "letmesleep.config.MOB_CHECK": "Controllo del mostro",
+    "letmesleep.config.VERTICAL_RANGE": "Campo verticale"
 }

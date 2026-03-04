@@ -1,0 +1,8 @@
+{
+    "prometheus:campfire_tags": "Fuochi da campo di Prometheus",
+    "prometheus:fire_charge_tags": "Cariche di fuoco di Prometheus",
+    "prometheus:fire_source_tags": "Fonti di fuoco di Prometheus",
+    "prometheus_dynamic_campfire_tags": "Assegna ai fuochi da campo il tag corretto",
+    "prometheus_dynamic_fire_charge_tags": "Assegna alle cariche di fuoco il tag corretto",
+    "prometheus_dynamic_fire_source_tags": "Assegna alle fonti di fuoco il tag corretto"
+}

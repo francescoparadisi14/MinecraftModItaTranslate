@@ -1,13 +1,13 @@
 {
     "item.astrochem.benzene": "Benzene",
-    "item.astrochem.calorite_dust": "Polvere di calorite",
-    "item.astrochem.cryo_fluid_phial": "Fiale di fluido criogenico",
+    "item.astrochem.calorite_dust": "Polvere termica",
+    "item.astrochem.cryo_fluid_phial": "Fiala per fluidi criogenici",
     "item.astrochem.cryogenic_nitrogen": "Azoto criogenico",
     "item.astrochem.cryogenic_oxygen": "Ossigeno criogenico",
-    "item.astrochem.desh_dust": "Polvere desh",
+    "item.astrochem.desh_dust": "Desh Dust",
     "item.astrochem.methanol": "Metanolo",
-    "item.astrochem.nitro_methane": "Nitro-metano",
-    "item.astrochem.ostrum_dust": "Polvere di ostrum",
-    "item.astrochem.petroleum": "Petrolifero",
-    "itemGroup.astrochem_tab": "Tab astrochimica"
+    "item.astrochem.nitro_methane": "Metano nitrato",
+    "item.astrochem.ostrum_dust": "Polvere di Ostrum",
+    "item.astrochem.petroleum": "Petrolio",
+    "itemGroup.astrochem_tab": "AstroChem"
 }

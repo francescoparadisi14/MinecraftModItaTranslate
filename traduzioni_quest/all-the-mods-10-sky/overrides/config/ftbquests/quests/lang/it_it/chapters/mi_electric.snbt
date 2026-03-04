@@ -1,0 +1,157 @@
+{
+    "quest.068128395837AF4F.quest_subtitle": "Come per il vapore, ovvero \"uno solo\".",
+    "quest.08C870DC50CA49FC.quest_desc": [
+        "L'olio grezzo da solo non ha molte applicazioni, ma quando viene sottoposto a un processo di distillazione, possiamo ottenere prodotti che possono essere utilizzati per una vasta gamma di scopi.",
+        "",
+        "Possiamo produrre, grazie a questo, combustibile pesante a base di solfato, combustibile leggero a base di solfato e nafta a base di solfato."
+    ],
+    "quest.08C870DC50CA49FC.title": "Elaborazione del petrolio greggio",
+    "quest.0903F0D8642449B7.quest_desc": [
+        "Passando da un circuito analogico, ora siamo in grado di elaborare più di 2 bit di informazioni. Questo apre nuove possibilità per alcuni tipi di macchine."
+    ],
+    "quest.0A9ADDE68342B987.quest_desc": [
+        "Per produrre il polietilene, è necessario seguire la seguente sequenza di reazioni chimiche:",
+        "",
+        "\\&8Olio grezzo\\&r -> \\&#D2CD2DSulfato di acido\\&r-> \\&#DBD658Combustibile leggero\\&r-> \\&#E2DF78Combustibile leggero a base di vapore\\&r -> \\&#44D1DBEtilene\\&r -> \\&#43DEC2Polietilene\\&r."
+    ],
+    "quest.0C94D76B87E49FFD.title": "Lavorazione dell'acciaio",
+    "quest.103728F2BAD5AE84.title": "Componenti avanzate",
+    "quest.1351D0594F1E6551.quest_desc": [
+        "Questi componenti di base ci porteranno a una nuova svolta nel campo dell'elaborazione."
+    ],
+    "quest.1351D0594F1E6551.title": "Componenti dei circuiti",
+    "quest.162807D14C173CB4.quest_desc": [
+        "La centrifuga ha confermato la nostra teoria: se si fa ruotare qualcosa abbastanza velocemente, un nuovo materiale ne esce. Ha molte applicazioni, ma la utilizzerete principalmente per la lavorazione del cromo e della monazite."
+    ],
+    "quest.162807D14C173CB4.quest_subtitle": "Mi fai girare la testa, giro, giro...",
+    "quest.1745124F83D033B9.title": "Componenti di base",
+    "quest.18C0EF38430C3E67.quest_subtitle": "L'era digitale",
+    "quest.1A84DF4478D55C41.quest_subtitle": "Come per il vapore, ovvero \"uno solo\".",
+    "quest.1B4CD5AC8F6C3307.quest_desc": [
+        "Il modulo \\&#4497DBOverdrive mantiene l'efficienza della macchina anche quando la ricetta non è attualmente in esecuzione. In cambio, blocca la macchina per quella specifica ricetta."
+    ],
+    "quest.1E0EF28175A7424F.quest_desc": [
+        "Dato che state già producendo vapore, perché non utilizzarlo per generare elettricità? Basta posizionare una turbina e far passare il vapore per ottenere l'elettricità."
+    ],
+    "quest.1E0EF28175A7424F.quest_subtitle": "Steam -> Elettricità",
+    "quest.1F21B578FAF4CCAC.quest_subtitle": "Come per il vapore, ovvero \"uno solo\".",
+    "quest.1F3E18129B871C49.quest_subtitle": "Come il vapore, ma in una singola unità.",
+    "quest.22AD9DF2BCC04575.quest_subtitle": "Generare energia",
+    "quest.22AD9DF2BCC04575.title": "Produzione di energia elettrica",
+    "quest.256C3DBA392B4236.quest_desc": [
+        "L'elettrolisi delle soluzioni acide per il manganese e il cromo produrrà i loro rispettivi polveri, che potranno essere utilizzate in ricette future."
+    ],
+    "quest.256C3DBA392B4236.quest_subtitle": "9 piccole polveri danno 1 polvere",
+    "quest.2EF0C033C540A7B1.title": "Elaborazione di Ruby",
+    "quest.32D585D9F73CD9FD.quest_desc": [
+        "La fornace elettrica EDDF55 ti permetterà di cuocere diverse risorse. Tuttavia, per utilizzare la fornace, è necessario utilizzare una bobina specifica (B8ED55) all'interno della struttura."
+    ],
+    "quest.374C06B3999BB0D3.quest_desc": [
+        "Mescolando ferro, cromo, nichel e manganese, otterrete polvere di acciaio inossidabile."
+    ],
+    "quest.3A03852E282DAA4D.quest_desc": [
+        "L'elettrolizzatore è in grado di fornire energia in brevi scatti, sufficiente per scomporre i materiali in risorse più elementari."
+    ],
+    "quest.3B9D9CB589DB2003.quest_desc": [
+        "\\&#71EBB4\\&nIndustrializzazione moderna\\&r: le macchine funzionano in modo diverso rispetto ad altre mod. Tutte le macchine hanno un moltiplicatore di efficienza, che aumenta man mano che viene utilizzata per produrre un determinato prodotto. L'efficienza aumenta la velocità di funzionamento della macchina. L'efficienza viene resettata quando viene modificata la ricetta.",
+        "",
+        "Si raccomanda di utilizzare una sola macchina per ogni ricetta, in modo che i componenti vengano prodotti passivamente. Questo è il modo in cui dovrebbe essere giocato il gioco. Gli aggiornamenti miglioreranno il sistema, e questo sarà spiegato in seguito.",
+        "",
+        "{image:atm:textures\/questpics\/modernindustrialization\/prod_line.png width:100 height:100 align:center}",
+        "",
+        "{@pagebreak}",
+        "Tutte le macchine di questo mod accettano l'energia FE come fonte di alimentazione. La combinazione \"16 FE\" si converte in 16 unità di energia EU."
+    ],
+    "quest.3B9D9CB589DB2003.quest_subtitle": "Questo sarà utile.",
+    "quest.3CE72DAF431269CD.quest_desc": [
+        "Lo strumento \"\\&#D6AC2FPolarizer\\&r\" è in grado di magnetizzare i materiali che vengono inseriti al suo interno."
+    ],
+    "quest.401A3FD6A3511870.quest_subtitle": "Apri, apri",
+    "quest.401A3FD6A3511870.title": "Porte",
+    "quest.401B559649C54C5C.quest_desc": [
+        "Mescolando l'idrogeno (\\&#92CCF0) e il cloro (\\&#519BC9) si otterrà acido cloridrico (\\&#4FB373). Questo verrà utilizzato per trattare la polvere di cromo (\\&#F2A0E1)."
+    ],
+    "quest.408EBED932656006.quest_desc": [
+        "L'uso di \"Doping \\&7Silicon\" darà risultati molto migliori rispetto all'utilizzo di \"Silicon\" base."
+    ],
+    "quest.408EBED932656006.title": "Silicio drogato",
+    "quest.413F338DB07BA88C.quest_subtitle": "Come per il vapore.",
+    "quest.4A5A143A79809BB6.quest_desc": [
+        "Ah, finalmente ce l'hai fatta. Benvenuto nell'Era Elettrica, questo è l'inizio vero della tua avventura.",
+        "",
+        "Innanzitutto, abbiamo bisogno di lega di alluminio... per realizzare le batterie, e lo so, è sorprendente."
+    ],
+    "quest.4A5A143A79809BB6.quest_subtitle": "Legatura di batteria",
+    "quest.4A5A143A79809BB6.title": "L'era dell'elettricità",
+    "quest.4E7B1B16C7CDA84C.quest_subtitle": "Come per il vapore, ovvero \"uno solo\".",
+    "quest.532BCAB3FBF91B1D.quest_desc": [
+        ",DB9CAggiornamenti\\&r aggiungono la possibilità per le macchine di entrare in uno stato di \"overclocking\", aumentando ulteriormente la velocità massima.",
+        "",
+        "Una macchina può beneficiare di un numero illimitato di aggiornamenti, a partire dal livello base. L'aggiornamento \"Basic Upgrade\" aggiunge 2 EU\/t alla capacità per ogni aggiornamento."
+    ],
+    "quest.548274CC00E67EC4.quest_desc": [
+        "Trasferire l'elettricità è semplice: basta collegare un cavo tra i due generatori e le macchine. I cavi a bassa tensione (LV) possono trasferire fino a 256 unità di potenza (EU\/t)."
+    ],
+    "quest.548274CC00E67EC4.quest_subtitle": "Limiti del cavo",
+    "quest.548274CC00E67EC4.title": "Cavi LV",
+    "quest.54CE9493B63620C4.quest_desc": [
+        "Il generatore diesel \\&AC59EBDiesel\\&r è in grado di convertire una varietà di combustibili liquidi in elettricità. Tra quelli più facilmente accessibili all'inizio, troviamo l'olio di creosoto e l'olio sintetico."
+    ],
+    "quest.54CE9493B63620C4.quest_subtitle": "Combustibili liquidi -> Elettricità",
+    "quest.55BB4005BB4CA316.title": "Elaborazione della monazite",
+    "quest.5A62260FB3850092.quest_desc": [
+        "Mescolando \\&eSulfur\\&r, \\&6ACDE6Oxygen\\&r e \\&9Water\\&r, si otterrà \\&D3D955Sulfuric Acid\\&r. Questo verrà utilizzato per la lavorazione del \\&7Manganese Dust\\&r."
+    ],
+    "quest.5AA8D2A1F3618615.quest_subtitle": "Trasporto di energia elettrica",
+    "quest.5B50AC47957F0CD7.quest_desc": [
+        "La piattaforma petrolifera \"\\&7Oil Rig\\&r\" estrarrà sia petrolio da scisto che petrolio greggio per conto tuo."
+    ],
+    "quest.5B50AC47957F0CD7.quest_subtitle": "Suoni di aquile",
+    "quest.5D404ED40C6C2690.quest_subtitle": "Aumenta la potenza",
+    "quest.604C003EE6B1CC6B.quest_subtitle": "Come per il vapore, ovvero \"uno solo\".",
+    "quest.6256612D46C88C0C.quest_desc": [
+        "Trasformatori per la conversione di potenze.",
+        "",
+        "Converte l'energia da \\&#EBC471LV a \\&#DDE548MV. Ha 5 ingressi e 1 uscita.",
+        "",
+        "Converte l'energia proveniente da \\&#DDE548MV\\&r in energia per \\&#EBC471LV\\&r. Ha 1 ingresso e 5 uscite."
+    ],
+    "quest.6256612D46C88C0C.quest_subtitle": "La libertà è un diritto di tutti gli esseri senzienti",
+    "quest.6256612D46C88C0C.title": "Trasformatori LV-MV",
+    "quest.6647A9652EFDDCDF.quest_desc": [
+        "Per raffreddare semplicemente l'ingot di acciaio inossidabile, basta metterlo in un congelatore sottovuoto per trasformarlo in un ingot di acciaio inossidabile utilizzabile."
+    ],
+    "quest.66D4256F79D5B30B.quest_subtitle": "Come per il vapore, ovvero \"uno solo\".",
+    "quest.6A25ED4059E224D2.quest_desc": [
+        "L'apparecchio di distillazione viene utilizzato per distillare specifici liquidi, al fine di ottenere risultati più efficaci e adatti alle nostre esigenze.",
+        "",
+        "È necessario bloccare la ricetta per ottenere il risultato desiderato, soprattutto quando un singolo input produce più risultati. Innanzitutto, cliccate sull'icona del lucchetto nell'interfaccia grafica, quindi cliccate sull'icona con il simbolo \"\\&7'\" accanto alla ricetta desiderata."
+    ],
+    "quest.6A25ED4059E224D2.quest_subtitle": "Blocca la ricetta",
+    "quest.6E7DF4AF86A036EC.title": "Estrazione dell'olio da scisti",
+    "quest.72FFD9E471242D68.quest_desc": [
+        "L'acciaio in acciaio richiede temperature più elevate per la fusione rispetto a un forno tradizionale. Dobbiamo utilizzare il nostro forno a fusione elettrico, che abbiamo già costruito."
+    ],
+    "quest.744E620B7DEBB483.quest_desc": [
+        "La macchina per il raffreddamento a vuoto sarà utilizzata per raffreddare lingotti o fluidi, al fine di ottenere rapporti di materiali più favorevoli, quelli che si stanno già producendo."
+    ],
+    "quest.744E620B7DEBB483.quest_subtitle": "Bing Chilling",
+    "quest.76660075F254597E.quest_desc": [
+        "L'aggiornamento avanzato (\\&#F5B758Advanced Upgrade) include un limite massimo di utilizzo per ogni aggiornamento."
+    ],
+    "quest.7E3B19796870C2B1.quest_desc": [
+        "Il reattore chimico modello 9955ED sarà uno degli strumenti più utili per voi in futuro. Sarà utilizzato per la creazione di diversi prodotti chimici."
+    ],
+    "quest.7EDBE88A2CFAB353.quest_desc": [
+        "Le macchine assemblatrici (Assemblers\\&r) vengono utilizzate per la produzione di numerosi componenti e macchinari. Sono in grado di svolgere compiti di assemblaggio in modo automatico.",
+        "Inoltre, offrono anche delle varianti più economiche di alcune ricette che avete già utilizzato."
+    ],
+    "quest.7EDBE88A2CFAB353.quest_subtitle": "Avrete bisogno di molti.",
+    "quest.7FE5864E59D7B827.quest_desc": [
+        "I \"Hulls\\&r\" controllano la quantità di potenza che può essere immessa in una macchina. Man mano che si apportano miglioramenti alla macchina, sarà necessario un \"Hulls\\&r\" di livello superiore per accettare una maggiore potenza. Il livello dell'\"Hulls\\&r\" influisce anche sul tipo di cavo che può essere collegato."
+    ],
+    "quest.7FE5864E59D7B827.quest_subtitle": "Elemento fondamentale",
+    "task.12433760FD40CB3A.title": "Leggete attentamente",
+    "task.1489DD401D237541.title": "Elettricità",
+    "task.1FE598387B609AE5.title": "Trasferimento di energia elettrica"
+}

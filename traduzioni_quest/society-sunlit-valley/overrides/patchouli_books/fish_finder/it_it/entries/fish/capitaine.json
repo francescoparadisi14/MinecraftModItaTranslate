@@ -1,18 +1,18 @@
 {
-    "name": "Capitaine",
+    "name": "Capitano",
     "category": "patchouli:fish",
     "icon": "aquaculture:capitaine",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 288 monete$(li)Simbolo di fuoco: Estate$(li)Acqua: Oceano$(li)Clima: Qualsiasi$(li)Ora: Giorno"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 288$(li)§0🔥 §6Estate§0$(li)Acqua: Oceano$(li)Meteo: Qualsiasi$(li)Ora: Giorno"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:capitaine",
             "scale": 0.8,
             "rotate": true,
-            "text": "Sì, sì, Capitaine."
+            "text": "patchouli: entità\n\nacquacoltura: capitano\n\nSì, sì, Capitano."
         }
     ]
 }

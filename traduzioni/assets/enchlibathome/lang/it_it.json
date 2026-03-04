@@ -1,0 +1,16 @@
+{
+    "block.enchlibathome.ender_library": "Biblioteca di Alessandria",
+    "block.enchlibathome.library": "Biblioteca di incantesimi",
+    "enchantment.level.16": "XVI",
+    "enchantment.level.31": "XXXI",
+    "enchlibathome.ench.library": "Biblioteca di incantesimi",
+    "info.enchlibathome.library": "La libreria degli incantesimi è un blocco che memorizza gli incantesimi. Inserendo un libro incantato, questo viene depositato. Cliccando con il tasto sinistro su un incantesimo memorizzato, si rimuove un livello. Cliccando con il tasto destro (Shift) si rimuove il livello massimo disponibile.",
+    "itemGroup.enchlibathome": "Biblioteca di incantesimi a casa",
+    "tooltip.enchlib.capacity": "Capacità: %s",
+    "tooltip.enchlib.cost": "Costo per punto: %s",
+    "tooltip.enchlib.extracting": "Estrazione del livello %s",
+    "tooltip.enchlib.item": "Memorizza fino a %d incantesimi.",
+    "tooltip.enchlib.max_lvl": "Livello massimo disponibile: %s",
+    "tooltip.enchlib.points": "Punti accumulati: %s\/%s",
+    "tooltip.enchlib.unavailable": "Livello successivo non disponibile"
+}

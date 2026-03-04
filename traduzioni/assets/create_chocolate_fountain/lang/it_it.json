@@ -1,10 +1,14 @@
 {
     "block.create_chocolate_fountain.chocolate_fountain": "Fontana di cioccolato",
-    "create_chocolate_fountain.ponder.chocolate_fountain.header": "Impostazione fontane di cioccolato",
-    "create_chocolate_fountain.ponder.chocolate_fountain.text_1": "I fontane di cioccolato possono essere rifornite di cioccolato dal basso.",
-    "create_chocolate_fountain.ponder.chocolate_fountain.text_2": "I fontane di cioccolato possono essere disattivate da un segnale di redstone.",
-    "create_chocolate_fountain.ponder.chocolate_fountain_range.header": "Usando fontane di cioccolato",
-    "create_chocolate_fountain.ponder.chocolate_fountain_range.text_1": "Di default, le fontane di cioccolato hanno un raggio di 10 blocchi.",
-    "create_chocolate_fountain.ponder.chocolate_fountain_range.text_2": "I giocatori all'interno di questo raggio vengono alimentati automaticamente con cioccolato.",
-    "itemGroup.create_chocolate_fountain.base": "Creare fontana di cioccolato"
+    "create_chocolate_fountain.ponder.chocolate_fountain.header": "Come allestire una fontana per cioccolato",
+    "create_chocolate_fountain.ponder.chocolate_fountain.text_1": "Le fontane di cioccolato possono essere alimentate con cioccolato proveniente dal basso.",
+    "create_chocolate_fountain.ponder.chocolate_fountain.text_2": "Un segnale di redstone disattiverà la fontana.",
+    "create_chocolate_fountain.ponder.chocolate_fountain_bees.header": "Calmare le api con il miele",
+    "create_chocolate_fountain.ponder.chocolate_fountain_bees.text_1": "Anche le fontane di cioccolato possono essere utilizzate con il miele.",
+    "create_chocolate_fountain.ponder.chocolate_fountain_bees.text_2": "Le api non si arrabbieranno intorno alla fontana di cioccolato.",
+    "create_chocolate_fountain.ponder.chocolate_fountain_bees.text_3": "Le api già irritate saranno calmate una volta entrate nell'area del fontano.",
+    "create_chocolate_fountain.ponder.chocolate_fountain_range.header": "Utilizzo di fontane di cioccolato",
+    "create_chocolate_fountain.ponder.chocolate_fountain_range.text_1": "Le fontane di cioccolato hanno, di default, un raggio di 10 blocchi.",
+    "create_chocolate_fountain.ponder.chocolate_fountain_range.text_2": "I giocatori all'interno di questo intervallo vengono automaticamente nutriti con cioccolato.",
+    "itemGroup.create_chocolate_fountain.base": "Creare una fontana di cioccolato"
 }

@@ -1,0 +1,12 @@
+{
+    "effect.grapple.adrenaline": "Adrenaline",
+    "enchantment.grapple.aer_hook": "Aer Hook",
+    "enchantment.grapple.aer_hook.desc": "Allows grappling to a location without being hooked into a block. Must be used with Grapple enchantment.",
+    "enchantment.grapple.grapple": "Grapple",
+    "enchantment.grapple.grapple.desc": "Turns a fishing rod into a grappling hook, pulling you towards a hooked destination if hooked into a block.",
+    "gamerule.adrenalinePreventsCooldown": "Adrenaline Prevents Cooldown",
+    "gamerule.adrenalinePreventsCooldown.description": "If enabled, player's fishing rods will not be put on cooldown when grappling.",
+    "gamerule.adrenalinePreventsFallDamage": "Adrenaline Prevents Fall Damage",
+    "item.grapple.golden_cookie": "Golden Cookie",
+    "subtitles.grapple": "Player grappling"
+}

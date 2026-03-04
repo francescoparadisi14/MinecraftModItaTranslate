@@ -1,7 +1,7 @@
 {
     "commands.sereneseasonsfix.get_season.not_whitelisted": "Seasons are disabled for this dimension",
     "commands.sereneseasonsfix.set_season.not_whitelisted": "Seasons are disabled for this dimension",
-    "commands.sereneseasonsfix.time.info": "Season time is: %s\nSeason start time is: %s\nWorld time is: %s\nDelta is: %s\nDimension whitelisted: %s",
+    "commands.sereneseasonsfix.time.info": "Season time is: %s\nWorld time is: %s\nDelta is: %s\nDimension whitelisted: %s",
     "commands.sereneseasonsfix.time.set_season.not_whitelisted": "Seasons are disabled for this dimension",
     "commands.sereneseasonsfix.time.set_season.success": "Set the season time to %s",
     "commands.sereneseasonsfix.time.set_season_start.not_whitelisted": "Seasons are disabled for this dimension",

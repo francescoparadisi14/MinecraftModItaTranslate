@@ -1,15 +1,15 @@
 {
-    "name": "Fiery Trumpet Tree 🌐",
+    "name": "Albero del Trumpet, dal colore rosso intenso.",
     "category": "patchouli:trees",
     "icon": "quark:red_blossom_sapling",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)🌐 §5Tutto l'anno§r$(li)Dimensioni: 1x1`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🌐 Disponibile tutto l'anno§r$(li)Dimensioni: 1x1."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Fiery Trumpet Tree",
+            "name ": "Patchouli: Multiblock\n\nAlbero del Trumpet, dal profumo intenso",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -394,8 +394,7 @@
                     "L": "quark:red_blossom_leaves",
                     "W": "quark:blossom_log[axis=y]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

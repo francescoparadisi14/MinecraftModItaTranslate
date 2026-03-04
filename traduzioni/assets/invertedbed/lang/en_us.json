@@ -1,0 +1,22 @@
+{
+    "block.invertedbed.bed.not_possible_now": "You can sleep only at day",
+    "block.invertedbed.black_inverted_bed": "Black Inverted Bed",
+    "block.invertedbed.blue_inverted_bed": "Blue Inverted Bed",
+    "block.invertedbed.brown_inverted_bed": "Brown Inverted Bed",
+    "block.invertedbed.cyan_inverted_bed": "Cyan Inverted Bed",
+    "block.invertedbed.gray_inverted_bed": "Gray Inverted Bed",
+    "block.invertedbed.green_inverted_bed": "Green Inverted Bed",
+    "block.invertedbed.inverted_bed.tooltip0": "Allows sleeping on the day",
+    "block.invertedbed.inverted_bed.tooltip1": "Can be placed on the ceiling",
+    "block.invertedbed.light_blue_inverted_bed": "Light Blue Inverted Bed",
+    "block.invertedbed.light_gray_inverted_bed": "Light Gray Inverted Bed",
+    "block.invertedbed.lime_inverted_bed": "Lime Inverted Bed",
+    "block.invertedbed.magenta_inverted_bed": "Magenta Inverted Bed",
+    "block.invertedbed.orange_inverted_bed": "Orange Inverted Bed",
+    "block.invertedbed.pink_inverted_bed": "Pink Inverted Bed",
+    "block.invertedbed.purple_inverted_bed": "Purple Inverted Bed",
+    "block.invertedbed.red_inverted_bed": "Red Inverted Bed",
+    "block.invertedbed.white_inverted_bed": "White Inverted Bed",
+    "block.invertedbed.yellow_inverted_bed": "Yellow Inverted Bed",
+    "itemGroup.invertedbed": "Inverted Bed"
+}

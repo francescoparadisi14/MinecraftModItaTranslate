@@ -1,0 +1,12 @@
+{
+    "block.ocean_lily_pad_village.example_block": "Esempio di blocco",
+    "item.ocean_lily_pad_village.example_item": "Esempio di articolo",
+    "itemGroup.ocean_lily_pad_village": "Esempio di tabella Mod",
+    "ocean_lily_pad_village.configuration.items": "Elenco degli articoli",
+    "ocean_lily_pad_village.configuration.logDirtBlock": "Blocco di terra per strade",
+    "ocean_lily_pad_village.configuration.magicNumber": "Numero magico",
+    "ocean_lily_pad_village.configuration.magicNumberIntroduction": "Numero Magico",
+    "ocean_lily_pad_village.configuration.section.ocean_lily_pad_village.common.toml": "Configurazioni per il villaggio \"Ocean Lily Pad\"",
+    "ocean_lily_pad_village.configuration.section.ocean_lily_pad_village.common.toml.title": "Configurazioni per il villaggio \"Ocean Lily Pad\"",
+    "ocean_lily_pad_village.configuration.title": "Configurazioni per il villaggio \"Ocean Lily Pad\""
+}

@@ -1,10 +1,14 @@
 {
     "block.create_chocolate_fountain.chocolate_fountain": "Chocolate Fountain",
     "create_chocolate_fountain.ponder.chocolate_fountain.header": "Setting up Chocolate Fountains",
-    "create_chocolate_fountain.ponder.chocolate_fountain.text_1": "Chocolate Fountains can be supplied with chocolate from the bottom",
-    "create_chocolate_fountain.ponder.chocolate_fountain.text_2": "Chocolate Fountains can be turned off by a redstone signal",
+    "create_chocolate_fountain.ponder.chocolate_fountain.text_1": "Chocolate Fountains can be supplied with chocolate from below",
+    "create_chocolate_fountain.ponder.chocolate_fountain.text_2": "A redstone signal will disable the fountain",
+    "create_chocolate_fountain.ponder.chocolate_fountain_bees.header": "Calming Bees with Honey",
+    "create_chocolate_fountain.ponder.chocolate_fountain_bees.text_1": "Chocolate Fountains also work with Honey",
+    "create_chocolate_fountain.ponder.chocolate_fountain_bees.text_2": "Bees will not become angry around the Chocolate Fountain",
+    "create_chocolate_fountain.ponder.chocolate_fountain_bees.text_3": "Already angry bees will be calmed when entering the fountain's range",
     "create_chocolate_fountain.ponder.chocolate_fountain_range.header": "Using Chocolate Fountains",
-    "create_chocolate_fountain.ponder.chocolate_fountain_range.text_1": "By default Chocolate Fountains have a range of 10 Blocks",
-    "create_chocolate_fountain.ponder.chocolate_fountain_range.text_2": "Within this range Players get auto-fed with chocolate",
+    "create_chocolate_fountain.ponder.chocolate_fountain_range.text_1": "Chocolate Fountains have a range of 10 blocks by default",
+    "create_chocolate_fountain.ponder.chocolate_fountain_range.text_2": "Players within this range are automatically fed with chocolate",
     "itemGroup.create_chocolate_fountain.base": "Create Chocolate Fountain"
 }

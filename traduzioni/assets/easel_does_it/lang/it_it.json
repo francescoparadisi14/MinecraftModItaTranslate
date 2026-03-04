@@ -1,0 +1,18 @@
+{
+    "block.easel_does_it.easel": "Tavolo da disegno",
+    "container.easel_does_it.easel": "Tavolo da disegno",
+    "entity.minecraft.villager.easel_does_it.artist": "Artista",
+    "painting.easel_does_it.culture.author": "glifo",
+    "painting.easel_does_it.culture.title": "Cultura",
+    "painting.easel_does_it.hole.author": "glifo",
+    "painting.easel_does_it.hole.title": "Buco",
+    "painting.easel_does_it.layers.author": "glifo",
+    "painting.easel_does_it.layers.title": "Strati",
+    "painting.easel_does_it.monochrome.author": "glifo",
+    "painting.easel_does_it.monochrome.title": "In bianco e nero",
+    "painting.easel_does_it.portal.author": "glifo",
+    "painting.easel_does_it.portal.title": "Portale",
+    "painting.easel_does_it.vintage.author": "glifo",
+    "painting.easel_does_it.vintage.title": "Antico, retrò",
+    "subtitle.ui.easel_does_it.easel.draw_painting": "Disegni su cavalletto"
+}

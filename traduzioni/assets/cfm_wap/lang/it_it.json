@@ -1,0 +1,14 @@
+{
+    "block.cfm_wap.dark_circuit_breaker": "Interruttore di sicurezza nero",
+    "block.cfm_wap.light_circuit_breaker": "Interruttore di sicurezza per circuiti a bassa tensione",
+    "container.cfm_wap.circuit_breaker": "Interruttore di sicurezza",
+    "gui.cfm_wap.circuit_breaker": "Interruttore di sicurezza",
+    "gui.cfm_wap.connect_to_power": "Assicurarsi che il blocco riceva alimentazione da una sorgente di %s o da una sorgente di %s. Può essere collegato utilizzando un %s.",
+    "gui.cfm_wap.node_count": "%s \/ %s",
+    "gui.cfm_wap.progress": "%sFE \/ %sFE",
+    "gui.cfm_wap.requires_power": "Richiede alimentazione da una sorgente di tipo %s o da una sorgente di tipo %s.",
+    "gui.cfm_wap.status.energy": "Nessuna energia",
+    "gui.cfm_wap.status.offline": "Offline",
+    "gui.cfm_wap.status.online": "Online",
+    "gui.cfm_wap.status.overloaded": "Sovraccarico"
+}

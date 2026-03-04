@@ -1,5 +1,9 @@
 {
     "item.netherite_horse_armor.netherite_horse_armor": "Netherite Horse Armor",
     "netherite_horse_armor.advancements.obtain.description": "Obtain a Netherite Horse Armor",
-    "netherite_horse_armor.advancements.obtain.title": "Legendary Dark Knight"
+    "netherite_horse_armor.advancements.obtain.title": "Legendary Dark Knight",
+    "text.autoconfig.netherite_horse_armor.option.easyCrafting": "Easy Crafting",
+    "text.autoconfig.netherite_horse_armor.option.protectionValue": "Armor Points",
+    "text.autoconfig.netherite_horse_armor.option.title": "Netherite Horse Armor Config",
+    "text.autoconfig.netherite_horse_armor.option.weight": "Weight in Loot Table"
 }

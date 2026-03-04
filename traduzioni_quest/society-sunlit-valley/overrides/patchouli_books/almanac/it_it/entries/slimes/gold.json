@@ -5,14 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Localizzazioni:$()$(li)Fusione del cuore$(br2)$(l)Rischii:$()$(br)Causa effetto di Cattivo Omeno quando è in collera e assorbe 512 :coin: dalle banche dei giocatori vicini ogni volta. Molti umori estremamente instabili."
+            "text": "Patchouli: testo\n\n$(l)Posizioni:$()$(li)Fusione del cuore$(br2)$(l)Rischi:$()$(br)Provoca l'effetto \"Maledizione\" quando è arrabbiato e preleva 512 monete dai conti bancari dei giocatori vicini. Umori estremamente instabili."
         },
         {
             "type": "patchouli:entity",
-            "name": "Gold Slime",
+            "name": "patchouli:entità\n\nsplendid_slimes:splendid_slime{Razza:\"splendid_slimes:gold\"}\n\nSlime dorato",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:gold\"}",
-            "scale": 0.9,
-            "text": "Entità: Splendido Slime d'Oro"
+            "scale": 0.9
         }
     ]
 }

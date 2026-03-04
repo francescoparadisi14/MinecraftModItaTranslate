@@ -1,10 +1,10 @@
 {
     "entity.tacz_npc.bandit": "Bandito",
-    "entity.tacz_npc.duty": "Do utile",
-    "item.tacz_npc.bandit_spawn_egg": "Uovo di spawn dei banditi",
-    "item.tacz_npc.duty_spawn_egg": "Uovo di spawn del dovere",
-    "item.tacz_npc.experienced": "Patch esperto",
-    "item.tacz_npc.expert": "Patch esperto",
-    "item.tacz_npc.rookie": "Foglio di rookie",
-    "item.tacz_npc.veteran": "Fregio del veterano"
+    "entity.tacz_npc.duty": "Obbligo",
+    "item.tacz_npc.bandit_spawn_egg": "Uovo della creatura Bandit",
+    "item.tacz_npc.duty_spawn_egg": "Uovo di Duty Spawn",
+    "item.tacz_npc.experienced": "Esperienza consolidata",
+    "item.tacz_npc.expert": "Patch professionale",
+    "item.tacz_npc.rookie": "Patch per principianti",
+    "item.tacz_npc.veteran": "Patch per veterani"
 }

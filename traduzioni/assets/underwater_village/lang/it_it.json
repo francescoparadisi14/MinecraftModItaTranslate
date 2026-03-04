@@ -1,0 +1,12 @@
+{
+    "block.underwater_village.example_block": "Esempio di blocco",
+    "item.underwater_village.example_item": "Esempio di articolo",
+    "itemGroup.underwater_village": "Esempio di tabella Mod",
+    "underwater_village.configuration.items": "Elenco degli articoli",
+    "underwater_village.configuration.logDirtBlock": "Blocco di argilla per pavimentazione",
+    "underwater_village.configuration.magicNumber": "Numero magico",
+    "underwater_village.configuration.magicNumberIntroduction": "Numero Magico",
+    "underwater_village.configuration.section.underwater_village.common.toml": "Configurazioni per villaggi sottomarini",
+    "underwater_village.configuration.section.underwater_village.common.toml.title": "Configurazioni per villaggi sottomarini",
+    "underwater_village.configuration.title": "Configurazioni per villaggi sottomarini"
+}

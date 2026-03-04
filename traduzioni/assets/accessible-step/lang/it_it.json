@@ -1,0 +1,22 @@
+{
+    "key.accessiblestep.mode": "Assistenza al Passo",
+    "key.category.accessible-step.title": "Accessible Step",
+    "options.accessiblestep.autojump.tooltip": "Salta quando ti avvicini a un blocco intero.",
+    "options.accessiblestep.default.mod": "Predefinito",
+    "options.accessiblestep.default.vanilla": "Vanilla",
+    "options.accessiblestep.fullrange": "Portata Completa",
+    "options.accessiblestep.fullrange.tooltip": "Permette ai cursori di altezza del passo di raggiungere la loro portata completa. Questo potrebbe rendere difficile selezionare un valore specifico.\nAttenzione: altezze di passo elevate possono causare problemi nei server multiplayer. Usa con cautela.",
+    "options.accessiblestep.height": "Altezza del Passo",
+    "options.accessiblestep.height.tooltip": "Altezza (in blocchi) che può essere scalata agevolmente mentre si cammina.",
+    "options.accessiblestep.mode": "Assistenza al Passo",
+    "options.accessiblestep.off.tooltip": "Nessuna assistenza.",
+    "options.accessiblestep.perworld": "Configurazione Personalizzata per il Mondo",
+    "options.accessiblestep.perworld.tooltip": "Utilizza opzioni diverse per questo mondo o server. I mondi senza questa opzione attivata utilizzeranno la configurazione principale.",
+    "options.accessiblestep.sneakheight": "Altezza in Modalità Accovacciata",
+    "options.accessiblestep.sneakheight.tooltip": "Altezza (in blocchi) che può essere scalata agevolmente mentre si è in modalità accovacciata.\nValori superiori all'Altezza del Passo configurata useranno invece l'Altezza del Passo.",
+    "options.accessiblestep.sprintheight": "Altezza in Modalità Corsa",
+    "options.accessiblestep.sprintheight.tooltip": "Altezza (in blocchi) che può essere scalata agevolmente mentre si corre.\nValori inferiori all'Altezza del Passo configurata useranno invece l'Altezza del Passo.",
+    "options.accessiblestep.step": "Passo",
+    "options.accessiblestep.step.tooltip": "Sali agevolmente quando ti avvicini a un blocco intero.",
+    "options.accessiblestep.title": "Accessible Step"
+}

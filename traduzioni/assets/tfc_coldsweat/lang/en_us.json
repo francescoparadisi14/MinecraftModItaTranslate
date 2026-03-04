@@ -1,12 +1,11 @@
 {
-    "block.tfc_coldsweat.rock.magma.andesite": "Andesite Magma Block",
-    "block.tfc_coldsweat.rock.magma.basalt": "Basalt Magma Block",
-    "block.tfc_coldsweat.rock.magma.dacite": "Dacite Magma Block",
-    "block.tfc_coldsweat.rock.magma.diorite": "Diorite Magma Block",
-    "block.tfc_coldsweat.rock.magma.gabbro": "Gabbro Magma Block",
-    "block.tfc_coldsweat.rock.magma.granite": "Granite Magma Block",
-    "item.tfc_coldsweat.cursed_prepared_hide": "Cursed Prepared Hide",
-    "item.tfc_coldsweat.cursed_scraped_hide": "Cursed Scraped Hide",
-    "item.tfc_coldsweat.cursed_soaked_hide": "Cursed Soaked Hide",
-    "tfc.jei.hoglin_hide_knapping": "Cursed Leather Knapping"
+    "item.tfc_coldsweat.burlap_chestplate": "Burlap Shirt",
+    "item.tfc_coldsweat.burlap_helmet": "Burlap Hat",
+    "item.tfc_coldsweat.burlap_leggings": "Burlap Pants",
+    "item.tfc_coldsweat.silk_chestplate": "Silk Shirt",
+    "item.tfc_coldsweat.silk_helmet": "Silk Hat",
+    "item.tfc_coldsweat.silk_leggings": "Silk Pants",
+    "item.tfc_coldsweat.wool_chestplate": "Wool Shirt",
+    "item.tfc_coldsweat.wool_helmet": "Wool Hat",
+    "item.tfc_coldsweat.wool_leggings": "Wool Pants"
 }

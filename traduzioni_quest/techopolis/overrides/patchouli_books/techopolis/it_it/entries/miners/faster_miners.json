@@ -1,16 +1,16 @@
 {
-    "name": "Minatori più rapidi",
+    "name": "Minatori più veloci",
     "icon": "kubejs:miner",
     "category": "patchouli:miners",
     "sortnum": "2",
     "pages": [
         {
             "type": "text",
-            "text": "I barre di tecnio possono essere utilizzate per accelerare i tuoi minatori. $(br2)Gli stadi più alti dei minatori non sono più veloci, ma consentono solo la raccolta di minerali di tier più alto. $(br2)Le seguenti strutture aumentano la velocità della mina e l'quantità di minerale prodotto da un ciclo del minatore"
+            "text": "Gli lingotti di Technium possono essere utilizzati per accelerare l'attività dei minatori.\nI livelli di minatori più avanzati non sono semplicemente più veloci, ma consentono la raccolta di minerali di livello superiore.\nLe seguenti strutture aumentano la velocità di estrazione e la quantità di minerali prodotti per ciclo del minatore."
         },
         {
             "type": "multiblock",
-            "name": "Blocco minerario base",
+            "name": "Multiblocco\n\nMinatore di base",
             "enable_visualize": true,
             "multiblock": {
                 "pattern": [
@@ -41,11 +41,11 @@
                     "m": "#kubejs:miner"
                 }
             },
-            "text": "Blocco complesso\n\nTempo di costruzione: 200 ticks\nOre di rotazione: 1 ora"
+            "text": "Multiblocco\n\n200 \"Ticks\", 1 ora di rotazione"
         },
         {
             "type": "multiblock",
-            "name": "Struttura di miniera avanzata",
+            "name": "Blocco multiplo\n\nEstrattore avanzato",
             "enable_visualize": true,
             "multiblock": {
                 "pattern": [
@@ -82,11 +82,11 @@
                     "m": "#kubejs:miner"
                 }
             },
-            "text": "Richiede blocchi di rame.\n\n$(br)175 ticks, 2 giri d'ora, 5 RF per tick"
+            "text": "Richiede blocchi multipli.\nNecessita di 175 blocchi in bronzo.\nCosto: 2 ore per blocco, 5RF per tick."
         },
         {
             "type": "multiblock",
-            "name": "Struttura mineraria Elite",
+            "name": "Blocchi multipli\n\nMinatore Elite",
             "enable_visualize": true,
             "multiblock": {
                 "pattern": [
@@ -140,11 +140,11 @@
                     "m": "#kubejs:miner"
                 }
             },
-            "text": "Richiede blocchi di Acciaio.\n\n$(br)Tempo di costruzione: 150 ticks\n$(br)Giri di ore: 3\n$(br)Consumo di RF per tick: 20"
+            "text": "Multiblocco\n\nRichiede blocchi in acciaio. (br) 150 \"tick\", 3 ore di lavoro, 20 RF per tick"
         },
         {
             "type": "multiblock",
-            "name": "Blocco Multifunzione \"Minatore Supremo\"",
+            "name": "Multiblocco\n\nUltimate Miner",
             "enable_visualize": true,
             "multiblock": {
                 "pattern": [
@@ -205,11 +205,11 @@
                     "m": "#kubejs:miner"
                 }
             },
-            "text": "Richiede blocchi di Fluix. $(br)125 ticks, 4 giri d'ora, 50 RF per tick"
+            "text": "Richiede blocchi Fluix. (125 \"ticks\", 4 ore di lavoro, 50 RF per tick)"
         },
         {
             "type": "multiblock",
-            "name": "Blocco minerario supremo",
+            "name": "Blocco multiplo\n\nSupreme Miner",
             "enable_visualize": true,
             "multiblock": {
                 "pattern": [
@@ -277,7 +277,7 @@
                     "m": "#kubejs:miner"
                 }
             },
-            "text": "Richiede blocchi di Flusso.\n\n$(br)Tempo di attesa: 100 ticks\nGiri d'oro: 5\nRisorse energetiche per tick: 100 RF"
+            "text": "Richiede blocchi multipli.\nNecessita di 100 \"ticks\", 5 ore di lavoro e 100 RF per ogni tick."
         }
     ]
 }

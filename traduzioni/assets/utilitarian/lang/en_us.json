@@ -59,6 +59,8 @@
     "death.attack.utilitarian.grrass": "%1$s was killed by angry grass",
     "death.attack.utilitarian.grrass.player": "%1$s was killed by angry grass while playing with %2$s",
     "item.utilitarian.restraining_order": "Restraining Order",
+    "item.utilitarian.slime_bucket": "Slime Bucket",
+    "item.utilitarian.slime_bucket_description": "Gets visibly excited to see its friends when visiting a slime chunk.",
     "item.utilitarian.tiny_charcoal": "Tiny Charcoal",
     "item.utilitarian.tiny_coal": "Tiny Coal",
     "item.utilitarian.tps_meter_description": "Outputs a redstone signal based on the dimensions TPS",

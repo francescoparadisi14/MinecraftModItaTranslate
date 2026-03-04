@@ -1,18 +1,17 @@
 {
-    "name": "Dusty",
+    "name": "Polveroso",
     "category": "patchouli:slimes",
     "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:dusty\"}}",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Localizzazioni:$()$(li)Biomi: Grotte del Deserto, Faglia del Deserto (Caverna dello Scudo)$(li)Punti di scavo: Sabbia\/roccia$(br2)$(l)Rischii:$()$(br)Procura l'effetto di Convulsione e colpi di fulmine quando è agitato."
+            "text": "patchouli:testo\n\n$(l)Posizioni:$()$(li)Biomi: Caverne desertiche, Faglia desertica (Caverna dello Scheletro)$(li)Luoghi di raccolta: Sabbia\/Pietra$(br2)$(l)Rischi:$()$(br)Provoca l'effetto \"Convulsione\" e i fulmini quando è disturbato."
         },
         {
             "type": "patchouli:entity",
-            "name": "Dusty Slime",
+            "name": "patchouli:entità\n\nsplendid_slimes:splendid_slime{Razza:\"splendid_slimes:dusty\"}\n\nSlime polveroso",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:dusty\"}",
-            "scale": 0.9,
-            "text": "Entità: Splendido Slime (Razza: Polveroso)"
+            "scale": 0.9
         }
     ]
 }

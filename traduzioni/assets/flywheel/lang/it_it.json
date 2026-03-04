@@ -1,14 +1,14 @@
 {
-    "argument.flywheel_backend.id.unknown": "Backend Sconosciuto '%s'",
-    "command.flywheel.backend.get": "Il Backend Attuale Della Ruota A Volano è '%s'",
-    "command.flywheel.backend.set": "Il Backend Del Flywheel è Ora '%s'",
-    "command.flywheel.backend.set.unavailable": "Il Backend Richiesto '%s' Non è Disponibile",
-    "command.flywheel.limit_updates.get.off": "Il Limitazione Degli Aggiornamenti è Attualmente Disabilitata",
-    "command.flywheel.limit_updates.get.on": "Il Limitazione Degli Aggiornamenti è Attualmente Abilitata",
-    "command.flywheel.limit_updates.set.off": "Il Limitazione Degli Aggiornamenti è Ora Disattivata",
-    "command.flywheel.limit_updates.set.on": "Il Limitazione Degli Aggiornamenti è Ora Abilitata",
-    "command.flywheel.use_light_directions.get.off": "Non Si Utilizzano Direzioni Di Luce",
-    "command.flywheel.use_light_directions.get.on": "Utilizzo Delle Direzioni Di Luce",
-    "command.flywheel.use_light_directions.set.off": "Imposta Le Direzioni Della Luce In Disattivato",
-    "command.flywheel.use_light_directions.set.on": "Imposta Le Direzioni Di Luce Su On"
+    "argument.flywheel_backend.id.unknown": "Backend sconosciuto: '%s'",
+    "command.flywheel.backend.get": "L'attuale backend di Flywheel è: '%s'",
+    "command.flywheel.backend.set": "Il backend di Flywheel è ora '%s'",
+    "command.flywheel.backend.set.unavailable": "L'infrastruttura backend richiesto '%s' non è disponibile.",
+    "command.flywheel.limit_updates.get.off": "L'aggiornamento limitato è attualmente disabilitato.",
+    "command.flywheel.limit_updates.get.on": "L'aggiornamento limitato è attualmente attivo.",
+    "command.flywheel.limit_updates.set.off": "La funzione di limitazione è stata disabilitata.",
+    "command.flywheel.limit_updates.set.on": "La funzione di limitazione è ora attiva.",
+    "command.flywheel.use_light_directions.get.off": "Non seguendo le indicazioni luminose",
+    "command.flywheel.use_light_directions.get.on": "Utilizzando le indicazioni luminose",
+    "command.flywheel.use_light_directions.set.off": "Imposta le indicazioni luminose su \"spento\".",
+    "command.flywheel.use_light_directions.set.on": "Imposta le indicazioni di direzione su \"acceso\"."
 }

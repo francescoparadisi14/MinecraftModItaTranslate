@@ -1,4 +1,4 @@
 {
-    "options.rsls.maxSourcesCount": "Limite totale dei suoni",
-    "options.rsls.maxStreamingSources": "Limite di streaming suoni"
+    "options.rsls.maxSourcesCount": "Limite massimo di volume",
+    "options.rsls.maxStreamingSources": "Limite dello streaming audio"
 }

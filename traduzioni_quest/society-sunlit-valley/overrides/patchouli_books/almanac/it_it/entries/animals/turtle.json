@@ -1,0 +1,17 @@
+{
+    "name": "Tartaruga",
+    "category": "patchouli:animals",
+    "icon": "minecraft:turtle_egg",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "patchouli: testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile per la vendita$(li)Uovo: Uovo di tartaruga"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:turtle",
+            "scale": 0.8,
+            "text": "patchouli:entità\n\nminecraft:tartaruga\n\nParte del club delle tartarughe"
+        }
+    ]
+}

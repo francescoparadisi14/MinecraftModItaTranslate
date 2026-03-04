@@ -1,0 +1,9 @@
+{
+    "tradeuses.copied": "Copiato!",
+    "tradeuses.copy_color_code_char": "Copia il codice colore",
+    "tradeuses.default_tooltip": "§Utilizzo rimanente: §{uses_left}",
+    "tradeuses.placeholders": "Segnaposto: {utilizzi}, {numero massimo di utilizzi}, {utilizzi rimanenti}",
+    "tradeuses.preview": "Anteprima",
+    "tradeuses.tooltip_text": "Testo del suggerimento",
+    "tradeuses.tradeuses_config": "Utilizzo della configurazione per il commercio"
+}

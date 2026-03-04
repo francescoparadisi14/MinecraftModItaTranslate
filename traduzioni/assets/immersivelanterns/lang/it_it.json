@@ -1,7 +1,7 @@
 {
     "immersivelanterns.configuration.Back Lanterns": "Lanterne posteriori",
-    "immersivelanterns.configuration.Enable Lantern Swinging Physics": "Abilita fisica oscillazione lanterna",
-    "immersivelanterns.configuration.Lantern Bounciness": "Ripresa lanterna",
-    "immersivelanterns.configuration.Left-Handed Lanterns": "Lanterne mancine",
-    "immersivelanterns.configuration.client": "Configurazione client dell'illuminatore immersivo"
+    "immersivelanterns.configuration.Enable Lantern Swinging Physics": "Abilita la fisica del pendolo Lantern",
+    "immersivelanterns.configuration.Lantern Bounciness": "Agilità e reattività della lanterna",
+    "immersivelanterns.configuration.Left-Handed Lanterns": "Lanterne per mancini",
+    "immersivelanterns.configuration.client": "cliente"
 }

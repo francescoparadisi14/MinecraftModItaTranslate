@@ -1,0 +1,10 @@
+{
+    "config.forbidden_items": "Elenco degli oggetti vietati",
+    "config.forbidden_items.tooltip": "Articoli da escludere.\nAggiungere il nome dell'articolo alla lista nera, nel formato \"nome_articolo\", separato da virgola.\nEsempio: \"curios:amulet\", \"curios:ring\".",
+    "convenientcurioscontainer.configuration.section.convenientcurioscontainer.common.toml.title": "Configurazione comoda e semplice per contenitori",
+    "gui.container_RMB": "Clicca con il tasto destro per scambiarlo o spostarlo nella prima posizione disponibile nella sezione Curio.",
+    "gui.container_SRMB": "Utilizzare i tasti freccia sinistra e destra per spostare o spostare l'oggetto nella seconda casella disponibile.",
+    "gui.container_info": "Per gli oggetti all'interno del contenitore:",
+    "item.convenientcurioscontainer.curios_container": "Contenitore interessante",
+    "key.open_convenient_screen": "Schermata per aprire il contenitore Curios"
+}

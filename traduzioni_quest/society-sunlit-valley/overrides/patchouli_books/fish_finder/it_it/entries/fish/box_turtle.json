@@ -1,18 +1,18 @@
 {
-    "name": "Tartaruga in scatola",
+    "name": "Tartaruga di terra",
     "category": "patchouli:fish",
     "icon": "aquaculture:box_turtle",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 320 monete$(li)Simbolo del fuoco: Estate $(li)Acqua: Fiume$(li)Clima: Pioggia e Neve$(li)Ora: Notte"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 320$(li)🔥 Estate$(li)Acqua: Fiume$(li)Tempo: Pioggia e neve$(li)Ora: Notte"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:box_turtle",
             "scale": 0.8,
             "rotate": true,
-            "text": "Ha, è proprio pronto a mangiarti le dita!"
+            "text": "Patchouli: entità\n\nAcquacoltura: tartaruga\n\nTi mangerà le dita."
         }
     ]
 }

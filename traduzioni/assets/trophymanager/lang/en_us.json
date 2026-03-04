@@ -1,4 +1,5 @@
 {
     "block.trophymanager.trophy": "Trophy",
+    "gui.apply": "Apply",
     "trophymanager.tooltip.trophy.scale": "Scale: %s"
 }

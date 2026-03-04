@@ -1,0 +1,31 @@
+{
+    "quest.0A497EC17534D248.quest_desc": [
+        "\\&#53BAEDBBL Routers\\&r è un modulo logistico completamente wireless. Avrete bisogno solo dei moduli Importers\\&r e Exporters\\&r, che consentiranno di trasferire merci, fluidi, energia, prodotti chimici e risorse."
+    ],
+    "quest.0A497EC17534D248.title": "Benvenuti su BBL Routers",
+    "quest.222446C143B43770.title": "Trasferimento della fonte",
+    "quest.33A1316FD66C6428.quest_subtitle": "Sono necessari aggiornamenti per i sistemi di importazione\/esportazione.",
+    "quest.3584DE12E1D7D14F.quest_desc": [
+        "Questo mod prevede due tipi di filtri. È possibile utilizzare il tasto destro del mouse per configurare i filtri quando sono selezionati.",
+        "",
+        "1. Mod Filter\\&r: È necessario inserire il nome completo del mod, senza spazi, per impostare il filtro.",
+        "",
+        "2. Filtro tag: È necessario inserire il tag senza il simbolo \"#\" per attivare il filtro."
+    ],
+    "quest.3584DE12E1D7D14F.title": "Miglioramenti dei filtri",
+    "quest.3E14842D5F454F98.title": "Aumentare la velocità delle operazioni",
+    "quest.401A518B2D1BDB9A.quest_subtitle": "Inserire nell'inventario di destinazione",
+    "quest.5312BD7BDC054E48.title": "Trasferimento di oggetti",
+    "quest.548676DCD1E09A7F.quest_subtitle": "Aggiungi all'inventario del mittente",
+    "quest.6420E8B38993D8E3.title": "Trasmissione dell'energia",
+    "quest.671141CF874D89A4.title": "Trasferimento di fluidi",
+    "quest.68ABBA8CB99AF6A1.quest_desc": [
+        "Tenere premuto il tasto \"Shift\" e poi premere il tasto \"r\" su un oggetto vi fornirà informazioni su di esso.",
+        "",
+        "Per utilizzare il connettore, prima fare clic con il tasto destro sull'importatore (EDB553) e quindi fare nuovamente clic con il tasto destro sull'esportatore (5360ED) per collegarli."
+    ],
+    "quest.6B11A21220723520.title": "Trasferimento di sostanze chimiche",
+    "quest.7742D896461A4632.quest_subtitle": "Semplicemente, inseriscilo nell'esportatore.",
+    "task.368EEAEC5B950F4D.title": "Utilizzando il connettore",
+    "task.7ECFB3665B40F251.title": "Aggiornamenti"
+}

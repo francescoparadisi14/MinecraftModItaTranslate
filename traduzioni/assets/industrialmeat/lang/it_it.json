@@ -1,10 +1,10 @@
 {
-    "block.industrialmeat.cooked_meat_block": "Blocco di carne cucinata",
-    "block.industrialmeat.meat_packer": "Impacchettatore carne",
-    "block.industrialmeat.raw_meat_block": "Blocco carne cruda",
-    "item.industrialmeat.cooked_meat_ingot": "Ingot di carne cotta",
-    "item.industrialmeat.cooked_meat_nugget": "Boccone di carne cotto",
-    "item.industrialmeat.raw_meat_ingot": "Ingot di carne cruda",
-    "item.industrialmeat.raw_meat_nugget": "Boccone di carne cruda",
-    "itemGroup.industrialmeat": "Carni industriali"
+    "block.industrialmeat.cooked_meat_block": "Cotoletta di carne cotta",
+    "block.industrialmeat.meat_packer": "Addetto alla lavorazione della carne",
+    "block.industrialmeat.raw_meat_block": "Blocco di carne cruda",
+    "item.industrialmeat.cooked_meat_ingot": "Blocco di carne",
+    "item.industrialmeat.cooked_meat_nugget": "Polpette di carne",
+    "item.industrialmeat.raw_meat_ingot": "Lingotto di carne cruda",
+    "item.industrialmeat.raw_meat_nugget": "Polpette di carne cruda",
+    "itemGroup.industrialmeat": "Carne industriale"
 }

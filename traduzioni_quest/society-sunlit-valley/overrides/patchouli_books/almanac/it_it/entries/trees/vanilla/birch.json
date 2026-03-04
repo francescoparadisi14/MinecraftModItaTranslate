@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Stagioni: Primavera 🌼, Autunno 🍂$(li)Prezzo del Seme: :coin: 8$(li)Dimensioni: 1x1"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🌼 Primavera§r 🍂 §4 Autunno$(li)Prezzo del giovane albero: :moneta: 8$(li)Dimensioni: 1x1"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Oak Tree",
+            "name ": "Patchouli: Multiblocco\n\nQuercia",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -61,8 +61,7 @@
                     "L": "minecraft:birch_leaves",
                     "W": "minecraft:birch_log[axis=y]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

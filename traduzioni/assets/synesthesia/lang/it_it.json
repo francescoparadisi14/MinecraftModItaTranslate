@@ -1,0 +1,10 @@
+{
+    "key.categories.synesthesia": "Sinestesia",
+    "key.synesthesia.toggle": "Attiva\/Disattiva Visualizzatore Audio",
+    "message.synesthesia.disabled": "Visualizzatore audio disabilitato",
+    "message.synesthesia.enabled": "Visualizzatore audio attivo",
+    "synesthesia.button.visualizer.disabled": "Visualizzatore audio: DISATTIVATO",
+    "synesthesia.button.visualizer.enabled": "Visualizzatore audio: ATTIVATO",
+    "synesthesia.button.visualizer.tooltip": "Visualizzatore audio",
+    "synesthesia.configuration.render.renderThroughWalls": "Attraversare i muri"
+}

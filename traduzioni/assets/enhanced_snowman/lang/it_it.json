@@ -1,0 +1,12 @@
+{
+    "enhanced_snowman.configuration.common": "Configurazione globale",
+    "enhanced_snowman.configuration.convert": "Trasforma i mostri uccisi in risorse",
+    "enhanced_snowman.configuration.convert_chance": "Probabilità di conversione",
+    "enhanced_snowman.configuration.disable_heat_damage": "Disattivare lo scioglimento della figura di Babbo Natale.",
+    "enhanced_snowman.configuration.disable_water_damage": "Disattivare il danno causato dalla neve e dal ghiaccio.",
+    "enhanced_snowman.configuration.onlyHostile": "Solo ostili",
+    "enhanced_snowman.configuration.playersDealDamage": "I giocatori infliggono danni.",
+    "enhanced_snowman.configuration.prevent_snow_trail": "Prevenire la formazione di tracce nella neve",
+    "enhanced_snowman.configuration.slowness": "Effetto di lentezza",
+    "enhanced_snowman.configuration.snowballDamage": "Danno a un singolo fiocco di neve"
+}

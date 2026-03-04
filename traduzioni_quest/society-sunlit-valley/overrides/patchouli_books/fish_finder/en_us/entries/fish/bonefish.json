@@ -5,7 +5,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Stats$()$(li):coin: 264$(li)Dimension: Nether$(li)Biome: Nether Wastes"
+            "text": "$(l)Stats$()$(li):coin: 364$(li)Dimension: Nether$(li)Biome: Nether Wastes"
         },
         {
             "type": "patchouli:entity",

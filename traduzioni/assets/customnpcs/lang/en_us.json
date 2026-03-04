@@ -229,7 +229,7 @@
     "follower.guiDisabled": "Gui Disabled",
     "follower.health": "Health",
     "follower.hire": "Hire",
-    "follower.hireText": "Thank you for hiring me for %s days",
+    "follower.hireText": "Thank you for hiring me for",
     "follower.infiniteDays": "Infinite Days",
     "follower.lastday": "Last day",
     "follower.startLine": "Starting line",

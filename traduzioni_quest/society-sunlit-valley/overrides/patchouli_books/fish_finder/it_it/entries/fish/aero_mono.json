@@ -5,7 +5,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 128 monete$(li)Simbolo 0 ❆ Simbolo b Inverno $(li)Acqua: Fresca$(li)Clima: Qualsiasi$(li)Ora: Giorno"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 128$(li)§0❆ §bInverno§0$(li)Acqua: Fresca$(li)Meteo: Qualsiasi$(li)Ora: Giorno"
         },
         {
             "type": "patchouli:entity",
@@ -13,7 +13,7 @@
             "scale": 0.8,
             "rotate": true,
             "offset": -0.3,
-            "text": "Rifornimento d'aria? Pensavo fossi un pesce."
+            "text": "patchouli: entità\n\nunusualfishmod: aero_mono\n\nAir Supply? Pensavo che fossi un pesce."
         }
     ]
 }

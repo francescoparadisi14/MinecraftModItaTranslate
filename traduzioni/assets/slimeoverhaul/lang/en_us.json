@@ -141,6 +141,12 @@
     "item.slimeoverhaul.water_slime_ball": "Water Slimeball",
     "item.slimeoverhaul.water_slime_bucket": "Bucket of Water Slime",
     "item.slimeoverhaul.water_slime_spawn_egg": "Water Slime Spawn Egg",
+    "slimeoverhaul.configuration.allowAirSlimes": "Air Slime spawn",
+    "slimeoverhaul.configuration.allowEarthSlimes": "Earth Slime spawn",
+    "slimeoverhaul.configuration.allowFlameSlimes": "Fire Slime spawn",
+    "slimeoverhaul.configuration.allowWaterSlimes": "Water Slime spawn",
+    "slimeoverhaul.configuration.waterSlimeFindFireTick": "Fire search",
+    "slimeoverhaul.configuration.waterSlimeFindFireTick.tooltip": "Determines how often water slimes will search for fire blocks to extinguish them. Frequent calls can lead to performance loss; the higher the value, the less frequent the search and the higher the performance.",
     "slimeoverhaul.earth_power": "Earth power: %s",
     "slimeoverhaul.lost_earth_power": "The power of the earth no longer improve your shield"
 }

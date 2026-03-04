@@ -1,9 +1,9 @@
 {
-    "item.create_numismatics_crafts.unpolished_bevel": "Ritocco non lavorato",
-    "item.create_numismatics_crafts.unpolished_cog": "Cogno non lavorato",
-    "item.create_numismatics_crafts.unpolished_crown": "Corona non lavorata",
-    "item.create_numismatics_crafts.unpolished_sprocket": "Sproketto non lavorato",
-    "item.create_numismatics_crafts.unpolished_spur": "Spur non lavorata",
-    "item.create_numismatics_crafts.unpolished_sun": "Sole non lavorato",
-    "item_group.create_numismatics_crafts.create_numismatics_tab": "Crea: opere di numismatica aggiuntive"
+    "item.create_numismatics_crafts.unpolished_bevel": "Bordo non rifinito",
+    "item.create_numismatics_crafts.unpolished_cog": "Ingranaggio grezzo",
+    "item.create_numismatics_crafts.unpolished_crown": "Corona non rifinita",
+    "item.create_numismatics_crafts.unpolished_sprocket": "Un ingranaggio grezzo",
+    "item.create_numismatics_crafts.unpolished_spur": "Una leva non rifinita",
+    "item.create_numismatics_crafts.unpolished_sun": "Sole non ancora levigato",
+    "item_group.create_numismatics_crafts.create_numismatics_tab": "Crea: Artigianato specializzato in numismatica"
 }

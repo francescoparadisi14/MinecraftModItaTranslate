@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Doni Possibili:$()$(br)Amico di Axolotl, Anello in Gomma di Axolotl"
+            "text": "patchouli:testo\n\n$(l)Possibili regali:$()$(br)Amico Axolotl, Anello in gomma per Axolotl"
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:axolotl",
             "scale": 0.8,
-            "text": "Un abitante delle Grotte Foltose che ama cacciare pesci"
+            "text": "Patchouli: entità\n\nAxolotl (minecraft)\n\nUna creatura autoctona di Lush Caves che ama cacciare pesci"
         }
     ]
 }

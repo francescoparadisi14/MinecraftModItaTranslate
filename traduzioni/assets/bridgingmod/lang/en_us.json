@@ -91,7 +91,7 @@
     "enum.bridgingmod.source_perspective.copy_toggle_perspective": "Copy Perspective",
     "enum.bridgingmod.source_perspective.let_bridging_mod_decide": "Let Mod Decide",
     "key.bridgingmod.toggle_bridging": "Toggle Reacharound Placement",
-    "key.categories.bridgingmod": "Bridging Mod",
+    "key.category.bridgingmod.category": "Bridging Mod",
     "notif.bridgingmod.action.disabled": "OFF",
     "notif.bridgingmod.action.enabled": "ON",
     "notif.bridgingmod.toggle_bridging": "Toggled Reacharound Placement"

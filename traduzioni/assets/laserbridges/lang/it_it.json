@@ -1,7 +1,9 @@
 {
-    "block.laserbridges.laser_fence_source_block": "Fonte di rete laser",
+    "block.laserbridges.laser_block_powered": "Blocco laser",
+    "block.laserbridges.laser_fence_powered": "Blocco laser",
+    "block.laserbridges.laser_fence_source_block": "Fonte di recinzione laser",
     "block.laserbridges.laser_source_block": "Fonte laser",
-    "laserbridges.deimosconfig.blocks_cut_through_by_lasers": "Blocchi che possono essere sostituiti dai laser",
-    "laserbridges.deimosconfig.max_length": "Lunghezza ponte con potenza massima di rete rosso",
-    "laserbridges.deimosconfig.title": "Configurazione dei ponti e porte a laser"
+    "laserbridges.deimosconfig.blocks_cut_through_by_lasers": "Componenti che possono essere sostituite da laser",
+    "laserbridges.deimosconfig.max_length": "Lunghezza del ponte con la massima potenza disponibile tramite Redstone.",
+    "laserbridges.deimosconfig.title": "Configurazione di ponti e porte laser"
 }

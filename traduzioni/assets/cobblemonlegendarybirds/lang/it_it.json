@@ -1,0 +1,12 @@
+{
+    "block.cobblemonlegendarybirds.example_block": "Esempio di blocco",
+    "cobblemonlegendarybirds.configuration.items": "Elenco degli articoli",
+    "cobblemonlegendarybirds.configuration.logDirtBlock": "Blocco di argilla per pavimentazione",
+    "cobblemonlegendarybirds.configuration.magicNumber": "Numero magico",
+    "cobblemonlegendarybirds.configuration.magicNumberIntroduction": "Numero Magico",
+    "cobblemonlegendarybirds.configuration.section.cobblemonlegendarybirds.common.toml": "Configurazioni per Cobblemon: Uccelli Leggendari",
+    "cobblemonlegendarybirds.configuration.section.cobblemonlegendarybirds.common.toml.title": "Configurazioni per Cobblemon: Uccelli Leggendari",
+    "cobblemonlegendarybirds.configuration.title": "Configurazioni per Cobblemon: Uccelli Leggendari",
+    "item.cobblemonlegendarybirds.example_item": "Esempio di articolo",
+    "itemGroup.cobblemonlegendarybirds": "Esempio di tabella Mod"
+}

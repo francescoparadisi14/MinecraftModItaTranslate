@@ -5,6 +5,7 @@
     "mod_menu.badge.clientsideOnly": "Client",
     "mod_menu.badge.deprecated": "Deprecated",
     "mod_menu.badge.fabric": "Fabric",
+    "mod_menu.badge.forge": "Forge",
     "mod_menu.badge.library": "Library",
     "mod_menu.badge.minecraft": "Minecraft",
     "mod_menu.badge.modpack": "Modpack",
@@ -114,6 +115,9 @@
     "mod_menu.configuration.update_checker": "Update Checker",
     "mod_menu.configuration.update_checker.false": "Disabled",
     "mod_menu.configuration.update_checker.true": "Enabled",
+    "mod_menu.configuration.use_catalogue_icon.false": "Off",
+    "mod_menu.configuration.use_catalogue_icon.tooltip": "will use catalogue's icon for mods if present",
+    "mod_menu.configuration.use_catalogue_icon.true": "On",
     "mod_menu.configure": "Configure...",
     "mod_menu.configure.error": "Failed to load config screen for '%s'\nReport to '%s', not Mod Menu",
     "mod_menu.credits": "Credits:",
@@ -195,5 +199,6 @@
     "mod_menu.viewCredits": "View Credits",
     "mod_menu.website": "Website",
     "mod_menu.wiki": "Wiki",
-    "mod_menu.youtube": "YouTube"
+    "mod_menu.youtube": "YouTube",
+    "option.modmenu.use_catalogue_icon": "Use Catalogue's icon"
 }

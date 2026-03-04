@@ -1,0 +1,8 @@
+{
+    "tooltip.pipezretriever.mode": "Modalità: %s",
+    "tooltip.pipezretriever.mode.extract": "Estrai (e invia alle destinazioni)",
+    "tooltip.pipezretriever.mode.retrieve": "Recupera (Recupera da destinazioni specifiche)",
+    "tooltip.pipezretriever.requires_upgrade": "Richiede almeno un aggiornamento di base.",
+    "tooltip.pipezretriever.retrieve_button": "Attiva\/Disattiva modalità di recupero",
+    "tooltip.pipezretriever.retrieve_button.description": "Quando è abilitato, trasferisce elementi\/liquidi\/energia DALLI inventari collegati ALL'inventario di origine."
+}

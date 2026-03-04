@@ -29,5 +29,14 @@
     "gui.superbarrels.netherite_emerald_barrel_gui.label_inventory": "Inventory",
     "gui.superbarrels.oak_shelf_gui.label_inventory": "Inventory",
     "gui.superbarrels.oak_shelf_gui.label_oak_shelf": "Oak Shelf",
+    "item.superbarrels.copper_chest": "Copper Barrel",
+    "item.superbarrels.dark_oak_dresser": "Dark Oak Dresser",
+    "item.superbarrels.diamond_barrel": "Diamond Barrel",
+    "item.superbarrels.golden_barrel": "Golden Barrel",
+    "item.superbarrels.iron_chest": "Iron Barrel",
+    "item.superbarrels.netherite_barrel": "Netherite Barrel",
+    "item.superbarrels.netherite_diamond_barrel": "Netherite Diamond Barrel",
+    "item.superbarrels.netherite_emerald_barrel": "Netherite Emerald Barrel",
+    "item.superbarrels.oak_kitchen_shelf": "Oak Shelf",
     "item_group.superbarrels.super_barrels_tab": "Super Barrels Tab"
 }

@@ -9,5 +9,7 @@
     "item.rep_ae2_bridge.organic": "Materia Organica",
     "item.rep_ae2_bridge.precious": "Materia Preziosa",
     "item.rep_ae2_bridge.quantum": "Materia Quantica",
-    "item.rep_ae2_bridge.repae2bridge": "Ponte RepAE2"
+    "item.rep_ae2_bridge.repae2bridge": "Ponte RepAE2",
+    "item.rep_ae2_bridge.universal_matter.warning": "Attenzione: questo è un modello universale; per un funzionamento corretto, è necessario riavviare sia il client che il server. Inoltre, per i modelli personalizzati, purtroppo, sarà necessario creare anche le texture, i modelli degli oggetti e le lingue.",
+    "itemGroup.rep_ae2_bridge.rep_ae2_bridge_tab": "Ponte AE2-Replication"
 }

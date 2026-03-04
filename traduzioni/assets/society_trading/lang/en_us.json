@@ -1,0 +1,15 @@
+{
+    "block.society_trading.auto_trader": "Auto-Trader",
+    "block.society_trading.shop_block": "Shop",
+    "command.society_trading.wrong_id": "No registered shop with an id of %s found.",
+    "gui.society_trading.balance": "§0$%s",
+    "gui.society_trading.hover_price_one": "Price: $%s",
+    "gui.society_trading.hover_price_two": "From bank account",
+    "gui.society_trading.price": "$%s",
+    "gui.society_trading.search_trades": "Search Trades",
+    "gui.society_trading.shop_selector.title": "Shops",
+    "itemGroup.society_trading": "Society Trading",
+    "jei.society_trading.category.shops": "Shops",
+    "jei.society_trading.category.trades": "Trades",
+    "jei.society_trading.price": "$%s"
+}

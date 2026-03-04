@@ -1,0 +1,9 @@
+{
+    "advancements.husbandry.the_cooler_hopper.obtain_bluestone_block": "Obtain a block of bluestone",
+    "advancements.husbandry.the_cooler_hopper.obtain_bluestone_block.title": "Huh???",
+    "block.the_cooler_hopper.bluestone_block": "Block of Bluestone",
+    "block.the_cooler_hopper.bluestone_block.info": "Power with redstone to make connecting dispensers shoot rapidly",
+    "block.the_cooler_hopper.ender_hopper": "Ender Hopper",
+    "item.the_cooler_hopper.portal_wand": "Portal Wand",
+    "item.the_cooler_hopper.portal_wand.info": "Click on ender hoppers to link their inventory"
+}

@@ -1,4 +1,5 @@
 {
-    "block.trophymanager.trophy": "Tessera di vittoria",
+    "block.trophymanager.trophy": "Trofeo",
+    "gui.apply": "Applicare",
     "trophymanager.tooltip.trophy.scale": "Scala: %s"
 }

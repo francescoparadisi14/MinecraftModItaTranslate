@@ -1,0 +1,15 @@
+{
+    "boss.battle.banned.item": "§cBanned item detected. Cannot battle the Boss！",
+    "boss.battle.banned.move": "§cBanned move detected. Cannot battle the Boss！",
+    "boss.battle.banned.pokemon": "§cBanned Pokémon detected. Cannot battle the Boss！",
+    "boss.pokemon.uncatchable": "§cThis Pokémon is too powerful to be caught",
+    "boss.rewards.inventory_full": "§cInventory is full. Some rewards have dropped on the ground",
+    "cobblemon.boss.battle.wild_team.name": "Wild Pokémon Boss battle encountered！",
+    "command.boss.checkpokemonboss.boss_line": "§a%s §7(Weight: %s)",
+    "command.boss.checkpokemonboss.no_boss": "§eThere are no spawnable Pokémon Bosses at the current position and time！",
+    "command.boss.checkpokemonboss.title": "§aCurrently spawnable Pokémon Boss list：",
+    "command.boss.spawnboss.creation_failed": "§cFailed to spawn the Pokémon Boss. Check your config and try again！",
+    "command.boss.spawnboss.only_player": "§cOnly players can execute this command！",
+    "command.boss.spawnboss.success": "§aPokémon Boss spawned successfully！",
+    "command.boss.spawnboss.unique_id_not_found": "§cThe specified Boss unique ID was not found. Please verify the ID is correct！"
+}

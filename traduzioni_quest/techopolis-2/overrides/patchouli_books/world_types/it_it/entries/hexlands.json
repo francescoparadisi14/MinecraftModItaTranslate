@@ -6,7 +6,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "I biomi generano in esagoni invece che con la generazione normale di Minecraft, ha un'atmosfera completamente diversa quando si gioca. $(br2)Non sono stati aggiunti nuovi ricettari."
+            "text": "I biomi vengono generati in celle esagonali, a differenza della generazione standard di Minecraft, e offrono un'esperienza di gioco completamente diversa. Non sono state aggiunte ricette aggiuntive."
         }
     ]
 }

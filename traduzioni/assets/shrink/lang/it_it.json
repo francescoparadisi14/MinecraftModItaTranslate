@@ -1,14 +1,14 @@
 {
     "item.mob_bottle.tooltip": "Contiene: %s",
-    "item.mob_bottle.tooltip_empty": "Fai Clic Destro Su Un Entità Ridotta Con Una Bottiglia Di Vetro Per Catturarla",
+    "item.mob_bottle.tooltip_empty": "Fare clic con il tasto destro su un'entità ridotta e posiziona una bottiglia di vetro sopra di essa per catturarla.",
     "item.mob_bottle.tooltip_with_name": "Contiene: %s (%s)",
-    "item.shrink.shrink_bottle": "Bottiglia Di Vetro",
-    "item.shrink.shrinking_device": "Dispositivo Di Riduzione Personale",
+    "item.shrink.shrink_bottle": "Bottiglia di vetro",
+    "item.shrink.shrinking_device": "Dispositivo per la riduzione personale",
     "itemGroup.shrink": "Ridurre",
-    "key.shrink.category": "Riduzione",
-    "key.shrink.shrink": "Abilita\/Disabilita Riduzione",
-    "shrink.deny_shrink": "Bloccato Il Ridimensionamento Dell'entità A Causa Della Etichetta Di Negazione",
-    "shrink.message.already_shrunk": "Impossibile Aprire Mentre Già Contratto",
-    "shrink.message.missing": "Attributo Di Riduzione Mancante",
-    "shrink.message.power": "Non Ce N'è Abbastanza Potenza"
+    "key.shrink.category": "Ridurre",
+    "key.shrink.shrink": "Attiva\/Disattiva la riduzione",
+    "shrink.deny_shrink": "Rilento della riduzione dell'entità a causa del tag \"deny\"",
+    "shrink.message.already_shrunk": "Impossibile aprire quando è già stato ridotto.",
+    "shrink.message.missing": "Attributo \"Ridimensiona\" mancante",
+    "shrink.message.power": "Non è sufficientemente potente."
 }

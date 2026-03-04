@@ -1,17 +1,17 @@
 {
-    "name": "Calamita luminosa",
+    "name": "Polpo luminoso",
     "category": "patchouli:animals",
     "icon": "minecraft:glow_ink_sac",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Latte: Sacco d'inchiostro$(li)Ritardo del latte: 1 giorno$(li)Cerca: Tentacoli di Calamari luminosi (20% di probabilità), Inchiostro leggendario (10% di probabilità) $(li)Bottino: Sacco d'inchiostro luminoso$(br2)$(l)Note$()$(br)I bottini si verificano a 5+ cuori di affetto"
+            "text": "patchouli: testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile per la vendita$(li)Fonte di nutrimento: Sacca di inchiostro$(li)Tempo di ricarica: 1 giorno$(li)Possibilità di ottenere: Sacca di inchiostro normale (20%), Sacca di inchiostro leggendaria (10%) $(li)Oggetti ottenibili: Sacca di inchiostro normale$(br2)$(l)Note$()$(br)Si ottiene quando il livello di affetto è superiore a 5. È necessario avere un nome (tag). Altrimenti, l'oggetto scompare."
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:glow_squid",
             "scale": 0.4,
-            "text": "Sudare un calamaro?"
+            "text": "patchouli: entità\n\nminecraft: luminescenza di calamaro\n\nAllevare un calamaro?"
         }
     ]
 }

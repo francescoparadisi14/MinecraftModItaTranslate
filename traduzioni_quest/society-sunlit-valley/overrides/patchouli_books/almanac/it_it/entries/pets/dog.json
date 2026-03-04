@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Doni possibili:$()$(br)Fossile di pecora$(br)$(l)Oggetto per addomesticare:$()$(br)Osso$(br2)$(l)Note$()$(br)Può essere trovato in pianure."
+            "text": "patchouli:testo\n\n$(l)Possibili oggetti da regalare:$()$(br)Fossil di pecora$(br)$(l)Oggetto per addomesticare:$()$(br)Osso$(br2)$(l)Note$()$(br)Si possono trovare nelle pianure."
         },
         {
             "type": "patchouli:entity",
             "entity": "wildernature:dog",
             "scale": 0.7,
-            "text": "Non è un grande amante dei gatti"
+            "text": "Patchouli: entità\n\nWildernature: cane\n\nNon sono un grande fan dei gatti"
         }
     ]
 }

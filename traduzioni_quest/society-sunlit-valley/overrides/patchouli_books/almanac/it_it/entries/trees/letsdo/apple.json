@@ -1,16 +1,16 @@
 {
-    "name": "Albero di mele oscura 🍂",
+    "name": "Albero di mele scuro 🍂",
     "category": "patchouli:trees",
     "icon": "vinery:apple_tree_sapling",
     "sortnum": -1,
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)🍂 §4Autunno§r $(li)Prezzo: :coin: 256$(li)Dimensioni: 1x1$(li)Cresce con:$(l:tree_crops\/apple)Meli$(\/l)$(br2)$(l)Note$()$(li)Venduti come seme da Mercato.`"
+            "text": "patchouli:text\n\n$(l)Statistiche$()$(li)🍂 Autunno§r $(li)Prezzo: 256$(li)Dimensione: 1x1$(li)Coltivabile:$(l:alberi\/mele)Mele$(\/l)$(br2)$(l)Note$()$(li)Piantine acquistate dal mercato."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Apple Tree",
+            "name ": "patchouli:multiblock\n\nTiglio",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -74,12 +74,11 @@
                 "mapping": {
                     "0": "vinery:apple_leaves[has_apples=false]",
                     "1": "vinery:apple_leaves[has_apples=false]",
-                    "2": "vinery:apple_leaves[can_have_apples=true, has_apples=true]",
-                    "3": "vinery:apple_leaves[can_have_apples=true]",
+                    "2": "vinery:apple_leaves[can_grow_apples=true, has_apples=true]",
+                    "3": "vinery:apple_leaves[can_grow_apples=true]",
                     "W": "vinery:apple_log"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

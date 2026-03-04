@@ -1,7 +1,13 @@
 {
-    "fluid_type.create_wizardry.lightning": "Acqua di fulmine",
-    "fluid_type.create_wizardry.mana": "Mana",
-    "item.create_wizardry.lightning.guide": "Un fluido estremamente volatile carico di energia elettrica. Può essere ottenuto canalizzando fulmini su serbatoi di fluidi utilizzando un palo di fulmine o estratto da crioferi carichi in bottiglia.",
-    "item.create_wizardry.mana.guide": "Il liquido essenza della magia. Può essere utilizzato per creare l'essenza arcanica quando combinato con la polvere.",
-    "item.irons_spellbooks.blood_staff.guide": "Il sangue vitale di tutti gli organismi. Può essere ottenuto comprimendo carne o bollendo mostri."
+    "fluid_type.create_wizardry.lightning_type": "Fulmine liquido",
+    "fluid_type.create_wizardry.mana_type": "Mana",
+    "item.create_wizardry.blood_bucket": "Bucket o' Blood",
+    "item.create_wizardry.crushed_mithril": "Mithril grezzo ridotto in polvere",
+    "item.create_wizardry.lightning_bucket": "Una brocca di elettricità liquida",
+    "item.create_wizardry.mana_bottle": "Bottiglia di Mana",
+    "item.create_wizardry.mana_bucket": "Contenitore di mana",
+    "item.create_wizardry.mithril_nugget": "Nugget di Mithril",
+    "jei.create_wizardry.blood": "È l'elemento vitale per tutti gli organismi. Può essere ottenuta comprimendo la carne o bollendo gli animali.",
+    "jei.create_wizardry.liquid_lightning": "Un fluido estremamente instabile, carico di energia elettrica. Può essere ottenuto dirigendo fulmini sui serbatoi contenenti il fluido utilizzando un pararrayo, oppure estraendolo da piante cariche di elettricità contenute in un contenitore.",
+    "jei.create_wizardry.mana": "L'essenza liquida della magia. Può essere utilizzata per creare l'essenza arcana quando combinata con la polvere."
 }

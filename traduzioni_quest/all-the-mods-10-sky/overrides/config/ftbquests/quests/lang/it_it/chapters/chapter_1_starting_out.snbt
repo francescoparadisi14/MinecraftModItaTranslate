@@ -1,0 +1,197 @@
+{
+    "quest.01B5005BF9056A2E.quest_subtitle": "Sabbia di martello",
+    "quest.040C336C718DCC7D.quest_desc": [
+        "Questo è un pacchetto di modifiche \"\\&6\\&lATM\", e avrete bisogno di moltissimi materiali.\n\nQuindi, cosa faremo con tutti questi \"\\&7Gravel\"? Semplicemente riempire centinaia di casse?\n\nNo, invece possiamo combinare 9 blocchi in un unico blocco compresso.\n\nQuesto funziona con un'ampia varietà di blocchi, e ognuno può essere ulteriormente compresso!"
+    ],
+    "quest.040C336C718DCC7D.title": "Blocchi compatti",
+    "quest.043AB8772206FF71.quest_desc": [
+        "\\&0Flint\\&r può essere ottenuto raramente, ad esempio, rompendo \\&7blocchi di ghiaia\\&r come al solito, oppure ottenendo blocchi di \\&bFiltro\\&r! \\n\\nNormalmente, \\&0Flint\\&r è piuttosto inutile in \\&2\\&lMinecraft\\&r. Ti permette di ottenere Flint and Steel, ma non altro. \\n\\nTuttavia, \\&b\\&lSkyblock\\&r è molto diverso! Quindi, raccoglilo e conservalo per le prime fasi del gioco."
+    ],
+    "quest.043AB8772206FF71.title": "\\&8Flint",
+    "quest.04ACC7E762537FB4.quest_desc": [
+        "Non avremo bisogno di macchine sofisticate per estrarre minerali qui... ne avremo bisogno solo di poche!\n\nIl \"\\&3\\&lSqueezer\\&r\" di \"\\&3\\&lID\\&r\" può trasformare i \"\\&7Blocchi di minerali grezzi\\&r\" in \"\\&7Minerali grezzi\\&r\".\n\nPer utilizzarlo, basta posizionare il \"\\&7Blocco di minerali grezzi\\&r\" nel \"\\&3\\&lSqueezer\\&r\" e premere per spingerlo verso il basso. Una volta schiacciato, i \"\\&7Minerali grezzi\\&r\" verranno espulsi. In rari casi, potrebbe anche produrne di più!\n\nMa aspetta! Non è tutto!\n\nAbbiamo anche martelli per minerali, che possono frantumare i \"\\&7Minerali grezzi\\&r\" in 2 \"\\&7Polvere\\&r\", che possono essere fusi in \"\\&7Lingotti\\&r\"."
+    ],
+    "quest.04ACC7E762537FB4.title": "Metodo semplice per falsificare documenti",
+    "quest.091F1D752FA3BAAC.quest_desc": [
+        "Con solo 2 e 0 \"Flint\", possiamo creare \"Flint Shears\". Funzionano esattamente come le forbici, ma sono più economiche.\n\nNe avremo bisogno per raccogliere le \"Foglie\"!\n\nE lana... se ne avete bisogno."
+    ],
+    "quest.091F1D752FA3BAAC.title": "Raccolta di foglie",
+    "quest.0BD70DFE33D84323.quest_desc": [
+        "«I setacci \\&b\\&lSieves\\&r sono il modo in cui otterremo la maggior parte delle risorse.\nPosizionali e non faranno molto. Dovremo fornire loro una \"rete\" per poterle utilizzare. La rete iniziale è quella \"String Mesh\", ma può essere aggiornata.\nPer posizionare semplicemente clicca con il tasto destro sull'\\&b\\&lSieve\\&r e poi usa il tasto Shift per rimuoverlo.\nUna volta inserita la rete, puoi cliccare con il tasto destro su determinati blocchi nell'\\&b\\&lSieve\\&r per farli passare. Continua a cliccare con il tasto destro o tieni premuto il tasto Shift e, una volta che saranno completamente inseriti, rilasceranno gli oggetti.\n\nSuggerimento: se ci sono più \\&b\\&lSieves\\&r uno accanto all'altro, funzioneranno contemporaneamente! Questo si estende fino a un'area di 5x5!»",
+        "{image:atm:textures\/questpics\/chap1\/chap1_sieve.png width:100 height:100 align:center}",
+        "{image:atm:textures\/questpics\/chap1\/chap1_sieves.png width:100 height:100 align:center}"
+    ],
+    "quest.0BD70DFE33D84323.title": "\\&b\\&lSifoni e griglie",
+    "quest.0D794D25F04E04A7.quest_desc": [
+        "Non possiamo ottenere \"Netherrack\" da \"The Nether\". È piuttosto vuoto. Invece, dovremo crearne.\n\nPer creare \"Netherrack\", dobbiamo combinare \"Witch Water\" con \"Lava\" in un \"Barrel\".\n\nInoltre, possiamo setacciare il risultato con un \"Hammer\" per ottenere più oggetti!"
+    ],
+    "quest.0D794D25F04E04A7.title": "\\&4 Netherrack",
+    "quest.0E7F7CF44A982EA3.quest_desc": [
+        "E la terra da modellare e il polveroso di ossa possono essere utilizzati per creare argilla porcellana.\n\nQuesto sarà necessario per creare secchi o secchi più grandi, chiamati \"crucifori\"!"
+    ],
+    "quest.0E7F7CF44A982EA3.title": "\\&3Argilla porcellana",
+    "quest.0FEFD055B435B17F.quest_desc": [
+        "Ora possiamo finalmente ottenere una grande quantità di \"\\&cLava\\&r\". Non preoccupatevi più di sbagliare la preparazione dei \"\\&7Cobble Generators\\&r\"!\n\nNon possiamo creare \"Fonti di \\&cLava\\&r\" infinite, ma almeno possiamo continuare a produrne.\n\nÈ molto importante per la miscelazione dei fluidi e per altre ricette, quindi probabilmente ne avrete bisogno in grandi quantità!"
+    ],
+    "quest.0FEFD055B435B17F.title": "\\&cLava",
+    "quest.11032183CCCA206D.quest_desc": [
+        "\\&aMasse passive\\&r necessitano di due elementi per generarsi:\n\n1. \\&2Erba\\&r, che abbiamo.\n2. Luce, che dovremo procurare!\n\nSe la luce è sufficiente, insieme all'erba, le masse si genereranno in modo casuale.\n\nA volte, il processo può richiedere del tempo."
+    ],
+    "quest.11032183CCCA206D.title": "\\&aSciame passivo",
+    "quest.128A1EEAF8F45042.quest_desc": [
+        "E i semi di micelio raramente provengono dal fango.\n\nFunzionano come i semi di erba: posizionali sul fango o sull'erba per ottenere il micelio!"
+    ],
+    "quest.128A1EEAF8F45042.title": "Portate la muffa!",
+    "quest.145917B219D0D28D.quest_desc": [
+        "Tutti i mondi di \\&bSkyblock\\&r iniziano con le risorse necessarie: \\&2erba\\&r e \\&2un albero\\&r.\n\nAvremo bisogno dell'\\&2albero\\&r per ottenere \\&6legno\\&r e tutto ciò che può essere creato con il \\&6legno\\&r. E cosa ne pensiamo dell'\\&2erba\\&r?\n\nBeh, per 1. gli \\&aMob passivi\\&r hanno bisogno di \\&2erba\\&r per riprodursi. 2. L'\\&2erba\\&r si diffonde anche ad altri terreni. 3. Possiamo usare il comando Shift + Click sull'\\&2erba\\&r per ottenere \\&7pietre!"
+    ],
+    "quest.145917B219D0D28D.title": "\\&2Erba",
+    "quest.162AB6F9257EB71E.quest_desc": [
+        "Ci sono molti modi per generare la tua prima fonte di energia.",
+        "",
+        "In questo aggiornamento, Generators Galore ha ricevuto un importante rinnovamento! Con aggiornamenti più economici per le configurazioni 8x e 64x, e un aumento della produzione di energia in generale, approfittate per ottenere una grande quantità di energia geotermica e iniziate subito! Se vogliamo iniziare ad automatizzare il sistema in ATM10:TTS, dovremo approfondire ulteriormente l'utilizzo dell'energia e installare alcuni nuovi mod.",
+        "",
+        "Ecco alcuni dei mod inclusi!",
+        "",
+        "\\&Generatori di ogni tipo\\&r (tipologie e modifiche)",
+        "",
+        "\\&bLivelli di accelerazione della crescita\\&r (consigliamo un approccio mirato, è molto efficace!)",
+        "",
+        "\\&bGeores\\&r (Coltiva i materiali di cui ti mancano!)\\&r"
+    ],
+    "quest.162AB6F9257EB71E.title": "Il prossimo capitolo",
+    "quest.1B186F14606C07D7.quest_desc": [
+        "Combinando \\&eGlowstone\\&r con \\&cLava\\&r in un \\&6\\&lBarile\\&r (idealmente un \\&7\\&lBarile\\&r), otterremo \\&eEndstone\\&r.\n\nProprio come con \\&4Netherrack\\&r, possiamo utilizzare un \\&8Martello\\&r per schiacciare il materiale, e poi setare i pezzi schiacciati!\n\nQuesto ci darà \\&3Perle di Ender\\&r, \\&aOcchi di Ender\\&r, e molto altro..."
+    ],
+    "quest.1B186F14606C07D7.title": "\\&Fine",
+    "quest.1E9F1FBAA6AAA43B.quest_desc": [
+        "E altre creature ostili sono più facili da generare rispetto alle creature passive.\n\nFinché l'ambiente è sufficientemente buio e le creature sono almeno a 24 blocchi di distanza, si genereranno.\n\nSe la tua isola sta diventando più grande, potresti volerla illuminare!"
+    ],
+    "quest.1E9F1FBAA6AAA43B.title": "E altre: gruppi ostili",
+    "quest.1FA3ACD9B8CD02FE.quest_desc": [
+        "Qual è il metodo per ottenere l'acqua magica? Posiziona un blocco di micelio sopra un contenitore e aggiungi l'acqua magica per ottenere l'acqua magica.\nCi vuole un momento, ma va bene, siamo pazienti!\n\n(A proposito, qualsiasi blocco di micelio vicino all'acqua magica inizierà a crescere funghi!)"
+    ],
+    "quest.1FA3ACD9B8CD02FE.title": "\\&5Acqua malefica",
+    "quest.23E71537225B8392.quest_desc": [
+        "Grazie al nostro nuovo materiale, possiamo creare bastoncini. Con questi bastoncini possiamo creare un \"bastone\"!\n\nQuesti bastoni possono essere utilizzati per rompere le \"foglie\". Quando lo fanno, le \"foglie\" cadranno e daranno anche più \"piantine\" e un nuovo oggetto chiamato \"vermi della seta\".\n\nLanciando questi \"vermi della seta\" sulle \"foglie\", li infetterai. Questo si diffonderà ad altre foglie e crescerà nel tempo.\n\nMa perché qualcuno vorrebbe avere un'infestazione di \"vermi della seta\"?\n\nPer ottenere il \"filo\", ovviamente! Basta rompere quelle foglie bianche per ottenerlo.",
+        "{image:atm:textures\/questpics\/chap1\/chap1_tree.png width:100 height:100 align:center}"
+    ],
+    "quest.23E71537225B8392.title": "Invasione delle nostre piantagioni di alberi",
+    "quest.25B49E9D15BAEF3E.quest_desc": [
+        "E l'acqua può provenire da diverse fonti:\n\n*   Pioggia\n*   Compostaggio\n*   Ghiaccio!\n\nIndipendentemente dal metodo utilizzato, è possibile creare immediatamente una \"Fonte d'Acqua Infinita\" posizionando 2 \"Fonti d'Acqua\" diagonalmente l'una dall'altra in un'area 2x2.\n\nOra non dovremo più preoccuparci di ottenere acqua!"
+    ],
+    "quest.25B49E9D15BAEF3E.title": "\\&9Acqua",
+    "quest.29F82373417B2006.quest_desc": [
+        "\"Non hai più piantine? Puoi ottenere delle piantine di emergenza nell'angolo in alto a destra del menu della missione! Inoltre, è possibile riutilizzarle: non è necessario riavviare il tuo mondo se succede qualcosa di negativo!\"."
+    ],
+    "quest.29F82373417B2006.title": "Piantine di emergenza",
+    "quest.2A3BF8D20EEED292.quest_desc": [
+        "Il barile in legno (Oak) è molto diverso dai barili di \\&2\\&lMinecraft\\&r.\n\nIn realtà, lo utilizzeremo per molti diversi oggetti e blocchi!\n\nPossiamo usarlo per mescolare oggetti con liquidi, semplicemente inserendo un liquido e lasciando cadere un oggetto al suo interno.\n\nOppure, possiamo mescolare liquidi inserendo entrambi al suo interno.\n\nA proposito, per mescolare con \\&cLava\\&r, dovresti usare un barile in \\&7\\&lStone\\&r. I barili in \\&6\\&lWood\\&r bruceranno!\n\nSe c'è \\&9Rain\\&r, si riempirà di \\&9Water\\&r.",
+        "{image:atm:textures\/questpics\/chap1\/chap1_barrel.png width:100 height:110 align:center}",
+        "{image:atm:textures\/questpics\/chap1\/chap1_leaves.png width:100 height:110 align:center}"
+    ],
+    "quest.2A3BF8D20EEED292.title": "\\&6\\&l(Barrica di rovere)",
+    "quest.2C134DDBF9283407.quest_desc": [
+        "Per coloro che desiderano accelerare l'inizio, questa opzione offre un \"modalità facile\". Non è necessario completare questa missione, e la sua esecuzione è facoltativa per proseguire."
+    ],
+    "quest.2C134DDBF9283407.quest_subtitle": "Per chi desidera saltare direttamente al contenuto principale.",
+    "quest.2C134DDBF9283407.title": "Un vantaggio iniziale",
+    "quest.322F7A333B35F7FD.quest_desc": [
+        "Per ottenere i materiali, dobbiamo setacciare i blocchi attraverso i setacci \\&b\\&lSieves\\&r... ok, ma questi \\&7Rocks\\&r sono troppo duri per passare attraverso i setacci \\&b\\&lSieves\\&r.\n\nChe ne dite se li schiacciavamo con un martello?\n\nPensavate che stessi scherzando? Usate il \\&8Hammer\\&r per schiacciare i blocchi e ottenere una versione schiacciata!"
+    ],
+    "quest.322F7A333B35F7FD.title": "\\&8Martelli",
+    "quest.376BAC497511F067.quest_desc": [
+        "Se posizionate del ferro su un tavolo di crafting, potrete migliorare il vostro forno in un forno in ferro.",
+        "",
+        "Questi sensori reagiscono più rapidamente e possono anche essere configurati per l'automazione, utilizzando il meccanismo presente nell'angolo in alto a sinistra dell'interfaccia grafica."
+    ],
+    "quest.376BAC497511F067.quest_subtitle": "Tutto viene aggiornato in questo pacchetto?",
+    "quest.376BAC497511F067.title": "Fusione del ferro con ferro",
+    "quest.3948A052907BEC04.quest_subtitle": "Hammer Blackstone",
+    "quest.3C5AAFC9672F2CF7.quest_desc": [
+        "Possiamo anche utilizzare la sabbia in combinazione con la sabbiera per ottenere oggetti!\n\nLa sabbia è piuttosto rara e importante, quindi assicuratevi di averne a sufficienza.\n\nLa sabbia ci fornirà anche 2 tipi di semi, oltre a erba! Questi semi possono essere utilizzati sulla sabbia per ottenere erba.\n\nQualsiasi quantità di sabbia, ovunque!"
+    ],
+    "quest.3C5AAFC9672F2CF7.title": "\\&2 Semi di erba",
+    "quest.441200BE0C75C2AD.quest_desc": [
+        "Le strutture possono essere migliorate! E sarà necessario migliorarle per ottenere nuovi oggetti.\n\nÈ possibile consultare JEI per tutti gli oggetti, ma in generale, più è buona la struttura, maggiori sono le probabilità di ottenere oggetti migliori.\n\nSia la probabilità di ottenere oggetti che il tasso di ottenimento cambiano in base alla struttura."
+    ],
+    "quest.441200BE0C75C2AD.title": "Mesh migliorate",
+    "quest.469E414BC7F0C238.quest_desc": [
+        "E i secchi in ceramica funzionano come i secchi in ferro.\n\nSono semplicemente più economici, più facili da ottenere all'inizio del gioco, e si rompono dopo aver posizionato il \\&cLava\\&r!\n\nAspetta, cosa dici?\n\nSì, non sono adatti al calore e, una volta posizionato il \\&cLava\\&r, i secchi in ceramica si romperanno.\n\nTuttavia, l'acqua è un'ottima opzione!"
+    ],
+    "quest.469E414BC7F0C238.title": "\\&Secchiello in porcellana",
+    "quest.488C8BDF45B9CA0F.quest_desc": [
+        "\\&aPortali\\&r sono un modo semplice per ottenere \\&aMob passivi\\&r e ricompense!\n\nOk, forse non sono così semplici. Dovrete affrontare ondate di \\&aMostri\\&r. Inoltre, avrete bisogno di un \\&aOcchio di Ender\\&r per costruirlo.\n\nMa ne vale la pena!\n\nDiversi \\&aPortali\\&r offrono ricompense diverse e affrontano diversi tipi di \\&aMostri\\&r. Questo particolare portale vi darà 6 esemplari di ogni animale da fattoria.",
+        "{image:atm:textures\/questpics\/chap1\/chap1_gateway.png width:100 height:100 align:center}"
+    ],
+    "quest.488C8BDF45B9CA0F.title": "Mob gratuite!!!",
+    "quest.4C502B5A1C1A0C58.quest_desc": [
+        "Con \"\\&8Soul Sand\\&r\" possiamo aggiungere \"\\&cNether\\&r\" come facciamo con \"\\&7Clay\\&r\" ottenuto dall'acqua, ma ora otterremo \"\\&8Soul Sand\\&r\".\n\nL' \"\\&8Soul Sand\\&r\" può essere setacciato per ottenere più \"\\&cNether\\&r\"!\n\nAh, forse sarete delusi dal \"\\&cNether\\&r\"..."
+    ],
+    "quest.4C502B5A1C1A0C58.title": "\\&8Soul Sand",
+    "quest.4CCA1C828677D518.quest_desc": [
+        "Tenendo premuto il tasto Maiuscolo e cliccando sull'angolo superiore di un blocco di \\&2erba\\&r, otterrete \\&7ghiaia\\&r!\n\n\\&7Ghiaia\\&r per \\&7pietra, \\&8pietra basaltica, \\&7andezite, \\&dgranito, diorite, \\&0pietra basaltica\\&r, e \\&8basalto\\&r.\n\nÈ possibile combinare 4 \\&7ghiaie\\&r per ottenere \\&7pietra\\&r. Oppure, basta premere il tasto K mentre si passa sopra un gruppo di esse nel proprio inventario!\n\nQuesto funziona per molti oggetti con ricette simili, provatelo!"
+    ],
+    "quest.4CCA1C828677D518.title": "Scavare nel terreno erboso",
+    "quest.522B2CE771DDBA0F.quest_desc": [
+        "Ho detto una bugia, ma \\&6\\&lBarrels\\&r non si limitano a mescolare liquidi e fluidi. Possono anche essere utilizzati per compostare! \\n\\nMettete dentro un \\&6\\&l(Barile di quercia)\\&r alcuni \\&2Crops\\&f, \\&2Moss\\&f, o \\&2Leaves\\&r, e si trasformeranno in terra. \\n\\nQuesto è l'unico modo nel gioco iniziale per ottenere più terra!"
+    ],
+    "quest.522B2CE771DDBA0F.title": "Creare fango?",
+    "quest.52DD11BC71F45E32.quest_desc": [
+        "\\&9\\&lCrucibles\\&r esistono solo per un motivo: ottenere acqua gratuita!\n\nPuoi aspettare che \\&9Water\\&r riempia i \\&6Barrels\\&r gratuitamente, oppure puoi semplicemente gettare \\&2Leaves\\&r in un \\&9\\&lCrucible\\&r e aspettare.\n\nCredetemi, l'utilizzo del \\&9\\&lCrucible\\&r è molto più veloce!",
+        "{image:atm:textures\/questpics\/chap1\/chap1_crucible.png width:100 height:100 align:center}"
+    ],
+    "quest.52DD11BC71F45E32.title": "\\&9Acqua \\&ffrom \\&2Foglie",
+    "quest.60D53C6A50F9245B.quest_subtitle": "Asfalto con ghiaia",
+    "quest.6113DCE514DBB5D4.quest_subtitle": "Hammer Cobble",
+    "quest.62AF24DD96B7B4AD.quest_desc": [
+        "Quando utilizziamo la funzione \"\\&b\\&lSieve\" per le \"\\&7Ores\", non otterremo le \"\\&7Raw Ore\" complete. No, è troppo semplice! Otterremo i \"\\&7Chunks\"!\n\n4 \"\\&7Chunks\" serviranno per creare 1 \"\\&7Raw Ore Block\".\n\nÈ possibile utilizzare il tasto \"K\" mentre si è posizionati sopra i \"\\&7Chunks\" nel proprio inventario per combinarli istantaneamente!"
+    ],
+    "quest.62AF24DD96B7B4AD.title": "\\& 7 Porzioni",
+    "quest.62C9E87ECD00CA84.quest_desc": [
+        "\\&b\\&lSkyblock\\&r inizia come qualsiasi altro mondo normale di \\&2\\&lMinecraft\\&r! Colpisci quell'\\&2albero\\&r!\n\n...Ma non guardare troppo in basso.\n\nE fai attenzione a non perdere l'\\&2piccolo albero\\&r!"
+    ],
+    "quest.62C9E87ECD00CA84.title": "Colpire \\& 2Trees",
+    "quest.62FCB337688ACDBC.quest_desc": [
+        "Non preoccupatevi di creare gli strumenti in legno, passate direttamente alla creazione di quelli in pietra.\n\nE sì, potete comunque creare i generatori di pietra utilizzando sia l'acqua che la lava!\n\nSe scegliete il percorso più difficile, non potrete ancora utilizzarli. Dovrete seguire gli incarichi per raggiungerli."
+    ],
+    "quest.62FCB337688ACDBC.title": "\\&7Cobblestone",
+    "quest.647E94E2156CB596.quest_desc": [
+        "Se avete utilizzato il comando \"\\&b\\&lATM9TTS\\&r\", probabilmente ricordate i \"\\&7Stone Generator Blocks\\&r\", che creavano \"\\&7Cobble\\&r\" in un inventario sopra di essi.\n\nQuesti funzionano in modo leggermente diverso... avrete comunque bisogno di un inventario sopra il \"\\&7\\&lGenerator\\&r\" per raccogliere i blocchi, ma il meccanismo è diverso.\n\nPer farlo funzionare, avremo bisogno di una \"\\&cLava Source\\&r\" e una \"\\&9Water Source\\&r\" su due lati del \"\\&7\\&lGenerator\\&r\". A quel punto, inizierà a produrre \"\\&7Cobble\\&r\".\n\nSe vogliamo creare altri blocchi, come \"\\&7Andesite\\&r\" o persino \"\\&5Obsidian\\&r\", dovremo posizionare quei blocchi sotto il \"\\&7\\&lGenerator\\&r\". Consultate JEI per trovare altre ricette!\n\nPossiamo migliorare i \"\\&7\\&lGenerators\\&r\", che semplicemente accelereranno il processo.",
+        "{image:atm:textures\/questpics\/chap1\/chap1_stone.png width:150 height:100 align:center}"
+    ],
+    "quest.647E94E2156CB596.title": "\\&7\\&Generatore di pietre",
+    "quest.658751C690E2B520.quest_subtitle": "Martello su Pietra Profonda",
+    "quest.6C1D268CE2B0D05D.quest_desc": [
+        "Prepara un recipiente in porcellana e utilizzalo per cuocere gli oggetti.\n\nLo scopo di questo recipiente è quello di trasformare gli oggetti in \"lava\"!\n\nPosiziona il recipiente sopra una fonte di calore. Aggiungi ulteriore calore per accelerare il processo. La \"lava\" è più potente del \"fuoco\" e del \"fuoco\" è più potente delle \"lanterne\".\n\nQuindi, metti i blocchi nel recipiente. Ad esempio, pietra o persino Netherrack. Dopo un po', si formerà la \"lava\"!",
+        "{image:atm:textures\/questpics\/chap1\/chap1_lava.png width:120 height:200 align:center}"
+    ],
+    "quest.6C1D268CE2B0D05D.title": "\\&c\\&lCrogiolo in porcellana",
+    "quest.6CCF2126B2BA72A6.quest_desc": [
+        "Di solito troviamo \\&2Moss\\&r nelle \\&2Lush Caves\\&r… ma dove sono le \\&2Lush Caves\\&r nel \\&b\\&lSky\\&r?\n\nBeh, possiamo sempre combinare 4 \\&2Grass Seeds\\&r per ottenere 1 \\&2Moss\\&r!\n\nSembra un affare ingiusto? Avete dimenticato che potete usare il \\&2Bonemeal\\&r per diffondere il \\&2Moss\\&r su tutto ciò che è vicino alla terra, come \\&2Grass\\&r e \\&7Stone\\&r.\n\nIl \\&2Moss\\&r può essere \\&bSieved\\&r come la terra, ma invece di ottenere \\&2Crops\\&r, otterremo \\&2Saplings\\&r!"
+    ],
+    "quest.6CCF2126B2BA72A6.title": "\\&2Moss",
+    "quest.70C2B568FA46337F.quest_desc": [
+        "Avremo bisogno di una grande quantità di ghiaia, sabbia e polvere. Quindi, produciamo 9 volte di più!\n\nCombinando 9 pietre di \"Cobble\" (pietre irregolari), possiamo ottenere 9 \"Cobble compressi\", che possono essere utilizzati come se fossero pietre normali.\n\nI \"Cobble compressi\" daranno 9 pietre di \"Ghiaia\" quando vengono utilizzate con il \"martello\"."
+    ],
+    "quest.70C2B568FA46337F.title": "Frantumare blocchi compatti",
+    "quest.79D6F21C1E1D1749.quest_desc": [
+        "Il trauma di tutti i mondi \\&b\\&lSkyblock\\&r falliti... l'\\&5Obsidian\\&r.\n\nCome molti giocatori di \\&b\\&lSkyblock\\&r hanno scoperto, quando \\&9l'acqua\\&ftouches un \\&cLava Source\\&r, creerà \\&5Obsidian\\&r.\n\nPossiamo farlo in modo più pacifico utilizzando i \\&6\\&lBarrels\\&r!"
+    ],
+    "quest.79D6F21C1E1D1749.title": "\\&5Obsidian",
+    "quest.7ADFD864139BF2F2.quest_desc": [
+        "Benvenuti in \\&b\\&lSky\\&r! \\n\\nPotreste notare la mancanza di... beh, praticamente di tutto! \\n\\nNel caso in cui riscontrate un problema di \"troppo terreno\" (come in \\&2World\\&r, non in \\&bSkyblock\\&r), consultate la sezione FAQ su \\&9Discord\\&r per trovare la soluzione. \\n\\nUtilizzate il comando \"\/skyblock gui\" per creare un Team e iniziare a costruire la vostra isola! Selezionate il tipo e il nome desiderato per iniziare. Le configurazioni rimanenti sono per il gioco multiplayer."
+    ],
+    "quest.7ADFD864139BF2F2.quest_subtitle": "Benvenuti in \"All The Mods 10: To the Sky\"! Ora siamo arrivati al decimo anno.",
+    "quest.7ADFD864139BF2F2.title": "Inizio",
+    "quest.7B08D4FC6F1B0005.quest_desc": [
+        "Mettete un \\&6\\&lBarile\\&r, poi gettate un blocco di polvere al suo interno per ottenere \\&7argilla! \\n\\nDovrete fare clic con il tasto destro sul \\&6\\&lBarile\\&r per estrarre l'\\&7argilla. \\n\\nAvremo bisogno di \\&7argilla per alcune cose, come \\&cmattoni refrattari\\&r e \\&3argilla porcellana\\&r."
+    ],
+    "quest.7B08D4FC6F1B0005.title": "\\&7Argilla",
+    "quest.7CC729E68A89D962.quest_desc": [
+        "Possiamo combinare \\&6\\&l\"acqua\" e latte in un \\&6\\&l\"barril\" per ottenere \\&a\"blocchi di slime\"! \\n\\nCome funziona? \\n\\nNon lo so! \\n\\nE sinceramente, non voglio saperlo!"
+    ],
+    "quest.7CC729E68A89D962.quest_subtitle": "Appiccicoso",
+    "quest.7CC729E68A89D962.title": "\\&aSlime",
+    "task.2019707AE4DAC703.title": "{atm9.quest.start1.emergency}"
+}

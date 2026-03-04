@@ -1,18 +1,17 @@
 {
-    "name": "Shulking",
+    "name": "Riluttanza",
     "category": "patchouli:slimes",
     "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:shulking\"}}",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Localizzazioni:$()$(li)Struttura: Spawn dei Lombrichi di Umbra Barrens (Caverne del Cranio)$(br2)$(l)Rischii:$()$(br)Procura effetto di levitazione quando è agitato e teleporta verso cibo vicino."
+            "text": "patchouli:testo\n\n$(l)Posizioni:$()$(li)Struttura: Umbra Barrens Slime Spawners (Caverna del Cranio)$(br2)$(l)Rischi:$()$(br)Causa l'effetto di levitazione quando è disturbato e si teletrasporta verso cibo nelle vicinanze."
         },
         {
             "type": "patchouli:entity",
-            "name": "Shulking Slime",
+            "name": "patchouli:entità\n\nsplendid\\_slimes:splendid\\_slime{Razza:\"splendid\\_slimes:shulking\"}\n\nShulking Slime",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:shulking\"}",
-            "scale": 0.9,
-            "text": "Un Splendido Slime Shulking, una delle razze più rare e misteriose di questo mondo."
+            "scale": 0.9
         }
     ]
 }

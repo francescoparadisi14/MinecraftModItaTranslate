@@ -1,0 +1,21 @@
+{
+    "buff.deus_ex_machina.attack_boost": "Aumento dell'attacco",
+    "buff.deus_ex_machina.berserker": "Berserk",
+    "buff.deus_ex_machina.critical_chance": "Opportunità critica",
+    "buff.deus_ex_machina.evasion": "Elusione",
+    "buff.deus_ex_machina.execute": "Eseguire",
+    "buff.deus_ex_machina.knockback": "Spinta all'indietro",
+    "buff.deus_ex_machina.knockback_resistance": "Resistenza agli attacchi che spingono all'indietro",
+    "buff.deus_ex_machina.life_leech": "Parassita",
+    "buff.deus_ex_machina.momentum": "Slancio",
+    "buff.deus_ex_machina.resistance": "Resistenza",
+    "buff.deus_ex_machina.thorns": "Spine",
+    "deus_ex_machina.death_screen.attack": "Aumento dell'attacco: +%d%",
+    "deus_ex_machina.death_screen.attack.now": "(ora %d%)",
+    "deus_ex_machina.death_screen.header": "Appassionati di Deus Ex Machina contro:",
+    "deus_ex_machina.death_screen.resistance": "Resistenza: +%d%%",
+    "deus_ex_machina.death_screen.resistance.now": "(ora %d%)",
+    "effect.deus_ex_machina.deus_ex_machina_effect": "Deus ex machina",
+    "effect.deus_ex_machina.deus_ex_machina_effect.desc": "Uno stato in cui si diventa ancora più forti. Dopo la morte, si diventa ancora più forti.",
+    "item.deus_ex_machina.ambrosia": "Bottiglia di Ambrosia"
+}

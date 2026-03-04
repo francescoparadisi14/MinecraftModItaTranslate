@@ -1,6 +1,6 @@
 {
-    "name": "Modo SkyBlock",
-    "description": "Il modo di skyblock richiede un'altra configurazione per essere modificato. Nel file di installazione principale di Techopolis, ci sarà un file chiamato skyblockmode.json. Modificare enableskyblockmode in true per abilitare ricette aggiuntive per il modo skyblock.$(br2) Utilizzare tipo mondo skyblock per ottenere un nuovo mondo di skyblock.",
+    "name": "Modalità Skyblock",
+    "description": "La modalità Skyblock richiede una configurazione aggiuntiva per essere attivata. Nel file di installazione principale di Techopolis, troverete un file chiamato \"skyblockMode.json\". Modificate il valore di \"enableSkyblockMode\" impostandolo su \"true\" per attivare le ricette aggiuntive per la modalità Skyblock.\nPer creare un nuovo mondo Skyblock, impostate il tipo di mondo su \"Skyblock\".",
     "icon": "minecraft:oak_sapling",
     "sortnum": "1"
 }

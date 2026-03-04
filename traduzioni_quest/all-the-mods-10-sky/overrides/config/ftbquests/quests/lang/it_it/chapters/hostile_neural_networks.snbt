@@ -1,0 +1,38 @@
+{
+    "quest.104EBBC08B4733F5.quest_desc": [
+        "La \\&dCamera di Simulazione\\&r è la macchina principale all'interno di HNN.\n\nQuando viene alimentata, eseguirà simulazioni basate sul \\&bModello di Dati\\&r inserito al suo interno. L'energia necessaria dipende anche dal modello di dati inserito, e può essere visualizzata nella tooltip del modello.\n\nLa macchina richiede anche almeno una \\&9Matrice di Predizione\\&r per eseguire una simulazione.\n\nIl risultato della simulazione sarà visualizzato sulla Matrice. Tutte le simulazioni produrranno sempre una qualche forma di \\&ePredizione Generalizzata\\&r, che può essere utilizzata in diverse ricette di creazione. Queste variano anche a seconda dell'origine del mob nel modello di dati.\n\nSe la simulazione ha successo, riceverai una \\&dPredizione del Mob\\&r basata sul modello. Maggiore è il livello del modello di dati utilizzato, maggiore è la probabilità di successo della simulazione."
+    ],
+    "quest.104EBBC08B4733F5.title": "\\&Simulazione di decessi",
+    "quest.10E8BC20D406D9FB.quest_subtitle": "Produce diversi materiali provenienti dal sottosuolo",
+    "quest.12AE2856444996F6.quest_desc": [
+        "Questa quest è stata realizzata da \\&6AllTheMods Staff\\&r, oppure da un \\&2contributore della community\\&r, per l'uso nei pacchetti mod di AllTheMods.\\n\\nPoiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti a \\&eTutti i diritti riservati\\&r, questa quest non può essere utilizzata in altri pacchetti pubblici, se non quelli rilasciati dal team \\&6AllTheMods\\&r, senza un'esplicita autorizzazione.\\n\\nQuesta quest è intenzionalmente nascosta. Se la vedete, significa che siete in modalità di modifica."
+    ],
+    "quest.14B3542ECB59869C.quest_desc": [
+        "Il \"Fabricatore \\&5Loot\" è la macchina che ti permette di ottenere i preziosi oggetti da \"Mob Predictions\".\n\nUna volta forniti l'energia e una \"Mob Prediction\" di successo, potrai scegliere quale oggetto desideri ottenere dal modello di dati della creatura. La macchina memorizzerà la tua scelta, in modo da poter automatizzare il processo.\n\nEsempi di \"Mob Predictions\":\n\n- \"Ender Dragons\" per \"Dragon Eggs\"\n- \"Zombies\" per \"Iron\"\n- \"Withers\" per \"Nether Stars\""
+    ],
+    "quest.14B3542ECB59869C.title": "Creazione di dLoot",
+    "quest.2559201BCF5D497C.quest_subtitle": "Produce diversi materiali del mondo di gioco.",
+    "quest.34CD54347E9821B5.quest_desc": [
+        "Una volta creato il tuo primo modello di dati, dovrai migliorarlo per renderlo utile.\n\nI modelli di dati iniziano al primo livello: \"Faulty\". Per poter eseguire alcune simulazioni, dovrai almeno portarlo al livello \"Basic\".\n\nUna volta inserito all'interno del Deep Learner, l'interfaccia utente ti indicherà quante uccisioni sono necessarie per portarlo al livello successivo. Puoi visualizzare anche queste informazioni nella tooltip del modello stesso."
+    ],
+    "quest.34CD54347E9821B5.title": "Migliorare i modelli di dati",
+    "quest.37EBB8E0D6E5F821.quest_desc": [
+        "\\&6Hostile Neural Networks (HNN, per brevità) è un mod che si concentra sulla simulazione degli attacchi ai nemici per ottenere oggetti!\\n\\nPer farlo, raccoglierete \"dati\" sui nemici e poi utilizterete questi dati per simulare i loro attacchi e ottenere gli oggetti che lasciano!\\n",
+        "{image:atm:textures\/questpics\/hnn.png width:150 height:150 align:center}"
+    ],
+    "quest.37EBB8E0D6E5F821.title": "Benvenuti in \\&9Hostile Neural Networks\\&r!",
+    "quest.3E3CBDCEAB0FF28F.quest_desc": [
+        "\\&9Deep Learner\\&r è uno degli elementi fondamentali di HNN.\n\nCon questo strumento, è possibile fare clic con il pulsante destro del mouse per aprire un'interfaccia utente (HUD) e memorizzare i \\&6modelli di dati\\&r al fine di raccogliere dati mentre si combattono i mostri.\n\nOgni \\&9Deep Learner\\&r può contenere 4 modelli di dati, e finché si ha uno di questi nel proprio inventario, raccoglierà dati per tutti i modelli posizionati al suo interno!\n\nNota: È possibile avere più \\&9Deep Learner\\&r nel proprio inventario, e il sistema conterà tutti i combattimenti per tutti i modelli contenuti in ciascuno dei \\&9Deep Learner\\&r."
+    ],
+    "quest.3E3CBDCEAB0FF28F.quest_subtitle": "L'interfaccia utente per l'apprendimento",
+    "quest.3E3CBDCEAB0FF28F.title": "\\&aMoti di apprendimento",
+    "quest.58C2ABED43B2EA61.quest_desc": [
+        "I \"Framework di Modello\" sono il punto di partenza per la creazione di modelli di dati.\n\nPer iniziare a raccogliere dati su una specifica creatura, è necessario creare uno di questi framework e quindi fare clic con il tasto destro sulla creatura di cui si desidera raccogliere i dati. Una volta completato correttamente, il framework si trasformerà nel modello di dati della creatura selezionata.\n\nPer raccogliere i dati su quella creatura, è necessario inserire il modello di dati creato all'interno di un \"Deep Learner\" e quindi iniziare a uccidere quella specifica creatura utilizzando il Deep Learner presente nel proprio inventario."
+    ],
+    "quest.58C2ABED43B2EA61.quest_subtitle": "Raccolta dati",
+    "quest.58C2ABED43B2EA61.title": "\\&9 Modellare gruppi di persone",
+    "quest.5A23107C363A209E.quest_subtitle": "Produce diversi materiali finali",
+    "task.15D2A03410859443.title": "Tutti i diritti riservati",
+    "task.6B580F95A2E5A465.title": "Tutti i diritti riservati",
+    "task.7F17E48ACE65C84E.title": "Modelli di dati"
+}

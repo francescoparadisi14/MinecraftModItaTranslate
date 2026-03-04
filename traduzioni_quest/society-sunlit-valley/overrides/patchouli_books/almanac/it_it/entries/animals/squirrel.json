@@ -1,17 +1,17 @@
 {
-    "name": "Squirrel",
+    "name": "Scoiattolo",
     "category": "patchouli:animals",
     "icon": "pamhc2trees:hazelnutitem",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Raccolta: Frutta, Nocciolo (25% di probabilità)$(li)Bottino: Nocciolo$(br2)$(l)Note$()$(br)La raccolta richiede 2+ cuori. Può essere trovato nei biomi Pianura e Foresta."
+            "text": "patchouli: testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile per la vendita$(li)Alimentazione: Bacche, nocciole (25% di probabilità)$(li)Oggetti ottenuti: Nocciole$(br2)$(l)Note$()$(br)Per raccogliere, è necessario avere almeno 2 punti vita. Si trova negli ambienti di pianura e foresta."
         },
         {
             "type": "patchouli:entity",
             "entity": "wildernature:squirrel",
             "scale": 0.7,
-            "text": "Essere in grado di scalare gli alberi rende questo animale particolarmente difficile da allevare."
+            "text": "Patchouli: entità\n\nSciacallo: animale\n\nLa capacità di arrampicarsi sugli alberi li rende un animale particolarmente difficile da allevare."
         }
     ]
 }

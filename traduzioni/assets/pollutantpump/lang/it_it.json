@@ -1,5 +1,5 @@
 {
-    "block.pollutantpump.pipe": "Tubo pompaggio inquinamento",
-    "block.pollutantpump.pump": "Pompa inquinante",
-    "itemGroup.pollutantpump": "Pompa inquinante"
+    "block.pollutantpump.pipe": "Tubo per pompe",
+    "block.pollutantpump.pump": "Pompa per agenti inquinanti",
+    "itemGroup.pollutantpump": "Pompa per agenti inquinanti"
 }

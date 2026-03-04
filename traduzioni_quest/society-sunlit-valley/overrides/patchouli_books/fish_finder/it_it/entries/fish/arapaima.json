@@ -5,7 +5,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 224 monete$(li)Simbolo di fuoco: Estate$(li)Acqua: Fresca$(li)Clima: Pioggia Neve$(li)Ora del giorno: Giorno"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 224$(li)§0🔥 §6Estate§0$(li)Acqua: Fresca$(li)Tempo: Pioggia$(li)Ora: Giorno"
         },
         {
             "type": "patchouli:entity",
@@ -14,7 +14,7 @@
             "rotate": true,
             "default_rotation": 180,
             "offset": -0.3,
-            "text": "Ragazzo grande :)"
+            "text": "patchouli: entità\n\nacquacoltura: arapaima\n\nUn grande ragazzo :)"
         }
     ]
 }

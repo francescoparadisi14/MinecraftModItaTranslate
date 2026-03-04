@@ -1,8 +1,8 @@
 {
-    "block.fireflybushport.firefly_bush": "Cespuglio di lucciola",
-    "itemGroup.fireflybushport.firefly_bush_tab": "Tabella del cespuglio dei fuochi fatati",
-    "itemGroup.tabfirefly_bush_tab": "Tabello dei ramoscelli di fuoco volante",
-    "item_group.fireflybushport.firefly_bush_tab": "Moduli del cespuglio dei fuochi fatati",
+    "block.fireflybushport.firefly_bush": "Bush di luccio",
+    "itemGroup.fireflybushport.firefly_bush_tab": "Tabella per la pianta di Firefly Bush",
+    "itemGroup.tabfirefly_bush_tab": "Tabella per la pianta di Firefly Bush",
+    "item_group.fireflybushport.firefly_bush_tab": "Mod per arbusto Firefly",
     "subtitles.f1": "",
     "subtitles.f10": "",
     "subtitles.f11": "",

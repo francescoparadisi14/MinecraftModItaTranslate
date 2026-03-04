@@ -15,6 +15,7 @@
     "ui.irons_rpg_tweaks.item_broken": "%s broke!",
     "ui.irons_rpg_tweaks.item_damaged": "%s took %d damage.",
     "ui.irons_rpg_tweaks.item_damaged_critical": "%s took %d damage and is at critical durability!",
+    "ui.irons_rpg_tweaks.natural_drowsy_message": "You begin to feel naturally drowsy...",
     "ui.irons_rpg_tweaks.shift_tooltip": "[Shift+]",
     "ui.irons_rpg_tweaks.sleep_failure": "You are not Drowsy and cannot sleep.",
     "ui.irons_rpg_tweaks.xp_retrieve_error": "This xp catalyst does not belong to you."

@@ -1,6 +1,10 @@
 {
-    "gamerule.animalMobCap": "Animal mob cap",
-    "gamerule.animalMobCap.description": "Constant to help determine when to stop spawning animals in a world.",
-    "gamerule.persistentAnimals": "Persistent animals",
-    "gamerule.persistentAnimals.description": "Animals will stay in the world forever and can only be reproduced from breeding."
+    "gamerule.respawninganimals.min_animals_near_player": "Minimum animals near player",
+    "gamerule.respawninganimals.min_animals_near_player.description": "Spawn animals near each player if less than this value exist locally. Only applies when animals can be removed.",
+    "gamerule.respawninganimals.remove_animals_distance": "Animal removal distance",
+    "gamerule.respawninganimals.remove_animals_distance.description": "Animals beyond this distance from the nearest player may be removed over time. Only applies when animals can be removed.",
+    "gamerule.respawninganimals.remove_animals_instantly_distance": "Instant animal removal distance",
+    "gamerule.respawninganimals.remove_animals_instantly_distance.description": "Animals beyond this distance from the nearest player are removed instantly. Only applies when animals can be removed.",
+    "gamerule.respawninganimals.remove_animals_when_far_away": "Remove animals when far away",
+    "gamerule.respawninganimals.remove_animals_when_far_away.description": "Animals are removed when far away from players unless made permanent by interactions such as feeding, leashing, riding, or naming."
 }

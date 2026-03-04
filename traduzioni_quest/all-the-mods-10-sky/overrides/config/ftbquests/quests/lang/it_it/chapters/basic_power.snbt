@@ -1,0 +1,149 @@
+{
+    "quest.0A0C5A2F8DDED257.quest_desc": [
+        "L'\\&eDyson Cube\\&r è la fonte di energia definitiva, in grado di produrre fino a un'enorme quantità di energia!\n\nÈ possibile utilizzare un\\&eEM Rail Ejector Controller\\&r per lanciare le \\&bSolar Sails\\&r e le \\&bBeams\\&r in orbita attorno al Sole. È possibile inserire automaticamente gli elementi attraverso la parte inferiore (per raggiungere la massima potenza, è necessario l'automazione). Purtroppo, non è possibile utilizzarlo a mezzogiorno, di notte o durante la pioggia.\n\nPer raccogliere questa energia, è necessario costruire un\\&eRay Receiver Controller\\&r. Questo dispositivo fornisce energia dalla parte inferiore, ma non è in grado di riceverla di notte o durante la pioggia.\n\nÈ possibile raggruppare fasci e vele per lanci più rapidi, il che è molto più semplice che inviarli uno alla volta.\n\nPer ottenere la massima potenza, è necessario inviare 8.333.333 fasci e 49.999.998 vele in orbita, il che rappresenta una quantità significativa.\n\nPrima di procedere verso questo livello, assicurarsi di avere un sistema di generazione di risorse efficiente."
+    ],
+    "quest.0A0C5A2F8DDED257.quest_subtitle": "Il potere del Sole, tra le tue dita.",
+    "quest.0A0C5A2F8DDED257.title": "\\&Dyson Cube",
+    "quest.0BB42C5861B22D32.quest_desc": [
+        "L'unità \\&laquo;Reattore Miceliale\\&raquo; è composta da tutti i generatori miceliali che operano simultaneamente, situati vicino al blocco del reattore, e produce un totale di \\&laquo;25 MFE\/t\\&raquo;.\n\nTutto sembra funzionare, ma è necessario automatizzare alcuni processi per farlo, per capire quali risorse consuma ciascun generatore miceliale e automatizzarli. Nella maggior parte dei casi, è semplice, ma in altri casi, richiede più lavoro... ad esempio, analizzando il \\&laquo;Generatore Miceliale di Disincantamento\\&raquo;.\n\nUna volta automatizzati tutti i processi, non è necessario fermarsi a uno solo; è possibile costruire altri reattori."
+    ],
+    "quest.0BB42C5861B22D32.quest_subtitle": "Non è un reattore Yourcelial.",
+    "quest.0BB42C5861B22D32.title": "\\&9Reattore a micelio: \\&bReattore a micelio",
+    "quest.11D09E918015355C.quest_desc": [
+        "Mekanism's \\&cHeat Generator\\&r rappresenta un approccio diverso alla produzione di energia. Funziona in due modalità:\n\n\\&9Passiva: Posizionando una fonte di lava o blocchi che scorrono attorno al generatore, si può ottenere energia passivamente nel tempo grazie al calore. Posizionate un blocco di lava sopra e lasciatelo scorrere sui lati. Assicuratevi di avere tubi collegati per l'energia!\n\n\\&9Attiva: Inserendo materiali combustibili come carbone o legno nel generatore, si accenderà il combustibile per produrre energia. Questo metodo è meno efficiente."
+    ],
+    "quest.11D09E918015355C.title": "E altro ancora: Generatore di calore",
+    "quest.1409C17773B6A131.quest_desc": [
+        "Tutte le opzioni di miglioramento aumentano la quantità di spostamento che l'\\&e\\&lPipez\\&r può effettuare e offrono anche più opzioni per utilizzarlo.\n\nL'opzione di miglioramento di base consente l'attivazione tramite Redstone e permette di modificare la distribuzione in uno dei seguenti modi: \"Prima il più vicino\", \"Prima il più lontano\", \"A turno\" o \"Casuale\", oltre ad aggiungere filtri.\n\nLe opzioni di miglioramento avanzate e ultimate non offrono nuove funzionalità, ma semplicemente aumentano la quantità di spostamento."
+    ],
+    "quest.1409C17773B6A131.title": "\\&9Pipez: Aggiornamenti",
+    "quest.1BE26A00A420DAE3.quest_desc": [
+        "In questa modifica, avrete bisogno di \\&aFlux Cores\\&r e di \\&aFlux Blocks\\&r per creare i componenti principali della vostra rete. Create alcuni di ciascuno!"
+    ],
+    "quest.1BE26A00A420DAE3.quest_subtitle": "Quindi, per iniziare, avrete bisogno di queste cose.",
+    "quest.1BE26A00A420DAE3.title": "I materiali di base per la creazione",
+    "quest.1F81EA5E45424308.quest_desc": [
+        "Se siete alla ricerca di modi diversi per alimentare le vostre apparecchiature, qui potrete trovarli!\\n\\nEsistono diverse opzioni, sia tramite cavi che tramite connessione wireless, per la trasmissione dell'energia."
+    ],
+    "quest.1F81EA5E45424308.title": "Trasferimento del potere",
+    "quest.27A4FA38992448A0.quest_desc": [
+        "Flux Networks offre anche la possibilità di caricare i tuoi oggetti in modalità wireless, anche tra diverse dimensioni!\\n\\nUna volta che hai installato il Plug nel tuo sistema di alimentazione, dovrai posizionare il dispositivo \\&9Flux Controller\\&r.\\n\\nClicca con il tasto destro per aprire l'interfaccia e vai alla scheda \"Caricamento Wireless\". Da lì, puoi selezionare ogni sezione del tuo inventario che desideri mantenere in carica. Per attivare la funzione, assicurati di premere il pulsante corrispondente nella parte inferiore per abilitare il caricamento wireless, quindi clicca su \"Applica\"!",
+        "{image:atm:textures\/questpics\/basic_power\/wireless_ui.png width:125 height:150 align:center}"
+    ],
+    "quest.27A4FA38992448A0.title": "Ricarica wireless",
+    "quest.2EB7784D5296F410.quest_desc": [
+        "Cliccare con il tasto destro su un blocco di rete Flux funzionale visualizzerà questa interfaccia utente.\n\nOgni \"connettore\" o \"punto\" può essere nominato, avere un livello di priorità personalizzato e avere un limite personalizzato per il trasferimento di energia. Ciò consente un controllo completo su tutti i componenti del sistema.\n\nL'opzione \"\\&rBypass Limit\" ignora il limite impostato.\n\nEsistono anche diverse altre schede, principalmente per visualizzare statistiche sulla tua rete.",
+        "{image:atm:textures\/questpics\/basic_power\/flux_ui.png width:125 height:150 align:center}"
+    ],
+    "quest.35ABB0DEE70DF7FD.quest_desc": [
+        "Credo o no, il mod \"\\&aPowah\\&r\" offre alcune opzioni eccellenti per ottenere... energia.\n\nAssicuratevi di consultare il capitolo della quest \"\\&cPowah\\&r\" per saperne di più!"
+    ],
+    "quest.35ABB0DEE70DF7FD.title": "Più potenza!",
+    "quest.35CC898E0E49FE58.quest_desc": [
+        "\\&9Flux Networks\\&r è un mod che mira a risolvere tutte le tue esigenze di energia wireless.\n\nIl mod in sé non ha la capacità di generare energia, ma può immagazzinarla e trasmetterla in modalità wireless, anche attraverso dimensioni diverse. Può persino caricare gli oggetti presenti nel tuo inventario.\n\nPuoi anche caricare i tuoi jetpack mentre voli utilizzando questo mod.\n\nPer iniziare con il mod, avrai bisogno di del \"Flux Dust\". Crea 9 blocchi di Obsidiano (utilizzando un banco da lavoro), posizionali, quindi aggiungi del Redstone sopra. Posiziona 9 blocchi di Obsidiano direttamente sopra i blocchi di Redstone galleggianti (a 1 blocco di distanza), quindi fai clic con il tasto sinistro (colpisci) sull'Obsidiano."
+    ],
+    "quest.35CC898E0E49FE58.quest_subtitle": "La soluzione di alimentazione wireless definitiva",
+    "quest.35CC898E0E49FE58.title": "\\&8Flux Networks",
+    "quest.36DEA17CBB696CC7.quest_desc": [
+        "Se fai clic con il pulsante destro del mouse sul Plug, vedrai l'interfaccia utente di Flux Network. Nell'angolo in alto a destra, fai clic sul pulsante \"+\" per creare la tua prima rete. Dovrai impostare una password per creare la rete, ma puoi anche scegliere un colore!\\n\\nDa qui, puoi accedere alla scheda \"Selezione rete\" per attivare la tua rete sul Plug. Se il Plug è collegato a una fonte di alimentazione, ora puoi utilizzare quella energia in qualsiasi punto del tuo sistema tramite un punto di alimentazione!\\n\\nSuggerimento: puoi creare più reti se desideri utilizzare diverse fonti di alimentazione per alimentare diverse parti del tuo sistema!"
+    ],
+    "quest.36DEA17CBB696CC7.quest_subtitle": "Diventare un amministratore di rete!",
+    "quest.3B3E12581F9F0482.quest_desc": [
+        "\\&bDraconic Evolution\\&r aggiunge un blocco chiamato \\&dCore Energetico\\&r.\n\nAnche se potrebbe sembrare complicato, il livello finale può contenere \\&m9.223.372.036.854.775.808 FE, ovvero una potenza praticamente infinita.\n\nPer maggiori informazioni, consultate il capitolo di Draconic Evolution!",
+        "{image:atm:textures\/questpics\/draconic\/draconic_core_8on.png width:100 height:100 align:1}"
+    ],
+    "quest.3B3E12581F9F0482.quest_subtitle": "Archiviazione praticamente illimitata",
+    "quest.3B3E12581F9F0482.title": "\\&9Evoluzione draconica: \\&dNucleo energetico",
+    "quest.3BDB94F17765EE77.quest_desc": [
+        "Se desiderate generare una grande quantità di energia, potete iniziare aumentando alcune opzioni dalla sezione \"\\&9Potenza a metà partita\\&r\". Rendete i vostri \"\\&aReattori\\&r\" più grandi. Aggiornate i vostri \"\\&9Generatori termici\\&r\" a Nitro. Date sfogo alla vostra creatività.\n\nTuttavia, potreste aver bisogno di ancora più energia."
+    ],
+    "quest.3BDB94F17765EE77.quest_subtitle": "Potenza superiore a quella di cui avrete bisogno.",
+    "quest.3BDB94F17765EE77.title": "Opzioni di potenza per la fase finale",
+    "quest.42D173B9FF8D16E4.quest_desc": [
+        "Cerchi opzioni per generare energia fin dall'inizio? Ecco alcuni modi efficaci per iniziare a produrre energia:\n\nQueste opzioni non producono una grande quantità di energia, ma sono generalmente facili o economiche da ottenere all'inizio del gioco!"
+    ],
+    "quest.42D173B9FF8D16E4.quest_subtitle": "Potenza di avvio",
+    "quest.42D173B9FF8D16E4.title": "Opzioni di potenza per le prime fasi del gioco",
+    "quest.43D83CFA824B0A70.quest_desc": [
+        "\\&9Mekanism\\&r offre un'opzione di \"potere finale\" particolarmente difficile da sconfiggere. Il \\&dFusion Reactor\\&r può produrre fino a 80 MRF\/t, e se desiderate imparare a costruirlo, assicuratevi di consultare il capitolo della quest \"\\&aMekanism: \\&dReactors\\&r\"!"
+    ],
+    "quest.43D83CFA824B0A70.quest_subtitle": "Attiva la fusione!",
+    "quest.43D83CFA824B0A70.title": "\\&9Mekanismo: Reattore di fusione",
+    "quest.477B411F84342EEA.quest_desc": [
+        "Mekanism è uno dei migliori mod per l'accumulo di energia, soprattutto all'inizio del gioco.\n\nIl Basic Energy Cube è facile da configurare, facile da creare e può immagazzinare una grande quantità di energia. Inoltre, può essere potenziato e può caricare oggetti all'interno dell'interfaccia!\n\nPer saperne di più sul potenziamento del Basic Energy Cube e sul mod, consultate il capitolo della quest \"\\&aMekanism\\&r\"!"
+    ],
+    "quest.477B411F84342EEA.title": "\\&9Meccanismo: \\&aCubetti energetici",
+    "quest.48DC9E8E9D21A2FA.quest_desc": [
+        "Mekanism offre diversi modi per generare energia utilizzando risorse rinnovabili.\n\nL'\\&9Generatore solare\\&r sfrutta l'energia del sole per soddisfare le esigenze di energia di base. Non funziona di notte e deve avere accesso diretto al cielo. Il vetro è accettabile.\n\nL'\\&9Generatore eolico\\&r fornisce energia grazie al vento. A meno che non si sia trovato un modo per far girare manualmente questo dispositivo, la velocità di rotazione dipende dal livello (Y) in cui è posizionato. Inoltre, necessita di un accesso diretto al cielo senza ostacoli sopra."
+    ],
+    "quest.48DC9E8E9D21A2FA.quest_subtitle": "Il potere del sole...",
+    "quest.48DC9E8E9D21A2FA.title": "\\&9Meccanismo: \\&aEnergia rinnovabile",
+    "quest.4AB0DD227471FDBF.quest_desc": [
+        "Questo capitolo è dedicato a tutti gli aspetti legati all'energia!\\n\\nQui troverete i metodi fondamentali per generare, immagazzinare e trasferire energia."
+    ],
+    "quest.4AB0DD227471FDBF.quest_subtitle": "Tutta la potenza!",
+    "quest.4AB0DD227471FDBF.title": "E altro ancora: Potenza di base",
+    "quest.4EEAB467C722ECE7.quest_desc": [
+        "Questi sono tubi semplici che possono essere potenziati tramite gli \"Aggiornamenti per tubi\".\n\nPer \"estrarre\" energia da un blocco, posizionate il tubo accanto al blocco e, sul lato collegato, utilizzate la chiave per tubi premendo Shift+clic destro per impostare il tubo all'estrazione.\n\nIl mod \"\\&e\\&lPipez\\&r\" offre anche modi per trasportare oggetti, gas e liquidi! Oppure, potete creare un \"Tubo Universale\" (\\&aUniversal Pipe\\&r).\n\nAnche altre chiavi funzionano con \"\\&e\\&lPipez\\&r\"!"
+    ],
+    "quest.4EEAB467C722ECE7.title": "\\&9Pipez: Tubi per l'energia",
+    "quest.56B6ABF3D6EA0D84.quest_desc": [
+        "Grazie al nostro sistema Plug, ora possiamo accedere all'energia dalla nostra rete. Il dispositivo \\&9Flux Point\\& fa proprio questo: indirizza l'energia dalla rete verso il blocco a cui è collegato, inclusi tubi o cavi, oppure direttamente verso le macchine!\\n\\nUna volta posizionato il dispositivo sul macchinario o blocco che desiderate alimentare, cliccate con il tasto destro e selezionate la vostra rete nella scheda \"Selezione rete\". Come per il Plug, è possibile regolare la quantità di energia che il dispositivo assorbe, il livello di priorità, ecc."
+    ],
+    "quest.56B6ABF3D6EA0D84.title": "Accedere all'alimentazione di rete",
+    "quest.5C47935A3B2877FF.quest_desc": [
+        "Mekanism offre un cavo dal design accattivante per trasferire l'alimentazione.\n\nSe il dispositivo a cui si sta collegando è già in grado di fornire o assorbire energia, non sarà necessario configurare il cavo. In caso contrario, sarà necessario utilizzare un \"Configurator\" per configurare il cavo. Cliccando con il tasto destro, si potrà impostare il cavo per fornire o assorbire energia."
+    ],
+    "quest.5C47935A3B2877FF.quest_subtitle": "Tubo di trasferimento energetico di Mekanism",
+    "quest.5C47935A3B2877FF.title": "\\&9Mekanism: \\&aUniversal Cables",
+    "quest.5E41363F9AE243F3.quest_desc": [
+        "Non è possibile fare affidamento esclusivamente sulle centrali a carbone per sempre! Se dispone di risorse sufficienti, è il momento di aggiornare il sistema di produzione di energia.\\n\\nQueste opzioni richiedono generalmente una certa configurazione, ma sono in grado di fornire energia sufficiente per proseguire il gioco per molto tempo."
+    ],
+    "quest.5E41363F9AE243F3.title": "Opzioni di potenza a metà partita",
+    "quest.5F078A574A783B02.quest_desc": [
+        "Il primo elemento di cui avrete bisogno per avviare la vostra rete Flux è un \"Flux Plug\".\n\nIl Plug viene utilizzato per \"estrarre\" energia dal blocco a cui è collegato. Oltre a un piccolo buffer, il Plug non immagazzina energia, quindi non preoccupatevi che si scarichi completamente.\n\nSi consiglia di posizionare il Plug su un blocco di accumulo di energia, come un \"Energy Cube\". Può essere collegato a cavi, tubi o all'uscita di qualsiasi macchina che produca energia.\n\nPer imparare come configurare la vostra prima rete, consultate la prossima missione!"
+    ],
+    "quest.5F078A574A783B02.quest_subtitle": "Semplicemente, collegalo!",
+    "quest.5F078A574A783B02.title": "Avviare la propria rete",
+    "quest.682034C680FDEDC2.quest_desc": [
+        "«La matrice di induzione di \\&9Mekanism\\&r è un modo potente per immagazzinare la tua energia.\n\nSe state cercando la migliore soluzione di immagazzinamento di energia offerta da \\&9Mekanism\\&r, consultate il capitolo «Reattori» di \\&9Mekanism\\&r.",
+        "{image:atm:textures\/questpics\/mek\/mek_induction_matrix_small.png width:125 height:150 align:center fit:true}"
+    ],
+    "quest.682034C680FDEDC2.title": "Maggiore capacità di accumulo",
+    "quest.6D6E07564D8FDD8D.quest_desc": [
+        "\\&aExtreme Reactors\\&r offre reattori modulari che possono essere completamente personalizzati in termini di dimensioni, efficienza e altro ancora.\n\nPer saperne di più su come iniziare a utilizzare Extreme Reactors, consultate il capitolo dedicato alla mod!"
+    ],
+    "quest.6D6E07564D8FDD8D.quest_subtitle": "Reattori personalizzabili!",
+    "quest.6D6E07564D8FDD8D.title": "\\&9Reattori Estremi: \\&aReattori",
+    "quest.72EA25D05C46D39A.quest_desc": [
+        "\\&9Integrated Dynamics\\&r offre un semplice sistema di accumulo di energia. Le batterie possono essere combinate in una griglia per aumentare la capacità totale di accumulo!"
+    ],
+    "quest.72EA25D05C46D39A.quest_subtitle": "Include batterie",
+    "quest.72EA25D05C46D39A.title": "\\&9Dinamiche Integrate: Batteria Energetica",
+    "quest.76EA017B12E8F01B.quest_desc": [
+        "Questa sezione illustra diversi modi per immagazzinare la tua energia!"
+    ],
+    "quest.76EA017B12E8F01B.title": "\\&f\\&lConservare l'energia",
+    "quest.79AD74A863EA43CB.quest_desc": [
+        "Flux Networks offre effettivamente un modo per immagazzinare l'energia prodotta dalla tua rete!\n\nQuesti dispositivi sono in grado di immagazzinare enormi quantità di energia e possono essere aggiornati per immagazzinare ancora di più!"
+    ],
+    "quest.79AD74A863EA43CB.quest_subtitle": "Accumulo di energia",
+    "quest.79AD74A863EA43CB.title": "Archiviazione di flusso",
+    "quest.7A979BEB20C9591E.quest_desc": [
+        "Il \"Flux Dust\" può essere prodotto automaticamente utilizzando il \"Productive Bees\"!\n\nLe uova di \"Redstone Bee Spawn\" possono essere convertite in uova di \"Flux Dust Bee Spawn\" utilizzando un \"Obsidian Bee\"."
+    ],
+    "quest.7A979BEB20C9591E.title": "Polvere di flusso automatizzata",
+    "quest.7FE969CB4B419FC6.quest_desc": [
+        "Grazie a un piccolo lavoro di configurazione, questa macchina consente di trasferire qualsiasi cosa in modo wireless.\n\nÈ possibile impostare canali specifici per trasferire singoli oggetti, energia o persino gas provenienti da Mekanism. È davvero interessante."
+    ],
+    "quest.7FE969CB4B419FC6.quest_subtitle": "Non funziona solo con Power.",
+    "quest.7FE969CB4B419FC6.title": "\\&9Meccanismo: \\&6Portale quantistico",
+    "task.098F1B932F851616.title": "Aggiornamenti delle tubature",
+    "task.2D0212699F99459F.title": "La prima rete",
+    "task.35C1DBD4544C9BB0.title": "Celle di induzione",
+    "task.3D721B55E8D33FE8.title": "L'interfaccia utente di Flux Networks",
+    "task.44C02386C9B8E0D3.title": "Fornitori di induzione",
+    "task.59DE118DD6597A4E.title": "Generatori di energia rinnovabile",
+    "task.6C4B8A2662030CB0.title": "Cavi universali",
+    "task.76378687551A79C3.title": "Cubetti energetici"
+}

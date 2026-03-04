@@ -1,31 +1,44 @@
 {
-    "#comment": "Nota: configurazione correlata di seguito",
+    "#comment": "Impostazioni relative a seguito",
     "accessories.advanced_options.toggle.disabled": "⚗",
-    "accessories.advanced_options.toggle.disabled.tooltip": "Mostra opzioni di configurazione dello schermo avanzate (non disponibile)",
-    "accessories.advanced_options.toggle.enabled": "❤",
-    "accessories.advanced_options.toggle.enabled.tooltip": "Nascondi opzioni di configurazione dello schermo aggiuntive",
-    "accessories.argument.livingEntities.nonLiving": "Solo gli entità viventi possono essere influenzati da questo comando, ma lo selezionatore fornito include anche entità non viventi.",
+    "accessories.advanced_options.toggle.disabled.tooltip": "Opzioni dello schermo",
+    "accessories.advanced_options.toggle.enabled": "❤️",
+    "accessories.advanced_options.toggle.enabled.tooltip": "Opzioni per nascondere lo schermo",
+    "accessories.argument.livingEntities.nonLiving": "Solo gli organismi viventi possono essere colpiti da questo comando, ma il selettore fornito include anche entità non viventi.",
     "accessories.back.screen": "Torna alla schermata precedente",
-    "accessories.column_amount.label": "Quantità di accessori nella colonna:",
-    "accessories.column_amount.tooltip": "Regola il numero di colonne per il modulo degli accessori",
-    "accessories.column_amount_slider.label": "Quantità di colonne:",
-    "accessories.column_amount_slider.tooltip": "Impostazione slider per l'adattamento dell'ammontare di colonne per la disposizione degli accessori",
-    "accessories.commands.attribute.failed.modifier_already_present_itemstack": "Il modificatore %s è già presente per l'attributo %s nel contenitore %s.",
-    "accessories.commands.attribute.failed.no_modifier_itemstack": "L'attributo %s per il contenitore %s non ha modificatore %s.",
-    "accessories.commands.attribute.modifier.add.success_itemstack": "aggiunto modificatore %s all'attributo %s per il blocco %s",
-    "accessories.commands.attribute.modifier.remove.success_itemstack": "Rimosso modificatore %s dall'attributo %s per il contenitore %s",
-    "accessories.commands.attribute.modifier.value.get.success_itemstack": "Il valore del modificatore %s per l'attributo %s per lo stack %s è %s",
-    "accessories.commands.attribute.value.get.success": "Il valore dell'attributo %s per l'entità %s è %s",
-    "accessories.commands.slot.modifier.clear.all.success": "Le attribuzioni slot per tutti i contenitori sono state rimosse per l'entità %s",
-    "accessories.commands.slot.modifier.clear.container.success": "Le attribuzioni slot per %s sono state rimosse per l'entità %s",
-    "accessories.commands.slot.value.get.success": "Il valore del slot %s per l'entità %s è %s",
-    "accessories.cosmetic_slot.tooltip.plural": "Slot di accessorio cosmetico:",
-    "accessories.cosmetic_slot.tooltip.singular": "Slot accessorio:",
+    "accessories.column_amount.label": "Importo della colonna accessori:",
+    "accessories.column_amount.tooltip": "Regola il numero di colonne per il modulo accessorio.",
+    "accessories.column_amount_slider.label": "Importo:",
+    "accessories.column_amount_slider.tooltip": "Manopola utilizzata per regolare il numero di colonne per il layout degli accessori.",
+    "accessories.commands.attribute.failed.modifier_already_present_itemstack": "Il modificatore «%s» è già presente nell'attributo «%s» per lo stack «%s»",
+    "accessories.commands.attribute.failed.no_modifier_itemstack": "L'attributo \"%s\" per lo stack \"%s\" non ha un modificatore \"%s\"",
+    "accessories.commands.attribute.modifier.add.success_itemstack": "Aggiunto il modificatore \"%s\" all'attributo \"%s\" per lo stack \"%s\"",
+    "accessories.commands.attribute.modifier.remove.success_itemstack": "Rimosso il modificatore \"%s\" dall'attributo \"%s\" per lo stack \"%s\"",
+    "accessories.commands.attribute.modifier.value.get.success_itemstack": "Il valore del modificatore «%s» sull'attributo «%s» per lo stack «%s» è «%s»",
+    "accessories.commands.attribute.value.get.success": "Il valore dell'attributo \"%s\" per l'entità \"%s\" è: %s",
+    "accessories.commands.dump.failure": "\"%s\" non corrisponde a nessuno dei tipi validi per la registrazione: %s",
+    "accessories.commands.dump.success": "I dati '%s' sono stati salvati nel file di log!",
+    "accessories.commands.feature.toggle.failure": "\"%s\" non corrisponde a nessuna delle funzionalità selezionabili: %s",
+    "accessories.commands.feature.toggle.off": "'%s' è stato disabilitato!",
+    "accessories.commands.feature.toggle.on": "'%s' è stato abilitato!",
+    "accessories.commands.nest.addition": "Ho aggiunto l'elemento inserito nello stack principale!",
+    "accessories.commands.slot.modifier.addition": "L'attributo '%s' è stato aggiunto allo slot '%s' per l'elemento '%s'",
+    "accessories.commands.slot.modifier.clear.all.success": "Le proprietà specifiche per ogni contenitore sono state rimosse per l'entità \"%s\".",
+    "accessories.commands.slot.modifier.clear.container.success": "Le proprietà per la categoria \"%s\" sono state rimosse per l'entità \"%s\".",
+    "accessories.commands.slot.modifier.removed.failure": "L'attributo '%s' per lo slot '%s' non è stato trovato per '%s'!",
+    "accessories.commands.slot.modifier.removed.success": "L'attributo '%s' è stato rimosso per lo slot '%s' da '%s'!",
+    "accessories.commands.slot.validation.added.invalid": "'%s' è stato aggiunto come slot non valido.",
+    "accessories.commands.slot.validation.added.valid": "'%s' è stato aggiunto come slot valido.",
+    "accessories.commands.slot.validation.removed.invalid": "'%s' è stato rimosso in quanto slot non valido.",
+    "accessories.commands.slot.validation.removed.valid": "«'%s' è stato rimosso come slot valido»",
+    "accessories.commands.slot.value.get.success": "Il valore di %s per l'entità %s è %s",
+    "accessories.cosmetic_slot.tooltip.plural": "Slot cosmetiche:",
+    "accessories.cosmetic_slot.tooltip.singular": "Categoria: Prodotti cosmetici",
     "accessories.crafting_grid.toggle.disabled": "☐",
-    "accessories.crafting_grid.toggle.disabled.tooltip": "Mostra la griglia di crafting piccola (disattivata)",
+    "accessories.crafting_grid.toggle.disabled.tooltip": "Mostra la griglia di creazione",
     "accessories.crafting_grid.toggle.enabled": "☒",
-    "accessories.crafting_grid.toggle.enabled.tooltip": "Nascondi la griglia di crafting piccola",
-    "accessories.dark_mode_toggle.label": "Modalità tema:",
+    "accessories.crafting_grid.toggle.enabled.tooltip": "Nascondi la griglia di creazione",
+    "accessories.dark_mode_toggle.label": "Modalità tema dello schermo:",
     "accessories.dark_mode_toggle.toggle.disabled": [
         "",
         {
@@ -42,7 +55,7 @@
         },
         " Light"
     ],
-    "accessories.dark_mode_toggle.toggle.disabled.tooltip": "Cambia tema in modalità oscura",
+    "accessories.dark_mode_toggle.toggle.disabled.tooltip": "Passa al tema \"Modalità scura\"",
     "accessories.dark_mode_toggle.toggle.enabled": [
         "",
         {
@@ -59,10 +72,10 @@
         },
         " Dark"
     ],
-    "accessories.dark_mode_toggle.toggle.enabled.tooltip": "Cambia tema a modalità luminosa",
+    "accessories.dark_mode_toggle.toggle.enabled.tooltip": "Passa alla modalità Light (o modalità chiara)",
     "accessories.display.toggle.hide": "Nascondi accessorio",
-    "accessories.display.toggle.show": "Mostra accessorio",
-    "accessories.entity_centered.label": "Pannello di entità centrato:",
+    "accessories.display.toggle.show": "Accessorio dimostrativo",
+    "accessories.entity_centered.label": "Centratura del pannello entità:",
     "accessories.entity_centered.toggle.disabled": [
         "",
         {
@@ -79,7 +92,7 @@
         },
         " Disabled"
     ],
-    "accessories.entity_centered.toggle.disabled.tooltip": "Fai apparire l'entità sempre vicina o al centro dello schermo",
+    "accessories.entity_centered.toggle.disabled.tooltip": "Assicurarsi che l'entità sia sempre al centro dello schermo o nelle vicinanze.",
     "accessories.entity_centered.toggle.enabled": [
         "",
         {
@@ -96,8 +109,8 @@
         },
         " Enabled"
     ],
-    "accessories.entity_centered.toggle.enabled.tooltip": "Consenti all'entità di essere spostata dal centro",
-    "accessories.entity_look_at_cursor.label": "Guarda il puntatore del mouse:",
+    "accessories.entity_centered.toggle.enabled.tooltip": "Permettere all'entità di essere spostata dal centro.",
+    "accessories.entity_look_at_cursor.label": "L'entità guarda il mouse:",
     "accessories.entity_look_at_cursor.toggle.disabled": [
         "",
         {
@@ -114,7 +127,7 @@
         },
         " Disabled"
     ],
-    "accessories.entity_look_at_cursor.toggle.disabled.tooltip": "Abilita l'occhio al cursore",
+    "accessories.entity_look_at_cursor.toggle.disabled.tooltip": "Abilitare la visualizzazione del cursore",
     "accessories.entity_look_at_cursor.toggle.enabled": [
         "",
         {
@@ -131,8 +144,8 @@
         },
         " Enabled"
     ],
-    "accessories.entity_look_at_cursor.toggle.enabled.tooltip": "Disabilita l'occhio al cursore",
-    "accessories.group_filter.label": "Filtri di gruppo:",
+    "accessories.entity_look_at_cursor.toggle.enabled.tooltip": "Disattivare la visualizzazione del cursore",
+    "accessories.group_filter.label": "Widget per il filtro di gruppo:",
     "accessories.group_filter.toggle.disabled": [
         "",
         {
@@ -149,7 +162,7 @@
         },
         " Hidden"
     ],
-    "accessories.group_filter.toggle.disabled.tooltip": "Mostra widget di filtro gruppo (disattivato)",
+    "accessories.group_filter.toggle.disabled.tooltip": "Mostra il widget di filtro per gruppi",
     "accessories.group_filter.toggle.enabled": [
         "",
         {
@@ -166,14 +179,14 @@
         },
         " Shown"
     ],
-    "accessories.group_filter.toggle.enabled.tooltip": "Nascondi widget di filtro gruppo",
+    "accessories.group_filter.toggle.enabled.tooltip": "Nascondi il widget di filtro per gruppi",
     "accessories.key.category.accessories": "Accessori",
-    "accessories.key.open_accessories_screen": "Apri schermo accessori",
-    "accessories.lines.toggle.disabled.tooltip": "Mostra tutti i rendering di riga",
-    "accessories.lines.toggle.enabled.tooltip": "Nascondi tutta la renderizzazione delle linee",
-    "accessories.lines.toggle.hide": "Nascondi tutte le linee",
-    "accessories.lines.toggle.show": "Mostra tutte le linee",
-    "accessories.main_widget_position.label": "Posizione widget:",
+    "accessories.key.open_accessories_screen": "Schermata accessori",
+    "accessories.lines.toggle.disabled.tooltip": "Mostra tutti i dettagli del rendering delle linee",
+    "accessories.lines.toggle.enabled.tooltip": "Nascondi tutte le linee di rendering",
+    "accessories.lines.toggle.hide": "Nascondi tutte le righe",
+    "accessories.lines.toggle.show": "Mostra tutte le righe",
+    "accessories.main_widget_position.label": "Posizione dell'widget per gli accessori:",
     "accessories.main_widget_position.toggle.disabled": [
         "",
         {
@@ -190,7 +203,7 @@
         },
         " Right"
     ],
-    "accessories.main_widget_position.toggle.disabled.tooltip": "Spostare il widget degli accessori a sinistra (disattivato)",
+    "accessories.main_widget_position.toggle.disabled.tooltip": "Sposta il widget \"Accessori\" a sinistra.",
     "accessories.main_widget_position.toggle.enabled": [
         "",
         {
@@ -207,9 +220,9 @@
         },
         " Left"
     ],
-    "accessories.main_widget_position.toggle.enabled.tooltip": "Spostare il widget degli accessori a destra",
-    "accessories.open.screen": "Apri schermo accessori",
-    "accessories.reset.group_filter": "Ripristina filtri di gruppo",
+    "accessories.main_widget_position.toggle.enabled.tooltip": "Sposta il widget \"Accessori\" a destra.",
+    "accessories.open.screen": "Schermata accessori",
+    "accessories.reset.group_filter": "Reimposta i filtri di gruppo",
     "accessories.selection_screen.message": [
         "Below is a set of screen options that you \n",
         "can choose from depending on the style of \n",
@@ -218,7 +231,7 @@
         "Accessories Config if the given option is not \n",
         "to your liking."
     ],
-    "accessories.show_equipped_stack_slot_type.label": "Tipo equipaggiato:",
+    "accessories.show_equipped_stack_slot_type.label": "Tipo di attrezzatura:",
     "accessories.show_equipped_stack_slot_type.toggle.disabled": [
         "",
         {
@@ -235,7 +248,7 @@
         },
         " Hidden"
     ],
-    "accessories.show_equipped_stack_slot_type.toggle.disabled.tooltip": "Mostra tipo di slot equipaggiato",
+    "accessories.show_equipped_stack_slot_type.toggle.disabled.tooltip": "Mostra lo stack con slot di tipo \"equipped\"",
     "accessories.show_equipped_stack_slot_type.toggle.enabled": [
         "",
         {
@@ -252,8 +265,8 @@
         },
         " Shown"
     ],
-    "accessories.show_equipped_stack_slot_type.toggle.enabled.tooltip": "Nascondi tipo di slot equipaggiato",
-    "accessories.side_by_side_entity.label": "Numero di visualizzazioni entità:",
+    "accessories.show_equipped_stack_slot_type.toggle.enabled.tooltip": "Nascondi lo slot di tipo \"stack attrezzato\"",
+    "accessories.side_by_side_entity.label": "Numero di visualizzazioni dell'entità:",
     "accessories.side_by_side_entity.toggle.disabled": [
         "",
         {
@@ -270,7 +283,7 @@
         },
         " Single"
     ],
-    "accessories.side_by_side_entity.toggle.disabled.tooltip": "Attiva la visualizzazione doppia entità",
+    "accessories.side_by_side_entity.toggle.disabled.tooltip": "Passa alla visualizzazione a interruttore per entità multiple",
     "accessories.side_by_side_entity.toggle.enabled": [
         "",
         {
@@ -287,8 +300,8 @@
         },
         " Double"
     ],
-    "accessories.side_by_side_entity.toggle.enabled.tooltip": "Passa a visualizzare un singolo entità",
-    "accessories.side_by_side_slots.label": "Modalità visualizzazione slot accessorio:",
+    "accessories.side_by_side_entity.toggle.enabled.tooltip": "Passa alla visualizzazione di un singolo elemento.",
+    "accessories.side_by_side_slots.label": "Modalità di visualizzazione per la selezione di prodotti cosmetici:",
     "accessories.side_by_side_slots.toggle.disabled": [
         "",
         {
@@ -305,7 +318,7 @@
         },
         " Switch"
     ],
-    "accessories.side_by_side_slots.toggle.disabled.tooltip": "Attiva o disattiva slot estetici",
+    "accessories.side_by_side_slots.toggle.disabled.tooltip": "Passare a visualizzare o nascondere le slot per cosmetici",
     "accessories.side_by_side_slots.toggle.enabled": [
         "",
         {
@@ -322,8 +335,8 @@
         },
         " Toggle"
     ],
-    "accessories.side_by_side_slots.toggle.enabled.tooltip": "Attiva\/Disattiva la selezione tra slot",
-    "accessories.side_widget_position.label": "Posizione laterale:",
+    "accessories.side_by_side_slots.toggle.enabled.tooltip": "Passare da un slot all'altro utilizzando un interruttore",
+    "accessories.side_widget_position.label": "Posizione del widget laterale:",
     "accessories.side_widget_position.toggle.disabled": [
         "",
         {
@@ -340,7 +353,7 @@
         },
         " Separate"
     ],
-    "accessories.side_widget_position.toggle.disabled.tooltip": "Spostare il widget laterale per essere opposto al widget degli accessori",
+    "accessories.side_widget_position.toggle.disabled.tooltip": "Sposta il widget \"Lato\" in modo che sia posizionato in modo opposto al widget \"Accessori\".",
     "accessories.side_widget_position.toggle.enabled": [
         "",
         {
@@ -357,45 +370,45 @@
         },
         " Together"
     ],
-    "accessories.side_widget_position.toggle.enabled.tooltip": "Sposta il widget laterale accanto al widget degli accessori",
+    "accessories.side_widget_position.toggle.enabled.tooltip": "Sposta il widget \"Lato\" in modo che sia posizionato insieme al widget \"Accessori\".",
     "accessories.slot.accessories.animal_body": "Corpo",
-    "accessories.slot.accessories.chest": "Cassetta",
+    "accessories.slot.accessories.chest": "Torace",
     "accessories.slot.accessories.feet": "Piedi",
     "accessories.slot.accessories.head": "Testa",
-    "accessories.slot.accessories.legs": "Gambali",
-    "accessories.slot.anklet": "Anello ankle",
-    "accessories.slot.any": "qualsiasi",
+    "accessories.slot.accessories.legs": "Gambe",
+    "accessories.slot.anklet": "Bracciale all'altezza dell'ancella",
+    "accessories.slot.any": "Qualsiasi",
     "accessories.slot.back": "Indietro",
     "accessories.slot.belt": "Cintura",
     "accessories.slot.cape": "Cappello",
-    "accessories.slot.charm": "Amuleto",
-    "accessories.slot.cosmetics.toggle.hide": "Nascondi slot di accessorio cosmetici",
-    "accessories.slot.cosmetics.toggle.show": "Mostra slot di accessorio cosmetici",
-    "accessories.slot.except": "eccetto",
-    "accessories.slot.face": "Volto",
+    "accessories.slot.charm": "Fascino",
+    "accessories.slot.cosmetics.toggle.hide": "Nascondi gli slot per cosmetici",
+    "accessories.slot.cosmetics.toggle.show": "Mostra gli slot cosmetici",
+    "accessories.slot.except": "ad eccezione di",
+    "accessories.slot.face": "Viso",
     "accessories.slot.hand": "Mano",
     "accessories.slot.hat": "Cappello",
-    "accessories.slot.necklace": "Collare",
+    "accessories.slot.necklace": "Collana",
     "accessories.slot.ring": "Anello",
-    "accessories.slot.shoes": "Stivali",
-    "accessories.slot.tooltip.plural": "posizioni:",
-    "accessories.slot.tooltip.singular": "Posizione:",
-    "accessories.slot.wrist": "Cintura",
-    "accessories.slot_cosmetics.toggle.disabled": "Mostra slot di accessorio",
-    "accessories.slot_cosmetics.toggle.enabled": "Mostra slot accessori",
+    "accessories.slot.shoes": "Scarpe",
+    "accessories.slot.tooltip.plural": "Slot:",
+    "accessories.slot.tooltip.singular": "Slot:",
+    "accessories.slot.wrist": "Polso",
+    "accessories.slot_cosmetics.toggle.disabled": "Mostra gli slot cosmetici",
+    "accessories.slot_cosmetics.toggle.enabled": "Mostra gli slot per accessori",
     "accessories.slot_group.arm": "Braccia",
-    "accessories.slot_group.chest": "Cassetta",
+    "accessories.slot_group.chest": "Torace",
     "accessories.slot_group.feet": "Piedi",
     "accessories.slot_group.head": "Testa",
-    "accessories.slot_group.leg": "Gambi",
-    "accessories.slot_group.misc": "Accessori vari",
-    "accessories.slot_group.unsorted": "Non ordinati",
-    "accessories.tooltip.attributes.any": "quando indossato:",
-    "accessories.tooltip.attributes.slot": "quando indossato nel %s:",
-    "accessories.tooltip.currently_equipped_in": "Equipaggiato in:",
-    "accessories.unique_slots.toggle.hide": "Nascondi slot unici",
+    "accessories.slot_group.leg": "Gambe",
+    "accessories.slot_group.misc": "Varie",
+    "accessories.slot_group.unsorted": "Non ordinato",
+    "accessories.tooltip.attributes.any": "Quando è dotato di:",
+    "accessories.tooltip.attributes.slot": "Quando è dotato di:",
+    "accessories.tooltip.currently_equipped_in": "Dotato di:",
+    "accessories.unique_slots.toggle.hide": "Nascondi slot univoci",
     "accessories.unique_slots.toggle.show": "Mostra slot unici",
-    "accessories.unused_slots.label": "sloti inutilizzati:",
+    "accessories.unused_slots.label": "Mostra gli slot non utilizzati:",
     "accessories.unused_slots.toggle.disabled": [
         "",
         {
@@ -412,7 +425,7 @@
         },
         " Hidden"
     ],
-    "accessories.unused_slots.toggle.disabled.tooltip": "Mostra tutti i slot inutilizzati",
+    "accessories.unused_slots.toggle.disabled.tooltip": "Mostra tutti gli slot non utilizzati",
     "accessories.unused_slots.toggle.enabled": [
         "",
         {
@@ -429,10 +442,10 @@
         },
         " Shown"
     ],
-    "accessories.unused_slots.toggle.enabled.tooltip": "Nascondi tutti i slot non utilizzati",
-    "accessories.unused_slots.toggle.hide": "Nascondi slot inutilizzati",
-    "accessories.unused_slots.toggle.show": "Mostra slot inutilizzati",
-    "accessories.widget_type.label": "Variante di widget:",
+    "accessories.unused_slots.toggle.enabled.tooltip": "Nascondi tutti gli slot inutilizzati",
+    "accessories.unused_slots.toggle.hide": "Nascondi gli slot inutilizzati",
+    "accessories.unused_slots.toggle.show": "Mostra slot non utilizzati",
+    "accessories.widget_type.label": "Variante del widget accessorio:",
     "accessories.widget_type.paginated": [
         "",
         {
@@ -449,7 +462,7 @@
         },
         " Paginated"
     ],
-    "accessories.widget_type.paginated.tooltip": "Un layout a pagine per gli slot degli accessori",
+    "accessories.widget_type.paginated.tooltip": "Utilizza Pages per la navigazione nelle sezioni degli accessori.",
     "accessories.widget_type.scrollable": [
         "",
         {
@@ -466,10 +479,11 @@
         },
         " Scrollable"
     ],
-    "accessories.widget_type.scrollable.tooltip": "Un layout scorrevole per slot di accessori",
-    "argument.livingEntities.nonLiving": "Solo gli entità viventi possono essere influenzate da questo comando, ma lo selezionatore fornito include anche entità non viventi.",
-    "gamerule.accessories.keepAccessoryInventory": "Conserva inventario di accessori",
-    "text.config.accessories.category.clientOptions": "Opzioni del client",
+    "accessories.widget_type.scrollable.tooltip": "Utilizza lo scorrimento per navigare tra le slot degli accessori.",
+    "argument.livingEntities.nonLiving": "Solo gli organismi viventi possono essere colpiti da questo comando, ma il selettore fornito include anche entità non viventi.",
+    "gamerule.accessories.keepAccessoryInventory": "Mantenere l'inventario degli accessori",
+    "key.category.accessories.main": "Accessori",
+    "text.config.accessories.category.clientOptions": "Opzioni per i clienti",
     "text.config.accessories.category.clientOptions.tooltip": [
         "Contains more generic client side options for rendering or player input"
     ],
@@ -478,7 +492,7 @@
         "Contains more content focused options like glider and totem equippablity"
     ],
     "text.config.accessories.category.screenOptions": "Opzioni dello schermo",
-    "text.config.accessories.category.screenOptions.hoveredOptions": "Opzioni sovrapposte",
+    "text.config.accessories.category.screenOptions.hoveredOptions": "Opzioni disponibili (in modalità di visualizzazione)",
     "text.config.accessories.category.screenOptions.hoveredOptions.tooltip": [
         "Options to control the hovered entry rendering effects."
     ],
@@ -489,145 +503,156 @@
     "text.config.accessories.category.screenOptions.unHoveredOptions.tooltip": [
         "Options to control the non hovered entries rendering effects."
     ],
-    "text.config.accessories.enum.playerEquipControl.disabled": "Disabilitato",
-    "text.config.accessories.enum.playerEquipControl.must_crouch": "richiede inginocchiarsi",
-    "text.config.accessories.enum.playerEquipControl.must_not_crouch": "Senza inginocchiarsi",
+    "text.config.accessories.enum.playerEquipControl.disabled": "Disabili",
+    "text.config.accessories.enum.playerEquipControl.must_crouch": "Richiede di accovacciarsi",
+    "text.config.accessories.enum.playerEquipControl.must_not_crouch": "Senza Crouch",
     "text.config.accessories.enum.screenType.experimental_v1": "Sperimentale",
-    "text.config.accessories.enum.screenType.none": "Indeciso",
-    "text.config.accessories.enum.screenType.original": "originale",
+    "text.config.accessories.enum.screenType.none": "Incerte",
+    "text.config.accessories.enum.screenType.original": "Original",
     "text.config.accessories.enum.targetType.all": "Tutto",
     "text.config.accessories.enum.targetType.block": "Blocco",
-    "text.config.accessories.enum.targetType.item": "Elemento",
-    "text.config.accessories.option.clientOptions.disableEmptySlotScreenError": "Disabilita errore slot vuoto accessorio",
+    "text.config.accessories.enum.targetType.item": "Articolo",
+    "text.config.accessories.option.clientOptions.disableEmptySlotScreenError": "Disattivare l'errore relativo all'accessorio vuoto",
     "text.config.accessories.option.clientOptions.disableEmptySlotScreenError.tooltip": [
         "Disables the error message displayed if the accessories\n",
         "screen is opened and no used slots were found."
     ],
-    "text.config.accessories.option.clientOptions.disabledDefaultRenders": "Disattivato rendering predefinito",
+    "text.config.accessories.option.clientOptions.disabledDefaultRenders": "Impostazioni predefinite per utenti con disabilità",
     "text.config.accessories.option.clientOptions.disabledDefaultRenders.slotType": "Slot",
     "text.config.accessories.option.clientOptions.disabledDefaultRenders.targetType": "Tipo",
     "text.config.accessories.option.clientOptions.disabledDefaultRenders.tooltip": [
         "Disables the included default renderer rendering of items if being used."
     ],
-    "text.config.accessories.option.clientOptions.equipControl": "Modalità di equipaggio rapida con la mano",
+    "text.config.accessories.option.clientOptions.equipControl": "Modalità \"Manuale rapido\"",
     "text.config.accessories.option.clientOptions.equipControl.tooltip": [
         "Changes the mode used to quickly equip a stack from your hand."
     ],
-    "text.config.accessories.option.clientOptions.forceNullRenderReplacement": "Forza sostituzione di rendering vuoto",
+    "text.config.accessories.option.clientOptions.forceNullRenderReplacement": "Sostituzione del rendering forzato",
     "text.config.accessories.option.clientOptions.forceNullRenderReplacement.tooltip": [
         "Forces any registered render found to be no\n",
         "rendering to instead use default rendering."
     ],
-    "text.config.accessories.option.clientOptions.showCosmeticAccessories": "Mostra la rappresentazione di accessori cosmétici",
+    "text.config.accessories.option.clientOptions.showCosmeticAccessories": "Visualizzazione del prodotto cosmetico",
     "text.config.accessories.option.clientOptions.showCosmeticAccessories.tooltip": [
         "Enables\/Disables the rendering of cosmetic item variants if equipped."
     ],
-    "text.config.accessories.option.contentOptions.allowBannerEquip": "consentire ai banner di essere equipaggiati",
+    "text.config.accessories.option.contentOptions.allowBannerEquip": "Permettere l'utilizzo di banner come elementi di equipaggiamento.",
     "text.config.accessories.option.contentOptions.allowBannerEquip.tooltip": [
         "Toggles the ability for Banners to be equipped within Accessories Slots."
     ],
-    "text.config.accessories.option.contentOptions.allowGliderEquip": "consentire ai paracaduti di essere equipaggiati",
+    "text.config.accessories.option.contentOptions.allowGliderEquip": "Permettere l'equipaggiamento dei glider",
     "text.config.accessories.option.contentOptions.allowGliderEquip.tooltip": [
         "Toggles the ability for Gliders to be equipped within Accessories Slots."
     ],
-    "text.config.accessories.option.contentOptions.allowTotemEquip": "Consentire ai totemi di essere equipaggiati",
+    "text.config.accessories.option.contentOptions.allowTotemEquip": "Permettere di equipare i totem.",
     "text.config.accessories.option.contentOptions.allowTotemEquip.tooltip": [
         "Toggles the ability for Totems to be equipped within Accessories Slots."
     ],
-    "text.config.accessories.option.contentOptions.validBannerSlots": "Slot validi per bandiera",
+    "text.config.accessories.option.contentOptions.validBannerSlots": "Slot banner validi",
     "text.config.accessories.option.contentOptions.validBannerSlots.tooltip": [
         "Adds the slots to which a Banner item is allowed to be equipped."
     ],
-    "text.config.accessories.option.contentOptions.validGliderSlots": "Slot di paracadute validi",
+    "text.config.accessories.option.contentOptions.validGliderSlots": "Slot validi",
     "text.config.accessories.option.contentOptions.validGliderSlots.tooltip": [
         "Adds the slots to which a Glider item is allowed to be equipped."
     ],
-    "text.config.accessories.option.contentOptions.validTotemSlots": "Posizioni di totem valide",
+    "text.config.accessories.option.contentOptions.validTotemSlots": "Slot Totem valide",
     "text.config.accessories.option.contentOptions.validTotemSlots.tooltip": [
         "Adds the slots to which a Totem item is allowed to be equipped."
     ],
-    "text.config.accessories.option.disabledDefaultRenders": "Renderer disabilitati predefiniti",
+    "text.config.accessories.option.disabledDefaultRenders": "Renditori predefiniti per utenti con disabilità",
     "text.config.accessories.option.disabledDefaultRenders.tooltip": [
         "Useful to disable default rendering for a given slot either\n",
         "for specifically block or\/and item renderings"
     ],
-    "text.config.accessories.option.modifiers": "Opzioni modificatori slot e quantità",
-    "text.config.accessories.option.modifiers.amount": "Offset",
-    "text.config.accessories.option.modifiers.slotType": "Tipo di slot",
+    "text.config.accessories.option.modifiers": "Modificatori per l'importo dello slot",
+    "text.config.accessories.option.modifiers.amount": "Compensazione",
+    "text.config.accessories.option.modifiers.slotType": "Slot",
     "text.config.accessories.option.modifiers.tooltip": [
         "Useful to add offset values to a given slot type without\n",
         "needing a datapack as it allows for both positive or\n",
         "negative offset value."
     ],
-    "text.config.accessories.option.screenOptions.allowSideBarCraftingGrid": "Consenti la griglia di crafting all'interno della barra laterale",
+    "text.config.accessories.option.screenOptions.allowSideBarCraftingGrid": "Abilitare la griglia di creazione nella barra laterale",
     "text.config.accessories.option.screenOptions.allowSideBarCraftingGrid.tooltip": [
         "If group filters are not present, it will attempt to put\n",
         "the crafting grid within the sidebar instead down below."
     ],
-    "text.config.accessories.option.screenOptions.allowSlotScrolling": "Consenti lo scorrimento dei slot sullo schermo",
+    "text.config.accessories.option.screenOptions.allowSlotScrolling": "Abilita lo scorrimento nelle fessure dello schermo",
     "text.config.accessories.option.screenOptions.allowSlotScrolling.tooltip": [
         "Useful if the given mod allows for scrolling stacks\n",
         "leading to issues when going though accessories."
     ],
-    "text.config.accessories.option.screenOptions.alwaysShowCraftingGrid": "Mostra sempre la griglia di creazione",
+    "text.config.accessories.option.screenOptions.alwaysShowCraftingGrid": "Mostrare sempre la griglia di creazione.",
     "text.config.accessories.option.screenOptions.alwaysShowCraftingGrid.tooltip": [
         "Will remove the toggle button for the crafting grid and always show it within the experimental screen."
     ],
-    "text.config.accessories.option.screenOptions.backButtonClosesScreen": "Chiudi schermo invece di tornare allo schermo precedente",
-    "text.config.accessories.option.screenOptions.backButtonClosesScreen.tooltip": "Tenta chiudere lo schermo anziché tornare allo schermo dell'inventario precedente se possibile.",
-    "text.config.accessories.option.screenOptions.creativeInventoryButtonOffset": "Offset del pulsante della inventario creativo",
-    "text.config.accessories.option.screenOptions.creativeInventoryButtonOffset.x": "Dislivello orizzontale",
-    "text.config.accessories.option.screenOptions.creativeInventoryButtonOffset.y": "Dislivello Y del pulsante di inventario creativo",
-    "text.config.accessories.option.screenOptions.entityLooksAtMouseCursor": "Fare seguire il cursore del mouse l'entità",
+    "text.config.accessories.option.screenOptions.backButtonClosesScreen": "Chiudere la schermata invece di tornare alla schermata precedente.",
+    "text.config.accessories.option.screenOptions.backButtonClosesScreen.tooltip": "Tentativo di chiudere lo schermo invece di tornare alla schermata precedente dell'inventario, qualora possibile.",
+    "text.config.accessories.option.screenOptions.creativeInventoryButtonOffset": "Offset del pulsante \"Inventario Creativo\"",
+    "text.config.accessories.option.screenOptions.creativeInventoryButtonOffset.x": "X Offset",
+    "text.config.accessories.option.screenOptions.creativeInventoryButtonOffset.y": "Offset Y",
+    "text.config.accessories.option.screenOptions.defaultValues": "Opzioni di visualizzazione globali",
+    "text.config.accessories.option.screenOptions.defaultValues.tooltip": [
+        "Used to adjust the DEFAULT screen options like amount of columns,\n",
+        "the given theme, etc. Such can also be adjusted in game per user."
+    ],
+    "text.config.accessories.option.screenOptions.entityLooksAtMouseCursor": "Rendi l'entità in grado di seguire il cursore del mouse.",
     "text.config.accessories.option.screenOptions.entityLooksAtMouseCursor.tooltip": [
         "If enabled, makes the entity follow the mouse cursor\n",
         "otherwise it allows for manual rotation of the entity."
     ],
-    "text.config.accessories.option.screenOptions.hoveredOptions.brightenHovered": "Accendi opzioni sovrapposte",
-    "text.config.accessories.option.screenOptions.hoveredOptions.clickbait": "Clickbait",
-    "text.config.accessories.option.screenOptions.hoveredOptions.cycleBrightness": "Cicla luminosità",
-    "text.config.accessories.option.screenOptions.hoveredOptions.line": "Disegna riga",
-    "text.config.accessories.option.screenOptions.inventoryButtonOffset": "Offset del pulsante dell'inventario",
-    "text.config.accessories.option.screenOptions.inventoryButtonOffset.x": "Dislocazione orizzontale del pulsante inventario",
-    "text.config.accessories.option.screenOptions.inventoryButtonOffset.y": "Dislivello Y del pulsante dell'inventario",
-    "text.config.accessories.option.screenOptions.isDarkMode": "Usa tema di modalità oscura",
+    "text.config.accessories.option.screenOptions.hoveredOptions.brightenHovered": "Rendi più evidente l'hover",
+    "text.config.accessories.option.screenOptions.hoveredOptions.clickbait": "Titoli accattivanti",
+    "text.config.accessories.option.screenOptions.hoveredOptions.cycleBrightness": "Intensità",
+    "text.config.accessories.option.screenOptions.hoveredOptions.line": "Traccia una linea",
+    "text.config.accessories.option.screenOptions.inventoryButtonOffset": "Offset del pulsante \"Inventario\"",
+    "text.config.accessories.option.screenOptions.inventoryButtonOffset.x": "X Offset",
+    "text.config.accessories.option.screenOptions.inventoryButtonOffset.y": "Offset Y",
+    "text.config.accessories.option.screenOptions.isDarkMode": "Utilizza la modalità scura.",
     "text.config.accessories.option.screenOptions.isDarkMode.tooltip": [
         "Changes the theming for the experimental screen to be dark mode."
     ],
-    "text.config.accessories.option.screenOptions.keybindIgnoresOtherTargets": "La combinazione di tasti per aprire la schermata ignora gli altri bersagli.",
-    "text.config.accessories.option.screenOptions.keybindIgnoresOtherTargets.tooltip": "Utile se desideri che la combinazione di tasti ignori altri bersagli trovati come l'animale che stai montando.",
-    "text.config.accessories.option.screenOptions.menuButtonInjections": "Pulsanti dello schermo iniettati",
-    "text.config.accessories.option.screenOptions.menuButtonInjections.menuType": "ID del menu",
-    "text.config.accessories.option.screenOptions.menuButtonInjections.mini": "È una versione miniaturizzata",
-    "text.config.accessories.option.screenOptions.menuButtonInjections.xOffset": "Dislocazione orizzontale",
-    "text.config.accessories.option.screenOptions.menuButtonInjections.yOffset": "Dislivello verticale",
+    "text.config.accessories.option.screenOptions.keybindIgnoresOtherTargets": "Assegnazione della combinazione di tasti \"Schermo aperto\" per ignorare altri bersagli.",
+    "text.config.accessories.option.screenOptions.keybindIgnoresOtherTargets.tooltip": "Utile se si desidera che l'assegnazione di una combinazione di tasti ignori altri bersagli, come l'animale su cui si sta cavalcando.",
+    "text.config.accessories.option.screenOptions.menuButtonInjections": "Pulsanti integrati sullo schermo",
+    "text.config.accessories.option.screenOptions.menuButtonInjections.menuType": "Menu ID",
+    "text.config.accessories.option.screenOptions.menuButtonInjections.mini": "È la versione Mini",
+    "text.config.accessories.option.screenOptions.menuButtonInjections.xOffset": "X Offset",
+    "text.config.accessories.option.screenOptions.menuButtonInjections.yOffset": "Offset Y",
+    "text.config.accessories.option.screenOptions.prioritizeCreativeScreen": "Dare priorità all'apertura dello schermo creativo.",
+    "text.config.accessories.option.screenOptions.prioritizeCreativeScreen.tooltip": [
+        "Will attempt to open the Creative Screen instead of the Accessories\n",
+        "screen while in creative mode."
+    ],
     "text.config.accessories.option.screenOptions.selectedScreenType": "Tipo di schermo selezionato",
     "text.config.accessories.option.screenOptions.selectedScreenType.tooltip": [
         "Used to adjust what screen will be used, none will\n",
         "bring a prompt for user selection."
     ],
-    "text.config.accessories.option.screenOptions.showEquippedStackSlotType": "Mostra tipo di slot equipaggiato per pile",
+    "text.config.accessories.option.screenOptions.showEquippedStackSlotType": "Mostra il tipo di slot per stack attrezzati",
     "text.config.accessories.option.screenOptions.showEquippedStackSlotType.tooltip": [
         "Shows the given slot type that the given stack is equipped in within its tooltip."
     ],
-    "text.config.accessories.option.screenOptions.showGroupTabs": "Mostra schede di ricerca rapide per gruppi",
+    "text.config.accessories.option.screenOptions.showGroupTabs": "Mostra le schede di ricerca rapida.",
     "text.config.accessories.option.screenOptions.showGroupTabs.tooltip": [
         "Toggles the group tabs within the original screen to be shown or hidden."
     ],
     "text.config.accessories.option.screenOptions.showUnusedSlots": "Mostra slot non utilizzati",
-    "text.config.accessories.option.screenOptions.showUnusedSlots.tooltip": "Abilita filtro per slot non utilizzati",
-    "text.config.accessories.option.screenOptions.unHoveredOptions.darkenUnHovered": "Oscurare non selezionati",
-    "text.config.accessories.option.screenOptions.unHoveredOptions.darkenedBrightness": "Luminosità oscurata",
-    "text.config.accessories.option.screenOptions.unHoveredOptions.darkenedOpacity": "Opacità oscurata",
-    "text.config.accessories.option.screenOptions.unHoveredOptions.renderUnHovered": "Rendere non selezionati",
-    "text.config.accessories.option.useExperimentalCaching": "Usa caching sperimentale",
+    "text.config.accessories.option.screenOptions.showUnusedSlots.tooltip": "Abilita\/disabilita il filtro per le posizioni non utilizzate.",
+    "text.config.accessories.option.screenOptions.unHoveredOptions.darkenUnHovered": "Rendere inattivo",
+    "text.config.accessories.option.screenOptions.unHoveredOptions.darkenedBrightness": "Luce attenuata",
+    "text.config.accessories.option.screenOptions.unHoveredOptions.darkenedOpacity": "Opacità scura",
+    "text.config.accessories.option.screenOptions.unHoveredOptions.renderUnHovered": "Rimuovi lo stato non evidenziato",
+    "text.config.accessories.option.useExperimentalCaching": "Utilizza la cache sperimentale.",
     "text.config.accessories.option.useExperimentalCaching.tooltip": [
         "Attempts to cache various ItemStack lookups\n",
         "to be more performant but may cause issues."
     ],
-    "text.config.accessories.section.button_offsets": "Offset degli interruttori injectati",
+    "text.config.accessories.section.accessories_screen": "Opzioni specifiche per lo schermo accessorio",
+    "text.config.accessories.section.button_offsets": "Offset delle pulsanti",
     "text.config.accessories.section.experimental": "Schermo sperimentale",
-    "text.config.accessories.section.hover": "Effetti sovrapposti",
+    "text.config.accessories.section.hover": "Effetti di hovering",
     "text.config.accessories.section.legacy": "Schermo originale",
-    "text.config.accessories.title": "Configurazione accessori"
+    "text.config.accessories.title": "Configurazione degli accessori"
 }

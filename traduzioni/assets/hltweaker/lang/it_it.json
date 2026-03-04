@@ -1,0 +1,23 @@
+{
+    "text.hltweaker.level": "Livello",
+    "text.hltweaker.level.ancient_elements_tier_eight": "Spectrillium",
+    "text.hltweaker.level.ancient_elements_tier_five": "Materia celeste proveniente dallo spazio",
+    "text.hltweaker.level.ancient_elements_tier_nine": "Endrium",
+    "text.hltweaker.level.ancient_elements_tier_seven": "Infernale",
+    "text.hltweaker.level.ancient_elements_tier_six": "Aetherium",
+    "text.hltweaker.level.ancient_elements_tier_ten": "Celestium",
+    "text.hltweaker.level.ancient_elements_tier_twelve": "Aeonite",
+    "text.hltweaker.level.minecraft.diamond": "Diamante",
+    "text.hltweaker.level.minecraft.gold": "Oro",
+    "text.hltweaker.level.minecraft.iron": "Ferro",
+    "text.hltweaker.level.minecraft.netherite": "Netherite",
+    "text.hltweaker.level.minecraft.stone": "Pietra",
+    "text.hltweaker.level.minecraft.wood": "Legno",
+    "text.hltweaker.tool.minecraft.axe": "Ascia",
+    "text.hltweaker.tool.minecraft.hoe": "Come",
+    "text.hltweaker.tool.minecraft.pickaxe": "Piccone",
+    "text.hltweaker.tool.minecraft.shovel": "Pala",
+    "text.hltweaker.unknown_level": "Sconosciuto",
+    "tooltip.hltweaker.block_harvest_level": "Livello di raccolta: %s",
+    "tooltip.hltweaker.tool_type_level": "%s: %s"
+}

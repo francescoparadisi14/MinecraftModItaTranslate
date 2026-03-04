@@ -1,6 +1,11 @@
 {
     "item.dog_music_disc.dogdisc": "Disco musicale",
-    "item.dog_music_disc.dogdisc.desc": "c418 - cane",
+    "item.dog_music_disc.dogdisc.desc": "C418 – cane",
+    "item.dog_music_disc.nulldisc": "Disco musicale",
+    "item.dog_music_disc.nulldisc.desc": "Nessun script",
     "subtitles.dog_music": "\"Dog\" di C418",
-    "subtitles.music.disc.dog": "Cane"
+    "subtitles.music.disc.dog": "Cane",
+    "subtitles.music.null.ambience": "nullo",
+    "subtitles.null.ambience": "nullo",
+    "subtitles.null_ambience": "silenzio assoluto"
 }

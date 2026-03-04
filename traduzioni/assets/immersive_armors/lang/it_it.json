@@ -69,6 +69,6 @@
     "option.immersive_armors.lootChance": "Possibilità di trovare l'Armatura Immersiva nel bottino.",
     "option.immersive_armors.mobEntityUseImmersiveArmorChance": "Possibilità che l'entità indossi un'Armatura Immersiva.",
     "option.immersive_armors.whitelist": "Whitelist degli articoli",
-    "tag.item.immersive_armors.armor": "armi immersive",
-    "tag.item.immersive_armors.axes": "Asce"
+    "tag.item.immersive_armors.armor": "Armature immersive",
+    "tag.item.immersive_armors.axes": "Asse\/i"
 }

@@ -1,6 +1,6 @@
 {
-    "name": "Slimes",
-    "description": "Fornisce informazioni su dove trovare splendidi lombrichi, nonché i rischi relativi all'allevamento. Alcuni lombrichi possono essere ottenuti solo creando il loro cuore di lombrico in un torchio di pressione di lombrichi. Ciò è noto come \"fusione del cuore\" in questo sezione.",
+    "name": "Slime (o gelatina)",
+    "description": "Fornisce informazioni su dove trovare gli Splimes, nonché sui rischi associati all'allevamento. Alcuni Splimes possono essere ottenuti solo creando i loro \"Cuori di Splime\" utilizzando una \"Macchina di Fusione\" (Plort Press). Questo processo è noto come \"Fusione di Cuori\" in questa sezione.",
     "icon": "splendid_slimes:slime_heart{slime:{id:\"splendid_slimes:slimy\"}}",
     "category": "patchouli:slimes"
 }

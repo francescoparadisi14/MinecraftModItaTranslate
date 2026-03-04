@@ -91,6 +91,7 @@
     "tooltip.ironfurnaces.augment_xp": "Experience granted from smelting will be ejected to nearby fluid tanks.",
     "tooltip.ironfurnaces.augment_xp_1": "Experience granted from smelting will given to the player that placed the furnace.",
     "tooltip.ironfurnaces.augment_xp_switch": "Sneak & Right click in the air to switch modes.",
+    "tooltip.ironfurnaces.cooktime": "Cooktime",
     "tooltip.ironfurnaces.for_details": "for Details.",
     "tooltip.ironfurnaces.gui_auto_input": "Auto Input",
     "tooltip.ironfurnaces.gui_auto_output": "Auto Output",

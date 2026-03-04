@@ -1,0 +1,19 @@
+{
+    "name": "Osso di pesce bianco",
+    "category": "patchouli:fish",
+    "icon": "netherdepthsupgrade:wither_bonefish",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 412$(li)Dimensioni: Nether$(li)Bioma: Valle del Sabbia"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "netherdepthsupgrade:wither_bonefish",
+            "scale": 0.8,
+            "offset": -0.3,
+            "rotate": true,
+            "text": "patchouli: entità\n\nnetherdepthsupgrade: osso di pesce wither\n\nBeh, mi sono mosso molto, ma gradualmente ho iniziato a perdere interesse."
+        }
+    ]
+}

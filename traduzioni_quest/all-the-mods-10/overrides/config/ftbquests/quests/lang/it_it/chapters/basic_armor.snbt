@@ -1,0 +1,605 @@
+{
+    "quest.004D61425172324F.quest_desc": [
+        "\\&8L'armatura in catena\\&r è leggermente meno efficace dell'armatura in ferro. Il suo principale utilizzo in \\&l\\&2Minecraft\\&r era la sua rarità, ottenibile solo tramite scambi e loot di mostri.\n\nNaturalmente, questo è dovuto all'uso di mod, quindi ora possiamo crearla! Questo però ne elimina la funzione principale..."
+    ],
+    "quest.004D61425172324F.quest_subtitle": "12",
+    "quest.004D61425172324F.title": "\\&Armatura in catena",
+    "quest.041ED280691BB05D.quest_desc": [
+        "\\&9Froststeel\\&r è un minerale comune negli ambienti freddi del \\&2\\&lUndergarden\\&r."
+    ],
+    "quest.041ED280691BB05D.quest_subtitle": "18",
+    "quest.041ED280691BB05D.title": "\\&9Armatura in acciaio freddo",
+    "quest.04B31A600004F7CB.quest_desc": [
+        "Questo contenuto è stato creato da \\&6AllTheMods Staff\\&r, o da un \\&2contributore della community\\&r, per l'uso nei pacchetti mod di AllTheMods.\n\nPoiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti a \\&e\"Tutti i diritti riservati\", questo contenuto non può essere utilizzato in altri pacchetti pubblici, a meno che non sia stato rilasciato dal team \\&6AllTheMods\\&r.\n\nQuesto contenuto è intenzionalmente nascosto. Se lo state visualizzando, siete in modalità di modifica."
+    ],
+    "quest.055CCAE237DF3EEF.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_ironwood.png width:100 height:150 align:center}"
+    ],
+    "quest.055CCAE237DF3EEF.title": "\\&8Ironwood",
+    "quest.05B5E640F1B68A28.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_golem.png width:100 height:150 align:center}"
+    ],
+    "quest.05B5E640F1B68A28.title": "\\&3Golem Steel\\&r",
+    "quest.074EC1E636CD6605.quest_desc": [
+        "\\&cArmatura di Netherite\\&r è l'armatura migliore che si possa ottenere in \\&l\\&2Vanilla\\&r. Ha lo stesso livello di protezione dell'armatura in \\&bDiamante\\&r, ma offre una maggiore resistenza.\n\nProbabilmente perché è necessario utilizzare il \\&bDiamante\\&r per crearla!"
+    ],
+    "quest.074EC1E636CD6605.quest_subtitle": "20",
+    "quest.074EC1E636CD6605.title": "\\& Armatura di Netherite",
+    "quest.0ABB2264CBB82470.quest_desc": [
+        "Armatura in ferro di \\&d\\&lArs\\&r."
+    ],
+    "quest.0ABB2264CBB82470.quest_subtitle": "15",
+    "quest.0ABB2264CBB82470.title": "\\&5Abbigliamento da mago",
+    "quest.0E2515424291BB59.quest_desc": [
+        "Edizione speciale di armature per \\&d\\&lArs\\&r!"
+    ],
+    "quest.0E2515424291BB59.quest_subtitle": "20",
+    "quest.0E2515424291BB59.title": "\\&5L'abbigliamento di Battlemage",
+    "quest.0ED11FCF6298CE85.quest_desc": [
+        "\\&e\\&lIncantesimi di Ferro\\&r \\&4Armatura di Sangue\\&r!"
+    ],
+    "quest.0ED11FCF6298CE85.quest_subtitle": "20",
+    "quest.0ED11FCF6298CE85.title": "\\&4Abbigliamento da cultista",
+    "quest.0F1D6F4729CC38F3.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_rib.png width:100 height:150 align:center}"
+    ],
+    "quest.0F1D6F4729CC38F3.quest_subtitle": "Fortezza di Nether",
+    "quest.0F1D6F4729CC38F3.title": "Rettilatura per armature in acciaio",
+    "quest.10AA2B20D86747F7.quest_desc": [
+        "\\&bFerricore\\&r ha le stesse statistiche di Ferro, ma possiede anche altre abilità che Ferro desidererebbe avere!\n\nPer saperne di più su cosa può fare, consultate le descrizioni degli oggetti."
+    ],
+    "quest.10AA2B20D86747F7.quest_subtitle": "15",
+    "quest.10AA2B20D86747F7.title": "\\&bFerricore Amor",
+    "quest.1245126B4338C019.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_vex.png width:100 height:150 align:center}"
+    ],
+    "quest.1245126B4338C019.quest_subtitle": "Villa nel bosco",
+    "quest.1245126B4338C019.title": "Rettilatura per armatura Vex",
+    "quest.13517D17E6BF015F.quest_desc": [
+        "Con l'armatura \\&bDiamond Armor\\&r e alcuni oggetti \\&aInferium\\&r, è possibile creare l'armatura \\&aInferium\\&r! Inoltre, è possibile migliorarla utilizzando la meccanica!"
+    ],
+    "quest.13517D17E6BF015F.quest_subtitle": "21",
+    "quest.13517D17E6BF015F.title": "\\&aArmatura Inferiore",
+    "quest.1366B946928C873B.quest_desc": [
+        "Per maggiori informazioni, consultate la pagina delle attività di Bumblezone!"
+    ],
+    "quest.1366B946928C873B.quest_subtitle": "10",
+    "quest.1366B946928C873B.title": "Armatura per api 1",
+    "quest.140DF670162C68DA.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_steeleaf.png width:100 height:150 align:center}"
+    ],
+    "quest.140DF670162C68DA.title": "\\&aSteeleaf",
+    "quest.1452D9CF827782B5.quest_desc": [
+        "Arctic Gear è realizzato con pelliccia artica. La pelliccia artica può essere ottenuta dagli \"Winter Wolves\" e dai \"Yetis\"!\n\nNo, non è possibile tosare né uno né l'altro.\n\nL'armatura può essere colorata come l'armatura in cuoio."
+    ],
+    "quest.1452D9CF827782B5.quest_subtitle": "16",
+    "quest.1452D9CF827782B5.title": "\\&fArctic Gear",
+    "quest.15978093237448FE.quest_desc": [
+        "Perché aggiornare il materiale a \"\\&6Allthemodium\\&r\" o anche a qualsiasi altro materiale, quando si può aggiornare a \"\\&3Warden Armor\\&r\"!\n\nAvrete bisogno di alcuni \"Warden Drops\" per farlo."
+    ],
+    "quest.15978093237448FE.quest_subtitle": "24",
+    "quest.15978093237448FE.title": "\\&Armatura del guardiano",
+    "quest.16359196D49A6223.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_froststeel.png width:100 height:150 align:center}"
+    ],
+    "quest.16359196D49A6223.title": "\\&bFroststeel\\&r",
+    "quest.17A68C4E9E9EA2B7.quest_desc": [
+        "L'armatura d'oro è situata tra l'armatura in ferro e quella in cuoio. Tuttavia, la sua durabilità è molto più simile a quella in cuoio.\n\nNon ha molte applicazioni, oltre a far sì che i Piglins siano neutrali nei tuoi confronti quando la indossi."
+    ],
+    "quest.17A68C4E9E9EA2B7.quest_subtitle": "11",
+    "quest.17A68C4E9E9EA2B7.title": "\\&Armatura dorata",
+    "quest.19F58E291A543228.quest_desc": [
+        "Edizione speciale di armature in oro!"
+    ],
+    "quest.19F58E291A543228.quest_subtitle": "11",
+    "quest.19F58E291A543228.title": "\\& Abbigliamento da mago",
+    "quest.1A8440C0048EEB02.quest_desc": [
+        "\\&cBlazegold\\&r ha le stesse statistiche di Iron, ma possiede anche altre abilità che Iron desidererebbe avere!\n\nPer saperne di più su cosa possono fare, consultate le descrizioni degli oggetti."
+    ],
+    "quest.1A8440C0048EEB02.quest_subtitle": "15",
+    "quest.1A8440C0048EEB02.title": "\\&cArmatura Blazegold",
+    "quest.1C27C74722A19FC1.quest_desc": [
+        "Con una vasta gamma di oggetti di valore elevato, tra cui l'armatura \"Unobtainium\", potrai migliorarla fino all'armatura \"MekaSuit\"!\n\nOra, invece di subire danni che riducono la salute, l'armatura assorbirà energia.\n\nPuoi utilizzare le unità di miglioramento per renderla ancora più potente!"
+    ],
+    "quest.1C27C74722A19FC1.quest_subtitle": "Fornire quanta più energia possibile.",
+    "quest.1C27C74722A19FC1.title": "\\&AmeSuit",
+    "quest.1CC627D3FB348C89.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_shaper.png width:100 height:150 align:center}"
+    ],
+    "quest.1CC627D3FB348C89.quest_subtitle": "Resti di antichi sentieri",
+    "quest.1CC627D3FB348C89.title": "Raffinate finiture per armature",
+    "quest.1D23F53C585185B7.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_naga.png width:100 height:150 align:center}"
+    ],
+    "quest.1D23F53C585185B7.title": "\\&2Squame di Naga",
+    "quest.1D27EE427ECFD6CE.quest_desc": [
+        "Versione migliorata di \\&cTertium\\&r."
+    ],
+    "quest.1D27EE427ECFD6CE.quest_subtitle": "27",
+    "quest.1D27EE427ECFD6CE.title": "\\&9Armatura Imperiale",
+    "quest.1D91E37BFD8CC911.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_emerald.png width:100 height:150 align:center}"
+    ],
+    "quest.1D91E37BFD8CC911.title": "\\&2Emerald\\&r",
+    "quest.1E3E688B3B52C4D2.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_raiser.png width:100 height:150 align:center}"
+    ],
+    "quest.1E3E688B3B52C4D2.quest_subtitle": "Resti di antichi sentieri",
+    "quest.1E3E688B3B52C4D2.title": "Guarnizione per carrozzeria \"Raiser\"",
+    "quest.1EABF2E7AE7B8F22.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_netherite.png width:100 height:150 align:center}"
+    ],
+    "quest.1EABF2E7AE7B8F22.title": "\\&8Netherite\\&r",
+    "quest.1EBF234015B26F15.quest_desc": [
+        "Armatura di base fornita da \\&a\\&lRoots Classic\\&r, ma avrete bisogno di un rituale per ottenerla!"
+    ],
+    "quest.1EBF234015B26F15.quest_subtitle": "14",
+    "quest.1EBF234015B26F15.title": "\\&2Sylvan Gear",
+    "quest.1FC7ABEAB5018E79.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_redstone.png width:100 height:150 align:center}"
+    ],
+    "quest.1FC7ABEAB5018E79.title": "\\&4Redstone\\&r",
+    "quest.211FD55DEB635A98.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_copper.png width:100 height:150 align:center}"
+    ],
+    "quest.211FD55DEB635A98.title": "\\&6Rame\\&r",
+    "quest.215C9C2B2240FAA1.quest_desc": [
+        "\\&e\\&lIncantesimi di Ferro\\&r \\&5Armatura Elettrica\\&r!"
+    ],
+    "quest.215C9C2B2240FAA1.quest_subtitle": "20",
+    "quest.215C9C2B2240FAA1.title": "\\&5 Abbigliamento da \"Electromancer\"",
+    "quest.21B96130EA516B82.quest_desc": [
+        "\"Sono Iron Man compresso!\"\\n\\nPuò essere utilizzato e migliorato con aria compressa!"
+    ],
+    "quest.21B96130EA516B82.quest_subtitle": "15",
+    "quest.21B96130EA516B82.title": "\\&8Armatura pneumatica",
+    "quest.2296CE4418AE62D4.quest_desc": [
+        "\\&6Armatura di Allthemodium\\&r, ma con potenziamenti per gli incantesimi di \\&d\\&lStile Art Nouveau\\&r!"
+    ],
+    "quest.2296CE4418AE62D4.quest_subtitle": "24",
+    "quest.2296CE4418AE62D4.title": "\\&6Equipaggiamento per il Mago Arcanista",
+    "quest.243008D4DCD789D0.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_wild.png width:100 height:150 align:center}"
+    ],
+    "quest.243008D4DCD789D0.quest_subtitle": "Templi nella giungla",
+    "quest.243008D4DCD789D0.title": "Finitura in stile \"Wild Armor\"",
+    "quest.24A7B2902E7430A1.quest_desc": [
+        "\\&7Armatura in cuoio\\&r, semplicemente con una piccola quantità di magia arcana aggiunta.\n\nFornisce un leggero aumento del mana per gli incantesimi."
+    ],
+    "quest.24A7B2902E7430A1.quest_subtitle": "15",
+    "quest.24A7B2902E7430A1.title": "\\&9Attrezzatura per il mago errante",
+    "quest.24FDA15A7ACDF021.quest_desc": [
+        "\\&5Armatura in \"Unobtainium\"\\&r, ma con potenziamenti per gli incantesimi di \"Ferro\"!"
+    ],
+    "quest.24FDA15A7ACDF021.quest_subtitle": "40",
+    "quest.24FDA15A7ACDF021.title": "E l'armatura del mago di Unobtainium",
+    "quest.260C7F3C1F51221D.quest_desc": [
+        "\\&e\\&lIncantesimi di Ferro\\&r \\&aArmatura di Evocazione\\&r!"
+    ],
+    "quest.260C7F3C1F51221D.quest_subtitle": "20",
+    "quest.260C7F3C1F51221D.title": "Abbigliamento per l'Arcivescovo",
+    "quest.28408BFAA54E4FC6.quest_desc": [
+        "\\&7L'armatura in cuoio\\&r è l'armatura peggiore che si possa ottenere.\n\nQuesto è principalmente perché \\&c\\&lMojang\\&r pensava che dovresti ottenerla prima di qualsiasi altra.\n\nIn realtà, non la ottengo quasi mai, perché faccio fatica a trovarne così tante \\&8C\\&fo\\&8w\\&fs\\&r, mi dispiace \\&c\\&lMojang\\&r!"
+    ],
+    "quest.28408BFAA54E4FC6.quest_subtitle": "7",
+    "quest.28408BFAA54E4FC6.title": "\\&7Armatura in pelle",
+    "quest.2A4FE9644F3B9DC1.quest_desc": [
+        "Versione migliorata di \\&2Prudentium\\&r."
+    ],
+    "quest.2A4FE9644F3B9DC1.quest_subtitle": "26",
+    "quest.2A4FE9644F3B9DC1.title": "E altro ancora",
+    "quest.2C387BFA6EE6FDB7.quest_desc": [
+        "\\&cCristalli di Utherium\\&r possono essere ottenuti dagli \\&cCreature di Rotbeast\\&r nell'\\&2\\&lSottogardeno\\&r!"
+    ],
+    "quest.2C387BFA6EE6FDB7.quest_subtitle": "20",
+    "quest.2C387BFA6EE6FDB7.title": "\\&Armatura di Cuterium",
+    "quest.2D93888313B03029.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_blue.png width:100 height:150 align:center}"
+    ],
+    "quest.2D93888313B03029.title": "\\&9Cristallo Starlight Blu\\&r",
+    "quest.2E0F82F7E1B74033.quest_desc": [
+        "\\&d\\&lArs Elementale \\&r \\&2Armatura della Terra\\&r!"
+    ],
+    "quest.2E0F82F7E1B74033.quest_subtitle": "15",
+    "quest.2E0F82F7E1B74033.title": "\\&2 Abbigliamento del Geomante",
+    "quest.2EAA6BE598C83F24.quest_desc": [
+        "\\&d\\&lArs Elementale \\&r \\&3Armatura d'acqua\\&r!"
+    ],
+    "quest.2EAA6BE598C83F24.quest_subtitle": "15",
+    "quest.2EAA6BE598C83F24.title": "\\&3Abbigliamento per Aquamancer",
+    "quest.2FA0F5B348322095.quest_desc": [
+        "\\&7Cloggrum\\&r è il minerale di ferro presente in \\&2\\&lUndergarden\\&r. Si genera ovunque."
+    ],
+    "quest.2FA0F5B348322095.quest_subtitle": "14",
+    "quest.2FA0F5B348322095.title": "\\&7Cloggrum Armatura",
+    "quest.3061B67330367CE2.quest_desc": [
+        "Se siete riusciti a sconfiggere la Hidra o l'Ur-Ghast, avrete accesso alle \"Lacrime\/Sangue Infuocate\", che possono essere utilizzate.\n\nOra potrete creare l'\"Armatura Infuocata\", potenziando la vostra armatura in ferro con una delle \"Fiale Infuocate\".\n\nLa vostra armatura sarà ora più resistente del \"Netherite\" e chiunque vi colpisca sarà immediatamente in fiamme!"
+    ],
+    "quest.3061B67330367CE2.quest_subtitle": "24",
+    "quest.3061B67330367CE2.title": "\\&Armatura infuocata",
+    "quest.30A61E1A1EFA81E6.quest_desc": [
+        "\\&2Steeleaf\\&r è, tecnicamente, un oggetto (ingot) che si trova all'interno di casse nel bosco fatato (\\&9\\&lThe Twilight Forest\\&r).\nOgni componente dell'armatura conferisce un diverso effetto!"
+    ],
+    "quest.30A61E1A1EFA81E6.quest_subtitle": "20",
+    "quest.30A61E1A1EFA81E6.title": "\\&2Armatura in acciaio e foglie",
+    "quest.3215A3D706CECCEF.quest_desc": [
+        "Combinando alcune radici di Liveroot, un lingotto di ferro e un pezzo di \\&7Ironwood\\&r, è possibile creare \\&7Ironwood\\&r!\n\nSembra che avrete bisogno di un'ascia e di un piccone per ottenerlo.\n\nTutte le armature in \\&7Ironwood\\&r includono un livello di protezione gratuito!"
+    ],
+    "quest.3215A3D706CECCEF.quest_subtitle": "16",
+    "quest.3215A3D706CECCEF.title": "\\&7Armatura in legno di hierro",
+    "quest.3260EDAD3A619479.quest_desc": [
+        "\\&5Aethersent Ore\\&r si trova durante le piogge di meteoriti in \\&5\\&lEternal Starlight\\&r. I più piccoli si frantumano all'impatto, quindi dovrai aspettare che arrivino i meteoriti più grandi!\n\nOppure, si tratta di meteoriti? Qual è la differenza?"
+    ],
+    "quest.3260EDAD3A619479.quest_subtitle": "14",
+    "quest.3260EDAD3A619479.title": "\\&Armatura di Aether",
+    "quest.333682022948E2F3.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_thioquartz.png width:100 height:150 align:center}"
+    ],
+    "quest.333682022948E2F3.title": "\\&2Thioquartz\\&",
+    "quest.338BD467EBE6EE1F.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_sentry.png width:100 height:150 align:center}"
+    ],
+    "quest.338BD467EBE6EE1F.quest_subtitle": "Avamposto dei saccheggiatori",
+    "quest.338BD467EBE6EE1F.title": "Guarnizione per armatura Sentry",
+    "quest.3403D7502F7BC897.quest_desc": [
+        "In pratica, sei invincibile: niente può colpirti e causarti danni.\n\nAttualmente, devi migliorare la tua armatura in Netherite con un \"Quantum Upgrade\", ma i tuoi amici del team ATM stanno lavorando per rendere la ricetta ancora più difficile!\n\nE non puoi fare nulla per fermarli! \"BWAHAHAHAHA\""
+    ],
+    "quest.3403D7502F7BC897.quest_subtitle": "Invincibile",
+    "quest.3403D7502F7BC897.title": "\\&eQuantum \\&bArmatura\\&r (\\&l\\&7MI\\&r)",
+    "quest.3416DB9F58D8AA2C.quest_desc": [
+        "\\&3Neptunio\\&r è un oggetto premio ottenuto da Neptune's Bounty, ottenibile tramite la pesca!\nFornisce inoltre bonus quando si è sott'acqua."
+    ],
+    "quest.3416DB9F58D8AA2C.quest_subtitle": "28",
+    "quest.3416DB9F58D8AA2C.title": "\\&3Armatura di Neptunio",
+    "quest.34D14B807A2DAC0F.quest_desc": [
+        "Pensate che solo \\&5\\&lMekanism\\&r e \\&l\\&7Modern Industrialization\\&r possano divertirsi? \\n\\nQuesto \\&5\\&lQuantum Armor\\&r ha statistiche predefinite simili a quelle dell'\\&cNetherite Armor\\&r, ma, come l'\\&aMekaSuit\\&r, può utilizzare l'energia come scudo. \\nHa anche degli aggiornamenti che possono essere installati per renderla ancora più potente! Ad esempio, la capacità di volare, la visione notturna e persino la possibilità di ricaricare. \\n\\nMa la parte migliore è che può essere collegata al vostro sistema di stoccaggio! In questo modo, potrete estrarre automaticamente l'energia e qualsiasi oggetto, ovunque vi troviate."
+    ],
+    "quest.34D14B807A2DAC0F.quest_subtitle": "Fornire quanta più energia possibile.",
+    "quest.34D14B807A2DAC0F.title": "\\&5Armatura Quantistica\\&r (\\&l\\&bAE2\\&r)",
+    "quest.351159C55159C316.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_spire.png width:100 height:150 align:center}"
+    ],
+    "quest.351159C55159C316.quest_subtitle": "Fine City e Fine Ships",
+    "quest.351159C55159C316.title": "Raffinate finiture per armature Spire",
+    "quest.3512F47DADC07EAE.quest_desc": [
+        "\\&5Armatura in \"Unobtainium\"\\&r, ma con potenziamenti per gli incantesimi di stile \"Art Nouveau\"!"
+    ],
+    "quest.3512F47DADC07EAE.quest_subtitle": "40",
+    "quest.3512F47DADC07EAE.title": "\\&5Equipaggiamento per maghi di livello 5",
+    "quest.361C9D90617E6D38.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_keeper.png width:100 height:150 align:center}"
+    ],
+    "quest.361C9D90617E6D38.quest_subtitle": "Scambiato con Gatekeeper",
+    "quest.361C9D90617E6D38.title": "Accessori per l'armatura del portiere",
+    "quest.361EF9E4973E3522.quest_desc": [
+        "\\&e\\&lIncantesimi di Ferro\\&r \\&dArmatura di Ender\\&r!"
+    ],
+    "quest.361EF9E4973E3522.quest_subtitle": "20",
+    "quest.361EF9E4973E3522.title": "\\&dOutfit per Shadow-Walker",
+    "quest.3685B52446DEC809.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_gold.png width:100 height:150 align:center}"
+    ],
+    "quest.3685B52446DEC809.title": "\\&eGold\\&r",
+    "quest.39796D8EE440F318.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_dune.png width:100 height:150 align:center}"
+    ],
+    "quest.39796D8EE440F318.quest_subtitle": "Piramiadi del deserto",
+    "quest.39796D8EE440F318.title": "Rettilatura per armature \"Dune\"",
+    "quest.3A2047CC0F59C6CC.quest_desc": [
+        "Armatura avanzata per \\&a\\&lRoots Classic"
+    ],
+    "quest.3A2047CC0F59C6CC.quest_subtitle": "17",
+    "quest.3A2047CC0F59C6CC.title": "\\&aWildwood Gear",
+    "quest.3AA836E8EDB52097.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_lapis.png width:100 height:150 align:center}"
+    ],
+    "quest.3AA836E8EDB52097.title": "\\&9Lapis Lazuli\\&r",
+    "quest.3ABE7074E500494D.quest_desc": [
+        "\\&7Steel\\&r è utilizzato per la maggior parte delle macchine in \\&5\\&lMekanism\\&r... oltre all'armatura, che è molto utile!"
+    ],
+    "quest.3ABE7074E500494D.quest_subtitle": "20",
+    "quest.3ABE7074E500494D.title": "\\&7Armatura in acciaio",
+    "quest.3AE0198177A8E91B.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_coast.png width:100 height:150 align:center}"
+    ],
+    "quest.3AE0198177A8E91B.quest_subtitle": "Naufragi e tesori nascosti",
+    "quest.3AE0198177A8E91B.title": "Finitura per bordi della carrozzeria",
+    "quest.3B4511E7DC788AB3.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_tenacious.png width:100 height:150 align:center}"
+    ],
+    "quest.3B4511E7DC788AB3.title": "\\&dPetalo tenace\\&r",
+    "quest.3D72E3E53E7306FA.quest_desc": [
+        "\\&e\\&lIncantesimi di Ferro\\&r \\&cArmatura di Ferro!\\&r"
+    ],
+    "quest.3D72E3E53E7306FA.quest_subtitle": "20",
+    "quest.3D72E3E53E7306FA.title": "E altri abiti da \"Pyromancer\"",
+    "quest.3EA3A6414AB8A39C.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_flow.png width:100 height:150 align:center}"
+    ],
+    "quest.3EA3A6414AB8A39C.quest_subtitle": "Corti d'indagine",
+    "quest.3EA3A6414AB8A39C.title": "Rettilatura per l'armatura Flow",
+    "quest.3F0CD2C03CD7D730.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_forge.png width:100 height:150 align:center}"
+    ],
+    "quest.3F0CD2C03CD7D730.quest_subtitle": "Rimosso da Starlight Golem",
+    "quest.3F0CD2C03CD7D730.title": "Raffinate finiture per armature",
+    "quest.3FCEF8FF45E51608.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_quartz.png width:100 height:150 align:center}"
+    ],
+    "quest.42AAEC41F2BC2474.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_glacite.png width:100 height:150 align:center}"
+    ],
+    "quest.42AAEC41F2BC2474.title": "\\&bGlacite\\&r",
+    "quest.452DC5EB02D592B8.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_amethyst.png width:100 height:150 align:center}"
+    ],
+    "quest.452DC5EB02D592B8.title": "\\&5Amethyst\\&r",
+    "quest.459BB5B4CDB21773.quest_desc": [
+        "\\&9Swamp Silver\\&r si trova nelle paludi fangose all'interno di \\&5\\&lEternal Starlight\\&r."
+    ],
+    "quest.459BB5B4CDB21773.quest_subtitle": "15",
+    "quest.459BB5B4CDB21773.title": "\\&9Armatura d'argento delle paludi",
+    "quest.4664AFCFB5618CEB.quest_desc": [
+        "\\&bGlacite\\&r si trova negli ambienti freddi di \\&5\\&lEternal Starlight\\&r!"
+    ],
+    "quest.4664AFCFB5618CEB.quest_subtitle": "17",
+    "quest.4664AFCFB5618CEB.title": "\\&Armatura di ghiaccio",
+    "quest.497D222F74A52DF5.quest_desc": [
+        "Questo è esattamente ciò che mi piace! Il ferro è molto comune e la sua armatura è fantastica per le prime fasi del gioco.\n\nZombi e scheletri hanno pochissime possibilità!"
+    ],
+    "quest.497D222F74A52DF5.quest_subtitle": "15",
+    "quest.498483750C18FCD6.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_regalium.png width:100 height:150 align:center}"
+    ],
+    "quest.498483750C18FCD6.title": "\\&eRegalium\\&r",
+    "quest.4A9CB8778D37049F.quest_desc": [
+        "Dovrete utilizzare un rituale di risveglio per far sì che gli oggetti possano eseguire un altro rituale di risveglio sull'armatura \\&4Supremium Armor\\&r.\n\nPenso che valga la pena; è l'armatura migliore che si possa ottenere dall'oggetto \\&2\\&lMystical\\&r!"
+    ],
+    "quest.4A9CB8778D37049F.quest_subtitle": "36",
+    "quest.4A9CB8778D37049F.title": "\\&6Armatura Superiore Risvegliata",
+    "quest.4B65100885AE762D.quest_desc": [
+        "\\&e\\&lIncantesimi di Ferro\\&r \\&6Armatura Sacra\\&r!"
+    ],
+    "quest.4B65100885AE762D.quest_subtitle": "20",
+    "quest.4B65100885AE762D.title": "\\&6 Abbigliamento per il clero",
+    "quest.4B9C54DA5CB6D5C9.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_host.png width:100 height:150 align:center}"
+    ],
+    "quest.4B9C54DA5CB6D5C9.quest_subtitle": "Resti di antichi sentieri",
+    "quest.4B9C54DA5CB6D5C9.title": "Rafforzamento della carrozzeria",
+    "quest.4DD66E31859EA593.quest_desc": [
+        "\\&3Armatura in Vibranium\\&r, ma con potenziamenti per gli incantesimi di \\&e\\&l\"Incantesimi di Ferro\""
+    ],
+    "quest.4DD66E31859EA593.quest_subtitle": "32",
+    "quest.4DD66E31859EA593.title": "\\& Abbigliamento da mago di Vibranium",
+    "quest.4DF683461225690F.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_iron.png width:100 height:150 align:center}"
+    ],
+    "quest.4DF683461225690F.title": "\\&7Ferro\\&r",
+    "quest.50429F57480F44DA.quest_desc": [
+        "\\&cThermal Springstone\\&r può essere trovata in pozze d'acqua calda, che si trovano raramente in \\&5\\&lEternal Starlight\\&r!"
+    ],
+    "quest.50429F57480F44DA.quest_subtitle": "16",
+    "quest.50429F57480F44DA.title": "\\&cArmatura in pietra termale",
+    "quest.5064D5F99E2C69C8.quest_desc": [
+        "Versione migliorata di \\&9Imperium\\&r."
+    ],
+    "quest.5064D5F99E2C69C8.quest_subtitle": "29",
+    "quest.5064D5F99E2C69C8.title": "\\&4Armatura di alta qualità",
+    "quest.50B127137AA9E660.quest_desc": [
+        "Infine, il rame è davvero utile!"
+    ],
+    "quest.50B127137AA9E660.quest_subtitle": "13",
+    "quest.50B127137AA9E660.title": "\\&6Armatura in rame",
+    "quest.52A29269A23F85B3.quest_desc": [
+        "L'armatura \\&9Yeti richiede pelliccia di Alpha Yeti, e come avrete intuito, può essere ottenuta solo dagli Alpha Yeti. \\n\\nAlmeno, l'armatura rallenterà i vostri nemici, facendoli raffreddare!"
+    ],
+    "quest.52A29269A23F85B3.quest_subtitle": "20",
+    "quest.52A29269A23F85B3.title": "\\&9 Abbigliamento a tema Yeti",
+    "quest.52AFABA08674B6A8.quest_desc": [
+        "\\&3Armatura in Vibranio\\&r, ma con potenziamenti per gli incantesimi di stile Art Nouveau!"
+    ],
+    "quest.52AFABA08674B6A8.quest_subtitle": "32",
+    "quest.52AFABA08674B6A8.title": "\\&3Equipaggiamento per maghi di Vibranium",
+    "quest.52B61FB01D7C12A4.quest_desc": [
+        "Versione migliorata di \\&aInferium\\&r."
+    ],
+    "quest.52B61FB01D7C12A4.quest_subtitle": "23",
+    "quest.52B61FB01D7C12A4.title": "\\&2Armatura Prudentium",
+    "quest.5391385A75535EC8.quest_desc": [
+        "\\&e\\&lIncantesimi di Ferro\\&r \\&2Armatura Naturale\\&r!"
+    ],
+    "quest.5391385A75535EC8.quest_subtitle": "20",
+    "quest.5391385A75535EC8.title": "E l'abbigliamento, ormai malandato.",
+    "quest.5865951E4F81C91F.quest_desc": [
+        "\\&7Osmium\\&r + \\&6Glowstone\\&r = \\&eGlowstone raffinato\\&r!"
+    ],
+    "quest.5865951E4F81C91F.quest_subtitle": "20",
+    "quest.5865951E4F81C91F.title": "\\&Armatura in Pietra Luminosa Raffinata",
+    "quest.5A9C646718EE92C2.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_vibranium.png width:100 height:150 align:center}"
+    ],
+    "quest.5A9C646718EE92C2.title": "\\&Vibranio\\&",
+    "quest.5BA84F6282D9CAF1.quest_desc": [
+        "\\&6Armatura di Allthemodium\\&r, ma con potenziamenti per gli incantesimi di \\&e\\&lIncantesimi di Ferro\\&r!"
+    ],
+    "quest.5BA84F6282D9CAF1.quest_subtitle": "24",
+    "quest.5BA84F6282D9CAF1.title": "\\&6Completo per mago \"Allthemodium\"",
+    "quest.5C83D5CDD980FD9A.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_snout.png width:100 height:150 align:center}"
+    ],
+    "quest.5C83D5CDD980FD9A.quest_subtitle": "Resti del Bastion",
+    "quest.5C83D5CDD980FD9A.title": "Guarnizione per la protezione del naso",
+    "quest.5DDC15AAFD2CAF47.quest_desc": [
+        "«\\&bArmatura di Diamante\\&r» è il prossimo oggetto nella serie \\&l\\&2Vanilla\\&r, ed è anche qui che di solito iniziamo a applicare gli incantesimi!\n\nRaccomando l'armatura di protezione e le sue diverse varianti; non dobbiamo essere troppo esigenti con le versioni modificate."
+    ],
+    "quest.5DDC15AAFD2CAF47.quest_subtitle": "20",
+    "quest.5DDC15AAFD2CAF47.title": "\\&Armatura in diamante",
+    "quest.5E6D7C1D7957DD4D.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_forgotten.png width:100 height:150 align:center}"
+    ],
+    "quest.5E6D7C1D7957DD4D.title": "\\&aDimenticato\\&r",
+    "quest.5E7CCDE9229A646A.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_allthemodium.png width:100 height:150 align:center}"
+    ],
+    "quest.5E7CCDE9229A646A.title": "\\&6Allthemodium\\&r",
+    "quest.606775701551F3EE.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_carminite.png width:100 height:150 align:center}"
+    ],
+    "quest.606775701551F3EE.title": "\\&4Carminite",
+    "quest.62161BDE9AAAA4BF.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_wayfinder.png width:100 height:150 align:center}"
+    ],
+    "quest.62161BDE9AAAA4BF.quest_subtitle": "Resti di antichi sentieri",
+    "quest.62161BDE9AAAA4BF.title": "Accessori per l'armatura Wayfinder",
+    "quest.654F5C84114A31A1.quest_desc": [
+        "Molto semplice ed economico: \"Incantesimi di Ferro\" e \"Armatura\", utili nelle prime fasi del gioco!"
+    ],
+    "quest.654F5C84114A31A1.quest_subtitle": "20",
+    "quest.654F5C84114A31A1.title": "\\&4Abbigliamento da scarecrow (persona che allontana gli animali)",
+    "quest.65A529C8238E89F1.quest_desc": [
+        "Grazie a \\&5\\&lMekanism\\&r, ora possiamo creare armature con \\&9Lapis Lazuli\\&r! \\n\\nPerò, devo dire che è un po' deludente..."
+    ],
+    "quest.65A529C8238E89F1.quest_subtitle": "9",
+    "quest.65A529C8238E89F1.title": "\\&Armatura di lapis lazuli",
+    "quest.65E733AACBE62EDB.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_ward.png width:100 height:150 align:center}"
+    ],
+    "quest.65E733AACBE62EDB.quest_subtitle": "Città antiche",
+    "quest.65E733AACBE62EDB.title": "Raffinate finiture per le pareti delle stanze",
+    "quest.66B5A8D259E12BF5.quest_desc": [
+        "Quindi, mi state dicendo che ha le stesse statistiche del Netherite? E anche bonus alle abilità?\n\nPerché qualcuno vorrebbe il Netherite normale?"
+    ],
+    "quest.66B5A8D259E12BF5.quest_subtitle": "20",
+    "quest.66B5A8D259E12BF5.title": "\\&4Equipaggiamento da combattimento in Netherite",
+    "quest.66C21934DAFFAC7F.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_tide.png width:100 height:150 align:center}"
+    ],
+    "quest.66C21934DAFFAC7F.quest_subtitle": "Rimosso dalla lista dei Guardiani più anziani",
+    "quest.66C21934DAFFAC7F.title": "Rettilatura per l'armatura",
+    "quest.672AC964851832EB.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_swamp.png width:100 height:150 align:center}"
+    ],
+    "quest.672AC964851832EB.title": "\\&7Swamp Silver\\&r",
+    "quest.686EB173C94301C0.quest_desc": [
+        "\\&e\\&lIncantesimi di Ferro\\&r \\&bArmatura di Ghiaccio\\&r!"
+    ],
+    "quest.686EB173C94301C0.quest_subtitle": "20",
+    "quest.686EB173C94301C0.title": "\\&Abbigliamento del Cryomante",
+    "quest.68DABFFB6B3E1A57.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_eye.png width:100 height:150 align:center}"
+    ],
+    "quest.68DABFFB6B3E1A57.quest_subtitle": "Fortezza",
+    "quest.68DABFFB6B3E1A57.title": "Guarnizione per proteggere gli occhi",
+    "quest.690DB8BEF80617E5.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_utherium.png width:100 height:150 align:center}"
+    ],
+    "quest.690DB8BEF80617E5.title": "\\&Cutherium\\&",
+    "quest.6A21228B0511FF85.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_thermal.png width:100 height:150 align:center}"
+    ],
+    "quest.6A21228B0511FF85.title": "\\&6 Pietra termale\\&r",
+    "quest.6B671CB07D046BEC.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_diamond.png width:100 height:150 align:center}"
+    ],
+    "quest.6B671CB07D046BEC.title": "\\&bDiamond\\&r",
+    "quest.6C5F9D0D447EFB9C.quest_desc": [
+        "Secondo voi, l'unica opzione era l'armatura Vanilla?\n\nL'armatura \"Allthemodium\" offre più punti di difesa e maggiore resistenza, oltre a una maggiore protezione contro la magia e altri bonus, come potete leggere nella pagina della quest \"Allthemodium\"!\n\nA proposito, per crearla avrete bisogno di Netherite."
+    ],
+    "quest.6C5F9D0D447EFB9C.quest_subtitle": "24",
+    "quest.6C5F9D0D447EFB9C.title": "\\&6Armatura di Allthemodium",
+    "quest.6ED2CDD01659FD10.quest_desc": [
+        "Questo set di armatura ha lo stesso valore di difesa dell'armatura in ferro, ma offre una maggiore resistenza e una migliore capacità di resistere agli attacchi."
+    ],
+    "quest.6ED2CDD01659FD10.quest_subtitle": "15",
+    "quest.6ED2CDD01659FD10.title": "\\&7Armatura in ferro compressa",
+    "quest.6F335B4F3FD660E7.quest_desc": [
+        "Questi non sono facili da ottenere.\n\nAvrete bisogno di \"Lingotti di metallo\" (aKnightmetal), che si ottengono fondendo \"Gruppi di schegge di armatura\" (aArmor Shard Clusters).\n\nPotete ottenere \"Gruppi di schegge di armatura\" combinando 9 \"Schegge di armatura\" (aArmor Shards).\n\nLe \"Schegge di armatura\" vengono ottenute dai \"Goblin del Bosco Crepuscolare\" (aArmor Shards) e raramente dai \"Granchi di armatura\" (aArmor Shards)."
+    ],
+    "quest.6F335B4F3FD660E7.quest_subtitle": "20",
+    "quest.6F335B4F3FD660E7.title": "\\&Armatura in metallo, stile cavaliere",
+    "quest.6F76DA3BBAE8337B.quest_desc": [
+        "L'armatura più potente che si possa ottenere da \\&6\\&lAllthemodium\\&r e \\&5Unobtainium\\&r!\n\nOra, con resistenza al knockback al 100% e statistiche migliorate in ogni aspetto!\n\nInoltre, è necessaria l'armatura \\&3Vibranium\\&r per crearla."
+    ],
+    "quest.6F76DA3BBAE8337B.quest_subtitle": "40",
+    "quest.6F76DA3BBAE8337B.title": "\\&5Armatura in \"Unobtainium\"",
+    "quest.71C552678A0F649F.quest_desc": [
+        "\\&7Osmium\\&r si genera intorno al Deepslate e necessita solo di ferro per essere estratto, ma fornisce statistiche migliori rispetto all'\\&7Netherite\\&r!"
+    ],
+    "quest.71C552678A0F649F.quest_subtitle": "21",
+    "quest.71C552678A0F649F.title": "\\&7Armatura in osmium",
+    "quest.7279700A93E8630B.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_unobtainium.png width:100 height:150 align:center}"
+    ],
+    "quest.7279700A93E8630B.title": "\\&5Unobtainium\\&r",
+    "quest.729DCB919A92B735.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_bolt.png width:100 height:150 align:center}"
+    ],
+    "quest.729DCB919A92B735.quest_subtitle": "Corti d'indagine",
+    "quest.729DCB919A92B735.title": "Finitura per armatura Bolt",
+    "quest.72D578686C47B154.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_red.png width:100 height:150 align:center}"
+    ],
+    "quest.72D578686C47B154.title": "\\&5Cristallo Red Starlight\\&r",
+    "quest.72DDA413D73E3235.quest_desc": [
+        "Statistiche molto più elevate per tutte le armature di tipo \\&6Allthemodium\\&r, e \\&3Vibranium\\&r!\n\nPer crearle, avrete bisogno dell'armatura \\&6Allthemodium\\&r."
+    ],
+    "quest.72DDA413D73E3235.quest_subtitle": "32",
+    "quest.72DDA413D73E3235.title": "\\&Armatura in vibranio",
+    "quest.756628F4B7F79446.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_aramber.png width:100 height:150 align:center}"
+    ],
+    "quest.756628F4B7F79446.title": "\\&cAmaramber\\&r",
+    "quest.76CDF08465700AA2.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_silent.png width:100 height:150 align:center}"
+    ],
+    "quest.76CDF08465700AA2.quest_subtitle": "Città antiche",
+    "quest.76CDF08465700AA2.title": "Finitura per paraurti silenziosa",
+    "quest.788A7A2F1F438B64.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_cloggrum.png width:100 height:150 align:center}"
+    ],
+    "quest.788A7A2F1F438B64.title": "\\&7Cloggrum\\&r",
+    "quest.79D3055DE0EEA6B0.quest_desc": [
+        "\\&d\\&lArs Elementale \\&r \\&Armatura di Fuoco!"
+    ],
+    "quest.79D3055DE0EEA6B0.quest_subtitle": "15",
+    "quest.79D3055DE0EEA6B0.title": "E altri abiti da \"Pyromancer\"",
+    "quest.7ADE27F9398D97F1.quest_desc": [
+        "Questo non è diverso, perché lo state controllando?"
+    ],
+    "quest.7ADE27F9398D97F1.quest_subtitle": "10",
+    "quest.7ADE27F9398D97F1.title": "Bee Armor 2",
+    "quest.7B500E0577BDFF8F.quest_desc": [
+        "\\&6Bronzo\\&r è una combinazione di \\&6 rame\\&r e stagno.\n\nEsistono diverse modalità per creare l'alleaggio, ma non vi rivelerò il metodo corretto."
+    ],
+    "quest.7B500E0577BDFF8F.quest_subtitle": "18",
+    "quest.7B500E0577BDFF8F.title": "\\&6Armatura in bronzo",
+    "quest.7B76EC62E3F7E12C.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_aethersent.png width:100 height:150 align:center}"
+    ],
+    "quest.7B76EC62E3F7E12C.title": "\\&5Aethersent\\&r",
+    "quest.7C1D407CF67786F6.quest_desc": [
+        "\\&d\\&lArs Armatura elementale per l'aria!"
+    ],
+    "quest.7C1D407CF67786F6.quest_subtitle": "15",
+    "quest.7C1D407CF67786F6.title": "\\& Outfit per il personaggio Aethermancer",
+    "quest.7F11ABFB2E21B7E4.quest_desc": [
+        "L'armatura è una parte molto importante di \\&l\\&2Minecraft\\&r, in quanto ti protegge dai danni.\n\nDiversi pezzi di armatura forniscono diversi punti di difesa. Questi valori determinano l'efficacia della tua armatura: più sono alti, meglio è!\n\nLa maggior parte dell'armatura può essere modificata per aggiungere ulteriori dettagli, utilizzando pezzi di armatura con inserti decorativi e oggetti per la colorazione, per personalizzare l'aspetto!"
+    ],
+    "quest.7F11ABFB2E21B7E4.title": "\\&l\\&bArmatura di base\\&r",
+    "quest.7F8B6D5F360D985A.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_fiery.png width:100 height:150 align:center}"
+    ],
+    "quest.7F8B6D5F360D985A.title": "\\&Fiery",
+    "quest.7FABB77A60E7962C.quest_desc": [
+        "Aggiungendo \\&bDiamanti\\&r all'Obsidiana, possiamo ottenere polvere di Obsidiana raffinata!\n\nSuccessivamente, possiamo comprimere l'\\&7Osmio\\&r per ottenere la forma di lingotto.\n\nInfine, possiamo trasformare questi lingotti in armature con statistiche superiori anche a quelle dell'\\&6Armatura di Allthemodium\\&r!"
+    ],
+    "quest.7FABB77A60E7962C.quest_subtitle": "31",
+    "quest.7FABB77A60E7962C.title": "\\&5Armatura in ossidiana rifinita",
+    "quest.7FBC64E6408D8D7F.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_knightmetal.png width:100 height:150 align:center}"
+    ],
+    "quest.7FBC64E6408D8D7F.title": "\\&7Knightmetal",
+    "task.4BDF268861CA744F.title": "Tutti i diritti riservati",
+    "task.57895147416291FE.title": "Tutti i diritti riservati"
+}

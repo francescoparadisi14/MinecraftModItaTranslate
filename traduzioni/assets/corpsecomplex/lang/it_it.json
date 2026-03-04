@@ -1,5 +1,5 @@
 {
-    "effect.corpsecomplex.memento_mori": "Memento Mori",
-    "enchantment.corpsecomplex.soulbinding": "Legame anima",
-    "enchantment.corpsecomplex.soulbinding.desc": "Salva l'oggetto dal essere gettato nella morte."
+    "effect.corpsecomplex.memento_mori": "Ricorda che morirai",
+    "enchantment.corpsecomplex.soulbinding": "Legame spirituale",
+    "enchantment.corpsecomplex.soulbinding.desc": "Previene la caduta dell'oggetto al momento della morte."
 }

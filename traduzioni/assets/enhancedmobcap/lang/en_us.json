@@ -1,0 +1,12 @@
+{
+    "block.enhancedmobcap.example_block": "Example Block",
+    "enhancedmobcap.configuration.items": "Item List",
+    "enhancedmobcap.configuration.logDirtBlock": "Log Dirt Block",
+    "enhancedmobcap.configuration.magicNumber": "Magic Number",
+    "enhancedmobcap.configuration.magicNumberIntroduction": "Magic Number Text",
+    "enhancedmobcap.configuration.section.enhancedmobcap.common.toml": "Enhanced Mob Cap Configs",
+    "enhancedmobcap.configuration.section.enhancedmobcap.common.toml.title": "Enhanced Mob Cap Configs",
+    "enhancedmobcap.configuration.title": "Enhanced Mob Cap Configs",
+    "item.enhancedmobcap.example_item": "Example Item",
+    "itemGroup.enhancedmobcap": "Example Mod Tab"
+}

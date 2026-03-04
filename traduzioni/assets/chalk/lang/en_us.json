@@ -126,6 +126,8 @@
     "item.chalk.white_glow_chalk": "Glow Chalk",
     "item.chalk.yellow_chalk": "Yellow Chalk",
     "item.chalk.yellow_glow_chalk": "Yellow Glow Chalk",
+    "tag.item.chalk.chalks": "Chalks",
+    "tag.item.chalk.glowings": "Glowings",
     "text.autoconfig.Chalk.option.EmitParticles": "Emit Particles when placing chalk",
     "text.autoconfig.Chalk.title": "Chalk Config"
 }

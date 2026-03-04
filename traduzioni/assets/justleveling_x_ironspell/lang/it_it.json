@@ -1,0 +1,10 @@
+{
+    "passive.justleveling_x_ironspell.cast_passive": "Eco canto",
+    "passive.justleveling_x_ironspell.cast_passive.description": "Riduce i tempi di preparazione",
+    "passive.justleveling_x_ironspell.cooldown_passive": "Avvia rapidamente",
+    "passive.justleveling_x_ironspell.cooldown_passive.description": "Riduce il tempo di attesa.",
+    "passive.justleveling_x_ironspell.mana_passive": "Fonte di Mana",
+    "passive.justleveling_x_ironspell.mana_passive.description": "Aumenta il massimo mana",
+    "skill.justleveling_x_ironspell.kill_mana_skill": "Mana sanguigna",
+    "skill.justleveling_x_ironspell.kill_mana_skill.description": "Attiva quando la barra della mana è inferiore al 20% \/ 40% \/ 60%, applicando l'effetto della pozione \"Mana Instant II\/III\/IV\", con un tempo di ricarica di 200 tick."
+}

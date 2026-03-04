@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li):moneta: 23$(li)🌼 §2Primavera§r 🍂 §4Autunno$(li)Prezzo seme: :moneta: 2$(li)Rendimento: 1-3$(li)Tempo di crescita: 7 giorni"
+            "text": "patchouli: testo\n\n$(l)Statistiche$(l): monete: 23$(l) 🌼 Primavera 🍂 🌼 Autunno$(l) Prezzo del seme: 2 monete$(l) Resa: 1-3$(l) Tempo di crescita: 7 giorni"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Carrot Crop",
+            "name ": "Patchouli: coltivazione di più colture",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -24,8 +24,7 @@
                     "0": "minecraft:carrots[age=7]",
                     "F": "minecraft:farmland[moisture=7]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

@@ -1,6 +1,6 @@
 {
-    "name": "Duplicatore di cadute mob",
-    "description": "Il duplicatore di gettoni dei mostri può essere utilizzato per duplicare certi gettoni dei mostri!",
+    "name": "Duplicatore per Mob Drop",
+    "description": "Il dispositivo per la duplicazione di oggetti ottenuti dai mob può essere utilizzato per duplicare determinati oggetti!",
     "icon": "minecraft:ender_pearl",
     "sortnum": "6"
 }

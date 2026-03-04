@@ -1,13 +1,13 @@
 {
-    "item.theoneprobe.creativeprobe": "Lo scanner creativo",
-    "item.theoneprobe.diamond_helmet_probe": "Elmetto di diamante con sonde",
-    "item.theoneprobe.gold_helmet_probe": "Elmetto d'oro con sonde",
-    "item.theoneprobe.iron_helmet_probe": "Elmetto di ferro con sonde",
-    "item.theoneprobe.probe": "Lo scanner unico",
-    "item.theoneprobe.probe_goggles": "Lo scanner di The One Probe (Bauble)",
-    "item.theoneprobe.probenote": "Leggetemi, il The One Probe",
-    "key.categories.theoneprobe": "Le categorie di The One Probe",
-    "key.toggleLiquids": "Alternare visualizzazione liquidi",
-    "key.toggleVisible": "Impostazione di visibilità",
-    "theoneprobe.networking.failed": "The One Probe: il network fallito! Controlla i log per ulteriori informazioni."
+    "item.theoneprobe.creativeprobe": "La sonda creativa",
+    "item.theoneprobe.diamond_helmet_probe": "Casco con sonda in diamante",
+    "item.theoneprobe.gold_helmet_probe": "Casco dorato con sonda",
+    "item.theoneprobe.iron_helmet_probe": "Casco in ferro con sonda",
+    "item.theoneprobe.probe": "Il sensore unico",
+    "item.theoneprobe.probe_goggles": "Il \"probe\" unico (o oggetto di curiosità)",
+    "item.theoneprobe.probenote": "Leggi i risultati del test con il dispositivo \"One Probe\"",
+    "key.categories.theoneprobe": "Il sensore unico",
+    "key.toggleLiquids": "Attiva\/Disattiva visualizzazione in formato liquido",
+    "key.toggleVisible": "Attiva\/Disattiva",
+    "theoneprobe.networking.failed": "Il dispositivo di controllo: la connessione di rete non è riuscita! Consultare il registro per maggiori dettagli."
 }

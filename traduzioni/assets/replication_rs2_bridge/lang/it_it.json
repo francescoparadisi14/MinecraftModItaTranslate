@@ -1,0 +1,7 @@
+{
+    "block.replication_rs2_bridge.rep_rs2_bridge": "Replica RS2 Bridge",
+    "block.replication_rs2_bridge.rep_rs2_bridge.priority": "Priorità del modello",
+    "block.replication_rs2_bridge.rep_rs2_bridge.priority.help": "I modelli con priorità più alta vengono utilizzati per primi nella creazione di oggetti. Utilizzare questa opzione per favorire la creazione di oggetti rispetto alle ricette standard.",
+    "block.replication_rs2_bridge.rep_rs2_bridge.tooltip": "Collega le reti di replicazione a Refined Storage 2. Espone i modelli di replicazione come ricette di \"autocostruzione\" per RS2. Clicca con il tasto destro per impostare la priorità del modello.",
+    "itemGroup.replication_rs2_bridge": "Replica RS2 Bridge"
+}

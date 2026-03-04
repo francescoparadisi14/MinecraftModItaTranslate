@@ -1,16 +1,16 @@
 {
-    "name": "Albero di ciliegio 🌼",
+    "name": "Ciliegio 🌼",
     "category": "patchouli:trees",
     "icon": "pamhc2trees:cherry_sapling",
     "sortnum": -1,
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Stagione: Primavera $(li)Prezzo: 512 monete $(li)Dimensioni: 1x1 $(li)Cresce in:` $(l:tree_crops\/cherry)8 Cherry $(\/l) $(br2) $(l)Note$()$(li)Venduti da Maestro Coltivatore.`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🌼 Primavera§r $(li)Prezzo: 512$(li)Dimensione: 1x1$(li)Coltivabile su: 8x Ciliegio$(\/l)$(br2)$(l)Note$()$(li)Piantine acquistate da un coltivatore esperto."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Apple Tree",
+            "name ": "patchouli:multiblock\n\nTiglio",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {
@@ -77,8 +77,7 @@
                         "     "
                     ]
                 ]
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

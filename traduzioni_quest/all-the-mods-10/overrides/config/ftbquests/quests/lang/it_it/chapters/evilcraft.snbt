@@ -1,0 +1,152 @@
+{
+    "quest.0104C2E2E30B966B.quest_desc": [
+        "Il \"Cassetto del Sangue Colossale\" non funziona abbastanza velocemente? Avete troppi oggetti da riparare? Potete costruire un \"Cassetto del Sangue Colossale\" per risolvere questi problemi.\n\nPer costruirlo, avrete bisogno di 25 \"Pannelli di Non Morti Rinforzati\". Utilizzando questi, dovrete creare un cubo 3x3x3 vuoto, quindi posizionare un blocco \"Cassetto del Sangue Colossale\" per chiudere la struttura a più blocchi. Se eseguito correttamente, otterrete un enorme \"Cassetto del Sangue Colossale\" che potrete utilizzare. Alcuni potrebbero definirlo \"colossale\".\n\nQuesto permette anche di migliorarlo utilizzando i \"Promessi\".",
+        "{image:atm:textures\/questpics\/evilcraft\/bloodchest.png width:250 height:200 align:1}"
+    ],
+    "quest.0104C2E2E30B966B.quest_subtitle": "Cassa toracica (per adulti)",
+    "quest.0104C2E2E30B966B.title": "\\&Riparazioni ingenti",
+    "quest.026A71F98A52E3A5.quest_desc": [
+        "All'interno dei villaggi, si possono incontrare alcuni abitanti che, per caso, sono dei lupi mannari.\n\nUccidere queste creature vi darà della carne di lupo mannaro."
+    ],
+    "quest.066438B01655D866.quest_desc": [
+        "Anche se l'uso di questi \"spiriti\" può essere utile, possiamo anche catturarli per un utilizzo successivo. Sembra qualcosa di sinistro, vero?\\n\\nPer diventare un \"cacciatore di spiriti\", dovrai prima creare il \"Focus per la Vendetta\". Questo strumento viene utilizzato per \"congelare\" gli spiriti, quindi posizioni una \"Scatola di Chiusura Eterna\" vicino allo spirito. Questo attirerà lo spirito per un utilizzo successivo."
+    ],
+    "quest.066438B01655D866.title": "Catturare e conservare gli spiriti (o, in un contesto più ampio, i liquori).",
+    "quest.0B9F2B443813F43C.quest_desc": [
+        "Avete mai desiderato poter attaccare con una pala e causare danni? Potrei chiedere perché, ma questo è EvilCraft.\n\nBene, non cercate oltre! Questo strumento può essere utilizzato sia come arma, sia come strumento per rompere oggetti fragili!"
+    ],
+    "quest.0BB0DF36B079558F.quest_desc": [
+        "Quando il \"Calice Intrecciato\" viene inserito nel gioco, può iniettare sangue. Quando viene attivato nel tuo inventario, tenterà di riempire gli oggetti che utilizzano il \"sangue\" come risorsa.\n\nSe desideri creare altri calici utilizzando la stessa rete, utilizza semplicemente la ricetta di crafting che utilizza un calice invece di un lingotto d'oro."
+    ],
+    "quest.0BB0DF36B079558F.title": "\\&6Calice Intrecciato",
+    "quest.0EAF01037BB20BCB.quest_subtitle": "Invito i non morti",
+    "quest.10EF30B919EBA5C6.quest_desc": [
+        "È un piccone con il marchio \"Fortune V\". Questo è tutto.\n\nAssolutamente non evocherà spiriti durante l'estrazione."
+    ],
+    "quest.12F3A604329EC604.quest_subtitle": "Aumenta l'efficienza delle macchine",
+    "quest.199E7C89584C3DB1.quest_subtitle": "Elimina gli effetti negativi di pozioni dannose.",
+    "quest.1D794DE95C9FF6C7.quest_subtitle": "Aumentare la velocità delle macchine",
+    "quest.1DA0A87C471A38AC.quest_desc": [
+        "\\&cEvilCraft\\&r ha la sua struttura per la coltivazione di mostri!\\n\\nPer iniziare, avrete bisogno di almeno 33 \\&cMattoni di Sangue Oscuro\\&r. Con questi, costruiremo una struttura abbastanza robusta da contenere gli spiriti evocati.\\n\\nAvrete anche bisogno di uno spirito intrappolato in una \\&9Cassa di Chiusura Eterna\\&r. Questo determinerà i materiali che otterrete.\\n\\nPer costruire questa struttura, dovrete costruire una struttura cubica con spazio sufficiente per far apparire il mostro. La dimensione minima è di 3x4x3, che offre spazio sufficiente per far apparire mostri come i Zombies. Assicuratevi di posizionare una \\&9Fornace per Spiriti\\&r su una delle facce in modo da poter interagire con la struttura.\\n\\nSe desiderate far apparire mostri più grandi, dovrete costruire una struttura più grande.",
+        "{image:atm:textures\/questpics\/evilcraft\/evilcraft_spiritfurnace.png width:125 height:150 align:1}"
+    ],
+    "quest.1DA0A87C471A38AC.title": "\\&aMob Farms utilizza \\&cBlood",
+    "quest.1E3471513C75CC54.quest_desc": [
+        "Se lasci un \"Bacchetto di Sangue\" a terra per un tempo sufficiente o lo metti in una vasca per l'essiccazione, si asciugherà e diventerà \"Sangue Indurito\".\n\nOltre ad essere estremamente insalubre, abbiamo bisogno di ogni tipo di sangue per progredire, anche quello essiccato.\n\nQuesto tornerà a essere sangue sotto la pioggia, o rompendo il pezzo con strumenti comuni. Se lo rompi con \"pietra focaia e acciaio\", otterrai invece \"frammenti di sangue\"."
+    ],
+    "quest.1E3471513C75CC54.title": "Essiccazione... e sangue?",
+    "quest.1F8BC2A4CF055038.quest_subtitle": "Una perla di Ender riutilizzabile",
+    "quest.27E34DCC9C94F4FF.quest_desc": [
+        "Questo contenuto è stato creato da \\&6AllTheMods Staff\\&r, oppure da un \\&2contributore della community\\&r, per l'uso nei pacchetti di mod di AllTheMods.\\n\\nPoiché tutti i pacchetti di AllTheMods sono soggetti al copyright \\&eTutti i diritti riservati\\&r, questo contenuto non può essere utilizzato in altri pacchetti pubblici, a meno che non sia stato rilasciato dal team di AllTheMods, previa autorizzazione esplicita.\\n\\nQuesto contenuto è stato intenzionalmente nascosto. Se lo state visualizzando, siete in modalità di modifica."
+    ],
+    "quest.28BF66D1B8CD4D44.quest_desc": [
+        "\\&dBrooms\\&r possono essere creati utilizzando le parti di una spazzola. Ogni spazzola è composta da 3 parti: un fusto, un cappuccio e una spazzola.\n\nOgni parte può essere realizzata combinando la parte grezza con determinati oggetti per conferirle specifiche caratteristiche. Poiché ci sono troppi elementi da specificare, consultare la guida per maggiori informazioni!\n\nPer creare la propria spazzola, basta posizionare ogni parte sul tavolo di lavoro. La spazzola richiede sangue per funzionare correttamente."
+    ],
+    "quest.28BF66D1B8CD4D44.quest_subtitle": "Aspirapolvere",
+    "quest.28BF66D1B8CD4D44.title": "E altro ancora: Sangue e scope",
+    "quest.290FAB3DE8FD04E7.quest_desc": [
+        "Cliccare con il tasto destro caricherà l'arma per effettuare un attacco ad area (AoE) utilizzando il \"Sangue\". Cliccare con il tasto destro in posizione di agguato cambierà il livello di potenza.\n\nPiù alto è il livello di potenza, maggiore sarà il danno, ma a un costo maggiore di \"Sangue\".\nSarà necessario un'arma completamente carica per creare l'\"ATM Star\"."
+    ],
+    "quest.2CB69634F6A6E53E.quest_desc": [
+        "\\&0I templi oscuri\\&r sono difficili da perdere, soprattutto considerando che hanno un potente fascio di luce proveniente dal centro.\\n\\nAl centro del \\&9tempio oscuro\\&r si trova un \\&aAccumulatore ambientale\\&r.\\n\\nPossiamo utilizzarlo per creare diversi oggetti di cui avremo bisogno lungo il percorso, tra cui anche \\&dBomba Fulminante\\&r!"
+    ],
+    "quest.2CB69634F6A6E53E.title": "\\&l\\&0Templi Oscuri",
+    "quest.31FD9EA513E0D010.quest_desc": [
+        "\\&cEvilCraft\\&r è un mod basato su elementi considerati malvagi. Raccogli il sangue dei tuoi nemici e sfrutta il potere di una fonte antica di malvagità!\n\nTutto ciò che è presente in questo mod può essere trovato nel manuale, intitolato \"\\&aOrigini dell'Oscurità\\&r\".\n\nPer iniziare, procurati alcuni \"\\&9Gemme Oscure\\&r\"."
+    ],
+    "quest.31FD9EA513E0D010.title": "E benvenuti a \\&cEvilCraft\\&r!",
+    "quest.35FA55BE8DF49EE8.quest_desc": [
+        "Utilizzando il potere dello spirito di \\&9Vendetta\\&r, possiamo utilizzare il \\&dInfusore di Sangue\\&r per creare il \\&dGarmonbozia\\&r.\n\nQuesto è \\&dDolore\\&r e \\&dSofferenza\\&r materializzati. È anche il materiale di crafting di alta qualità per strumenti e oggetti potenti in EvilCraft."
+    ],
+    "quest.35FA55BE8DF49EE8.title": "\\&dGarmonbozia",
+    "quest.40888A2C17D8FFF6.quest_desc": [
+        "Utilizzando il \"Blood Infuser\", è possibile creare e coltivare \"Alberelli non morti\" che crescono in \"Alberi non morti\".\n\nI tronchi e le assi sono utili per creare diversi strumenti e oggetti all'interno di EvilCraft."
+    ],
+    "quest.40888A2C17D8FFF6.title": "Alberi non morti",
+    "quest.4978A9B616362CCE.title": "\\&aPosizione 2\\&r: Più \\&cSangue",
+    "quest.4D7B6842B9F53459.quest_desc": [
+        "Il \"Effortless Ring\" ti offre un aumento della velocità e un incremento dell'altezza del passo!"
+    ],
+    "quest.4DF7E2149F4BD8CC.quest_desc": [
+        "Per aggiungere la pozione desiderata, basta fare clic con il tasto destro del mouse mentre si tiene l'oggetto \"\\&2Primed Pendant\\&r\" per aprire il suo inventario."
+    ],
+    "quest.4DF7E2149F4BD8CC.quest_subtitle": "Applica gli effetti della pozione",
+    "quest.4EBED8ABC8C863A4.title": "\\&aPosizione 3\\&r: Ancora più \\&cSangue",
+    "quest.51B24CC5E9332C1E.quest_desc": [
+        "A volte, quando sconfiggi un gruppo di nemici, apparirà uno spirito di \"Vendetta\".\n\nSembra che la sua \"Essenza\" sia utile per creare oggetti più avanzati all'interno di EvilCraft.\n\nSe non trovi molti spiriti, crea un \"Anello di Vendetta\" e attivalo per attirare più spiriti durante le tue battaglie."
+    ],
+    "quest.51B24CC5E9332C1E.title": "La vendetta degli spiriti",
+    "quest.525517F1625A9BCB.quest_desc": [
+        "È successo che un gruppo di nemici ha colpito il pavimento con troppa forza, spargendo sangue ovunque? Oh no!\\n\\nPotete utilizzare un \"Pedestale Sanguinante\" per raccogliere quel prezioso sangue per un uso successivo!\\n\\nVolete automatizzare la raccolta del sangue? Posizionate una \"Piastra con Spine\" sopra il Pedestale, quindi fate in modo che un gruppo di nemici si appoggi su di essa."
+    ],
+    "quest.525517F1625A9BCB.title": "\\&aRaccolta di campioni di sangue",
+    "quest.56FB82DEB944F758.quest_desc": [
+        "Funziona in modo simile all'abilità \\&aMace\\&r, ma invece di infliggere danni diretti, causa un'esplosione ad area d'effetto."
+    ],
+    "quest.59036A2741E7A8AA.quest_desc": [
+        "Vuoi creare un uovo di Spawn dal spirito che hai imprigionato in quella scatola?\n\nL'oggetto \"\\&9Spirit Reanimator\\&r\" fa esattamente questo. Forniscilo con una grande quantità di \"\\&cSangue\\&r\" e un uovo, e ovviamente una \"\\&9Scatola di Chiusura Eterna\\&r\" contenente lo spirito da cui vuoi creare l'uovo di Spawn, e cercherà di crearne uno!\n\nNota: Alcune creature non possono essere utilizzate per creare uova di Spawn."
+    ],
+    "quest.59036A2741E7A8AA.title": "\\&aCreazione di uova di spawn",
+    "quest.5A8F4CA0F09F4842.quest_desc": [
+        "È necessario rimuovere gli effetti magici da un oggetto che avete trovato? Forse volete rimuovere una maledizione? Questo può essere fatto utilizzando il \"Purifier\".\n\nPer farlo, prima riempite il Purifier con almeno 3 litri di sangue, quindi mettete l'oggetto da cui volete rimuovere l'effetto magico.\n\nSuccessivamente, aggiungete il \"Blook\". Il Blook assorbirà uno degli effetti magici dall'oggetto, trasformandolo in un libro contenente l'effetto magico."
+    ],
+    "quest.5A8F4CA0F09F4842.title": "Rimozione di incantesimi e maledizioni",
+    "quest.600F66B13B29708B.quest_desc": [
+        "Che si tratti della carne di \\&aPlayers\\&r o di \\&dWerewolves\\&r, è possibile creare una \\&aFonte di cibo illimitata\\&r, sfruttando il potere di Garmonbozia!"
+    ],
+    "quest.62A262A706CFCAF0.quest_desc": [
+        "Non utilizteremo più le gemme \"Dark Power\" create con il sangue.\n\nInvece, possiamo utilizzare il dispositivo \"\\&9Blood Infuser\" per svolgere tutte le operazioni in modo automatico. Questo permette di infondere direttamente gli oggetti con il sangue!\n\nQuesti dispositivi possono anche essere potenziati utilizzando \"\\&6Promises\". Questo è uno dei principali strumenti utilizzati per il progresso."
+    ],
+    "quest.62A262A706CFCAF0.title": "\\&aIl dispositivo per l'infusione di sangue",
+    "quest.62CE0FFAF6352287.quest_desc": [
+        "Le macchine EvilCraft possono essere potenziate utilizzando le \"Promesse\". Ogni Promessa avrà effetti diversi, ma per iniziare, vorremo potenziare il nostro \"Infusore di Sangue\" per sbloccare più ricette.\\n\\nPer farlo, dobbiamo creare una \"Promessa di Tenacia: Livello 1\". In generale, questo aumenterà la capacità di archiviazione di una macchina. Nel caso dell'Infusore di Sangue, questo sbloccherà più ricette!"
+    ],
+    "quest.62CE0FFAF6352287.title": "\\&Aggiornamento delle macchine",
+    "quest.63AE4568375DD1BF.quest_desc": [
+        "Grazie a \\&dGarmonbozia\\&r, ora possiamo creare il nostro \"Accumulatore Ambientale\"."
+    ],
+    "quest.63AE4568375DD1BF.quest_subtitle": "Il tuo proprio accumulatore ambientale",
+    "quest.63AE4568375DD1BF.title": "Accumulatore ambientale con elevato potenziale di inquinamento",
+    "quest.64EC182B81BD8B86.quest_desc": [
+        "Per procedere, dovremo creare il nostro primo \"Gemma del Potere Oscuro\".\n\nPer farlo, dovrete raccogliere almeno 5 contenitori pieni di sangue utilizzando il vostro \"Estrattore di Sangue\". Una volta raccolto, create un'apertura di almeno 5 blocchi, e poi riempite con il sangue.\n\nUna volta creato il vostro pozzo di sangue, gettate dentro una \"Gemma Oscura\" per infonderla."
+    ],
+    "quest.64EC182B81BD8B86.title": "\\&dInfusione di gemme con \\&r \\&cSangue",
+    "quest.674E2690D66ECD6E.quest_desc": [
+        "Quando si verifica un temporale, l'inserimento del contenitore \"\\&aWeather Container\\&r\" nell'\"\\&aEnvironmental Accumulator\\&r\" permetterà di sfruttare l'energia del temporale.\n\nUtilizzando questo, sarà possibile creare oggetti che ci permetteranno di controllare i fulmini a nostro piacimento.\nPer creare l'\"\\&6ATM Star\\&r\", sarà necessario un \"Fulmine Bomb\"."
+    ],
+    "quest.674E2690D66ECD6E.title": "\\&a\"Sei stato colpito dal fulmine\"",
+    "quest.68318811CCC28320.quest_desc": [
+        "Combinando i frammenti di \"Sangue Indurito\" e le \"Gemma del Potere Oscuro\" si ottengono i \"Nuclei di Infusione di Sangue\".\n\nI \"Nuclei di Infusione di Sangue\" sono i componenti principali per la creazione di diverse macchine nel gioco EvilCraft."
+    ],
+    "quest.68318811CCC28320.title": "\\&Nuclei di infusione",
+    "quest.6CA1D90CCE17097D.quest_subtitle": "Un bastone per la scarica elettrica, da utilizzare una sola volta.",
+    "quest.74B0308336F5E017.quest_desc": [
+        "L'oggetto \"\\&cBlood Chest\\&r\" può essere utilizzato per riparare oggetti utilizzando \"\\&cBlood\\&r\".\n\nTuttavia, gli oggetti riparati potrebbero diventare \"\\&dCursed\\&r\"..."
+    ],
+    "quest.74B0308336F5E017.title": "Strumenti per la riparazione e altro (con sangue)",
+    "quest.753B3EF7CC94A6DD.quest_desc": [
+        "Si tratta di un oggetto unico proveniente da \\&aPlayers\\&r, incluso anche quando si muore!\\n\\nPotresti ottenerlo morendo ripetutamente, oppure partecipando a combattimenti PvP."
+    ],
+    "quest.75CF9EAB75C3907E.quest_desc": [
+        "Utilizzando la potenza dei \"Dark Tanks\", possiamo creare contenitori per liquidi.\n\nQuesti possono contenere 16 litri di qualsiasi liquido desiderato, ma probabilmente ne avrete bisogno per raccogliere tutto il \"sangue\" che andrete a raccogliere.\n\nSe avete bisogno di più spazio, potete combinarlo con un altro Dark Tank in una griglia di crafting."
+    ],
+    "quest.75CF9EAB75C3907E.title": "\\&aConservazione di liquidi",
+    "quest.77B5B23A2C01ED7E.quest_desc": [
+        "Il \"Kineticator\" funziona come un magnete, attirando oggetti ed esperienze.\nIl \"Kineticator inverso\" invece, respingerà oggetti ed esperienze."
+    ],
+    "quest.77B5B23A2C01ED7E.quest_subtitle": "Magneti",
+    "quest.77B5B23A2C01ED7E.title": "Kineticatori",
+    "quest.7A93F07BE2E6EC97.quest_desc": [
+        "Quando piove, utilizzare il contenitore \"\\&aWeather Container\\&r\" permetterà di sfruttare l'acqua piovana.\n\nIn questo modo, è possibile creare un \"\\&9Infinite Water Bucket\\&r\" o un \"\\&9Infinite Water Source Block\\&r\". Questi sono entrambi oggetti estremamente utili!\n\nInoltre, è possibile utilizzare questo metodo per eliminare la pioggia."
+    ],
+    "quest.7A93F07BE2E6EC97.title": "E fermate la pioggia!",
+    "quest.7B524DAD8A33BF85.quest_desc": [
+        "Hai bisogno di più sangue dai tuoi nemici? Certo che sì!\\n\\nLa \\&dVein Sword\\&r ti permette di raccogliere più sangue, oltre a più gocce grazie alla funzione di \"Looting\"!"
+    ],
+    "quest.7E79F52147B606F9.quest_desc": [
+        "Per iniziare a raccogliere il sangue, dobbiamo creare il \"\\&cEstrattore di Sangue\\&\\r\".\n\nFinché questo strumento è presente nel vostro inventario, l'uccisione di mostri raccoglierà il sangue nell'estrattore. \"\\&cSangue\\&\\r\" è una risorsa importante in EvilCraft.\n\nPer aumentare la capacità dell'estrattore, basta crearne un altro e poi combinarli in una griglia di crafting!\n\nQuesti strumenti possono anche essere utilizzati per estrarre il sangue da \"\\&cMacchie di Sangue\\&\\r\" che trovate (o create) sul terreno.\n\nInfine, una volta che avete accumulato una quantità sufficiente di sangue, potete semplicemente fare clic con il tasto destro del mouse sul terreno per posizionare un secchio di sangue."
+    ],
+    "quest.7E79F52147B606F9.title": "\\&aRaccolta di\\&r \\&cSangue",
+    "task.293B86458729C26E.title": "Tutti i diritti riservati",
+    "task.7DE03D4A420D1028.title": "Visita un tempio oscuro"
+}

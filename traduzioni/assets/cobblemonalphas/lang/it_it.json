@@ -1,4 +1,5 @@
 {
-    "block.cobblemonalphas.alpha_spawner": "Generatore alpha",
-    "subtitles.cobblemonalphas.alpha_nearby": "Rumore di alpha vicino"
+    "block.cobblemonalphas.alpha_spawner": "Alpha Spawner",
+    "subtitles.cobblemonalphas.alpha_nearby": "Rumore di fondo nelle vicinanze",
+    "subtitles.cobblemonalphas.wild_might": "Rumore assordante"
 }

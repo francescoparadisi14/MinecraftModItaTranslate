@@ -1,6 +1,6 @@
 {
-    "name": "Pets",
-    "description": "Animali di compagnia che donano regali unici al massimo affetto",
+    "name": "Animali domestici",
+    "description": "Animali da compagnia che offrono doni unici, esprimendo il loro affetto in modo speciale.",
     "icon": "candlelight:hearth",
     "category": "patchouli:pets"
 }

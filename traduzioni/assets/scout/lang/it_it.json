@@ -7,8 +7,8 @@
         "pouch": "Pouch",
         "upgraded_pouch": "Upgraded Pouch"
     },
-    "itemGroup.scout.itemgroup": "Raccolta scout",
+    "itemGroup.scout.itemgroup": "Scout (o, in italiano, \"ricercatore\" o \"osservatore\")",
     "lib39:enable_enhanced_lang": true,
-    "tooltip.scout.slots": "Tiene {} articoli",
-    "trinkets.slot.legs.pouch": "Borsa"
+    "tooltip.scout.slots": "Contiene oggetti all'interno di {}.",
+    "trinkets.slot.legs.pouch": "Sacca"
 }

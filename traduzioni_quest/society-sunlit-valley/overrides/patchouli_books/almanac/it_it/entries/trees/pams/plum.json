@@ -1,16 +1,16 @@
 {
-    "name": "Albero di susina 🍂",
+    "name": "Albero di prugne 🍂",
     "category": "patchouli:trees",
     "icon": "pamhc2trees:plum_sapling",
     "sortnum": -1,
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)🍂 §4Autunno§r $(li)Prezzo: :coin: 27,648$(li)Dimensioni: 1x1$(li)Cresce in:`$(l:tree_crops\/plum)8 x Pompelmi$(\/l)$(br2)$(l)Note$()$(li)Venduti da Maestro Coltivatore.`"
+            "text": "patchouli:text\n\n$(l)Statistiche$()$(li)🍂 Autunno§r $(li)Prezzo: 27,648 $(li)Dimensione: 1x1 $(li)Coltivabile: 8 alberi di prugne$(\/l)$(br2)$(l)Note$()$(li)Piantine acquistate da un coltivatore esperto."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Plum Tree",
+            "name ": "Patchouli: Multibloc\n\nCiliegio",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {
@@ -77,8 +77,7 @@
                         "     "
                     ]
                 ]
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

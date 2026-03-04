@@ -591,5 +591,6 @@
     "gui.xaero_parties_unally_caster_party_message": "%1$s has removed %2$s from the allies!",
     "gui.xaero_parties_unally_party_not_found": "Your allies don't include a party owned by %1$s!",
     "gui.xaero_parties_unally_target_party_message": "%1$s no longer considers %2$s an ally!",
+    "key.category.openpartiesandclaims.controls": "Open Parties and Claims",
     "option.openpartiesandclaims.permissions\/v1": "Open Parties and Claims"
 }

@@ -1,0 +1,60 @@
+{
+    "quest.011F787E620DE9E8.quest_desc": [
+        "Per impostare il filtro, è sufficiente cliccare sul mostro che non si desidera più vedere, utilizzando il filtro.\n\nOgni filtro può contenere solo un mostro, quindi se desiderate che non appaiano zombie, scheletri, ragni, creepers e endermen, avrete bisogno di 5 filtri.\n\nÈ possibile sostituire il mostro presente nel filtro semplicemente cliccando su un altro mostro."
+    ],
+    "quest.011F787E620DE9E8.quest_subtitle": "È stato escluso!",
+    "quest.034A9FBCA6D79BB6.quest_desc": [
+        "La torre di raccolta (Harvester Pylon) necessita di un \"aratro\" per funzionare.\n\n(Gli aratri che non possono tagliare continueranno a funzionare indefinitamente, mentre quelli che possono dovranno essere sostituiti)."
+    ],
+    "quest.09D18512037386C1.quest_desc": [
+        "Per aggiungere gli effetti delle pozioni, è necessario riempire un filtro per pozioni.\n\nPer farlo: applica un effetto di una pozione, quindi fai clic con il pulsante destro del mouse sul filtro per pozioni per rimuoverlo e aggiungerlo al filtro, ripetendo l'operazione finché il filtro non è pieno e attivo.\n\nQuesto metodo funziona anche con effetti di pozioni modificati o con quelli che normalmente non si possono ottenere tramite le pozioni, come \"Velocità\" o \"Resistenza\"."
+    ],
+    "quest.12ED1EE85E146A4B.quest_desc": [
+        "I piloni Harvester funzionano come una fattoria automatizzata molto semplice. Posizionate il pylon vicino o all'interno della fonte d'acqua, e questo raccoglierà automaticamente e ripianterà i raccolti che sono completamente cresciuti nell'area circostante.",
+        "",
+        "L'area può essere impostata su dimensioni di 3x3, 5x5, 7x7 o 9x9, attorno al pilone.",
+        "",
+        "Avrà bisogno di una zappa per coltivare le piante e di un inventario, simile a un baule, per conservare i raccolti. Una volta completate queste operazioni, se si attiva, inizierà la coltivazione!"
+    ],
+    "quest.18246A48C20B29D8.quest_desc": [
+        "Il Pylon di Infusione funziona in modo simile a un faro, ma è molto più efficiente ed economico! \\nQuando un filtro per pozioni viene utilizzato, continuerà a fornire l'effetto della pozione, indipendentemente dalla vostra posizione! \\nCome avete sentito, non ci sono più limiti di raggio per il Pylon di Infusione; ora, raggiungerà la vostra posizione ovunque si trovi."
+    ],
+    "quest.30B0240543253EFB.quest_desc": [
+        "Pylons è un mod fantastico creato dal nostro stesso \\&aMutant Gumdrop\\&r!\n\nNon lasciate che le dimensioni del mod vi facciano sottovalutarlo! Offre numerosi Pylons che possono essere utilizzati per molte cose, rendendo il gioco di Minecraft più semplice.\n\nPer iniziare, avrete bisogno di Blackstone levigato per crearli."
+    ],
+    "quest.30B0240543253EFB.title": "\\&Pylon",
+    "quest.32E52AD6EF194A60.quest_desc": [
+        "Il \"Pylon di Espulsione\" funziona come un modo per impedire agli altri giocatori di accedere al tuo prato.\n\nUna volta posizionato, impedirà a tutti i giocatori non presenti nella lista bianca di accedere a un determinato numero di \"Chunk\" (blocchi) attorno ad esso.\n\nLe dimensioni dei \"Chunk\" possono essere impostate tramite l'interfaccia utente, scegliendo tra blocchi di 1x1, 3x3 o 5x5.\n\nInoltre, non è possibile posizionarlo troppo vicino alla zona di spawn. Sappiamo cosa desiderano i troll e non lo faremo!\n\nPer aggiungere giocatori alla lista bianca, consultare la quest \"Player Filter\"."
+    ],
+    "quest.32E52AD6EF194A60.quest_subtitle": "Allontanatevi dal mio prato!",
+    "quest.403F76908A8A5661.quest_desc": [
+        "Il \"Pylon di Esclusione\" spinge i giocatori fuori dall'area, ma cosa succede se volete mantenere alcuni giocatori nelle vicinanze? In questo caso, avrete bisogno di un \"Filtro di Giocatori\".\n\nCliccate con il tasto destro su un giocatore per aggiungerlo al filtro, quindi aggiungetelo al \"Pylon\" per escludere gli altri!\n\nIn questo modo, mentre tutti gli altri saranno espulsi, il vostro amico no!\n\nInoltre, per impostazione predefinita, il proprietario del \"Pylon\" non verrà espulso."
+    ],
+    "quest.5B5FC539BD1F4A73.quest_desc": [
+        "Questo pilone è progettato principalmente per impedire la comparsa di mob.",
+        "",
+        "È possibile utilizzare i filtri Mob Filters per bloccare solo la comparsa di specifici mostri, oppure utilizzare il filtro Lifeless Filter per bloccare la comparsa di tutti i mostri!",
+        "",
+        "È possibile utilizzare più filtri Mob per bloccare ulteriori spawn. Inoltre, è possibile modificare l'area di lavoro per determinare la distanza in cui questi spawn vengono bloccati.",
+        "",
+        "Se utilizate il filtro \"Lifeless\", ignorerà tutte quelle impostazioni."
+    ],
+    "quest.5C2C29ECA67F9B49.quest_desc": [
+        "Grazie al filtro \"Lifeless\", non dovrai più preoccuparti della comparsa di eventuali mob all'interno di un'area di 25x25 blocchi.",
+        "",
+        "Questo non include, tuttavia, i \"spawn\" forzati, ovvero i mostri generati da generatori o addirittura da uova di spawn!",
+        "",
+        "Il raggio di 25x25 coprirà tutte le distanze in cui possono apparire i mostri, sia ostili che passivi.",
+        "",
+        "Questo include ogni livello Y, sia sopra che sotto il pilone, quindi non dovete più preoccuparvi di illuminare le grotte!",
+        "",
+        "Questo filtro non consente l'aggiunta di elementi consentiti (whitelist), e quindi impedirà la comparsa di qualsiasi mob."
+    ],
+    "quest.5C2C29ECA67F9B49.quest_subtitle": "Finalmente, pace e tranquillità.",
+    "quest.5E02AE661945306C.quest_desc": [
+        "Questo contenuto è stato creato da \\&6AllTheMods Staff\\&r, o da un \\&2contributore della community\\&r, per l'uso nei pacchetti mod di AllTheMods.\n\nPoiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti a \\&e\"Tutti i diritti riservati\", questo contenuto non può essere utilizzato in altri pacchetti pubblici, a meno che non sia stato rilasciato dal team \\&6AllTheMods\\&r.\n\nQuesto contenuto è intenzionalmente nascosto. Se lo state visualizzando, siete in modalità di modifica."
+    ],
+    "task.35320BB07FB39D05.title": "Tutti i diritti riservati",
+    "task.59DD89698DBAA215.title": "Tutti i diritti riservati",
+    "task.616C07AFBAFA7AE4.title": "Forbici"
+}

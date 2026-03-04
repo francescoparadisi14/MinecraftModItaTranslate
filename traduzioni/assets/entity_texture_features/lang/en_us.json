@@ -16,6 +16,7 @@
     "config.entity_features.per_entity_settings.light.tooltip": "Enables ETF to try and override the default light level of an entity. E.G. you can stop Blazes & Allays from being bright by setting this to 0.",
     "config.entity_features.per_entity_settings.restrict": "Property restrictions",
     "config.entity_features.per_entity_settings.restrict.tooltip": "Whether or not to allow or deny property\nrestrictions on a mob with a property that\nis restricted to its spawn conditions\ne.g. biomes",
+    "config.entity_features.search": "Search...",
     "config.entity_features.sounds_main": "Sounds",
     "config.entity_features.textures_main": "Textures",
     "config.entity_features.undo": "Undo changes",

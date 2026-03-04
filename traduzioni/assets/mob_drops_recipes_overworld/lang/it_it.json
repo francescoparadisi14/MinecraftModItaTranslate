@@ -1,7 +1,7 @@
 {
-    "item.mob_drops_recipes_overworld.overworld_essence_common": "Essenza comune del mondo superficiale",
-    "item.mob_drops_recipes_overworld.overworld_essence_epic": "Essenza epica del mondo superficie",
-    "item.mob_drops_recipes_overworld.overworld_essence_rare": "Essenza rara del mondo superficiale",
-    "item.mob_drops_recipes_overworld.overworld_essence_uncommon": "Essenza del mondo comune rara",
-    "itemGroup.mobDropsRecipesOverworld": "Ricette cadute da mostri: mondo superficie"
+    "item.mob_drops_recipes_overworld.overworld_essence_common": "Essenza Comune del Mondo",
+    "item.mob_drops_recipes_overworld.overworld_essence_epic": "Essenza Epica del Mondo",
+    "item.mob_drops_recipes_overworld.overworld_essence_rare": "Essenza rara del mondo sopra",
+    "item.mob_drops_recipes_overworld.overworld_essence_uncommon": "Essenza del mondo inusuale",
+    "itemGroup.mobDropsRecipesOverworld": "Ricette di Mob Drops: Mondo principale"
 }

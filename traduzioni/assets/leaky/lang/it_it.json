@@ -1,0 +1,4 @@
+{
+    "leaky.detect": "Rilevati: %d elementi impilati in %s alle coordinate:",
+    "leaky.removedItems": ". Elementi puliti automaticamente per prevenire rallentamenti."
+}

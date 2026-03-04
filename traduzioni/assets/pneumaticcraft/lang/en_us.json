@@ -2015,6 +2015,8 @@
     "pneumaticcraft.gui.tubeModule.advancedConfig.tooltip": "When this is checked, you can define the behaviour in a more advanced way.",
     "pneumaticcraft.gui.tubeModule.celsius": "°C",
     "pneumaticcraft.gui.tubeModule.channel": "This Channel",
+    "pneumaticcraft.gui.tubeModule.inline": "In line: %s",
+    "pneumaticcraft.gui.tubeModule.installed": "installed",
     "pneumaticcraft.gui.tubeModule.otherChannel": "Other Channel",
     "pneumaticcraft.gui.tubeModule.simpleConfig.higherThan": "Higher than",
     "pneumaticcraft.gui.tubeModule.simpleConfig.lowerThan": "Lower than",

@@ -1,0 +1,22 @@
+{
+    "elytra_physics.configuration.adaptive_gravity": "Gravità adattiva (influisce sulle mantelle)",
+    "elytra_physics.configuration.adaptive_gravity.tooltip": "Se la fisica delle ali e della vela è influenzata dalla gravità del giocatore.",
+    "elytra_physics.configuration.components.list_edit": "Modifica (% di elementi)",
+    "elytra_physics.configuration.elytra_lean_multiplier": "Elytra Lean Multiplier",
+    "elytra_physics.configuration.elytra_lean_multiplier.tooltip": "Influisce sulla distanza in cui si inclina l'ala posteriore.",
+    "elytra_physics.configuration.elytra_spread_multiplier": "Multiplicatore per la diffusione delle ali",
+    "elytra_physics.configuration.elytra_spread_multiplier.tooltip": "Influisce sulla misura in cui le ali si aprono durante il movimento.",
+    "elytra_physics.configuration.enabled": "Attivato",
+    "elytra_physics.configuration.enabled.tooltip": "Se le immagini sono abilitate.",
+    "elytra_physics.configuration.gravity_multiplier": "Moltiplicatore di gravità (influisce sui limiti massimi)",
+    "elytra_physics.configuration.gravity_multiplier.tooltip": "Influisce sulla forza di gravità applicata alle ali e alle membrane.",
+    "elytra_physics.configuration.inject_layers": "Strati personalizzati per le ali",
+    "elytra_physics.configuration.inject_layers.tooltip": "Percorsi delle mod per gli strati \"elytra\" (ali).",
+    "elytra_physics.configuration.prevent_snapping": "Prevenire la rottura (influisce sulle mantelle)",
+    "elytra_physics.configuration.prevent_snapping.tooltip": "Correggere il bug in cui le ali (e ora anche le ali) tornano alla posizione predefinita quando si viaggia ad alta velocità. Questa correzione sovrascrive un metodo e potrebbe causare conflitti con altri mod.\n[RICHIESTA DI RIAVVIO]",
+    "elytra_physics.configuration.title": "Configurazione fisica di Elytra",
+    "elytra_physics.narrator.config_list_add_entry": "Aggiungi elemento",
+    "elytra_physics.narrator.config_list_delete_entry": "Elimina: %s",
+    "elytra_physics.narrator.config_option": "Opzione di configurazione: %s",
+    "elytra_physics.narrator.config_option_with_value": "Opzione di configurazione: %s, Valore attuale: %s"
+}

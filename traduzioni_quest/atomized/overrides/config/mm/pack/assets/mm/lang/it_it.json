@@ -1,0 +1,15 @@
+{
+    "block.mm.alchem_fe_input": "Ingresso FE Port",
+    "block.mm.alchem_fe_output": "Uscita del porto FE",
+    "block.mm.alchem_item_input": "Input per oggetti multiblock di Alchemy",
+    "block.mm.alchem_item_output": "Uscita dell'oggetto \"Alchemy Multiblock\"",
+    "block.mm.cc_compressor_input": "Ingresso del compressore chimico",
+    "block.mm.cc_compressor_output": "Uscita del compressore chimico",
+    "block.mm.cc_target_input": "Porto di destinazione (non utilizzato)",
+    "block.mm.cc_target_output": "Porta di destinazione (non utilizzata)",
+    "block.mm.centrifuge_item_input": "Eliminare l'input centrifugato",
+    "block.mm.centrifuge_item_output": "Eliminare l'output del centrifugatore",
+    "block.mm.chem_compressor": "Compressore chimico",
+    "block.mm.chem_dissolver_centrifuge": "Smontare il centrifugatore",
+    "item.mm.blueprint": "Progetto, schema, plan"
+}

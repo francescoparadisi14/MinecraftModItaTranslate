@@ -1,16 +1,16 @@
 {
-    "emi.category.justenoughbreeding.allay_duplication": "Riproduzione allay",
+    "emi.category.justenoughbreeding.allay_duplication": "Eliminare la duplicazione",
     "emi.category.justenoughbreeding.breeding": "Allevamento",
-    "emi.category.justenoughbreeding.taming": "Domesticazione",
-    "emi.category.justenoughbreeding.temper": "Temperamento",
+    "emi.category.justenoughbreeding.taming": "Domare",
+    "emi.category.justenoughbreeding.temper": "Temperatura",
     "emi.category.justenoughbreeding.transformation": "Trasformazione",
-    "emi.category.justenoughbreeding.trusting": "fedele",
-    "modmenu.descriptionTranslation.justenoughbreeding": "Plugin che visualizza informazioni sulla riproduzione (JEI\/REI\/EMI)",
-    "translation.justenoughbreeding.allay_duplication": "Riproduzione allay",
-    "translation.justenoughbreeding.breeding": "Crescita",
+    "emi.category.justenoughbreeding.trusting": "Fiducia",
+    "modmenu.descriptionTranslation.justenoughbreeding": "Plugin JEI\/REI\/EMI che mostra le informazioni sulla riproduzione",
+    "translation.justenoughbreeding.allay_duplication": "Eliminare la duplicazione",
+    "translation.justenoughbreeding.breeding": "Allevamento",
     "translation.justenoughbreeding.tamed": "Domato",
-    "translation.justenoughbreeding.taming": "Domesticazione",
-    "translation.justenoughbreeding.temper": "Temperamento",
-    "translation.justenoughbreeding.transformation": "trasformazione",
-    "translation.justenoughbreeding.trusting": "fiducioso"
+    "translation.justenoughbreeding.taming": "Domare",
+    "translation.justenoughbreeding.temper": "Temperatura",
+    "translation.justenoughbreeding.transformation": "Trasformazione",
+    "translation.justenoughbreeding.trusting": "Fiducia"
 }

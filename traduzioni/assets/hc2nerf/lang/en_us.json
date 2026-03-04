@@ -1,0 +1,6 @@
+{
+    "hc2nerf.config.nerfgb": "Nerf game breaking foods",
+    "hc2nerf.config.nerfmc": "Nerf minecraft foods",
+    "hc2nerf.config.nerfpams": "Nerf food values",
+    "hc2nerf.config.nerfpams.tooltip": "Whether to change all of Pam's HarvestCraft 2 food values to 1.12.2 values"
+}

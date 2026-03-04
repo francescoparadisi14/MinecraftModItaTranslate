@@ -13,7 +13,7 @@
     "gui.itemcollectors.basic_collector.range.increase": "Aumenta Raggio",
     "itemcollectors.advanced_collector.info": "Può prendere oggetti fino a %d blocchi di distanza, gli oggetti possono essere filtrati",
     "itemcollectors.basic_collector.info": "Può prendere oggetti fino a %d blocchi di distanza",
-    "itemcollectors.basic_collector.info.range": "Raggio: %s blocchi",
-    "itemcollectors.block.advanced_collector": "Raccoglitore di oggetti avanzato",
-    "itemcollectors.block.basic_collector": "Raccoglitore di oggetti base"
+    "itemcollectors.basic_collector.info.range": "Intervallo: %s blocchi",
+    "itemcollectors.block.advanced_collector": "Collezionista di oggetti avanzato",
+    "itemcollectors.block.basic_collector": "Collezionista di oggetti di base"
 }

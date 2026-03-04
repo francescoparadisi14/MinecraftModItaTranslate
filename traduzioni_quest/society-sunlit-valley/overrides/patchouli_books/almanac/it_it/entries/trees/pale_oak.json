@@ -1,15 +1,15 @@
 {
-    "name": "Albero di quercia pallido 🌐",
+    "name": "Albero di quercia chiara",
     "category": "patchouli:trees",
     "icon": "vanillabackport:pale_oak_sapling",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)🌐 §5Tutto l'anno§r $(li)Dimensioni: 2x2`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🌐 Disponibile tutto l'anno§r $(li)Dimensioni: 2x2"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Pale Oak Tree",
+            "name ": "Patchouli: Multibloc\n\nAlbero di quercia chiara",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -99,8 +99,7 @@
                     "L": "vanillabackport:pale_oak_leaves",
                     "W": "vanillabackport:pale_oak_log[axis=y]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

@@ -1,0 +1,22 @@
+{
+    "block.dtquark.ancient_branch": "Albero antico",
+    "block.dtquark.azalea_branch": "Albero di azalea",
+    "block.dtquark.blossom_branch": "Albero di fiori",
+    "block.dtquark.glow_shroom_branch": "Champignon luminoso",
+    "item.dtquark.ancient_seed": "Semi antichi",
+    "item.dtquark.fiery_blossom_seed": "Pozzo di fiori incandescente",
+    "item.dtquark.frosty_blossom_seed": "Il frutteto di Frosty Blossom",
+    "item.dtquark.glow_shroom_seed": "Cappello di fungo luminoso",
+    "item.dtquark.serene_blossom_seed": "Sereno Giardino di Fiori",
+    "item.dtquark.sunny_blossom_seed": "Sunny Blossom Pit",
+    "item.dtquark.sweet_blossom_seed": "Pozzo di fiori dolci",
+    "item.dtquark.warm_blossom_seed": "Giacca calda con cappuccio",
+    "species.dtquark.ancient": "Antico",
+    "species.dtquark.fiery_blossom": "Ardente",
+    "species.dtquark.frosty_blossom": "Freddo",
+    "species.dtquark.glow_shroom": "Champignon luminoso",
+    "species.dtquark.serene_blossom": "Tranquillo, sereno",
+    "species.dtquark.sunny_blossom": "Soleggiato",
+    "species.dtquark.sweet_blossom": "Dolce",
+    "species.dtquark.warm_blossom": "Caldo"
+}

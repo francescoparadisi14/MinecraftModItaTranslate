@@ -1,5 +1,5 @@
 {
-    "ftbpmapi.generic.mods": "Moduli (%s)",
+    "ftbpmapi.generic.mods": "Modifiche (%s)",
     "ftbpmapi.tooltip.support_discord": "Hai bisogno di aiuto? Unisciti al nostro server Discord!",
-    "ftbpmapi.tooltip.support_github": "Ha trovato un bug? Segnalarlo su GitHub!"
+    "ftbpmapi.tooltip.support_github": "Hai trovato un errore? Segnalalo su GitHub!"
 }

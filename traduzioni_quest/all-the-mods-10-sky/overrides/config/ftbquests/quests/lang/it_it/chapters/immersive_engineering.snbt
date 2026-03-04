@@ -1,0 +1,683 @@
+{
+    "quest.007A11C49E06F15F.quest_desc": [
+        "Questi possono essere creati.\n\nIl \"Blueprint per il Componente di Fabbricazione\" è uno dei blueprint più importanti.\n\nViene utilizzato per aiutare l' \"Officina dell'Ingegnere\" a creare piccoli componenti meccanici a un costo inferiore rispetto alle tavole di fabbricazione.\n\nPuò anche essere utilizzato per creare oggetti unici come lampadine e circuiti!"
+    ],
+    "quest.007A11C49E06F15F.title": "\\&9 Progettazione di componenti",
+    "quest.04DD3F761C210822.quest_desc": [
+        "Il nostro metodo molto semplice (e rudimentale) per produrre acciaio è l'uso di un forno a fusione rudimentale.\n\nDovrete fornirgli un lingotto di ferro e utilizzare o carbone o coke.\n\nOgni lingotto di acciaio richiede 60 secondi per essere prodotto. Il carbone fornisce 15 secondi, mentre il coke fornisce l'intero periodo di 60 secondi. Questi possono anche essere utilizzati in forma di blocchi.\n\nOltre a questo, otteniamo anche lo scoria... che è praticamente inutile.",
+        "{@pagebreak}",
+        "Questo è un altro cubo 3x3x3, questa volta con il marchio \"\\&cBlast Bricks\".",
+        "{image:atm:textures\/questpics\/immersive\/immersive_crude1.png width:100 height:100 align:center}",
+        "{image:atm:textures\/questpics\/immersive\/immersive_crude2.png width:100 height:100 align:center}",
+        "{image:atm:textures\/questpics\/immersive\/immersive_crude3.png width:100 height:100 align:center}",
+        "Un'altra volta, quando dobbiamo colpire il blocco centrale anteriore, useremo il nostro affidabile \"Hammer\"!",
+        "{image:atm:textures\/questpics\/immersive\/immersive_crude.png width:100 height:100 align:center}"
+    ],
+    "quest.04DD3F761C210822.title": "\\&l\\&cFornace per la fusione del carbone",
+    "quest.063241B72BB3403E.quest_desc": [
+        "Lo scudo \"Heavy Plated Shield\" funziona esattamente come uno scudo normale: tenetelo nella mano non dominante e utilizzatelo per difendervi.\n\nLo scudo \"Heavy Plated Shield\" offre una maggiore resistenza e protegge da danni maggiori.\n\nInoltre, può essere potenziato! Questi potenziamenti possono essere aggiunti utilizzando l'\"Engineer's Workbench\".\n\nLo scudo può contenere 2 potenziamenti."
+    ],
+    "quest.063241B72BB3403E.title": "\\&8\\&lScudo in metallo pesante",
+    "quest.066B8A75B299AED8.quest_desc": [
+        "L'\\&9\\&lSqueezer\\&r è una macchina semplice che permette di estrarre liquidi da altri materiali.\n\nPossiamo utilizzare le due porte sul retro per introdurre i materiali. Successivamente, dovremo utilizzare la porta sul lato destro dei contenitori per estrarre i liquidi. La porta sottostante servirà per l'estrazione.\n\nQuesto strumento è principalmente progettato per estrarre l'olio da semi di piante come semi di grano o semi di canapa!\n\nAlcuni semi producono più olio, consultare la \\&6Guida\\&r per vedere quali.\n\nInoltre, dovremo utilizzare l'\\&9\\&lSqueezer\\&r per ottenere la polvere di \\&0Grafite di \\&0Coke\\&r da 8 \\&0Coke Dust\\&r.",
+        "{@pagebreak}",
+        "Esattamente lo stesso inizio del fermentatore \\&2\\&lFermenter\\&r.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_squeezer1.png width:100 height:100 align:center}",
+        "Proprio come il fermentatore \\&2\\&lFermenter\\&r, ma invece di utilizzare le pentole, si utilizzano i barili!",
+        "{image:atm:textures\/questpics\/immersive\/immersive_squeezer2.png width:100 height:100 align:center}",
+        "Sopra i tre barili, tra il blocco di ingegneria \"\\&eLight Engineering Block\\&r\" e il blocco \"\\&4Redstone Engineering Block\\&r\", posiziona un pistone. Sopra gli altri tre barili, posiziona il \"\\&8Steel Fence\\&r\"!",
+        "{image:atm:textures\/questpics\/immersive\/immersive_squeezer3.png width:100 height:100 align:center}",
+        "Molto semplice. Clicca con il tasto destro del mouse sul \"Cilindro\" che si trova sotto il pistone.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_squeezer.png width:100 height:100 align:center}"
+    ],
+    "quest.066B8A75B299AED8.title": "\\&9\\&Spremiatore",
+    "quest.0A7B0D0B81E138DE.quest_desc": [
+        "Lo \"Scatola degli Ingegneri\" funziona come un contenitore separato.\n\nHa sezioni dedicate a: \"Alimenti\", dove è possibile inserire solo oggetti di questo tipo; \"Strumenti\", dove è possibile inserire strumenti o altri oggetti, ma non secchi; \"Cablaggio\", dove è possibile inserire cavi, connettori o relè. E \"Qualsiasi cosa\", senza distinzioni. Cerca di imitare la sezione \"Qualsiasi cosa\"!\n\nTuttavia, alcuni oggetti non possono essere inseriti, come secchi pieni di liquidi o zaini per accumulatori.\n\nPuoi utilizzare il tasto destro per posizionare la \"Scatola degli Ingegneri\" e utilizzarla come un cassetto, quindi puoi anche prelevarla."
+    ],
+    "quest.0A7B0D0B81E138DE.title": "\\&Strumenti per l'ingegnere",
+    "quest.0ACC0092A8F722C6.quest_desc": [
+        "La maggior parte delle macchine in \\&8\\&lIE\\&r richiede energia per funzionare, e i cavi sono il modo in cui la trasferiamo!\n\nI cavi vengono collegati facendo clic con il tasto destro su una parte utilizzando il \"Coil per cavi\", quindi facendo di nuovo clic con il tasto destro sulla seconda parte con lo stesso \"Coil\". Il percorso non può essere ostruito, altrimenti non si collegheranno.\n\nPer raccogliere i cavi, possiamo rompere ciò a cui sono collegati, oppure utilizzare i nostri \"Taglierini per cavi\"!\n\nI diversi livelli dei cavi influenzano la quantità di energia che trasferiscono, con il livello \"HV\" che trasferisce la maggiore quantità."
+    ],
+    "quest.0ACC0092A8F722C6.title": "E altri cavi a spirale",
+    "quest.0AE6AD813928DE4F.quest_desc": [
+        "L'elemento di riscaldamento esterno può essere utilizzato con i forni, come quelli a \\&2\\&lVaniglia\\&r, ma non con il \\&c\\&lForno a fusione rudimentale\\&r!\n\nPrende l'energia dal fondo e la utilizza per il riscaldamento.\n\nIl calore viene rilasciato dai lati rimanenti, verso i blocchi adiacenti.\n\nTecnicamente, viene utilizzato per il \\&4\\&lForno a fusione migliorato\\&r, attraverso la creazione dei pre-riscaldatori, ma non lo considero!"
+    ],
+    "quest.0D212038C0A45E0B.quest_desc": [
+        "Le cartucce Casull sono le munizioni predefinite. Causano 5 danni a cuore, e basta!\n\nLe cartucce perforanti avranno una maggiore probabilità di ignorare i punti di armatura. Questo è ideale contro nemici come i Bulwark.\n\nLe cartucce a \"buckshot\" invece di sparare un singolo proiettile, spareranno più proiettili. Utilizzarle a distanza ravvicinata per ottenere i migliori effetti!\n\nLe cartucce d'argento agiranno come le cartucce Casull, ma infliggono danni maggiori ai nemici non morti: zombi e scheletri!"
+    ],
+    "quest.0D212038C0A45E0B.title": "Proiettili comuni",
+    "quest.0D2D1F99945BA209.quest_desc": [
+        "Si presume che questo oggetto, lo \"scudo pesante in metallo\", funzioni quando si esegue l'azione \"Double Tap S\"... ma è importante sottolineare che si tratta di una presunzione.\n\nUn promemoria: il gioco \"IE\" è ancora in fase beta! Lo sviluppo dei mod richiede molto tempo e impegno, quindi si prega di essere rispettosi."
+    ],
+    "quest.0F14270F0A718C01.quest_desc": [
+        "\\&cMagma\\&r- 1300 K\\n\\&cLava\\&r- 1300 K\\n\\&aUranio\\&r- 2000 K"
+    ],
+    "quest.0F14270F0A718C01.title": "E altri articoli caldi",
+    "quest.13471E64CDE49D27.quest_desc": [
+        "La \\&a\\&lRefinery\\&r preleverà 2 \\&bFluid\\&r e le combinerà e le affinerà in un unico \\&bFluid\\&r migliore!\n\nI 2 \\&bFluid\\&r possono essere introdotti tramite i Port (sinistro e destro). L'uscita del fluido sarà attraverso il Port anteriore.\n\nÈ possibile utilizzare i \\&bBuckets\\&r per depositare i \\&bFluid\\&r nei serbatoi! Non dimenticate di fare clic con il tasto destro sulla \\&a\\&lRefinery\\&r per aprire la sua interfaccia utente. Lì dovremo inserire un Catalizzatore per avviare la macchina.\nInoltre, sarà necessario aggiungere \\&cEnergy\\&r, che può essere fornito tramite il Port sul retro!",
+        "{@pagebreak}",
+        "Per iniziare, creare una serie di tubi per fluidi. Nel centro, posizionare un blocco di ingegneria (specificare il tipo, ad esempio \"blocco di ingegneria per l'illuminazione\") su un lato, e un blocco di ingegneria pesante sull'altro. Accanto al resto dei tubi per fluidi, posizionare la struttura in acciaio.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_refinery1.png width:150 height:100 align:center}",
+        "Aggiungete altri blocchi di ingegneria accanto a quelli precedenti. Accanto al blocco di ingegneria \"\\&7Heavy Engineering Block\\&r\", saltate un blocco e posizionate un blocco di ingegneria \"\\&4Redstone Engineering Block\\&r\". Accanto al blocco di ingegneria \"\\&eLight Engineering Block\\&r\", posizionate 2 blocchi di \"Foglio di ferro \"\\&7Iron Sheetmetal\\&r\" di 2x2.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_refinery2.png width:150 height:100 align:center}",
+        "Ora, solo ancora qualche foglio di acciaio!",
+        "{image:atm:textures\/questpics\/immersive\/immersive_refinery3.png width:150 height:100 align:center}",
+        "In questo caso, dovremo fare clic con il tasto destro sull'elemento \"\\&7Heavy Engineering Block\\&r\" utilizzando lo strumento \"\\&6Hammer\\&r\".",
+        "{image:atm:textures\/questpics\/immersive\/immersive_refinery.png width:100 height:100 align:center}"
+    ],
+    "quest.13471E64CDE49D27.title": "\\&l\\&aRefinery",
+    "quest.135A16EDEEE27FA9.quest_desc": [
+        "Tutto ciò che riguarda i cavi e l'alimentazione in \\&8\\&lIE\\&r può essere suddiviso in diverse categorie: basso voltaggio (\\&6LV\\&r), medio voltaggio (\\&eMV\\&r) e alto voltaggio (\\&5HV\\&r).\n\nMaggiore è la tensione, maggiore è la quantità di energia che può essere trasportata e utilizzata. Alcune macchine richiedono tensioni più elevate per funzionare correttamente.\n\nPer trasferire diverse tensioni, sarà necessario utilizzare dei trasformatori. Consultate la loro missione!"
+    ],
+    "quest.135A16EDEEE27FA9.title": "Tensione a livelli",
+    "quest.13AF35A3108B02AF.quest_desc": [
+        "Dobbiamo andare velocemente!"
+    ],
+    "quest.1759A4E2AF0D2C88.quest_desc": [
+        "Immaginate il \"Blocco di Ingegneria \\&eLight\", e ora rendete tutti i suoi componenti molto più difficili da produrre!\n\nInnanzitutto, abbiamo bisogno di \"Electrum\", che è una lega di \"Oro\" e \"Argento\" prodotta nel \"Fornello di Lega\".\n\nSuccessivamente, abbiamo bisogno di 4 \"Lamiere di Acciaio\", proprio come le \"Lamiere di Ferro\", che devono essere combinate insieme.\n\nInfine, abbiamo i \"Componenti Meccanici in Acciaio\", che possono essere ottenuti in due modi: 1) 1 \"Lingotto di rame\" e 4 \"Lamiere di acciaio\" su un banco di lavoro, oppure 2) in modo più economico, utilizzando il \"Banco di lavoro dell'Ingegnere\"."
+    ],
+    "quest.1759A4E2AF0D2C88.title": "\\&7Blocco di ingegneria pesante",
+    "quest.18A9392BBCF5A871.quest_desc": [
+        "Come per ogni modulo di Machine, il \"Immersive Engineering\" necessita di un modo per spostare gli \\&eOggetti\\&r e i \\&bFluidi\\&r, e altro ancora!\n\nLa maggior parte delle macchine avrà degli \\&6Uscite\\&r e degli \\&9Entrate\\&r predefinite, ma queste possono essere configurate, proprio come con il \\&6Cacciavite dell'Ingegnere\\&r! Potresti anche aver bisogno del \\&6Martello dell'Ingegnere\\&r, ma questo è diverso."
+    ],
+    "quest.18A9392BBCF5A871.title": "\\&8\\&Logistica Immersiva",
+    "quest.1A13039D6302ADA5.quest_desc": [
+        "È possibile consultare le missioni precedenti per imparare a costruire alcuni di questi componenti: i componenti meccanici in \\&7acciaio\\&r all'interno dei \\&eblocchi di ingegneria\\&r e le \\&8lami di acciaio\\&r all'interno dei \\&7blocchi di ingegneria pesanti\\&r. Tuttavia, i \\&eblocchi di ingegneria\\&r con fili in \\&elettromo\\&r saranno un po' diversi...\n\nPer ottenere i fili in \\&elettromo\\&r, avremo bisogno di un lingotto di ferro e 8 fili in \\&elettromo\\&r. Per ottenere i fili in \\&elettromo\\&r, dovremo tagliare l' \\&elettromo\\&r con le cesoie per fili dell'ingegnere."
+    ],
+    "quest.1A13039D6302ADA5.title": "\\&6Blocco generatore",
+    "quest.1A3F053E0F693002.quest_desc": [
+        "Il sistema di lubrificazione avanzato agirà come un \"Unbreaking\" per le nostre testate di perforazione e lame seghe, riducendo l'usura durante l'uso."
+    ],
+    "quest.1A3F053E0F693002.quest_subtitle": "Smettetela di ridere del suo nome!",
+    "quest.1A6A383B4EF26B20.quest_desc": [
+        "La trivella \\&4\\& è disponibile in due varianti: una in ferro (\\&7) o una in acciaio (\\&8).\n\nLe trivelle in ferro (\\&7) possono essere utilizzate per scavare in un'area di 2x2, allo stesso livello di un piccone in ferro (\\&7). Causano 6 danni e hanno una durata inferiore rispetto a...\n\nLe trivelle in acciaio (\\&8) possono essere utilizzate per scavare in un'area di 3x3, allo stesso livello di un piccone in diamante (\\&b). Causano 7 danni e hanno una maggiore durata!"
+    ],
+    "quest.1A6A383B4EF26B20.title": "\\&8Capisaldi",
+    "quest.1A8F2408970BFCCF.quest_desc": [
+        "L'elettrolito è una lega composta da oro e argento.\n\nCome si può intuire dal nome, viene utilizzato in moltissime applicazioni legate all'elettricità, come cavi, connettori, trasformatori, ecc."
+    ],
+    "quest.1A8F2408970BFCCF.title": "\\&Lingotto in lega di elettro",
+    "quest.1BF02D43986ABB03.quest_desc": [
+        "I nastri possono essere realizzati in diverse forme e dimensioni, e possono essere utilizzati per diversi scopi.\n\nInnanzitutto, tutti i nastri possono essere realizzati con una struttura in acciaio per fornire loro una protezione. I nastri protetti impediranno ai giocatori di raccogliere oggetti mentre sono su di essi.\n\nLa prima e più semplice versione del nastro è il nastro verticale. Semplicemente, sposta gli oggetti verso l'alto!\n\nI nastri di divisione dividono la direzione in cui gli oggetti si muovono. Ogni oggetto si muoverà in una direzione diversa: 1 a sinistra, 1 a destra, 1 a sinistra, 1 a destra.\n\nI nastri di scarico scaricano gli oggetti in un inventario sottostante, oppure, se c'è spazio disponibile, semplicemente scaricano gli oggetti. Questi possono essere configurati con la pietra rossa per impedire lo scarico degli oggetti.\n\nL'ultimo tipo di nastro è il nastro di estrazione, che preleva automaticamente gli oggetti dagli inventari e li distribuisce sul nastro. Questi possono anche essere utilizzati con alcune macchine!"
+    ],
+    "quest.1BF02D43986ABB03.title": "Tipi di cinture",
+    "quest.1C76E244AE3582E6.quest_desc": [
+        "A differenza della maggior parte delle macchine, l'\\&5\\&lAssembler\\&r funziona principalmente tramite la sua interfaccia grafica.\n\nCliccare con il tasto destro sulla macchina e impostare 3 ricette, inserendole nelle griglie situate nella parte superiore dello schermo. L'ordine in cui sono inserite determinerà l'ordine di esecuzione per dare priorità.\n\nÈ possibile inserire \\&eOggetti\\&r tramite le \\&eCinture\\&r, e questi verranno prodotti dalle \\&aCinture\\&r. È inoltre possibile inserire \\&bLiquidi\\&r, che verranno utilizzati per riempire \\&bSecchi\\&r o \\&bContenitori\\&r utilizzati nella fabbricazione!\n\nInoltre, sarà necessario alimentarla con \\&cEnergia\\&r proveniente dall'alto.",
+        "{@pagebreak}",
+        "Posiziona 2 linee parallele composte da elementi di scaffalatura in acciaio da 3x8, con uno spazio tra di esse. Al centro, posiziona un elemento di \"Light Engineering\", e 4 elementi di \"Redstone Engineering\" attorno ad esso.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_assembler1.png width:100 height:100 align:center}",
+        "Sul lato, posizionate i blocchi di \\&4Ingegneria Redstone\\&r e le \\&7Lastre di Ferro\\&r. Successivamente, sopra il blocco di \\&eIngegneria Redstone\\&r, ovviamente, avrete bisogno di un altro. Infine, posizionate le \\&eCinghie di trasporto\\&r che vanno e attraversano il blocco di \\&eIngegneria Redstone\\&r!",
+        "{image:atm:textures\/questpics\/immersive\/immersive_assemble2.png width:100 height:100 align:center}",
+        "Questo potrebbe creare confusione, quindi procedete con cautela: posizionate i pannelli in acciaio \"7Iron Sheetmetal Slabs\" sopra i pannelli in acciaio \"7Iron Sheetmetal\" precedentemente posizionati. Successivamente, posizionate un pannello in acciaio \"7Iron Sheetmetal\" tra i due.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_assembler3.png width:100 height:100 align:center}",
+        "Per costruire il nostro assemblatore, clicca con il tasto destro sul primo nastro trasportatore e usa il nostro fantastico martello!",
+        "{image:atm:textures\/questpics\/immersive\/immersive_assembler.png width:100 height:100 align:center}"
+    ],
+    "quest.1C76E244AE3582E6.title": "\\&5\\&lAssembler",
+    "quest.1D4E7F548431263A.quest_desc": [
+        "È senza dubbio il blocco più semplice da realizzare.\n\nCon il ferro e il \"Redstone\" (che si ottiene direttamente dal gioco base), l'unico elemento \"difficile\" è la \"Lastra di Ferro\"."
+    ],
+    "quest.1D4E7F548431263A.title": "\\&4 Blocco di ingegneria Redstone",
+    "quest.1F7DA060792D716A.quest_desc": [
+        "Questo strumento, il \\&d\\&lMixer\\&r, è esattamente come quelli che tua madre o tua nonna usano per mescolare uova, farina e zucchero per preparare dolci deliziosi!\n\nIl \\&d\\&lMixer\\&r mescolerà sia gli \\&eItems\\&r che i \\&bFluids\\&r. Per aggiungere i \\&bFluids\\&r, dovremo utilizzare le porte sul lato sinistro del \\&d\\&lMixer\\&r. Per aggiungere gli \\&eItems\\&r, dovremo utilizzare le porte sul retro.\n\nPer funzionare, avrà bisogno di \\&cEnergia\\&r, che dovrà essere fornita tramite la porta nella parte anteriore superiore del \\&d\\&lMixer\\&r.\n\nUna volta che ha completato la miscelazione, il risultato sarà disponibile tramite la porta nella parte anteriore della macchina!",
+        "{@pagebreak}",
+        "La prima strato del \\&d\\&lMixer\\&r è costruita come un simbolo Wi-Fi. Inizialmente, c'è il \\&eBlocco di illuminazione\\&r, seguito dai \\&bTubi in metallo\\&r e poi dallo \\&8Struttura in acciaio\\&r.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_mixer1.png width:100 height:100 align:center}",
+        "Sopra il nostro blocco di ingegneria \\&eLight Engineering Block\\&r, posizioneremo un altro blocco, e uno a sinistra del nuovo blocco. Sul lato destro, posizioneremo un blocco di ingegneria \\&4Redstone Engineering Block\\&r. Infine, posizioneremo una griglia 2x2 di \\&7Iron Sheetmetal\\&r sul retro della nostra macchina.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_mixer2.png width:100 height:100 align:center}",
+        "Oltre al terzo blocco di ingegneria di eLight, posizioneremo una singola recinzione in acciaio, e a destra di questa, troveremo un quarto blocco di ingegneria di eLight.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_mixer3.png width:100 height:100 align:center}",
+        "Per creare il \"Mixer\" (d\\&l), clicca con il tasto destro sul \"Foglio di Metallo\" (Iron Sheetmetal) tra il \"Blocco di Ingegneria della Luce\" (Light Engineering Block) e il \"Blocco di Ingegneria del Redstone\" (Redstone Engineering Block) utilizzando il \"Martello dell'Ingegnere\" (Engineer's Hammer)!",
+        "{image:atm:textures\/questpics\/immersive\/immersive_mixer.png width:100 height:100 align:center}"
+    ],
+    "quest.1F7DA060792D716A.title": "\\&l\\&dMixer",
+    "quest.1FA44E8FEE004AB4.quest_desc": [
+        "I cavi in canapa e i cavi in acciaio sono posizionati come i cavi normali sui connettori e sui relè, ma non conducono l'energia.\n\nInvece, sono destinati all'arredo o all'utilizzo del \"Skyhook\" dell'ingegnere!"
+    ],
+    "quest.1FA44E8FEE004AB4.title": "Sicuro per l'uso con il sistema Skyhook!",
+    "quest.2224AA108FC006F3.quest_desc": [
+        "Il Revolver Speedloader non è un aggiornamento, bensì un accessorio separato che serve a facilitare il processo.\n\nRiempi il caricatore con cartucce come quelle per il \\&d\\&lRevolver\\&r, ma ora, ogni volta che hai bisogno di ricaricare il \\&d\\&lRevolver\\&r, puoi semplicemente fare clic con il tasto destro per ricaricarlo istantaneamente!"
+    ],
+    "quest.2224AA108FC006F3.quest_subtitle": "Ho sparato 6 volte, o solo 5?",
+    "quest.2262AB9F934165D0.quest_desc": [
+        "Non mi interessa come l'abbia ottenuta, mi basta che tu lo ottenga!\n\n\"Immersive Engineering\" aggiunge moltissime nuove applicazioni all'acciaio, oltre a semplici costruzioni, quasi tutto richiederà l'acciaio!\n\nPrincipalmente strumenti, parti meccaniche e elementi di costruzione. Molti sono realizzati con piastre d'acciaio o con strutture temporanee.\n\nNe avrai bisogno in grandi quantità, ma il \"Crude Blast Furnace\" e il \"Alloy Kin\" non possono essere automatizzati, quindi potremmo aver bisogno di..."
+    ],
+    "quest.2262AB9F934165D0.title": "\\&8 Lingotto d'acciaio",
+    "quest.231E0C0A9B0C0509.quest_desc": [
+        "Questo oggetto può essere attaccato al tuo zaino e altri accessori.\n\nQuando lo zaino è indossato, gli oggetti nelle vicinanze verranno automaticamente aggiunti al tuo inventario!"
+    ],
+    "quest.23FDFA44A162023A.quest_desc": [
+        "La \\&6Workbank dell'ingegnere\\&r è un elemento essenziale necessario per molte attività e per effettuare miglioramenti.\n\nPossiamo utilizzarla insieme alle \\&9Blueprints\\&r per creare oggetti speciali che non possiamo creare altrove. Inserite le \\&9Blueprints\\&r nello slot sinistro e i nostri oggetti di \\&eCrafting\\&r negli slot a destra.\n\nOppure, possiamo inserire i nostri strumenti al suo interno per aggiungere loro degli aggiornamenti, come il revolver o il trapano da miniera!\n\nInoltre, quando aggiungete gli \\&eItems\\&r e le \\&9Blueprints\\&r, potrete visualizzarli direttamente sul \\&6Block\\&r, è molto utile!"
+    ],
+    "quest.23FDFA44A162023A.title": "\\&6L'area di lavoro dell'ingegnere",
+    "quest.251464B43353D4C6.quest_desc": [
+        "Il nostro amato \"Orto Automatico\"! Si tratta di un sistema agricolo automatizzato, e con questo, l'utilizzo è molto semplice!\n\nPer avviarlo, sarà necessario inserire \\&cEnergia\\&r da sinistra, destra o dall'alto.\nSuccessivamente, sarà necessario inserire \\&9Acqua\\&r dal retro (utilizzando un \\&9Lavandino\\&r).\nInfine, dovremo inserire i semi, il terreno e, facoltativamente, il fertilizzante, tramite l'inserimento di \\&eOggetto\\&r nella parte inferiore.\nSarà necessario utilizzare il terreno appropriato per i semi; per verificarlo, è sufficiente fare clic con il tasto destro sulla \"Orto\".\nUna volta completato, l'orto crescerà rapidamente e raccoglierà i raccolti, depositandoli nella parte anteriore della struttura.\n\nNote finali: manterrà i semi e il terreno originali e non li consumerà. Il terreno sarà trasformato in terreno, e i fertilizzanti saranno zolfo, scoria, nitrato e fertilizzante industriale."
+    ],
+    "quest.252A24CED69C1882.quest_desc": [
+        "Il generatore termo-elettrico, che chiamerò semplicemente \"Thermo\", è un dispositivo unico.\n\nDa solo, non produce energia. Dobbiamo posizionare blocchi o fluidi con temperature diverse su lati opposti del Thermo.\n\nMaggiore è la differenza di temperatura, maggiore è l'energia prodotta!"
+    ],
+    "quest.252A24CED69C1882.title": "Energia derivante dalla temperatura",
+    "quest.257C80468B080B3C.quest_desc": [
+        "L'Electromagnet è l'interpretazione di \\&8\\&lIE' di un contenitore di raccolta.\n\nIn effetti, sì! Non raccoglie gli oggetti, ma li sposta verso la superficie superiore dell'Electromagnet.\n\nQuesto può essere utilizzato per posizionarli su cinture o contenitori!\n\nTuttavia, richiede l'utilizzo di energia."
+    ],
+    "quest.27FA2DB7839172BB.quest_desc": [
+        "Per impostazione predefinita, il caricatore \\&c\\&lBackpack\\&r caricherà solo gli oggetti presenti nella tua mano e nell'armatura che indossi. Ma cosa succederebbe se volessimo caricare anche altri oggetti?\n\nIn tal caso, avremmo bisogno del caricatore! Collegandolo, tutti gli oggetti presenti nel tuo inventario che possono essere caricati, verranno caricati."
+    ],
+    "quest.288406DE6DA31BA6.quest_desc": [
+        "Molti materiali richiedono energia, soprattutto nell'ambito dell'elettronica. Per iniziare, avremo bisogno di alcuni \"Taglierini per fili\" da parte di un tecnico!\n\nQuesti possono essere utilizzati per tagliare delle piastre in \"fili\", che possono poi essere inseriti in \"bobine\", pronte per l'uso.\n\nSono anche utilizzati per rimuovere i \"fili\" dai \"connettori\"."
+    ],
+    "quest.288406DE6DA31BA6.title": "\\&8\\&Immersive Engineering\\&r Potenza!",
+    "quest.28847A536C38EEA0.quest_desc": [
+        "\\&cTransformers\\&r sono il modo per passare da \\&6LV\\&r a \\&eMV\\&r. Il piccolo \\&cConnector\\&r è \\&6LV\\&r e quello più grande è \\&eMV\\&r!\n\nSe desiderate passare da \\&eMV\\&r a \\&5HV\\&r, avremo bisogno di un \\&5HV Transformer\\&r. Funzionano allo stesso modo degli altri \\&cTransformer\\&r, ma il piccolo \\&cConnector\\&r è \\&eMV\\&r e quello più grande è \\&5HV\\&r!\n\nNo, non è possibile passare da \\&6LV\\&r a \\&5HV\\&r senza \\&eMV\\&r!"
+    ],
+    "quest.28847A536C38EEA0.quest_subtitle": "Regia di Michael Bay",
+    "quest.28847A536C38EEA0.title": "\\&cTransformers",
+    "quest.28E99A6E17E86709.quest_desc": [
+        "Il movimento e il trasporto di fluidi sono una parte fondamentale di qualsiasi sistema, pensate al petrolio di creosoto e all'olio vegetale!\n\nLe tubazioni per fluidi sono il nostro metodo principale per il trasporto di fluidi. Se desiderate una maggiore velocità, consultate le pompe per fluidi.\n\nLe tubazioni per fluidi, come i connettori per l'energia, determinano dove l'energia viene immessa e prelevata, a seconda di a cosa sono collegate. Alcune macchine richiedono segnali di \"Redstone\" per prelevare fluidi dalle tubazioni, come il \"Tank\"!\n\nPossiamo utilizzare un \"Hammer\" di un ingegnere per modificare a cosa sono collegate le tubazioni, oltre a utilizzare delle \"Steel Scaffolding\" per coprirle, oppure colorarle."
+    ],
+    "quest.28E99A6E17E86709.title": "Trasloco e fluidi",
+    "quest.29C9F8719DA63D8D.quest_desc": [
+        "Il \\&2\\&lBuzzsaw\\&r funziona in modo simile al \\&4\\&lMining Drill\\&r, ma è progettato specificamente per gli \\&2Alberi\\&r! \\n\\nRichiede \\&2Bio-Diesel\\&r come carburante, che non spiegherò come ottenere! \\n\\nE anche un tipo di \\&8Lama\\&r. Che può essere fissato tramite la posizione superiore del \\&6Banco da lavoro dell'ingegnere\\&r. \\n\\nSemplicemente, rompete i tronchi su un \\&2Albero\\&r e tutti i tronchi, foglie e nidi di uccelli cadranno insieme! Potete tenere premuto il tasto Shift per evitare di distruggere tutto ciò che è attaccato. \\n\\nIl \\&2\\&lBuzzsaw\\&r infligge anche 10 danni! Wow, perché usare una spada? Oh, sì, le \\&8Lame\\&r hanno una durata e richiedono \\&2Bio-Diesel\\&r. \\n\\nIl \\&2\\&lBuzzsaw\\&r può contenere 1 \\&8Lama\\&r o \\&8Disco\\&r e 2 aggiornamenti."
+    ],
+    "quest.29C9F8719DA63D8D.title": "\\&2\\&LBuzzsaw",
+    "quest.2A1BFB2E0F1F3312.quest_desc": [
+        "\\&dLa bacchetta di Ender infligge 10 danni e colpisce anche gli Endermen. \\n\\&5Le perle di Ender non colpiscono i mostri, ma invece ti teletrasportano a una distanza molto maggiore quando vengono lanciate. \\n\\&3La lancia agisce come una normale lancia, infliggendo 8 danni. \\n\\&cLe bacchette di Blaze infliggono 10 danni e incendiano i mostri!"
+    ],
+    "quest.2A1BFB2E0F1F3312.title": "\\&5\\&lMunizioni per arma a cannone di Minecraft",
+    "quest.2E89A03BA809634E.quest_desc": [
+        "Questi possono essere scambiati solo con i fabbri.\n\nI proiettili speciali sono quelli che hanno funzionalità uniche!\n\nSono necessari proiettili di tipo \"guidato\", \"esplosivo\" e \"fiammata\" per essere creati utilizzando questi materiali."
+    ],
+    "quest.2E89A03BA809634E.title": "\\&9 Progetti di armi specializzate",
+    "quest.2E9D1131DC21CC5B.quest_desc": [
+        "«Industrial Foregoing» ha un design elegante e futuristico, «Mekanism» ha un design più sobrio e moderno, mentre «Immersive Engineering» ha un aspetto molto più retrò!\n\nTutto è in tonalità di «marrone», «grigio» e «grigio scuro»!\n\nIl Mod inizia con il «martello dell'ingegnere» (Engineer's Hammer). Questo strumento può essere utilizzato per creare lastre, polvere, o semplicemente per costruire i nostri multiblocchi!\n\nA proposito, vi ho detto che creeremo molti di questi oggetti in questo Mod? Spero che vi piacciano!"
+    ],
+    "quest.2E9D1131DC21CC5B.title": "\\&8\\&Immersive Engineering",
+    "quest.2F19529214CA9559.quest_desc": [
+        "È simile a \"Thorns\", ma non causa danni, semplicemente disorienta gli attaccanti.\n\nÈ molto più efficace (e frustrante) per i giocatori, poiché semplicemente interrompe temporaneamente gli attacchi dei mostri."
+    ],
+    "quest.2F19529214CA9559.quest_subtitle": "Rapina?",
+    "quest.2F8D117F802FEAF0.quest_desc": [
+        "I commando sono le unità leggere.\nHanno 12 punti vita e nessuna armatura.\nLa loro arma è un revolver e uno scudo che impugnano con la mano non dominante.\nQuando muoiono, lasceranno cadere parti del revolver con statistiche diverse, simili a quelle dell'unità \"Apotheosis\"!"
+    ],
+    "quest.2F8D117F802FEAF0.title": "Operazione",
+    "quest.30EA16BB8C169F86.quest_desc": [
+        "Questo è una combinazione di rame e stagno! \\n\\nÈ ampiamente utilizzato nell'industrializzazione moderna. Tuttavia, nell'IE... non in grande quantità."
+    ],
+    "quest.30EA16BB8C169F86.title": "\\&6 Lingotto in bronzo",
+    "quest.31324A6F96CAC112.quest_desc": [
+        "Le pompe per fluidi non sono utilizzate solo dalle aziende di imbottigliamento, ma possono anche essere utilizzate per spostare i fluidi in modo più rapido!\n\nUtilizzando il \"martello dell'ingegnere\", possiamo configurare i lati della pompa per fluidi per avere ingressi e uscite.\n\nQuindi, possiamo alimentarla con \"Redstone\" o \"Energia\", dove l'energia permette di spostare i fluidi molto più velocemente rispetto al \"Redstone\"."
+    ],
+    "quest.31324A6F96CAC112.title": "\\&Pompa per fluidi",
+    "quest.320EE52EB022FAD3.quest_desc": [
+        "Questo è davvero interessante!\n\nLe uscite per i fluidi possono essere configurate per utilizzare i fluidi come \"fonti\", e quindi possiamo far sì che vengano posizionati come blocchi di origine accanto alle \"uscite\"!\n\nQuesto significa che possiamo automatizzare il posizionamento di acqua, lava, o praticamente qualsiasi tipo di fluido!"
+    ],
+    "quest.320EE52EB022FAD3.title": "\\&Uscita del fluido",
+    "quest.32384DE59539557D.quest_desc": [
+        "La \\&4\\&lCrusher\\&r è una macchina molto pericolosa e rumorosa.\n\nÈ possibile inserire \\&9oggetti\\&e (o mostri) nelle griglie superiori, e la macchina li \\&4\\&ltrasformerà in materiali ottenuti!\n\nQuesto può essere molto utile, soprattutto per trasformare le materie prime in polvere. Se utilizziamo blocchi di materie prime, otterremo più polvere rispetto a quanto farebbe il \\&6Martello\\&r, e alcuni possono persino produrre un tipo di polvere completamente nuovo!\n\nTutti i materiali ottenuti verranno espulsi dal blocco anteriore inferiore, automaticamente \\&6espulsi\\&r. Inoltre, sarà necessario fornire un input di \\&cenergia\\&r dal lato destro superiore.",
+        "{@pagebreak}",
+        "L'unità \\&4\\&lCrusher\\&r è piuttosto grande, quindi dovremo posizionare questa configurazione di \\&8Steel Scaffolding\\&r e \\&eLight Engineering Blocks\\&r. La direzione in cui sono orientate le \\&eLight Engineering Blocks\\&r è quella frontale!",
+        "{image:atm:textures\/questpics\/immersive\/immersive_crusher1.png width:100 height:150 align:center}",
+        "Oltre ai nostri 3 blocchi di ingegneria \"eLight\", aggiungeremo altri 3. Inoltre, posizioneremo un blocco di ingegneria \"Redstone\" e un blocco \"eLight\" sul lato sinistro. Successivamente, posizioneremo un altro blocco \"eLight\" al centro e lo circonderemo con recinzioni in acciaio.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_crusher2.png width:100 height:100 align:center}",
+        "Infine, posizioniamo semplicemente 9 Hopper sopra le recinzioni in acciaio e al centro!",
+        "{image:atm:textures\/questpics\/immersive\/immersive_crusher3.png width:100 height:100 align:center}",
+        "Dovrete colpire il centro della recinzione per creare il Multiblock.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_crusher.png width:100 height:100 align:center}"
+    ],
+    "quest.32384DE59539557D.title": "\\&l\\&4Frullatore",
+    "quest.33732EE8110A0911.quest_desc": [
+        "L'utente ha dimenticato che il \"Dev \\&8\\&lIE\\&r\" poteva anche essere utilizzato per l'estrazione mineraria, quindi, all'ultimo minuto, ha inserito il \"Rock Softening Acid\"."
+    ],
+    "quest.340F93695FFF8D76.quest_desc": [
+        "Di conseguenza, il \"Chemical Thrower \\&r\" diventerà più simile a un \"arma chimica\".\n\nL'autonomia sarà aumentata, ma la larghezza del getto sarà ridotta. Ciò significa che sarà più preciso!"
+    ],
+    "quest.341BB1353A1E45EA.quest_desc": [
+        "Le torrette saranno dotate di un sistema simile a un \"Revolver\" con un \"cervello\" informatico!\n\nAvranno bisogno di un \"Energia\" proveniente dal basso, e di un \"Segnale di Redstone\" per attivarlo. In alternativa, è possibile utilizzare un \"Cacciavite di un Ingegnere\" per mantenerlo sempre attivo.\n\nUtilizzano lo stesso tipo di munizioni di un \"Revolver\", che include proiettili speciali! È possibile inserire \"Proiettili\" e ottenere \"Caratteri\", oppure semplicemente rilasciarli premendo il pulsante \"Rilascia Carattere\".\n\nPrima di iniziare a sparare, dovremo impostare il suo bersaglio. Inizialmente, non attaccherà la persona che lo ha posizionato. Abbiamo anche una barra per aggiungere il nome di qualsiasi giocatore o creatura. Questo impedirà che attacchi!\n\nÈ automaticamente impostato per bloccare specifici bersagli. Se è bloccato, sparerà solo a ciò che è elencato. \"Animali\" significa \"creature passive\". \"Giocatori\" si riferisce solo ai giocatori. \"Neutrale\" si riferisce a qualsiasi creatura neutrale e villaggio. Non preoccupatevi, è stato progettato per sparare solo a creature ostili!"
+    ],
+    "quest.34D09336FA3E272A.quest_desc": [
+        "La torretta Chemthrower ha lo stesso sistema di mira della torretta da artiglieria, quindi consultate quella per maggiori informazioni!\n\nCome la torretta da artiglieria, anche la torretta Chemthrower necessita di \\&bFluids\\&r provenienti dai suoi porti. Tuttavia, sarà necessario anche introdurre \\&bFluids\\&r tramite tubi per contenerli e spararli. Non è possibile utilizzare \\&bBuckets\\&r per riempirla, ma solo \\&bPipes\\&r.\n\nLa torretta Chemthrower ha una capacità di 4.000 mB o 4 \\&bBuckets\\&r. È inoltre possibile premere un pulsante per accendere gli \\&bFluids\\&r lanciati. Questo accenderà gli \\&bFluids\\&r infiammabili!"
+    ],
+    "quest.35E399D88D2EDCB6.quest_desc": [
+        "Con questo aggiornamento, chiunque ti attacchi sarà: 1. momentaneamente disorientato, 2. ferito e 3. vedrà distrutte le sue proiettili.\n\nPenso che valga la pena investire in questo aggiornamento!"
+    ],
+    "quest.35E399D88D2EDCB6.quest_subtitle": "Conflitto?",
+    "quest.36EB83BB41A9E621.quest_desc": [
+        "Il \\&b\\&lTank\\&r è simile al \\&l\\&eSilo\\&r, ma è progettato per i \\&bFluid\\&r!\n\nPuò contenere solo un tipo di \\&bFluid\\&r, ma può contenere 512 secchi di quel \\&bFluid\\&r.\n\nÈ possibile inserire il \\&bFluid\\&r da entrambi i lati (superiore e inferiore), ma è possibile estrarlo solo dal lato inferiore.",
+        "{@pagebreak}",
+        "Il \\&b\\&lTank\\&r è costruito in modo simile al \\&e\\&lSilo\\&r, iniziando con i nostri recinzioni trattate e le singole lastre di acciaio.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_tank1.png width:125 height:100 align:center}",
+        "Ora costruiamo i nostri muri a forma di quadrato, realizzati con lastre di acciaio, sopra i nostri recinti, con un'altezza di 3 blocchi.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_tank2.png width:100 height:100 align:center}",
+        "{image:atm:textures\/questpics\/immersive\/immersive_tank3.png width:100 height:100 align:center}",
+        "{image:atm:textures\/questpics\/immersive\/immersive_tank4.png width:100 height:100 align:center}",
+        "Infine, completate con un pannello in acciaio zincato di dimensioni specifiche!",
+        "{image:atm:textures\/questpics\/immersive\/immersive_tank5.png width:100 height:100 align:center}",
+        "Cliccare con il tasto destro sullo stesso blocco, come indicato in \"\\&e\\&lSilo\\&r\", per creare il nostro \"\\&b\\&lTank\\&r\".",
+        "{image:atm:textures\/questpics\/immersive\/immersive_tank.png width:100 height:120 align:center}"
+    ],
+    "quest.36EB83BB41A9E621.title": "\\&b\\&lTank",
+    "quest.373668AE257A7A94.quest_desc": [
+        "I proiettili ad alta esplosività spareranno esplosivi contro i tuoi nemici, distruggendo tutto ciò che si trova nelle vicinanze, proprio come farebbe la TNT!\n\nI proiettili \"Dragon's Breath\" funzionano come i proiettili \"Buckshot\", ma ora i proiettili sono infuocati!!!!!\n\nI proiettili \"Phial\" offrono effetti simili a quelli di una pozione, a seconda della pozione utilizzata nella loro creazione.\n\nI proiettili \"Flare\" funzionano come i fuochi d'artificio in un arco.\n\nI proiettili \"Homing\" si adatteranno automaticamente al bersaglio più vicino a te... speriamo che sia un nemico pericoloso.\n\nI proiettili \"Wolfpack\" sono simili ai proiettili \"Buckshot\", ma ora i proiettili sono proiettili \"Homing\"!"
+    ],
+    "quest.373668AE257A7A94.title": "Proiettili specializzati",
+    "quest.38C98FCB6A2D4226.quest_desc": [
+        "La bobina Tesla in miniatura funzionerà in modo simile all'incantesimo \"Thorns\".\n\nChiunque ti colpisca mentre indossi lo zaino, verrà colpito\/e. Questo infliggerà danni e causerà un effetto."
+    ],
+    "quest.38F01BAEC74D5D68.quest_desc": [
+        "È uguale al primo preriscaldatore, volevo semplicemente che fosse simmetrico :D."
+    ],
+    "quest.39DAC0592300992A.quest_desc": [
+        "È possibile creare i modelli per la pressa metallica.\n\nIl \"Metal Press Multiblock\" automatizzerà la creazione di \"Metalli\" e \"Oggetti\".\n\nPer utilizzare la pressa, avremo bisogno di modelli.\n\nPer creare i modelli, avremo bisogno di questi \"Blueprints\"!"
+    ],
+    "quest.39DAC0592300992A.title": "\\&9 Progetti per stampi in metallo",
+    "quest.3A4A8EAA3022C7BA.quest_desc": [
+        "Le ruote idrauliche sono uno dei macchinari che possiamo utilizzare per il dinamo cinetica.\n\nSono molto più compatte, ma anche più costose, rispetto alla mulina a vento.\n\nPer utilizzarle, è necessario che l'acqua scorra sulla ruota idraulica. Più acqua scorre, più velocemente funzionerà. Assicurarsi semplicemente che l'acqua non scorra in due direzioni diverse!\n\nEssendo più compatte, possiamo utilizzare 3 ruote idrauliche su un'unica dinamo cinetica per ottenere ancora più energia."
+    ],
+    "quest.3DE14F16F3109229.quest_desc": [
+        "Combinando 8 assi di qualsiasi tipo di legno con 1 litro di olio di creosoto, otterremo legno trattato!\n\nIl legno trattato viene utilizzato in quasi tutti gli oggetti che possiamo creare, oltre che nella maggior parte delle semplici macchine.\n\nParticolarmente importanti sono le \\&6banconi da lavoro dell'ingegnere! Questi ci forniranno un'enorme quantità di nuove ricette."
+    ],
+    "quest.3DE14F16F3109229.title": "Legno trattato",
+    "quest.3E32450DBB7529AA.quest_desc": [
+        "\\&eItem Batcher\\&r funziona in modo simile alla coda di un parco divertimenti con montagne russe.\n\nLa montagna russa non parte finché tutti i posti non sono occupati! Allo stesso modo, \\&eBatcher\\&r non elabora \\&eItems\\&r finché non sono stati specificati i filtri e la quantità desiderata.\n\nPerfetto per attività come l'elaborazione di \\&5\\&lMekanism\\&r, che richiede quantità specifiche di \\&eItems\\&r, altrimenti si verificherebbe un collo di bottiglia."
+    ],
+    "quest.3E32450DBB7529AA.title": "\\&eItem Batcher",
+    "quest.3E89034E0CB8D687.quest_desc": [
+        "Le casse in legno fungono da barili, ma con una caratteristica speciale: possono essere aperte da qualsiasi lato!\n\nHanno 27 scomparti, ma possono essere chiusi premendo ripetutamente il tasto \"Shift\" insieme al \"martello dell'ingegnere\" (questo può essere fatto più volte). Ciò significa che possono essere distrutte, preservando gli oggetti al loro interno.\n\nÈ inoltre possibile modificare il testo sulla cassa per cambiarne il nome, proprio come farebbe con un martello da fabbro.\n\nLa cassa rinforzata funziona esattamente come la cassa normale, ma non può essere fatta esplodere."
+    ],
+    "quest.3E89034E0CB8D687.title": "Archiviazione di articoli",
+    "quest.3ED40CC40458087E.quest_desc": [
+        "Lo zaino \\&c\\&lAccumulator Backpack\\&r da solo non fa molto, avremo bisogno di inserire un \\&cAccumulator\\&r per ottenere dei risultati! Nessun \\&cAccumulator\\&r è giudicante!\n\nUna volta inserito un \\&cAccumulator\\&r nell'\\&6Engineer's Workbench\\&r, potrai ricaricarlo. Una volta ricaricato, fornirà \\&cEnergia\\&r agli oggetti nella tua mano e all'armatura che indossi.\n\nPuoi indossarlo nello slot per lo zaino nel Curios, nello slot per la corazza, oppure combinarlo con una corazza su un tavolo da lavoro.\n\nLo zaino può contenere 1 \\&cAccumulator\\&r e 3 aggiornamenti."
+    ],
+    "quest.3ED40CC40458087E.title": "Zaino per batterie",
+    "quest.3EDDF96EA5056D28.quest_desc": [
+        "E rame e nichel, combinati, formeranno il Constantan! Infine, questo materiale viene utilizzato molto spesso in IE (Integrated Circuit), in particolare in macchine o oggetti che utilizzano calore e metallo, come i generatori."
+    ],
+    "quest.3EDDF96EA5056D28.title": "\\&6 Lingotto in costante",
+    "quest.3EE95747CA6DFB1A.quest_desc": [
+        "Il \"Metal Press\" è il nostro strumento ideale per realizzare qualsiasi ricetta che richieda l'uso di metallo!\n\nÈ molto semplice: posizioniamo i nostri stampi sulla pressa, aggiungiamo dell'energia e poi distribuiamo i nostri oggetti sulle cinghie di trasporto.\n\nI nostri oggetti passeranno attraverso, verranno \"stampati\" e diventeranno un nuovo oggetto che continuerà a muoversi sulla cinghia!\n\nQuesto può essere utilizzato per creare cavi, piatti, aste e... fette di melone?",
+        "{@pagebreak}",
+        "Il primo strato è molto semplice, consiste solo in un blocco di acciaio (\"Steel Scaffolding\") e due blocchi di ingegneria in pietra rossa (\"Redstone Engineering Block\") su entrambi i lati.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_press1.png width:150 height:75 align:center}",
+        "Successivamente, posizioniamo un pistone, rivolto verso il basso, sopra il blocco di ingegneria \"Redstone\" e aggiungiamo due nastri trasportatori accanto ad esso.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_press2.png width:125 height:100 align:center}",
+        "Successivamente, posizioniamo un singolo blocco di ingegneria pesante (circa 7 tonnellate) sopra il pistone.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_press3.png width:100 height:100 align:center}",
+        "Infine, con il martello dell'ingegnere, clicchiamo con il tasto destro sul pistone!"
+    ],
+    "quest.3EE95747CA6DFB1A.title": "\\&l\\&7 Stampa in metallo",
+    "quest.407C2D00F22BD89D.quest_desc": [
+        "Questo aggiornamento permette di aggiungere altri 6 proiettili, portando il totale a 14."
+    ],
+    "quest.4104C5D003D4705A.quest_desc": [
+        "Un altro Multiblock che utilizza \"\\&eBelts\", e noto un modello. Innanzitutto, dobbiamo impostare un \"\\&9Blueprint\". Cliccare con il tasto destro sull' \"\\&6\\&lAutomated Workbench\" per aprire la sua interfaccia e posizionare un \"\\&9Blueprint\" nell'ultimo slot.\n\nSuccessivamente, possiamo far sì che gli \"\\&eItems\" passino attraverso gli \"\\&eBelts\" per essere utilizzati nelle ricette, se possibile.\n\nDopo di ciò, gli \"\\&eItems\" realizzati (e gli \"\\&eItems\" che sono stati accidentalmente posizionati sugli \"\\&eBelts\") verranno espulsi dagli \"\\&eBelts\".\n\nQuesto è utile per automatizzare i \"BULLETS\", i \"HOP GRAPHITE\" e i \"MECHANICAL COMPONENTS\".",
+        "{@pagebreak}",
+        "Inizieremo con la costruzione di queste strutture utilizzando i mattoni \"\\&8Scaffolding Steel\", in questo caso una linea diagonale. Nel piccolo angolo, utilizzeremo un mattone \"\\&7Heavy Engineering Block\". Nel più grande angolo, utilizzeremo 2 mattoni \"\\&eLight Engineering Blocks\" e un mattone \"\\&4Redstone Engineering Block\".",
+        "{image:atm:textures\/questpics\/immersive\/immersive_automated1.png width:100 height:100 align:center}",
+        "Successivamente, posizioneremo ulteriori elementi di \\&eLight Engineering\\&r e \\&7Heavy Engineering Blocks\\&r sopra quelli esistenti. Sopra l'elemento \\&4Redstone Engineering Block\\&r e la \\&8Steel Scaffolding\\&r, che si trovano a sinistra, posizioneremo lastre di legno trattato. Nelle aree rimanenti, posizioneremo le \\&eConveyor Belts\\&r nell'ordine indicato.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_automated2.png width:100 height:100 align:center}",
+        "Per attivare il nostro banco di lavoro automatizzato, colpisci il pannello di legno trattato con il martello dell'ingegnere!",
+        "{image:atm:textures\/questpics\/immersive\/immersive_automated.png width:100 height:100 align:center}"
+    ],
+    "quest.4104C5D003D4705A.title": "\\&l\\&6Banco di lavoro automatizzato",
+    "quest.41B99DBD03EB74FF.quest_desc": [
+        "Credetemi, il Multiblock non mente quando afferma di aver migliorato le prestazioni!\n\nQuesto modello può essere automatizzato per ricevere gli input (\\&9) dal lato superiore e gli output (\\&6) dai due slot frontali e posteriori.\n\nInoltre, possiamo aggiungere dei preriscaldatori sui lati sinistro e destro.\n\nTutto questo lo rende molto più veloce e, naturalmente, più efficiente!",
+        "{@pagebreak}",
+        "Infine, un approccio diverso! Inizierete con una base di mattoni rinforzati da 3x3x3 e 4.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_blast1.png width:100 height:100 align:center}",
+        "{image:atm:textures\/questpics\/immersive\/immersive_blast2.png width:100 height:100 align:center}",
+        "{image:atm:textures\/questpics\/immersive\/immersive_blast3.png width:100 height:100 align:center}",
+        "Quindi, posizionate un Hopper nella parte superiore del blocco centrale.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_blast4.png width:100 height:125 align:center}",
+        "Ora, cliccate con il tasto destro del mouse sul blocco centrale del secondo strato, utilizzando lo \"martello dell'ingegnere\".",
+        "{image:atm:textures\/questpics\/immersive\/immersive_blast.png width:100 height:150 align:center}"
+    ],
+    "quest.41B99DBD03EB74FF.title": "\\&l\\&4Fornace migliorata",
+    "quest.4295C863C9A81F28.quest_desc": [
+        "La bobina Tesla è un ottimo sistema di difesa per la casa, divertente ed efficiente dal punto di vista energetico!\n\nInnanzitutto, alimentatela tramite uno dei suoi porti. Quindi, potete attivare la bobina tramite un segnale di \\&4Redstone\\&r, oppure utilizzare un \\&6cacciavite da ingegnere\\&r per mantenerla sempre attiva!\n\nUna volta attivata, la bobina utilizzerà attivamente l'energia e, quando un mob si avvicina, lo atterrerà e lo danneggerà. Tuttavia, danneggerare i mob richiede più energia.\n\nÈ possibile utilizzare un \\&6cacciavite da ingegnere\\&r per impostare la bobina in modalità a basso consumo. Ciò ridurrà il consumo di energia, ma anche la portata e i danni."
+    ],
+    "quest.431C62A6F8ECB4EC.quest_desc": [
+        "\\&7Barra in alluminio - 10\n\\&7Barra in ferro - 16\n\\&8Barra in acciaio - 24\n\\&8Lima - 12\n\\&0Elettrodo in grafite - 30"
+    ],
+    "quest.431C62A6F8ECB4EC.title": "\\&5\\&lBalestra\\&r Munizioni da \\&8\\&lIE\\&r",
+    "quest.442B1A1900BADAFC.quest_desc": [
+        "Alcune macchine presenti nel modello \\&8\\&lIE\\&r non sono costituite da più blocchi, bensì da un singolo blocco.\n\nNon pensate che, essendo realizzate con un solo blocco, non siano importanti!"
+    ],
+    "quest.442B1A1900BADAFC.title": "Macchinari di piccole dimensioni",
+    "quest.452EF09F6CB4AD99.quest_desc": [
+        "\\&cRelè\\&r non collegano i cavi alle macchine, ma li collegano tra loro!\n\n\\&cRelè\\&r funzionano combinando diversi cavi in un unico punto, in modo da poter raccogliere tutta l'energia e inviarla ai connettori per tutte le uscite collegate.\n\nQuesto è utile quando si ha un singolo generatore di energia da utilizzare per alimentare più macchine."
+    ],
+    "quest.452EF09F6CB4AD99.title": "e altri relè",
+    "quest.458265FCD6B3068E.quest_desc": [
+        "Tutti hanno apprezzato le postazioni di creazione di \\&lTinker's Construct\\&r, e sembra che anche gli sviluppatori di \\&lIE\\&r lo abbiano fatto!\n\nLa \"Crafting Table\" di \\&lEngineer\\&r funzionerà come una normale postazione di creazione, con 18 slot aggiuntivi per lo stoccaggio, oltre a mantenere i tuoi oggetti nella griglia quando smetti di visualizzarli!\n\nCosa altro potresti desiderare!"
+    ],
+    "quest.458265FCD6B3068E.title": "\\& Tavolo di lavoro dell'ingegnere",
+    "quest.47656073894224AF.quest_desc": [
+        "Sì, è proprio come quelle dei grandi incroci!\n\nLa \\&lRailgun\\&r è un'arma speciale. Innanzitutto, utilizza munizioni speciali, non cartucce come quelle utilizzate da un revolver. Inoltre, utilizza \\&cEnergia\\&r e deve essere caricata prima di sparare.\n\nLe munizioni che utilizza sono \\&eOggetti\\&r dal tuo inventario: \\&7Alluminio\\&r, \\&7Ferro\\&r, e \\&8Barre di acciaio\\&r, \\&0Elettrodi di grafite\\&r, lame per seghe, End Pearl, trident, barre di Blaze e End Rod.\n\nPuò utilizzare qualsiasi oggetto presente nel tuo inventario per cambiare il tipo di proiettile. Per farlo, tenete premuto il tasto Shift e scorrete.\n\nSuccessivamente, ha bisogno di \\&cEnergia\\&r per sparare. Per caricarla, possiamo utilizzare qualsiasi \\&cCaricatore\\&r, incluso quello aggiunto da \\&8\\&lImmersive Engineering\\&r!\n\nUna volta che abbiamo tutto, tenete premuto il tasto destro del mouse finché la Railgun non raggiunge il livello 99, quindi rilasciate!\n\nGli aggiornamenti della \\&lRailgun\\&r sono: Ottica di precisione e dissipatori di calore.\n\nPuò contenere 2 aggiornamenti, quindi ovviamente non può utilizzare di più!"
+    ],
+    "quest.47656073894224AF.title": "\\&5\\&L, arma a cannone a propulsione elettromagnetica",
+    "quest.47E32A084CAA1512.quest_desc": [
+        "È possibile scambiarlo con un armaiolo o crearlo.\n\nLe armi non sono molto divertenti senza proiettili, quindi creiamene alcuni! Tuttavia, per crearle, avremo bisogno di questo \"progetto\"."
+    ],
+    "quest.47E32A084CAA1512.title": "\\&9Schema di Progetto Comune",
+    "quest.481735FE3164C8D5.quest_desc": [
+        "\\&bGhiaccio\\&r- 200 K \\n\\&bGhiaccio tritato\\&r- 240 K \\n\\&bGhiaccio\\&r- 260 K \\nNeve- 273 K \\n\\&9Acqua- 300"
+    ],
+    "quest.481735FE3164C8D5.title": "\\&Articoli freddi",
+    "quest.4AAB3899F530CC19.quest_desc": [
+        "Le scivoli possono raccogliere e rilasciare oggetti (e alcune entità) senza il rischio che questi scompaiano!\nInoltre, rilasciano gli oggetti piuttosto velocemente.\n\nÈ possibile utilizzare il \"martello dell'ingegnere\" (\\&6Engineer's Hammer\\&r) per curvare lo scivolo e lanciare gli oggetti su un \\&eBelt\\&r!"
+    ],
+    "quest.4AAB3899F530CC19.quest_subtitle": "Senza scale?",
+    "quest.4B42D962FE910CB3.quest_desc": [
+        "Aggiungendo questo effetto al vostro Bullets, i colpi infliggeranno agli \"Mobs\" che colpite l'effetto di \"Stun\"."
+    ],
+    "quest.4BA2F4AC2A08C294.quest_desc": [
+        "Cos'è? È semplicemente il macchinario più potente e costoso di \\&cImmersive Engineering\\&r. L'\\&cExcavatore\\&r!\n\nQuesto gigante sarà in grado di raccogliere automaticamente minerali e blocchi dal terreno.\n\nGli oggetti raccolti saranno \\&6Output\\&r provenienti da una porta sul retro. Se non ci sono contenitori adiacenti, rilascerà gli oggetti.\n\nSi tratta anche di una macchina estremamente \\&cEnergivora\\&r, quindi dovrete utilizzare le porte energetiche sul lato sinistro per alimentarla!",
+        "{@pagebreak}",
+        "Posiziona il blocco in acciaio.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_excavator1.png width:100 height:100 align:center}",
+        "Aggiungere 3 e 8 elementi in acciaio, come indicato, sopra l'elemento in acciaio e posizionare 2 elementi in acciaio alle estremità.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_excavator2.png width:175 height:100 align:center}",
+        "Successivamente, posizionare una struttura a forma di \"X\" (3x3) realizzata con materiali in acciaio (\"\\&8Steel Scaffolding\\&r\") sopra la struttura precedente (\"\\&8Scaffolding\\&r\"), e un'ulteriore struttura su ciascuna delle strutture in acciaio (\"\\&8Steel Blocks\\&r\"). Utilizzando i materiali in acciaio (\"\\&8Steel Sheetmetal\\&r\"), creare un anello attorno alla struttura precedente (\"\\&8Scaffolding\\&r\"), includendo un blocco per l'illuminazione (\"\\&eLight Engineering Block\\&r\") e un blocco per il radiatore (\"\\&8Radiator Block\\&r\").",
+        "{image:atm:textures\/questpics\/immersive\/immersive_excavator3.png width:150 height:100 align:center}",
+        "Sopra il pannello in acciaio, aggiungere altri pannelli in acciaio, posizionando un pannello in acciaio al centro. Quindi, fissare altri pannelli in acciaio alle estremità di questi. Da un lato, ci saranno 3 pannelli in acciaio per l'ingegneria leggera, e dall'altro 3 pannelli in acciaio per l'ingegneria pesante. Sopra l'ultimo pannello in acciaio per l'ingegneria leggera, posizionare un altro. Sopra il pannello in acciaio per il radiatore, posizionare un pannello in acciaio per l'ingegneria. Accanto, posizionare un altro pannello in acciaio per l'ingegneria pesante, e il resto sarà costituito da lamiera in acciaio.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_excavator4.png width:150 height:100 align:center}",
+        "Ora, per la parte centrale, ripeteremo ciò che abbiamo fatto sotto la metà, quindi ora ci occuperemo solo di \"\\&8Strutture in acciaio\\&r\". Accanto a questo, con \"\\&eBlocchi di ingegneria per l'illuminazione\\&r\", ci saranno altri 3, e lo stesso vale per \"\\&eBlocchi di ingegneria per l'illuminazione\\&r\" sull'altro lato. Accanto ai 3 \"\\&eBlocchi di ingegneria per l'illuminazione\\&r\", ci saranno 2 \"\\&8Blocchi radiatori\\&r\", e tutto il resto sarà \"\\&8Lamiere\\&r\".",
+        "{image:atm:textures\/questpics\/immersive\/immersive_excavator5.png width:150 height:100 align:center}",
+        "Sopra la struttura in acciaio, seguiranno 1 struttura in acciaio, poi 3 strutture in acciaio e un'altra struttura.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_excavator6.png width:150 height:100 align:center}",
+        "L'ultimo tocco di classe: l'\\&8Steel Block\\&!",
+        "{image:atm:textures\/questpics\/immersive\/immersive_excavator7.png width:150 height:100 align:center}",
+        "Quindi, semplicemente clicchiamo con il tasto destro sull'oggetto \"\\&7Heavy Engineering Block\\&r\" nella parte posteriore, e questo diventerà un potente \"\\&c\\&lExcavatore\\&r\"!",
+        "{image:atm:textures\/questpics\/immersive\/immersive_excavator.png width:125 height:100 align:center}"
+    ],
+    "quest.4BA2F4AC2A08C294.title": "Escavatore",
+    "quest.4BBF987FEF639801.quest_desc": [
+        "Le leghe sono combinazioni di 2 metalli diversi.\n\nI metalli non sono solitamente liquidi a temperatura ambiente, quindi dovremo fondere i metalli (grazie a Mercurio)!\n\nAggiungete i 2 metalli negli slot superiori e, nell'ultimo slot, del combustibile come il carbone.\n\nAspettate... l'acciaio è una lega!",
+        "{@pagebreak}",
+        "Il forno in \\&6mattoni per forni\\&r è composto da 2x2x2 mattoni.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_alloy1.png width:100 height:100 align:center}",
+        "{image:atm:textures\/questpics\/immersive\/immersive_alloy2.png width:100 height:100 align:center}",
+        "Quindi, fai clic con il tasto destro sul blocco situato nell'angolo in alto a destra, utilizzando l'«Ascia dell'Ingegnere», per attivarlo.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_alloy.png width:100 height:100 align:center}"
+    ],
+    "quest.4BBF987FEF639801.title": "\\&l\\&6Forno per leghe",
+    "quest.4C4C9ADAC6107F89.quest_desc": [
+        "Il \"Blocco di Ingegneria \\&eLight\" è piuttosto semplice da realizzare.\n\nAvrete bisogno di 1 \"Lingotto di rame\", che è ovviamente una caratteristica di vanilla (standard).\n\nAvrete bisogno di 4 \"Lastre di ferro\", che sono semplicemente 4 \"Lastre di ferro\" combinate tra loro!\n\nAvrete anche bisogno di 4 \"Componenti meccanici in ferro\", che possono essere 4 \"Lastre di ferro\" e 1 \"Lingotto di rame\" su un banco di lavoro, oppure 2 \"Lastre di ferro\" e 1 \"Lingotto di rame\" sul banco di lavoro dell'ingegnere."
+    ],
+    "quest.4C4C9ADAC6107F89.title": "\\&eBlocco di ingegneria per l'illuminazione",
+    "quest.4D193D60A3CAF435.quest_desc": [
+        "Questo è il generatore che utilizzerai più frequentemente, il generatore \\&2\\&lDiesel\\&r!\n\nDovrai inserire il combustibile negli angoli inferiori sinistro e destro del generatore \\&2\\&lDiesel\\&r. Il combustibile può essere: olio di creosoto, biodiesel e biodiesel ad alta cetano. Questi sono elencati in ordine di qualità, dal peggiore al migliore!\n\nIl generatore \\&2\\&lDiesel\\&r brucerà il combustibile e produrrà l'energia, che potrà essere prelevata tramite i 3 connettori nella parte anteriore.",
+        "{@pagebreak}",
+        "Nella parte posteriore del generatore diesel, avremo bisogno di 3 blocchi radiatori. Al centro, ci saranno le tubazioni, circondate da una struttura in acciaio. Davanti, ci sarà un blocco del generatore e 2 tubazioni adiacenti.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_diesel1.png width:100 height:150 align:center}",
+        "Sopra i blocchi radiatori \"8\", ci saranno altri 3 blocchi radiatori \"8\". Inoltre, i blocchi \"6Generator\" e i tubi \"Fluid Pipes\" adiacenti, saranno posizionati sopra 3 blocchi \"6Generator\". Il resto sarà riempito con blocchi \"Heavy Engineering\" e un singolo blocco \"Redstone Engineering\".",
+        "{image:atm:textures\/questpics\/immersive\/immersive_diesel2.png width:100 height:100 align:center}",
+        "Per completare, avremo bisogno di altri 3 blocchi di tipo \"\\&8Radiator Blocks\\&r\" sopra quelli esistenti, e accanto a questi, creeremo una struttura a forma di croce utilizzando i blocchi di tipo \"\\&7Heavy Engineering Blocks\\&r\".",
+        "{image:atm:textures\/questpics\/immersive\/immersive_diesel3.png width:100 height:100 align:center}",
+        "L'ultimo passaggio è fare clic con il tasto destro sul blocco \"\\&6Generator\" e sul blocco \"\\&6Engineer's Hammer\"!",
+        "{image:atm:textures\/questpics\/immersive\/immersive_diesel.png width:100 height:100 align:center}"
+    ],
+    "quest.4D193D60A3CAF435.title": "\\&2\\&Generatore diesel",
+    "quest.4D8190E94851C546.quest_desc": [
+        "L'uso di cavi e fili (in particolare quelli che trasportano energia) con un dispositivo Skyhook può causare lesioni.\n\nA meno che non si utilizzi un isolamento adeguato!"
+    ],
+    "quest.4E297778DCEEC963.quest_desc": [
+        "I dissipatori di calore avanzati sono l'unico e esclusivo aggiornamento disponibile per il \\&5\\&lRailgun\\&r.\n\nQuesto permetterà di caricare il \\&5\\&lRailgun\\&r molto più velocemente!"
+    ],
+    "quest.4F56BFE6E4716F6D.quest_desc": [
+        "La \"Arc Furnace\" è una macchina enorme e molto utile. Rende inutili la maggior parte delle altre macchine!\n\nPer avviarla, avrete bisogno di \"Energia\" fornita dalle prese sul retro della \"Arc Furnace\". Successivamente, sarà necessario fornire \"Carburante\", ovvero \"Elettrodi di grafite\". Questi possono essere inseriti solo nell'interfaccia utente, non possono essere automatizzati.\n\nSuccessivamente, dovrete inserire gli \"Articoli\" nelle porte superiori, vicino alla posizione degli \"Elettrodi di grafite\". Una volta alimentata e attivata, sarà in grado di fondere quasi qualsiasi cosa. Dalle \"Stirp di ferro\" alle \"Lingote di ferro\", fino agli \"Elmetti di Froststeel\" e al \"Froststeel\" stesso, fino alle \"Pietrafili d'oro\" e all'\"Oro\" stesso!\n\nGli \"Articoli\" fusi verranno quindi \"esportati\" nelle prese sul retro, sotto le prese di alimentazione.\n\nInoltre, può creare leghe da metalli!",
+        "{@pagebreak}",
+        "La prima strato è costituita da un elemento a forma di \"U\" realizzato in acciaio, con un blocco centrale in acciaio e bordi costituiti da blocchi in acciaio. Il resto è composto da lastre in acciaio e da una struttura di supporto in acciaio, oltre a una pentola.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_arc1.png width:100 height:100 align:center}",
+        "Il secondo strato inizierà sopra il blocco di ingegneria pesante (r) e i due blocchi adiacenti saranno blocchi di ingegneria leggera (r). Successivamente, i lati della \"U\" saranno costituiti da blocchi di ingegneria pesante (r). Sopra, saranno posizionati ulteriori blocchi in acciaio (r). Inoltre, sarà necessario un blocco di mattoni rinforzati (r) di dimensioni 2x3 sopra i blocchi in acciaio (r). Non dimenticate il blocco di ingegneria in redstone (r) sopra le impalcature (r)!",
+        "{image:atm:textures\/questpics\/immersive\/immersive_arc2.png width:100 height:100 align:center}",
+        "Il terzo livello richiede: più blocchi in acciaio, più blocchi per l'ingegneria elettrica, e un'estensione dei nostri blocchi in calcestruzzo rinforzato. Inoltre, avremo bisogno di una lamiera in acciaio su ciascun lato.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_arc3.png width:100 height:100 align:center}",
+        "Il quarto elemento, un blocco di ingegneria \"4\", deve essere posizionato al centro, sopra gli altri. Accanto, dovremo aggiungere 2 supporti in acciaio (\"8Steel Scaffolding\"). Inoltre, dovremo aggiungere ulteriori blocchi di mattoni rinforzati (\"4Reinforced Blast Brick\"), ma questa volta di dimensioni più ridotte.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_arc4.png width:100 height:100 align:center}",
+        "La quinta e ultima strato consiste semplicemente nell'aggiungere altri 2 elementi: \\&8Strutture in acciaio\\&r sopra gli altri, e poi \\&eBlocchi di ingegneria luminosa\\&r sopra il precedente, disposti in fila di fronte.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_arc5.png width:100 height:100 align:center}",
+        "Infine, cliccate con il tasto destro del mouse sul Calderone, utilizzando l'icona del martello, per completare l'azione!",
+        "{image:atm:textures\/questpics\/immersive\/immersive_arc.png width:100 height:100 align:center}"
+    ],
+    "quest.4F56BFE6E4716F6D.title": "\\&8\\&Fornace a arco",
+    "quest.50326B1D6EE8FA0B.quest_desc": [
+        "\\&cAccumulatori\\&r sono la versione degli accumulatori di \\&8\\&lIE\\&r.\n\nQuesti possono immagazzinare \\&cenergia\\&r: \\&6LV\\&r può contenere 100kFE, \\&eMV\\&r può contenere 1MFE e \\&5HV\\&r può contenere 4MFE!\n\nPer impostazione predefinita, hanno una fessura superiore che consente solo l'input, ma qualsiasi lato può essere modificato utilizzando il \\&6Martello dell'Ingegnere\\&r per l'input, l'output, o nessuno dei due."
+    ],
+    "quest.50326B1D6EE8FA0B.title": "E altri accumulatori",
+    "quest.506F20AF8E857559.quest_desc": [
+        "Il Kinetic Dynamo è un generatore che utilizza il momento per produrre energia!\n\nPer iniziare a produrre energia, avrai bisogno di una ruota idraulica o una mulina collegata al lato con l'enorme foro.\n\nIl Kinetic Dynamo non ha un sistema di accumulo interno di energia, ma fornisce energia a blocchi collegati, come connettori o accumulatori."
+    ],
+    "quest.506F20AF8E857559.title": "Energia derivata dal movimento di oggetti!",
+    "quest.50F1C4521D282C60.quest_desc": [
+        "I Bulwark sono le unità più pesanti di questi combattenti.\n\nDisponono di 12 punti di salute e 18 punti di armatura!\n\nLa loro arma principale è il \\&b\\&lChemthrower\\&r, con uno \\&8\\&lscudo corazzato\\&r in mano.\n\nSe per qualche motivo riesci a sconfiggerli, otterrai \\&aEmeralds\\&r e sacche da lavoro di alta qualità!"
+    ],
+    "quest.50F1C4521D282C60.title": "Fortezza, baluardo",
+    "quest.520904C106D7D93D.quest_desc": [
+        "Questi effetti fanno sì che l'abilità \"Skyhook\" funzioni in modo simile a un attacco con una pistola Mace, causando ulteriori danni agli oggetti se si è in caduta mentre si colpiscono.\n\nIn Bioshock Infinite, questa abilità è chiamata \"Skystrike\"!"
+    ],
+    "quest.520904C106D7D93D.quest_subtitle": "Premi il tasto sinistro del mouse per lanciare l'attacco aereo.",
+    "quest.5218DAE147AC9F44.quest_desc": [
+        "Il \"Blade Quiver\" ti permette di tenere più lame o oggetti simili a lame sul \"Buzzsaw\".\n\nPer passare da una lama all'altra (o da oggetti simili a lame), tieni premuto il tasto Shift e usa il mouse per scorrere.\n\nQuesto è utile per sostituire lame rotte o addirittura per passare a dischi per \"Grinding\"!"
+    ],
+    "quest.553ADA7040B652CD.quest_desc": [
+        "Le attrezzature \\&4\\&lTrapano per miniere\\&r, \\&2\\&l Sega a ceso\\&r e \\&b\\&lLanciare sostanze chimiche\\&r, di solito contengono 1.000 m³ o 1 contenitore pieno di \\&bFluido\\&r.\n\n\"Normalmente\" non significa \"sempre\"! Con il serbatoio più grande, ora possono contenere 2.000 m³ o 2 contenitori pieni.\n\nPotrebbe non sembrare molto, ma fidatevi, è una quantità significativa."
+    ],
+    "quest.5585130028BB8298.quest_desc": [
+        "La pistola più semplice che si possa trovare in \\&6\\&lATM10\\&r è il \\&d\\&lRevolver\\&r!\n\nCliccare con il tasto destro per aprire il \\&d\\&lRevolver\\&r, quindi inserire delle munizioni negli slot. Una volta fatto, basta cliccare con il tasto destro per sparare!\n\nÈ possibile applicare 2 miglioramenti a questa arma. I miglioramenti disponibili sono: bayonetta, caricatore rapido, caricatore esteso, tubi elettronici di amplificazione e mirino di precisione.\n\nIl \\&d\\&lRevolver\\&r può contenere solo 2 miglioramenti, ma il caricatore rapido è tecnicamente diverso."
+    ],
+    "quest.5585130028BB8298.quest_subtitle": "Pensi di avere fortuna, Punk?",
+    "quest.5585130028BB8298.title": "\\&d\\&lRevolver",
+    "quest.56CE6CF9C99FB522.quest_desc": [
+        "Per i radiatori, avremo bisogno delle solite lamiere in acciaio, di un contenitore per l'acqua (che sarà nuovo!) e di piastre in Constantan.\n\nLa Constantan è un lega ottenuta combinando rame e nichel in un forno specifico per leghe."
+    ],
+    "quest.56CE6CF9C99FB522.title": "\\&8Blocco radiatore",
+    "quest.56E30438AE512475.quest_desc": [
+        "Facciamo che queste fiamme diventino più intense!\n\nIl preriscaldatore è un semplice accessorio per il \\&l\\&4Fornello di fusione migliorato\\&r.\n\nBasta posizionarlo a sinistra e a destra del \\&l\\&4Fornello di fusione migliorato\\&r. Quindi, collegare l'alimentazione nella parte superiore e il \\&l\\&4Fornello di fusione migliorato\\&r inizierà a funzionare più velocemente."
+    ],
+    "quest.573C2242EAB85B49.quest_desc": [
+        "\\&0\\&lForno per carbone\\&r è il modo in cui produciamo il nostro \\&0carbone\\&r. Provate a indovinare di cosa è fatto! \\n\\nPossiamo utilizzare il \\&0forno\\&r per trasformare i tronchi in \\&0carbone\\&r, oppure per trasformare il \\&0carbone\\&r e i \\&0blocchi di carbone\\&r in \\&0carbone\\&r! \\n\\nEntrambi i processi produrranno anche olio di creosoto, oltre alla ricetta standard.",
+        "{@pagebreak}",
+        "L'\\&0Coke Oven\\&r è una struttura molto semplice, composta da 3x3x3 mattoni di \\&0Coke\\&r.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_coke1.png width:100 height:100 align:center}",
+        "{image:atm:textures\/questpics\/immersive\/immersive_coke2.png width:100 height:100 align:center}",
+        "{image:atm:textures\/questpics\/immersive\/immersive_coke3.png width:100 height:100 align:center}",
+        "Basta fare clic con il tasto destro del mouse sul blocco centrale della parte anteriore e utilizzare il \"martello dell'ingegnere\" per crearlo.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_coke.png width:100 height:100 align:center}"
+    ],
+    "quest.573C2242EAB85B49.title": "\\&l\\&Forno per la produzione di coke",
+    "quest.586F6FD38CF85DCA.quest_desc": [
+        "Il \"Drill da miniere\" (come suggerisce il nome), effettivamente, mini!\n\nFunziona come un piccone, necessitando solo di \"Testa per trapano\" e \"Bio-diesel\". Le \"Teste per trapano\" determinano il livello di miniere e hanno una durata limitata, quindi dovranno essere sostituite. È possibile collegare le \"Teste per trapano\" sul banco da lavoro dell'\"Ingegnere\", nella posizione superiore.\n\nIl \"Bio-diesel\" è un \"combustibile liquido\" che richiede una ricetta complessa da preparare... ma questo è per un'altra missione, noi stiamo cercando semplicemente come alimentarlo! È possibile utilizzare il \"Drill da miniere\" su qualsiasi \"serbatoio\" o \"macchina\" che contenga \"Bio-diesel\" per riempirlo.\n\nIl \"Drill da miniere\" minerà in un'area di 3x3 o 2x2, a meno che non si stia \"traslocando\" mentre si sta minando!\n\nÈ anche possibile utilizzarlo per attaccare i mostri, infliggendo lo stesso danno di una spada di Netherite, ma ciò consuma anche carburante e la durata del \"Drill\".\n\nIl \"Drill da miniere\" può contenere 1 \"Testa per trapano\" e 3 aggiornamenti."
+    ],
+    "quest.586F6FD38CF85DCA.quest_subtitle": "Potrebbe cortesemente?",
+    "quest.586F6FD38CF85DCA.title": "\\&4\\& Trapano per miniere",
+    "quest.591E6964ABCC638C.quest_desc": [
+        "«Le \\&eCinghie di trasporto\\&r sono il modo in cui possiamo spostare \\&eOggetti\\&r (e alcune entità).\n\nQuando gli \\&eOggetti\\&r vengono posizionati sulle \\&eCinghie\\&r, questi li terranno e li trasporteranno. Questi possono quindi essere spostati in diversi magazzini. Per estrarre oggetti dai magazzini, avremo bisogno di un tipo specifico di \\&eCinghia!\n\nIl modo in cui posizionate la vostra \\&eCinghia determinerà dove si muoverà. Questo può anche essere modificato con il \\&6martello dell'ingegnere!\n\nDevono essere posizionate su blocchi, ma in modo sorprendente, non hanno bisogno di blocchi sottostanti per rimanere in posizione e funzionare!»"
+    ],
+    "quest.591E6964ABCC638C.quest_subtitle": "e alcune entità!",
+    "quest.591E6964ABCC638C.title": "Trasloco e oggetti",
+    "quest.598DE7CEDA864B50.quest_desc": [
+        "Perché limitarsi a un solo serbatoio, quando possiamo utilizzare tre! \\n\\nOra è possibile utilizzare tre diversi tipi di \\&bFluido\\&r nel vostro \\&b\\&lLanciatore Chimico\\&r. Premete il tasto Shift e utilizzate i comandi del mouse per passare da uno all'altro. \\n\\nQuesto non è compatibile con il serbatoio principale..."
+    ],
+    "quest.5A2A718C569F3C19.quest_desc": [
+        "Attraverso la fusione del carbone in un forno coke, possiamo ottenere il coke! O, come lo chiamerò, semplicemente coke!\n\nIn pratica, è solo coke, ma ha più utilizzi nell'industria siderurgica.\n\nÈ possibile combinarlo con il ferro per ottenere l'acciaio, oppure schiacciarlo per ottenere la polvere di coke, che sarà necessaria per la produzione di grafite, oppure utilizzarlo come combustibile per un forno a fusione."
+    ],
+    "quest.5A2A718C569F3C19.title": "\\&8Coke\\&r",
+    "quest.5C5546A5103BCF55.quest_desc": [
+        "Questo dispositivo dovrebbe essere in grado di sparare liquidi come \\&bFluids\\&r o gas... ma non funziona per me.\n\nPuò contenere almeno 2 upgrade, e quelli funzionano!"
+    ],
+    "quest.5C5546A5103BCF55.title": "\\&b\\&l Lanciare sostanze chimiche",
+    "quest.5DE3F2A96715BA2E.quest_desc": [
+        "Lo \"Silo\" è una struttura a più compartimenti progettata per immagazzinare grandi quantità di un singolo tipo di oggetto, come un cassetto.\n\nÈ possibile depositare gli oggetti e le loro copie sul lato superiore o inferiore, ma per prelevarli sarà necessario utilizzare il lato inferiore!\n\nPuò contenere 41.472 oggetti, ma solo dello stesso tipo.",
+        "{@pagebreak}",
+        "Innanzitutto, posizioniamo un pannello quadrato in legno trattato al centro, con una lamiera d'acciaio.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_silo1.png width:125 height:100 align:center}",
+        "Successivamente, realizziamo una struttura quadrata completa in lamiera d'acciaio (circa 7 mm di spessore) sopra i nostri recinti, lasciando uno spazio vuoto al centro. Ripetiamo questa operazione 5 volte!",
+        "{image:atm:textures\/questpics\/immersive\/immersive_silo2.png width:100 height:100 align:center}",
+        "{image:atm:textures\/questpics\/immersive\/immersive_silo3.png width:100 height:100 align:center}",
+        "{image:atm:textures\/questpics\/immersive\/immersive_silo4.png width:100 height:100 align:center}",
+        "{image:atm:textures\/questpics\/immersive\/immersive_silo5.png width:100 height:100 align:center}",
+        "{image:atm:textures\/questpics\/immersive\/immersive_silo6.png width:100 height:100 align:center}",
+        "Infine, lo strato finale, che consiste in un'intera lastra di acciaio, completa di un blocco centrale che noi abbiamo installato.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_silo7.png width:100 height:100 align:center}",
+        "Successivamente, cliccate con il tasto destro del mouse sulla seconda striscia, denominata \"\\&7Iron Sheetmetal\\&r\", e utilizzate lo strumento \"\\&6Hammer\\&r\" per creare il nostro \"\\&e\\&lSilo\\&r\"!",
+        "{image:atm:textures\/questpics\/immersive\/immersive_silo.png width:100 height:125 align:center}"
+    ],
+    "quest.5DE3F2A96715BA2E.title": "\\&l\\&eSilo",
+    "quest.5E228ACA1B13AD04.quest_desc": [
+        "Ora spara e colpisce!"
+    ],
+    "quest.5EE1DF1C8F0C1FF9.quest_desc": [
+        "Dopo aver costruito la bobina \\&l\\&5Lightning Coil\\&r, potremo far colpire il fulmine alle \\&8Steel Fences\\&r, che a loro volta diventeranno \\&cEnergy\\&r nel proprio \\&cEnergy\\&r contenitore.\n\nPiù \\&8Steel Fences\\&r, maggiore è la probabilità di far colpire il fulmine!\n\nMi chiedo se possiamo utilizzare altri mod per evocare il fulmine.",
+        "{@pagebreak}",
+        "Per sfruttare la potenza della natura, avremo bisogno di iniziare con un blocco di bobine ad alta tensione. Successivamente, posizionare i \"accumulatori ad alta tensione\" accanto al blocco di bobine. Infine, posizionare le \"strutture di acciaio\" agli angoli.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_lightning1.png width:100 height:100 align:center}",
+        "Per lo strato successivo, posizionare un altro blocco di bobina ad alta tensione sopra quello precedente. Accanto a questo, saranno posizionati i \"blocchi di ingegneria luminosa\". Ai quattro angoli, saranno presenti solo semplici recinzioni trattate!",
+        "{image:atm:textures\/questpics\/immersive\/immersive_lightning2.png width:100 height:100 align:center}",
+        "Ora, abbiamo bisogno di un terzo blocco di bobine ad alta tensione, posizionato sopra gli altri, e attorno a questo blocco ci saranno 8 blocchi di bobine in rame.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_lightning3.png width:100 height:100 align:center}",
+        "Quindi, fare clic con il tasto destro sul blocco \"\\&eLight Engineering\" sul lato anteriore e utilizzare un \"\\&6martello\" per convertirlo nel \"\\&5\\&lCoil di Fulmine\"!",
+        "{image:atm:textures\/questpics\/immersive\/immersive_lightning.png width:100 height:100 align:center}",
+        "Non ho creato un'immagine per questo passaggio, ma avrete bisogno di 8 recinzioni in acciaio posizionate sopra la bobina \"Lightning Coil\" per far sì che l'attacco fulminare colpisca!"
+    ],
+    "quest.5EE1DF1C8F0C1FF9.title": "\\&5\\&Bobina a forma di fulmine",
+    "quest.5F4F7637044BD4F1.quest_desc": [
+        "Il fermentatore \\&2\\& conterrà i tuoi alimenti e, nel tempo, li trasformerà in etanolo.\n\nEsiste una lista di alimenti, che puoi trovare nel manuale dell'ingegnere \\&6, e che possono essere inseriti nel fermentatore \\&2 tramite le porte sul lato posteriore e sinistro.\n\nSe utilizzi le bottiglie di \\&6 miele, puoi estrarle dalla porta sul lato destro.\n\nIl fermentatore \\&2 richiederà \\&c energia, che sarà fornita da una porta nella parte superiore del fermentatore!",
+        "{@pagebreak}",
+        "Inizia con una struttura semplice, creando una forma a \"n\" rovesciata utilizzando gli elementi \"\\&8Scaffolding\" e \"\\&r\", e posiziona all'interno gli elementi \"\\&bFluid Pipes\\&r\". Infine, posiziona un elemento \"\\&eLight Engineering Block\\&r\" nell'angolo.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_fermenter1.png width:100 height:100 align:center}",
+        "Sopra il blocco \"eLight Engineering Block\", posizionare un altro. A destra, saltare un blocco, quindi posizionare un blocco \"4Redstone Engineering Block\". A sinistra del blocco \"eLight Engineering Block\", posizionare una struttura a forma di \"2x2\" composta da pentole.",
+        "{image:atm:textures\/questpics\/immersive\/immersive_fermenter2.png width:100 height:100 align:center}",
+        "Un altro passaggio semplice: posizionate semplicemente l'elemento \"Sheetmetal\" sopra tutti gli altri!",
+        "{image:atm:textures\/questpics\/immersive\/immersive_fermenter3.png width:100 height:100 align:center}",
+        "Clicca con il tasto destro sul Caldaio tra il Blocco di Ingegneria \"Light Engineering Block\" e il Blocco di Ingegneria \"Redstone Engineering Block\" utilizzando il \"Martello\".",
+        "{image:atm:textures\/questpics\/immersive\/immersive_fermenter.png width:100 height:100 align:center}"
+    ],
+    "quest.5F4F7637044BD4F1.title": "\\&l\\&2, fermentatore",
+    "quest.607D9B53C632DEDE.quest_desc": [
+        "\\&bValvole per tubi\\&r sono progettate per aiutare a separare e interrompere il flusso di \\&bfluido\\&r! \\n\\nQuando utilizzate con \\&btubi per fluidi\\&r, garantiranno che il \\&bfluido\\&r scorra solo nella direzione indicata dalle frecce sulla \\&bvalvola del tubo\\&r. \\n\\nÈ inoltre possibile inviare un segnale \\&4Redstone\\&r, che farà interrompere completamente il flusso del \\&bfluido\\&r."
+    ],
+    "quest.607D9B53C632DEDE.title": "\\&Valvola per tubi",
+    "quest.6140EAA6E042EF7C.quest_desc": [
+        "Lo \"Skyhook\" può essere utilizzato sia come strumento che come arma.\n\nPuoi semplicemente colpire i mostri con esso, come se fosse una spada, oppure puoi utilizzarlo per muoverti all'interno della tua base!\n\nQuando ti avvicini a un \"cavo\" (cavo in rame, cavo in fibra di vetro, cavo in acciaio isolato, cavo in canapa, cavo in acciaio), puoi tenere premuto il tasto destro per agganciarlo. Quindi, puoi muoverti per far scorrere il \"cavo\"!\n\nSe desideri utilizzarlo su cavi attivi, avrai bisogno di alcuni miglioramenti. Ad esempio: motore ad alta coppia, impugnatura isolata e ganci ad alta resistenza.\n\nPuò contenere 2 miglioramenti."
+    ],
+    "quest.6140EAA6E042EF7C.quest_subtitle": "Cattura di Booker!",
+    "quest.6140EAA6E042EF7C.title": "\\&6\\&Ingegnere e il suo \"Skyhook\"",
+    "quest.63F5314A1072FA05.quest_desc": [
+        "Funziona in modo simile alla \"Macchina per la pressatura del metallo\", utilizzando \"Cinghie di trasporto\" e richiedendo oggetti aggiuntivi.\n\nFunziona in due fasi: prima, taglia i tronchi. Se non dispone di una \"lama per sega\", taglierà solo i tronchi. La seconda fase consiste nel tagliare il tronco in assi, per il quale è necessaria una \"lama per sega\".\n\nLe \"lame per sega\" vengono create utilizzando una grande quantità di \"acciaio\". Hanno una durata e per inserirle, cliccare con il tasto destro negli slot situati vicino alla parte posteriore della macchina. Per rimuoverle, spegnere la macchina utilizzando \"Redstone\", quindi cliccare con il tasto destro nello stesso punto in cui sono state inserite.\n\nÈ necessario fornire \"energia\" sul lato posteriore e utilizzare le \"cinghie di trasporto\" per inserire gli oggetti. Gli oggetti verranno poi estratti utilizzando le stesse \"cinghie\", ma la polvere di legno verrà espulsa da un'uscita situata di fronte alla macchina.",
+        "{@pagebreak}",
+        "Crea una forma a \"I\" utilizzando i seguenti elementi: \"\\&8Strutture in acciaio per lavori in quota\\&r\" (ricorda di includere \"\\&7Blocchi per l'ingegneria pesante\\&r\") e riempi una parte con \"\\&eBlocchi per l'ingegneria leggera\\&r\" e l'altra con \"\\&7Lamiere in acciaio\\&r\".",
+        "{image:atm:textures\/questpics\/immersive\/immersive_saw1.png width:150 height:100 align:center}",
+        "Posizionate altri 3 blocchi di ingegneria \\&eLight Engineering Blocks\\&r sui blocchi sottostanti. Posizionate 1 blocco di \\&7Sheetmetal\\&r in acciaio sul blocco di acciaio più a sinistra, e accanto ad esso posizionate 1 blocco di \\&4Redstone Engineering Block\\&r. Accanto al blocco di \\&7Sheetmetal\\&r in acciaio, avrete bisogno di un altro blocco di \\&7Heavy Engineering Block\\&r. Non dimenticate di aggiungere le nastri trasportatori, sono necessarie per la costruzione!",
+        "{image:atm:textures\/questpics\/immersive\/immersive_saw2.png width:100 height:100 align:center}",
+        "Clicca con il tasto destro del mouse sulla scheda \"7Iron Sheetmetal\" e utilizza il nostro strumento!",
+        "{image:atm:textures\/questpics\/immersive\/immersive_saw.png width:100 height:100 align:center}"
+    ],
+    "quest.63F5314A1072FA05.title": "\\&e\\&lFabbrica di segatura",
+    "quest.662DD269B027B6C8.quest_desc": [
+        "Non è possibile ricaricare il vostro zaino \\&c\\&lAccumulator Backpack\\&r in modalità wireless, ma è possibile farlo tramite un cavo!\n\nBasta collegare l'antenna di ricarica al vostro \\&c\\&lAccumulator Backpack\\&r e avvicinarvi a qualsiasi dispositivo \\&c\\&r che trasporti \\&cEnergia\\&r, e una parte di questa energia verrà trasferita al vostro \\&c\\&lBackpack\\&r."
+    ],
+    "quest.67940C0774E73217.quest_desc": [
+        "\\&eItem Router\\&r gestirà l'inserimento e l'estrazione di oggetti da determinate posizioni, in base ai filtri definiti nell'interfaccia utente!\n\nQuesti possono essere configurati per gestire: \\&eCinturi, Scatole, o altri inventari."
+    ],
+    "quest.67940C0774E73217.title": "\\&eItem Router",
+    "quest.679E80EBB9A2AE7E.quest_desc": [
+        "\\&bFluid Routers\\&r: possibilità di ordinare e filtrare i fluidi in transito.\\n\\nSarà necessario configurare l'interfaccia utente per impostare i filtri e la direzione di destinazione. Una volta completata questa operazione, il dispositivo invierà tutti i fluidi in arrivo alla destinazione specificata."
+    ],
+    "quest.679E80EBB9A2AE7E.title": "\\&bFluid Router",
+    "quest.67FB03BE6685AFE1.quest_desc": [
+        "Per iniziare una guerra, dobbiamo prima dichiararla!\n\nMa scherzo, andiamo direttamente all'azione! Niente discorsi diplomatici qui!\n\nPer cominciare, sparate a un \"Pillager\" con un \"Revolver\".\n\nQuesto darà il via alla comparsa di nuovi e più potenti \"Pillager\"!"
+    ],
+    "quest.67FB03BE6685AFE1.title": "Attacco e difesa",
+    "quest.6B2BD6F939136F50.quest_desc": [
+        "Il piatto è piuttosto semplice. La superficie superiore, con il quadrato \"\\&7Grey\\&r\", sarà la parte mobile.\n\nLe altre superfici sono i \"\\&4Redstone Ports\", dove è necessario fornire un \"\\&4Redstone Signal\" per attivare il meccanismo.\n\nUna volta attivato, farà ruotare il blocco collegato alla superficie superiore.\nPotrebbe essere necessario utilizzare il \"\\&6Engineer's Hammer\" per modificare il modo in cui ruota."
+    ],
+    "quest.6BD348735C27BB44.quest_desc": [
+        "La macchina per l'imbottigliamento \\&b\\&lBottling Machine\\&r riempirà qualsiasi \\&eItem\\&r che arrivi sul \\&eBelt\\&r.\n\nUtilizzate le porte sul retro per riempire la \\&b\\&lMachine\\&r con \\&bFluids\\&r; saprete che funziona quando il serbatoio è pieno di quel \\&bFluid\\&r!\n\nQuindi, quando un \\&bBucket\\&r, \\&bTank\\&r, o qualsiasi contenitore per \\&bFluid\\&r arriva sul \\&eBelt\\&r, sarà riempito con quel \\&bFluid\\&r.\n\nIl \\&bBucket\\&r, \\&bTank\\&r, o qualsiasi altro contenitore, quindi, si muoverà lungo i \\&eBelts\\&r, pieno di quel \\&bFluid\\&r!\n\nA proposito, come tutto nella vita, la \\&b\\&lBottling Machine\\&r avrà bisogno di \\&cEnergia\\&r nelle porte sul lato posteriore!",
+        "{@pagebreak}",
+        "Per iniziare, crea una struttura triangolare utilizzando i blocchi \"\\&8Scaffolding\\&r\". Quindi, riempi gli spazi vuoti con i blocchi \"\\&7Sheetmetal\\&r\", \"\\&4Redstone Engineering Block\\&r\" e un \"\\&eLight Engineering Block\\&r\".",
+        "{image:atm:textures\/questpics\/immersive\/immersive_bottler1.png width:100 height:100 align:center}",
+        "Ora, aggiungiamo una striscia di \\&eCintura di trasporto\\&r lungo il lato anteriore. Successivamente, aggiungiamo un secondo pannello di \\&7lastra di metallo\\&r sul lato opposto, una pompa per \\&bliquidi\\&r accanto ad esso, e un blocco di \\&eingegneria luminosa\\&r sopra il precedente!",
+        "{image:atm:textures\/questpics\/immersive\/immersive_bottler2.png width:100 height:100 align:center}",
+        "Semplicemente, colpisce il centro e il nastro trasportatore si ferma, e voilà!",
+        "{image:atm:textures\/questpics\/immersive\/immersive_bottler.png width:100 height:100 align:center}"
+    ],
+    "quest.6BD348735C27BB44.title": "Macchina per l'imbottigliamento",
+    "quest.6D42D0102D1CBC19.quest_desc": [
+        "Questi \"auger\" aggiuntivi sono progettati per garantire una maggiore precisione... ma solo per la \\&4\\&lDrill\\&r!\n\nE sì, potete avere fino a 3 pezzi contemporaneamente, per massimizzare la potenza."
+    ],
+    "quest.6F3C82072672FD17.quest_desc": [
+        "Questa quest è stata creata da \\&6AllTheMods Staff\\&r, o da un \\&2contributore della community\\&r, per l'uso nei pacchetti mod di AllTheMods.\n\nPoiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti a \\&eTutti i diritti riservati\\&r, questa quest non può essere utilizzata in altri pacchetti pubblici, a meno che non siano stati rilasciati dal team \\&6AllTheMods\\&r, previa autorizzazione esplicita.\n\nQuesta quest è intenzionalmente nascosta. Se la visualizzate, significa che siete in modalità di modifica."
+    ],
+    "quest.7060290E107D92AB.quest_desc": [
+        "Molte cose richiederanno energia, tra cui alcuni oggetti che non possono essere posizionati, come la \\&5\\&lRailgun\\&r! Quindi, come possiamo caricarli?\n\nLa Stazione di Ricarica è la soluzione!\n\nÈ sufficiente inserire l'energia (\\&6) dall'interno o dal fondo, e sarà pronta per caricare qualsiasi \\&eItem\\&r che venga inserita!\n\nQuesto include la \\&5\\&lRailgun\\&r, gli \\&cAccumulators\\&r, e oggetti provenienti da altri Mod! Tuttavia, non può caricare i Blocchi nelle immediate vicinanze."
+    ],
+    "quest.72CE46D28C9E7452.quest_desc": [
+        "Lo Scope può essere utilizzato sia con la \\&5\\&lRailgun\\&r che con il \\&d\\&lRevolver\\&r.\n\nCon il \\&d\\&lRevolver\\&r e la \\&5\\&lRailgun\\&r, è possibile premere il tasto centrale per utilizzare lo Scope, quindi è possibile utilizzare lo scroll per regolare l'ingrandimento."
+    ],
+    "quest.73110103EF23BFDF.quest_desc": [
+        "Una miscela di rame e zinco.\n\nNon viene utilizzata molto in IE... Si possono creare dei cartelli, forse."
+    ],
+    "quest.73110103EF23BFDF.title": "\\&6 Lingotto in ottone",
+    "quest.763AE58CF620695E.quest_desc": [
+        "Questo modello, come molti altri, può essere creato.\n\n\"Immersive Engineering\" include anche i propri modelli!\n\nTuttavia, avrete bisogno dei modelli (\"Blueprints\") per crearli."
+    ],
+    "quest.763AE58CF620695E.title": "\\&9 Modelli di stampe per banner, colore blu",
+    "quest.767E4FC03B6F6534.quest_desc": [
+        "Gli lingotti di Invar sono realizzati con ferro e nichel.\n\nCome molti altri leghe, non sono utili per l'uso in IE."
+    ],
+    "quest.767E4FC03B6F6534.title": "\\&7 Lingotto in lega Invar",
+    "quest.7744BEC5CD328262.quest_desc": [
+        "Per estrarre blocchi e oggetti sott'acqua, avrai bisogno di questo aggiornamento.\n\nInoltre, ti conferisce l'abilità \"Affinità con l'acqua\" (il che significa che rimanere in acqua non rallenta l'attività di estrazione)."
+    ],
+    "quest.78DA970F97002975.quest_desc": [
+        "I barili sono un modo semplice per contenere liquidi.\n\nEsistono barili in legno e in metallo. I barili in legno possono contenere solo liquidi a temperatura ambiente e freddi, ma non liquidi o gas caldi. I barili in metallo possono contenere qualsiasi tipo di liquido e gas.\n\nEntrambi i barili possono contenere 12 contenitori da 1 litro. Automatizzano l'ingresso da un lato e l'uscita dall'altro, ma questa funzione può essere modificata."
+    ],
+    "quest.78DA970F97002975.title": "Conservazione di liquidi",
+    "quest.79BEECD4E545793F.quest_desc": [
+        "La rete metallica funziona in modo simile a una ragnatela… ma è molto più affilata!\n\nLa rete metallica danneggerà e rallenterà qualsiasi cosa tenti di attraversarla, compresi noi!\n\nPossiamo rimuoverla in sicurezza utilizzando gli \\&6Taglierautomatik\\&r del nostro ingegnere.\n\nOppure possiamo utilizzare gli \\&6Cavi LV\\&r per causare danni maggiori e un effetto paralizzante!"
+    ],
+    "quest.7A1E3E7E2DF17AD2.quest_desc": [
+        "Innanzitutto, c'è la \"lama a forma di mezzaluna\". Questa è utilizzata per abbattere gli alberi. Taglierà ogni tronco e foglia nell'albero sopra quello tagliato.\n\nIn secondo luogo, c'è la \"lama per tagliare la roccia\". Questa non può abbattere gli alberi, ma può essere utilizzata come piccone con l'abilità \"Tocco di seta\". Romperà la pietra e ti darà pietra invece di ghiaia.\n\nInfine, c'è il \"disco di macinazione\". Non romperà gli alberi o la pietra, ma romperà i blocchi di metallo! Utile per le \"torri in acciaio\" e per rimuovere l'ossidazione dal rame!"
+    ],
+    "quest.7A1E3E7E2DF17AD2.title": "Carburante per seghetto da legno",
+    "quest.7A41038180C06B00.quest_desc": [
+        "I connettori \"\\&c\" sono proprio quelli che... collegano! Collegano i cavi provenienti da macchine, accumulatori e generatori, praticamente da qualsiasi fonte.\n\nLa configurazione di un connettore con \"9 ingressi\" e \"6 uscite\" dipende da ciò a cui è collegato.\n\nInoltre, hanno anche un proprio sistema di stoccaggio dell'energia, e la tensione determina la quantità di energia che possono immagazzinare."
+    ],
+    "quest.7A41038180C06B00.title": "\\&cConnettori",
+    "quest.7AE85F4FF4DDF4F2.quest_desc": [
+        "\"La Turbina è un'altra opzione che possiamo utilizzare con il Dynamo Kinetico!\n\nQueste inizieranno automaticamente a muoversi e, a seconda della loro velocità, produrranno energia. Quindi, più è veloce, più energia si produce.\n\nMa come possiamo aumentare la velocità? Innanzitutto, hanno bisogno di spazio davanti per funzionare. Meno blocchi davanti, più velocemente girano!\n\nUn altro fattore che influenza la velocità sono le vele della turbina. È possibile aggiungere un totale di 8 vele facendo clic con il tasto destro sul blocco centrale della turbina, tenendo le vele in mano."
+    ],
+    "quest.7B447E986493AD6B.quest_desc": [
+        "«L'olio di creosote» è un sottoprodotto del «forno coke».\n\nIl suo utilizzo principale sarà per la produzione di legno trattato, un elemento fondamentale per la costruzione.\n\nInoltre, lo utilizzerete per un altro fluido in seguito; ci occuperemo di questo quando arriveremo a quel punto."
+    ],
+    "quest.7B447E986493AD6B.title": "\\&7Olio di creosoto",
+    "quest.7B9672C4FCFFB887.quest_desc": [
+        "Questi progetti (\"\\&9Blueprints\\&r\") possono essere realizzati e, per di più, sono molto economici!\n\nI cartelli di avvertimento sono semplici decorazioni che possiamo creare utilizzando piastre metalliche, coloranti e questo progetto (\"\\&9Blueprint\\&r\")."
+    ],
+    "quest.7B9672C4FCFFB887.title": "\\&9 Segnali di pericolo: progetti",
+    "quest.7FE273141D3DFFFD.quest_desc": [
+        "Il Fusilier è l'unità di livello medio dei nuovi Pillagers!\n\nHa 12 punti vita e non indossa armature.\n\nLa sua arma preferita è una \\&5\\&lRailgun\\&r, che viene caricata tramite la sua zaino Accumulator.\n\nQuando viene sconfitto, rilascerà \\&aEmeralds\\&r e \\&7Iron Rods\\&r."
+    ],
+    "quest.7FE273141D3DFFFD.title": "Fanteria",
+    "task.02B26D0D73E5E361.title": "Cinture",
+    "task.0837FA64B9C50048.title": "Munizioni per la motosega",
+    "task.0B62C759781950A1.title": "Proiettili per il sistema di armamento a rampa elettromagnetica (IE Railgun)",
+    "task.0CD67A3D64E9B49B.title": "Cavi decorativi",
+    "task.0D7C60D7BFBD8CF0.title": "Tutti i diritti riservati",
+    "task.15795AB2872E2DEE.title": "Cascate",
+    "task.173B725A839DEEAA.title": "Proiettili comuni",
+    "task.20D0DB49AFA7976F.title": "Qualsiasi combinazione",
+    "task.4025792887CB9BE2.title": "Bobine di filo",
+    "task.43FDC45CF464047E.title": "Articoli caldi",
+    "task.440F173D6B5EE74E.title": "Trasmettitori",
+    "task.529FFD7D692AEFA5.title": "Proiettili specializzati",
+    "task.53AF5EFD070E8761.title": "Trasformatori",
+    "task.5580FF146C9E7EA0.title": "Barili",
+    "task.56D7513E9D02F900.title": "Capisole",
+    "task.59DC19A11848EFE1.title": "Connettori",
+    "task.5CEB2D56A9EA74D0.title": "Articoli freddi",
+    "task.603A16080675C348.title": "Tutti i diritti riservati",
+    "task.79F67E07C28F8E97.title": "Proiettili per la mitragliatrice di Minecraft",
+    "task.7FED013A7F667CC6.title": "Cesti"
+}

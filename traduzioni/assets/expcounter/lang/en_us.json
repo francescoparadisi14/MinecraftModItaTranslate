@@ -1,0 +1,11 @@
+{
+    "expcounter.deimosconfig.color_next_level": "Color of the counter of exp until next level in decimal",
+    "expcounter.deimosconfig.color_total": "Color of the total exp counter in decimal",
+    "expcounter.deimosconfig.position_off_centre_next_level": "X axis position off center of the counter of exp until next level",
+    "expcounter.deimosconfig.position_off_centre_total": "X axis position off center of total exp counter",
+    "expcounter.deimosconfig.position_y_next_level": "Y axis position of the counter of exp until next level",
+    "expcounter.deimosconfig.position_y_total": "Y axis position of total exp counter",
+    "expcounter.deimosconfig.show_next_level": "Show how much more xp until next level",
+    "expcounter.deimosconfig.show_total": "Show total amount of xp",
+    "expcounter.deimosconfig.title": "EXP Counter Config"
+}

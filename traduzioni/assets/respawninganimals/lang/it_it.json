@@ -1,6 +1,10 @@
 {
-    "gamerule.animalMobCap": "Limite di creature animali",
-    "gamerule.animalMobCap.description": "Costante per aiutare a determinare quando smettere di generare animali nel mondo.",
-    "gamerule.persistentAnimals": "Animali persistenti",
-    "gamerule.persistentAnimals.description": "Gli animali resteranno nel mondo per sempre e possono essere riprodotti solo attraverso la selezione naturale."
+    "gamerule.respawninganimals.min_animals_near_player": "Numero minimo di animali nelle vicinanze del giocatore.",
+    "gamerule.respawninganimals.min_animals_near_player.description": "Genera animali nelle vicinanze di ogni giocatore se il numero di animali disponibili localmente è inferiore a questo valore. Questa regola si applica solo quando è possibile eliminare gli animali.",
+    "gamerule.respawninganimals.remove_animals_distance": "Distanza di intervento per la rimozione di animali selvatici",
+    "gamerule.respawninganimals.remove_animals_distance.description": "Gli animali che si trovano a una distanza superiore rispetto al giocatore più vicino potrebbero essere rimossi nel tempo. Questa regola si applica solo quando è possibile rimuovere gli animali.",
+    "gamerule.respawninganimals.remove_animals_instantly_distance": "Distanza di efficacia per la rimozione rapida di animali.",
+    "gamerule.respawninganimals.remove_animals_instantly_distance.description": "Gli animali che si trovano a una distanza superiore a quella del giocatore più vicino vengono rimossi immediatamente. Questa regola si applica solo quando è possibile rimuovere gli animali.",
+    "gamerule.respawninganimals.remove_animals_when_far_away": "Rimuovi gli animali quando si è lontani.",
+    "gamerule.respawninganimals.remove_animals_when_far_away.description": "Gli animali vengono rimossi quando si allontanano dai giocatori, a meno che non vengano mantenuti permanentemente attraverso interazioni come l'alimentazione, il legare, l'utilizzo o l'assegnazione di un nome."
 }

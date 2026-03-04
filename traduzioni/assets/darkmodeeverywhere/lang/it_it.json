@@ -1,13 +1,13 @@
 {
-    "config.darkemodeeverywhere.button_position_x": "Posizione del pulsante X (pixel lontano dal lato sinistro della GUI nell'asse x)",
-    "config.darkemodeeverywhere.button_position_y": "Posizione del pulsante Y (pixel lontano dal basso della GUI nell'asse Y)",
-    "config.darkemodeeverywhere.method_shader_blacklist": "Metodo di blacklist del shader oscuro.\n\nÈ una lista di stringhe class:metodo (metodi di rendering) per cui il shader oscuro non verrà applicato.\n\nOgni stringa consiste nella classe e nel metodo (o in qualsiasi sottostringa) da bloccare il shader oscuro.\n\nAd esempio, 'renderhunger' è sufficiente per bloccare 'net.minecraftforge.client.gui.overlay.forgegui:renderfood' (entrambi funzioneranno).",
-    "config.darkemodeeverywhere.method_shader_dump": "Abilitando questa configurazione, ogni 5 secondi verrà eseguito un dump dei metodi utilizzati per rendere gli schermi che hanno applicato lo shader oscuro\\nil dump sarà costituito da una lista di stringhe classe:metodo, ad esempio 'net.minecraftforge.client.gui.overlay.forgegui:renderfood'\\nutilizza questa funzionalità per aiutarti a trovare le stringhe dei metodi di rendering degli schermi che desideri bloccare.",
-    "config.darkmodeeverywhere.enabled": "Abilitato",
-    "gui.darkmodeeverywhere.dark_mode": "Modalità oscura",
-    "gui.darkmodeeverywhere.less_perfect_dark": "Ombra meno perfetta",
-    "gui.darkmodeeverywhere.light_mode": "Modalità luminosa",
-    "gui.darkmodeeverywhere.perfect_dark": "Ombra perfetta",
-    "gui.darkmodeeverywhere.toasted_light": "Modalità luce tostata",
-    "gui.tooltip.darkmodeeverywhere.shader_switch_tooltip": "* utilizza Shift per saltare al modulo chiaro"
+    "config.darkemodeeverywhere.button_position_x": "A distanza di pixel a sinistra dell'interfaccia grafica, lungo l'asse X.",
+    "config.darkemodeeverywhere.button_position_y": "A distanza di pixel dal fondo dell'interfaccia grafica, lungo l'asse Y.",
+    "config.darkemodeeverywhere.method_shader_blacklist": "Un elenco di stringhe che specificano i metodi (o sottostringhe) di una classe a cui non verrà applicato lo shader scuro.\nOgni stringa consiste nel nome della classe e del metodo (o di qualsiasi sottostringa) da bloccare.\nAd esempio, \"renderHunger\" è sufficiente per bloccare \"net.minecraftforge.client.gui.overlay.ForgeGui:renderFood\" (entrambe funzioneranno).",
+    "config.darkemodeeverywhere.method_shader_dump": "Abilitare questa configurazione permetterà (ogni 5 secondi) di salvare quali metodi sono stati utilizzati per rendere le interfacce grafiche a cui è stato applicato lo shader scuro.\nLa lista conterrà stringhe di tipo \"classe:metodo\", ad esempio \"net.minecraftforge.client.gui.overlay.ForgeGui:renderFood\".\nUtilizzare questa funzionalità per individuare le stringhe dei metodi di rendering delle interfacce grafiche che desiderate bloccare.",
+    "config.darkmodeeverywhere.enabled": "Attivato",
+    "gui.darkmodeeverywhere.dark_mode": "Modalità scura",
+    "gui.darkmodeeverywhere.less_perfect_dark": "Meno perfetto",
+    "gui.darkmodeeverywhere.light_mode": "Modalità luce",
+    "gui.darkmodeeverywhere.perfect_dark": "Perfect Dark",
+    "gui.darkmodeeverywhere.toasted_light": "Modalità \"chiara\" con effetto tostato",
+    "gui.tooltip.darkmodeeverywhere.shader_switch_tooltip": "* Utilizzare lo shift per passare alla modalità Light"
 }

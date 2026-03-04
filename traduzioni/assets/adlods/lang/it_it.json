@@ -1,0 +1,16 @@
+{
+    "adlods.configuration.Deposits": "Depositi",
+    "adlods.configuration.Features": "Caratteristiche",
+    "adlods.configuration.Indicators": "Indicatori",
+    "adlods.configuration.Stripper": "Cabaretto",
+    "adlods.configuration.Veins": "Vasi sanguigni",
+    "adlods.configuration.alwaysOnCeiling": "sempreAlSoffitto",
+    "adlods.configuration.disableVanillaLargeVeins": "disabilita le vene principali",
+    "adlods.configuration.disabledDeposits": "Contributi",
+    "adlods.configuration.disabledFeatures": "Funzionalità per persone con disabilità",
+    "adlods.configuration.disabledVeins": "Vasi sanguigni danneggiati",
+    "adlods.configuration.dressUnloadedChunks": "vestito, pezzi scaricati",
+    "adlods.configuration.enabled": "abilitato",
+    "adlods.configuration.globalSizeMultiplier": "moltiplicatore di dimensione globale",
+    "adlods.configuration.globalSpawnRateMultiplier": "moltiplicatore della velocità di generazione globale"
+}

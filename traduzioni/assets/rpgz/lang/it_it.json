@@ -1,11 +1,11 @@
 {
-    "text.autoconfig.rpgz.option.despawn_corps_after_ticks": "I tick prima che i corpi si dissolvano",
-    "text.autoconfig.rpgz.option.despawn_immediately_when_empty": "Fare sparire i cadaveri immediatamente quando vuoti",
-    "text.autoconfig.rpgz.option.drop_after_ticks": "Secondi prima del rilascio automatico dei tesori",
-    "text.autoconfig.rpgz.option.drop_after_ticks.@PrefixText": "Durata in tick (1s = 20tick)",
-    "text.autoconfig.rpgz.option.drop_unlooted": "Lascia il bottino dopo un certo tempo",
-    "text.autoconfig.rpgz.option.excluded_entities": "Escludi entità per nome (modid:mobname)",
-    "text.autoconfig.rpgz.option.hopper_extracting": "Consenti al contenitore di estrarre gli oggetti",
-    "text.autoconfig.rpgz.option.surfacing_in_water": "Risalita in acqua",
-    "text.autoconfig.rpgz.title": "Configurazione RPGZ"
+    "text.autoconfig.rpgz.option.despawn_corps_after_ticks": "Insetti che scompaiono prima che l'area venga ripulita",
+    "text.autoconfig.rpgz.option.despawn_immediately_when_empty": "Elimina immediatamente i corpi non più presenti.",
+    "text.autoconfig.rpgz.option.drop_after_ticks": "Numero di azioni necessarie prima che venga rilasciato automaticamente il bottino.",
+    "text.autoconfig.rpgz.option.drop_after_ticks.@PrefixText": "Durata in unità di misura (1 secondo = 20 unità di misura)",
+    "text.autoconfig.rpgz.option.drop_unlooted": "Raccogli i bottini alla fine del tempo.",
+    "text.autoconfig.rpgz.option.excluded_entities": "Escludere entità per nome: modid:mobname",
+    "text.autoconfig.rpgz.option.hopper_extracting": "Permetti al contenitore di estrarre gli oggetti.",
+    "text.autoconfig.rpgz.option.surfacing_in_water": "Rivestimento superficiale in acqua",
+    "text.autoconfig.rpgz.title": "Configurazione di RPGZ"
 }

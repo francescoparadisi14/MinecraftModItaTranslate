@@ -9,6 +9,10 @@
     "emi.category.brewery.drying": "Drying",
     "emi.category.candlelight.pan_cooking": "Pan Cooking",
     "emi.category.candlelight.pot_cooking": "Pot Cooking",
+    "emi.category.emi_letsdo_compat.cake_cut": "Cutting Cake",
+    "emi.category.emi_letsdo_compat.fondue_fill": "Fill Fondue with Cheese",
+    "emi.category.emi_letsdo_compat.fondue_use": "Filled Fondue Use",
+    "emi.category.emi_letsdo_compat.grape_mashing": "Grape Mashing",
     "emi.category.farm_and_charm.crafting_bowl": "Crafting Bowl",
     "emi.category.farm_and_charm.drying": "Drying",
     "emi.category.farm_and_charm.mincer": "Mincer",
@@ -23,5 +27,6 @@
     "emi.category.meadow.woodcutting": "Woodcutting",
     "emi.category.vinery.apple_fermenting": "Apple Press Fermenting",
     "emi.category.vinery.apple_mashing": "Apple Press Mashing",
-    "emi.category.vinery.wine_fermentation": "Barrel Fermentation"
+    "emi.category.vinery.wine_fermentation": "Barrel Fermentation",
+    "emi_letsdo_compat.jump_on_pot": "§e§l[RIGHT CLICK]§r§r the pot while holding §5§ngrapes§r§r in your hand .\n\n §e§l[JUMP]§r§r on the pot to crush the §5§ngrapes§r§r.\n §e§l[USE]§r§r a bottle to grab the §5§njuice§r§r."
 }

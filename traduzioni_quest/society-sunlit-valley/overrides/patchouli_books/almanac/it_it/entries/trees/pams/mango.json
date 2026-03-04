@@ -6,11 +6,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)🔥 Estate $(li)Prezzo: 16.384 :coin$(li)Dimensioni: 1x1$(li)Cresce in:` $(l:tree_crops\/mango)8 Mango $(\/l)$(br2)$(l)Note$()$(li)Venduti come semi dal Cultivatore Maestro.`"
+            "text": "patchouli:text\n\n$(l)Statistiche$()$(li)🔥 Estate$(r) $(li) Prezzo: 16.384 $(li) Dimensioni: 1x1$(li) Cresce: 8 mango$(\/l)$(br2)$(l)Note$()$(li) Piantine acquistate da un coltivatore esperto."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Mango Tree",
+            "name ": "Patchouli: Multiblock\n\nMango Tree",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {
@@ -77,8 +77,7 @@
                         "     "
                     ]
                 ]
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

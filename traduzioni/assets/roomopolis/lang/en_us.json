@@ -1,6 +1,7 @@
 {
     "block.roomopolis.room_block": "Room Block",
     "block.roomopolis.room_key_block": "Room Key Block",
+    "category.roomopolis.room_category": "Rooms",
     "item.key.area_not_empty": "Area not clear!",
     "item.key.invalid_placement": "Invalid placement",
     "item.key.missing_blocks": "Missing blocks",
@@ -8,6 +9,7 @@
     "item.key.placed": "Placed Template",
     "item.key.requires_key_block": "This Key requires a %s to be interacted with!",
     "item.key.side_only": "This can only be used on the side of a block!",
+    "item.key.too_high": "This can not be used at this height try going lower!",
     "item.key.too_large": "This Structure is too big to be placed!",
     "item.key.top_only": "This can only be used on the top of a block!",
     "item.roomopolis.interconnected_wall_removing_key": "INTERCONNECTED_WALL_REMOVING_KEY",
@@ -17,6 +19,7 @@
     "item.roomopolis.tiny_room_key": "Tiny Room Key",
     "itemGroup.roomopolis": "Roomopolis",
     "message.key.overrides_blocks": "Using this key will override existing blocks in the area!",
+    "roomopolis.jei.tooltip.rotate": "Template Size: %s, %s, %s",
     "tooltips.key.consume_key": "Key will be consumed on use!",
     "tooltips.key.loading_size": "Loading Information",
     "tooltips.key.normal_checks": "Requires a clear area to place the room",

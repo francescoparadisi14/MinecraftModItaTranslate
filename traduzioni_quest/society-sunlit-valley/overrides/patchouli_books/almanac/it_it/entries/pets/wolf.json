@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Doni possibili:$()$(br)Cappello di orecchie di volpe lunghe, Fossile di lupo$(br2)$(l)Oggetto per addomesticare:$()$(br)Osso"
+            "text": "patchouli:testo\n\n$(l)Possibili regali:$()$(br)Cappello con orecchie di volpe lunghe, scheletro di lupo$(br2)$(l)Oggetto per addomesticare:$()$(br)Osso"
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:wolf",
             "scale": 0.7,
-            "text": "Il miglior amico di tutti"
+            "text": "patchouli:entità\n\nminecraft:lupo\n\nIl migliore amico di tutti"
         }
     ]
 }

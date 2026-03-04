@@ -1,5 +1,7 @@
 {
-    "block.disenchanting_table.disenchanting_table": "Tavola di disincantazione",
-    "item.disenchanting_table.disenchanting_table": "Tavola di disincantazione",
-    "itemGroup.disenchantingTable": "Tavola di disincantazione"
+    "block.disenchanting_table.disenchanting_table": "Tavolo senza incantesimi",
+    "item.disenchanting_table.disenchanting_table": "Tavolo senza incantesimi",
+    "itemGroup.disenchantingTable": "Tavolo senza incantesimi",
+    "text.disenchanting_table.automatic_mode": "MODE: AUTOMATICO -> MANUALE",
+    "text.disenchanting_table.manual_mode": "MODO: MANUALE -> AUTOMATICO"
 }

@@ -1,5 +1,5 @@
 {
-    "entity.guardribbits.guard_ribbit": "Ribbit guard",
-    "item.guardribbits.ribbit_guard_spawn_egg": "Uovo di spawn del guardiano ribbit",
-    "itemGroup.guardribbits.general": "Ribbit guardiani"
+    "entity.guardribbits.guard_ribbit": "Guardia di protezione",
+    "item.guardribbits.ribbit_guard_spawn_egg": "Uovo di riproduzione di Ribbit Guard",
+    "itemGroup.guardribbits.general": "Guarda, guarda!"
 }

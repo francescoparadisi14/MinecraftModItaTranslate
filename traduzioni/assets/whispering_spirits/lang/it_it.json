@@ -1,7 +1,7 @@
 {
-    "entity.whispering_spirits.whispering_spirit": "spirito sussurrante",
-    "item.whispering_spirits.whispering_spirit_spawn_egg": "Uovo di generazione dello spirito sussurrante",
-    "subtitles.whisperone": "Sussurro dello spirito",
-    "subtitles.whisperthree": "Sussurro dello spirito",
-    "subtitles.whispertwo": "Sussurro dello spirito"
+    "entity.whispering_spirits.whispering_spirit": "Spirito sussurrante",
+    "item.whispering_spirits.whispering_spirit_spawn_egg": "Uovo della creatura \"Whispering Spirit\"",
+    "subtitles.whisperone": "Sussurri dello spirito",
+    "subtitles.whisperthree": "Sussurri dello spirito",
+    "subtitles.whispertwo": "Sussurri dello spirito"
 }

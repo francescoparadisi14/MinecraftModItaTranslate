@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 320 monete$(li)Simbolo di stagione: Autunno $(li)Acqua: Oceano$(li)Clima: Sereno$(li)Ora: Notte"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 320$(li)§0🍂 §4Autunno§0 §0❆ §bInverno§0$(li)Acqua: Oceano$(li)Tempo: Sereno$(li)Ora: Notte"
         },
         {
             "type": "patchouli:entity",
             "entity": "unusualfishmod:copperflame",
             "scale": 0.8,
             "rotate": true,
-            "text": "Non sono un grande appassionato di gelato al cioccolato con foglia di menta."
+            "text": "patchouli: entità\n\nunusualfishmod: rameflame\n\nNon sono un grande fan del gelato al cioccolato con menta."
         }
     ]
 }

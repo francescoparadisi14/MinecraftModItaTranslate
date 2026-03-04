@@ -1,7 +1,7 @@
 {
-    "cos.command.clearcosarmor.success.multiple": "Rimossi %s Oggetti Dall'inventario Di Armatura Estetica Da %s Giocatori",
-    "cos.command.clearcosarmor.success.single": "Rimossi %s Oggetti Dall'inventario Di Armatura Estetica Del Giocatore %s",
-    "cos.gui.buttoncos": "Armatura Estetica",
+    "cos.command.clearcosarmor.success.multiple": "Rimosse %s unità di equipaggiamento cosmetico dall'inventario di %s giocatori.",
+    "cos.command.clearcosarmor.success.single": "Rimosse %s unità di equipaggiamento cosmetico dall'inventario del giocatore %s",
+    "cos.gui.buttoncos": "Armatura cosmetica",
     "cos.gui.buttonnormal": "Normale",
-    "cos.key.opencosarmorinventory": "Apri Inventario Armatura Estetica"
+    "cos.key.opencosarmorinventory": "Inventario di armature cosmetiche"
 }

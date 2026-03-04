@@ -1,7 +1,7 @@
 {
-    "item.mob_drops_recipes_end.end_essence_common": "Essenza finale comune",
-    "item.mob_drops_recipes_end.end_essence_epic": "Essenza finale epica",
-    "item.mob_drops_recipes_end.end_essence_rare": "Essenza di fine rara",
-    "item.mob_drops_recipes_end.end_essence_uncommon": "Essenza finale rara",
-    "itemGroup.mobDropsRecipesEnd": "Ricette cadute da mostri: fine"
+    "item.mob_drops_recipes_end.end_essence_common": "Essenza comune",
+    "item.mob_drops_recipes_end.end_essence_epic": "Essenza Epica",
+    "item.mob_drops_recipes_end.end_essence_rare": "Essenza rara",
+    "item.mob_drops_recipes_end.end_essence_uncommon": "Essenza insolita",
+    "itemGroup.mobDropsRecipesEnd": "Ricette di Mob Drops: Fine"
 }

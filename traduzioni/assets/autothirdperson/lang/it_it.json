@@ -1,6 +1,6 @@
 {
-    "autothirdperson.disabled": "Disabilitato",
-    "autothirdperson.enabled": "Abilitato",
-    "autothirdperson.say_toggle": "Terzo persona automatica %s",
-    "autothirdperson.toggle": "Alternare modalità terza persona automatica"
+    "autothirdperson.disabled": "PERSONE CON DISABILITÀ",
+    "autothirdperson.enabled": "ATTIVATO\/A",
+    "autothirdperson.say_toggle": "Auto, terza persona",
+    "autothirdperson.toggle": "Attiva\/Disattiva Terza Persona"
 }

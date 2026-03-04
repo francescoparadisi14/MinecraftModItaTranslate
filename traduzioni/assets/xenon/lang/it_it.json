@@ -1,4 +1,4 @@
 {
-    "xenon.conflicting_mod": "Xenon ha rilevato la presenza di mod noti per causare problemi di rendering\/ crash. È consigliabile disinstallarli. Ecco l'elenco seguente.",
-    "xenon.conflicting_mod_list": "Elenco di mod in conflitto: [{2}]"
+    "xenon.conflicting_mod": "Xenon ha rilevato la presenza di moduli noti per causare problemi di rendering o crash. Si raccomanda di disinstallarli. Consultare l'elenco sottostante.",
+    "xenon.conflicting_mod_list": "[{2}]"
 }

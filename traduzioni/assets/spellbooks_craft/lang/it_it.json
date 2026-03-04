@@ -1,11 +1,11 @@
 {
-    "description.spellbooks_craft.amethyst_onient": "Olio di guarigione riempito del potere degli ametisti. Rimuove tutti gli effetti e concede l'invisibilità per alcuni secondi. L'olio è instabile, quindi può teletrasportarti dentro i blocchi.",
-    "description.spellbooks_craft.concentrated_lapis_lazuli": "ottenuto da lapislazzulo, potente e concentrato.",
-    "description.spellbooks_craft.mortar": "Mortello per mescolare diamanti con ametiste o lapislazzuli.",
-    "description.spellbooks_craft.totem": "Un grande artefatto, utilizzato per evocare la tempesta. (Q per attivazione)",
-    "item.spellbooks_craft.amietistovaia_maz": "Мазь из ametista",
-    "item.spellbooks_craft.concentratedmana": "Концентрированный лазурит",
-    "item.spellbooks_craft.stupka": "Mortaretto di ametista",
+    "description.spellbooks_craft.amethyst_onient": "§7 Unguento curativo, ricco di proprietà degli ametisti. §d Elimina tutti gli effetti e conferisce invisibilità per alcuni secondi. §7 L'unguento è instabile e potrebbe teletrasportarti all'interno di blocchi.",
+    "description.spellbooks_craft.concentrated_lapis_lazuli": "§7 Concentrato magico ottenuto dal lapislazzuli.",
+    "description.spellbooks_craft.mortar": "§7Miscelatore per la preparazione di: §7marmellate con ametiste §7o §7lapislazzuli con diamanti.",
+    "description.spellbooks_craft.totem": "§7 Oggetto straordinario, utilizzato per evocare il tuono. §5 Q per attivare",
+    "item.spellbooks_craft.amietistovaia_maz": "Unguento a base di ametista",
+    "item.spellbooks_craft.concentratedmana": "Lazuite concentrato",
+    "item.spellbooks_craft.stupka": "Macina per malta ametista",
     "item.spellbooks_craft.totem": "Il totem del tuono",
-    "item_group.spellbooks_craft.irons_crafts": "Artigianato di ferro"
+    "item_group.spellbooks_craft.irons_crafts": "L'arte del ferro"
 }

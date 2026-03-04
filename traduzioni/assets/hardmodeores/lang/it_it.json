@@ -1,15 +1,15 @@
 {
-    "block.hardmodeores.richcopperore": "Minerale di rame ricco",
-    "block.hardmodeores.richdeepslatecopperore": "Ore di rame profonda in pietra slata ricca",
-    "block.hardmodeores.richdeepslatediamondore": "Ore di diamante profonda in pietra slata ricca",
-    "block.hardmodeores.richdeepslategoldore": "Ore di rame profonda in pietra ricca",
-    "block.hardmodeores.richdeepslateironore": "Carbone ferrifero di pietra profonda",
-    "block.hardmodeores.richdiamondore": "Carbone di diamante ricco",
-    "block.hardmodeores.richgoldore": "Carbone d'oro ricco",
-    "block.hardmodeores.richironore": "Carbone ferroso ricco",
-    "item.hardmodeores.copper_nugget": "Borsone di rame",
+    "block.hardmodeores.richcopperore": "Ricco di rame",
+    "block.hardmodeores.richdeepslatecopperore": "Grande quantità di rame proveniente dalla roccia di basalto scuro",
+    "block.hardmodeores.richdeepslatediamondore": "Grande quantità di diamanti di alta qualità estratta dal basalto",
+    "block.hardmodeores.richdeepslategoldore": "Grande quantità di oro proveniente da roccia di basalto scura",
+    "block.hardmodeores.richdeepslateironore": "Ferro di alta qualità estratto dalla \"Deepslate\"",
+    "block.hardmodeores.richdiamondore": "Ricco giacimento di diamanti",
+    "block.hardmodeores.richgoldore": "Oro di alta qualità",
+    "block.hardmodeores.richironore": "Ferro di alta qualità",
+    "item.hardmodeores.copper_nugget": "Lingotto d'oro",
     "item.hardmodeores.diamond_shard": "Frammento di diamante",
-    "item.hardmodeores.pure_raw_copper": "Coppia pura grezza",
-    "item.hardmodeores.pure_raw_gold": "Oro puro grezzo",
-    "item.hardmodeores.pure_raw_iron": "Rame puro grezzo"
+    "item.hardmodeores.pure_raw_copper": "Rame puro, non fuso",
+    "item.hardmodeores.pure_raw_gold": "Oro puro, non raffinato",
+    "item.hardmodeores.pure_raw_iron": "Ferro grezzo puro"
 }

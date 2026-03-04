@@ -126,6 +126,7 @@
     "block.packedup.yellow_book_bundle_slab": "Half Bundle of Yellow Books",
     "block.packedup.yellow_book_pile": "Pile of Yellow Books",
     "itemGroup.packedup": "Packed Up",
+    "key.category.packedup.keys": "Packed Up",
     "packedup.advancement.basic_backpack.description": "Craft a backpack",
     "packedup.advancement.basic_backpack.title": "Packing Up!",
     "packedup.advancement.diamond_backpack.description": "Craft a diamond backpack",
@@ -155,6 +156,5 @@
     "packedup.item.obsidianbackpack": "Obsidian Backpack",
     "packedup.item.silverbackpack": "Silver Backpack",
     "packedup.item_group": "Packed Up",
-    "packedup.keys.category": "Packed Up",
     "packedup.keys.openbag": "Open Backpack"
 }

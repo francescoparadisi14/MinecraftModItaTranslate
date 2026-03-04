@@ -2,6 +2,6 @@
     "entity.minecraft.villager.dynamicvillage.hydraulic_engineer": "Ingegnere idraulico",
     "entity.minecraft.villager.dynamicvillage.mechanical_engineer": "Ingegnere meccanico",
     "entity.minecraft.villager.dynamicvillage.miner": "Minatore",
-    "entity.minecraft.villager.dynamicvillage.train_mechanic": "meccanico dei treni",
-    "itemGroup.village_life_tab": "Creare vita del villaggio (dinamico)"
+    "entity.minecraft.villager.dynamicvillage.train_mechanic": "Meccanico di treni",
+    "itemGroup.village_life_tab": "Crea: Villaggio Dinamico"
 }

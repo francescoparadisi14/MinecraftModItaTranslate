@@ -1,5 +1,8 @@
 {
+    "attribute.name.push_resistance": "Resistenza alla spinta",
+    "attribute.name.xray_follow_range": "Raggio di rilevamento delle creature XRay",
     "death.attack.bite": "%s è stato morso\/a da %s",
+    "death.attack.shockwave": "%s è rimasto\/a sorpreso\/a da %s",
     "enhancedai.subtitle.angry_creeper_explode": "Creeper incacchiato esplode",
     "enhancedai.subtitle.angry_creeper_fuse": "Creeper incacchiato sta per esplodere"
 }

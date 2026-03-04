@@ -1,0 +1,16 @@
+{
+    "key.categories.sophisticatedsorter": "Sophisticated Sorter",
+    "key.sophisticatedsorter.disable": "Disable buttons on current Container",
+    "key.sophisticatedsorter.sort": "Sort Container",
+    "text.autoconfig.sophisticatedsorter.option.BLACK_LIST": "Container Blacklist",
+    "text.autoconfig.sophisticatedsorter.option.BLACK_LIST.@Tooltip": "Containers listed here will not display sort buttons",
+    "text.autoconfig.sophisticatedsorter.option.FILTER": "Enable Container Filter",
+    "text.autoconfig.sophisticatedsorter.option.FILTER.@Tooltip": "When enabled, sort buttons are only shown for containers with more than 10 available slots (excluding the player's inventory)",
+    "text.autoconfig.sophisticatedsorter.option.SORT_BY": "Sort By",
+    "text.autoconfig.sophisticatedsorter.option.SORT_BY.@Tooltip": "Determines how items are sorted in containers",
+    "text.autoconfig.sophisticatedsorter.option.SORT_BY.COUNT": "Count",
+    "text.autoconfig.sophisticatedsorter.option.SORT_BY.MOD": "Mod",
+    "text.autoconfig.sophisticatedsorter.option.SORT_BY.NAME": "Name",
+    "text.autoconfig.sophisticatedsorter.option.SORT_BY.TAGS": "Tags",
+    "text.autoconfig.sophisticatedsorter.title": "Sophisticated Sorter Configuration"
+}

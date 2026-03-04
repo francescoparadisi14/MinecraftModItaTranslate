@@ -1,15 +1,15 @@
 {
-    "name": "Gearo Berries 🌼",
+    "name": "Frutti di bosco di Gearo 🌼",
     "category": "patchouli:crops",
     "icon": "vintagedelight:gearo_berry",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li):moneta: 24$(li)🌼 §2Primavera$(li)Rendita: 1-2$(li)Tempo di crescita: 4 giorni$(li)Tempo di rigenerazione: 2 giorni$(br2)$(l)Note$()$(br)Ottenuto dal commercio Elvico della Botania e raramente dai plorts grassi dell'Alga.$(br)Non ci sono semi, semplicemente pianta il frutto."
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): monete: 24$(li) 🌼 Primavera$(li) Resa: 1-2$(li) Tempo di crescita: 4 giorni$(li) Tempo di rigattamento: 2 giorni$(br2)$(l)Note$()$(br) Ottenibile dal commercio degli Elfi di Botania e raramente dai Juicy Slime plorts."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Gearo Berry Bush",
+            "name ": "Patchouli: Multibloc\n\nArbusto di Gearo Berry",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -24,8 +24,7 @@
                     "0": "vintagedelight:gearo_berry_bush[age=4]",
                     "F": "minecraft:grass_block"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

@@ -2,12 +2,12 @@
     "block.dtecologics.azalea_branch": "Albero di azalea",
     "block.dtecologics.coconut_branch": "Palma",
     "block.dtecologics.walnut_branch": "Albero di noce",
-    "death.attack.dtecologics.falling_fruit.coconut": "%1$s è stato colpito alla testa da un cocco caduto",
+    "death.attack.dtecologics.falling_fruit.coconut": "«Un cocco è caduto e ha colpito la persona.»",
     "item.dtecologics.coconut_seed": "Cocco",
-    "item.dtecologics.prickly_pear_cactus_seed": "Semi di cactus spinoso",
-    "item.dtecologics.walnut_seed": "Seme di noce germinato",
+    "item.dtecologics.prickly_pear_cactus_seed": "Semi di fico d'India",
+    "item.dtecologics.walnut_seed": "Nocciolo germinato",
     "species.dtecologics.coconut": "Cocco",
-    "species.dtecologics.prickly_pear_cactus": "Cactus di prugna spinosa",
-    "species.dtecologics.walnut": "Noce",
-    "subtitle.dtecologics.falling_fruit.bonk": "Il giocatore si è schiantato con un frutto"
+    "species.dtecologics.prickly_pear_cactus": "Opuntia",
+    "species.dtecologics.walnut": "Nocciola",
+    "subtitle.dtecologics.falling_fruit.bonk": "Il giocatore è stato colpito da un frutto."
 }

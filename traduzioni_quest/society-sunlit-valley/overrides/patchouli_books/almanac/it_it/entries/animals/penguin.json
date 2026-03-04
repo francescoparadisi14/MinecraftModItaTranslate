@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Uovo: Uovo di pinguino$(li)Bottino: Piuma$(br2)$(l)Note$()$(br)Gli uova richiedono 2+ cuori. Possono essere trovate nei biomi di Oceani Congelati e Spighe di Ghiaccio."
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile per la vendita$(li)Uovo: Uovo di pinguino$(li)Oggetti ottenuti: Piuma$(br2)$(l)Note$()$(br)Gli uova richiedono almeno 2 cuori. Si possono trovare negli ambienti di \"Oceani Congelati\" e \"Spicchi di Ghiaccio\"."
         },
         {
             "type": "patchouli:entity",
             "entity": "wildernature:penguin",
             "scale": 0.5,
-            "text": "Sono come il Pengo ma un mostro di Minecraft"
+            "text": "patchouli: entità\n\nwildernature: pinguino\n\nSono come un pinguino, ma sono un mostro di Minecraft."
         }
     ]
 }

@@ -1,15 +1,15 @@
 {
-    "name": "Albero di rosewood 🌐",
+    "name": "Albero di Rosewood 🌐",
     "category": "patchouli:trees",
     "icon": "atmospheric:rosewood_sapling",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)🌐 §5Tutto l'anno§r$(li)Dimensioni: 1x1`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🌐 Disponibile tutto l'anno§r$(li)Dimensioni: 1x1"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Rosewood Tree",
+            "name ": "Patchouli: Multibloc\nAlbero di Rosewood",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -188,8 +188,7 @@
                     "W": "atmospheric:rosewood_log[axis=y]",
                     "T": "atmospheric:rosewood_log[axis=z]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

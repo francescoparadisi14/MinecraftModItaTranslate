@@ -1,13 +1,13 @@
 {
-    "block.morelights.pyle_headlight": "Testata di locomotiva",
-    "block.morelights.skinny_tube_light": "Luce tubolare sottile e piccola",
-    "block.morelights.small_armored_light": "Piccolo lume armato",
-    "block.morelights.small_cage_light": "Luce gabbia piccola",
-    "block.morelights.small_edison_bulb": "Lampadina Edison piccola",
-    "block.morelights.small_green_sconce": "Piccola luce bancaria",
-    "block.morelights.small_light_with_reflector": "Piccola luce con riflettore",
-    "block.morelights.small_tube_light": "Lampada a tubo piccola",
-    "item.morelights.yet_another_screwdriver": "y.a.s.s (un'altra spazzola standard)",
-    "tab.morelights": "Altri luci",
-    "tab.morelightstab": "Crea: luci aggiuntive"
+    "block.morelights.pyle_headlight": "Faro della locomotiva",
+    "block.morelights.skinny_tube_light": "Piccola luce a tubo sottile",
+    "block.morelights.small_armored_light": "Piccola macchina corazzata leggera",
+    "block.morelights.small_cage_light": "Piccola gabbia luminosa",
+    "block.morelights.small_edison_bulb": "Piccola lampadina Edison",
+    "block.morelights.small_green_sconce": "Piccola lampada per banchieri",
+    "block.morelights.small_light_with_reflector": "Piccola lampada con riflettore",
+    "block.morelights.small_tube_light": "Piccola lampada a tubolare",
+    "item.morelights.yet_another_screwdriver": "Y.A.S.S. (Un altro cacciavite standard)",
+    "tab.morelights": "Più luci",
+    "tab.morelightstab": "Crea: Luci aggiuntive"
 }

@@ -1,15 +1,15 @@
 {
-    "name": "Grimwood Tree 🌐",
+    "name": "Albero di Grimwood 🌐",
     "category": "patchouli:trees",
     "icon": "atmospheric:grimwood_sapling",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)🌐 §5Tutto l'anno§r$(li)Dimensioni: 2x2`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🌐 Disponibile tutto l'anno§r$(li)Dimensioni: 2x2"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Grimwood Tree",
+            "name ": "Patchouli: Multibloc\n\nAlbero di Grimwood",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -139,8 +139,7 @@
                     "W": "atmospheric:grimwood_log[axis=y]",
                     "T": "atmospheric:grimwood_log[axis=z]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

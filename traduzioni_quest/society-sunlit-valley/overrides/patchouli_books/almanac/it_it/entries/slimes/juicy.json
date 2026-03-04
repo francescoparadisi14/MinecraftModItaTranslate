@@ -1,18 +1,17 @@
 {
-    "name": "Juicy",
+    "name": "Succoso",
     "category": "patchouli:slimes",
     "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:juicy\"}}",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Localizzazioni:$()$(li)Bioma: Grotte Foltose (Caverne del Cranio)$(li)Struttura: Alveari d'Api (Caverne del Cranio)$(li)Fusione di cuore$(br2)$(l)Rischii:$()$(br)Sale le pareti! Causa effetto Ebbro quando è agitato."
+            "text": "patchouli:testo\n\n$(l)Posizioni:$()$(li)Bioma: Caverne lussureggianti (Caverna dello Scheletro)$(li)Struttura: Nidi di api (Caverna dello Scheletro)$(li)Fusione del cuore$(br2)$(l)Rischi:$()$(br)Arrampicarsi sulle pareti! Provoca l'effetto \"Intossicato\" quando si è arrabbiati."
         },
         {
             "type": "patchouli:entity",
-            "name": "Juicy Slime",
+            "name": "patchouli:entità\n\nsplendid\\_slimes:splendid\\_slime{Razza:\"splendid\\_slimes:juicy\"}\n\nJuicy Slime",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:juicy\"}",
-            "scale": 0.9,
-            "text": "Entità: Splendido Slime (Razza: Juicy)"
+            "scale": 0.9
         }
     ]
 }

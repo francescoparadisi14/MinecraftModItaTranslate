@@ -1,0 +1,18 @@
+{
+    "block.mo_waystones.calcite_waystone": "Calcite Waystone",
+    "block.mo_waystones.divine_bricks": "Mattoni divini",
+    "block.mo_waystones.divine_bricks_waystone": "Via delle Pietre Sacre",
+    "block.mo_waystones.divine_waystone": "Via Divina",
+    "block.mo_waystones.ice_waystone": "Via ghiacciata",
+    "block.mo_waystones.mud_bricks_waystone": "Strada di mattoni di fango, pietra di Waystone",
+    "block.mo_waystones.nether_bricks_waystone": "Nether Bricks Waystone",
+    "block.mo_waystones.polished_calcite_waystone": "Pietra di calcare levigata",
+    "block.mo_waystones.runic_divine_bricks": "Mattoni divini runici",
+    "block.mo_waystones.sculk_waystone": "Via di Sculk",
+    "block.mo_waystones.sea_stone_waystone": "Via delle Pietre Marine",
+    "block.mo_waystones.stable_divine_stone": "Pietra divina stabile",
+    "block.mo_waystones.tuff_bricks_waystone": "Tuff Bricks Waystone",
+    "block.mo_waystones.tuff_waystone": "Tuff Waystone",
+    "block.mo_waystones.unstable_divine_stone": "Pietra divina instabile",
+    "creativetab.mo_waystones.mo_waystones_tab": "Mo Waystones"
+}

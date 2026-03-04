@@ -1,15 +1,15 @@
 {
-    "name": "Passionfruit 🌼",
+    "name": "Frutto della passiflora 🌼",
     "category": "patchouli:tree_crops",
     "icon": "atmospheric:passion_fruit",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li):moneta: 128$(li)🌼 §2Primavera§r§r$(li)Rendita: 1$(li)Stadi di crescita: 8$(br2)$(l)Note$()$(li)Vedi: $(l:trees\/pams\/passionfruit)Albero di Frutto Passione$(\/l)`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): moneta: 128$(li) 🌼 Primavera§r§r$(li)Resa: 1$(li)Fasi di crescita: 8$(br2)$(l)Note$()$(li)Vedi: $(l:alberi\/pams\/passionfruit)Albero di frutto di sandalo$(\/l)"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Passionfruit Tree",
+            "name ": "Patchouli: Multibloc\n\nAlbero della passion fruit",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {
@@ -24,8 +24,7 @@
                         "F"
                     ]
                 ]
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

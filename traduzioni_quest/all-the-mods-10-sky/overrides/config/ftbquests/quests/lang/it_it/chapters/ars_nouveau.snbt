@@ -1,0 +1,322 @@
+{
+    "quest.0043ED1E4EF2D4A1.quest_desc": [
+        "Questi strumenti sono utili per migliorare le tue capacità."
+    ],
+    "quest.0043ED1E4EF2D4A1.quest_subtitle": "I personaggi di supporto",
+    "quest.0043ED1E4EF2D4A1.title": "E altri punti di interesse",
+    "quest.04987E54ADC2C057.title": "\\&6 Fascino di Drygmy",
+    "quest.04D9F6587EF8D9B7.quest_desc": [
+        "Il contenitore \"\\&9Potion Jar\" può contenere fino a 100 pozioni. È possibile rimuoverle utilizzando una bottiglia vuota o un flacone per pozioni.\n\nLe Wixies utilizzeranno questi contenitori durante la preparazione automatica delle pozioni."
+    ],
+    "quest.04D9F6587EF8D9B7.quest_subtitle": "Conservazione delle pozioni",
+    "quest.088FCB5267CB7A89.quest_desc": [
+        "Questa cintura conferirà effetti positivi casuali per un breve periodo. Questi effetti varieranno in intensità."
+    ],
+    "quest.088FCB5267CB7A89.title": "E altri oggetti preziosi",
+    "quest.0A1ABE9CF7740AAA.quest_desc": [
+        "L'anello \"Rings of Discount\" fornisce un piccolo bonus alla massima quantità di mana e alla rigenerazione del mana. Inoltre, riduce il costo totale per lanciare un incantesimo."
+    ],
+    "quest.0A1ABE9CF7740AAA.title": "\\&Anelli di Sconto",
+    "quest.0D330FAD6C993DBC.quest_desc": [
+        "Questo è l'aggiornamento successivo per il tuo Libro di Incantesimi!\n\nQuesto aumenterà la tua quantità totale di mana e la velocità di rigenerazione, oltre a consentirti di creare e utilizzare i Glyphs di livello 2."
+    ],
+    "quest.0D330FAD6C993DBC.quest_subtitle": "V2",
+    "quest.0D330FAD6C993DBC.title": "\\& Libro di incantesimi di Mage",
+    "quest.0DA31E972F2DE8AB.quest_desc": [
+        "Le foci aumentano il potere di un determinato tipo in molti modi diversi. Per identificare il tipo di incantesimo, basta passare il cursore del mouse sull'icona e consultare l'angolo in alto a destra."
+    ],
+    "quest.0DA31E972F2DE8AB.quest_subtitle": "Minore distorsione",
+    "quest.0DA31E972F2DE8AB.title": "\\&9Foci elementari minori",
+    "quest.0E2AD156E5EF263A.quest_desc": [
+        "Utilizzato per incidere gli incantesimi sulla Tavola del Sacerdote."
+    ],
+    "quest.0E2AD156E5EF263A.quest_subtitle": "Carta pregiata",
+    "quest.0E2AD156E5EF263A.title": "\\&dSpell Carta",
+    "quest.111649D7E16D869F.quest_desc": [
+        "Lo \"Stendardo di \\&9Caster\" può essere utilizzato solo per lanciare un singolo incantesimo, e deve essere inciso utilizzando la \"Tabella dello Scriba\".\n\nGli incantesimi dello \"Stendardo\" devono sempre iniziare con \"Proiettile > Accelerare\", e DEVONO essere incisi con un incantesimo che non abbia altri metodi (come il tocco, l'auto-attivazione, ecc.).\n\nQuesto permette di lanciare incantesimi oltre il limite di 10 incantesimi. Se desiderate utilizzare \"Rompi\", basta incidere lo stendardo con \"Rompi\" da solo."
+    ],
+    "quest.111649D7E16D869F.title": "E la bacchetta dell'incantatore",
+    "quest.1322CDAC5D3007BA.quest_desc": [
+        "Questo processo è piuttosto complesso. Innanzitutto, è necessario ottenere un \"Amuleto di Drygmy\" scambiandolo con un mago di livello 4 e 5, e poi crearlo utilizzando il token. È possibile fare clic con il tasto destro su un \"Pietra muschiata\" e utilizzarlo per creare un \"Altare di Drygmy\", che genera un Drygmy.\n\nA questo punto, è necessario utilizzare il contenitore. Avviare il rituale di contenimento e posizionare il contenitore, insieme a qualsiasi mob di cui si desidera raccogliere le risorse. Sarà inoltre necessario ottenere delle \"Risorse\". Questo dovrebbe far sì che il mob finisca nel contenitore.\n\nInfine, posizionare il contenitore entro 10 blocchi dal Drygmy, e posizionare un contenitore pieno di \"Risorse\" e una cassa accanto all'\"Altare\". Dovreste vedere delle particelle verdi provenire dal contenitore, e alla fine, le risorse dovrebbero apparire nella cassa.\n\nPer informazioni dettagliate su come vengono calcolate le frequenze, consultate la wiki."
+    ],
+    "quest.1322CDAC5D3007BA.quest_subtitle": "Anche per i dirigenti",
+    "quest.1322CDAC5D3007BA.title": "\\&6 Agricoltura di Drygmy",
+    "quest.14DB8A515CA50932.quest_desc": [
+        "La \"Spada dell'Incantatore\" consente di applicare un incantesimo alla spada.\n\nTutti gli incantesimi sulla spada ottengono un ulteriore effetto di potenziamento sull'ultimo effetto dell'incantesimo.\n\nPer applicare un incantesimo alla spada, utilizzare un Tavolo di Scrittura. Creare l'incantesimo senza utilizzare un modello."
+    ],
+    "quest.14DB8A515CA50932.title": "\\&9Spada dell'Incantatore",
+    "quest.151648179684B088.quest_desc": [
+        "La creta runica viene utilizzata per disegnare rune permanenti su quella superficie. Queste rune avranno l'effetto di lanciare incantesimi su qualsiasi entità che le calp passi.\n\nPer associare un incantesimo a una runa, utilizzare un foglio di pergamena incisa su un tavolo da scrittura.\n\nNota: La runa necessita di una fonte di energia per funzionare."
+    ],
+    "quest.151648179684B088.quest_subtitle": "Incantesimi posizionabili",
+    "quest.151648179684B088.title": "\\&6Cera di calcare",
+    "quest.1631AD6036F80333.quest_desc": [
+        "Può utilizzare il prodotto \"\\&6Productive Bees\\&r\" per risparmiare tempo e spazio preziosi! Acquistatelo il prima possibile."
+    ],
+    "quest.1631AD6036F80333.quest_subtitle": "Migliore delle camere di immersione",
+    "quest.1631AD6036F80333.title": "\\&5Automazione delle gemme di origine",
+    "quest.17D7D34F519F7E5F.quest_desc": [
+        "Per creare l'ultimo livello del tuo Libro di Incantesimi, dovrai aver ucciso la \\&6Chimera Selvaggia\\&r.\n\nQuesto è un rituale che dovrai completare utilizzando un \\&9Altare per Rituali\\&r."
+    ],
+    "quest.17D7D34F519F7E5F.quest_subtitle": "Non adatto a persone delicate",
+    "quest.17D7D34F519F7E5F.title": "\\&6Libro di incantesimi dell'Archomante",
+    "quest.18A2FBE2D4133FA2.quest_desc": [
+        "Sono necessarie le Pediste Arcane per il braciere rituale e per la creazione di oggetti con l'Apparato di Incantamento.\n\nProcedete e create 8 unità!"
+    ],
+    "quest.18A2FBE2D4133FA2.quest_subtitle": "Tavoli eleganti",
+    "quest.18A2FBE2D4133FA2.title": "Pedestali arcani",
+    "quest.19D02325579F2AA8.quest_desc": [
+        "Il Volcanic Sourcelink genera Source consumando materiali combustibili. I tronchi di Archwood generano una quantità extra di Source.\n\nQuando brucia i materiali, trasforma la pietra circostante in lava.\n\nQuesto processo genera anche i Lava Lilys."
+    ],
+    "quest.19D02325579F2AA8.quest_subtitle": "Danni collaterali",
+    "quest.1A26E6650D007262.quest_desc": [
+        "Fonte: JEI, apparentemente. (e sì, stavo usando l'ironia, non otterrete alcuna conversione da GeOre, solo carbone, JEI stava semplicemente manipolando tutti voi. Esistono percorsi diversi per questo.)"
+    ],
+    "quest.1A26E6650D007262.quest_subtitle": "Sì, possiamo assolutamente trasformare i tuoi blocchi di Unobtainium in blocchi di Budding GeOre.",
+    "quest.1D86B2E553503E53.quest_desc": [
+        "Lo \"Wand of Dominion\" è uno strumento utilizzato per controllare le creature che potresti incontrare nel mondo. Ogni creatura reagisce in modo diverso al manico, quindi è importante consultare il \"Worn Notebook\" per maggiori informazioni!"
+    ],
+    "quest.1D86B2E553503E53.quest_subtitle": "Assistenti cordiali",
+    "quest.1D86B2E553503E53.title": "\\&6Chiediamo aiuto!",
+    "quest.21B43DA96BAD42A6.quest_desc": [
+        "\\&5Contenitore per \\&5Unobtainum Source\\&r può contenere 100.000 unità di \\&5Unobtainum Source, a differenza dei soli 10.000 forniti da un contenitore standard. È inoltre un ingrediente del \\&5Creative Source Jar."
+    ],
+    "quest.21B43DA96BAD42A6.quest_subtitle": "I metalli dei terre rare sono... straordinari.",
+    "quest.21B43DA96BAD42A6.title": "\\&5Contenitore per la fonte di Unobtainum",
+    "quest.227DBA8836021B0B.quest_desc": [
+        "Nel movimento Art Nouveau, il sistema di alimentazione per le macchine è chiamato \"Source\".\n\nPer iniziare a raccogliere del \"Source\", avremo bisogno di un contenitore per il \"Source\".\n\nIl \"Source\" può anche essere raccolto utilizzando secchi, oppure rompendo e raccogliendo i contenitori per il \"Source\"."
+    ],
+    "quest.227DBA8836021B0B.quest_subtitle": "Archiviazione della fonte",
+    "quest.252F320615FA2839.quest_desc": [
+        "Se desideri colpire sempre la stessa area con le tue magie, semplicemente punta in quella direzione e i proiettili si dirigeranno direttamente verso di essa."
+    ],
+    "quest.252F320615FA2839.quest_subtitle": "Carta \"invertita\"",
+    "quest.25B98F334ECF79BD.quest_desc": [
+        "Un dispositivo a torretta che utilizza un orologio interno invece del circuito redstone."
+    ],
+    "quest.25B98F334ECF79BD.quest_subtitle": "Incantesimi automatici",
+    "quest.25B98F334ECF79BD.title": "\\&eTimer Torre di difesa",
+    "quest.292A382E323B8A39.quest_desc": [
+        "Gli \"Amuleti Magici\" provenienti da \"Ars Additions\" sono oggetti magici che forniscono vari effetti protettivi e di utilità. Possono essere ricaricati con una specifica \"Fonte\" e offrono una vasta gamma di benefici, come l'annullamento dei danni da fuoco, la prevenzione della morte o la possibilità di respirare sott'acqua."
+    ],
+    "quest.292A382E323B8A39.title": "\\&6 Caratteristiche funzionali",
+    "quest.295C77EEC89000FC.quest_subtitle": "Genera fonti da dati relativi a decessi di animali e allevamento",
+    "quest.2C47C9B566A63135.title": "\\& \"Charm di Whirlsprig\"",
+    "quest.2D0CF18C8B2ABB7D.quest_desc": [
+        "Posizionare questo prodotto vicino alle piante o ai giovani alberi fornirà Source. Gli alberi di Archwood producono più Source!\n\nNota: La macinatura delle ossa non produce Source."
+    ],
+    "quest.2D0CF18C8B2ABB7D.quest_subtitle": "Crea una fonte utilizzando la crescita delle piante.",
+    "quest.3142A40E1EAEBAA3.quest_desc": [
+        "Lo \"Stendardo di divinazione\" (o \"Stendardo di divinazione\") vi permette di ottenere \"Magic Find\" e \"Scrying\" quando viene utilizzato.\n\nQuesto vi consente di individuare creature magiche nelle vicinanze e, inoltre, di trovare l'amethyst!"
+    ],
+    "quest.3142A40E1EAEBAA3.quest_subtitle": "Trova oggetti magici",
+    "quest.3182E8AF755104E4.quest_desc": [
+        "Quando viene utilizzato per bloccare i danni, lo scudo dell'Enchanter fornirà all'utente rigenerazione di mana e danni magici per un breve periodo.\n\nInoltre, lo scudo si riparerà nel tempo, utilizzando la mana del portatore."
+    ],
+    "quest.3182E8AF755104E4.title": "\\&5Scudo dell'Incantatore",
+    "quest.33682F4B44950123.quest_desc": [
+        "Per acquisire una conoscenza più approfondita degli incantesimi, avremo bisogno di un tipo specifico di legno magico!"
+    ],
+    "quest.33682F4B44950123.quest_subtitle": "Legno pregiato",
+    "quest.33682F4B44950123.title": "\\&Archwood",
+    "quest.34A173721735401B.title": "\\&Charm di Wixie",
+    "quest.36CDA39C23D3AA2B.quest_desc": [
+        "Questa quest è stata creata da \\&6AllTheMods Staff\\&r, o da un \\&2contributore della community\\&r, per l'uso nei pacchetti mod di AllTheMods.\n\nPoiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti a \\&eTutti i diritti riservati\\&r, questa quest non può essere utilizzata in altri pacchetti pubblici, a meno che non siano stati rilasciati dal team \\&6AllTheMods\\&r, previa autorizzazione esplicita.\n\nQuesta quest è intenzionalmente nascosta. Se la visualizzate, significa che siete in modalità di modifica."
+    ],
+    "quest.3AE659C0C3850002.quest_desc": [
+        "I Drygmies possono ottenere esperienza sotto forma di \"gemme di esperienza\"! Queste gemme non hanno un utilizzo specifico, quindi sentiti libero di utilizzarle!"
+    ],
+    "quest.3AE659C0C3850002.quest_subtitle": "Esperienza consolidata",
+    "quest.3AE659C0C3850002.title": "\\&Esperienza",
+    "quest.3CAB80B2BB5C2C37.quest_desc": [
+        "Le funzioni di filtro sui caratteri consentono di specificare a quali tipi di bersagli devono essere applicate le tue incantesimi."
+    ],
+    "quest.3CAB80B2BB5C2C37.title": "\\&6Filtra i caratteri",
+    "quest.3D4D88B8BE881351.quest_desc": [
+        "Se desiderate lanciare incantesimi più efficaci, avrete bisogno di un \"Tavolo dello Scriba\" per sbloccare nuovi simboli per il vostro libro di incantesimi.\n\nEsistono 3 livelli di simboli da sbloccare, e ognuno richiede esperienza e oggetti specifici.\n\nIl Tavolo dello Scriba viene utilizzato anche per associare gli incantesimi a dei \"Parchimenti di Incantesimo\". Per farlo, posizionate un Parchimento di Incantesimo sul tavolo, selezionate l'incantesimo nel vostro libro, quindi cliccate con il tasto destro del mouse sul libro sul tavolo.\n\nPer creare un simbolo, cliccate con il tasto destro del mouse sul Tavolo dello Scriba con il vostro libro di incantesimi. Cercate il simbolo che desiderate creare, quindi cliccate su \"Seleziona\" nella parte inferiore. Cliccate con il tasto destro del mouse sul tavolo con gli oggetti necessari, e il simbolo verrà creato. Utilizzate il simbolo per impararlo.\n\nNota: Il tavolo può recuperare oggetti da inventari vicini."
+    ],
+    "quest.3D4D88B8BE881351.quest_subtitle": "Migliorare gli incantesimi",
+    "quest.3D4D88B8BE881351.title": "\\& Tavolo dello scrittore",
+    "quest.3D862A3D3F83CA26.quest_desc": [
+        "L'\"Enchanting Apparatus\" (indicato con \"\\&9\") viene utilizzato per creare diversi oggetti all'interno del mod. Richiede la presenza di Source per funzionare.\n\nSi tratta anche di una struttura a più blocchi che utilizza gli Arcane Pedestals per la creazione.\n\nInizi posizionando un Arcane Core nel terreno, quindi posiziona l'\"Enchanting Apparatus\" sopra di esso. Circonda l'apparecchio con gli Arcane Pedestals.",
+        "{image:atm:textures\/questpics\/ars\/enchanting_app.png width:200 height:175 align:1}"
+    ],
+    "quest.3D862A3D3F83CA26.quest_subtitle": "Creare con cura",
+    "quest.3D862A3D3F83CA26.title": "\\&9Dispositivo affascinante",
+    "quest.3DEF6BC2C123E676.quest_desc": [
+        "Una versione regolabile, con il \"Dominion Wand\", come sempre. Accetta anche tutti i nuovi tipi di lenti."
+    ],
+    "quest.3DEF6BC2C123E676.quest_subtitle": "È stato mirato.",
+    "quest.3FD702B5AB006402.quest_desc": [
+        "Ti è mai venuto voglia di fluttuare ovunque andassi?\n\nQuesta cintura ti permette di levitare. Per attivare, basta muoversi furtivamente mentre sei in aria, sia che tu stia cadendo o che tu stia saltando."
+    ],
+    "quest.3FD702B5AB006402.title": "\\&9 Cintura di levitazione",
+    "quest.40321FBF721ACF46.quest_desc": [
+        "Aggiornamenti auto-esplicativi che... e sono piuttosto problematici. Verificate da soli."
+    ],
+    "quest.40321FBF721ACF46.quest_subtitle": "Migliorare la precisione dei vostri tiri",
+    "quest.40BC67BDEE15D1DE.quest_desc": [
+        "Per creare le Gemme Sorgenti, dovremo inserire frammenti di Lapislazzuli o Ambra nella Camera di Imbricamento. Nel tempo, questi frammenti si convertiranno in Gemme Sorgenti!"
+    ],
+    "quest.40BC67BDEE15D1DE.quest_subtitle": "Il ferro di Ars",
+    "quest.40BC67BDEE15D1DE.title": "\\&Gemme di origine",
+    "quest.41A0BE357C8A74E1.quest_desc": [
+        "L'elemento \"\\&9Alchemical Sourcelink\\&r\" produce risorse da contenitori di pozioni adiacenti.\n\nLa quantità di risorse varia a seconda della pozione e della sua complessità."
+    ],
+    "quest.41A0BE357C8A74E1.quest_subtitle": "Supera i tuoi limiti con le pozioni",
+    "quest.441C0659ED28D935.quest_desc": [
+        "I glyfi di livello 1 richiedono 3 livelli di esperienza per essere creati."
+    ],
+    "quest.441C0659ED28D935.title": "\\&aGlyfi di livello 1",
+    "quest.457DE8C154641437.quest_desc": [
+        "L'altare rituale \"\\&9Ritual Brazier\\&r\" viene utilizzato per eseguire rituali. Può anche essere utilizzato per decorare. Per accendere l'altare, è sufficiente utilizzare l'incantesimo \"Accendi\".\n\nPer eseguire i rituali, avrete bisogno anche degli \"Arcane Pedestals\". Dato che ci sono così tanti rituali da eseguire, assicuratevi di consultare tutti utilizzando il \"\\&6Worn Notebook\\&r\"!\n\nQuesto può essere fatto tenendo premuto il tasto Ctrl sul tavolo del rituale mentre il libro è presente nel vostro inventario."
+    ],
+    "quest.457DE8C154641437.quest_subtitle": "Non è un culto, giuro...",
+    "quest.457DE8C154641437.title": "\\&9 Braziere rituale",
+    "quest.47DD9F268BC2254E.quest_desc": [
+        "Ora abbiamo le torrette! La torretta \\&5Basic Spell Turret\\&r di \\&d\\&lArs Nouveau\\&r è un blocco che lancia un incantesimo pre-inciso quando riceve un segnale di redstone. Funziona in modo simile a un distributore, ma per gli incantesimi, prelevando l'energia necessaria da contenitori \\&5Source Jars\\&r nelle vicinanze per attivare il lancio."
+    ],
+    "quest.47DD9F268BC2254E.quest_subtitle": "Pew pew",
+    "quest.47DD9F268BC2254E.title": "\\&5Torre difensiva di base",
+    "quest.48A5B5FBAFD3AED7.quest_subtitle": "Ha un impatto maggiore",
+    "quest.48A5B5FBAFD3AED7.title": "\\&Esperienza compressa",
+    "quest.48A6087A6EAD6A85.title": "\\&Bello come una sirena",
+    "quest.48D5D9D9AD98409F.title": "\\&6Charm di Starbuncle",
+    "quest.48D8E1B9D76BAFC1.quest_desc": [
+        "Gli \"\\&6Bangles\\&r\" dello stile \"Art Nouveau\" sono un tipo di oggetto, in particolare un manufatto magico che fornisce abilità passive speciali e può essere utilizzato per aumentare il danno degli incantesimi. Possono essere creati e indossati per ottenere effetti basati sugli elementi e per potenziare il potere magico."
+    ],
+    "quest.48D8E1B9D76BAFC1.title": "\\& 6 bracciali",
+    "quest.4D4D383E210A4897.quest_desc": [
+        "E l'«Essenza» proveniente da Ars è un altro materiale estremamente importante. È necessario per quasi tutte le ricette di incantesimi e dispositivi di incantamento."
+    ],
+    "quest.4D4D383E210A4897.quest_subtitle": "Avrete bisogno di queste cose...",
+    "quest.4D4D383E210A4897.title": "\\&2Ars\\&r \\&9Ess\\&r\\&4enc\\&r\\&6e",
+    "quest.51162B9185A45BB1.quest_desc": [
+        "Questa arpa può essere incantata utilizzando un Tavolo di Incantamento.\n\nA costo di mana, le frecce diventeranno frecce incantate e applicheranno l'incantesimo al bersaglio.\n\nSe non si hanno frecce, verrà lanciata una freccia incantata che infligge 0 danni. In caso di mancanza di mana, verranno lanciate delle normali frecce.\n\nL'arpa \\&9Arpa dell'Incantatore\\& può anche utilizzare delle speciali frecce potenziate, che amplificano l'incantesimo incantato."
+    ],
+    "quest.51162B9185A45BB1.title": "\\&5Arco dell'Incantatore",
+    "quest.542C6D76B579886C.quest_desc": [
+        "Utilizzando questi semi, creeremo la nostra prima fibra, la fibra \"\\&5Magebloom\".\n\nQuesta fibra sarà utilizzata per creare alcuni accessori magici!"
+    ],
+    "quest.542C6D76B579886C.quest_subtitle": "Corda decorativa",
+    "quest.542C6D76B579886C.title": "\\&dMagebloom Fiber",
+    "quest.54954F1FF453CAA2.quest_desc": [
+        "Questi sono armi molto potenti da affrontare. Saranno in grado di lanciare incantesimi potenziati, a condizione che l'incantesimo sia in linea con il suo elemento.\n\n\\&oSuggerimento: sono particolarmente efficaci in difesa."
+    ],
+    "quest.54954F1FF453CAA2.quest_subtitle": "Il capo della difesa",
+    "quest.54954F1FF453CAA2.title": "\\&6 Torri elementali",
+    "quest.555B604217D266AF.quest_desc": [
+        "Ti è mai venuto in mente di spostare la fonte? Allora hai fortuna! Il \"Contenitore di Fonte Ender\" è un contenitore di fonte \"intrecciato\", e collegandolo con un \"Bastone di Dominio\" si collegherà anche la sua capacità di fonte, fornendo un trasporto istantaneo."
+    ],
+    "quest.555B604217D266AF.quest_subtitle": "Automazione per giorni",
+    "quest.555B604217D266AF.title": "\\&3Contenitore di Ender Source",
+    "quest.5766C8B9E850C186.quest_desc": [
+        "Per creare uno degli oggetti principali di crafting in Ars, ovvero la \"Gemma Sorgente\" (\\&9), dovremo costruire una \"Camera di Imbue\" (\\&6).\n\nLa Camera di Imbue richiede la presenza di \"Sorgenti\" per imbueare gli oggetti. Produce una piccola quantità di \"Sorgenti\" da sola, ma può anche utilizzare i \"Contenitori di Sorgenti\" come fonte di energia.\n\nDiverse ricette richiedono inoltre la presenza di \"Pedestali Arcani\" attorno alla Camera.",
+        "{image:atm:textures\/questpics\/ars\/imbuement.png width:200 height:150 align:1}"
+    ],
+    "quest.5766C8B9E850C186.quest_subtitle": "Creazione di gemme di origine",
+    "quest.5766C8B9E850C186.title": "\\&6Camera di impregnazione",
+    "quest.57C316D02DA833CE.quest_subtitle": "A volte utile, a volte no.",
+    "quest.57C316D02DA833CE.title": "Golem di Geo",
+    "quest.58EC47584C773B82.quest_desc": [
+        "Utilizzando la nostra struttura \"Enchanting Apparatus\", desideriamo creare il nostro primo seme, il \"Seme Magebloom\".\n\nQuesto seme sarà utilizzato per creare alcuni indumenti magici!"
+    ],
+    "quest.58EC47584C773B82.quest_subtitle": "Crescita magica",
+    "quest.58EC47584C773B82.title": "\\&5Magebloom, seme",
+    "quest.5AEFB843AA0A575E.quest_desc": [
+        "Utilizzato per creare molti degli oggetti avanzati presenti in \\&d\\&lArs Elemental."
+    ],
+    "quest.5AEFB843AA0A575E.quest_subtitle": "Solo laureati",
+    "quest.5AEFB843AA0A575E.title": "\\&5Segno di competenza",
+    "quest.5C3FF43CF16BCF30.quest_desc": [
+        "Con Source Gems, è possibile iniziare a creare le diverse macchine, creando e utilizzando i \"Source Gems\"."
+    ],
+    "quest.5C3FF43CF16BCF30.quest_subtitle": "In precedenza, \"Arcane Stones\"",
+    "quest.5C3FF43CF16BCF30.title": "\\&5Sourcestone",
+    "quest.5CFBA24B3E0CDEDD.quest_desc": [
+        "Mentre tieni il tuo libro di incantesimi, puoi premere il tasto C per aprire la pagina di creazione degli incantesimi.\n\nOgni incantesimo deve avere una forma. Inizierai con 3 forme di base: Proiettile, Incantesimo personale e Contatto.\n\nPer l'Effetto, questo determina cosa accade quando lanci l'incantesimo. Puoi avere fino a 9 effetti per incantesimo.\n\nPer iniziare, hai \"Danno\" e \"Distruzione\".\n\nSeleziona una forma e un effetto, dai un nome al tuo incantesimo e clicca su \"Crea\"!",
+        "",
+        "{image:atm:textures\/questpics\/ars\/spellbook.png width:200 height:150 align:1}"
+    ],
+    "quest.5CFBA24B3E0CDEDD.quest_subtitle": "Sei fantastico, Harry!",
+    "quest.5CFBA24B3E0CDEDD.title": "\\&3Creare il tuo primo incantesimo",
+    "quest.6165B87E2B8D2021.quest_desc": [
+        "Questi sono le versioni più avanzate e potenti dei focus."
+    ],
+    "quest.6165B87E2B8D2021.quest_subtitle": "Un esempio perfetto di pregiudizio.",
+    "quest.6165B87E2B8D2021.title": "E altri elementi fondamentali",
+    "quest.632BC46928CC9A8C.quest_desc": [
+        "Lo specchio dell'Incantatore applica automaticamente un incantesimo quando viene utilizzato.\n\nGli incantesimi lanciati con questo specchio hanno un costo ridotto e ottengono una durata aggiuntiva.\n\nPer lanciare un incantesimo, utilizzare una tabella di un Sacerdote. Creare un incantesimo senza utilizzare un modello predefinito."
+    ],
+    "quest.632BC46928CC9A8C.title": "\\&Specchio dell'Incantatore",
+    "quest.63DD7F5A4441ACE7.quest_desc": [
+        "I Glyfi di livello 2 richiedono 5 livelli di esperienza per essere creati.\nInoltre, è necessario possedere il \"Libro di Incantesimi del Mago\" (valore 9 milioni) per poterli creare."
+    ],
+    "quest.63DD7F5A4441ACE7.title": "\\&eSimboli di livello 2",
+    "quest.644FECEAE63D9938.title": "E altre incantesimi simili",
+    "quest.64D0E66CB4FBEC82.quest_desc": [
+        "Per iniziare, avrai bisogno di creare il tuo \"Grimorio per Principianti\"!\n\nQuesto è dove creerai e memorizzerai i tuoi incantesimi.\nPremendo il tasto \"\\&9C\", si aprirà la pagina \"Crea un Incantesimo\". Sul lato sinistro, ci sono diverse schede, ma le principali sono: \"Creazione di Incantesimi\", \"Selettore di Colori\" e \"Compagni\".\n\nQuesto grimorio ti permetterà solo di creare e utilizzare gli incantesimi di livello 1. Per creare incantesimi più potenti, dovrai aggiornare il tuo grimorio!"
+    ],
+    "quest.64D0E66CB4FBEC82.quest_subtitle": "Il nostro primo libro di incantesimi",
+    "quest.64D0E66CB4FBEC82.title": "Libri di incantesimi",
+    "quest.671B67E617D56184.quest_desc": [
+        "Un cannone a cui è possibile puntare in qualsiasi direzione."
+    ],
+    "quest.671B67E617D56184.quest_subtitle": "Obiettivo",
+    "quest.671B67E617D56184.title": "\\&9Torretta di lancio regolabile",
+    "quest.6877742C20B7A40B.quest_desc": [
+        "Ora stiamo parlando bene. Purtroppo, le altre quattro varietà non hanno ancora le api."
+    ],
+    "quest.6877742C20B7A40B.quest_subtitle": "Un miglioramento semplice",
+    "quest.6877742C20B7A40B.title": "\\&2Automazione\\&r \\&3Essenza",
+    "quest.6A1C0B17B22CE50F.quest_desc": [
+        "L'amuleto \"\\&9Amulet of Mana Boost\" aumenta la quantità massima di mana.\n\nL'amuleto \"\\&6Amulet of Mana Regen\" aumenta la velocità di rigenerazione del mana."
+    ],
+    "quest.6A1C0B17B22CE50F.title": "E altri amuleti",
+    "quest.6B511C8B572E8940.quest_desc": [
+        "Nella parte inferiore a sinistra dello schermo, vedrete una barra. Questa barra rappresenta il vostro \"pozzo di mana\"!\n\nEsistono diversi modi per aumentare il vostro pozzo di mana, o per migliorare l'efficacia dei vostri incantesimi man mano che progredite nel gioco. Aggiornare il vostro libro di incantesimi può anche aumentare la quantità di mana disponibile."
+    ],
+    "quest.6B511C8B572E8940.quest_subtitle": "Potere magico",
+    "quest.6B511C8B572E8940.title": "\\&5 Mana",
+    "quest.6CEAA86EEAAC1203.title": "\\& Amuleto di Golem di ametista",
+    "quest.6DAA82B5F94AF9F8.quest_desc": [
+        "L'oggetto \"\\&9Jar of Light\" crea una fonte di luce che segue il giocatore.\n\nL'oggetto \"\\&6Jar of Voiding\" distrugge gli oggetti raccolti in cambio di mana. Questa funzione può essere disattivata.\n\nPer aggiungere o rimuovere un oggetto da distruggere con il contenitore, utilizzare il contenitore con l'oggetto nella mano sinistra, oppure posizionare il contenitore sul tavolo dello Scriba.\n\nIl contenitore deve essere nella barra degli oggetti per funzionare."
+    ],
+    "quest.6DAA82B5F94AF9F8.title": "\\&bI Barattoli",
+    "quest.6E0E13806F388D7E.quest_desc": [
+        "Benvenuti in \\&aArs Nouveau\\&f!\n\nArs Nouveau è un mod magico che consente di creare incantesimi personalizzati utilizzando i diversi Glyphs creati all'interno del mod!"
+    ],
+    "quest.6E0E13806F388D7E.title": "Benvenuti in \\&aArs Nouveau\\&f!",
+    "quest.6EDA801044ED0445.quest_desc": [
+        "Questa torretta migliorata è in grado di lanciare incantesimi molto più potenti e di aumentarne la potenza."
+    ],
+    "quest.6EDA801044ED0445.quest_subtitle": "Un aggiornamento del sistema di alimentazione",
+    "quest.6EDA801044ED0445.title": "\\&Torre magica \"Enchanted Spell Turret\"",
+    "quest.6F3602F5600A6221.quest_desc": [
+        "I Glyfi di livello 3 richiedono 10 livelli di esperienza per essere creati.\nInoltre, è necessario possedere un \"Libro di Incantesimi\" di livello 6."
+    ],
+    "quest.6F3602F5600A6221.title": "\\&4 livelli di Glyphs di terza generazione",
+    "quest.77145113CD5B26FB.quest_desc": [
+        "Le bacche di Source producono più Source rispetto ad altre fonti.\n\nInoltre, trasformeranno l'erba o il terreno in micelio in un'area di 3x3 attorno ad essi. Inoltre, faranno crescere funghi nell'area se questa è vuota."
+    ],
+    "quest.77145113CD5B26FB.quest_subtitle": "Genera ingredienti disponibili nella zona",
+    "task.00BEC4A28F318E6F.title": "Bracciali",
+    "task.01FD75641E5EA5E4.title": "Mana",
+    "task.03EB390E79866058.title": "Pietre di origine",
+    "task.04A97A2825505B64.title": "Foci elementari",
+    "task.0E6876A34D1975EB.title": "Tutti i diritti riservati",
+    "task.15C6E9C02D1FBEC0.title": "Glyfi di secondo livello",
+    "task.1B916AE67F84E6D7.title": "Creare il tuo primo incantesimo",
+    "task.1CC556A6921208B8.title": "Glyfi di livello 1",
+    "task.2BC0F5A88E2F03C3.title": "Archwood",
+    "task.388545A0E3B4930D.title": "Tutti i diritti riservati",
+    "task.470F4163DBE13B6B.title": "Lenti a prisma",
+    "task.56CA4F2E7116C934.title": "Golem di Geo",
+    "task.5B96C6088CE5EC1E.title": "Oggetti utili e pratici",
+    "task.65D68BEEB36FC805.title": "Glyfi di livello 3",
+    "task.6821298BA1E6D9C4.title": "Filtra i caratteri",
+    "task.700585855857088E.title": "Altri punti di interesse",
+    "task.736B8E029232D795.title": "Ars Essences",
+    "task.755006DBA2D7D500.title": "Punti focali elementari minori",
+    "task.798D6FBE32F46484.title": "Torrette elementali"
+}

@@ -237,7 +237,6 @@
     "book.cobblepedia.entries.blue_mint_seeds.text": "$(l)Blue Mint Seeds$() are $(l:mint_seeds)mint seeds$() that are used to grow $(l:blue_mint_leaf)blue mint leaves$().",
     "book.cobblepedia.entries.blunder_policy.text": "A $(l)Blunder Policy$() is a $(l:held_items)held item$() that increases the holder's Speed by two stages when one of the holder's moves misses a target due to an accuracy or evasion check.",
     "book.cobblepedia.entries.bold_mint.text": "$(l)Bold Mint$() is a $(l)mint$() which changes the effects of a Pokémon's $(l:https:\/\/bulbapedia.bulbagarden.net\/wiki\/Nature)nature$() to increase it's Defense stat and decrease it's Attack stat, making it act as if the Pokémon had the Bold nature.",
-    "book.cobblepedia.entries.braised_vivichoke.text": "$(l)Braised Vivichoke$() is a $(l:food)food$() item that can be eaten by the player to restore 6 hunger points and 7 saturation.",
     "book.cobblepedia.entries.brave_mint.text": "$(l)Brave Mint$() is a $(l)mint$() which changes the effects of a Pokémon's $(l:https:\/\/bulbapedia.bulbagarden.net\/wiki\/Nature)nature$() to increase it's Attack stat and decrease it's Speed stat, making it act as if the Pokémon had the Brave nature.",
     "book.cobblepedia.entries.brew": "Brew",
     "book.cobblepedia.entries.brew.ether.text": "PP-restoring $(l:medicine)medicine$()",

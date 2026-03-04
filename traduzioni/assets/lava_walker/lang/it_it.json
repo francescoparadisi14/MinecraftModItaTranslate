@@ -1,6 +1,6 @@
 {
-    "block.lava_walker.modded_crying_obsidian": "Ossidiano piangente (modificato)",
-    "block.lava_walker.modded_obsidian": "Obsidiiano modificato",
-    "enchantment.lava_walker.lava_walker": "Camminatore di magma",
-    "enchantment.lava_walker.lava_walker.desc": ""
+    "block.lava_walker.modded_crying_obsidian": "Crying Obsidian (mod)",
+    "block.lava_walker.modded_obsidian": "Ossidiana",
+    "enchantment.lava_walker.lava_walker": "Passo infuocato",
+    "enchantment.lava_walker.lava_walker.desc": "Permette di camminare sulla lava."
 }

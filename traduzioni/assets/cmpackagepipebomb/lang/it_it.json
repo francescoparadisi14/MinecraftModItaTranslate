@@ -1,0 +1,17 @@
+{
+    "item.cmpackagepipebomb.pipebomb": "Bomba artigianale",
+    "item.cmpackagepipebomb.pipebomb.tooltip.behaviour1": "Lancia una bomba a pipa.",
+    "item.cmpackagepipebomb.pipebomb.tooltip.condition1": "Clic con il tasto destro",
+    "item.cmpackagepipebomb.pipebomb.tooltip.summary": "Wow, una bomba a pipa, che figata!",
+    "item.cmpackagepipebomb.pipebomb_rigged": "Bomba artigianale",
+    "item.cmpackagepipebomb.pipebomb_rigged.tooltip.behaviour1": "Crea una bomba a tempo.",
+    "item.cmpackagepipebomb.pipebomb_rigged.tooltip.behaviour2": "Blocca la cassetta delle lettere",
+    "item.cmpackagepipebomb.pipebomb_rigged.tooltip.condition1": "Quando viene aperto da un imballaggio",
+    "item.cmpackagepipebomb.pipebomb_rigged.tooltip.condition2": "Quando utilizzato su una cassetta postale",
+    "item.cmpackagepipebomb.pipebomb_rigged.tooltip.summary": "_Maneggiare con cura._",
+    "item.cmpackagepipebomb.pipebomb_rigged.trapped": "È stato piazzato un ordigno esplosivo.",
+    "item.cmpackagepipebomb.tnt_rigged": "Esplosivo TNT contraffatto",
+    "item.cmpackagepipebomb.tnt_rigged.tooltip.behaviour1": "Crea una bomba a frammentazione (TNT) di breve durata.",
+    "item.cmpackagepipebomb.tnt_rigged.tooltip.condition1": "Quando viene aperto da un imballaggio",
+    "item.cmpackagepipebomb.tnt_rigged.tooltip.summary": "_Maneggiare con cura._"
+}

@@ -1,18 +1,17 @@
 {
-    "name": "Puddle",
+    "name": "Pozza d'acqua",
     "category": "patchouli:slimes",
     "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:puddle\"}}",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Localizzazioni:$()$(li)Trappole per granchi: Cibo per trappola per granchi, Cibo per trappola per granchi deluxe$(li)Punti di pesca$(br2)$(l)Rischii:$()$(br)Ha spine e si arrabbia quando è fuori dall'acqua!"
+            "text": "patchouli:testo\n\n$(l)Luoghi:$()$(li)Trappole per granchi: Esche per trappole per granchi, Esche per trappole per granchi di lusso$(li)Luoghi di pesca$(br2)$(l)Rischi:$()$(br)Contiene spine e si dispiace quando è fuori dall'acqua!"
         },
         {
             "type": "patchouli:entity",
-            "name": "Puddle Slime",
+            "name": "patchouli:entità\n\nsplendid_slimes:splendid_slime{Razza:\"splendid_slimes:puddle\"}\n\nPuddle Slime",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:puddle\"}",
-            "scale": 0.9,
-            "text": "Un'entità di tipo Splendid Slime, appartenente alla razza Puddle."
+            "scale": 0.9
         }
     ]
 }

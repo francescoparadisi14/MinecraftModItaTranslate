@@ -1,0 +1,5 @@
+{
+    "commands.pdgamerules.clear": "PD gamerule %s cleared",
+    "commands.pdgamerules.clear.failed": "PD gamerule %s does not exist",
+    "commands.pdgamerules.overworldCheck.failed": "This gamerule is not supported to be used in the Overworld"
+}

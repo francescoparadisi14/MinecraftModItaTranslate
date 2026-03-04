@@ -1,8 +1,11 @@
 {
-    "block.bonetorch.bonetorch": "Torrace d'osso",
-    "block.bonetorch.soul_bonetorch": "Torcia di ossa animiche",
-    "block.bonetorch.wall_bonetorch": "Torrace di ossa",
-    "block.bonetorch.wall_soul_bonetorch": "Torrace di ossa animiche",
-    "item.bonetorch.bone_torch_bandolier": "Fascio di torce ossee",
-    "item.bonetorch.soul_bone_torch_bandolier": "Fascio di torce ossee"
+    "block.bonetorch.bonetorch": "Torcia a fiamma",
+    "block.bonetorch.copper_bonetorch": "Torcia in rame",
+    "block.bonetorch.soul_bonetorch": "Candela per il rituale Soul Bone",
+    "block.bonetorch.wall_bonetorch": "Torcia a fiamma",
+    "block.bonetorch.wall_copper_bonetorch": "Torcia in rame",
+    "block.bonetorch.wall_soul_bonetorch": "Candela per il rituale Soul Bone",
+    "item.bonetorch.bone_torch_bandolier": "Tracolla per fiammifero",
+    "item.bonetorch.copper_bone_torch_bandolier": "Cintura per torce in rame",
+    "item.bonetorch.soul_bone_torch_bandolier": "Cintura per fiammiferi \"Soul Bone Torch\""
 }

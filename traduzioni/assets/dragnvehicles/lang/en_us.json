@@ -1,4 +1,5 @@
 {
+    "config.jade.plugin_dragnvehicles.vehicle_tooltips": "Display Vehicle Tooltips",
     "entity.dragnvehicles.car": "Modern Car",
     "entity.dragnvehicles.classic": "Classic Car",
     "entity.dragnvehicles.motorcycle": "Motorcycle",
@@ -7,6 +8,7 @@
     "entity.dragnvehicles.truck": "Pickup Truck",
     "item.dragnvehicles.car": "Modern Car",
     "item.dragnvehicles.car_body": "Modern Car Body",
+    "item.dragnvehicles.car_key": "Car Key",
     "item.dragnvehicles.classic": "Classic Car",
     "item.dragnvehicles.classic_body": "Classic Car Body",
     "item.dragnvehicles.engine": "Engine",
@@ -20,5 +22,10 @@
     "item.dragnvehicles.suv_body": "SUV Body",
     "item.dragnvehicles.truck": "Pickup Truck",
     "item.dragnvehicles.truck_body": "Pickup Truck Body",
-    "item.dragnvehicles.wheel": "Wheel"
+    "item.dragnvehicles.wheel": "Wheel",
+    "tooltip.dragnvehicles.jade.locked.tooltip": "Locked",
+    "tooltip.dragnvehicles.jade.no_owner.tooltip": "Null Owner",
+    "tooltip.dragnvehicles.jade.owner.tooltip": "Owner:",
+    "tooltip.dragnvehicles.jade.unlocked.tooltip": "Unlocked",
+    "tooltip.dragnvehicles.non_functional.tooltip": "This item is not functional yet."
 }

@@ -13,7 +13,7 @@
     "tooltip.me_beam_former.binding.omni_linked": "Omni Beam connected: (%s, %s, %s) → (%s, %s, %s)",
     "tooltip.me_beam_former.binding.omni_only": "Omni Beam Former can only connect to other Omni Beam Formers",
     "tooltip.me_beam_former.binding.omni_unlinked": "Omni Beam disconnected: (%s, %s, %s) ✗ (%s, %s, %s)",
-    "tooltip.me_beam_former.binding.out_of_range": "Connection distance out of range! Limit: 16x16 horizontal, 32 vertical",
+    "tooltip.me_beam_former.binding.out_of_range": "Connection distance out of range! Limit: 20x20 horizontal, 32 vertical",
     "tooltip.me_beam_former.binding.self_link": "Cannot connect to itself",
     "tooltip.me_beam_former.binding.set": "Source beam former selected: (%s, %s, %s)",
     "tooltip.me_beam_former.binding.set_omni": "Omni Beam Former selected: (%s, %s, %s)",

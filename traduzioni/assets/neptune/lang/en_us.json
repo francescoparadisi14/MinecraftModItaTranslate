@@ -1,5 +1,5 @@
 {
-    "ability.neptune.minecraft.": "None",
+    "ability.neptune.minecraft.empty": "None",
     "argument.neptune.ability.unknown_ability": "Unknown Ability Type",
     "argument.neptune.ability.unknown_category": "Unknown Ability Category",
     "block.neptune.weapon_desk": "Weapon Desk",

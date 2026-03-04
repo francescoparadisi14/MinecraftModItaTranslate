@@ -1,6 +1,8 @@
 {
     "entity_model_features.config.animate_once": "Animate models once per entity",
     "entity_model_features.config.animate_once.tooltip": "On by default\nthis setting makes it so entity models will animate only once per each entity rendered\nthis will be entirely normal in game however mobs visible in\n inventory screens may flicker weirdly\n especially if it represents a real mob in the world you can already see",
+    "entity_model_features.config.armor_hack": "Armor copies custom animations",
+    "entity_model_features.config.armor_hack.tooltip": "In 1.21.9+ armor no longer naturally copies the custom animations of the base model, this replicates that old behaviour.",
     "entity_model_features.config.debug": "Debugging",
     "entity_model_features.config.debug.tooltip": "Debug options, can be helpful to figure some things out",
     "entity_model_features.config.debug_hover": "Debug render only on hover",
@@ -15,6 +17,8 @@
     "entity_model_features.config.ebe_warn.2": "This happens because a resource-pack is loading a custom model for that block entity",
     "entity_model_features.config.ebe_warn.3": "Currently disabling these options:",
     "entity_model_features.config.ebe_warn.4": "This can be changed in EMF's model settings",
+    "entity_model_features.config.export_rotations": "Export rotations",
+    "entity_model_features.config.export_rotations.tooltip": "exported jem models should not include the rotation values as they will inherit these from the vanilla parts\n however some model editors may like to have these values included\n this option will include them in the exported jem files",
     "entity_model_features.config.force_models": "Try to prevent EMF models being overridden",
     "entity_model_features.config.force_models.tooltip": "Will try and force entity renderers to use the models set by EMF\n this can override vanilla models changed by other mods\n this wont work with all mods",
     "entity_model_features.config.function_explanation.abs": "abs(x)\nGet the absolute value of a number. Will turn negative numbers positive",

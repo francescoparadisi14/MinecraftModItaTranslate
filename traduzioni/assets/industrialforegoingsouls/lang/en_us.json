@@ -2,6 +2,12 @@
     "block.industrialforegoingsouls.soul_laser_base": "Soul Laser Base",
     "block.industrialforegoingsouls.soul_network_pipe": "Soul Pipe",
     "block.industrialforegoingsouls.soul_surge": "Soul Surge",
+    "industrialforegoingsouls.can_be_used_filter": "*Can be used to request Souls via an AE2 Interface*",
     "industrialforegoingsouls.soul_storage": "Soul Storage:",
-    "itemGroup.industrialforegoingsouls": "Industrial Foregoing: Souls"
+    "industrialforegoingsouls.storage_bus": "*Souls can be accessed from the AE2 Storage Bus on top*",
+    "itemGroup.industrialforegoingsouls": "Industrial Foregoing: Souls",
+    "jei.industrialforegoingsouls.soul_laser": "Soul Laser Base",
+    "soulkey.description": "Soul",
+    "soulkey.name": "Warden Soul",
+    "soulkey.tooltip": "Production per use:"
 }

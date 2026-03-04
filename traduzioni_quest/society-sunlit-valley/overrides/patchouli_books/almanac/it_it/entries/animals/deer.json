@@ -1,17 +1,17 @@
 {
-    "name": "Cervo",
+    "name": "Cervi",
     "category": "patchouli:animals",
     "icon": "society:dried_foul_berries",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Raccolta: Uva secca (25% di probabilità)$(li)Bottino: Cervo, Pelle$(br2)$(l)Note$()$(br)La raccolta richiede 3+ cuori. Può essere trovato in biomi di Foresta."
+            "text": "patchouli: testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile per la vendita$(li)Alimentazione: Bacche secche (25% di probabilità)$(li)Oggetti ottenuti: Venison, Pelle$(br2)$(l)Note$()$(br)Per raccogliere, è necessario avere almeno 3 punti vita. Si trova negli ambienti boschivi."
         },
         {
             "type": "patchouli:entity",
             "entity": "wildernature:deer",
             "scale": 0.7,
-            "text": "I cervi si cibano di bacche selvatiche, condividendole se ti piacciono! Mi chiedo perché siano essiccate..."
+            "text": "Patchouli: entità\n\nWildernature: cervo\n\nI cervi si nutrono di bacche selvatiche e, se gli piaci, le condividono! Mi chiedo perché siano state essiccate..."
         }
     ]
 }

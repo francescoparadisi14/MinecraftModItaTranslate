@@ -128,5 +128,6 @@
     "subtitles.item.katana_swing": "Katana-like swing",
     "subtitles.item.light_swing": "Light sword swing",
     "subtitles.item.phantom_lancer": "Splash of phantoms",
-    "subtitles.item.soul_swing": "Soulful sword swing"
+    "subtitles.item.soul_swing": "Soulful sword swing",
+    "tooltip.press_shift": "Press [ Shift ]"
 }

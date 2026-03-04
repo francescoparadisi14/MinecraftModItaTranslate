@@ -1,18 +1,18 @@
 {
-    "name": "Bayad",
+    "name": "Pagamento",
     "category": "patchouli:fish",
     "icon": "aquaculture:bayad",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 208 monete$(li)Stagione: Primavera$(li)Acqua: Fiume$(li)Clima: Pioggia, Neve$(li)Ora: Notte"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 208$(li)§0🌼 §2Primavera§0$(li)Acqua: Fiume$(li)Tempo: Pioggia, Neve$(li)Ora: Notte"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:bayad",
             "scale": 0.8,
             "rotate": true,
-            "text": "Un Bayaddie."
+            "text": "patchouli: entità\n\nacquacoltura: pagamento\n\nUn \"bayaddie\"."
         }
     ]
 }

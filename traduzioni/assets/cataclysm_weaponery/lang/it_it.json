@@ -1,10 +1,10 @@
 {
-    "advancements.super_serious_dedication.descr": "Ottenere vanga di ignizione",
-    "advancements.super_serious_dedication.title": "Dedicazione estremamente seria",
-    "item.cataclysm_weaponery.ignitium_axe": "Ascia di ignitio",
-    "item.cataclysm_weaponery.ignitium_hoe": "Falcetto ignitio",
-    "item.cataclysm_weaponery.ignitium_pickaxe": "Pickaxe a ignizione",
-    "item.cataclysm_weaponery.ignitium_shovel": "Spalatore di ignitio",
-    "item.cataclysm_weaponery.ignitium_sword": "Spada di ignitio",
-    "item_group.cataclysm_weaponery.cataclysm_weaponery": "Armeria catastrofica"
+    "advancements.super_serious_dedication.descr": "Acquistare l'Ignitium Hoe",
+    "advancements.super_serious_dedication.title": "Impegno totale e serio",
+    "item.cataclysm_weaponery.ignitium_axe": "Ascia Ignitium",
+    "item.cataclysm_weaponery.ignitium_hoe": "Forbici da giardinaggio Ignitium",
+    "item.cataclysm_weaponery.ignitium_pickaxe": "Piccone Ignitium",
+    "item.cataclysm_weaponery.ignitium_shovel": "Pala Ignitium",
+    "item.cataclysm_weaponery.ignitium_sword": "Spada Ignotum",
+    "item_group.cataclysm_weaponery.cataclysm_weaponery": "Armeria Cataclysm"
 }

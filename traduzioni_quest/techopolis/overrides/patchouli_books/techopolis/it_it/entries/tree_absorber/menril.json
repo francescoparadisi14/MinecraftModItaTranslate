@@ -1,12 +1,12 @@
 {
-    "name": "Menril Tree",
+    "name": "Albero di Menril",
     "icon": "integrateddynamics:menril_sapling",
     "category": "patchouli:tree_absorber",
     "sortnum": "1",
     "pages": [
         {
             "type": "multiblock",
-            "name": "Piattaforma di Menril",
+            "name": "Struttura a più blocchi\nAlbero di Menril",
             "enable_visualize": true,
             "multiblock": {
                 "pattern": [
@@ -99,7 +99,7 @@
         {
             "type": "text",
             "title": "Menril Tree",
-            "text": "Questa struttura richiede; $(li)Log di Menril$(li)Foglie di Menril$(li)Assorbente d'Albero$(br2)Una volta completata, l'assorbente d'albero inizierà a creare bottini dal tipo di albero specifico. Richiede potenza"
+            "text": "Questa struttura richiede:\n*   Albero di Menril\n*   Foglie di Menril\n*   Assorbitore per alberi\n*   Una volta completata, l'assorbitore per alberi inizierà a produrre gocce di quel tipo di albero. Richiede energia."
         }
     ]
 }

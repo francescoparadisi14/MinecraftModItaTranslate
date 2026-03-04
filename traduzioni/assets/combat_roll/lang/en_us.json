@@ -15,6 +15,7 @@
     "gui.combat_roll.hud": "Move the arrow",
     "gui.combat_roll.reset": "Reset",
     "gui.combat_roll.settings": "Settings",
+    "key.category.combat_roll.main": "Combat Roll",
     "keybinds.combat_roll.roll": "Roll",
     "text.autoconfig.combat_roll.option.client.hudArrowColor": "Arrow color",
     "text.autoconfig.combat_roll.option.client.hudBackgroundOpacity": "Arrow background opacity",

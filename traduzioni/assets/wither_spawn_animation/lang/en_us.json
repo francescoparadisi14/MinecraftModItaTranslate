@@ -45,11 +45,11 @@
     "subtitles.inverse_smash": "",
     "subtitles.magicstaffsound": "",
     "subtitles.smash": "",
-    "subtitles.star": "",
-    "subtitles.tremble": "",
+    "subtitles.star": "Nether Star glows",
+    "subtitles.tremble": "Wither altar trembles",
     "subtitles.wither_1": "",
     "subtitles.wither_2": "",
     "subtitles.wither_3": "",
     "subtitles.wither_4": "",
-    "subtitles.wither_spawn_mod": ""
+    "subtitles.wither_spawn_mod": "Wither spawns"
 }

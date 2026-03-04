@@ -1,0 +1,15 @@
+{
+    "block.society_trading.auto_trader": "Sistema di trading automatico",
+    "block.society_trading.shop_block": "Negozio",
+    "command.society_trading.wrong_id": "Non è stata trovata alcuna attività commerciale registrata con l'ID %s.",
+    "gui.society_trading.balance": "§0$%",
+    "gui.society_trading.hover_price_one": "Prezzo: $",
+    "gui.society_trading.hover_price_two": "Dal conto bancario",
+    "gui.society_trading.price": "$%",
+    "gui.society_trading.search_trades": "Cerca professioni",
+    "gui.society_trading.shop_selector.title": "Negozi",
+    "itemGroup.society_trading": "Società di trading",
+    "jei.society_trading.category.shops": "Negozi",
+    "jei.society_trading.category.trades": "Operazioni commerciali",
+    "jei.society_trading.price": "$%"
+}

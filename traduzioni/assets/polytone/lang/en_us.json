@@ -1,5 +1,17 @@
 {
+    "config.polytone.legacy_parsing": "Legacy Formats Parse",
+    "config.polytone.legacy_parsing.tooltip": "Tries to translate formats from other mods to be parsed as Polytone files. Relevant for custom colors and colormaps.",
+    "config.polytone.lenient_loading": "Lenient Pack Loading",
+    "config.polytone.lenient_loading.tooltip": "Attempts loading packs with errors. Not guaranteed to work. Do NOT enable this if you are a pack creator.",
+    "config.polytone.particles_throttle": "Particle Spawn Throttle",
+    "config.polytone.particles_throttle.tooltip": "Scales down the amount of custom spawned particles. Decrease to artificially lowers their spawn chance. This is a last resort option to increase performance in unoptimized packs and should normally not be used.",
+    "message.polytone.fabulous_warning": "Fabulous Graphics detected! Some polytone features may not work correctly with it enabled.",
+    "screen.polytone.configs.reset": "Reset to Defaults",
+    "screen.polytone.configs.title": "Polytone Packs Configs",
+    "screen.polytone.configs.undo": "Undo changes",
     "toast.polytone.early_load_fail": "Polytone Early Resource Reload failed",
     "toast.polytone.lazy_load_fail": "Polytone Late Resource Reload failed",
+    "toast.polytone.lenient_load": "Pack loaded in lenient mode",
+    "toast.polytone.lenient_load_desc": "Possible errors were ignored",
     "toast.polytone.load_fail": "Pack has errors. Check logs\/polytone.log"
 }

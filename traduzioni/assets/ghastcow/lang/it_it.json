@@ -1,6 +1,8 @@
 {
-    "entity.ghastcow.ghast_cow": "La mucca del ghast",
-    "text.autoconfig.ghastcow.option.general": "Opzioni generali",
-    "text.autoconfig.ghastcow.option.general.requireNamed": "Richiedi nome",
+    "entity.ghastcow.ghast_cow": "La mucca fantasma",
+    "ghastcow.configuration.requireNamed": "Nome richiesto",
+    "ghastcow.configuration.summon": "Chiamare, evocare",
+    "text.autoconfig.ghastcow.option.general": "Generale",
+    "text.autoconfig.ghastcow.option.general.requireNamed": "Nome richiesto",
     "text.autoconfig.ghastcow.title": "Generale"
 }

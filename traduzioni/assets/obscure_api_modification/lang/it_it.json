@@ -1,8 +1,9 @@
 {
-    "icon.attack_range": " (icone di raggio d'attacco)",
-    "icon.harvest.0": "§f›",
-    "icon.harvest.1": "§f⌳",
-    "icon.harvest.2": "§f⫸",
-    "icon.harvest.3": "§f⚒️",
-    "icon.harvest.4": "§f›"
+    "icon.attack_range": "§f",
+    "icon.attack_speed_custom": "§f",
+    "icon.harvest.0": "§f",
+    "icon.harvest.1": "§f",
+    "icon.harvest.2": "§f",
+    "icon.harvest.3": "§f",
+    "icon.harvest.4": "§f"
 }

@@ -1,8 +1,8 @@
 {
-    "entity.mimic.mimic": "Mimetico",
-    "item.mimic.fake_chest": "Cuore imitatore",
-    "item.mimic.mimic_key": "Chiave del mimetico",
-    "item.mimic.mimic_lock": "Blocco imitatore",
-    "item.mimic.mimic_spawn_egg": "Uovo di spawn del mimetico",
-    "mimic.no_open_standing": "Solo i mimici seduti possono essere aperti."
+    "entity.mimic.mimic": "Imitazione",
+    "item.mimic.fake_chest": "Imitazione del cuore",
+    "item.mimic.mimic_key": "Chiave di copia",
+    "item.mimic.mimic_lock": "Blocco Mimic",
+    "item.mimic.mimic_spawn_egg": "Uovo di Mimic",
+    "mimic.no_open_standing": "Solo le sedute possono essere aperte."
 }

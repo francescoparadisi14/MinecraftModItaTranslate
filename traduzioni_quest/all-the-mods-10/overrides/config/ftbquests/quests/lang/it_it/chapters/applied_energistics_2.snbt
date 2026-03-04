@@ -1,0 +1,373 @@
+{
+    "quest.00611844AFD5C31E.quest_desc": [
+        "Mentre l'Inscriber e il Charger sono progettati per accettare nativamente segnali RF\/FE, la maggior parte delle reti ME utilizza un proprio sistema di alimentazione dedicato, chiamato AE.\n\nÈ possibile convertire i segnali RF\/FE in AE con un rapporto di 2:1 (RF:AE), sia direttamente tramite un controller ME, sia tramite l'\\&bEnergy Acceptor\\&f, che può essere invece collegato a qualsiasi parte della rete."
+    ],
+    "quest.00611844AFD5C31E.quest_subtitle": "Collegare",
+    "quest.01F3F0C25BA72BDA.quest_desc": [
+        "Oltre allo stoccaggio di oggetti e liquidi, AE2 offre anche un metodo nativo per memorizzare intere strutture all'interno di celle di stoccaggio, in modo simile al mod \"Compact Machines\".",
+        "",
+        "La porta \\&bSpatial IO Port\\&f consente di acquisire gli elementi contenuti all'interno di una \\&bSpatial Containment Structure\\&f, memorizzandoli in una cella di stoccaggio appositamente progettata, attivata tramite un segnale di redstone.",
+        "",
+        "Se un gruppo di giocatori o un singolo giocatore si trova all'interno dello spazio mentre questo viene conquistato, verrà trasportato nello stesso spazio, ovvero in una dimensione dedicata. Assicurati semplicemente di avere un modo per tornare fuori e dentro, nel caso in cui tu sia il soggetto che viene catturato."
+    ],
+    "quest.01F3F0C25BA72BDA.title": "Spatial IO",
+    "quest.037488EF1F3581CE.quest_desc": [
+        "Per impostazione predefinita, una rete ME ha un buffer interno di 800 AE, senza un controller ME. Il controller aggiunge un ulteriore buffer di 8.000 AE per blocco. Per reti di dimensioni sufficientemente grandi, questo potrebbe non essere sufficiente e potrebbe causare lo spegnimento intermittente della rete quando si tenta di recuperare energia per eventuali dispositivi connessi.\n\nLa \\&bEnergy Cell\\&f consente a una rete ME di immagazzinare una quantità significativamente maggiore di energia, aggiungendo un ulteriore buffer di 200.000 AE per ogni \\&bEnergy Cell\\&f e 16.000 AE per ogni \\&bDense\\&f Energy Cell. Queste possono essere posizionate ovunque nella rete per fornire il maggiore buffer di energia."
+    ],
+    "quest.03E6FA4DCB71162E.quest_desc": [
+        "Lo strumento \"\\&bColor Applicator\\&f\" è un dispositivo a pagamento che consente di tingere i cavi direttamente nel gioco. Funziona in modo simile a un contenitore specializzato, che può essere riempito con coloranti standard o con \"palline colorate\" per ottenere colori specifici, oltre a \"palline di neve\" per rimuovere i colori e riportare i cavi alla loro versione originale (Fluix).\n\nL'applicazione del colore a un cavo consuma 100 AE (unità di energia) dalla batteria interna, consentendo di tingere un totale di 3400 segmenti di cavo con una singola carica."
+    ],
+    "quest.03E6FA4DCB71162E.title": "Applicatore per vernici",
+    "quest.083D458032F0325C.quest_desc": [
+        "Il bus di esportazione \\&bME filtra periodicamente gli elementi nella sua whitelist e li invia allo spazio di archiviazione esterno a cui è connesso. A differenza del bus di importazione, il bus di esportazione non può funzionare se non è correttamente filtrato."
+    ],
+    "quest.083D458032F0325C.quest_subtitle": "L'O",
+    "quest.0B218DD73FE8D985.quest_desc": [
+        "Se hai completato correttamente l'ultima missione, dovresti aver trasformato quella singolarità in una coppia di \"Singolarità Quantisticamente Correlate\". Queste nuove singolarità vengono utilizzate per collegare un dispositivo a forma di anello, noto come \"Ponte di Rete Quantistica\".\n\nQuando due di questi anelli sono stati collegati utilizzando le \"Singolarità Quantisticamente Correlate\" e sono stati alimentati con energia AE (ad esempio, una cella di energia), è possibile espandere una rete ME sull'altro lato del ponte, su distanze anche molto lunghe o addirittura attraverso dimensioni diverse."
+    ],
+    "quest.0B218DD73FE8D985.title": "Ponte di rete quantistica",
+    "quest.0E809747193ED3A9.quest_desc": [
+        "Il terzo livello MEGA di archiviazione, che offre 16384 KB di spazio di archiviazione."
+    ],
+    "quest.0E809747193ED3A9.quest_subtitle": "x⁴²",
+    "quest.0E809747193ED3A9.title": "Componente di archiviazione da 16 MB",
+    "quest.0F03E75CF79BADD7.quest_desc": [
+        "MEGA Cells\\&f offre le celle personalizzate per lo stoccaggio di grandi quantità, che consentono di memorizzare un solo tipo di articolo per cella, ma possono contenere un numero praticamente INFINITO di quel tipo di articolo. Prima di poter accettare un tipo di articolo, è necessario filtrarlo in anticipo utilizzando un'interfaccia di configurazione.\n\n*Tecnicamente, si intende \"massimo lunghezza\". Se lo sapete, lo sapete."
+    ],
+    "quest.0F03E75CF79BADD7.quest_subtitle": "Quantità e taglio",
+    "quest.0F03E75CF79BADD7.title": "Magazzinaggio di grandi quantità",
+    "quest.1348995F64A94396.quest_desc": [
+        "Lo schermo \\&bCrafting Monitor mostra l'oggetto in fase di fabbricazione, insieme alla quantità rimanente di quell'oggetto.\n\nSia lo schermo base AE2 che lo schermo MEGA funzionano in modo identico, ma sono forniti a scopo estetico."
+    ],
+    "quest.1348995F64A94396.quest_subtitle": "Scarica più VRAM",
+    "quest.140DE53DC0FCD9F4.quest_desc": [
+        "La \"piattaforma di annichilazione \\&bME\" può essere utilizzata per distruggere automaticamente qualsiasi blocco di fronte a sé e per riportare indietro qualsiasi oggetto che viene rilasciato dal blocco direttamente alla rete ME.",
+        "",
+        "Inoltre, la \"Pianura dell'Annullamento\" può essere incantata nello stesso modo di un normale strumento da scavo, influenzando la caduta dei blocchi nello stesso modo in cui lo strumento incantato farebbe. Questo la rende ideale per la lavorazione di blocchi di minerali, ad esempio, quando è incantata con \"Fortuna\".",
+        "Qualsiasi incantesimo aggiuntivo aumenta notevolmente la quantità di energia utilizzata dall'aereo ogni volta che un blocco viene distrutto. L'incantesimo \"\\&eEfficiency\\&f\" riduce l'utilizzo complessivo dell'energia causato da tutti gli altri incantesimi, mentre l'incantesimo \"\\&eUnbreaking\\&f\" permette all'aereo di utilizzare l'energia solo occasionalmente, in modo simile all'incantesimo \"Unbreaking\" applicato agli strumenti normali."
+    ],
+    "quest.140DE53DC0FCD9F4.quest_subtitle": "ENTRA",
+    "quest.15564C11744D6AA0.quest_desc": [
+        "Una volta che avete ottenuto l'intero set di presse necessarie, è il momento di iniziare a produrre i \"Processori\". Questi sono un ingrediente fondamentale utilizzato per la fabbricazione della maggior parte dei dispositivi connessi al ME."
+    ],
+    "quest.15564C11744D6AA0.title": "Processori",
+    "quest.16299B9AE87257DC.quest_desc": [
+        "Il terminale \\&bWireless\\&f funziona in modo identico a un terminale tradizionale, ma in modalità wireless.\n\nPrima di poter essere utilizzato per accedere a una rete, deve essere innanzitutto \\&elinkato\\&f alla rete, posizionandolo nello slot in alto a destra del \\&eWireless Access Point\\&r. Se non è collegato a una rete, o se si trova al di fuori del raggio o senza alimentazione, il terminale non funzionerà.\n\nI terminali wireless possono anche essere aggiornati con le \\&eEnergy Cards\\&f per fornire una batteria interna più grande."
+    ],
+    "quest.16299B9AE87257DC.quest_subtitle": "Questo è il motivo per cui siete qui.",
+    "quest.16299B9AE87257DC.title": "Terminali wireless",
+    "quest.1710B3D05215A71E.quest_desc": [
+        "\\&bP2P\\&f (peer-to-peer) è un sistema potente all'interno di AE2, che consente il trasferimento di oggetti, liquidi e persino altri materiali senza la necessità di un intermediario di stoccaggio.",
+        "",
+        "Cliccando con il tasto destro su un tunnel P2P, è possibile modificarlo in modo che possa trasferire altri tipi di elementi, come ad esempio oggetti tramite tubi, energia tramite cavi, segnali di redstone e (per impostazione predefinita) persino connessioni ME.",
+        "",
+        "I tunnel P2P devono essere collegati tra loro utilizzando una scheda di memoria, come descritto nella successiva fase."
+    ],
+    "quest.1710B3D05215A71E.quest_subtitle": "Eliminare l'intermediario.",
+    "quest.1710B3D05215A71E.title": "Tunnel P2P",
+    "quest.18DFB25DC48D8BF7.quest_desc": [
+        "La Struttura di Contenimento Spaziale (SCS) è costituita da una gabbia di \"Piloni Spaziali\" che copre il volume che si desidera contenere all'interno di una cella di IO spaziale. Al minimo, un SCS richiede tre linee di blocchi di \"Piloni Spaziali\", uno per ciascuna dimensione dello spazio da contenere (lunghezza, larghezza, altezza).",
+        "",
+        "Tuttavia, la funzionalità Spatial IO richiede un consumo di energia molto elevato, soprattutto quando si tenta di acquisire spazi molto ampi (fino a 128x128x128). L'aggiunta di più pilastri spaziali all'interno del SCS attorno al volume desiderato aumenterà la sua efficienza complessiva, consentendogli di utilizzare meno energia per l'acquisizione.",
+        "",
+        "Inoltre, è importante tenere presente che ogni singolo pilone (indipendentemente dalla sua lunghezza) occupa un canale. Per spazi particolarmente ampi, potrebbe essere utile creare una rete dedicata con un controller per ospitare tutti i piloni necessari."
+    ],
+    "quest.1AAF0B31B47AF23D.quest_desc": [
+        "I dispositivi ME individuali possono anche essere configurati per rispondere ai segnali di redstone. Grazie all'aggiunta di una scheda di controllo redstone, un dispositivo può essere configurato per eseguire determinate funzioni solo quando alimentato tramite redstone, oppure secondo necessità.\n\nQuesto comportamento può essere applicato anche a intere sezioni di una rete ME, utilizzando un \"bus di controllo ME\". Ciò consente a una sezione della rete situata dall'altra parte del bus di essere attiva solo quando il bus è alimentato tramite redstone, oppure di essere disattivata se si utilizza un \"bus di controllo invertito\"."
+    ],
+    "quest.1AAF0B31B47AF23D.title": "ME controllato da Redstone",
+    "quest.1B686954D34A0F23.quest_desc": [
+        "Lo strumento \\&bQuartz Wrench\\&f svolge la stessa funzione di qualsiasi strumento di modifica standard. Permette di ruotare blocchi e dispositivi sulla faccia su cui si fa clic con il tasto destro, e di smontarli quando si fa clic con il tasto destro mentre si è in furtivo.\n\nQuesto strumento è disponibile sia nella versione Certus Quartz che nella versione Nether Quartz."
+    ],
+    "quest.1B686954D34A0F23.quest_subtitle": "Funziona esattamente come ci si aspetta.",
+    "quest.1B686954D34A0F23.title": "Chiave in quarzo",
+    "quest.1F7DFA5AA65F2812.quest_desc": [
+        "La scheda \\&bAcceleration\\&f, a seconda del dispositivo a cui viene applicata, aumenterà la velocità operativa del dispositivo o consentirà al dispositivo di eseguire più operazioni in un'unica volta.\n\nNel caso dell'\\&eMolecular Assembler\\&f, un set completo di 5 schede ridurrà il tempo necessario per l'assemblaggio da uno secondo (senza schede) a un singolo \"\\&tick\"."
+    ],
+    "quest.2077D64428E9C067.quest_desc": [
+        "Un concetto importante all'interno di AE2 è una tecnica nota come \"\\&esubnetting\\&f\", in cui una rete ME separata (un \"\\&esubnetwork\\&f\") opera in collaborazione con la rete principale per svolgere una funzione o un processo specifico.",
+        "",
+        "Ciò che distingue una sottorete da una rete completamente separata è solitamente l'uso del cavo in fibra di quarzo. Quando questo cavo viene inserito tra due segmenti di cavo che altrimenti non sono collegati, la fibra di quarzo non trasmette alcun dato o canale tra i due, ma trasmette esclusivamente l'alimentazione.",
+        "",
+        "Pertanto, una sottorete situata dall'altra parte della fibra può essere alimentata interamente dalla fonte di energia principale, senza richiedere alcuna fonte di energia aggiuntiva dedicata."
+    ],
+    "quest.2077D64428E9C067.quest_subtitle": "Questo ha applicazioni anche al di fuori della creazione di cavi.",
+    "quest.2077D64428E9C067.title": "Dimenticato di menzionare",
+    "quest.219932CB19258C16.quest_desc": [
+        "Il terzo livello di componenti di archiviazione, che offre 16384 byte di spazio di archiviazione."
+    ],
+    "quest.219932CB19258C16.quest_subtitle": "x⁴²",
+    "quest.219932CB19258C16.title": "Componente di archiviazione da 16K",
+    "quest.22C4318523A43B49.quest_desc": [
+        "\\&eTerminale\\&f forniscono l'accesso a qualsiasi contenuto di una rete ME. Il terminale \\&eME standard elenca semplicemente tutto il contenuto della rete come un'unica lista, da cui è possibile selezionare e inserire elementi, come se si trattasse di un unico inventario.\n\nIl terminale \\&eME per la creazione è un'estensione del terminale ME, che offre anche una griglia di creazione integrata, consentendo di creare oggetti in modo semplice utilizzando qualsiasi elemento presente nella rete e visibile sullo schermo del terminale."
+    ],
+    "quest.22C4318523A43B49.quest_subtitle": "[Una battuta sugli utenti di Linux va qui]",
+    "quest.22C4318523A43B49.title": "Terminali",
+    "quest.234DC1702333EB18.quest_desc": [
+        "L'add-on \\&dAEInfinityBooster\\&f fornisce due amplificatori wireless personalizzati, che consentono una copertura illimitata, con opzione di supporto interdimensionale."
+    ],
+    "quest.234DC1702333EB18.quest_subtitle": "Non sono io che sto scrivendo la sceneggiatura di Toy Story.",
+    "quest.234DC1702333EB18.title": "Potenziatore di infinito",
+    "quest.25DBA00422301EDC.quest_desc": [
+        "Il secondo livello MEGA di archiviazione, che offre 4096 KB di spazio di archiviazione."
+    ],
+    "quest.25DBA00422301EDC.quest_subtitle": "x4",
+    "quest.25DBA00422301EDC.title": "Componente di archiviazione 4M",
+    "quest.2893F483C10293E6.quest_desc": [
+        "\\&lBenvenuti in \\&bApplied Energistics 2\\&f!\\n\\nApplied Energistics 2 (o \\&oAE2\\&r, per brevità) è un mod di archiviazione digitale incredibilmente versatile, che consente di archiviare in modo estremamente efficiente e di automatizzare una vasta gamma di operazioni, migliorando notevolmente la tua esperienza di gioco con mod, fin dall'inizio fino alla fine del gioco.\\n\\nPer ulteriori informazioni su AE2, consulta la wiki disponibile all'indirizzo:",
+        "\\&o\\&bappliedenergistics.github.io\\&f\\&r."
+    ],
+    "quest.2893F483C10293E6.quest_subtitle": "Sistema di archiviazione virtuale",
+    "quest.2893F483C10293E6.title": "Applied Energistics 2",
+    "quest.2897FA291E5A38D8.quest_desc": [
+        "L'\\&bSpatial Anchor\\&f è un dispositivo complementare della linea di prodotti Spatial IO che funge semplicemente da caricatore di chunk. Collegato a una rete ME, l'Anchor caricherà tutti i chunk occupati dalla rete ME attraverso tutti i cavi e i dispositivi, escludendo le sottoreti, a condizione che la rete sia alimentata."
+    ],
+    "quest.2B31E6C1707D8195.quest_desc": [
+        "Il prossimo dispositivo da utilizzare per consentire l'accesso wireless alla rete è il \\&bME Wireless Access Point\\&f. Questo dispositivo viene utilizzato per aprire la rete all'accesso wireless tramite un \\&ewireless terminal\\&f, e ha un raggio (limitato) che dipende dal numero di \\&bWireless Boosters\\&f inseriti nel punto di accesso."
+    ],
+    "quest.2C04B3BA507D5673.quest_desc": [
+        "\\&bPattern\\&f sono gli elementi che definiscono una ricetta da essere eseguita da un fornitore di pattern. Per codificare una ricetta all'interno di un pattern, è necessario utilizzare il terminale di codifica del pattern \\&bME Pattern Encoding Terminal\\&f.\n\nI pattern possono essere configurati per contenere sia una ricetta standard di \\&ecrafting\\&f, che richiede l'utilizzo di un \\&eMolecular Assembler\\&f sul lato del fornitore, sia una ricetta più generale di \"\\&eprocessing\\&f\", in cui qualsiasi elemento di input può essere inviato dal fornitore a un altro blocco di macchinari o a un impianto di elaborazione specializzato."
+    ],
+    "quest.2C04B3BA507D5673.title": "Modelli",
+    "quest.2F16B6A173525277.quest_desc": [
+        "L'ultimo elemento necessario per completare qualsiasi rete di comunicazione di grandi dimensioni è il controller \\&bME.",
+        "",
+        "Un controller fornisce a una rete ME un numero di canali molto maggiore rispetto agli standard, ovvero 8 canali, per le reti ad hoc. In questo caso, offre 32 canali per ogni faccia del blocco, per un totale di 216 canali.",
+        "",
+        "Tuttavia, questo si riferisce solo a un controller a singolo blocco. In realtà, il controller ME è una struttura a più blocchi. Il controller può avere dimensioni fino a 7x7x7 blocchi e può essere disposto in qualsiasi configurazione libera all'interno di queste dimensioni massime. Ogni singolo blocco può quindi fornire il proprio insieme di canali, a condizione che nessun singolo blocco non sia circondato da 4 altri blocchi sullo stesso piano.",
+        "",
+        "Una rete ME può contenere solo un singolo controller multiblock alla volta. Tentare di collegare più controller su parti separate della rete causerà un conflitto, causando l'interruzione dell'intera rete."
+    ],
+    "quest.2F556E7919582D2D.quest_desc": [
+        "La piattaforma \\&bCell Workbench\\&f consente di \"segmentare\" le celle per contenere elementi specifici, ovvero di applicare un filtro di \"lista bianca\". Inoltre, permette di aggiornare le celle con determinate schede di aggiornamento, come la scheda dell'inverter, che in questo modo trasforma la lista bianca in una lista nera.\n\nÈ inoltre possibile assegnare a ciascuna cella una priorità più alta o più bassa tramite la piattaforma, ovvero consentendo alla cella di ricevere prima determinati elementi fino a quando non saranno completamente riempite, oppure facendola attendere fino a quando non saranno state riempite prima le celle con priorità più alta."
+    ],
+    "quest.2FB231069D2E4E77.quest_desc": [
+        "Ogni cella ha una capacità specifica, determinata dal componente che la costituisce.\n\nIl primo componente è il componente di archiviazione \\&b1k ME, che fornisce 1024 \"byte\" di spazio di archiviazione per una data cella. Ne parleremo più avanti."
+    ],
+    "quest.2FB231069D2E4E77.quest_subtitle": "Il primo kilobyte.",
+    "quest.2FB231069D2E4E77.title": "Creare la prima cella di archiviazione",
+    "quest.30E853CE699E669B.quest_desc": [
+        "Prima di poter eseguire un processo di fabbricazione automatizzato, è necessario un dispositivo in grado di memorizzare effettivamente la richiesta, nonché eventuali materiali intermedi per processi a più fasi. Questo dispositivo è noto come \"unità di fabbricazione\".\n\nUn'unità di fabbricazione è una struttura composta da più blocchi che richiede almeno un blocco \"di stoccaggio per la fabbricazione\", e opzionalmente anche altri blocchi di fabbricazione. La struttura può essere realizzata in qualsiasi dimensione, ma deve essere una forma cubica solida per funzionare correttamente."
+    ],
+    "quest.30E853CE699E669B.quest_subtitle": "Scarica più RAM",
+    "quest.3195A7AA874163CD.quest_desc": [
+        "La scheda \"\\&bEqual Distribution\" è un aggiornamento per le celle di archiviazione che prevede l'allocazione di una certa quantità di elementi, utilizzabili da qualsiasi tipo di entità.\n\nQuesto comportamento è simile a quello di un cassetto di archiviazione funzionale, in cui ogni scomparto contiene un numero specifico di gruppi di oggetti, piuttosto che consentire agli oggetti di un scomparto di \"perdersi\" negli altri e di escludere altri tipi di oggetti."
+    ],
+    "quest.3195A7AA874163CD.quest_subtitle": "Cassetti per il deposito e l'organizzazione di campioni (ME Storage \\&mCells\\&r Drawers)",
+    "quest.33ADE41526C39AFD.quest_desc": [
+        "Questo comportamento è paragonabile a quello di un cassetto di stoccaggio modulare, in cui ogni scomparto contiene un numero specifico di pile, piuttosto che consentire agli oggetti di uno scomparto di passare agli altri e di ostacolare altri tipi di oggetti."
+    ],
+    "quest.361CCBD353D6FF34.quest_desc": [
+        "Con il componente per lo storage di 1k, ora puoi creare autonomamente una cella di storage per oggetti da 1k per iniziare il tuo sistema di storage digitale. Probabilmente vorrai che la maggior parte dello spazio di storage sia dedicato agli oggetti, quindi probabilmente vorrai creare alcune celle di storage per oggetti.",
+        "",
+        "Le celle di archiviazione ME possono contenere fino a 63 tipi diversi di oggetti. Ogni nuovo tipo di oggetto aggiunto a una cella occuperà una certa frazione della capacità totale della cella in byte. Per ogni tipo già presente, 1 \"byte\" corrisponde a 8 oggetti dello stesso tipo.",
+        "",
+        "Ad esempio, una cella di stoccaggio da 1.000 unità, contenente solo pietre, può contenere fino a 8.128 pietre (8 * 1.024 unità - 8 unità\/tipo * 1 tipo).",
+        "",
+        "Se una cella è vuota, può essere riutilizzata smontandola nei suoi componenti e nel suo alloggiamento. Questo si fa avvicinando e facendo clic con il tasto destro nell'aria, tenendo la cella in mano."
+    ],
+    "quest.361CCBD353D6FF34.title": "Conservazione degli articoli",
+    "quest.371A382CF1DDF2B2.quest_desc": [
+        "La scheda \"\\&bCapacity\" consente a un autobus dotato di questa scheda di trasportare un filtro più grande. Gli autobus dotati di questa scheda, sia quelli di tipo \"Storage\" che quelli di tipo \"Import\/Export\", potranno passare da un massimo di un singolo elemento filtrato a un massimo di nove slot, mentre gli autobus di tipo \"Storage\" passeranno da 18 slot a un massimo di 63."
+    ],
+    "quest.3B42CCC19D23EC6D.quest_desc": [
+        "Il secondo livello di archiviazione, che offre uno spazio di 4096 byte."
+    ],
+    "quest.3B42CCC19D23EC6D.quest_subtitle": "x4",
+    "quest.3B42CCC19D23EC6D.title": "Componente per lo storage 4K",
+    "quest.3CE3D9245F8EC005.quest_desc": [
+        "Il quarto livello MEGA di archiviazione, che offre 65536 KB di spazio di archiviazione."
+    ],
+    "quest.3CE3D9245F8EC005.quest_subtitle": "x⁴³",
+    "quest.3CE3D9245F8EC005.title": "Componente di archiviazione da 64 MB",
+    "quest.3DDB0DDA7571B2C1.quest_desc": [
+        "Il dispositivo \\&bME Level Emitter\\&f, configurato con un determinato oggetto e la sua quantità, emetterà un segnale di redstone in base a se la quantità di quell'oggetto presente nella rete è inferiore, superiore o uguale alla quantità specificata.\n\nQuesto può essere utilizzato, ad esempio, per attivare automaticamente determinate macchine tramite redstone, in modo da produrre automaticamente una risorsa quando la quantità disponibile scende al di sotto di un determinato limite minimo."
+    ],
+    "quest.3DDB0DDA7571B2C1.title": "Emettitore di livello ME",
+    "quest.3E3DF8E967D95DB0.quest_desc": [
+        "Quando si utilizza un componente di archiviazione da 64k o superiore, il condensatore Matter diventa in grado di condensare una quantità significativamente maggiore, producendo un \"\\&Singularity\". Per creare un singolo \"\\&Singularity\", sono necessari 256.000 elementi. Questo equivale a 4.000 \"stack\"!\n\nOsservate cosa succede quando si rilascia questo \"\\&Singularity\" a terra, insieme a un po' di \"\\&Ender Dust\". Dovrete infliggere dei danni all'ambiente circostante, ma fortunatamente AE2 offre anche la sua \"\\&bTiny TNT\\&f\" per ridurre al minimo questi danni."
+    ],
+    "quest.3E3DF8E967D95DB0.quest_subtitle": "Materia altamente condensata",
+    "quest.3E3DF8E967D95DB0.title": "Materia altamente condensata",
+    "quest.4597D3B3BDC2BED5.quest_desc": [
+        "L'\\&bMolecular Assembler\\&f è l'equivalente di un tavolo di lavoro automatico di AE2, necessario per eseguire qualsiasi tipo di compito di \\&ecrafting\\&f.\n\nGli Assemblatori Molecolari sono in grado di trasferire energia e canali ad altri dispositivi ME collegati, ma non utilizzano essi stessi un canale. È possibile collegare fino a 6 Assemblatori Molecolari a un singolo Provider di Modelli (se utilizzato) per consentire di eseguire più lavori in parallelo.\n\nGli Assemblatori Molecolari hanno anche ogni uno un proprio slot dedicato per un singolo modello, consentendo loro di funzionare in modo autonomo una volta alimentati. In questo modo, qualsiasi oggetto corrispondente inserito nell'Assemblatore verrà automaticamente trasformato nel risultato del modello."
+    ],
+    "quest.460A8F17F3ED6CAF.quest_desc": [
+        "Arriva un momento durante qualsiasi playthrough di un grande pacchetto di mod in cui nemmeno la tier più alta di celle di archiviazione non è sufficiente per la quantità di oggetti e risorse che si accumulano.\n\nÈ qui che entra in gioco l'add-on \"\\&dMEGA Cells\\&f\", che estende le tier di archiviazione fino alla scala dei megabyte. La prima di queste nuove tier è fornita dal componente \"\\&b1M MEGA Storage\\&f\", che offre 1024 \\&okilo\\&rbyte, ovvero \\&e1048576\\&f byte, di spazio di archiviazione."
+    ],
+    "quest.460A8F17F3ED6CAF.quest_subtitle": "Il primo megabyte.",
+    "quest.460A8F17F3ED6CAF.title": "Componente di archiviazione da 1 TB",
+    "quest.4B76FE0348DB0E45.quest_desc": [
+        "La Quantum Bridge Card è un metodo alternativo per ottenere un accesso wireless e interdimensionale al tuo sistema Applied Energistics. Avrai bisogno di una Quantum Bridge collegata alla tua base e di una Quantum Bridge Card nel tuo terminale. Questi tunnel vengono quindi collegati tra loro utilizzando una Quantum Entangled Singularity per ottenere l'accesso ovunque ti trovi."
+    ],
+    "quest.4BF0BB763BFFACF0.quest_desc": [
+        "Probabilmente la risorsa più importante di cui avrete bisogno è il \"Fluix\", utilizzato nella maggior parte dei dispositivi AE2 e che funge da base per la creazione di tutti i cavi all'interno di una rete ME.",
+        "",
+        "Di solito, vorrete produrre questi materiali in grandi quantità. Il modo più semplice per farlo è mescolare insieme \\&eNether Quartz\\&f, \\&e\\&oCharged\\&r\\&e Certus quartz\\&r e \\&eRedstone\\&f in una vasca d'acqua. Questo vi darà un \\&eFluix Crystal\\&r, che potrete poi trasformare in polvere utilizzando un Inscriber."
+    ],
+    "quest.4BF0BB763BFFACF0.title": "Fluix",
+    "quest.4E8A05C3BFA80540.quest_desc": [
+        "Probabilmente l'aspetto più importante di Applied Energistics 2 è il suo sistema di archiviazione, che utilizza le \"Cellule di Archiviazione Digitali\". Queste celle possono essere accessibili tramite una \"Cassa ME\" per una singola cella, oppure tramite un \"Drive ME\" per più celle.\n\nLa \"Cassa ME\" contiene una singola cella alla volta, che può essere letta e scritta da qualsiasi altro terminale sulla stessa rete. La stessa \"Cassa ME\" fornisce anche un proprio schermo di accesso, accessibile solo alla cella che contiene.\n\nIl \"Drive ME\" può contenere fino a 10 diverse celle di archiviazione nello spazio di un singolo blocco e di un singolo canale ME. Tuttavia, non fornisce un proprio schermo di accesso, richiedendo un altro terminale esterno sulla rete per l'accesso allo spazio di archiviazione."
+    ],
+    "quest.4E8A05C3BFA80540.quest_subtitle": "Elementi come un sistema di file",
+    "quest.4E8A05C3BFA80540.title": "L'area di stoccaggio",
+    "quest.5034A9137E0F3D3D.quest_desc": [
+        "Questo contenuto è stato creato da \\&6AllTheMods Staff\\&r, oppure da un \\&2contributore della community\\&r, per l'uso nei pacchetti di mod di AllTheMods.\\n\\nPoiché tutti i pacchetti di AllTheMods sono soggetti al copyright \\&eTutti i diritti riservati\\&r, questo contenuto non può essere utilizzato in altri pacchetti pubblici, a meno che non sia stato rilasciato dal team di AllTheMods, previa autorizzazione esplicita.\\n\\nQuesto contenuto è stato intenzionalmente nascosto. Se lo state visualizzando, siete in modalità di modifica."
+    ],
+    "quest.51236544BFEF487B.quest_desc": [
+        "È ora di trovare i \\&eMeteoriti\\&f che contengono il \\&bPietra Celeste\\&f. Questi possono essere presenti sulla superficie o sottoterra, e al loro interno si trova un \\&bCubo Misterioso\\&f.\n\nQuesto cubo contiene tutti i diversi \\&ePulsanti\\&f utilizzati nell'Inscriber per creare i componenti speciali di AE2.\n\nIl modo più semplice per trovare un meteorite è creare un \\&eBussola per Meteoriti\\&r inserendo una bussola all'interno di un Charger."
+    ],
+    "quest.51236544BFEF487B.quest_subtitle": "COMICO #42: Ricerca di Bobby [Fischer]",
+    "quest.51236544BFEF487B.title": "Caccia alle meteoriti",
+    "quest.51A57E142C686C8F.quest_desc": [
+        "La quinta e ultima tier di archiviazione, che offre 262144 KB (kilobyte) di spazio di archiviazione."
+    ],
+    "quest.51A57E142C686C8F.quest_subtitle": "x⁴⁴",
+    "quest.51A57E142C686C8F.title": "Componente di archiviazione da 256 MB",
+    "quest.51DE3157DE3E57B8.quest_desc": [
+        "Lo spazio di stoccaggio è sicuramente utile, ma qual è il senso di un sistema di stoccaggio se è pieno di materiali grezzi che devono essere lavorati e trasformati in qualcosa, e allo stesso tempo si è ancora costretti a farlo manualmente?",
+        "",
+        "Il sistema di AE2 per la creazione automatica inizia con il \"Provider di Modelli\" (ME Pattern Provider). Questo componente contiene determinati oggetti chiamati \"Modelli\" (Patterns), che sono programmati per trasformare determinati materiali di input in un prodotto specifico. Un singolo provider può contenere fino a 9 modelli diversi.",
+        "",
+        "Spesso, dovrete utilizzare diversi fornitori di modelli sparsi in tutta la vostra base, per questo motivo è utile avere un terminale di accesso ai modelli (\\&bPattern Access Terminal\\&f) per accedere in remoto al contenuto di tutti i fornitori presenti nella vostra rete ME più ampia."
+    ],
+    "quest.51DE3157DE3E57B8.quest_subtitle": "Ordina!",
+    "quest.51DE3157DE3E57B8.title": "Creazione automatica",
+    "quest.5233A447BAA4593C.quest_desc": [
+        "I cavi \\&bME Smart Cable\\&f e \\&bDense Smart Cable\\&f funzionano in modo identico ai cavi coperti in termini di distribuzione dei canali, ma mostreranno anche chiaramente il numero di canali utilizzati, attraverso linee colorate lungo il cavo stesso."
+    ],
+    "quest.5233A447BAA4593C.quest_subtitle": "'S.M.R.T.'",
+    "quest.5233A447BAA4593C.title": "Cablaggio avanzato",
+    "quest.523853C1C4E688BA.quest_desc": [
+        "Il quarto livello di componenti di archiviazione, che offre uno spazio di archiviazione di 65536 byte."
+    ],
+    "quest.523853C1C4E688BA.quest_subtitle": "x⁴³",
+    "quest.523853C1C4E688BA.title": "Componente di archiviazione da 64 KB",
+    "quest.525F25F4ADE45B50.quest_desc": [
+        "Il piano di formazione \"\\&bME Formation Plane\\&f\" funziona in modo simile al bus di archiviazione, ma considera l'intero mondo come il suo mezzo di archiviazione. In altre parole, posiziona qualsiasi blocco nel suo filtro direttamente di fronte a sé.",
+        "",
+        "Questo può essere utile in situazioni in cui un blocco può essere facilmente lavorato semplicemente posizionandolo e rompendolo con uno strumento specifico."
+    ],
+    "quest.525F25F4ADE45B50.quest_subtitle": "USCITE",
+    "quest.55186B8602689B66.quest_desc": [
+        "La scheda \\&bMemory Card\\&f è uno strumento con due funzioni diverse. La più semplice è quella di salvare le configurazioni di vari dispositivi (come i filtri \"whitelist\") per poi copiarle su un altro dispositivo dello stesso tipo.",
+        "",
+        "La seconda funzione di una scheda di memoria è quella di creare e collegare tunnel P2P. In questo processo, il tunnel P2P collegato riceverà un ID univoco, che verrà memorizzato sulla scheda di memoria per consentire ulteriori connessioni."
+    ],
+    "quest.5AA3E5DFECB4AC4D.quest_desc": [
+        "Naturalmente, AE2 offre un proprio metodo per accelerare notevolmente la crescita dei cristalli.\n\nPosizionate questi prodotti attorno ai vostri cristalli in crescita, fornite loro l'energia necessaria e osservate la loro crescita!"
+    ],
+    "quest.5BB887411B8B38FA.quest_desc": [
+        "Per quanto riguarda l'espansione wireless della rete ME, il primo passo è, ammettiamolo, piuttosto insolito.\n\nIl \"\\&bMatter Condenser\\&f\" è l'interpretazione di AE2 per un contenitore, che elimina qualsiasi oggetto inserito al suo interno. Tuttavia, quando viene dotato del \"\\&eStorage Component\\&f\", il condensatore può sfruttare l'energia residua dell'oggetto eliminato e immagazzinarla per creare due oggetti speciali, utilizzando una quantità sufficiente di energia concentrata.\n\nIl primo di questi due oggetti è la \"\\&bMatter Ball\\&f\", che richiede almeno un componente di stoccaggio da 1k e una quantità di materiale eliminato pari a 256 unità."
+    ],
+    "quest.5BB887411B8B38FA.title": "Sostanze condensate",
+    "quest.5C22E3103544B120.quest_desc": [
+        "Per collegare la maggior parte della tua rete ME, avrai bisogno di alcuni cavi. Il cavo \"\\&eME Glass Cable\\&f\" è il tipo di cavo più semplice e fondamentale, e lo utilizzerai come primo passo per creare gli altri tipi di cavo.\n\nSia i cavi in vetro che i loro equivalenti \"rivestiti\" possono trasportare fino a 8 canali lungo una singola sezione di cavo. A differenza dei cavi in vetro, i cavi rivestiti possono essere successivamente trasformati in cavi \"ad alta densità\", in grado di trasportare fino a 32 canali. Tuttavia, la maggior parte dei dispositivi \"multipolari\" come autobus e terminali non possono essere collegati direttamente a cavi ad alta densità, richiedendo l'utilizzo di cavi standard per formare la connessione.\n\nTutti i cavi possono anche essere colorati. I cavi non colorati (\"Fluix\") possono essere collegati a qualsiasi altro tipo di cavo, ma i cavi di colori diversi non possono essere collegati tra loro."
+    ],
+    "quest.5C22E3103544B120.title": "Cablaggio di base",
+    "quest.5CD8D169181C7339.quest_desc": [
+        "Questi ultimi tre oggetti sono, in sostanza, dei giocattoli aggiuntivi forniti da AE2 e non rientrano necessariamente in nessuna di queste \"alberi di quest\".\n\nL'\"\\&bBastone Elettrico\\&f\" è semplicemente un bastone elettrico che infligge 3 punti di danno e consuma 300 AE per colpo. Inoltre, utilizza le meccaniche di combattimento pre-1.9, il che significa che puoi usarlo in modo ripetuto, come ai vecchi tempi.\n\nL'\"\\&bManipolatore di Entropia\\&f\", quando viene utilizzato su determinati blocchi nel mondo, li fonde direttamente, come trasformare la sabbia in vetro e i minerali in lingotti metallici. In caso contrario, semplicemente accende un fuoco sul blocco.\n\nInfine, l'\"\\&bCannone di Materia\\&f\" funziona in modo simile al \"Applicatore di Colore\" come un contenitore dedicato per gli oggetti \"munizioni\" come le \"Palle di Materia\" e i lingotti di ferro\/oro, che possono poi essere sparate per infliggere danni alle creature o per distruggere i blocchi. Le \"Palle di Materia\" più pesanti nel \"Cannone di Materia\" possono essere sostituite con le \"Palle di Pittura\", che applicano un effetto di schizzi di vernice sulla superficie del blocco colpito. Le \"Palle di Pittura Lumen\" sono una variante delle \"Palle di Pittura\" utilizzate esclusivamente nel \"Cannone di Materia\", le cui vernici, una volta presenti nel mondo, emettono anche una luce."
+    ],
+    "quest.5CD8D169181C7339.quest_subtitle": "Troppo caldo per l'ATF",
+    "quest.5CD8D169181C7339.title": "...Armi?",
+    "quest.5E24012A3D9B72A1.quest_desc": [
+        "Non solo gli oggetti possono essere conservati nelle celle ME. Le celle di stoccaggio di fluidi ME possono contenere liquidi come acqua, lava e una varietà di oli e carburanti modificati, per citarne alcuni esempi.",
+        "",
+        "È importante notare che tutte le celle di stoccaggio, indipendentemente da ciò che sono progettate per contenere, differiscono solo per quanto riguarda il loro involucro; sia le celle per oggetti che quelle per liquidi utilizzano lo stesso tipo di componente per la realizzazione.",
+        "",
+        "Per i fluidi, 1 byte equivale a 8 unità di misura (8000 MB)."
+    ],
+    "quest.5E6585F7627247E3.quest_desc": [
+        "Quando utilizzata come aggiornamento per dispositivi supportati come un'interfaccia o un bus di esportazione, la scheda \"\\&bCrafting\" consente al dispositivo di inviare automaticamente le proprie richieste di creazione per un articolo specifico (filtrato). I processori di creazione possono essere configurati per rispondere solo a queste richieste, evitando che vengano utilizzati processori destinati alla creazione di oggetti richiesti dai giocatori.\n\nQuando la scheda \"\\&eLevel Emitter\" viene aggiornata con la scheda \"\\&bCrafting\", può essere configurata per emettere segnali di redstone al fine di facilitare direttamente la creazione, emettendo un segnale sia quando viene rilevata una richiesta di creazione per l'articolo specifico, sia quando è necessario creare l'articolo stesso. Nel secondo caso, ciò sarebbe applicabile quando l'unico elemento necessario per creare un determinato oggetto è un segnale di redstone, senza la necessità di un modello di creazione specifico."
+    ],
+    "quest.5E6585F7627247E3.quest_subtitle": "Automazione nella fase di aggiornamento!",
+    "quest.5E7E35CCAF1C88EE.quest_desc": [
+        "Il bus di import \\&bME estrae periodicamente elementi da qualsiasi dispositivo di archiviazione esterno a cui è connesso. È possibile configurarlo per estrarre solo determinati elementi da tale inventario."
+    ],
+    "quest.5E7E35CCAF1C88EE.quest_subtitle": "L'I",
+    "quest.5F56892CD904C40F.quest_desc": [
+        "La quinta e ultima fase di archiviazione conforme allo standard AE2, che offre uno spazio di archiviazione di 262144 f byte."
+    ],
+    "quest.5F56892CD904C40F.quest_subtitle": "x⁴⁴",
+    "quest.5F56892CD904C40F.title": "Componente di archiviazione da 256 KB",
+    "quest.6144202A97C6CD1C.quest_desc": [
+        "Il coltello da taglio per quarzo (bQuartz Cutting Knife), come la chiave inglese, è disponibile sia nella versione Nether che nella versione Certus, ed è uno strumento utile da avere a disposizione.\n\nÈ inoltre possibile separare i cavi semplicemente fissando un \"Cavo Anchor\" tra di essi, utilizzando questo coltello. Questo processo può essere ripetuto fino a 50 volte con lo stesso coltello prima che si rompa.\n\nGli \"Anchor\" per cavi possono anche essere utilizzati per creare \"Cavo Facade\", consentendo di nascondere i cavi all'interno delle pareti coprendoli con un blocco di qualsiasi tipo. Anche se le ricette per le \"Facade\" sono nascoste in JEI, è comunque possibile crearle prendendo qualsiasi blocco normale e circondandolo con 4 \"Anchor\" nella griglia di creazione."
+    ],
+    "quest.6144202A97C6CD1C.quest_subtitle": "Sotto il bisturi",
+    "quest.6144202A97C6CD1C.title": "Ancora per cavo",
+    "quest.6431A384DDFBF439.quest_desc": [
+        "Lo strumento \\&bNetwork Tool\\&f è uno strumento importante all'interno di AE2, utilizzato per visualizzare diversi dettagli di una rete sullo schermo, come il consumo energetico complessivo e lo spazio di archiviazione.",
+        "",
+        "Inoltre, offre un piccolo inventario per conservare e aggiornare le carte, che può essere utilizzato quando si visualizza lo schermo di qualsiasi dispositivo modificabile per facilitarne la sostituzione. Tuttavia, non è in grado di ruotare i blocchi collegati alla rete ME come farebbe una chiave normale, ma solo di smontarli quando si sta agendo in incognito."
+    ],
+    "quest.6431A384DDFBF439.title": "Strumenti di rete",
+    "quest.68B0B3DAF1145191.quest_desc": [
+        "Due delle prime cose di cui avrete bisogno per iniziare a utilizzare AE2 sono l'\\&bCaricatore\\&f e l'\\&bIncisore\\&f.\n\nL'\\&bCaricatore\\&f, una volta alimentato, utilizzerà i \\&eCristalli di Quarzo Certus\\&r e li caricherà. Questi \\&eCristalli di Quarzo Certus\\&r carichi potranno quindi essere utilizzati nella produzione di \\&eFluix\\&f, un'altra risorsa importante nel mod. Possono anche essere utilizzati per caricare qualsiasi oggetto che immagazzina energia.\n\nL'\\&bIncisore\\&f può essere utilizzato per trasformare i vari cristalli di quarzo in AE2 nella loro forma di polvere, ma soprattutto serve per fabbricare i \\&eCircuiti Stampati\\&f e i \\&eProcessori\\&f, come diventerà più chiaro nella prossima missione."
+    ],
+    "quest.68B0B3DAF1145191.quest_subtitle": "Innanzitutto",
+    "quest.68B0B3DAF1145191.title": "Innanzitutto",
+    "quest.69B7DE2283B4EE6C.quest_desc": [
+        "L'unità di co-elaborazione \"\\&bCrafting\" aiuta ad accelerare i processi di creazione, consentendo ai fornitori di modelli di inviare oggetti più rapidamente ai dispositivi connessi o di lavorare simultaneamente per produrre più ingredienti necessari.\n\nL'unità di co-elaborazione di base AE2 fornisce un singolo \"thread\" per supportare questa funzione, mentre l'unità di co-elaborazione di \\&dMEGA Cells\\&f fornisce 4 thread all'interno di un singolo blocco."
+    ],
+    "quest.69B7DE2283B4EE6C.quest_subtitle": "Scarica più core della CPU",
+    "quest.6D54B45CDA70FEAB.quest_desc": [
+        "La \\&bEnergy Card\\&f può essere utilizzata con la maggior parte dei dispositivi ricaricabili, come batterie portatili e terminali wireless (che verranno descritti in seguito), per aumentare anche la loro capacità di accumulo di energia."
+    ],
+    "quest.6E15447FC3D678E0.quest_desc": [
+        "La scheda \\&bFuzzy Card\\&f consente di abbinare un elemento filtrato, indipendentemente da qualsiasi metadati (NBT) come danni o incantesimi, mentre la scheda \\&bInverter Card\\&f inverte la funzione del filtro, passando da una whitelist a una blacklist per tali bus."
+    ],
+    "quest.6E15447FC3D678E0.quest_subtitle": "Le due schede IO rimanenti",
+    "quest.6E15447FC3D678E0.title": "In modo informale",
+    "quest.6F3D0A248B5A9CA2.quest_desc": [
+        "Le celle di archiviazione spaziale sono progettate per contenere un volume definito ciascuna, e sono disponibili in tre diverse dimensioni, consentendo di utilizzare uno spazio equivalente a un massimo di 2x2x2, 16x16x16 e 128x128x128 blocchi.",
+        "",
+        "Dopo la codifica, una cella viene assegnata una porzione di spazio all'interno dello spazio di archiviazione, insieme a un ID univoco corrispondente alla regione assegnata alla cella. Una cella codificata può comunque essere utilizzata all'interno della porta di I\/O spaziale per recuperare qualsiasi blocco o entità memorizzata.",
+        "",
+        "Da quel momento, qualsiasi blocco situato all'interno della regione spaziale o all'interno di un SCS (Spatial Coordinate System) con le stesse dimensioni di quello utilizzato per la codifica iniziale, può essere riportato rispettivamente nel mondo principale o nella dimensione spaziale. Se ci sono blocchi sia all'interno della regione spaziale che all'interno dell'SCS, questi semplicemente si scambieranno di posizione."
+    ],
+    "quest.6F3D0A248B5A9CA2.title": "Cella di archiviazione spaziale",
+    "quest.74FC0DDDB91DB172.quest_desc": [
+        "Per semplificare ulteriormente il processo, AE2 fornisce una serie completa di dispositivi per la manipolazione dei dati ME, ovvero per spostare gli oggetti memorizzati in tutto il mondo.\n\nL'\\&bInterfaccia ME\\&f è uno di questi dispositivi. Come dispositivo di input, l'interfaccia consente di inviare qualsiasi oggetto\/fluido, ecc., esternamente attraverso di essa, che viene quindi automaticamente memorizzato nella rete ME a cui è collegata.\n\nCome dispositivo di output, l'interfaccia può essere configurata per mantenere una certa quantità di un oggetto memorizzato, dalla rete ME al proprio inventario interno. Ciò consente di ricevere oggetti da una fonte esterna, come un altro giocatore o un tubo."
+    ],
+    "quest.74FC0DDDB91DB172.quest_subtitle": "Oh, oh, oh!",
+    "quest.74FC0DDDB91DB172.title": "L'IO",
+    "quest.77C9EE701F72586D.quest_desc": [
+        "Le celle portatili hanno la stessa funzionalità delle celle standard, in quanto possono essere inserite in un contenitore o in un'unità e riempite di conseguenza.",
+        "",
+        "Tuttavia, a differenza delle cellule normali, anche il loro contenuto può essere accessibile in modo indipendente, direttamente dall'elemento della cella stessa, proprio come uno zaino digitale con funzionalità ME."
+    ],
+    "quest.78311531069807DE.quest_desc": [
+        "In Applied Energistics 2, ogni rete ME dispone di un certo numero di \\&canali\\&f, il che significa semplicemente quanti dispositivi collegati possono essere presenti nell'intera rete.\n\nIn generale, qualsiasi dispositivo che gestisce direttamente i dati ME (oggetti memorizzati all'interno della rete) e che esegue alcune operazioni di input\/output, occuperà un canale. Solitamente, i componenti che si occupano esclusivamente dello stoccaggio dell'energia all'interno della rete, come le \\&eCellule Energetiche\\&f e le \\&eInscribers\\&f, non occupano canali.\n\nLe reti senza un \\&bController ME\\&f sono note come \"reti ad hoc\" e supportano al massimo 8 canali."
+    ],
+    "quest.79D2617E01481281.quest_desc": [
+        "Per iniziare con AE2, sarà necessario estrarre una risorsa importante per il mod, chiamata \"\\&bCertus Quartz\\&f\". Potrete trovare i cristalli di Certus Quartz nei meteoriti, da cui potrete estrarre sia la polvere di Certus Quartz ( \"\\&eDust\\&f\" ) sia i cristalli ( \"\\&eCrystals\\&f\" )."
+    ],
+    "quest.79D2617E01481281.title": "Certus Quartz",
+    "quest.7B7D1F0CB326B28F.quest_desc": [
+        "La porta IO \\&bME IO consente di spostare rapidamente i contenuti di una rete ME tra diversi supporti di archiviazione, come le celle ME e i contenitori esterni collegati a bus di archiviazione.\n\nQuando una cella viene inserita in uno slot di ingresso sul lato sinistro, la porta IO può essere utilizzata per svuotare la cella in altri sistemi di archiviazione ME o per riempirla (idealmente, partizionata) con determinati elementi provenienti da altri sistemi di archiviazione."
+    ],
+    "quest.7B7D1F0CB326B28F.quest_subtitle": "Deframmentazione",
+    "quest.7EFBAF3E281D2EBE.quest_desc": [
+        "L'interfaccia di archiviazione \\&bME Storage Bus\\&f, quando interagisce con un contenitore esterno, permette di utilizzare questo contenitore come se fosse parte della rete ME, consentendo di prelevare o inserire oggetti nel contenitore esclusivamente tramite ME.",
+        "",
+        "Le \"bus\" di archiviazione possono essere filtrate e assegnate priorità specifiche, in modo che determinati elementi tentino di essere salvati prima nella memoria associata. Tuttavia, non sposteranno retroattivamente alcun elemento filtrato da qualsiasi altra parte della rete nella memoria associata."
+    ],
+    "quest.7EFBAF3E281D2EBE.quest_subtitle": "La cassa di riserva",
+    "task.08DA73B1AC17E5F5.title": "Arredamento per l'organizzazione e lo stoccaggio",
+    "task.1076BC82EECB73F5.title": "Chiavi a bussola in quarzo",
+    "task.14DEFFB80CC96BC1.title": "Cavi spessi e rivestiti",
+    "task.23D186249A999B8C.title": "Coltelli per taglio di quarzo",
+    "task.338A6DA0D711B7DC.title": "Fornitore di modelli ME",
+    "task.38E290AC5E011888.title": "Cavi ME ad alta densità e intelligenti",
+    "task.408C5263C4664195.title": "Cesti",
+    "task.40A7CC56DACC2623.title": "Cavi in vetro ME",
+    "task.4C5435BE5560E71B.title": "Tutti i diritti riservati",
+    "task.61D93B13D496547D.title": "Stoccaggio di fluidi",
+    "task.64EAD3DE84E94F02.title": "Cavi protetti",
+    "task.65C439FD14C5EEB9.title": "Archiviazione portatile",
+    "task.7241918F270CA402.title": "Interfaccia utente",
+    "task.729773FF26CBB542.title": "Tutti i diritti riservati",
+    "task.75924053D6F5B242.title": "Celle di archiviazione spaziale",
+    "task.7E0D9E6342295AB0.title": "Prefazione sui canali",
+    "task.7FC3DAA1BD5016A0.title": "Cavi intelligenti ME"
+}

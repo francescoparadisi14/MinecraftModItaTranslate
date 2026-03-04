@@ -1,6 +1,6 @@
 {
-    "block.expores.deepslate_experience_ore": "Ore di esperienza di pietra profonda",
-    "block.expores.end_experience_ore": "Ore di esperienza finale",
-    "block.expores.experience_ore": "Minerale di esperienza",
-    "block.expores.nether_experience_ore": "Ore di esperienza dell'Inferno"
+    "block.expores.deepslate_experience_ore": "Ore estratte dal Deepslate",
+    "block.expores.end_experience_ore": "Durata dell'esperienza",
+    "block.expores.experience_ore": "Esperienza",
+    "block.expores.nether_experience_ore": "Esperienza di Nether (o Esperienza di Nether)"
 }

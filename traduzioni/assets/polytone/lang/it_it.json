@@ -1,5 +1,17 @@
 {
-    "toast.polytone.early_load_fail": "Il caricamento delle risorse di polytone è fallito in anticipo",
-    "toast.polytone.lazy_load_fail": "Il caricamento dei risorse di polytone è fallito in ritardo.",
-    "toast.polytone.load_fail": "Il pacchetto presenta errori. Verifica il file log\/polytone.log"
+    "config.polytone.legacy_parsing": "Supporto per formati legacy",
+    "config.polytone.legacy_parsing.tooltip": "Cerca di tradurre i formati provenienti da altri mod in modo che possano essere interpretati come file Polytone. Utile per definire colori personalizzati e mappe di colori.",
+    "config.polytone.lenient_loading": "Caricamento flessibile del pacchetto",
+    "config.polytone.lenient_loading.tooltip": "Tentativi di caricamento di pacchetti falliti. Non garantito che funzioni. **NON attivare questa opzione se sei un creatore di pacchetti.**",
+    "config.polytone.particles_throttle": "Controllo della generazione di particelle",
+    "config.polytone.particles_throttle.tooltip": "Riduce la quantità di particelle create dinamicamente. Diminuire la quantità rende artificialmente più bassa la loro probabilità di apparizione. Questa è un'opzione di ultima risorsa per migliorare le prestazioni in pacchetti non ottimizzati e, in genere, non dovrebbe essere utilizzata.",
+    "message.polytone.fabulous_warning": "Grafica fantastica rilevata! Alcune funzionalità specifiche per la riproduzione di più tonalità potrebbero non funzionare correttamente se questa è abilitata.",
+    "screen.polytone.configs.reset": "Ripristina le impostazioni predefinite",
+    "screen.polytone.configs.title": "Configurazioni per i set Polytone",
+    "screen.polytone.configs.undo": "Annulla le modifiche",
+    "toast.polytone.early_load_fail": "Il caricamento delle risorse iniziali di Polytone è fallito.",
+    "toast.polytone.lazy_load_fail": "Errore durante il caricamento di Polytone Late Resource.",
+    "toast.polytone.lenient_load": "Carico in modalità \"leniente\"",
+    "toast.polytone.lenient_load_desc": "Gli errori possibili sono stati ignorati.",
+    "toast.polytone.load_fail": "Il pacchetto contiene errori. Controllare i log\/polytone.log."
 }

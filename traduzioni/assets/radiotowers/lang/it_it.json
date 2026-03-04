@@ -1,13 +1,13 @@
 {
-    "block.radiotowers.airdrop_crate": "Cassetta di airdrop",
-    "block.radiotowers.metal_bars": "Barre di metallo",
-    "block.radiotowers.radio_panel": "Pannello radio",
-    "block.radiotowers.trashblock": "Blocco spazzatura",
-    "gui.radiotowers.airdrop_crategui.label_airfrop_crate": "Cassetta di airdrop",
+    "block.radiotowers.airdrop_crate": "Cassa per l'AirDrop",
+    "block.radiotowers.metal_bars": "Rete metallica",
+    "block.radiotowers.radio_panel": "Pannello radiofonico",
+    "block.radiotowers.trashblock": "Trashblock",
+    "gui.radiotowers.airdrop_crategui.label_airfrop_crate": "Cassa per l'AirDrop",
     "item_group.radiotowers.radiotowers": "Torri radio",
-    "subtitles.fall_in_trash": "cadere nel rifiuto",
-    "subtitles.fall_on_trash": "Cadere nel rifiuto",
-    "subtitles.radio_switch": "Canali radio",
-    "subtitles.radio_tuning": "Regolazione radio",
-    "subtitles.trash_walking": "Camminare nel rifiuto"
+    "subtitles.fall_in_trash": "Butta via nei rifiuti",
+    "subtitles.fall_on_trash": "Cadere in un mucchio di spazzatura",
+    "subtitles.radio_switch": "canzoni alla radio",
+    "subtitles.radio_tuning": "Regolazione della radio",
+    "subtitles.trash_walking": "Camminare tra i rifiuti"
 }

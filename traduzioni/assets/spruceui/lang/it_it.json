@@ -1,6 +1,6 @@
 {
     "spruceui.gui.unbind": "Disassocia",
-    "spruceui.narration.toggle_switch": "Interruttore a scelta: %s, con stato %s",
+    "spruceui.narration.toggle_switch": "Interruttore: %s, con stato %s",
     "spruceui.narrator.separator": "Separatore %s",
     "spruceui.options.generic": "%s: %s",
     "spruceui.options.generic.fancy": "Sofisticato",

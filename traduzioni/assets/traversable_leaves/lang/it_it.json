@@ -1,12 +1,12 @@
 {
-    "block.traversable_leaves.example_block": "Blocco di esempio",
-    "item.traversable_leaves.example_item": "Esempio di oggetto",
-    "itemGroup.traversable_leaves": "Riquadro esempio del modulo",
-    "traversable_leaves.configuration.items": "Elenco di elementi",
-    "traversable_leaves.configuration.logDirtBlock": "Blocco di terra da registro",
+    "block.traversable_leaves.example_block": "Esempio di blocco",
+    "item.traversable_leaves.example_item": "Esempio di articolo",
+    "itemGroup.traversable_leaves": "Esempio di tabella Mod",
+    "traversable_leaves.configuration.items": "Elenco degli articoli",
+    "traversable_leaves.configuration.logDirtBlock": "Blocco di argilla per pavimentazione",
     "traversable_leaves.configuration.magicNumber": "Numero magico",
-    "traversable_leaves.configuration.magicNumberIntroduction": "Testo del numero magico",
-    "traversable_leaves.configuration.section.traversable_leaves.common.toml": "Configurazioni di foglie percorribili",
-    "traversable_leaves.configuration.section.traversable_leaves.common.toml.title": "Configurazioni di traversabili foglie",
-    "traversable_leaves.configuration.title": "Configurazioni di traversabili foglie"
+    "traversable_leaves.configuration.magicNumberIntroduction": "Numero Magico",
+    "traversable_leaves.configuration.section.traversable_leaves.common.toml": "Configurazioni per TraversableLeaves",
+    "traversable_leaves.configuration.section.traversable_leaves.common.toml.title": "Configurazioni per TraversableLeaves",
+    "traversable_leaves.configuration.title": "Configurazioni per TraversableLeaves"
 }

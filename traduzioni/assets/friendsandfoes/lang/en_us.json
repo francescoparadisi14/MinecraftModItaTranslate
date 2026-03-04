@@ -270,5 +270,7 @@
     "yacl3.config.friendsandfoes:friendsandfoes.rascalSpawnMinGroupSize": "Minimal spawn group size",
     "yacl3.config.friendsandfoes:friendsandfoes.rascalSpawnWeight": "Spawn weight",
     "yacl3.config.friendsandfoes:friendsandfoes.reachingStatusEffectModifier": "Reach status effect modifier (range in blocks)",
+    "yacl3.config.friendsandfoes:friendsandfoes.replaceCopperGolem": "Replace vanilla copper golem",
+    "yacl3.config.friendsandfoes:friendsandfoes.replaceVanillaCopperGolem": "Replace vanilla copper golem",
     "yacl3.config.friendsandfoes:friendsandfoes.replaceVanillaIllusioner": "Replace vanilla illusioner"
 }

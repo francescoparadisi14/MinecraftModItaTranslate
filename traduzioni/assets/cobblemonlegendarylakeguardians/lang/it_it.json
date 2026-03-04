@@ -1,0 +1,12 @@
+{
+    "block.cobblemonlegendarylakeguardians.example_block": "Esempio di blocco",
+    "cobblemonlegendarylakeguardians.configuration.items": "Elenco degli articoli",
+    "cobblemonlegendarylakeguardians.configuration.logDirtBlock": "Blocco di argilla per pavimentazione",
+    "cobblemonlegendarylakeguardians.configuration.magicNumber": "Numero magico",
+    "cobblemonlegendarylakeguardians.configuration.magicNumberIntroduction": "Numero Magico",
+    "cobblemonlegendarylakeguardians.configuration.section.cobblemonlegendarylakeguardians.common.toml": "Configurazioni per i Guardiani Leggendari del Lago di Cobblemon",
+    "cobblemonlegendarylakeguardians.configuration.section.cobblemonlegendarylakeguardians.common.toml.title": "Configurazioni per i Guardiani Leggendari del Lago di Cobblemon",
+    "cobblemonlegendarylakeguardians.configuration.title": "Configurazioni per i Guardiani Leggendari del Lago di Cobblemon",
+    "item.cobblemonlegendarylakeguardians.example_item": "Esempio di articolo",
+    "itemGroup.cobblemonlegendarylakeguardians": "Esempio di tabella Mod"
+}

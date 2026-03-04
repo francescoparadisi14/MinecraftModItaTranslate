@@ -21,7 +21,6 @@
     "item.gag.hearthstone": "Hearthstone",
     "item.gag.hearthstone.info": "Teleports a player to their personal spawn point, or, if enabled, the world spawn.",
     "item.gag.hearthstone.info_adv": "A stronger hearthstone that has channelled the energy of raw lightning, and can be used to teleport to a single bound location. You can reset the stone by hitting it with lightning again.",
-    "item.gag.hearthstone.info_adv_2": "Note that to reset the stone later, you will need to hit it with lightning again.",
     "item.gag.hearthstone.no_target": "Couldn't find anywhere to teleport to, did you set your spawn point?",
     "item.gag.hearthstone.target.bound": "🧭 %s",
     "item.gag.hearthstone.target.hidden": "[hidden target]",
@@ -30,9 +29,7 @@
     "item.gag.hearthstone.too_weak": "It seems this hearthstone is too weak to call home from this place.",
     "item.gag.hearthstone.warmup": "Teleporting in %s seconds...",
     "item.gag.labeling_tool": "Labeling Tool",
-    "item.gag.labeling_tool.charges": "%s charges remaining",
     "item.gag.labeling_tool.info": "Used to change the name of any item in your inventory at no cost.",
-    "item.gag.labeling_tool.no_charges": "Out of charges!",
     "item.gag.labeling_tool.text_box": "Rename Item",
     "item.gag.mining_dynamite": "Mining Dynamite",
     "item.gag.mining_dynamite.info": "Throwable explosive that has a high efficiency against stone. Drops all blocks it destroys.",
@@ -48,11 +45,20 @@
     "item.gag.sacred_salt": "Sacred Salt",
     "item.gag.sacred_salve": "Sacred Salve",
     "item.gag.sacred_salve.extra": "Lasts a bit longer than the salt, and also works in a larger area.",
-    "item.gag.time_sand": "Sands of Time",
     "item.gag.time_sand_pouch": "Temporal Pouch",
+    "item.gag.time_sand_pouch.flavour": [
+        {
+            "extra": [
+                {
+                    "strikethrough": true,
+                    "text": "bottle"
+                },
+                " bundle..."
+            ],
+            "text": "If I could save time in a "
+        }
+    ],
     "item.gag.time_sand_pouch.info": "Slowly accumulates time while in a player's inventory. Use on a ticking block to accelerate it, using some of the stored time from the pouch.",
-    "item.gag.time_sand_pouch.info.1": "Slowly accumulates time while in a player's inventory.",
-    "item.gag.time_sand_pouch.info.2": "Use on a ticking block to accelerate it, using some of the stored time from the pouch.",
     "item.gag.time_sand_pouch.info.stored_grains": "Contains %2$s worth of Grains of Time",
     "itemGroup.gag.gag": "GAG — Gadgets Against Grind",
     "subtitles.gag.entity.dynamite.throw": "Dynamite thrown",

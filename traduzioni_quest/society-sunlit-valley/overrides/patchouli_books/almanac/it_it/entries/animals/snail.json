@@ -1,17 +1,17 @@
 {
-    "name": "Snail",
+    "name": "Lumache",
     "category": "patchouli:animals",
     "icon": "autumnity:snail_shell_piece",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Raccolta: Conchiglia di lumaca$(li)Bottino: Mucillagine di lumaca$(br2)$(l)Note$()$(br)La raccolta richiede 3+ cuori."
+            "text": "patchouli: testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile per la vendita$(li)Alimenti: Fragole, Guscio di lumaca$(br2)$(l)Prodotti ottenuti$()$(br)Per raccogliere, sono necessarie almeno 3 cuori."
         },
         {
             "type": "patchouli:entity",
             "entity": "autumnity:snail",
             "scale": 0.8,
-            "text": "Essi odiano essere accarezzati, ma se ti piacciono abbastanza daranno loro i loro piedi in eccesso... In qualche modo..."
+            "text": "patchouli: organismo\n\nautumnity: lumache\n\nNon amano essere accarezzate, ma se ti apprezzano abbastanza, ti daranno le loro parti in eccesso... In qualche modo..."
         }
     ]
 }

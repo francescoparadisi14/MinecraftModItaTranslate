@@ -1,4 +1,4 @@
 {
-    "gamerule.cropDeathRate": "Tasso di caduta della morte",
-    "gamerule.cropDeathRate.description": "Tasso di morte dei coltivazioni se non vengono irrigate. Impostato a zero per disabilitare il tasso di morte delle coltivazioni."
+    "gamerule.cropDeathRate": "Tasso di mortalità",
+    "gamerule.cropDeathRate.description": "Tasso di mortalità delle colture se non vengono irrigate. Impostare a zero per disabilitare la mortalità delle colture."
 }

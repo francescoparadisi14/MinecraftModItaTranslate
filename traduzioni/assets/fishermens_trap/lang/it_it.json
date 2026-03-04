@@ -1,0 +1,9 @@
+{
+    "block.fishermens_trap.fishtrap": "Trappola per pesci",
+    "fishermens_trap.configuration.chance": "Opportunità",
+    "fishermens_trap.configuration.enable_full_stack_catch": "La trappola per pesci ha catturato un intero insieme di elementi.",
+    "fishermens_trap.configuration.max_ticks": "Ticchettii minimi",
+    "fishermens_trap.configuration.min_ticks": "Massimo numero di spuntini",
+    "fishermens_trap.container.fishtrap": "Trappola per pesci",
+    "fishermens_trap.jei.fishtrap_fishing": "Pesca con trappole"
+}

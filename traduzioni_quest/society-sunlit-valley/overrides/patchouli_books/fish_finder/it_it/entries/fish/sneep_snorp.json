@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 16 monete$(li)Simbolo di fuoco: Estivo$(li)Acqua: Oceano$(li)Clima: Qualsiasi$(li)Ora: Qualsiasi"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 16$(li)§0🔥 §6Estate§0$(li)Acqua: Oceano$(li)Meteo: Qualsiasi$(li)Ora: Qualsiasi"
         },
         {
             "type": "patchouli:entity",
             "entity": "unusualfishmod:sneep_snorp",
             "scale": 0.8,
             "rotate": true,
-            "text": "SNEEP SNORP."
+            "text": "patchouli:entità\n\nunusualfishmod:sneep_snorp\n\nSNEEP SNORP."
         }
     ]
 }

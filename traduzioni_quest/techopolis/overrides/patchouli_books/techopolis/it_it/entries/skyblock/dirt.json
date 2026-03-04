@@ -1,12 +1,12 @@
 {
-    "name": "Terra",
+    "name": "Sporco",
     "icon": "minecraft:dirt",
     "category": "patchouli:skyblock",
     "sortnum": "2",
     "pages": [
         {
             "type": "text",
-            "text": " Foglie e piante possono essere utilizzate per creare terra."
+            "text": "Foglie e giovani alberi possono essere utilizzati per creare terriccio."
         }
     ]
 }

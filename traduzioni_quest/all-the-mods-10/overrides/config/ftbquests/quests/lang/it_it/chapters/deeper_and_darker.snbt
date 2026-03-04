@@ -1,0 +1,202 @@
+{
+    "quest.01ECFBB5F0574C24.quest_desc": [
+        "Questo contenuto è stato creato da \\&6AllTheMods Staff\\&r, oppure da un \\&2contributore della community\\&r, per essere utilizzato nei pacchetti di mod di AllTheMods.",
+        "",
+        "Poiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti al copyright \\&eAll Rights Reserved\\&r, questo contenuto non può essere utilizzato in alcun pacchetto pubblico che non sia stato rilasciato dal team \\&6AllTheMods\\&r, senza un'esplicita autorizzazione.",
+        "",
+        "Questo compito è intenzionalmente nascosto. Se lo state visualizzando, significa che siete in modalità di modifica."
+    ],
+    "quest.0450060852F290CA.quest_desc": [
+        "Gli \\&9Deeplands\\&r sono molto simili agli \\&3Deep Dark\\&r.\n\nSono pieni di \\&3Sculk\\&r, insieme a \\&3Shriekers\\&r e \\&3Sensors\\&r, e, sì, possono ancora generare il \\&9\\&lWarden\\&r.\n\nQui troverete anche più \\&3Sculk Creatures\\&r e piante, e persino la struttura chiamata \\&3\\&lOtherside\\&r!",
+        "{image:atm:textures\/questpics\/deepndark\/dnd_land.png width:200 height:100 align:center}"
+    ],
+    "quest.0450060852F290CA.title": "\\&9 Deeplands",
+    "quest.0850F88E2205623F.quest_desc": [
+        "I \"Tendril di Sculk\" sono come i \"Rami aggrovigliati\", ma con un aspetto più \"sculputo\".\n\nAppaiono raramente nelle \"Profondità\"."
+    ],
+    "quest.0850F88E2205623F.title": "\\&3Tentacoli di Skulk",
+    "quest.0B11EAB8D76529E0.quest_desc": [
+        "La \"Città Antica\" è la struttura più pericolosa in \"\\&2Vanilla Minecraft\\&r\". Quindi, ovviamente, è solo l'inizio di \"\\&3Deeper and Darker\\&r\"!\n\nQui possiamo trovare abbondante \"\\&3Sculk\\&r\", oltre a oggetti e il \"\\&9\\&lWarden\\&r\". Troveremo anche il \"Portale\" costruito con \"\\&8Reinforced Deepslate\\&r\".\n\nMa nel frattempo, raccogliete tutto ciò che potete! E fate attenzione a...",
+        "{image:atm:textures\/questpics\/allthemodium\/all_city.png width:200 height:100 align:center}"
+    ],
+    "quest.0B11EAB8D76529E0.title": "Visita una città antica",
+    "quest.0B718FC37699B822.quest_desc": [
+        "\\&aEcho Logs\\&r sono realizzati con gli \\&aEcho Trees\\&r, che crescono nella \\&5Echoing Forest\\&r... c'è un eco qui? Perché lo sento così tanto?\n\nGli \\&aEcho Trees\\&r hanno foglie \\&5Verdi Scuro\\&r e \"Sculk Gleam\" al loro interno. I loro tronchi, invece, presentano una corteccia \\&7Grigi Chiaro\\&r e un colore di legno molto \\&aVerde Chiaro\\&r.\n\nTutti i tavoli e gli oggetti in legno realizzati con essi hanno un colore \\&aVerde Chiaro\\&r, quasi come menta.\n\nAnche le porte e i pannelli hanno dei disegni unici e interessanti!"
+    ],
+    "quest.0B718FC37699B822.title": "\\&Alberi di Echo",
+    "quest.10E025288BB00657.quest_desc": [
+        "\\&bSludges\\&r appaiono nelle \\&bBlooming Caverns\\&r e si comportano come i Slimes!\n\nLa loro forma più grande ha 8 \\&4Hearts\\&r e infligge molti danni. Quando muoiono, generano 2-4 \\&bSludges\\&r di dimensioni medie.\n\nLe loro forme medie hanno 2 \\&4Hearts\\&r e infliggono molto meno danni. Quando muoiono, generano 2-4 \\&bSludges\\&r di dimensioni ridotte.\n\nLa forma più piccola ha solo mezza \\&4Heart di salute e non infligge alcun danno.",
+        "{image:atm:textures\/questpics\/deepndark\/dnd_sludge.png width:100 height:100 align:center}"
+    ],
+    "quest.10E025288BB00657.title": "\\&bSludge",
+    "quest.13B338F377951032.quest_desc": [
+        "Ti sei mai chiesto se potessi utilizzare l'arma \\&bSonic Blast\\&r?\n\nCon lo \\&bSonorous Staff\\&r, puoi farlo! Basta semplicemente premere il tasto destro per caricarlo, quindi rilasciarlo per lanciare l'\\&bSonic Blast\\&r.\n\nTuttavia, è importante notare che ha un breve periodo di ricarica e una certa durata, quindi usalo con cautela.\n\nPer crearne uno, avrai bisogno di un \\&9Heart of the Deep\\&r dall'\\&9\\&lWarden\\&r, 2 \\&3Soul Crystals\\&r dallo \\&3\\&lStalker\\&r, e 2 \\&3Sculk Bones\\&r dallo \\&3Shattered\\&r."
+    ],
+    "quest.13B338F377951032.title": "E personale competente e professionale",
+    "quest.16A2CC83C99B1F86.quest_desc": [
+        "\\&9Angler Fish\\&r si riproducono nei \\&9laghi\\&r all'interno delle \\&bCaverne Fiorite\\&r.\n\nSi comportano come normali pesci, ovviamente necessitando di \\&9acqua\\&r per respirare.\n\nHanno 3 \\&4cuori\\&r e attaccheranno quando sarete nelle vicinanze.\n\nPurtroppo, non lasciano nulla quando muoiono... mi dispiace, pesci!",
+        "{image:atm:textures\/questpics\/deepndark\/dnd_fish.png width:100 height:120 align:center}"
+    ],
+    "quest.16A2CC83C99B1F86.title": "\\&9Pesce anguilla",
+    "quest.183F6A790EC006B8.quest_desc": [
+        "\\&bBlooming Stems\\&r non sono come gli alberi, piuttosto sono come se fossero il risultato di un incrocio tra Chorus e Bambù.\n\nAppaiono all'interno delle \\&bBlooming Caverns\\&r e hanno bisogno di altri \\&bBlooming Stems\\&r per crescere! Questo è l'unico modo per trovarli.\n\nÈ comunque possibile rimuoverli o trasformarli in assi. Le assi avranno un colore \\&bLight Blue\\&r."
+    ],
+    "quest.183F6A790EC006B8.title": "\\&BBlooming Wood",
+    "quest.196003E1486ABB31.quest_desc": [
+        "Per passare da \"\\&cNetherite\" a \"\\&9Equipaggiamento del Guardiano\", avrai bisogno di un \"\\&9Modello di Fabbricazione\"!\\n\\nQuesti si trovano in casse nelle \"\\&6Città Antiche\".\\n\\nPossono poi essere duplicati con 7 Diamanti e un \"\\&3Blocco di Sculk\"!\\n"
+    ],
+    "quest.196003E1486ABB31.title": "\\&Modello di aggiornamento per il responsabile",
+    "quest.1A2EA742FDED54FF.quest_desc": [
+        "\\&5Echo Soil\\&r ricopre il terreno delle \\&5Echoing Forests\\&r.\n\nNon si comportano come il normale \\&2erba\\&r o il terriccio, se non permettendo la crescita degli \\&5Echoing Saplings\\&r.\n\nNon crescono altre piante."
+    ],
+    "quest.1A2EA742FDED54FF.title": "\\&5Echo Soil",
+    "quest.1BFE6745F49B4AB0.quest_desc": [
+        "Gli \"Sculk Gleam\" possiedono le stesse proprietà degli \"Shroomlights\". Non necessitano di uno strumento per essere raccolti, ma si rompono più facilmente con una zappa.\n\nAppaiono all'interno degli alberi \"Echoing Trees\" e raramente nel sottosuolo."
+    ],
+    "quest.201E3E41018F9521.quest_desc": [
+        "\\&6I cactus lugubri\\&r sono esattamente come i normali \\&2cactus\\&r, ma questi appaiono all'interno di \\&cColonne nuvolose\\&r.\n\nIntendo dire che amano il caldo, non hanno bisogno di \\&9acqua\\&r per crescere, sono dolorosi al tatto, e ci sono davvero delle differenze?\n\nOh sì, questi possono essere trasformati in \\&6tinte arancioni\\&r invece che in \\&2verde\\&r!"
+    ],
+    "quest.201E3E41018F9521.title": "\\&6Cactus malinconici",
+    "quest.21398F45428CD1D1.quest_desc": [
+        "\\&6I baccelli di Bloom\\&r crescono dai \\&bVitaggioni luminosi\\&r sul tetto delle \\&bCaverne Fiorite\\&r.\n\nAll'interno dei \\&bVitaggioni luminosi\\&r, i \\&6I baccelli di Bloom\\&r possono comparire e aspetteranno che li raccogliate cliccando con il tasto destro!\n\nQuesto è l'unico fonte di cibo disponibile nel \\&3\\&lAltro Lato\\&r."
+    ],
+    "quest.21398F45428CD1D1.title": "\\&6 Frutti di bosco",
+    "quest.35629CB10DBDE340.quest_desc": [
+        "Il \"Tempio Antico\" è una struttura importante e fondamentale presente all'interno del \"Reame Profondo\".\n\nSembra una piramide Maya costruita con \"Pietra Profonda\" e \"Sculk\". Ci sono anche numerosi \"Sensori di Sculk\" e \"Strilli\", oltre a casse e vasi antichi.\n\nNelle stanze più alte, si troveranno principalmente casse e vasi antichi, ma all'interno della \"Piramide\" troveremo anche blocchi di \"Oro\" e altri materiali.",
+        "{image:atm:textures\/questpics\/deepndark\/dnd_temple.png width:200 height:100 align:center}"
+    ],
+    "quest.35629CB10DBDE340.quest_subtitle": "L'unica struttura",
+    "quest.35629CB10DBDE340.title": "\\&6Antichi templi",
+    "quest.36149E69A8C264E4.quest_desc": [
+        "\\&bI Lilie\\&r sono piante che crescono nei \\&9laghi sotterranei\\&r all'interno delle \\&bCaverne Fiorite\\&r (come ti ho detto, ci sono molte piante).\n\nEsistono due parti per ogni pianta: la \\&bI Lilie\\&r e la \\&bGhiaccio Fiore\\&r. La \\&bI Lilie\\&r è quella che galleggia sull'acqua e su cui è possibile camminare. La \\&bGhiaccio Fiore\\&r si trova sopra la \\&bI Lilie\\&r ed è molto bella!\n\nAvrete bisogno di cesoie per raccoglierle."
+    ],
+    "quest.36149E69A8C264E4.title": "\\& \"Ice Lilies\"",
+    "quest.39100B3867E9C01E.quest_desc": [
+        "\\&cGeyser oscuri\\&r sono blocchi che si possono trovare all'interno delle \\&cColonne nuvolose\\&r. \\n\\nQuando camminerete sopra di essi, vi lanceranno in aria! Tuttavia, continuerete comunque a subire danni a causa della caduta. \\n\\nPotete raccoglierli con l'abilità \"Tocco di seta\"."
+    ],
+    "quest.39100B3867E9C01E.title": "\\&Geyser lugubre",
+    "quest.39BED5DD9D24F98E.quest_desc": [
+        "\\&3Sculk Grime\\&r è la versione di Clay di \"Deeper and Darker\".\\n\\nLo si può trovare in alcuni biomi e, una volta estratto, si ottengono delle \"Grime Balls\".\\n\\nQueste possono poi essere trasformate in \"Sculk Grime\" o in \"Grime Bricks\"."
+    ],
+    "quest.39BED5DD9D24F98E.title": "\\&3Sporco e immondizia",
+    "quest.3CF2DFB7F0CE065B.quest_desc": [
+        "Le colonne di \\&cColonna Calda\\&r sono molto più calde e \\&6Arancione\\&r rispetto a qualsiasi altro bioma qui presente.\n\nQui, \\&3Sculk\\&r viene sostituito da \\&cGloomy Sculk\\&r e \\&3Sculk Stone\\&r viene sostituito da \\&cGloomslate\\&r.\n\nInoltre, troverete Sabbia\/Terreno dello Spirito, oltre a \\&cMagma\\&r con \\&cLava\\&r sottostante.\n\nA causa delle temperature elevate, gli esseri non genereranno normalmente qui, ma ci sono alcune forme di vegetazione!",
+        "{image:atm:textures\/questpics\/deepndark\/dnd_column.png width:200 height:100 align:center}"
+    ],
+    "quest.3CF2DFB7F0CE065B.title": "E altre colonne con cielo coperto",
+    "quest.3D579A1F7EFEDD5C.quest_desc": [
+        "Il \"Warden\" (codice \\&9\\&lWarden\\&r). Il boss più difficile in \\&2\\&lMinecraft\\&r, ovviamente, che si trova all'interno della struttura più difficile.\n\nAppare attivando tre volte un \"Sculk Shrieker\" (codice \\&3Sculk Shrieker\\&r), oppure qualsiasi numero di volte dopo l'attivazione iniziale del \"Warden\" (codice \\&9\\&lWarden\\&r).\n\nHa 500 \"Cuori\" (codice \\&4Hearts\\&r) e infligge un danno enorme, sia colpendo con i pugni, sia con il suo \"Sonic Blast\" (codice \\&bSonic Blast\\&r)!\n\nTuttavia, ha una debolezza: è cieco. Può trovarti solo attraverso il suono, o se sei abbastanza vicino! Mantieni la distanza, ad esempio, 23 blocchi.",
+        "{image:atm:textures\/questpics\/gettingstarted\/warden_roar.png width:100 height:100 align:center}"
+    ],
+    "quest.3D579A1F7EFEDD5C.title": "Eliminare il \"Warden\" (o il responsabile)",
+    "quest.44F9B8F285546B2C.quest_desc": [
+        "\\&bBlooming Moss\\&r proviene da… esatto, da \\&bBlooming Caverns\\&r! \\n\\nApparirà sul terreno, pronto per essere raccolto. \\n\\nNon si diffondono come la normale \\&2Moss\\&r, né hanno ricette."
+    ],
+    "quest.44F9B8F285546B2C.title": "\\&bMuffa",
+    "quest.45C9D975E3731DFE.quest_desc": [
+        "\\&9\"Frammento Echo Rinforzato\" è un oggetto creato che richiede l'ottenimento di alcuni materiali.\n\nInnanzitutto, il più facile da ottenere è \\&7\"Membrana Fantasma\" \\&r! \\&7\"Fantasma\" \\&r appariranno dopo che il giocatore non avrà dormito per alcuni giorni. Più notti insonni, più \\&7\"Fantasma\" \\&r!\n\nIn secondo luogo, si tratta del \\&9\"Frammento Echo\" \\&r. Questi possono essere trovati in diversi modi, ma il più semplice è il looting in \\&6\"Città Antiche\" \\&r.\n\nInfine, si tratta delle \\&9\"Guscio del Guardiano\" \\&r. Questi sono oggetti ottenuti dal \\&9\\&l\"Guardiano\" \\&r al momento della sua morte. Non preoccupatevi, di solito ne lascia più di uno!"
+    ],
+    "quest.45C9D975E3731DFE.title": "\\&9Frammento di Eco Rinforzato",
+    "quest.4A01C5F5DCF32C19.quest_desc": [
+        "Lo \\&3Soul Elytra\\&r funziona esattamente come un normale \\&8Elytra\\&r, ma con maggiore resistenza e punti di armatura!\n\nNon possono essere riparati con \\&7Phantom Membranes\\&r come i normali \\&8Elytras\\&r... ma gli incantesimi possono comunque ripararli!\n\nPer crearne uno, avrete bisogno di un \\&8Elytra\\&r, 4 \\&3Sculk Bones\\&r che si ottengono da \\&3Shattered\\&r, 2 \\&3Soul Dust\\&r che si ottengono da \\&3Sculk Snappers\\&r (per \\&3Sculk Leeches\\&r), e un \\&3Soul Crystal\\&r che si ottiene da \\&3\\&lStalker\\&r."
+    ],
+    "quest.4A01C5F5DCF32C19.title": "\\&3Soul Elytra",
+    "quest.4D57A07592AED307.quest_desc": [
+        "Il \"Stalker\" è un boss che può essere evocato distruggendo i Vasi Antichi.\n\nHa 200 \"Cuori\" e una barra del boss per tenere traccia dei suoi progressi. Dovremo sconfiggerlo per ottenere i \"Cristalli dell'Anima\".\n\nÈ molto veloce e infligge molti danni se ti colpisce. Fortunatamente, è cieco, come il \"Guardiano\". Tuttavia, ha anche un'eccezionale capacità uditiva, che gli permette di sentire tutto ciò che lo circonda.\n\nHa diversi tipi di attacchi, ma di solito semplicemente ti colpisce. A volte potrebbe lanciare un attacco AOE (Area of Effect) e può evocare i \"Leechi di Sculk\" per attaccarti!\n\nAttaccherà anche tutti i mob che non sono \"Leechi di Sculk\".",
+        "{image:atm:textures\/questpics\/deepndark\/dnd_stalker.png width:100 height:200 align:center}"
+    ],
+    "quest.4D57A07592AED307.title": "\\&3\\&lStalker",
+    "quest.56D41A4605C42EB5.quest_desc": [
+        "\\&6Crystallized Amber\\&r si genera all'interno delle \\&cColonne nuvolose\\&r.\nAvrete bisogno della \"Silk Touch\" per raccoglierle.\nNon hanno molte proprietà, ma sono molto belle!"
+    ],
+    "quest.56D41A4605C42EB5.title": "\\&6 Cristalli di resina",
+    "quest.5866438E5D19AB69.quest_desc": [
+        "\\&3Sculk Leeches\\&r possono talvolta comparire da vasi antichi danneggiati.\n\nLa loro comparsa può rappresentare una piccola sorpresa, soprattutto quando ne spuntano due!\n\nHanno solo 2 punti ferita e attaccheranno nonostante ciò.\n\nQuando muoiono, lasceranno cadere 3 \"Polvere di Spiriti\".",
+        "{image:atm:textures\/questpics\/deepndark\/dnd_leech.png width:100 height:100 align:center}"
+    ],
+    "quest.5866438E5D19AB69.title": "\\&3Scoiattolo",
+    "quest.59AF80E8EE17C769.quest_desc": [
+        "Il \"Bosco Echeggiante\" è piuttosto semplice, ma ospita anche i \"Cipressi Echeggianti\"!\n\nI \"Cipressi Echeggianti\" si comportano come alberi normali: è possibile estrarne il legno per creare oggetti e le loro foglie lasciano cadere piantine. È inoltre possibile trovare il Sculk Gleam all'interno delle foglie.\n\nIntorno al bosco troverete il \"Terreno Echeggiante\" che ricopre l'intera superficie. Purtroppo, questo tipo di terreno non può essere utilizzato per creare campi o terra, è semplicemente un blocco.",
+        "{image:atm:textures\/questpics\/deepndark\/dnd_forest.png width:200 height:100 align:center}"
+    ],
+    "quest.59AF80E8EE17C769.title": "E il suono del bosco",
+    "quest.5C983A41886A2B75.quest_desc": [
+        "Per tornare al mondo principale, possiamo tornare nello stesso modo in cui siamo arrivati!\n\nUtilizzate il \"Cuore delle Profondità\" su un blocco di \"Deepslate Rinforzata\".\n\nFortunatamente, troviamo uno di questi blocchi nella parte inferiore del \"Tempio Antico\"."
+    ],
+    "quest.5C983A41886A2B75.title": "Casa, la mia casa!",
+    "quest.5CCF573B67317591.quest_desc": [
+        "\\&bRadici Luminose\\&r appaiono nelle \\&bCaverne Fiorite\\&r.\n\nNon possono essere scalate e non rilasciano cibo... Credo che siano semplicemente per decorazione."
+    ],
+    "quest.5CCF573B67317591.title": "\\&Radici luminose",
+    "quest.5E287410EE969244.quest_desc": [
+        "\\&9Shattered\\&r appaiono in diversi biomi all'interno di \\&3\\&lOtherside\\&r.\n\nAgiscono come piccole \\&9\\&lguardie\\&r, essendo ciechi e affidandosi a \\&3\\&lSculk\\&r\\&r per individuare i nemici. Attaccano anche tutte le altre creature non costituite da \\&3\\&lSculk\\&r\\&r.\n\nI \\&9\\&lShattered\\&r\\&r hanno 50 \\&4Hearts\\&r e sono piuttosto pericolosi! Quindi, fate attenzione a non attirare troppi.\n\nSe riuscirete a ucciderli, vi daranno \\&9\\&lOssa di Sculk\\&r. Queste saranno necessarie per alcune ricette.",
+        "{image:atm:textures\/questpics\/deepndark\/dnd_shattered.png width:100 height:150 align:center}"
+    ],
+    "quest.5E287410EE969244.title": "\\&9Shattered",
+    "quest.60721C9B94B36C24.quest_desc": [
+        "Gli \"Sculk Centipedes\" sono creature neutrali di grandi dimensioni che appaiono nella \"Otherside\".\n\nHanno 10 punti salute e attaccheranno in gruppo se vengono colpiti, proprio come i lupi.\n\nRilasciano solo esperienza (XP) e, eventualmente, delle corde. Pertanto, è meglio lasciarli in pace!",
+        "{image:atm:textures\/questpics\/deepndark\/dnd_centipede.png width:100 height:100 align:center}"
+    ],
+    "quest.60721C9B94B36C24.title": "\\&3Sculk Centipede",
+    "quest.67D38E8A57949B34.quest_desc": [
+        "I \"Sculk Jaws\" sono blocchi che si possono trovare all'interno delle \"Deeplands\".\n\nQuando li si calpesta accidentalmente, questi attaccano, trascinando verso il basso e infliggendo danni.\n\nÈ possibile prenderli utilizzando l'abilità \"Silk Touch\"."
+    ],
+    "quest.67D38E8A57949B34.title": "\\&3Mouth di Skulk",
+    "quest.68446510A1B0D9B8.quest_desc": [
+        "Le \\&bCaverne Fiorite\\&r sono più simili a grotte lussureggianti piuttosto che a grotte normali. Lo dico perché ci sono un'abbondanza di PIANTE!\n\nPotrete trovare piante che crescono dal soffitto al pavimento, piante che crescono dal pavimento al soffitto, piante che crescono dall'acqua e persino piante che non crescono affatto!\n\nIl pavimento è ricoperto di \\&bPietre di Sculk Fiorite\\&r e persino di \\&bMuschio Fiorito\\&r.\n\nQui ci sono anche stagni d'acqua, l'unico luogo dove è possibile trovare \\&9Acqua\\&r in questa \\&3\\&lDimensione\\&r.",
+        "{image:atm:textures\/questpics\/deepndark\/dnd_cave.png width:200 height:100 align:center}"
+    ],
+    "quest.68446510A1B0D9B8.title": "\\&Blooming Caverns",
+    "quest.6BB948F44B0950E8.quest_desc": [
+        "\\&3\"Sculk Stone\" appare praticamente ovunque, tranne nelle \\&c\"Coperture\"\\&r.\n\nFunziona come un normale \\&7\"Pietra\", in ogni aspetto. È possibile fondere le versioni in \\&3\"Pietra con lastre\" per ottenere \\&3\"Pietra con lastre\", che possono poi essere utilizzate per creare molti altri elementi da costruzione.\n\nPurtroppo, non può essere utilizzata per creare utensili in pietra... ma aspetta, cosa ti interessa? Hai ucciso l'\\&9\\&l\"Guardiano\"\\&r! Quindi, perché hai bisogno di utensili in pietra?!?!?!"
+    ],
+    "quest.6BB948F44B0950E8.title": "\\&3Pietra di Sculk",
+    "quest.6E38CF6E7360E9CA.quest_desc": [
+        "Il \"Warden\" lascerà diversi oggetti, ma il \"Heart of the Deep\" è il più importante.\n\nPossiamo utilizzare il \"Heart of the Deep\" su un telaio di \"Reinforced Deepslate\" per ottenere il nostro portale verso l'\"Otherside\". Non ci possono essere blocchi che ostacolano il telaio del portale, altrimenti non funzionerà.\n\nInoltre, il \"Warden\" lascerà anche il \"Warden Carapace\" e gli \"Echo Shards\", entrambi saranno utili per creare altri oggetti!"
+    ],
+    "quest.6E38CF6E7360E9CA.title": "\\&9Cuore delle profondità",
+    "quest.6E901EF1CB411088.quest_desc": [
+        "\\&9Armatura del Guardiano\\&r è un aggiornamento diretto per l'\\&cArmatura di Netherite\\&r. Per crearla, è necessario utilizzare un \\&9Modello di Aggiornamento del Guardiano\\&r, un \\&9Frammento Rinforzato di Netherite\\&r e un pezzo di \\&cArmatura di Netherite\\&r.\n\nOgni pezzo ha 1 punto di armatura e 1 livello di protezione aggiuntivo rispetto al suo equivalente in \\&cNetherite\\&r.\n\nTuttavia, non offre più resistenza al knockback.\n\nComunque, sembrano molto più interessanti rispetto all'\\&cNetherite\\&r! Il \\&9elmetto\\&r ha corna enormi, come il \\&9Guardiano\\&r, e la \\&9armatura toracica\\&r ha un punto a forma di cuore."
+    ],
+    "quest.6E901EF1CB411088.title": "\\&9Guardiano\\&r Armatura",
+    "quest.716FF64ACF896D50.quest_desc": [
+        "\\&cGloomslate\\&r sostituisce \\&3Sculk Stone\\&r in \\&cOvercast Columns\\&r.\n\nFunziona esattamente come \\&3Sculk Stone\\&r, ma di colore marrone."
+    ],
+    "quest.716FF64ACF896D50.title": "\\&Gloomslate",
+    "quest.726A627BD7654E0C.quest_desc": [
+        "Non ci sono molte differenze tra le versioni \"\\&9Warden\" e \"\\&2Vanilla\" per questi strumenti.\n\nL'ascia e la zappa rimangono nella stessa categoria e hanno la stessa velocità. Anche le zappe possono ancora creare sentieri e mantengono la stessa velocità.\n\nLa vera differenza è che tutti gli strumenti hanno un danno offensivo maggiore.\n\nIncredibilmente, questo significa che le zappe \"\\&9Warden\" infliggono più danni rispetto a tutte le altre zappe \"\\&2Vanilla\"!"
+    ],
+    "quest.726A627BD7654E0C.title": "\\&9Strumenti per il personale di sorveglianza",
+    "quest.72EC845C19645AFC.quest_desc": [
+        "\\&3Viti di Sculk\\& sono la versione di \\&4Viti Piangenti\\&.\n\nPossono generarsi all'interno di \\&bCaverne Fiorite\\&r e \\&9Profondità\\&r."
+    ],
+    "quest.72EC845C19645AFC.title": "\\&3Piante rampicanti di \"Sculk\"",
+    "quest.736F4A43EEBDD7B3.quest_desc": [
+        "Gli \\&3Sculk Snappers\\&r sono piccoli ma aggressivi! \\n\\nLi ho visti comparire in \\&9Deeplands\\&r e nelle \\&cBlooming Caverns\\&r. \\n\\nHanno 6 \\&4Hearts\\&r e lasceranno cadere \\&3Soul Dust\\&r quando moriranno.",
+        "{image:atm:textures\/questpics\/deepndark\/dnd_snapper.png width:100 height:100 align:center}"
+    ],
+    "quest.736F4A43EEBDD7B3.title": "\\&3Sculk Snapper",
+    "quest.76F14C2B866B4EAD.quest_desc": [
+        "\\&3\\&lAltro Lato\\&r è il luogo di nascita di \\&3\\&lSculk\\&r e delle creature di \\&3\\&lSculk\\&r, tra cui il \\&9\\&lGuardiano\\&r.\n\nQui troverete molti dei suoi cugini, ma non preoccupatevi, l'\\&3\\&lAltro Lato\\&r ha anche molti vantaggi!\n\nPotrete trovare numerosi nuovi mattoni e oggetti, e tantissimo \\&aXP\\&r grazie al \\&3\\&lSculk\\&r!\n\nPreparate la vostra zappa e avventuratevi nell'\\&3\\&lAltro Lato\\&r!"
+    ],
+    "quest.76F14C2B866B4EAD.quest_subtitle": "Ciao da...",
+    "quest.76F14C2B866B4EAD.title": "L'altro lato",
+    "quest.774D61FEFABEFD9A.quest_desc": [
+        "I \"Shriek Worms\" si generano quando si calpesta un \"Infested Sculk\" nelle \"Deeplands\".\n\nSono boss minori, con 100 punti salute.\n\nSe vi avvicinate troppo, vi morderanno, causando ingenti danni. Tuttavia, se vi allontanate troppo, si ritireranno di nuovo nel terreno.\n\nNon lasciano nulla se non un po' di esperienza, che a mio parere non vale lo sforzo.",
+        "{image:atm:textures\/questpics\/deepndark\/dnd_worm.png width:100 height:200 align:center}"
+    ],
+    "quest.774D61FEFABEFD9A.title": "Vereme",
+    "quest.78BCED8699ADEDF4.quest_desc": [
+        "Il vetro insonorizzato è realizzato combinando il \"Soul Dust\" e il vetro.\n\nFunziona in modo simile alla lana, assorbendo i suoni. Se un sensore \"Sculk\" per \"Shrieker\" ha uno strato di questo materiale, non sarà in grado di sentire i suoni.\n\nCon questo materiale, è possibile vedere attraverso!"
+    ],
+    "quest.78BCED8699ADEDF4.title": "\\&3Vetro insonorizzato",
+    "quest.7CBAA67204CC258C.quest_desc": [
+        "No, la spada e l'ascia \"\\&9\\&lWarden\\&r\" non utilizzano spade e asce. Ma noi possiamo!\n\nSia la spada \"\\&9\\&lWarden Sword\\&r\" che l'ascia \"\\&9Axe\\&r\" sono versioni migliorate delle loro versioni in \"\\&cNetherite\", dotate di \"\\&9Reinforced Echo Shard\\&r\" e \"\\&9Warden Upgrade Template\\&r\".\n\nEntrambe hanno 1 \"\\&4Heart\\&r\" di danno in più e anche una maggiore durata!\n\nSì, l'ascia può ancora abbattere gli alberi in modo efficiente."
+    ],
+    "quest.7CBAA67204CC258C.title": "\\&9Guardia\\&r Armi",
+    "quest.7FF3EA602FE7A546.quest_desc": [
+        "L'\\&3Trasmettitore\\&r è un oggetto molto raro che possiamo trovare all'interno dei \\&6Templi Antichi\\&r.\n\nUna volta che lo trovate, diventerà il vostro migliore amico!\n\nPer utilizzarlo, basta fare clic con il tasto destro (tenendo premuto il tasto Shift) su un blocco che ha un'interfaccia grafica, ad esempio casse, tavoli di lavoro e forni. A quel punto, il \\&3Trasmettitore\\&r sarà associato a quell'oggetto.\n\nDopo, potremo utilizzare il \\&3Trasmettitore\\&r per accedere a quel blocco da qualsiasi luogo!\n\nPer disassociare il blocco, fare semplicemente clic con il tasto destro (tenendo premuto il tasto Shift) sull'aria con il \\&3Trasmettitore\\&r."
+    ],
+    "quest.7FF3EA602FE7A546.title": "\\&3Trasmettitore di Sculk",
+    "task.5B7FD7C2F05FA64D.title": "Tutti i diritti riservati"
+}

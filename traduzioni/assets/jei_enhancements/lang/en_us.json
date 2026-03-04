@@ -1,0 +1,19 @@
+{
+    "jei_enhancements.tooltip.alt_click_group": "Alt + Click: Expand\/collapse bookmark group",
+    "jei_enhancements.tooltip.amount": "Amount: %s",
+    "jei_enhancements.tooltip.click_page": "Click page numbers: Toggle horizontal\/vertical layout",
+    "jei_enhancements.tooltip.ctrl_alt_scroll": "Ctrl + Alt + Scroll: Adjust quantity (x64)",
+    "jei_enhancements.tooltip.ctrl_scroll": "Ctrl + Scroll: Adjust bookmark quantity",
+    "jei_enhancements.tooltip.ctrl_shift_a": "Ctrl + Shift + A: Add recipe with item counts to bookmarks",
+    "jei_enhancements.tooltip.ctrl_shift_scroll": "Ctrl + Scroll: Adjust quantity (x1)",
+    "jei_enhancements.tooltip.group_panel_left_drag": "Left-drag: Connect rows into a group",
+    "jei_enhancements.tooltip.group_panel_right_click": "Right-click: Toggle crafting chain mode ([ turns green)",
+    "jei_enhancements.tooltip.group_panel_right_drag": "Right-drag: Exclude rows from group",
+    "jei_enhancements.tooltip.header": "JEI Enhancements",
+    "jei_enhancements.tooltip.hold_alt": "Hold Alt for more actions",
+    "jei_enhancements.tooltip.left_drag_down": "Left-drag down: Connect rows into a group",
+    "jei_enhancements.tooltip.left_drag_up": "Left-drag up: Disconnect rows",
+    "jei_enhancements.tooltip.right_click_bracket": "Right-click: Toggle crafting chain mode ([ turns green)",
+    "jei_enhancements.tooltip.right_drag": "Right-drag: Exclude rows from group",
+    "jei_enhancements.tooltip.shift_a": "Shift + A: Add recipe (output + ingredients) to bookmarks"
+}

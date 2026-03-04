@@ -1,17 +1,17 @@
 {
-    "name": "Maiale",
+    "name": "Maialino",
     "category": "patchouli:animals",
     "icon": "society:truffle",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Prezzo: :coin: 8,192$(li)Raccolta: Tartufo (20% di probabilità)$(li)Bottino: Cotoletto di maiale crudo$(br2)$(l)Note$()$(br)La raccolta richiede 4+ cuori di affetto."
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: 8,192$(li)Possibilità di trovare: Tartufo (20%)$(li)Oggetti ottenuti: Costolette di maiale crude$(br2)$(l)Note$()$(br)Per ottenere il tartufo, è necessario avere almeno 4 punti di affetto."
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:pig",
             "scale": 0.7,
-            "text": "Semplici e umori, richiedono molto attenzione prima di scavare i preziosi Funghi Tartufi."
+            "text": "Patchouli: entità\n\nMaiale (Minecraft)\n\nSono piante delicate e che richiedono molta attenzione prima di poter raccogliere i preziosi tartufi."
         }
     ]
 }

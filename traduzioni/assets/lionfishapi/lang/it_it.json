@@ -1,6 +1,6 @@
 {
-    "gui.lionfishapi.optifine.message": "OptiFine è molto incompatibile tra diversi mod!",
-    "gui.lionfishapi.optifine.oculussuggestions": "Invece del modulo shader Oculus",
-    "gui.lionfishapi.optifine.sodiumsuggestions": "Optimizzazione Sodium del modulo Instead",
-    "gui.lionfishapi.optifine.title": "Non usare OptiFine"
+    "gui.lionfishapi.optifine.message": "Optifine è molto incompatibile con diversi mod!",
+    "gui.lionfishapi.optifine.oculussuggestions": "Invece, Modifica Shader per Oculus",
+    "gui.lionfishapi.optifine.sodiumsuggestions": "Invece, ottimizzazione del sodio",
+    "gui.lionfishapi.optifine.title": "Smetta di utilizzare Optifine"
 }

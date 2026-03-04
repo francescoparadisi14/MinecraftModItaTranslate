@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 56 monete$(li)Simbolo: ❆ $(li)Stagione: Inverno$(li)Acqua: Oceano$(li)Clima: Pioggia Neve$(li)Ora: Giorno"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 56$(li)§0❆ §bInverno§0$(li)Acqua: Oceano$(li)Meteo: Pioggia, Neve$(li)Ora: Giorno"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:pollock",
             "scale": 0.8,
             "rotate": true,
-            "text": "Ci sono carote gratuite e carote a pagamento? Pollici."
+            "text": "Patchouli: entità\n\nAcquacoltura: pollock\n\nCi sono carote gratuite e carote a pagamento? Pollock."
         }
     ]
 }

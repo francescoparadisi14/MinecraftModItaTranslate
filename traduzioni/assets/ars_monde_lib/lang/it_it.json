@@ -1,11 +1,11 @@
 {
-    "block.ars_monde_lib.amethyst_leaves": "Foglie di legno arco risuonante",
-    "block.ars_monde_lib.amethyst_log": "Tavoletta di legno arcuato risuonante",
-    "block.ars_monde_lib.amethyst_planks": "Tavolette di legno armonizzato dell'archimonte",
-    "block.ars_monde_lib.amethyst_sapling": "Sapling di legno arco risuonante",
-    "block.ars_monde_lib.amethyst_vines": "Viti di sorbillo",
-    "block.ars_monde_lib.gilded_amethyst_blackstone": "Pietra di ametista dorata nera",
-    "block.ars_monde_lib.gilded_amethyst_smooth_basalt": "Pietra di basalto liscia decorata con ametista gialla",
-    "block.ars_monde_lib.stripped_amethyst_log": "Tavoletta di legno arcuato risonante priva di gemma ametista",
-    "itemGroup.ars_monde_lib": "Ars Monde Lib"
+    "block.ars_monde_lib.amethyst_leaves": "Foglie di Archwood che producono un suono risonante",
+    "block.ars_monde_lib.amethyst_log": "Tronco di legno di Archwood che produce un suono risonante",
+    "block.ars_monde_lib.amethyst_planks": "Travi in legno di Archwood che producono un suono risonante.",
+    "block.ars_monde_lib.amethyst_sapling": "Piantina di Archwood che produce un suono caratteristico",
+    "block.ars_monde_lib.amethyst_vines": "Viti di sambuco",
+    "block.ars_monde_lib.gilded_amethyst_blackstone": "Amethyst nero dorato",
+    "block.ars_monde_lib.gilded_amethyst_smooth_basalt": "Amethyst liscio, basalto dorato",
+    "block.ars_monde_lib.stripped_amethyst_log": "Tronco di legno di archwood con effetto risonante",
+    "itemGroup.ars_monde_lib": "Arte del Mondo Libera"
 }

@@ -54,6 +54,7 @@
     "configuration.warp_pipes.warp_cooldown_message": "Warp Cooldown Message",
     "configuration.warp_pipes.warp_cooldown_message_with_ticks": "Warp Cooldown Message with Ticks",
     "configuration.warp_pipes.warp_disrupting_cooldown": "Warp Disrupting Cooldown Duration",
+    "configuration.warp_pipes.warp_pipe_spawns_mobs": "Spawn Mobs",
     "configuration.warp_pipes.water_spouts_bucketable": "Bucketable",
     "configuration.warp_pipes.wax_disables_bubbles": "Wax Disables Pipe Bubbles Button",
     "configuration.warp_pipes.wax_disables_closing": "Wax Disables Open\/Close Button",

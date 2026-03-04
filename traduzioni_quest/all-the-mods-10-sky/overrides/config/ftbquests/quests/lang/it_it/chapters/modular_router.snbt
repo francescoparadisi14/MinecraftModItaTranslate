@@ -1,0 +1,181 @@
+{
+    "quest.00E1F1279F97557B.quest_desc": [
+        "Simile all'Estrusore MK1, ma questa versione è più avanzata! Può essere utilizzata con dei modelli, in modo che quando vengono posizionati dei blocchi, questi seguiranno il modello specificato."
+    ],
+    "quest.01C5D8357D8B0D62.quest_desc": [
+        "Se conoscete il funzionamento di un \"Detector Rail\", questo modulo sarà di vostra utilità.\n\nFondamentalmente, se un determinato oggetto è presente nel \"Detector Rail\", questo emetterà un segnale di Redstone.\n\nNel modulo, è possibile specificare l'oggetto da cui proviene il segnale e la sua intensità."
+    ],
+    "quest.067AB3E4C4492F0D.quest_desc": [
+        "Non hai voglia di estrarre una grande quantità di minerali? Perché non lasciare che i Router lo facciano al posto tuo?\n\nPuoi utilizzare un \"Placer\" per posizionare i minerali, quindi lasciare che un \"Enchanted Breaker\" li estragga. Il \"Breaker\" deve essere stato inizialmente dotato del piccone utilizzato per crearlo, ma il modulo stesso non può essere incantato.\n\nPotresti aver bisogno di un altro \"Router\" per raccogliere i minerali caduti.",
+        "{image:atm:textures\/questpics\/router\/router_break.png width:150 height:80 align:center}"
+    ],
+    "quest.067AB3E4C4492F0D.title": "Router per l'industria mineraria",
+    "quest.09E25B1CD6CABD5A.quest_desc": [
+        "Questo aggiornamento rende il Router simile a un Blocco Incassato.\n\nPer modificare l'aspetto del Router, basta fare clic con il tasto destro su un Blocco.\n\nMa attenzione a non perderlo!"
+    ],
+    "quest.0CE236731DF15DFF.quest_desc": [
+        "Perché aspettare? Solitamente, gli oggetti lasciati nel gioco Minecraft hanno bisogno di un certo tempo per toccare il suolo prima di poter essere raccolti di nuovo.\n\nMa perché aspettare?\n\nQuesta modifica permette al modulo aspirante di non aspettare e di raccogliere immediatamente gli oggetti.\n\nOttimo per ridurre la latenza!"
+    ],
+    "quest.0D5691403AEC25A8.quest_desc": [
+        "I router possono anche essere utilizzati per l'agricoltura!\\n\\nInizialmente, create una fattoria semplice. Successivamente, avrete bisogno di un modulo \"Attivatore\" e dovrete indirizzarlo verso le colture. Dopo, inserite un modulo \"Aspiratore\" nel vostro router per raccogliere le colture. Infine, inserite tutto nel router, alimentatelo con Redstone e iniziate a coltivare!",
+        "{image:atm:textures\/questpics\/router\/router_farm.png width:60 height:150 align:center}"
+    ],
+    "quest.0D5691403AEC25A8.title": "Router per l'agricoltura",
+    "quest.0DC8B68CDF945348.quest_desc": [
+        "Il Router dà e il Router prende.\n\nQuesto modulo è utile sia per gli operai che per gli estrazione. Può essere configurato per trasferire oggetti dal suo buffer al tuo inventario o per trasferire oggetti dal tuo inventario al suo buffer.\n\nPerfetto per l'estrazione a strisce, può prendere tutti i blocchi di Cobblestone e Deepslate dal tuo inventario e metterli in un bidone della spazzatura."
+    ],
+    "quest.10672B5991E5FC34.quest_desc": [
+        "Queste sono le mie cose, quindi non toccare. \\n\\nSolo tu puoi utilizzare e modificare il router dopo aver installato l'aggiornamento."
+    ],
+    "quest.1069244EB72F64CA.quest_desc": [
+        "Richiede più energia grazie ai moduli energetici!"
+    ],
+    "quest.143AE6889BDA9EF5.quest_desc": [
+        "I moduli hanno un numero limitato di slot per gli elementi filtrati. Se ne avete bisogno di più, utilizzate questa funzione: Filtro per elementi.\n\nPotete inserire molti più elementi nella lista bianca o nella lista nera. Quindi, utilizzatela al posto dei normali filtri.\n\nSarà utile per creare filtri più specifici!"
+    ],
+    "quest.177396B9C4F9B3E2.quest_desc": [
+        "Perché aspettare? Ma avete delle ragioni valide per farlo? Ad esempio, oggetti che potrebbero sparire? Beh, non avevo pensato a questo.\n\nCon l'opzione \"Ritardo di raccolta\", il modulo \"Vacuum\" attenderà 10 cicli prima di raccogliere gli oggetti caduti!"
+    ],
+    "quest.185074907753AE77.quest_desc": [
+        "Se state utilizzando i router, spero che abbiate una certa conoscenza del funzionamento.\n\nIn caso contrario, cancellare un elemento significa eliminarlo definitivamente.\n\nQualsiasi elemento che entra nel router verrà eliminato per sempre!\n\nVi consiglio di utilizzare i filtri in questo caso..."
+    ],
+    "quest.1A806C1A54B26EB5.quest_desc": [
+        "Non desiderate che gli oggetti possano essere raccolti da una distanza maggiore? Volete che il vostro aspirapolvere lasci uno spazio per raccogliere oggetti nel vostro mondo? Allora, immagino, potete ridurre l'area di raccolta."
+    ],
+    "quest.1AA81C41431FD145.quest_desc": [
+        "Tira..! Tira..! Tira..!\\n\\nIl \"Tira\" è l'opposto del \"Invia\". Preleva gli oggetti dagli Inventari e li mette nel buffer del Router.\\n\\nL'Inventario deve essere posizionato accanto al Router."
+    ],
+    "quest.20D4568857887D38.quest_desc": [
+        "A volte, un Router potrebbe trovarsi in una situazione pericolosa, come la creazione di un Wither.\n\nPer proteggerlo, sarà necessario un Upgrade di tipo \"Esplosivo\".\n\nL'esplosivo non lo distruggerà, né il Wither, solo tu."
+    ],
+    "quest.233C7CAA573D6045.quest_desc": [
+        "I moduli determinano l'azione che il Router esegue.\n\nPossono far sì che il Router prelevi oggetti da casse, o che li metta nelle casse, o addirittura entrambi! E molto altro ancora!\n\nI moduli vengono inseriti all'interno del Router e possono essere installati in più quantità.\n\nLe funzioni di filtraggio e gli aggiornamenti sono implementate all'interno dei moduli."
+    ],
+    "quest.233C7CAA573D6045.title": "\\&Moduli",
+    "quest.2405663C033CBDF1.quest_desc": [
+        "MK3 non si preoccupa degli assi XYZ, della linea di vista o della dimensione.\n\nFinché l'inventario si trova nello stesso mondo di Minecraft, può spostare oggetti al suo interno.\n\nNon sono nemmeno sicuro che l'inventario debba trovarsi all'interno del gioco di Minecraft per poterlo utilizzare!"
+    ],
+    "quest.2447208F1DC74FFE.quest_desc": [
+        "I router possono essere rumorosi, e il rumore aumenta notevolmente quando ne si hanno centinaia.\\n\\nPotrebbe essere utile investire in miglioramenti per ridurre il rumore!"
+    ],
+    "quest.247DAE5B4E1AC7F1.quest_desc": [
+        "Acqua in.\nAcqua fuori.\n\nIl modulo per la gestione dei fluidi preleverà liquidi da vicino al router e li inserirà in un serbatoio nel buffer, oppure preleverà liquidi da un serbatoio nel buffer e li inserirà davanti al router.\n\nFunziona solo per i blocchi adiacenti al router. Se desiderate un raggio d'azione maggiore, avrete bisogno di..."
+    ],
+    "quest.2B60D123123A5E8E.quest_desc": [
+        "Perché limitare l'energia a una specifica posizione? Perché non lasciarla fluire liberamente?\n\nCome liberare un alveare, l'energia si diffonderà rapidamente in tutto l'ambiente (con meno interferenze). Qualsiasi dispositivo che necessita di energia sarà ricaricato in modo wireless."
+    ],
+    "quest.2BB5769119BA2472.quest_desc": [
+        "Questa quest è stata creata da \\&6AllTheMods Staff\\&r, o da un \\&2contributore della community\\&r, per l'uso nei pacchetti mod di AllTheMods.\n\nPoiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti a \\&eTutti i diritti riservati\\&r, questa quest non può essere utilizzata in altri pacchetti pubblici, a meno che non siano stati rilasciati dal team \\&6AllTheMods\\&r, previa autorizzazione esplicita.\n\nQuesta quest è intenzionalmente nascosta. Se la visualizzate, significa che siete in modalità di modifica."
+    ],
+    "quest.2DD5F0693780B10A.quest_desc": [
+        "Utilizzando l'Estrusore MK2, i blocchi estrusi assomiglieranno ai blocchi originali. I blocchi di Redstone emetteranno segnali di Redstone, i blocchi di Glowstone emetteranno luce, mentre l'erba apparirà trasparente. Tuttavia, ciò è possibile solo con questo componente aggiuntivo!\n\nNon funziona con entità di blocchi come forni o camere di arricchimento."
+    ],
+    "quest.3025081DA6D2B398.quest_desc": [
+        "Normalmente, il router controlla i moduli, ma con questa modifica, il modulo agisce autonomamente! Si disconnette e agisce in modo indipendente! È pura anarchia!\n\nInvece di seguire i comandi del router, il modulo risponde ai propri segnali di attivazione di Redstone."
+    ],
+    "quest.309B6B8368E535A0.quest_desc": [
+        "Un router esegue la sua azione ogni volta che ha un \"tick\".\nIl valore predefinito è di 20 \"ticks\" o 1 secondo.\nQuesto può essere ridotto a meno \"ticks\" con l'upgrade della velocità!"
+    ],
+    "quest.326C63F7DC713E71.quest_desc": [
+        "Il Distributore è il fratello\/sorella del modulo di invio (in particolare, il modello MK3, sul lato MK2).\n\nInvece di inviare a un singolo magazzino, può inviare a più magazzini selezionati.\n\nPuò operare in diverse modalità: Round Robin (distribuisce in modo uniforme tra i magazzini, come un giocatore di poker), Random (sceglie casualmente un magazzino), Nearest First (sceglie il magazzino più vicino) o Farthest First (sceglie il magazzino più distante)."
+    ],
+    "quest.346B9339E3D66478.quest_desc": [
+        "L'energia è una risorsa utilizzata praticamente da tutto, quindi è necessario distribuirla ovunque. Fortunatamente, il modulo Energetico vi aiuterà in questo!\n\nIl modulo Energetico trasferirà l'energia che viene inserita in esso, verso qualsiasi destinazione desideriate!"
+    ],
+    "quest.36DED7099E80ED51.quest_desc": [
+        "Questo metodo, come suggerisce il nome, permette di posizionare i blocchi.\n\nImpostate la direzione in cui desiderate posizionare il blocco, preferibilmente impostando anche il filtro, quindi inserite il modulo e i blocchi nel router! Una volta configurato il Redstone, i blocchi verranno posizionati!"
+    ],
+    "quest.37F2BE3C2BAF7C2D.quest_desc": [
+        "Le etichette sono una parte fondamentale di Minecraft.\n\nPer chi non le conosce, le etichette funzionano come strumento di organizzazione, aiutando a scegliere gli oggetti più adatti per lo stesso compito. Ad esempio, la tavola da lavoro può essere realizzata con qualsiasi tipo di legno o con qualsiasi ascia, tagliando gli alberi più velocemente.\n\nPer filtrare per etichetta, inserire l'oggetto desiderato e quindi selezionare l'etichetta corrispondente dal gruppo. Ad esempio, \"Roccia di ferro\" per le rocce di ferro."
+    ],
+    "quest.38954551309F42A7.quest_desc": [
+        "Il modulo Sender MK2 funziona in modo simile al MK1, ma con meno restrizioni.\n\nIl MK2 non richiede una linea di vista diretta o che si trovi sullo stesso asse XYZ.\n\nTuttavia, dovrà comunque trovarsi nella stessa dimensione, a meno che non si disponga di..."
+    ],
+    "quest.3C54C36CE97A48DC.quest_desc": [
+        "I dispositivi di dosaggio (droppers) dosano, i dispositivi di erogazione (dispensers) erogano, e i dispositivi di sparo (flingers) spargono!\n\nInvece di posizionare delicatamente gli oggetti dal buffer, il modulo di sparo li lancia? Quanto lontano? È a te di decidere!"
+    ],
+    "quest.40788326E791845D.quest_desc": [
+        "\"La parola \"Extrude\" è piuttosto strana.\n\nL'estrusore posizionerà i blocchi nella memoria del Router in una fila davanti al Router quando riceve un segnale di Redstone. Quando il segnale viene disattivato, distruggerà tutti quei blocchi.\n\nUtile per le porte!"
+    ],
+    "quest.417B88FEB1B8F44E.quest_desc": [
+        "Questi sono pessimi! Letteralmente!\\n\\nIl modulo di aspirazione preleverà qualsiasi oggetto nell'area designata e lo trasporterà nel buffer del router. Funziona in modo simile al contenitore di aspirazione. \\n\\nPuò anche essere utilizzato con il sistema di potenziamento dell'esperienza!"
+    ],
+    "quest.475E1B94A61B9EB0.quest_desc": [
+        "Come il modello MK1, anche questo permette di \"trasferire\" oggetti, ma non solo da inventari adiacenti, bensì da qualsiasi inventario nelle vicinanze!"
+    ],
+    "quest.4A03A671757B2EBF.quest_desc": [
+        "Durabilità, livello del livello, livello di energia, livello di incantesimo e valore nutrizionale sono tutte categorie che possiamo utilizzare con il filtro di ispezione.\n\nSuccessivamente, scegliamo se vogliamo selezionare valori maggiori di, minori di o uguali a, oppure una combinazione di questi, specificando la quantità desiderata.\n\nQuindi, inseriamo la quantità desiderata e premiamo il pulsante \"Aggiungi\" per aggiungere l'elemento al filtro.\n\nQuesto può essere utilizzato per selezionare solo gli strumenti con elevata durabilità o il cibo con elevato valore nutrizionale."
+    ],
+    "quest.4CC963F5AECF285A.quest_desc": [
+        "Normalmente, il Router sposta 1 oggetto per ogni \"tick\". Questo può essere raddoppiato e accumulato! con l'upgrade \"Stack\".\n\n1 upgrade \"Stack\" corrisponde a 2 oggetti, 2 stack a 4 oggetti, e 6 stack a 64 oggetti al secondo."
+    ],
+    "quest.4EAFE7B240AF0A4D.quest_desc": [
+        "Non riesci a raggiungere ciò di cui hai bisogno? Prova \"Ranging Up\"!\n\nCon questa funzione, tutti gli oggetti potranno essere raccolti da una distanza maggiore. L'aspirapolvere ha un raggio d'azione più ampio. L'energia viene utilizzata in modo più efficace!"
+    ],
+    "quest.4FA5192164E4A427.quest_desc": [
+        "A differenza degli oggetti, il fluido non si accumula, quindi il suo miglioramento è leggermente diverso. Tuttavia, continua a muoversi, ma a un ritmo diverso."
+    ],
+    "quest.53A5F5E49EA8D5AF.quest_desc": [
+        "Ecco un ottimo esempio di come utilizzare i router modulari per creare una fattoria di mostri estremamente semplice e organizzata. (Non include il metodo per uccidere i mostri).\n\nPer esempio, utilizzerò una fattoria di scheletri del Wither come esempio.\n\nInnanzitutto, è necessario utilizzare un modulo aspiratore per raccogliere gli oggetti nel buffer. Successivamente, utilizzare un modulo Void per eliminare le spade di pietra. Per evitare che venga eliminato tutto, utilizzare un filtro con la lista bianca che includa la spada di pietra e che non corrisponda al danno. Infine, sarà necessario un luogo per raccogliere il bottino, consiglio un sistema di cassetti. Quindi, utilizzare un modulo di invio per inviare il bottino al sistema di stoccaggio.\n\nQuesto è tutto ciò di cui hai bisogno!",
+        "{image:atm:textures\/questpics\/router\/router_mob.png width:200 height:65 align:center}"
+    ],
+    "quest.53A5F5E49EA8D5AF.title": "Router per fattorie agricole",
+    "quest.53B58FC3958750E7.quest_desc": [
+        "Hai utilizzato troppo il \"Placer\" e hai bisogno di distruggere quei blocchi?\n\nIl suo livello e gli incantesimi dipendono dall'ascia con cui è stata creata.\n\nOra, definisci l'area e spera di poter applicare un filtro e far partire il processo!\n\nPuò essere utilizzato con un \"Placer\" per eseguire operazioni come trasformare i minerali in oggetti."
+    ],
+    "quest.553C44F85E508DE3.quest_desc": [
+        "Questo dispositivo è unico perché non è progettato solo per un router, ma per più.\n\nSe desiderate che più router funzionino contemporaneamente, ciascuno di essi necessiterà di un aggiornamento.\n\nSarà necessario configurarlo tramite la propria interfaccia utente."
+    ],
+    "quest.5560F303C452E110.quest_desc": [
+        "L'estrattore spinge blocchi ed entità, ma perché non spingere ancora di più? \\n\\nParliamo delle entità, non dei blocchi."
+    ],
+    "quest.5FB29F3F4DF17765.quest_desc": [
+        "A volte, non è necessario che ogni modulo sposti più stack contemporaneamente, quindi, se si desidera che solo un modulo lo faccia, è sufficiente utilizzare un \"Augment\". Tuttavia, questa funzione non si combina con gli \"Upgrades\" – anzi, li sovrascrive."
+    ],
+    "quest.6063F4B7BE4D394C.quest_desc": [
+        "I moduli di invio sposteranno gli elementi dalla posizione di buffer del router in un altro inventario.\n\nL'MK1 sposterà gli elementi solo in inventari sullo stesso asse XYZ del router e con una linea di vista diretta. Se c'è un ostacolo, il modulo di invio MK1 non invierà."
+    ],
+    "quest.63E4529AF8894018.quest_desc": [
+        "«\\&lModular Routers\\&r» è un modulo logistico.\n\nTutto inizia con il Router! Quindi, crealo!\n\nInoltre, il Buffer è lo slot singolo all'interno del Router, dove gli oggetti entreranno ed esceranno. E avrà bisogno di un segnale di Redstone per far funzionare la maggior parte dei moduli."
+    ],
+    "quest.63E4529AF8894018.title": "\\&Router modulari",
+    "quest.6648BC7D14233006.quest_desc": [
+        "Le \"augmentazioni\" sono simili agli \"aggiornamenti\", ma si riferiscono specificamente ai singoli moduli!"
+    ],
+    "quest.6648BC7D14233006.title": "\\&Aumenta",
+    "quest.674F28BCA2E4A3C8.quest_desc": [
+        "Quando si spostano oggetti, i router possono diventare molto esigenti e cercare di prelevare ogni singolo oggetto!\n\nCon la funzione \"Regolatore di spostamento\", è possibile limitare la quantità di oggetti che possono essere spostati."
+    ],
+    "quest.6B747129A85AA768.quest_desc": [
+        "Ora è ancora più simile al \"Hopper di Assorbimento\"!\\n\\nIl modulo di aspirazione ora raccoglie anche gli \"Orb\" di esperienza, oltre agli oggetti. Ciò che fate con gli \"Orb\" di esperienza dipende da voi!"
+    ],
+    "quest.6E5954C257726F86.quest_desc": [
+        "Il filtro per mod può essere molto utile.\n\nPer utilizzarlo, inserite un oggetto da un determinato mod, e lo schermo mostrerà il nome del mod. Quindi, cliccate sul pulsante \"+\" per aggiungerlo!"
+    ],
+    "quest.71A1FD0772453B51.quest_desc": [
+        "Non trovate fastidioso dover fare sempre clic con il tasto destro? Che si tratti di pecore con cesoie o di mucche con secchi? Dobbiamo avere dei robot per fare tutto! O almeno, i router dovrebbero essere in grado di fare tutto.\n\nCon il modulo \"Activator\", il programma si comporterà come se foste voi a fare clic con il tasto destro.\n\nPotrete impostare cosa dovrà fare il programma quando clicca con il tasto destro, se dovrà attaccare o utilizzare la creatura, o bloccarla, e quanto devono essere vicine le creature nel modulo."
+    ],
+    "quest.71FDF8CD953E46FC.quest_desc": [
+        "HAHAHA, ho cercato di spaventarti con l'oggetto creativo nelle missioni?\n\nNon preoccuparti, non avrai bisogno dell'oggetto per completare questo capitolo, stavo solo cercando di spaventarti.\n\nA volte mi diverto..."
+    ],
+    "quest.72A71E1D6D8996FD.quest_desc": [
+        "È questo codice? Io non sono uno sviluppatore! Volevo semplicemente creare queste missioni!\n\nQui puoi inserire un'espressione regolare nella barra di ricerca e fare clic sul pulsante \"+\" per aggiungerla al filtro. Ogni volta che questa espressione regolare appare, verrà filtrata."
+    ],
+    "quest.73D60868024FF907.quest_desc": [
+        "Il Fluid MK2! \\n\\nQuesto modello è compatibile con qualsiasi fonte di liquido nelle vicinanze, non solo quelle adiacenti."
+    ],
+    "quest.75FE0B514448865B.quest_desc": [
+        "Gli aggiornamenti vengono applicati direttamente al router, che può contenerne fino a 5. Gli aggiornamenti influiscono direttamente su tutti i moduli a cui si applicano e, di solito, possono essere applicati in modo cumulativo!"
+    ],
+    "quest.75FE0B514448865B.title": "\\&Aggiornamenti",
+    "quest.76062D375E4CC8DD.quest_desc": [
+        "Abbiamo visto i filtri e abbiamo visto i Round Robin, ora vediamo entrambi! Questo è utile per mantenere gli elementi in un ordine specifico, come quando si creano i semi per l'agricoltura mistica!"
+    ],
+    "quest.7F8DEDD0A54D1E11.quest_desc": [
+        "Mi chiedo cosa fanno gli \"Droppers\". \\nPenso che facciano cadere oggetti... \\n\\nOgni oggetto presente nel \"Buffer\" cadrà a terra. \\nPotrebbe essere utile, ad esempio, con Botania!"
+    ],
+    "task.3007461CFCC0A013.title": "Tutti i diritti riservati",
+    "task.41EEE559F6402D81.title": "Modulo Creativo",
+    "task.631388151555159B.title": "Moduli di invio",
+    "task.76EEAE9313F68334.title": "Tutti i diritti riservati"
+}

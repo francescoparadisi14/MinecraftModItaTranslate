@@ -1,18 +1,18 @@
 {
-    "name": "Vasca di lana warpata",
+    "name": "Coda di pecora distorta",
     "category": "patchouli:animals",
     "icon": "society:large_warped_milk",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Latte: Latte distorto$(li)Ritardo del latte: 2 giorni$(li)Bottino di taglio: Lana distorta$(li)Bottino: Lana distorta, Carne cruda, Pelle$(br2)$(l)Note$()$(br)Essi si generano casualmente nei boschi distorti"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile$(li)Latte: Latte deformato$(li)Raffreddamento del latte: 2 giorni$(li)Filo di lana deformato: 2 giorni$(li)Oggetti ottenuti: Lana deformata, carne cruda, cuoio$(br2)$(l)Note$()$(br)Appaiono casualmente nelle foreste deformate"
         },
         {
             "type": "patchouli:entity",
-            "name": "Vitella lanuta distorta",
+            "name": "patchouli:entità\n\nprato:mucca_lana{Variante:2}\n\nMucca di lana deformata",
             "entity": "meadow:wooly_cow{Variant:2}",
             "scale": 0.8,
-            "text": "Il latte di questa vacca viene utilizzato per produrre un formaggio pregiato e costoso."
+            "text": "Patchouli: entità\n\nPrato: mucca lanosa {Variante: 2}\n\nIl formaggio prodotto con il suo latte è una prelibatezza costosa."
         }
     ]
 }

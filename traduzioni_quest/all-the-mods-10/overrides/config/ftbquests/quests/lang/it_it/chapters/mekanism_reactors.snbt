@@ -1,0 +1,528 @@
+{
+    "quest.008E65AF545A706E.quest_desc": [
+        "Nonostante sia una delle macchine più costose in \\&5\\&lMekanism\\&r, in realtà non è così difficile da usare!\n\nInnanzitutto, dopo averla costruita, dovremo alimentarla con \\&aPolonium\\&r. Dovremo versare una certa quantità in uno dei \\&dSPS Ports\\&r, poiché dovremo caricare l'\\&aPolonium\\&r nell'\\&dAntimatter\\&r!\n\nPer caricarla, dovremo alimentare i nostri \\&dSupercharged Coils\\&r! Dovremo fornire enormi quantità di \\&aEnergy\\&r nei \\&dSPS Ports\\&r, in modo che possano trasferirla agli \\&dSupercharged Coils\\&r.\n\nOgni \\&dSupercharged Coil\\&r può gestire solo una certa quantità di \\&aEnergy\\&r, quindi per ottenere la massima efficienza, utilizzate 2! Sì, potete usare 1, ma dobbiamo avere l'\\&dAntimatter\\&r quest'anno, non il prossimo!\n\nUna volta che avremo bombardato l'\\&aPolonium\\&r con milioni di FE, otterremo l'\\&dAntimatter\\&r. Aspettate, questo è l'\\&dAntimatter\\&r \\&cChemical\\&r?!?! Abbiamo bisogno di...",
+        "{@pagebreak}",
+        "{image:atm:textures\/questpics\/mek\/mek_sps1.png width:100 height:75 align:center}",
+        "{image:atm:textures\/questpics\/mek\/mek_sps2.png width:100 height:90 align:center}",
+        "{image:atm:textures\/questpics\/mek\/mek_sps3.png width:120 height:100 align:center}",
+        "{image:atm:textures\/questpics\/mek\/mek_sps4.png width:120 height:100 align:center}",
+        "{image:atm:textures\/questpics\/mek\/mek_sps5.png width:120 height:100 align:center}",
+        "{image:atm:textures\/questpics\/mek\/mek_sps6.png width:110 height:100 align:center}",
+        "{image:atm:textures\/questpics\/mek\/mek_sps7.png width:100 height:100 align:center}",
+        "{@pagebreak}"
+    ],
+    "quest.008E65AF545A706E.quest_subtitle": "\\&d\\&lSPS",
+    "quest.008E65AF545A706E.title": "\\&d\\&lTrasformatore di fase supercritico",
+    "quest.00E19377BAE5DD6A.quest_desc": [
+        "Questo aggiunge il componente \"\\&Shears\" al nostro \"\\&Meka-Tool\"!\n\nNon possiamo utilizzarlo con l'unità \"\\&Farming\" o l'unità \"\\&Teleportation\"."
+    ],
+    "quest.00E19377BAE5DD6A.quest_subtitle": "Meka-Tool",
+    "quest.00E19377BAE5DD6A.title": "\\&7Unità di taglio",
+    "quest.011D8CADA29C9C70.quest_desc": [
+        "\\&eQIO Drive\\&r: determinano la capacità di archiviazione all'interno degli array \\&eQIO Drive\\&r.\nVengono posizionati all'interno dell'inventario \\&5Machines\\&r per essere utilizzati. È possibile posizionare fino a 12 unità.\n\nGli \\&eQIO Drive\\&r contengono gli \\&eItems\\&r e riempiranno automaticamente il primo \\&eQIO Drive\\&r.\n\nOgni \\&eQIO Drive\\&r ha un limite di capacità per gli \\&eItems\\&r e un limite per il tipo di \\&eItem Type\\&r. Maggiore è l'\\&eQIO Drive\\&r, maggiore sarà il numero di \\&eItems\\&r e tipi di \\&eItem Type\\&r che potrà contenere!\n\n\\&aQIO Drive\\&r: è il modello base, con 16.000 \\&eItems\\&r e 128 tipi. È l'unico che non richiede la \\&2\\&lFission Reactor\\&r per essere creato.\n\n\\&cHyper-Dense QIO Drive\\&r: e tutti quelli successivi richiederanno la \\&2\\&lFission Reactor\\&r. Questo modello può contenere 128.000 \\&eItems\\&r e 256 tipi di \\&eItem Type\\&r.\n\n\\&bTime-Dilating QIO Drive\\&r: può contenere 1.048.000 \\&eItems\\&r e 1.024 tipi di \\&eItem Type\\&r.\n\n\\&dSupermassive QIO Drive\\&r: richiederà l'utilizzo di \\&dAntimatter\\&r per essere creato, ma offrirà la maggiore capacità di archiviazione, consentendo di contenere 16 miliardi di \\&eItems\\&r e 8.192 tipi di \\&eItem Type\\&r."
+    ],
+    "quest.011D8CADA29C9C70.title": "Motori \\&eQIO",
+    "quest.0133DA323E24A455.quest_desc": [
+        "Parlando della sostituzione di elementi (come l'\\&6\"Tuta di protezione\\&r con l'\\&a\"Schermo di protezione dalle radiazioni\\&7\", è possibile sostituire anche l'\\&e\"Equipaggiamento Scube\\&r!\n\nAggiungendo questo\\&7\"Modulo\\&r al nostro\\&a\"Casco MekaSuit\\&r, saremo in grado di nuotare e respirare sott'acqua!\n\nSe avessimo un\\&7\"Jetpack\\&r nel nostro\\&a\"Guscio protettivo MekaSuit\\&r, questo alimenterebbe il jet con\\&7\"Idrogeno\\&r quando si è sott'acqua."
+    ],
+    "quest.0133DA323E24A455.quest_subtitle": "Casco",
+    "quest.0133DA323E24A455.title": "\\&9Respirazione elettrolitica \\&7Unità",
+    "quest.02C6132919DEAF2A.quest_desc": [
+        "Prima di iniziare a costruire il complesso, dobbiamo assicurarci che il vapore sia ben distribuito. Possiamo farlo circondando il complesso con dei dispositivi di dispersione della pressione!\n\nSopra questo strato, avremo bisogno di un nuovo strato, composto da bobine elettromagnetiche. Queste bobine saranno spostate a causa del complesso rotatorio, e il loro movimento reciproco genererà l'energia attraverso le loro forze magnetiche. Lo stesso principio si applica anche alle centrali idroelettriche!\n\nSopra le bobine elettromagnetiche, possiamo utilizzare dei condensatori di saturazione, che riutilizzeranno il nostro vapore per creare nuovamente dell'acqua! L'acqua verrà estratta attraverso delle aperture."
+    ],
+    "quest.02C6132919DEAF2A.title": "Utilizzo di una turbina per la produzione di energia",
+    "quest.0306D25C7407FE88.quest_desc": [
+        "Un altro elemento necessario per avviare il reattore \\&c\\&lFusion è \\&6l'energia termica\\&r! Possiamo utilizzare sia \\&4laser\\&r che \\&c il trasferimento \\&6dell'energia termica\\&r.\n\nUtilizzeremo specificamente \\&4laser\\&r per inviare una certa quantità di energia al \\&cLaser Focus Matrix\\&r.\n\nAvremo bisogno di un \\&4Laser Amplifier\\&r con \\&aenergia\\&r sufficiente per inviare \\&cenergia termica\\&r al \\&cLaser Focus Matrix\\&r. Potrebbe sembrare molto, ma non preoccupatevi, la recupereremo!\n\nDopo aver completato la \\&4Laser Amplifier\\&r, dovremo inviare \\&4laser\\&r all'interno del \\&4Laser Amplifier\\&r. Tuttavia, ogni singolo laser fornisce solo circa 1MFE ogni pochi secondi...\n\nInvece di aspettare un anno, possiamo utilizzare più \\&4laser\\&r che inviano energia a più \\&4Laser Amplifier\\&r, che a loro volta inviano energia al singolo \\&cLaser Focus Matrix\\&r.\n\nPosizioniamo i \\&4Laser Amplifier\\&r in modo che siano uno dietro l'altro, con tutti i \\&4laser\\&r che partono da direzioni diverse!"
+    ],
+    "quest.0306D25C7407FE88.title": "\\&cMatrice di concentrazione laser",
+    "quest.03840E4C74731E0C.quest_desc": [
+        "Ascoltate, vi ho detto di utilizzare le \\&9Pompe Elettriche\\&r per la maggior parte delle quest di \\&5Mekanism\\&r.\n\nMa, per essere onesti, devo lasciarvi andare. Le \\&9Reattori\\&r richiederanno più \\&9Acqua\\&r, quindi vi concedo l'utilizzo delle \\&9Vasche\\&r!\n\nLe \\&9Vasche\\&r hanno una quantità infinita di \\&9Acqua\\&r e possono essere collegate a praticamente qualsiasi mod. Raccomando l'utilizzo di \\&9ID\\&r se disponibile, perché può estrarre fino a 2 miliardi di mB di \\&9Acqua\\&r ogni tick!\n\nIl motivo per cui ho preferito utilizzare le \\&9Pompe Elettriche\\&r non è la mancanza di fiducia nelle \\&9Vasche\\&r, ma piuttosto per questi motivi: 1. rimarranno utilizzabili in modpack che non hanno le \\&9Vasche\\&r, e 2. sono create da \\&5Mekanism\\&r."
+    ],
+    "quest.03840E4C74731E0C.title": "\\&Acqua \\&Liquido refrigerante",
+    "quest.05DA7F48E2A1B77F.quest_desc": [
+        "Incontra \\&a\\&lRobit\\&r! È il tuo nuovo compagno robotico!\n\nPosizionalo sulla \\&a\\&lChargepad\\&r per definirlo come la sua \"casa\". Questo è importante, poiché \\&a\\&lRobit\\&r ha bisogno di \\&a\\&Energy\\&r per muoversi e funzionare. Può trasportare fino a 40kFE.\n\nPossiamo fare clic con il tasto destro per aprire la sua interfaccia utente (con il suo consenso, ovviamente!). Al centro vedremo uno schermo che ci fornirà informazioni su di lui: il suo nome, la sua \\&a\\&Energy\\&r, il suo lavoro e il suo proprietario!\n\nSul lato sinistro troveremo alcuni pulsanti. Dal più in alto al più in basso: \"Teletrasporto\" lo porterà sulla sua \\&a\\&lChargepad\\&r, \"Rinomina\" cambierà il nome del suo personaggio, e \"Aspetto\" riguarda le modifiche estetiche di \\&a\\&lRobit\\&r!\n\nSotto lo slot per l'\\&a\\&Energy\\&r, troverete pulsanti per impostare il suo lavoro. \"Raccogli\" permetterà a \\&a\\&lRobit\\&r di raccogliere oggetti sul terreno e di inserirli nel suo inventario. \"Segui\" farà sì che \\&a\\&lRobit\\&r ti segua o si fermi dove si trova.\n\nSul lato destro, troverete ancora più pulsanti! Il primo aprirà il menu principale di \\&a\\&lRobit\\&r. \"Creazione\" aprirà un tavolo di creazione all'interno di \\&a\\&lRobit\\&r! \"Inventario\" aprirà l'inventario di \\&a\\&lRobit\\&r. Qui potrete conservare oggetti o specificare dove andranno gli oggetti raccolti. \"Fusione\" utilizzerà l'\\&a\\&Energy\\&r per fondere oggetti come un forno. \"Riparazione\" vi permetterà di combinare due oggetti per riparare la loro durata."
+    ],
+    "quest.05DA7F48E2A1B77F.title": "\\&a\\&lRobit",
+    "quest.066F78936C8F943B.quest_desc": [
+        "Questo contenuto è stato creato da \\&6AllTheMods Staff\\&r, o da un \\&2contributore della community\\&r, per l'uso nei pacchetti mod di AllTheMods.\n\nPoiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti a \\&e\"Tutti i diritti riservati\", questo contenuto non può essere utilizzato in altri pacchetti pubblici, a meno che non sia stato rilasciato dal team \\&6AllTheMods\\&r.\n\nQuesto contenuto è intenzionalmente nascosto. Se lo state visualizzando, siete in modalità di modifica."
+    ],
+    "quest.078B69E9362A5496.quest_desc": [
+        "Sì, il meccanismo è davvero complesso!\n\nSe desiderate i vostri reattori e l'armatura invincibile, siete nel posto giusto!\n\nInnanzitutto, avremo bisogno di un reattore di fissione e di carburante fissile. Per ottenere il carburante fissile, avremo bisogno di triossido di zolfo.\n\nPer iniziare, aggiungere del solfato di zolfo a un ossidante chimico per ottenere biossido di zolfo.\n\nSuccessivamente, produrre ossigeno elaborando l'acqua attraverso un separatore elettrolitico.\n\nOra possiamo combinare l'ossigeno e il biossido di zolfo in un infustore chimico per ottenere triossido di zolfo."
+    ],
+    "quest.078B69E9362A5496.title": "\\&5\\&lMekanismo: Reattori",
+    "quest.09D7D3CF61E156B1.quest_desc": [
+        "\\&2Assemblaggio del combustibile per reazioni nucleari\\&r sono gli elementi che costituiscono lo spazio di stoccaggio per il \\&2Combustibile fissile\\&r. Inoltre, contribuiscono a determinare l'efficienza.\n\nGli \\&2Assemblaggi del combustibile per reazioni nucleari\\&r devono essere posizionati all'interno del \\&2Reattore nucleare\\&r per funzionare.\n\nPossono essere impilati uno sopra l'altro e uno accanto all'altro, ma ogni pila necessiterà di...\n\nUn \\&2Assemblaggio del controllo\\&r sopra! L'\\&2Assemblaggio del controllo\\&r non modifica nulla, come l'efficienza, ma l'\\&2Assemblaggio del combustibile per reazioni nucleari\\&r non funzionerà se non ci sono un \\&2Assemblaggio del controllo\\&r sopra, all'interno del \\&2Reattore nucleare\\&r!"
+    ],
+    "quest.09D7D3CF61E156B1.title": "\\&Stoccaggio e utilizzo del combustibile fissile",
+    "quest.0EBE20E44A7AEC7E.quest_desc": [
+        "Questi \\&7Units\\&r renderanno i tuoi piedi e quasi tutte le gambe più lunghe e forti!\n\nSarai in grado di correre più velocemente, saltare più in alto e salire su gradini più alti.\n\nCon più \\&7Units\\&r, potrai saltare e salire su gradini più alti, e potrai anche modificare le impostazioni degli \\&7Units\\&r per raggiungere altezze ancora maggiori!"
+    ],
+    "quest.0EBE20E44A7AEC7E.quest_subtitle": "Stivali",
+    "quest.0EBE20E44A7AEC7E.title": "\\&Propulsione idraulica \\&Unità",
+    "quest.0F97EFAFD6E68F8D.quest_desc": [
+        "Con questa unità \"\\&7Unit\\&r\", lo strumento \"\\&dMeka-Tool\\&r\" minerà i blocchi molto più velocemente!\n\nPiù ne possiedi, più velocemente funzionerà!\nProprio come l'incantesimo di Efficienza."
+    ],
+    "quest.0F97EFAFD6E68F8D.quest_subtitle": "Meka-Tool",
+    "quest.0F97EFAFD6E68F8D.title": "\\&eScavo in corso \\&7Unità",
+    "quest.106C4EB6002B8B41.quest_desc": [
+        "Lo \"Separatore Elettrolitico\" è molto utile per i reattori di \\&9\\&lFissione\\&r e per i reattori di \\&c\\&lFusione\\&r... quindi ne abbiamo sicuramente bisogno in grandi quantità! Che ne dite se utilizziamo solo un singolo blocco?\n\nAvrete bisogno di \\&aEnergia\\&r (ovviamente), oltre a degli ingressi per \\&cMateriali Chimici\\&r e \\&bFluidi\\&r. Non preoccupatevi, l'uscita è semplice, basta un \\&cMateriale Chimico\\&r.\n\nQuesto vi aiuterà a separare più velocemente l'acqua e l'acqua pesante!"
+    ],
+    "quest.106C4EB6002B8B41.title": "\\&9\\&lSeparatore elettrolitico a più blocchi",
+    "quest.123C0417D85B9DB2.quest_desc": [
+        "\\&eSolar Recharging \\&7 unità\\&r verranno inserite negli \\&a\\&lCaschi MekaSuit\\&r e caricheranno l'\\&a\\&lMekaSuit\\&r!\n\nPiù unità aggiungete, maggiore sarà la produzione di energia.\n\nSì, funziona esattamente come un normale \\&eGeneratore \\&eSolar\\&r... durante il giorno e esposto al cielo!"
+    ],
+    "quest.123C0417D85B9DB2.quest_subtitle": "Casco",
+    "quest.123C0417D85B9DB2.title": "\\&eSolar Ricarica \\&7Unità",
+    "quest.13A5748DF69D832E.quest_desc": [
+        "L'array \\&e\\&lQIO non svolge molte funzioni da solo, quindi dovremo aggiungere il pannello \\&eQIO!\n\nIl pannello \\&eQIO, come tutti gli elementi \\&e\\&lQIO, deve essere configurato sulla stessa rete.\n\nUna volta pronto, potremo depositare e accedere agli elementi nel nostro sistema \\&e\\&lQIO.\n\nInizieremo con le parti più importanti! Gli slot al centro sono dove possiamo mettere, conservare e prelevare gli elementi. Possiamo aumentare il numero di slot visualizzati utilizzando i pulsanti a sinistra per aumentare o diminuire l'altezza. Da 2 righe a 7.\n\nSopra gli slot c'è la barra di ricerca per cercare nomi, tag e modifiche degli elementi. Sotto gli slot c'è un'opzione di ordinamento. Possiamo ordinare gli elementi in ordine alfabetico (da A a Z) o in ordine crescente o decrescente all'interno di uno stack.\n\nIl pulsante a destra farà in modo che, quando apriamo il pannello \\&eQIO, la digitazione inizi automaticamente in \\&lEMI\\&r o nella barra di digitazione \\&e\\&lQIO.\n\nOra, passiamo a un'altra parte utile del sistema \\&e\\&lQIO: la creazione! Sul lato sinistro abbiamo un pulsante per la creazione. Questo aprirà fino a 3 finestre di creazione, ognuna con una griglia di creazione 3x3 che possiamo utilizzare.\n\nIl pulsante sotto il pulsante di creazione fa sì che selezioniamo gli elementi tramite il clic destro dal nostro inventario. In questo modo, li invierà alla finestra di creazione aperta o al sistema \\&e\\&lQIO.\n\nL'ultimo pulsante viene utilizzato con \\&lEMI\\&r e per impostare automaticamente le ricette. In questo modo, i blocchi sostituiti verranno aggiunti al nostro inventario o al sistema \\&e\\&lQIO."
+    ],
+    "quest.13A5748DF69D832E.title": "Dashboard \\&eQIO",
+    "quest.141D68BAD039784B.quest_desc": [
+        "Il nostro \\&6\\&lCaldaia elettrica\\&r può essere utilizzata per ottenere \\&6Sodio ad alta temperatura\\&r e \\&9Acqua\\&r, e per riciclarla in sodio e vapore!\n\nMa come possiamo introdurre il \\&6Sodio ad alta temperatura\\&r e l'\\&9Acqua\\&r nella \\&6\\&lCaldaia\\&r?\n\nUtilizzando i \\&6Porte della caldaia\\&r! Dovremo utilizzare un \\&3Configuratore per modificare le \\&6Porte\\&r.\n\nIl \\&6Sodio ad alta temperatura\\&r e l'\\&9Acqua\\&r verranno introdotti tramite le \\&6Porte di ingresso\\&r (porte di ingresso separate).\n\nIl sodio raffreddato verrà estratto tramite una \\&6Porta di uscita\\&r. E il vapore avrà la sua \\&6Porta di uscita per il vapore!"
+    ],
+    "quest.141D68BAD039784B.title": "\\&6Porte del bollitore",
+    "quest.14385D3D359224BC.quest_desc": [
+        "\\&dMeka-Tool\\&r è lo strumento migliore offerto da \\&5\\&lMekanism\\&r, da cui il nome! \\n\\nÈ in grado di fare tutto ciò che fa l'\\&bAtomic \\&cDissambler\\&r, ma in modo ancora migliore! In termini di distruzione di blocchi, offre più danni e maggiore velocità d'attacco. \\n\\nInvece di avere diverse modalità, può utilizzare unità di modifica! Consultate le loro proprie missioni. \\n\\nAnche se utilizza il \\&3Configurator\\&r per la creazione, non lo replica in alcun modo."
+    ],
+    "quest.14385D3D359224BC.title": "\\&dMeka-Tool",
+    "quest.16DDAE318535D0F9.quest_desc": [
+        "Il \\&bAtomic \\&cDissambler\\&r è il Paxel di \\&5Mekanism! \\n\\nÈ in grado di distruggere qualsiasi blocco, proprio come il Paxel di \\&6AllTheModium! Inoltre, può essere utilizzato anche come ascia, anche se non ha un bordo affilato. \\n\\nHa diverse modalità, ognuna con un diverso livello di efficienza e consumo di \\&aenergia\\&r. Possiamo cambiarla tenendo premuto il tasto Shift e scorrendo. \\n\\nModalità \"Normale\": è la modalità predefinita. Ha un'efficienza di 20, ovvero simile all'efficienza II. \\n\\nModalità \"Lenta\": è simile a un Paxel senza efficienza, ma consuma meno \\&aenergia\\&r! \\n\\nModalità \"Veloce\": consuma molta più \\&aenergia\\&r, ma è molto più veloce! Come l'efficienza V. \\n\\nModalità \"Spento\": non distrugge i blocchi, ma il suo unico scopo è quello di uccidere!"
+    ],
+    "quest.16DDAE318535D0F9.title": "\\&bAtomic \\&cDissambler",
+    "quest.17E2C05C48B03043.quest_desc": [
+        "Il sodio può essere utilizzato come refrigerante al posto dell'acqua. Il sodio è più efficiente, raggiunge temperature più elevate, ma è più difficile da ottenere e riutilizzare.\n\nQuindi, come possiamo ottenerlo?\n\nAvremo bisogno di una \"pianta di evaporazione termica\". Ho già creato 3 tutorial che spiegano come costruirla e utilizzarla; questo non sarà il quarto.\n\nUtilizzeremo la \"pianta di evaporazione termica\" per trasformare l'acqua in \"brina\".\n\nSuccessivamente, potremo utilizzare un \"separatore elettrolitico\" per ottenere il sodio dalla \"brina\".\n\nE un altro \"reagente chimico\", ma non ci interessa!"
+    ],
+    "quest.17E2C05C48B03043.title": "Sodio e antigelo",
+    "quest.18EB2170CAC48E99.quest_desc": [
+        "\\&5Teletrasporto\\&7Unità\\&r è un dispositivo piuttosto unico.\n\nGrazie al nostro \\&dMeka-Tool\\&r con la funzione di \\&5Teletrasporto\\&r, è possibile selezionare un blocco e fare clic con il tasto destro per teletrasportarsi su di esso.\n\nUtilizza \\&aEnergia\\&r e ha un raggio d'azione limitato, ma non preoccupatevi, il raggio è comunque piuttosto ampio!\n\nQuesta \\&7Unità\\&r non può essere utilizzata con l'unità \\&2Agricola\\&7Unità\\&r o l'unità \\&7Taglio Lana\\&7Unità\\&r."
+    ],
+    "quest.18EB2170CAC48E99.quest_subtitle": "Meka-Tool",
+    "quest.18EB2170CAC48E99.title": "\\&5Teletrasporto \\&7Unità",
+    "quest.1C87535D3CDCDA5F.quest_desc": [
+        "Gli amplificatori laser hanno un proprio sistema di accumulo di energia, ma non si ricaricano come la maggior parte delle macchine.\n\nGli amplificatori laser funzionano prelevando energia da altri laser che vengono indirizzati verso di essi.\n\nChe si tratti di altri amplificatori laser o di altri laser, è così che ottengono energia.\n\nQuindi, utilizzano questa energia per creare un raggio più focalizzato, grazie alle impostazioni che definisci all'interno della sua interfaccia grafica (ritardo, minimo e massimo).\n\nIl \"ritardo\" indica per quanti cicli di lavoro aspetterà dopo aver raggiunto il livello minimo di energia prima di sparare. Il valore minimo è 0 e il massimo è 9.999!\n\nIl \"minimo\" indica la quantità di energia che l'amplificatore può contenere prima di sparare un laser ancora più potente! Il valore minimo è 800 mFE, mentre il massimo è 2 GFE.\n\nIl \"massimo\" funziona in modo simile, indicando la quantità massima di energia che l'amplificatore può contenere prima di sparare il laser."
+    ],
+    "quest.1C87535D3CDCDA5F.title": "\\&4 Amplificazione laser",
+    "quest.1FC88A3BFCE6C9D7.quest_desc": [
+        "Questo è semplicemente \"Incantesimo di furtività di Swift\"... ora è solo un \"\\&7Unit\\&r\"!"
+    ],
+    "quest.1FC88A3BFCE6C9D7.quest_subtitle": "Pantaloni",
+    "quest.1FC88A3BFCE6C9D7.title": "\\&8Servomotore motorizzato \\&7Unità",
+    "quest.20054D077AFE3F56.quest_desc": [
+        "Abbiamo ottenuto il nostro \\&3Plutonio\\&r, e il resto dovrebbe già essere disponibile! \\n\\nAbbiamo \\&2\\&lP.R.C.\\&r, \\&9Acqua\\&r, e \\&dPolvere di Fluorite\\&r! \\n\\nCombinando 1.000mB di \\&9Acqua\\&r, con 1.000mB di \\&3Plutonio\\&r, e 1 \\&dPolvere di Fluorite\\&r, si ottengono 1 \\&3Plutonio Pellet\\&r e 1.000mB di \\&8Rifiuti Nucleari Esauriti\\&r. \\n\\nLa \\&dPolvere di Fluorite\\&r può essere prodotta come qualsiasi altra polvere metallica: con un \\&4\\&lFranto\\&r, una \\&dCamera di Arricchimento\\&r, o persino un martello per l'estrazione di minerali!"
+    ],
+    "quest.20054D077AFE3F56.title": "\\&3Granuli di plutonio",
+    "quest.22171982D22CE15F.quest_desc": [
+        "Invece di avere ogni componente del sistema di ricarica con una propria carica individuale, ora condivideranno una singola carica.\n\nQuesto è importante per garantire che ogni componente sia correttamente caricato.\n\nE questo è fondamentale per la tua sicurezza!"
+    ],
+    "quest.22171982D22CE15F.quest_subtitle": "Bodyarmor",
+    "quest.22171982D22CE15F.title": "\\&Distribuzione delle tariffe \\&7unità",
+    "quest.234C2C3144817018.quest_desc": [
+        "Sì, anche il \\&2\\&lP.R.C.\\&r ha un sistema Multiblock! E sì, funziona nello stesso modo.\n\nAvrete bisogno di un \\&eOggetto\\&r, un \\&cChimica\\&r, un \\&bFluido\\&r e un \\&aFonte di energia\\&r. Tutto tranne il \\&6Calore\\&r. Inoltre, avrete bisogno di un \\&eOggetto di output\\&r e un \\&cChimica di output\\&r!\n\nUtilizzate il \\&2\\&lP.R.C.\\&r per creare 32 \\&bPolonio\\&r contemporaneamente, oppure convertite 8 \\&aSubstrato\\&r in 64!"
+    ],
+    "quest.234C2C3144817018.title": "\\&2\\&lCamera di reazione pressurizzata, a più moduli",
+    "quest.23B68F19A04AF5D7.quest_desc": [
+        "Questi e altri articoli, come \"Pantaloni MekaSuit\" e altri, funzionano in modo simile agli incantesimi.\n\nQuesto articolo offre un vantaggio \"2 per 1\": sia l'affinità con l'aria che con l'acqua.\n\nNon avrete più penalità durante il nuoto, il volo o la caduta."
+    ],
+    "quest.23B68F19A04AF5D7.quest_subtitle": "Pantaloni",
+    "quest.23B68F19A04AF5D7.title": "Stabilizzazione giroscopica \\& Unità",
+    "quest.24E800EEC2CAD626.quest_desc": [
+        "L'unità \\&2Geiger \\&7Unit\\&r funzionerà in modo simile all'unità \\&aDosimeter \\&7Unit\\&r, ma invece di misurare la radiazione all'interno del corpo, misurerà la radiazione nell'ambiente circostante!\n\nQuesto per aiutarvi a individuare la fonte di radiazione.\n\nPotete anche abilitare e disabilitare questa funzione!"
+    ],
+    "quest.24E800EEC2CAD626.quest_subtitle": "Bodyarmor",
+    "quest.24E800EEC2CAD626.title": "\\&2 Geiger \\&7 Unità",
+    "quest.27195E9A3482C158.quest_desc": [
+        "L'unità di purificazione per inalazione effettivamente svolge diverse funzioni:\n\n1. Utilizza l'energia per bloccare i danni magici, proprio come le pozioni che infliggono danni immediati.\n2. Può essere configurata per bloccare gli effetti delle pozioni in base al loro livello di utilità o danno: utile, neutro o dannoso.\n    * Utile: aiuta il giocatore in qualsiasi modo, come la rigenerazione, la guarigione, l'aumento della velocità e della forza.\n    * Neutro: ha un effetto minimo, come la luminosità.\n    * Dannoso: rende il gioco più difficile per il giocatore, ad esempio causando avvelenamento, debolezza o cecità."
+    ],
+    "quest.27195E9A3482C158.quest_subtitle": "Casco",
+    "quest.27195E9A3482C158.title": "\\&bPurificazione tramite inalazione \\&7Unità",
+    "quest.2747AEE1F7F97848.quest_desc": [
+        "Le pozioni sono fantastiche, ma non vi disgusta il fatto che abbiano un limite di tempo?\n\nNo, smettetela con il Pylon di Infusione!\n\nCon questo oggetto, sarete più veloci e potrete saltare più in alto! (Ma non siete ancora bravi a giocare a basket).\n\nPiù ne avrete, più sarete veloci e altezza!"
+    ],
+    "quest.2747AEE1F7F97848.quest_subtitle": "Pantaloni",
+    "quest.2747AEE1F7F97848.title": "\\& Locomotiva di supporto \\& 7 unità",
+    "quest.298A7BED5C2C7582.quest_desc": [
+        "\\&aLe celle di induzione\\&r sono posizionate all'interno della \\&aMatrice di induzione energizzata\\&r e aumenteranno la sua capacità di stoccaggio.\n\nE sì, le loro capacità saranno cumulative!\n\n\\&aCella di induzione base\\&r: può contenere 3,2 GFE ciascuna.\n\n\\&cCelle di induzione avanzate\\&r: possono contenere 25,6 GFE ciascuna.\n\n\\&bCella di induzione Elite\\&r: può contenere 204,8 GFE ciascuna.\n\n\\&5Cella di induzione Ultimate\\&r: può contenere 1,6 TFE ciascuna."
+    ],
+    "quest.298A7BED5C2C7582.quest_subtitle": "Archiviazione",
+    "quest.298A7BED5C2C7582.title": "\\&aCelle di induzione",
+    "quest.2DC4446A644A4079.quest_desc": [
+        "L'\\&6tuta di protezione\\& è l'unico modo per proteggersi dall'\\&aRadiazioni\\& e impedirne la morte.\n\nÈ necessario indossare l'intero set per prevenire l'\\&aAvvelenamento da radiazioni\\&!\n\nLe \\&aRadiazioni\\& possono uccidere altri mostri e giocatori nelle vicinanze; i giocatori possono essere salvati con le \\&6tute di protezione\\&, ma i mostri non hanno la stessa fortuna!"
+    ],
+    "quest.2DC4446A644A4079.title": "\\&6Tuta protettiva per ambienti pericolosi",
+    "quest.302E9BC711779A4A.quest_desc": [
+        "Proviamo a concentrarci sulla parte relativa al \"combustibile fissile\" e all'uranio, e a parte, lasciando da un lato \\&eSulfur\\&r e gli acidi.\n\nQuindi, cosa intendiamo con \"uranio\", abbondante e utilizzato in \\&6\\&lATO\\&r? Qualsiasi versione funzionerebbe?\n\nAh, sì, l'uranio!\n\nEstraggo l'uranio e lo utilizzo nelle \\&aUranium Ingots\\&r in una \\&d\\&lEnrichment Chamber\\&r per ottenere l'uranio, noto come \"uranio giallo\".\n\nNo, non mangiatelo. Non è di quel tipo di \"torta\"!\n\nCuocere l'uranio, noto come \"uranio giallo\", in una \\&c\\&lChemical \\&eOxidizier\\&r per ottenere l'ossido di uranio."
+    ],
+    "quest.302E9BC711779A4A.title": "Preparazione e manipolazione dell'uranio",
+    "quest.32ABE5D734703B9C.quest_desc": [
+        "\\&7Elytra\\&r o \\&a\\&Bodyarmor per MechaSuit... \\n\\nPerché non entrambi?"
+    ],
+    "quest.32ABE5D734703B9C.quest_subtitle": "Bodyarmor",
+    "quest.32ABE5D734703B9C.title": "\\&7Unità di ali",
+    "quest.3526D444F81AD6D9.quest_desc": [
+        "Lo strumento \\&dMeka-Tool\\&r è già più efficace di una \\&6Spada AllTheModium\\&r, ma perché non ancora di più!\n\nNon so esattamente quanto aumenta l'efficacia di ogni \\&7Unità\\&r, ma è chiaro che l'effetto aumenta con la quantità utilizzata.\n\nProprio come la \"Affilatura\"!"
+    ],
+    "quest.3526D444F81AD6D9.quest_subtitle": "Meka-Tool",
+    "quest.3526D444F81AD6D9.title": "\\&4Amplificazione \\&7Unità",
+    "quest.3561A33758A1E8C3.quest_desc": [
+        "Innanzitutto, costruiamo. Poi, mettiamo in funzione. Infine, utilizziamo.\n\nTutti i componenti del reattore \\&c\\&lFusion Reactor\\&r utilizzano una forma a diamante di 5 blocchi. La struttura sarà realizzata con il \\&cFusion Reactor Casing\\&r e l'interno può essere realizzato con vetro di reattore \\&r.\n\nI \\&cFusion Reactor Ports\\&r possono sostituire qualsiasi blocco di vetro di reattore nella struttura (eccetto dove sono necessari altri blocchi).\nAnche la \\&cLaser Focus Matrix\\&r sarà posizionata dove si trova il vetro di reattore. Spero che non sia troppo vicina ad altri blocchi!\n\nIl \\&cFusion Reactor Controller\\&r, il componente più importante, sarà posizionato al centro della parte superiore.\n\nNon preoccupatevi, l'interno sarà vuoto... non consiglio di verificarlo quando è attivo, perché potrebbe essere pericoloso.",
+        "{@pagebreak}",
+        "BOOM! È stato costruito! Ora, come lo mettiamo in funzione?\n\nInnanzitutto, prendete il vostro \"\\&eHohlraum\", che dovrebbe essere già pieno. E posizionatelo all'interno dell'interfaccia grafica del \"\\&cReattore di Fusione\".\n\nPossiamo aprire la sua interfaccia grafica facendo clic con il tasto destro sul \"\\&cController\" di uno già costruito.\n\nOra, oltre al pieno \"\\&eHohlraum\", avremo bisogno di aggiungere del combustibile!\n\nQuindi, possiamo puntare il \"\\&4Amplificatore Laser\" verso il \"\\&cMatrice di Focalizzazione Laser\" con almeno 1 GFE.\n\nOra è pronto per l'uso!",
+        "{@pagebreak}",
+        "La maggior parte delle funzionalità è accessibile tramite l'interfaccia \"\\&cController\\&r\". Innanzitutto, si accede al menu principale. Questo è specifico per lo slot \"\\&eReattore a fusione\\&r\" e indica se è stato assemblato correttamente!\n\nSuccessivamente, si accede al menu \"Temperatura\". Questo permette di controllare la \"\\&6Temperatura\\&r\" del \"\\&cReattore a fusione\\&r\". Questo determina la quantità di \"\\&aEnergia\\&r\" o vapore prodotta! E dipende dall'utilizzo dell' \"\\&4Amplificatore laser\\&r\" e dal suo raffreddamento.\n\nÈ possibile modificare le unità di \"\\&6Temperatura\\&r\" o anche \"\\&aEnergia\\&r\" tramite i pulsanti inferiori!\n\nIl menu successivo è dedicato al \"Combustibile\". Mostra la quantità di \"\\&cDeuterio\\&r\", \"\\&aTrizio\\&r\" e \"\\&5Combustibile D-T\" all'interno del \"\\&cReattore a fusione\\&r\". È anche possibile modificare il tasso di iniezione, ovvero la quantità di combustibile consumata ad ogni ciclo.\n\nIl menu \"Statistiche\" mostra una grande quantità di dati. Questi sono importanti solo per gli appassionati, quindi non ci concentreremo su di essi.",
+        "{@pagebreak}",
+        "(testo di esempio per una nuova pagina)",
+        "{image:atm:textures\/questpics\/mek\/mek_fusion1.png width:100 height:100 align:center}",
+        "{image:atm:textures\/questpics\/mek\/mek_fusion2.png width:110 height:90 align:center}",
+        "{image:atm:textures\/questpics\/mek\/mek_fusion3.png width:110 height:100 align:center}",
+        "{image:atm:textures\/questpics\/mek\/mek_fusion4.png width:100 height:100 align:center}",
+        "{image:atm:textures\/questpics\/mek\/mek_fusion5.png width:100 height:100 align:center}"
+    ],
+    "quest.3561A33758A1E8C3.quest_subtitle": "Combinare 2 elementi in uno unico",
+    "quest.3561A33758A1E8C3.title": "\\&c\\&lReattore di fusione",
+    "quest.359934E888495E5E.quest_desc": [
+        "Questo non è un lavandino, è un lavaggio chimico Multiblock.\n\nPer utilizzarlo, avrete bisogno di ingressi per l'energia, i fluidi e le sostanze chimiche, nonché di uscite per le sostanze chimiche.\n\nBasta combinare acqua con le emulsioni di minerale sporco. In qualche modo, partiamo da 1.000 m³ di emulsione di minerale sporco e arriviamo a 800 m³ di emulsione di minerale pulito... dove sono finiti gli altri?"
+    ],
+    "quest.359934E888495E5E.title": "\\&a\\&lLavastone Multibloc",
+    "quest.35D9CD19EAADED6C.quest_desc": [
+        "Sappiate che l'equipamento \\&aRadiation\\&r può essere molto pericoloso! E tutti commettono errori.\n\nMa la domanda rimane: preferireste indossare l'elegante, ma molto debole, \\&6Hazmat Suit\\&r, oppure... l'incredibilmente potente \\&a\\&lMekaSuit\\&r con \\&aRadiation Shielding \\&7Unit\\&r!\n\nSe tutte le parti dell' \\&a\\&lMekaSuit\\&r avessero l' \\&aRadiation Shielding \\&7Unit\\&r installato, sareste in grado di muovervi in sicurezza in presenza di \\&aRadiation\\&r!"
+    ],
+    "quest.35D9CD19EAADED6C.quest_subtitle": "Tutta l'armatura",
+    "quest.35D9CD19EAADED6C.title": "\\&aSchermatura dalle radiazioni \\&7Unità",
+    "quest.369DADE3B3D8416F.quest_desc": [
+        "Purtroppo, ottenere il \\&6Tritio\\&r non è così semplice come ottenere il \\&6Deuterio\\&r...\n\nAvremo bisogno di una \\&6Impianto di Evaporazione Termica\\&r. In realtà, ne avremo bisogno di due: uno per trasformare l'\\&9Acqua\\&r in \\&eBrina\\&r, e l'altro per trasformare l'\\&eBrina\\&r in \\&6Litio\\&r.\n\nIn realtà, avremo bisogno di \\&6Litio Liquido\\&r, e utilizzeremo un \\&cCondensatore Rotativo\\&r per trasformarlo in \\&cLitio Chimico\\&r!\n\nSuccessivamente, potremo utilizzare l'\\&e\\&lAttivatore di Neutroni Solari\\&r per trasformare il \\&6Litio\\&r in \\&aTritio\\&r.\n\nÈ più difficile dell'ottenimento del \\&6Deuterio\\&r, ma più semplice dell'utilizzo di \\&2Combustibile Fisile\\&r."
+    ],
+    "quest.369DADE3B3D8416F.quest_subtitle": "T",
+    "quest.369DADE3B3D8416F.title": "\\&A Tritium",
+    "quest.3B936CA3F0F7B26B.quest_desc": [
+        "Il \"Digital Miner\" è un blocco 3x2x3...? È una macchina?\n\nSappiamo tutti dei Void Miners, ma questi sono decisamente strani! Questo Miner effettivamente produce blocchi!\n\nCliccando con il tasto destro, si apre l'interfaccia. Qui possiamo vedere una serie di elementi: pulsanti, schermi e persino slot!\n\nGli slot sono dove verranno depositati gli oggetti estratti. Lo schermo indica se è pronto, se non ha abbastanza energia, o quanti blocchi può estrarre. Inoltre, lo schermo ha pulsanti per l'auto-espulsione, per aspirare i blocchi estratti e persino per utilizzare Silk Touch!\n\nI pulsanti gestiscono tutte le altre funzioni. Possiamo utilizzare visualizzazioni per vedere l'area da estrarre. Oppure, possiamo aggiungere degli aggiornamenti per migliorarlo!\n\n\"Start\": indica al \"Digital Miner\" di iniziare l'estrazione. Non funzionerà se la macchina non è pronta. \"Stop\": indica al \"Digital Miner\" di interrompere l'estrazione. \"Config\": imposta i filtri, ed è importante. \"Reset\": è inutilizzabile.\n\nLe impostazioni sul lato sinistro definiscono l'area di lavoro per l'estrazione. Indica la distanza, l'altezza e la profondità. Il lato destro è per il filtro degli oggetti estratti. Il filtro è lo stesso di quello utilizzato con i \"QIO Importers\" e \"QIO Exporters\", quindi consultate le loro quest per imparare come utilizzarli!\n\nÈ possibile utilizzare anche la modalità inversa per bloccare i filtri. Inoltre, è possibile utilizzare le sostituzioni per riempire i blocchi estratti."
+    ],
+    "quest.3B936CA3F0F7B26B.title": "\\&l\\&7 Minatore digitale",
+    "quest.3CCBE9BBCA8ADA38.quest_desc": [
+        "L'unità \\&d\\&lSuper-Critical Phase Shifter\\&r richiederà una notevole quantità di \\&aEnergia\\&r. Intendo, una quantità enorme! Si parla di centinaia di milioni di FE.\n\nMa come possiamo fornire una quantità così elevata di \\&aEnergia\\&r?\n\nAvremo bisogno di almeno 1 (o idealmente 2) \\&dCoil Supercaricate\\&r!\n\nLa \\&dCoil Supercaricata\\&r sarà posizionata all'interno dell'unità \\&d\\&lS.P.S.\\&r, su una \\&dSPS Port. Questa \\&dPort\\&r dovrà fornire l'energia necessaria alla \\&dCoil Supercaricata\\&r.\n\nOgni \\&dCoil Supercaricata\\&r può fornire 400 MFE al ciclo. E avremo bisogno di molte di queste per l'utilizzo di \\&dAntimateria\\&r!"
+    ],
+    "quest.3CCBE9BBCA8ADA38.title": "Bobine ad alta potenza",
+    "quest.3D2B4D9FD2086B9B.quest_desc": [
+        "L'adattatore logico \"\\&2FRLA\", che chiamerò così, viene utilizzato per monitorare e configurare il reattore \"\\&2\\&lFission\" tramite \"\\&4Redstone\".\n\nInnanzitutto, posizionate l' \"\\&2FRLA\" in una delle pareti del reattore \"\\&2\\&lFission\", come fareste con le \"\\&2Ports\".\n\nSuccessivamente, potete fare clic con il tasto destro sull' \"\\&2FRLA\" per configurarlo.\n\n*   **Disattivato:** non interagisce con \"\\&4Redstone\".\n*   **Attivazione:** accende il \"\\&2\\&lReactor\" quando riceve un segnale \"\\&4Redstone\", e lo spegne quando non riceve più alcun segnale.\n*   **Temperatura elevata:** invia un segnale \"\\&4Redstone\" quando la temperatura raggiunge un livello pericoloso.\n*   **Livello di scorie critico:** invia un segnale \"\\&4\" quando la quantità di scorie nucleari è eccessiva.\n*   **Danno critico:** come gli altri, invia un segnale \"\\&4\" quando il reattore \"\\&2\\&lReactor\" sta per esplodere!\n*   **Carburante insufficiente:** invia un segnale \"\\&4\" quando il carburante \"\\&2Fissile\" sta per esaurirsi."
+    ],
+    "quest.3D2B4D9FD2086B9B.title": "\\& Adattatore logico per reattore a fissione",
+    "quest.3E5BE6D6422F682C.quest_desc": [
+        "La nostra turbina avrà bisogno di vapore in ingresso e di vapore in uscita, oltre a produrre energia in uscita.\n\nMa come?\n\nPossiamo utilizzare le porte della turbina per introdurre il vapore e per espellere l'energia. Tuttavia, per espellere l'acqua, dovremo utilizzare le prese di ventilazione della turbina.\n\nEntrambe queste componenti sono posizionate all'interno delle pareti della nostra turbina."
+    ],
+    "quest.3E5BE6D6422F682C.title": "\\&9\\&lIngressi e uscite della turbina",
+    "quest.40B24676E11D9410.quest_desc": [
+        "Abbiamo bisogno di molte risorse per il Mod \\&dMekanism\\&r, quindi perché non aggiornare il nostro \\&dMeka-Tool\\&r per ottenerne di più!\n\nIl Mod \\&dOre Refinement\\&r funzionerà in modo simile a Fortune. Quando si estraono le risorse, c'è la possibilità di ottenere più oggetti.\n\nTuttavia, non possiamo utilizzare l'oggetto \\&bSilk Touch \\&7Unit\\&r con questo Mod. Scegliete tra i blocchi di minerali o i singoli minerali!"
+    ],
+    "quest.40B24676E11D9410.quest_subtitle": "Meka-Tool",
+    "quest.40B24676E11D9410.title": "\\&dOre: Raffinamento \\& Unità",
+    "quest.40E8940C92668D4F.quest_desc": [
+        "\\&cDeuterio\\&r è in realtà relativamente facile da ottenere!\\n\\nInnanzitutto, abbiamo bisogno di \\&9Acqua pesante\\&r. L'\\&9acqua pesante\\&r è semplicemente acqua (H2O), ma con un atomo di idrogeno leggermente diverso!\\n\\nPossiamo utilizzare il \\&9filtro\\&8aggiornamento\\&r in una \\&9pompa elettrica\\&r (ovviamente, al di sopra dell'acqua) per estrarre l'\\&9acqua pesante\\&r invece dell'acqua.\\n\\nElaborando l'\\&9acqua pesante\\&r attraverso un \\&9separatore elettrolitico\\&r, otterremo l'\\&bossigeno\\&r e il \\&cdeuterio\\&r invece dell'\\&7idrogeno\\&r.\\n\\nVi ho detto che è semplice!"
+    ],
+    "quest.40E8940C92668D4F.quest_subtitle": "D",
+    "quest.40E8940C92668D4F.title": "E altro ancora: Deuterio",
+    "quest.4211F29561F21643.quest_desc": [
+        "Il funzionamento della turbina prevede l'aspirazione di vapore attraverso le porte, che a loro volta faranno muovere le pale sui rotori.\n\nAspetta, forse dovrei spiegarti come costruire l'interno della turbina!\n\nI rotori saranno posizionati dall'alto verso il basso, al centro esatto delle nostre turbine. Ogni rotore può contenere 2 pale.\n\nPiù pale e rotori, più ampia sarà la turbina. Non potremo utilizzare una base di 5x5 con interni più grandi.\n\nSulla parte superiore del nostro rotore più grande, posizioneremo il complesso rotatorio. Fidati, è importante!"
+    ],
+    "quest.4211F29561F21643.title": "Parti in movimento",
+    "quest.438F734D16DA9638.quest_desc": [
+        "Abbiamo ottenuto il \\&aPolonio\\&r e il resto dovrebbe già essere disponibile!\n\nAbbiamo ottenuto 1.000mB di \\&9Acqua\\&r, 1.000mB di \\&aPolonio\\&r e 1 \\&dPolvere di Fluorite\\&r!\n\nPer ottenere 1 \\&aPollo Pellet\\&r, combinare 1.000mB di \\&9Acqua\\&r, 1.000mB di \\&aPolonio\\&r e 1 \\&dPolvere di Fluorite\\&r.\n\nLa \\&dPolvere di Fluorite\\&r può essere prodotta come qualsiasi altra polvere metallica: con un \\&4\\&lFranto\\&r, una \\&dCamera di Arricchimento\\&r, o persino con un martello per l'estrazione di minerali!"
+    ],
+    "quest.438F734D16DA9638.title": "\\&Polonio in granuli",
+    "quest.43DB0CFC5F5B0967.quest_desc": [
+        "L'\\&aDosimeter\\&r mostrerà quante unità di \\&aRadiation\\&r sono attualmente presenti nel tuo corpo. \\n Sì, nel tuo corpo. \\n\\nRicorda che puoi attivare e disattivare questa funzione per liberare spazio nella tua interfaccia utente!"
+    ],
+    "quest.43DB0CFC5F5B0967.quest_subtitle": "Bodyarmor",
+    "quest.43DB0CFC5F5B0967.title": "\\& Dosimetro \\& Unità",
+    "quest.4447EEEB8D762721.quest_desc": [
+        "Le unità \\&4Laser Dissipation \\&7 saranno in grado di migliorare il \\&a\\&lMekaSuit\\&r. In particolare, ogni singola unità.\n\nInvece di uccidervi immediatamente quando entrate in contatto con i \\&4Laser, non causeranno alcun danno!\n\nUna piccola quantità di \\&4Laser passerà effettivamente attraverso di voi! Non tutta la quantità."
+    ],
+    "quest.4447EEEB8D762721.quest_subtitle": "Tutta l'armatura",
+    "quest.4447EEEB8D762721.title": "\\&4 Dissipazione laser \\&7 Unità",
+    "quest.459AEC4C2A611824.quest_desc": [
+        "A tutti i giocatori che non utilizzano risorse come \"\\&aNight Vision\", questo potrebbe esservi utile!\n\nQuesto \"\\&7Modulo\" vi fornirà una certa \"\\&aNight Vision\" quando indossate il \"\\&a\\&lMekaSuit Helmet\".\n\nAnche se è vero che molti \"\\&eoggetti\" lo rendono inutile, comunque voglio farvi sapere!"
+    ],
+    "quest.459AEC4C2A611824.quest_subtitle": "Casco",
+    "quest.459AEC4C2A611824.title": "\\&Miglioramento della visione \\&Unità 7",
+    "quest.46932D87871BE12F.quest_desc": [
+        "L'unità \"Crystallizzatore Chimico Multiblock\" sarà in grado di cristallizzare grandi quantità di materiali.\n\nQuesta unità \"Multiblock\" richiederà un'entrata per l'energia, un'entrata per i materiali chimici e un'uscita per i materiali cristallizzati.\n\nÈ possibile inserire 6.400 mB di \"Slurry di minerale pulito\" per ottenere 32 \"Cristalli di minerale\" e utilizzare 32.000 mB di \"Antimateria\" per ottenere 32 \"Granuli di antimateria\"."
+    ],
+    "quest.46932D87871BE12F.title": "\\&5\\&Crystallizzatore chimico a più blocchi",
+    "quest.4869D9DBDD1A15CD.quest_desc": [
+        "Questo strumento \"\\&cC\\&6o\\&el\\&ao\\&br \\&cM\\&6o\\&ed\\&au\\&bl\\&ca\\&6t\\&ei\\&ao\\&bn\" vi permetterà di modificare le impostazioni del componente \"\\&a\\&lMekaSuit Part\\&r\" a cui appartiene.\n\nBasta tenere premuto il componente e premere il tasto (\\\\) per accedere alle sue impostazioni.\n\nQuanti componenti \"\\&cC\\&6o\\&el\\&ao\\&br\\&ds\\&r\" abbiamo a disposizione? Non lo so, quanti componenti \"\\&cC\\&6o\\&el\\&ao\\&br\\&ds\\&r\" abbiamo con i codici esadecimali!\n\nQuesto influirà solo sul componente \"\\&a\\&lMekaSuit Part\\&r\", ogni componente \"\\&a\\&lMekaSuit Part\\&r\" avrà bisogno del proprio \"\\&7Units\\&r\"."
+    ],
+    "quest.4869D9DBDD1A15CD.quest_subtitle": "Tutta l'armatura",
+    "quest.4869D9DBDD1A15CD.title": "\\&cC\\&6o\\&el\\&ao\\&br \\&cM\\&6o\\&ed\\&au\\&bl\\&ca\\&6t\\&ei\\&ao\\&bn \\&7Unità",
+    "quest.48F496BD0FFE5A34.quest_desc": [
+        "L'unità magnetica funziona esattamente come un magnete normale. Quando viene utilizzata\/indossata, attirerà oggetti che si trovano al di fuori del raggio d'azione.\n\nPiù unità magnetiche sono presenti, maggiore è la distanza massima a cui gli oggetti possono essere attratti."
+    ],
+    "quest.48F496BD0FFE5A34.quest_subtitle": "Stivali",
+    "quest.48F496BD0FFE5A34.title": "\\&4Magnetismo \\&9Attrazione \\&7Unità",
+    "quest.4926C95DD02F1410.quest_desc": [
+        "Avete mai visto tutorial che utilizzano i \"Beacon\" come sistemi di sicurezza laser? Tuttavia, quando si prova, si rimane delusi perché non uccidono le persone?\n\nBeh, i \"Laser\" lo fanno!\n\nCredetemi, sembrano i Beacon e, di sicuro, uccidono!\n\nA differenza dei Beacon, però, non è possibile modificarne il colore con il vetro. Probabilmente perché distruggono quasi ogni blocco che incontra e impediscono la raccolta di risorse...\n\nInoltre, utilizzano l'energia invece dei materiali per funzionare.\n\nNon so esattamente quanto danno, ma sono sufficienti per cuocere un pollo non appena entra in contatto con il \"Laser\"!"
+    ],
+    "quest.4926C95DD02F1410.title": "\\&4 Laser",
+    "quest.4B2835706B593E9A.quest_desc": [
+        "\\&d\\&lAntiprotonico \\&5Nucleosintetizzatore\\&r è una \\&5macchina\\&r realizzata con \\&dpellet di antimateria\\&r. \\n\\nNaturalmente, utilizza anche l'\\&dantimateria\\&r come combustibile, perché era troppo economico! \\n\\nQuindi, cosa fa? \\n\\nCon la nostra \\&dantimateria\\&r, l'\\&denergia\\&r e un certo \\&eoggetto\\&r, possiamo creare un nuovo (e solitamente raro) \\&eoggetto\\&r. Alcuni addirittura non possiamo nemmeno crearli! \\n\\nAd esempio, possiamo trasformare \\&5Amethyst\\&f in \\&9Echo Shards\\&f, \\&eGolden Apple\\&f in \\&eEnchanted Golden Apple\\&r, e persino uova in \\&dDragon Egg\\&r!"
+    ],
+    "quest.4B2835706B593E9A.title": "\\&d\\&l Sintetizzatore nucleosidico antiprotonico",
+    "quest.4BAF44FCA0894DE8.quest_desc": [
+        "Come la centrifuga isotopica (\\&5\\&lIsotopic Centrifuge\\&r), anche l'attivatore di neutroni solari (\\&e\\&lSolar Neutron Activator\\&r) è utilizzata solo per 2 ricette, e una di queste prevede l'utilizzo di \\&8Nuclear Waste\\&r!\n\nQuesta macchina (\\&5\\&lMachine\\&r) raccoglierà i raggi del \\&eSun's\\&r attraverso le \\&eSolar Cells\\&r posizionate sulla parte superiore. Successivamente, concentrerà quei raggi in un unico fascio, che verrà utilizzato per trattare l'\\&8Nuclear Waste\\&r.\n\nQuesto significa anche che non funziona di notte...\n\nOgni 5 mB di \\&8Nuclear Waste\\&r si trasformerà in 1 mB di \\&aPolonium\\&r.\n\nQuindi, per ottenere 5.000 mB di \\&8Nuclear Waste\\&r, sarà necessario utilizzare 5.000 mB di \\&2Fissile Fuel\\&r."
+    ],
+    "quest.4BAF44FCA0894DE8.title": "Utilizzando il \\&eSun\\&r per produrre \\&aPolonio",
+    "quest.4E18E28BDF6B7983.quest_desc": [
+        "I \"Porti\" per il reattore \"\\&cFusion Reactor Ports\\&r\" sostituiranno il vetro del reattore \"\\&c\\&lFusion Reactor\\&r\" al fine di essere utilizzati.\n\nAvremo bisogno di alcuni \"Porti\". 2 (o 1) per il \"\\&cDeuterium\\&r\" e il \"\\&aTritium\\&r\" (o semplicemente \"\\&5D-T Fuel\\&r\") per il combustibile. Avremo anche bisogno di 1 per l'emissione di \"\\&aEnergy\\&r\".\n\nSe desiderate utilizzare \"\\&9Water\\&r\" per raffreddare il \"\\&c\\&lFusion Reactor\\&r\", avrete bisogno di altri 2 \"Porti\". 1 per l'immissione di \"\\&9Water\\&r\" e 1 per l'emissione di vapore.\n\nCome per gli altri \"Porti\", possiamo utilizzare il \"\\&3Configurator\\&r\" per impostare se i \"Porti\" sono per l'ingresso o l'uscita!"
+    ],
+    "quest.4E18E28BDF6B7983.title": "\\&Porte del reattore a fusione",
+    "quest.4F9C8D90ACF563F5.quest_desc": [
+        "Grazie per l'aggiornamento Aquatic, ma nuotare può ancora essere molto lento.\n\nQuindi, perché non velocizzarlo! Come fa il Depth Strider!\n\nCon l'unità \\&9Hydrostatic Repulsor \\&7, è possibile nuotare e camminare più velocemente in \\&9acqua\\&r."
+    ],
+    "quest.4F9C8D90ACF563F5.quest_subtitle": "Pantaloni",
+    "quest.4F9C8D90ACF563F5.title": "\\&9Propulsore idrostatico \\&7Unità",
+    "quest.505799C894C771B2.quest_desc": [
+        "Alcuni dispositivi come l'\"Infusore Metallurgico\" e la \"Camera di Arricchimento\" di \"Mekanism\" possono essere potenziati, così come indicato. Tuttavia, solo alcuni possono utilizzare le carte di potenziamento.\n\nGli sviluppatori di \"Mekanism\" hanno notato questo e desideravano che, invece di creare 50 \"Separatori Elettrolitici\", i giocatori potessero creare un unico blocco multifunzionale!\n\nPer creare questi blocchi multifunzionali, avremo bisogno di un blocco multifunzionale precedente: la \"Fornace Automatica di Hefesto\".\n\nDispone della propria missione nel capitolo 4: \"Creativo\". Consultatelo lì!\n\nTutti i blocchi multifunzionali utilizzano la stessa struttura, ma con controllori diversi. Consultate la pagina successiva per vedere le istruzioni per la sua costruzione!",
+        "{@pagebreak}",
+        "Lo strato più complesso è quello che ospita tutti gli elementi, tra cui le \"Caselle per macchine\". Le diverse \"Caselle per macchine\" saranno posizionate al centro, mentre le \"Scale di pietra scura\" e i \"Blocchi\" e le \"Scale di pietra scura lucida\" le circondano.",
+        "{image:atm:textures\/questpics\/mek\/mek_multi_runic1.png width:150 height:100 align:center}",
+        "Il secondo strato completa il primo aggiungendo ulteriori mattoni in \\&9Darkstone\\&r e scale \\&9Stairs\\&r. Ora include anche lastre in \\&9Darkstone\\&r e blocchi con rune \\&7Rune Blocks\\&r!",
+        "{image:atm:textures\/questpics\/mek\/mek_multi_runic2.png width:150 height:100 align:center}",
+        "Non c'è niente di più semplice! Basta posizionare i blocchi \"\\&9Darkstone Pillars\\&r\" sopra i 4 blocchi \"\\&7Rune Blocks\\&r\" e questo è tutto!",
+        "{image:atm:textures\/questpics\/mek\/mek_multi_runic3.png width:150 height:100 align:center}",
+        "Avevo ragione, non si può essere più semplice. Rimane sempre esattamente allo stesso livello di semplicità! Ripetere il passaggio precedente.",
+        "{image:atm:textures\/questpics\/mek\/mek_multi_runic4.png width:150 height:100 align:center}",
+        "Per completare, posizionate il blocco \\&bArcane Crystal\\&r sopra i pilastri \\&9Darkstone\\&r e il \\&8Quantum Injector\\&r sopra il blocco \\&7Rune\\&r scoperto.",
+        "{image:atm:textures\/questpics\/mek\/mek_multi_runic5.png width:150 height:100 align:center}",
+        "Le nostre macchine Multiblock, modello \\&5\\&, necessitano di \"Porte\" per funzionare correttamente! Per aggiungerle, sostituite i \"Mattoni di Pietra Nera\" nel primo strato con le \"Porte\"."
+    ],
+    "quest.505799C894C771B2.title": "Aggiornato, Non aggiornabile e 5 macchine",
+    "quest.50B62CF314648881.quest_desc": [
+        "Il \"Chemical Infuser Multiblock\" fa esattamente la stessa cosa, ma in modo più avanzato. Combinerà 2 sostanze chimiche diverse in una sola!\n\nAvrete bisogno solo di un \"Input Hatch\" per l'energia e di \"Input e Output Hatches\" per le sostanze chimiche, ma dovrete prevedere un ampio spazio di stoccaggio per tutte le sostanze chimiche."
+    ],
+    "quest.50B62CF314648881.title": "\\&c\\&l Infusore chimico per più blocchi",
+    "quest.50F23B2688D7E699.quest_desc": [
+        "Con 1.000 mB di \\&aPolonio\\&r processati tramite un \\&5\\&lCrystallizzatore Chimico\\&r, possiamo produrre 1 \\&dPellet di Antimateria\\&r.\n\nQuesto significa che sono necessari 1.000.000 mB di \\&aPolonio\\&r o 1 MmB di \\&aPolonio\\&r.\n\nPer ottenere tutti questi \\&aPolonio\\&r, saranno necessari 5.000.000 mB di \\&8Rifiuti Nucleari\\&r e \\&2Combustibile Fisile\\&r per produrre i \\&8Rifiuti Nucleari\\&r. Solo 5 MmB di \\&2Combustibile Fisile\\&r... e basta!\n\nMa finalmente, ce l'abbiamo! L'elemento più prezioso in tutto il \\&5\\&lMekanism\\&r: il \\&dPellet di Antimateria\\&r.\n\nOra possiamo produrre il nostro MekaSuit, aumentare lo spazio di archiviazione per il \\&e\\&lQIO\\&r, e persino l'\\&6\\&lATM Star\\&r!"
+    ],
+    "quest.5194A067BEA98E79.quest_desc": [
+        "Ciao, mi ricordo di te!\n\nSembra che la centrifuga \"\\&5\\&lIsotopic\" sia utilizzata per 2 ricette: \"\\&2Fissile Fuel\" e \"\\&3Plutonium\"!\n\nPer ogni 5mB di \"\\&8Nuclear Waste\", possiamo creare 1mB di \"\\&3Plutonium\".\n\nSe ogni pellet di \"\\&3Plutonium\" vale 1.000mB di \"\\&3Plutonium\", allora avremo bisogno di 5.000mB di \"\\&8Nuclear Waste\" e la stessa quantità di \"\\&2Fissile Fuel\"."
+    ],
+    "quest.5194A067BEA98E79.title": "Produzione di plutonio",
+    "quest.52B3955A80DB0B4A.quest_desc": [
+        "\\&6Le \"Esplosioni\"\\&r non sono paragonabili alle \"Incantesimi\"\\&r di Vanilla, ma sono più simili a quelle dei Mod!\n\nUna volta installate, potremo modificare le sue impostazioni per cambiare la dimensione del quadrato di blocchi che possiamo estrarre.\n\nIl valore predefinito è 1x1, ovvero 1 blocco. Possiamo modificarlo per ottenere 3x3, 5x5, 7x7 e 9x9.\n\nSì, estrarre un quadrato di 9x9 richiederà più \\&aEnergia\\&r rispetto all'estrazione di un singolo blocco."
+    ],
+    "quest.52B3955A80DB0B4A.quest_subtitle": "Meka-Tool",
+    "quest.52B3955A80DB0B4A.title": "\\&6Unità di demolizione \\&7",
+    "quest.53E929BF89209CFC.quest_desc": [
+        "\\&eImportatori \\&fand \\&eEsportatori\\&r possono essere utilizzati per importare ed esportare automaticamente \\&eoggetti\\&r dal\/verso il sistema \\&e\\&lQIO\\&r.\n\n\\&eImportatori \\&fand \\&eEsportatori\\&r devono essere posizionati su blocchi con inventari per prelevare o consegnare \\&eoggetti\\&r. Inoltre, devono essere configurati per utilizzare la stessa rete dell'array \\&e\\&lQIO\\&r.\n\nSe vengono configurati per importare o esportare senza filtri, preleveranno automaticamente (o rimuoveranno) ogni \\&eoggetto\\&r presente negli inventari o nel sistema corrispondente.\n\nSe desiderate filtrare, utilizzate Itemstack, Tag e Mod. Ogni elemento viene impostato inserendo un \\&eoggetto\\&r nello slot. Itemstack utilizzerà solo quell'\\&eoggetto\\&r. Tag richiederà l'inserimento del tag dell'\\&eoggetto\\&r nella casella di testo. Mod utilizzerà il Mod da cui proviene l'\\&eoggetto\\&r. Ad esempio, \\&2\\&lMinecraft\\&r per tutti i blocchi \\&2\\&lVanilla\\&r."
+    ],
+    "quest.53E929BF89209CFC.title": "Importazione ed esportazione",
+    "quest.54255B7820A0F0B1.quest_desc": [
+        "...e questo è tutto.\n\nAvrete bisogno di: \\&aEnergia\\&r, \\&cInput Chimico\\&r, e \\&cOutput Chimico\\&r.\n\nDa 10.240 \\&8Rifiuti Nucleari\\&r a 2.048 \\&bPolonio\\&r. Inoltre, da 2.048 \\&aUranio Hexafluoruro\\&r a 2.048 \\&2Carburante Fissile\\&r."
+    ],
+    "quest.54255B7820A0F0B1.title": "\\&l\\&5Centrifuga isotopica a più blocchi",
+    "quest.54E0B946BAC13654.quest_desc": [
+        "Tecnicamente, la più piccola (funzionante) matrice di induzione che possiamo realizzare ha solo 1 \"cella di induzione\" e 1 \"fornitore di induzione\", ma tutte sono realizzate nello stesso modo.\n\nDovremo realizzare una struttura di \"celle di induzione\" di almeno 3x4x3 fino a 18x18x18.\n\nLe pareti, il soffitto e il pavimento possono essere riempiti con \"celle di induzione\", vetro strutturale\/reattore, o \"porte di induzione\".\n\nL'interno della \"matrice di induzione\" sarà composto dalle nostre \"celle\" e \"fornitori\".\n\nSe utilizziamo le dimensioni di 18x18x18, avremo 4.096 spazi per disporre le \"celle\" e i \"fornitori\". Quindi, se le dividiamo a metà tra i due, potremmo ottenere... uno spazio di archiviazione di 3,28 QFE e un input\/output di 107 QFE per tick.",
+        "{@pagebreak}",
+        "Questo Multiblock può essere realizzato in qualsiasi dimensione disponibile, non solo quella mostrata nelle immagini. Le immagini mostrano semplicemente la dimensione più piccola che possiamo produrre.",
+        "{image:atm:textures\/questpics\/mek\/mek_matrix1.png width:100 height:75 align:center}",
+        "{image:atm:textures\/questpics\/mek\/mek_matrix2.png width:100 height:90 align:center}",
+        "{image:atm:textures\/questpics\/mek\/mek_matrix3.png width:100 height:100 align:center}",
+        "{image:atm:textures\/questpics\/mek\/mek_matrix4.png width:100 height:110 align:center}"
+    ],
+    "quest.54E0B946BAC13654.title": "\\&a\\&lMatrice di induzione potenziata",
+    "quest.55702BE0151D33FE.quest_desc": [
+        "\\&aLe porte di induzione\\&r sono il modo in cui possiamo introdurre e estrarre l'\\&aEnergia\\&r dal nostro \\&aMatrice di induzione\\&r.\n\nCome in quasi ogni struttura a più blocchi, dovrete posizionare le \\&aPorte\\&r all'interno delle pareti della \\&aMatrice di induzione\\&r.\n\nNon credo che le \\&aPorte\\&r abbiano limiti oltre a quelli imposti dalla \\&aMatrice di induzione\\&r stessa, quindi non avrete bisogno di più di 2, a meno che non stiate prelevando energia da fonti diverse!"
+    ],
+    "quest.55702BE0151D33FE.title": "\\&Porti di accesso",
+    "quest.56DB53F255100136.quest_desc": [
+        "Avete bisogno di pantaloni ancora più sofisticati? Che ne dite se aggiorniamo i nostri pantaloni \"Unobtainium\" in pantaloni \"MekaSuit\"?\n\nQuesto comporterà anche l'acquisto di un \"Antimatter Pellet\", un \"Ultimate Induction Cells\" e alcuni \"Polonium Pellets\".\n\nVale la pena l'aggiornamento? Ma hanno solo le stesse statistiche di armatura dei pantaloni \"Netherite\"? E dovrebbero essere 4 aggiornamenti dopo i \"Netherite\"!\n\nSì... lo sono! Possiamo caricare i pantaloni \"MekaSuit\" e, invece che subire danni, i pantaloni \"MekaSuit\" utilizzeranno l'energia! In pratica, tutti i danni tranne quelli causati dalla magia...\n\nQuindi, utilizzateli in una \"Modification Station\" per aggiungere i \"Module Units\", che principalmente migliorano la vostra mobilità. Sì, questo può essere davvero importante!"
+    ],
+    "quest.56DB53F255100136.title": "Pantaloni da lavoro, modello MekaSuit",
+    "quest.58B5EF8EB72934C2.quest_desc": [
+        "L'unità \\&cJetpack \\&7Unit\\&r funzionerà come se indossaste il \\&5\\&lMekanism\\&r \\&cJetpack\\&r e il \\&a\\&lMekaSuit Bodyarmor\\&r.\n\nL'unità \\&cJetpack\\&r utilizza gli stessi comandi e necessita di \\&7Idrogeno\\&r come combustibile.\n\nPotete alimentarla con \\&7Idrogeno\\&r in 2 modi. Potete inserirla in una \\&5Macchina\\&r che contiene \\&7Idrogeno\\&r. Oppure, potrete utilizzarla mentre indossate il \\&a\\&lMekaSuit Helmet\\&r e siete immersi in \\&9Acqua\\&r, sfruttando la \\&9\\&lElectrolytic Breathing\\&r.\n\nNon potrete utilizzare questa \\&7Unit\\&r se avete attivo l'unità \\&dGravitational Modulating \\&7Unit\\&r."
+    ],
+    "quest.58B5EF8EB72934C2.quest_subtitle": "Bodyarmor",
+    "quest.58B5EF8EB72934C2.title": "\\&cJetpack \\&7 unità",
+    "quest.593CB120B657126C.quest_desc": [
+        "Ora possiamo finalmente preoccuparci della radioattività!\n\nIl \"Rifiuto Nucleare\" (e i suoi prodotti) è considerato \"radioattivo\". Ciò significa che deve essere contenuto all'interno di \"Contenitori per Rifiuti Radioattivi\".\n\nIl \"Rifiuto Nucleare\" (e i suoi prodotti) deve essere inserito e rimosso dai \"Contenitori per Rifiuti Radioattivi\".\n\nNon è possibile danneggiare i \"Contenitori\" o i \"Tubi\" che contengono materiali \"radioattivi\", altrimenti la \"radiazioni\" si diffonderebbero nel mondo.\n\nLa \"radioattività\" può anche provenire da \"reattori\" che perdono o si surriscaldano.\n\nCome gestiamo la \"radioattività\"? Utilizzando un \"equipamento di protezione\" e il tempo. Scoprite di più consultando la sua specifica missione!"
+    ],
+    "quest.593CB120B657126C.title": "\\&Radioattività",
+    "quest.5A088F8402230BA5.quest_desc": [
+        "I \"Porti\" per il reattore di fissione sono di fondamentale importanza. Il reattore avrà bisogno di \"Porti\" per il \"Combustibile\", il \"Refrigerante\" e i \"Rifiuti\"... quindi non funzionerà senza questi \"Porti\".\n\nI \"Porti\" possono essere posizionati all'interno di qualsiasi parte delle \"Mura\" del reattore di fissione, ma non sul bordo.\n\nAvremo bisogno di 4 di questi \"Porti\" e dovremo utilizzare il \"Configuratore\" per configurarli.\n\nInizialmente, i \"Porti\" saranno solo per l' \"Ingresso\", ma premendo il tasto destro sui \"Porti\" con il \"Configuratore\" passeranno a \"Uscita Rifiuti\" e poi a \"Uscita Refrigerante\".\n\nL' \"Ingresso\" accetterà sia il \"Combustibile Fissile\" che il \"Refrigerante\" come \"Acqua\" o Sodio.\n\nL' \"Uscita Rifiuti\" invierà i \"Rifiuti Nucleari\" fuori dal reattore di fissione.\n\nL' \"Uscita Refrigerante\" invierà il vapore se è stata utilizzata l'acqua come refrigerante, oppure, se è stato utilizzato il sodio, invierà il \"Sodio Superriscaldato\"."
+    ],
+    "quest.5A088F8402230BA5.title": "\\&Reattore di fissione (porta)",
+    "quest.5A4C9F7F81D6B9DB.quest_desc": [
+        "\\&5Unità di Modulazione Gravitazionale, come potete vedere dal nome, è un aggiornamento per l'unità \\&dGravitazionale Modulazione \\&7.\n\nEntrambe dovranno essere installate per poterle utilizzare!\n\nQuindi, cosa fanno queste funzionalità? Beh, smetterete immediatamente di muovervi quando smetterete di premere i tasti di movimento mentre siete in volo. Potrete salire più velocemente! E potrete volare sempre!"
+    ],
+    "quest.5A4C9F7F81D6B9DB.quest_subtitle": "Bodyarmor",
+    "quest.5A4C9F7F81D6B9DB.title": "\\&5Modulo di modulazione gravitazionale aggiuntivo \\&7",
+    "quest.5AC68C8A4024F4C9.quest_desc": [
+        "\\&aEnergy \\&7 unità\\&r possono essere utilizzate in tutte le parti del \\&aMekaSuit\\&r, compreso il \\&dMeka-Tool\\&r.\n\nPossiamo aggiungere 8 unità a ciascun \\&eItem\\&r. Ogni unità aggiunge più \\&aEnergy Storage\\&r all'\\&eItem\\&r.\n\nNo, non aumenta l'\\&aEnergy\\&r già presente. Non esiste l'\\&aEnergy\\&r gratuita!"
+    ],
+    "quest.5AC68C8A4024F4C9.quest_subtitle": "Tutto",
+    "quest.5AC68C8A4024F4C9.title": "\\&aEnergy \\&7Unità",
+    "quest.5AEA705D6A64A982.quest_desc": [
+        "Se avete un piccolo reattore a fissione principalmente per la produzione di \\&aPolonio\\&r, dovremmo utilizzarlo come una semplice misura di sicurezza!\n\nL'\\&aPolonio\\&r viene prodotto utilizzando un \\&e\\&lAttivatore di Neutroni Solari\\&r. È ovvio che ha bisogno di \\&e\\&lLuce\\&r per funzionare!\n\nQuindi, per evitare colli di bottiglia (che possono essere pericolosi, soprattutto quando si parla di \\&2\\&lReattori\\&r), possiamo spegnere il nostro \\&2\\&lReattore\\&r quando è notte!\n\nInnanzitutto, impostate il vostro \\&2\\&lFRLA\\&r su \"Attivazione\". Questo accenderà il \\&2\\&lReattore\\&r quando riceve un segnale \\&4Redstone\\&r e lo spegnerà quando non lo riceve.\n\nOra possiamo posizionare il nostro \\&e\\&lSensore di Luce\\&r e collegarlo al \\&2\\&lFRLA\\&r tramite \\&4Redstone\\&r.\n\nA quel punto, è pronto!"
+    ],
+    "quest.5AEA705D6A64A982.title": "Interruttore dell'orologio",
+    "quest.5B18676A77CD6069.quest_desc": [
+        "Mettete da parte i dispositivi \\&b\\&lAE2\\&r e \\&3\\&lRS2\\&r! Abbiamo ottenuto il \\&5\\&lMekanism\\&r!\n\nIl \\&e\\&lQuantum Item Orchestration\\&r (\\&e\\&lQIO\\&r) è uno spazio di archiviazione virtuale. Avremo bisogno di alcuni \\&eItems\\&r per aprirlo e utilizzarlo!\n\nInnanzitutto, è il componente principale del sistema, l'\\&e\\&lQIO Drive Array\\&r. È il punto di connessione e il componente attraverso il quale tutto passerà.\n\nNon richiede \\&aEnergia\\&r, ma come i \\&a\\&lTeleporters\\&r e i \\&5\\&lQuantum Entangloporters\\&r, dovrà essere configurato per connettersi a una rete. Anche gli altri \\&eItems\\&r che si collegano all'\\&e\\&lQIO Drive Array\\&r dovranno essere configurati per connettersi a quella rete.\n\nPer quanto riguarda gli \\&eQIO Drives, dobbiamo semplicemente inserirli all'interno dell'\\&e\\&lQIO Drive Array\\&r!"
+    ],
+    "quest.5B18676A77CD6069.quest_subtitle": "(QIO)",
+    "quest.5B18676A77CD6069.title": "\\&e\\&lOrchestrazione di elementi quantistici",
+    "quest.5B9F3F32AB28A83A.quest_desc": [
+        "L'interno, e la parte fondamentale, del \\&6\\&lCaldaia Elettrica\\&r è realizzato con blocchi di alta qualità!\n\n\\&6Elementi di Surriscaldamento\\&r che funzionano trasferendo \\&6Calore\\&r all'\\&9Acqua\\&r e \\&9Dispersori di Pressione\\&r che contribuiranno a creare il vapore!\n\nUtilizzando blocchi più grandi, possiamo creare uno spazio tra i diversi blocchi all'interno della \\&6\\&lCaldaia\\&r per aumentare lo spazio disponibile per lo \\&9Vapore\\&r e l'\\&9Acqua\\&r.\n\nL'aria tra la parte superiore e i \\&9Dispersori di Pressione\\&r contribuirà allo stoccaggio del \\&9Vapore\\&r. L'aria tra i \\&9Dispersori di Pressione\\&r e gli \\&6Elementi di Surriscaldamento\\&r creerà più spazio per l'\\&9Acqua\\&r."
+    ],
+    "quest.5B9F3F32AB28A83A.title": "La sezione \"Thermo\" del boiler elettrico \\&6\\&",
+    "quest.5CE7756D80E051CC.quest_desc": [
+        "Di solito, \\&8Soul Sand\\&r rallenta il movimento. Di solito...\\n\\nCon \\&8Soul Surfer \\&7Unit\\&r, potrete camminare normalmente su \\&8Soul Sand \\&fand \\&8Soil\\&r.\\n\\nCon un numero maggiore, potrete camminare ancora più velocemente su \\&8Soul Sand \\&fand \\&8Soil\\&r rispetto ad altri blocchi!\\n\\nEhi, forse i sentieri di \\&8Soul Sand\\&r non sono più una cattiva idea..."
+    ],
+    "quest.5CE7756D80E051CC.quest_subtitle": "Stivali",
+    "quest.5CE7756D80E051CC.title": "\\&8Soul Surfer \\&7Unit",
+    "quest.60A1AEEDB0C44663.quest_desc": [
+        "Ora, il \\&3\\&lC.D.C. dispone anche di un blocco Multiblock per un'elaborazione più efficiente!\n\nAvrete bisogno di un'apertura per l'inserimento di \\&eMateriale\\&r, un'apertura per l'inserimento di \\&aEnergia\\&r, e un'apertura per l'inserimento di \\&cAcido solforico\\&r, che è esclusiva per questo. Successivamente, dovrete utilizzare un'apertura per l'output di \\&cAcido solforico\\&r.\n\nSolo 3 blocchi alla volta? Non possiamo fare di meglio! Perché non utilizzare il \\&3\\&lC.D.C. Multiblock per elaborare 16 blocchi alla volta?"
+    ],
+    "quest.60A1AEEDB0C44663.title": "\\&3\\&lCamera di dissoluzione chimica a più moduli",
+    "quest.62B29AEF8468750E.quest_desc": [
+        "Aspetta, quindi possiamo raccogliere meno \\&mDamage\\&r e \\&aEnergy\\&r dalle \\&6Fonti di calore\\&r e convertirli in \\&aEnergy\\&r? Mi iscrivo!\n\nQuando camminerete su \\&6Magma\\&f, attraverso \\&6Fire\\&f, o in \\&6Lava\\&r, otterrete \\&aEnergy\\&r nei vostri \\&a\\&lMekaSuit Pants\\&r.\n\nSe avete un \\&aCharge Distribution \\&7Unit\\&r nel vostro \\&a\\&lMekaSuit Bodyarmor\\&r, questo caricherà anche le altre parti del \\&a\\&lMekaSuit\\&r."
+    ],
+    "quest.62B29AEF8468750E.quest_subtitle": "Pantaloni",
+    "quest.62B29AEF8468750E.title": "\\&6Generatore geotermico \\&7Unità",
+    "quest.63B0E39CA4B25A7E.quest_desc": [
+        "\\&dLa pasta nutrizionale\\&r è prodotta attraverso la lavorazione di qualsiasi \\&eArticolo\\&r che, una volta ingerito tramite un \\&d\\&lLiquidatore nutrizionale\\&r, produce la pasta.\n\nImmaginate un enorme frullatore! Tuttavia, non posso garantire che la \\&dPasta nutrizionale\\&r abbia un buon sapore...\n\nIl \\&aCasco MekaSuit\\&r può contenere la \\&dPasta nutrizionale\\&r e, grazie a questo \\&7Unità\\&r, la fornirà automaticamente quando i vostri punti di fame diminuiscono."
+    ],
+    "quest.63B0E39CA4B25A7E.quest_subtitle": "Casco",
+    "quest.63B0E39CA4B25A7E.title": "\\& Iniezioni nutrizionali \\& 7 unità",
+    "quest.6518480251F0565A.quest_desc": [
+        "Aspettate, se il \\&7Strumento di Coltivazione\\&r può creare sentieri, campi e tagliare alberi, perché non può fare lo stesso?\n\nAh, scusate, può farlo se si utilizza semplicemente l'unità \\&7di Coltivazione\\&r.\nTuttavia, sarà necessario abilitare questa opzione, che è configurata nelle impostazioni. Non è possibile creare terreno e campi dallo stesso prato.\n\nNon possiamo utilizzare questa unità con l'unità \\&7di Taglio\\&r o l'unità \\&5di Teletrasporto\\&r."
+    ],
+    "quest.6518480251F0565A.quest_subtitle": "Meka-Tool",
+    "quest.6518480251F0565A.title": "\\&2 Agricoltura \\&7 Unità",
+    "quest.67A9329C05F98633.quest_desc": [
+        "Onestamente, se non avete bisogno di più energia e preferite essere il più sicuri possibile con il vostro reattore, allora semplicemente eliminatelo!\n\nSì, è quello che intendo! Eliminate semplicemente il Steam!\n\nSo che molte cose sono importanti in Minecraft e di solito è meglio conservarle, piuttosto che buttarle via...\n\nMa il Steam è praticamente destinato solo a generare energia.\n\nSe non ne avete bisogno, eliminate tutto!"
+    ],
+    "quest.67A9329C05F98633.title": "Butta via!",
+    "quest.6A1174845810C7A1.quest_desc": [
+        "La \"Stazione di Modifica\" è il modo in cui possiamo inserire i nostri \"Moduli\" nei nostri strumenti e armature.\n\nAvrà bisogno di \"Energia\" per funzionare, ovviamente.\n\nQuando si fa clic con il tasto destro su una \"Stazione di Modifica\" (alimentata), si aprirà l'interfaccia utente. Qui possiamo visualizzare l'intero inventario, inclusi armature e oggetti da tenere in mano. Abbiamo anche uno schermo e 2 slot aggiuntivi.\n\nGli 2 slot aggiuntivi sono dove possiamo inserire i nostri \"Moduli\" (slot sinistro) e le armature o gli strumenti che desideriamo aggiungere (slot destro).\n\nUna volta inseriti entrambi negli slot, verranno automaticamente aggiunti all'oggetto. Se rimangono nello slot, possiamo visualizzare i \"Moduli\" installati nell'oggetto sullo schermo.\n\nSe desiderate rimuovere un \"Modulo\", cliccate su di esso sullo schermo e quindi premete il pulsante \"Rimuovi\".\n\nQuando abbiamo installato i \"Moduli\", possiamo premere \"(\" per visualizzare le loro configurazioni. Qui possiamo abilitare o disabilitare i moduli, e molto altro!"
+    ],
+    "quest.6A1174845810C7A1.title": "\\&l\\&7Stazione di modifica",
+    "quest.6B3BD54A34EB02C2.quest_desc": [
+        "\\&aFornitori di induzione\\&r sono posizionati all'interno della \\&a\\&lMatrice di induzione energizzata\\&r e aumenteranno la quantità di \\&a\\&Energia\\&r che possono immagazzinare e rilasciare.\n\nE sì, i loro valori si sommeranno!\n\n\\&aFornitori di induzione base\\&r: immagazzinano e rilasciano 102,4 kFE per ogni ciclo.\n\n\\&cFornitori di induzione avanzati\\&r: immagazzinano e rilasciano 819,2 kFE per ogni ciclo.\n\n\\&bFornitori di induzione di livello superiore\\&r: immagazzinano e rilasciano 6,55 milioni di kFE per ogni ciclo."
+    ],
+    "quest.6B3BD54A34EB02C2.quest_subtitle": "Trasporto",
+    "quest.6B3BD54A34EB02C2.title": "\\&Fornitori di formazione",
+    "quest.6B56F92E28C92A0F.quest_desc": [
+        "L'\\&eSolar Neutron Activator\\&r è una delle macchine più semplici da bloccare... proviamo a evitarlo con questo sistema modulare!\n\nIn modo strano, non avremo bisogno di \\&aEnergia\\&r qui, ma avremo solo bisogno di \\&cInput e Output chimici.\n\nAspetta, se la versione standard utilizza il Tempo e il \\&eGiorno, questa utilizza gli stessi parametri?\n\nSì, dovrà essere attiva durante il \\&eGiorno\\&r per funzionare. Inoltre, avrà bisogno di un blocco di contatore del tempo per creare le ricette. Questi blocchi possono essere posizionati ovunque all'interno del sistema modulare, ma non possono sostituire altri blocchi."
+    ],
+    "quest.6B56F92E28C92A0F.title": "\\&e\\&lAttivatore di neutroni solare a più blocchi",
+    "quest.6B7E13AB3BF2C5C8.quest_desc": [
+        "L'impianto thermoelectric, indicato come \"\\&6lThermoelectric Boiler\\&r\", è costruito in modo simile al reattore \"\\&2lFission Reactor\\&r\", con un involucro esterno composto solo da materiali di contenimento, vetro e porte, mentre l'interno contiene tutti i componenti essenziali!\n\nI bordi del \"\\&6lBoiler\\&r\" dovranno essere realizzati con \"\\&6Boiler Casings\\&r\". Il tetto e il pavimento possono essere interamente realizzati con \"\\&6Casings\\&r\" o, in alternativa, la parte centrale può essere realizzata in vetro!\n\nAnche le pareti sono simili, ma ora includono \"\\&6Boiler Ports\\&r\".\n\nL'interno contiene i nostri \"\\&9Pressure Dispersers\\&r\" e \"\\&6Superheating Elements\\&r\". Il tetto può essere dotato di uno spazio tra il soffitto e i \"\\&9Pressure Dispersers\\&r\" per creare più spazio per il vapore.\n\nPossiamo anche creare più spazio sotto i \"\\&9Pressure Dispersers\\&r\" e sopra i \"\\&6Superheating Elements\\&r\" per creare più spazio per l'acqua.",
+        "{@pagebreak}",
+        "L'impianto thermoelectric \\&6\\&lThermoelectric Boiler\\&r da solo non sarà molto efficace; avrà bisogno di alcune \\&6Porte\\&r per introdurre i nostri \\&cProdotti Chimici\\&f e i \\&bFluidi\\&r per avviarlo!\n\nAttualmente, ci concentreremo sul raffreddamento del \\&6Superheated Sodium\\&r! Per questo, avremo bisogno di \\&6Superheated Sodium\\&r e di \\&9Acqua\\&r all'interno dell'\\&6\\&lBoiler\\&r.\n\nUna volta che il \\&6Superheated Sodium\\&r sarà presente, la \\&6Temperatura\\&r dell'\\&6\\&lBoiler\\&r inizierà ad aumentare. Con l'aggiunta di \\&9Acqua\\&r, il \\&6Superheated Sodium\\&r si raffredderà, mentre l'acqua bollerà, producendo vapore.\n\nPiù alta è la \\&6Temperatura\\&r, più velocemente l'acqua bollerà e il \\&6Superheated Sodium\\&r si raffredderà. Se desideriamo\/abbiamo bisogno di ulteriore \\&6Calore\\&r, possiamo utilizzarlo tramite i \\&6Conduttori Termodinamici\\&r.\n\nPossiamo utilizzare il \\&6Calore\\&r proveniente da \\&6Resistive Heaters\\&r o addirittura da \\&2\\&lFission Reactors\\&r!",
+        "{@pagebreak}",
+        "Questo Multiblock può essere realizzato in qualsiasi dimensione disponibile, non solo quella mostrata nelle immagini. Le immagini mostrano semplicemente la dimensione più piccola che possiamo produrre.",
+        "{image:atm:textures\/questpics\/mek\/mek_boiler1.png width:100 height:75 align:center}",
+        "{image:atm:textures\/questpics\/mek\/mek_boiler2.png width:100 height:100 align:center}",
+        "{image:atm:textures\/questpics\/mek\/mek_boiler3.png width:110 height:100 align:center}",
+        "{image:atm:textures\/questpics\/mek\/mek_boiler4.png width:100 height:110 align:center}"
+    ],
+    "quest.6B7E13AB3BF2C5C8.title": "\\&6\\&Caldaia elettrica",
+    "quest.6C1F7A0B330B3F42.quest_desc": [
+        "L'armatura \\&a\\&lMekaSuit \\&f\\&mBodyarmor\\&r, sarà un aggiornamento per l'armatura \\&5Unobtainium \\&f\\&mBodyarmor\\&r \\&5Chestplate\\&r.\n\nTuttavia, per poterla aggiornare, sarà necessario aggiungere anche altri oggetti, come un \\&dPellet di antimateria, \\&aPellet di polonio, e persino una \\&dCellula di induzione definitiva!\n\nL'armatura \\&a\\&lMekaSuit \\&f\\&mBodyarmor\\&r, senza \\&aEnergia, funzionerà esattamente come un \\&cChestplate di Netherite. E se si aggiunge l'\\&aEnergia? Potrebbe bloccare tutti i danni, ad eccezione di quelli magici, e utilizzerebbe l'\\&aEnergia invece della salute!\n\nPossiamo inserire l'armatura in una \\&7\\&lStation di Modifica\\&r per aggiungere \\&7Unità Modulo, che la aggiornano! L'armatura \\&a\\&lMekaSuit \\&f\\&mBodyarmor\\&r ha il maggior numero di \\&7Unità Modulo di tutte le armature, quindi vale la pena controllarle!"
+    ],
+    "quest.6C1F7A0B330B3F42.title": "\\&a\\&lBody armor per MeKa",
+    "quest.6CCE920735187234.quest_desc": [
+        "La \\&9\\&lTurbina\\&r ha almeno le dimensioni di 5x7x5 \\&5unità\\&r, ma può essere ampliata per contenere più vapore e generare più \\&aenergia\\&r!\n\nLa struttura della \\&9\\&lTurbina\\&r è realizzata con \\&9Gabbie per turbina\\&r. Il pavimento e il soffitto possono essere riempiti con \\&9Gabbie per turbina\\&r o vetro strutturale.\n\nPrima di preoccuparci delle pareti, concentriamoci all'interno! È lì che si genera il vero valore!\n\nAl centro, dal pavimento, saranno posizionate le nostre \\&9Rotore\\&r. Per il più piccolo, ne avremo bisogno di 2! Quindi, aggiungiamo le \\&9Pale\\&r, per un totale di 4.\n\nSopra il \\&9Rotore\\&r più alto, posizioneremo il nostro \\&9Complesso rotatorio\\&r e lo circonderemo con \\&9Dispersori di pressione\\&r.\n\nLo strato sopra il \\&9Complesso rotatorio\\&r sarà composto da \\&aBobine elettromagnetiche\\&r e sopra a queste, posizioneremo i nostri \\&9Condensatori di saturazione\\&r.\n\nOra possiamo inserire le nostre \\&9Porte\\&r e \\&9Ventilazioni nelle pareti e riempire il resto con \\&9Gabbie per turbina\\&r o vetro strutturale!",
+        "{@pagebreak}",
+        "Fortunatamente, la \\&9\\&lTurbine\\&r è molto più facile da usare rispetto a Build!\n\nÈ possibile collegare la \\&9\\&rTube\\&r a Steam tramite la \\&9\\&rPort\\&r e dovrebbe iniziare a girare. La quantità di Steam che può contenere è determinata dalle dimensioni dell'intera \\&9\\&lTurbine\\&r Build.\n\nA quel punto, i \\&9Rotors \\&fand \\&9Blades\\&r inizieranno a girare a causa del vapore che sale attraverso la \\&9\\&lTurbine\\&r. Questo muoverà il \\&9Rotational Complex\\&r, che a sua volta muoverà gli \\&aElectromagnetic Coils\\&r, producendo \\&aEnergy\\&r!\n\nL'\\&aEnergy\\&r può essere estratta tramite il nostro secondo \\&9Port\\&r. La quantità di \\&aEnergy\\&r dipende dalla velocità con cui girano i \\&9Rotors \\&fand \\&9Blades\\&r. Questa velocità dipende, a sua volta, dalla quantità di vapore che viene immessa nella \\&9\\&lTurbine\\&r.\n\nSe utilizziamo i \\&9Saturating Condensers\\&r, otterremo un po' d'acqua dal nostro vapore. Possiamo prelevare questa acqua dai \\&9Vents\\&r e reintrodurla nel nostro \\&2\\&lFission Reactor\\&r!\n\nAbbiamo un'impostazione all'interno dell'interfaccia utente della \\&9\\&lTurbine\\&r, simile a quelle presenti nell' \\&9\\&lElectrolytic Separator\\&r. Possiamo scegliere di scaricare l'eccesso di vapore, o di mantenerlo costantemente in funzione per la massima produzione di \\&aEnergy\\&r. Possiamo scaricare il vapore, nel caso in cui desideriate eliminarlo... oppure impostare la modalità \"Idle\", che è la predefinita! Se utilizzate un'altra modalità, non riciclerete l'acqua dal vapore.",
+        "{@pagebreak}",
+        "Questo Multiblock può essere realizzato in qualsiasi dimensione disponibile, non solo quella mostrata nelle immagini. Le immagini mostrano semplicemente la dimensione più piccola che possiamo produrre.",
+        "{image:atm:textures\/questpics\/mek\/mek_turbine1.png width:100 height:100 align:center}",
+        "{image:atm:textures\/questpics\/mek\/mek_turbine2.png width:100 height:100 align:center}",
+        "{image:atm:textures\/questpics\/mek\/mek_turbine3.png width:110 height:100 align:center}",
+        "{image:atm:textures\/questpics\/mek\/mek_turbine4.png width:100 height:100 align:center}",
+        "{image:atm:textures\/questpics\/mek\/mek_turbine5.png width:100 height:110 align:center}",
+        "{image:atm:textures\/questpics\/mek\/mek_turbine6.png width:100 height:120 align:center}",
+        "{image:atm:textures\/questpics\/mek\/mek_turbine7.png width:100 height:125 align:center}"
+    ],
+    "quest.6CCE920735187234.title": "\\&9\\&lTurbina",
+    "quest.6D7D0A5313284B53.quest_desc": [
+        "Ciao, ottimi stivali! Gli stivali \\&a\\&lMekaSuit sono un aggiornamento per gli stivali \\&5Unobtainium.\n\nNo, non solo gli stivali \\&5Unobtainium, ma avrai anche bisogno di \\&dAntimateria\\&r, \\&aPolonio\\&r e di una \\&dCella di induzione definitiva!\n\nTi interessa davvero lo stato degli stivali? Chi sta colpendo i tuoi piedi? Ah, quasi dimenticavo, i danni da caduta.\n\nBeh, se non è caricata, proteggerà allo stesso modo degli stivali \\&cNetherite... ma se è caricata, utilizzerà \\&aEnergia\\&r per proteggerti.\n\nLa \\&7Stazione di modifica\\&r è una \\&5Macchina\\&r che possiamo utilizzare per aggiungere \\&7Unità modulari\\&r per aggiornare le nostre \\&a\\&lMekaSuit, inclusi gli \\&a\\&lStivali. Questi aggiornamenti sono simili a molti incantesimi!"
+    ],
+    "quest.6D7D0A5313284B53.title": "Scarpe da lavoro \"MekaSuit\"",
+    "quest.71766BD7321FCB13.quest_desc": [
+        "Ottimo, un altro reagente chimico!\n\nCombinare l'ossido di uranio e l'acido fluoridrico per creare l'ossido di uranio esafuoruro.\n\nOra possiamo trattare l'ossido di uranio esafuoruro utilizzando una centrifuga isotopica per ottenere finalmente il combustibile desiderato."
+    ],
+    "quest.71766BD7321FCB13.title": "\\&Carburante fissile",
+    "quest.7177653B736AB10E.quest_desc": [
+        "Possiamo combinare il deuterio e il tritio in un \"infusore chimico\" per creare il nostro \"carburante 5D-T\". Possiamo anche semplicemente versare entrambi i \"carburanti\" nel \"reattore di fusione\" e combinarli all'interno del reattore.\n\nSe versiamo semplicemente il \"carburante 5D-T\", verrà iniettato alla velocità con cui viene versato. Ma se versiamo sia il deuterio che il tritio e li combiniamo all'interno del reattore, possiamo scegliere la velocità di iniezione desiderata!\n\nAvremo anche bisogno di una piccola quantità di \"carburante 5D-T\" all'interno di un \"vuoto controllato\" e inserirlo nel \"reattore di fusione\" per l'avvio iniziale.\n\nCome si crea un \"vuoto controllato\"? Basta infondere polvere d'oro con 10mg di carbonio in un \"infusore metallurgico\" per creare il \"vuoto controllato\".\n\nAh, ma esce vuoto, quindi lo mettiamo in una \"macchina\" che contiene il \"carburante 5D-T\" per riempirla. Quindi, lo inseriamo nello slot nell'interfaccia grafica del \"reattore di fusione\" e voilà!"
+    ],
+    "quest.7177653B736AB10E.title": "\\&5D-T Carburante",
+    "quest.72B7C09AFA2245E1.quest_desc": [
+        "L'\\&c\\&lChemical \\&eOxidizer\\&r ora ha un aggiornamento! Molto utile per chi automatizza il \\&9\\&lMetallurgic Infuser\\&r.\n\nAvrete bisogno di un \\&aInput energetico\\&r e di un \\&eInput di oggetti\\&r, seguiti da un \\&cOutput di sostanze chimiche\\&r.\n\nOra possiamo trasformare 32 unità di polvere in 320 unità di \\&cChemical\\&r, oppure 32 \\&eItems\\&r arricchite in 2.560 unità di \\&cChemical\\&r."
+    ],
+    "quest.72B7C09AFA2245E1.title": "\\&c\\&l: Prodotti chimici e ossidanti, multi-blocco",
+    "quest.7310BBC4A90EDA9D.quest_desc": [
+        "Il pannello di controllo \\&eQIO\\&r ci permette di visualizzare il nostro sistema \\&eQIO\\&r da qualsiasi luogo! \\n\\nClicca con il tasto destro sull'elemento \\&eItem\\&r per aggiungerlo alla tua collezione! \\n\\nOra puoi cliccare con il tasto destro e impostare una frequenza di rete per il tuo sistema \\&eQIO\\&r. \\n\\nCon questo piccolo strumento, possiamo fare tutto ciò che fa il pannello di controllo \\&eQIO\\&r!"
+    ],
+    "quest.7310BBC4A90EDA9D.title": "\\&eDashboard QIO portatile",
+    "quest.77B6A7151B3E5980.quest_desc": [
+        "\\&aVein Mining\\&r è una versione limitata di FTB Ultimine.\n\nQuando estraiamo minerali o risorse, gli stessi blocchi collegati verranno distrutti insieme.\n\nQuesto ci fa risparmiare molto tempo... ma abbiamo anche FTB Ultimine, quindi..."
+    ],
+    "quest.77B6A7151B3E5980.quest_subtitle": "Meka-Tool",
+    "quest.77B6A7151B3E5980.title": "\\&A Vein Mining \\& 7 Unità",
+    "quest.7846B7FFC3DD85C5.quest_desc": [
+        "L'apparecchiatura \\&d\\&lSuper-Critical Phase Shifter\\&r (\\&d\\&lS.P.S.\\&r) trasformerà il nostro \\&aPolonio\\&r in \\&dAntimateria\\&r.\n\nPer farlo, avremo bisogno di \\&aPolonio\\&r, \\&aEnergia\\&r, un luogo in cui mescolarle, e un luogo in cui estrarre la \\&dAntimateria\\&r!\n\nQuindi, avremo bisogno di un \\&dPort\\&r per ciascuno di questi elementi!\n2 \\&dPort\\&r per l' \\&aEnergia\\&r sui lati, 1 \\&dPort\\&r per fornire l' \\&aPolonio\\&r all' \\&d\\&lSPS\\&r, e l'ultimo per estrarre la nostra \\&dAntimateria\\&r."
+    ],
+    "quest.7846B7FFC3DD85C5.title": "\\&dSPS Porte",
+    "quest.7864C8F2CBC910CB.quest_desc": [
+        "L'elmetto \\&a\\&lMekaSuit è ovviamente la parte che indossi sulla testa. Avrai bisogno di \\&dPellet di Antimateria\\&r, \\&dPellet di Polonio\\&r, una \\&dCella di Induzione Ultima\\&r, e molto altro!\n\nFunziona come un aggiornamento per gli elmetti \\&5Unobtainium Helmets\\&r. Anche se ha meno punti di armatura, funziona in modo diverso dagli \\&5Unobtainium Helmets\\&r.\n\nSe l'elmetto \\&a\\&lMekaSuit non è caricato, funzionerà con statistiche simili a quelle di un elmetto \\&cNetherite Helmet\\&r, ma ecco la parte divertente! Gli elmetti \\&a\\&lMekaSuits bloccheranno tutti i danni (ma non quelli magici) e consumeranno \\&aEnergia\\&r.\n\nInoltre, quando indossato, mostrerà sulla nostra interfaccia utente: le nostre coordinate, l'\\&aEnergia\\&r all'interno dell'elmetto \\&a\\&lMekaSuit\\&r, e sostituirà i punti di armatura con una \\&aBarra di Energia\\&r.\n\nPossiamo utilizzare la \\&7\\&lStation di Modifica\\&r per fornire aggiornamenti all'elmetto \\&a\\&lMekaSuit\\&r, come una maggiore \\&aEnergia\\&r per subire ancora meno danni! Possibilità di respirare sott'acqua, protezione contro la \\&aRadiazione\\&r, e persino la \\&eRicarica Solare\\&r!"
+    ],
+    "quest.7864C8F2CBC910CB.title": "\\&a\\&lCasco MekaSuit",
+    "quest.795B80BF12D23897.quest_desc": [
+        "È nel nome, ma non tutti lo sapranno.\n\nQuando si cammina sull'acqua con stivali incantati con \"Frost Walker\" o con stivali \"MekaSuit\" dotati di \"Frost Walker\", l'acqua si trasformerà in ghiaccio!\n\nTuttavia, il ghiaccio non durerà per sempre, si scioglierà presto!\n\nPiù \"Frost Walker\" si utilizza, più si crea ghiaccio!"
+    ],
+    "quest.795B80BF12D23897.quest_subtitle": "Stivali",
+    "quest.795B80BF12D23897.title": "\\&bFrost Walker \\&7Unit",
+    "quest.7B0764DDE94E73D0.quest_desc": [
+        "Per i reattori più grandi, avremo bisogno di un sistema di sicurezza più avanzato.\nIn questo caso, il nostro reattore dovrà avere almeno 5 blocchi di larghezza. Questo fornirà 3 blocchi di larghezza per i nostri due reattori.\n\nPosizionate uno dei nostri reattori all'interno del reattore principale e impostatelo su \"Alta Temperatura\" o \"Danno Critico\". Quindi, posizionate il secondo reattore almeno a 1 blocco di distanza, mantenendo lo stesso livello Y. Il secondo reattore dovrà essere impostato su \"Attivazione\".\n\nOra, passiamo al Redstone!\n\nPosizionate un ripetitore Redstone rivolto verso l'esterno dal primo reattore. Quindi, dove si trova il ripetitore, posizionate un blocco che possa trasmettere segnali Redstone.\n\nSu quel blocco, posizionate una torcia Redstone nella direzione in cui si trova il secondo reattore.\n\nSuccessivamente, posizionate della polvere Redstone accanto alla torcia, mantenendo lo stesso livello X\/Z del secondo reattore. Infine, posizionate un secondo ripetitore Redstone che vada dalla polvere Redstone al secondo reattore."
+    ],
+    "quest.7B0764DDE94E73D0.title": "Funzione di sicurezza avanzata",
+    "quest.7B385FD1CBE02C85.quest_desc": [
+        "Se utilizziamo l'acqua come refrigerante, otterremo vapore come sottoprodotto! \\n\\nQuindi, cosa facciamo con questo vapore?"
+    ],
+    "quest.7B385FD1CBE02C85.title": "Vapore",
+    "quest.7C7BD54624ED9AC2.quest_desc": [
+        "Semplicemente \"Creative Flight\".\n\nNon è compatibile con il modulo \"\\&cJetpack \\&7Unit\\&r\" e, ovviamente, utilizzerà l'energia \"\\&aEnergy\\&r\" per volare!\n\nAll'interno delle sue impostazioni, è possibile anche aumentare la velocità di volo."
+    ],
+    "quest.7C7BD54624ED9AC2.quest_subtitle": "Bodyarmor",
+    "quest.7C7BD54624ED9AC2.title": "\\& Modulatore gravitazionale \\& Unità 7",
+    "quest.7D279FC39DA5C630.quest_desc": [
+        "Non abbiamo ancora finito con il nostro acido solforico e ossido di zolfo! Tuttavia, avremo bisogno di vapore acqueo per procedere.\n\nPer ottenere il vapore acqueo, possiamo utilizzare il condensatore rotativo per trasformare l'acqua in vapore acqueo!\n\nAncora più acido! Combinare il nostro acido solforico e ossido di zolfo per ottenere acido solforico.\n\nBeh, ora abbiamo un acido... ma non è quello giusto...\n\nAh, sì, avremo bisogno di fluorite, che possiamo ottenere estraendo minerali. Quindi, utilizzare la camera di dissoluzione chimica per diluire l'acido solforico con fluorite e ottenere finalmente l'acido fluoridrico!"
+    ],
+    "quest.7D279FC39DA5C630.title": "e SO3 in acido fluoridrico",
+    "quest.7E3C84D7FCEC9D52.quest_desc": [
+        "Il reattore di fissione più piccolo (funzionante) che possiamo realizzare ha dimensioni di 3x4x3.\n\nLa base e la struttura dovranno essere realizzate con l'\\&2\"Guscio del reattore di fissione\\&r, mentre l'interno dovrà essere o vuoto, oppure contenere l'\\&2\"Assemblaggio di barre di combustibile\\&r o l'\\&2\"Assemblaggio di barre di controllo\\&r!\n\nL'interno delle pareti (non i bordi) può contenere i nostri \\&2\"Porti del reattore\\&r o l'\\&2\"FRLA\\&r, mentre il resto può essere riempito con \\&2\"Vetro del reattore\\&r.\n\nUna volta costruito il nostro \\&2\"Reattore di fissione\\&r, è possibile fare clic con il tasto destro in qualsiasi punto (eccetto l'\\&2\"FRLA\\&r) sul \\&2\"Reattore\\&r per aprire la sua interfaccia utente.",
+        "{@pagebreak}",
+        "Questo potrebbe sembrare piuttosto complesso per i nuovi giocatori, quindi lo esamineremo attentamente per comprenderlo meglio!\n\nNella parte superiore, possiamo vedere 4 diverse barre. Queste mostrano la quantità di \\&2Carburante fissile\\&f, \\&bRefrigerante\\&f, \\&6Refrigerante riscaldato\\&f e \\&8Rifiuti nucleari\\&r.\n\nTra le barre, troveremo il menu principale del \\&2Reattore\\&r. Ci indicherà se è acceso o spento, quanta \\&2Carburante fissile\\&r viene consumata ad ogni ciclo, quanto aumenta la temperatura ad ogni ciclo e quanto danno ha subito il \\&2Reattore\\&r!\n\nSotto tutto ciò, vedremo 2 pulsanti! Uno per accendere il \\&2Reattore\\&r, con l'etichetta \"Attiva\", e l'altro per spegnerlo, con l'etichetta \"SCRAM\". Accanto al pulsante \"SCRAM\" troveremo un'immagine piccola per aiutare i giocatori a capire se il reattore è acceso o spento: verde quando è acceso, rosso quando è spento.\n\nSotto questi pulsanti, vedremo quanto è caldo il nostro \\&2Reattore\\&r, e sotto, una rappresentazione grafica del cambiamento di temperatura.",
+        "{@pagebreak}",
+        "Al di fuori di questo menu, è possibile cliccare sulla scheda superiore per visualizzare le statistiche.\n\nLa scheda principale mostra quanto calore può essere immagazzinato fino a quando non si verifica il danno, quanto spazio è disponibile per il reattore e quanto efficacemente viene utilizzato il calore per consumare il carburante.\n\nIl resto è basato sulla quantità di carburante che può essere consumato ad ogni intervallo di tempo. È possibile impostare un limite nella casella di tipo. Inoltre, è impostato a mB per intervallo!\n\nL'altra scheda, che si trova sul lato del menu principale, è dedicata alla temperatura.\n\nMostrerà anche il tasso di dissipazione, nonché l'unità di temperatura visualizzata. È possibile modificare l'unità di temperatura cliccando sulla scheda. È probabile che utilizzi F (Fahrenheit) o C (Celsius), ma è anche possibile utilizzare K (Kelvin), R (Rankine) o STP (Temperatura e pressione standard)!",
+        "{@pagebreak}",
+        "MELTDOWNS!\n\nIl reattore \\&2\\&lFission\\&r esploderà se raggiunge il 250% di danno. Quando esplode, distruggerà i blocchi, innescherà incendi e, peggio di tutto... diffonderà la \\&aRadiazione\\&r!\n\nDobbiamo evitarlo!\n\nIl danno aumenterà quando la temperatura supererà i 1.200K. Dobbiamo utilizzare i \\&bRefrigeranti\\&r per mantenere la temperatura sotto controllo.\n\nAssicuriamoci che ci sia un approvvigionamento costante di \\&bRefrigerante\\&r e che l'output di \\&bRefrigerante\\&r non si blocchi. Se ciò accade, non sarà possibile utilizzare più \\&bRefrigerante\\&r e la temperatura aumenterà.\n\nFUORIUSCITE!\n\nAnche le fuoriuscite di \\&aRadiazione\\&r possono verificarsi se la barra \\&8Rifiuti Nucleari\\&r è piena. Ciò diffonderà la \\&aRadiazione\\&r nell'area circostante il \\&2\\&lReattore\\&r. Evitiamolo rimuovendo costantemente l'\\&8Rifiuti Nucleari\\&r e, inoltre, utilizzando il \\&2FRLA\\&r per sapere quando l'\\&8Rifiuti\\&r sono pieni!",
+        "{@pagebreak}",
+        "Questo Multiblock può essere realizzato in qualsiasi dimensione disponibile, non solo quella mostrata nelle immagini. Le immagini mostrano semplicemente la dimensione più piccola che possiamo produrre.",
+        "{image:atm:textures\/questpics\/mek\/mek_fission1.png width:100 height:75 align:center}",
+        "{image:atm:textures\/questpics\/mek\/mek_fission2.png width:100 height:100 align:center}",
+        "{image:atm:textures\/questpics\/mek\/mek_fission3.png width:100 height:100 align:center}",
+        "{image:atm:textures\/questpics\/mek\/mek_fission4.png width:100 height:110 align:center}"
+    ],
+    "quest.7E3C84D7FCEC9D52.quest_subtitle": "Dividere un singolo elemento in due",
+    "quest.7E3C84D7FCEC9D52.title": "\\&2\\&Reattore a fissione",
+    "quest.7ECE00D12CFC50A4.quest_desc": [
+        "L'unità \"\\&7Unit\" \"\\&bSilk Touch\\&\" fungerà da incantesimo \"Silk Touch\" per lo strumento \"\\&dMeka-Tool\\&\".\n\nMa non solo per l'ascia, ma anche per la pala e altri strumenti all'interno dello \"\\&dMeka-Tool\\&\"!\n\nIn questo modo potrete raccogliere pietra, minerali, erba e micelio.\n\nNon possiamo utilizzare questa unità \"\\&7Unit\" \"\\&bSilk Touch\\&\" insieme all'unità \"\\&dOre Refinement\\&\" su uno \"\\&dMeka-Tool\\&\"."
+    ],
+    "quest.7ECE00D12CFC50A4.quest_subtitle": "Meka-Tool",
+    "quest.7ECE00D12CFC50A4.title": "\\&Tatto di seta \\&7Unità",
+    "task.11151860F09B78E1.title": "Motori \\&eQIO",
+    "task.151AF2F49AAEBBDA.title": "\\&aCelle di induzione",
+    "task.363BADA865C39474.title": "Tutti i diritti riservati",
+    "task.496C4FDD2515EB24.title": "\\&Fornitori di formazione",
+    "task.59F0226D83026397.title": "Tutti i diritti riservati"
+}

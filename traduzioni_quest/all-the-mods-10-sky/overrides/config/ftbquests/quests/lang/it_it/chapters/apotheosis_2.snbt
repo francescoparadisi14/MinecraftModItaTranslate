@@ -1,0 +1,139 @@
+{
+    "quest.0B19BF090C21FDB9.quest_desc": [
+        "In un mondo Skyblock, può essere difficile trovare animali. Il Mercato mira a semplificare questo processo, consentendoti di acquistare uova di alcuni animali in cambio di un diamante. Inoltre, ti fornirò un diamante in omaggio."
+    ],
+    "quest.0B19BF090C21FDB9.quest_subtitle": "Uova di creature generate dagli animali",
+    "quest.0D6D45DBA64E612D.quest_desc": [
+        "Il \"Massimo Ritardo di Generazione\" indica quanto tempo può impiegare la generazione di mostri. Come per il \"Minimo\", può variare da 20 a 32.767. Ogni \"orologio\" modifica la velocità del generatore di mostri di 10 unità. La velocità è espressa in \"tick\", dove 20 tick equivalgono a 1 secondo. Pertanto, il ritardo di generazione più breve sarebbe di 1 secondo tra ogni generazione."
+    ],
+    "quest.0D6D45DBA64E612D.title": "Ritardo massimo di generazione",
+    "quest.0E02CE4469FCA4C9.quest_desc": [
+        "Redstone Activation fornisce al tuo spawner una funzione di accensione\/spegnimento. Senza alimentazione tramite Redstone, non sarà in grado di generare entità."
+    ],
+    "quest.0E02CE4469FCA4C9.title": "Redstone attivo",
+    "quest.0F0E227FC3EC0D90.quest_desc": [
+        "Questi sono generatori di risorse forniti da mod, oltre ad Apothic Spawners."
+    ],
+    "quest.0F89BFD4A3F63A48.quest_desc": [
+        "Alcune creature (principalmente mostri) necessitano di livelli di luce specifici per comparire. Quelle ostili richiedono livelli inferiori, mentre quelle passive ne necessitano di livelli più alti. L'uso di una Lanterna dell'Anima elimina la necessità di preoccuparsi dei livelli di luce, in quanto ignora questi requisiti! Questo non significa che non siano comunque necessari altri requisiti per la comparsa, come ad esempio il fatto che gli animali (come il bestiame) abbiano bisogno dell'erba."
+    ],
+    "quest.0F89BFD4A3F63A48.title": "Ignora la luce",
+    "quest.1102B27CBF564127.quest_desc": [
+        "Gli agitatori di Spawner sono diversi dagli altri oggetti di modifica elencati. Invece di utilizzare i mod di Apothic Spawners, questo viene fornito da PneumaticCraft. Senza i mod di Apothic Spawners inclusi nel pacchetto, l'utilizzo di un agitatore su uno Spawner farà sì che gli mob appaiano ovunque si trovi il giocatore. Con i mod di Apothic Spawners, che abbiamo, questo non cambierà, ma impedirà agli mob già creati di scomparire se il giocatore lascia la sezione."
+    ],
+    "quest.1102B27CBF564127.quest_subtitle": "Non sparite, non lasciate i giocatori soli!",
+    "quest.167E1474644C9908.quest_desc": [
+        "Il Quartz fa l'opposto di ciò che fa l'altro oggetto. Se si ha il Quartz nella mano sinistra e l'altro oggetto di modifica dello Spawner nella mano destra, esso eseguirà l'azione opposta. Se si utilizzano il Quartz e i Bastoni di Fuoco, invece di aumentare l'area di generazione, la diminuirà. Se si utilizzano il Quartz e le Lacrime di Ghast, invece di aumentare il numero massimo di entità, lo diminuirà."
+    ],
+    "quest.167E1474644C9908.title": "Giorno inverso",
+    "quest.186593EBCE3FE8D8.quest_desc": [
+        "La zona di spawn è l'area in cui possono comparire i mostri. Maggiore è l'area, maggiore è lo spazio disponibile per la loro comparsa. Una zona più piccola significa un costo di fabbricazione inferiore."
+    ],
+    "quest.186593EBCE3FE8D8.title": "Raggio di spawn",
+    "quest.18E0F5A78F696FA3.quest_desc": [
+        "I frammenti di eco conferiscono un effetto speciale allo spawner. Tutti i mostri generati avranno il loot che rilasciano moltiplicato."
+    ],
+    "quest.18E0F5A78F696FA3.title": "Risonanza; eco",
+    "quest.1AD87CB3226ED224.quest_desc": [
+        "La lana fa solo una cosa: silenzia lo spawner. Se non gradite i rumori fastidiosi dello spawner, usate la lana! Disponibile in qualsiasi colore, con qualsiasi tipo di filatura e design!"
+    ],
+    "quest.1AD87CB3226ED224.title": "State più tranquilli, altrimenti risveglierete gli altri!",
+    "quest.21C2458FED19363C.quest_desc": [
+        "Utilizza il comando \"\\&aEssence\\&r\" insieme a uno strumento di imprigionamento per creare una copia di quella creatura."
+    ],
+    "quest.21C2458FED19363C.quest_subtitle": "Il \"Spawner\" di Industrial Foregoing",
+    "quest.223A5BDB5056B781.quest_desc": [
+        "\"Capturing\" è un incantesimo per le spade che rende molto meno probabile che i mostri facciano cadere le uova. È un incantesimo raro, quindi continua a cercarlo e consulta la guida \\&5\\&lApothic Enchanting\\&r per maggiori informazioni. Ogni livello ti offre una probabilità del 0,5% di ottenere un uovo ad ogni uccisione, e il livello più alto che puoi normalmente ottenere è il VII (7)."
+    ],
+    "quest.263860CADB3D76C6.quest_desc": [
+        "Il \"Powered Spawner\" è lo Spawner creato utilizzando EnderIO. Innanzitutto, avrai bisogno di una \"Soul Vial\" (Vialetta per l'anima) e di uno \"Spawner rotto\". (Tecnicamente, hai solo bisogno della Vialetta per l'anima per modificare lo Spawner, ma va bene così). Una volta che hai uno Spawner rotto che ti piace, crealo utilizzando il Powered Spawner! Quindi, posizionalo, aggiungi un \"Capacitore\" e fallo funzionare. Voilà! Ora potrai far spawnare creature con EnderIO.\n\nInoltre, puoi far sì che questo Spawner riempia direttamente le \"Soul Vials\", senza la necessità di un \"Clicker\"."
+    ],
+    "quest.263860CADB3D76C6.quest_subtitle": "Lo Spawner di EnderIO",
+    "quest.2D8A7065F8CDDDDD.quest_desc": [
+        "L'uso di tamponi è il mio metodo preferito per ottenere le uova di Spawn. Per farlo, dovrai utilizzare Mob Grinding Utils. Basta fare clic con il tasto destro su un mob con il tampone, quindi creare mangime per pollame con esso, semi e un secchio di qualsiasi tipo di \"fluid\" contenente XP. Non importa quale tipo di \"fluid\" XP utilizzi per questo. Una volta ottenuto ciò, dai il mangime a un pollo. Purtroppo, il pollo non sopravviverà alla procedura, ma hey, uova di Spawn!\\n\\nTuttavia, non tutti i mob possono essere \"tamponati\"."
+    ],
+    "quest.2FE4B7B70D90A455.quest_desc": [
+        "Questa quest è stata realizzata da \\&6AllTheMods Staff\\&r, oppure da un \\&2contributore della community\\&r, per l'uso nei pacchetti mod di AllTheMods.\\n\\nPoiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti a \\&eTutti i diritti riservati\\&r, questa quest non può essere utilizzata in altri pacchetti pubblici, se non quelli rilasciati dal team \\&6AllTheMods\\&r, senza un'esplicita autorizzazione.\\n\\nQuesta quest è intenzionalmente nascosta. Se la vedete, significa che siete in modalità di modifica."
+    ],
+    "quest.30EB438C66324213.quest_desc": [
+        "Un Nether Star avrà le stesse funzionalità dei frammenti di Prisma, ma con prestazioni molto migliori. I giocatori non dovranno più essere nelle vicinanze dello spawner. Finché lo spawner è caricato con i blocchi appropriati, continuerà a generare mob."
+    ],
+    "quest.30EB438C66324213.title": "Ignorare i giocatori",
+    "quest.310969B8FE0A94DE.quest_desc": [
+        "Un'altra novità introdotta da Apotheosis riguarda gli Spawners. Ricordate di poter estrarre gli Spawners utilizzando l'abilità \"Silk Touch\"? Ora è di nuovo possibile, grazie ad Apotheosis! Inoltre, è possibile aggiungere numerosi nuovi modificatori agli Spawners semplicemente facendo clic con il tasto destro su uno di questi oggetti."
+    ],
+    "quest.310969B8FE0A94DE.title": "Apothic Spawners",
+    "quest.39E822440E7D2E04.quest_desc": [
+        "Mob Grinding Utils è incentrato principalmente sull'allevamento di mob, quindi ovviamente include un \"Spawner\"! Si tratta del \"Spawner di Entità\". Per farlo funzionare, saranno necessari 3 elementi: un uovo di spawn, \"XP Jelly Babies\" (gelatine di XP) e un segnale di Redstone. Le \"XP Jelly Babies\" vengono create elaborando l'XP attraverso un \"XP Solidifier\" insieme all'\"XP Mould Jelly Baby\". Possono essere consumate o utilizzate come combustibile nella seconda fessura. Una volta che avrete l'uovo di spawn nella prima fessura, le \"XP Jelly Babies\" nella seconda, e un segnale di Redstone, inizierà a generare i mob!"
+    ],
+    "quest.39E822440E7D2E04.quest_subtitle": "Lo Spawner di Mob Grinding Utils",
+    "quest.3E2A411FF5B4B0E7.quest_desc": [
+        "L'intervallo di attivazione indica la distanza massima che il giocatore (tu) deve mantenere dal punto di generazione affinché funzioni. La distanza minima è di 1 blocco, mentre la massima è di 48 blocchi."
+    ],
+    "quest.3E2A411FF5B4B0E7.title": "Intervallo di attivazione",
+    "quest.3F55F3CC8519D783.quest_desc": [
+        "Il Soulium Spawner è lo Spawner fornito da Mystical Agriculture. Utilizza l'Essenza dei Mob e l'Energia per generare i mostri. L'Essenza dei Mob si ottiene raccogliendo le Piante dei Mob, create con i Vasi Spirituali. Pertanto, dovete prima uccidere i mostri, oppure utilizzare l'Estrattore di Essenza."
+    ],
+    "quest.3F55F3CC8519D783.quest_subtitle": "Il \"Spawner\" di Mystical Agriculture",
+    "quest.40096ED0B04C3EC5.quest_desc": [
+        "È fondamentale per tutti gli Spawners. Quando si afferma che ignora tutte le condizioni, si intende la maggior parte. Ignora i livelli di luce, i requisiti per la generazione e i biomi. Tuttavia, alcune condizioni rimangono necessarie, come ad esempio il fatto che gli slime abbiano bisogno di un'area di 3x3 per generarsi, e lo stesso vale per i giocatori, che devono essere nelle vicinanze."
+    ],
+    "quest.40096ED0B04C3EC5.title": "Ignorare tutte le condizioni",
+    "quest.42D7C8CD8E6F5CD7.quest_desc": [
+        "Utilizzando un frutto \"Chorus\" su un generatore di mob, si possono estrarre le anime dalle creature generate, lasciando solo un involucro vuoto di ciò che erano. Le creature perderanno tutte le loro capacità di intelligenza artificiale, quindi si comporteranno in modo simile a uno statuaria. Non potranno attaccarvi, non potranno teletrasportarsi e non potranno muoversi da sole. Rimarranno lì, pronte per essere eliminate, che emozionante!"
+    ],
+    "quest.42D7C8CD8E6F5CD7.title": "Nessun'intelligenza artificiale",
+    "quest.4D07B0A4A2E77CDA.quest_desc": [
+        "Il numero massimo di entità che possono essere generate da un generatore e mantenute è di 16. Se sono già presenti 6 entità, nessuna nuova entità verrà generata fino a quando non saranno morte o spostate. Ogni lacrima di Ghast aumenta o diminuisce il numero di entità di 2. Il numero minimo è di 1."
+    ],
+    "quest.4D07B0A4A2E77CDA.title": "Entità massime",
+    "quest.4F7F8F4ED1CA0550.quest_desc": [
+        "Un fuoco acceso vicino al respawn point farà apparire i mostri avvolti dalle fiamme. Perfetto per cucinare una succulenta bistecca."
+    ],
+    "quest.4F7F8F4ED1CA0550.title": "Bruciare",
+    "quest.52FAF122466FDDC9.quest_desc": [
+        "Lo Stabilized Spawner è la versione del Spawner di Draconic Evolution. Quando si utilizza uno dei Core su un Spawner, questo si trasformerà in uno Stabilized Spawner. È possibile sostituire i Core, ma non sarà possibile modificare le statistiche, poiché ora sono determinate dai Core stessi. Maggiore è la qualità del Core, maggiore sarà il numero di mostri che si generano e a una velocità più elevata."
+    ],
+    "quest.52FAF122466FDDC9.quest_subtitle": "Lo Spawner di Draconic Evolution",
+    "quest.6A497B063CF32A5C.quest_desc": [
+        "Un Occhio di Ragno Fermentato può essere utilizzato per aumentare il numero di mostri che possono generarsi da un generatore. I mostri generati sono casuali, con un numero massimo determinato dal valore. Il valore può aumentare o diminuire di 1 per ogni occhio, fino a un massimo di 16."
+    ],
+    "quest.6A497B063CF32A5C.title": "Numero di esemplari",
+    "quest.6D3B958E49AE7BDB.quest_desc": [
+        "I frammenti di \"Charms\" possono essere trasformati in \"Charms\" o in \"uova di spawn\". Questi si ottengono dal \"Reliquary\" e raramente cadono dai relativi mostri. Alcuni possono anche essere creati! Utilizzando 2 frammenti e un uovo normale, è possibile creare un uovo di spawn."
+    ],
+    "quest.6D68D9941049E806.quest_desc": [
+        "Questo spawner utilizzerà, come suggerisce il nome, \\&dSource\\&r come fonte di energia. Per decidere quale creatura far apparire, sarà necessario un contenitore (o \"jar\") che contenga la creatura nell'area."
+    ],
+    "quest.6D68D9941049E806.quest_subtitle": "\"Spawner\" di Ars Nouveau",
+    "quest.6F71FD826C29C31A.quest_desc": [
+        "Questo potrebbe essere nuovo per chi ritorna da versioni precedenti. Utilizzando un uovo di tartaruga su un \"spawner\", ne verranno generate solo versioni \"baby\" dei mostri presenti. Questo funziona solo con le versioni \"baby\" originali dei mostri, non con quelle modificate."
+    ],
+    "quest.6F71FD826C29C31A.title": "Giovane",
+    "quest.72AE56D34834D28E.quest_desc": [
+        "Un altro prodotto di PneumaticCraft? Sembra proprio che si tratti del vero e proprio Spawner. Come per lo \"Draconic Stabilized Spawner\", avrete bisogno di un Spawner Vanilla come base. Una volta ottenuto, posizionate un \"Spawner Extrator\" sopra il Spawner e impostate la pressione a -0.5 Bar per farlo funzionare. Una volta attivato, vi fornirà un \"Spawner Core\" pieno della creatura che si trovava al suo interno, lasciandovi un \"Empty Spawner\" vuoto. Quindi, utilizzate l'\"Empty Spawner\" per creare un \"Pressurized Spawner\" e inserite il \"Spawner Core\" al suo interno. (Per migliorare il Core, utilizzate una \"Vacuum Trap\" per aspirare le creature che entreranno nel \"Spawner Core\"). Una volta fatto ciò, il \"Spawner\" richiederà una pressione per funzionare, ignorando il livello di luce, ed è attivabile tramite Redstone."
+    ],
+    "quest.72AE56D34834D28E.quest_subtitle": "Lo Spawner di PneumaticCraft",
+    "quest.77A8E8122870BBCE.quest_desc": [
+        "Tecnicamente, questo non è un uovo di Spawn, ma l'ho incluso comunque, a causa della sua capacità di legare i mostri agli Spawner. Per saperne di più su come ottenere questo Lead, consultare il capitolo \"\\&5\\&lApothic Enchanting\"."
+    ],
+    "quest.77A8E8122870BBCE.quest_subtitle": "Non è un uovo di Spawn!",
+    "quest.78E94C386B1E7359.quest_desc": [
+        "Di solito, è difficile ottenere le uova di Spawn, ma è lo stesso per gli Spawner. Esistono diversi modi per ottenere le uova di Spawn, ma una volta ottenute, è sufficiente fare clic con il tasto destro del mouse su uno Spawner per modificare i mostri che genera."
+    ],
+    "quest.7A9AE63998BB41FF.quest_desc": [
+        "Per determinare quando lo Spawner effettuerà la generazione, seleziona un numero casuale compreso tra il massimo e il minimo intervallo di generazione. L'intervallo minimo può variare da 20 a 32.767. Ogni pezzo di zucchero modifica l'intervallo minimo di 10 unità."
+    ],
+    "quest.7A9AE63998BB41FF.title": "Ritardo minimo di generazione",
+    "quest.7F6B66566C211735.quest_desc": [
+        "L'uso di Dripstone sul respawn point ridurrà la salute massima della creatura che viene generata. Questo può ridurre la sua salute fino al 20%."
+    ],
+    "quest.7F6B66566C211735.title": "Salute",
+    "task.24893D6EDE0BD819.title": "Frammenti di incantesimo di mob",
+    "task.39702880D9133E3E.title": "Lana",
+    "task.3B219688DA1CF9C8.title": "Tutti i diritti riservati",
+    "task.45250DA4433007C6.title": "Acquisire libri",
+    "task.524CBF7058496E7F.title": "Altri punti di generazione",
+    "task.55587BA32D30318C.title": "Uova di spawn",
+    "task.73B56F2139A98F77.title": "Tutti i diritti riservati"
+}

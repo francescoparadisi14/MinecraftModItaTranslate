@@ -1,0 +1,118 @@
+{
+    "quest.05E668CE6687AC64.quest_desc": [
+        "Il \\&bToken della Gioia\\&r è il primo token che dovresti creare; i token sono materiali essenziali per la creazione di oggetti in \\&aNature's Aura\\&r."
+    ],
+    "quest.05E668CE6687AC64.title": "\\&Token di gioia",
+    "quest.0B6D35F5B3A11FD2.quest_desc": [
+        "L'\\&9Aura Cache\\&r può essere utilizzato per memorizzare \\&aAura\\&r!"
+    ],
+    "quest.0B6D35F5B3A11FD2.quest_subtitle": "Inizia a memorizzare!",
+    "quest.0B6D35F5B3A11FD2.title": "\\&9Aura Cache",
+    "quest.0EFD0A4AE82153E8.quest_desc": [
+        "Sarà necessario creare anche questi Token per altri oggetti."
+    ],
+    "quest.0EFD0A4AE82153E8.title": "Altri token",
+    "quest.0FD26FD88E801C0E.quest_desc": [
+        "È possibile creare un gran numero di creature di tipo \"vanilla\" utilizzando l'altare \"Altar of Birthing\". Le creature \"Spirits of Birthing\" vengono create incrocando animali in aree con un'alta concentrazione di aura."
+    ],
+    "quest.0FD26FD88E801C0E.quest_subtitle": "Creare bambini con la magia",
+    "quest.0FD26FD88E801C0E.title": "\\& Altare del parto",
+    "quest.12D3C7FC4B3DAB23.quest_desc": [
+        "L'\\&aOcchio Ambientale\\&r può essere creato utilizzando il \\&aRituale della Foresta\\&r e può essere equipaggiato nella tua slot di incantesimo per monitorare i livelli dell'aura nell'angolo in alto a sinistra dello schermo."
+    ],
+    "quest.12D3C7FC4B3DAB23.quest_subtitle": "Un occhio di riguardo per l'ambiente",
+    "quest.1ABEC7DE47BD6286.quest_desc": [
+        "\\&5Crate Ender\\& sono equivalenti alle \\&5Crate Ender\\&, utilizzate per trasportare oggetti.\n\n\\&5Occhio Ender\\& sono versioni portatili delle \\&5Crate Ender\\&."
+    ],
+    "quest.1ABEC7DE47BD6286.quest_subtitle": "A volte, a volte!",
+    "quest.1ABEC7DE47BD6286.title": "\\& Scatole Ender e Occhiali",
+    "quest.1D39634260A47C9A.quest_desc": [
+        "Se utilizzate le \"Lingote di Ferro Infuse\" o le \"Lingote d'Oro Corrotte\" sul Tavolo Sacrificale, otterrete le \"Lingote del Cielo\"."
+    ],
+    "quest.1D39634260A47C9A.title": "\\& \"Ingots of the Skies\"",
+    "quest.20F9EF925DB1CE05.quest_desc": [
+        "L'\\&2Altar Naturale\\&r è una struttura composta da 1 \\&2Altar Naturale\\&r, 20 assi di legno, 16 mattoni di pietra, 8 mattoni di pietra dorata e 4 mattoni di pietra lavorati.\n\nL'Altar Naturale consuma aura per ogni ricetta ed è necessario per continuare a progredire nel mod.\n\nL'immagine a destra di questa missione mostra la configurazione a più blocchi."
+    ],
+    "quest.20F9EF925DB1CE05.title": "\\&2 Naturale",
+    "quest.22ADCF96AE3E609B.quest_desc": [
+        "\\&dGli \"Alberelli Antichi\" vengono creati attraverso il \\&aRituale del Bosco\\&r. Una volta cresciuti, gli alberi cercano di mantenere livelli di aura normali (non troppo alti né troppo bassi).\\n\\nSe il livello di aura diminuisce, le foglie inizieranno a marcire e il processo si invertirà."
+    ],
+    "quest.22ADCF96AE3E609B.quest_subtitle": "Non quelli dei tempi antichi.",
+    "quest.22ADCF96AE3E609B.title": "Alberi antichi",
+    "quest.24599D45F5D1606E.quest_desc": [
+        "L'\\&bAura Trove\\&r è una versione migliorata dell'\\&9Aura Cache\\&r."
+    ],
+    "quest.24599D45F5D1606E.quest_subtitle": "Un vero tesoro!",
+    "quest.24599D45F5D1606E.title": "\\&bAura Trove",
+    "quest.2B4D4E741D855B5A.quest_desc": [
+        "Combinando 2 lingotti di \"Lingotti del Cielo\", 2 lingotti di \"Oro Contaminato\" e 1 pezzo di \"Scoria di Netherite\" in una griglia di crafting, si otterrà \"Lingotti delle Profondità\"."
+    ],
+    "quest.2B4D4E741D855B5A.title": "\\& \"Ingots of the Depths\"",
+    "quest.34ABEF75AE1E5A0F.quest_desc": [
+        "Il personale di \"Ancient Knowledge\" utilizza Aura per evidenziare i resti antichi nelle vicinanze."
+    ],
+    "quest.34ABEF75AE1E5A0F.quest_subtitle": "Rilevatore di Netherite",
+    "quest.3C2F5AB815A6C949.quest_desc": [
+        "Per creare un lingotto di ferro infuso con \"\\&2\", posizionate un lingotto di ferro sull'altare \"\\&2Natural Altar\".\n\nQuesto processo sarà più veloce rispetto all'utilizzo di \"\\&6Tainted Gold\"."
+    ],
+    "quest.3EC90ADA4E322B14.quest_desc": [
+        "Per creare un \"Ingotto d'Oro Corrotto\", è necessario posizionare un \"Ingotto d'Oro\" sull'\"Altare Naturale\".\n\nQuesto processo richiederà più tempo rispetto all'utilizzo dell'\"Ingotto d'Acciaio Infuso\"."
+    ],
+    "quest.3EC90ADA4E322B14.quest_subtitle": "Non è oro!",
+    "quest.3EC90ADA4E322B14.title": "\\& Oro contaminato",
+    "quest.3F8A5CBEAE024748.quest_desc": [
+        "L'Occhio del Predatore, l'Occhio della Fiamma e l'Occhio dello Shulker vengono utilizzati ciascuno per individuare strutture specifiche."
+    ],
+    "quest.3F8A5CBEAE024748.quest_subtitle": "Sono sempre attento a te.",
+    "quest.3F8A5CBEAE024748.title": "Strumenti per la ricerca di strutture",
+    "quest.497AE687B7E95DE8.quest_desc": [
+        "Il rituale di \"\\&aRituale della Foresta\\&r\" può essere eseguito creando una struttura a più blocchi utilizzando 8 supporti in legno, 16 polveri d'oro e, a seconda della ricetta, un germoglio di quercia o di giungla.\n\nPer iniziare il rituale, posizionate gli oggetti necessari sulla struttura in legno e piantate il germoglio richiesto al centro. La polvere d'oro viene consumata nel rituale, quindi ne avrete bisogno in grandi quantità.",
+        "{image:atm:textures\/questpics\/natures_aura\/forest_ritual.png width:295 height:150 align:center}"
+    ],
+    "quest.497AE687B7E95DE8.title": "\\&Un rito della foresta",
+    "quest.4AD4FDF70B9BFCC9.quest_desc": [
+        "Utilizzando i tuoi Token sul tavolo delle offerte, li potrai migliorare. Questi Token potenziati saranno necessari per ricette di crafting più avanzate."
+    ],
+    "quest.4AD4FDF70B9BFCC9.title": "Token aggiornati",
+    "quest.4F03B152479C4AC0.quest_desc": [
+        "Il comando \"\\&bStaff of Riches\\&r\" utilizza l'aura per evidenziare tutti i contenitori di deposito all'interno di un raggio di 64 blocchi per circa 1 minuto.\n\nQuesto può essere molto utile se si sta cercando casse di loot o se si ha posizionato una cassa in una miniera."
+    ],
+    "quest.4F03B152479C4AC0.title": "\\&bPersonale di Riches",
+    "quest.4F9D6109EEA5D26A.quest_desc": [
+        "L'azione \"Breaking \\&eGolden Leaves\\&r\" ha un'alta probabilità di far apparire un \"\\&eGold Leaf\\&r\", che è necessario per creare \"\\&eGold Powder\\&r\"."
+    ],
+    "quest.4F9D6109EEA5D26A.quest_subtitle": "Aura e lucciole",
+    "quest.4F9D6109EEA5D26A.title": "\\&eGold Leaves",
+    "quest.54F7AD64A403C9BF.quest_desc": [
+        "Questi catalizzatori possono essere utilizzati come elementi aggiuntivi per il vostro altare naturale. Permettono di trasformare un oggetto in un altro o di scomporlo.\n\nIl catalizzatore \"Crumbling Catalyst\" permette di trasformare ogni foglio d'oro in 4 polveri d'oro, invece di 2!"
+    ],
+    "quest.54F7AD64A403C9BF.title": "Catalizzatori",
+    "quest.5A011CE8EEA3F9D8.quest_desc": [
+        "L'aura può essere raccolta facendo clic con il mouse nell'aria, utilizzando una bottiglia e un tappo. La forma dell'aura dipende dal luogo in cui viene raccolta.\n\nNel mondo normale (Overworld) viene raccolta come \"Sole\", nel Nether come \"Spettri\" e nell'End come \"Oscurità\".\n\nSe l'area in cui hai utilizzato la bottiglia e il tappo presenta una grave mancanza di aura, otterrai un \"Vuoto Aura\"."
+    ],
+    "quest.5A011CE8EEA3F9D8.quest_subtitle": "Confezionare l'Aura",
+    "quest.5A011CE8EEA3F9D8.title": "Bottiglie di Aura",
+    "quest.5A0EB2ADEBC7EE2B.quest_desc": [
+        "Questo contenuto è stato creato da \\&6AllTheMods Staff\\&r, oppure da un \\&2contributore della community\\&r, per l'uso nei pacchetti di mod di AllTheMods.\\n\\nPoiché tutti i pacchetti di AllTheMods sono soggetti al copyright \\&eTutti i diritti riservati\\&r, questo contenuto non può essere utilizzato in altri pacchetti pubblici, a meno che non sia stato rilasciato dal team di AllTheMods, previa autorizzazione esplicita.\\n\\nQuesto contenuto è stato intenzionalmente nascosto. Se lo state visualizzando, siete in modalità di modifica."
+    ],
+    "quest.5C990F7E5D345A6F.quest_desc": [
+        "\"The Offering to the Gods è una struttura composta da 1 altare e 36 fiori. Per effettuare l'offerta, è necessario avere gli \"Spiriti di Chiamata\".",
+        "{image:atm:textures\/questpics\/natures_aura\/offering.png width:295 height:150 align:center}"
+    ],
+    "quest.5C990F7E5D345A6F.quest_subtitle": "Offrire agli dei una vasca per uccelli in una foresta di fiori",
+    "quest.71B6F013C8A60EB6.quest_desc": [
+        "Sia \"\\&2Canopy Diminisher\\&r\" che \"\\&2Herbivorous Absorber\\&r\" sono metodi semplici e facili per generare aura."
+    ],
+    "quest.71B6F013C8A60EB6.quest_subtitle": "Più Aura!",
+    "quest.71B6F013C8A60EB6.title": "Aura Creation",
+    "quest.7DAED14CEC4CDA51.quest_desc": [
+        "«\\&aAura della Natura\\&r» è un mod che riguarda l'uso e il ricarico dell'\\&aAura\\&r. Questi compiti illustreranno solo le basi.\n\nPer iniziare, create del \\&eFibra Brillante\\&r, che si ottiene combinando \\&eGranuli d'Oro\\&r, \\&aFoglie\\&r e \\&aErba\\&r. Cliccando con il tasto destro su qualsiasi foglia con \\&eFibra Brillante\\&r, le trasformerà in \\&eFoglie d'Oro\\&r.\n\nAssicuratevi di leggere il \\&aLibro sull'Aura Naturale\\&r. Potete anche utilizzarlo per imparare a creare i blocchi multipli in \\&aAura della Natura\\&r."
+    ],
+    "quest.7DAED14CEC4CDA51.title": "\\&eBenvenuti in \\&aNature's Aura",
+    "task.0CA0B32D52395A39.title": "Listelli",
+    "task.15698B55CCAD2433.title": "Tutti i diritti riservati",
+    "task.2E97226C40818239.title": "Fiori",
+    "task.4C6370D2B7EF8685.title": "Tutti i diritti riservati",
+    "task.52874F5B79ECAE65.title": "Mattoni di pietra",
+    "task.55628B1EECBB5E94.title": "Piantine sacre"
+}

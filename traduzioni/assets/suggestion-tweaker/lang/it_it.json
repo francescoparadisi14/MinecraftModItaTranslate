@@ -1,0 +1,11 @@
+{
+    "suggestion-tweaker.filtering.loose": "Allentato; non stretto",
+    "suggestion-tweaker.filtering.slightly_loose": "Leggermente allentato",
+    "suggestion-tweaker.filtering.strict": "Rigido",
+    "suggestion-tweaker.filtering.very_loose": "Molto allentato",
+    "text.autoconfig.suggestion-tweaker.option.filteringMode": "Modalità di filtraggio",
+    "text.autoconfig.suggestion-tweaker.option.hidePrefix": "Il prefisso specifico",
+    "text.autoconfig.suggestion-tweaker.option.isCaseSensitive": "Abilitare la distinzione tra maiuscole e minuscole",
+    "text.autoconfig.suggestion-tweaker.option.shouldHideSuggestionsWithPrefix": "Abilita la possibilità di nascondere suggerimenti con un prefisso specifico.",
+    "text.autoconfig.suggestion-tweaker.title": "Suggerimento Modificatore"
+}

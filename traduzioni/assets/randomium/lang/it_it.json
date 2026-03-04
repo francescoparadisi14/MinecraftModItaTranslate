@@ -1,12 +1,12 @@
 {
     "block.randomium.randomium_block": "Blocco di randomio",
     "block.randomium.randomium_ore": "Minerale di randomio",
-    "block.randomium.randomium_ore_deepslate": "Ore di randomium in pietra profonda",
+    "block.randomium.randomium_ore_deepslate": "Miniera di Randomium di Deepslate",
     "block.randomium.randomium_ore_end": "Minerale di randomio dell'End",
     "block.randomium.randomium_stabilized": "Randomio stabilizzato",
     "entity.randomium.moving_block": "Blocco in movimento",
-    "item.randomium.any_item": "qualsiasi oggetto",
+    "item.randomium.any_item": "[Qualsiasi articolo]",
     "item.randomium.randomium": "Randomio",
     "message.randomium.description": "Instabile, si trasforma quando viene fabbricato",
-    "randomium.jei.duplicate": "Ridondanze"
+    "randomium.jei.duplicate": "Duplicati"
 }

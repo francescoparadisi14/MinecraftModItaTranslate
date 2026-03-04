@@ -1,5 +1,5 @@
 {
-    "key.horsecombatcontrols.category": "Controlli di combattimento per cavalli",
-    "key.horsecombatcontrols.toggle": "Attiva\/Disattiva controlli di combattimento per cavallo",
-    "message.horsecombatcontrols.locked": "I controlli di combattimento del cavallo sono impostati dal mondo."
+    "key.horsecombatcontrols.category": "Comandi per il controllo del cavallo",
+    "key.horsecombatcontrols.toggle": "Attiva\/disattiva i controlli per il combattimento con i cavalli.",
+    "message.horsecombatcontrols.locked": "I controlli per il combattimento con gli animali sono imposti a livello globale."
 }

@@ -1,0 +1,12 @@
+{
+    "block.cobblemonlegendarydogs.example_block": "Esempio di blocco",
+    "cobblemonlegendarydogs.configuration.items": "Elenco degli articoli",
+    "cobblemonlegendarydogs.configuration.logDirtBlock": "Blocco di argilla per pavimentazione",
+    "cobblemonlegendarydogs.configuration.magicNumber": "Numero magico",
+    "cobblemonlegendarydogs.configuration.magicNumberIntroduction": "Numero Magico",
+    "cobblemonlegendarydogs.configuration.section.cobblemonlegendarydogs.common.toml": "Configurazioni per Cobblemon: Cani Leggendari",
+    "cobblemonlegendarydogs.configuration.section.cobblemonlegendarydogs.common.toml.title": "Configurazioni per Cobblemon: Cani Leggendari",
+    "cobblemonlegendarydogs.configuration.title": "Configurazioni per Cobblemon: Cani Leggendari",
+    "item.cobblemonlegendarydogs.example_item": "Esempio di articolo",
+    "itemGroup.cobblemonlegendarydogs": "Esempio di tabella Mod"
+}

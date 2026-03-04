@@ -55,6 +55,5 @@
     "petrock.command.sethat.loneztar.success": "Happy Birthday Loneztar!",
     "petrock.command.sethat.none.feedback": "Hats cleared!",
     "petrock.command.sethat.noslow.failure": "No custom hat set with Slowpoke mode enabled",
-    "petrock.command.sethat.reload.feedback": "Hats Reloaded!",
     "petrock.command.sethat.tnt.feedback": "TNT mode enabled!"
 }

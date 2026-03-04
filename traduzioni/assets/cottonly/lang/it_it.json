@@ -1,12 +1,12 @@
 {
-    "a.lang.author.name": "Man Maed",
-    "a.lang.file.name": "Inglese (Stati Uniti)",
+    "a.lang.author.name": "manmaed",
+    "a.lang.file.name": "Stati Uniti",
     "block.cottonly.cotton_plant": "Colture di cotone",
-    "item.cottonly.cotton_ball": "Pallina di cotone",
+    "item.cottonly.cotton_ball": "Palla di cotone",
     "item.cottonly.cotton_hat": "Cappello di cotone",
     "item.cottonly.cotton_seeds": "Semi di cotone",
-    "item.cottonly.cotton_shirt": "Camicia di cotone",
-    "item.cottonly.cotton_socks": "Calze di cotone",
-    "item.cottonly.cotton_trousers": "Pantaloni di cotone",
-    "itemGroup.cottonly": "Cottonly"
+    "item.cottonly.cotton_shirt": "Camicia in cotone",
+    "item.cottonly.cotton_socks": "Calze in cotone",
+    "item.cottonly.cotton_trousers": "Pantaloni in cotone",
+    "itemGroup.cottonly": "Cotone"
 }

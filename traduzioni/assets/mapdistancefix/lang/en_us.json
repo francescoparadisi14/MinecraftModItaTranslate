@@ -1,0 +1,17 @@
+{
+    "config.mapdistancefix.category.formatting": "Formatting",
+    "config.mapdistancefix.category.general": "General",
+    "config.mapdistancefix.option.distanceFormat": "Distance Format",
+    "config.mapdistancefix.option.distanceFormat.tooltip": "Format string for distance display. Use ％d for the distance value.\nExample: \"％dm\" displays as \"100m\"",
+    "config.mapdistancefix.option.shortUnitThreshold": "Short Unit Threshold",
+    "config.mapdistancefix.option.shortUnitThreshold.tooltip": "Distance in blocks at which to start using short units",
+    "config.mapdistancefix.option.showDistance": "Show Distance",
+    "config.mapdistancefix.option.showDistance.tooltip": "Show distance to map center on player icons",
+    "config.mapdistancefix.option.showDistanceInsideBoundaries": "Show Distance Inside Boundaries",
+    "config.mapdistancefix.option.showDistanceInsideBoundaries.tooltip": "Also show distance when player is within map boundaries",
+    "config.mapdistancefix.option.showDistanceWhenOffMap": "Show Distance When Off Map",
+    "config.mapdistancefix.option.showDistanceWhenOffMap.tooltip": "Display distance when player is outside map boundaries",
+    "config.mapdistancefix.option.useShortUnits": "Use Short Units",
+    "config.mapdistancefix.option.useShortUnits.tooltip": "Use abbreviated units (e.g., \"1.5k\" instead of \"1500m\") for large distances",
+    "config.mapdistancefix.title": "Map Distance Fix Settings"
+}

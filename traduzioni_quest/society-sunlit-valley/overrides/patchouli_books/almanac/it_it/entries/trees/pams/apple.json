@@ -6,11 +6,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Stagione: Autunno $(li)Prezzo: 512 monete $(li)Dimensioni: 1x1 $(li)Cresce in:`8 x Mele` $(\/l)$(br2)$(l)Note$()$(li)Vendute dai Cultori di Master.`"
+            "text": "patchouli:text\n\n$(l)Statistiche$()$(li)🍂 Autunno§r $(li)Prezzo: 512$(li)Dimensione: 1x1$(li)Produce: 8 mele (provenienti dalla coltura \"albero\")$(\/l)$(br2)$(l)Note$()$(li)Piantine acquistate da un coltivatore esperto."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Apple Tree",
+            "name ": "patchouli:multiblock\n\nTiglio",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {
@@ -77,8 +77,7 @@
                         "     "
                     ]
                 ]
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

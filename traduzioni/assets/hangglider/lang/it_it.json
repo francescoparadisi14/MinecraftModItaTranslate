@@ -1,7 +1,7 @@
 {
-    "item.hangglider.glider_framework": "Frammento Di Parapendio",
-    "item.hangglider.glider_wing": "Ala Del Parapente",
-    "item.hangglider.hang_glider": "Parapendio",
-    "item.hangglider.reinforced_hang_glider": "Parracupa Rinforzata",
-    "itemGroup.hangglider.main": "Parapendio"
+    "item.hangglider.glider_framework": "Framework Glider",
+    "item.hangglider.glider_wing": "Ala del aliante",
+    "item.hangglider.hang_glider": "Volo con parapendio",
+    "item.hangglider.reinforced_hang_glider": "Vela acrobatiche rinforzata",
+    "itemGroup.hangglider.main": "Volo con parapendio"
 }

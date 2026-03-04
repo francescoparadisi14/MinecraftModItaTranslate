@@ -1,5 +1,5 @@
 {
-    "options.fast_seamless": "Velocità di avvio senza interruzioni",
-    "options.fast_seamless.tooltip": "Questo fa diventare liscio, quando si guarda un nuovo luogo, controlla solo i blocchi di connessione una volta sola, migliorando le prestazioni. Lo svantaggio è che quando si collocano alcuni doppioni di blocchi, l'outline non si collega ancora fino a quando non si allontana lo sguardo. I cambiamenti ai blocchi di connessione non verranno rilevati.",
-    "seamless.resource_pack": "Risorse senza intoppi predefinite"
+    "options.fast_seamless": "Veloce e senza interruzioni",
+    "options.fast_seamless.tooltip": "Questo significa che, quando si seleziona una nuova posizione, Seamless verificherà solo una volta la presenza di blocchi adiacenti, migliorando le prestazioni. Tuttavia, quando si posizionano alcuni blocchi doppi, l'intersezione non sarà visibile finché non si cambia prospettiva. Inoltre, le modifiche apportate ai blocchi adiacenti non verranno rilevate.",
+    "seamless.resource_pack": "Risorse predefinite"
 }

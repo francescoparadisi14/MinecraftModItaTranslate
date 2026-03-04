@@ -1,0 +1,23 @@
+{
+    "effect.tundradragon.freeze_immunity": "Immunità congelata",
+    "effect.tundradragon.frostbite": "Congelamento",
+    "effect.tundradragon.supercooling": "Raffreddamento a temperature inferiori allo zero assoluto",
+    "item.tundradragon.chilled_chicken": "Pollo freddo",
+    "item.tundradragon.chilled_mutton": "Agne tа in versione fredda",
+    "item.tundradragon.chilled_porkchop": "Polpette di maiale alla griglia",
+    "item.tundradragon.chilled_rabbit": "Coniglio alla spina",
+    "item.tundradragon.chilled_steak": "Bistecca alla griglia, servita fredda",
+    "item.tundradragon.freezerburned_chicken": "Pollo cotto nel congelatore",
+    "item.tundradragon.freezerburned_mutton": "Manzo arrostito nel congelatore",
+    "item.tundradragon.freezerburned_porkchop": "Soglia di maiale arrostita nel congelatore",
+    "item.tundradragon.freezerburned_rabbit": "Coniglio arrostito al congelatore",
+    "item.tundradragon.freezerburned_steak": "Bistecca bruciata nel congelatore",
+    "item.tundradragon.infused_ice_crystal": "Ghiaccio aromatizzato",
+    "item.tundradragon.infused_ice_crystal.description_0": "§7 ■ Provoca una sensazione di freddo intenso e rafforza le ossa, consentendoti di resistere al calore e agli impatti per un determinato periodo di tempo.",
+    "item.tundradragon.popsicle": "Ghiaccio blu (tipo \"popsicle\")",
+    "item.tundradragon.popsicle.description_0": "§7 ■ Elimina gli effetti di \"Wither\" e \"Poison\", e fornisce capacità di assorbimento e rigenerazione. Ghiaccio denso di colore blu, impregnato di ossa di drago e reso commestibile grazie all'applicazione strategica di polvere di fuoco.",
+    "item.tundradragon.snowy_stew": "Zuppa bianca",
+    "item.tundradragon.snowy_stew.description_0": "§7 ■ Grant: Un mix disordinato di carne e neve fresca, servito in un contenitore di ghiaccio commestibile.",
+    "item.tundradragon.tundra_dragon_treat": "Dolcetti per draghi della tundra",
+    "item.tundradragon.tundra_dragon_treat.description_0": "§7 ■ Concede un'infinità di mana temporaneamente."
+}

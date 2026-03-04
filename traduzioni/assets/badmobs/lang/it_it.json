@@ -1,3 +1,6 @@
 {
-    "tip.badmobs.entityid": "ID entità: %s"
+    "badmobs.configuration.allowConversions": "Conversioni",
+    "badmobs.configuration.allowNormalSpawning": "Riproduzione normale",
+    "badmobs.configuration.allowSpawnEggs": "Uova di spawn",
+    "badmobs.configuration.allowSpawners": "Creatori di nuovi oggetti\/personaggi"
 }

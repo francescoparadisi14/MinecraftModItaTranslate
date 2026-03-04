@@ -1,4 +1,4 @@
 {
-    "item.looters_compass.looters_compass": "Bussola dei predoni",
-    "item.looters_compass.looters_compass.desc": "Punta verso il contenitore di bottino più vicino non aperto"
+    "item.looters_compass.looters_compass": "Bussola del ladro",
+    "item.looters_compass.looters_compass.desc": "Indica la posizione del contenitore di oggetti non aperto più vicino."
 }

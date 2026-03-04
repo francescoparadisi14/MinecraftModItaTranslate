@@ -1,0 +1,5 @@
+{
+    "block.esotericreforging.esoteric_reforging_table": "Esoteric Reforging Table",
+    "block.esotericreforging.esoteric_reforging_table.desc": "Uses Gem Dust and Rarity Materials to reroll affixes",
+    "block.esotericreforging.esoteric_reforging_table.desc2": "Max Rarity: %s"
+}

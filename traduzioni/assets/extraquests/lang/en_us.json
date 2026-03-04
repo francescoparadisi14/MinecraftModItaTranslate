@@ -1,4 +1,6 @@
 {
+    "extraquests.key_value.ignore": "Ignore?",
+    "extraquests.key_value.ignore.tooltip": "Will rewards ignore quest progress?",
     "extraquests.key_value.key": "Key",
     "extraquests.key_value.key.tooltip": "Key for storing values",
     "extraquests.key_value.title": "%s: %s",

@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Uovo: Uovo di fenicottero$(li)Bottino: Piuma$(br2)$(l)Note$()$(br)Gli uova richiedono 4+ cuori. Possono essere trovate nei Giardini e non possono essere incrociati."
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile per la vendita$(li)Uovo: Uovo di fenicottero$(li)Piume$(br2)$(l)Note$()$(br)Gli uova richiedono almeno 4 cuori. Non è possibile incrociarli."
         },
         {
             "type": "patchouli:entity",
             "entity": "wildernature:flamingo",
             "scale": 0.5,
-            "text": "Mostra il tuo colore naturale, Fiammingo!"
+            "text": "Patchouli: entità\n\nWildernature: flamengo\n\nMostra il tuo colore naturale, Flamengo!"
         }
     ]
 }

@@ -48,6 +48,8 @@
     "item.meetyourfight.devils_ante": "Devil's Ante",
     "item.meetyourfight.devils_ante.desc": "Summons Dame Fortuna",
     "item.meetyourfight.devils_ante.gear": "Diamond",
+    "item.meetyourfight.dredged_cannonade": "Dredged Cannonade",
+    "item.meetyourfight.dredged_cannonade.desc": "Converts fired Iron Bullets into Explosive Bullets",
     "item.meetyourfight.dusk_key": "Dusk Key",
     "item.meetyourfight.dusk_key.desc": "Summons Rosalyne, Blade of Dusk",
     "item.meetyourfight.dusk_key.gear": "Netherite",
@@ -129,5 +131,6 @@
     "subtitles.meetyourfight.entity.swampjaw.stun": "Swampjaw wails",
     "subtitles.meetyourfight.item.bonus_damage": "Damage amplified",
     "subtitles.meetyourfight.item.damage_negated": "Damage negated",
-    "subtitles.meetyourfight.item.damage_reduced": "Damage reduced"
+    "subtitles.meetyourfight.item.damage_reduced": "Damage reduced",
+    "subtitles.meetyourfight.item.dredged_cannonade.shoot": "Cannon fired"
 }

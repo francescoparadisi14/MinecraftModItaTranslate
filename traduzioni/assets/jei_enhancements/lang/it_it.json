@@ -1,0 +1,19 @@
+{
+    "jei_enhancements.tooltip.alt_click_group": "Alt + Clic: Espandi\/ripristina il gruppo di segnalibri",
+    "jei_enhancements.tooltip.amount": "Importo: %s",
+    "jei_enhancements.tooltip.click_page": "Clicca sui numeri di pagina: Alterna tra il layout orizzontale\/verticale",
+    "jei_enhancements.tooltip.ctrl_alt_scroll": "Ctrl + Alt + Scorrimento: Modificare la quantità (per sistemi Windows 64 bit)",
+    "jei_enhancements.tooltip.ctrl_scroll": "Ctrl + Scorrimento: Regolare il numero di segnalibri",
+    "jei_enhancements.tooltip.ctrl_shift_a": "Ctrl + Shift + A: Aggiungi ricetta con quantità degli ingredienti ai segnalibri",
+    "jei_enhancements.tooltip.ctrl_shift_scroll": "Ctrl + Scorrimento: Regolare la quantità (x1)",
+    "jei_enhancements.tooltip.group_panel_left_drag": "Trascinamento a sinistra: Raggruppare le righe",
+    "jei_enhancements.tooltip.group_panel_right_click": "Clicca con il tasto destro: Attiva la modalità \"catena di produzione\" ([ passa al colore verde)",
+    "jei_enhancements.tooltip.group_panel_right_drag": "Trascina a destra: Escludere righe all'interno di un gruppo",
+    "jei_enhancements.tooltip.header": "Miglioramenti di JEI",
+    "jei_enhancements.tooltip.hold_alt": "Tenere premuto il tasto Alt per accedere a ulteriori opzioni.",
+    "jei_enhancements.tooltip.left_drag_down": "Trascina a sinistra: Raggruppa le righe",
+    "jei_enhancements.tooltip.left_drag_up": "Trascina a sinistra: Disconnetti le righe",
+    "jei_enhancements.tooltip.right_click_bracket": "Clicca con il tasto destro: Attiva la modalità \"catena di produzione\" ([ passa al colore verde)",
+    "jei_enhancements.tooltip.right_drag": "Trascina a destra: Escludere righe all'interno di un gruppo",
+    "jei_enhancements.tooltip.shift_a": "Shift + A: Aggiungi la ricetta (con istruzioni e ingredienti) ai segnalibri"
+}

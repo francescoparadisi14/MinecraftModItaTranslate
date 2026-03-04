@@ -1,9 +1,19 @@
 {
+    "enchantment.walljump.double_jump": "Salto doppio",
+    "enchantment.walljump.double_jump.desc": "Salta a mezz'aria per effettuare un doppio salto.",
     "enchantment.walljump.doublejump": "Salto doppio",
-    "enchantment.walljump.doublejump.desc": "Salta in aria per doppio salto!",
-    "enchantment.walljump.speedboost": "Boost di velocità",
-    "enchantment.walljump.speedboost.desc": "Incrementa la tua velocità mentre corri!",
-    "enchantment.walljump.walljump": "Salta sul muro!",
-    "enchantment.walljump.walljump.desc": "Salta da parete a parete!",
-    "walljump.key.walljump": "Salto su parete \/ adesione a parete"
+    "enchantment.walljump.doublejump.desc": "Salta a mezz'aria per effettuare un doppio salto!",
+    "enchantment.walljump.speed_boost": "Aumento della velocità",
+    "enchantment.walljump.speed_boost.desc": "Aumenta la tua velocità durante le corse a massima velocità.",
+    "enchantment.walljump.speedboost": "Aumento della velocità",
+    "enchantment.walljump.speedboost.desc": "Aumenta la tua velocità durante le corse!",
+    "enchantment.walljump.wall_jump": "Salto a muro",
+    "enchantment.walljump.wall_jump.desc": "Saltare da un muro all'altro",
+    "enchantment.walljump.walljump": "Salta contro il muro!",
+    "enchantment.walljump.walljump.desc": "Salta da un muro all'altro!",
+    "key.category.walljump.wall_jump": "Salto a parete",
+    "key.walljump.walljump": "Salto contro il muro \/ Aggrapparsi al muro",
+    "pack.walljump.enchantments.description": "Permette di attivare gli incantesimi di \"Salto a muro\".",
+    "pack.walljump.enchantments.title": "Incantesimi per il salto a parete",
+    "walljump.key.walljump": "Salto contro il muro \/ Aggrapparsi al muro"
 }

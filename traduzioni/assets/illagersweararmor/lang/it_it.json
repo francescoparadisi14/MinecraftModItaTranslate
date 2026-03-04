@@ -1,13 +1,13 @@
 {
-    "illagersweararmor.config.blacklist": "Elenco nero per i malvagi (e le Vex) che impedisce loro di indossare armatura",
-    "illagersweararmor.config.illagerArmor": "Consenti agli illusi di indossare armatura in ogni momento",
-    "illagersweararmor.config.illagerCrossArms": "Consentire agli illusi di incrociare le braccia?",
-    "illagersweararmor.config.wave1": "Probabilità di armatura per ondata 1",
-    "illagersweararmor.config.wave2": "Probabilità di armatura per ondata 2",
-    "illagersweararmor.config.wave3": "Probabilità di armatura per ondata 3",
-    "illagersweararmor.config.wave4": "Probabilità di armatura per ondata 4",
-    "illagersweararmor.config.wave5": "Probabilità di armatura per ondata 5",
-    "illagersweararmor.config.wave6": "Probabilità di armatura per ondata 6",
-    "illagersweararmor.config.wave7": "Probabilità di armatura per ondata 7",
-    "illagersweararmor.config.wave8": "Probabilità di armatura per ondata 8"
+    "illagersweararmor.config.blacklist": "Elenco di nemici (come gli illagers e i vex) da evitare, che vieta loro di indossare armature.",
+    "illagersweararmor.config.illagerArmor": "Permettere agli illagers di indossare armature in ogni situazione.",
+    "illagersweararmor.config.illagerCrossArms": "Permettere agli illagers di incrociare le braccia?",
+    "illagersweararmor.config.wave1": "Probabilità di successo contro le prime ondate",
+    "illagersweararmor.config.wave2": "Probabilità di successo contro le ondate del secondo round.",
+    "illagersweararmor.config.wave3": "Probabilità di successo contro la terza ondata",
+    "illagersweararmor.config.wave4": "Probabilità di successo contro le ondate del quarto livello.",
+    "illagersweararmor.config.wave5": "Probabilità di successo contro l'onda 5",
+    "illagersweararmor.config.wave6": "Probabilità di successo contro l'onda 6",
+    "illagersweararmor.config.wave7": "Probabilità di successo contro le ondate del 7° livello.",
+    "illagersweararmor.config.wave8": "Probabilità di successo contro l'onda 8"
 }

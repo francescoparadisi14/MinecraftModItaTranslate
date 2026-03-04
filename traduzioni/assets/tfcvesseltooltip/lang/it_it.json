@@ -1,5 +1,5 @@
 {
-    "tfcvesseltooltip.tooltip.alloy": "%s megabyte di %s",
-    "tfcvesseltooltip.tooltip.metal": "§f%s mb di %s§7 (%s§7)",
-    "tfcvesseltooltip.tooltip.smelts_into": "si fonde in:"
+    "tfcvesseltooltip.tooltip.alloy": "%s MB di %s",
+    "tfcvesseltooltip.tooltip.metal": "§f%s mB di %s (§7)",
+    "tfcvesseltooltip.tooltip.smelts_into": "Si scioglie in:"
 }

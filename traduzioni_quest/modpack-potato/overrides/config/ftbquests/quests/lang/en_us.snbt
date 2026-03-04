@@ -18,6 +18,7 @@
     "chapter.5527F2EC38ED3C08.title": "Iron's Spells",
     "chapter.561A5EA25FE966F5.title": "AE2",
     "chapter.59395B6806F2A98A.title": "Cataclysm",
+    "chapter.5FC14B7D3606D064.title": "Mekanism Endgame",
     "chapter.67EA3C934935FB5F.title": "First Chapter",
     "chapter.6A8CE6EDDCA76FB3.title": "Ars Nouveau",
     "chapter.6AEDA2F9BEB57759.title": "Ars Nouveau",
@@ -135,6 +136,11 @@
     "quest.0E8CCF973279D55E.quest_desc": [
         "An elite machine capable of processing ores into four shards, serving as the initial stage of 400% ore processing"
     ],
+    "quest.0E8EB25FD7376785.quest_desc": [
+        "You will obviously need to store all that Spent Nuclear Waste somewhere.",
+        "",
+        "&e&lPS.: It does decay, but it is very slow, so pay attention to that, I'm pretty sure you don't want to make your home radioactive.&r&r"
+    ],
     "quest.10115D83731485D8.title": "Vampire level 7",
     "quest.10387D99D21FAB45.quest_desc": [
         "It cannot be found. Then there you go."
@@ -177,6 +183,9 @@
         "Archwood logs generates bonus source, blazing archwood generating the most."
     ],
     "quest.19D562FBE27D2438.title": "Construction Stick",
+    "quest.1AA392744B8697CF.quest_desc": [
+        "When cooling down your fission reactor using water you will get A LOT of Steam. You could use this to power a Mekanism Turbine! It is pretty powerful, does generate a lot of FE\/t."
+    ],
     "quest.1BCAD6E2D62C33CD.title": "Werewolf level 9",
     "quest.1CFD1822C190A34B.quest_desc": [
         "A generator that harnesses the varying molecular gases to produce energy."
@@ -190,6 +199,9 @@
         "It will absorb source from a nearby sourcelink"
     ],
     "quest.236D3250A2D010C8.title": "Energizing Orb",
+    "quest.2551235541EBBF8F.quest_desc": [
+        "You will need both in order to transform Nuclear Waste into Polonium and Plutonium."
+    ],
     "quest.278B232BABB2AFF4.quest_desc": [
         "From this level on you will need to use the Altar of Infusion. Like the previous levels the altar is already made in our village. You can get Hearts by killing hunters around the map."
     ],
@@ -236,14 +248,16 @@
     ],
     "quest.3359C43884ED53F5.title": "Werewolf level 7",
     "quest.33C7179B81C3CD92.quest_desc": [
-        "&e&lFor leveling as a werewolf you will need 3 thinks. Bones, Livers, and damage done.",
+        "&e&lFor leveling as a werewolf you will need 3 things. Bones, Livers, and damage done.",
         "",
         "&e&l.Damage Done means the sum of the max health of all killed creatures",
-        "&e&lThe progress is tracked in the Vampirism Menu",
+        "&e&l.The progress is tracked in the Vampirism Menu",
         "",
         "&e&l.Cracked Bones are dropped by Werewolves and Skeletons",
         "",
-        "&e&l.Livers are dropped by Werewolves and Villagers"
+        "&e&l.Livers are dropped by Werewolves and Villagers",
+        "",
+        "&e&l.Then Shift + Right Click the altar with a Flint \\& Steel in your hand"
     ],
     "quest.33C7179B81C3CD92.title": "Werewolf level 2",
     "quest.34696F561B1AA768.quest_desc": [
@@ -296,6 +310,13 @@
         "Flux plug will gather energy from your energy generator to the selected network."
     ],
     "quest.42AFA73ED8EF8ABC.title": "Become a Werewolf",
+    "quest.4488D58A3F9EBA59.quest_desc": [
+        "You will need to make Fissile Fuel for it.",
+        "",
+        "I mean, you could search up on JEI to understand how to get Fissile Fuel, if you got through everything until here, you should have enough braincells.",
+        "",
+        "&lGood Luck&r"
+    ],
     "quest.45C49C9E0F344926.title": "Iron Armor",
     "quest.46D25EC5D4D44E11.quest_desc": [
         "Collect Certus Quartz Crystal"
@@ -329,6 +350,9 @@
         "Block that you use to make your CAD, using CAD Assembly + some optional items."
     ],
     "quest.501476630742E4C5.title": "Vampire level 8",
+    "quest.504257900FC36116.quest_desc": [
+        "In order to activate your Fusion Reactor you will need D-T Fuel. You will need these two machines to make it."
+    ],
     "quest.50BB5858F60E0264.quest_desc": [
         "Make a farm and put the Source link near it, place the source jar close to it and use the Dominion Wand to link then"
     ],
@@ -369,8 +393,14 @@
     "quest.601540CF636DC82C.quest_desc": [
         "I recommend you get one, it will be usefull on you journey."
     ],
+    "quest.6555BD917B2D726F.quest_desc": [
+        "This is what you will need in order to transform both Polonium \\& Plutonium into pellets"
+    ],
     "quest.65755255C5DEF788.quest_desc": [
         "Made at the enrichment chamber using 3 HDPE"
+    ],
+    "quest.69D67B76B2F95012.quest_desc": [
+        "You will also need to charge up a powerful laser to activate your reactor."
     ],
     "quest.6C2EE70FBB9275C3.title": "Vampire level 11",
     "quest.6E0E13806F388D7E.quest_desc": [
@@ -457,6 +487,7 @@
     "reward_table.1997549B2C7B7A4A.title": "Flux",
     "reward_table.1F0ABAF93DC08101.title": "AE2",
     "reward_table.2D32B64313BD515F.title": "IF",
+    "reward_table.4C66123CA32F9B77.title": "Mekanism Endgame",
     "reward_table.6039B8DE9AF1B08B.title": "Extreme Reinforced",
     "reward_table.61A5FC5515F137EA.title": "Mekanism Basic",
     "reward_table.6C46518B0B9B79A4.title": "Powah Advanced",

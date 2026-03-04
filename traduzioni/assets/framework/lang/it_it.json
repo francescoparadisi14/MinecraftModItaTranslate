@@ -1,4 +1,9 @@
 {
-    "framework.gui.sync_config_failed": "(Framework) è fallito nel elaborare la configurazione di sincronizzazione dal server. Consulta i log per ulteriori informazioni.",
-    "framework.gui.sync_entity_data_failed": "(Framework) ricevuto chiavi di dati sincronizzati dell'entità sconosciute. Consultare i log per ulteriori informazioni."
+    "framework.gui.process_config_fail": "Impossibile elaborare la configurazione dal server: %s",
+    "framework.gui.sync_config_failed": "(Struttura) Impossibile elaborare la configurazione di sincronizzazione dal server. Fare riferimento ai log per maggiori dettagli.",
+    "framework.gui.sync_entity_data_failed": "(Struttura) Ricevute chiavi di dati per entità sincronizzate di tipo sconosciuto. Fare riferimento ai log per maggiori dettagli.",
+    "framework.validator.identifier.hint": "Qualsiasi identificatore valido.\nFormato: \"<namespace>:<path>\"",
+    "framework.validator.identifier.hint_with_namespace": "Un identificatore valido, ma è necessario specificare lo spazio dei nomi: %1$s.\nFormato: \"%1$s:<percorso>\"",
+    "framework.validator.resource_location.hint": "Qualsiasi posizione valida di risorsa.\nFormato: \"<namespace>:<path>\"",
+    "framework.validator.resource_location.hint_with_namespace": "Un percorso valido, ma che deve utilizzare lo spazio dei nomi: %1$s.\nFormato: %1$s:<percorso>"
 }

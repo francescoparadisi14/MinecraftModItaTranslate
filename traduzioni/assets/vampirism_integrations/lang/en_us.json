@@ -7,6 +7,7 @@
     "config.jade.plugin_vampirism.entity_blood.icon_per_line": "Icons per Line",
     "config.jade.plugin_vampirism.entity_blood.max_for_render": "Max Blood for Render",
     "config.jade.plugin_vampirism.entity_blood.show_fraction": "Show Fractions",
+    "config.jade.plugin_vampirism.entity_faction": "Show mob faction",
     "config.jade.plugin_vampirism.garlic_beacon": "Garlic Beacon",
     "config.jade.plugin_vampirism.pedestal_charging": "Pedestal Charging",
     "config.jade.plugin_vampirism.player_faction": "Player Faction",

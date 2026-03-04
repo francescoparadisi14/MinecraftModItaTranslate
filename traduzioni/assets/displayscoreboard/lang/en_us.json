@@ -1,0 +1,9 @@
+{
+    "command.displayscoreboard.add.exists": "A scoreboard with the name '%s' already exists!",
+    "command.displayscoreboard.add.success": "Scoreboard '%s' added successfully!",
+    "command.displayscoreboard.error": "Error: %s",
+    "command.displayscoreboard.modify.success": "Property '%s' of '%s' updated.",
+    "command.displayscoreboard.reload.success": "Configuration reloaded!",
+    "command.displayscoreboard.remove.not_found": "Scoreboard '%s' not found.",
+    "command.displayscoreboard.remove.success": "Scoreboard '%s' removed."
+}

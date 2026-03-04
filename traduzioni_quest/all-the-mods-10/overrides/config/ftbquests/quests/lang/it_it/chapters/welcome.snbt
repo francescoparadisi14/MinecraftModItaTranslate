@@ -1,0 +1,27 @@
+{
+    "quest.0C93D7A607AB8B83.quest_desc": [
+        "Per rivendicare un blocco, apri la mappa utilizzando il comando \"\\&6M\\&r\", quindi fai clic sull'icona \"\\&aBlocchi rivendicati\\&r\" nell'angolo in alto a sinistra.\n\nPer rivendicare un blocco, fai clic con il tasto sinistro del mouse e trascina per rivendicarlo.\n\nPer caricare forzatamente un blocco, premi il tasto \"Shift\" e fai clic con il tasto sinistro del mouse sul blocco. Se eseguito correttamente, vedrai delle linee che attraversano il blocco."
+    ],
+    "quest.3708A4780ACEB34E.quest_desc": [
+        "In questo pacchetto di mod, le missioni sono opzionali. Non è necessario completare alcuna missione per utilizzare le mod!\\n\\nMolte delle singole linee di missioni, al di fuori della linea principale, sono progettate per fungere da guide per l'utilizzo delle mod. Se desiderate seguire la progressione, assicuratevi di consultare la linea principale!"
+    ],
+    "quest.3BC0A50886A3222B.quest_desc": [
+        "ATM10 è un pacchetto per la creazione di mod per Minecraft che ti permette di esplorare il mondo delle mod in modo personalizzato!\\n\\nSe hai domande o problemi, non esitare a unirti al server Discord di ATM!"
+    ],
+    "quest.3BC0A50886A3222B.title": "\\&dBenvenuti in All The Mods 10!",
+    "quest.49EDAA2F57D3BF1D.quest_desc": [
+        "Questo contenuto è stato creato da \\&6AllTheMods Staff\\&r, o da un \\&2contributore della community\\&r, per l'uso nei pacchetti mod di AllTheMods.\n\nPoiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti a \\&e\"Tutti i diritti riservati\", questo contenuto non può essere utilizzato in altri pacchetti pubblici, a meno che non sia stato rilasciato dal team \\&6AllTheMods\\&r.\n\nQuesto contenuto è intenzionalmente nascosto. Se lo state visualizzando, siete in modalità di modifica."
+    ],
+    "quest.5AC1BE754210429E.quest_desc": [
+        "Se desiderate creare una squadra per voi e i vostri amici, utilizzate il comando `\/ftbteams party create (nome della squadra)` per creare la squadra!"
+    ],
+    "quest.7658C1C663394E85.quest_desc": [
+        "Esistono numerosi comandi utili all'interno di ATM. Ecco alcuni esempi:\n\n\\&e\/sethome\\&r (nome della casa) | Permette di impostare una casa a cui è possibile tornare tramite il comando \/home (nome). Esempio: \/sethome farm - quindi utilizzare il comando \/home farm per teletrasportarsi.\n\n\\&e\/spawn\\&r | Questo comando teletrasporterà il giocatore alla posizione di spawn del suo mondo principale.\n\n\\&e\/rtp\\&r | \"Teletrasporto casuale\" teletrasporterà il giocatore a una posizione casuale nel mondo.\n\nNota: Questi comandi hanno dei limiti e dei tempi di attesa. Se desiderate modificarli, potete modificare il file di configurazione, che potete trovare qui:\n\n- Per il gioco singolo: \\&osaves\/(nome del salvataggio)\/serverconfig\/ftbessentials.snbt\n- Per i server: \\&oworld\/serverconfig\/ftbessentials.snbt"
+    ],
+    "task.103C42C743E2A2DB.title": "Richiesta di quote",
+    "task.10A16F89D4AD238D.title": "Comandi utili",
+    "task.201F519941A2C7F4.title": "Tutti i diritti riservati",
+    "task.2C816285392535F0.title": "Tutti i diritti riservati",
+    "task.4F13A02FB0055A62.title": "Creare un team",
+    "task.52BB142F044075B4.title": "Missioni"
+}

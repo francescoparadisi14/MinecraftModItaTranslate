@@ -1,0 +1,11 @@
+{
+    "advancements.husbandry.shear_sheep.description": "Use shears to shear a sheep",
+    "advancements.husbandry.shear_sheep.title": "Wool Bandit!",
+    "fml.menu.mods.info.description.awesomesheepswell": "The wool thickens as the sheep eats grass, and you'll get more wool when sheared!",
+    "fml.menu.mods.info.displayname.awesomesheepswell": "Awesome Sheep Swell",
+    "modmenu.descriptionTranslation.awesomesheepswell": "The wool thickens as the sheep eats grass, and you'll get more wool when sheared!",
+    "modmenu.nameTranslation.awesomesheepswell": "Awesome Sheep Swell",
+    "text.autoconfig.awesomesheepswell.option.maxThickness": "Layers to max wool thickness",
+    "text.autoconfig.awesomesheepswell.option.maxThickness.@Tooltip": "Larger values, smaller thickness change per layer.",
+    "text.autoconfig.awesomesheepswell.title": "Awesome Sheep Swell"
+}

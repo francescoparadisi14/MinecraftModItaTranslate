@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Prezzo: 256 monete$(li)Uovo: Uovo$(li)Bottino: Pollo crudo, Piuma$(br2)$(l)Note$()$(br)Le galline affamate non depongono uova e quelle infelici ne depongono molto meno."
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: 256$(li)Uovo: Uovo$(li)Polle: Pollo crudo, piume$(br2)$(l)Note$()$(br)Le polli affamate non depongono uova, e quelle infelici ne depongono molto meno."
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:chicken",
             "scale": 0.8,
-            "text": "Questi umili uccelli richiedono poca attenzione, solo cibo."
+            "text": "patchouli:entità\n\nminecraft:pollo\n\nQuesti semplici uccelli richiedono poca attenzione, solo cibo."
         }
     ]
 }

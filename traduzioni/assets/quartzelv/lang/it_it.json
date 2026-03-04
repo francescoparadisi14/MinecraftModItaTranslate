@@ -1,11 +1,11 @@
 {
-    "block.quartzelv.quartz_elevator": "Ascensore di quarzo",
-    "block.quartzelv.smooth_quartz_elevator": "Ascensore di quarzo liscio",
-    "itemGroup.quartzelv.quartz_elevator": "Ascensore di quarzo",
-    "text.autoconfig.quartzelv.option.displayParticles": "Mostra particelle",
+    "block.quartzelv.quartz_elevator": "Ascensore in quarzo",
+    "block.quartzelv.smooth_quartz_elevator": "Sollevatore in quarzo liscio",
+    "itemGroup.quartzelv.quartz_elevator": "Ascensore in quarzo",
+    "text.autoconfig.quartzelv.option.displayParticles": "Mostre di particelle",
     "text.autoconfig.quartzelv.option.isPlayerOnly": "Solo giocatore",
-    "text.autoconfig.quartzelv.option.mixTypes": "Mentre si sposta tra diversi tipi di ascensori",
-    "text.autoconfig.quartzelv.option.quartzElevatorDistance": "Distanza massima dell'ascensore di quarzo",
-    "text.autoconfig.quartzelv.option.smoothQuartzElevatorDistance": "Distanza massima dell'elevatore di quarzo liscio",
-    "text.autoconfig.quartzelv.title": "Ascensore di quarzo"
+    "text.autoconfig.quartzelv.option.mixTypes": "Passare da un tipo di ascensore all'altro",
+    "text.autoconfig.quartzelv.option.quartzElevatorDistance": "Distanza massima di funzionamento dell'ascensore a quarzo",
+    "text.autoconfig.quartzelv.option.smoothQuartzElevatorDistance": "Distanza massima di funzionamento per un ascensore a quarzo liscio",
+    "text.autoconfig.quartzelv.title": "Ascensore in quarzo"
 }

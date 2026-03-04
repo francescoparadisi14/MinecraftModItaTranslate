@@ -64,6 +64,7 @@
     "debugify.fix_explanation.mc-30391": "Adds edge-case checks for chicken, blaze and the wither to fall damage spawn particles to not spawn them.",
     "debugify.fix_explanation.mc-46503": "Clears shader effects on respawn.",
     "debugify.fix_explanation.mc-55347": "Clears titles on disconnect.",
+    "debugify.fix_explanation.mc-61489": "Disabled by default because some players or mods might prefer the original book GUI position.",
     "debugify.fix_explanation.mc-69216": "Discards fishing hook entity on change to spectator.",
     "debugify.fix_explanation.mc-72151": "Wolves have a custom function to modify the amount of damage they take, which transforms input damage 0 to 0.5, this fix checks if the damage is 0.5 and changes it back to 0.",
     "debugify.fix_explanation.mc-7569": "Appends a new line to the end of every system message.",

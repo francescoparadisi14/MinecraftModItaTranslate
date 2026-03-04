@@ -1,0 +1,4 @@
+{
+    "leaky.detect": "Detected: %d stacked items in %s at:",
+    "leaky.removedItems": ". Cleaned items automatically to prevent lag"
+}

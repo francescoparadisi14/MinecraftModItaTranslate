@@ -1,0 +1,223 @@
+{
+    "quest.06094615950AC062.title": "Altri miglioramenti per i sistemi di trasporto",
+    "quest.06F84E2C484FAC5B.quest_desc": [
+        "Avete mai sentito parlare di un \"generatore di ciottoli\"? La fabbrica Material StoneWork funziona in modo simile, ma porta il concetto a un livello superiore. È possibile utilizzarla per trasformare la pietra in ghiaia, sabbia o silicio, e persino per fondere la pietra e creare ossidiana, così come JEI mostra per questa macchina."
+    ],
+    "quest.0B35172E47705205.quest_desc": [
+        "Sì, l'unità \"Industrial Foregoing\" ha anche la capacità di lavorare i minerali. Questa unità utilizza \"Carne di Minerale\" per trasformare un minerale in \"Carne Grezza di Minerale\". Non sono un esperto in questo campo, quindi non posso fare molto con questa \"Carne Grezza di Minerale\". Forse potrei darla alla Stazione di Fermentazione?"
+    ],
+    "quest.0B35172E47705205.quest_subtitle": "Lavorazione del grano: Passo 1",
+    "quest.0BCCDE24D378F260.quest_subtitle": "Livello: \\&d3",
+    "quest.0BCCDE24D378F260.title": "\\&dTelaio meccanico avanzato",
+    "quest.0D2DD9AA960843A3.quest_desc": [
+        "Il Mob Detector rileverà le entità all'interno della sua area di funzionamento e produrrà un segnale di redstone dietro di esso, con una forza pari al numero di entità presenti nell'area.\n\nQuesta macchina è compatibile con i mod Range Addons."
+    ],
+    "quest.0E8647B8EB4AAC41.quest_desc": [
+        "Gruppi di persone passivi -> Più \"sugo rosa\"\nGruppi di persone ostili -> Più \"carne\""
+    ],
+    "quest.0E8647B8EB4AAC41.title": "\"Pink Slime\" e \"Carne Liquida\"",
+    "quest.0EA9E52B67B533DF.quest_desc": [
+        "Quando la gomma viene fusa, si trasforma in plastica, che è la principale risorsa nell'industria manifatturiera."
+    ],
+    "quest.0EC2053B191C55C6.quest_desc": [
+        "Estrae il lattice dai tronchi, funziona meglio quando viene alimentato.\n\nVerificare con JEI quali tipi di tronchi e quantità di lattice sono accettabili. Il tipo di tronco migliore da utilizzare è l'acacia o il mangrovo."
+    ],
+    "quest.0FAAE744E156D8EF.quest_desc": [
+        "L'unità \\&laquo;Reattore Miceliale\\&raquo; è composta da tutti i generatori miceliali che operano simultaneamente, situati vicino al blocco del reattore, e produce un totale di \\&laquo;25 MFE\/t\\&raquo;.\n\nTutto sembra funzionare, ma è necessario automatizzare alcuni processi per farlo, per capire quali risorse consuma ciascun generatore miceliale e automatizzarli. Nella maggior parte dei casi, è semplice, ma in altri casi, richiede più lavoro... ad esempio, analizzando il \\&laquo;Generatore Miceliale di Disincantamento\\&raquo;.\n\nUna volta automatizzati tutti i processi, non è necessario fermarsi a uno solo; è possibile costruire altri reattori."
+    ],
+    "quest.0FAAE744E156D8EF.quest_subtitle": "Reattore micelio, eh?",
+    "quest.15551AC6C68E12E0.quest_desc": [
+        "Fondamentalmente, si tratta dello strumento per creare copie di \"\\&bIndustrial Foregoing\\&r\". Utilizza \"\\&aEssence\\&r\" insieme a un \"Mob Imprisonment Tool\" per creare una copia di quel mob.\n\nInoltre, i boss e altri mob che non possono essere inseriti in uno spawner* vengono esclusi anche dal \"Mob Duplicator\".\n\n*Con alcune eccezioni, tenendo premuto il tasto SHIFT quando sono attivi i tooltip avanzati (F3 + H), è possibile verificare se è presente l'etichetta \"Mob Duplicator Blacklist\"."
+    ],
+    "quest.1684D52FDAAC894B.quest_desc": [
+        "Ricorda il signore di \"Not-An-Ore-Doctor\"? La \"Washing Factory\" può sostituirlo, gestendo la materia prima (il \"Raw Ore Meat\") proveniente dalla \"Washing Factory\" e trasformandola in \"Fermented Ore Meat\". Questa macchina ha 4 modalità:\\n\\n1. Velocità di elaborazione del 2x, 5 secondi per l'elaborazione.\\n2. Velocità di elaborazione del 3x, 45 secondi per l'elaborazione.\\n3. Velocità di elaborazione del 4x, 120 secondi per l'elaborazione. Utilizza il \"Pink Slime\" come catalizzatore.\\n4. Velocità di elaborazione del 5x, 300 secondi per l'elaborazione. Utilizza il \"Ether Gas\" come catalizzatore."
+    ],
+    "quest.1684D52FDAAC894B.quest_subtitle": "Lavorazione del grano: Passo 2",
+    "quest.1823CC81D613892B.quest_desc": [
+        "La fabbrica \"Mob Slaughter Factory\" elimina i mostri nel suo'area di lavoro e li trasforma in \"Pink Slime\" e \"Liquid Meat\".\n\nMostri passivi -> Più \"Pink Slime\"\nMostri ostili -> Più \"Meat\"\n\nQuesta macchina supporta l'addon Range."
+    ],
+    "quest.1BA3D15FFE7DBE59.quest_desc": [
+        "In \\&bIndustrial Foregoing\\&r, una delle principali risorse è il \\&fLatex.\\&r Viene utilizzato per costruire telai di macchine, necessari per la costruzione e l'aggiornamento delle macchine.\\n\\nLa produzione di Latex è relativamente semplice: l'\\&aEstrattore di Fluidi\\&r estrae il Latex dagli \\&6Log (Acacia e Mangrove sono le fonti più produttive).\\n\\n------------------------\\n\\nOra, riguardo alla produzione di plastica: la plastica deriva dalla fusione del gomma naturale, che viene prodotta nell'\\&aUnità di Elaborazione del Gomma\\&r, che trasforma il Latex in gomma naturale.\\n\\nQuindi, in sintesi: Latex -> Gomma naturale -> Plastica."
+    ],
+    "quest.1BA3D15FFE7DBE59.quest_subtitle": "Latex e plastica? Ma cosa intende?",
+    "quest.1BA3D15FFE7DBE59.title": "Latex e plastica? Ma cosa intende?",
+    "quest.1F66CDC9799B5DEC.quest_desc": [
+        "Mi sono ritrovato frustrato dall'impossibilità di utilizzare la maggior parte delle chiavi per ruotare le macchine \"Industrial Foregoing\". Per questo motivo, ho compilato un elenco di tutte le chiavi che ho trovato e che sono in grado di ruotare tali macchine. Questi strumenti sono stati testati principalmente con la \"Laser Drill\", quindi i risultati si concentreranno principalmente su quella. È possibile che alcune chiavi non funzionino con altre macchine.\n\nClicca sull'attività in questa missione per visualizzare tutte le chiavi valide per questa missione."
+    ],
+    "quest.224C07AC71C5F40E.quest_desc": [
+        "Applica il mangime per animali o il fertilizzante alle piante nell'area di lavoro. Questo continuerà ad applicare il fertilizzante alle stesse colture fino a quando queste non saranno più in grado di assorbirlo, per poi passare alla coltura successiva. Ciò significa che la macchina potrebbe rimanere bloccata su colture che accettano sempre il mangime per animali, come i girasoli, o su piante che non raggiungono mai il loro stadio di crescita finale.\n\nQuesta macchina supporta le funzionalità Range Addons."
+    ],
+    "quest.22702838FC507A2E.quest_desc": [
+        "Il letto idroponico utilizza energia e acqua per coltivare colture e piantine piantate al suo interno. È in grado di supportare praticamente qualsiasi coltura che si possa immaginare. Inoltre, è possibile fornire gas di etere, in modo che la macchina raccolga automaticamente la coltura e memorizzi i risultati all'interno del suo buffer interno. Questo può anche raccogliere dati sulle colture per un processore di simulazione idroponica, da utilizzare in un letto idroponico simulato.\n\nLe piantine necessiteranno di spazio per crescere."
+    ],
+    "quest.2580135392DEF522.quest_desc": [
+        "Ti è mai sembrato che il tradizionale letto idroponico sia troppo lento? E non riesci a coltivare abbastanza \"Soul Surges\"? Ah, certo, questo set non include le \"Soul Surges\". Permettimi di presentarti il \"Simulated Hydroponic Bed\" (Letto Idroponico Simulato). Questo utilizzerà un processore di simulazione idroponica e un seme\/piccolo albero per coltivare qualsiasi coltura che desideri… virtualmente. Non hai nemmeno bisogno di \"acqua\" e \"gas etereo\" per questo. Inoltre, i processori di simulazione idroponica migliorano nel tempo man mano che vengono coltivate più colture, anche se il ritmo di crescita è più lento in un \"Simulated Hydroponic Bed\".\n\nNon perdere tempo a cercare di ottimizzare il processore. Ci vorrebbe un tempo inimmaginabilmente lungo. Molto più del tempo necessario per completare le missioni per Ender IO, senza dubbio."
+    ],
+    "quest.2580135392DEF522.quest_subtitle": "HNN, ma per quanto riguarda le colture?",
+    "quest.2580135392DEF522.title": "Letto idroponico simulato",
+    "quest.2782EA80C1C74EBD.quest_desc": [
+        "Il Mob Crusher elimina le creature nella sua area di lavoro, raccogliendo anche il loro bottino, oltre a convertire l'esperienza che la creatura avrebbe ottenuto in \"essenza\". È inoltre possibile utilizzare l'esperienza ottenuta per applicare l'abilità \"Looting\" al Mob Crusher.\n\nI boss e altre creature che non possono essere utilizzate nei spawn vengono \"bloccate\" dal Mob Crusher. Invece di essere eliminate, subiscono 75 danni ad ogni operazione.\n\nQuesta macchina supporta gli addon Range."
+    ],
+    "quest.2782EA80C1C74EBD.quest_subtitle": "Endless Gateway Crusher, anche per materiali più duri",
+    "quest.287B47E27EBC2C18.quest_desc": [
+        "La \"Enchantment Factory\" è essenzialmente un tavolo di incantamento automatizzato. Una volta fornito di ingranaggi, libri e essenza, il dispositivo incanterà l'oggetto in modo casuale. Questa macchina può utilizzare liquidi provenienti da serbatoi direttamente sopra di essa, per aumentare le possibilità di incantare ingranaggi e libri."
+    ],
+    "quest.28B3591BFC0FA08B.quest_desc": [
+        "Il \"Wither Builder\", come suggerisce il suo nome, serve a costruire i Withers. Fa parte del \"Wither's Compass\" per ATM Star.\n\nPotrebbe essere utile rivestire il \"Wither Builder\" con del vetro resistente ai Withers, per evitare che questi lo distruggano."
+    ],
+    "quest.2CCFEE98FE3B2E97.quest_desc": [
+        "Queste macchine sono utilizzate per automatizzare l'inserimento e la rimozione di blocchi. Questo è particolarmente utile quando si automatizza il processo di manipolazione della gomma latex."
+    ],
+    "quest.2CCFEE98FE3B2E97.title": "Blocchi",
+    "quest.2DC012EF21FB359E.quest_desc": [
+        "L'Estrattore di Incantesimi può rimuovere automaticamente gli incantesimi dagli oggetti. Può essere utilizzato su un Libro, oppure può convertire l'incantesimo in \"Essenza\"."
+    ],
+    "quest.2E8E292ED596A104.quest_desc": [
+        "Le lenti laser possono concentrare l'effetto dei laser su un determinato colore di minerali. Per verificare quali lenti sono più efficaci per un determinato tipo di minerale, consultare JEI. Inoltre, le lenti laser determinano anche il tipo di fluido che può essere prodotto."
+    ],
+    "quest.2F69010E1FA2787D.quest_desc": [
+        "Questa quest è stata creata da \\&6AllTheMods Staff\\&r, o da un \\&2contributore della community\\&r, per l'uso nei pacchetti mod di AllTheMods.\n\nPoiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti a \\&eTutti i diritti riservati\\&r, questa quest non può essere utilizzata in altri pacchetti pubblici, a meno che non siano stati rilasciati dal team \\&6AllTheMods\\&r, previa autorizzazione esplicita.\n\nQuesta quest è intenzionalmente nascosta. Se la visualizzate, significa che siete in modalità di modifica."
+    ],
+    "quest.3027584AA6138E6D.title": "Inserimento e rimozione di nastri trasportatori",
+    "quest.321FA7348E532F4E.quest_desc": [
+        "Il lattice è un fluido utilizzato per produrre gomma sintetica, ma può anche essere impiegato per alcuni scopi all'interno della camera di dissoluzione."
+    ],
+    "quest.321FA7348E532F4E.title": "Latex",
+    "quest.33532408B21A5378.quest_desc": [
+        "Il generatore inefficiente produce una piccola quantità di energia elettrica utilizzando combustibili come il carbone."
+    ],
+    "quest.339DF320DDCAD98B.quest_desc": [
+        "I trasportatori possono essere utilizzati per spostare oggetti e\/o liquidi tra magazzini situati a 1 blocco di distanza. È necessario avere un trasportatore sul lato di estrazione e un altro sul lato di inserimento. Per cambiare queste modalità, è sufficiente fare clic con il tasto destro nell'area centrale.\n\nÈ possibile avere diversi tipi di trasportatori nello stesso blocco. È possibile migliorarli con degli \"Addon\". \"Speed\" per aumentare la velocità di trasferimento, \"Efficiency\" per aumentare la quantità trasferita."
+    ],
+    "quest.339DF320DDCAD98B.title": "Trasporto di articoli e fluidi",
+    "quest.34AA079FFAFC64BD.quest_desc": [
+        "L'ultimo passaggio del processo di lavorazione dei minerali di \\&bIndustrial Foregoing\\&r, ovvero la macchina per la separazione per setacciatura dei fluidi. Questa macchina utilizzerà la sabbia per filtrare la parte utile della carne di minerale fermentato, ottenendo così della polvere. Potete utilizzare questa polvere come preferite. Potete fondere, mescolarla con un metallo fuso."
+    ],
+    "quest.34AA079FFAFC64BD.quest_subtitle": "Lavorazione del grano: Passo 3",
+    "quest.3514E9C1A8C7400C.quest_subtitle": "Livello: \\&b2",
+    "quest.3514E9C1A8C7400C.title": "\\&bTelaio per macchine semplici",
+    "quest.3AFDE3396861A944.quest_desc": [
+        "L'Enchantment Applicator è un macchinario automatizzato simile a un martello. È in grado di applicare libri incantati all'equipaggiamento in modo automatico. Utilizza \"\\&aEssence\\&r\" al posto di \"\\&aExperience\\&r\". Questa macchina può utilizzare liquidi provenienti da serbatoi direttamente sopra di essa, per aumentare le possibilità di incantare l'equipaggiamento."
+    ],
+    "quest.3CB7884B7B32CF00.quest_desc": [
+        "Ottenere il vostro primo \"Ether Gas\" potrebbe essere un'esperienza un po' spaventosa.\n\nL'\"Ether Gas\" viene ottenuto perforando un \"Wither\" utilizzando una \"Fluid Drill\" con una \"Purple Lens\".\n\nMa non preoccupatevi del \"Wither\", Industrial Foregoing dispone di una macchina appositamente progettata per aiutarvi in questa operazione. La \"Stasis Chamber\" è una macchina che congela qualsiasi oggetto situato sopra di essa in un'area di 3x3, incluso il \"Wither\".\n\nSpero che non vi manchino le risorse, perché se ciò accadesse... spero che siate pronti a combattere il \"Wither\". Per questo motivo, consiglio di utilizzare un tipo di vetro resistente al \"Wither\", come il vetro colorato fornito da Mob Grinding Utils, o il Crystalix Glass con la modalità \"Reinforced Mode\" abilitata."
+    ],
+    "quest.3CB7884B7B32CF00.quest_subtitle": "Gas di etere? Ma cosa intende?",
+    "quest.3E6706BC4C318A40.quest_desc": [
+        "Il \"Sifone\" raccoglie i rifiuti organici provenienti dagli animali nell'area di lavoro, nonché le esperienze dei giocatori per convertirle in \"Essenza\".\n\nIl \"Sifone\" può trasformare i rifiuti organici in \"Fertilizzante\".\n\nIl \"Sifone\" supporta gli \"Addon\" per estendere le funzionalità."
+    ],
+    "quest.3E6706BC4C318A40.quest_subtitle": "Direttamente dal campo di letame, la tua inquietante presenza.",
+    "quest.3E6706BC4C318A40.title": "Fognatura",
+    "quest.408203C29BAABA44.quest_desc": [
+        "Utilizzato esclusivamente per un'unica funzione."
+    ],
+    "quest.418E57E34FFC19E1.quest_desc": [
+        "La base Laser Drills è lo strumento \"Void Miner\" di Industrial Foregoing, in grado di generare minerali dal nulla. Le lenti consentono di favorire un colore specifico di minerale, ad esempio il blu per il lapislazzuli.\n\nLa base Laser Fluid produce fluidi sia dal nulla che da specifiche creature. Per questo è necessario utilizzare l'apposito lente. Le creature utilizzate per produrre fluidi subiranno danni, quindi si consiglia l'utilizzo di una Camera di Stasi.\n\nLe trivelle Laser forniscono progressi alla base Laser nella sua area di lavoro."
+    ],
+    "quest.418E57E34FFC19E1.quest_subtitle": "Minatore di risorse inutilizzate",
+    "quest.418E57E34FFC19E1.title": "Trapano laser",
+    "quest.41E8550FC36ABCA5.quest_desc": [
+        "Gli \"Infinity Tools\", chiamati così per la loro capacità di essere ricaricati quasi indefinitamente, possono ottenere vantaggi speciali aumentando il loro livello. L'inserimento di \"\\&5Biofuel\\&r\" li renderà più efficienti, consumando il carburante invece dell'energia quando vengono utilizzati.\n\nEsistono 7 livelli:\n* Povero\n* Comune\n* Raro\n* Rare\n* Epico\n* Leggendario\n* Artefatto\n\nPer maggiori informazioni su ciascun Infinity Tool, consultare il manuale di Industrial Foregoing (in modo da non dover descrivere così tanti Infinity Tools in un'unica missione)!"
+    ],
+    "quest.41E8550FC36ABCA5.title": "Infinity Tools",
+    "quest.427C3AFC0FF131CD.title": "Liquidi",
+    "quest.483E93500E645835.quest_desc": [
+        "È almeno più versatile rispetto all'ingotto."
+    ],
+    "quest.485AFAE5BBEF2FC7.quest_desc": [
+        "Il \"Allevatore di animali\" taglia la lana e cura le pecore.\nIl \"Alimentatore di animali\" fornisce cibo agli animali per favorire la riproduzione.\nIl \"Separatore di cuccioli\" trasporta i cuccioli dietro di sé.\n\nTutti questi macchinari sono compatibili con i \"Range Addons\"."
+    ],
+    "quest.485AFAE5BBEF2FC7.title": "Animali",
+    "quest.4A8C60412E59E971.quest_desc": [
+        "Questa macchina è in grado di separare oggetti incantati e non incantati. Gli oggetti incantati vengono depositati nell'inventario superiore, mentre quelli non incantati nell'inventario inferiore."
+    ],
+    "quest.4C366515E3CCB0B2.quest_desc": [
+        "Carne cotta in un tubo, deliziosa."
+    ],
+    "quest.4DB5DD6E20619B4D.quest_desc": [
+        "Utilizzati per migliorare le macchine. Esistono 8 livelli di componenti aggiuntivi, e 4 specificamente progettati per il sistema Range."
+    ],
+    "quest.4F3EF1574F31A7E2.quest_desc": [
+        "La Camera di Stasi può tenere ferme le creature all'interno della sua area di azione. Inoltre, le creature mantenute in stasi vengono anche curate dalla Camera. Avete bisogno di ulteriore cura? Acquistate degli add-on!"
+    ],
+    "quest.538186D01429F05F.quest_desc": [
+        "In questa ricerca, ci concentreremo sull'utilizzo di AE2 per automatizzare la preparazione di pozioni. Innanzitutto, è necessario creare una configurazione simile a questa:",
+        "{image:atm:textures\/questpics\/industrialforegoing\/potionbrewerdemonstration.png width:175 height:200 align:center}",
+        "(La \"Cella di Energia Creativa\" funge da spazio di lavoro temporaneo per la tua rete principale)",
+        "{@pagebreak}",
+        "Avremo bisogno di un \"\\&9Export Bus\" o di un \"\\&9Interface\" per riempire il \"\\&cPotion Brewer\" con \"\\&1Acqua\" e \"\\&6Polvere di Blaze\". La \"\\&6Polvere di Blaze\" sarà utilizzata come combustibile. Non fornire ancora le bottiglie, poiché riempirebbero la vostra rete di bottiglie d'acqua.",
+        "{@pagebreak}",
+        "Il passo successivo sarà ottenere",
+        "\\&5Fornitore di Pattern Avanzato\\&r. Consultare il capitolo \"Avanzato \\& Avanzato AE\" per saperne di più sull'utilizzo. Successivamente, dovremo codificare un pattern. Ad esempio, per creare 3 \\&4Pozioni di Cura\\&r, mirate ai \"Royal Treats\" per le api modulari. Codificare il pattern nel seguente modo: 3 bottiglie di vetro, 1 Nether Wart, 1 fetta di melone brillante, per produrre 3 \\&4Pozioni di Cura\\&r. Utilizzeremo entrambe le capacità speciali del \\&5Fornitore di Pattern Avanzato\\&r. La prima è la sua capacità di inviare oggetti a un lato specifico. Utilizzeremo questa funzione per inviare le bottiglie di vetro al lato SUPERIORE della macchina. Utilizzare il \\&5Codificatore di Pattern Avanzato\\&r per codificare il pattern, nel seguente modo:",
+        "{image:atm:textures\/questpics\/industrialforegoing\/advanced_pattern.png width:200 height:100 align:center}",
+        "{@pagebreak}",
+        "Successivamente, è necessario abilitare l'importazione filtrata per il fornitore \"\\&5Advanced Provider\\&r\". Ciò significa che il fornitore \"\\&5Advanced Provider\\&r\" accetterà solo gli oggetti che corrispondono ai lavori di crafting attualmente attivi. Ciò impedirà l'accettazione prematura delle pozioni. È inoltre possibile aggiungere componenti aggiuntivi per l'elaborazione, soprattutto per lavori di crafting di dimensioni maggiori che potrebbero utilizzare lo stesso fornitore.\n\nInfine, è necessario configurare le impostazioni del \"Potion Brewer\" come segue:",
+        "{image:atm:textures\/questpics\/industrialforegoing\/blaze_input.png width:125 height:100 align:center}",
+        "{image:atm:textures\/questpics\/industrialforegoing\/bottle_input.png width:125 height:100 align:center}",
+        "{image:atm:textures\/questpics\/industrialforegoing\/brewing_input.png width:125 height:100 align:center}",
+        "{image:atm:textures\/questpics\/industrialforegoing\/output.png width:125 height:100 align:center}",
+        "Se si utilizza il metodo \"\\&9Interface\\&r\", configurare i lati come segue:",
+        "{image:atm:textures\/questpics\/industrialforegoing\/blaze_input_for_interface.png width:125 height:100 align:center}",
+        "{image:atm:textures\/questpics\/industrialforegoing\/water_for_interface.png width:125 height:100 align:center}",
+        "{@pagebreak}",
+        "Facoltativamente, è possibile inserire un'etichetta di trasferimento tra i componenti \"\\&5Advanced Provider\\&r\" e \"\\&cBrewer\\&r\".\\n\\nSe questa configurazione non è chiara, o preferireste guardare un video, consultate il video che ho linkato qui, di ChosenArchitect:",
+        "{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https:\/\/youtu.be\/DOW4xkxqp6g?si=paZ2xFKyycPumqaS&t=427\"},\"color\":\"blue\",\"text\":\"VIDEO LINK HERE\",\"underlined\":true} "
+    ],
+    "quest.538186D01429F05F.quest_subtitle": "Utilizzando AE2",
+    "quest.538186D01429F05F.title": "Automatizzare la preparazione delle pozioni",
+    "quest.540B857F043C24D5.quest_desc": [
+        "Il bioreattore produce \\&5Biofuel\\&r utilizzando \\&9acqua\\&r e una varietà di materiali diversi (consultare JEI per tutti i materiali validi per il bioreattore). Maggiore è il numero di materiali forniti, più efficiente sarà il bioreattore nella produzione di \\&5Biofuel\\&r.\n\nIl generatore di biofuel utilizza \\&5Biofuel\\&r prodotto dal \\&5Bioreattore\\&r per generare energia."
+    ],
+    "quest.540B857F043C24D5.title": "Energia biologica",
+    "quest.55820773BDD5319D.quest_desc": [
+        "\\&bIndustrial Foregoing\\&r (IF, per brevità) è un mod tecnologico che aggiunge numerose macchine con diversi utilizzi.\n\nPer iniziare, costruite un \\&aTelaio per Macchina di Compassione\\&r."
+    ],
+    "quest.55820773BDD5319D.quest_subtitle": "Livello: \\&a1",
+    "quest.55820773BDD5319D.title": "Prevenzione industriale",
+    "quest.57C4A0BAE739E903.quest_desc": [
+        "La Camera di Dissoluzione viene utilizzata per creare macchinari più avanzati.\n\nDovrete inserire un determinato liquido, insieme agli oggetti necessari per la creazione. Consultate JEI."
+    ],
+    "quest.57C4A0BAE739E903.quest_subtitle": "Il tavolo di lavoro?",
+    "quest.5FE631066CAB7397.quest_desc": [
+        "Progettato per catturare e trasportare facilmente gruppi di creature."
+    ],
+    "quest.605A5AC65BC7E864.quest_desc": [
+        "Il Marine Fisher può pescare automaticamente. È in grado di catturare pesci, tesori, libri incantati e altri oggetti. Tuttavia, non è possibile catturare api; per farlo, è necessario pescare manualmente.\n\nDeve essere posizionato sopra una piscina di dimensioni 3x3 e 9 (o più grande)."
+    ],
+    "quest.616CFD4078D67B51.quest_desc": [
+        "Le nastri trasportatori sono un altro modo per trasportare oggetti. Possono essere utilizzati con oggetti, entità e persino fluidi. Grazie agli aggiornamenti dei nastri trasportatori, è possibile interagire con l'ambiente.\n\nÈ possibile migliorare i nastri trasportatori utilizzando il Glowstone per renderli più veloci, e il Plastic per impedirgli di raccogliere oggetti."
+    ],
+    "quest.65C147F5282E8FCD.quest_desc": [
+        "Il caricatore Infinity è la soluzione ideale per caricare gli strumenti Infinity. È progettato specificamente per gli strumenti Infinity e offre una grande capacità di ricarica.\n\nInoltre, può essere utilizzato anche per caricare altri dispositivi."
+    ],
+    "quest.690CFF61CE787D43.quest_desc": [
+        "La plastica è la principale risorsa di \\&bIndustrial Foregoing\\&r; ora avete accesso a macchinari molto utili!"
+    ],
+    "quest.6C001E18093FC037.quest_desc": [
+        "Il raccoglitore di piante raccoglie le piante nell'area di lavoro. Le piante raccolte possono essere utilizzate per produrre \"Fanghi\", che possono essere utilizzate in un \"Raffinatore di Fanghi\". Quando viene fornito \"Gas di Etere\", il raccoglitore di piante replanterà automaticamente le colture.\n\nIl seminate di piante semina automaticamente colture e piantine. Ha 9 slot di inventario con colori diversi, che corrispondono alle marcature colorate sulla macchina. L'area di lavoro della macchina è divisa in 9 segmenti, che corrispondono ai vari slot di inventario.\n\nEntrambe queste macchine supportano gli \"Addon di Raggio\"."
+    ],
+    "quest.6C001E18093FC037.title": "Piante",
+    "quest.6E131A32A96D7BF5.quest_desc": [
+        "La \"Sludge Refiner\" può utilizzare \"Sludge\" per produrre materiali come terra, ghiaia, sabbia di spirito... e così via. Per ulteriori informazioni, consultare JEI."
+    ],
+    "quest.6FF04DD735346BED.quest_desc": [
+        "Trasforma il lattice in gomma secca. Utilizza 750 ml di lattice e 500 ml di acqua per produrre 1 unità di gomma secca."
+    ],
+    "quest.7B4AF35313D7D779.quest_subtitle": "Livello: \\&64",
+    "quest.7B4AF35313D7D779.title": "\\&6 Telaio Supremo",
+    "quest.7CB4D47ABC295B92.quest_desc": [
+        "Prepara pozioni. Come una normale postazione di preparazione, richiede polvere di Blaze come combustibile e utilizza bottiglie. Tuttavia, a differenza di una postazione di preparazione standard, può riempire automaticamente le bottiglie con acqua.\n\nA differenza di altre missioni in cui fornisco una breve panoramica della macchina, in un'altra missione fornirò un'istruzione dettagliata per automatizzare questo processo, poiché alcune parti della macchina sono piuttosto complesse e poco intuitive."
+    ],
+    "quest.7E39FB9F3E973009.quest_subtitle": "No, non si tratta di un prodotto di Mekanism Chemical, ma di \"Wither Milk\".",
+    "quest.7E39FB9F3E973009.title": "Gas di etere",
+    "task.1F1A69738DE70DB6.title": "Il reattore miceliale",
+    "task.335D80E83360A7DB.title": "Comprendere il gas Ether",
+    "task.38E166AC8F55D42E.title": "Aggiornamenti",
+    "task.391AB5CA0E5C35FD.title": "Comprendere il lattice e la plastica",
+    "task.4031B8B8FBDDEEE4.title": "Etichette di trasferimento",
+    "task.5BCE4EFD40BF767D.title": "Chiavi compatibili con macchine IF",
+    "task.6B17A0D9906E8C90.title": "Tutti i diritti riservati",
+    "task.6D00B76B8A141BB8.title": "Qualsiasi fornitore di modelli avanzati per l'elaborazione del linguaggio naturale.",
+    "task.7058D3373DA87B34.title": "Tutti i diritti riservati",
+    "task.7FBDB1383D052B82.title": "Me Export Bus o Me Interface"
+}

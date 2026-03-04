@@ -56,6 +56,8 @@
     "block.decorative_blocks.warped_seat": "Warped Seat",
     "block.decorative_blocks.warped_support": "Warped Support",
     "fluid.decorative_blocks.thatch": "Thatch",
+    "fluid_type.decorative_blocks.thatch": "Thatch",
+    "itemGroup.decorative_blocks.general": "Decorative Blocks",
     "key.decorative_blocks.switch_item_state": "Switch item state",
     "message.decorative_blocks.invalid_bonfire_activator_config": "Bonfire activator config wrong!",
     "tab.decorative_blocks": "Decorative Blocks",

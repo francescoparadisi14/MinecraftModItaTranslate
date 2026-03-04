@@ -1,0 +1,20 @@
+{
+    "command.combat_evolution.execution_failed": "execution failed",
+    "config.combat_evolution.client_config": "Combat Evolution Client Config",
+    "config.combat_evolution.hud_type": "HUD Type:",
+    "config.combat_evolution.icon_display": "Icon Display",
+    "config.combat_evolution.play_music": "Play CE Music:",
+    "config.combat_evolution.text_display": "Text Display:",
+    "death.attack.execution": "%1&s was executed",
+    "effect.combat_evolution.bypass_dodge_effect": "Bypass Dodge",
+    "effect.combat_evolution.bypass_guard_effect": "Bypass Guard",
+    "effect.combat_evolution.full_stun_immunity": "Full Stun Immunity",
+    "entity.combat_evolution.shelmarow": "ShelMarow (Test Mob)",
+    "hud.combat_evolution.execution_disabled": "Execution Disabled!",
+    "hud.combat_evolution.execution_tooltip": "Aim target and\npress [%s]",
+    "key.categories.combat_evolution": "Combat Evolution",
+    "key.combat_evolution.execution": "Execution",
+    "skill.combat_evolution.shield_counter": "Shield Counter",
+    "skill.combat_evolution.shield_counter.tooltip": "When holding a shield in your off-hand\nPress [Guard + Weapon Innate] to swing the shield\nIf you successfully block an attack, you will stun the enemy, restore your stamina, and gain stun immunity, resistance, and strength effect",
+    "text.combat_evolution.not_available_pos": "Location is not standing or have not enough space"
+}

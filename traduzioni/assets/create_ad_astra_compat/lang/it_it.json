@@ -1,6 +1,6 @@
 {
-    "creativetab.create_ad_astra_compat_tab": "Compatibilità con Create Ad Astra",
-    "item.create_ad_astra_compat.crushed_calorite_ore": "Carbone triturato di Calorite",
-    "item.create_ad_astra_compat.crushed_desh_ore": "Carbone di Desh triturato",
-    "item.create_ad_astra_compat.crushed_ostrum_ore": "Carbone di ostrum triturato"
+    "creativetab.create_ad_astra_compat_tab": "Crea Ad Astra Compat",
+    "item.create_ad_astra_compat.crushed_calorite_ore": "Caloritite macinata",
+    "item.create_ad_astra_compat.crushed_desh_ore": "Polvere di caffè Desh Ore",
+    "item.create_ad_astra_compat.crushed_ostrum_ore": "Ostrum macinato"
 }

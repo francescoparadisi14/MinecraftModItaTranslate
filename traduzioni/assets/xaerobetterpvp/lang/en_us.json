@@ -7,6 +7,7 @@
     "gui.xaero_armour_status": "Armor Status",
     "gui.xaero_armour_status_settings": "Armor Status Settings",
     "gui.xaero_being_shot_setting": "\"Being Shot\" Notifications",
+    "gui.xaero_better_pvp_server_profiles": "Better PVP Server Settings",
     "gui.xaero_better_pvp_settings": "Better PvP Settings",
     "gui.xaero_both": "Both",
     "gui.xaero_box_armour_status": "An interface displaying info about your currently worn armor and item held at the time.",
@@ -75,5 +76,6 @@
     "gui.xaero_sneak": "Toggle Sneak",
     "gui.xaero_sprint": "Better Sprint",
     "gui.xaero_toggle_sneak": "Toggle Sneak",
-    "gui.xaero_xp_setting": "XP Drops"
+    "gui.xaero_xp_setting": "XP Drops",
+    "key.category.xaerobetterpvp.controls": "Better PVP"
 }

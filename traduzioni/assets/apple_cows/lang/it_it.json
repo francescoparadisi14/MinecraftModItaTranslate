@@ -1,0 +1,16 @@
+{
+    "entity.apple_cows.apple_cow": "Mela e mucca",
+    "entity.apple_cows.enchanted_golden_apple_cow": "Mucca con una mela d'oro magica",
+    "entity.apple_cows.golden_apple_cow": "Mucca d'oro",
+    "item.apple_cows.apple_cow": "Uovo di covata di mucca (Apple Cow)",
+    "item.apple_cows.apple_cow_converter": "§4 Convertitore Apple-Mela",
+    "item.apple_cows.apple_cow_spawn_egg": "Uovo di covata di mucca (Apple Cow)",
+    "item.apple_cows.enchanted_golden_apple_cow": "Uovo di covata di mucca \"Golden Apple\" incantata",
+    "item.apple_cows.enchanted_golden_apple_cow_converter": "§5 Convertitore per mucche in forma di mela dorata incantata",
+    "item.apple_cows.enchanted_golden_apple_cow_spawn_egg": "Uovo di covata di mucca \"Golden Apple\" incantata",
+    "item.apple_cows.enchanted_golden_wheat": "§5: Il grano dorato incantato",
+    "item.apple_cows.golden_apple_cow": "Uovo di covata di Golden Apple Cow",
+    "item.apple_cows.golden_apple_cow_converter": "§6 Convertitore per bovini Golden Apple",
+    "item.apple_cows.golden_apple_cow_spawn_egg": "Uovo di covata di Golden Apple Cow",
+    "item.apple_cows.golden_wheat": "§6 Grano d'oro"
+}

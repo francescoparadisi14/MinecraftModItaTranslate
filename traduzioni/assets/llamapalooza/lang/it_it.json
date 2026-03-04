@@ -1,8 +1,8 @@
 {
-    "config.jade.plugin_llamapalooza.cooldown": "Timeout per l'esplosione di saliva: %s",
+    "config.jade.plugin_llamapalooza.cooldown": "Raffreddamento: %s",
     "config.jade.plugin_llamapalooza.stats": "Statistiche: %s\/%s\/%s",
-    "entity.llamapalooza.item_spit": "Sputo di oggetto",
-    "entity.llamapalooza.loot_llama": "Llama di bottino",
-    "item.llamapalooza.loot_llama_spawn_egg": "Uovo di spawn della lama del bottino",
-    "itemGroup.llamapalooza": "Llamapalooza"
+    "entity.llamapalooza.item_spit": "Articolo:",
+    "entity.llamapalooza.loot_llama": "Raccogliere il lama",
+    "item.llamapalooza.loot_llama_spawn_egg": "Uova di Lama (per la creazione di Lama)",
+    "itemGroup.llamapalooza": "LlamaPalooza"
 }

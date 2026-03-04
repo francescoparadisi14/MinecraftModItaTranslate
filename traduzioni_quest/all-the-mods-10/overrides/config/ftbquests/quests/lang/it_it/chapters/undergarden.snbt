@@ -1,0 +1,297 @@
+{
+    "quest.00CB8D60E7831A57.quest_desc": [
+        "Le catacombe sono vaste strutture sotterranee costruite con mattoni di Depthrock. Potresti trovare delle parti che sporgono dal terreno.\n\nAll'interno di questo labirinto immensa, troverai i forzieri nascosti \"\\&Forgotten Chests\" e il boss: \"\\&Forgotten Guardian\".\n\nSpero che siate preparati!"
+    ],
+    "quest.00CB8D60E7831A57.title": "Catacombe",
+    "quest.01B13BBB41BBB460.quest_desc": [
+        "L'armatura di Cthulium ha le stesse statistiche dell'armatura di Netherite! \\n\\nSenza la necessità di utilizzare un modello di fabbricazione!"
+    ],
+    "quest.01B13BBB41BBB460.title": "\\&Armatura di Cthulhu",
+    "quest.050D8480EE9D8E62.quest_desc": [
+        "Le foreste di Wigglewood sono foreste come tutte le altre. \\n\\nQuesti alberi, però, hanno la libertà di muoversi come desiderano.",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_wiggle.png width:200 height:100 align:center}"
+    ],
+    "quest.050D8480EE9D8E62.title": "Foresta di Wigglewood",
+    "quest.06D13E319C26C949.quest_desc": [
+        "Il \"Palude dei Funghi Sanguigni\" è l'habitat dei giganti funghi sanguigni.\n\nI funghi sanguigni mi mettono a disagio, quindi preferisco mantenere questa descrizione breve.",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_blood.png width:200 height:100 align:center}"
+    ],
+    "quest.06D13E319C26C949.title": "Palude dei funghi sanguinosi",
+    "quest.073BA8470EA37A00.quest_desc": [
+        "Un altro mare, ma questo è molto più freddo.",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_icey.png width:200 height:100 align:center}"
+    ],
+    "quest.073BA8470EA37A00.title": "Mare ghiacciato",
+    "quest.08D9C809CF4062E8.quest_desc": [
+        "Mangiali crudi, arrostiscili o infilzali su uno spiedino.\n\nCosa non puoi fare con i fagioli Underbeans!"
+    ],
+    "quest.0A0A991BAC99092C.quest_desc": [
+        "La palude di funghi Indigo è molto più estesa rispetto alla palude dei funghi Sangue.\n\nNaturalmente, presenta funghi Indigo, ma anche piccoli alberi di Smogstem e stagni di Virulent Mix. Mi chiedo a cosa servono...",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_indigo.png width:200 height:100 align:center}"
+    ],
+    "quest.0A0A991BAC99092C.title": "Palude di funghi indaco",
+    "quest.0A1D6E233C0ECC8E.quest_desc": [
+        "\\&dNargoyles\\&r sono creature aggressive e ostili che appaiono sottoterra.\n\nHanno 7 e mezzo cuori e cercheranno costantemente di ucciderti.\n\nNon lasciano oggetti e servono solo come ostacolo per coloro che cercano di estrarre risorse in modo pacifico.",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_nargoyle.png width:100 height:100 align:center}"
+    ],
+    "quest.0A1D6E233C0ECC8E.title": "\\&dNargoyle\\&r",
+    "quest.0C98503A2F20484D.quest_desc": [
+        "Nelle vicinanze di Frostfields, potrete trovare foreste di alberi \"Smogstem\", simili alle foreste di Frostfields, ma con alberi specifici chiamati \"Smogstem\".",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_frostytrees.png width:200 height:100 align:center}"
+    ],
+    "quest.0C98503A2F20484D.title": "Foresta di Smogstem, avvolta nella nebbia",
+    "quest.0D91A6B36BD2F526.quest_desc": [
+        "Migliorate la vostra ascia da battaglia \\&7Cloggrum\\& per ottenere l'arma più potente che \\&2Undergarden\\& possa offrire!"
+    ],
+    "quest.0D91A6B36BD2F526.title": "Arma definitiva!",
+    "quest.0FA77C28A57E06F1.quest_desc": [
+        "I funghi \"Veiled Mushrooms\" si trovano esclusivamente nelle loro zone umide.\n\nPresentano dei cappelli marroni, e se sotto di essi c'è aria, si generano i \"Veiled Mushrooms\". Da qui il nome!"
+    ],
+    "quest.1054168AFD8520D4.quest_desc": [
+        "Il \"Guardiano Dimenticato\" è un golem enorme, composto da \"Ingots Dimenticati\".\n\nSi concentrerà sul giocatore e farà tutto il necessario per eliminarlo.\n\nHa 80 punti ferita e, se riuscirà a essere sconfitto, rilascerà \"Nuggets Dimenticati\".",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_guardian.png width:100 height:200 align:center}"
+    ],
+    "quest.1054168AFD8520D4.title": "\\&Un guardiano dimenticato\\&",
+    "quest.1190BB433EFA3945.quest_desc": [
+        "Lo \"Slingshot\" è un'arma molto divertente aggiunta da \\&2\\&lUndergarden\\&r. Può sparare 4 tipi di proiettili:\n\n*   **Scintling Goo:** Quando colpisce un mob, lo fa diventare \"Gooey\".\n*   **Depthrocks:** Sono semplicemente proiettili normali.\n*   **Rotten Blisterberries:** Esplodono all'impatto.\n*   **Gronglets:** Non infliggono danni, ma producono solo rumore e vengono sparati!"
+    ],
+    "quest.119242549BD21764.quest_desc": [
+        "\\&eBrutes\\&r appaiono in alcuni biomi e sono neutrali.\n\nSe vengono attaccati, tutti i presenti nell'area attaccheranno. Sono simili a lupi o a Piglins zombi.\n\nAl momento della morte, potrebbero rilasciare i loro zanne, che possono essere utilizzate come sostituti delle ossa!",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_brute.png width:100 height:100 align:center}"
+    ],
+    "quest.119242549BD21764.title": "\\&eBrutes\\&r",
+    "quest.130577AD1A1A8222.quest_desc": [
+        "\\&7Cloggrum\\&r ha statistiche leggermente inferiori rispetto all'Armatura di Ferro, ma ha la capacità di crescere sugli alberi, quindi ritengo che sia un'equa compensazione.\n\nLe stivali aiutano anche a superare le pozze di \"Goo\"!"
+    ],
+    "quest.130577AD1A1A8222.title": "\\&7Cloggrum\\&r Armatura",
+    "quest.141681FE9E524FB0.quest_desc": [
+        "\\&7I \"Forgetting\" sono creature che appaiono all'interno della Struttura delle Catacombe.\n\nIndossano armature antiche e utilizzano strumenti di Cloggrum, che possono essere ottenuti al momento della loro morte.\n\nInoltre, attaccheranno e uccideranno anche le creature \"Rot Mobs\".",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_forgotten.png width:100 height:200 align:center}"
+    ],
+    "quest.141681FE9E524FB0.title": "\\&7Dimenticato",
+    "quest.15A8F04BC10E619E.quest_desc": [
+        "Alcune persone detestano esplorare numerosi biomi diversi per ottenere tutti i diversi piantine di alberi.\n\nOvviamente, lo sviluppatore di \"\\&2\\&lUndergarden\\&r\" lo ha fatto, quindi ha collocato la maggior parte di esse nella Foresta Densa!",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_dense.png width:200 height:100 align:center}"
+    ],
+    "quest.15A8F04BC10E619E.title": "Foresta fitta",
+    "quest.16A04B2FC3F0D902.quest_desc": [
+        "\\&7Cloggrum\\&r Tools funzionano esattamente come gli strumenti in ferro, ma hanno un aspetto più simile al fango piuttosto che al ferro!\n\nTuttavia, la spada infligge più danni rispetto a una spada in ferro."
+    ],
+    "quest.16A04B2FC3F0D902.title": "\\&7Cloggrum\\&r: Strumenti",
+    "quest.17C2C8F64B4AE6EE.quest_desc": [
+        "\\&2Dwellers\\&r sono le mucche che si trovano nel \\&2Undergarden\\&r.\nSono creature passive e, al momento della morte, rilasciano cuoio e carne di Dweller.\n\nGrazie a Dio, non possono essere addomesticate, perché non voglio alcuna carne prodotta da queste creature.",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_dweller.png width:100 height:100 align:center}"
+    ],
+    "quest.17C2C8F64B4AE6EE.title": "\\&2Residente\\&r",
+    "quest.1BAE1519E44E40CE.quest_desc": [
+        "Immaginate il Mar Antico. Ora, rimuovete tutta la laminaria e tutti gli elementi denominati \"\\&bGwibs\\&r\" e \"\\&bGwiblings\\&r\".\n\nEcco, questo è il Mar Morto!",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_dead.png width:200 height:100 align:center}"
+    ],
+    "quest.1BAE1519E44E40CE.title": "Mar Morto",
+    "quest.1C232674CD04024D.quest_desc": [
+        "La dimensione \"Undergarden\" è piena di biomi diversi e bizzarri, ricchi di vegetazione, creature (sia amichevoli che ostili) e, naturalmente, minerali e oggetti.\n\nSpero che siate pronti per una battaglia!"
+    ],
+    "quest.1C232674CD04024D.title": "Benvenuti nel \"Undergarden\"!",
+    "quest.1E13D7CE5A9EFF74.quest_desc": [
+        "Frostfields è uno dei biomi freddi in Undergarden. Si riconosce facilmente per i suoi enormi iceberg, la neve imbiancata e il terreno ghiacciato!\n\nQui, invece del normale terreno roccioso sotterraneo, troverete il Shiverstone.\n\nIl Shiverstone si comporta più come il ghiaccio che come la roccia vera. Almeno quando ci si sta sopra!",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_frosty.png width:200 height:100 align:center}"
+    ],
+    "quest.1E13D7CE5A9EFF74.title": "Campi innevati",
+    "quest.1E81B903137BB62A.quest_desc": [
+        "Gli strumenti standard non saranno sufficienti, soprattutto quando si devono affrontare i pericolosi mostri nell'area \\&2\\&lUndergarden\\&r.\n\nPossiamo creare lo \\&7Scudo di Cloggrum\\&r, che funziona come uno scudo normale.\n\nTuttavia, dovremo ottenere l'\\&7Ascia da battaglia\\&r come oggetto raro ottenibile da \\&7Forgottens\\&r."
+    ],
+    "quest.1E81B903137BB62A.title": "\\&7Cloggrum\\&r Armi",
+    "quest.1FCF946B7BE3C0BD.quest_desc": [
+        "«Gli strumenti di Utherium sono simili a quelli in diamante, ma le armi sono più efficaci contro i mostri! \\n\\nLi utilizzi per infliggere loro più danni! Probabilmente potrei fare decine di riferimenti alla cultura popolare, ma non mi vengono in mente...»"
+    ],
+    "quest.1FCF946B7BE3C0BD.title": "\\&Strumenti",
+    "quest.22739522F0D33D7B.quest_desc": [
+        "I Gloomgourds si riproducono e possono essere coltivati come le zucche.\nCome le zucche, possono essere trasformate in torte o persino in \"Jack-O-Lantern\"!\nA differenza delle zucche, possono essere utilizzate per creare esplosivi..."
+    ],
+    "quest.24D38DA8E86DD897.quest_desc": [
+        "Sono le creature più piccole e deboli del gruppo.\n\nQueste hanno 5 cuori.\n\nCome tutte le creature del gruppo, si concentreranno su \"Stoneborns\" e \"Forgottens\" e lasceranno cadere \"Shard di Utheric\".",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_rotling.png width:100 height:100 align:center}"
+    ],
+    "quest.24D38DA8E86DD897.title": "\\&cRotling\\&r",
+    "quest.278D34BBC13356DF.quest_desc": [
+        "Un fungo viola! \\n\\nContiene Ink Mushrooms e Virulent Mix in abbondanza!",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_ink.png width:200 height:100 align:center}"
+    ],
+    "quest.278D34BBC13356DF.title": "Palude di funghi Ink",
+    "quest.2C5A7E4CD8B57E08.quest_desc": [
+        "Gli alberi Grongle sono alberi alti, simili a quelli della giungla, che si trovano solo nei biomi Grongle! \\n\\nQuesti alberi sono anche il luogo in cui nascono i Gronglet."
+    ],
+    "quest.2E596B5A4EA2ABF4.quest_desc": [
+        "Quello è un Mogvent? Aspetta, è solo un \"Mog\\&r\"! È il parente stretto del \"Mog\\&r\"!\n\nSi comportano esattamente come i \"Mog\\&r\", ma potrebbero rilasciare Mogmoss blu.",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_smog.png width:100 height:100 align:center}"
+    ],
+    "quest.2E596B5A4EA2ABF4.title": "\\&3S'Mog\\&r",
+    "quest.30582B5FBED35FD1.quest_desc": [
+        "\\&cUtherium\\&r può essere ottenuto tramite l'estrazione o tramite il loot (ottenuto come bottino) dagli \"mob\" presenti nel gioco."
+    ],
+    "quest.30582B5FBED35FD1.title": "\\&Culteric\\&",
+    "quest.353AEEC116A5DEEF.quest_desc": [
+        "I mari antichi sono mari vasti, situati nel Giardino Sotterraneo.\n\nIn qualche modo, nonostante la quantità di inquinanti, l'acqua è potabile.\n\nL'acqua contiene anche \"Gwibs\" e \"Gwiblings\". E non possiamo dimenticare il Glitterkelp!",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_ancient.png width:200 height:100 align:center}"
+    ],
+    "quest.353AEEC116A5DEEF.title": "Mare antico",
+    "quest.36389696767EFB4E.quest_desc": [
+        "Come suggerisce il nome, \"The Barren Abyss\" è un luogo desolato... Contiene solo gruppi di nemici e sassolini.\n\nPersonalmente, preferirei trovare sassolini in qualsiasi altro luogo.",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_barren.png width:200 height:100 align:center}"
+    ],
+    "quest.36389696767EFB4E.title": "Abisso sterile",
+    "quest.380D3212D1CBA593.quest_desc": [
+        "La creatura di medie dimensioni, chiamata \\&cRot Mob\\&r, \\&cRotwalker\\&r.\n\nHa 20 punti vita.\n\nCome tutte le creature \\&cRot Mob\\&r, si rivolgerà contro gli \\&2Stoneborns\\&r e gli \\&7Forgottens\\&r, e lascerà cadere \\&cUtheric Shards\\&r.",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_rotwalker.png width:100 height:200 align:center}"
+    ],
+    "quest.380D3212D1CBA593.title": "e altro",
+    "quest.3AF7446592D19FA6.quest_desc": [
+        "\\&eRegalium\\&r è l'equivalente di \\&eRegalium\\&r in \\&2\\&lUndergarden\\&r.\n\nNon può essere trasformato in armatura o strumenti, ma può essere utilizzato per scambiare con \\&2Stoneborns\\&r in cambio di altri oggetti."
+    ],
+    "quest.3AF7446592D19FA6.title": "\\&eRegalium\\&r",
+    "quest.4141EF8B8C316118.quest_desc": [
+        "\\&7Cloggrum\\&r è l'elemento principale dell'\\&2\\&Undergarden\\&r.\n\nLo si trova ovunque ed è utilizzato in una dozzina di ricette diverse.\n\nPersino alcuni mostri lo rilasciano!"
+    ],
+    "quest.4141EF8B8C316118.title": "\\&7Cloggrum\\&r",
+    "quest.43A1BC20BB054A14.quest_desc": [
+        "Il Glitterkelp cresce nei Mari Antichi e Gelidi.\n\nNon ha molte proprietà, ma emette luce e può essere trasformato in torte!"
+    ],
+    "quest.43FD4AEBB9548E57.quest_desc": [
+        "Smogstem Forest è un bioma adiacente alle Paludi di Funghi Indigo.\n\nNaturalmente, presenta anche colori blu e funghi Indigo! Semplicemente, ha alberi Smogstem molto più grandi!",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_smogstem.png width:200 height:100 align:center}"
+    ],
+    "quest.43FD4AEBB9548E57.title": "Foresta di Smogstem",
+    "quest.4568C2F465EDB960.quest_desc": [
+        "I Droopfruit possono generarsi praticamente in qualsiasi bioma, basta cercare!\n\nPossono generarsi sul tetto della maggior parte dei biomi e crescono in modo simile alle Glowberries."
+    ],
+    "quest.46DCB235D3FEDA61.quest_desc": [
+        "Simile alle asce, ma questi rallentano chiunque li colpisca.\n\nBeh, a parte la zappa, ma davvero importa una semplice zappa?"
+    ],
+    "quest.46DCB235D3FEDA61.title": "\\&bFroststeel\\&r Strumenti",
+    "quest.49EB9FB2133E3219.quest_desc": [
+        "\"Ancient Armor\" è l'equipaggiamento indossato da \\&7Forgottens\\&r, e potete ottenerlo lì.\n\nTuttavia, non ci sono \"Ancient Boots\", poiché sembra che \\&7Forgottens\\&r non abbiano i piedi."
+    ],
+    "quest.49EB9FB2133E3219.title": "Armatura antica",
+    "quest.4C5CFA45D9B4F6D3.quest_desc": [
+        "Sembra che i funghi Indigo siano particolarmente legati al Smogstem e che appaiano principalmente in sua compagnia!"
+    ],
+    "quest.4C7E006502E30C20.quest_desc": [
+        "Questo contenuto è stato creato da \\&6AllTheMods Staff\\&r, oppure da un \\&2contributore della community\\&r, per l'uso nei pacchetti di mod di AllTheMods.\\n\\nPoiché tutti i pacchetti di AllTheMods sono soggetti al copyright \\&eTutti i diritti riservati\\&r, questo contenuto non può essere utilizzato in altri pacchetti pubblici, a meno che non sia stato rilasciato dal team di AllTheMods, previa autorizzazione esplicita.\\n\\nQuesto contenuto è stato intenzionalmente nascosto. Se lo state visualizzando, siete in modalità di modifica."
+    ],
+    "quest.4D836B9D9E3B898F.quest_desc": [
+        "\\&2Stoneborns\\&r rappresentano la perfetta combinazione tra gli Abitanti e gli Golem di Ferro.\n\nÈ possibile commerciare con loro facendo clic con il tasto destro.\n\nInoltre, si difenderanno dagli Mob ostili (o dai giocatori che li attaccano).",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_stoneborn.png width:100 height:150 align:center}"
+    ],
+    "quest.4D836B9D9E3B898F.title": "\\&2Stoneborn\\&r",
+    "quest.4E3D548E5D8D7D26.quest_desc": [
+        "I Forgotten Fields sono le pianure dell'Undergarden.\n\nNon hanno alberi, ma sono ricche di rocce, fiori e creature!\n\nTuttavia, non generano \"Forgotten Fields\", quindi mi scuso se questo ha deluso le vostre aspettative.",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_field.png width:200 height:100 align:center}"
+    ],
+    "quest.4E3D548E5D8D7D26.title": "Campi dimenticati",
+    "quest.4F3B4990BE6C2A4A.quest_desc": [
+        "\\&7Scintlings\\&r sono piccoli e innocui lumache che si trovano ovunque nel \\&2\\&lGiardino Sotterraneo\\&r.\n\nSi comportano come i Golem di neve, ovvero lasciano una scia ovunque vadano. Questo però è diverso, è più appiccicoso...\n\nQuando muoiono, rilasciano del \"Goo\" di Scintlings, ma è possibile raccoglierlo semplicemente dalle loro scie, quindi perché ucciderli!",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_scintling.png width:150 height:100 align:center}"
+    ],
+    "quest.4F3B4990BE6C2A4A.title": "\\&7Splendente\\&r",
+    "quest.4F5A2E2A5C7F4837.quest_desc": [
+        "\\&aIngots dimenticati\\&r devono essere ottenuti attraverso le Catacombe; sia saccheggiando i forzieri, sia uccidendo l'\\&aGuardiano dimenticato\\&r.\n\nInoltre, avrete bisogno di un modello per la lavorazione dei metalli, che si trova nei forzieri delle Catacombe."
+    ],
+    "quest.4F5A2E2A5C7F4837.title": "\\&aDimenticato\\&r",
+    "quest.511144EF336BFAF5.quest_desc": [
+        "Le \"Torri di Smog\" sono... sì, avete indovinato! Sono proprio lì che si concentra tutto lo smog! Anche se non è l'unica fonte: non possiamo dimenticare le \"2Mogs\" e le \"3S'mogs\".\n\nQui troverete \"Bacche di Bruciatura\", \"Terreno Profondo e Grossolano\" e \"Ventricoli di Smog\". Tuttavia, non consiglierei di avvicinarsi a questi luoghi...",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_smogspires.png width:200 height:100 align:center}"
+    ],
+    "quest.511144EF336BFAF5.title": "Grattacieli avvolti nella nebbia",
+    "quest.51C59FDF0BD11FDF.quest_desc": [
+        "Sono quasi certo che l'unica definizione di \"Albero Wigglewood\" sia che presenta tronchi e foglie di Wigglewood. Sembrano crescere in qualsiasi direzione, dimensione e forma.\n\nSi possono trovare in foreste di Wigglewood e in foreste fitte.\n\nHanno foglie di colore rosa chiaro e tronchi marroni, simili a quelli del pino!"
+    ],
+    "quest.51E2728C5E35A152.quest_desc": [
+        "Froststeel si genera negli ambienti ghiacciati: i campi ghiacciati, le foreste di Smogstem ghiacciate e, probabilmente, nei mari ghiacciati.\n\nSi genera nel Shiverstone, che sostituisce il Depthrock in questi ambienti. Il Shiverstone avrà le stesse proprietà del ghiaccio, ovvero sarà scivoloso e rallenterà leggermente il movimento.\n\nPotresti anche trovare dei Nuggets nello stomaco dei Munchers!"
+    ],
+    "quest.51E2728C5E35A152.title": "\\&bFroststeel\\&r",
+    "quest.53FDC6C536E50A1A.quest_desc": [
+        "\\&bGwiblings\\&r sono pesci amichevoli che vivono negli oceani.\n\nSono più piccoli dei \\&bGwibs\\&r e si comportano come i pesci Vanilla!"
+    ],
+    "quest.53FDC6C536E50A1A.title": "\\&bGwibling\\&r",
+    "quest.5B4B5C148D63ACA1.quest_desc": [
+        "\\&aI Minioni dimenticati\\&r non appaiono come i normali mostri, ma devono essere creati. Vengono creati posizionando una \\&aGloomgourd scolpita\\&r su un \\&aBlocco di Ingots dimenticati\\&r.\n\nSi comportano in modo simile ai Golem di neve, non attaccheranno mai il giocatore, ma spareranno contro i mostri ostili.\n\nHanno 10 cuori e non lasciano nulla quando muoiono... ma perché li ucciderebbe?",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_minion.png width:125 height:100 align:center}"
+    ],
+    "quest.5B4B5C148D63ACA1.title": "\\&eMinions dimenticati\\&r",
+    "quest.5D229FA3A5F92954.quest_desc": [
+        "\\&4Munchers\\&r sono simili ad altre creature ostili presenti in \\&2\\&lUndergarden\\&r, ma questo tipo di creatura ha un vantaggio: può rilasciare \\&7Cloggrum\\&r e \\&bFroststeel Nuggets\\&r al momento della morte.",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_muncher.png width:100 height:100 align:center}"
+    ],
+    "quest.5D229FA3A5F92954.title": "\\&4Muncher\\&r",
+    "quest.5E63C78CDC44FF95.quest_desc": [
+        "I \"Blisterberries\" marci non possono essere lanciati, ma se trasformati in \"Blisterbombs\", possono essere!\n\nSi possono persino andare oltre e creare \"Boomgourds\", che agirebbero come la TNT, spargendo i \"Blisterberries\" ovunque."
+    ],
+    "quest.5E63C78CDC44FF95.title": "Esplosivi!!!",
+    "quest.5FCA6F5FE97780B7.quest_desc": [
+        "\\&eGronglets\\&r sono tecnicamente oggetti, non creature. Tuttavia, mi piacciono così tanto che non posso non includerli!\n\nAppaiono sugli alberi Grongle e producono suoni e luce! Sono sicuramente perfetti per la decorazione.",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_gronglet.png width:100 height:100 align:center}"
+    ],
+    "quest.5FCA6F5FE97780B7.title": "\\&eGronglets\\&r",
+    "quest.6124C0E9E419694B.quest_desc": [
+        "Aggiorna gli strumenti con i \"Blocchi di Undergarden\" e un modello di fabbro.\n\nQuesti sono gli strumenti migliori disponibili, e sono già dotati di efficienza specifica per i \"Blocchi di Undergarden\".\n\nInoltre, la spada e l'ascia infliggeranno più danni a tutti i mostri di \"Undergarden\", ad eccezione della \"Bestia Rotta\" e del \"Guardiano Perduto\"!"
+    ],
+    "quest.6124C0E9E419694B.title": "\\&aStrumenti dimenticati",
+    "quest.647A87E800C703C3.quest_desc": [
+        "Il mio bioma preferito, senza dubbio!\n\nUn'immensa giungla verde, con alberi enormi chiamati \"Grongle\".\n\nSu questi alberi si possono trovare i \"Gronglet\"!",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_grongle.png width:200 height:100 align:center}"
+    ],
+    "quest.647A87E800C703C3.title": "Crescita del grongolo",
+    "quest.6751F2651063B3A5.quest_desc": [
+        "I Funghi Sanguigni si trovano all'interno delle loro paludi.\n\nHanno la forma di alberi di quercia scura e sono prevalentemente bianchi, con solo alcune parti che presentano macchie rosse!"
+    ],
+    "quest.67A2347534269528.quest_desc": [
+        "\\&9Sploogies\\&r sono molto rari, ma quando appaiono, sono destinati a infastidirti.\n\nSpareranno schizzi di saliva (e faranno rumori disgustosi) verso di te, ma se li colpisci, fuggiranno; sono simili a dei Piglin neonati.\n\nRilasceranno solo le \"Pebbles di Depthrock\" al momento della morte.",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_sploogie.png width:125 height:100 align:center}"
+    ],
+    "quest.67A2347534269528.title": "\\&9Sploogie\\&r",
+    "quest.6C4B93FE64BD418D.quest_desc": [
+        "Arrivare all'Undergarden è simile ad arrivare all'Inferno. Dovrete costruire un Portale.\n\nHa la stessa forma e dimensioni dei Portali dell'Inferno, ma invece di ossidiana, avrete bisogno di una variante di mattoni di pietra. Potete utilizzare mattoni di pietra, mattoni di pietra ricoperti di muschio o mattoni di Deepslate.\n\nUna volta creato, potete attivarlo utilizzando il Catalizzatore."
+    ],
+    "quest.6C4B93FE64BD418D.quest_subtitle": "Creare il portale",
+    "quest.6C4B93FE64BD418D.title": "Il Giardino Sotterraneo",
+    "quest.6D4FB6291CA8D1A6.quest_desc": [
+        "Gli alberi Smogstem sono molto più spessi nella parte inferiore, proprio come gli alberi di Baobab nella realtà!\n\nHanno foglie blu e tronchi grigi.\n\nLi potrete trovare in diversi biomi: foreste di Smogstem, foreste fitte e persino nelle paludi di funghi Indigo!"
+    ],
+    "quest.6F416275B6F6D8F0.quest_desc": [
+        "I Blisterberries crescono nelle Smog Spires.\n\nA causa dell'ambiente così squallido, alcuni potrebbero essere avvizziti.\n\nNon consiglio di mangiarli; forse potrebbero essere utili per qualcos'altro!"
+    ],
+    "quest.70FD8856BFCD9AEE.quest_desc": [
+        "È il più grande e pericoloso dei mostri.\n\nHa 80 punti salute, il che lo classifica come un miniboss.\n\nCome tutti i mostri di tipo \\&cRot, attaccherà gli \\&2Stoneborns\\&r e gli \\&7Forgottens\\&r, e lascerà cadere \\&cUtheric Shards\\&r.",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_rotbeast.png width:100 height:100 align:center}"
+    ],
+    "quest.70FD8856BFCD9AEE.title": "e altro",
+    "quest.71E1454990DEC451.quest_desc": [
+        "\\&bGwibs\\&r sono versioni più grandi e aggressive di \\&bGwiblings\\&r.\n\nNon hanno alcun effetto \"Drop\" e non possono essere inseriti in contenitori. Offrono solo dolore!",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_gwib.png width:100 height:100 align:center}"
+    ],
+    "quest.71E1454990DEC451.title": "\\&bGwib\\&r",
+    "quest.739601B0C43B239B.quest_desc": [
+        "Sì, possono produrre coloranti neri!"
+    ],
+    "quest.744DBE831C120B2F.quest_desc": [
+        "È quella roccia in movimento? Oh, aspetta, non è una roccia, è un Mog!\n\nI Mog possono essere accoppiati con le \"Pietre di Depthrock\" e, al momento della morte, potrebbero rilasciare ulteriori Pietre o Mogmoss!\n\nIl Mogmoss può essere utilizzato in molte diverse ricette!",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_mog.png width:100 height:100 align:center}"
+    ],
+    "quest.744DBE831C120B2F.title": "\\&2Mog\\&r",
+    "quest.7617737FC179EA1A.quest_desc": [
+        "L'armatura in Froststeel è leggermente inferiore all'armatura in Diamante, ma offre anche una notevole resistenza al knockback.\n\nInoltre, offre anche un effetto di rallentamento, quindi sembra che non ci muoviamo molto!"
+    ],
+    "quest.7617737FC179EA1A.title": "Armatura in acciaio e ghiaccio",
+    "quest.79C652E3FCB88550.quest_desc": [
+        "\\&5Gloompers\\&r sono tecnicamente creature passive, ma hanno un meccanismo di difesa contro di te, per questo le considero neutrali!\n\nQuando vengono colpite, rilasceranno un effetto simile a quello di una pozione persistente.\n\nAl momento della morte, rilasceranno le loro gambe (che sono molto appetibili) e, eventualmente, della pelle.\n\nPossono anche essere incrociate con i Gloomgourds!",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_gloomper.png width:100 height:100 align:center}"
+    ],
+    "quest.79C652E3FCB88550.title": "\\&5Gloomper\\&r",
+    "quest.7E3DA4168D352B42.quest_desc": [
+        "Prometto che questa è l'ultima \"Palude di Funghi\"! \\nQuesti funghi sembrano normali, ma la loro particolarità sta nel quello che producono! \\n\\nI \"Veli\"! Sicuramente un blocco decorativo utile.",
+        "{image:atm:textures\/questpics\/undergarden\/undergarden_veil.png width:200 height:100 align:center}"
+    ],
+    "quest.7E3DA4168D352B42.title": "Palude di funghi Veil",
+    "task.39194D9CDF673768.title": "Tutti i diritti riservati",
+    "task.4AA225E5056787B8.title": "Tutti i diritti riservati"
+}

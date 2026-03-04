@@ -1,7 +1,7 @@
 {
     "config.jade.plugin_tfc_support_indicator.support_indicator": "Indicatore di supporto TFC",
-    "tfc_support_indicator.might_trigger_collapse": "potrebbe causare crollo",
-    "tfc_support_indicator.self_supported": "Sostenuto",
+    "tfc_support_indicator.might_trigger_collapse": "Potrebbe innescare il collasso.",
+    "tfc_support_indicator.self_supported": "Supportato",
     "tfc_support_indicator.self_unsupported": "Non supportato",
-    "tfc_support_indicator.wont_trigger_collapse": "Non scatenerà crollo"
+    "tfc_support_indicator.wont_trigger_collapse": "Non causerà il collasso."
 }

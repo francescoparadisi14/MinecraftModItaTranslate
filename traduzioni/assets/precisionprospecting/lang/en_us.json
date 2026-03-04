@@ -1,5 +1,4 @@
 {
-    "__comment__": "COMPATIBILITY",
     "item.precisionprospecting.ceramic.mineral_prospector_head_mold": "Mineral Prospector Head Mold",
     "item.precisionprospecting.ceramic.prospector_drill_head_mold": "Prospector's Drill head Mold",
     "item.precisionprospecting.ceramic.prospector_hammer_head_mold": "Prospector's Hammer Head Mold",
@@ -60,13 +59,10 @@
     "item.precisionprospecting.metal.prospector_hammer_head.red_steel": "Red Steel Prospector's Hammer Head",
     "item.precisionprospecting.metal.prospector_hammer_head.steel": "Steel Prospector's Hammer Head",
     "item.precisionprospecting.metal.prospector_hammer_head.wrought_iron": "Wrought Iron Prospector's Hammer Head",
-    "item.precisionprospecting.mold.minpros_head": "MINERAL_PROSPECTOR Render Item",
-    "item.precisionprospecting.mold.prosdrill_head": "PROSPECTOR_DRILL Render Item",
-    "item.precisionprospecting.mold.proshammer_head": "PROSPECTOR_HAMMER Render Item",
-    "precisionprospecting.advancements.story.mineral_prospector.description": "Make a mineral prospector",
+    "precisionprospecting.advancements.story.mineral_prospector.description": "Make a Mineral Prospector",
     "precisionprospecting.advancements.story.mineral_prospector.title": "But Not Metals!",
-    "precisionprospecting.advancements.story.prospector_drill.description": "Make a prospector's drill",
+    "precisionprospecting.advancements.story.prospector_drill.description": "Make a Prospector's Drill",
     "precisionprospecting.advancements.story.prospector_drill.title": "Directional Prospector",
-    "precisionprospecting.advancements.story.prospector_hammer.description": "Make a prospector's hammer",
+    "precisionprospecting.advancements.story.prospector_hammer.description": "Make a Prospector's Hammer",
     "precisionprospecting.advancements.story.prospector_hammer.title": "Smaller Prospector"
 }

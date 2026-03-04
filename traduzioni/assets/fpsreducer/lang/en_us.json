@@ -31,6 +31,7 @@
     "fpsreducer.config.menu.idleFps": "Idle FPS",
     "fpsreducer.config.menu.ignoreHoldButton": "Ignore mouse button holding",
     "fpsreducer.config.menu.noActFps": "Max FPS without action",
+    "fpsreducer.config.menu.noActTime": "Time to detect no action",
     "fpsreducer.config.menu.reducingInBackground": "Reduce FPS when inactive",
     "fpsreducer.config.menu.reducingInGameMenu": "Reduce FPS in Game Menu",
     "fpsreducer.config.menu.returnToGame": "Done",
@@ -41,12 +42,15 @@
     "fpsreducer.config.tooltip.guiScreenFps": "Max FPS in GUI screens such as the inventory screen and the menu screens.",
     "fpsreducer.config.tooltip.idleFps": "Max FPS at idle state. The FPS will be reduced to this value, when there is no operation for a specified period of time.",
     "fpsreducer.config.tooltip.noActFps": "Max FPS during no operation. After detecting no operation, the FPS is immediately limited to this value.",
+    "fpsreducer.config.tooltip.noActTime": "Time to detect no action",
     "fpsreducer.config.tooltip.profile.cooling1": "§eProfile: §oSituational Cooling (Low)§r\nProactively control the load depending on the situation. (For PC that runs at 60fps or higher.) In addition to the behavior of Eco profile, FPS will be limited to 60fps when the character is stationary, in inventory screen or in any GUI screen. Depending on VSync and Max Framerate settings in the Video Settings, the effect will be less effective.",
     "fpsreducer.config.tooltip.profile.cooling2": "§eProfile: §oSituational Cooling (High)§r\nMore powerful load suppression depending on the situation. (For weak PC.) In addition to the behavior of Eco profile, FPS will be limited to 30fps when the character is stationary, in inventory screen or in any GUI screen.",
     "fpsreducer.config.tooltip.profile.eco": "§eProfile: §oEco§r\nAlmost same as the default setting of FPS Reducer 1. FPS will be reduced when the client is in background, in ESC menu or no operation for 10 minutes.",
-    "fpsreducer.config.tooltip.profile.modest": "§eProfile: §oModest Eco§r\nFPS will be reduced when the client is in background or in ESC menu. (Default)",
+    "fpsreducer.config.tooltip.profile.modest": "§eProfile: §oModest Eco§r\nFPS will be reduced when the client is in background or in ESC menu.",
+    "fpsreducer.config.tooltip.profile.vanilla": "§eProfile: §oVanilla§r\nFollows vanilla FPS limit settings. Also reduces FPS and sound when the client is in the background. (Default)",
     "fpsreducer.config.tooltip.waitingTime": "The waiting time until the client shifts to the idle state when there is no operation. Can be turned off by moving the slider to the right edge.",
     "fpsreducer.key.forceIdle": "Reduce FPS manually",
     "fpsreducer.key.openGui": "Open Config GUI",
-    "key.categories.FpsReducer": "FPS Reducer"
+    "fpsreducer.options.tooltip.inactivityFpsLimit": "The inactivity FPS limit is controlled by the FPS Reducer.",
+    "key.category.fpsreducer.fpsreducer": "FPS Reducer"
 }

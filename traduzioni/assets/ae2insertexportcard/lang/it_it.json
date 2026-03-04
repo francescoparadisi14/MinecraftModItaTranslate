@@ -1,7 +1,7 @@
 {
-    "gui.ae2insertexportcard.blacklist": "Elenco nero",
-    "gui.ae2insertexportcard.whitelist": "Elenco bianco",
-    "item.ae2insertexportcard.export_card": "Carta di esportazione",
-    "item.ae2insertexportcard.insert_card": "Inserisci carta",
-    "itemGroup.ae2insertexportcard": "Carta di inserimento e esportazione AE2"
+    "gui.ae2insertexportcard.blacklist": "Elenco dei soggetti indesiderati",
+    "gui.ae2insertexportcard.whitelist": "Elenco consentiti",
+    "item.ae2insertexportcard.export_card": "Carta d'esportazione",
+    "item.ae2insertexportcard.insert_card": "Inserire la carta",
+    "itemGroup.ae2insertexportcard": "Scheda di esportazione AE2"
 }

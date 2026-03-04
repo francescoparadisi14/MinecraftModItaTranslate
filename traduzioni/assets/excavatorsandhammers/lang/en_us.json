@@ -1,0 +1,17 @@
+{
+    "item.excavatorsandhammers.diamond_excavator": "Diamond Excavator",
+    "item.excavatorsandhammers.diamond_hammer": "Diamond Hammer",
+    "item.excavatorsandhammers.golden_excavator": "Golden Excavator",
+    "item.excavatorsandhammers.golden_hammer": "Golden Hammer",
+    "item.excavatorsandhammers.iron_excavator": "Iron Excavator",
+    "item.excavatorsandhammers.iron_hammer": "Iron Hammer",
+    "item.excavatorsandhammers.netherite_excavator": "Netherite Excavator",
+    "item.excavatorsandhammers.netherite_hammer": "Netherite Hammer",
+    "item.excavatorsandhammers.obsidian_excavator": "Obsidian Excavator",
+    "item.excavatorsandhammers.obsidian_hammer": "Obsidian Hammer",
+    "item.excavatorsandhammers.stone_excavator": "Stone Excavator",
+    "item.excavatorsandhammers.stone_hammer": "Stone Hammer",
+    "item.excavatorsandhammers.wooden_excavator": "Wooden Excavator",
+    "item.excavatorsandhammers.wooden_hammer": "Wooden Hammer",
+    "itemGroup.excavatorsandhammers.tab": "Excavators and Hammers"
+}

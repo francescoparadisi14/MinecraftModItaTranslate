@@ -1,0 +1,334 @@
+{
+    "quest.00453FF528AA0B1C.quest_desc": [
+        "I Lonestar Skeletons sono nemici che possono apparire ovunque.\n\nHanno 10 cuori e attaccheranno lanciando la loro spada contro di te.\n\nQuando muoiono, possono far cadere ossa, frammenti di argento paludoso, spade spezzate e gli oggetti che Corail fornisce per i nemici non-morti."
+    ],
+    "quest.00453FF528AA0B1C.title": "Scheletri del Lonestar",
+    "quest.01F322AEFCC6109E.quest_desc": [
+        "Le \"Skulls aggrovigliate\" possono essere ottenute, beh, da \"Skulls aggrovigliate\".\n\nPossono essere utilizzate come proiettili, ad esempio come la testa di un \"Wither\" lanciata da un \"Wither\".\n\nTuttavia, questo meccanismo consumerà le \"Skulls aggrovigliate\"."
+    ],
+    "quest.02B574B09AB45D09.quest_desc": [
+        "Funzionano in modo simile ai Blazes: si alzano in aria e lanciano una palla contro di te.\n\nA differenza dei Blazes, però, i Freezes lanciano solo una palla e invece di riscaldarti, ti faranno sentire freddo.\n\nHanno 16 punti vita e, al momento della sconfitta, lasciano cadere delle \"Frozen Tubes\".",
+        "{image:atm:textures\/questpics\/eternal\/starlight_freeze.png width:150 height:100 align:center}"
+    ],
+    "quest.02B574B09AB45D09.title": "Congelare",
+    "quest.0342248394E40B6A.quest_desc": [
+        "Questo contenuto è stato creato da \\&6AllTheMods Staff\\&r, oppure da un \\&2contributore della community\\&r, per l'uso nei pacchetti di mod di AllTheMods.\\n\\nPoiché tutti i pacchetti di AllTheMods sono soggetti al copyright \\&eTutti i diritti riservati\\&r, questo contenuto non può essere utilizzato in altri pacchetti pubblici, a meno che non sia stato rilasciato dal team di AllTheMods, previa autorizzazione esplicita.\\n\\nQuesto contenuto è stato intenzionalmente nascosto. Se lo state visualizzando, siete in modalità di modifica."
+    ],
+    "quest.03B40AB768FC0161.quest_desc": [
+        "I fiumi Shimmer sono fiumi pacifici. Non hanno intenzione di farti del male.\n\nA volte, essi collegano mari e attraversano foreste.\n\nOvviamente, contengono acqua, ma all'interno dell'acqua si possono trovare molte cose!",
+        "{image:atm:textures\/questpics\/eternal\/starlight_river.png width:200 height:100 align:center}"
+    ],
+    "quest.03B40AB768FC0161.title": "Fiume scintillante",
+    "quest.0576C32B0FB360B0.quest_desc": [
+        "La Mostruosità Lunare ha 200 punti vita e subirà solo 1 punto di danno per colpo, a meno che non si utilizzi il fuoco.\n\nHa diversi attacchi, tra cui Spine, Proiettili e Teste Intricate Esplosive!\n\nQuando la sconfiggerai, rilascerà frecce, lingotti, teste intricate, petali tenaci, anime intrappolate e la possibilità di ottenere un'arma rara!",
+        "{image:atm:textures\/questpics\/eternal\/starlight_lunar.png width:100 height:125 align:center}"
+    ],
+    "quest.0576C32B0FB360B0.title": "Mostro lunare",
+    "quest.0BB8D556305EB307.quest_desc": [
+        "Il fiume Ether è qualcosa che noterete quando lo vedrete.\n\nÈ molto luminoso, estremamente luminoso, e potrebbe apparire rosso sulla vostra mappa, ma si tratta di un errore, quindi non preoccupatevi.",
+        "{image:atm:textures\/questpics\/eternal\/starlight_ether.png width:200 height:100 align:center}"
+    ],
+    "quest.0BB8D556305EB307.title": "Fiume Ether",
+    "quest.0C096EE635645E43.quest_desc": [
+        "La balestra in cristallo è realizzata in modo simile a una balestra meccanica, ma utilizza cristalli al posto dei fusti.\n\nSparerà frecce e infliggerà lo stesso tipo di danno di una balestra normale, ma questa ha anche la capacità di causare \"Infezione da cristallo\". L'Infezione da cristallo infligge 1 punto di danno ogni secondo grazie ai cristalli che si formano sulla balestra! E sì, alla fine ucciderà il bersaglio."
+    ],
+    "quest.0F0D41F29386333A.quest_desc": [
+        "Gli alberi Scarlet variano in dimensioni e forma, e a volte addirittura sono caduti.\n\nTuttavia, tutti hanno foglie rosa, comprese quelle a terra."
+    ],
+    "quest.0F4783FA019C4567.quest_desc": [
+        "Amaraber si trova raramente, raccogliendolo dai tronchi di Torreya.\n\nPuò essere trasformato in lingotti per creare armature e utensili, oppure utilizzato in altre ricette, come ad esempio un fuoco da campo, che fornisce rigenerazione!"
+    ],
+    "quest.10AB188AC6FB24D3.quest_desc": [
+        "Il Golem di Starlight ha 220 punti vita e 2 modalità:\n\nLa prima modalità è la modalità di attacco. In questa modalità, non può essere danneggiato; invece, dovrai aspettare che finiscano i suoi attacchi prima di poterlo colpire. Attacca con palle di fuoco, attacchi al suolo o con un potente raggio laser!\n\nLa seconda modalità è la modalità di ricarica. In questa modalità, inizierà a raccogliere energia dagli Blocchi Energetici, che dovranno essere disattivati per poterlo danneggiare.\n\nQuando morirà, rilascerà molte lingote e frecce, guarnizioni per l'armatura in acciaio del golem e, forse, anche la spada energetica!",
+        "{image:atm:textures\/questpics\/eternal\/starlight_golem.png width:150 height:100 align:center}"
+    ],
+    "quest.10AB188AC6FB24D3.title": "Golem di luce stellare",
+    "quest.127D085D6C9DB690.quest_desc": [
+        "Il nitrato di potassio può essere trovato ovunque sottoterra, ma è particolarmente comune nell'ecosistema della \"Costa Calda\".\n\nPer estrarlo, è necessario un piccone di pietra, e una volta estratto, si otterrà una quantità di polvere di nitrato di potassio. Sì, il perk \"Fortuna\" funziona anche con questo!\n\nLa polvere può essere utilizzata come sostituto per altri tipi di nitrato di potassio."
+    ],
+    "quest.144ECED643031A9A.quest_desc": [
+        "I funghi luminosi sono piante di funghi molto grandi che si possono trovare nelle foreste di Scarlet!\n\nFunzionano esattamente come i funghi marroni o rossi, ma questi emettono una luce molto più intensa!\n\n(Se non lo sapevate, i funghi marroni e rossi emettono effettivamente una fonte di luce di livello 1)."
+    ],
+    "quest.15195F456D8AD4C8.quest_desc": [
+        "Quando l'Etere entra in contatto con l'Acqua, si formerà il Thioquarsa. Questo può avvenire naturalmente, attraverso la generazione casuale, oppure potete farlo accadere!\n\nQuesti non sono il modo in cui si ottiene il Thioquarsa, perché quello si ottiene dal Thioquarsa in crescita!"
+    ],
+    "quest.1533D98B3B2A758E.quest_desc": [
+        "Le Spade Spezzate possono essere ottenute uccidendo i Skeletoni di Lonestar o create utilizzando le Spade ottenute.\n\nLa Spada Spezzata viene utilizzata più come un tridente che come una spada: invece di colpire, la si lancia. Quindi, è possibile fare clic con il tasto destro per recuperare la Spada, proprio come un Tridento di Lealtà, e fare nuovamente clic con il tasto destro per ricaricarla, se necessario."
+    ],
+    "quest.17D82EEA20D02EC8.quest_desc": [
+        "Il fondo del mare è ricoperto di ghiaia fine.\n\nPuò essere utilizzato come sostituto della ghiaia normale e, raramente, può generare frammenti di ghiaia fine, che possono essere utilizzati per creare altri blocchi."
+    ],
+    "quest.17EC65B33AC5F0B4.quest_desc": [
+        "I Thirst Walkers sono creature neutrali che appaiono sulla superficie dei deserti cristallizzati.\n\nQuando vengono attaccati, possono colpire il giocatore e farlo sentire affamato.\n\nHanno 20 punti ferita e possono rilasciare un \"Dente di Fame\" quando muoiono.",
+        "{image:atm:textures\/questpics\/eternal\/starlight_thirst.png width:100 height:125 align:center}"
+    ],
+    "quest.17EC65B33AC5F0B4.title": "Seduttore",
+    "quest.1815A439BA9879B7.quest_desc": [
+        "La \"Warm Shore\" è un bioma piuttosto noioso, utilizzato principalmente per collegare il \"Starlit Sea\" alla terraferma.\n\nÈ caratterizzata da sabbia di \"Twilight Sand\" con rocce sottostante. Ho notato anche una quantità insolita di \"Saltpeter\" in questa zona.",
+        "{image:atm:textures\/questpics\/eternal\/starlight_shore.png width:200 height:100 align:center}"
+    ],
+    "quest.1815A439BA9879B7.title": "Spiaggia calda",
+    "quest.1AB17923F87AE264.quest_desc": [
+        "Lo Yeti è un nome che evoca terrore in chiunque si avventuri nelle regioni più fredde. È una creatura pelosa e terrificante che vive negli ambienti più ostili, nutrendosi di qualsiasi cosa osi avvicinarsi!\n\nMa questo Yeti è diverso, è dolce e amichevole. Preferirebbe rotolare piuttosto che mangiarti.\n\nInoltre, non reagisce affatto e ha solo 10 cuori.\n\nQuando muore, lascia il suo pelo e la corda, che possono essere utilizzate come sostituto della lana.",
+        "{image:atm:textures\/questpics\/eternal\/starlight_yeti.png width:100 height:100 align:center}"
+    ],
+    "quest.1AB17923F87AE264.title": "Yeti",
+    "quest.1BE8F864AB9147C0.quest_desc": [
+        "Atalphaite Ore può essere trovata scavando in qualsiasi luogo sotterraneo nel mondo di Starlight.\n\nNon può essere utilizzata per creare strumenti o armature, ma può essere utilizzata per creare diversi tipi di luci."
+    ],
+    "quest.1ECD4331DDFBBB52.quest_desc": [
+        "Gli alberi Torreya sono alberi enormi di colore viola\/rosa, che possono raggiungere un'altezza di circa 40 metri.\n\nLe foglie crescono in tutte le direzioni e le viti di Torreya pendono da esse."
+    ],
+    "quest.252AD9C886DE45C8.quest_desc": [
+        "I Twilight Gaze sono creature neutrali che si trovano nell'Abisso.\n\nSe li colpisci, tutti gli altri attaccheranno, in modo simile a lupi o Piglins zombi. Se ti allontani troppo dall'Abisso, smetteranno di seguirti e torneranno nelle profondità.\n\nNon lasciano oggetti quando muoiono, quindi forse è meglio evitarli.",
+        "{image:atm:textures\/questpics\/eternal\/starlight_gaze.png width:150 height:100 align:center}"
+    ],
+    "quest.252AD9C886DE45C8.title": "Sguardo al crepuscolo",
+    "quest.25E782DB4309A1B8.quest_desc": [
+        "I corna di cervi Aurora vengono rilasciate dai cervi Aurora al momento della morte.\n\nPossono essere utilizzate come spada o come zappa."
+    ],
+    "quest.271A112ABDD923A6.quest_desc": [
+        "Simili alle mangrovie comuni, ma non sono sgradevoli."
+    ],
+    "quest.29283BF1B6ED3634.quest_desc": [
+        "L'arco meccanico è realizzato come un arco normale, ma utilizzando acciaio golem.\n\nFunziona come un arco normale, ma è molto più resistente! Inoltre, può essere incantato per ottenere ulteriori funzionalità."
+    ],
+    "quest.298963543B99734E.quest_desc": [
+        "Le acque scintillanti producono le proprie versioni di corallo!\n\nMa non fare come me e dimenticare l'abilità \"Tocco di seta\" per raccoglierli..."
+    ],
+    "quest.29A1E1FF02BD9219.quest_desc": [
+        "Una foresta così blu come l'oceano.\n\nLa Foresta di Starlight è di gran lunga il bioma più comune in Starlight.\n\nÈ caratterizzata da decine di alberi lunari che la ricoprono completamente, con numerosi mostri, sia passivi che ostili, che la circondano.",
+        "{image:atm:textures\/questpics\/eternal\/starlight_forest.png width:200 height:100 align:center}"
+    ],
+    "quest.29A1E1FF02BD9219.title": "Foresta di Stelle",
+    "quest.29EC143D7E0347DE.quest_desc": [
+        "La Daga della Fame è realizzata con i \"Denti della Fame\". No, non intendo dire \"Denti\".\n\nLa Daga ha un valore di \"Fame\". Quando colpisci i Mob, questo valore aumenterà; quando è inattiva, diminuirà. Quando raggiunge il 100%, otterrai dei bonus. E se scende a 0%, inizierà a ucciderti.\n\nQuando colpisci i Mob (o altri giocatori), applicherà anche l'effetto \"Fame\".\n\nNon la incolpo, anch'io mi sento affamato."
+    ],
+    "quest.2D457E53BB6D63C7.quest_desc": [
+        "I punti più elevati nel Starlight sono le foreste di permafrost, che si trovano sulle montagne.\n\nEssendo così in alto, sono molto più fredde e ricoperte di neve e ghiaccio!\n\nSembra che anche le creature amichevoli apprezzino il freddo.",
+        "{image:atm:textures\/questpics\/eternal\/starlight_permafrost.png width:200 height:100 align:center}"
+    ],
+    "quest.2D457E53BB6D63C7.title": "Foresta permafrost",
+    "quest.2DA8CE213AC3869B.quest_desc": [
+        "I cristalli di Starlight si possono trovare ovunque, anche sotto i deserti cristallizzati.\n\nFunzionano in modo simile all'ametista e, addirittura, emettono un suono simile!"
+    ],
+    "quest.2E29DC243E8AD61E.quest_desc": [
+        "Le falene Shimmer Lacewings non fanno altro che creare un'atmosfera, non hanno alcun impatto diretto.\n\nInoltre, assomigliano all'unico insetto che tollero!",
+        "{image:atm:textures\/questpics\/eternal\/starlight_shimmer.png width:150 height:100 align:center}"
+    ],
+    "quest.2E29DC243E8AD61E.title": "Shimmer Lacewing",
+    "quest.2F3E7233129F2B89.quest_desc": [
+        "Si comporta esattamente come un Luminofish, ma con una cresta sulla testa!",
+        "{image:atm:textures\/questpics\/eternal\/starlight_fish2.png width:100 height:100 align:center}"
+    ],
+    "quest.2F3E7233129F2B89.title": "Luminaris",
+    "quest.342EEB042DEC2B8C.quest_desc": [
+        "Magma e Geyser appaiono entrambi sul fondo dell'Abisso.\n\nMagma ti aiuterà a raggiungere il fondo e a mantenere la respirazione.\n\nI Geyser sono semplicemente affascinanti!"
+    ],
+    "quest.362F4CFD1B8B12B1.quest_desc": [
+        "Tutte le forme di vita moriranno nell'Ether, proprio come nel caso del magma. Incredibilmente, è possibile raccoglierlo in un secchio!\n\nL'unico modo per ottenerlo è trovarlo nel Fiume di Ether.\n\nQuando l'acqua entra in contatto con l'Ether, si formeranno blocchi di Thioquarsa!"
+    ],
+    "quest.36BCCF7395658A5C.quest_desc": [
+        "I \"Boss\" nella Starlight vivono nelle loro strutture. Queste non sono comuni (fortunatamente), quindi potrebbe essere necessario l'aiuto, ovvero \"Seeking Eyes\".\n\nGli \"Seeking Eyes\" funzionano in modo simile agli \"Ender Eyes\". Clicca con il tasto destro per lanciarli e poi seguili per raggiungere le strutture.\n\nPer costruire la struttura, avrai bisogno di un determinato oggetto nella mano libera, come ad esempio..."
+    ],
+    "quest.36BCCF7395658A5C.title": "Trovare i capi",
+    "quest.37355F60E45777FE.quest_desc": [
+        "L'Orb della Preve può essere creato o ottenuto sconfiggendo il Guardiano!\n\nIl suo utilizzo principale è attivare il Portale, ma ne ci saranno anche altri!"
+    ],
+    "quest.375F0A098589CF29.quest_desc": [
+        "Utilizzando i tuoi occhi acuti, potresti chiederti perché sono improvvisamente scomparsi. Probabilmente è perché la Fabbrica del Golem si trova in profondità, proprio come nei livelli negativi.\n\nCi sono molte stanze intricate, ognuna piena di oggetti, lava e ghiaccio! La stanza che stiamo cercando contiene il Golem di Starlight!",
+        "{image:atm:textures\/questpics\/eternal\/starlight_golemforge.png width:200 height:100 align:center}"
+    ],
+    "quest.375F0A098589CF29.title": "Fonderia di Golem",
+    "quest.3991EEEFDD263A91.quest_desc": [
+        "Gli \"Nightfall Spiders\", come i \"Lonestar Skeletons\", sono nemici e possono apparire ovunque.\n\nHanno 5 cuori e attaccano colpendo. Dopo aver colpito, ti conferiranno l'effetto \"Glowing\" per alcuni secondi.\n\nQuando muoiono, lasceranno cadere una corda e i loro occhi!",
+        "{image:atm:textures\/questpics\/eternal\/starlight_spider.png width:100 height:100 align:center}"
+    ],
+    "quest.3991EEEFDD263A91.title": "Ragni notturni",
+    "quest.3C74DAE7EC844A98.quest_desc": [
+        "Le bacche lunari sono un'ottima fonte di cibo, e inoltre sono molto facili da ottenere!\n\nSi generano crescendo dai fogli degli alberi lunari, proprio come le bacche luminose.\nSemplicemente raccogliendole, si ottengono molti più punti di cibo e si aumenta la sensazione di sazietà!"
+    ],
+    "quest.3CAD0701EC16C2D8.quest_desc": [
+        "Le paludi oscure sono diffuse nel mondo di Starlight.\n\nQui potrete trovare numerose piante, animali e, naturalmente, fango.",
+        "{image:atm:textures\/questpics\/eternal\/starlight_swamp.png width:200 height:100 align:center}"
+    ],
+    "quest.3CAD0701EC16C2D8.title": "Palude oscura",
+    "quest.3D26E7BFE0AA964A.quest_desc": [
+        "Il Luminofish è un pesce bioluminescente che vive nelle profondità dell'Abisso.\n\nSi comporta esattamente come un pesce normale. Si possono pescare, metterlo in un secchio, e persino cucinarlo!",
+        "{image:atm:textures\/questpics\/eternal\/starlight_fish1.png width:100 height:100 align:center}"
+    ],
+    "quest.3D26E7BFE0AA964A.title": "Luminofish",
+    "quest.3D4032E7119AF8B7.quest_desc": [
+        "Le bombe Sonar sono realizzate con un gel speciale, estratto dalle falene cristallizzate.\n\nPossono essere lanciate per danneggiare qualsiasi entità (e anche i giocatori) in un'ampia area. Inoltre, faranno vibrare lo schermo del giocatore e riprodurranno un suono forte.\n\nA causa del loro effetto, è consigliabile utilizzarle solo con gli amici!"
+    ],
+    "quest.40786B63E2901D11.quest_desc": [
+        "Vediamo come descrivere il Giardino Maledetto... è un labirinto enorme e complesso!\n\nCi sono ingressi su ogni lato e bisogna trovare la strada per raggiungere il centro, dove si trova la Mostruosità Lunare!\n\nIn tutto il labirinto, si possono trovare bauli pieni di oggetti e risorse.",
+        "{image:atm:textures\/questpics\/eternal\/starlight_maze.png width:150 height:150 align:center}"
+    ],
+    "quest.40786B63E2901D11.title": "Giardino maledetto",
+    "quest.40C776497D68367F.quest_desc": [
+        "Viti, tappeti di muschio cristallino rosso e blu, bacche lunari, muschio di grotta e radici cristalline rosse e blu.\n\nQuesti possono essere utilizzati nella tua mano libera con l'Occhio Cercatore per trovare il Giardino Maledetto."
+    ],
+    "quest.40C776497D68367F.title": "Oggetti mostruosi",
+    "quest.4147D247E4D754D0.quest_desc": [
+        "I Gleeches sono creature piccole che appaiono nel Deserto Cristallizzato.\n\nSono ossessionati dal tuo sangue e lo vogliono ottenere in qualsiasi modo, anche attraverso metodi violenti. Fortunatamente, hanno solo 4 cuori!\n\nQuando muoiono, potrebbero rilasciare le loro uova, che possono essere lanciate come proiettili.",
+        "{image:atm:textures\/questpics\/eternal\/starlight_gleech.png width:100 height:100 align:center}"
+    ],
+    "quest.4147D247E4D754D0.title": "Gleech",
+    "quest.41C70F0873E14307.quest_desc": [
+        "Ci sono alberi nel deserto! \\n\\nNo, aspetta, c'erano alberi..."
+    ],
+    "quest.429785E8F64929CE.quest_desc": [
+        "Per raggiungere la Dimensione Starlight, dovrai trovare le Rovine del Portale nel Mondo Aperto.\n\nLì troverai un Guardiano. Clicca con il tasto destro per iniziare una conversazione e sfidarlo a un duello! Fai attenzione, sono molto potenti.\n\nUna volta che avrai vinto il duello, riceverai alcuni oggetti, tra cui l'Orb of Prophecy. Clicca con il tasto destro sul Portale con l'Orb per attivarlo! Quindi, entra per raggiungere..."
+    ],
+    "quest.429785E8F64929CE.title": "Il Guardiano e il Portone",
+    "quest.47CB136D7764B86D.quest_desc": [
+        "I viticci della Torreya crescono appesi agli alberi di Torreya.\n\nSono appesi perché non possono essere posizionati in nessun altro modo...\n\nLa base di questi viticci emetterà luce!"
+    ],
+    "quest.484ABFF266C8791E.quest_desc": [
+        "Le Orbflora sono piante che crescono sul fondo del mare.\n\nPossono essere raccolte in qualsiasi momento, ma se desiderate ottenere le Orbflora Luminose, dovrete aspettare!\n\nQuando raggiungono il livello del mare, fioriranno. Dopo la fioritura, produrranno la luce!"
+    ],
+    "quest.49D1EA8E812A12F6.quest_desc": [
+        "È semplicemente una pianta interessante.\nAvrete bisogno di una \"Swamp Silver Sickle\" per raccoglierla!\n\nNon capisco perché non mi interessino le piante, ma le canne mi piacciono molto. Forse è perché crescono vicino all'acqua, o perché assomigliano a dei \"corndogs\". Non lo so, ma mi piacciono."
+    ],
+    "quest.49DC0BD7DC1B893C.quest_desc": [
+        "Le fosse sono profonde depressioni all'interno del Mare Stellato. Raggiungono profondità fino a -50 metri!\n\nSono caratterizzate da diversi strati di roccia colorata che le rivestono e ospitano una varietà di blocchi di pietra, muschi e pesci."
+    ],
+    "quest.49DC0BD7DC1B893C.title": "L'abisso",
+    "quest.4A54288FD22C903D.quest_desc": [
+        "Velvetumoss si genera all'interno di The Abyss.\n\nÈ possibile raccogliere esemplari verdi per ottenere delle \"Sfere di Velvetumoss\", che possono essere consumate o trasformate in una \"Sfere di Slime\"!\n\nGli esemplari rossi generano piante decorative."
+    ],
+    "quest.4A5EA948F5DCEB73.quest_desc": [
+        "Il Swamp Silver è raro da trovare all'interno del fango di Nightfall.\n\nPuò essere utilizzato per creare armature e utensili!"
+    ],
+    "quest.4C23D7E3DC8327C2.quest_desc": [
+        "Per sconfiggere la Mostruosità Lunare, dovrai appiccare il fuoco!\n\nPuoi utilizzare una pietra focaia e un accendino o un accendino con sale.\n\nPersonalmente, ritengo che l'accendino sia più appropriato!"
+    ],
+    "quest.4C23D7E3DC8327C2.title": "Brucialo!",
+    "quest.4D0B50731FED3CEE.quest_desc": [
+        "Per ottenere la Lancia Cresant, dovrai crearla utilizzando gli oggetti ottenuti dagli avversari Lunar Monstrosity e Tangled Hatred, oppure farla cadere dall'avversario Lunar Monstrosity (in entrambi i casi, dovrai sconfiggerlo).\n\nPuoi utilizzare la lancia come una lancia e colpire i nemici, oppure tenere premuto il tasto destro per lanciare la lancia in avanti. Se colpisci i nemici con l'attacco secondario, anche tutti i nemici nelle vicinanze subiranno danni."
+    ],
+    "quest.4D4DE266A2A325B0.quest_desc": [
+        "Redstone, Golem Steel e Golem Steel ossidato sono oggetti utilizzati per trovare la Fabbrica del Golem.\n\nTenete uno di questi oggetti (probabilmente il Redstone, che si trova nel sottosuolo di Starlight) nella mano libera e utilizzate l'Occhio di Ricerca per trovare la Fabbrica del Golem, che, a proposito, si trova nel sottosuolo!"
+    ],
+    "quest.4D4DE266A2A325B0.title": "Oggetti di Golem",
+    "quest.4D53D9BBD8279282.quest_desc": [
+        "Gli alberi lunari possono variare da alberi enormi e imponenti, a piccoli esemplari. Si adattano per occupare lo spazio disponibile. (Questo spiegherebbe la presenza di foreste fitte).\n\nSi propagano come normali piantine e possono dare origine a frutti lunari sulle loro foglie!"
+    ],
+    "quest.4D8C9960BB675221.quest_desc": [
+        "Ha un nome divertente!"
+    ],
+    "quest.4DBC3B4D38CC6152.quest_desc": [
+        "Le Falene Cristallizzate si trovano nelle profondità dei Deserti Cristallizzati.\n\nSono creature neutrali e consiglio di evitarle, poiché infliggono molti danni!\n\nInoltre, hanno 10 cuori e possono rilasciare Cristalli di Stelle o Gel di Tremore al momento della morte.",
+        "{image:atm:textures\/questpics\/eternal\/starlight_moth.png width:125 height:100 align:center}"
+    ],
+    "quest.4DBC3B4D38CC6152.title": "Farfalla cristallizzata",
+    "quest.50674FE3C6BE9990.quest_desc": [
+        "Proprio come la normale Foresta di Starlight, ma con una distanza molto minore tra gli alberi!",
+        "{image:atm:textures\/questpics\/eternal\/starlight_dense.png width:200 height:100 align:center}"
+    ],
+    "quest.50674FE3C6BE9990.title": "Foresta di luce intensa",
+    "quest.516AC1F0E0BCAE55.quest_desc": [
+        "I \"Tubi Congelati\" vengono lanciati dalle \"Fabbriche di Ghiaccio\" nel Golem Forge.\n\nPossono essere lanciati come pozioni per colpire chiunque ne venga colpito."
+    ],
+    "quest.5244B2D6B5FA0487.quest_desc": [
+        "Crystallized Desert sembra un deserto normale, ma con una tonalità viola.\n\nInoltre, grazie alla presenza di enormi cristalli, non credo che i deserti normali abbiano questa caratteristica.",
+        "{image:atm:textures\/questpics\/eternal\/starlight_desert.png width:200 height:100 align:center}"
+    ],
+    "quest.5244B2D6B5FA0487.title": "Deserto cristallizzato",
+    "quest.5424A0E1292B13EE.quest_desc": [
+        "Intorno a Starlight, potresti trovare Hot Ponds.\n\n(Questi non sono un bioma o una struttura, quindi dovrai semplicemente esplorare per trovarli!)\n\nAll'interno, potrai trovare Pietra Termale."
+    ],
+    "quest.5466CB622A637DCD.quest_desc": [
+        "L'Abyssal Fruit può tecnicamente crescere in qualsiasi corpo idrico, ma è l'unica pianta che vive all'interno dei Fiumi Luminosi.\n\nCresce come l'alga Kelp, partendo dal fondo, ma ha anche le caratteristiche delle \"Glowberries\", ovvero la pianta produce frutti che possono essere raccolti."
+    ],
+    "quest.54DE8AAAE2181F18.quest_desc": [
+        "La spada Moonring deve essere creata dai boss, il che la rende ovviamente l'arma più difficile da ottenere e la più potente.\n\nFunziona come una normale spada, fino all'aggiornamento 1.9. Può bloccare gli attacchi come uno scudo, ma non può essere utilizzata in modo continuo per infliggere danni massimi."
+    ],
+    "quest.5DFE3CB5B0130A7A.quest_desc": [
+        "Sulla riva del fiume Shimmer, si possono trovare diverse piante, alcune delle quali sono abbastanza robuste da permettere di camminarci sopra."
+    ],
+    "quest.60FDCA2FDFE74056.quest_desc": [
+        "È rosa!\n\nQui troverete alberi di Scarlet (o \"alberi rosa\") con le loro foglie cadute che si trovano sotto. Potete anche trovare funghi luminosi!",
+        "{image:atm:textures\/questpics\/eternal\/starlight_scarlet.png width:200 height:100 align:center}"
+    ],
+    "quest.60FDCA2FDFE74056.title": "Foresta di Scarlet",
+    "quest.62F33BBE7BDFE404.quest_desc": [
+        "\"La Bacchetta di Teletrasporto è un altro oggetto che si ottiene dal Lunar Monstrosity, e solo da quello!\n\nÈ possibile utilizzare la bacchetta premendo il tasto destro per attivare il teletrasporto, dopodiché, rilasciando il tasto, sarete trasportati nell'elemento su cui avete fatto clic l'ultima volta!\n\nEsiste un raggio d'azione, ma è piuttosto ampio. Inoltre, dopo l'uso, è necessario attendere un breve periodo di tempo prima di poterlo utilizzare di nuovo!\""
+    ],
+    "quest.6314B892B569A0A5.quest_desc": [
+        "Starlight! \\n\\nUn mondo in cui è sempre crepuscolo, e non è possibile cambiarlo. \\n\\nCi sono decine di biomi, creature, boss e persino semplici blocchi da scoprire! Riesci a trovarli tutti?"
+    ],
+    "quest.6314B892B569A0A5.title": "Luce eterna",
+    "quest.63362CC33B39C627.quest_desc": [
+        "Le acque di Starlit Seas sono vaste, situate in modo perfetto tra le coste calde e la terraferma.\n\nContengono molte meraviglie e risorse preziose!\n\nSpero che abbiate portato le vostre maschere da snorkeling!",
+        "{image:atm:textures\/questpics\/eternal\/starlight_starlitsea.png width:200 height:100 align:center}"
+    ],
+    "quest.63362CC33B39C627.title": "Mare illuminato dalle stelle",
+    "quest.636848ED1115A0B3.quest_desc": [
+        "I Ratlins sono creature pacifiche che possono apparire sulla superficie.\n\nQuando muoiono, rilasciano carne di Ratlin, cuoio e muschio delle grotte.\n\nQuesto ultimo può essere utilizzato per farli riprodurre!",
+        "{image:atm:textures\/questpics\/eternal\/starlight_rat.png width:100 height:100 align:center}"
+    ],
+    "quest.636848ED1115A0B3.title": "Ratlins",
+    "quest.68B2D3B985FC1378.quest_desc": [
+        "Una foresta lussureggiante e incantevole, piena di alberi di Torreya e rampicanti.",
+        "{image:atm:textures\/questpics\/eternal\/starlight_torreya.png width:200 height:100 align:center}"
+    ],
+    "quest.68B2D3B985FC1378.title": "Foresta di Torreya",
+    "quest.6B00D5DBB3552F15.quest_desc": [
+        "I Tangled sono nemici che appaiono nel Giardino Maledetto.\n\nHanno 10 cuori e attaccheranno colpendo. Se vieni colpito, riceverai una piccola quantità di veleno.\n\nQuando muoiono, lasceranno cadere rampicanti e ossa, ma anche faranno apparire un Cranio Intorto!\n\nI Cranio Intorti agiscono in modo simile ai Vex: volano attraverso i blocchi e ti attaccano. Hanno solo 5 cuori e, quando muoiono, ti daranno il cranio come oggetto.",
+        "{image:atm:textures\/questpics\/eternal\/starlight_tangled.png width:150 height:100 align:center}"
+    ],
+    "quest.6B00D5DBB3552F15.title": "Intrecciato",
+    "quest.6E970CF05B96EB20.quest_desc": [
+        "Per danneggiare il Golem, dovrai disattivare la sua fonte di energia!\n\nPer farlo, dovrai fare clic con il tasto destro sui blocchi energetici quando diventano blu.\n\nDi solito, ne troverai 2 agli angoli della stanza del boss e 2 sopra di lui!"
+    ],
+    "quest.6E970CF05B96EB20.title": "Spegnimento",
+    "quest.6EC289857CDC4969.quest_desc": [
+        "Gli Ent sono un'altra specie pacifica che può generarsi sulla superficie di Starlight. Si generano nelle foreste!\n\nQuesti piccoli alberi possono rilasciare bastoni, bacche lunari e foglie lunari quando muoiono.\n\nÈ possibile utilizzare le bacche lunari per riprodurli!",
+        "{image:atm:textures\/questpics\/eternal\/starlight_ent.png width:100 height:100 align:center}"
+    ],
+    "quest.6EC289857CDC4969.title": "Ents",
+    "quest.70A82A5D17D558FB.quest_desc": [
+        "La Spada Energetica può essere ottenuta solo dal Golem di Starlight.\n\nFunziona come una normale spada, ma premendo il tasto destro è possibile attaccare e sferrare colpi mentre si impugna, proprio come Genji di Overwatch!"
+    ],
+    "quest.713548E540B18E07.quest_desc": [
+        "La Moonring Bow può essere ottenuta solo dalla Lunar Monstrosity.\n\nFunziona come un arco normale, sparando frecce, ma le punte a terra seguiranno la stessa direzione in cui vola la freccia!"
+    ],
+    "quest.713EF442D59501BA.quest_desc": [
+        "La Catena di Anime può essere creata solo utilizzando i frammenti ottenuti dal \"Hatred Tangled\" e dalla \"Lunar Monstrosity\".\n\nÈ una sorta di gancio! Clicca con il tasto destro per lanciarlo e, una volta che colpisce qualcosa, inizierà a tirarti verso di esso. Quindi, dovrai cliccare di nuovo con il tasto destro per staccarlo.\n\nÈ anche necessario per ottenere l'ATM Star!"
+    ],
+    "quest.71C58666D4BC2508.quest_desc": [
+        "Funziona come una pietra focaia e un martello!"
+    ],
+    "quest.770C0975CA61CE46.quest_desc": [
+        "I cristalli di glacite si trovano in profondità nel sottosuolo, nelle foreste permafrost.\n\nPossono essere utilizzati per creare armature e strumenti che aiutano a proteggersi dai danni causati dal freddo!"
+    ],
+    "quest.7A16D2EB63359294.quest_desc": [
+        "Le alci di Aurora sono animali da cortile amichevoli che vivono anche in climi freddi.\n\nQuesti alci non cercheranno di farti del male, ma se ti ostacoleranno mentre corri, potresti urtare contro i loro corni.\n\nI corni possono anche essere ottenuti uccidendo gli alci, e possono essere utilizzati sia come arma che come zappa!\n\nPotrebbero anche ottenere cuoio o bistecca di alce di Aurora.",
+        "{image:atm:textures\/questpics\/eternal\/starlight_deer.png width:200 height:100 align:center}"
+    ],
+    "quest.7A16D2EB63359294.title": "Aurora Deer",
+    "quest.7AB2FECE47F558F8.quest_desc": [
+        "Le stellagmiti si trovano sottoterra nella Starlight.\n\nFunzionano come normali blocchi di pietra, e possono essere trasformati in altri tipi di blocchi.\n\nLa loro versione fusa funziona come un normale blocco di magma!"
+    ],
+    "quest.7B5D34650BBD97D9.quest_desc": [
+        "È molto raro che si verifichino piogge di meteoriti nella Dimensione Starlight.\n\nNella maggior parte dei casi, i meteoriti sono molto piccoli e scompaiono prima di toccare terra.\n\nTuttavia, alcuni sono più grandi e sopravvivono, ed è lì che si possono trovare le \"Aethersent Ore\"!"
+    ],
+    "quest.7D7BD1458CF12021.quest_desc": [
+        "Ovviamente, è un deserto, e quindi ci sono anche i cactus! \\n\\nI cactus, una volta maturi, possono addirittura produrre frutti!"
+    ],
+    "quest.7E90138B0A2C3210.quest_desc": [
+        "Gli alberi di Northland sono alberi robusti che crescono nelle foreste permafrost.\n\nSembrano pini, ma sono molto più chiari. Forse sono dei pini albini.\n\nI loro piantine devono essere piantate nel terreno, non sull'erba, e in una formazione 2x2."
+    ],
+    "quest.7FBB431AC055FE93.quest_desc": [
+        "Lo Soulit Spectator è realizzato con un \"Trapped Soul\" e un occhio di ragno \"Nightfal\".\n\nFunziona in modo simile a una \"Sticky Camera\" di Tom Clancy's Splinter Cell. Puoi fare clic con il tasto destro per inviare lo spettatore e, dopo un breve periodo, sarai in grado di vedere attraverso di esso. Puoi persino vedere te stesso attraverso di esso!\n\nNon può essere interrotto prematuramente, quindi usalo con cautela. Ha anche una durata e un periodo di ricarica."
+    ],
+    "quest.7FF77463F2A0E210.quest_desc": [
+        "Il Nightfall Mud può essere trovato solo nelle Paludi Oscure.\nÈ possibile creare altri Blocchi utilizzando questo materiale."
+    ],
+    "task.0AD8AC7ECCD8002A.title": "Tutti i diritti riservati",
+    "task.2510A7EE5D886B63.title": "Tutti i diritti riservati",
+    "task.452736994864F623.title": "Visita il fiume Shimmer",
+    "task.67690077D4273A36.title": "Visita Starlight"
+}

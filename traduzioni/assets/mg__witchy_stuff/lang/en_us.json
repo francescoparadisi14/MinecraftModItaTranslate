@@ -1,4 +1,6 @@
 {
+    "effect.mg__witchy_stuff.floating": "Floating",
+    "entity.mg__witchy_stuff.dark_mage": "Dark Mage",
     "item.mg__witchy_stuff.amethyst_witch_hat_helmet": "Amethyst Witch Hat",
     "item.mg__witchy_stuff.black_witch_hat_helmet": "Black Witch Hat",
     "item.mg__witchy_stuff.blue_witch_hat_helmet": "Blue Witch Hat",
@@ -8,6 +10,7 @@
     "item.mg__witchy_stuff.candle_witch_hat_helmet": "Candle Witch Hat",
     "item.mg__witchy_stuff.candle_witch_hat_leggings": "Candle Witch Hat Leggings",
     "item.mg__witchy_stuff.cyan_witch_hat_helmet": "Cyan Witch Hat",
+    "item.mg__witchy_stuff.dark_mage_spawn_egg": "Dark Mage Spawn Egg",
     "item.mg__witchy_stuff.diamond_witch_hat_helmet": "Diamond Witch Hat",
     "item.mg__witchy_stuff.floral_witch_hat_helmet": "Floral Witch Hat",
     "item.mg__witchy_stuff.green_witch_hat_helmet": "Green Witch Hat",
@@ -30,7 +33,18 @@
     "item.mg__witchy_stuff.soul_candle_witch_hat_chestplate": "Candle Witch Hat Chestplate",
     "item.mg__witchy_stuff.soul_candle_witch_hat_helmet": "Soul Candle Witch Hat",
     "item.mg__witchy_stuff.soul_candle_witch_hat_leggings": "Candle Witch Hat Leggings",
+    "item.mg__witchy_stuff.valentine_staff": "Valentine Staff",
+    "item.mg__witchy_stuff.valentine_witch_hat_boots": "Valentine Witch Hat Boots",
+    "item.mg__witchy_stuff.valentine_witch_hat_chestplate": "Valentine Witch Hat Chestplate",
+    "item.mg__witchy_stuff.valentine_witch_hat_helmet": "Valentine Witch Hat",
+    "item.mg__witchy_stuff.valentine_witch_hat_leggings": "Valentine Witch Hat Leggings",
+    "item.mg__witchy_stuff.weathered_staff": "Weathered Staff",
     "item.mg__witchy_stuff.white_witch_hat_helmet": "White Witch Hat",
     "item.mg__witchy_stuff.yellow_witch_hat_helmet": "Yellow Witch Hat",
-    "item_group.mg__witchy_stuff.witchy_stuff": "Witchy Stuff"
+    "item_group.mg__witchy_stuff.witchy_stuff": "Witchy Stuff",
+    "subtitles.dark_mage_attacks": "Dark Mage Attacks",
+    "subtitles.dark_mage_dies": "Dark Mage Dies",
+    "subtitles.dark_mage_idle": "Dark Mage Hums",
+    "subtitles.dark_mage_pain": "Dark Mage Is Hurt",
+    "subtitles.spell_cast": "Spell is casted"
 }

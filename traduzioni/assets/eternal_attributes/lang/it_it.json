@@ -1,13 +1,13 @@
 {
-    "attribute.name.eternal_attributes.astral_power": "potere astrale",
-    "attribute.name.eternal_attributes.blood_power": "potere del sangue",
-    "attribute.name.eternal_attributes.corruption_power": "potere della corruzione",
+    "attribute.name.eternal_attributes.astral_power": "Potere astrale",
+    "attribute.name.eternal_attributes.blood_power": "Potere del sangue",
+    "attribute.name.eternal_attributes.corruption_power": "Corruzione e potere",
     "attribute.name.eternal_attributes.corruption_resistance": "Resistenza alla corruzione",
-    "attribute.name.eternal_attributes.creation_power": "potere di creazione",
-    "attribute.name.eternal_attributes.death_power": "potere della morte",
-    "attribute.name.eternal_attributes.decaying_power": "potere in declino",
-    "attribute.name.eternal_attributes.destruction_power": "potere di distruzione",
-    "attribute.name.eternal_attributes.life_power": "potere di vita",
-    "attribute.name.eternal_attributes.nature_power": "potere naturale",
-    "attribute.name.eternal_attributes.unholy_power": "potere impuro"
+    "attribute.name.eternal_attributes.creation_power": "Potere creativo",
+    "attribute.name.eternal_attributes.death_power": "Potere della morte",
+    "attribute.name.eternal_attributes.decaying_power": "Potere in declino",
+    "attribute.name.eternal_attributes.destruction_power": "Potere di distruzione",
+    "attribute.name.eternal_attributes.life_power": "Energia vitale",
+    "attribute.name.eternal_attributes.nature_power": "Energia naturale",
+    "attribute.name.eternal_attributes.unholy_power": "Potere sacrilego"
 }

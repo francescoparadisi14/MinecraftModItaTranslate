@@ -1,0 +1,761 @@
+{
+    "quest.003AA945CACCD641.quest_subtitle": "Realizzato con un tavolo per offerte.",
+    "quest.003AA945CACCD641.title": "L'ape delle profondità",
+    "quest.003FF3813A864BA1.quest_subtitle": "Alimenta un secchio di materia strana a un'ape di lava.",
+    "quest.003FF3813A864BA1.title": "Bee di materia strana",
+    "quest.0072C4F028C327CB.quest_subtitle": "Magmatic + Nomad",
+    "quest.0072C4F028C327CB.title": "BlazBee",
+    "quest.00A17728A387B426.quest_desc": [
+        "I nidi in legno sono utilizzati per attirare le api carpenter e le api a fascia blu.\n\nI nidi in legno in quercia scura attirano 3 tipi diversi di api.\n\nQuesti possono essere posizionati in qualsiasi bioma del mondo di gioco."
+    ],
+    "quest.00A17728A387B426.quest_subtitle": "Può essere utilizzato in qualsiasi bioma del mondo di gioco.",
+    "quest.00A17728A387B426.title": "Nidi di legno",
+    "quest.00FD36C207845895.quest_desc": [
+        "Posiziona un nido di ossidiana nella zona finale per attirare questa ape."
+    ],
+    "quest.00FD36C207845895.quest_subtitle": "\\&9 Richiede l'Obsidian Nest",
+    "quest.00FD36C207845895.title": "Api draconica",
+    "quest.010A970FC91BD617.quest_subtitle": "Fabbricato nella fonderia di lega",
+    "quest.010A970FC91BD617.title": "Soularium Bee",
+    "quest.019CC48531E7759B.quest_subtitle": "Fabbricato presso la fucina Dragonsteel",
+    "quest.019CC48531E7759B.title": "Api di acciaio di ghiaccio",
+    "quest.01F7F3589EBD8872.quest_subtitle": "Offri a un Shroombee un fungo marrone.",
+    "quest.01F7F3589EBD8872.title": "Brown Shroombee",
+    "quest.027FD9135DEC4949.quest_subtitle": "Utilizzare gli \"attractant\" per le api fantasma quando vengono posizionate nell'Inferno e somministrate \"lacrime di Ghast\".",
+    "quest.029AA03790F055E8.quest_subtitle": "Crystalline + Mason",
+    "quest.029AA03790F055E8.title": "Gold Bee",
+    "quest.02F3133A9006BC1E.quest_subtitle": "Acciaio fuso sopra uova di api\/carbone",
+    "quest.02F3133A9006BC1E.title": "Ape in acciaio",
+    "quest.035495984F84FB44.quest_subtitle": "Fabbricato nella fonderia di lega",
+    "quest.035495984F84FB44.title": "Legante a vibrazione",
+    "quest.037FBF06E59E1027.quest_subtitle": "Prodotto a Clibano",
+    "quest.037FBF06E59E1027.title": "Deorum Bee",
+    "quest.041CDB45450A67E0.quest_subtitle": "Uovo di covata di api Platinum Alloy con uovo di covata di api antico",
+    "quest.041CDB45450A67E0.title": "Duratium Bee",
+    "quest.0465094C2D31B898.quest_subtitle": "Ferro + Creebee",
+    "quest.0465094C2D31B898.title": "Uraninite Bee",
+    "quest.05422E444126FDA6.quest_subtitle": "Ferro + Blaze",
+    "quest.05422E444126FDA6.title": "Ape di ferro rosso",
+    "quest.05428EA120583BD0.quest_subtitle": "Realizzato con Energizer",
+    "quest.05428EA120583BD0.title": "Cristallo di nitro per api",
+    "quest.05F8458AB4A6950B.quest_subtitle": "Alimenta il \"Goo\" di Voidshimmer alla \"Api di Diamante\"",
+    "quest.05F8458AB4A6950B.title": "Apis Celestigem",
+    "quest.06044B4452A6B720.quest_desc": [
+        "Quando posizionato in un bioma desertico, il \"Sand Nest\" attirerà sia le api \"Chocolate Mining Bee\" che le api \"Ashy Mining Bee\"."
+    ],
+    "quest.06044B4452A6B720.quest_subtitle": "Attira le api negli ecosistemi desertici.",
+    "quest.065196033249A0AA.quest_subtitle": "Biopolimero grezzo in lega, contenente un uovo di ape.",
+    "quest.065196033249A0AA.title": "Biosteel Bee",
+    "quest.0691BDE968724213.quest_subtitle": "Fabbricato nella fonderia di lega",
+    "quest.0691BDE968724213.title": "Legante brillante",
+    "quest.06B352AE90DD0D3E.quest_desc": [
+        "L'utilizzo di un oggetto \"\\&8BlazBee\\&r\" per impollinare un uovo di \"uovo di ape Infinity\", contrassegnato con \"\\&4\", lo trasformerà in un uovo di \"uovo di ape Infinity\", contrassegnato con \"\\&2\"."
+    ],
+    "quest.06B352AE90DD0D3E.title": "Apis dell'Infinito",
+    "quest.06B6786122F3DAF9.quest_desc": [
+        "Influisce sull'orario in cui un'ape può lavorare. Esistono tre livelli: \\&aDiurno\\&r, \\&dNotturno\\&r e \\&cMetaturno\\&r. Le api \\&aDiurno\\&r possono lavorare solo durante il giorno, le api \\&dNotturno\\&r possono lavorare solo di notte, mentre le api \\&cMetaturno\\&r possono lavorare in qualsiasi momento della giornata. L'obiettivo è ottenere le api \\&cMetaturno\\&r. BeeBee possiede naturalmente questa caratteristica. Come accennato nella quest \"\\&a\\&lProduttività\\&r\", questa ape si trova in \"The Other\" ed è particolarmente pericolosa.\n\nSe preferite evitare di interagire con questa ape, esiste un'altra opzione. Dovremo legare alcune api a una recinzione durante la notte per renderle \\&dNotturno\\&r, quindi lasciare quelle api sulla recinzione durante il giorno per renderle \\&cMetaturno\\&r. Possiamo saltare uno di questi passaggi utilizzando un'ape spettrale, che è naturalmente \\&dNotturno\\&r."
+    ],
+    "quest.06B6786122F3DAF9.quest_subtitle": "Il sonno è per i deboli.",
+    "quest.06B6786122F3DAF9.title": "\\&e\\&lComportamento",
+    "quest.08A3292277D2FDE2.quest_subtitle": "Realizzato con strumenti affascinanti",
+    "quest.08A3292277D2FDE2.title": "Essenza d'acqua per api",
+    "quest.09223F02621781BF.quest_subtitle": "Ferro + Mason",
+    "quest.09223F02621781BF.title": "Silver Bee",
+    "quest.094D28B7A0170039.quest_desc": [
+        "Raccoglierà gli oggetti e li porterà al suo nido.",
+        "",
+        "Non è altrettanto efficace di un \"Bee Hoarder\"."
+    ],
+    "quest.094D28B7A0170039.quest_subtitle": "Alimenta una ape di Vaniglia con un Hopper.",
+    "quest.094D28B7A0170039.title": "Collezionista di api",
+    "quest.097DE7038A746847.quest_subtitle": "Nato da un nido di canne",
+    "quest.09FD3D0B9BCAEB5A.quest_desc": [
+        "La \"Gravel Nest\" attirerà le api, sia in un ambiente di tipo \"fiume\" che in un ambiente di tipo \"spiaggia\".",
+        "",
+        "Attrae l'ape minatore di sabbia, l'ape minatore di cioccolato e l'ape minatore."
+    ],
+    "quest.09FD3D0B9BCAEB5A.quest_subtitle": "Attira le api nei biomi del fiume e della spiaggia.",
+    "quest.0A11725B41AB45F6.quest_desc": [
+        "Questo contenuto è stato creato da \\&6AllTheMods Staff\\&r, o da un \\&2contributore della community\\&r, per l'uso nei pacchetti mod di AllTheMods.\n\nPoiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti a \\&e\"Tutti i diritti riservati\", questo contenuto non può essere utilizzato in altri pacchetti pubblici, a meno che non sia stato rilasciato dal team \\&6AllTheMods\\&r.\n\nQuesto contenuto è intenzionalmente nascosto. Se lo state visualizzando, siete in modalità di modifica."
+    ],
+    "quest.0AF2460579C6BD8C.quest_subtitle": "Osmio + ossidiana",
+    "quest.0AF2460579C6BD8C.title": "Obsidian Bee di alta qualità",
+    "quest.0B2210804594E7B8.quest_subtitle": "Semplicemente, crealo.",
+    "quest.0B2210804594E7B8.title": "Essenza magica per api",
+    "quest.0BCB7E97BC566683.quest_subtitle": "Centrare 6 uova di covata di api \"Iron Bee\" per 1 uovo di covata di api \"Manganese Bee\"",
+    "quest.0BCB7E97BC566683.title": "Manganese Bee",
+    "quest.0CD6F30BBEE20E15.quest_subtitle": "Glowstone + Osmio",
+    "quest.0CD6F30BBEE20E15.title": "Api di Glowstone migliorata",
+    "quest.0D5D76B3551CD5A7.quest_desc": [
+        "Sì, si chiama \"Aluminium Bee\"."
+    ],
+    "quest.0D5D76B3551CD5A7.quest_subtitle": "Estrazione mineraria cristallina + Estrazione mineraria di scorie",
+    "quest.0D5D76B3551CD5A7.title": "Api in alluminio",
+    "quest.0D97CDE92F3B1A83.quest_subtitle": "Enderio fuso sopra un uovo di ape composto da piombo\/diamante\/platino.",
+    "quest.0D97CDE92F3B1A83.title": "Apis Enderium",
+    "quest.0E345B5B625E6235.quest_subtitle": "Realizzato con strumenti affascinanti",
+    "quest.0E345B5B625E6235.title": "Essenza di miele",
+    "quest.0FB1FC640471363A.quest_subtitle": "Lapis + smeraldo",
+    "quest.0FB1FC640471363A.title": "Esperienza con le api",
+    "quest.100ACB5C8A359BF0.quest_desc": [
+        "Per ottenere un'ape Lapis, devi accoppiare un'ape Rossa con un'ape a Banda Blu."
+    ],
+    "quest.100ACB5C8A359BF0.quest_subtitle": "Redstone + Banda blu",
+    "quest.100ACB5C8A359BF0.title": "Lapis Bee",
+    "quest.101E3A21FEE00E3F.quest_subtitle": "Uovo di ape in lega di nichel e Fluxite",
+    "quest.101E3A21FEE00E3F.title": "Energite Bee",
+    "quest.104BF57D4A006688.quest_subtitle": "Alimenta un'ape \"Digger\" con un blocco di Sculk.",
+    "quest.104BF57D4A006688.title": "Api del genere *Megachile*",
+    "quest.109AD73F016D576B.quest_desc": [
+        "Utilizzando il metodo standard, puoi creare i tuoi alveoni e avere il tuo piccolo spazio!\\n\\nQuesti alveoni possono contenere 3 api ciascuno, ma non li utilizzeremo a lungo...\\n\\nLe api produrranno miele e favi solo se hanno a disposizione i fiori giusti. Le api di vaniglia possono utilizzare qualsiasi fiore, ma la maggior parte delle api presenti nel mod richiederà un blocco specifico!\\nAssicurati di consultare JEI per maggiori informazioni."
+    ],
+    "quest.109AD73F016D576B.title": "La tua primaarnia",
+    "quest.10DF9DE4B6C03D6B.quest_subtitle": "Realizzato per l'altare naturale",
+    "quest.10DF9DE4B6C03D6B.title": "Oro macchiato",
+    "quest.114D668C691A2BDF.quest_subtitle": "Ashy Mining + Crystalline",
+    "quest.114D668C691A2BDF.title": "Iron Bee",
+    "quest.117241986C99E475.quest_desc": [
+        "Utilizzando l'ape \"Glowing Bee\", accoppiala con l'ape \"Chocolate Mining Bee\" per ottenere un'ape \"Redstone Bee\"!"
+    ],
+    "quest.117241986C99E475.quest_subtitle": "Estrazione del cacao + Cacao luminoso",
+    "quest.117241986C99E475.title": "Api di Redstone",
+    "quest.120BDCB70AD352AC.quest_desc": [
+        "Se desiderate trasformare la vostra apicoltura in un'azienda per la produzione di risorse, dovrete iniziare creando alveari con il codice \"\\&6Nests\".",
+        "",
+        "I nidi devono essere posizionati in specifici biomi, che possono essere trovati nell'interfaccia JEI (cercate l'icona \"I\" nella parte superiore).",
+        "",
+        "Per attirare un'ape nell'alveare, fai clic con il tasto destro sull'alveare e seleziona \"Dolcetto per api\". Gli alveari non funzioneranno senza i dolcetti!!",
+        "",
+        "\\&9Nota importante\\&r: Alcune specie di api vivono esclusivamente nei nidi e non entrano nelle apiarie avanzate. Se non producono favi, è necessario che vivano nei nidi."
+    ],
+    "quest.120BDCB70AD352AC.quest_subtitle": "Sono richieste prelibatezze a base di miele.",
+    "quest.128A14A3842325FE.quest_desc": [
+        "Quando viene installato in un alveare avanzato, le api non escono fisicamente dall'alveare. Un viaggio verso il loro blocco di fiori sarà simulato.\n\nAssicurati di posizionare il blocco di fiori o il blocco di alimentazione necessario davanti all'alveare, contenente i blocchi o gli oggetti necessari per l'ape all'interno. Per vedere come configurarlo correttamente, consulta la missione relativa al blocco di alimentazione.\n\nConsiglio vivamente di ottenere questo oggetto, in modo che le tue api non scompaiano e per poterle inserire e rimuovere più facilmente dall'alveare."
+    ],
+    "quest.128A14A3842325FE.quest_subtitle": "Le api esistono ancora?",
+    "quest.131EC039435B8878.quest_desc": [
+        "In \"Productive Bees\", non dovete passare la maggior parte del tempo a volare alla ricerca di api specifiche.",
+        "",
+        "Invece, potete crearli utilizzando i Nidi e i \"Dolcetti d'Ape\" (r).",
+        "",
+        "Con questi, potrai costruire dei nidi e fare clic con il tasto destro su di essi per attirare le api. Alcuni nidi richiedono oggetti speciali invece dei dolcetti, quindi assicurati di controllare JEI per maggiori informazioni!",
+        "",
+        "Assicurati di verificare quale ambiente ecologico è necessario per attirare le api giuste!"
+    ],
+    "quest.13AA91D39A2CABF2.quest_desc": [
+        "Benvenuti in \\&6Productive Bees\\&r!\\n\\nPer iniziare a utilizzare il mod, avrete bisogno innanzitutto di trovare alcuni alveoni e bottiglie di miele!\\nTrova un alveare e lascia che le api facciano il loro lavoro. Quando l'alveare sarà pieno, otterrai gli alveoni, e le bottiglie di vetro ti daranno le bottiglie di miele!\\n\\n\\&9Nota importante\\&r: Poiché le quest che coinvolgono gli alveoni non mostrano le ricette, assicurati di consultarle tramite JEI se ne hai bisogno!\\n"
+    ],
+    "quest.13AA91D39A2CABF2.title": "Api produttive!",
+    "quest.13C5C06278DD9C95.quest_subtitle": "Uovo di covata per api in lega di metallo, con un uovo di covata per api in lega di nichel.",
+    "quest.13C5C06278DD9C95.title": "Api adamantina",
+    "quest.13CAD46F4B229AB4.quest_subtitle": "Realizzato per l'altare naturale",
+    "quest.13CAD46F4B229AB4.title": "Ferro e miele",
+    "quest.1404BB8956D5F8C7.quest_desc": [
+        "Influisce sulla capacità di un'ape di lavorare in condizioni meteorologiche avverse. Esistono 3 livelli: \"Nessuno\", \"Pioggia\" e \"Qualsiasi\". \"Qualsiasi\" è quello che stiamo cercando. Potreste legare l'ape a una recinzione durante un temporale, se volete, ma non è etico.\n\nVi offro una soluzione più semplice: la pesca. Esatto, è possibile pescare api. Le api di acqua o Prismarine hanno naturalmente la capacità di tollerare qualsiasi condizione meteorologica. Possiamo sfruttare questo!"
+    ],
+    "quest.1404BB8956D5F8C7.quest_subtitle": "Il più piccolo tra i grandi",
+    "quest.1404BB8956D5F8C7.title": "\\&9\\&Tolleranza alle condizioni atmosferiche",
+    "quest.14623D25561BA61B.quest_desc": [
+        "Principalmente per il ruolo di catcher."
+    ],
+    "quest.14623D25561BA61B.quest_subtitle": "Aumenta l'autonomia di una macchina",
+    "quest.150FB369BEFFCBBF.quest_subtitle": "Lumium fuso su uovo di \"Silver\/Tin Bee Spawn\"",
+    "quest.150FB369BEFFCBBF.title": "Lumium Bee",
+    "quest.15288215A4BA2596.quest_subtitle": "Alimenta un blocco di quarzo rosa a un'ape di diamante.",
+    "quest.15288215A4BA2596.title": "Rosa Quarzo e Ape",
+    "quest.1540A9CDE2ED77E8.quest_subtitle": "Realizzato con Energizer",
+    "quest.1540A9CDE2ED77E8.title": "Cristallo Animato",
+    "quest.15C9CCCC8E06D430.quest_subtitle": "Alimenta un blocco di quarzo nero a una ape cristallina.",
+    "quest.15C9CCCC8E06D430.title": "Api di quarzo nero",
+    "quest.160BD0185954C891.quest_desc": [
+        "Invece di utilizzare i \"Honey Treats\", questa colonia di api richiede \"Gold Ingots\" per attirarle."
+    ],
+    "quest.160BD0185954C891.quest_subtitle": "Attira una \"Gold Bee\" quando viene posizionata nel Nether.",
+    "quest.16987C41D4F5BA47.quest_subtitle": "Fabbricato nella fonderia di lega",
+    "quest.16987C41D4F5BA47.title": "Legante in lega di rame",
+    "quest.170C31F3BAF050BC.quest_subtitle": "Prodotto da Reprocessor",
+    "quest.170C31F3BAF050BC.title": "Blutonium Bee",
+    "quest.17419401147B5C02.quest_desc": [
+        "Oltre a utilizzare nidi per attirare le api, la maggior parte delle api necessita di essere allevate o create artificialmente. (No, non si tratta di un errore di battitura.)",
+        "",
+        "\\&eBee Breeding\\&r richiede 2 api e specifici alimenti per indurre l'accoppiamento.",
+        "",
+        "\\&9Bee Conversion\\&r richiede di nutrire un'ape con un oggetto specifico per trasformarla in una nuova ape."
+    ],
+    "quest.17419401147B5C02.quest_subtitle": "Le api e le api",
+    "quest.176ACC61DC206E55.quest_subtitle": "Alimenta un Shroombee con un fungo rosso",
+    "quest.176ACC61DC206E55.title": "Crimson Shroombee",
+    "quest.177199FED92C3B5B.quest_subtitle": "Alimenta un diamante aromatizzato a una ape diamantata.",
+    "quest.177199FED92C3B5B.title": "Apis dimensionale",
+    "quest.17989643018D00C1.quest_desc": [
+        "Ti infastidiscono le gocce provenienti dalle api? Se sì, hai fortuna, perché esiste una soluzione semplice.\n\nPuoi inserire un \"spugna\" nel vano apposito di un Hive avanzato per impedirne il gocciolamento."
+    ],
+    "quest.17989643018D00C1.quest_subtitle": "Non hai stile.",
+    "quest.17989643018D00C1.title": "Arrestare il gocciolamento",
+    "quest.17A322C3B309A4D4.quest_subtitle": "Sembra che le api dorate siano attratte dai dischi musicali.",
+    "quest.17A322C3B309A4D4.title": "Regalium Bee",
+    "quest.17B18040EFA37F86.quest_subtitle": "Alimenta un pellet di polonio a un'ape radioattiva.",
+    "quest.17B18040EFA37F86.title": "Api radioattiva sprecata",
+    "quest.18F948FF9FE015FB.quest_subtitle": "Alimenta un alveare di api \"Vanilla Bee TNT\".",
+    "quest.18F948FF9FE015FB.title": "CreeBee",
+    "quest.196E55B64667AE35.quest_desc": [
+        "È possibile posizionare i fiori per le api sulle lastre di alimentazione, che vengono posizionate di fronte alle arnie, come mostrato nell'immagine sottostante.",
+        "{image:atm:textures\/questpics\/bees\/feeder.png width:175 height:100 align:center fit:true}"
+    ],
+    "quest.196E55B64667AE35.quest_subtitle": "Installare una lastra",
+    "quest.198EDBAC1D6E2339.quest_desc": [
+        "Avrete bisogno di questi materiali per l'allevamento delle api Ender."
+    ],
+    "quest.198EDBAC1D6E2339.quest_subtitle": "Impedisce alle api di teletrasportarsi all'interno dell'alveare.",
+    "quest.1A0672C7509271B3.quest_subtitle": "Alimenta un'ape di diamante con fluorite.",
+    "quest.1A0672C7509271B3.title": "Fluorite per api",
+    "quest.1A4FAE5705B53753.quest_subtitle": "Realizzato con strumenti affascinanti",
+    "quest.1A4FAE5705B53753.title": "Essenza di miele",
+    "quest.1ACB3EDBCB732514.quest_subtitle": "Alimenta un blocco di monazite a un'ape che si nutre di zolfo.",
+    "quest.1ACB3EDBCB732514.title": "Monazite Bee",
+    "quest.1B79F794EDAA810A.quest_desc": [
+        "La Camera di Riproduzione può essere utilizzata per far riprodurre due api tra loro, automaticamente. È in grado di auto-riprodursi, nonché di far riprodurre 2 tipi di api per creare un terzo tipo (ad esempio: Ashy Mining + Crystalline -> Iron). Se ciò dovesse portare a un conflitto (riprendendo l'esempio precedente, Ashy Mining + Crystalline -> Aluminium), rimuovere una delle api e poi reinserirla.\n\nFornire gli oggetti di riproduzione in ogni slot (solitamente fiori, tenendo premuto SHIFT su una gabbia per api che contiene un certo tipo di ape per vedere quale oggetto di riproduzione utilizza (ad esempio, le api Draconic utilizzano 2 polveri Draconic)). Fornire anche alcune gabbie per api.\n\n...Non fare assolutamente nulla per indurre il F.Bee.I. ad attaccarti. Mi assicurerò che tu venga aggiunto alla \"Galleria della Disgraziata\" se dovesse succedere."
+    ],
+    "quest.1B79F794EDAA810A.quest_subtitle": "Making Babies 2: Electric Beegaloo",
+    "quest.1C0F4D1610530FEC.quest_subtitle": "Fabbricato nella fucina Dragonsteel",
+    "quest.1C0F4D1610530FEC.title": "Api di Ferro Drago",
+    "quest.1C40B30823B2A254.quest_subtitle": "Semplicemente, pescate per ottenerlo.",
+    "quest.1C40B30823B2A254.title": "Api marine",
+    "quest.1C474B46AECCCFE9.quest_subtitle": "Creato utilizzando un nido di ghiaia o pietra.",
+    "quest.1D720AC88431BD70.quest_desc": [
+        "Alimenta un'ape Ender con un'ape Lapis per ottenere un'ape Diamante!"
+    ],
+    "quest.1D720AC88431BD70.quest_subtitle": "Ender + Lapis",
+    "quest.1D720AC88431BD70.title": "Api di diamante",
+    "quest.1D995548A159F291.quest_subtitle": "Offri una daga di Souli a un'ape spettrale.",
+    "quest.1D995548A159F291.title": "Soulium Bee",
+    "quest.1DC407272D9D9CCE.quest_subtitle": "Artigianato risvegliato",
+    "quest.1DC407272D9D9CCE.title": "Apis Supremium risvegliato",
+    "quest.1DF026030780AE96.quest_subtitle": "Estrazione di geni dalle api all'interno degli alveari",
+    "quest.1E9BD4B74DAEA9FC.quest_desc": [
+        "Per attirare le api a questo nido, è necessario utilizzare il \"Popped Chorus Fruit\" invece dei \"Honey Treats\"."
+    ],
+    "quest.1E9BD4B74DAEA9FC.quest_subtitle": "Attira le api Ender quando vengono posizionate nell'End.",
+    "quest.1EBD5E4410A6DF34.quest_subtitle": "Offri a un'ape spettrale una daga di Soulium.",
+    "quest.1EBD5E4410A6DF34.title": "Soulium Bee",
+    "quest.205DE46ABA1CCC8F.quest_subtitle": "Fabbricato nella fonderia di lega",
+    "quest.205DE46ABA1CCC8F.title": "Legante in lega",
+    "quest.2086C73688C8BA51.quest_subtitle": "Versare una quantità di acido solforico in un contenitore su un'ape lava.",
+    "quest.2086C73688C8BA51.title": "Acido solforico: un'immagine o un riferimento a qualcosa che contiene acido solforico.",
+    "quest.2182492BCC1B33D8.quest_desc": [
+        "Quando viene posizionato in un alveare, offre una probabilità del 5% che nasca un nuovo ape ogni volta che viene fornito miele.\n\nQuando viene posizionato in un \"Catcher\", permette solo al \"Catcher\" di catturare gli ape.\n\nÈ possibile impilare più esemplari per aumentare le probabilità."
+    ],
+    "quest.2182492BCC1B33D8.quest_subtitle": "Creare dei bambini",
+    "quest.21FDF07571B5DCA7.quest_subtitle": "Alimenta un'ape di ferro con Primogel Goo.",
+    "quest.21FDF07571B5DCA7.title": "Ferricore Bee",
+    "quest.2226555D9552236E.quest_subtitle": "Appare nelle maggior parte dei nidi di legno.",
+    "quest.22647504C37E547C.quest_subtitle": "Alimenta un blocco di Cianite a un'ape radioattiva.",
+    "quest.22647504C37E547C.title": "Apis cyanita",
+    "quest.22CF5AD56C1BB8D5.quest_subtitle": "Alimenta un blocco nero a un'ape di diamante.",
+    "quest.22CF5AD56C1BB8D5.title": "Api nera brillante",
+    "quest.23820B0DCEC022D1.quest_subtitle": "Resina + Legno",
+    "quest.23820B0DCEC022D1.title": "Ape in plastica",
+    "quest.244ACD7024566001.quest_subtitle": "Alimenta una ape mellifera con ghiaccio",
+    "quest.244ACD7024566001.title": "Api ghiacciata",
+    "quest.24846776077B52C3.quest_subtitle": "Preparazione di infusi",
+    "quest.24846776077B52C3.title": "Supremium Bee",
+    "quest.24888CAD50B32B04.quest_subtitle": "Creato all'interno di un nido di pietra.",
+    "quest.24B147D251D0CFFF.quest_subtitle": "Alimenta Gold Bee con il \"Goo\" di Blazebloom.",
+    "quest.24B147D251D0CFFF.title": "Blazegold Bee (probabilmente si riferisce a un prodotto o un marchio)",
+    "quest.264BFB8C5F79616F.quest_desc": [
+        "Posizionare una \"nestina\" di neve in un ambiente innevato attirerà una ape sudore."
+    ],
+    "quest.264BFB8C5F79616F.quest_subtitle": "Attira le api \"sweat\" negli ambienti freddi",
+    "quest.26B3AE1E77A84BCB.quest_desc": [
+        "Se lanciate un uovo di \"Apis Osmium\", un \"Certus Quartz\" e una \"Sky Stone\" nel Lava, otterrete un uovo di \"Apis Osmium\"."
+    ],
+    "quest.26B3AE1E77A84BCB.title": "Sky Osmium Bee",
+    "quest.26B9909717528D5E.quest_subtitle": "Trovato nel Giardino Sotterraneo",
+    "quest.26B9909717528D5E.title": "Utheric Bee",
+    "quest.26FB7A789981BD3C.quest_subtitle": "Alimenta un blocco di grafite a un'ape di carbone.",
+    "quest.26FB7A789981BD3C.title": "Grafite Bee",
+    "quest.28AE3B536D23E138.quest_subtitle": "Preparazione di infusi",
+    "quest.28AE3B536D23E138.title": "Inferium Bee",
+    "quest.2982D38BD5EE6349.quest_subtitle": "Alimenta un fungo \"Shroombee\" deformato.",
+    "quest.2982D38BD5EE6349.title": "Funghi deformato",
+    "quest.29A71E780923874E.quest_subtitle": "Nomad + Reed",
+    "quest.29A71E780923874E.title": "Silicon Bee",
+    "quest.29EE878BC8D3A742.quest_desc": [
+        "Per creare la nostra apicoltura, dovremo procurarci delle api... e catturarle.",
+        "",
+        "Cliccando con il tasto destro su un'ape, la catturerai!",
+        "",
+        "Inoltre, l'avventura può anche portare alla scoperta di alcune \"Api resistenti\" (Bee Cages), quindi tenete d'occhio!"
+    ],
+    "quest.29EE878BC8D3A742.title": "Catturare le api!",
+    "quest.2A559D527BC88DEC.quest_desc": [
+        "Se lanciate un uovo di \"Spatial Bee Spawn\" e un blocco di \"Sky Steel\" nel Lava, otterrete un uovo di \"Sky Steel Bee Spawn\"."
+    ],
+    "quest.2A559D527BC88DEC.title": "Sky Steel Bee",
+    "quest.2AEC294578952BFD.quest_subtitle": "Lapis + Scheletro",
+    "quest.2AEC294578952BFD.title": "Colorare l'ape",
+    "quest.2AEEDCC6826CF4AB.quest_subtitle": "Affare sospetto",
+    "quest.2AEEDCC6826CF4AB.title": "Apis unta",
+    "quest.2BE538246C672689.quest_desc": [
+        "Utilizzando un forno, versare il metallo \"Unobtainium\" fuso su un uovo di \"Vibranium Bee Spawn\"."
+    ],
+    "quest.2BE538246C672689.title": "Apis di Unobtainium",
+    "quest.2C29683DA28A8D47.quest_subtitle": "Prodotto da Reprocessor",
+    "quest.2C29683DA28A8D47.title": "Apis Insana",
+    "quest.2CA3707BEE2E3C0D.quest_subtitle": "Dai a Diamond Bee un blocco di Netherite.",
+    "quest.2CA3707BEE2E3C0D.title": "Api antica",
+    "quest.2CA4D7253DA1825F.quest_subtitle": "Creato utilizzando un nido di legno.",
+    "quest.2DFFEB29B6CBFD99.quest_subtitle": "Ferro + Fascia blu",
+    "quest.2DFFEB29B6CBFD99.title": "Apis mellifera (la regina)",
+    "quest.2E0275C21D3F0DA3.quest_desc": [
+        "Da non confondere con un'ape draconica."
+    ],
+    "quest.2E0275C21D3F0DA3.quest_subtitle": "Creazione di oggetti Wyvern Fusion",
+    "quest.2E0275C21D3F0DA3.title": "Draconio",
+    "quest.2E51F09F6D9E5EF8.quest_desc": [
+        "Questa è l'ape madre."
+    ],
+    "quest.2E51F09F6D9E5EF8.quest_subtitle": "Agricoltore + Allevatore",
+    "quest.2F2597122C6202EF.quest_subtitle": "Fabbricato presso Atomic Forge",
+    "quest.2F2597122C6202EF.title": "Prometheum Bee",
+    "quest.2FE088899C1AF39B.quest_subtitle": "Fabbricato nella fonderia di lega",
+    "quest.2FE088899C1AF39B.title": "Ape in acciaio scuro",
+    "quest.3054D016D2EF25FF.quest_subtitle": "Molten Electrum sopra uova di api in oro\/argento",
+    "quest.3054D016D2EF25FF.title": "Elefante di miele",
+    "quest.309059DEDEE7AECD.quest_desc": [
+        "Raccoglie gli oggetti a terra e li riporta nel suo nido."
+    ],
+    "quest.309059DEDEE7AECD.quest_subtitle": "Dai da mangiare a un'ape raccoglitrice a una conchiglia di Shulker.",
+    "quest.309059DEDEE7AECD.title": "Apis accumulatrice",
+    "quest.30A238E87F013CBB.quest_desc": [
+        "Le api presentano diverse caratteristiche che possono influenzare il loro comportamento, i momenti in cui sono più attive, il loro livello di aggressività e la probabilità che perdano il pungiglione durante un attacco. In queste missioni, esploreremo come ottenere le caratteristiche migliori, nonché come utilizzarle.\n\nPer ottenere questi campioni genetici, è necessario completare la missione \"Bottler\", che è una missione precedente. Per applicare effettivamente questi campioni genetici alle proprie api, sarà necessario combinarli con un \"Honey Treat\" in una griglia di crafting. Tutte le caratteristiche, ad eccezione del \"Tipo\", possono essere applicate alle proprie api nutrendole con il \"Honey Treat\". Il \"Tipo\" funziona in modo diverso e deve invece essere utilizzato con l'incubatrice per creare un uovo di riproduzione per la rispettiva ape."
+    ],
+    "quest.30A238E87F013CBB.quest_subtitle": "Per creare l'ape perfetta.",
+    "quest.30A238E87F013CBB.title": "Campioni di geni",
+    "quest.3155E4212045BC8E.quest_desc": [
+        "L'Obsidian Nest attirerà le api draconiche quando sarà posizionato nell'End.",
+        "",
+        "Questi non accettano \"Honey Treats\", ma utilizzano invece \"Dragon's Breath\"."
+    ],
+    "quest.3155E4212045BC8E.quest_subtitle": "Attira un'ape draconica alla fine",
+    "quest.3157BD833FCE8CD3.quest_subtitle": "Alimenta un'ape di lava con il fuoco del pozzo di Sheol.",
+    "quest.3157BD833FCE8CD3.title": "Fiamme di Sheol Bee",
+    "quest.31ED0C236C41A837.quest_subtitle": "Alimenta un secchio di lava a un'ape magmatica.",
+    "quest.31ED0C236C41A837.title": "Lava Bee",
+    "quest.32FDC5FFA000DAF8.quest_desc": [
+        "Se hai delle api, sei orgoglioso?\\n\\nVuoi metterle in un barattolo per mostrarle?\n\nPosiziona un barattolo per api e utilizza un tubo o un contenitore per inserire l'ape all'interno del barattolo."
+    ],
+    "quest.32FDC5FFA000DAF8.quest_subtitle": "Mostrare le api",
+    "quest.33422FBDAE11AE82.quest_subtitle": "Dai al \"Spatial Bee\" una perla di Fluix.",
+    "quest.33422FBDAE11AE82.title": "Fluix Bee",
+    "quest.33A0E06FE5CFD8F3.quest_desc": [
+        "La \\&9Centrifuge\\&r viene utilizzata per trasformare le scatolette di miele prodotte dalle api in prodotti utili, come il miele! Anche se è possibile utilizzare una \\&9Centrifuge\\&r standard all'inizio, è fondamentale acquisire una \\&6Powered Centrifuge\\&r il prima possibile. Questa è una centrifuga più veloce che funziona con l'alimentazione elettrica!\\n\\nSe state cercando il modo più efficiente per lavorare le vostre scatolette di miele, la \\&cHeated Centrifuge\\&r è ancora più veloce e lavora con i \\&aComb Blocks\\&r invece che con le scatolette!\\n\\nTutte queste centrifughe possono essere accelerate utilizzando gli aggiornamenti di velocità."
+    ],
+    "quest.33A0E06FE5CFD8F3.quest_subtitle": "Elaborazione delle scatolette di miele",
+    "quest.3466C70EB256026B.quest_subtitle": "Realizzato con strumenti affascinanti",
+    "quest.3466C70EB256026B.title": "Api di \"Fire Essence\"",
+    "quest.349D19F2FCC34B84.quest_desc": [
+        "Posizionando il nido di mattoni del Nether nel Nether, e fornendo del \"Magma Cream\", si attirerà una \"Magmatic Bee\"."
+    ],
+    "quest.349D19F2FCC34B84.quest_subtitle": "Effetti di un \"Magmatic Bee\" quando viene posizionato nel Nether.",
+    "quest.3567306F2B66BD20.quest_subtitle": "Preparazione di infusi",
+    "quest.3567306F2B66BD20.title": "Imperium Bee",
+    "quest.35E8F1CC0080E45E.quest_subtitle": "Offri a una Ape di Diamante un Rubino",
+    "quest.35E8F1CC0080E45E.title": "RuBee",
+    "quest.35EAB77C195E594E.quest_subtitle": "Alimenta una ape di diamante e un ametista.",
+    "quest.35EAB77C195E594E.title": "Amethysta (o Ape Amethysta)",
+    "quest.35FE9C3395491433.quest_subtitle": "Riempi l'uovo di allevamento di Iron Bee con pressione.",
+    "quest.35FE9C3395491433.title": "Ferro compresso",
+    "quest.36541A2179A7E76B.quest_subtitle": "Alimenta BlazBee con il minerale Benitoite",
+    "quest.36541A2179A7E76B.title": "Apis Benitoite",
+    "quest.369D3AF332181DA8.quest_desc": [
+        "La Stone Nest può essere posizionata in qualsiasi ambiente naturale per attirare sia le api Mason che le api scavatori."
+    ],
+    "quest.369D3AF332181DA8.quest_subtitle": "Attira le api in qualsiasi bioma del mondo di gioco.",
+    "quest.37045B986619A03D.quest_subtitle": "Api da legno gialla e verde",
+    "quest.371E09ED2A3F6BDC.quest_subtitle": "Appaiono in alveari avanzati vuoti, in luoghi oscuri.",
+    "quest.371E09ED2A3F6BDC.title": "ZomBee",
+    "quest.37367101B3DAA70F.quest_desc": [
+        "L'Ashy Mining Bee si genera da un nido composto di terra, ghiaia o sabbia."
+    ],
+    "quest.37367101B3DAA70F.quest_subtitle": "Appare da un nido di fango",
+    "quest.379B33D0BCBC47AA.quest_subtitle": "Prodotto da Reprocessor",
+    "quest.379B33D0BCBC47AA.title": "Magnetite Bee",
+    "quest.37CD9BF281903F56.quest_subtitle": "Offri a un Shroombee un fungo rosso.",
+    "quest.37CD9BF281903F56.title": "Funghi rosso",
+    "quest.38622692756F1F27.quest_subtitle": "Cristallino + Ender",
+    "quest.38622692756F1F27.title": "Bee spaziale",
+    "quest.397E2D14BDE7DED0.quest_desc": [
+        "Tutti gli alveari produrranno blocchi di cera invece di alveari, aumentando efficacemente la produzione di quattro volte!"
+    ],
+    "quest.397E2D14BDE7DED0.quest_subtitle": "4 volte",
+    "quest.399882F3C51DD282.quest_subtitle": "Offri a un'ape scheletrica una rosa appassita.",
+    "quest.399882F3C51DD282.title": "Ape morente",
+    "quest.39A19138C501B16F.quest_desc": [
+        "È possibile attirare queste api utilizzando un nido appiccicoso in un ambiente di palude."
+    ],
+    "quest.39A19138C501B16F.quest_subtitle": "\\&9 Richiede un nido appiccicoso",
+    "quest.39A19138C501B16F.title": "Api viscida",
+    "quest.3AF30E1EC163E2E3.quest_subtitle": "Offri a una Ape di Diamante un Zaffiro",
+    "quest.3AF30E1EC163E2E3.title": "Api di zaffiro",
+    "quest.3B5095CEDD9FB323.quest_subtitle": "Realizzato con Energizer",
+    "quest.3B5095CEDD9FB323.title": "Acciaio energizzato",
+    "quest.3CB7AB928D3E1CC6.quest_subtitle": "Realizzato con Energizer",
+    "quest.3CB7AB928D3E1CC6.title": "Api di cristallo incandescente",
+    "quest.3D63868AC4393EBC.quest_subtitle": "Lapis + smeraldo",
+    "quest.3D63868AC4393EBC.title": "Esperienza con le api",
+    "quest.3D7480E4F9063E93.quest_subtitle": "Legno + Sudore",
+    "quest.3D7480E4F9063E93.title": "Rancher Bee",
+    "quest.3DA5F622E3266AE5.quest_subtitle": "Prodotto da Reprocessor",
+    "quest.3DA5F622E3266AE5.title": "Apis ridicolus",
+    "quest.3DB5874FA93FDA50.quest_subtitle": "Elettrolisi di 3 uova di covata di api \"Emerald\" per ottenere un'uovo di covata di api \"Beryllium\".",
+    "quest.3DB5874FA93FDA50.title": "Beryllium Bee",
+    "quest.3E301F3EEC8C763A.quest_desc": [
+        "Questo può essere utilizzato per accelerare la crescita delle api, oppure per creare nuovi uova di covata.\n\nPer trasformare un'ape giovane in un adulto, è sufficiente posizionare un'ape giovane insieme a 20 \"dolcetti\" di miele.\n\nPer creare nuove uova di covata, è necessario combinare il gene dell'ape desiderata con un \"dolcetto\" di miele, quindi utilizzare quel \"dolcetto\" di miele in questa macchina insieme a un uovo per creare la nuova uova di covata.\n\nI geni possono essere combinati fino al 100% di purezza, il che garantisce un'opportunità del 100% di trasformare un uovo in un uovo di covata.",
+        "{@pagebreak}",
+        "È possibile anche applicare geni a un'ape senza doverla estrarre dalla sua gabbia, utilizzando questo metodo. Basta inserire nella incubatrice, insieme alla gabbia contenente l'ape a cui si desidera applicare i geni, anche un \"Honey Treat\" contenente i campioni di geni desiderati."
+    ],
+    "quest.3E301F3EEC8C763A.quest_subtitle": "Baby Bee Daycare",
+    "quest.3EB6CBA0B1374BDD.quest_subtitle": "Fabbricato nella fucina Dragonsteel",
+    "quest.3EB6CBA0B1374BDD.title": "Api di acciaio fulmineo",
+    "quest.40E4F1172A164DD1.quest_subtitle": "Possibilità di ottenere nuovi oggetti quando si distruggono i \"Cocoa Pods\" in una giungla.",
+    "quest.40E4F1172A164DD1.title": "Apis mellifera",
+    "quest.40F8A44DF4D8DBD6.quest_subtitle": "Magmatic + Nomad",
+    "quest.40F8A44DF4D8DBD6.title": "BlazBee",
+    "quest.419DD6FE84B91749.quest_desc": [
+        "Quando raccogli i geni, otterrai una percentuale di un determinato tratto. Puoi combinarli utilizzando un tavolo di lavoro, oppure puoi utilizzare un \"Gene Indexer\" per combinarli automaticamente."
+    ],
+    "quest.419DD6FE84B91749.quest_subtitle": "Il Gene Combiner e il petto",
+    "quest.41CF7CAEE4F60CCD.quest_desc": [
+        "Quando viene posizionato nel Nether e viene fornito del Pietra Luminosa, il Nido di Api Luminose attirerà un'ape luminosa."
+    ],
+    "quest.41CF7CAEE4F60CCD.quest_subtitle": "Attira un'ape luminosa nel Nether",
+    "quest.41D0CC616B762F4C.quest_desc": [
+        "È possibile aggiungere un uovo di \"Entro Bee Spawn\" e della \"Entro Dust\" all'acqua per creare un uovo di \"Entro Bee Spawn\"."
+    ],
+    "quest.41D0CC616B762F4C.title": "Entro Bee",
+    "quest.41FD145B911BD625.quest_subtitle": "Trasformare l'uovo di Silver Bee in Spiritfire",
+    "quest.41FD145B911BD625.title": "Iesnium Bee",
+    "quest.421851D4D39910DB.quest_desc": [
+        "Influisce sulla probabilità che l'ape perda il suo pungiglione quando attacca qualcosa. Questa caratteristica è meno importante rispetto alle prime 3 che ho menzionato, ma ne parlerò comunque. Esistono 4 livelli: \"Debole\", \"Normale\", \"Medio\" e \"Forte\". Mi concentrerò sul livello \"Forte\". Alcune api, come le Draconic, Obsidian e altre, hanno naturalmente una grande resistenza, che permette loro di mantenere il pungiglione."
+    ],
+    "quest.421851D4D39910DB.quest_subtitle": "Una delle meno importanti",
+    "quest.421851D4D39910DB.title": "\\&b\\&lResistenza",
+    "quest.437DB2CE10D33A08.quest_desc": [
+        "Dovrete procurarvi un \"Nido di Glowstone\" (valore 6) e recarvi nell'Inferno per catturare questa ape!"
+    ],
+    "quest.437DB2CE10D33A08.title": "Api luminosa",
+    "quest.439B5FDAC84271A2.quest_subtitle": "Diamante + Ferro",
+    "quest.439B5FDAC84271A2.title": "Titanio Bee",
+    "quest.447CAC472A99835B.quest_subtitle": "Appare da un nido di neve",
+    "quest.47A57DF7964D71B9.quest_subtitle": "Semplicemente, crealo.",
+    "quest.47A57DF7964D71B9.title": "Api assassina",
+    "quest.47CEFA06392C4211.quest_desc": [
+        "Le scatole di espansione vengono posizionate sopra le tue apiarie avanzate per aumentare il numero di api che possono ospitare, raggiungendo un totale di 5 slot. Queste sono inoltre necessarie per consentire l'aggiornamento delle tue apiarie avanzate."
+    ],
+    "quest.47CEFA06392C4211.quest_subtitle": "Aumentare lo spazio di stoccaggio per le api.",
+    "quest.47CEFA06392C4211.title": "Scatola di espansione",
+    "quest.486060882E507CF1.quest_subtitle": "Appare da un nido di fango",
+    "quest.4897C7BB3139C6C6.quest_subtitle": "Legname + Allevatore",
+    "quest.49776AC58E535E6A.quest_subtitle": "Prodotto da Reprocessor",
+    "quest.49776AC58E535E6A.title": "Api infinite",
+    "quest.4C0302FF4F63B52E.quest_desc": [
+        "Se desiderate avere api da allevamento, è necessario un grande impegno nella loro cattura, nell'allevamento e nell'alimentazione.",
+        "",
+        "La seguente parte della missione indica quali api dovrai catturare per proseguire.",
+        "",
+        "Per maggiori informazioni, consultate anche il sito JEI e il libro \"\\&9Big Book of Bees\\&\"."
+    ],
+    "quest.4C47EB9D2CE26BC6.quest_subtitle": "Appare in un nido di quarzo nel Nether.",
+    "quest.4C47EB9D2CE26BC6.title": "Apis cristallina",
+    "quest.4ED01E04D55999D9.quest_subtitle": "Versare il contenuto della busta di Molten Uru sull'uovo di spawn di BeeBee.",
+    "quest.4ED01E04D55999D9.title": "Uru Metal Bee",
+    "quest.4F4C1A349F953013.quest_subtitle": "Trovato nel Giardino Sotterraneo",
+    "quest.4F4C1A349F953013.title": "L'ape dimenticata",
+    "quest.4FE7F45C72EF5DC1.quest_subtitle": "Ferro + Sudore",
+    "quest.4FE7F45C72EF5DC1.title": "Nickel Bee",
+    "quest.500BEAD94C97DF96.quest_desc": [
+        "Possono essere utilizzati all'interno di un alveare o in un centrifugatore.\n\nQuando utilizzati all'interno di un alveare, riducono il tempo che le api trascorrono all'interno dell'alveare del 20%.\n\nQuando posizionati in un centrifugatore, aumentano la velocità di lavorazione.\n\nQuesti prodotti possono essere impilati."
+    ],
+    "quest.500BEAD94C97DF96.quest_subtitle": "Api Sonic",
+    "quest.50ED69AEEE808B24.quest_subtitle": "Alimenta un'ape acquatica con il \"bucket\" di litio liquido.",
+    "quest.50ED69AEEE808B24.title": "Lithium Bee",
+    "quest.516289A040EE9FDC.quest_subtitle": "Crystalline + Neon Cuckoo",
+    "quest.516289A040EE9FDC.title": "Menril Bee",
+    "quest.52B22C07818981D0.quest_subtitle": "Costante di fusione del Constantan rispetto all'uovo di polvere di nichel\/rame",
+    "quest.52B22C07818981D0.title": "Constantan Bee",
+    "quest.532F3E6868A29037.quest_desc": [
+        "Immaginate l'aggiornamento precedente, \"Velocità\", e ora immaginate che aumenti ulteriormente la velocità!\n\nQuesti aggiornamenti possono essere utilizzati nelle macchine per farle funzionare fino al 40% più velocemente!\n\nSì, gli effetti si sommano.\n\nNo, non possono essere utilizzati nelle apiere; questo è il ruolo della Produttività!"
+    ],
+    "quest.532F3E6868A29037.quest_subtitle": "Sonic, ma escludendo le api.",
+    "quest.5372264ED2D55143.quest_subtitle": "Estrarre le uova di \"Coal Bee Spawn\" in modo industriale.",
+    "quest.5372264ED2D55143.title": "HOP Graphite Bee",
+    "quest.54CBCD9D2F1AD907.quest_subtitle": "Alimenta un blocco di cristallo arcano a un'ape di diamante.",
+    "quest.54CBCD9D2F1AD907.title": "Arcanus Bee",
+    "quest.5563BD4934297522.quest_desc": [
+        "Una volta che hai un \"Diamond Bee\", incrocialo con un \"Slimy Bee\" per ottenere un \"Emerald Bee\"!"
+    ],
+    "quest.5563BD4934297522.quest_subtitle": "Diamond Bee + Bee appiccicosa",
+    "quest.5563BD4934297522.title": "Api verde smeraldo",
+    "quest.55882C10292B6A3D.quest_subtitle": "Dai un blocco di prosperità a un'ape cristallina.",
+    "quest.55882C10292B6A3D.title": "ProsperiBee",
+    "quest.57167FE67CFAC255.quest_subtitle": "Utilizzato per aggiungere api a un filtro.",
+    "quest.573BC5360C5CA675.quest_subtitle": "Spettrale + Osseo",
+    "quest.573BC5360C5CA675.title": "Apis mellifera grave",
+    "quest.57ACD83205988834.quest_subtitle": "Oro + Ender",
+    "quest.57ACD83205988834.title": "Apis platina",
+    "quest.5867713D016143A6.quest_subtitle": "Realizzato con apparecchiature straordinarie",
+    "quest.5867713D016143A6.title": "Apis Arcana",
+    "quest.5894A9DB9C379E91.quest_subtitle": "Preparazione di infusi",
+    "quest.5894A9DB9C379E91.title": "Apis prudentium",
+    "quest.589EB4602E3F9EEE.quest_desc": [
+        "Le api Tin Bees vengono create attraverso l'incrocio di un'ape cristallina con un'ape mineraria."
+    ],
+    "quest.589EB4602E3F9EEE.quest_subtitle": "Ashy Mining + Crystalline",
+    "quest.589EB4602E3F9EEE.title": "Tin Bee",
+    "quest.59135B04FC7C3E61.quest_subtitle": "Alimenta un Blocco Cloggrum a un'ape di ferro.",
+    "quest.59135B04FC7C3E61.title": "Cloggrum Bee",
+    "quest.5962DC39E5874FB9.quest_subtitle": "Lapis + Scheletro",
+    "quest.5A9B2246E33065A5.quest_desc": [
+        "Influisce sulla quantità di alveoli che si ottengono ogni volta che un'ape produce alveoli. Esistono 4 livelli: \"Normale\", \"Medio\", \"Alto\" e \"Molto Alto\". L'obiettivo è ottenere il livello \"Molto Alto\".\n\nQuesto tipo di ape, chiamata KamikazBee, si trova naturalmente in The Other ed è estremamente pericolosa. Se preferite evitare di interagire con un'ape particolarmente pericolosa, potete affidarvi ai KamikazBees.\n\nPer ottenere un KamikazBee, è necessario indossare un casco per l'ape (Bee Nest Helmet). Indossate il casco e fatevi attaccare da mostri (o sparatevi con un arco) per avere una probabilità del 30% di ottenere un KamikazBee. È molto veloce e pungerà l'aggressore (a meno che non si tratti di voi), quindi è meglio catturarlo rapidamente o utilizzare il Catcher."
+    ],
+    "quest.5A9B2246E33065A5.quest_subtitle": "Il più grande",
+    "quest.5A9B2246E33065A5.title": "\\&a\\&lProduttività",
+    "quest.5AE851B8074BC7E6.quest_subtitle": "Luce + Estrazione del cacao",
+    "quest.5AE851B8074BC7E6.title": "Cristallo di pietra rossa per api",
+    "quest.5B969BF6F00A84D8.quest_subtitle": "Utilizzare una centrifuga per trasformare 6 uova di larva di Apis mellifera in 1 uovo di larva di Apis mellifera.",
+    "quest.5B969BF6F00A84D8.title": "Chromium Bee",
+    "quest.5CC9CB0911954215.quest_desc": [
+        "Un nido di bambù funzionerà in qualsiasi bioma del mondo di gioco, attirando sia un'ape da costruzione (Mason Bee) che un'ape da bambù (Reed Bee)."
+    ],
+    "quest.5CC9CB0911954215.quest_subtitle": "Attira le api in qualsiasi bioma del mondo di gioco.",
+    "quest.5CF2A069A3CC4EF6.quest_subtitle": "Resina + Ramo",
+    "quest.5CF2A069A3CC4EF6.title": "Silky Bee",
+    "quest.5D71589555637DB0.quest_subtitle": "Alimenta l'Angelisite Ore alla Api Draconica.",
+    "quest.5D71589555637DB0.title": "Angelisita \"ape\"",
+    "quest.5DF26D712B643655.quest_subtitle": "Fusione di ottone su uova di api in zinco\/rame",
+    "quest.5DF26D712B643655.title": "Apis in ottone",
+    "quest.5F080CFA1DC7F435.quest_subtitle": "Creato utilizzando un nido di sabbia dell'anima nel Nether.",
+    "quest.5F080CFA1DC7F435.title": "Api spettrale",
+    "quest.5F1784E562C29B66.quest_desc": [
+        "Costruisci il tuo nido di End Stone e dirigiti verso l'End per catturare una di queste api!"
+    ],
+    "quest.5F1784E562C29B66.quest_subtitle": "\\&9 Richiede un nido di pietra",
+    "quest.5F1784E562C29B66.title": "Ender Bee",
+    "quest.60B985069E0E643E.quest_subtitle": "Acqua + Lava",
+    "quest.60B985069E0E643E.title": "Api di ossidiana",
+    "quest.614937A2F5823F3E.quest_subtitle": "Creato utilizzando un nido di mattoni del Nether",
+    "quest.614937A2F5823F3E.title": "Api Magmatiche",
+    "quest.618411DCC5C1A13C.quest_subtitle": "Alimenta un'ape radioattiva con polvere di plutonio.",
+    "quest.618411DCC5C1A13C.title": "Uranite (ape)",
+    "quest.655FB110E5F66DF0.quest_subtitle": "Alimenta Shadowpulse Goo all'ape antica.",
+    "quest.655FB110E5F66DF0.title": "Alluminio Eclipse Bee",
+    "quest.65A7307F9858ECB5.quest_desc": [
+        "Influisce sull'aggressività dell'ape e sulla sua propensione a pungerti. Questo è uno degli aspetti meno importanti, anche se è meglio evitare di interagire con api aggressive quando si desidera lavorare con una in un ambiente virtuale. Esistono 4 livelli: \"Passivo\", \"Normale\", \"Ostile\" e \"Aggressivo\". Devo essere onesto, non so esattamente cosa significhi ogni livello di temperamento. So solo che le api \"aggressive\" pungeranno, anche se non sono state provocati. Le api diventeranno meno aggressive se vengono alimentate con \"Honey Treats\"."
+    ],
+    "quest.65A7307F9858ECB5.quest_subtitle": "Smetta di pizzicarmi subito!",
+    "quest.65A7307F9858ECB5.title": "\\&4\\&lTemperatura",
+    "quest.66324D7D0C51AEAC.quest_desc": [
+        "La Base di Aggiornamento viene utilizzata per creare le varie migliorie presenti in Productive Bees."
+    ],
+    "quest.67482ED4B18F828D.quest_subtitle": "Acciaio + Neon Cuckoo",
+    "quest.67482ED4B18F828D.title": "Osmium Bee",
+    "quest.677D0E27CAD7B145.quest_subtitle": "Alimenta una ape rosa e viscida con il contenitore di gas Ether.",
+    "quest.677D0E27CAD7B145.title": "Gas di etere per api",
+    "quest.6786B08C30D26037.quest_desc": [
+        "Se desiderate ottenere uno di questi oggetti, avrete bisogno di un \"Ashy Mining Bee\" (o \"Apis mineraria Ashy\") come primo passo.",
+        "",
+        "Una volta che l'ape Ashy si è sistemata nel suo nido, c'è la possibilità che un'ape nomade possa prenderne il controllo."
+    ],
+    "quest.6786B08C30D26037.quest_subtitle": "Appare in un nido che contiene un'ape minatrice di tipo \"Ashes\".",
+    "quest.683B58B699D4D381.quest_subtitle": "Emergono da un nido che ospita un'ape con strisce blu.",
+    "quest.68CE30097BADE20E.quest_desc": [
+        "Cliccare con il tasto destro su un \"nido\" del tipo che state cercando vi indicherà la posizione di un altro!"
+    ],
+    "quest.68CE30097BADE20E.title": "Ricerca di nidi",
+    "quest.68DFFEA05553B67E.quest_subtitle": "Cloggrum + Frosty",
+    "quest.68DFFEA05553B67E.title": "Api di acciaio freddo",
+    "quest.692BC8AADCBF76C3.quest_subtitle": "Fabbricato nella fonderia di lega",
+    "quest.692BC8AADCBF76C3.title": "Legante energetico per api",
+    "quest.6BEE3578BD2C713C.quest_subtitle": "Appare da un nido di fango",
+    "quest.6BFF78D4218DF1F2.quest_subtitle": "Realizzato nella fucina di Hephaestus",
+    "quest.6BFF78D4218DF1F2.title": "Stellarite Bee",
+    "quest.6D484150536536B9.quest_desc": [
+        "Questo nido attira le api cristalline. Invece di utilizzare i \"Honey Treats\" per attirare le api, avrete bisogno di quarzo di Nether.",
+        "",
+        "Il modo più semplice per ottenere un blocco di quarzo è minarlo con un piccone \"Silk Touch\".",
+        "",
+        "Suggerimento: Il metallo ottone possiede la caratteristica \"Tocco Silenzioso\" quando si crea uno strumento a ingranaggi silenzioso."
+    ],
+    "quest.6D484150536536B9.quest_subtitle": "Attrazione di api cristalline nel Nether",
+    "quest.6DBF9CAB37B9BBF3.quest_subtitle": "Aumenta la produttività delle api del 120%",
+    "quest.6DC826659699E638.quest_subtitle": "Colpisci un uovo di covata di Ape Rossa con un uovo di covata di Ape d'Oro",
+    "quest.6DC826659699E638.title": "Fluxite Bee",
+    "quest.6DF215923418F56F.quest_subtitle": "Alimenta il modello \"Superenchanting\" a un'entità esperta.",
+    "quest.6DF215923418F56F.title": "Esperienza eccezionale con le api",
+    "quest.6E093D16B12E12B3.quest_subtitle": "Estrazione del cioccolato + Escavatore",
+    "quest.6E4C3B87FABE9EFA.quest_subtitle": "Bronzo fuso su uova di \"bee spawn\" in rame\/stagno.",
+    "quest.6E4C3B87FABE9EFA.title": "Apis in bronzo",
+    "quest.6E819CCD57B15D54.quest_desc": [
+        "Utilizzando un forno, versare il Vibranium fuso sopra le uova di Allthemodium."
+    ],
+    "quest.6E819CCD57B15D54.title": "Ape al Vibranio",
+    "quest.6EFFF0DC80C1C8A3.quest_desc": [
+        "Utilizzando un forno, versare il composto di Allthemodium fuso sull'uovo di \"Bee Spawn\" antico."
+    ],
+    "quest.6EFFF0DC80C1C8A3.title": "Allthemodium Apis",
+    "quest.6F7AC41B703028CC.quest_subtitle": "Segnale fuso su uova di api (probabilmente per la coltivazione di api).",
+    "quest.6F7AC41B703028CC.title": "Signalum Bee",
+    "quest.6F978C4D561F35EC.quest_desc": [
+        "Il \"Bottler\" ha due funzioni: conservare il miele e estrarre il materiale genetico dalle api.\n\nPer estrarre il materiale genetico dalle api, posizionate un pistone sopra il Bottler, lasciando uno spazio tra i due.\n\nPosizionate l'ape sopra il Bottler e attivate il pistone per schiacciare l'ape e ottenere il materiale genetico. La bottiglia risultante può quindi essere posizionata in un centrifugatore.\n\nNota: Assicuratevi che ci siano delle bottiglie all'interno del Bottler.",
+        "{image:atm:textures\/questpics\/bees\/bottler.png width:100 height:150 align:1}"
+    ],
+    "quest.6F978C4D561F35EC.quest_subtitle": "Tesoro, ho schiacciato le api.",
+    "quest.70C878DB6AE413B2.quest_subtitle": "Magmatico + Carbone",
+    "quest.70C878DB6AE413B2.title": "Api solforosa",
+    "quest.70FB4088084018D3.quest_desc": [
+        ""
+    ],
+    "quest.70FB4088084018D3.quest_subtitle": "Prodotto da Reprocessor",
+    "quest.70FB4088084018D3.title": "Ludicrite Bee",
+    "quest.715588642623A8A1.quest_subtitle": "Cristallino + Ferro",
+    "quest.715588642623A8A1.title": "Ferro arricchito per api (probabilmente si riferisce a un prodotto per l'alimentazione delle api)",
+    "quest.71667FFC8011525C.quest_subtitle": "Magmatic + Leafcutter",
+    "quest.71667FFC8011525C.title": "Carbone e Ape",
+    "quest.7277D695C4CB7840.quest_subtitle": "Realizzato con Energizer",
+    "quest.7277D695C4CB7840.title": "Cristallo di Nicotic",
+    "quest.728189EE56E5CAF7.quest_subtitle": "Fabbricato nella fonderia di lega",
+    "quest.728189EE56E5CAF7.title": "Legante in alluminio per alveari",
+    "quest.734A72A4C898BDFB.quest_subtitle": "Invar fuso su un substrato di stagno\/ferro",
+    "quest.734A72A4C898BDFB.title": "Invar Bee",
+    "quest.734F61A03FFA13ED.quest_subtitle": "CreeBee + Ferro",
+    "quest.734F61A03FFA13ED.title": "Api radioattiva",
+    "quest.73C70B15582958A5.quest_desc": [
+        "L'oggetto \"\\&eDirt Nest\\&r\" può essere posizionato in qualsiasi bioma del mondo di gioco per attirare le api.",
+        "",
+        "Può attirare l'ape minatrice di carbone, l'ape minatrice di cioccolato e l'ape tagliasilani."
+    ],
+    "quest.73C70B15582958A5.quest_subtitle": "Qualsiasi bioma del mondo principale",
+    "quest.74B3E4B62FA9565E.quest_subtitle": "Creare un'opera d'arte con un tavolo per le offerte.",
+    "quest.74B3E4B62FA9565E.title": "Apice celeste",
+    "quest.75CD4EE6A542D687.quest_subtitle": "Estrazione mineraria cristallina + Estrazione mineraria di scorie",
+    "quest.75CD4EE6A542D687.title": "Copper Bee",
+    "quest.761D21C6FBD13EE1.quest_subtitle": "Alimenta una ape di giada Peridot",
+    "quest.761D21C6FBD13EE1.title": "Api di Peridot",
+    "quest.76E94639E90FEB4E.quest_desc": [
+        "Posizionate alcune arnie vuote in un'area poco illuminata. Le api si muoveranno gradualmente verso di esse."
+    ],
+    "quest.76E94639E90FEB4E.quest_subtitle": "Creato in un ambiente oscuro con alveari vuoti.",
+    "quest.76E94639E90FEB4E.title": "Api scheletrica",
+    "quest.78CCD8075249E2B7.quest_subtitle": "Magmatico + Acqua",
+    "quest.78CCD8075249E2B7.title": "BreezBee",
+    "quest.79110ACAAC8412EA.quest_subtitle": "Preparazione di infusi",
+    "quest.79110ACAAC8412EA.title": "Tertium Bee",
+    "quest.7941938014E97A30.quest_desc": [
+        "Ti è mai venuto in mente di volare su un'ape?\n\nLe api mellifere si generano naturalmente nel mondo, e possono essere utilizzate come animali da soma!\n\nPrepara un \"dolcetto su uno spiedino\", metti una sella su un'ape mellifera e spicca il volo!"
+    ],
+    "quest.7941938014E97A30.quest_subtitle": "Generazione di creature nel mondo principale da nidi di \"Bumble Bee\"",
+    "quest.7941938014E97A30.title": "Api mellifera",
+    "quest.79CA2F401982C04F.quest_subtitle": "Alimenta un'ape Arcanus con un blocco runico.",
+    "quest.79CA2F401982C04F.title": "Rune Bee",
+    "quest.79D6A251FE3761B3.quest_desc": [
+        "Quando posizionato in un ambiente di palude, il Nido Appiccicoso attirerà le api appiccicose."
+    ],
+    "quest.79D6A251FE3761B3.quest_subtitle": "Attira un \"Bee Slimy\" in un ambiente di palude.",
+    "quest.7A2B26CF0EDAA724.quest_subtitle": "Fabbricato nella fonderia di lega",
+    "quest.7A2B26CF0EDAA724.title": "Fine acciaio per api",
+    "quest.7AE1459B0B862737.quest_subtitle": "Semplicemente, crealo.",
+    "quest.7AE1459B0B862737.title": "Tempo Bee",
+    "quest.7B0CE182D3FE3035.quest_subtitle": "È possibile creare due fiori alti utilizzando il MA Essence.",
+    "quest.7B0CE182D3FE3035.title": "Fiori realizzabili",
+    "quest.7B40A9DAA119DE59.quest_subtitle": "Crystalline + Neon Cuckoo",
+    "quest.7B40A9DAA119DE59.title": "Menril Bee",
+    "quest.7B5A0BFD47D96BDE.quest_desc": [
+        "Questo strumento è progettato per catturare le api che volano intorno.\n\nÈ possibile utilizzare un aggiornamento \"Filter Upgrade\" per selezionare quali api desidera catturare, nonché un aggiornamento \"BaBee Upgrade\" per catturare solo le api giovani."
+    ],
+    "quest.7B5A0BFD47D96BDE.quest_subtitle": "Cattura le api",
+    "quest.7B72CF322A3C985D.quest_desc": [
+        "L'utilizzo di un \"Obsidian Bee\" per impollinare un \"Redstone Bee Spawn Egg\" lo trasformerà in un \"Flux Dust Bee Spawn Egg\"."
+    ],
+    "quest.7B72CF322A3C985D.title": "Polvere di miele per api",
+    "quest.7B99AA20DC55263C.quest_subtitle": "Stagno + Argento",
+    "quest.7B99AA20DC55263C.title": "Antimony Bee",
+    "quest.7C169A4A39F37FAC.quest_desc": [
+        "Utilizzando la versione base del \"Beehive\", creeremo una versione avanzata. Può essere realizzata in quercia o in qualsiasi tipo di legno.\\n\\nLe api entreranno ed emergeranno da queste strutture, lasciando i favi nell'inventario. È inoltre possibile inserire bottiglie di vetro per ottenere bottiglie di miele.\\n\\nAvremo bisogno di molti favi per preparare dolcetti!"
+    ],
+    "quest.7C169A4A39F37FAC.quest_subtitle": "Smettere di tosare.",
+    "quest.7C169A4A39F37FAC.title": "Apiario avanzato",
+    "quest.7C651B90A738323E.quest_desc": [
+        "Da non confondere con l'ape Awakened Supremium."
+    ],
+    "quest.7C651B90A738323E.quest_subtitle": "Creazione di oggetti con la fusione draconica",
+    "quest.7C651B90A738323E.title": "Api risvegliata",
+    "quest.7E373212AE6B27D0.quest_subtitle": "Preparazione di infusi",
+    "quest.7E373212AE6B27D0.title": "Apis Insania",
+    "quest.7E57964F6AD5B060.quest_subtitle": "L'ape tagliafoglie potrebbe essere assetata.",
+    "quest.7E57964F6AD5B060.title": "Tè Bee",
+    "quest.7EAFF64FFE8B5378.quest_subtitle": "Ferro + Sudore",
+    "quest.7EAFF64FFE8B5378.title": "Zinco Bee",
+    "quest.7FD3C1784F32F2AF.quest_desc": [],
+    "quest.7FD3C1784F32F2AF.quest_subtitle": "Creazione caotica",
+    "quest.7FD3C1784F32F2AF.title": "Apis Caotica",
+    "task.065E5450AC87F1D5.title": "Spazzola antica",
+    "task.0A77407CE9055F04.title": "Api mellifera",
+    "task.0CDFF60D581118E3.title": "Api Cuckoo con luci al neon",
+    "task.0EF1CA8DED2FF38C.title": "Apiari avanzati",
+    "task.0F2BCC279B5731AB.title": "Spazzola di ametista",
+    "task.11931CBFE67ADBBB.title": "Tutti i diritti riservati",
+    "task.12A2CE1C3AE8A033.title": "Api con strisce blu",
+    "task.17B0E19125FCFA1A.title": "Spazzola luminosa",
+    "task.17C7DC04BC22C0D7.title": "Spazzola per il sale",
+    "task.181135E3A83C5B9E.title": "Spazzola per zinco",
+    "task.1817E18CF4034F52.title": "Gene che conferiscono tolleranza al clima",
+    "task.212BB84583FE4B8B.title": "L'apicoltore",
+    "task.2153473228DA4678.title": "Allevamento e conversione delle api",
+    "task.22F6A2BBA4241A4F.title": "",
+    "task.263F0E416A8E1110.title": "Spazzola in rame",
+    "task.299DE26FF7293F34.title": "Spazzola elettrica",
+    "task.2CC38211F4C54ED8.title": "Spazzola draconica",
+    "task.2EA19C4E46380CDA.title": "RuBee Comb",
+    "task.30B72EDF37727F5E.title": "Gene della resistenza",
+    "task.345245C32DB7B4D4.title": "Pinza per redstone",
+    "task.34C16667CDF3E53A.title": "CuBee",
+    "task.359396879CBA62D5.title": "Deposizione delle uova",
+    "task.3ABFFD6FFEB2E8F4.title": "Campioni di geni",
+    "task.3B35F86B42989063.title": "Spazzola per capelli Crimson Shroombee",
+    "task.3CDFAF37BFB1C89C.title": "Api gialla del legno",
+    "task.3DE460F842195173.title": "Ashy Mining Bee",
+    "task.4203F7ED807F3D30.title": "Spazzola per ossa",
+    "task.429FA8057B666565.title": "Spazzola Lapis",
+    "task.4324462D1A98B672.title": "Modificare i geni",
+    "task.4471A530B55D4140.title": "Pinza per osmium",
+    "task.46C7D666D3A4A3D9.title": "Spazzola per capelli con finitura blu zaffiro",
+    "task.471F062B01D0DDA1.title": "Api del cave\n",
+    "task.47BAD4AA76F9CF82.title": "Spazzola d'argento",
+    "task.4A6ADD52B113E3CA.title": "Api che tagliano le foglie",
+    "task.4BC7F46B28DC6BA0.title": "Api Mason",
+    "task.4DA6445DB5F3B85E.title": "Lumium Comb",
+    "task.4DFDEAD81868CEF4.title": "Api che estrae il cioccolato",
+    "task.4EF5B261BAD2AC7D.title": "Spazzola con setole di diamante",
+    "task.4FC90CCB41E58D5A.title": "Colorare l'ape",
+    "task.4FCEB24FC83D22A9.title": "Combina di Constantan",
+    "task.50823C029014781A.title": "Spazzola in ossidiana",
+    "task.508BC2CB4F4BC7EF.title": "Tutti i diritti riservati",
+    "task.5455E38685EE7187.title": "Gene che influenzano il comportamento",
+    "task.55F718D796CEB1B1.title": "Spazzola in bronzo",
+    "task.5860D1574D18BA1A.title": "Scatole di espansione",
+    "task.5B5DBA0A7644A551.title": "Signalum Comb",
+    "task.5BFAA4BB6651F71A.title": "Spazzola arrugginita",
+    "task.5C358DFF9CD0D1D9.title": "Spazzola radioattiva",
+    "task.5E017E6B7E3F56B7.title": "Spazzola appiccicosa",
+    "task.6047113DC2263E46.title": "Legno da costruzione",
+    "task.64248C6FBC867D56.title": "Api nomade",
+    "task.65D52E6A67DD11EB.title": "Centrifughe",
+    "task.6754D9E162472CA1.title": "Progressione di Allthemodium",
+    "task.6887F86C8673DAF6.title": "Reed Bee",
+    "task.696A828CBDAE7EE3.title": "Gene che influenzano la produttività",
+    "task.6D4F62833424ADC0.title": "Spazzola in ferro",
+    "task.6E0961A56194F0A8.title": "Apis mellifera (ape)",
+    "task.79AEDC66EB312BCA.title": "Spazzola in ottone",
+    "task.7B7C1C5BFEC92058.title": "Spazzola verde smeraldo"
+}

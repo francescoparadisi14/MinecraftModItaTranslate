@@ -1,15 +1,15 @@
 {
-    "name": "Albero di mela arancione 🌐",
+    "name": "Albero di acero arancione 🌐",
     "category": "patchouli:trees",
     "icon": "autumnity:orange_maple_sapling",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)🌐 §5Tutto l'anno§r$(li)Dimensioni: 1x1`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🌐 Disponibile tutto l'anno§r$(li)Dimensioni: 1x1"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Orange Maple Tree",
+            "name ": "Patchouli: Multibloc\n\nAlbero di arancia e acero",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -68,8 +68,7 @@
                     "L": "autumnity:orange_maple_leaves",
                     "W": "autumnity:maple_log[axis=y]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

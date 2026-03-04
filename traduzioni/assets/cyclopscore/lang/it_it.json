@@ -1,5 +1,5 @@
 {
-    "_comment": "Nota: Aggiunte vanilla",
+    "_comment": "Aggiunte di vaniglia",
     "block.air": "Aria",
     "chat.cyclopscore.command.ignitedPlayer": "Il giocatore '%s' è stato bruciato sul fuoco per %s secondi",
     "chat.cyclopscore.command.invalidArguments": "Argomenti invalidi",

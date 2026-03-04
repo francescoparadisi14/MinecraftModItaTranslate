@@ -1,14 +1,15 @@
 {
-    "bagus_lib.config.aprilFeature": "Enable April Feature",
+    "bagus_lib.config.aprilFeature": "Enable April Fools Feature",
+    "bagus_lib.config.aprilFeatureAlway": "Enable April Fools Feature Alway!",
     "bagus_lib.config.betterEndPoem": "Better End Poem",
     "bagus_lib.config.playableFirstPerson": "Playable First Person",
-    "bagus_lib.config.shakeCameraForVanilla": "Enable Shake Camera For Vanilla",
-    "bagus_lib.watermelon": "Water Melon",
-    "baguslib.config.shakeCameraForVanilla": "Enable Shake Camera For Vanilla",
-    "command.bagus_lib.dialog": "Successfully add Dialog",
-    "command.bagus_lib.image_dialog": "Successfully add Image Dialog",
-    "command.bagus_lib.item_dialog": "Successfully add Item Dialog",
-    "command.bagus_lib.remove_all_dialog": "Successfully Removed All Dialog",
+    "bagus_lib.config.shakeCameraForVanilla": "Enable Camera Shake for Vanilla",
+    "bagus_lib.watermelon": "Watermelon",
+    "command.bagus_lib.dialog": "Successfully added Dialog",
+    "command.bagus_lib.image_dialog": "Successfully added Image Dialog",
+    "command.bagus_lib.item_dialog": "Successfully added Item Dialog",
+    "command.bagus_lib.remove_all_dialog": "Successfully removed all Dialog",
+    "entity.bagus_lib.mini_bagu": "Mini Bagu",
     "item.bagus_lib.book": "Book",
-    "item.bagus_lib.spawn_egg_mini_bagu": "Mini Bagu Spawn Egg"
+    "item.bagus_lib.mini_bagu_spawn_egg": "Mini Bagu Spawn Egg"
 }

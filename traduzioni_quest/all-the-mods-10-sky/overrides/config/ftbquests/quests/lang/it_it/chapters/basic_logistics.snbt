@@ -1,0 +1,198 @@
+{
+    "quest.034F2CDF0830254B.quest_desc": [
+        "Funziona esattamente come l'Item Importer: inserisci il componente \"\\&eFluid Importer\" in un serbatoio contenente un liquido. Quindi, posiziona il componente \"\\&eFluid Interface\" dove desideri, e collega i cavi logici. Infine, utilizza la scheda variabile come prima!\n\nInoltre, è possibile prelevare liquidi fino al limite intero.\n\nNon preleva o deposita fonti di liquidi dal mondo, ma semplicemente sposta i liquidi da un serbatoio all'altro.",
+        "{image:atm:textures\/questpics\/logistics\/id_fluid.png width:200 height:50 align:center}"
+    ],
+    "quest.034F2CDF0830254B.title": "\\&eFluid: Importazione",
+    "quest.03C40D6A5D722543.quest_desc": [
+        "Le \"Carte Variabili\" sono necessarie per avviare interazioni come l'importazione di articoli. Le inserirai in uno dei slot dell'importatore per aggiungerli.\n\nDa lì, potrai modificare tutto tramite il pulsante \"+\". Potrai modificare, ad esempio, la quantità da importare, lo slot dell'articolo, il canale, praticamente tutto, utilizzando solo quella carta.\n\nSe, come me, hai solo bisogno di spostare articoli, senza particolari complicazioni, basta inserirli e, eventualmente, modificare il limite di quantità da spostare."
+    ],
+    "quest.046C417B2ADF3AA7.quest_desc": [
+        "Le carte hanno dei limiti. L'estrazione di oggetti può estrarre solo 8 oggetti per operazione. L'estrazione di fluidi è limitata a soli 5 contenitori. Dio sa come funzionano la chimica e l'energia.\n\nQuesti limiti non sono sufficienti, dobbiamo superarli.\nAggiungete degli \"Overclockers\" nell'angolo in alto a destra della scheda e questo aumenterà la loro capacità."
+    ],
+    "quest.046C417B2ADF3AA7.quest_subtitle": "Massimo: 4",
+    "quest.06767BA0AFE8C1EE.quest_desc": [
+        "1... 2... c'è anche un numero 4.\n\nPer impostare un numero, inserisci l'articolo e puoi utilizzare i clic sinistro o destro per modificare la quantità. Premi il tasto Shift per modificare di 10 unità. Una volta impostato il numero desiderato, inseriscilo in una scheda!\n\nIl sistema attenderà fino a quando non saranno presenti l'articolo corrispondente per iniziare a prenderli. Inoltre, manterrà quella quantità nel primo inventario."
+    ],
+    "quest.0BB562FB44B0AAA7.quest_desc": [
+        "Non solo le schede, ma anche altri componenti hanno dei limiti, quindi anche loro non sono gli unici che possono essere \"overclockati\"!\n\nQuesti componenti si trovano all'interno del dispositivo \\&cNode\\&r, nella parte inferiore a destra, e aumentano la velocità con cui esegue le operazioni."
+    ],
+    "quest.0BB562FB44B0AAA7.quest_subtitle": "Max: 8",
+    "quest.1834B5C1F8435D7A.quest_desc": [
+        "Le tubazioni meccaniche permettono al fluido di fluire all'interno del sistema.\n\nAlcune macchine in \\&5\\&lMeka\\&r necessiteranno di fluidi, come ad esempio un separatore elettrolitico che richiede acqua o impianti di evaporazione per la produzione di litio.",
+        "{image:atm:textures\/questpics\/logistics\/meka_pipe.png width:200 height:50 align:center}"
+    ],
+    "quest.1834B5C1F8435D7A.quest_subtitle": "Liquidi",
+    "quest.1C70D739CE464E25.quest_desc": [
+        "Funziona esattamente come le carte \"\\&2Item\", quindi è necessario utilizzare le carte \"\\&Extract\" e \"\\&Insert\". In questo caso, si prelevano i liquidi dai serbatoi e si trasferiscono in un altro serbatoio. No, non si spostano le fonti di liquidi dentro o fuori dal mondo."
+    ],
+    "quest.1C70D739CE464E25.title": "\\&9 Carta Fluida",
+    "quest.230582AAFC0A1632.quest_desc": [
+        "Questa quest è stata realizzata da \\&6AllTheMods Staff\\&r, oppure da un \\&2contributore della community\\&r, per l'uso nei pacchetti mod di AllTheMods.\\n\\nPoiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti a \\&eTutti i diritti riservati\\&r, questa quest non può essere utilizzata in altri pacchetti pubblici, se non quelli rilasciati dal team \\&6AllTheMods\\&r, senza un'esplicita autorizzazione.\\n\\nQuesta quest è intenzionalmente nascosta. Se la vedete, significa che siete in modalità di modifica."
+    ],
+    "quest.2329AA0AFBEF1E13.quest_desc": [
+        "\\&e\\&lPipez\\&r è il modulo di logistica più semplice. È così semplice che l'intero modulo può essere inserito nella pagina di quest, lasciando spazio per altri moduli!",
+        "",
+        "Fissare il tubo nel punto desiderato e utilizzare la chiave per tubi per configurare quale lato tira, spinge o non si collega.",
+        "",
+        "Anche altri attrezzi, come quelli di Wren, funzionano con i tubi \\&e\\&lPipez\\&r!",
+        "",
+        "(Può risultare lento quando viene utilizzato in grandi quantità, anche se non è così lento come le tubature di \\&5\\&lMekanism\\&r)."
+    ],
+    "quest.2329AA0AFBEF1E13.title": "\\&l\\&ePipez",
+    "quest.2A6900E87DE8BAE0.quest_desc": [
+        "Il filtro Mod è un filtro piuttosto semplice. Inserisci gli oggetti e verrà applicata la stessa logica, sia per l'elenco bianco che per l'elenco nero. Tuttavia, invece di limitarsi a un singolo oggetto, verrà applicata a qualsiasi oggetto appartenente a quel Mod.\n\nApotheosis Gem permetterà solo gli oggetti di Apotheosis. Mekanism Alloy permetterà solo gli oggetti di Mekanism. E così via."
+    ],
+    "quest.2A976D41F79C34B1.quest_desc": [
+        "Sì, ogni sistema di filtraggio ha il suo metodo specifico. Tuttavia, è necessario almeno un aggiornamento avanzato per utilizzarlo. Una volta effettuato l'aggiornamento, è possibile cliccare sul pulsante \"Aggiungi\" per aggiungere i filtri.\n\nA questo punto, è possibile aggiungere:\n*   Elemento\n*   Tag\n*   NBT (Network Block Transfer)\n\nÈ inoltre possibile impostare un filtro di destinazione. Per farlo, è sufficiente fare clic con il tasto destro del mouse su un inventario.\n\nInoltre, è necessario scegliere se utilizzare un filtro \"Whitelist\" (solo elementi consentiti) o un filtro \"Blacklist\" (tutti gli elementi tranne quelli specificati)."
+    ],
+    "quest.2F4458E9921DEB86.quest_desc": [
+        "Questi problemi sono principalmente dovuti ai meccanismi di [\\&5\\&lMekanism\\&r]. Il meccanismo [\\&5\\&lMekanism\\&r] introduce l'ultima forma di materia, ovvero il [\\&aGas\\&r]. Il [\\&aGas\\&r] non può essere spostato utilizzando gli altri meccanismi, quindi se avete bisogno di spostare l'idrogeno o il litio, dovrete utilizzare il [\\&aGas Pipez\\&r].\n\n(Ho sempre avuto difficoltà a capire se l'elemento [\\&5\\&lMekanism\\&r] è un [\\&aGas\\&r], un [\\&bFluid\\&r], o addirittura di tipo \"Infuse\". Quando è presente in una macchina, potrebbe indicare se è un [\\&aGas\\&r] o un [\\&bFluid\\&r], il che può aiutarvi a capire. Se non lo capite, potete consultare JEI per altre ricette che potrebbero coinvolgerlo!)",
+        "{image:atm:textures\/questpics\/logistics\/pipez_gas.png width:200 height:50 align:center}"
+    ],
+    "quest.2F4458E9921DEB86.title": "\\&Tubazioni per gas",
+    "quest.3065EA195D0A36BA.quest_desc": [
+        "Le etichette sono una parte fondamentale per raggruppare gli oggetti in Minecraft. Quindi, ovviamente, possiamo sfruttare questa funzionalità per i filtri!\n\nÈ possibile inserire un oggetto e selezionare un'etichetta, oppure, se si conosce il nome, digitarlo direttamente.\n\nÈ particolarmente utile per operazioni come rimuovere attrezzature da un sistema utilizzando le etichette per gli strumenti.\n\n(È anche possibile trovare le etichette eseguendo il comando `\/kubejs hand` per vedere quali sono le etichette dell'oggetto che si ha in mano.)"
+    ],
+    "quest.308935C85364B04D.quest_desc": [
+        "Poiché ogni scheda contiene i propri dati, potrebbe essere piuttosto fastidioso dover modificare continuamente le impostazioni di ogni scheda. Quindi, invece, possiamo semplicemente clonarle!\n\nPer copiare i dati di una scheda, cliccate con il tasto sinistro del mouse sulla scheda desiderata. Quindi, per trasferire quei dati a un'altra scheda, cliccate con il tasto destro del mouse su quella scheda."
+    ],
+    "quest.30DE4F5BC3EDB555.quest_desc": [
+        "I Logical Transporters sono gli strumenti che Meka utilizza per spostare oggetti e blocchi su lunghe distanze.\n\nSaranno necessari per essere configurati per prelevare o depositare oggetti in aree di stoccaggio come casse o cassetti.",
+        "{image:atm:textures\/questpics\/logistics\/meka_transporter.png width:200 height:50 align:center}"
+    ],
+    "quest.30DE4F5BC3EDB555.quest_subtitle": "Blocchi + Oggetti",
+    "quest.316B513FE568EF57.quest_desc": [
+        "La temperatura è un altro fattore importante nel sistema \\&5\\&lMekanism\\&r e viene utilizzata per alimentare molte macchine e strutture multiple. Le centrali di evaporazione termica e i reattori a fusione utilizzano il calore per funzionare. I conduttori sono il modo in cui si trasferirà il calore!",
+        "{image:atm:textures\/questpics\/logistics\/meka_conductor.png width:200 height:50 align:center}"
+    ],
+    "quest.316B513FE568EF57.quest_subtitle": "Calore",
+    "quest.33433A443B65D252.quest_desc": [
+        "\\&bAcqua\\&r=\\&bBlu\\&r \\&bAcqua\\&r=\\&bFluido\\&r, quindi \\&bBlu\\&r=\\&bFluido\\&r\\n\\nMolti mod hanno i propri \\&bFluidi\\&r, e persino Minecraft ne ha, con \\&bAcqua\\&r e \\&cLava\\&r. È probabile che avrete bisogno di spostare questi \\&bFluidi\\&r, e un buon modo per farlo sono le \\&bPiste per fluidi\\&r.\n\nQueste possono essere collegate a lavandini per spostare l'acqua in modo infinito!",
+        "{image:atm:textures\/questpics\/logistics\/pipez_fluid.png width:200 height:50 align:center}"
+    ],
+    "quest.33433A443B65D252.title": "\\&bFluid Pipez",
+    "quest.34CFE1439262AA72.quest_desc": [
+        "\\&5\\&lMekanism\\&r è un mod di tecnologia molto popolare e diffuso, quindi ovviamente include anche un sistema di logistica.",
+        "",
+        "Le diverse macchine hanno requisiti specifici per la configurazione e sarà necessario modificarne l'interfaccia grafica per spostare correttamente gli oggetti. Una volta configurate correttamente, potrete utilizzare il software \"\\&5\\&lMeka Pipes\\&r\" per spostare qualsiasi oggetto desideriate!",
+        "",
+        "Ma aspetta, non si tratta solo di \\&5\\&lMekanism\\&r! Funzionano anche per molte altre macchine! È solo necessario regolarle con una chiave per spingere e tirare.",
+        "",
+        "(Tuttavia, l'uso massivo può causare un leggero rallentamento, quindi è necessario fare attenzione)."
+    ],
+    "quest.34CFE1439262AA72.title": "\\&5\\&Meccanismo",
+    "quest.36836AD948F96B9F.quest_desc": [
+        "Il più semplice di tutti, il \"Pipa\".\n\nPermette di spostare oggetti da un inventario all'altro. Ad esempio, da un baule all'altro, da una fattoria a un sistema, o persino da una cava a un fonderia.\n\nÈ molto semplice: basta collegare la \"Pipa\" a ciò che si desidera spostare e utilizzare la chiave inglese per configurare da quale lato preleva gli oggetti.",
+        "{image:atm:textures\/questpics\/logistics\/pipez_item.png width:200 height:50 align:center}"
+    ],
+    "quest.36836AD948F96B9F.title": "\\&eItem Pipez",
+    "quest.47768B1FFD57D56E.quest_desc": [
+        "Non è vero che è necessario cablare l'intero sistema? Se possiamo utilizzare una versione wireless per il sistema \"Redstone\", perché non possiamo farlo anche per \"Redstone\"? Grazie a \"LaserIO\", possiamo inserire un segnale \"Redstone\" tramite una scheda, e poi utilizzare un'altra scheda per inviare il segnale in un'altra posizione!"
+    ],
+    "quest.47768B1FFD57D56E.title": "\\&4 Carta Redstone",
+    "quest.47A2BEFB11F4D581.quest_desc": [
+        "Il filtro di base è piuttosto semplice da usare! Basta inserire gli oggetti e saranno filtrati.\n\nÈ possibile configurarlo in modo che includa solo determinati oggetti (lista bianca) o che escluda solo determinati oggetti (lista nera).\n\nÈ inoltre possibile configurarlo in modo che corrisponda o meno ai dati NBT. Se si sceglie di far corrispondere i dati NBT, ciò significa che l'oggetto dovrà avere gli stessi incantesimi, la stessa durabilità o addirittura gli stessi mob. Se si sceglie di non far corrispondere i dati NBT, l'oggetto sarà comunque valido, indipendentemente dai dati NBT."
+    ],
+    "quest.493D04D954E4FBA0.quest_desc": [
+        "E \"Mekanism\" è un mod tecnologico... perché si sorprende che necessiti di energia per i suoi macchinari?",
+        "{image:atm:textures\/questpics\/logistics\/meka_cable.png width:200 height:50 align:center}"
+    ],
+    "quest.493D04D954E4FBA0.quest_subtitle": "Energia",
+    "quest.4BC2D7FCDD792DBA.quest_desc": [
+        "Poiché gli oggetti, i blocchi e i fluidi standard di \\&2\\&lMinecraft\\&r non erano sufficienti. E anche l'aggiunta di calore ed energia non era adeguata.\n\nIl resto di \\&5\\&lMekanism\\&r viene gestito tramite tubi pressurizzati. I gas sono quelli principali, in quanto, utilizzando \\&5\\&lMekanism\\&r, si utilizzeranno gas come l'idrogeno e l'ossigeno.\nI tipi di infusione sono simili, come l'infusione di carbone e l'infusione di redstone. Le sospensioni vengono utilizzate per la lavorazione dei minerali.\nE i pigmenti coloranti sono l'essenza del colore: qualsiasi oggetto colorato può essere modificato utilizzando questa parte di \\&5\\&lMekanism\\&r.",
+        "{image:atm:textures\/questpics\/logistics\/meka_tube.png width:200 height:50 align:center}"
+    ],
+    "quest.4BC2D7FCDD792DBA.quest_subtitle": "Gas + Altro",
+    "quest.4C41FD926F31180B.quest_desc": [
+        "Per spostare gli elementi \\&2Items\\&r utilizzando \\&cLaserIO\\&r, avrai bisogno di alcune \\&2Carte di Elementi\\&r.\n\nImposta una di queste su \"Estrai\" e posizionala sul lato del \\&cNodo Laser\\&r da cui desideri importare gli elementi. Quindi, imposta l'altra su \"Inserisci\" e posizionala sul lato a cui desideri che gli elementi vengano esportati.\n\nEsistono diverse impostazioni che puoi modificare con la funzione \"Estrai\", in base a dove desideri che gli elementi vengano spostati, soprattutto se ci sono più posizioni da cui estrarli. La modalità \"Round Robin\" farà sì che gli elementi vengano spostati in un ordine specifico, invece che nel primo inventario disponibile."
+    ],
+    "quest.4C41FD926F31180B.title": "\\&2 Carta",
+    "quest.4FBAB3A0FBF8CE2F.quest_desc": [
+        "Perché preoccuparsi di cosa viene spostato, quando si può semplicemente spostare tutto? I \"Universal Pipez\" sono ancora più inclusivi rispetto ai \"Energy Pipez\". Possono spostare oggetti, liquidi o energia.",
+        "{image:atm:textures\/questpics\/logistics\/pipez_universal.png width:200 height:50 align:center}"
+    ],
+    "quest.4FBAB3A0FBF8CE2F.title": "\\&5Universal Pipez",
+    "quest.52F85CED20C8B1E9.quest_desc": [
+        "\\&eEnergy\\&r deve essere trasportata, idealmente nel luogo desiderato. Deve essere spostata nello stesso modo in cui vengono spostati \\&2Items\\&r, \\&9Fluids\\&r e \\&5Chemicals\\&r!"
+    ],
+    "quest.52F85CED20C8B1E9.title": "\\&eEnergy Card",
+    "quest.53EC96FA0E7C4ED4.quest_desc": [
+        "Ogni modulo tecnologico richiede energia, indipendentemente dal tipo (FE, RF o altro!), e i cavi di energia non fanno distinzioni. \\n\\nAlcune macchine hanno porte di input\/output specifiche per l'energia, quindi assicurati di verificarne la presenza.",
+        "{image:atm:textures\/questpics\/logistics\/pipez_energy.png width:200 height:50 align:center}"
+    ],
+    "quest.53EC96FA0E7C4ED4.title": "\\&cEnergy Pipez",
+    "quest.5C0F6B1C93A52113.quest_desc": [
+        "Questo è il vero cuore del sistema! I nodi \\&cLaser sono dove verranno inserite le carte per far funzionare il sistema.\n\nQuesti nodi permetteranno di spostare gli oggetti da qualsiasi inventario adiacente, nelle quattro direzioni principali e anche verso l'alto e verso il basso. Per spostare gli oggetti verso inventari più lontani, sarà necessario un secondo nodo, collegandolo con il tasto \"Shift\" e cliccando con il tasto destro sui nodi 1 e 2.\n\nInserirete le carte negli slot nella direzione corretta e potrete anche inserire degli \"overclockers\" per velocizzare il funzionamento."
+    ],
+    "quest.5F1218CF8EFC607B.quest_desc": [
+        "\\&c\\&lLaserIO\\&r è la continuazione di \\&a\\&lEnderIO\\&r, ovvero del modulo relativo alla logistica.",
+        "",
+        "Tutto ruota attorno al trasporto di oggetti tramite laser! Chi non ama i laser?",
+        "",
+        "E tutto inizia con il chip logico."
+    ],
+    "quest.5F1218CF8EFC607B.title": "e altro",
+    "quest.6112956E19017D2D.quest_desc": [
+        "I cavi logici sono diversi dagli altri cavi (come i cavi \"Pipez\" o \"Meka pipes\"). Questi ultimi fungono da \"trasportatori\", quindi gli oggetti vengono spostati da un inventario all'altro tramite il cavo. I cavi logici, invece, eliminano questo passaggio intermedio, riducendo così anche la latenza.\n\nSono progettati esclusivamente per collegare gli \"Importers\" e le \"Interfaces\"."
+    ],
+    "quest.617695A9CA45D88F.quest_desc": [
+        "Quando si utilizza \"\\&c\\&lLaserIO\\&r\" per la logistica, si potrebbe ritrovarsi con MOLTE carte. Ogni carta occupa uno slot nel proprio inventario, il che può diventare piuttosto problematico. Mi piacerebbe se avessero uno spazio per conservare le carte... oh, aspetta, ce l'hanno: si tratta del \"Card Holder\"!\n\nÈ possibile conservare più carte al suo interno e, quando si apre un \"Laser Node\", anche il \"Card Holder\" si apre, fungendo da secondo inventario. Molto utile!"
+    ],
+    "quest.6718043D0F2D1830.quest_desc": [
+        "A DireWolf è stato chiesto di creare un set di carte che interagissero con il sistema \\&5\\&lMekanism\\&r e le sue diverse \"stati della materia\". Tutte le tubazioni pressurizzate possono essere controllate tramite queste carte, inclusi i gas, i tipi di infusione e i pigmenti."
+    ],
+    "quest.6718043D0F2D1830.title": "\\&5 Scheda Chimica",
+    "quest.67A0164D3A25BE73.quest_desc": [
+        "Vorresti applicare un tubo tra i blocchi? Permettimi di presentarti le \\&3Transfer Labels\\&r. Le \\&3Transfer Labels\\&r possono essere utilizzate per oggetti e liquidi.\n\n\\&lCome utilizzare\\&r\nPuoi applicare le \\&3Transfer Labels\\&r sui blocchi facendo clic con il tasto destro del mouse su un blocco. Puoi interagire con le \\&3Transfer Labels\\&r tenendo premuto un'altra \\&3Transfer Label\\&r o un \\&3Label Accessor\\&r e facendo clic con il tasto destro sulla \\&3Transfer Label\\&r posizionata. Puoi rimuovere la \\&3Transfer Label\\&r posizionata facendo clic con il tasto sinistro sulla \\&3Transfer Label\\&r, tenendo premuta un'altra \\&3Transfer Label\\&r o un \\&3Label Accessor\\&r. Puoi accedere alle \\&3Transfer Labels\\&r tramite i blocchi utilizzando l' \\&3Label Accessor\\&r.\n\n\\&lAccelerazione\\&r\nPuoi accelerare le \\&3Transfer Labels\\&r aggiungendo lo stesso tipo di \\&3Transfer Label\\&r nelle fessure di quantità o velocità."
+    ],
+    "quest.67A0164D3A25BE73.quest_subtitle": "Quando devi inserire un tubo tra i blocchi.",
+    "quest.67A0164D3A25BE73.title": "Etichette di trasferimento",
+    "quest.6A962535CD68713E.quest_desc": [
+        "\\&e\\&lPipez\\&r si muove di più!\n\nTutte le opzioni di miglioramento aumentano la quantità di movimento di \\&e\\&lPipez\\&r e offrono ulteriori possibilità di utilizzo con \\&e\\&lPipez\\&r.\n\nL'aggiornamento di base consente l'attivazione tramite Redstone e permette di modificare la distribuzione in uno dei seguenti modi: \"Primo più vicino\", \"Ultimo\", \"A turno\" o \"Casuale\", oltre ad aggiungere filtri.\n\nGli aggiornamenti avanzati e \"Ultimate\" non offrono nuove funzionalità, ma semplicemente aumentano la quantità di movimento."
+    ],
+    "quest.6CD7D99AA102A5C3.quest_desc": [
+        "\\&n\\&f\\&lLogistica: Un sistema per spostare, gestire e immagazzinare beni o risorse.\n\nNel Modded Minecraft, è molto simile, spostare oggetti! Con i Modded, avrete bisogno di molti oggetti, addirittura a migliaia, e se volete ottenere l'oggetto \"\\&6\\&lStar\", ne avrete bisogno a milioni! Quindi dovrete spostare oggetti da fabbriche, macchinari, fattorie e, soprattutto, da casse. Questo è ciò che serve la \"\\&l\\&fLogistica\\&r\"."
+    ],
+    "quest.6CD7D99AA102A5C3.title": "\\&Logistica",
+    "quest.6E05B62A40D5A891.quest_desc": [
+        "\\&3\\&lIntegrated Dynamics\\&r riguarda principalmente la \\&lLogistica\\&r. In effetti, è praticamente la definizione di \\&lLogistica\\&r.",
+        "",
+        "Si tratta principalmente di spostare, gestire e conservare oggetti. In realtà, potreste non aver bisogno nemmeno della chiave inglese, è così ben progettata! Tuttavia, è meglio averne una come precauzione.",
+        "",
+        "(Soluzione con il minor ritardo, questa è la raccomandata)."
+    ],
+    "quest.6E05B62A40D5A891.title": "\\&3\\&l Dinamiche integrate",
+    "quest.6F152402756DA35E.quest_desc": [
+        "Per farlo funzionare, posizionate l'elemento \"Importer\" sull'inventario da cui desiderate estrarre gli oggetti. Successivamente, posizionate l'elemento \"Interface\" sul secondo inventario e connetteteli utilizzando i cavi logici. Infine, inserite la \"Variable Card\" nell'Importer e configuratela come preferite.\n\nÈ possibile configurarla per importare oggetti fino a un limite di 2 miliardi.",
+        "{image:atm:textures\/questpics\/logistics\/id_item.png width:200 height:50 align:center}"
+    ],
+    "quest.6F152402756DA35E.title": "\\&fImportazione articolo",
+    "quest.76CECFB244F39F18.quest_desc": [
+        "Semplicemente, collega un \"3Energy Importer\" a una \"Fonte di Energia\" e poi collegalo a un \"3Energy Interface\" utilizzando cavi logici. Infine, crea e modifica le schede variabili e potrai gestire l'energia come un professionista!\n\nVorrei però sottolineare che ho riscontrato alcune difficoltà nell'importare o esportare dati tramite le interfacce Flux Plug e Point, quindi tenetene conto.",
+        "{image:atm:textures\/questpics\/logistics\/id_energy.png width:200 height:50 align:center}"
+    ],
+    "quest.76CECFB244F39F18.title": "\\&3Importazione di energia",
+    "quest.7AD6E01ED01E6F13.quest_desc": [
+        "Questi sono tra i dispositivi più veloci, facili da usare e versatili per il trasferimento di oggetti e liquidi. Utilizzate il Glowstone per aumentare il numero di trasferimenti per tick, e i diamanti vi permettono di concentrare una quantità specifica di oggetti o materiali da inviare nel blocco specificato (Glowstone sul translocatore di uscita, nugget di diamante sul translocatore di ingresso)."
+    ],
+    "quest.7AD6E01ED01E6F13.quest_subtitle": "Sono tornato...",
+    "quest.7AD6E01ED01E6F13.title": "Indovinate chi è tornato?",
+    "quest.7BC8F50A89A3BE1A.quest_desc": [
+        "Questi sono principalmente utilizzati per collegare i nodi e i connettori tra loro. Non sono particolarmente importanti, ma volevo mantenere il tema degli attrezzi da lavoro.\n\nFunziona comunque come attrezzo per altre configurazioni!"
+    ],
+    "quest.7EE27C3908008E20.quest_desc": [
+        "Se avete bisogno di collegare i vostri nodi Laser a distanza, provate a utilizzare i connettori! Utilizzateli semplicemente come fareste normalmente."
+    ],
+    "task.1807A230BA87899B.title": "Etichette di trasferimento",
+    "task.2BA7FC10243AA011.title": "Tubi pressurizzati",
+    "task.337725ECA2C04090.title": "Trasporti logistici",
+    "task.4448DE84ABA737BE.title": "Cavi universali",
+    "task.48A30B08A090BD75.title": "Chiavi",
+    "task.48CF7A7622423DEA.title": "Aggiornamenti delle tubature",
+    "task.4CCB830CFDD43B5E.title": "Tutti i diritti riservati",
+    "task.5B7926B511000F1F.title": "Tubi meccanici",
+    "task.5E4B74F97BDED243.title": "Tutti i diritti riservati",
+    "task.77187686AC2440DB.title": "Traslocatori",
+    "task.79E961F671475850.title": "Materiali con elevata conducibilità termica"
+}

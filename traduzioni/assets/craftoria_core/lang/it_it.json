@@ -1,5 +1,19 @@
 {
-    "craftoria_core.config.disable_search_tab_autofocus": "Disabilita l'autofoco della scheda di ricerca",
-    "craftoria_core.config.mixin_toggles": "Impostazioni di toggle mixin",
-    "craftoria_core.config.suppress_unknown_packet_id": "Ignora gli errori di ID pacchetto sconosciuto"
+    "craftoria_core.config.disable_search_tab_autofocus": "Disattivare l'autocompletamento nella scheda di ricerca",
+    "craftoria_core.config.mixin_toggles": "Interruttori di miscelazione",
+    "craftoria_core.config.suppress_unknown_packet_id": "Sopprimere gli errori relativi all'ID di pacchetto sconosciuto",
+    "craftoria_core.tooltip.contains": "Contiene: %s",
+    "craftoria_core.tooltip.empty": "Vuoto",
+    "craftoria_core.tooltip.partitioned": "Suddiviso per: %s",
+    "craftoria_core.tooltip.quantity": "Quantità: %s",
+    "item.craftoria_core.black_hole_cell_housing": "Alloggiamento per cella di tipo \"buco nero\"",
+    "item.craftoria_core.black_hole_core": "Nucleo di un buco nero",
+    "item.craftoria_core.chemical_black_hole_cell": "Cella per buco nero chimico",
+    "item.craftoria_core.chemical_core": "Nucleo chimico",
+    "item.craftoria_core.fluid_black_hole_cell": "Cella di buco nero fluido",
+    "item.craftoria_core.flux_black_hole_cell": "Cella per buco nero (Flux)",
+    "item.craftoria_core.flux_core": "Nucleo di flusso",
+    "item.craftoria_core.logo": "Logo",
+    "item.craftoria_core.source_black_hole_cell": "Fonte: Cellula nera",
+    "item.craftoria_core.source_core": "Fonte principale"
 }

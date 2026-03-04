@@ -1,6 +1,6 @@
 {
-    "kubejstweaks.chat.click_here": "[Clicca qui]",
-    "kubejstweaks.chat.click_to_open_markdown": "Clicca per aprire il markup",
-    "kubejstweaks.chat.mod_id": "[kubejs tweaks] %s",
-    "kubejstweaks.debug.erroring_recipes_summary": "Un file di markup è stato generato con ricette in errore: %s"
+    "kubejstweaks.chat.click_here": "[clicca qui]",
+    "kubejstweaks.chat.click_to_open_markdown": "Clicca per aprire il formato Markdown",
+    "kubejstweaks.chat.mod_id": "[Modifiche per KubeJS] %s",
+    "kubejstweaks.debug.erroring_recipes_summary": "È stato generato un file in formato Markdown contenente ricette con errori: %s"
 }

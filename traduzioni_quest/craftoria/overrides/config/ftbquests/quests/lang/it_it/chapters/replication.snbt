@@ -1,0 +1,67 @@
+{
+    "quest.1CD404EA948FF868.quest_desc": [
+        "Utilizzando questa macchina, è possibile trasformare qualsiasi oggetto con valori di materia in materia.",
+        "",
+        "Noterete che, quando passate il mouse su alcuni elementi, verranno aggiunti dei \"Valori di Materia\".",
+        "",
+        "I valori esatti possono essere visualizzati tenendo premuto il tasto \"\\&6Shift\\&r\" mentre si passa il cursore sopra l'elemento corrispondente."
+    ],
+    "quest.1CD404EA948FF868.quest_subtitle": "Trasforma gli oggetti in \"materiale\"",
+    "quest.24A9E9A5E3B7B041.quest_desc": [
+        "La \\&cCamera di identificazione\\&r effettuerà la \\&cscansione\\&r degli oggetti per determinarne il valore materiale e memorizzarlo nei \\&cchip\\&r.",
+        "",
+        "Questi e altri chip possono essere conservati nell'area di stoccaggio dedicata e saranno disponibili per la rete."
+    ],
+    "quest.24A9E9A5E3B7B041.quest_subtitle": "Passaporto, per favore!",
+    "quest.28EB489B44A05070.quest_desc": [
+        "\\&aReplicatori\\&r utilizzeranno la \\&dMateria\\&r immagazzinata nei serbatoi per replicare l'oggetto partendo da zero e per inviarlo nuovamente al \\&bterminal\\&r."
+    ],
+    "quest.28EB489B44A05070.quest_subtitle": "Utilizza materiali precedentemente immagazzinati per creare oggetti.",
+    "quest.44ABC5C2552BF034.quest_subtitle": "La presenza di negozi è fondamentale per \\&aDisintegrator.",
+    "quest.4513758183EFECE7.quest_desc": [
+        "\\&aReplication\\&r è un mod tecnologico che consente di \\&6replicare\\&r risorse di tipi simili.",
+        "",
+        "È possibile trasformare \"\\&edirt\\&r\" in \"\\&8stone\\&r\", ma non è possibile trasformare \"\\&edirt\\&r\" in \"\\&bdiamonds\\&r\"."
+    ],
+    "quest.4513758183EFECE7.quest_subtitle": "Trasformare il \"Matter\" in quasi qualsiasi cosa.",
+    "quest.4513758183EFECE7.title": "\\&Replica!",
+    "quest.47A87F0901355498.quest_subtitle": "Utilizzato per conservare patatine e altri snack.",
+    "quest.6392FB264D1B2E52.quest_subtitle": "Utilizzato all'interno della stanza di identificazione",
+    "quest.6B5431B3A107C9D5.quest_desc": [
+        "Una volta che hai scansionato alcuni articoli e memorizzato i loro valori nel sistema, puoi utilizzare il terminale di \"Replicazione\" per richiedere l'accesso agli articoli.",
+        "",
+        "Utilizzando un sistema chiamato \\&Replicators\\&r, il sistema utilizzerà la \\&Matter\\&r immagazzinata nei serbatoi per replicare l'oggetto partendo da zero e quindi lo invierà nuovamente al \\&terminal\\&r.",
+        "",
+        "{@pagebreak}",
+        "",
+        "\\&dMatter\\&aOpedia\\&r è un elenco ricercabile che vi permetterà di cercare quali articoli hanno un determinato valore di \\&dMatter.",
+        "",
+        "È possibile accedere tramite il pulsante situato a sinistra della barra di ricerca nella schermata del terminale di replica. È inoltre possibile accedervi cliccando sulle visualizzazioni relative alla materia situate a destra del terminale.",
+        "",
+        "Nella barra di ricerca di \\&dMatter\\&aOpedia\\&r, è possibile utilizzare:",
+        "",
+        "\\&l*\\&r \\&aearth>10\\&r mostrerà tutti gli articoli che hanno più di 10 unità di terra.",
+        "",
+        "\\&l*\\&r \\&4nether=20\\&r mostrerà tutti gli articoli che hanno esattamente 20 unità di \"nether\".",
+        "",
+        "\\&l*\\&r \\&dquantum<6\\&r mostrerà tutti gli elementi che hanno meno di 6 unità quantiche.",
+        "",
+        "\\&l*\\&r \\&2!earth\\&r mostrerà tutti gli elementi che non contengono \"earth\" (terra).",
+        "",
+        "\\&l*\\&r \\&7*metallico\\&r mostrerà tutti gli articoli che hanno solo un componente metallico."
+    ],
+    "quest.6B5431B3A107C9D5.quest_subtitle": "L'interfaccia per tutte le operazioni.",
+    "quest.6B5431B3A107C9D5.title": "Terminale di replica",
+    "quest.7FCA9352AF05C235.quest_desc": [
+        "Questi tubi automatizzeranno alcuni processi:",
+        "",
+        "Trasferimento e potenza:",
+        "- Funzionano come qualsiasi altra pompa \\&bPower Pipe.",
+        "",
+        "Trasferimento e materia:",
+        "- Dal \\&bDisintegratore\\&r ai \\&bSerbatoi di materia\\&r",
+        "",
+        "- Dal sistema di contenimento \\&d\\&lMatter Tanks\\&r ad altre macchine che ne hanno bisogno."
+    ],
+    "quest.7FCA9352AF05C235.quest_subtitle": "I tubi per il trasferimento dati consentiranno di collegare e sincronizzare i dispositivi."
+}

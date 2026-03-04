@@ -1,0 +1,14 @@
+{
+    "advancements.nightfall_invade.kill_arterius.description": "Arterius, uno dei sei eroi leggendari, combatté per fermare l'invasione proveniente da un altro mondo presso la Porta del Disastro. I suoi compagni caddero, e lui sacrificò la propria sanità mentale per distruggere il passaggio. Ora, legato a questo destino solenne, si erge come il suo eterno guardiano, proteggendo instancabilmente il passaggio distrutto in solitaria.",
+    "advancements.nightfall_invade.kill_arterius.title": "L'ultimo guardiano",
+    "advancements.nightfall_invade.root.description": "Inizia il tuo viaggio",
+    "advancements.nightfall_invade.root.title": "L'oscurità cala",
+    "boss_bar.nightfall_invade.arterius": "<Arterius>",
+    "boss_bar.nightfall_invade.arterius_hard": "<Signore delle Fiamme (in fase di sviluppo)>",
+    "creativetab.nightfall_invade.items": "Oggetti di NightFall",
+    "effect.nightfall_invade.soul_of_flame": "Anima di fuoco",
+    "entity.nightfall_invade.arterius": "<L'ultimo guardiano - Arterius>",
+    "entity.nightfall_invade.arterius_hard": "<Signore delle Fiamme - Arterius (in fase di sviluppo)>",
+    "item.nightfall_invade.arterius_spawn_egg": "Uovo di Arterius",
+    "structure.nightfall_invade.gate_of_disaster": "Porta del Disastro"
+}

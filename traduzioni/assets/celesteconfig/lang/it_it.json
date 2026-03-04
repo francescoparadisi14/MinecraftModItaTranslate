@@ -1,0 +1,7 @@
+{
+    "text.autoconfig.celesteconfig.option.moonHeight": "Altezza della Luna",
+    "text.autoconfig.celesteconfig.option.moonWidth": "Larghezza della Luna",
+    "text.autoconfig.celesteconfig.option.sunHeight": "Larghezza del sole",
+    "text.autoconfig.celesteconfig.option.sunWidth": "Larghezza del sole",
+    "text.autoconfig.celesteconfig.title": "Impostazioni per la configurazione del cielo notturno"
+}

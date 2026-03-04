@@ -1,12 +1,16 @@
 {
-    "block.immersiveenchanting.creative_bookshelf": "Scaffale di libri creativo",
+    "block.immersiveenchanting.creative_bookshelf": "Scaffale creativo",
     "gui.immersiveenchanting.cost": "Costo:",
-    "gui.immersiveenchanting.cost_free": "gratuito.",
-    "gui.immersiveenchanting.equipped": "Equipaggiato.",
+    "gui.immersiveenchanting.cost_free": "Gratis.",
+    "gui.immersiveenchanting.equipped": "Dotato di tutto il necessario.",
     "gui.immersiveenchanting.locked_enchantment": "???",
-    "gui.immersiveenchanting.locked_enchantment_hint": "Suggerimento incantesimo sconosciuto",
+    "gui.immersiveenchanting.locked_enchantment_hint": "Sconosciuto",
+    "immersiveenchanting.config.bookshelf_search_height": "Altezza della libreria",
+    "immersiveenchanting.config.disable_ancient_book_requirement": "Disabilitare il requisito relativo ai libri antichi.",
+    "immersiveenchanting.config.show_added_by_tooltip": "Mostra tramite suggerimento",
+    "immersiveenchanting.configuration.general": "Generale",
     "item.immersiveenchanting.ancient_book": "Libro antico",
-    "itemGroup.immersiveenchanting.enchanting": "Incantesimi",
+    "itemGroup.immersiveenchanting.enchanting": "Incantevole",
     "lore.immersiveenchanting.added_by": "Aggiunto da",
-    "lore.immersiveenchanting.ancient_book": "conoscenza di"
+    "lore.immersiveenchanting.ancient_book": "Conoscenza di"
 }

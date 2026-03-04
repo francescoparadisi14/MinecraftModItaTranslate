@@ -14,7 +14,7 @@
     "gui.matmos_tct.gui_matmos_settings.label_on_top_of_a_cliff_to_adapt_the_s": "on top of a cliff to adapt the sound environment",
     "gui.matmos_tct.gui_matmos_settings.label_the_tct": "The TCT",
     "gui.matmos_tct.gui_matmos_settings.label_to_change_the_volume_go_to_the": "to change the volume, go to the minecraft settings",
-    "gui.matmos_tct.gui_matmos_settings.label_v70": "V7.3",
+    "gui.matmos_tct.gui_matmos_settings.label_v70": "V7.5",
     "gui.matmos_tct.gui_matmos_settings.label_varcavesettings": "<VAR:CaveSettings>",
     "gui.matmos_tct.gui_matmos_settings.label_varinventorysettings": "<VAR:InventorySettings>",
     "gui.matmos_tct.gui_matmos_settings.label_varmusicsettings": "<VAR:MusicSettings>",
@@ -60,5 +60,7 @@
     "subtitles.weather.wind.og.strongwind": "",
     "subtitles.weather.wind.og.wind": "",
     "subtitles.weather.wind.snowwind": "",
-    "subtitles.weather.wind.wind": ""
+    "subtitles.weather.wind.wind": "",
+    "subtitles.wind.rain": "",
+    "subtitles.wind.tree": ""
 }

@@ -1,8 +1,13 @@
 {
-    "block.cmparallelpipes.locked_copycat_fluid_pipe": "Locked Copycat Fluid Pipe",
-    "block.cmparallelpipes.locked_fluid_pipe": "Locked Fluid Pipe",
     "cmparallelpipes.ponder.locked_pipe.header": "Locking Fluid Pipes",
     "cmparallelpipes.ponder.locked_pipe.text_1": "Fluid Pipes will always connect to other Fluid Pipes",
-    "cmparallelpipes.ponder.locked_pipe.text_2": "Any scaffolding block can be used to lock the pipe connectivity state similar to Encased Pipe",
-    "cmparallelpipes.ponder.locked_pipe.text_3": "The Fluid Pipe can be unlocked again with a wrench"
+    "cmparallelpipes.ponder.locked_pipe.text_2": "The pipe wrench can be used to lock the pipe connectivity state similar to Encased Pipe",
+    "cmparallelpipes.ponder.locked_pipe.text_3": "The Fluid Pipe can be unlocked again with the pipe wrench",
+    "cmparallelpipes.ponder.outline_segment.header": "Outlines and Connections",
+    "cmparallelpipes.ponder.outline_segment.text_1": "Locked pipes will show outlines when holding a pipe wrench",
+    "cmparallelpipes.ponder.outline_segment.text_2": "You can configure pipe connections of locked pipes with a pipe wrench",
+    "cmparallelpipes.ponder.outline_segment.text_3": "You can add an end point",
+    "cmparallelpipes.ponder.outline_segment.text_4": "... or remove one",
+    "cmparallelpipes.ponder.outline_segment.text_5": "But remember, a pipe needs at least 2 open endpoints or else you can't remove them.",
+    "item.cmparallelpipes.pipe_wrench": "Pipe Wrench"
 }

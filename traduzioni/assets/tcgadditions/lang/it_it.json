@@ -1,10 +1,10 @@
 {
-    "pneumaticcraft.armor.upgrade.tcgadditions.become_plane": "Diventare aereo",
-    "pneumaticcraft.armor.upgrade.tcgadditions.become_plane.desc": "Sblocca la tua telecamera e il modello del giocatore per ruotare, permettendo di eseguire virate a barilotto e capriole. I meccanismi di volo vengono modificati in modo che le inclinazioni e le rotazioni influenzino la tua velocità e direzione.",
-    "tcgadditions.insert": "inserisci (con sfondo blu)",
-    "tcgadditions.insert.disabled": "disabilitato",
+    "pneumaticcraft.armor.upgrade.tcgadditions.become_plane": "Diventa un aereo",
+    "pneumaticcraft.armor.upgrade.tcgadditions.become_plane.desc": "Abilitare la rotazione della telecamera e del modello del personaggio, in modo da poter eseguire rotazioni e capriole. La meccanica di volo è stata modificata per riflettere questo, in modo che il banking (virata) e la rotazione influenzino la velocità e la direzione.",
+    "tcgadditions.insert": "§bInserisci",
+    "tcgadditions.insert.disabled": "§7 Persone con disabilità",
     "tcgadditions.inserted.cards.multiple": "%s carte inserite.",
-    "tcgadditions.inserted.cards.none": "nessun carta inserita.",
-    "tcgadditions.inserted.cards.single": "1 carta inserita.",
-    "tcgadditions.not_server": "Tcg aggiunte non sono installate sul server!"
+    "tcgadditions.inserted.cards.none": "§bNessuna carta inserita.",
+    "tcgadditions.inserted.cards.single": "§b1 §fCarta inserita.",
+    "tcgadditions.not_server": "«Il modulo CCTG non è installato sul server!»"
 }

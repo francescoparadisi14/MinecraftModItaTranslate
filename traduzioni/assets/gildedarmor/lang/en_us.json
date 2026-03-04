@@ -1,0 +1,21 @@
+{
+    "advancement.nether.gildedarmor.obtain_golden_core.description": "Collect a Golden Core by Trading with Piglins.",
+    "advancement.nether.gildedarmor.obtain_golden_core.title": "It's shiny!",
+    "item.gildedarmor.gilded_enderite_boots": "Gilded Enderite Boots",
+    "item.gildedarmor.gilded_enderite_chestplate": "Gilded Enderite Chestplate",
+    "item.gildedarmor.gilded_enderite_helmet": "Gilded Enderite Helmet",
+    "item.gildedarmor.gilded_enderite_leggings": "Gilded Enderite Leggings",
+    "item.gildedarmor.gilded_netherite_boots": "Gilded Netherite Boots",
+    "item.gildedarmor.gilded_netherite_chestplate": "Gilded Netherite Chestplate",
+    "item.gildedarmor.gilded_netherite_helmet": "Gilded Netherite Helmet",
+    "item.gildedarmor.gilded_netherite_leggings": "Gilded Netherite Leggings",
+    "item.gildedarmor.gilding_upgrade_smithing_template": "Gilding Upgrade",
+    "item.gildedarmor.golden_core": "Golden Core",
+    "item.gildedarmor.smithing_template.gilding_upgrade.additions_slot_description": "Put a Gold Ingot here",
+    "item.gildedarmor.smithing_template.gilding_upgrade.applies_to": "Netherite (and Enderite) Armor",
+    "item.gildedarmor.smithing_template.gilding_upgrade.base_slot_description": "Put a piece of Netherite (or Enderite) armor here",
+    "item.gildedarmor.smithing_template.gilding_upgrade.ingredients": "Gold Ingot",
+    "tag.item.gildedarmor.gilded_armor": "Gilded Armor",
+    "tooltip.gildedarmor.gilded_armor": "This piece of armor is gilded and makes Piglins friendly!",
+    "tooltip.gildedarmor.golden_core_from_piglin": "Trade with Piglins to collect it!"
+}

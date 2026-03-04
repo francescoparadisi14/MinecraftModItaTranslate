@@ -1,7 +1,7 @@
 {
     "toggleableitemframes.option.cancel": "Annulla",
-    "toggleableitemframes.option.desc.invonunsuportedservers": "Invisibile su server non supportati:",
-    "toggleableitemframes.option.desc.showinvisibleframeswhenheld": "Mostra frame invisibili quando tenuto:",
+    "toggleableitemframes.option.desc.invonunsuportedservers": "Nascosto su server non supportati:",
+    "toggleableitemframes.option.desc.showinvisibleframeswhenheld": "Mostra i bordi invisibili quando viene tenuto in mano.",
     "toggleableitemframes.option.save": "Salva",
     "toggleableitemframes.option.value": "Valore"
 }

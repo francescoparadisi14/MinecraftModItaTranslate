@@ -1,17 +1,17 @@
 {
-    "name": "Domestico Tri-Bull",
+    "name": "Tri-bull da allevamento",
     "category": "patchouli:animals",
     "icon": "society:large_tri_bull_milk",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Latte: Latte di Tri-Bull$(li)Ricarica del latte: 1 giorno$(li)Bottino: Branca cruda di Tri-Bull, Pelle $(br2)$(l)Note$()$(br)Sviluppato utilizzando un Siero di Mutazione Lunare su una Mucca.`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile$(li)Latte: Latte di Tri-Bull$(li)Tempo di raffreddamento del latte: 1 giorno$(li)Oggetti ottenuti: Schegge di Tri-Bull crude, Pelle $(br2)$(l)Note$()$(br)Prodotto utilizzando un siero di mutazione lunare su una mucca."
         },
         {
             "type": "patchouli:entity",
             "entity": "farmlife:domestic_tribull",
             "scale": 0.6,
-            "text": "È di un mondo diverso... Mangiare il suo formaggio ti purifica da un effetto di pozione."
+            "text": "patchouli: entità\n\nfarmlife: tribull domestico\n\nQuesto non è di questo mondo... Mangiare il suo formaggio elimina gli effetti di una pozione."
         }
     ]
 }

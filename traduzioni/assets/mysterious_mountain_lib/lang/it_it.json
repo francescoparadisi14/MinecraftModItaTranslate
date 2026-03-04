@@ -1,5 +1,5 @@
 {
-    "mm_lib.info.welcome": "%s, benvenuto nel Mysterious Mountain Lib, una biblioteca per i mod di Syameimaru Zheng.",
-    "mm_lib.info.welcome_foolish": "%s, benvenuto in Zaia Enterprise Lib, una biblioteca per i prodotti di Zaia Enterprise. Presentata da Zaia.",
-    "mm_lib.jei.chance": "%1$s% chance"
+    "mm_lib.info.welcome": "%s, benvenuti a Mysterious Mountain Lib, una biblioteca dedicata alle mod più popolari di Syameimaru Zheng.",
+    "mm_lib.info.welcome_foolish": "%s, benvenuti nella biblioteca Zaia Enterprise Lib, una raccolta di risorse create da Zaia Enterprise. Presentato da Zaia.",
+    "mm_lib.jei.chance": "%1$s%% di possibilità"
 }

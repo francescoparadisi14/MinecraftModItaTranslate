@@ -1,9 +1,9 @@
 {
     "button.dcclasses.confirm": "Conferma",
     "button.dcclasses.select": "Seleziona",
-    "text.dcclasses.attributes": "Attributi",
-    "text.dcclasses.items": "Elementi",
-    "text.dcclasses.skills": "Abilità",
+    "text.dcclasses.attributes": "Caratteristiche",
+    "text.dcclasses.items": "Articoli",
+    "text.dcclasses.skills": "Competenze",
     "text.dcclasses.slot": "Posizione: %s",
-    "title.dcclasses.screen": "Classi"
+    "title.dcclasses.screen": "Corsi"
 }

@@ -1,13 +1,16 @@
 {
-    "entity.droppedbuffs.absorption_buff": "Buff di assorbimento",
-    "entity.droppedbuffs.buff": "Buff",
-    "entity.droppedbuffs.haste_buff": "Buff di velocità",
-    "entity.droppedbuffs.heal_buff": "Buff di guarigione",
-    "entity.droppedbuffs.invisibility_buff": "Buff di invisibilità",
-    "entity.droppedbuffs.luck_buff": "Buff di fortuna",
-    "entity.droppedbuffs.meat_buff": "Buff carne",
-    "entity.droppedbuffs.resistance_buff": "Buff di resistenza",
-    "entity.droppedbuffs.speed_buff": "Buff di velocità",
-    "entity.droppedbuffs.strength_buff": "Buff di forza",
-    "entity.droppedbuffs.water_breathing_buff": "Buff dell'equilibrio acquatico"
+    "entity.droppedbuffs.absorption_buff": "Assorbente",
+    "entity.droppedbuffs.buff": "Buffo",
+    "entity.droppedbuffs.fire_resistance_buff": "Aumento della resistenza al fuoco",
+    "entity.droppedbuffs.haste_buff": "Velocità",
+    "entity.droppedbuffs.heal_buff": "Effetto curativo",
+    "entity.droppedbuffs.invisibility_buff": "Potenziamento dell'invisibilità",
+    "entity.droppedbuffs.luck_buff": "Aumento della fortuna",
+    "entity.droppedbuffs.meat_buff": "Appassionato di carne",
+    "entity.droppedbuffs.night_vision_buff": "Aumento della visione notturna",
+    "entity.droppedbuffs.resistance_buff": "Aumento della resistenza",
+    "entity.droppedbuffs.speed_buff": "Appassionato di velocità",
+    "entity.droppedbuffs.strength_buff": "Potenziamento",
+    "entity.droppedbuffs.water_breathing_buff": "Esperto di respirazione subacquea",
+    "sounds.droppedbuffs.buff_pickup": "È stato individuato\/localizzato."
 }

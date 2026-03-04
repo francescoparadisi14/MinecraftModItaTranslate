@@ -1,0 +1,6 @@
+{
+    "command.enchantmentlevelbreak.error.invalid_enchantment": "Invalid enchantment: %s",
+    "command.enchantmentlevelbreak.error.level_too_high": "Enchantment level cannot exceed 2147483647",
+    "command.enchantmentlevelbreak.error.no_item": "You must be holding an item to enchant",
+    "command.enchantmentlevelbreak.success": "Applied %s to the item"
+}

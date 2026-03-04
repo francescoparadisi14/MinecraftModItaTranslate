@@ -3,6 +3,7 @@
     "item.map_atlases.atlas": "Atlas",
     "item.map_atlases.atlas.supplementaries_antique": "Antique",
     "item.map_atlases.atlas.tooltip_empty": "Empty Maps: %d",
+    "item.map_atlases.atlas.tooltip_empty_type": "Empty %1$d: %2$d",
     "item.map_atlases.atlas.tooltip_err": "Inactive",
     "item.map_atlases.atlas.tooltip_full": "Full!",
     "item.map_atlases.atlas.tooltip_locked": "Locked",

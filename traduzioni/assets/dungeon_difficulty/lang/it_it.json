@@ -1,11 +1,11 @@
 {
-    "difficulty.type.adventure": "Avventura ☠",
-    "difficulty.type.apocalypse": "Apocalisse ☠",
-    "difficulty.type.boss": "Capitano dei mostri",
-    "difficulty.type.boss_dungeon": "Dungeon del capoboss",
-    "difficulty.type.dungeon": "☠ dungeon",
-    "difficulty.type.heroic": "☠ eroico",
-    "difficulty.type.mythic": "☠ mitico",
+    "difficulty.type.adventure": "Avventura",
+    "difficulty.type.apocalypse": "Apocalisse",
+    "difficulty.type.boss": "Capo",
+    "difficulty.type.boss_dungeon": "Boss Dungeon",
+    "difficulty.type.dungeon": "Fuga dalla prigione",
+    "difficulty.type.heroic": "Eroico",
+    "difficulty.type.mythic": "Mitologico",
     "difficulty.type.normal": "Normale",
-    "item.power.level": "♦ livello di potere: %s"
+    "item.power.level": "Livello di potenza: %s"
 }

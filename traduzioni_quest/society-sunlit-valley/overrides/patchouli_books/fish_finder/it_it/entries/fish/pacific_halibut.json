@@ -1,18 +1,18 @@
 {
-    "name": "Pacific Halibut",
+    "name": "Halibut del Pacifico",
     "category": "patchouli:fish",
     "icon": "aquaculture:pacific_halibut",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 400 monete$(li)Simbolo: ❆ $(li)Stagione: Inverno$(li)Acqua: Oceano$(li)Clima: Qualsiasi$(li)Ora: Giorno"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 400$(li)§0❆ §bInverno§0$(li)Acqua: Oceano$(li)Meteo: Qualsiasi$(li)Ora: Giorno"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:pacific_halibut",
             "scale": 0.8,
             "rotate": true,
-            "text": "Mi piace il city pop."
+            "text": "patchouli: entità\n\nacquacoltura: halibut del Pacifico\n\nAdoro la musica city pop."
         }
     ]
 }

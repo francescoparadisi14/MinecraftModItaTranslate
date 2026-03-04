@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li):moneta: 80$(li)🍂 §4Autunno§r$(li)Rendita: 1$(li)Fasi di crescita: 8$(br2)$(l)Note$()$(li)Vedi: $(l:trees\/pams\/pawpaw)Albero di Pawpaw$(\/l)`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): moneta: 80\n$(li)🍂 Autunno\n$(li) Resa: 1\n$(br2) Fasi di crescita: 8\n$(l)Note$()$(li) Vedi: Albero Pawpaw (in \/trees\/pams\/pawpaw)\n"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Pawpaw Tree",
+            "name ": "Patchouli: Multiblocco\n\nAlbero di Pawpaw",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {
@@ -24,8 +24,7 @@
                         "F"
                     ]
                 ]
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

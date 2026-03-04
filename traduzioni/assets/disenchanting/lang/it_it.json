@@ -1,8 +1,8 @@
 {
-    "_comment": "Nota UI",
-    "block.disenchanting.disenchanter": "Disenchantatore",
-    "block.disenchanting.disenchanter.tooltip": "Disincanta i tuoi oggetti e mettili nei libri.",
+    "_comment": "Interfaccia utente",
+    "block.disenchanting.disenchanter": "Rimuovere la magia, smorzare l'entusiasmo",
+    "block.disenchanting.disenchanter.tooltip": "Rimuovi la magia dagli oggetti e posizionali sopra i libri.",
     "gui.disenchanting.disenchanter.cost": "Costo",
-    "itemGroup.Disenchanting": "Disincantamento",
-    "tabs.disenchanting.tab": "Disenchanting"
+    "itemGroup.Disenchanting": "Far perdere la magia a; disincantare",
+    "tabs.disenchanting.tab": "Far perdere la magia a; disincantare"
 }

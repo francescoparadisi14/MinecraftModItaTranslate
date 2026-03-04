@@ -1,11 +1,11 @@
 {
-    "biome.cataclysm_dimension.badlands": "Fucina degli Eoni",
+    "biome.cataclysm_dimension.badlands": "Fabbrica dei tempi",
     "biome.cataclysm_dimension.deep_ocean": "Profondità abissali",
-    "biome.cataclysm_dimension.desert": "La maledizione del faraone",
-    "biome.cataclysm_dimension.nether_wastes": "La fauci dell'inferno",
-    "biome.cataclysm_dimension.snowy_plains": "Territorio di ghiaccio eterno",
-    "biome.cataclysm_dimension.soul_sand_valley": "Fucina dell'anima",
-    "biome.cataclysm_dimension.the_end": "Il bastione perduto",
-    "biome.cataclysm_dimension.warm_ocean": "Sanctum caduto",
-    "tip.cataclysm_dimension.enter": "Clic destro con Shift premuto per entrare nel dimensione."
+    "biome.cataclysm_dimension.desert": "La rovina del faraone",
+    "biome.cataclysm_dimension.nether_wastes": "La bocca dell'inferno",
+    "biome.cataclysm_dimension.snowy_plains": "Il Forte dell'Eterno Gelo",
+    "biome.cataclysm_dimension.soul_sand_valley": "Martello Soulforge",
+    "biome.cataclysm_dimension.the_end": "Fortezza dei perduti",
+    "biome.cataclysm_dimension.warm_ocean": "Sanctum Fallen",
+    "tip.cataclysm_dimension.enter": "Clicca con il tasto destro mentre premi il tasto SHIFT per accedere alla dimensione desiderata."
 }

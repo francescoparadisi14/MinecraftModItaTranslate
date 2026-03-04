@@ -1,5 +1,19 @@
 {
     "craftoria_core.config.disable_search_tab_autofocus": "Disable Search Tab Autofocus",
     "craftoria_core.config.mixin_toggles": "Mixin Toggles",
-    "craftoria_core.config.suppress_unknown_packet_id": "Suppress Unknown Packet ID Errors"
+    "craftoria_core.config.suppress_unknown_packet_id": "Suppress Unknown Packet ID Errors",
+    "craftoria_core.tooltip.contains": "Contains: %s",
+    "craftoria_core.tooltip.empty": "Empty",
+    "craftoria_core.tooltip.partitioned": "Partitioned for: %s",
+    "craftoria_core.tooltip.quantity": "Quantity: %s",
+    "item.craftoria_core.black_hole_cell_housing": "Black Hole Cell Housing",
+    "item.craftoria_core.black_hole_core": "Black Hole Core",
+    "item.craftoria_core.chemical_black_hole_cell": "Chemical Black Hole Cell",
+    "item.craftoria_core.chemical_core": "Chemical Core",
+    "item.craftoria_core.fluid_black_hole_cell": "Fluid Black Hole Cell",
+    "item.craftoria_core.flux_black_hole_cell": "Flux Black Hole Cell",
+    "item.craftoria_core.flux_core": "Flux Core",
+    "item.craftoria_core.logo": "Logo",
+    "item.craftoria_core.source_black_hole_cell": "Source Black Hole Cell",
+    "item.craftoria_core.source_core": "Source Core"
 }

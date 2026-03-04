@@ -1,8 +1,12 @@
 {
-    "key.invincible.category": "Tasto invincibile",
-    "key.invincible.key1": "Chiave 1",
-    "key.invincible.key2": "Chiave 2",
-    "key.invincible.key3": "Chiave 3",
-    "key.invincible.key4": "Tasto 4",
-    "tips.invincible.charge": "Premi a lungo il tasto 2 per ricaricare."
+    "commands.invincible.reload": "[Invincible Lib]: Abilità potenziate!",
+    "key.invincible.category": "Azioni invincibili di Lib",
+    "key.invincible.key1": "Azione principale",
+    "key.invincible.key1.description": "Solitamente esegue l'attacco principale o l'azione di combattimento primaria.",
+    "key.invincible.key2": "Azione secondaria",
+    "key.invincible.key2.description": "Utilizzato comunemente per bloccare, mirare o per azioni di combattimento secondarie.",
+    "key.invincible.key3": "Abilità speciale 1",
+    "key.invincible.key3.description": "Attiva una particolare abilità o una competenza alternativa quando disponibile.",
+    "key.invincible.key4": "Abilità speciale 2",
+    "key.invincible.key4.description": "Attiva un'altra abilità speciale o di supporto, se assegnata."
 }

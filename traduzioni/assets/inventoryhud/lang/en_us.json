@@ -81,7 +81,6 @@
     "inventoryhud.config.gui.updateclick": "Click to get",
     "inventoryhud.config.gui.withdebug": "With debug:",
     "key.category.inventoryhud.main": "Inventory HUD+",
-    "key.inventoryhud.category": "Inventory HUD+",
     "key.inventoryhud.openconfig": "Open config",
     "key.inventoryhud.toggle": "Toggle InventoryHUD on\/off",
     "key.inventoryhud.toggleall": "Toggle all HUDs on\/off",

@@ -1,8 +1,8 @@
 {
-    "block.packagedmekemicals.chemical_package_filler": "Rifornitore di pacchetto chimico",
-    "block.packagedmekemicals.chemical_package_filler.redstone": "Attiva con risonanza per iniziare",
-    "itemGroup.packagedmekemicals": "Prodotti chimici MEK pacchettati",
-    "jei.category.packagedmekemicals.chemical_package_contents": "Contenuti del pacchetto chimico",
-    "jei.category.packagedmekemicals.chemical_package_filling": "Rifornimento di pacchetto chimico",
-    "volume.packagedmekemicals.mekanism.chemical": "Sostanza chimica"
+    "block.packagedmekemicals.chemical_package_filler": "Riempitrice per confezioni di prodotti chimici",
+    "block.packagedmekemicals.chemical_package_filler.redstone": "Attiva con il redstone per l'avvio.",
+    "itemGroup.packagedmekemicals": "Prodotti chimici confezionati",
+    "jei.category.packagedmekemicals.chemical_package_contents": "Contenuto del pacchetto chimico",
+    "jei.category.packagedmekemicals.chemical_package_filling": "Riempimento di confezioni chimiche",
+    "volume.packagedmekemicals.mekanism.chemical": "Chimico"
 }

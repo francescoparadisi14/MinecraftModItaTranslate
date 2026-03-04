@@ -1,17 +1,17 @@
 {
-    "block.simplegrinder.coal_grinder": "Macina carbone",
-    "block.simplegrinder.energy_grinder": "Grattugiatore energetico (in fase di sviluppo)",
-    "block.simplegrinder.machine_core": "Core della macchina",
-    "container.coal_grinder": "Macchina per la macinazione del carbone",
-    "gui.jei.category.grinder": "Macinazione",
-    "gui.jei.category.grinder.experience": "%s xp",
+    "block.simplegrinder.coal_grinder": "Macchina per macinare il carbone",
+    "block.simplegrinder.energy_grinder": "[In fase di sviluppo] Energy Grinder",
+    "block.simplegrinder.machine_core": "Nucleo della macchina",
+    "container.coal_grinder": "Macchina per macinare il carbone",
+    "gui.jei.category.grinder": "Macinatura",
+    "gui.jei.category.grinder.experience": "%s punti esperienza",
     "gui.jei.category.grinder.time.seconds": "%ss",
     "item.simplegrinder.dust_copper": "Polvere di rame",
     "item.simplegrinder.dust_gold": "Polvere d'oro",
     "item.simplegrinder.dust_iron": "Polvere di ferro",
     "item.simplegrinder.flour": "Farina",
-    "item.simplegrinder.mash_carrot": "Sminuzzare carota",
-    "item.simplegrinder.mash_potato": "Patata schiacciata",
-    "item.simplegrinder.omlete": "Omlette",
-    "itemGroup.simplegrinder": "Macina semplice"
+    "item.simplegrinder.mash_carrot": "Carote a julienne",
+    "item.simplegrinder.mash_potato": "Purè di patate",
+    "item.simplegrinder.omlete": "Uova strapazzate",
+    "itemGroup.simplegrinder": "Macinino semplice"
 }

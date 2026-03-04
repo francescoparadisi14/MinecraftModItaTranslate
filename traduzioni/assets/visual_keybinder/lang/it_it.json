@@ -1,4 +1,13 @@
 {
-    "key.raws_visual_keybinder.category": "Impostazioni tastiera visiva",
-    "key.raws_visual_keybinder.open_screen": "Apri schermo del leggendario tastierino visivo"
+    "key.raws_visual_keybinder.category": "Interfaccia visiva per la gestione",
+    "key.raws_visual_keybinder.open_screen": "Schermata per l'assegnazione di tasti",
+    "key.raws_visual_keybinder.switch_to_preset_1": "Passa alla modalità predefinita 1",
+    "key.raws_visual_keybinder.switch_to_preset_2": "Passa alla modalità predefinita 2",
+    "key.raws_visual_keybinder.switch_to_preset_3": "Passa alla modalità predefinita 3",
+    "key.raws_visual_keybinder.switch_to_preset_4": "Passa alla modalità predefinita 4",
+    "key.raws_visual_keybinder.switch_to_preset_5": "Passa alla modalità predefinita 5",
+    "raws_visual_keybinder.action_result_message.failed_to_get_presets": "Impossibile trovare la configurazione predefinita \"%s\"",
+    "raws_visual_keybinder.action_result_message.loading_preset_failed": "Si è verificato un errore durante il caricamento della configurazione: %s",
+    "raws_visual_keybinder.action_result_message.preset_loaded": "Impostazione predefinita caricata: %s",
+    "raws_visual_keybinder.screen.button.raws_visual_keybinder_button": "Interfaccia visiva per la gestione"
 }

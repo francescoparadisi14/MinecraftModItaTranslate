@@ -1,16 +1,16 @@
 {
-    "name": "Arbusto d'arancio 🔥",
+    "name": "Albero d'arancia 🔥",
     "category": "patchouli:trees",
     "icon": "pamhc2trees:apple_sapling",
     "sortnum": -1,
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)🔥 Estate $(li)Prezzo: 18.432 :moneta$(li)Dimensioni: 1x1$(li)Cresce in:`$(l:tree_crops\/orange)8 Orange$(\/l)$(br2)$(l)Note$()$(li)Venduti da Cultivatore Maestro.`"
+            "text": "patchouli:text\n\n$(l)Statistiche$()$(li)🔥 Estate$(r) $(li) Prezzo: 18.432 monete$(li) Dimensione: 1x1$(li) Cresce: 8 arance$(\/l)$(br2)$(l)Note$()$(li) Piantine acquistate da un coltivatore esperto."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Apple Tree",
+            "name ": "patchouli:multiblock\n\nTiglio",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {
@@ -77,8 +77,7 @@
                         "     "
                     ]
                 ]
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

@@ -1,0 +1,18 @@
+{
+    "description.config.wover.client.general.prefere_modrinth": "A volte forniamo link per il download degli aggiornamenti. Se preferite che questi link indirizzino direttamente a Modrinth invece che a CurseForge, potete abilitare questa opzione.",
+    "description.config.wover.main.log.verbose": "Aggiunge ulteriori informazioni nel file di log. Utile per la risoluzione di problemi.",
+    "description.config.wover.main.server.force_default_world_preset": "Quando si crea un nuovo mondo su un server, il tipo di mondo \"BetterX\" sarà selezionato per impostazione predefinita. Questo può essere modificato nel file delle proprietà del server.",
+    "title.config.group.wover.cosmetic": "Cosmetici",
+    "title.config.group.wover.entity": "Gruppi di giocatori e singolo giocatore",
+    "title.config.group.wover.general": "Generale",
+    "title.config.group.wover.loading": "Caricamento e creazione a livello globale",
+    "title.config.group.wover.performance": "Prestazioni",
+    "title.config.group.wover.rendering": "Rendering",
+    "title.config.group.wover.server": "Impostazioni del server",
+    "title.config.group.wover.structure": "Strutture",
+    "title.config.group.wover.ui": "Interfaccia utente",
+    "title.config.wover.client.general.prefere_modrinth": "Link a Modrinth",
+    "title.config.wover.main.log.verbose": "Registrazione dettagliata",
+    "title.config.wover.main.server.force_default_world_preset": "Imposta \"BetterX World Type\" come predefinito per i nuovi mondi.",
+    "wover.mainmenu.title": "Configurazione di WorldWeaver"
+}

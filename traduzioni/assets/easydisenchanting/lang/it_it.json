@@ -1,5 +1,5 @@
 {
-    "easydisenchanting.configuration.Experience Cost Factor": "Fattore di costo esperienziale",
-    "easydisenchanting.configuration.Fixed Experience Cost": "Costo di esperienza fissa",
-    "easydisenchanting.configuration.Should Return": "Dovrebbe restituire"
+    "easydisenchanting.configuration.Experience Cost Factor": "Costo basato sull'esperienza",
+    "easydisenchanting.configuration.Fixed Experience Cost": "Costo fisso per l'esperienza",
+    "easydisenchanting.configuration.Should Return": "Dovrebbe essere restituito"
 }

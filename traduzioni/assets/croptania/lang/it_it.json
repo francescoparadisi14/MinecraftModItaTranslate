@@ -1,9 +1,9 @@
 {
     "block.croptania.cropnolia": "Cropnolia",
-    "block.croptania.floating_cropnolia": "Croppola galleggiante",
+    "block.croptania.floating_cropnolia": "Coltivazione galleggiante",
     "croptania.entry.cropnolia": "Cropnolia",
-    "croptania.page.cropnolia0": "Un fiore erbivoro curioso, il $(item)cropnolia$(0) dissolve l'energia naturale dei $(thing)cultivi$(0) intorno a sé trasformandoli nella loro forma base. I coltivazioni che richiedono più tempo per crescere, come ad esempio il $(thing)frumento$(0), producono quantità esponenzialmente maggiori di $(thing)mana$(0) rispetto ai loro equivalenti più rapidi.",
-    "croptania.page.cropnolia1": "Nascondilo nel mio... calzino? (calzino)",
-    "croptania.tagline.cropnolia": "Assassino di mana",
-    "itemGroup.croptania": "Croptania"
+    "croptania.page.cropnolia0": "Questa pianta, con un comportamento curioso, chiamata $(item)Cropnolia$(0), converte l'energia naturale delle $(thing)Crops$(0) circostanti in $(thing)Mana$(0), riportandole al loro stato originale. Le colture che richiedono più tempo per crescere, come le $(thing)Wheat$(0), producono una quantità esponenzialmente maggiore di $(thing)Mana$(0) rispetto alle varietà più veloci.",
+    "croptania.page.cropnolia1": "$(o)Nasconderlo nel mio... calzino? (calzino)$()",
+    "croptania.tagline.cropnolia": "Mangiatore di Mana",
+    "itemGroup.croptania": "Coltivazione"
 }

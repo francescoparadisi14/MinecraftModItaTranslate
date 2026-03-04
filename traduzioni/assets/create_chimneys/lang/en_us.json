@@ -1,0 +1,10 @@
+{
+    "block.create_chimneys.chimney": "Chimney",
+    "block.create_chimneys.chimney_bricks": "Bricks Chimney",
+    "block.create_chimneys.chimney_copper": "Copper Chimney",
+    "block.create_chimneys.chimney_deepslate_bricks": "Deepslate Bricks Chimney",
+    "block.create_chimneys.chimney_iron": "Iron Chimney",
+    "block.create_chimneys.chimney_mud_bricks": "Mud Bricks Chimney",
+    "block.create_chimneys.chimney_nether_bricks": "Nether Bricks Chimney",
+    "block.create_chimneys.chimney_stone_bricks": "Stone Bricks Chimney"
+}

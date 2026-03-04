@@ -1,0 +1,404 @@
+{
+    "quest.02DEAB3F1198BFBE.quest_desc": [
+        "Il \"Vecchio Bosco Distorto\" è un altro bosco presente in \"The Other\".\n\nPresenta un pavimento in \"Nylium Distorto\" con \"Netherrack\" sottostante.\n\nInvece di alberi\/funghi \"Distorti\", presenta \"Alberi dell'Anima\"!"
+    ],
+    "quest.02DEAB3F1198BFBE.title": "\\&bForesta antica e contorta",
+    "quest.03326C2FF16F64C3.quest_desc": [
+        "\\&8L'armatura in pelle di Troll\\&r è realizzata con materiali provenienti da specifici \\&8Biomi di Troll\\&r. I diversi biomi non influiscono sull'efficacia dell'armatura, ma solo sull'aspetto.\n\nOgni set completo fornirà tra \\&7Punti di Armatura\\&r tra il ferro e l'\\&bDiamante\\&r, per un totale di \\&7Punti di Armatura\\&r.\n\nInoltre, ogni \\&8Armatura\\&r assorbirà meno danni da proiettili! È come avere una protezione contro i proiettili su tutta la tua armatura, oltre a poter ottenere una protezione aggiuntiva!\n\nInoltre, sembrerai un \\&8Troll\\&r!"
+    ],
+    "quest.03326C2FF16F64C3.title": "\\&Armatura in pelle di Troll",
+    "quest.0481E975F317F64D.quest_desc": [
+        "E le uova dei draghi di ghiaccio necessitano di \\&bghiaccio\\&r, mentre le uova dei draghi di fuoco necessitano di \\&cfuoco\\&r. Ma cosa serve per le uova dei draghi di ghiaccio, in particolare?\n\nAspetta, in realtà è così?\n\nBasta lasciare l'uovo del drago di ghiaccio all'aperto, esposto al \\&bsole\\&r, e quando piove, inizierà a schiudersi.\n\nDopo 6 minuti di pioggia continua, il \\&5fulmine\\&r colpirà l'uovo e il \\&5drago\\&r si schiuderà.\n\nIl \\&5fulmine\\&r può innescare un \\&cincendio\\&r, che potrebbe danneggiare il \\&5cucciolo\\&r, quindi bisogna fare attenzione!"
+    ],
+    "quest.0481E975F317F64D.title": "Lascia il tuo \"Egg\\&r\" sotto la pioggia",
+    "quest.05113AC92BC1B192.quest_desc": [
+        "\\&a\\&lHydre\\&r sono tra i nemici più difficili che si possono incontrare.\n\\&b\\&lPossono essere verdi, blu-verdi o rossi. Sono tutti rettili a tre teste, senza braccia o gambe.\n\\&a\\&lI Hydre\\&r hanno oltre 450 punti salute, ma solo 2 punti di armatura.\n\\&a\\&lPossono effettuare diversi attacchi, il più semplice è mordere. Possono anche utilizzare un \"respiro velenoso\", simile al \"respiro del drago\". Il più pericoloso è quando utilizzano il loro veleno, che trasformerà tutti gli altri attacchi in attacchi velenosi!\n\\&a\\&lQuando subiscono danni sufficienti, gli \\&a\\&lHydre\\&r perderanno una testa. A meno che non siano su \\&cFire\\&r, la testa sarà sostituita da 2 nuove teste. Più teste hanno, più danni possono infliggere... quindi dobbiamo fermarli! Grazie a questa capacità di rigenerazione, recuperano quasi tutti i danni subiti, quindi avrete sicuramente bisogno di \\&cFire\\&r!\nA proposito, possono avere fino a 9 teste. Vi ho detto di portare \\&cFire\\&r?",
+        "{image:atm:textures\/questpics\/iceandfire\/iaf_hydra.png width:200 height:100 align:center}"
+    ],
+    "quest.05113AC92BC1B192.title": "\\&a\\&lHydra",
+    "quest.06ECF443FBCC12FC.quest_desc": [
+        "Possiamo addomesticare i \"Death Worm\" ottenendo un \"uovo di Death Worm\" e uccidendo i \"Death Worm\". Basta lanciare l'uovo come faremmo con un uovo di gallina, e ne spunterà uno \"addomesticato\".\n\nTuttavia, questi \"Death Worm\" addomesticati non si comporteranno come animali domestici normali: non seguiranno né proteggeranno. Cosa fanno?\n\nInnanzitutto, cresceranno nel tempo, guadagnando più \"cuori\" e diventando più grandi!\n\nInoltre, vagheranno in un'area limitata da dove sono nati. All'interno di questa area, non attaccheranno né voi né altri mob passivi, ma attaccheranno quelli ostili!\n\nPossiamo anche usare una canna da pesca in entrambe le mani per cavalcare i \"Death Worm\", anche se non sono stati addomesticati.\n\nPossiamo cavalcarli come cavalli, ma possiamo anche usare un attacco premendo (G). Questo attacco è lo stesso che usano i \"Giant Death Worm\"!"
+    ],
+    "quest.06ECF443FBCC12FC.title": "\\&eDeath Worm\\&r: Surf!",
+    "quest.07AF1D5C24B069DD.quest_desc": [
+        "Lo \"Specter del Cockatrice\" è realizzato con parti di \"Occhi di Cockatrice\" e \"Wither\". Avete bisogno di altri Occhi? Perché stiamo raccogliendo gli Occhi?\n\nCon lo \"Specter\", è possibile infliggere danni di \"Wither\" III a (alcuni) mostri per 2 secondi.\nHa un raggio di circa 20 blocchi ed ha un periodo di ricarica."
+    ],
+    "quest.07AF1D5C24B069DD.title": "\\&8Spettro di Cockatrice",
+    "quest.09ABD5D978373A54.quest_desc": [
+        "L'oggetto \"\\&aHeart of Hydra\\&r\" è un oggetto molto raro che si ottiene dai \"\\&aHydra\\&r\", ma fidatevi, ne vale la pena!\n\nQuando è presente nella vostra barra degli oggetti, inclusa quella principale, vi fornirà la capacità di rigenerazione.\n\nMa aspettate, la quantità di rigenerazione aumenterà in base al numero di \"\\&4Cuori\\&r\" che possedete!"
+    ],
+    "quest.09ABD5D978373A54.title": "\\&aCuore di Idrata",
+    "quest.0B3AC4E923332AC6.quest_desc": [
+        "I draghi di ghiaccio più potenti sono quelli che appaiono nelle \\&b\\&lGrotte dei Draghi di Ghiaccio\\&r. Si trovano al \\&l4° e \\&l5° livello!\n\nLe loro \\&b\\&lGrotte dei Draghi di Ghiaccio\\&r sono enormi, con molti blocchi appuntiti e di ghiaccio, quindi fate attenzione quando vi muovete.\n\nAh, e c'è anche un \\&b\\&lDrago di Ghiaccio\\&r, che occupa lo spazio più grande! Non preoccupatevi, non voleranno o nuoteranno qui, ma solo combatteranno!\n\nQuesti \\&b\\&lAttacchi Elementali\\&r infliggono ancora più danni e congelano ancora più blocchi e creature. Inoltre, i loro attacchi normali infliggono danni molto maggiori rispetto a prima.\n\nE se i danni non sono sufficientemente alti, hanno anche centinaia di \\&4Cuori\\&r e fino a 20 \\&7Punti di Armatura! Questi non scherzano!\n\nSe uccidete un \\&b\\&lDrago\\&r al \\&l4° o \\&l5° livello, se è femmina e non avete usato bottiglie vuote, potreste ottenere un \\&b\\&lUovo di Drago di Ghiaccio\\&r. Questi possono essere utilizzati con..."
+    ],
+    "quest.0B3AC4E923332AC6.title": "\\&lFase 4-5 \\&bDrago di Ghiaccio",
+    "quest.0C176F04D32B75DD.quest_desc": [
+        "\\&cFire Dragonsteel\\&r è prodotto combinando \\&cFire Dragon Blood\\&r e \\&7Iron\\&r in un \\&c\\&lFire DragonForge\\&r.\n\nPossiamo creare armi con esso! Queste infliggeranno un'enorme quantità di danni, oltre a spingere via i mostri e infiammarli.\n\nInsieme alle armi, sono disponibili anche armature. Queste armature forniscono un'enorme quantità di statistiche e hanno un aspetto fantastico! Inoltre, ci proteggono ulteriormente dagli attacchi elementali dei \\&cDragons\\&r!\n\nMa perché limitarci solo alle armature per noi? E che dire anche delle nostre \\&c\\&lDragons\\&r? Questo richiede un costo molto maggiore, ma fornirà una protezione enorme, in particolare contro gli altri \\&c\\&lDragons\\&r."
+    ],
+    "quest.0C176F04D32B75DD.title": "\\&cAcciaio Drago Incandescente",
+    "quest.0DABAD0803DCEA1E.quest_desc": [
+        "Il \"Dragon \\&c\\&l\" ora è nostro! Come possiamo utilizzarlo?\n\nInnanzitutto, avremo bisogno di alcuni strumenti! Lo \"Staff del Drago \\&7\", per dargli istruzioni. L'\"Corno del Drago \\&7\", per tenerlo e trasportarlo. E la \"Flauto del Drago \\&7\", per chiamare i \"Draghi Volanti \\&c\\&l\".\n\nPossiamo utilizzare lo \"Shift Right Click\" sul \"Drago \\&c\\&l\" per visualizzare il suo inventario e l'interfaccia utente. Qui possiamo vedere la sua età, la sua \"Salute \\&4\", la sua \"Fase \\&l\" e modificare il suo inventario. Possiamo anche vedere che tipo di armatura indossa e se ha bandiere!\n\nPossiamo utilizzare lo \"Staff del Drago \\&7\" su di loro per impostare se stanno accompagnando, vagando o rimanendo fermi. \"Accompagnare\" significa che seguiranno e combatteranno con voi. \"Vagare\" significa che voleranno in una certa area, attaccando qualsiasi mostro presente. \"Rimanere fermi\" significa semplicemente che resteranno dove sono e non faranno nulla!\n\nIl \"Corno del Drago \\&7\" può essere utilizzato su un \"Drago \\&c\\&l\" per metterlo al suo interno. Qui, sarà in modo sicuro e compatto, all'interno dell'oggetto, dove potremo vedere la sua età, il suo sesso e il suo nome.\n\nL'ultimo oggetto, il \"Flauto del Drago \\&7\", viene utilizzato per tutti i mostri volanti domati. Se volano quando si utilizza il \"Flauto \\&7\", atterreranno."
+    ],
+    "quest.0DABAD0803DCEA1E.title": "Comanda il tuo Drago",
+    "quest.0F9DCF36112C9922.quest_desc": [
+        "\\&9L'armatura \"Guardiano delle Maree\"\\&r è realizzata con \\&bScaglie lucide\\&r e \\&9Scaglie di serpente marino\\&r.\n\nIl colore delle \\&9Scaglie di serpente marino\\&r determinerà il colore dell'\\&9Armatura \"Guardiano delle Maree\"\\&r. E non è ammesso mescolare i colori!\n\nIl totale di punti di armatura dell'\\&9Armatura \"Guardiano delle Maree\"\\&r è di 23, che è superiore anche a quello dell'\\&cNetherite\\&r!\n\nOgni pezzo di armatura fornisce anche \\&9Respiro in Acqua\\&r. Anche se si utilizzano solo gli \\&9Stivali\\&r. Inoltre, fornisce un livello di \\&4Forza\\&r per ogni pezzo di armatura indossato. L'armatura completa fornisce \\&4Forza IV!"
+    ],
+    "quest.0F9DCF36112C9922.title": "\\&9Armatura del Guardiano delle Maree",
+    "quest.0FE94BE5ADB6E595.quest_desc": [
+        "All'interno delle \\&bForeste Antiche e Deformate\\&r, possiamo trovare le \\&aGrotte di Idra\\&r. È molto probabile che le scopri per caso, dato che sono ben nascoste.\n\nSi tratta di piccoli avvallamenti all'interno delle \\&bForeste Antiche e Deformate\\&r, con \\&7mattoni di pietra\\&r e \\&7cranie di scheletri\\&r al loro interno.\n\nNon troverete molte risorse al loro interno, principalmente \\&7manoscritti\\&r e \\&7cranie\\&r. Raramente troverete \\&eoro\\&r e \\&aemeraldi\\&r!",
+        "{image:atm:textures\/questpics\/iceandfire\/iaf_struct_hydra.png width:200 height:100 align:center}"
+    ],
+    "quest.0FE94BE5ADB6E595.title": "\\&Grotta di Hydra",
+    "quest.1042A0DC0A9321BB.quest_desc": [
+        "\"È sicuro che c'è un \"Drago\" con il codice \"\\&5\"? Quello che vedo è solo \"\\&9Blu Elettrico\" e \"\\&5Amethyst\" e \"\\&6Cuoio\" e \"\\&0Nero\".\n\nAspetta... questo è il \"Drago\" del livello \"\\&l4\" o \"\\&5Drago\" all'interno della \"Grotta del Drago\" (\\&5)?\n\nLa \"Grotta\" potrebbe essere grande, ma il \"Drago\" è quasi della stessa dimensione! Questo significa che il \"Drago\" non volerà molto, ma questo significa che si concentrerà maggiormente sui suoi attacchi.\n\nSì, considerando che i \"Draghi\" infliggono il danno maggiore, e ora infliggono ancora più danno... potreste avere problemi.\n\nPrendetevi il tempo necessario per combatterli, potete rigenerarvi e riapparire! Loro no.\n\nQuando li uccidete e non avete usato bottiglie su di loro, potrebbero rilasciare un \"Uovo di Drago\" (\\&5). Sì, anche in questo caso devono essere femmine... devo davvero dirvi che solo le femmine depongono le uova?"
+    ],
+    "quest.1042A0DC0A9321BB.title": "\\&Livello 4-5 \\&Drago Fulminoso",
+    "quest.10642351AD9A9907.quest_desc": [
+        "\\&3Penne di Amphithere\\&r sono create sostituendo la penna di pollo con una \\&3penna di Amphithere\\&r.\n\nQueste \\&3punte\\&r sono essenzialmente delle Punch II, ma create con materiali diversi.\n\nQuando un mostro viene colpito con una di queste, verrà spinto all'indietro e fatto volare.\n\nHo sentito dire che, se si utilizzano delle \\&3punte di Amphithere\\&r su un arco Punch II, il mostro esploderà quando viene colpito! (Questa è una falsa informazione)."
+    ],
+    "quest.10642351AD9A9907.title": "\\&3Frecce di Amphithere",
+    "quest.10CA52D15EAB71A3.quest_desc": [
+        "\\&e\"The Other Desert\" è il bioma più facile da riconoscere. È pianeggiante, con sabbia, e presenta diverse caratteristiche.\n\nÈ composto da sabbia, arenaria, e da ciò che si trova sotto. Inoltre, qui si possono trovare le \"Grotte dei Cyclops\".\n\nNon ci sono cactus o cespugli secchi, ma ci sono più \"gruppi di creature\" (probabilmente mostri o creature) rispetto a qualsiasi altro bioma!"
+    ],
+    "quest.10CA52D15EAB71A3.title": "\\&eThe Other Desert",
+    "quest.121DE9824813D558.quest_desc": [
+        "Il tempio \"\\&2Gorgon\" è dove si trova una delle \"\\&2sorelle Gorgon\".\n\nI \"\\&2templi\" sono imponenti strutture in \"\\&7mattoni\" che si trovano in \"\\&7The Other Soul Sand Valleys\".\n\nAll'interno, dovrai azionare i giusti interruttori per aprire la scala che conduce al seminterrato, dove si trova la \"\\&2Gorgon\".",
+        "{image:atm:textures\/questpics\/iceandfire\/iaf_struct_gorgon.png width:200 height:100 align:center}"
+    ],
+    "quest.121DE9824813D558.title": "\\&Tempio di Gorgon",
+    "quest.131164DA08BB87B3.quest_desc": [
+        "È possibile addomesticare gli Hippogryths!\n\nBasta avvicinarli da una certa distanza, lanciando loro dei \"Rabbit Feet\". Appena li vedono, li mangeranno.\n\nPotrebbe essere necessario solo un \"Rabbit Foot\" per uno, mentre un altro potrebbe averne bisogno di una quantità maggiore!\n\nUna volta che si sono calmati, saprete che sono stati addomesticati. A quel punto, potete usare il tasto destro del mouse per aprire il loro inventario. Ora possiamo equipaggiarli con selle per cavalcarli, bauli per conservare oggetti, e persino armature!\n\nQuando volate, potete usare la barra spaziatrice per decollar, il che richiede un certo tempo per accelerare. I tasti WASD per muovervi in avanti, indietro, a sinistra o a destra. E (X) per atterrare.\n\nPossiamo anche usare (G) per attaccare altri mob, proprio come faremmo con un \"Death Worm\"!"
+    ],
+    "quest.131164DA08BB87B3.title": "Prendi il controllo di \\&bSkys\\&r con l'Hippogryth",
+    "quest.136C40D8350651DC.quest_desc": [
+        "\\&cSiren Islands\\&r compaiono anche in \\&7The Other Soul Sand Valley\\&r.\n\nSono essenzialmente piccole isole composte da \\&7blocchi di pietra\\&r; l'unica parte veramente unica sono le \\&cSirene\\&r!\n\nPotrebbe essere utile indossare dei tappi per le orecchie... le loro canzoni sono piuttosto accattivanti!",
+        "{image:atm:textures\/questpics\/iceandfire\/iaf_struct_siren.png width:200 height:100 align:center}"
+    ],
+    "quest.136C40D8350651DC.title": "\\&Isola di Siren",
+    "quest.14CF23064A6035CD.quest_desc": [
+        "I fantasmi appariranno o da un \\&aCassa Maledetta\\&r aperta, oppure dal \\&aTerreno del Cimitero\\&r durante la \\&9Notte\\&r.\n\nSono trasparenti e di colore \\&aBianco\\&f, \\&aVerde\\&f, o \\&bBlu\\&r.\n\nI fantasmi hanno 140 \\&4Cuori\\&f e 2 \\&7Punti di Armatura.\n\nAttaccano come i non morti, ma a differenza di questi, i fantasmi possono volare e attraversare i blocchi per continuare ad attaccare!",
+        "{image:atm:textures\/questpics\/iceandfire\/iaf_ghost.png width:100 height:150 align:center}"
+    ],
+    "quest.14CF23064A6035CD.title": "\\&Spettri",
+    "quest.1713E5D74658F095.quest_desc": [
+        "Le \\&cSirens\\&r assomigliano esattamente alle sirene, metà donna e metà pesce.\n\nLa parte superiore è quella femminile. Inoltre, cambiano forma quando sono arrabbiate.\n\nSi trovano in gruppo nelle \\&cSiren Islands\\&r. Non preoccupatevi, anche se sono metà pesce, possono comunque muoversi sulla terra per attaccarvi... anche se più lentamente.\n\nHanno 150 \\&4Hearts\\&r e non hanno armature. Per compensare la mancanza di armature, possono \\&cIpnotizzarvi\\&r con la loro canzone, se non indossate delle cuffie.\n\nOltre all'ipnosi, hanno anche altri attacchi. Nell'acqua, vi attaccheranno e vi morderanno. Sulla terra, vi colpiranno con le loro artigli.",
+        "{image:atm:textures\/questpics\/iceandfire\/iaf_siren.png width:250 height:100 align:center}"
+    ],
+    "quest.1713E5D74658F095.title": "\\&Sirene",
+    "quest.176D31AF1B0925AA.quest_desc": [
+        "Il \"DragonForge\" è una struttura a 3x3x3 composta da blocchi di \"Dragon Parts\"!\n\nLa prima fila inizia con una croce di \"Dragon Forge Bricks\". Successivamente, riempire gli angoli con \"Dragon Bone Blocks\".",
+        "{image:atm:textures\/questpics\/iceandfire\/chap3_fire1.png width:100 height:100 align:center}",
+        "Il secondo strato avrà il nucleo \"\\&cFire DragonForge Core\\&r\" al centro, con un \"\\&cDragonForge Aperature\\&r\" adiacente, situato all'interno di una parete. Il resto dello strato sarà riempito con \"\\&cFire DragonForge Bricks\\&r\".",
+        "{image:atm:textures\/questpics\/iceandfire\/chap3_fire2.png width:100 height:100 align:center}",
+        "L'ultimo strato è una ripetizione dello strato precedente!",
+        "{image:atm:textures\/questpics\/iceandfire\/chap3_fire4.png width:100 height:100 align:center}",
+        "{@pagebreak}",
+        "Il \"DragonForge\" è un oggetto multi-blocco. Aspetta, pensavamo di dover combattere e interagire con i mostri?\n\nUna volta costruito, possiamo inserire i nostri oggetti nel \"DragonForge\". Si tratta di materiali come ferro o \"Sangue di Drago\", oppure materiali metallici.\n\nIn questo caso, avremo bisogno di \"calore\"! Idealmente, proveniente da un \"Drago\".\n\nPossiamo utilizzare un \"Drago\" addomesticato, se è nelle vicinanze, oppure legare un \"Drago selvatico\" vicino al \"DragonForge\".\n\nChe sia addomesticato o selvatico, l' \"alito di fuoco\" può causare danni se attraversato."
+    ],
+    "quest.176D31AF1B0925AA.title": "\\&c\\&lFabbrica di spade del Drago",
+    "quest.1CB063BBEC35712B.quest_desc": [
+        "Posso capire dal bagliore che emana, che non si tratta di una grotta di \\&Amethyst\\&, bensì di una \\&Grotta dei Draghi Fulminati\\&.\n\nPiù precisamente, si tratta di una \\&Grotta di Livello 4\\& e di una \\&Grotta dei Draghi Fulminati\\&.\n\nQueste \\&grotte\\& sono piene di \\&rame\\& e \\&amethyst\\&, oltre a contenere numerosi tesori.\n\nInoltre, ci sono anche mostri e il \\&drago\\&. Sì, è difficile dimenticarli!",
+        "{image:atm:textures\/questpics\/iceandfire\/iaf_struct_lightningcave.png width:200 height:100 align:center}"
+    ],
+    "quest.1CB063BBEC35712B.title": "\\&5Grotta del Drago Fulmine",
+    "quest.210542B036255FBF.quest_desc": [
+        "Spero che tu abbia ottenuto i guanti in gomma necessari per costruire questo multiblock 3x3x3! Se non li hai, va bene!\n\nInnanzitutto, posa una croce di mattoni \"\\&5Lightning DragonForge\" con mattoni \"\\&7Dragon Bone\" accanto.",
+        "{image:atm:textures\/questpics\/iceandfire\/chap3_light1.png width:100 height:100 align:center}",
+        "Quindi, posizionate un blocco centrale del \"DragonForge Lightning Core\" al centro. Accanto, posizionate un \"DragonForge Lightning Aperature\" e riempite il resto con mattoni \"DragonForge\"!",
+        "{image:atm:textures\/questpics\/iceandfire\/chap3_light2.png width:100 height:100 align:center}",
+        "L'ultimo strato mi sembra familiare... Probabilmente perché è semplicemente lo stesso primo strato!",
+        "{image:atm:textures\/questpics\/iceandfire\/chap3_light4.png width:100 height:100 align:center}",
+        "{@pagebreak}",
+        "Alcuni oggetti dovranno essere \"potenziati\" con energia per essere assemblati! No, non FE, AE o MF... di cosa avremo bisogno?\n\nQuindi, perché non usare i \"Draghi Magici\"! Con la \"Fabbrica dei Draghi\"!\n\nPosizionate gli oggetti nella \"Fabbrica dei Draghi\" e \"potenziateli\" con gli attacchi dei \"Draghi Fulminati\"!\n\nIl \"Drago\" può essere addomesticato o selvaggio, ma i selvaggi non sono i più docili... quindi assicuriamoci che non possano scappare utilizzando le \"Catene\"!"
+    ],
+    "quest.210542B036255FBF.title": "\\&5\\&Fabbrica di armature Lightning Dragon",
+    "quest.2738184B6A688D2C.quest_desc": [
+        "\\&8Piume di Stimphelia\\&r possono essere utilizzate per creare frecce invece delle piume di pollo, per creare \\&8frecce di Stimphelia\\&r.\n\nQueste frecce sono più difficili da creare, ma compenseranno questa difficoltà!\n\nLe frecce volano più velocemente, più lontano e non cadono così facilmente."
+    ],
+    "quest.2738184B6A688D2C.title": "\\&8Frecce di Stmphalian",
+    "quest.2A26CE0E88B62002.quest_desc": [
+        "Quando \"Death the Cyclops\" viene sconfitto, rilascerà alcuni oggetti correlati alla pecora, come agnello e lana, e persino cuoio.\n\nTuttavia, molto raramente, potrebbe rilasciare la sua testa o il suo occhio!\n\nL'occhio di \"Death the Cyclops\", quando tenuto in mano, renderà tutti i nemici ostili nelle vicinanze vulnerabili al \"Debolezza II\".\n\nConsiglio di tenerlo nella mano non dominante, in modo che la mano principale possa utilizzare le armi!"
+    ],
+    "quest.2A26CE0E88B62002.title": "\\&4 Occhio di Ciclope",
+    "quest.2B2BB53FA86A07B7.quest_desc": [
+        "Le uova del Drago di Ghiaccio sono l'opposto delle uova del Drago di Fuoco.\n\nInvece di aver bisogno del calore e dell'affetto del Drago di Fuoco, hanno bisogno dell'isolamento freddo e solitario del Drago di Ghiaccio!\n\nMettete un uovo di Drago di Ghiaccio in dell'acqua e si congelerà.\n\nDopo 6 minuti, l'uovo si schiuderà e ne uscirà un Drago di Ghiaccio!\n\nNon preoccupatevi, possono uscire da entrambi senza aiuto."
+    ],
+    "quest.2B2BB53FA86A07B7.title": "Sfida del secchio di ghiaccio!",
+    "quest.2B84A4377688B189.quest_desc": [
+        "Se siete abbastanza forti da uccidere una \"Serpente Marina\", questa perderà anche i suoi \"denti\" e le \"squame\" associate al suo colore.\n\nI \"denti\" e le \"squame\" saranno necessari per creare le \"Frecce del Mare\" e i \"Tridenti del Mare\", ma solo le \"squame\" vengono utilizzate per creare l'\"Armatura del Guardiano del Mare\"!"
+    ],
+    "quest.2B84A4377688B189.title": "\\&9Squame di serpente marino \\&9Zanne",
+    "quest.2B90982E3B1E545C.quest_desc": [
+        "Il \"Bestiary\" è la guida per studiare le \"Creature\" e il \"Fuoco\".\n\nOk, è rotto? Perché è vuoto?\n\nAvremo bisogno del \"Bestiary\" per aggiungere i \"Manoscritti\" e ottenere le informazioni sulle creature.\n\nBasta inserire sia il \"Bestiary\" che i \"Manoscritti\" nel \"Bestiary\" e selezionare quali informazioni desiderate ottenere. Questo utilizzerà i \"Manoscritti\" e aggiungerà le informazioni alla vostra guida."
+    ],
+    "quest.2B90982E3B1E545C.title": "Guida al gioco",
+    "quest.2D71532A99C167AA.quest_desc": [
+        "\\&3Amphitheres\\&r sono creature gigantesche, neutrali, metà uccello e metà serpente, che si trovano in \\&eThe Other Desert\\&r, e che probabilmente erano venerate come dei da parte di tribù mesoamericane.\n\nHanno il corpo di un serpente con le ali e la testa di un uccello. Queste ali permettono loro di volare sopra \\&eThe Other Desert\\&r.\n\nSono disponibili in questi colori: magenta, rosso, arancione, ciano e blu.\n\nTutti hanno 50 \\&4Hearts\\&r e non indossano armature. Non hanno bisogno di armature quando hanno la velocità!\n\nQuando volano, non attaccheranno, anche se le hai provocato. Invece, cercheranno di scappare. Tuttavia, se le colpisci con un proiettile, cadranno a terra e saranno costrette a rimanere a terra.\n\nA terra, ti morderanno, sfereranno colpi con la loro coda e persino useranno le loro potenti ali per creare raffiche di vento!",
+        "{image:atm:textures\/questpics\/iceandfire\/iaf_amphithere.png width:200 height:100 align:center}"
+    ],
+    "quest.2D71532A99C167AA.title": "\\&3Ampitheres",
+    "quest.2E0FBBE43D92CA42.quest_desc": [
+        "Le catene possono essere utili, ma sono molto deboli!\n\nPerché non optare per un'alternativa più efficace?\n\nLe catene possono essere utilizzate per legare i mostri (inclusi quelli pericolosi come i draghi) e per spostarli.\n\nOppure, possono essere utilizzate per immobilizzare i mostri, ad esempio fissando il collegamento a un muro. Sì, proprio come un muro di pietra!\n\nIndipendentemente da quanto un mostro cerchi di fuggire, il collegamento non si romperà!\n\nTuttavia, se si utilizza il collegamento su un drago, assicurarsi che i muri non possano essere danneggiati dai draghi."
+    ],
+    "quest.2E7D6A54B361B727.quest_desc": [
+        "Con le piume di Stimphelia (e un bastone), possiamo creare un pugnale di Stimphelia! \\n\\nInfligge lo stesso danno di una spada di ferro, ma con una velocità d'attacco molto più elevata. \\n\\nÈ quasi due volte più veloce di una spada normale, e tre volte più veloce di un'ascia!"
+    ],
+    "quest.2E7D6A54B361B727.title": "\\&8Spada di Stimphelia",
+    "quest.315913D32319F010.quest_desc": [
+        "I barattoli possono essere utilizzati per catturare e schiavizzare le \\&dPixies\\&r. Sì, ovviamente, uno dei soli tipi di creature passive presenti in \\&b\\&lIce \\&fand \\&cFire\\&r che schiaveremo!\n\nSe questo vi fa sentire meglio, almeno ne producono 1 \\&dPixie Dust\\&r ogni pochi giorni.\n\nInnanzitutto, basta usare il barattolo su una \\&dPixie\\&r e questa verrà catturata al suo interno.\n\nPoi, potete romperlo per liberarla o lasciarlo e aspettare di raccogliere la \\&dPixie Dust\\&r.\n\nSaprete che la \\&dPixie Dust\\&r è pronta quando sono sedute! Basta fare clic con il tasto destro per raccoglierla."
+    ],
+    "quest.315913D32319F010.title": "Schiavitù delle \"dPixies\"",
+    "quest.3166CA00032C18F7.quest_desc": [
+        "Esistono decine di creature domestiche e mostri controllabili all'interno di \\&b\\&lIce \\&fand \\&cFire\\&r. Fortunatamente, quasi tutte possono essere controllate nello stesso modo!\n\nUtilizzando un bastone!\n\nCliccando con il tasto destro su una creatura domestica o un mostro controllabile con un bastone, è possibile modificare le istruzioni.\n\nTutte hanno istruzioni diverse, ma l'elenco è il seguente: Sedersi\/Rimanere fermo, Vagare, Pattugliare, Seguire\/Accompagnare.\n\n\"Sedersi\/Rimanere fermo\" manterrà la creatura nel punto in cui si trova. Non si muoverà o attaccherà altre creature a meno che non venga ferita, nel qual caso si fermerà.\n\"Vagare\" permetterà alla creatura di muoversi liberamente nella zona in cui si trova. Se la creatura domestica preferisce attaccare altre creature, lo farà quando è in modalità \"Vagare\".\n\n\"Pattugliare\" farà sì che la creatura cammini solo entro una certa distanza dalla sua \"casa\". Quindi, a differenza di \"Vagare\", non si muoverà intorno a te, ma intorno alla sua \"casa\"!\n\n\"Seguire\" farà sì che la creatura ti segua ovunque tu vada!\n\nÈ possibile impostare la \"casa\" di una creatura domestica cliccando con il tasto destro (Shift) su di essa con un bastone."
+    ],
+    "quest.3166CA00032C18F7.title": "Addomesticare e controllare le creature di ghiaccio e di fuoco",
+    "quest.32992E3534B86521.quest_desc": [
+        "\\&lFase 1\\&r e \\&lFase 3\\&r, chiamati \\&cDraghi di Fuoco\\&r, appariranno nei \\&cNidi dei Draghi di Fuoco\\&r.\n\nI \\&cDraghi di Fuoco\\&r saranno disponibili nei seguenti colori: \\&4Rosso\\&f, \\&2Verde smeraldo\\&f, \\&6Bronzo\\&f e \\&8Grigio\\&r. Hanno anche 4 corna sulla testa e una coda simile a un bastone.\n\nI \\&cDraghi di Fuoco\\&r possono essere trovati mentre si vola durante il giorno, attaccando tutti i nemici nelle loro vicinanze nei \\&cNidi\\&r. Una volta che si avvicina, attaccherà. Quindi, cosa dovresti aspettarti che facciano?\n\nI loro \\&cAttacchi di fuoco\\&f sono l'\\&cRespiro di fuoco\\&r, che possono essere utilizzati solo da \\&lFase 2\\&r e superiori. Questo attacco sparerà \\&cfiamme\\&r, bruciando tutto ciò che si trova sulla sua strada. Hanno anche un \\&cAttacco con sfera di fuoco\\&r, simile alla sfera di fuoco del Ghast, ma molto più pericolosa! Questo attacco può essere utilizzato solo da \\&lFase 3\\&r e superiori.\n\nSe ti avvicini troppo, potrebbero anche colpire con la coda, morderti o spingerti dentro la bocca dopo averti morso.\n\nVuoi provare a correre? Voleranno dietro di te. Vuoi provare a nasconderti? Possono distruggere i blocchi con il loro corpo! Sembra che dovrai combattere!\n\nGli \\&lAttacchi elementali delle prime \\&lFasi\\&r non sono così pericolosi, ma la loro capacità di volare e inseguirti lo è. Porta con te qualcosa per impedirgli di fuggire, come catene, oppure usa proiettili per attaccarli!",
+        "{@pagebreak}",
+        "Una volta che avrai ucciso il Drago, otterrai il suo corpo immobile a terra.\n\nClicca con la mano vuota per rimuovere le sue squame. Quindi, rimuoverai la sua carne e il suo cuore.\n\nIn alternativa, puoi usare una bottiglia vuota per raccogliere invece le squame, la carne e il cuore, riempiendo ogni bottiglia con il sangue del Drago.\n\nUna volta raccolti tutti gli elementi, si trasformerà nello scheletro di un drago. Come per quelli presenti nel mondo selvaggio, clicca con la mano vuota per raccogliere le ossa e successivamente lo scheletro."
+    ],
+    "quest.32992E3534B86521.title": "\\& Fase 1-3 \\& Drago di Fuoco",
+    "quest.32C45C6C811FB5F9.quest_desc": [
+        "Sembra che i \"dPixies\" amino il \"Cake\". Se glielo offri semplicemente, diventeranno tuoi amici!\n\nUna volta che sono tuoi amici, ti seguiranno, a meno che tu non glielo dica di sedersi e rimanere fermi.\n\nA questo punto, i loro colori diventano importanti, perché ogni colore avrà un effetto diverso su di te quando sarai vicino e li avrai fatti diventare tuoi amici!\n\n*   **Blu:** conferisce velocità.\n*   **Rosa:** conferisce forza.\n*   **Giallo:** conferisce agilità.\n*   **Verde:** conferisce fortuna.\n*   **Viola:** conferisce un aumento della capacità di salto."
+    ],
+    "quest.32C45C6C811FB5F9.title": "Fare amicizia con i Pixies",
+    "quest.37DB7871590921CF.quest_desc": [
+        "\\&bIl hippocampus\\&r può essere addomesticato! Alimentandolo con alghe.\n\nUna volta addomesticato, è possibile cavalcarlo facendo clic con il tasto destro con una sella, proprio come un cavallo.\n\nPuò muoversi lentamente sulla terra o nuotare rapidamente. Quando è in acqua, sulla sua schiena, si potrà respirare!\n\nPuò anche saltare! Ma non troppo in alto..."
+    ],
+    "quest.37DB7871590921CF.title": "\\&mManatee\\&r \\&bHippocampus\\&r: Addomesticamento",
+    "quest.3804364077F4BAD4.quest_desc": [
+        "È estremamente raro che le \\&dPixies\\&r perdano le loro \\&dWings\\&r al momento della morte. Non ne avranno più bisogno, dato che sono morte… ma dovresti comunque provare un senso di colpa per averle uccise!\n\nOppure, invece di piangere la perdita di una vita innocente, potresti creare un'arma utilizzando i loro resti.\n\nUomo, sei davvero un mostro.\n\nLa \\&dPixie Wand\\&r utilizzerà la \\&dPixie Dust\\&r per sparare un \\&dPixe Beam\\&r! Questo colpirà e darà levitazione e luminosità a qualsiasi cosa tocchi."
+    ],
+    "quest.3804364077F4BAD4.title": "\\&dPixie Wand",
+    "quest.38CAB3EF0D89B8F4.quest_desc": [
+        "È vero che a volte si dice che gli uccelli sono i parenti più stretti dei dinosauri. E il \"Cockatrice\" è la ragione!\n\nIl \"Cockatrice\" ha la forma e la potenza letale dei Raptors di \"Jurassic Park\", pur apparendo quasi esattamente come un pollo!\n\nTecnicamente, sono neutrali e hanno 140 punti di salute, con 2 punti di armatura.\n\nSono neutrali come gli \"Endermen\", quindi non cercate di attaccarli, né di guardarli negli occhi.\n\nSì, gli occhi del \"Cockatrice\" sono letali: se li guardate, risulterete colpiti da \"Wither\", nausea, lentezza e debolezza. Potete indossare una benda per bloccare il loro attacco, ma in questo modo, lo considereranno una minaccia e utilizzeranno un altro attacco: semplicemente, vi calpesteranno.\n\nNon li biasimo, l'unico motivo per cui si indossa una benda è per uccidere un \"Gorgon\" o un \"Cockatrice\", e non vedo alcun \"Gorgon\" qui!",
+        "{image:atm:textures\/questpics\/iceandfire\/iaf_cockatrice.png width:200 height:100 align:center}"
+    ],
+    "quest.38CAB3EF0D89B8F4.title": "\\&8Cockatrice",
+    "quest.39107884D6C80D41.quest_desc": [
+        "\\&aIngots Fantasma\\&r (e \\&aEctoplasma\\&r) sono oggetti ottenibili solo dai \\&aSpettri\\&r, che appaiono nel \\&aTerreno del Cimitero\\&r.\n\nPossiamo combinare un \\&aIngot Fantasma\\&r con una \\&Spada di Osso di Drago\\&r per creare la \\&Spada Fantasma\\&r!\n\nAttualmente, si comporta come una normale spada, ma una volta fissata, sparerà verso i mostri, anche attraverso gli ostacoli!"
+    ],
+    "quest.39107884D6C80D41.title": "\\& Lama Fantasma",
+    "quest.395417A7ABC3658F.quest_desc": [
+        "L'oggetto \"\\&2Testa di Orco\" è l'unico oggetto ottenibile dal mostro \"\\&2Orco\".\n\nHa un solo utilizzo: una volta utilizzato, l'oggetto viene distrutto.\n\nSe si tiene premuto il tasto destro mentre si guarda un mostro, e poi si rilascia, il mostro si trasformerà in una \"\\&7Statua di Pietra\".\n\nIl mostro morirà, ma non darà alcun oggetto."
+    ],
+    "quest.395417A7ABC3658F.title": "\\&Testa di Medusa",
+    "quest.3C0671BE5E94730E.quest_desc": [
+        "Gli \\&4\\&lCyclops\\&r si trovano all'interno o nei pressi delle loro \\&4\\&rCripte\\&r.\n\nSono creature di dimensioni giganti, simili agli umani. Misurano circa 10 blocchi di altezza e indossano solo una tunica di lana. Come gli umani, possono avere o non avere la barba. Come alcuni umani, ne hanno solo una, e a differenza di tutti gli altri, hanno un corno sulla testa.\n\nGli \\&4\\&lCyclops\\&r hanno 650 \\&4\\&rPunti Vita\\&r e 20 \\&7Punti Armatura\\&r.\n\nIl loro unico attacco è quello di afferrare e mordere la testa. Questo attacco infligge un danno enorme e ignora l'armatura.\n\nPossono anche attaccarti se sei lontano. Possono correre attraverso alcuni blocchi, come le foglie, ma gli altri li colpiranno.\n\nIl loro unico attacco è a distanza ravvicinata, quindi è meglio affrontarli da lontano con un arco o la magia! Se sei bravo a sparare con l'arco, puoi colpirli nell'\\&4occhio\\&r (che sembra più vicino al corno) per accecarli!\n\nQuesto infliggerà 10 \\&4\\&rPunti Vita\\&r e renderà più difficile per loro trovarti.",
+        "{image:atm:textures\/questpics\/iceandfire\/iaf_cyclops.png width:100 height:200 align:center}"
+    ],
+    "quest.3C0671BE5E94730E.title": "\\&4\\&lCyclops",
+    "quest.3D88FEFA4C63CB20.quest_desc": [
+        "Questo contenuto è stato creato da \\&6AllTheMods Staff\\&r, oppure da un \\&2contributore della community\\&r, per l'uso nei pacchetti di mod di AllTheMods.\\n\\nPoiché tutti i pacchetti di AllTheMods sono soggetti al copyright \\&eTutti i diritti riservati\\&r, questo contenuto non può essere utilizzato in altri pacchetti pubblici, a meno che non sia stato rilasciato dal team di AllTheMods, previa autorizzazione esplicita.\\n\\nQuesto contenuto è stato intenzionalmente nascosto. Se lo state visualizzando, siete in modalità di modifica."
+    ],
+    "quest.406433F7FF3B0E7B.quest_desc": [
+        "\\&b\"Acciaio di Drago di Ghiaccio\"\\&r è prodotto combinando \\&b\"Sangue di Drago di Ghiaccio\"\\&r e \\&7\"Ferro\"\\&r in una \\&b\"Fonderia di Drago di Ghiaccio\"\\&r.\n\nPossiamo creare armi con questo materiale! Queste armi infliggeranno un danno enorme, oltre a congelare i mostri colpiti.\n\nInoltre, vengono fornite anche armature. Queste armature forniscono un'enorme quantità di statistiche e hanno un aspetto fantastico! Inoltre, ci proteggono ulteriormente dagli attacchi elementali dei \\&b\"Draghi\"\\&r!\n\nMa perché dovremmo solo ottenere armature per noi? E cosa ne pensiamo delle armature per i nostri \\&b\"Draghi\"\\&r? Questo richiede un costo molto maggiore, ma fornirà una protezione enorme, in particolare contro altri \\&b\"Draghi\"\\&r."
+    ],
+    "quest.406433F7FF3B0E7B.title": "\\&B Dragonsteel",
+    "quest.41C7DEAB41F4B700.quest_desc": [
+        "Le Gorgoni erano donne vanitose, per le quali sono state maledette. Ora sono diventate mostri metà serpente e metà donna, con capelli a forma di serpente.\n\nLe Gorgoni hanno 300 punti salute e 2 punti di armatura.\n\nPossono lanciare un attacco molto potente che ucciderà qualsiasi creatura che vedono. Possono trasformare le creature in statue di pietra semplicemente guardandole negli occhi.\n\nQuesto attacco trasformerà qualsiasi creatura in una statua di pietra, uccidendo la creatura ma senza farle ottenere oggetti. Questo attacco ucciderà anche il giocatore.\n\nA meno che non si indossi una benda! Questo fornirà una leggera cecità, ma impedirà la morte immediata. Inoltre, possono semplicemente attaccare.",
+        "{image:atm:textures\/questpics\/iceandfire\/iaf_gorgon.png width:100 height:150 align:center}"
+    ],
+    "quest.41C7DEAB41F4B700.title": "A \\&2\\&Gorgon",
+    "quest.41F9CC26C7D86AE9.quest_desc": [
+        "Con un \"Hippocampus Fin\" e un bastone, possiamo creare l'arma più potente in assoluto per Minecraft!\n\nL'\"Hippocampus Slapper\"!\n\nNo, non infliggerà il massimo danno... ma infliggerà ai mob colpiti con esso un effetto di \"Slowness III\" e \"Nausea III\"!\n\nOk, ok, non è l'arma più potente, è più un'arma divertente... ma comunque!"
+    ],
+    "quest.41F9CC26C7D86AE9.title": "\\&bHippocampus Slapper",
+    "quest.42626A0CD814353D.quest_desc": [
+        "I \"Draghi Fulminei\" trascorreranno le loro giornate all'interno dei loro nidi, situati al di sopra del terreno.\n\nSembrano esattamente come i \"Nidi dei Draghi di Fuoco\", ma invece di essere \"bruciati\", sono \"incrostati di crepe\"! E invece di essere dorati, sono di rame!\n\nCerto, il \"Drago\" più difficile (il \"5\") ottiene il \"6\" più difficile... ha senso.\n\nQuesti saranno i luoghi in cui appariranno le fasi 1, 2 e 3.",
+        "{image:atm:textures\/questpics\/iceandfire\/iaf_struct_lightningroost.png width:200 height:100 align:center}"
+    ],
+    "quest.42626A0CD814353D.title": "\\&5Nido del Drago Fulmine",
+    "quest.43008E93B34F4F06.quest_desc": [
+        "Con squame di serpente marino, zanne e un bastone, possiamo creare una freccia per l'acqua.\n\nQueste funzionano come le normali frecce, ma non saranno rallentate dall'acqua."
+    ],
+    "quest.43008E93B34F4F06.title": "\\&9Puntali di navigazione",
+    "quest.435890CE1A1B3C04.quest_desc": [
+        "E le \"Grotte dei Ciclope\" fortunatamente non si trovano sotto terra! Invece, appaiono sopra la superficie in \"The Other Desert\".\n\nLe riconoscete dal loro aspetto: sono semplicemente grandi cupole composte interamente di \"Pietra\"!\n\nAll'interno della \"Grotta dei Ciclope\" troverete il \"Ciclope\" e le sue pecore! Le pecore sono all'interno delle loro recinzioni e sono bianche o di colore \"Giallo\".\n\nI tesori all'interno della \"Grotta\" sono principalmente legati alle pecore: lana, forbici da lana, e persino carne di pecora... Inoltre, si possono trovare anche \"Grandi mucchi d'oro\"!",
+        "{image:atm:textures\/questpics\/iceandfire\/iaf_struct_cyclops.png width:200 height:100 align:center}"
+    ],
+    "quest.435890CE1A1B3C04.title": "\\&4La Grotta di Cyclop",
+    "quest.43630EF0B85AE7E1.quest_desc": [
+        "Profondamente nel terreno, possiamo trovare una vasta e oscura grotta.\n\nCon dimensioni di circa un metro di lunghezza, larghezza e altezza. Piena di oro e casse.\n\nA causa dell'oscurità, potrebbero comparire più nemici. Tuttavia, all'interno della grotta si troverà un enorme drago di fuoco.\n\nLo stesso drago che ha devastato i villaggi nell'era oscura. Ancora più potente di qualsiasi altro drago presente in superficie.\n\nSi tratta dei draghi di livello 4 e dei 5 draghi di livello 5.\n\nSono la personificazione dei peggiori incubi.",
+        "{image:atm:textures\/questpics\/iceandfire\/iaf_struct_firecave.png width:200 height:100 align:center}"
+    ],
+    "quest.43630EF0B85AE7E1.title": "E altre grotte del Drago di Fuoco",
+    "quest.43922DB543DC05C0.quest_desc": [
+        "\\&lFase 1\\&r e successive, gli \\&lDraghi di Ghiaccio\\&r, appariranno nei \\&bNidi dei Draghi di Ghiaccio\\&r.\n\nGli \\&lDraghi di Ghiaccio\\&r sono disponibili in colori \\&bBlu\\&f, Bianco, \\&9Saffirino\\&r e \\&7Argento\\&r. Hanno anche 6 corna sulla testa e una sull'naso, oltre a una coda simile a un'ala.\n\nGli \\&lDraghi di Ghiaccio\\&r possono essere trovati mentre volano o addirittura nuotano nei \\&bNidi dei Draghi di Ghiaccio\\&r, nelle biomi innevati. Quando rilevano un intruso, utilizzeranno una dozzina di attacchi terrificanti per affrontarti. Ad esempio:\n\nIl loro \\&bRespiro di Ghiaccio\\&r, che \\&bCongela\\&r giocatori e blocchi sul loro cammino. Solo gli \\&lDraghi di Ghiaccio\\&r della \\&lFase 2\\&r e successive possono utilizzare il \\&bRespiro di Ghiaccio\\&r. Se questo non fosse sufficiente, possono anche spararti un \\&bPalla di Ghiaccio\\&r. Queste esploderanno e \\&bCongeleranno\\&r ogni mob nelle vicinanze! Fortunatamente, solo gli \\&lDraghi di Ghiaccio\\&r della \\&lFase 3\\&r e successive possono utilizzare questo attacco.\n\nInoltre, possono anche colpire con la coda, morderti o mutilare il tuo corpo con la bocca, oltre a usare le ali per spingerti via.\n\nI loro \\&bAttacchi di Ghiaccio\\&r possono \\&bCongelare\\&r e danneggiare, quindi è meglio evitarli il più possibile. Mantieni la distanza e non aver paura di cercare riparo. Gli animali volanti non saranno molto utili se vengono \\&bCongelati\\&r nel cielo!",
+        "{@pagebreak}",
+        "Dopo aver sconfitto il Drago di Ghiaccio e ottenuto la vittoria, il Drago di Ghiaccio diventerà un cadavere. Fate attenzione a non perderlo tra la neve e il ghiaccio.\n\nQuindi, cliccate con il tasto destro del mouse sul cadavere con una mano vuota e questo rimuoverà le squame, la carne e il cuore del Drago di Ghiaccio.\n\nInvece di cliccare con il tasto destro del mouse con una mano vuota, perché non usare una bottiglia vuota? Questo ci darà il sangue del Drago di Ghiaccio invece delle squame e della carne.\n\nUna volta rimosse tutte le parti appetibili, diventerà uno scheletro di Drago. Quindi, potete rimuovere le ossa e lo scheletro, nello stesso modo in cui avete ottenuto le squame e il sangue!"
+    ],
+    "quest.43922DB543DC05C0.title": "\\&lFase 1-3 \\&bDrago di Ghiaccio",
+    "quest.445DB66B81146E91.quest_desc": [
+        "Il macuahuitl era un'arma utilizzata da molte tribù mesoamericane. Solitamente consisteva in un bastone con frammenti di ossidiana incastonati.\n\nL'ossidiana, nella realtà, è molto più fragile e affilata di quanto appaia nel gioco. Quando le persone venivano colpite con il macuahuitl, i frammenti di ossidiana le ferivano gravemente, causando danni irreparabili!\n\nL'Amphithere Macuahuitl è utilizzato e realizzato in modo simile alla versione reale, ma le piume di Amphithere lo rendono ancora più potente!\n\nOra, questo oggetto li lancia indietro e li stordisce così tanto che non saranno nemmeno in grado di difendersi con uno scudo!"
+    ],
+    "quest.445DB66B81146E91.title": "\\&3Amphithere Macuahuitl",
+    "quest.45068FB6758D3BA1.quest_desc": [
+        "Il \"Ice DragonForge\" è una struttura a 3x3x3 realizzata con \"Ice DragonForge\" e \"Bricks\"!\n\nIl primo strato inizia con una croce realizzata con \"Ice DragonForge\". Per completare il quadrato, avremo bisogno di \"Dragon Bone Blocks\".",
+        "{image:atm:textures\/questpics\/iceandfire\/chap3_ice1.png width:100 height:100 align:center}",
+        "Il secondo strato è più complesso. Posizionate il \\&bIce DragonForge Core\\&r al centro, con un \\&bIce DragonForge Aperature\\&r accanto. Il resto di questo strato è composto esclusivamente da \\&bIce DragonForge Bricks\\&r.",
+        "{image:atm:textures\/questpics\/iceandfire\/chap3_ice2.png width:100 height:100 align:center}",
+        "Ricordate il primo strato? Ripetiamolo, ma stavolta solo sulla superficie!",
+        "{image:atm:textures\/questpics\/iceandfire\/chap3_ice4.png width:100 height:100 align:center}",
+        "{@pagebreak}",
+        "Il \"DragonForge\" utilizza il calore interno dei \"Draghi di Ghiaccio\" per raffreddare gli oggetti a temperature così basse da fondere insieme!\n\nChe si tratti di fondere ferro e \"sangue di drago di ghiaccio\" per ottenere \"acciaio di drago di ghiaccio\" o altri materiali!\n\nDovremo inserire questi materiali nel \"DragonForge\" e poi raffreddarli.\n\nAspetta, il \"ghiaccio blu\" non è sufficiente? Cosa potrebbe essere ancora più freddo del \"ghiaccio blu\"?\n\n\"Respiro di drago di ghiaccio\"! Possiamo utilizzare qualsiasi \"drago di ghiaccio\" nelle vicinanze, che sia addomesticato o selvaggio e legato."
+    ],
+    "quest.45068FB6758D3BA1.title": "\\&b\\&lIce DragonForge",
+    "quest.45084D3A3E5DB63B.quest_desc": [
+        "I troll possono far cadere una dozzina di oggetti diversi! Questi sono principalmente determinati dal loro ambiente.\n\nTuttavia, tutti i troll faranno cadere zanne, la loro pelle e le armi che possiedono.\n\nZanne e pelle vengono utilizzate per creare armature in pelle di troll."
+    ],
+    "quest.45084D3A3E5DB63B.title": "\\&8Pelle di troll \\&8Zanne",
+    "quest.46AADB01BBD156D2.quest_desc": [
+        "Possiamo addomesticare il Cockatrice in 2 modi diversi: 1. Utilizzando un uovo marcio. 2. Attraverso un duro lavoro.\n\nLanciando un uovo marcio, otterremo un piccolo Cockatrice, che sarà addomesticato. Oppure, possiamo semplicemente sopportare di guardare un Cockatrice per un periodo di tempo sufficiente.\n\nUn Cockatrice addomesticato non ti danneggerà se lo guardi negli occhi; anzi, ti difenderà!\n\nCome i cani, attaccherà i mostri, ucciderà qualsiasi cosa che ti attacchi, e persino utilizzerà i suoi raggi oculari contro di loro!"
+    ],
+    "quest.46AADB01BBD156D2.title": "Ho vinto la sfida a chi riesce a mantenere lo sguardo più a lungo.",
+    "quest.47A7F4972D58A7D5.quest_desc": [
+        "E, naturalmente, i draghi domati cresceranno nel tempo. Aumenteranno in termini di \\&lFase\\&r, \\&4Cuore\\&f, \\&7Armatura\\&r, e molto altro!\n\nCi vorrà del tempo... e noi non lo apprezziamo.\n\nPreparate quindi un po' di \\&cCibo per draghi!\n\nQuando un \\&cDrago domato \\&r mangerà \\&cCibo per draghi\\&r, in pochi morsi raggiungerà la fase successiva!"
+    ],
+    "quest.47A7F4972D58A7D5.title": "Alimentare il tuo Drago",
+    "quest.47E4BA6643A4BA85.quest_desc": [
+        "Addomesticare un \\&3Amphithere\\&r è simile a come gli umani hanno addomesticato i lupi. Richiede molte mordite...\n\nInnanzitutto, dovrai colpire un \\&3Amphithere\\&r volante con un proiettile per farlo cadere dal \\&bSky\\&r.\n\nQuindi, puoi fare clic con il tasto destro per salire sulla sua schiena. Come faresti con un cavallo! Ma questo cavallo ti morderà.\n\nPer addomesticarlo, dovrai sopravvivere a ogni morso e rimanere sulla sua schiena. Alla fine, si rassegnerà e ti amerà.\n\nUna volta che ti amerà, potrai cavalcarlo! I controlli sono un po' strani, ma una volta che lo hai provato (e hai letto questa guida), spero che tu li capisca meglio!\n\nQuando lo cavalchi, puoi premere e tenere premuto lo spazio per far volare l'\\&3Amphithere\\&r verso l'alto. Questo lo farà volare direttamente verso l'alto dalla sua posizione attuale. Quando lo rilasci, inizierà a ricadere a terra.\n\nQuando voli, puoi usare i tasti WASD per muoverti in ogni direzione, ma puoi anche usare il cursore del mouse per indirizzarlo in modo che voli verso l'alto o verso il basso quando non usi la barra spaziatrice.\n\nCome le \\&eDeath Worms\\&r, quando lo cavalchi, puoi usare (G) per attaccare con l'\\&3Amphithere\\&r."
+    ],
+    "quest.47E4BA6643A4BA85.title": "Addomesticare l'Amphithere",
+    "quest.48B1BD7D86CAC4A0.quest_desc": [
+        "No, non è come quello in \"The Nether\". Va bene, è simile a quello in \"The Nether\".\n\nÈ pieno di \"Soul Sand\".\n\nBasta rimuovere i fossili e aggiungere più fori, e otterrai questo!\n\nInoltre, si trova in \"The Other\"!"
+    ],
+    "quest.48B1BD7D86CAC4A0.title": "\\&7La Valle di Sabbia dell'Altra Anima",
+    "quest.4A84C8578C2F7F71.quest_desc": [
+        "Con alcune \"Scaglie di verme mortale\" e \"Lingue di verme mortale\" (oltre a una \"Catena\"), possiamo creare dei \"Guanti di verme mortale\"!\n\nQuesti agiscono essenzialmente come le parti pericolose dei \"vermi mortali\".\n\nPossiamo fare clic con il tasto destro per lanciare la \"lingua del verme mortale\" contro i mostri. Se colpisce, infliggerà dei danni e li attirerà verso di noi.\n\nPurtroppo, ha un periodo di ricarica... la \"lingua\" deve essere riportata indietro."
+    ],
+    "quest.4A84C8578C2F7F71.title": "\\& \"Gauntlet del Death Worm\"",
+    "quest.4AFDC9ACAC926654.quest_desc": [
+        "A volte, le uova di gallina possono essere speciali. Ad esempio, si possono ottenere uova con 2 tuorli o schiudere 4 pulcini! O addirittura, schiudere dei dinosauri!\n\nAspetta... cosa?\n\nA volte, le galline possono deporre uova marce. Queste uova marce possono essere utilizzate per far nascere un \\&0Piccolo Cockatrice!\n\nQuesti \\&0Piccoli Cockatrices\\&r saranno automaticamente addomesticati e dovranno crescere."
+    ],
+    "quest.4AFDC9ACAC926654.title": "\\&0Uovo marcio",
+    "quest.4B65720872B062F8.quest_desc": [
+        "\\&lFase 1\\&r, da livello 3 a 5, i Draghi Fulminei \\&r appariranno nei \\&5Nidi di Draghi Fulminei\\&r.\n\nSono disponibili in \\&9Blu Elettrico\\&r, \\&dAmethysto\\&f, \\&6Cobre\\&f, e \\&0Nero\\&r. I Draghi Fulminei \\&r hanno 6 corna, presenti solo sulla testa, oltre a una coda spinosa!\n\nAspetta, questi \\&5\\&lDraghi\\&r non sono attivi durante il \\&9giorno\\&r! In realtà, sono notturni. Dormiranno durante il \\&e giorno\\&r e caccieranno durante la \\&9 notte\\&r. Semplicemente dormono in piedi, il che può creare confusione.\n\nI Draghi Fulminei \\&r sono considerati i più potenti \\&5\\&lDraghi\\&r, semplicemente per il danno che possono infliggere al giocatore. I loro \\&5Attacchi Elementali\\&r non causeranno effetti come il \\&bCongelamento\\&f o l'incendio, ma infliggeranno invece danni ancora maggiori!\n\nIl loro \\&5Respiro Fulmineo\\&r li seguirà ovunque si trovino, mentre la loro \\&5Palla Fulminante\\&r causerà un'enorme esplosione!\n\nNon preoccuparti, non è tutto ciò che possono fare! Possono anche colpire, mordere, lacerarti e respingerti con la forza delle loro ali.\n\nÈ meglio combattere i Draghi Fulminei \\&r durante il \\&e giorno\\&r, in modo da avere meno nemici e saranno addormentati. Avrai anche bisogno di molta armatura e resistenza per sopportare i loro attacchi!",
+        "{@pagebreak}",
+        "Hai ucciso una creatura? Un \"Drago Fulmine\"? Come?\n\nBeh, se non stai mentendo e la creatura non è semplicemente addormentata, dovrebbe essere morta.\nClicca con il tasto destro sul \"Drago Fulmine\" morto, tenendo premuto il tasto \"prendi\", per rimuovere le sue squame, la sua carne e il suo cuore.\nSe clicchi con il tasto destro sul corpo del \"Drago Fulmine\" tenendo premuto il tasto \"prendi\", invece di ottenere le squame, la carne e il cuore, otterrai il suo sangue.\nDopo aver rimosso le squame e il sangue, il corpo si trasformerà in uno scheletro di \"Drago\".\nBasta cliccare con il tasto destro sullo scheletro tenendo premuto il tasto \"prendi\" per ottenere le ossa e lo scheletro dal tuo uccisione."
+    ],
+    "quest.4B65720872B062F8.title": "\\&Stadio 1-3 \\&5 Drago Fulminoso",
+    "quest.4ED6B18DF7D51E13.quest_desc": [
+        "«Le «Vermiformi Morti» sono creature simili a verme che si annidano nella sabbia del deserto.\n\nHanno tre colori: bianco, marrone chiaro e rosso. Tuttavia, hanno tutte un aspetto simile: una grande bocca piena di denti e un corpo con punte scure. Questo è tutto! Non hanno occhi, naso, orecchie, o qualsiasi altra cosa.\n\nSono disponibili in una vasta gamma di dimensioni, da appena un quarto di un blocco in larghezza a 3x3 blocchi in larghezza. La loro dimensione determinerà anche la loro salute, da 50 a oltre 300. Tuttavia, tutte hanno 4 punti di difesa!\n\nTutti i «Vermiformi Morti» si annidiranno sotto la sabbia e attaccheranno quando ti vedono. Quindi, saliranno per morderti! Se sono più grandi, alcuni potrebbero addirittura saltare fuori dalla sabbia e cadere su di te. Questo spargerà la sabbia ovunque se sono abbastanza grandi!\n\nDovrai aspettare che escano dalla sabbia per attaccarti… oppure puoi accendere un piccolo fuoco vicino a loro e li inghiotteranno!",
+        "{image:atm:textures\/questpics\/iceandfire\/iaf_worm.png width:100 height:100 align:center}"
+    ],
+    "quest.4ED6B18DF7D51E13.title": "\\& Vermi morti",
+    "quest.59D91C5E11F67FC3.quest_desc": [
+        "Un'alternativa alla \"Foresta Antica Distorta\".\n\nQuesta \"foresta\" presenta un terreno di \"Nylium cremisi\" con \"Netherrack\" sottostante.\n\nInvece degli \"Alberi dell'Anima\", questa \"foresta\" è popolata da \"Alberi Demoniaci\". Che spaventa!"
+    ],
+    "quest.59D91C5E11F67FC3.title": "E così via: Antica Foresta Rossa",
+    "quest.5D6A4E574823446F.quest_desc": [
+        "Tutti i \"Troll\" (8Trolls) avranno 500 \"Cuori\" e 10 \"Punti di Armatura\".\n\nAttaccheranno con le loro armi per infliggere un certo danno, ma se non riescono a raggiungerti, colpiranno il terreno con le loro armi per infliggere più danni e spingerti indietro!\n\nFortunatamente, i \"Troll\" hanno una debolezza! Come i troll nella vita reale, odiano il \"Sole\" e si trasformano in \"Pietra\" quando sono esposti a esso! Sarebbe bello se non ci fosse sempre \"Notte\" in \"The Other\".\n\nTutti i \"Troll\" sono alti circa 4 blocchi e hanno zanne con occhi luminosi. Possono anche brandire \"Troll Axe\" e \"Hammer\".\n\nI \"Forest Trolls\" hanno la pelle grigia e non hanno i capelli, ma hanno occhi gialli. Oltre a \"Axe\" e \"Hammer\", possono anche brandire \"Mossy Stone Columns\" e \"Tree Trunks\". Appaiono in \"Ancient Crimson Forest\".\n\nI \"Frost Trolls\" hanno la pelle di colore blu chiaro\/grigio e i capelli bianchi. Oltre a \"Frosted Tree Trunks\" e \"Frosted Columns\" come armi, possono anche brandire \"Axe\" e \"Hammer\". Appaiono in \"Ancient Warped Forests\".\n\nI \"Mountain Trolls\" assomigliano a una versione più leggera dei \"Forest Trolls\", ma questi brandiscono solo \"Stone Columns\" e non \"Tree Trunks\". Appaiono nel bioma \"The Other\".",
+        "{image:atm:textures\/questpics\/iceandfire\/iaf_troll.png width:100 height:200 align:center}"
+    ],
+    "quest.5D6A4E574823446F.title": "\\&8Orchi",
+    "quest.5E45C9C2D72EDBCC.quest_desc": [
+        "Mentre passeggiate nella \\&cForesta Rossa\\&r, potreste sentire dei risate.\n\nAnche se può sembrare divertente in un parco o a casa, nella \\&cforesta\\&r è un po' più inquietante!\n\nMa non preoccupatevi, quelle risate sono molto amichevoli. Provengono dalle \\&dfate\\&r all'interno dei \\&dvillaggi delle fate\\&r!\n\nI \\&dvillaggi delle fate\\&r sono piccoli tronchi e funghi trasformati in abitazioni per le \\&dfate\\&r!",
+        "{image:atm:textures\/questpics\/iceandfire\/iaf_struct_pixie.png width:200 height:100 align:center}"
+    ],
+    "quest.5E45C9C2D72EDBCC.title": "\\&Villaggio Pixie",
+    "quest.6009E239E2E15236.quest_desc": [
+        "Gli Hippogryths sono creature composte da parti di cavallo e aquila. La parte posteriore è quella di un cavallo, mentre la parte anteriore è simile a quella di un'aquila.\n\nSono creature molto veloci grazie alle loro ali, e possiedono 20 e 4 cuori.\n\nGli Hippogryths non si avvicinano per attaccare, ma se ti avvicini troppo, si difenderanno. Utilizzeranno i loro artigli per infliggere qualche danno o per spingerti in aria per farti cadere.\n\nPotrebbe essere meglio cercare di addomesticarli... a meno che tu non voglia davvero la spada \"Hippogryth Talon\".",
+        "{image:atm:textures\/questpics\/iceandfire\/iaf_hippogryth.png width:130 height:100 align:center}"
+    ],
+    "quest.6009E239E2E15236.title": "Hippogryth",
+    "quest.617C6D6C35B4917D.quest_desc": [
+        "\\&dPixies\\&r sono creature alate, luminose e piccole che vivono all'interno e intorno ai loro \\&dPixie Villages\\&r!\n\nAssomigliano a giocatori, ma sono più piccole, simili a Vexes. Sono disponibili in diversi colori: blu, verde, giallo, rosa e viola. Questo sarà importante in seguito.\n\nHanno solo 5 cuori e sono completamente passive. Finalmente, una creatura interessante!\n\nInvece di ucciderle (sembrano non apprezzarlo, tendono a lamentarsi), possiamo addomesticarle o schiavizzarle!\n\nNon preoccupatevi, voi mostruosi e immorali individui, lo schiavistamento offre più ricompense rispetto all'uccisione!",
+        "{image:atm:textures\/questpics\/iceandfire\/iaf_pixie.png width:100 height:125 align:center}"
+    ],
+    "quest.617C6D6C35B4917D.title": "\\&dPixies",
+    "quest.65E98FCE27B552F4.quest_desc": [
+        "\\&aLe punte di Hydra\\&r sono un oggetto comune che si ottiene dagli \\&aHydra\\&r.\n\nPossiamo utilizzarle al posto del pietra per creare frecce normali, ma possiamo creare anche \\&aFrecce di Hydra\\&r.\n\nLe \\&aFrecce di Hydra\\&r infliggono il veleno alla creatura bersaglio, e in cambio, vi restituiscono una parte della salute che hanno perso."
+    ],
+    "quest.65E98FCE27B552F4.title": "\\&aHydra Arrows",
+    "quest.661114AFCBBD5F28.quest_desc": [
+        "\\&aCimiteri\\&r compaiono frequentemente in \\&3The Other\\&r. A proposito, assomigliano ai cimiteri.\n\nQui possiamo trovare \\&aCubi maledetti\\&r e \\&aTerreno del cimitero\\&r, che appaiono naturalmente.\n\nInoltre, possiamo trovare \\&aRose maledette\\&r e \\&aCranio di scheletro\\&r, oltre a oggetti all'interno del \\&aCubo maledetto\\&r.",
+        "{image:atm:textures\/questpics\/iceandfire\/iaf_struct_ghost.png width:200 height:100 align:center}"
+    ],
+    "quest.661114AFCBBD5F28.title": "\\&Un cimitero",
+    "quest.666FFDFDB7C869F5.quest_desc": [
+        "Gli \"Uccelli di Stimpalia\" sembrano essere uccelli fatti di \"metallo\". Almeno, questa è la mia impressione basata sulla mia esperienza di averli incontrati e attaccati.\n\nSono uccelli marroni con \"becco grigio\" e \"artigli\". Si muovono anche in gruppo e sono tutti ostili.\n\nGli \"Uccelli di Stimpalia\" hanno 12 \"cuori\" e 4 \"punti di armatura\".\n\nHanno 2 tipi di attacco: 1. è un attacco molto basilare, che consiste nel lanciare semplicemente le loro \"piume\" contro di te. Non infliggono molto danno, ma hanno un effetto di \"knockback\" molto forte e sono molto veloci! 2. è semplicemente un morso, che infligge più danni delle \"piume\".\n\nPossono anche volare verso di te o ritirarsi molto rapidamente!\n\nUn singolo uccello non rappresenta un grosso problema, ma di solito non attaccano da soli. È meglio affrontarli uno alla volta e avvicinarsi rapidamente.",
+        "{image:atm:textures\/questpics\/iceandfire\/iaf_bird.png width:200 height:100 align:center}"
+    ],
+    "quest.666FFDFDB7C869F5.title": "\\&8Uccelli di Stimphelia",
+    "quest.6774BBE7C7C5D7EB.quest_desc": [
+        "Tutti i \"Death Worms\" dropperanno \"Chitine\" correlate al loro colore.\n\nLe \"Chitine\" possono essere utilizzate per creare \"Armatura in Chitina per Death Worms\" e \"Guanti in Chitina per Death Worms\"!\n\nTuttavia, sarà necessario utilizzare le stesse \"Chitine\" per entrambi gli oggetti, senza possibilità di mescolarle."
+    ],
+    "quest.6774BBE7C7C5D7EB.title": "\\&Guscio di verme \"Death Worm\"",
+    "quest.6800E0113DE9A4DB.quest_desc": [
+        "\\&c\\&lDragons\\&r sono solo i mostri più pericolosi e importanti in tutto il gioco \\&b\\&lIce \\&fand \\&cFire\\&r!\n\nL'elemento del \\&c\\&lDragon\\&r determina in quale bioma appaiono.\n\nHanno diversi stadi (dal 1 al 5). Questi determinano la loro \\&4Salute\\&r, i danni, gli oggetti ottenibili e la possibilità di apparire.\n\nDovremo trovare, uccidere e persino addomesticare alcuni di questi mostri per ottenere alcuni degli oggetti più preziosi in \\&6\\&lATM10\\&r!\n\nInizialmente, provate a trovare alcuni \\&c\\&lDragons\\&r morti per ottenere le loro \\&7ossa.",
+        "{@pagebreak}",
+        "Le fasi 1-3 si genereranno nelle \\&cRoosts\\&r, mentre le fasi 4 e 5 si genereranno nelle \\&cCaves\\&r. Solo le fasi 4 e 5 dropperanno le \\&cUova\\&r. Più alta è la fase, più scuri saranno i loro colori e più grandi saranno!\n\nFase 1: avranno da 50 a 350 \\&4Hearts\\&r, oltre a 2 a 6 \\&7Armor Points\\&r. La fase 1 potrà solo mordere i propri avversari, ma non potrà usare il suo \\&cElemental Breath\\&r.\n\nFase 2: avranno da 350 a 600 \\&4Hearts\\&r. Potranno anche avere da 6 a 10 \\&7Armor Points\\&r. Ora potranno usare il \\&cElemental Breath\\&r per combattere.\n\nFase 3: potranno avere da 600 a 900 \\&4Hearts\\&r, con 10 a 12 \\&7Armor Points\\&r. Ora questi \\&c\\&lDragons\\&r potranno usare tutti i loro attacchi, dal \\&cElemental Breath\\&r alle loro \\&cElemental Charges\\&r.\n\nFase 4: manterranno tutte le stesse abilità e attacchi, oltre a poter droppare le \\&cUova\\&r. La fase 4 avrà da 900 a 1200 \\&4Hearts\\&r, oltre a 12 a 16 \\&7Armor Points\\&r.\n\nFase 5: solo i draghi più grandi e potenti. Potranno avere da 1200 a 1500+ \\&4Hearts\\&r! Con 16 a 20 \\&7Armor Points\\&r. In pratica, indossano un'armatura in \\&Netherite\\&r, perché sono così potenti!"
+    ],
+    "quest.6800E0113DE9A4DB.title": "E altre specie di draghi e le loro fasi di sviluppo.",
+    "quest.69211D34F8182976.quest_desc": [
+        "L'artiglio di Hippogryth è un oggetto raro che si ottiene quando un Hippogryth muore.\n\nPossiamo utilizzarlo per creare una spada!\n\nQuesta spada è molto simile a una spada in ferro, ma eseguirà sempre un attacco ampio.\n\nQuesto attacco colpirà tutti i nemici nelle vicinanze, non solo uno! La maggior parte delle spade lo fa solo quando sono completamente cariche, ma la spada artiglio non aspetta!\n\nQuesto attacco infliggerà più danni, avvicinandosi a una spada in diamante."
+    ],
+    "quest.6ECB27052FCB874E.quest_desc": [
+        "Gli \\&bHippocampus\\&r e gli \\&9Sea Serpents\\&r non sono ancora stati spostati in \\&b\\&lThe Other\\&r! \\nSono ancora presenti all'interno di \\&9Oceans\\&r, nel \\&2\\&lOverworld\\&r!"
+    ],
+    "quest.6ECB27052FCB874E.title": "Non ci siamo ancora trasferiti!",
+    "quest.6FE6F50029D690C0.quest_desc": [
+        "Gli \"Tide Trident\" sono esattamente come i Trident, ma sono ancora migliori in ogni modo!\n\nSono oggetti personalizzabili, infliggono più danni e possono colpire i nemici!\n\nE continuano a supportare gli incantesimi normali dei Trident.\n\nCosa altro potresti desiderare!"
+    ],
+    "quest.6FE6F50029D690C0.title": "\\&9Tide Trident",
+    "quest.70099F9B69F9D055.quest_desc": [
+        "Quelli sfortunati che finiscono nel livello 0 dell'area potrebbero imbattersi in una grotta terrificante e gelida.\n\nUna grotta piena di ghiaccio scivoloso e di stalattiti che puntano verso il basso.\n\nNaturalmente, si tratta di una grotta appartenente ai più potenti draghi di ghiaccio, i draghi di ghiaccio di livello 4.\n\nAlmeno, è anche piena di casse e di creature, tra cui i troll del gelo...",
+        "{image:atm:textures\/questpics\/iceandfire\/iaf_struct_icecave.png width:200 height:100 align:center}"
+    ],
+    "quest.70099F9B69F9D055.title": "\\&Grotta del Drago di Ghiaccio",
+    "quest.703790CCCE440946.quest_desc": [
+        "\\&3L'Altro\\&r, diverso da \\&b\\&lL'Altro\\&r. \\&3L'Altro\\&r rappresenta il Bioma, mentre \\&b\\&lL'Altro\\&r rappresenta la Dimensione.\n\nVedi quanto è utile l'uso del colore e del grassetto?\n\nIl Bioma è composto da \\&3Alberi Antichi\\&r e \\&3Erba Antica\\&r. Inoltre, presenta montagne imponenti per distinguerlo.\n\nPenso che il colore di questo Bioma si adatti meglio a \\&3Pietra Antica\\&r!"
+    ],
+    "quest.703790CCCE440946.quest_subtitle": "L'ecosistema",
+    "quest.703790CCCE440946.title": "\\&3L'altro",
+    "quest.70AD5D79881EE1B5.quest_desc": [
+        "\\&bLe tane dei draghi di ghiaccio\\&r si formano sopra il terreno come nidi per i draghi di ghiaccio, da \\&lFase 1\\&r a \\&lFase 3\\&r. \\n\\nSono composte da \\&bBlocchi di ghiaccio\\&r, che in realtà sono semplicemente \\&bGhiaccio\\&r. \\n\\nSono piene di cumuli di \\&7Argento\\&r e contengono casse, principalmente piene di \\&7Argento\\&r.",
+        "{image:atm:textures\/questpics\/iceandfire\/iaf_struct_iceroost.png width:200 height:100 align:center}"
+    ],
+    "quest.70AD5D79881EE1B5.title": "\\&B Ice Dragon Roost",
+    "quest.72FB345F3A7E7288.quest_desc": [
+        "\\&5Lama di Drago di Fulmine\\&r è prodotta combinando \\&5Sangue di Drago di Fulmine\\&r e \\&7Ferro\\&r in una \\&5Forgia di Drago di Fulmine\\&r.\n\nPossiamo creare armi con questo materiale! Queste armi infliggeranno un danno enorme, oltre a evocare \\&5Fulmine\\&r ad ogni colpo.\n\nInoltre, vengono fornite anche armature. Queste armature forniscono un'enorme quantità di statistiche e hanno un aspetto fantastico! Inoltre, ci proteggono ulteriormente dagli attacchi elementali dei \\&5Draghi\\&r!\n\nMa perché dovrei solo ottenere armature per me? E cosa ne pensate delle armature per i nostri \\&5Draghi\\&r? Questo è molto più costoso, ma fornirà una protezione enorme, soprattutto contro altri \\&5Draghi\\&r."
+    ],
+    "quest.72FB345F3A7E7288.title": "\\&5Drago di acciaio fulmineo",
+    "quest.74C648FC8733310B.quest_desc": [
+        "I \"serpenti marini\" sono ciò di cui parlano i marinai. Enormi creature che vivono nelle profondità dell'oceano, che saltano fuori dall'acqua e divorano decine di uomini con un solo morso!\n\nI \"serpenti marini\" variano da alcuni metri di lunghezza a oltre 30 metri. La loro dimensione aumenta anche la loro \"salute\" da 50 a oltre 250 \"cuori\".\n\nIl loro aspetto rimane lo stesso, a parte il colore e le dimensioni. Tutti hanno solo testa, corpo e coda.\n\nPossono attaccare in diversi modi, a seconda della distanza che vi separa. Se siete vicini, vi morderanno, causando danni significativi. Se siete lontani, vi spareranno getti d'acqua, causando danni nel tempo. Se siete fuori dall'acqua ma all'interno del raggio d'azione, potrebbero saltare in aria e attaccarvi.\n\nQuesto attacco infliggerà molti danni e spingerà via tutti i mostri nelle vicinanze.",
+        "{image:atm:textures\/questpics\/iceandfire\/iaf_serpent.png width:150 height:100 align:center}"
+    ],
+    "quest.74C648FC8733310B.title": "\\&9Serpenti marini",
+    "quest.760864EE43FB33AC.quest_desc": [
+        "\\&bHippocampus\\&r sono essenzialmente ciò che vorremmo che gli asini fossero.\n\nHanno teste e zampe anteriori simili a quelle degli asini, mentre la loro parte posteriore è più simile a quella di un pesce. L'intero corpo è inoltre ricoperto di squame e pinne.\n\nSono disponibili in rosso, arancione, giallo, verde chiaro, verde, blu chiaro e blu!\n\nGli \\&bHippocampus\\&r hanno 20 cuori e sono completamente passivi. Non reagiranno!\n\nQuando muoiono, lasceranno dietro di sé \\&bScales\\&r lucide e, molto raramente, le loro \\&bHippocampus Fin\\&r.",
+        "{image:atm:textures\/questpics\/iceandfire\/iaf_hippocampus.png width:150 height:100 align:center}"
+    ],
+    "quest.760864EE43FB33AC.title": "\\&bIppocampo",
+    "quest.765CD913CC3896B2.quest_desc": [
+        "I \\&lDraghi del Fuoco di livello 4 e 5\\&r si trovano all'interno di grotte profonde, al sicuro. Solo i più ingenui oserebbero avventurarsi lì dentro per affrontarli!\n\nLe \\&lGrotte dei Draghi del Fuoco\\&r sono strutture imponenti, ma comunque protette. Ciò significa che il \\&lDrago\\&r non può facilmente fuggire... e nemmeno tu.\n\nSe desideri affrontare questi enormi \\&lDraghi\\&r, avrai bisogno delle migliori attrezzature, incantesimi e pozioni. Soprattutto quelle per prevenire che il \\&lFuoco\\&r ti uccida!\n\nI loro attacchi infliggono danni maggiori, così come i loro \\&lattacchi elementali\\&r, che diffondono il \\&lFuoco\\&r ancora di più! E non dimentichiamo che hanno la stessa \\&4salute\\&r di un \\&3\\&lGuardiano\\&r e \\&7punti di armatura equivalenti a quello del \\&cNetherite\\&r!\n\nSe riesci a uccidere un \\&lDrago del Fuoco di livello 4 o 5\\&r (e non lo usi per creare una bottiglia), potrebbe rilasciare un \\&cUovo\\&r. Queste \\&cUova di Drago\\&r sono molto migliori delle \\&2\\&lUova di Drago standard\\&r perché..."
+    ],
+    "quest.765CD913CC3896B2.title": "\\&Stadio 4-5 \\&Drago di Fuoco",
+    "quest.77793642678CB886.quest_desc": [
+        "È piuttosto semplice allevare un Drago di Fuoco.\n\nACCENDETE L'U Ovo!\n\nIl modo più semplice è posizionare l'U Ovo su un \"Netherrack\" e poi accenderlo con una pietra focaia.\n\nDopo 6 minuti, l'U Ovo si schiuderà e il vostro Drago di Fuoco sarà disponibile!\n\nE no, il piccolo Drago non subirà danni dal fuoco, è un Drago di Fuoco!"
+    ],
+    "quest.77793642678CB886.title": "Preparare il tuo uovo",
+    "quest.7B21D2FAD5F3246A.quest_desc": [
+        "Benvenuti in \\&b\\&lIce \\&fand \\&cFire\\&r! Ora disponibile in \\&b\\&lThe Other\\&r\n\nQuesto mod aggiunge innumerevoli mostri e creature, tutte legate a qualche forma di mitologia o completamente uniche per questo mod!\n\nPotrete trovare questi mostri in tutto \\&b\\&lThe Other\\&r, ma attenzione, non tutti sono amichevoli!"
+    ],
+    "quest.7B21D2FAD5F3246A.title": "\\&b\\&lIce \\&fand \\&cFire\\&r",
+    "quest.7C5FC2015F1E6DB1.quest_desc": [
+        "Tutti gli \"8Trolls\" maneggeranno armi. Utilizzano queste armi per cercare di uccidervi.\n\nMolto raramente, quando muoiono, lasceranno le loro armi.\n\nQueste armi sono enormi! Tuttavia, il giocatore può comunque impugnarle e utilizzarle. Causano un danno significativo, ma hanno un movimento molto lento."
+    ],
+    "quest.7C5FC2015F1E6DB1.title": "\\&Armi per i Troll",
+    "quest.7CBF22CCCF599F26.quest_desc": [
+        "Per creare la \"Flauta Sirena\", avrai bisogno delle \"Scale Brillanti\" menzionate in precedenza, oltre a una \"Lacrima di Sirena\".\n\nLe \"Lacrime di Sirena\" sono oggetti rari ottenuti dalle \"Sirene\" e renderanno la \"Flauta\" o la \"Bandiera\" attiva.\n\nLa \"Flauta\" infliggerà al mob che si trova di fronte, un effetto di \"Debolezza\" pari a 1 Milione. Il mob diventerà affetto e, una volta affetto, non attaccherà.\n\nTuttavia, la \"Flauta\" ha un periodo di \"Cooldown\"."
+    ],
+    "quest.7CBF22CCCF599F26.title": "\\&cSiren Flauto",
+    "quest.7D086BC5AC152E27.quest_desc": [
+        "\\&cSirene\\&r, insieme a \\&3Frammenti di Prisma\\&f e \\&3Cristalli\\&f, e... \\&bScaglie lucide\\&r!!!\\n\\nLe \\&bScaglie lucide\\&r possono essere utilizzate per creare diversi oggetti, tra cui: \\&9Armatura del Guardiano delle Maree\\&f, \\&cSirene Flute\\&f, e \\&9Pozioni per respirare sott'acqua\\&r.\\n\\nSono felice che siano così abbondanti!"
+    ],
+    "quest.7D086BC5AC152E27.title": "E squame lucide",
+    "quest.7FA9EA93602A98EC.quest_desc": [
+        "I nidi di \"Drago di Fuoco\" (indicati con \"\\&cFire Dragon Roosts\\&r\") sono strutture create con \"\\&cBlocchi Bruciati\\&r\" e cenere, situate al di sopra del terreno.\n\nQuesti nidi genereranno \"Draghi di Fuoco\" a diversi stadi: da \"\\&lStage 1\\&r\" a \"\\&lStage 3\\&r\". E, più grande è il \"Drago\", più grande sarà il nido!\n\nQuesti nidi contengono cumuli di \"\\&eOro\\&r\", oltre a casse. Le casse possono contenere fino a \"\\&bDiamanti\\&r\", ma rimangono comunque molto utili!",
+        "{image:atm:textures\/questpics\/iceandfire\/iaf_struct_fireroost.png width:200 height:100 align:center}"
+    ],
+    "quest.7FA9EA93602A98EC.title": "E altre strutture simili, come \"Nido del Drago\"",
+    "task.73AE639A41A16778.title": "Tutti i diritti riservati"
+}

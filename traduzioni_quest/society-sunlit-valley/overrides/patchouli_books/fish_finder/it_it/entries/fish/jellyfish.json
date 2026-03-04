@@ -1,18 +1,18 @@
 {
-    "name": "Gelminciola",
+    "name": "Medusa",
     "category": "patchouli:fish",
     "icon": "aquaculture:jellyfish",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 56 monete$(li)Simbolo di stagione: Primavera $(li)Fiamma: Estate $(li)Acqua: Oceano $(li)Vento: Qualsiasi $(li)Ora: Notte"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 56$(li)§0🌼 §2Primavera§0 §0🔥 §6Estate§0$(li)Acqua: Oceano$(li)Meteo: Qualsiasi$(li)Ora: Notte"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:jellyfish",
             "scale": 0.8,
             "rotate": true,
-            "text": "Un'attività di gelatina che resta pesce."
+            "text": "patchouli: entità\n\nacquacoltura: meduse\n\nLe meduse sono pesci."
         }
     ]
 }

@@ -1,17 +1,17 @@
 {
-    "name": "Allay",
+    "name": "Rassicurare; calmare; placare",
     "category": "patchouli:pets",
     "icon": "minecraft:amethyst_shard",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Doni Possibili:$()$(br)Cappello delle Orecchie di Chi"
+            "text": "patchouli:testo\n\n$(l)Possibili regali:$()$(br)Cappello \"Chi's Ears\""
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:allay",
             "scale": 0.8,
-            "text": "Alternativamente, prova un'Upgrade a Magnetico da Sophisticated Storage"
+            "text": "patchouli: entità\n\nminecraft: allay\n\nIn alternativa, prova un aggiornamento per il sistema di gestione Sophisticated Storage."
         }
     ]
 }

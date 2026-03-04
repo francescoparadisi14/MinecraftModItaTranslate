@@ -1,5 +1,5 @@
 {
-    "category.dead_reckoning.general": "Navigazione per stima",
-    "dead_reckoning.toggled_hud_visibility": "Visibilità del compasso abilitata %s.",
-    "key.dead_reckoning.toggle": "Abilita\/Disabilita visibilità bussola"
+    "category.dead_reckoning.general": "Calcolo della posizione basato su stime e misurazioni precedenti.",
+    "dead_reckoning.toggled_hud_visibility": "Percentuale di visibilità della bussola: %s.",
+    "key.dead_reckoning.toggle": "Mostra\/Nascondi bussola"
 }

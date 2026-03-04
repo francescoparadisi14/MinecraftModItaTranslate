@@ -2,9 +2,9 @@
     "item.xpbook.xp_book": "ANTICO - TASTO DESTRO PER CONVERTIRE",
     "item.xpbook.xp_tome": "Tomo dell'XP",
     "xpbook.tooltip.retrieve.max": "Tasto destro per ottenere tutta l'XP",
-    "xpbook.tooltip.retrieve.next": "Clic destro per recuperare al massimo un livello di XP",
-    "xpbook.tooltip.retrieve.orb": "Crea orbite XP",
+    "xpbook.tooltip.retrieve.next": "Cliccare con il tasto destro per recuperare al massimo un livello di esperienza.",
+    "xpbook.tooltip.retrieve.orb": "Crea sfere XP",
     "xpbook.tooltip.store.max": "Accovacciati + tasto-destro per accumulare quanta più XP possibile",
-    "xpbook.tooltip.store.previous": "Sfiora + clic destro per archiviare al massimo un livello di XP",
+    "xpbook.tooltip.store.previous": "Cliccare con il tasto destro per acquisire al massimo un livello di esperienza.",
     "xpbook.tooltip.stored_xp": "%1$s\/%2$s XP immagazzinata"
 }

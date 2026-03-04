@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 264 monete$(li)Simbolo: ❆ $(li)Stagione: Inverno$(li)Acqua: Oceano$(li)Clima: Pioggia, Neve$(li)Ora: Qualsiasi ora"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 264$(li)§0❆ §bInverno§0$(li)Acqua: Oceano$(li)Tempo: Pioggia, Neve$(li)Ora: Giorno"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:brown_shrooma",
             "scale": 0.8,
             "rotate": true,
-            "text": "L'ente acquatico Brown Shrooma dice semplicemente \"Non venire a\"."
+            "text": "patchouli: entità\n\nacquacoltura: brown_shrooma\n\nSembra che continui a ripetere \"Non venire a...\"."
         }
     ]
 }

@@ -1,9 +1,9 @@
 {
-    "block.bobberdetector.bobber_detector": "Rilevatore di bobber",
-    "bobberdetector.ponder.detector.header": "Cattura automatica",
-    "bobberdetector.ponder.detector.text_1": "I deployer possono essere dati le lenze da pesca per pescare per conto tuo.",
-    "bobberdetector.ponder.detector.text_2": "Purtroppo non potrai vedere la bobina da pesca sull'acqua, solo le particelle.",
-    "bobberdetector.ponder.detector.text_3": "Ma ogni volta che un bobber è all'interno del suo raggio, il rilevatore di bobber si accende.",
-    "bobberdetector.ponder.detector.text_4": "Quando un pesce viene catturato, il rilevatore emette un segnale di Redstone.",
-    "bobberdetector.ponder.detector.text_5": "Dovrai trovare un modo per raccogliere gli oggetti"
+    "block.bobberdetector.bobber_detector": "Rilevatore di bobine",
+    "bobberdetector.ponder.detector.header": "Pesca automatizzata",
+    "bobberdetector.ponder.detector.text_1": "È possibile fornire ai pescatori delle attrezzature da pesca per pescare al posto vostro.",
+    "bobberdetector.ponder.detector.text_2": "Purtroppo, non potrete vedere il galleolo nell'acqua, ma solo le particelle.",
+    "bobberdetector.ponder.detector.text_3": "Tuttavia, ogni volta che un galleggiante si trova all'interno del raggio, il sensore del galleggiante si attiva.",
+    "bobberdetector.ponder.detector.text_4": "Quando un pesce viene pescato, il rilevatore emette un segnale di redstone.",
+    "bobberdetector.ponder.detector.text_5": "Dovrete trovare un modo per recuperare gli oggetti."
 }

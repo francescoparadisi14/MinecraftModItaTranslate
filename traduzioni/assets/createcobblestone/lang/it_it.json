@@ -1,7 +1,7 @@
 {
-    "block.createcobblestone.generators.hovertext.itemprefix": "genera:",
-    "block.createcobblestone.generators.hovertext.no_item": "Clicca sul generatore con un tipo di pietra per impostare il tipo di generatore.",
-    "block.createcobblestone.mechanical_generator": "Generatore meccanico",
+    "block.createcobblestone.generators.hovertext.itemprefix": "Genera:",
+    "block.createcobblestone.generators.hovertext.no_item": "Cliccare sul generatore e selezionare il tipo di pietra per impostare il tipo di generatore.",
+    "block.createcobblestone.mechanical_generator": "Generatore elettrico",
     "createcobblestone.gui.goggles.generators.itemprefix": "Genera: %1$s",
-    "itemGroup.create_cobblestone": "Crea pietra di base"
+    "itemGroup.create_cobblestone": "Crea un vialetto di pietra"
 }

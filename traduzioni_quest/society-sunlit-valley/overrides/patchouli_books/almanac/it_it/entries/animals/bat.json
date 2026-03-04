@@ -1,0 +1,17 @@
+{
+    "name": "Pipistrello",
+    "category": "patchouli:animals",
+    "icon": "pamhc2trees:plumitem",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "patchouli: testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile per la vendita$(li)Raccolta: Frutti di bosco casuali (100% di probabilità), pesche (25%), frutto della passione (15%)$(br2)$(l)Note$()$(br)La raccolta richiede almeno 3 cuori. Deve essere contrassegnato o scomparirà."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:bat",
+            "scale": 1,
+            "text": "Patchouli: entità\n\nMinecraft: pipistrello\n\nDenti lunghi per frutta succosa"
+        }
+    ]
+}

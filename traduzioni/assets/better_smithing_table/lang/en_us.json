@@ -1,0 +1,8 @@
+{
+    "better_smithing_table.midnightconfig.enum.Skin.DEFAULT": "Default",
+    "better_smithing_table.midnightconfig.enum.Skin.VT_DARK": "Dark (VanillaTweaks)",
+    "better_smithing_table.midnightconfig.enum.Skin.VT_TRANSPARENT": "Transparent (VanillaTweaks)",
+    "better_smithing_table.midnightconfig.rotationSpeed": "Rotation Speed",
+    "better_smithing_table.midnightconfig.skin": "GUI Skin",
+    "better_smithing_table.midnightconfig.title": "BetterSmithingTable Config"
+}

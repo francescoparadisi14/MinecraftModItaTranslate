@@ -1,15 +1,15 @@
 {
-    "name": "Fagioli di caffè 🌼",
+    "name": "Caffè (fagioli di caffè) 🌼",
     "category": "patchouli:crops",
     "icon": "herbalbrews:coffee_beans",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li):moneta: 8$(li)🌼 §2Primavera§r$(li)Rendita: 1-2$(li)Tempo di crescita: 3 giorni$(br2)$(l)Note$()$(br)Si trova in biomi simili a giungla.$(br)Non ci sono semi, semplicemente pianta il frutto."
+            "text": "patchouli: testo\n\n$(l)Statistiche$()$(li): monete: 8$(li) 🌼 Primavera§r$(li) Resa: 1-2$(li) Tempo di crescita: 3 giorni$(br2)$(l)Note$()$(br)Si trova in biomi simili alla giungla.$(br) Non sono necessarie sementi, basta piantare il frutto."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Coffee Beans Crop",
+            "name ": "Patchouli: più blocchi\n\nCaffè: coltivazione",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -24,8 +24,7 @@
                     "0": "herbalbrews:coffee_plant[age=3]",
                     "F": "minecraft:farmland[moisture=7]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

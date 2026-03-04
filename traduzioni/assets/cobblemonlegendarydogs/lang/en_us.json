@@ -1,0 +1,12 @@
+{
+    "block.cobblemonlegendarydogs.example_block": "Example Block",
+    "cobblemonlegendarydogs.configuration.items": "Item List",
+    "cobblemonlegendarydogs.configuration.logDirtBlock": "Log Dirt Block",
+    "cobblemonlegendarydogs.configuration.magicNumber": "Magic Number",
+    "cobblemonlegendarydogs.configuration.magicNumberIntroduction": "Magic Number Text",
+    "cobblemonlegendarydogs.configuration.section.cobblemonlegendarydogs.common.toml": "Cobblemon Legendary Dogs Configs",
+    "cobblemonlegendarydogs.configuration.section.cobblemonlegendarydogs.common.toml.title": "Cobblemon Legendary Dogs Configs",
+    "cobblemonlegendarydogs.configuration.title": "Cobblemon Legendary Dogs Configs",
+    "item.cobblemonlegendarydogs.example_item": "Example Item",
+    "itemGroup.cobblemonlegendarydogs": "Example Mod Tab"
+}

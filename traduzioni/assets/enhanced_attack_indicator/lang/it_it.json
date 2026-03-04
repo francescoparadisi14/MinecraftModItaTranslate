@@ -1,15 +1,15 @@
 {
-    "enhanced_attack_indicator.midnightconfig.disableAxes": "Disabilita il raffreddamento del tempo di attacco dell'ascia",
-    "enhanced_attack_indicator.midnightconfig.disablePickaxesAndShovels": "Disabilita il raffreddamento del tempo di attacco per piccozze e zappe",
-    "enhanced_attack_indicator.midnightconfig.enum.WeaponCoolDownImportance.FIRST": "Primo",
-    "enhanced_attack_indicator.midnightconfig.enum.WeaponCoolDownImportance.LAST": "ultimo",
-    "enhanced_attack_indicator.midnightconfig.enum.WeaponCoolDownImportance.MIDDLE": "mezzo",
-    "enhanced_attack_indicator.midnightconfig.showBlockBreaking": "Mostra progresso di smantellamento del blocco",
-    "enhanced_attack_indicator.midnightconfig.showFoodAndPotions": "Mostra cibo e pozioni",
-    "enhanced_attack_indicator.midnightconfig.showItemContainerFullness": "Mostra piena contenitore Shulker",
-    "enhanced_attack_indicator.midnightconfig.showItemCooldowns": "Mostra raffreddamento oggetto",
-    "enhanced_attack_indicator.midnightconfig.showRangeWeaponDraw": "Mostra disegno di arma a distanza",
-    "enhanced_attack_indicator.midnightconfig.showSleep": "Mostra progresso del sonno",
-    "enhanced_attack_indicator.midnightconfig.title": "Indicatore di attacco migliorato",
-    "enhanced_attack_indicator.midnightconfig.weaponCoolDownImportance": "Priorità del raffreddamento dell'attacco"
+    "enhanced_attack_indicator.configuration.disableAxes": "Disattivare il periodo di ricarica dell'attacco di Axe",
+    "enhanced_attack_indicator.configuration.disablePickaxesAndShovels": "Disattivare il tempo di ricarica degli attacchi del piccone e della pala.",
+    "enhanced_attack_indicator.configuration.enum.WeaponCoolDownImportance.FIRST": "Prima",
+    "enhanced_attack_indicator.configuration.enum.WeaponCoolDownImportance.LAST": "Ultimo",
+    "enhanced_attack_indicator.configuration.enum.WeaponCoolDownImportance.MIDDLE": "Medio",
+    "enhanced_attack_indicator.configuration.showBlockBreaking": "Mostra l'avanzamento della rottura del blocco",
+    "enhanced_attack_indicator.configuration.showFoodAndPotions": "Mostra cibo e pozioni",
+    "enhanced_attack_indicator.configuration.showItemContainerFullness": "Mostra la piena estensione del Shulker",
+    "enhanced_attack_indicator.configuration.showItemCooldowns": "Mostra i tempi di ricarica degli oggetti",
+    "enhanced_attack_indicator.configuration.showRangeWeaponDraw": "Mostra l'estrazione di un'arma a distanza.",
+    "enhanced_attack_indicator.configuration.showSleep": "Mostra l'avanzamento del sonno",
+    "enhanced_attack_indicator.configuration.title": "Indicatore di attacco potenziato",
+    "enhanced_attack_indicator.configuration.weaponCoolDownImportance": "Priorità del cooldown dell'attacco"
 }

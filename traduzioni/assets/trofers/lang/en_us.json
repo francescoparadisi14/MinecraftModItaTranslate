@@ -1,8 +1,6 @@
 {
     "block.trofers.trophy": "Trophy",
     "message.trofers.reward_cooldown": "Next reward available in %s",
-    "text.autoconfig.trofers.option.general.enableAdvancementDrops": "Enable Advancement Drops",
-    "text.autoconfig.trofers.option.general.enableAdvancementDrops.@Tooltip": "Whether trophies can be awarded when specific advancements are earned (Currently unused)",
     "text.autoconfig.trofers.option.general.enableTrophyEffects": "Enable Trophy Effects",
     "text.autoconfig.trofers.option.general.enableTrophyEffects.@Tooltip": "Whether trophies can apply potion effects when right-clicked",
     "text.autoconfig.trofers.option.general.enableTrophyLoot": "Enable Trophy Loot",

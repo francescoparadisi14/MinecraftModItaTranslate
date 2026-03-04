@@ -1,0 +1,101 @@
+{
+    "quest.030AC1AF8F735550.quest_desc": [
+        "Per far entrare liquidi nel serbatoio, sarà necessario utilizzare dei tubi.\n\nLa pompa idraulica può riempire automaticamente i tubi con acqua a un ritmo lento, e in modo completamente automatico!"
+    ],
+    "quest.030AC1AF8F735550.title": "Tubi",
+    "quest.06B85804163DD18B.quest_desc": [
+        "La \"Soaryn Box\" (dove Soaryn è l'autore di XyCraft) è il contenitore di XyCraft.\n\nNon conterrà oggetti una volta che il blocco sarà distrutto! Mi chiedo cosa facciano quelle forme presenti sul contenitore."
+    ],
+    "quest.08E484DD3E751697.quest_subtitle": "La \"B\" in Roy G. Biv",
+    "quest.08E484DD3E751697.title": "\\&bBlue Xychorium Gemme",
+    "quest.0D01524F249E25D7.quest_subtitle": "Chi ha spento le luci?",
+    "quest.0D01524F249E25D7.title": "\\&8Gemme di Dark Xychorium",
+    "quest.15540271BF17C2E4.quest_desc": [
+        "\\&lBenvenuti in XyCraft!\\&r\\n\\nQuesta serie di mod è principalmente dedicata a XyCraft: World and Machines!\\n\"World\" ci fornisce le Gemme, che possono essere trovate durante l'attività di estrazione."
+    ],
+    "quest.15540271BF17C2E4.title": "\\&lXyCraft",
+    "quest.16B4A00948D1F60D.quest_desc": [
+        "Questo contenuto è stato creato da \\&6AllTheMods Staff\\&r, oppure da un \\&2contributore della community\\&r, per l'uso nei pacchetti di mod di AllTheMods.\\n\\nPoiché tutti i pacchetti di AllTheMods sono soggetti al copyright \\&eTutti i diritti riservati\\&r, questo contenuto non può essere utilizzato in altri pacchetti pubblici, a meno che non sia stato rilasciato dal team di AllTheMods, previa autorizzazione esplicita.\\n\\nQuesto contenuto è stato intenzionalmente nascosto. Se lo state visualizzando, siete in modalità di modifica."
+    ],
+    "quest.1A96C595CBA42840.quest_desc": [
+        "I semi di Kivi possono essere utilizzati per coltivare l'estratto di Kivi, che può essere prodotto all'interno di Kivi!"
+    ],
+    "quest.1A96C595CBA42840.title": "Automazione Kivi",
+    "quest.1E00DBAACDF4404F.quest_desc": [
+        "Il \"Collector\" funziona come un contenitore di raccolta molto economico.\n\nRaccoglie tutti gli oggetti all'interno di un raggio di 3 blocchi e li mette nel magazzino sottostante o nel suo stesso inventario. Può essere disattivato utilizzando i circuiti Redstone!"
+    ],
+    "quest.2278A98DCDF713D7.quest_desc": [
+        "È ora di costruire il serbatoio. Innanzitutto, avrai bisogno di mattoni e almeno una valvola. Vetro e Item IO sono opzionali.\n\nIl serbatoio deve essere costruito con una struttura di mattoni. I mattoni sono qualsiasi cosa che non sia trasparente, soggetta alla gravità o terra o erba naturale.\n\nPietre, legno o metallo devono costituire la struttura e i bordi. Vetro, valvole e Item IO devono essere posizionati all'interno delle pareti, e l'interno deve essere vuoto.\n\nLe dimensioni massime sono 13x13x13. Una volta completato, fai clic con il tasto destro sulla valvola e vedrai se è stata \"formata\" o se ci sono problemi."
+    ],
+    "quest.2278A98DCDF713D7.title": "\\&lIl serbatoio",
+    "quest.2AC7BC448C007BDB.quest_desc": [
+        "Rafforzare il Kivi con alluminio permette di ottenere le strutture metalliche necessarie per costruire macchinari."
+    ],
+    "quest.2B5E14A47062F83C.quest_subtitle": "La \"R\" in Roy G. Biv",
+    "quest.2B5E14A47062F83C.title": "E altri gioielli Red Xychorium",
+    "quest.2C4ECA4F5B1639F4.quest_desc": [
+        "Il campo di luce non emette molta luce, ma funziona come una torcia potente.\n\nI nemici non si genereranno in un'area specifica attorno ad esso. Questa area ha un raggio di circa 32 blocchi."
+    ],
+    "quest.2C4ECA4F5B1639F4.title": "\\&Campo di volo",
+    "quest.2C7D62231AD6406A.quest_desc": [
+        "XyCraft ha un ottimo contenitore per liquidi modulare!"
+    ],
+    "quest.2C7D62231AD6406A.title": "\\&Stoccaggio e manipolazione dei fluidi",
+    "quest.355244420EA47546.quest_desc": [
+        "Il fabbricante è l'Auto-Crafter. Preleva gli oggetti dall'inventario sottostante e li utilizza per creare una ricetta specifica.\n\nÈ possibile bloccare le ricette facendo clic con il tasto CTRL. Tuttavia, dovrà estrarre gli oggetti creati."
+    ],
+    "quest.355244420EA47546.quest_subtitle": "Auto-Crafter",
+    "quest.39E4FC9BA89E44BC.quest_desc": [
+        "\"Il palloncino su uno stecchino è una fonte di creatività limitata e precoce.\"\n\n\"Posiziona lo stecchino e sarai legato a un palloncino! Premi due volte il tasto spazio per iniziare a volare, ma non troppo lontano. Se voli troppo lontano, perderai il controllo e cadrà."
+    ],
+    "quest.39E4FC9BA89E44BC.quest_subtitle": "Su!",
+    "quest.3E970E76372AB094.quest_desc": [
+        "Il \"Piano Accelerato\" funziona in modo simile al normale \"Campo Agricolo\", ma con alcune differenze.\n\nÈ automaticamente irrigato e richiede meno tempo rispetto al normale \"Campo Agricolo\"."
+    ],
+    "quest.3E970E76372AB094.title": "\\&2: Piano accelerato",
+    "quest.3F68BA498E877C8C.quest_subtitle": "Il secondo nome di Roy Biv",
+    "quest.3F68BA498E877C8C.title": "\\&A Green Xychorium Gems",
+    "quest.43F08B510FC1C06F.quest_desc": [
+        "Gli \"Item IOs\" ci permettono di trasportare oggetti dentro e fuori dal serbatoio. Possono essere attivati per l'ingresso e l'uscita di oggetti."
+    ],
+    "quest.43F08B510FC1C06F.quest_subtitle": "Dove arrivano e partono gli oggetti",
+    "quest.43F08B510FC1C06F.title": "Oggetti IoT",
+    "quest.4A92237E17ED5F1C.quest_desc": [
+        "Il contenitore \"Void Container\" trasforma qualsiasi inventario in un cestino rifiuti. Basta posizionarlo sopra l'inventario e tutti gli oggetti scompariranno!"
+    ],
+    "quest.5E1D4169C083ACEF.quest_desc": [
+        "Il blocco \"Ignition Plate\" genera un fuoco di fronte a sé quando riceve un segnale di Redstone.\nQuando il segnale viene interrotto, il fuoco si spegne."
+    ],
+    "quest.5E1D4169C083ACEF.title": "E altro",
+    "quest.623E6A855B363C8D.quest_desc": [
+        "Il \"Water Block\" funge da fonte d'acqua, senza la necessità di un componente mobile.\n\nÈ possibile utilizzare il \"Water Block\" per creare Cobble Gens e per irrigare il Farmland, ma non è possibile utilizzarlo per effettuare \"clutch\" in modalità MLG (Massive Load Gaming). (Anche i pesci cercheranno di entrarvi, ma alla fine moriranno)."
+    ],
+    "quest.623E6A855B363C8D.quest_subtitle": "Acqua, ma in forma solida, ovvero ghiaccio?",
+    "quest.623E6A855B363C8D.title": "\\&9Blocco di raffreddamento",
+    "quest.643FB1A3ED0EA9EC.quest_desc": [
+        "La valvola è il cuore del vostro serbatoio. È qui che si effettuerà l'iniezione o il passaggio dei fluidi."
+    ],
+    "quest.643FB1A3ED0EA9EC.quest_subtitle": "Dove fluisce e dove termina il flusso.",
+    "quest.643FB1A3ED0EA9EC.title": "Valvole",
+    "quest.64D0D69ADB8820DA.quest_desc": [
+        "Il blocco \"\\&8Fluid Void\\&r\" blocca l'acqua a cui è collegato.\n\nQualsiasi blocco sorgente o acqua in movimento, o qualsiasi cosa all'interno di un raggio di 1 blocco, viene distrutta."
+    ],
+    "quest.64D0D69ADB8820DA.title": "\\&8Vuoto fluido",
+    "quest.69F11A94D44AB5CF.quest_subtitle": "Troppo!",
+    "quest.69F11A94D44AB5CF.title": "\\&fLight Xychorium Gemme",
+    "quest.6D0876A402C22067.quest_desc": [
+        "XyCraft offre alcune funzionalità di stoccaggio e manipolazione degli oggetti. Tuttavia, non sono così avanzate come quelle per la gestione dei fluidi!"
+    ],
+    "quest.6D0876A402C22067.title": "\\&6: Archiviazione e gestione degli articoli",
+    "quest.71D133BA3EC6F4FD.quest_desc": [
+        "L'\"Estrattore\" creerà o trasformerà il blocco o l'oggetto sottostante, spostandolo in un inventario situato sopra.\n\nQuesto può essere utilizzato per creare un generatore di pietra, che funziona con diversi tipi di pietra, un generatore di ametista, o persino un generatore di uova di drago, insieme ad altri!"
+    ],
+    "quest.71D133BA3EC6F4FD.quest_subtitle": "Agricoltura per rocce! (e altro ancora)",
+    "quest.7574A782DCFB87CE.quest_desc": [
+        "Il Kivi può essere utilizzato per diversi scopi, principalmente per la decorazione e per la costruzione di macchinari.\n\nAvrete bisogno di Kivi per i telai delle macchine e per altre macchine in XyCraft. Può essere utilizzato con le gemme di Xychorium in un macchinario per la creazione di blocchi decorativi."
+    ],
+    "quest.7574A782DCFB87CE.title": "\\&l\\&7Kivi",
+    "task.4EEF358CAC170CC4.title": "Xychorium Gems",
+    "task.55DD09212E3DB168.title": "Tubi flessibili",
+    "task.706FA543A6C675D3.title": "Tutti i diritti riservati"
+}

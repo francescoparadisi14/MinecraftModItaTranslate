@@ -1,0 +1,16 @@
+{
+    "entity.apple_cows.apple_cow": "Apple Cow",
+    "entity.apple_cows.enchanted_golden_apple_cow": "Enchanted Golden Apple Cow",
+    "entity.apple_cows.golden_apple_cow": "Golden Apple Cow",
+    "item.apple_cows.apple_cow": "Apple Cow Spawn Egg",
+    "item.apple_cows.apple_cow_converter": "§4Apple Cow Converter",
+    "item.apple_cows.apple_cow_spawn_egg": "Apple Cow Spawn Egg",
+    "item.apple_cows.enchanted_golden_apple_cow": "Enchanted Golden Apple Cow Spawn Egg",
+    "item.apple_cows.enchanted_golden_apple_cow_converter": "§5Enchanted Golden Apple Cow Converter",
+    "item.apple_cows.enchanted_golden_apple_cow_spawn_egg": "Enchanted Golden Apple Cow Spawn Egg",
+    "item.apple_cows.enchanted_golden_wheat": "§5Enchanted Golden Wheat",
+    "item.apple_cows.golden_apple_cow": "Golden Apple Cow Spawn Egg",
+    "item.apple_cows.golden_apple_cow_converter": "§6Golden Apple Cow Converter",
+    "item.apple_cows.golden_apple_cow_spawn_egg": "Golden Apple Cow Spawn Egg",
+    "item.apple_cows.golden_wheat": "§6Golden Wheat"
+}

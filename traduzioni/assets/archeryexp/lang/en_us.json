@@ -1,7 +1,11 @@
 {
-    "attribute.archeryexp.base_damage": "Base Damage",
-    "attribute.archeryexp.draw_cooldown": "Shoot Speed",
+    "attribute.archeryexp.base_damage": "%s Base Damage",
+    "attribute.archeryexp.charge_time": "%s Draw Speed",
+    "attribute.archeryexp.draw_cooldown": "%s Cooldown Time",
     "attribute.archeryexp.mainhand": "When Shot:",
+    "attribute.archeryexp.recoil": "%s Recoil",
+    "attribute.archeryexp.walk_speed_down": "%s Speed Decrease",
+    "attribute.archeryexp.walk_speed_up": "%s Speed Increase",
     "effect.archeryexp.quickdraw": "Quickdraw",
     "effect.archeryexp.quickdraw.description": "After firing an arrow, the shooter is left vulnerable, making them susceptible to extra damage.",
     "enchantment.archeryexp.baby_face": "Baby Face",

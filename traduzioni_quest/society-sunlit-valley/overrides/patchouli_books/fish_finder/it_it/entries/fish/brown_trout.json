@@ -1,18 +1,18 @@
 {
-    "name": "Tartaruga marrone",
+    "name": "Trota di fiume (in riferimento al colore)",
     "category": "patchouli:fish",
     "icon": "aquaculture:brown_trout",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 40 monete$(li)Simbolo di stagione: Autunno $(li)Acqua: Fiume$(li)Clima: Qualsiasi$(li)Ora: Giorno"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 40$(li)§0🍂 §4Autunno§0 §0❆ §bInverno§0$(li)Acqua: Fiume$(li)Meteo: Qualsiasi$(li)Ora: Giorno"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:brown_trout",
             "scale": 0.8,
             "rotate": true,
-            "text": "Finché le corde si sfilano, i Truite marroni viaggeranno."
+            "text": "Patchouli: entità\n\nAcquacoltura: trota marrone\n\nFinché le corde si sfilano, la trota marrone si muoverà."
         }
     ]
 }

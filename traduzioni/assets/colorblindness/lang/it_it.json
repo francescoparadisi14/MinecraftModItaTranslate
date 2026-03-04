@@ -1,10 +1,10 @@
 {
-    "effect.colorblindness.achromatomaly": "Achromatomalia",
-    "effect.colorblindness.achromatopsia": "Achromatosi",
-    "effect.colorblindness.deuteranomaly": "Anomalia deuteranoma",
-    "effect.colorblindness.deuteranopia": "Deuteranopia",
-    "effect.colorblindness.protanomaly": "Anomalia protana",
-    "effect.colorblindness.protanopia": "Protonopia",
-    "effect.colorblindness.tritanomaly": "Anomalie tritaniche",
+    "effect.colorblindness.achromatomaly": "Anomalie cromatiche",
+    "effect.colorblindness.achromatopsia": "Achromatopsia",
+    "effect.colorblindness.deuteranomaly": "Deuteranomalia",
+    "effect.colorblindness.deuteranopia": "Deutanopea",
+    "effect.colorblindness.protanomaly": "Anomalia precoce",
+    "effect.colorblindness.protanopia": "Anomalia congenita caratterizzata da una mancanza totale o quasi totale di capacità di distinguere i colori.",
+    "effect.colorblindness.tritanomaly": "Tritanomia",
     "effect.colorblindness.tritanopia": "Tritanopia"
 }

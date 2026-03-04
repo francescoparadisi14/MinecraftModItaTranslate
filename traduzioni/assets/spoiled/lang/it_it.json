@@ -1,12 +1,12 @@
 {
-    "spoiled.command.blockentity_list.message": "Una lista di entità di blocchi è stata stampata nel registro.",
-    "spoiled.command.food_list.message": "Una lista di alimenti è stata stampata nel registro.",
-    "spoiled.gui.jei.category.spoiling": "Rotti",
-    "spoiled.gui.jei.spoil_time": "Tempo di deterioramento: %s",
-    "spoiled.spoiling": "Procedimento in corso di deterioramento:",
+    "spoiled.command.blockentity_list.message": "Una lista di entità bloccate è stata registrata.",
+    "spoiled.command.food_list.message": "È stata generata una lista di alimenti nel registro.",
+    "spoiled.gui.jei.category.spoiling": "Sabotaggio; rovina; distruzione",
+    "spoiled.gui.jei.spoil_time": "Tempo di rivelazione: %s",
+    "spoiled.spoiling": "Interruzione dei progressi:",
     "spoiled.spoiling.0": "Fresco",
-    "spoiled.spoiling.100": "Rottura",
+    "spoiled.spoiling.100": "Putrid",
     "spoiled.spoiling.25": "",
-    "spoiled.spoiling.50": "Rancido",
-    "spoiled.spoiling.75": "Rancido"
+    "spoiled.spoiling.50": "Stale",
+    "spoiled.spoiling.75": "Stale"
 }

@@ -1,15 +1,15 @@
 {
-    "name": "Frosty Trumpet Tree 🌐",
+    "name": "Albero \"Trumpet Tree\" (con foglie verdi)",
     "category": "patchouli:trees",
     "icon": "quark:blue_blossom_sapling",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)🌐 §5Tutto l'anno§r$(li)Dimensioni: 1x1`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🌐 Disponibile tutto l'anno§r$(li)Dimensioni: 1x1."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Frosty Trumpet Tree",
+            "name ": "Patchouli: Multibloc\n\nAlbero della tromba gelata",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -394,8 +394,7 @@
                     "L": "quark:blue_blossom_leaves",
                     "W": "quark:blossom_log[axis=y]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

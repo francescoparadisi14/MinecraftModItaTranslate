@@ -164,7 +164,7 @@
     ],
     "quest.054406E766E69913.title": "Spray Cans",
     "quest.0561C57B9F1E095C.quest_desc": [
-        "The next tier of &lTechnium&r"
+        "The next tier of &lTechnium&r. You did it thanks for playing &lTechopolis 3&r, there more if your prepared to continue..."
     ],
     "quest.0561C57B9F1E095C.quest_subtitle": "&l&0Hellish Technium Part&r&r",
     "quest.059999914CE99711.quest_desc": [
@@ -670,7 +670,7 @@
         "Made inside the &lPurification Chamber&r"
     ],
     "quest.1AD7FACB7A282A3A.quest_desc": [
-        "Can be used to &lBuy&r and &lSell&r useful &lItems&r"
+        "Can be used to &lBuy&r useful &lItems&r. Place the &lCatalog&r in the bottom left slot to view items to buy"
     ],
     "quest.1ADBF5520E2DD240.quest_desc": [
         "Spawns on the &lBedrock&r when killing the &lDragon&r"
@@ -692,7 +692,7 @@
     ],
     "quest.1B9EBD3D77CA1692.quest_subtitle": "&a&oUltimate Technium Part&r&r",
     "quest.1BE5521FEFB43D09.quest_desc": [
-        "Allows the injection of &lLiquid Oxygen&r. This will adjust the Oxygen and Power requirement depending on the amount of &lOxygen&r needed to fill the &lSpace Suit&r"
+        "&lOxygen&r is not the &lSAME.&r A &lWater Seperator&r can be used to make &lHydrogen&r and &lOxygen.&r Placing a &lSpace Suit&r inside the right most slot will fill with &lOxygen&r allowing you to breath in space"
     ],
     "quest.1C3A6DEE82F81476.quest_desc": [
         "The base of all Ultimate Research"
@@ -1280,6 +1280,9 @@
     "quest.395B58B75ECF34B2.quest_desc": [
         "Simple local flight"
     ],
+    "quest.396506AC5DA6615B.quest_desc": [
+        "&lSmart Crafting&r on the go "
+    ],
     "quest.39B27FAC187F5E0C.quest_desc": [
         "A better Kiln"
     ],
@@ -1341,6 +1344,9 @@
     "quest.3B7070B30C679C77.quest_desc": [
         "Place on a pipe connected to your extraction"
     ],
+    "quest.3BA4E53BEDEC59FF.quest_desc": [
+        "&lDiesel&r can be used to fuel the &lJet Suit&r allowing simple &lFlight&r in Space. &lDiesel&r can be added to a &lJet Suit Chestplate&r using the &lFluid Tank &r"
+    ],
     "quest.3BB15BF24034EFD2.quest_desc": [
         "Time to get &lComputing&r"
     ],
@@ -1348,7 +1354,7 @@
         "Used to create Elevators to instantly move up and down"
     ],
     "quest.3BD7671C9A18D365.quest_desc": [
-        "The next tier of &lTechnium&r"
+        "The next tier of &lTechnium&r. You did it thanks for playing &lTechopolis 3&r, there more if your prepared to continue..."
     ],
     "quest.3BD7671C9A18D365.quest_subtitle": "&5&lFinal Technium Part&r&r",
     "quest.3BDC8305E8BA948B.quest_desc": [
@@ -1548,6 +1554,9 @@
     ],
     "quest.46822F1CB547D11E.quest_subtitle": "name eye crafter",
     "quest.46822F1CB547D11E.title": "Eye Crafter",
+    "quest.46B1A6A644FB964A.quest_desc": [
+        "Allows up to 3 different &lDimensional Ores&r to be produced"
+    ],
     "quest.46B8DBEE30CEA5CD.quest_desc": [
         "A nice block"
     ],
@@ -2175,10 +2184,6 @@
     "quest.6246E91DC5BFEEC0.quest_desc": [
         "Better way to get fluids "
     ],
-    "quest.627070252CB1C1BA.quest_desc": [
-        "Iron can be used to make &lModern Dynamic Item Pipes&r. This provides another way of transporting items, there is also &lFluid Pipes&r as well"
-    ],
-    "quest.627070252CB1C1BA.title": "Modern Dynamics",
     "quest.62915A582CCFF6AD.quest_desc": [
         "Reduces the total time to grow crops, up to 3 can be placed in the &lCloche&r"
     ],
@@ -2274,7 +2279,7 @@
         "Thanks for playing &lTechopolis 3&r. I hope you enjoyed the pack please leave any feedback and suggestions in the discord"
     ],
     "quest.66B6D2242D0D62C5.quest_desc": [
-        "The next tier of &lTechnium&r"
+        "The next tier of &lTechnium&r. You did it thanks for playing &lTechopolis 3&r, there more if your prepared to continue..."
     ],
     "quest.66B6D2242D0D62C5.quest_subtitle": "&e&lEnd Technium Part&r&r",
     "quest.6721CA63AFCAA96B.quest_desc": [
@@ -2341,7 +2346,7 @@
         "More &lCobblestone&r"
     ],
     "quest.69088E4CDACCC49B.quest_desc": [
-        "The final tier of &lTechnium&r"
+        "The final tier of &lTechnium&r. You did it thanks for playing &lTechopolis 3&r, there more if your prepared to continue..."
     ],
     "quest.6954AA71B77C3E07.quest_desc": [
         "Made in the&l Simulation Chamber&r from&l Enderman Predictions&r"
@@ -2695,7 +2700,7 @@
     ],
     "quest.781EDB2D998E8C0A.quest_subtitle": "&l&e&oElite Technium Part&r&r&r",
     "quest.78321DD6F1C4E464.quest_desc": [
-        "The next tier of &lTechnium&r"
+        "The next tier of &lTechnium&r. You did it thanks for playing &lTechopolis 3&r, there more if your prepared to continue..."
     ],
     "quest.78321DD6F1C4E464.quest_subtitle": "&l&3Lunar Technium Part&r&r",
     "quest.783FCE5894B5465D.quest_desc": [
@@ -2712,9 +2717,6 @@
         "A nice rod"
     ],
     "quest.78D84F25E62AE1CE.quest_subtitle": "&l&7&oAdvanced Technium Part&r&r&r",
-    "quest.792A8FFFD3B8E171.quest_desc": [
-        "Allows you to extend machines! Place above the machine to enabled input and output into it from the &lMachine Extender&r"
-    ],
     "quest.795B98C57909A168.quest_desc": [
         "Smelted &lNetherite Dust&r"
     ],

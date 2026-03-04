@@ -1,15 +1,15 @@
 {
-    "enhanced_attack_indicator.midnightconfig.disableAxes": "Disable Axe's Attack Cooldown",
-    "enhanced_attack_indicator.midnightconfig.disablePickaxesAndShovels": "Disable Pickaxe's & Shovel's Attack Cooldown",
-    "enhanced_attack_indicator.midnightconfig.enum.WeaponCoolDownImportance.FIRST": "First",
-    "enhanced_attack_indicator.midnightconfig.enum.WeaponCoolDownImportance.LAST": "Last",
-    "enhanced_attack_indicator.midnightconfig.enum.WeaponCoolDownImportance.MIDDLE": "Middle",
-    "enhanced_attack_indicator.midnightconfig.showBlockBreaking": "Show Block Breaking Progress",
-    "enhanced_attack_indicator.midnightconfig.showFoodAndPotions": "Show Food & Potions",
-    "enhanced_attack_indicator.midnightconfig.showItemContainerFullness": "Show Shulker Fullness",
-    "enhanced_attack_indicator.midnightconfig.showItemCooldowns": "Show Item Cooldowns",
-    "enhanced_attack_indicator.midnightconfig.showRangeWeaponDraw": "Show Ranged Weapon Draw",
-    "enhanced_attack_indicator.midnightconfig.showSleep": "Show Sleep Progress",
-    "enhanced_attack_indicator.midnightconfig.title": "Enhanced Attack Indicator",
-    "enhanced_attack_indicator.midnightconfig.weaponCoolDownImportance": "Attack Cooldown Priority"
+    "enhanced_attack_indicator.configuration.disableAxes": "Disable Axe's Attack Cooldown",
+    "enhanced_attack_indicator.configuration.disablePickaxesAndShovels": "Disable Pickaxe's & Shovel's Attack Cooldown",
+    "enhanced_attack_indicator.configuration.enum.WeaponCoolDownImportance.FIRST": "First",
+    "enhanced_attack_indicator.configuration.enum.WeaponCoolDownImportance.LAST": "Last",
+    "enhanced_attack_indicator.configuration.enum.WeaponCoolDownImportance.MIDDLE": "Middle",
+    "enhanced_attack_indicator.configuration.showBlockBreaking": "Show Block Breaking Progress",
+    "enhanced_attack_indicator.configuration.showFoodAndPotions": "Show Food & Potions",
+    "enhanced_attack_indicator.configuration.showItemContainerFullness": "Show Shulker Fullness",
+    "enhanced_attack_indicator.configuration.showItemCooldowns": "Show Item Cooldowns",
+    "enhanced_attack_indicator.configuration.showRangeWeaponDraw": "Show Ranged Weapon Draw",
+    "enhanced_attack_indicator.configuration.showSleep": "Show Sleep Progress",
+    "enhanced_attack_indicator.configuration.title": "Enhanced Attack Indicator",
+    "enhanced_attack_indicator.configuration.weaponCoolDownImportance": "Attack Cooldown Priority"
 }

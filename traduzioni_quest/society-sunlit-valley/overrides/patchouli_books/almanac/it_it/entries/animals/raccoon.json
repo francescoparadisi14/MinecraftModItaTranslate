@@ -1,17 +1,17 @@
 {
-    "name": "Racchietto",
+    "name": "Prosciotto",
     "category": "patchouli:animals",
     "icon": "furniture:trash_bag",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Raccolta: ...rifiuti? (50% di probabilità)$(li)Bottino: Scatola di latta$(br2)$(l)Note$()$(br)La raccolta richiede 3+ cuori. Può essere trovato nei biomi delle Pianure."
+            "text": "patchouli: testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile per la vendita$(li)Raccolta: ... rifiuti? (50% di probabilità)$(li)Oggetti ottenuti: Barattolo di latta$(br2)$(l)Note$()$(br)La raccolta richiede almeno 3 cuori. Può essere trovato negli ambienti delle pianure."
         },
         {
             "type": "patchouli:entity",
             "entity": "wildernature:raccoon",
             "scale": 0.7,
-            "text": "Questi piccoli sono i migliori amici dei Mucchi Putridi!"
+            "text": "patchouli: entità\n\nwildernature: tasso\n\nQuesti piccoli sono grandi amici dei \"Slime Putrescenti\"!"
         }
     ]
 }

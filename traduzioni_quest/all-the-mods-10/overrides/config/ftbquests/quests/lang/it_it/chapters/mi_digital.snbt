@@ -1,0 +1,174 @@
+{
+    "quest.00C95A190BE2CBF9.quest_desc": [
+        "Per ottenere il polistirene, è necessario reagire il polvere di ferro con l'etilbenzene e il vapore. L'etilbenzene è il prodotto della distillazione del nafta frazionata."
+    ],
+    "quest.00C95A190BE2CBF9.title": "Distillazione avanzata",
+    "quest.011B8BD02D80DDD4.quest_desc": [
+        "È possibile trovare facilmente il minerale di tungsteno in tutto il mondo. Rompendo il minerale, si otterrà il tungsteno grezzo."
+    ],
+    "quest.024BD22824C7F53A.quest_desc": [
+        "La distillazione del nafta fratturato con vapore darà come risultato toluene."
+    ],
+    "quest.09BE81548CD81068.quest_desc": [
+        "Finalmente avete ottenuto tutti i componenti necessari per il vostro Star\\&r!!"
+    ],
+    "quest.0B60DA8F65E5DF06.quest_desc": [
+        "È possibile ridurre in polvere il tungsteno grezzo utilizzando diversi metodi per ottenere polvere di tungsteno."
+    ],
+    "quest.0C229BE9B57269EF.quest_desc": [
+        "Il polvere di Kandthal (\\&#EBA844Kanthal) deve essere fuso in un forno a fusione elettrico."
+    ],
+    "quest.0CD36928116E868E.quest_desc": [
+        "Il cloruro di polivinile può essere miscelato con il polvere di piombo (\\&#9683F7) o con il polvere di cromo (\\&#FEA8FF) per ottenere cloruro di polivinile."
+    ],
+    "quest.0EA327E405EDFF02.quest_desc": [
+        "La miscela di acetilene e acido cloridrico produrrà cloruro di vinile."
+    ],
+    "quest.1A83615B7E1D3540.quest_desc": [
+        "L'aggiunta di acqua deuterata (\\&#45BF56) a un reattore, insieme al combustibile, produrrà deuterio. Esistono altri metodi per ottenere questo, ma i reattori (\\&#45BF56) offrono il modo più rapido."
+    ],
+    "quest.226187AA3F1B6DB1.quest_desc": [
+        "Mescolando insieme i seguenti componenti: D4C35DS, \\&r, \\&8Flint\\&r, \\&8DF0EENitrogen\\&r e \\&69C9C7Toluene\\&r, otterremo la TNT industriale."
+    ],
+    "quest.22B8D57337944D9C.quest_desc": [
+        "Ora è possibile raffreddare le lingote di titanio, precedentemente prodotte, nel congelatore sottovuoto per ottenere lingote di titanio utilizzabili."
+    ],
+    "quest.22B8D57337944D9C.title": "Lingotto di titanio",
+    "quest.23DB52ECA259F36D.quest_desc": [
+        "L'acqua pesante in un reattore BF56 produce triti e vapore di acqua pesante.",
+        "",
+        "Il Tritium è utilizzato per componenti avanzati, mentre l'acqua pesante può essere riciclata in acqua pesante utilizzando un interruttore di calore."
+    ],
+    "quest.267A357B28228694.quest_desc": [
+        "La memoria RAM (Random Access Memory) è prodotta in un reattore chimico utilizzando gomma di stirene-butadiene (A1A1A1), argon (D15EE6), polvere di antimonio (7), polvere di alluminio (5ED2E6) e wafer di silicio (5D76C2)."
+    ],
+    "quest.282A23C3E7561796.quest_desc": [
+        "L'array di elaborazione \"Processing Array\" è una struttura complessa e multiblock che consente di simulare macchine che operano in parallelo. Il numero massimo di operazioni parallele è di 64.",
+        "",
+        "Per creare la struttura a più blocchi, è necessario prima selezionare nel pannello di controllo il numero di macchine parallele che si desidera simulare.",
+        "",
+        "{image:atm:textures\/questpics\/modernindustrialization\/proc_array_gui.png width:175 height:100 align:center}",
+        "",
+        "{@pagebreak}",
+        "Per utilizzare la macchina, è necessario inserire la macchina che si desidera simulare nello slot situato sul lato destro dell'interfaccia grafica. È necessario avere lo stesso numero di macchine rispetto al numero di operazioni che si desidera eseguire.",
+        "",
+        "Inoltre, l'array di elaborazione \"Processing Array\" accetta normalmente tutte le nuove versioni."
+    ],
+    "quest.2A95F4F998835B43.quest_subtitle": "9 nugget → 1 lingotto",
+    "quest.3003598CE8B1FAAA.quest_subtitle": "Tecnologia più avanzata",
+    "quest.3003598CE8B1FAAA.title": "Componenti più avanzate",
+    "quest.31CB278B4BA7B25E.quest_desc": [
+        "Attraverso la centrifugazione del gas liquido, otterremo tre prodotti: ossigeno, azoto e argon. Utilizzeremo l'argon in futuro."
+    ],
+    "quest.31CB278B4BA7B25E.quest_subtitle": "Ha senso.",
+    "quest.31CB278B4BA7B25E.title": "Centrifugazione dell'aria",
+    "quest.352A226915809E1B.quest_desc": [
+        "Grazie al nuovo prodotto \\&#3946E3Ingetto misto resistente all'esplosione, ora potremo combinare acciaio inossidabile, tungsteno e titanio in getto per creare un nuovo materiale."
+    ],
+    "quest.35FDC436DE07635F.quest_desc": [
+        "La compressa \"Implosion Compressor\" utilizza la forza di esplosivi per combinare risorse. Può essere utilizzata per ottenere leghe di alluminio resistenti all'esplosione più efficienti, oltre a molte altre risorse utili."
+    ],
+    "quest.3601DD545E1D11B4.quest_desc": [
+        "La reazione tra l'argon, la polvere di silicio e la polvere di iridio darà come risultato il silicio monocristallino.",
+        "",
+        "Il minerale di Iridium può essere trovato nel mondo di gioco."
+    ],
+    "quest.36D35C35BBC0A555.quest_subtitle": "Il più efficiente",
+    "quest.386ABEB4249D157D.quest_desc": [
+        "Un singolo lingotto di silicio monocristallino può essere tagliato in 32 wafer di silicio."
+    ],
+    "quest.3891F8D4201E6BFD.quest_desc": [
+        "La lingotta di Kanthal (EBA844) può essere trasformata in fili sottili, che a loro volta possono essere utilizzati per creare avvolgimenti di Kanthal (EBA844).",
+        "",
+        "Le bobine in Hastelloy 276 consentono al nostro forno a fusione elettrico di operare a temperature molto più elevate, consentendo l'utilizzo di una gamma più ampia di processi.",
+        "",
+        "È necessario cambiare le bobine nell'interfaccia utente del forno elettrico.",
+        "",
+        "{image:atm:textures\/questpics\/modernindustrialization\/switch_to_kanthal.png width:150 height:75 align:center}"
+    ],
+    "quest.39A0BA6E2A72A681.quest_desc": [
+        "Mescolando polvere di acciaio inossidabile (\\&#99F0), polvere di alluminio (\\&#ADDBDB) e polvere di cromo (\\&#E9A8F7) otterremo polvere di Kanthal (\\&#EBA844)."
+    ],
+    "quest.3A0C8BCE197A448B.quest_desc": [
+        "Lo stirene-butadiene può essere miscelato con lo stirene-butadiene o con la polvere di stirene-butadiene o la polvere di cromo per ottenere una gomma di stirene-butadiene."
+    ],
+    "quest.3ACC27B786CDCF22.quest_desc": [
+        "Un compressore elettrico consente di trasformare la polvere di tungsteno in piccoli granelli di tungsteno."
+    ],
+    "quest.3B1CDC2DD05CAE80.quest_desc": [
+        "Grazie a questi componenti – PVC, piastra in platino, batteria al cadmio, cavo in rame temperato e scheda a circuiti stampati – otterremo una scheda di elaborazione."
+    ],
+    "quest.3CB05026BC4C5577.quest_desc": [
+        "Attualmente, è possibile produrre piastre resistenti all'esplosione in lega utilizzando un compressore elettrico, partendo da un lingotto di lega resistente all'esplosione."
+    ],
+    "quest.3FE2A649F07DF28D.quest_subtitle": "È possibile ottenere polvere di plutonio dalla polvere di Blutonium prodotta da Extreme Reactors.",
+    "quest.3FE489E6B1FAC24B.quest_subtitle": "Riciclaggio dei materiali residui",
+    "quest.3FE489E6B1FAC24B.title": "Ottenere il plutonio",
+    "quest.40F2EDB9384CE782.quest_desc": [
+        "La distillazione di \"Combustibile leggero a vapore\" produrrà acetilene come prodotto."
+    ],
+    "quest.4A06CCE1FE0F333C.quest_desc": [
+        "Quando il sistema di aspirazione dell'aria viene inserito in un congelatore a vuoto, produrrà aria liquida."
+    ],
+    "quest.4A618CA66AD6223D.quest_subtitle": "An ulteriore aumento della potenza di ingresso",
+    "quest.4F870252E9FB1A41.quest_desc": [
+        "Il reattore può essere alimentato utilizzando dei barre di combustibile, che sono i tipi più semplici da creare."
+    ],
+    "quest.50F97171D25CD2EE.quest_desc": [
+        "Aggiornamenti Turbo: capacità aggiuntiva per ogni aggiornamento."
+    ],
+    "quest.56A4F5D301BC1E93.quest_desc": [
+        "Aggiornamenti Turbo: Capacità aggiuntiva per ogni aggiornamento."
+    ],
+    "quest.58F7C11C241DD7A4.quest_desc": [
+        "La torre di distillazione è una versione migliorata della distilleria. Il suo principale vantaggio è che consente di ottenere più prodotti da un singolo input.",
+        "",
+        "Per costruire la struttura, è necessario aprire l'interfaccia grafica del blocco \"Torre di Distillazione\" e selezionare l'altezza desiderata. L'altezza dipende dal numero di output necessari. Per la lavorazione del \"Petrolio Grezzo\", è necessario un'altezza di 3 blocchi."
+    ],
+    "quest.58F7C11C241DD7A4.quest_subtitle": "L'efficienza è fondamentale.",
+    "quest.5A4406F89DB802F0.quest_desc": [
+        "La reazione tra lo stirene e il butadiene porta alla formazione di stirene-butadiene."
+    ],
+    "quest.5B45AB96953FA61C.title": "L'era digitale",
+    "quest.633D6361DA680C75.quest_desc": [
+        "Mescolando il carburante leggero con vapore, otterrete carburante leggero con vapore."
+    ],
+    "quest.66E78F599CD50579.quest_desc": [
+        "Il reattore nucleare (codice \\&#49C472) consente di utilizzare risorse di livello superiore. Lo utilizzeremo per generare deuterio ed elio-3.",
+        "",
+        "Questa lista di risorse ti aiuterà a costruire un reattore di \"grandi dimensioni\". Non è consigliabile utilizzare dimensioni inferiori a causa della sua velocità e efficienza.",
+        "{@pagebreak}",
+        "I dettagli per la realizzazione di un reattore efficiente sono troppo complessi per essere forniti qui. Tuttavia, posso fornirvi i migliori progetti possibili.",
+        "",
+        "Ecco un progetto per un reattore di grandi dimensioni, progettato per la produzione di deuterio.",
+        "{image:atm:textures\/questpics\/modernindustrialization\/large_reactor.png width:100 height:100 align:center}",
+        "",
+        "Questo è un progetto di reattore di dimensioni estreme (49C472) progettato per produrre Tritio.",
+        "",
+        "{image:atm:textures\/questpics\/modernindustrialization\/largest_reactor.png width:100 height:100 align:center}"
+    ],
+    "quest.66E78F599CD50579.quest_subtitle": "Non esplodono.",
+    "quest.672B69448F1D458B.quest_desc": [
+        "Questo scambiatore di calore è un paradiso per gli appassionati di turbine e reattori ad alta potenza. Questa macchina è in grado di produrre una quantità incredibilmente elevata di vapore."
+    ],
+    "quest.672B69448F1D458B.quest_subtitle": "Il vapore emette un suono \"brrr\".",
+    "quest.6A9AE3514B5151C9.quest_desc": [
+        "Le bobine in Kanthal permetteranno di trasformare il titanio grezzo in lingotti di titanio fuso. Questo processo richiede una soluzione di solfato di manganese."
+    ],
+    "quest.6F183B06683D1213.quest_desc": [
+        "L'ingot di Kanthal, identificato con il codice \\&#EBA844K, può essere raffreddato utilizzando il congelatore sottovuoto identificato con il codice \\&#6DC0F7."
+    ],
+    "quest.6F3974CAAA555FD0.quest_subtitle": "Gestire questa RAM",
+    "quest.75619C7174C6703C.quest_desc": [
+        "La centrifugazione della polvere di uranio ci permetterà di ottenere alcuni isotopi di uranio, che potranno essere ulteriormente trasformati in barre di qualità superiore."
+    ],
+    "quest.75619C7174C6703C.title": "Centrifugazione della polvere di uranio",
+    "quest.78EC7D19BE24FE06.quest_subtitle": "Non esplode",
+    "quest.7AF6C95816E82861.quest_desc": [
+        "L'aggiunta di acqua pesante (acqua deuterata) al reattore produrrà acqua pesante. Questa acqua pesante può essere reintrodotta nel reattore."
+    ],
+    "quest.7C73740F1B515F2C.quest_desc": [
+        "La polvere di tungsteno deve essere ridotta a una dimensione molto più piccola per poter essere lavorata."
+    ],
+    "task.08F68CC089765088.title": "Trucco per aggirare"
+}

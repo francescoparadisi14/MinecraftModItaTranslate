@@ -1,15 +1,15 @@
 {
-    "name": "Flax 🌼",
+    "name": "Semi di lino 🌼",
     "category": "patchouli:crops",
     "icon": "supplementaries:flax",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 68$(li)🌼 Primavera $(li)Prezzo seme: Denaro 8$(li)Rendimento: 1$(li)Tempo di crescita: 7 giorni"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 68$(li)🌼 Primavera$(li)Prezzo del seme: :moneta: 8$(li)Resa: 1$(li)Tempo di crescita: 7 giorni"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Flax Crop",
+            "name ": "Patchouli: coltura di lino",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -28,8 +28,7 @@
                     "0": "supplementaries:flax[age=7,half=lower]",
                     "F": "minecraft:farmland[moisture=7]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

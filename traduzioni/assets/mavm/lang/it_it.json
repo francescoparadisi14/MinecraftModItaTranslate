@@ -1,13 +1,13 @@
 {
     "mavapi.mod.mavm": "MAVM",
-    "mavapi.variant.mavm.black": "nero",
+    "mavapi.variant.mavm.black": "Nero",
     "mavapi.variant.mavm.cyanide": "Cianuro",
-    "mavapi.variant.mavm.glowxolotl": "Glow Xolotl",
-    "mavapi.variant.mavm.golden": "Oro",
+    "mavapi.variant.mavm.glowxolotl": "Glowxolotl",
+    "mavapi.variant.mavm.golden": "Dorato",
     "mavapi.variant.mavm.green": "Verde",
     "mavapi.variant.mavm.lucia": "Lucia",
-    "mavapi.variant.mavm.red": "rosso",
-    "mavapi.variant.mavm.skulk": "Skulk",
-    "mavapi.variant.mavm.white": "bianco",
-    "mavapi.variant.mavm.wilder": "Selvaggio"
+    "mavapi.variant.mavm.red": "Rosso",
+    "mavapi.variant.mavm.skulk": "Nascondersi, agire in modo furtivo",
+    "mavapi.variant.mavm.white": "Bianco",
+    "mavapi.variant.mavm.wilder": "Wilder"
 }

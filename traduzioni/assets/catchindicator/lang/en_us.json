@@ -1,0 +1,12 @@
+{
+    "catchindicator.config.done": "Done",
+    "catchindicator.config.enabled": "Enabled: %s",
+    "catchindicator.config.off": "OFF",
+    "catchindicator.config.on": "ON",
+    "catchindicator.config.reveal_unknown_names": "Reveal unknown names on Minimap: %s",
+    "catchindicator.config.style": "Style: %s",
+    "catchindicator.config.title": "Catch Indicator",
+    "category.catchindicator": "Catch Indicator",
+    "key.catchindicator.open_config": "Open Catch Indicator Config",
+    "modmenu.nameTranslation.catchindicator": "Catch Indicator"
+}

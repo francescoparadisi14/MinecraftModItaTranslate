@@ -1,6 +1,6 @@
 {
-    "block.nemos_woodcutter.woodcutter": "Taglialegna di legno",
+    "block.nemos_woodcutter.woodcutter": "Taglialegna",
     "container.woodcutter": "Taglialegna",
-    "resourcePack.nemos_woodcutter.dark_mode.description": "Interfaccia oscura per il taglialegna",
-    "resourcePack.nemos_woodcutter.dark_mode.name": "Modalità oscura"
+    "resourcePack.nemos_woodcutter.dark_mode.description": "Interfaccia utente scura per il \"Woodcutter\"",
+    "resourcePack.nemos_woodcutter.dark_mode.name": "Modalità scura"
 }

@@ -38,6 +38,7 @@
     "condiments.configuration.crates": "Crates",
     "condiments.configuration.crates_contain_empty_crates": "Crates Contain Empty Crates",
     "condiments.configuration.empty_crate_stack_size": "Empty Crate Stack Size",
+    "condiments.configuration.feature_toggles": "Feature Toggles",
     "condiments.configuration.misc": "Misc",
     "condiments.configuration.render_crate_contents_in_hand": "Render Crate Contents in Hand",
     "condiments.configuration.show_crate_hud": "Show Crate HUD",

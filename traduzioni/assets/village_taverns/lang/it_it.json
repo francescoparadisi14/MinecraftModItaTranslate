@@ -1,0 +1,6 @@
+{
+    "block.village_taverns.barrel": "Contenitore per la birra",
+    "block.village_taverns.barrel.hint": "Banco da lavoro per i villager di Bartender.",
+    "entity.minecraft.villager.bartender": "Barista",
+    "entity.minecraft.villager.village_taverns.bartender": "Barista"
+}

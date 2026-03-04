@@ -1,9 +1,11 @@
 {
-    "argument.entity.options.bleeding.description": "Filtra per entità che sanguinano o meno",
-    "config.playerrevive.bleeding.bleedingMessageTrackingOnly.comment": "Solo i giocatori all'interno della distanza di rendering delle persone ferite ricevono i messaggi di emorragia.",
-    "playerrevive.chat.bleeding": "%s sta perdendo sangue e potrebbe aver bisogno del tuo aiuto",
-    "playerrevive.chat.no_commands": "Non sono consentiti comandi quando si è in stato di emorragia",
-    "playerrevive.gui.hold": "Aspetta aiuto o tieni '%s' per %s secondi per rinunciare",
+    "argument.entity.options.bleeding.description": "Filtra in base al fatto che un'entità sanguini o meno.",
+    "config.playerrevive.bleeding.bleedingMessageTrackingOnly.comment": "Solo i giocatori che si trovano entro il raggio di visualizzazione delle persone ferite ricevono i messaggi relativi al sanguinamento.",
+    "playerrevive.chat.bleeding": "%s sta sanguinando e potrebbe aver bisogno del suo aiuto.",
+    "playerrevive.chat.no_commands": "Non sono ammesse istruzioni durante la trasfusione.",
+    "playerrevive.gui.give_up.hold": "Attendi assistenza o mantieni premuto il pulsante \"%s\" per %s secondi per rinunciare.",
     "playerrevive.gui.label.time_left": "Tempo rimanente: %s",
-    "playerrevive.revive.item": "hai bisogno di %s"
+    "playerrevive.gui.self_revive.hold": "Utilizza il simbolo '%' per ricaricare le energie.",
+    "playerrevive.revive.item": "Sono necessari il\/la\/i\/le %s",
+    "playerrevive.revive.other_team": "Non siete nello stesso team."
 }

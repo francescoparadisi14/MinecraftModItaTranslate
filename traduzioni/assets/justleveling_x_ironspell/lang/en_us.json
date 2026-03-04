@@ -1,0 +1,10 @@
+{
+    "passive.justleveling_x_ironspell.cast_passive": "Echo Chant",
+    "passive.justleveling_x_ironspell.cast_passive.description": "Shortens casting time",
+    "passive.justleveling_x_ironspell.cooldown_passive": "Quickly Launch",
+    "passive.justleveling_x_ironspell.cooldown_passive.description": "Reduces cooldown time",
+    "passive.justleveling_x_ironspell.mana_passive": "Mana Spring",
+    "passive.justleveling_x_ironspell.mana_passive.description": "Increases maximum mana",
+    "skill.justleveling_x_ironspell.kill_mana_skill": "Blood Mana",
+    "skill.justleveling_x_ironspell.kill_mana_skill.description": "Triggers when mana is below 20% \/ 40% \/ 60%, grants Instant Mana II\/III\/IV potion effect, cooldown 200 ticks"
+}

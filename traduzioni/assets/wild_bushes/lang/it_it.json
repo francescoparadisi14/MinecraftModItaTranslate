@@ -1,11 +1,11 @@
 {
-    "block.wild_bushes.unkown_wild_bush": "Bush selvaggio sconosciuto",
-    "block.wild_bushes.wild_beetroot_bush": "Bush di betulla selvatica",
-    "block.wild_bushes.wild_beetroot_bush_empty": "Bush di betulla selvatica",
-    "block.wild_bushes.wild_carrot_bush": "Bush di carota selvatica",
-    "block.wild_bushes.wild_carrot_bush_empty": "Bush di carota selvatica",
-    "block.wild_bushes.wild_potato_bush": "Cespuglio di patate selvatiche",
-    "block.wild_bushes.wild_potato_bush_empty": "Bush di patate selvatiche",
-    "block.wild_bushes.wild_wheat_bush": "Bush di grano selvaggio",
-    "block.wild_bushes.wild_wheat_bush_empty": "Bush di grano selvaggio"
+    "block.wild_bushes.unkown_wild_bush": "Un luogo selvaggio e incontaminato, probabilmente una zona boschiva.",
+    "block.wild_bushes.wild_beetroot_bush": "Boschetto di barbabietola selvatica",
+    "block.wild_bushes.wild_beetroot_bush_empty": "Boschetto di barbabietola selvatica",
+    "block.wild_bushes.wild_carrot_bush": "Arbusto di carota selvatica",
+    "block.wild_bushes.wild_carrot_bush_empty": "Arbusto di carota selvatica",
+    "block.wild_bushes.wild_potato_bush": "Boschetto di patate selvatiche",
+    "block.wild_bushes.wild_potato_bush_empty": "Boschetto di patate selvatiche",
+    "block.wild_bushes.wild_wheat_bush": "Cerciano selvatico",
+    "block.wild_bushes.wild_wheat_bush_empty": "Cerciano selvatico"
 }

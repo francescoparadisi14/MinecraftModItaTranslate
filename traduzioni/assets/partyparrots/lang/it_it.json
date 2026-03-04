@@ -1,14 +1,14 @@
 {
-    "config.partyparrots.prop.partyFlying.desc": "Fanno festa i pappagalli quando volano?",
-    "config.partyparrots.prop.partyFlying.name": "Volare in compagnia",
-    "config.partyparrots.prop.partyShoulder.desc": "Fanno festa i pappagalli quando sono sul tuo ombelico?",
-    "config.partyparrots.prop.partyShoulder.name": "Partito - spalla",
-    "config.partyparrots.prop.partySitting.desc": "Fanno festa i pappagalli quando sono seduti?",
-    "config.partyparrots.prop.partySitting.name": "Festa - seduto",
-    "config.partyparrots.prop.partyStanding.desc": "Fanno festa i pappagalli quando sono in piedi?",
-    "config.partyparrots.prop.partyStanding.name": "Posizione del party",
-    "config.partyparrots.prop.partyTwerk.desc": "Fanno festa i pappagalli quando gli giocatori ballano il twist?",
-    "config.partyparrots.prop.partyTwerk.name": "Festa - ballerina",
-    "config.partyparrots.prop.partyTwerkRange.desc": "Quanto devono essere lontani i giocatori per twerkare affinché gli uccelli partecipino alla festa?!",
-    "config.partyparrots.prop.partyTwerkRange.name": "Raggio di ballo del party"
+    "config.partyparrots.prop.partyFlying.desc": "Gli pappagalli si divertono quando volano?",
+    "config.partyparrots.prop.partyFlying.name": "Festa - Volare",
+    "config.partyparrots.prop.partyShoulder.desc": "Gli pappagalli si divertono quando sono seduti sulla tua spalla?",
+    "config.partyparrots.prop.partyShoulder.name": "Festa - Spalla",
+    "config.partyparrots.prop.partySitting.desc": "Gli pappagalli fanno festa quando sono seduti?",
+    "config.partyparrots.prop.partySitting.name": "Festa - Seduti",
+    "config.partyparrots.prop.partyStanding.desc": "Gli pappagalli festeggiano quando sono seduti?",
+    "config.partyparrots.prop.partyStanding.name": "Festa - Seduti",
+    "config.partyparrots.prop.partyTwerk.desc": "Gli pappagalli ballano quando i giocatori fanno il twerk?",
+    "config.partyparrots.prop.partyTwerk.name": "Festa - Movimenti di sedere",
+    "config.partyparrots.prop.partyTwerkRange.desc": "Quanto devono muoversi i ballerini per far ballare i pappagalli?",
+    "config.partyparrots.prop.partyTwerkRange.name": "Festa - Zona per ballare il \"twerk\""
 }

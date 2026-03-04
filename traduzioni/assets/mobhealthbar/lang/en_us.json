@@ -1,4 +1,6 @@
 {
+    "hpbarchooser.key.settings_screen": "Health Bar Selector",
+    "key.category.mobhealthbar.category": "YDM's Mob Health Bar",
     "key.mobhealthbar.category": "YDM's Mob Health Bar",
     "key.mobhealthbar.chooser": "Health Bar Selector",
     "mobhealthbar.hpbarchooser": "Choose Health Bar",

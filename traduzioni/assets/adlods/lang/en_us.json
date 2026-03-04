@@ -1,0 +1,16 @@
+{
+    "adlods.configuration.Deposits": "Deposits",
+    "adlods.configuration.Features": "Features",
+    "adlods.configuration.Indicators": "Indicators",
+    "adlods.configuration.Stripper": "Stripper",
+    "adlods.configuration.Veins": "Veins",
+    "adlods.configuration.alwaysOnCeiling": "alwaysOnCeiling",
+    "adlods.configuration.disableVanillaLargeVeins": "disableVanillaLargeVeins",
+    "adlods.configuration.disabledDeposits": "disabledDeposits",
+    "adlods.configuration.disabledFeatures": "disabledFeatures",
+    "adlods.configuration.disabledVeins": "disabledVeins",
+    "adlods.configuration.dressUnloadedChunks": "dressUnloadedChunks",
+    "adlods.configuration.enabled": "enabled",
+    "adlods.configuration.globalSizeMultiplier": "globalSizeMultiplier",
+    "adlods.configuration.globalSpawnRateMultiplier": "globalSpawnRateMultiplier"
+}

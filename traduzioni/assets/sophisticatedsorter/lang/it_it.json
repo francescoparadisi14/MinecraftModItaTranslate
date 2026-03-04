@@ -1,0 +1,16 @@
+{
+    "key.categories.sophisticatedsorter": "Sorter sofisticato",
+    "key.sophisticatedsorter.disable": "Disabilitare i pulsanti nel contenitore corrente",
+    "key.sophisticatedsorter.sort": "Ordinare contenitori",
+    "text.autoconfig.sophisticatedsorter.option.BLACK_LIST": "Elenco dei contenitori bloccati",
+    "text.autoconfig.sophisticatedsorter.option.BLACK_LIST.@Tooltip": "I contenitori elencati qui non presenteranno pulsanti di ordinamento.",
+    "text.autoconfig.sophisticatedsorter.option.FILTER": "Abilita il filtro dei contenitori",
+    "text.autoconfig.sophisticatedsorter.option.FILTER.@Tooltip": "Quando l'opzione è attivata, i pulsanti di ordinamento vengono visualizzati solo per i contenitori che hanno più di 10 slot disponibili (escludendo l'inventario del giocatore).",
+    "text.autoconfig.sophisticatedsorter.option.SORT_BY": "Ordina per",
+    "text.autoconfig.sophisticatedsorter.option.SORT_BY.@Tooltip": "Stabilisce come gli oggetti vengono disposti all'interno dei contenitori.",
+    "text.autoconfig.sophisticatedsorter.option.SORT_BY.COUNT": "Conte",
+    "text.autoconfig.sophisticatedsorter.option.SORT_BY.MOD": "Modello",
+    "text.autoconfig.sophisticatedsorter.option.SORT_BY.NAME": "Nome",
+    "text.autoconfig.sophisticatedsorter.option.SORT_BY.TAGS": "Tag",
+    "text.autoconfig.sophisticatedsorter.title": "Configurazione avanzata del sistema di ordinamento"
+}

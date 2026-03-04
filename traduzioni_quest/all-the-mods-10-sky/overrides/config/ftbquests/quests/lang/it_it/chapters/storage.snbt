@@ -1,0 +1,332 @@
+{
+    "quest.00DB5495C3A44999.quest_desc": [
+        "Seleziona l'inventario e fai clic con il pulsante destro del mouse per svuotarlo."
+    ],
+    "quest.0108F3EFDFD6DFD0.quest_desc": [
+        "La funzionalità Storage Link consente di connettere più dispositivi di archiviazione che non sono collegati a un controller di archiviazione o a qualsiasi blocco collegato ad esso.\n\nIn altre parole, è un modo per connettere in modalità wireless un \"gruppo di blocchi\" di dispositivi di archiviazione senza dover cliccare su ciascuno di essi individualmente.\n\nLa regola dei 14 blocchi rimane valida."
+    ],
+    "quest.019CA0E35F888222.quest_subtitle": "Ulteriori opzioni di filtro",
+    "quest.019CA0E35F888222.title": "\\&Aggiornamento avanzato per il rifornimento",
+    "quest.0298A17C2AAC5765.quest_desc": [
+        "Aumenta la dimensione dello stack nel \"Backpack\" di 8."
+    ],
+    "quest.0298A17C2AAC5765.title": "\\&Livello di abbonamento \"Stack\" – Livello 3",
+    "quest.037415D5B965E214.quest_desc": [
+        "Questo aggiornamento assicura che lo zaino non possa più danneggiarsi o rompersi."
+    ],
+    "quest.0682DC1F2417DAEB.quest_desc": [
+        "Functional Storage è un mod che aggiunge diversi oggetti utili per facilitare lo stoccaggio e per organizzare lo stoccaggio di oggetti simili in gruppi.\n\nQuesto può essere utile per oggetti come pietra, terra e altri."
+    ],
+    "quest.0682DC1F2417DAEB.quest_subtitle": "Cassetti per lo stoccaggio, parente lontano",
+    "quest.0682DC1F2417DAEB.title": "Archiviazione funzionale",
+    "quest.072FBEB0F6F1BC48.quest_desc": [
+        "Per collegare i cassetti a un controller e per collegare i cassetti Ender, è necessario fare clic con il tasto destro sul blocco del controller per avviare la configurazione. Fare clic con il tasto destro sui cassetti aggiungerà questi ultimi alla rete. Tenendo lo strumento, sarà possibile vedere a quali controller sono collegati i cassetti."
+    ],
+    "quest.0CD04A00529FE1C9.quest_desc": [
+        "La Cassa di rame può essere realizzata, ma non è necessaria per creare una Cassa di ferro. Può essere utilizzata se si desidera risparmiare del ferro."
+    ],
+    "quest.0CD04A00529FE1C9.title": "\\&6Cassa in rame",
+    "quest.0D4C64DD58567758.quest_desc": [
+        "Aggiunge un serbatoio alla zaino."
+    ],
+    "quest.0E057B7F76401421.quest_subtitle": "Il primo aggiornamento",
+    "quest.0E057B7F76401421.title": "Zaino in rame",
+    "quest.0E0CAA31480EC0A1.quest_desc": [
+        "Permette allo zaino di raccogliere oggetti."
+    ],
+    "quest.0E0CAA31480EC0A1.quest_subtitle": "Permette allo zaino di raccogliere oggetti.",
+    "quest.0E5AE195158CF344.quest_subtitle": "Aggiornamento dello spazio di archiviazione",
+    "quest.0E5AE195158CF344.title": "\\&Aggiornamento Netherite",
+    "quest.110D27EA86CDA62B.quest_desc": [
+        "Metti i magneti nella borsa."
+    ],
+    "quest.11A351E2CDE2A31E.quest_desc": [
+        "Le terminali Integrated consentono inoltre di accedere ai propri dispositivi di archiviazione in modalità wireless! Basta collegare un divisore omnidirezionale fornito da Integrated Dynamics a qualsiasi cavo Logic che collega i dispositivi di archiviazione.",
+        "cliccando con il terminale di archiviazione portatile, ora si ha accesso completo al proprio sistema."
+    ],
+    "quest.11A351E2CDE2A31E.title": "Accesso a dispositivi di archiviazione portatili",
+    "quest.11D4EEAC61C7E530.quest_desc": [
+        "L'aggiornamento \"The Collector\" permetterà di raccogliere gli oggetti dal cassetto da uno dei lati."
+    ],
+    "quest.11D57C768032E3F7.quest_subtitle": "Ulteriori opzioni di filtro",
+    "quest.11D57C768032E3F7.title": "\\&eAggiornamento avanzato del magnete",
+    "quest.122FBF5110E4CFF2.quest_desc": [
+        "L'aggiornamento \"Iron Downgrade\" ridurrà lo spazio massimo disponibile per il cassetto a uno spazio di stoccaggio. Questo può essere utile per mantenere gli oggetti in magazzino, ma non in quantità eccessive."
+    ],
+    "quest.1310C1E14C259807.quest_desc": [
+        "Desidera avere cassetti personalizzati? Non cercate oltre, questi possono riprodurre la texture di un blocco all'esterno e una diversa nella parte anteriore.\n\nSegua le istruzioni fornite nella tooltip per farlo."
+    ],
+    "quest.134608BB2B04D96E.quest_desc": [
+        "I forni hanno 27 scomparti e possono essere trasformati in un fornitto doppio per contenere il doppio della quantità."
+    ],
+    "quest.134608BB2B04D96E.quest_subtitle": "La cassa",
+    "quest.134608BB2B04D96E.title": "Conservazione del vaniglia",
+    "quest.156FF8B7B724DC38.quest_desc": [
+        "Aggiunge un filtro per controllare gli oggetti che vengono inseriti o rimossi dalla zaino."
+    ],
+    "quest.15CD4BFDC56E9510.quest_subtitle": "Ulteriori opzioni di filtro",
+    "quest.15CD4BFDC56E9510.title": "\\&eAggiornamento dello strumento avanzato",
+    "quest.1659A59303C15CC9.quest_desc": [
+        "I barili funzionano allo stesso modo dei forzieri, ma non possono essere combinati in un unico oggetto. Tuttavia, hanno un aspetto molto interessante."
+    ],
+    "quest.17DC77F7F8C68AE6.quest_desc": [
+        "I bidoni per i rifiuti possono essere utilizzati per distruggere oggetti indesiderati, liquidi e apparecchi elettrici."
+    ],
+    "quest.17DC77F7F8C68AE6.quest_subtitle": "Eliminare il superfluo",
+    "quest.17DC77F7F8C68AE6.title": "Bidoni per i rifiuti",
+    "quest.1985CFD1F0425E88.quest_subtitle": "Ulteriori opzioni di filtro",
+    "quest.1985CFD1F0425E88.title": "\\&eAggiornamento avanzato per il sistema di raccolta",
+    "quest.19DFAEB6D88F3580.quest_desc": [
+        "L'aggiornamento \"Pusher\" consente ai cassetti di espellere oggetti in qualsiasi lato."
+    ],
+    "quest.1A4B1CA7EC15348E.quest_desc": [
+        "Utilizzando lo strumento \"\\&aLinking Tool\", è possibile collegare 2 cassetti Ender per sincronizzare il loro contenuto.\n\nFunziona in modo simile a un cassetto Ender, ma come un singolo cassetto.\n\nPer collegare, fare clic con il tasto destro sul primo cassetto Ender utilizzando lo strumento \"\\&aLinking Tool\", quindi fare clic con il tasto sinistro sul secondo cassetto Ender."
+    ],
+    "quest.1A4B1CA7EC15348E.quest_subtitle": "Cassetto a dimensioni variabili...",
+    "quest.1A739D36D5E3B1AD.quest_subtitle": "Ulteriori opzioni di filtro",
+    "quest.1A739D36D5E3B1AD.title": "\\&eAggiornamento avanzato per l'alimentazione",
+    "quest.1B72E95569B07E18.quest_subtitle": "Aggiornamento dello spazio di archiviazione a 24 unità",
+    "quest.1B72E95569B07E18.title": "\\&bAggiornamento diamante",
+    "quest.1CACE201C6AA0913.quest_desc": [
+        "Questo aggiornamento annullerà gli elementi aggiuntivi che vengono forniti quando i cassetti sono pieni.\n\nQuesto può essere utile per evitare il superamento della capacità o per prevenire che un sistema si blocchi a causa del riempimento eccessivo dello spazio di archiviazione."
+    ],
+    "quest.1CD2C6AFD788C35E.quest_desc": [
+        "Raggruppare gli oggetti nel zaino in base alla ricetta 2x2."
+    ],
+    "quest.1E499F94A2A193E1.quest_desc": [
+        "Aggiunge un'interfaccia utente (GUI) per il forno a fusione al zaino."
+    ],
+    "quest.1FE052F643401232.quest_desc": [
+        "Avrete bisogno di questi materiali per effettuare gli aggiornamenti dello zaino."
+    ],
+    "quest.1FE052F643401232.quest_subtitle": "La base per gli aggiornamenti",
+    "quest.1FE17B1C7C639F88.quest_desc": [
+        "Il Controller di archiviazione consente di lavorare con più archivi come se fossero un unico grande archivio, gestito in modo centralizzato.\n\nQuesto permette di creare una rete di archiviazione molto ampia, che può essere combinata con mod come Applied Energistics o Integrated Dynamics, poiché il Controller di archiviazione funge da punto di accesso per tutti gli archivi collegati ad esso.\n\nÈ possibile collegare uno o più archivi semplicemente posizionandoli accanto al Controller o accanto ad altri archivi già collegati al Controller (questo funziona fino a 14 blocchi di distanza dal controller in tutte le direzioni)."
+    ],
+    "quest.209DC1E9AD4C5A84.quest_desc": [
+        "Questa quest è stata realizzata da \\&6AllTheMods Staff\\&r, oppure da un \\&2contributore della community\\&r, per l'uso nei pacchetti mod di AllTheMods.\\n\\nPoiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti a \\&eTutti i diritti riservati\\&r, questa quest non può essere utilizzata in altri pacchetti pubblici, se non quelli rilasciati dal team \\&6AllTheMods\\&r, senza un'esplicita autorizzazione.\\n\\nQuesta quest è intenzionalmente nascosta. Se la vedete, significa che siete in modalità di modifica."
+    ],
+    "quest.25AFD10D008DF30B.quest_desc": [
+        "Tutte le \"Ender Chests\" condividono lo stesso inventario, e questo inventario è diverso per ogni giocatore. Non è possibile combinarle in un unico inventario."
+    ],
+    "quest.26988E22BD019628.quest_desc": [
+        "Sciogliere gli oggetti nella borsa."
+    ],
+    "quest.26988E22BD019628.quest_subtitle": "Automatico",
+    "quest.26988E22BD019628.title": "\\& Aggiornamento per l'esplosione automatica",
+    "quest.26A9F402DAE15EA2.quest_desc": [
+        "Aggiunge un'interfaccia grafica per il \"fumogeno\" al \"backpack\"."
+    ],
+    "quest.2746575C929B6C50.quest_desc": [
+        "Gli sportelli possono essere di dimensioni 1x1, 2x1 o 2x2. A seconda del tipo di sportello, possono contenere un gran numero di pile di oggetti di dimensioni 1\/2\/4."
+    ],
+    "quest.2746575C929B6C50.quest_subtitle": "Strati su strati",
+    "quest.289ED1DFD83B9838.quest_desc": [
+        "Non solo puoi collegare oggetti, ma anche fluidi! Basta aggiungere un'interfaccia per fluidi a qualsiasi soluzione di stoccaggio che contenga fluidi e collegarla con i cavi Logic, e sarà visibile nel tuo sistema!",
+        "",
+        "Un modo pratico per interagire con il fluido è quello di avere dei secchi nel proprio inventario e, quindi, cliccare sul fluido e poi di nuovo sui secchi per riempirli!"
+    ],
+    "quest.2B422B7E0CE3590D.quest_desc": [
+        "La cassetta di compattazione può trasformare gli oggetti posizionati al suo interno nelle loro forme di \"nugget\" o \"blocchi\".\n\nAd esempio: Posizionando un blocco di ferro all'interno, sarà possibile estrarne 9 \"nugget\", oppure, posizionando ulteriore ferro, verrà trasformato in \"blocchi\" di ferro."
+    ],
+    "quest.2B422B7E0CE3590D.quest_subtitle": "Auto compatte\/decompattabili",
+    "quest.2F9B0C642A6BE30C.title": "\\&fZaino in ferro",
+    "quest.2FC15D3916DBF4E4.quest_subtitle": "Ulteriori opzioni di filtro",
+    "quest.2FC15D3916DBF4E4.title": "\\&eAggiornamento Avanzato del Vuoto",
+    "quest.3043C83CCFC9706D.quest_desc": [
+        "Senza dubbio, la soluzione di archiviazione migliore prima di configurare AE2 è il sistema di terminali integrati.",
+        "",
+        "\\&9Integrated Terminals\\&r offre una soluzione di stoccaggio fin dalle prime fasi del gioco.",
+        "che ti permette di accedere a tutti i forzieri circostanti, oltre a alcune opzioni di fabbricazione automatizzata!",
+        "",
+        "Innanzitutto, preparare il \"Menril Glass\" immergendo il vetro in una vasca contenente resina Menril."
+    ],
+    "quest.3043C83CCFC9706D.title": "Terminali integrati",
+    "quest.33882172DA8021F6.quest_desc": [
+        "Mantiene l'inventario del giocatore organizzato, raggruppando gli oggetti contenuti nello zaino."
+    ],
+    "quest.33AADC1B97E9F7A9.quest_desc": [
+        "I vagoncini con casse sono vagoncini che contengono già delle casse. Non è possibile utilizzarli come mezzi di trasporto, ma possono essere utili per trasportare oggetti all'interno dei sistemi ferroviari."
+    ],
+    "quest.36BCE35215B2B6E9.quest_desc": [
+        "Sciogliere gli oggetti nella borsa."
+    ],
+    "quest.36BCE35215B2B6E9.quest_subtitle": "Automatico",
+    "quest.36BCE35215B2B6E9.title": "\\& Aggiornamento per fumo automatico",
+    "quest.38F9E9A830D3EA0C.quest_desc": [
+        "Se pensaste che questo mod fosse utile solo per conservare oggetti, vi sbagliate, esistono anche i contenitori per liquidi!\\n\\nFunzionano allo stesso modo dei contenitori normali, ma sono progettati per conservare liquidi."
+    ],
+    "quest.3A1D07AED2A841E4.quest_desc": [
+        "Sciogliere gli oggetti nella borsa."
+    ],
+    "quest.3A1D07AED2A841E4.quest_subtitle": "Automatico",
+    "quest.3A1D07AED2A841E4.title": "\\&Aggiornamento per la fusione automatica",
+    "quest.3B570B3DB5F6D2CB.quest_subtitle": "Aggiornamento dello spazio di archiviazione a 16 unità",
+    "quest.3B570B3DB5F6D2CB.title": "\\&Aggiornamento Gold\\&",
+    "quest.3CE3CDB9C93CBDAD.quest_desc": [
+        "[ \"Want to do some autocrafting? Check out the full \", { \"text\": \"IntegratedDynamics\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"499CF9F39CED8899\" } }, \" guide!\" ]"
+    ],
+    "quest.3CE3CDB9C93CBDAD.title": "Auto-costruzione",
+    "quest.3E33730DC2115D26.title": "\\&Cassa d'oro",
+    "quest.4007DFA7CC3A5FF2.quest_desc": [
+        "Per evitare che l'intera sezione delle migliorie sia piena di oggetti, date un'occhiata agli aggiornamenti per lo \"Zaino Sofisticato\".\n\nAvrete bisogno di ottenere l'equivalente dello \"Zaino Sofisticato\", ma funzionano in modo simile."
+    ],
+    "quest.4007DFA7CC3A5FF2.quest_subtitle": "La base per gli aggiornamenti",
+    "quest.45268A619787288F.title": "Zaino \\&eGold",
+    "quest.46D756F4DC6CC894.title": "\\& Zaino in Netherite",
+    "quest.485D5664A17E16DF.quest_subtitle": "Aggiornamento dello spazio di archiviazione a 8 unità",
+    "quest.485D5664A17E16DF.title": "\\&6 Aggiornamento del rame",
+    "quest.4A854CD5EC70733E.quest_desc": [
+        "Aggiunge un'interfaccia utente (GUI) per la creazione di oggetti alla borsa."
+    ],
+    "quest.4B62AF0405F68041.quest_desc": [
+        "Aggiunge un filtro che permette di specificare quali oggetti il \"Backpack\" deve mantenere in magazzino. Cliccando con il tasto destro su un inventario, questo viene riempito."
+    ],
+    "quest.4B62AF0405F68041.quest_subtitle": "Tutto disponibile",
+    "quest.4C0BDD483CCB40C4.title": "\\&bDiamond Chest",
+    "quest.4C0EAB9F795686D0.quest_subtitle": "Ulteriori opzioni di filtro",
+    "quest.4C0EAB9F795686D0.title": "\\&eAggiornamento del deposito avanzato",
+    "quest.4C2A60FC1F1E0328.quest_desc": [
+        "Aggiunge una batteria alla zaino."
+    ],
+    "quest.4E4C8BCD45766F03.quest_desc": [
+        "Questo contenitore compatterà automaticamente l'articolo posto al suo interno, trasformandolo nella sua forma più compatta."
+    ],
+    "quest.4E4C8BCD45766F03.quest_subtitle": "Auto compatte\/decompattabili",
+    "quest.508A8366219175FE.quest_desc": [
+        "Lo strumento di configurazione viene utilizzato per bloccare i cassetti, in modo che ricordino l'oggetto che contengono.\n\nQuesto può essere utile quando si configura un sistema di prelievo e consegna da cassetti. Il cassetto bloccato non sostituirà l'oggetto che era bloccato al suo interno!"
+    ],
+    "quest.52672B7FFFD51D16.quest_desc": [
+        "Aggiunge un'interfaccia grafica (GUI) per il \"Stonecutter\" all'interno del backpack."
+    ],
+    "quest.53F861876B991C36.quest_desc": [
+        "Aggiunge un'interfaccia grafica (GUI) per il Jukebox all'applicazione Backpack."
+    ],
+    "quest.53F861876B991C36.quest_subtitle": "Ora stiamo suonando bene",
+    "quest.544791880F315D5A.quest_desc": [
+        "Le barche con casse sono barche che contengono casse. È possibile aprire la cassa mentre si è a bordo della barca, oppure è possibile fare clic con il pulsante destro del mouse. Solo una persona può essere a bordo della barca alla volta."
+    ],
+    "quest.56B80A7EBFE21428.quest_subtitle": "Ulteriori opzioni di filtro",
+    "quest.56B80A7EBFE21428.title": "\\&eAggiornamento avanzato della pompa",
+    "quest.57CF8C6C867B9BDA.quest_subtitle": "Ulteriori opzioni di filtro",
+    "quest.57CF8C6C867B9BDA.title": "\\&eAggiornamento del filtro avanzato",
+    "quest.58514FDE153FD971.quest_subtitle": "Casse di ferro?",
+    "quest.58514FDE153FD971.title": "\\&fCassa in ferro",
+    "quest.5A94A2664BFDD7B9.quest_desc": [
+        "Benvenuti nel capitolo \"Archiviazione di base\"!\\nQui troverete tutti i metodi di base per conservare oggetti senza bisogno di energia, nonché articoli utili per le vostre esigenze di archiviazione!"
+    ],
+    "quest.5A94A2664BFDD7B9.title": "Archiviazione di base",
+    "quest.5E4BC0F59C90433A.quest_desc": [
+        "Sophisticated Storage ti permette di migliorare i tuoi Contenitori e Barili, aggiungendo metalli per aumentare la loro capacità di stoccaggio. Puoi anche aggiungere miglioramenti per aumentarne la funzionalità.\n\nQuesti contenitori sono simili a un contenitore o barile standard, ma hanno uno slot per un miglioramento di stoccaggio."
+    ],
+    "quest.5E4BC0F59C90433A.quest_subtitle": "Cassa alla vaniglia",
+    "quest.5E4BC0F59C90433A.title": "Archiviazione elegante",
+    "quest.5E4FE420B6D2C97F.quest_desc": [
+        "Organizzare gli ingredienti nella borsa in base alla ricetta 3x3."
+    ],
+    "quest.5E4FE420B6D2C97F.quest_subtitle": "Ulteriori opzioni di filtro",
+    "quest.5E4FE420B6D2C97F.title": "\\&Aggiornamento avanzato per la compattazione",
+    "quest.5FA9BC0D8476D322.quest_desc": [
+        "Si alimenta automaticamente con cibo dalla sacca."
+    ],
+    "quest.615B9062FE8CCD36.quest_desc": [
+        "Seleziona automaticamente lo strumento più efficace per l'elemento che stai visualizzando."
+    ],
+    "quest.61A22707DBC83818.quest_desc": [
+        "Il punto di accesso allo storage funge da controller dello storage quando è collegato, consentendo di accedervi o disconnettersi. In pratica, rappresenta un punto di accesso per gli armadi."
+    ],
+    "quest.668C313FF46B6005.quest_desc": [
+        "Aggiunge un'interfaccia utente per il forno al zaino."
+    ],
+    "quest.67704F7341EDCC49.title": "Zaino in pelle",
+    "quest.696E063016CAD1B9.quest_desc": [
+        "Aggiunge interfacce grafiche per la creazione di banchi di lavoro danneggiati al tuo zaino."
+    ],
+    "quest.6A2B2C5E2ADCE366.quest_desc": [
+        "Sophisticated Backpacks offre zaini aggiornabili che possono utilizzare filtri per aggiungere funzionalità interessanti!\n\nGli zaini possono essere inseriti nello slot \"Curios\" e possono essere colorati."
+    ],
+    "quest.6A2B2C5E2ADCE366.quest_subtitle": "Le scorte sono troppo basse.",
+    "quest.6A2B2C5E2ADCE366.title": "Zaini eleganti",
+    "quest.6E3D53D1C4569A89.quest_desc": [
+        "È possibile regolare la pressione dell'aria tra la pompa e lo zaino."
+    ],
+    "quest.6E3D53D1C4569A89.quest_subtitle": "Salvare i punti esperienza",
+    "quest.6E3D53D1C4569A89.title": "\\&a Aggiornamento del sistema di pompaggio",
+    "quest.6E9041744C592573.quest_desc": [
+        "Aggiunge la possibilità di prelevare liquidi dal serbatoio, grazie all'aggiornamento."
+    ],
+    "quest.6F6A23579CAE8013.quest_desc": [
+        "Successivamente, proceda a creare le interfacce e i cavi logici necessari.",
+        "",
+        "Posizionate le interfacce sui forni che desiderate collegare, e utilizzate i cavi Logica per collegarli tutti.",
+        "",
+        "Quindi, tutto ciò che devi fare è aggiungere un terminale di archiviazione e voilà! Avrai accesso a tutto il tuo sistema di archiviazione."
+    ],
+    "quest.6F6A23579CAE8013.title": "Collegare il tuo spazio di archiviazione",
+    "quest.6FBAE89EE782DABA.quest_desc": [
+        "Quando viene posizionato e collegato all'altro contenitore tramite lo strumento \"\\&aLinking Tool\", il Controller funge da \"hub\".\n\nSe si fa doppio clic destro su questo, tutti gli oggetti nel vostro inventario che hanno uno slot all'interno della rete di contenitori verranno recuperati.\n\nFacendo doppio clic destro sul controller con la mano vuota, è possibile accedere alla sezione delle \"migliorie\", aggiungendo le normali migliorie agli slot per aumentare l'intervallo del Controller. L'intervallo massimo è di 40 blocchi in tutte le direzioni, o un cubo di 80x80x80."
+    ],
+    "quest.6FBAE89EE782DABA.quest_subtitle": "Il centro di controllo dei cassetti",
+    "quest.70902EF96F060672.quest_desc": [
+        "Questo aggiornamento farà sì che i cassetti inviino un segnale di Redstone su tutti i lati, indicando la loro capacità (pieno o vuoto).\n\nPer i cassetti con più slot, l'aggiornamento può essere configurato per monitorare uno specifico slot.\n\n0 indica che il cassetto è vuoto.\n15 indica che il cassetto è pieno."
+    ],
+    "quest.7649D648A3688D4A.quest_desc": [
+        "La funzione \"Puller Upgrade\" consente agli sportelli di estrarre oggetti da qualsiasi lato."
+    ],
+    "quest.77F241BEE9902751.quest_desc": [
+        "La più grande delle casse prodotte da Sophisticated Storage"
+    ],
+    "quest.77F241BEE9902751.quest_subtitle": "Ci sono così tante opportunità per attività!",
+    "quest.77F241BEE9902751.title": "\\&Cassa in Netherite",
+    "quest.785951190FFDAA21.quest_desc": [
+        "Aumenta la dimensione dello stack nel \"Backpack\" di 4."
+    ],
+    "quest.785951190FFDAA21.title": "\\&Aggiornamento del livello 2 di \\&eStack",
+    "quest.78E51D22C16C4686.quest_desc": [
+        "Il controller di archiviazione è inoltre in grado di connettersi ad altri dispositivi di archiviazione in modalità wireless. Questo è possibile utilizzando lo strumento di archiviazione: basta fare clic con il pulsante destro del mouse sul controller di archiviazione per associarlo e fare clic con il pulsante destro del mouse sui dispositivi di archiviazione per collegarli.\n\nL'intervallo per la connessione wireless è lo stesso di quello per la connessione tradizionale, ovvero 14 blocchi di spazio."
+    ],
+    "quest.7AE3C8134F5ED726.quest_desc": [
+        "Aumenta la dimensione dello stack nel \"Backpack\" di 16."
+    ],
+    "quest.7AE3C8134F5ED726.title": "\\&Aggiornamento a livello 4 di \\&dStack",
+    "quest.7C07D6A33F7ADB02.quest_desc": [
+        "Si tratta di un aggiornamento per lo zaino, in modo da poter inserire lo zaino all'interno dello zaino.",
+        "",
+        "Quindi, potrete avere la vostra borsa all'interno della borsa, quando ne avrete bisogno all'interno della borsa."
+    ],
+    "quest.7C07D6A33F7ADB02.quest_subtitle": "Zaini all'interno dei zaini?",
+    "quest.7C0F7A1B3AB9A1A1.quest_subtitle": "Ulteriori opzioni di filtro",
+    "quest.7C0F7A1B3AB9A1A1.title": "\\&Aggiornamento avanzato per il rifornimento",
+    "quest.7E9E03274A88347D.quest_desc": [
+        "Aumenta la dimensione dello stack nel \"Backpack\" di 2."
+    ],
+    "quest.7E9E03274A88347D.title": "\\&Aggiornamento del livello 1 per \\&fStack",
+    "quest.7EF57BBEAA4B6B08.quest_desc": [
+        "Vorresti creare uno spazio di archiviazione virtuale utilizzando un mod come \"\\&9Applied Energistics 2\"?\n\nQuesti sono ottimi modi per migliorare il tuo sistema di archiviazione, ma è importante parlare di \"\\&eNBT Items\" e del modo migliore per gestirli.\n\nGli \"\\&eNBT Items\" sono oggetti con tag aggiuntivi. Ad esempio, oggetti incantati, oggetti con resistenza, ecc. Questi oggetti sono dotati di tag NBT. Di conseguenza, di solito non si possono impilare.\n\nQuando si immagazzinano grandi quantità di questi oggetti in un sistema come AE2, si rischia di creare problemi per il tuo salvataggio o server.\n\nPer questo motivo, è meglio conservarli in casse o borsa!"
+    ],
+    "quest.7EFBFF5D0DA018E7.quest_desc": [
+        "Aggiunge un filtro per eliminare automaticamente gli articoli presenti nella \"Zainetto\"."
+    ],
+    "quest.7EFBFF5D0DA018E7.quest_subtitle": "Aggiunge un filtro per eliminare automaticamente gli oggetti presenti nello zaino.",
+    "quest.7F990FBC1A691020.quest_desc": [
+        "Le casse \"Trapped Chests\" sono identiche alle casse normali, ma emettono un segnale di Redstone quando vengono aperte e non possono essere combinate in un'unica unità."
+    ],
+    "quest.7F990FBC1A691020.quest_subtitle": "Mi chiedo cosa ci sia dentro?",
+    "task.00ED02255105A973.title": "Casse di diamanti",
+    "task.0427B441A750316F.title": "Cesti d'oro",
+    "task.073D1C45B3018BBA.title": "Cesti",
+    "task.14FA4A933C39A406.title": "Barche con compartimenti salvavita",
+    "task.1809DDEA104A9CE8.title": "Tutti i diritti riservati",
+    "task.200CE35BF3C04F6F.title": "Cesti in rame",
+    "task.21FBC4E0F668347C.title": "NBT e NOI!",
+    "task.26A85DCA60F71DFF.title": "Cassetti fluidi",
+    "task.2E04D0F6EEABE677.title": "Cassetti",
+    "task.301665A6315B569C.title": "Controller di archiviazione",
+    "task.349B2DA0A38AE9B5.title": "Cassetti con cornice",
+    "task.34B6EB0B801E4743.title": "Cassetto di Netherite",
+    "task.49F46466DB8EDD61.title": "Cassa in ferro",
+    "task.51CC9A8E36385400.title": "Cesti",
+    "task.593CD1E685B4DDAA.title": "Aggiornamenti parziali",
+    "task.5DEBE38C614EFBB4.title": "Tutti i diritti riservati",
+    "task.6205B6B93B306A12.title": "Cesti"
+}

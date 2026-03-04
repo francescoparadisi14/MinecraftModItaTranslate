@@ -1,12 +1,7 @@
 {
     "text.autoconfig.bettercaves-fabric-1_20_1.option.general.liquidRegions": "Regioni liquide",
-    "text.autoconfig.bettercaves-fabric-1_20_1.option.general.liquidRegions.liquidAltitude": "Altezza liquida",
+    "text.autoconfig.bettercaves-fabric-1_20_1.option.general.liquidRegions.liquidAltitude": "Altitudine liquida",
     "text.autoconfig.bettercaves-fabric-1_20_1.option.general.liquidRegions.liquidRegionSize": "Dimensione della regione liquida",
-    "text.autoconfig.bettercaves-fabric-1_20_1.option.general.liquidRegions.waterRegionSpawnChance": "Cancello di spawn per regioni d'acqua",
-    "text.autoconfig.bettercaves-fabric-1_20_1.title": "Le grotte di yung migliori",
-    "text.autoconfig.bettercaves-fabric-1_21_1.option.general.liquidRegions": "Regioni liquide",
-    "text.autoconfig.bettercaves-fabric-1_21_1.option.general.liquidRegions.liquidAltitude": "Altezza liquida",
-    "text.autoconfig.bettercaves-fabric-1_21_1.option.general.liquidRegions.liquidRegionSize": "Dimensione della regione liquida",
-    "text.autoconfig.bettercaves-fabric-1_21_1.option.general.liquidRegions.waterRegionSpawnChance": "Cancello di spawn per regioni d'acqua",
-    "text.autoconfig.bettercaves-fabric-1_21_1.title": "Le grotte di yung"
+    "text.autoconfig.bettercaves-fabric-1_20_1.option.general.liquidRegions.waterRegionSpawnChance": "Probabilità di apparizione di creature acquatiche.",
+    "text.autoconfig.bettercaves-fabric-1_20_1.title": "Le migliori grotte di YUNG"
 }

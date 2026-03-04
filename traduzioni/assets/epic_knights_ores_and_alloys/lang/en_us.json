@@ -29,8 +29,9 @@
     "item.epic_knights_ores_and_alloys.silver_ingot": "Silver Ingot",
     "item.epic_knights_ores_and_alloys.silver_nugget": "Silver Nugget",
     "item.epic_knights_ores_and_alloys.silver_pickaxe": "Silver Pickaxe",
-    "item.epic_knights_ores_and_alloys.silver_shovel": "Silver Pickaxe",
+    "item.epic_knights_ores_and_alloys.silver_shovel": "Silver Shovel",
     "item.epic_knights_ores_and_alloys.silver_sword": "Silver Sword",
+    "item.epic_knights_ores_and_alloys.silver_tooltip": "+1 Damage against Undead",
     "item.epic_knights_ores_and_alloys.steel_axe": "Steel Axe",
     "item.epic_knights_ores_and_alloys.steel_hoe": "Steel Hoe",
     "item.epic_knights_ores_and_alloys.steel_ingot": "Steel Ingot",
@@ -44,5 +45,6 @@
     "item.epic_knights_ores_and_alloys.tin_nugget": "Tin Nugget",
     "item.epic_knights_ores_and_alloys.tin_pickaxe": "Tin Pickaxe",
     "item.epic_knights_ores_and_alloys.tin_shovel": "Tin Shovel",
-    "item.epic_knights_ores_and_alloys.tin_sword": "Tin Sword"
+    "item.epic_knights_ores_and_alloys.tin_sword": "Tin Sword",
+    "itemGroup.epic_knights_ores_and_alloys.ores_and_alloys": "Ores and Alloys"
 }

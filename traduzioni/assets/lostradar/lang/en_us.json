@@ -1,0 +1,21 @@
+{
+    "button.lostradar.clear": "Clear",
+    "button.lostradar.scan": "Scan",
+    "item.lostradar.radar": "Radar",
+    "itemGroup.lostradar": "LostRadar",
+    "lostradar.buildings": "Building",
+    "lostradar.center": "City Center",
+    "lostradar.chunk.dist": "Distance %s",
+    "lostradar.chunk.pos": "Coordinate %s",
+    "lostradar.city": "City",
+    "lostradar.default": "Unknown building",
+    "lostradar.energylow": "No energy!",
+    "lostradar.highway": "Highway",
+    "lostradar.library": "Town library",
+    "lostradar.notenoughenergy": "Not enough energy to perform this search!",
+    "lostradar.paused_scan": "Paused: %d%%",
+    "lostradar.shopping": "Shopping center",
+    "message.lostradar.discovered.center": "You discovered the center!",
+    "message.lostradar.discovered.library": "You discovered the library!",
+    "message.lostradar.discovered.shopping": "You discovered the shopping mall!"
+}

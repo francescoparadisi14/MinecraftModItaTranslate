@@ -1,14 +1,14 @@
 {
-    "block.campchair.acacia_camp_chair": "Sedia da campeggio di acacia",
+    "block.campchair.acacia_camp_chair": "Sedia da campeggio in acacia",
     "block.campchair.bamboo_camp_chair": "Sedia da campeggio in bambù",
-    "block.campchair.birch_camp_chair": "Sedia da campeggio di betulla",
-    "block.campchair.cherry_camp_chair": "Sedia da campeggio ciliegio",
-    "block.campchair.crimson_camp_chair": "Sedia da campeggio cruenta",
-    "block.campchair.dark_oak_camp_chair": "Sedia da campeggio di quercia scura",
-    "block.campchair.jungle_camp_chair": "Sedia da campeggio della giungla",
-    "block.campchair.mangrove_camp_chair": "Sedia da campeggio di mangrovie",
-    "block.campchair.oak_camp_chair": "Sedia da campeggio di quercia",
-    "block.campchair.spruce_camp_chair": "Sedia da campeggio di betulla",
-    "block.campchair.warped_camp_chair": "Sedia da campeggio distorta",
-    "creativetab.campchair": "sedie da campeggio"
+    "block.campchair.birch_camp_chair": "Sedia da campeggio in legno di betulla",
+    "block.campchair.cherry_camp_chair": "Sedia da campeggio a forma di ciliegia",
+    "block.campchair.crimson_camp_chair": "Sedia da campeggio rossa",
+    "block.campchair.dark_oak_camp_chair": "Sedia da campeggio in legno scuro",
+    "block.campchair.jungle_camp_chair": "Sedia da campeggio nella giungla",
+    "block.campchair.mangrove_camp_chair": "Sedia da campeggio di mangrovia",
+    "block.campchair.oak_camp_chair": "Sedia da campeggio in legno di quercia",
+    "block.campchair.spruce_camp_chair": "Sedia da campeggio in legno di pino",
+    "block.campchair.warped_camp_chair": "Sedia da campeggio deformabile",
+    "creativetab.campchair": "Sedie per eventi all'aperto"
 }

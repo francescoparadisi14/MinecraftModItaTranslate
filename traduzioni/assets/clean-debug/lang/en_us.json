@@ -15,6 +15,7 @@
     "clean-debug.midnightconfig.hideDynamicFps": "Hide DynamicFps' debug info",
     "clean-debug.midnightconfig.hideDynamicFps.tooltip": "DynamicFps adds debug info only while the game is unfocused.",
     "clean-debug.midnightconfig.hideEntityCulling": "Hide EntityCulling's debug info",
+    "clean-debug.midnightconfig.hideFigura": "Hide Figura's debug info",
     "clean-debug.midnightconfig.hideHelpShortcut": "Hide help shortcut",
     "clean-debug.midnightconfig.hideHelpShortcut.tooltip": "Hides the shortcut 'Press F3 + Q for help'.",
     "clean-debug.midnightconfig.hideIris": "Hide Iris' debug info",

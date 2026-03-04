@@ -1,11 +1,11 @@
 {
-    "name": "Occhio di pesce",
+    "name": "Pesce a occhio",
     "category": "patchouli:fish",
     "icon": "netherdepthsupgrade:eyeball_fish",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 408$(li)Dimensione: Inferno$(li)Bioma: Foresta di Crisantemo"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 408$(li)Dimensioni: Nether$(li)Bioma: Foresta Rossa"
         },
         {
             "type": "patchouli:entity",
@@ -13,7 +13,7 @@
             "scale": 0.5,
             "offset": -0.3,
             "rotate": true,
-            "text": "Riferimento a Terraria?"
+            "text": "patchouli: entità\n\nnetherdepthsupgrade: pesce con occhio\n\nRiferimento a Terraria???"
         }
     ]
 }

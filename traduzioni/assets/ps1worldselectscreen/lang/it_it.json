@@ -1,8 +1,8 @@
 {
-    "restartWorld.confirm.description": "Questo cancellerà tutti i progressi e ripristinerà il mondo alle impostazioni di default.",
+    "restartWorld.confirm.description": "Questo eliminerà tutti i progressi e riporterà il mondo alle impostazioni predefinite.",
     "restartWorld.confirm.title": "Conferma riavvio",
-    "restartWorld.missing": "Non puoi riavviare il mondo",
-    "restartWorld.missing.back": "Torna alla schermata precedente",
-    "selectWorld.restart": "Ripristina",
+    "restartWorld.missing": "Non è possibile riavviare.",
+    "restartWorld.missing.back": "Ritorna alla schermata precedente",
+    "selectWorld.restart": "Riavviare",
     "selectWorld.restart.unsupported": "Errore sconosciuto"
 }

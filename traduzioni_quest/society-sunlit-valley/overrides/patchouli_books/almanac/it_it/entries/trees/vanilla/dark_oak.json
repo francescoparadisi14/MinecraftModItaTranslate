@@ -1,15 +1,15 @@
 {
-    "name": "Albero di quercia oscura 🍂",
+    "name": "Albero di quercia scura 🍂",
     "category": "patchouli:trees",
     "icon": "minecraft:oak_sapling",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Stagione: Autunno $(li)Prezzo del Seme: 8 monete $(li)Dimensioni: 2x2`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🍂 Autunno§r $(li)Prezzo del giovane albero: 8 monete$(li)Dimensioni: 2x2"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Oak Tree",
+            "name ": "Patchouli: Multiblocco\n\nQuercia",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -99,8 +99,7 @@
                     "L": "minecraft:dark_oak_leaves",
                     "W": "minecraft:dark_oak_log[axis=y]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

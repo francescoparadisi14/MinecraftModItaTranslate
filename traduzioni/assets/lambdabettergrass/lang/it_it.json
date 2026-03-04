@@ -1,7 +1,7 @@
 {
     "text.autoconfig.lambdabettergrass.option.betterLayer": "Neve migliore",
-    "text.autoconfig.lambdabettergrass.option.betterLayer.@Tooltip": "Abilita il miglioramento della neve. Se abilitato, alcuni blocchi potrebbero avere una variante innevata utilizzata e\/o un strato di neve aggiunto quando la neve è presente vicina.Nota: questo funziona anche per altri blocchi simili alla neve che hanno strati se i file corretti sono presenti.",
-    "text.autoconfig.lambdabettergrass.option.mode": "Modalità erba migliore",
-    "text.autoconfig.lambdabettergrass.option.mode.@Tooltip": "Abilita il miglioramento del prato.\n- disattiva disabilita completamente il miglioramento del prato.\n- più veloce copierà la texture superiore su ogni lato del blocco di prato. simile all'opzione rapida di OptiFine.\n- rapido connetterà le texture dei blocchi di prato come l'opzione fancy di OptiFine.\n- fancy connetterà le texture dei blocchi di prato e smooterà le texture laterali dei blocchi di prato vicini.",
-    "text.autoconfig.lambdabettergrass.title": "Configurazione di lambdabettergrass"
+    "text.autoconfig.lambdabettergrass.option.betterLayer.@Tooltip": "Abilita la funzione \"neve migliore\".\nSe abilitata, alcuni blocchi potrebbero avere una variante nevosa o uno strato di neve aggiuntivo quando la neve è nelle vicinanze.\nNota: questa funzione funziona anche con altri blocchi che simulano la neve, a condizione che i file corretti siano presenti.",
+    "text.autoconfig.lambdabettergrass.option.mode": "Erba migliore",
+    "text.autoconfig.lambdabettergrass.option.mode.@Tooltip": "Abilita la funzione \"erba migliore\".\n- \"OFF\" disabilita completamente la funzione \"erba migliore\".\n- \"FASTEST\" copierà la texture superiore su tutti i lati del blocco di erba. Simile all'opzione \"Fast\" di OptiFine.\n- \"FAST\" collegherà le texture dei blocchi di erba, come fa l'opzione \"Fancy\" di OptiFine.\n- \"FANCY\" collegherà le texture dei blocchi di erba e uniformerà le texture laterali dei blocchi di erba adiacenti.",
+    "text.autoconfig.lambdabettergrass.title": "Configurazione di LambdaBetterGrass"
 }

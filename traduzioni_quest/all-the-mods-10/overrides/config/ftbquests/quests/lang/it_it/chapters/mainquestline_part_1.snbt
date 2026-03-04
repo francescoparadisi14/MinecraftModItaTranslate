@@ -1,0 +1,178 @@
+{
+    "quest.051E0C85E7B71CE0.quest_desc": [
+        "Presumo che abbiate già esplorato e raccolto risorse, giusto? Dopotutto, si tratta di Minecraft.\n\nTroverete un'enorme quantità di nuovi minerali che potrebbero confondervi, ma potete iniziare utilizzando i materiali originali!\n\nIl rame è abbondante e ha molteplici utilizzi, come ad esempio per creare martelli o migliorare le cassetti, quindi assicuratevi di procurarsene una buona quantità.\n\nIl ferro è probabilmente uno dei minerali più importanti che dovrete raccogliere ogni volta che lo incontrate. Il mondo di Minecraft modificato si basa principalmente sul ferro."
+    ],
+    "quest.051E0C85E7B71CE0.title": "L'età del metallo",
+    "quest.0F026D5A17CCCF51.quest_desc": [
+        "Gli oggetti in Netherite sono addirittura superiori, e non si bruciano nel magma! Anche indossando l'armatura, però, si bruceranno. Quindi, non provatelo.\n\nQuesti oggetti possono essere utilizzati per creare alcuni degli strumenti e dell'armatura migliori del gioco."
+    ],
+    "quest.0F026D5A17CCCF51.title": "\\&Livello Netherite",
+    "quest.0F3D51FFD2FE8DCB.quest_desc": [
+        "Con un piccone di livello Diamante, sarai in grado di estrarre l'ossidiana. L'ossidiana può essere utilizzata per creare un portale verso il Nether.\n\nIl telaio del portale può avere diverse dimensioni, ma la forma più comune è quella di una \"porta\" standard. Si tratta di una struttura cava di dimensioni 4x5, che richiede un minimo di 10 unità di ossidiana. Non è necessario utilizzare l'ossidiana per gli angoli, ma solo per la struttura del portale stesso!",
+        "{image:atm:textures\/questpics\/gettingstarted\/example_netherportal.png width:175 height:201 align:1}"
+    ],
+    "quest.0F3D51FFD2FE8DCB.title": "E così via!",
+    "quest.110BF3A2BE85F911.quest_desc": [
+        "Questo contenuto è stato creato da \\&6AllTheMods Staff\\&r, oppure da un \\&2contributore della community\\&r, per l'uso nei pacchetti di mod di AllTheMods.\\n\\nPoiché tutti i pacchetti di AllTheMods sono soggetti al copyright \\&eTutti i diritti riservati\\&r, questo contenuto non può essere utilizzato in altri pacchetti pubblici, a meno che non sia stato rilasciato dal team di AllTheMods, previa autorizzazione esplicita.\\n\\nQuesto contenuto è stato intenzionalmente nascosto. Se lo state visualizzando, siete in modalità di modifica."
+    ],
+    "quest.1E1EB7DC19DDCFB7.quest_desc": [
+        "Per creare utensili e armature in Netherite, avrai bisogno di trovare il \\&6\"Modello di Fabbricazione in Netherite\\&r\" all'interno delle fortezze.\n\nQuesti possono essere combinati con un \\&c\"Ingotto di Netherite\\&r\" e uno strumento o un pezzo di armatura in diamante su un \\&a\"Tavolo di Fabbricazione\\&r\" per aggiornarli a \\&c\"Netherite\\&r\".\n\nSuggerimento: Non utilizzare tutti i tuoi modelli in una sola volta! Puoi creare copie utilizzando la ricetta per crearne un altro."
+    ],
+    "quest.1E1EB7DC19DDCFB7.title": "\\&6Modello per Netherite\\&r",
+    "quest.24C9BA6DC32CFAD9.quest_desc": [
+        "Il carbone è la tua prima fonte di energia reale. Se le riserve sono esaurite e non riesci a trovare carbone, un'alternativa potrebbe essere l'utilizzo del carbone vegetale."
+    ],
+    "quest.24C9BA6DC32CFAD9.quest_subtitle": "Brucia i tuoi tronchi.",
+    "quest.282CE3A088AE5CFB.quest_desc": [
+        "Presumo che tu stia creando qualcosa, vero? Dopotutto, si tratta di Minecraft.\n\nCerto, potresti creare oggetti utilizzando la griglia di creazione 2x2, ma questo non ti porterà molto lontano. Dobbiamo passare a un tavolo da lavoro!"
+    ],
+    "quest.282CE3A088AE5CFB.title": "Dare forma al proprio mondo in Minecraft",
+    "quest.2AEBE3F28996A6ED.quest_desc": [
+        "Grazie ai nostri nuovi materiali, possiamo migliorare il nostro forno utilizzando il mod \"\\&aIron Furnaces\"!\n\nGli \"\\&aIron Furnaces\" (forni forniti dal mod stesso, non solo la versione \"Iron\") consentono di aggiungere \"\\&aAugments\" per migliorare la velocità del forno, modificarne la funzione e molto altro!\n\nQuesti forni semplificano l'automazione, consentendo di effettuare operazioni di estrazione o spinta da entrambi i lati utilizzando la configurazione presente sul lato sinistro dell'interfaccia."
+    ],
+    "quest.2AEBE3F28996A6ED.title": "\\&Aggiornamenti del sistema di riscaldamento!",
+    "quest.2CCAA7C0FEDEB573.quest_desc": [
+        "Se anche voi, come la maggior parte delle persone, cercate di ottenere energia, questo è esattamente ciò che state cercando. Basta posizionarlo nel punto più alto possibile per ottenere energia gratuita."
+    ],
+    "quest.2CCAA7C0FEDEB573.title": "Energia eolica",
+    "quest.2EC9668ED4EA47CB.quest_desc": [
+        "Questo obiettivo richiede solo la creazione di uno strumento o di un pezzo di armatura in diamante, ma è probabilmente utile avere un set completo!\n\nGli strumenti in diamante offrono un'elevata durata, e l'armatura fornisce una protezione eccellente.\n\nPer creare gli strumenti e l'armatura migliori nel gioco, avrete bisogno di materiali in diamante come base!"
+    ],
+    "quest.2EC9668ED4EA47CB.title": "\\& Preparativi",
+    "quest.346860B8EBC4C28C.quest_desc": [
+        "Ora che avete tutto questo magma, cosa ne farete? Ancora più potenza all'inizio del gioco!"
+    ],
+    "quest.346860B8EBC4C28C.title": "Potenza del lavaggio",
+    "quest.378BF828DC931F0C.quest_desc": [
+        "Personalmente, non mi piace dover correre in un'altra stanza solo per creare oggetti. È qui che entra in gioco il \"Tavolo da lavoro portatile\"!\\n\\nQuesto oggetto funziona come un \"Tavolo da lavoro portatile\"! \\n\\nSuggerimento: puoi anche inserirlo nel tuo \"Inventario\" e assegnargli una \"combinazione di tasti\" per aprirlo!"
+    ],
+    "quest.378BF828DC931F0C.title": "Creazione, ma su uno stecchino",
+    "quest.3ADCAD65EA6900BA.quest_desc": [
+        "\\&2Achaeology\\&r consente ai giocatori di trovare oggetti all'interno di blocchi come la sabbia e la ghiaia.\\n\\nQuesti blocchi possono essere trovati in diverse strutture, come le rovine dell'oceano caldo, le piramidi del deserto, i pozzi del deserto e le rovine del \\&eTrail\\&r.\\n\\nPer recuperare un oggetto da un blocco sospetto, è necessario creare uno \\&aBrush\\&r per rimuovere il blocco e rivelare l'oggetto."
+    ],
+    "quest.3ADCAD65EA6900BA.title": "\\&2Archeologia\\&r!",
+    "quest.3B6F1BD64C0C570F.quest_desc": [
+        "Proprio come l'energia eolica, questa soluzione vi fornirà molta energia senza richiedere risorse. L'unico svantaggio è che deve essere utilizzata durante il giorno."
+    ],
+    "quest.3B6F1BD64C0C570F.title": "Energia solare",
+    "quest.4869C413646CC4CC.quest_desc": [
+        "Trasferire l'energia prodotta dai vostri generatori è probabilmente una buona idea, ma come si può fare?",
+        "",
+        "Per iniziare, è possibile utilizzare i tubi forniti dal mod \"\\&cEnergy Pipes\\&r\", oppure i cavi \"\\&9Powah\\&r\" se si sta già utilizzando quel mod.",
+        "",
+        "Oppure, se preferite un'esperienza più classica, questo pacchetto include \"\\&6EnderIO\\&\" e potrete utilizzare i \"\\&6Canali di Energia\" forniti."
+    ],
+    "quest.4A4C71C43519D5FE.quest_desc": [
+        "Per evocare il capo del Nether, dobbiamo prima raccogliere alcuni oggetti.",
+        "",
+        "Avremo bisogno di almeno 3 e 5 crani di scheletro \"Wither\". Questi sono oggetti rari ottenuti uccidendo scheletri \"Wither\", oppure possono essere creati utilizzando i frammenti di cranio \"Wither\", che sono più comuni.",
+        "",
+        "Avrete anche bisogno di almeno 4 pezzi di Sabbia di Soul, e probabilmente anche di un'armatura di buona qualità."
+    ],
+    "quest.4A4C71C43519D5FE.title": "\\&6Chiamare \\&5Wither",
+    "quest.4DE1158931F84F22.quest_desc": [
+        "Una volta che avrai un piccone di livello superiore (ad esempio, uno in ferro o superiore), sarai in grado di estrarre anche il redstone.",
+        "",
+        "Redstone è il punto di partenza per esplorare numerosi mod tecnici, come la creazione di sistemi di alimentazione o la realizzazione di dispositivi sofisticati.",
+        "",
+        "Questo è una risorsa di cui avrete bisogno molto!"
+    ],
+    "quest.4DE1158931F84F22.title": "e altro",
+    "quest.4E5238F00CEED8B2.quest_desc": [
+        "È necessario fondere i minerali grezzi all'inizio, ma state perdendo risorse preziose!\\n\\nEsistono diversi modi per raddoppiare la quantità di minerali ottenuti da ogni minerale grezzo, e uno dei più semplici è creare e utilizzare un \"\\&eMartello per minerali\" (\\&eMartello per minerali).\\n\\nQuesto strumento trasforma 1 minerale grezzo in 2 polveri di minerale, che possono essere fuse in lingotti, raddoppiando così la quantità di lingotti prodotti!\\n\\nVolete ottenere ancora di più da ogni minerale grezzo? Consultate il mod \"\\&5Occultism\" (\\&5Occultism)!"
+    ],
+    "quest.4E5238F00CEED8B2.title": "\\&eAumento del fabbisogno di energia di base",
+    "quest.5792CC9E3AFAB229.quest_desc": [
+        "Abbiamo anche un mod chiamato \"\\&aGenerators Galore\\&r!\". Questo mod aggiunge generatori unici che utilizzano carbone o altri materiali."
+    ],
+    "quest.5CF320E9C4C1B1E1.quest_desc": [
+        "ATM10 è un pacchetto di mod che ti offre la libertà di esplorare e utilizzare il modpack come preferisci!\\n\\nTuttavia, c'è un obiettivo finale: creare l'\\&6ATM Star\\&r.\\n\\nQuesta linea di quest funge da guida per tutti i giocatori, sia che si tratti della vostra prima esperienza con Minecraft, sia che abbiate già utilizzato altri pacchetti ATM.\\n\\nCome per quasi tutti i pacchetti di mod, raccogli del legno per iniziare!"
+    ],
+    "quest.5CF320E9C4C1B1E1.title": "E benvenuti!",
+    "quest.5E799B92358A8732.quest_desc": [
+        "Nel Nether, incontrerete i \"Detriti Antichi\". Questi possono essere fusi per ottenere \"Scarti\" che possono essere combinati con l'oro per creare \"Lingote di Netherite\", un metallo utilizzato nella fase finale del gioco per creare alcuni degli strumenti e dell'armatura più potenti."
+    ],
+    "quest.5E799B92358A8732.title": "\\&dMetalli antichi",
+    "quest.61C49BC2B384FB80.quest_desc": [
+        "Una volta che avrai raccolto abbastanza perle di Ender e polvere di Blaze, potrai raggiungere il Portale verso l'End nel mondo Overworld.\n\nPer farlo, crea alcune \"Occhi di Ender\" e fai clic con il pulsante destro del mouse per lanciarli nel cielo. Questi indicheranno la direzione del Portale verso l'End più vicino.\n\nRaggiungi il Stronghold, individua il Portale verso l'End e completa la struttura utilizzando gli Occhi di Ender per creare il portale verso \"The End\"."
+    ],
+    "quest.61C49BC2B384FB80.title": "\\&aScoperta \\&dFine",
+    "quest.672134A1A620EEAB.quest_desc": [
+        "Esistono molti modi per immagazzinare l'energia!",
+        "",
+        "\\&9Powah\\&r offre un ottimo sistema di archiviazione grazie alle \\&aEnergy Cells\\&r, che possono essere aggiornate, oppure potete sempre optare per lo stile multiblock di \\&aRFTools\\&r utilizzando le \\&aPowercells\\&r! La scelta è vostra.",
+        "",
+        "Nota: È necessario completare solo un elemento per portare a termine la missione."
+    ],
+    "quest.698A959C9E449592.quest_desc": [
+        "Il passo successivo è creare un piccone in ferro.\n\nQuesto piccone permette di estrarre alcuni dei minerali più rari del gioco, tra cui il diamante!"
+    ],
+    "quest.698A959C9E449592.title": "Un attrezzo per estrarre il ferro",
+    "quest.69A517AB8A801939.quest_desc": [
+        "Il \"Wither\" è uno degli boss più difficili da sconfiggere in Minecraft. Principalmente perché vola, esplode e si muove velocemente. Capite?\\n\\nPer evocarlo, posizionate 4 blocchi di \"Soul Sand\" a forma di \"T\". Posizionate poi le 3 \"Wither Skeleton Skulls\" sulla parte superiore del \"T\" e il \"Wither\" apparirà.\\n\\nSuggerimento: esplode. Molto. Non farlo vicino alla vostra base."
+    ],
+    "quest.69A517AB8A801939.title": "\\&6Uccidi \\&5La putrefazione",
+    "quest.6D09511D64DDC282.quest_desc": [
+        "Il \\&dWarden\\&r può essere evocato attivando un \\&5Sensore di Sculk\\&r che si trova nelle vicinanze di un \\&3Urlo di Sculk\\&r almeno 3 volte.\n\nCuriosità: Il Warden è sordo! Può trovarti solo se ti sente, quindi o vola o ti nascondi!\n\nSuggerimento: Non importa se usi attacchi a distanza o corpo a corpo, perché lo troverai comunque. E lo colpirà. Se ti allontani troppo, si ritirerà nel terreno e apparirà accanto a te! Buona fortuna :D"
+    ],
+    "quest.6D09511D64DDC282.title": "\\&5Uccidi il Guardiano",
+    "quest.6EDAB29FBD3C60A3.quest_desc": [
+        "Questo ecosistema è stato introdotto nell'aggiornamento Wild Update!\\n\\nAttenzione! Potresti involontariamente evocare un nuovo amico.\\n\\nP.S. - Non è amichevole."
+    ],
+    "quest.6EDAB29FBD3C60A3.title": "E visita il luogo oscuro e misterioso!",
+    "quest.6EE5BE5693E8ACE4.quest_desc": [
+        "In \"The End\", troverete il boss finale di Vanilla Minecraft: il \\&5Drago Ender\\&r.\n\nSulla sommità di ogni pilastro di ossidiana, troverete un Cristallo Ender che cura il Drago. Assicuratevi di prenderli prima! Inoltre, quando esplodono, infliggono molti danni, quindi assicuratevi di mantenere una certa distanza!\n\nUna volta sconfitto, un \\&dUovo di Drago\\&r compare sulla sommità del Portale di Uscita. Non può essere estratta come i blocchi normali, ma è influenzata dalla gravità."
+    ],
+    "quest.6EE5BE5693E8ACE4.title": "E la fine",
+    "quest.72989212DD45DC10.quest_desc": [
+        "Per trovare questo uovo, dovrai rimuovere la sabbia sospetta e le rovine nell'oceano caldo.\n\nPuoi posizionare l'uovo nel mondo e questo si schiuderà gradualmente, trasformandosi in un \"Snifflet\". Questo processo richiede circa 20 minuti, ma puoi accelerarlo posizionando l'uovo su un blocco di muschio, riducendo il tempo necessario a 10 minuti.\n\nIl \"Snifflet\" alla fine si svilupperà in un \"Sniffer\" adulto, in grado di raccogliere oggetti come \"Semi di Torchflower\" o \"Pod di Pitcher\" quando si trova su blocchi su cui può scavare.\n\nPuoi allevare 2 Sniffer adulti utilizzando i Torchflower."
+    ],
+    "quest.72989212DD45DC10.quest_subtitle": "Cugino di Scruff McGruff",
+    "quest.72989212DD45DC10.title": "\\&aThe \\&5Sniffer",
+    "quest.72E1C19156633391.quest_desc": [
+        "Secchi e contenitori sono un ottimo modo per muoversi facilmente attraverso il magma."
+    ],
+    "quest.72E1C19156633391.title": "Secchio per il lavaggio",
+    "quest.76406EFFF8CBA6B4.quest_desc": [
+        "I diamanti sono uno dei materiali migliori per la creazione di strumenti, ma consentono anche di esplorare nuove dimensioni, come la Foresta Crepuscolare!"
+    ],
+    "quest.76406EFFF8CBA6B4.title": "Ce l'abbiamo fatta!",
+    "quest.7741905EA8380B25.quest_desc": [
+        "«Gli elementi di finitura per armature» sono oggetti utilizzati per aggiungere dettagli alle vostre armature. Questo può essere fatto utilizzando i tavoli di fabbricazione.\n\nAnche se esistono delle ricette, la maggior parte degli elementi di finitura sono oggetti rari che si trovano nei forzieri o durante gli scavi archeologici. Una volta trovato un elemento, è possibile replicarlo utilizzando la ricetta per crearne altri!"
+    ],
+    "quest.7741905EA8380B25.title": "\\&dArmor: rifiniture",
+    "quest.790EC3EDC2DB1FB0.quest_desc": [
+        "Come accennato in precedenza, questa modifica aggiunge numerosi modi divertenti per generare energia, che richiedono specifiche configurazioni."
+    ],
+    "quest.790EC3EDC2DB1FB0.title": "Generatori di ogni tipo",
+    "quest.7975C7145572C438.quest_desc": [
+        "Che tu sia un giocatore esperto o un principiante assoluto, tutti devono creare un piccone in legno.\n\nI picconi ti permettono di rompere la maggior parte dei blocchi di pietra e metallo. Questo piccone in legno non durerà a lungo, quindi assicurati di raccogliere anche dei blocchi di \\&3pietra\\&r!"
+    ],
+    "quest.7975C7145572C438.title": "La nostra prima scelta",
+    "quest.7D38BC3DB3406F51.quest_desc": [
+        "Con il nostro piccone in legno, la pietra non dovrebbe essere un problema da frantumare!\\n\\n\\&3Pietra\\&r sblocca la fase successiva del gioco, permettendoti di creare un forno per fondere i nostri minerali.\\n\\nInoltre, vorrai migliorare il tuo piccone in pietra per estrarre minerali migliori come il \\&bFerro\\&r!"
+    ],
+    "quest.7D38BC3DB3406F51.title": "Età della pietra",
+    "quest.7EC01E7DB045DB05.quest_desc": [
+        "\\&aAggiornamenti\\&r per il forno, che possono modificare o migliorare la sua funzione.\n\n- Esplosione: Trasforma il forno in modo da consentire solo la preparazione di ricette per l'esplosione.\n\n- Affumicatura: Trasforma il forno in modo da consentire solo la preparazione di ricette per l'affumicatura.\n\n- Fabbrica: Trasforma il forno in modo da utilizzare l'energia invece del combustibile, e lo migliora trasformandolo in una fabbrica, consentendo la fusione di più oggetti contemporaneamente. L'aumento dipende dal livello del forno.\n\n- Velocità: Raddoppia la velocità del forno, ma raddoppia anche il consumo di combustibile.\n\n- Efficienza del combustibile: Raddoppia la quantità di oggetti fusi per unità di combustibile, ma riduce la velocità del 25%."
+    ],
+    "quest.7EC01E7DB045DB05.title": "Caldaia e accessori",
+    "task.0AFA64F1025569A2.title": "Equipamento in Netherite",
+    "task.1693B07767081FB3.title": "Elementi decorativi per armature",
+    "task.173044E1C1134A80.title": "Pietre miliari",
+    "task.1869893A4F8E9E9C.title": "Martelli di Ore",
+    "task.1960B985B54B9FBD.title": "Cavi di alimentazione",
+    "task.26CDA4EADF919D5C.title": "Generatori",
+    "task.285A53DB9D54595D.title": "Registri",
+    "task.2CE553B282962E01.title": "Secchi",
+    "task.2E49798B39BAA192.title": "Energia solare",
+    "task.3209E46C9B05C163.title": "Ingranaggio in metallo",
+    "task.3BEA6C6A41D5ABEA.title": "Accessori per caldaie",
+    "task.3C95552D03C16F3D.title": "Accumulo di energia",
+    "task.44CEA28EBD6C0898.title": "Tutti i diritti riservati",
+    "task.539C6F64C251543B.title": "Carbone",
+    "task.6CAD0E4CF3577BEB.title": "Uccidere un funzionario carcerario",
+    "task.76C41881A02F2098.title": "Uccidi 1 Wither",
+    "task.7C6F7EF2B3AC2824.title": "Tutti i diritti riservati",
+    "task.7C88F80D05E62AC7.title": "Forni a carbone"
+}

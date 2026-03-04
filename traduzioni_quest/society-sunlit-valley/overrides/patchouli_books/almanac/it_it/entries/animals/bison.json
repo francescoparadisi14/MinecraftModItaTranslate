@@ -1,17 +1,17 @@
 {
-    "name": "Bison",
+    "name": "Bisone",
     "category": "patchouli:animals",
     "icon": "wildernature:bison_horn",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Latte: Latte di bufala$(li)Ricarica latte: 1 giorno$(li)Bottino: Carne di bisonte, Pelle, Corno di bisonte$(br2)$(l)Note$()$(br)Si trova in biomi di taiga. Attaccherà istintivamente i giocatori vicini, anche con un'affezione alta."
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile$(li)Latte: Latte di bufalo$(li)Tempo di raffreddamento del latte: 1 giorno$(li)Oggetti ottenuti: Carne di bisone, cuoio, corno di bisone$(br2)$(l)Note$()$(br)Si trova negli ambienti di taiga. Attaccherà istintivamente i giocatori nelle vicinanze, anche con un alto livello di affetto."
         },
         {
             "type": "patchouli:entity",
             "entity": "wildernature:bison",
             "scale": 0.7,
-            "text": "I bisonti sono capricciosi e molto diffidenti a causa del bracconaggio."
+            "text": "Patchouli: entità\n\nBison: bufalo\n\nI bufali sono animali temperamentali e molto diffidenti, a causa della caccia."
         }
     ]
 }

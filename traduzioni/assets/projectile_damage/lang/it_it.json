@@ -1,5 +1,5 @@
 {
-    "attribute.name.projectile_damage.generic": "Danno proiettile",
+    "attribute.name.projectile_damage.generic": "Danno inflitto a distanza",
     "effect.projectile_damage.impact": "Impatto",
-    "item.modifiers.both_hands": "quando è tenuto"
+    "item.modifiers.both_hands": "Quando è stato tenuto\/conservato:"
 }

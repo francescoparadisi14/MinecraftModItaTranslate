@@ -1,9 +1,9 @@
 {
-    "extendedwrenches.recipe.wrench_material_swap": "Sostituisci materiali con fucina di martello",
-    "item.extendedwrenches.incomplete_wrench_head_augment": "Aggiustamento testa di chiave incompleta",
-    "item.extendedwrenches.nope_fake_wrench_name_i_hate_you_registrate": "Wrench",
-    "item.extendedwrenches.wrench_axis_augment": "Aggiustamento asse di chiave estesa",
-    "item.extendedwrenches.wrench_cog_augment": "Aggiustamento cinghia per chiave inglese",
-    "item.extendedwrenches.wrench_handle_augment": "Augmentazione manico chiave inglese",
-    "item.extendedwrenches.wrench_head_augment": "Aggiustamento testa chiave"
+    "extendedwrenches.recipe.wrench_material_swap": "Forgiatura di chiavi inglesi",
+    "item.extendedwrenches.incomplete_wrench_head_augment": "Estensione parziale per testa di chiave",
+    "item.extendedwrenches.nope_fake_wrench_name_i_hate_you_registrate": "Chiave inglese",
+    "item.extendedwrenches.wrench_axis_augment": "Rinforzo dell'asse",
+    "item.extendedwrenches.wrench_cog_augment": "Chiave a ricamo",
+    "item.extendedwrenches.wrench_handle_augment": "Manico per chiave inglese",
+    "item.extendedwrenches.wrench_head_augment": "Estensione per chiavi"
 }

@@ -1,17 +1,17 @@
 {
-    "name": "Hamster",
+    "name": "Criceto",
     "category": "patchouli:pets",
     "icon": "hamsters:hamster",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Doni possibili:$()$(br)Gnometto piccolo$(br)$(l)Oggetto per addomesticare:$()$(br)Semi$()$(br2)$(l)Note$()$(br)Può essere trovato nei prati. Non piacciono di essere raccolti e questo resetta la loro affezione."
+            "text": "patchouli:testo\n\n$(l)Possibili oggetti da regalare:$()$(br) Nano$(br)$(l) Oggetto per addomesticare:$()$(br) Semi$()$(br2)$(l) Note$()$(br) Si trovano nelle pianure. Non amano essere raccolti, e ciò farà diminuire il loro affetto."
         },
         {
             "type": "patchouli:entity",
             "entity": "hamsters:hamster",
             "scale": 0.7,
-            "text": "I hamster possono esplodere quando vengono alimentati"
+            "text": "patchouli: entità\n\ncriceti: criceto\n\nPotrebbe esplodere se alimentato"
         }
     ]
 }

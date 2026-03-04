@@ -1,0 +1,21 @@
+{
+    "advancement.nether.gildedarmor.obtain_golden_core.description": "Raccogli un Nucleo Dorato commerciando con i Piglins.",
+    "advancement.nether.gildedarmor.obtain_golden_core.title": "È lucido!",
+    "item.gildedarmor.gilded_enderite_boots": "Stivali di Enderite dorate",
+    "item.gildedarmor.gilded_enderite_chestplate": "Cassa in Enderite dorata",
+    "item.gildedarmor.gilded_enderite_helmet": "Casco in Enderite dorato",
+    "item.gildedarmor.gilded_enderite_leggings": "Leggings in oro e Endolite",
+    "item.gildedarmor.gilded_netherite_boots": "Stivali in Netherite dorato",
+    "item.gildedarmor.gilded_netherite_chestplate": "Armatura in Netherite dorato",
+    "item.gildedarmor.gilded_netherite_helmet": "Elmetto in Netherite dorato",
+    "item.gildedarmor.gilded_netherite_leggings": "Pantaloni in Netherite dorato",
+    "item.gildedarmor.gilding_upgrade_smithing_template": "Miglioramento della doratura",
+    "item.gildedarmor.golden_core": "Cuore dorato",
+    "item.gildedarmor.smithing_template.gilding_upgrade.additions_slot_description": "Metti qui un lingotto d'oro.",
+    "item.gildedarmor.smithing_template.gilding_upgrade.applies_to": "Armatura in Netherite (e Enderite)",
+    "item.gildedarmor.smithing_template.gilding_upgrade.base_slot_description": "Posare un pezzo di armatura in Netherite (o Enderite) qui",
+    "item.gildedarmor.smithing_template.gilding_upgrade.ingredients": "Lingotto d'oro",
+    "tag.item.gildedarmor.gilded_armor": "Armatura dorata",
+    "tooltip.gildedarmor.gilded_armor": "Questa armatura è dorata e fa sì che i Piglins diventino più amichevoli!",
+    "tooltip.gildedarmor.golden_core_from_piglin": "Scambia con i Piglins per ottenerlo!"
+}

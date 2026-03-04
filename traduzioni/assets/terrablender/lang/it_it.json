@@ -1,4 +1,4 @@
 {
-    "commands.terrablender.biomeparams.failed": "Non è Stato Possibile Determinare I Parametri",
-    "commands.terrablender.biomeparams.success": "Parametri Nella Posizione %s %s %s: %s"
+    "commands.terrablender.biomeparams.failed": "Impossibile determinare i parametri.",
+    "commands.terrablender.biomeparams.success": "Parametri nella posizione %s %s %s: %s"
 }

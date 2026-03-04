@@ -1,6 +1,6 @@
 {
-    "block.iceologer.ice_chunk": "Pezzo di ghiaccio",
+    "block.iceologer.ice_chunk": "Blocco di ghiaccio",
     "entity.iceologer.iceologer": "Iceologer",
-    "item.iceologer.iceologer_spawn_egg": "Uovo di incubazione dell'iceologo",
+    "item.iceologer.iceologer_spawn_egg": "Uovo di Iceologer",
     "itemGroup.iceologer": "Iceologer"
 }

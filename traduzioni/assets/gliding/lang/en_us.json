@@ -4,5 +4,8 @@
     "item.gliding.iron_glider": "Iron Glider",
     "item.gliding.netherite_glider": "Netherite Glider",
     "item.gliding.stone_glider": "Stone Glider",
-    "item.gliding.wooden_glider": "Wooden Glider"
+    "item.gliding.wooden_glider": "Wooden Glider",
+    "text.autoconfig.gliding.option.offHandEnabled": "Allow Glider Activation when Glider is in Offhand",
+    "text.autoconfig.gliding.option.offHandEnabled.@Tooltip": "Make sure to disconnect and rejoin singleplayer world for this to take effect",
+    "text.autoconfig.gliding.title": "Gliding Serverside Config (For Singleplayer Use)"
 }

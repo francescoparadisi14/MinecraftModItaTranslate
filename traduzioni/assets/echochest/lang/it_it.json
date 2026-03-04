@@ -1,5 +1,5 @@
 {
-    "block.echochest.echo_chest": "Cassa degli echi",
-    "block.echochest.echo_chest.description": "Raccoglie oggetti e esperienze dai mostri caduti nei paraggi, entro un raggio di 8 blocchi.",
-    "container.echo_chest": "Cassetta degli echi"
+    "block.echochest.echo_chest": "Cassa Echo",
+    "block.echochest.echo_chest.description": "Raccoglie oggetti ed esperienze dai mostri presenti nelle vicinanze, entro un raggio di 8 blocchi.",
+    "container.echo_chest": "Cassa Echo"
 }

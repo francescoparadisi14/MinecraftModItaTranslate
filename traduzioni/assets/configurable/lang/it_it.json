@@ -1,4 +1,4 @@
 {
-    "configurable.yacl.not_installed": "Non è installato yetanotherconfiglib!",
-    "configurable.yacl.not_installed.message": "Il modulo yacl è richiesto per modificare la configurazione nel gioco. Vuoi installare yacl?"
+    "configurable.yacl.not_installed": "La libreria YetAnotherConfigLib non è installata!",
+    "configurable.yacl.not_installed.message": "YACL è necessario per modificare la configurazione all'interno del gioco. Desidera installare YACL?"
 }

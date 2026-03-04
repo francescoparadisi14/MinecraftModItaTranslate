@@ -1,0 +1,9 @@
+{
+    "tradeuses.copied": "Copied!",
+    "tradeuses.copy_color_code_char": "Copy color code character",
+    "tradeuses.default_tooltip": "§lUses left: §r{uses_left}",
+    "tradeuses.placeholders": "Placeholders: {uses}, {max_uses}, {uses_left}",
+    "tradeuses.preview": "Preview",
+    "tradeuses.tooltip_text": "Tooltip text",
+    "tradeuses.tradeuses_config": "Trade Uses Config"
+}

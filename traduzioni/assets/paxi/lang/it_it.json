@@ -1,5 +1,5 @@
 {
-    "text.autoconfig.paxi-fabric-1_21.option.general.loadFromBaseDatapacksDirectory": "Carica da directory di base \"datapacks\"",
-    "text.autoconfig.paxi-fabric-1_21.option.general.loadFromBaseDatapacksDirectory.@Tooltip": "Se Paxi dovrebbe anche caricare tutti i pacchetti dati collocati nella cartella \"datapacks\" del folder principale di Minecraft. Ciò è per la compatibilità con il nuovo sistema dei pacchetti dati di CurseForge.",
-    "text.autoconfig.paxi-fabric-1_21.title": "Paxi"
+    "text.autoconfig.paxi-fabric-1_21.option.general.loadFromBaseDatapacksDirectory": "Carica dal percorso 'datapacks' nella directory di base.",
+    "text.autoconfig.paxi-fabric-1_21.option.general.loadFromBaseDatapacksDirectory.@Tooltip": "Dovrebbe Paxi anche caricare forzatamente tutti i pacchetti di dati presenti nella cartella \"datapacks\" nella cartella principale di Minecraft? Questo è per garantire la compatibilità con il nuovo sistema di gestione dei pacchetti di dati di CurseForge.",
+    "text.autoconfig.paxi-fabric-1_21.title": "Pax"
 }

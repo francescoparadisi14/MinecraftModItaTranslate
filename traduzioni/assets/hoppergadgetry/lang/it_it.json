@@ -1,13 +1,13 @@
 {
-    "block.hoppergadgetry.chute": "Canale",
-    "block.hoppergadgetry.duct": "Canale",
-    "block.hoppergadgetry.grated_hopper": "Grattugiante di grano",
-    "container.chute": "Canale di oggetti",
-    "container.duct": "Canale di oggetti",
-    "container.grated_hopper": "Cassetto a griglia",
-    "entity.hoppergadgetry.chute_minecart": "Carro minatore con vallo",
-    "entity.hoppergadgetry.grated_hopper_minecart": "Carro minatore con griglia per sacchi",
-    "item.hoppergadgetry.chute_minecart": "Carro minatore di sfogo",
-    "item.hoppergadgetry.grated_hopper_minecart": "Carro minatore a griglia per contenitori",
-    "itemGroup.hoppergadgetry.main": "Attrezzi per pompa"
+    "block.hoppergadgetry.chute": "Scivolo",
+    "block.hoppergadgetry.duct": "Condotto",
+    "block.hoppergadgetry.grated_hopper": "Grattugia per cavolfiori",
+    "container.chute": "Canale di distribuzione",
+    "container.duct": "Elemento di condotto",
+    "container.grated_hopper": "Grattugia per cavolfiori",
+    "entity.hoppergadgetry.chute_minecart": "Carro minerario con rampa",
+    "entity.hoppergadgetry.grated_hopper_minecart": "Carro minerario con contenitore a maglie",
+    "item.hoppergadgetry.chute_minecart": "Carrello minerario",
+    "item.hoppergadgetry.grated_hopper_minecart": "Carrello minerario a grana fine",
+    "itemGroup.hoppergadgetry.main": "Gadget di Hopper"
 }

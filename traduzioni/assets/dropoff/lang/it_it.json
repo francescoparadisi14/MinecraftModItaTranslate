@@ -1,7 +1,7 @@
 {
-    "dropoff.dump_nearby": "Immettere nella cassa vicina",
+    "dropoff.dump_nearby": "Butta negli armadi vicini",
     "dropoff.key.deposit": "Deposito",
-    "dropoff.key.dump": "Dump",
-    "dropoff.quick_stack": "Inserisci velocemente nella cassa più vicina",
-    "dropoff.tooltip.favorited": "Favorito!"
+    "dropoff.key.dump": "Smaltimento",
+    "dropoff.quick_stack": "Raccogli rapidamente i materiali dalle casse vicine.",
+    "dropoff.tooltip.favorited": "Salvataggio!"
 }

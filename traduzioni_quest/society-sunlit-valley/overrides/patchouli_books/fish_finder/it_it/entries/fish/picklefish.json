@@ -1,18 +1,18 @@
 {
-    "name": "Picklefish",
+    "name": "Pesce salmonese",
     "category": "patchouli:fish",
     "icon": "unusualfishmod:raw_picklefish",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 48 monete$(li)Simbolo di stagione: Autunno$(li)Acqua: Oceano$(li)Clima: Pioggia, Neve$(li)Ora del giorno: Notte"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 48$(li)§0🍂 §4Autunno§0$(li)Acqua: Oceano$(li)Tempo: Pioggia, Neve$(li)Ora: Notte"
         },
         {
             "type": "patchouli:entity",
             "entity": "unusualfishmod:picklefish",
             "scale": 0.8,
             "rotate": true,
-            "text": "Non farò il gioco che puoi farlo."
+            "text": "patchouli: entità\n\nunusualfishmod: pesce aguzzo\n\nNon farò la battuta che potresti fare tu."
         }
     ]
 }

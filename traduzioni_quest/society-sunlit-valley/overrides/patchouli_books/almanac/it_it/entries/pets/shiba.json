@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Doni possibili:$()$(br)Cappello orecchie di Eevee$(br2)$(l)Oggetto per addomesticare:$()$(br)Osso`"
+            "text": "patchouli:testo\n\n$(l)Possibili regali:$()$(br)Cappello con orecchie di Eevee$(br2)$(l)Oggetto per addomesticare:$()$(br)Osso"
         },
         {
             "type": "patchouli:entity",
             "entity": "quark:shiba",
             "scale": 0.7,
-            "text": "Amano giocare a rincorrere frecce"
+            "text": "patchouli: entità\n\nquark: shiba\n\nAmano giocare a riportare oggetti con le frecce"
         }
     ]
 }

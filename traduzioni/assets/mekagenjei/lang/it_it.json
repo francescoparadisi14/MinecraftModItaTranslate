@@ -1,0 +1,12 @@
+{
+    "mekagenjei.jei.bio_fuel": "Carburante per generatori a biocarburante",
+    "mekagenjei.jei.fusion_fuels": "Carburanti per reattori di fusione",
+    "mekagenjei.jei.gas_burning": "Combustibili a gas",
+    "mekagenjei.jei.pump_output": "Produzione di pompe",
+    "mekagenjei.jei.radioactive_gas": "Gas radioattivi",
+    "mekagenjei.jei.rate": "Produzione di FE",
+    "mekagenjei.jei.time": "Durata",
+    "mekagenjei.jei.total": "Quantità totale di FE prodotta",
+    "mekagenjei.jei.turbine_steam": "Carburanti per turbine a più sezioni",
+    "mekagenjei.waste.decay": "Può decomporsi"
+}

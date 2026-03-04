@@ -1,9 +1,9 @@
 {
-    "block.holographic_renders.iron_projector": "Proiettore di ferro",
-    "item.holographic_renders.area_scanner": "Scansionatore di area",
+    "block.holographic_renders.iron_projector": "Proiettore in metallo",
+    "item.holographic_renders.area_scanner": "Scanner di area",
     "item.holographic_renders.entity_scanner": "Scanner di entità",
-    "item.holographic_renders.iron_projector": "Proiettore di ferro",
-    "item.holographic_renders.texture_scanner": "Scansionatore di texture",
-    "item.holographic_renders.widget_scanner": "Scansionatore di widget",
-    "itemGroup.holographic_renders.general": "Rendimenti holografici"
+    "item.holographic_renders.iron_projector": "Proiettore in metallo",
+    "item.holographic_renders.texture_scanner": "Scanner di texture",
+    "item.holographic_renders.widget_scanner": "Scanner di widget",
+    "itemGroup.holographic_renders.general": "Renderingi o simulazioni in 3D"
 }

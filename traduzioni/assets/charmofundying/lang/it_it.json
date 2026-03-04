@@ -1,12 +1,12 @@
 {
-    "charmofundying.networking.failed": "Fallimento rete del charme dell'eternità",
-    "gui.charmofundying.config.renderTotem.description": "Se abilitato, visualizza il totem equipaggiato sugli giocatori.",
-    "gui.charmofundying.config.renderTotem.name": "Rendere il totem equipaggiato",
-    "gui.charmofundying.config.xOffset.description": "Ilffset orizzontale per la visualizzazione del totem sull'avatar.",
-    "gui.charmofundying.config.xOffset.name": "Dislivello orizzontale di rendering",
-    "gui.charmofundying.config.yOffset.description": "Ilffset verticale per la visualizzazione del totem sull'avatar.",
-    "gui.charmofundying.config.yOffset.name": "Dislivello verticale di rendering",
-    "gui.charmofundying.config.zOffset.description": "Il offset dell'asse z per la renderizzazione del totem sull'avventuriero.",
-    "gui.charmofundying.config.zOffset.name": "Disallineamento di rendering sull'asse z",
+    "charmofundying.networking.failed": "Il fascino di un guasto di rete persistente",
+    "gui.charmofundying.config.renderTotem.description": "Se abilitato, mostra il totem equipato sui giocatori.",
+    "gui.charmofundying.config.renderTotem.name": "Realizzare un totem attrezzato",
+    "gui.charmofundying.config.xOffset.description": "Lo spostamento orizzontale per visualizzare il totem sul giocatore.",
+    "gui.charmofundying.config.xOffset.name": "Offset di rendering orizzontale",
+    "gui.charmofundying.config.yOffset.description": "L'offset verticale per visualizzare il totem sul giocatore.",
+    "gui.charmofundying.config.yOffset.name": "Offset di rendering verticale",
+    "gui.charmofundying.config.zOffset.description": "Lo spostamento sull asse Z per visualizzare il totem sul personaggio del giocatore.",
+    "gui.charmofundying.config.zOffset.name": "Offset di rendering sull'asse Z",
     "trinkets.slot.charm.charm": "Amuleto"
 }

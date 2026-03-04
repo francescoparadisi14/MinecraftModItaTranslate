@@ -1,9 +1,19 @@
 {
+    "enchantment.walljump.double_jump": "Double Jump",
+    "enchantment.walljump.double_jump.desc": "Jump in mid-air to double jump",
     "enchantment.walljump.doublejump": "Double-Jump",
     "enchantment.walljump.doublejump.desc": "Jump in mid-air to double-jump!",
+    "enchantment.walljump.speed_boost": "Speed Boost",
+    "enchantment.walljump.speed_boost.desc": "Boosts your speed while sprinting",
     "enchantment.walljump.speedboost": "Speed-Boost",
     "enchantment.walljump.speedboost.desc": "Boosts your speed while sprinting!",
+    "enchantment.walljump.wall_jump": "Wall Jump",
+    "enchantment.walljump.wall_jump.desc": "Jump from wall to wall",
     "enchantment.walljump.walljump": "Wall-Jump!",
     "enchantment.walljump.walljump.desc": "Jump from wall to wall!",
+    "key.category.walljump.wall_jump": "Wall-Jump",
+    "key.walljump.walljump": "Wall Jump \/ Wall Cling",
+    "pack.walljump.enchantments.description": "Enables Wall-Jump enchantments",
+    "pack.walljump.enchantments.title": "Wall-Jump enchantments",
     "walljump.key.walljump": "Wall Jump \/ Wall Cling"
 }

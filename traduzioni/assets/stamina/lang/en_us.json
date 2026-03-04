@@ -1,0 +1,11 @@
+{
+    "attribute.name.bonus_stamina": "Bonus Stamina",
+    "commands.insanestamina.get": "%s's stamina: %s",
+    "effect.stamina.vigour": "Vigour",
+    "effect.stamina.vigour.description": "Increases max stamina",
+    "enchantment.stamina.vigour": "Vigour",
+    "enchantment.stamina.vigour.desc": "Increases max stamina",
+    "modifier.stamina.vigour": "Vigour",
+    "modifier.stamina.vigour.description": "Increases max stamina",
+    "modifier.stamina.vigour.flavor": "Gotta go farther"
+}

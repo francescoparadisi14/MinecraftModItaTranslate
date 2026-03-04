@@ -1,0 +1,12 @@
+{
+    "block.cubc.example_block": "Example Block",
+    "cubc.configuration.items": "Item List",
+    "cubc.configuration.logDirtBlock": "Log Dirt Block",
+    "cubc.configuration.magicNumber": "Magic Number",
+    "cubc.configuration.magicNumberIntroduction": "Magic Number Text",
+    "cubc.configuration.section.cubc.common.toml": "Cobblemon Ultra Beasts Collection Configs",
+    "cubc.configuration.section.cubc.common.toml.title": "Cobblemon Ultra Beasts Collection Configs",
+    "cubc.configuration.title": "Cobblemon Ultra Beasts Collection Configs",
+    "item.cubc.example_item": "Example Item",
+    "itemGroup.cubc": "Example Mod Tab"
+}

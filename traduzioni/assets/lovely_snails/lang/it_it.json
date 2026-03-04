@@ -1,0 +1,9 @@
+{
+    "entity.lovely_snails.snail": "Lumache",
+    "item.lovely_snails.snail_spawn_egg": "Uova di lumache",
+    "subtitles.lovely_snails.entity.snail.death": "La lumaca muore.",
+    "subtitles.lovely_snails.entity.snail.hurt": "La lumaca mi fa male.",
+    "tag.item.lovely_snails.snail_breeding_items": "Alimenti per l'allevamento di lumache",
+    "tag.item.lovely_snails.snail_food_items": "Alimenti per lumache",
+    "tag.item.lovely_snails.snail_scary_items": "Oggetti spaventosi per lumache"
+}

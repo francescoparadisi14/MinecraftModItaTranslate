@@ -11,5 +11,8 @@
     "block.adchimneys.stone_pump": "Stone Pump",
     "block.adchimneys.stone_vent": "Stone Vent",
     "item.adchimneys.wooden_paintbrush": "Wooden Paintbrush",
-    "tabs.adchimneys.advanced_chimneys": "Advanced Chimneys"
+    "tabs.adchimneys.advanced_chimneys": "Advanced Chimneys",
+    "tag.item.c.bricks.large": "Large Bricks",
+    "tag.item.c.bricks.small": "Small Bricks",
+    "tag.item.c.chimneys": "Chimneys"
 }

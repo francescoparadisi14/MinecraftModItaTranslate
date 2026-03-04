@@ -1,0 +1,9 @@
+{
+    "text.autoconfig.underground_villages.option.generation": "Generazione",
+    "text.autoconfig.underground_villages.option.generation.yLevel": "Livello Y",
+    "text.autoconfig.underground_villages.title": "Villaggi sotterranei",
+    "underground_villages.configuration.Generation": "Generazione",
+    "underground_villages.configuration.Generation.tooltip": "Impostazioni per la generazione",
+    "underground_villages.configuration.yLevel": "Livello Y",
+    "underground_villages.configuration.yLevel.tooltip": "Il livello Y è quello in cui tenterà di generare i villaggi."
+}

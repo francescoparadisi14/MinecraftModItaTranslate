@@ -1,0 +1,20 @@
+{
+    "betterpingdisplay.configuration.autoColorText": "Testo colorato automatico",
+    "betterpingdisplay.configuration.autoColorText.tooltip": "Decidere se rappresentare la latenza del giocatore attraverso un colore, ad esempio: bassa latenza = verde, alta latenza = rosso.",
+    "betterpingdisplay.configuration.renderPingBars": "Creare barre di ping",
+    "betterpingdisplay.configuration.renderPingBars.tooltip": "Se si desidera anche visualizzare le barre di ping predefinite di Minecraft.",
+    "betterpingdisplay.configuration.textColor": "Colore del testo (ping)",
+    "betterpingdisplay.configuration.textColor.tooltip": "Il colore del testo per i ping. Funziona solo quando \"autoColorPingText\" è impostato su \"false\".",
+    "betterpingdisplay.configuration.textFormatString": "Stringa di formato per il comando Ping",
+    "betterpingdisplay.configuration.textFormatString.tooltip": "La stringa di formato per il testo di ping deve includere un \"%d\", che verrà sostituito dinamicamente dal valore effettivo del ping.",
+    "betterpingdisplay.configuration.title": "Impostazioni di visualizzazione del ping migliorate",
+    "betterpingdisplay.settings.autoColorPingText": "Testo colorato automatico",
+    "betterpingdisplay.settings.autoColorPingText.description": "Decidere se rappresentare la latenza del giocatore attraverso un colore, ad esempio: bassa latenza = verde, alta latenza = rosso.",
+    "betterpingdisplay.settings.pingTextColor": "Colore del testo (ping)",
+    "betterpingdisplay.settings.pingTextColor.description": "Il colore del testo per i ping. Funziona solo quando \"autoColorPingText\" è impostato su \"false\".",
+    "betterpingdisplay.settings.pingTextFormatString": "Stringa di formato per il comando Ping",
+    "betterpingdisplay.settings.pingTextFormatString.description": "La stringa di formato per il testo di ping deve includere un \"%d\", che verrà sostituito dinamicamente dal valore effettivo del ping.",
+    "betterpingdisplay.settings.renderPingBars": "Creare barre di ping",
+    "betterpingdisplay.settings.renderPingBars.description": "Se si desidera anche visualizzare le barre di ping predefinite di Minecraft.",
+    "betterpingdisplay.settings.title": "Impostazioni di visualizzazione del ping migliorate"
+}

@@ -1,14 +1,14 @@
 {
-    "creative_tab.trowels": "Limi",
-    "desc.trowels.trowel": "Quando clicchi destro, il piccone piazza un blocco casuale dalla tua barra degli slot.",
-    "desc.trowels.trowel.destroy_recent": "Puoi rompere i blocchi che sono stati recentemente (gli ultimi 5) posizionati con la spatola istantaneamente, vengono restituiti nella tua inventario.",
-    "desc.trowels.trowel.upgrades": "Può essere migliorato combinando un oggetto di miglioramento con un martello da muratore in un incudine.",
-    "item.trowelsfork.break_upgrade": "Aggiornamento di rottura",
-    "item.trowelsfork.refill_upgrade": "Aggiornamento di ricarica",
-    "item.trowelsfork.trowel": "Lama per la terra",
+    "creative_tab.trowels": "Pala",
+    "desc.trowels.trowel": "Quando si fa clic con il tasto destro, l'utensile posizionerà un blocco a caso dalla barra degli oggetti.",
+    "desc.trowels.trowel.destroy_recent": "È possibile distruggere immediatamente i blocchi che sono stati posati di recente (gli ultimi 5), e verranno restituiti al vostro inventario.",
+    "desc.trowels.trowel.upgrades": "Può essere migliorato combinandolo con un oggetto di potenziamento disponibile nell'anello.",
+    "item.trowelsfork.break_upgrade": "Aggiornamento",
+    "item.trowelsfork.refill_upgrade": "Aggiornamento del servizio",
+    "item.trowelsfork.trowel": "Pala",
     "tooltip.trowels.upgrades": "Aggiornamenti:",
-    "trowel_upgrade.break": "Aggiornamento di rottura",
-    "trowel_upgrade.break.desc": "Combina un piccone con un martello da fabbro per dotare il piccone della capacità di rompere immediatamente i blocchi recentemente posati con il piccone (gli ultimi 5).",
-    "trowel_upgrade.refill": "Aggiornamento di ricarica",
-    "trowel_upgrade.refill.desc": "Combina un piccone con un incudine per farlo rifornire di blocchi utilizzati nel tuo inventario."
+    "trowel_upgrade.break": "Aggiornamento",
+    "trowel_upgrade.break.desc": "Combinare con una paletta all'interno di un martello, in modo da consentire di distruggere istantaneamente i blocchi appena posati con la paletta (gli ultimi 5).",
+    "trowel_upgrade.refill": "Aggiornamento del servizio",
+    "trowel_upgrade.refill.desc": "Utilizza un piccone per rimuovere un blocco dal inventario e posizionalo, in modo che, una volta posizionato, riempia automaticamente lo slot precedentemente occupato."
 }

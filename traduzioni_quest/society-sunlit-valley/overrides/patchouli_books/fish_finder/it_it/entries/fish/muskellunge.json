@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 96 monete$(li)Simbolo di stagione: Autunno$(li)Acqua: Fiume$(li)Clima: Qualsiasi$(li)Ora del giorno: Notte"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 96$(li)§0🍂 §4Autunno§0$(li)Acqua: Fiume$(li)Meteo: Qualsiasi$(li)Ora: Notte"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:muskellunge",
             "scale": 0.8,
             "rotate": true,
-            "text": "Utilizzato nei profumi."
+            "text": "Patchouli: entità\n\nAcquacoltura: muscolo\n\nUtilizzato nei profumi."
         }
     ]
 }

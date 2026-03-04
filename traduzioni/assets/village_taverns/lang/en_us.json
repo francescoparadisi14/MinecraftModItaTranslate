@@ -1,0 +1,6 @@
+{
+    "block.village_taverns.barrel": "Brew Keg",
+    "block.village_taverns.barrel.hint": "Workbench for Bartender Villagers.",
+    "entity.minecraft.villager.bartender": "Bartender",
+    "entity.minecraft.villager.village_taverns.bartender": "Bartender"
+}

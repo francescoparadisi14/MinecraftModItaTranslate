@@ -1,4 +1,7 @@
 {
-    "create.gui.assembly.exception.structureTooLargeOrUnstable": "La struttura ha troppi blocchi o il coefficiente di stabilità strutturale supera il limite\nvalore massimo della struttura: [%1$s]\nvalore attuale della struttura: [%2$s]\nvalore massimo del coefficiente: [%3$s]\nvalore attuale del coefficiente: [%4$s]",
-    "create.gui.assembly.exception.unmovableBlock_test": "La struttura è troppo lunga, il blocco non può essere spostato o il numero di blocchi con funzione speciale supera la soglia\nubicazione: [%1$s, %2$s, %3$s]\nblocco: [%4$s]"
+    "create.gui.assembly.exception.structureTooLargeOrUnstable": "La struttura presenta troppi elementi o il coefficiente di stabilità strutturale supera il limite.\nValore massimo della struttura: [%1$s]\nValore attuale della struttura: [%2$s]\nValore massimo del coefficiente: [%3$s]\nValore attuale del coefficiente: [%4$s]",
+    "create.gui.assembly.exception.unmovableBlock_entity_control": "La struttura è troppo lunga, il blocco non può essere spostato o il numero di blocchi con funzioni speciali supera il limite.\nPosizione: [%4$s,%5$s,%6$s]\nBlocco: [%7$s]",
+    "create.gui.assembly.exception.unmovableBlock_entity_control_limit_special_block": "Il blocco ha raggiunto il limite di conteggio!\nPosizione: [%1$s, %2$s, %3$s]\nBlocco: [%4$s]",
+    "create.gui.assembly.exception.unmovableBlock_entity_control_structure_too_long": "Struttura troppo lunga!\nIndirizzo: [%1$s,%2$s,%3$s]\nBlocco: [%4$s]",
+    "create.gui.assembly.exception.unmovableBlock_entity_control_unmovable_block": "Il blocco non può essere spostato!\nPosizione: [%4$s,%5$s,%6$s]\nBlocco: [%7$s]"
 }

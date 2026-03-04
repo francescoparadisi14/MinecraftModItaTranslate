@@ -1,5 +1,5 @@
 {
-    "worldgen\/biome.climaterivers.cold_river": "Fiume freddo",
-    "worldgen\/biome.climaterivers.lukewarm_river": "Fiume tiepido",
-    "worldgen\/biome.climaterivers.warm_river": "Fiume caldo"
+    "biome.climaterivers.cold_river": "Fiume Freddo",
+    "biome.climaterivers.lukewarm_river": "Fiume tiepido",
+    "biome.climaterivers.warm_river": "Fiume caldo"
 }

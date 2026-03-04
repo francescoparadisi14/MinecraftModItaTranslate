@@ -1,4 +1,4 @@
 {
-    "block.createchunkloading.chunk_loader": "Caricatore di chunk",
-    "itemGroup.createchunkloading.blocks_tab": "Blocchi di caricamento chunk creati"
+    "block.createchunkloading.chunk_loader": "Caricatore di blocchi",
+    "itemGroup.createchunkloading.blocks_tab": "Creare blocchi per il caricamento a blocchi"
 }

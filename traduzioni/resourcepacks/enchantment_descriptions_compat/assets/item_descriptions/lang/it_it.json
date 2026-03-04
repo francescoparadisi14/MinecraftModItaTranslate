@@ -1,6 +1,6 @@
 {
-    "enchantment.enchiridion.channeling.description": "Un incantesimo che consente a questo tridente di evocare un fulmine al momento dell'impatto, purché ci sia pioggia o temporale.",
-    "enchantment.enchiridion.impaling.description": "Un incantesimo che aumenta il danno di questo tridente verso i mostri acquatici e le entità che toccano l'acqua.",
-    "enchantment.enchiridion.infinity.description": "Un incantesimo che consente a questo arco di sparare frecce normali infinite.",
-    "enchantment.enchiridion.thorns.description": "Un incantesimo che causa ai danni inflitti dagli attaccanti al portatore di questo oggetto, purché l'attaccante si trovi a una distanza breve."
+    "enchantment.enchiridion.channeling.description": "Un incantesimo che permette a questo Tridente di evocare un fulmine al momento dell'impatto, a condizione che stia attualmente piovendo o che ci sia temporale.",
+    "enchantment.enchiridion.impaling.description": "Un effetto magico che aumenta i danni di questo Tridente nei confronti di creature acquatiche e entità che sono in contatto con l'acqua.",
+    "enchantment.enchiridion.infinity.description": "Un incantesimo che permette a questa freccia di sparare frecce normali in quantità illimitata.",
+    "enchantment.enchiridion.thorns.description": "Un incantesimo che fa sì che chi attacca subisca danni quando colpisce la persona che indossa l'oggetto, a condizione che l'attaccante si trovi a una breve distanza."
 }

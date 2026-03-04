@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li):moneta: 24$(li)§0🍂 §4Autunno§0 §0❆ §bInverno§0$(li)Acqua: Oceano$(li)Vento: Qualsiasi$(li)Ora: §0🍂 §4Autunno§0 (Notte), §0❆ §bInverno§0 (Giorno o Notte)"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 24$(li)§0🍂 §4Autunno§0 §0❆ §bInverno§0$(li)Acqua: Oceano$(li)Meteo: Qualsiasi$(li)Ora: §0🍂 §4Autunno§0 (Notte), §0❆ §bInverno§0 (Giorno o Notte)"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:blackfish",
             "scale": 0.8,
             "rotate": true,
-            "text": "Sembra che tu sia Tilikum?"
+            "text": "patchouli:entità\n\nacquacoltura: pesce nero\n\nÈ tu, Tilikum?"
         }
     ]
 }

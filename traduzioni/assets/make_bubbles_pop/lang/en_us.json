@@ -24,5 +24,6 @@
     "make_bubbles_pop.midnightconfig.additional_features": "Additional Features",
     "make_bubbles_pop.midnightconfig.empty": "",
     "make_bubbles_pop.midnightconfig.title": "Make Bubbles Pop Configuration",
+    "modmenu.descriptionTranslation.make_bubbles_pop": "This client-side mod makes bubble particles pop and lets them realistically rise to the water surface. \nIt also adds bubble particles to opening chests, opening barrels and explosions underwater.",
     "modmenu.summaryTranslation.make_bubbles_pop": "Makes bubble particles pop and lets them rise to the water surface."
 }

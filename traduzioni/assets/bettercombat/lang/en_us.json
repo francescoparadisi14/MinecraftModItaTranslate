@@ -23,6 +23,8 @@
     "text.autoconfig.bettercombat.option.client.isShowingArmsInFirstPerson.@Tooltip": "Render arms for attack animations played in first person view",
     "text.autoconfig.bettercombat.option.client.isShowingOtherHandFirstPerson": "Show inactive hand in first person",
     "text.autoconfig.bettercombat.option.client.isShowingOtherHandFirstPerson.@Tooltip": "Render hand you are not attacking with in first person view",
+    "text.autoconfig.bettercombat.option.client.isShowingWeaponTrails": "Show weapon swing trails",
+    "text.autoconfig.bettercombat.option.client.isShowingWeaponTrails.@Tooltip": "Render weapon trail particles for attacks in all perspectives",
     "text.autoconfig.bettercombat.option.client.isSmoothAnimationTransitionEnabled": "Smooth animation transitions",
     "text.autoconfig.bettercombat.option.client.isSmoothAnimationTransitionEnabled.@Tooltip": "Attack animations smoothly transition at the cost of accuracy",
     "text.autoconfig.bettercombat.option.client.isSweepingParticleEnabled": "Show sweeping",

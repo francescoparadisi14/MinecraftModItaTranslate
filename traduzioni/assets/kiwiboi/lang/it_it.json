@@ -1,10 +1,10 @@
 {
     "entity.kiwiboi.kiwi": "Kiwi",
-    "item.kiwiboi.kiwi_spawn_egg": "Uovo di kiwi",
-    "item.kiwiboi.kiwicake": "Torta di kiwi",
-    "painting.kiwiboi.weird_penguin.author": "omaypaty",
+    "item.kiwiboi.kiwi_spawn_egg": "Uovo di Kiwi (in riferimento alla pianta)",
+    "item.kiwiboi.kiwicake": "Torta al kiwi",
+    "painting.kiwiboi.weird_penguin.author": "OmayPaty",
     "painting.kiwiboi.weird_penguin.title": "Pinguino strano",
-    "subtitle.kiwiboi.kiwi_ambient": "Squittii dei kiwi",
-    "subtitle.kiwiboi.kiwi_death": "Muore kiwi",
-    "subtitle.kiwiboi.kiwi_hurt": "Kiwi si ferisce"
+    "subtitle.kiwiboi.kiwi_ambient": "Urla di kiwi",
+    "subtitle.kiwiboi.kiwi_death": "La morte del kiwi",
+    "subtitle.kiwiboi.kiwi_hurt": "Il kiwi è doloroso."
 }

@@ -1,14 +1,14 @@
 {
-    "block.woodenhoppers.acacia_hopper": "Sfoglia di acacia",
-    "block.woodenhoppers.bamboo_hopper": "Tappo di bambù",
-    "block.woodenhoppers.birch_hopper": "Sommessa di betulla",
-    "block.woodenhoppers.cherry_hopper": "Hopper di ciliegio",
-    "block.woodenhoppers.crimson_hopper": "Cassetto crimosino",
-    "block.woodenhoppers.dark_oak_hopper": "Hoppa di quercia oscura",
-    "block.woodenhoppers.jungle_hopper": "Saltuario di giungla",
-    "block.woodenhoppers.mangrove_hopper": "Schiacciapiedi di mangrovia",
-    "block.woodenhoppers.oak_hopper": "Sommiere di quercia",
-    "block.woodenhoppers.spruce_hopper": "Scheda di salto di betulla",
-    "block.woodenhoppers.warped_hopper": "Sommerso di warped",
-    "container.wooden_hopper": "Serbatoio ligneo"
+    "block.woodenhoppers.acacia_hopper": "Acacia Hopper",
+    "block.woodenhoppers.bamboo_hopper": "Cestino in bambù",
+    "block.woodenhoppers.birch_hopper": "Birch Hopper",
+    "block.woodenhoppers.cherry_hopper": "Cherry Hopper",
+    "block.woodenhoppers.crimson_hopper": "Crimson Hopper",
+    "block.woodenhoppers.dark_oak_hopper": "Contenitore in legno scuro (tipo \"hopper\")",
+    "block.woodenhoppers.jungle_hopper": "Saltatore nella giungla",
+    "block.woodenhoppers.mangrove_hopper": "Mangrove Hopper",
+    "block.woodenhoppers.oak_hopper": "Oak Hopper",
+    "block.woodenhoppers.spruce_hopper": "Spruce Hopper",
+    "block.woodenhoppers.warped_hopper": "Hopper distorto",
+    "container.wooden_hopper": "Cesto in legno"
 }

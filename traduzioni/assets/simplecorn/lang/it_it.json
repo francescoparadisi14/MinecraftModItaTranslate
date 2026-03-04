@@ -1,14 +1,14 @@
 {
-    "block.simplecorn.corn": "Grano",
-    "block.simplecorn.corn_mid": "Grano",
-    "block.simplecorn.corn_top": "Grano",
-    "item.simplecorn.chickencornchowder": "Zuppa di mais e pollo",
+    "block.simplecorn.corn": "Mais",
+    "block.simplecorn.corn_mid": "Mais",
+    "block.simplecorn.corn_top": "Mais",
+    "item.simplecorn.chickencornchowder": "Zuppa di pollo e mais",
     "item.simplecorn.cornchowder": "Zuppa di mais",
-    "item.simplecorn.corncob": "Orecchio di granturco",
+    "item.simplecorn.corncob": "Orecchio di mais",
     "item.simplecorn.kernels": "Grani di mais",
-    "item.simplecorn.popfirework": "Razzo di fuoco d'artificio",
+    "item.simplecorn.popfirework": "Razzo per fuochi d'artificio",
     "item.simplecorn.poppedcorn": "Popcorn",
-    "item.simplecorn.roastedcorn": "Grano tostato",
-    "simplecorn.advancements.husbandry.plant_corn.description": "Pianta del granturco e osserva come cresce",
-    "simplecorn.advancements.husbandry.plant_corn.title": "Un gioco a base di mais"
+    "item.simplecorn.roastedcorn": "Mais arrosto",
+    "simplecorn.advancements.husbandry.plant_corn.description": "Pianta del mais e osserva la sua crescita.",
+    "simplecorn.advancements.husbandry.plant_corn.title": "Una battuta sciocca"
 }

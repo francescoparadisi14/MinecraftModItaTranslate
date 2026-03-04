@@ -1,4 +1,8 @@
 {
+    "custom.goblintraders.lore": "A special item reengineered by the goblin with enhanced attributes",
+    "custom.goblintraders.moon_boots": "Moon Boots",
+    "custom.goblintraders.mystery_map": "Mystery Map",
+    "custom.goblintraders.tuned": "Goblin Tuned",
     "entity.goblintraders.goblin_trader": "Goblin Trader",
     "entity.goblintraders.vein_goblin_trader": "Vein Goblin Trader",
     "item.goblintraders.goblin_trader_spawn_egg": "Goblin Trader Spawn Egg",

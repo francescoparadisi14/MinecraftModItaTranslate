@@ -1,16 +1,16 @@
 {
-    "name": "Pawpaw Tree 🍂",
+    "name": "Albero di pawpaw 🍂",
     "category": "patchouli:trees",
     "icon": "pamhc2trees:pawpaw_sapling",
     "sortnum": -1,
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)🍂 §4Autunno§r $(li)Dimensione: 1x1$(li)Cresce in: $(l:tree_crops\/pawpaw)8 Pawpaw$(\/l)$(br2)$(l)Note$()$(li)Seme di albero vinto alla macchina dei premi."
+            "text": "patchouli:text\n\n$(l)Statistiche$()$(li)🍂 Autunno§r $(li)Dimensione: 1x1$(li)Coltivabile: $(l:alberi\/pawpaw) 8 Pawpaw$(\/l)$(br2)$(l)Note$()$(li)Piantine ottenute dalla macchina premi."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Pawpaw Tree",
+            "name ": "Patchouli: Multiblocco\n\nAlbero di Pawpaw",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {
@@ -77,8 +77,7 @@
                         "     "
                     ]
                 ]
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

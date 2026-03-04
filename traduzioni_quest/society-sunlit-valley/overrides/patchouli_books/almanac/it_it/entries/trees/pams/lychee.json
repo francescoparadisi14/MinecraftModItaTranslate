@@ -1,16 +1,16 @@
 {
-    "name": "Albero di lichee 🌼",
+    "name": "Albero di litchi 🌼",
     "category": "patchouli:trees",
     "icon": "pamhc2trees:lychee_sapling",
     "sortnum": -1,
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Stagione: Primavera $(li)Prezzo: 256 monete $(li)Dimensioni: 1x1 $(li)Cresce in:` $(l:tree_crops\/lychee)8 Lychee $(\/l) $(br2) $(l)Note$()$(li)Venduti come semi nel Mercato.`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🌼 Primavera§r $(li)Prezzo: 256$(li)Dimensione: 1x1$(li)Coltivabile: 8 Lychee (da \"l:tree_crops\/lychee\")$(\/l)$(br2)$(l)Note$()$(li)Piantine acquistate dal mercato."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Lychee Tree",
+            "name ": "Patchouli: Multibloc\nAlbero di lichia",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {
@@ -77,8 +77,7 @@
                         "     "
                     ]
                 ]
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

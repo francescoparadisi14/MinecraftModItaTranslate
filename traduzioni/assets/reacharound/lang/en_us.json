@@ -34,6 +34,7 @@
     "reacharound.config.indicator.style3d.both": "Both",
     "reacharound.config.indicator.style3d.outline": "Outline",
     "reacharound.config.indicator.style3d.solid": "Solid",
+    "reacharound.config.indicator.thickness3d": "Outline Thickness",
     "reacharound.config.indicator.vertical": "Custom Vertical Indicator",
     "reacharound.config.indicator2d": "Indicator 2D",
     "reacharound.config.indicator3d": "Indicator 3D",

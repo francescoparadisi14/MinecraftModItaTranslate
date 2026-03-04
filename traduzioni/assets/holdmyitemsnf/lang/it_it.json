@@ -1,5 +1,5 @@
 {
-    "block.holdmyitemsnf.example_block": "Blocco di esempio",
-    "item.holdmyitemsnf.example_item": "Oggetto di esempio",
-    "itemGroup.holdmyitemsnf": "Tab esempio del modulo"
+    "block.holdmyitemsnf.example_block": "Esempio di blocco",
+    "item.holdmyitemsnf.example_item": "Esempio di articolo",
+    "itemGroup.holdmyitemsnf": "Esempio di tabella Mod"
 }

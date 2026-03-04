@@ -38,7 +38,7 @@
     "block.solargeneration.solar_panel_ultimate": "Pannello Solare Finale",
     "gui.solargeneration.capacity": "Capacità: %s",
     "gui.solargeneration.energy": "Energia: %s%",
-    "gui.solargeneration.generation": "Generazione: %s fe\/t",
+    "gui.solargeneration.generation": "Generazione: %s FE\/t",
     "gui.solargeneration.stored_energy": "Energia immagazzinata: %s",
     "item.solargeneration.lapis_shard": "Frammento di Lapis",
     "item.solargeneration.photovoltaic_cell": "Cella Fotovoltaica",
@@ -56,8 +56,8 @@
     "item.solargeneration.solar_helmet_resonant": "Elmo Solare di Resonant",
     "item.solargeneration.solar_helmet_signalum": "Elmo Solare di Signalum",
     "item.solargeneration.solar_helmet_ultimate": "Elmo Solare Finale",
-    "message.solargeneration.for_details": "per dettagli",
-    "message.solargeneration.for_stored_energy": "per energia archiviata",
+    "message.solargeneration.for_details": "per maggiori dettagli",
+    "message.solargeneration.for_stored_energy": "per l'energia immagazzinata",
     "message.solargeneration.hold": "Tenere",
-    "message.solargeneration.transfer": "Trasferimento: %s fe\/t"
+    "message.solargeneration.transfer": "Trasferimento: %s FE\/t"
 }

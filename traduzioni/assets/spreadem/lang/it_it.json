@@ -1,0 +1,7 @@
+{
+    "spreadem.configuration.biomeBlacklist": "Lista nera di Biome",
+    "spreadem.configuration.blacklist": "Elenco dei soggetti indesiderati",
+    "spreadem.configuration.blacklistOceans": "Elenco nero degli oceani",
+    "spreadem.configuration.general": "Generale",
+    "spreadem.configuration.spreadDistance": "Distanza di propagazione"
+}

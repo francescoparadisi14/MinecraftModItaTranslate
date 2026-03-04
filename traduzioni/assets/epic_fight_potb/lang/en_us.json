@@ -1,1 +1,5 @@
-[]
+{
+    "block.epic_fight_potb.example_block": "Example Block",
+    "item.epic_fight_potb.example_item": "Example Item",
+    "itemGroup.epic_fight_potb": "Example Mod Tab"
+}

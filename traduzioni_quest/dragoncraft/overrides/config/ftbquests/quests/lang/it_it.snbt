@@ -1,0 +1,1555 @@
+{
+    "chapter.291E3F05850D5553.title": "L'inizio",
+    "chapter.3CCD597FF88266DC.title": "La Saga draconiana",
+    "chapter.63A2C57351A99ED0.title": "Giornaliero",
+    "chapter.695318EE7C44D321.title": "Art Nouveau",
+    "chapter.6AE9E2455A1A6349.title": "Gli incantesimi di Iron e i suoi grimori",
+    "chapter_group.22FF1BDE9C722455.title": "Nuovi inizi",
+    "chapter_group.4E9BD0014FC39D00.title": "Ripetibile",
+    "chapter_group.5110117D1985F86D.title": "Storia",
+    "chapter_group.78EA73D4AA556E12.title": "Guida",
+    "file.0000000000000001.title": "Favole di Draconia",
+    "quest.00C009F41021BDEE.quest_desc": [
+        "Nella schermata del tuo inventario, troverai diversi pulsanti nella parte superiore.",
+        "",
+        "La seconda scheda mostrerà uno schermo contenente tutte le abilità del tuo drago. Passa il mouse sopra per visualizzare una descrizione.",
+        "Le abilità passive (la seconda riga) possono essere aumentate o diminuite utilizzando le piccole frecce situate ai lati di ogni icona."
+    ],
+    "quest.00C009F41021BDEE.quest_subtitle": "Avanzamento!",
+    "quest.012E593F04EB24A5.quest_desc": [
+        "Nel mondo dell'Art Nouveau, esistono gli \"Spiriti Selvatici\", esseri nati dalla concentrazione dell'essenza della natura.",
+        "",
+        "- Wilden Hunter",
+        "- Wilden Defender",
+        "- Wilden Stalker",
+        "",
+        "Il Corno di Wilden, lo Spillo di Wilden e l'Ala di Wilden sono potenti catalizzatori che porteranno la tua magia al livello successivo. Ora, dimostra la tua forza e prendi questi materiali.",
+        "",
+        "- Consigli -",
+        "\\&7I Wilden ci riuniamo nei nostri rifugi, noti come \"Wilden Den\".\\&r La bussola \"Explorer's Compass\" può essere utilizzata per individuare facilmente i nostri rifugi."
+    ],
+    "quest.012E593F04EB24A5.title": "Wilden?",
+    "quest.01BF5B85CDB5449A.quest_desc": [
+        "Creare incantesimi nel mondo è un percorso che dipende dal destino. Un vero mago forgia il proprio destino. Lo strumento \"\\&aScroll Forge\\&r\" ti permette di creare qualsiasi tipo di pergamena desiderata, utilizzando inchiostro, carta e un \"Focus\" magico."
+    ],
+    "quest.01BF5B85CDB5449A.quest_subtitle": "L'Officina dello Scrittore",
+    "quest.01FEDC8F9EBAC230.quest_desc": [
+        "Per utilizzare la magia, è necessario il suo combustibile. L'«Essenza Arcana» è la materia primordiale per tutte le forme di magia. Può essere trovata nei forzieri dimenticati di antiche rovine o presso maghi erranti. Trova il tuo primo frammento di questa magia cristallizzata."
+    ],
+    "quest.01FEDC8F9EBAC230.quest_subtitle": "La fonte della magia",
+    "quest.02BE82503F35470D.quest_desc": [
+        "Gli lingotti di Mithril non sono utilizzati solo per creare armature, ma sono anche un componente fondamentale nella fabbricazione di alcune delle armi magiche più potenti disponibili, come la \\&eSpellbreaker\\&r e la \\&eAmethyst Rapier\\&r. Queste armi spesso sono dotate di incantesimi unici, che combinano abilità marziali con potere magico."
+    ],
+    "quest.02BE82503F35470D.title": "Armamenti Mithril",
+    "quest.039BCAD1B8BFEC6A.quest_desc": [
+        "Congratulazioni, ora siete un vero e proprio Archomago. A vostra disposizione sono le magie più potenti del mondo. Aprite il vostro nuovo libro di incantesimi, osservate il potere dei glifi di livello 3, ora accessibili a voi, e mettete tutta la vostra conoscenza e creatività per creare un incantesimo definitivo che simboleggi la vostra stessa essenza. Questo incantesimo è la prova della vostra ascesa."
+    ],
+    "quest.039BCAD1B8BFEC6A.quest_subtitle": "Il culmine del potere",
+    "quest.045F60E47DA778FB.quest_desc": [
+        "Lo \"Spirito del Drago Vuoto\" può essere utilizzato per contenere lo spirito e la forma del vostro drago.",
+        "",
+        "Utilizzando il pulsante destro del mouse, sarà possibile salvare la forma corrente all'interno di essa. (In modo predefinito, tornerete alla forma umana).",
+        "",
+        "Quindi, tornando all'altare per scegliere nuovamente la forma di drago, oppure rimanendo nella forma umana se si utilizza nuovamente l'anima, si ritornerà alla forma di drago."
+    ],
+    "quest.0473249CA2C086E1.quest_desc": [
+        "aggiorna la tua armatura di livello 2 alla versione 3"
+    ],
+    "quest.0473249CA2C086E1.title": "Aggiorna l'armatura del mago al livello 3",
+    "quest.04C9850EF2293C36.quest_desc": [
+        "Grimorio universale",
+        "",
+        "\\&6- Come ottenere",
+        "\\&7Creato manualmente\\&r"
+    ],
+    "quest.05493550EC7EC5C5.quest_desc": [
+        "Utilizza un dispositivo magico per migliorare la tua armatura di livello 1 a quella di livello 2."
+    ],
+    "quest.05493550EC7EC5C5.title": "Aggiorna l'armatura del Battlemage al livello 2.",
+    "quest.05C73A65DDBDCDA2.quest_desc": [
+        "Il campione della rovina dorme dietro una cortina di fiamme minori. Non si risveglierà per una sfida, ma solo in segno di rispetto.",
+        "",
+        "Il percorso è chiaro. Sconfiggi gli \"Ignited Revenants\" che infestano l'arena e raccogli le loro \"Ceneri Ardenti\". Con questo tributo di polvere e sconfitta, potrai evocare il fuoco finale."
+    ],
+    "quest.05C73A65DDBDCDA2.title": "Un'offerta di cenere",
+    "quest.060DCF63454FA000.quest_desc": [
+        "E chiaramente è arrabbiato.",
+        "",
+        "E fumo sta uscendo dalle sue narici.",
+        "",
+        "E la logica dice: \"Corre!\".",
+        "",
+        "E l'istinto dice: «PETTIGLIALO»."
+    ],
+    "quest.060DCF63454FA000.title": "👋 \\&oPAT PAT PAT!!!",
+    "quest.07115A6A6AD83973.quest_desc": [
+        "Perché scegliere tra magia e incantesimi? L'Arcano Anvil consente di trasferire direttamente un incantesimo su un'arma, permettendo di utilizzarlo senza bisogno di un libro di incantesimi. Questo processo consuma permanentemente lo scroll, quindi scegli con attenzione. Trasferisci un incantesimo utile sulla tua spada."
+    ],
+    "quest.07115A6A6AD83973.title": "Dotare di armi",
+    "quest.080431B8861B86C2.quest_subtitle": "L'evoluzione straordinaria!",
+    "quest.08D6616B70289460.quest_desc": [
+        "Un libro di incantesimi incentrato sulla natura",
+        "",
+        "\\&6- Come ottenere",
+        "\\&7Creato utilizzando il Libro di Incantesimi Danneggiato\\&r"
+    ],
+    "quest.0B8F40F2B5B1AE7F.quest_desc": [
+        "Ho sentito dire che le 'macchine a spinning' sono di moda in questo momento?",
+        "",
+        "Si dice che la miscelazione di piccoli pezzi di pietra e ferro produca una lega resistente.",
+        "",
+        "Stai seguendo la strada di un ingegnere? Portami alcuni campioni."
+    ],
+    "quest.0B8F40F2B5B1AE7F.quest_subtitle": "Macchine per il trasloco",
+    "quest.0B8F40F2B5B1AE7F.title": "[Livello 2] Crea",
+    "quest.0BD41C2B66A1E0D1.quest_desc": [
+        "Questo mondo è pieno di energie arcane nascoste. \"Iron's Spells 'n Spellbooks\" trasformerà te in un potente mago, proprio come un classico personaggio di un gioco di ruolo. Scopri gli incantesimi, scrivili nei tuoi libri di incantesimi e crea equipaggiamenti potenti per iniziare il tuo viaggio magico."
+    ],
+    "quest.0BD41C2B66A1E0D1.quest_subtitle": "L'incanto",
+    "quest.0BD41C2B66A1E0D1.title": "Gli incantesimi di Iron e i suoi grimori",
+    "quest.0C40C1C71B10807C.quest_desc": [
+        "È possibile controllare i catalizzatori in JEI.",
+        "",
+        "I catalizzatori per l'essenza di Abjuration",
+        "- Occhio di ragno fermentato",
+        "- Secchio per il latte",
+        "- Zucchero"
+    ],
+    "quest.0C7352106331D93D.quest_desc": [
+        "Un incantesimo è effimero, ma un libro di incantesimi conferisce loro una permanenza. Il libro di incantesimi più semplice è il \"Diario Semplice\". Anche se può sembrare modesto, questo libro conterrà i tuoi primi incantesimi veri."
+    ],
+    "quest.0C7352106331D93D.quest_subtitle": "Il primo libro di incantesimi",
+    "quest.0D6A08C3AB75AB76.quest_subtitle": "Utilizza il rituale per evocare un Chimera di Wilden.",
+    "quest.0D6A08C3AB75AB76.title": "Ho toccato la linea di energia",
+    "quest.0DE90B9549320B4F.quest_desc": [
+        "Avete superato le prove iniziali e vi siete armati di acciaio. Ma l'acciaio, il metallo delle guerre umane, si piegherà e si romperà di fronte alle vere minacce di Draconia.",
+        "",
+        "I sussurri provenienti da sotto diventano più forti, una tristezza che minaccia di inghiottire tutto. Per affrontare questa imminente angoscia, dovete diventare un faro di speranza, avvolti in una luce che non può essere spenta. Cercate il cuore del mondo – i diamanti che dormono nell'abisso. Dagli create le braccia di un vero campione. Solo allora sarete pronti ad affrontare la prima ferita."
+    ],
+    "quest.0DE90B9549320B4F.title": "La forgia di un campione",
+    "quest.0E9BD8F605F8AB28.quest_desc": [
+        "Nella natura selvaggia, potresti incontrare lo \\&eStarbuncle\\&, una creatura adorabile che brilla come un frammento di stella. Sono particolarmente attratti da tutto ciò che è lucido e dorato.",
+        "",
+        "Trova un esemplare selvatico di \"Starbuncle\" e offrigli un \"nugget d'oro\". In segno di gratitudine, ti donerà un \"frammento di Starbuncle\", una parte della sua stessa essenza. Questo \"frammento\" è il primo passo per evocare il tuo stesso \"Starbuncle\"."
+    ],
+    "quest.0E9BD8F605F8AB28.quest_subtitle": "Un'amicizia brillante",
+    "quest.0F91AEF0828AB737.quest_subtitle": "La maestosa e potente divinità del Drago di Ghiaccio, un tempo venerata, fu sconfitta da Maledictus, il Generale Fantasma, creato da Erythral, la Voletta Spezzata.",
+    "quest.0F91AEF0828AB737.title": "Avange Yumorra",
+    "quest.0FACE98FFD827ADE.quest_desc": [
+        "Il \"Rituale della Tavola del Tramonto\" è un rituale speciale che non richiede l'utilizzo di alcuna risorsa. Offre un'opportunità sicura per imparare i principi fondamentali della magia avanzata: come influenzare direttamente le leggi del mondo senza dover pagare un prezzo.",
+        "",
+        "Fai il tuo primo passo nel mondo dei rituali, eseguendo questo miracolo che trasforma la notte in giorno."
+    ],
+    "quest.0FACE98FFD827ADE.quest_subtitle": "Il primo miracolo",
+    "quest.106B25DB6ADA0DCE.quest_desc": [
+        "Utilizza i materiali \\&aMagebloom Fiber\\& per creare il tuo primo set di armatura magica. Scegli uno dei tre tipi che meglio si adattano al tuo stile."
+    ],
+    "quest.106B25DB6ADA0DCE.quest_subtitle": "L'armatura del mago",
+    "quest.11747DB51D17A212.quest_desc": [
+        "Tra le dune arse dal sole, si erge una \"Piramide Maledetta\". Ma la maledizione che affligge questa terra non è causata dalla sabbia o dal sole, bensì da una putrefazione innaturale e insidiosa. Una piaga magica ha prosciugato ogni forma di vita dal deserto.",
+        "",
+        "È necessario avventurarsi in questo luogo desolato. Cercate la piramide, poiché è il centro dell'epidemia che Draegor ha scatenato sul mondo.",
+        "",
+        "{image:cataclysm:item\/desert_eye width:32 height:32 align:center}"
+    ],
+    "quest.11747DB51D17A212.title": "Il Regno Decaduto",
+    "quest.120F411AA342A4CE.quest_desc": [
+        "Danni causati e danni nel tempo."
+    ],
+    "quest.120F411AA342A4CE.quest_subtitle": "Fuoco",
+    "quest.1213C780A1C5226E.quest_desc": [
+        "Supporto, cura e potenziamento di sé e degli alleati."
+    ],
+    "quest.1255EEE5B07AFDF6.quest_desc": [
+        "Tutti gli incantesimi seguono la seguente struttura:",
+        "«\\&5Form\\&r → \\&3Effetto\\&r → \\&6Aumento\\&r»",
+        "",
+        "L'\\&eForm\\&r determina la forma del incantesimo, come ad esempio un proiettile, un tocco o un incantesimo che si lancia da soli.",
+        "",
+        "L'effetto determina l'azione effettiva dello spell, come la distruzione di blocchi o la creazione di luce.",
+        "",
+        "Il modificatore \"\\&eAugment\\&r\" è un elemento che supporta e migliora l'effetto rappresentato dal glifo immediatamente a sinistra.",
+        "",
+        "Ora, apra il tuo libro di incantesimi per principianti e combinali.",
+        "«\\&5Proiettile\\&r + \\&3Luce\\&r + \\&6Amplifica\\&r»",
+        "per creare il tuo primo incantesimo utile."
+    ],
+    "quest.1255EEE5B07AFDF6.title": "La grammatica degli incantesimi",
+    "quest.12C71128ADCE428F.quest_desc": [
+        "Trasporta la sorgente a distanza illimitata.",
+        "",
+        "Essenziale per inviare dati a distanze superiori a centinaia di metri.",
+        "",
+        "La perdita di segnale inizia a manifestarsi a distanze superiori a 30 blocchi, raggiungendo un massimo del 30% di perdita."
+    ],
+    "quest.12C71128ADCE428F.title": "Fonte: Warper",
+    "quest.13313CA9D10EDC56.quest_desc": [
+        "È ora di utilizzare la Tavola dello Scrittore per dare vita al vostro primo simbolo.",
+        "",
+        "Innanzitutto, tenete il vostro libro di incantesimi nella mano principale e cliccate con il tasto destro del mouse sul Tavolo dello Scriba. Comparirà un'interfaccia utente, che vi mostrerà tutti i simboli disponibili per la creazione.",
+        "",
+        "Selezionate l'oggetto \"\\&aGlyph of Conjure Magelight\\&r\", quindi verificate la presenza dei materiali necessari nell'angolo in basso a sinistra dell'interfaccia utente.",
+        "",
+        "Quando siete pronti, cliccate sul pulsante \"Seleziona\" nell'angolo in basso a destra. Le immagini eteree dei materiali che avete appena confermato inizieranno a fluttuare sopra il tavolo.",
+        "",
+        "Ora, portate i materiali richiesti al tavolo dello scrivano per creare il vostro primo glifo.",
+        "",
+        "- Consigli -",
+        "\\&7La \"Scrivania del Sacerdote\" preleverà automaticamente i materiali necessari da qualsiasi inventario adiacente. Organizzate il vostro laboratorio in modo efficiente."
+    ],
+    "quest.13313CA9D10EDC56.quest_subtitle": "Come disegnare un glifo",
+    "quest.13BF03CC50E1E180.quest_desc": [
+        "Hai padroneggiato tutti i fondamenti della magia. Tuttavia, per diventare un vero e proprio \\&6Archmage\\&r, devi dimostrare la tua conoscenza e superare i tuoi limiti. In questo capitolo finale, sarai sottoposto a una serie di prove, e alla fine, raggiungerai il rango di \\&6Archmage\\&r."
+    ],
+    "quest.13BF03CC50E1E180.quest_subtitle": "Capitolo conclusivo",
+    "quest.13BF03CC50E1E180.title": "Capitolo 3",
+    "quest.143013B565B37643.quest_desc": [
+        "È possibile controllare i catalizzatori in JEI.",
+        "",
+        "I catalizzatori per l'essenza di Conjuration",
+        "- Wilden Horn",
+        "- Prenotare",
+        "- Frammenti di Starbuncle"
+    ],
+    "quest.1572C0E1808DF810.quest_desc": [
+        "Siete arrivati. Questa tempesta è la disperazione di Scilla, creata da Neryssa e me stesso, che ora si è trasformata in uno spirito di vendetta. È legata a questo luogo da un'ancora, non di ferro, ma di dolore.",
+        "",
+        "Tocca l'ancora che la tiene legata. Affronta il cuore della tempesta. Lei è al di là delle mie possibilità, ma non al di là delle tue. Liberala dal suo dolore, e lascia che i venti tornino a essere calmi."
+    ],
+    "quest.1572C0E1808DF810.title": "Il cuore della tempesta",
+    "quest.16374D9840B4ECDB.quest_desc": [
+        "Lo Starbuncle che avete incontrato è solo uno dei tanti esseri magici che possono aiutarvi nel vostro viaggio. Il mondo di Ars Nouveau è popolato da una varietà di creature magiche, ognuna con le proprie capacità uniche.",
+        "",
+        "",
+        "{image:ars_nouveau:item\/drygmy_charm width:32 height:32 align:center}",
+        "- Drygmy:",
+        "Un operatore diligente che raccoglierà automaticamente le gocce provenienti da fattorie vicine.",
+        "",
+        "",
+        "{image:ars_nouveau:item\/wixie_charm width:32 height:32 align:center}",
+        "- Wixie:",
+        "Un artigiano astuto, che, una volta convocato vicino a una pentola, sarà in grado di automatizzare la preparazione di pozioni e la creazione di oggetti.",
+        "",
+        "",
+        "{image:ars_nouveau:item\/whirlisprig_charm width:32 height:32 align:center}",
+        "- Whirlisprig:",
+        "Un amico della natura che coltiverà e raccoglierà automaticamente colture standard nelle tue fattorie.",
+        "",
+        "",
+        "{image:ars_nouveau:item\/bookwyrm_charm width:32 height:32 align:center}",
+        "- Amante dei libri:",
+        "Un saggio drago che gestisce una biblioteca per maghi. Utilizzato insieme a una mensola per libri, permette di gestire numerosi forni sparsi come se fossero un unico e grande sistema di stoccaggio.",
+        "",
+        "",
+        "{image:ars_nouveau:item\/amethyst_golem_charm width:32 height:32 align:center}",
+        "- Golem di ametista:",
+        "Una miniera di ametista vivente. Quando viene evocato vicino a una geode di ametista, dimostra incredibili capacità di automazione, coltivando, raccogliendo e conservando l'ametista in un contenitore designato, tutto autonomamente.",
+        "",
+        "",
+        "{image:ars_elemental:item\/siren_charm width:32 height:32 align:center}",
+        "- Sirena:",
+        "Una creatura mistica, dotata del potere del mare. (Trovato nell'addon Ars Elemental)",
+        "",
+        "",
+        "{image:ars_nouveau:item\/alakarkinos_charm width:32 height:32 align:center}",
+        "- Alakarkinos:",
+        "Una creatura simile a un crostaceo preistorico. (Presente nell'addon Ars Elemental)",
+        "",
+        "Ogni una di queste creature può essere amichevole attraverso un metodo specifico. Consultate il vostro \"Quaderno Usato\" per scoprire come trasformarle nei vostri fedeli collaboratori e trasformare il vostro laboratorio magico in una fabbrica completamente automatizzata.",
+        "",
+        "{image:ars_elemental:item\/firenando_charm width:32 height:32 align:center}"
+    ],
+    "quest.16374D9840B4ECDB.title": "Un mondo di creature familiari",
+    "quest.1641D30ED096AB55.quest_desc": [
+        "La potenza di un incantesimo non è fissa. Utilizzando la \"Fabbrica Arcana\", è possibile combinare due rotoli identici per creare una versione più potente. È inoltre possibile potenziare i rotoli utilizzando inchiostri di livello superiore. Ottimizza il tuo incantesimo principale al massimo livello."
+    ],
+    "quest.1641D30ED096AB55.title": "Perfezionare gli incantesimi",
+    "quest.168E42B1A1AFD5CE.quest_desc": [
+        "Il deserto respira un vento puro. Il mare canta una melodia pacifica. Il cielo non piange più. Avete neutralizzato la minaccia principale, e il mondo gode di un momento di pace.",
+        "",
+        "Ma un serpente, anche se privato dei suoi arti, può comunque mordere. Il cuore della guerra continua a battere. Un'illusione nel nord nasconde ancora una terribile verità, e lo spirito di un eroe caduto continua a implorare la liberazione tra le fiamme del Nether.",
+        "",
+        "È tempo di smettere di pulire. Ora, dovete concentrarvi sul cuore."
+    ],
+    "quest.168E42B1A1AFD5CE.title": "Il cuore della guerra",
+    "quest.16C833E99D530D2D.quest_desc": [
+        "Per affrontare le ombre che si avvicinano, dovrete ora affrontare un percorso di fuoco. Il Nether, un regno di fuoco eterno e tormento, vi attende.",
+        "",
+        "È qui che il valore di Auron si scontra con l'inganno di Vaemir. Rafforza il tuo cuore e attraversa il cancello di ossidiana. Il cammino di un eroe è spesso forgiato nel fuoco stesso dell'inferno."
+    ],
+    "quest.16C833E99D530D2D.title": "Un viaggio nell'inferno",
+    "quest.198A977205EA9E60.quest_desc": [
+        "Man mano che le vostre fattorie si espandono, potrebbero trovarsi lontane dal vostro laboratorio. Trasportare in modo efficiente l'energia prodotta è una sfida che ogni mago deve affrontare. La \\&aSource Relay\\&r è la soluzione.",
+        "",
+        "A \\&aSource Relay\\&r crea un collegamento per l'energia magica tra due \\&eSource Jars\\&r o altri relay. Utilizzando un \\&eDominion Wand\\&r, fare clic con il pulsante destro del mouse sulla sorgente (un Jar o un Relay) e quindi fare clic con il pulsante destro del mouse sulla destinazione per creare un flusso di energia tra i due.",
+        "",
+        "Un dispositivo di trasmissione standard eSource ha un raggio di trasmissione massimo di 30 blocchi.",
+        "",
+        "Per disconnettere un dispositivo di relay, basta accovacciarsi e fare clic con il tasto destro del mouse sul dispositivo, tenendo in mano lo \"Sting of Dominion\"."
+    ],
+    "quest.198A977205EA9E60.quest_subtitle": "Il flusso della magia",
+    "quest.199009F075169F8A.quest_desc": [
+        "L'inchiostro può essere trovato, ma un vero mago è in grado di crearne uno. Il \"Calderone dell'Alchimista\" permette di trasformare gli inchiostri indesiderati in inchiostro puro. Inoltre, viene utilizzato per raffinare inchiostri di qualità superiore."
+    ],
+    "quest.199009F075169F8A.quest_subtitle": "La pentola dell'alchimista",
+    "quest.1A0CE8A4B54787CF.quest_desc": [
+        "Utilizza un dispositivo magico per migliorare la tua armatura di livello 1 a quella di livello 2."
+    ],
+    "quest.1A0CE8A4B54787CF.title": "Aggiorna l'armatura dell'Arcano al livello 2.",
+    "quest.1A3E34C0D1437B0D.quest_desc": [
+        "La tecnologia umana è fantastica!",
+        "",
+        "la sabbia da forno la trasforma in una gemma trasparente!",
+        "",
+        "Ho bisogno di vetri puliti per la vetrina in cui esporrò i miei oggetti di valore.",
+        "",
+        "Per favore, senza graffi."
+    ],
+    "quest.1A3E34C0D1437B0D.quest_subtitle": "Schermo trasparente",
+    "quest.1A3E34C0D1437B0D.title": "[Fase 2] Elaborazione",
+    "quest.1AA97068154AEBE6.quest_desc": [
+        "Il mondo è vasto, viaggiatore, e i suoi sentieri sono in continua evoluzione. Veyrion, il Dio del Vento, veglia su coloro che hanno il coraggio di percorrerli. Per comprendere questo mondo, è necessario prima studiarne ogni angolo.",
+        "",
+        "Crea una bussola per trovare la tua vera direzione, e lascia che il vento guidi i tuoi passi. Ogni passo è una preghiera al dio del cambiamento."
+    ],
+    "quest.1AA97068154AEBE6.title": "Il sentiero del viaggiatore",
+    "quest.1B8E39CF00E2994E.quest_desc": [
+        "Accidenti, quei rumori provenienti da quelle cose in decomposizione mi tengono sveglio di notte!",
+        "",
+        "Potresti pulire l'area intorno al villaggio?",
+        "",
+        "Ti darò un piccolo stipendio per i trofei, che sono un po' puzzolenti."
+    ],
+    "quest.1B8E39CF00E2994E.quest_subtitle": "Pulizia delle strade",
+    "quest.1B8E39CF00E2994E.title": "[Livello 1] Caccia",
+    "quest.1BAF1EAFD763D796.quest_desc": [
+        "L'azienda agricola \\&bSourceberry\\&r ha un potenziale maggiore rispetto a essere semplicemente un luogo per la raccolta di bacche. Può diventare una fonte di energia potente, in grado di alimentare contemporaneamente due diversi tipi di Sourcelinks.",
+        "",
+        "Il sistema \\&eAgronomic Sourcelink\\&r genera dati di origine dal processo di coltivazione delle \\&eSourceberries\\&r.",
+        "",
+        "L'unità \\&aMycelial Sourcelink\\&r genera la risorsa consumando i \\&eSourceberries\\&r raccolti.",
+        "",
+        "Prova a posizionare entrambi i \"Sourcelink\" vicino alla tua fattoria \"eSourceberry\". Il \"Sourcelink\" \"aAgronomic\" raccoglierà automaticamente le \"Sourceberry\" man mano che crescono, mentre il \"eStarbuncle\" può essere configurato per fornire le \"Sourceberry\" raccolte al \"aMycelial Sourcelink\" per ottenere una fonte di energia aggiuntiva.",
+        "",
+        "\\&7(Le informazioni riguardanti lo Starbuncle sono descritte nel capitolo 2)\\&r"
+    ],
+    "quest.1BAF1EAFD763D796.quest_subtitle": "Il ciclo virtuoso della magia",
+    "quest.1C816F5EBE4AAFE3.quest_desc": [
+        "Per utilizzare nuovi incantesimi, è necessario imparare i Glyphs presso il \"Tavolo dello Scrittore\". Creare e utilizzare un Glyp per rendere la sua conoscenza permanentemente propria."
+    ],
+    "quest.1C816F5EBE4AAFE3.quest_subtitle": "La ricerca della conoscenza",
+    "quest.1C9E3BEC03EBA9C5.quest_desc": [
+        "All'interno di una menzogna, c'è sempre un nucleo di verità che la tiene insieme. Il direttore, Maledictus, è legato da un meccanismo invisibile, che può essere percepito, ma non visto.",
+        "",
+        "La \"Chiave Misteriosa\" che cercate è la prima verità. È custodita dalla più grande trappola della prigione: la figura imponente che chiamano \"Aptrgangr\". Ma è un carceriere, o un altro prigioniero? Sconfiggete questa grande illusione e reclamate la chiave che svela il primo strato della menzogna di Erythral."
+    ],
+    "quest.1C9E3BEC03EBA9C5.title": "La Prima Verità",
+    "quest.1EB098B6E1834C4F.quest_desc": [
+        "Ogni viaggio di un mago inizia con la conoscenza. Crea il \"Quaderno Usato\", che contiene tutto sull'Art Nouveau, per guidarti. Questo libro sarà il tuo compagno più importante.",
+        "",
+        "«Non è necessario portare questo libro con sé in ogni momento. Basta posizionare il cursore su un elemento di Ars di cui si desidera ottenere maggiori informazioni, e premere il tasto indicato nell'interfaccia per visualizzare la documentazione di Ars.»"
+    ],
+    "quest.1EB098B6E1834C4F.quest_subtitle": "I libri assolutamente da leggere per gli stregoni",
+    "quest.1F0754600335D889.quest_subtitle": "Liberate la città antica dal custode e onorate l'eredità di Magnus Everflame.",
+    "quest.1F0754600335D889.title": "La luce della speranza",
+    "quest.1F2A6DFEFC77A9B2.quest_desc": [
+        "Un relè di base è spesso insufficiente per una rete magica complessa. Ars Nouveau offre diversi relè specializzati per scopi specifici."
+    ],
+    "quest.1F2A6DFEFC77A9B2.title": "Relè avanzati",
+    "quest.1F967DD98F01B75C.quest_desc": [
+        "Il vento ti sussurra una storia di dolore, viaggiatore. Sopra il mare, una tempesta infuria, ma non è una tempesta naturale, bensì una manifestazione di un profondo dolore. L'Acropoli, un tempo un luogo di pace, ora è pervasa da un vento incessante. Poi, i sussurri si fondono in una singola, chiara voce che si propaga nel vento.",
+        "",
+        "\"I am Veyrion, and I feel this disturbance in my domain. You, who travels between realms, are the only one who can reach this place. Ascend to the clouds. Find my lost sanctuary. The wind will be your guide.\"",
+        "",
+        "{image:cataclysm:item\/storm_eye width:32 height:32 align:center}"
+    ],
+    "quest.1F967DD98F01B75C.title": "Il vento instabile",
+    "quest.1FFFDF56B05F54FF.quest_desc": [
+        "\\&7\\&oDrago è distratto.",
+        "",
+        "«La sua pelle sembra incredibilmente liscia.»",
+        "",
+        "E un piccolo tocco non farebbe male, giusto?"
+    ],
+    "quest.1FFFDF56B05F54FF.title": "👇 \\&oPicchiare delicatamente",
+    "quest.208AFC1D645FFA97.quest_desc": [
+        "Mentre un libro di incantesimi consente di canalizzare la magia, uno stendard offre un modo più diretto e intuitivo per lanciare incantesimi. Invece di utilizzare una combinazione di tasti, uno stendard consente di lanciare l'incantesimo selezionato semplicemente cliccando con il tasto destro. Molti stendard forniscono anche bonus potenti per specifiche scuole di magia. Crea o trova il tuo primo stendard per sbloccare un nuovo stile di lancio di incantesimi."
+    ],
+    "quest.208AFC1D645FFA97.quest_subtitle": "L'attenzione di un mago: il bastone",
+    "quest.224060A3BFE9FFE7.quest_desc": [
+        "L'armatura di secondo livello è solo un punto di partenza. La tua armatura è un contenitore, in grado di contenere una potenza molto maggiore, e il suo potenziale non è ancora stato pienamente sfruttato.",
+        "",
+        "È possibile potenziare la vostra armatura fino al livello 4. Ad ogni livello, la vostra quantità massima di mana e la sua rigenerazione saranno aumentate in modo permanente.",
+        "",
+        "Una volta raggiunto il livello 4, l'armatura rivela il suo pieno potenziale, offrendo bonus significativi. Questi effetti, come l'aumento della potenza di specifiche magie elementali, diventeranno la base del tuo stile di combattimento."
+    ],
+    "quest.224060A3BFE9FFE7.title": "Sbloccare il vero potenziale",
+    "quest.22F4CF59DCBE913B.quest_desc": [
+        "Dalle temperature estreme del Nether, un grido di puro terrore risuona attraverso il paesaggio contorto. È un suono di sofferenza indicibile, un'anima costretta a lottare contro la propria volontà.",
+        "",
+        "Le voci spaventose di Vaemir sono la causa. Intraprendi un viaggio oltre la nebbia rossa e cerca l'origine di questo ruggito straziante. Si dice che provenga da una fucina di anime dannate, un luogo in cui persino la roccia stessa del Regno Inferiore viene distorta in una parodia della vita.",
+        "",
+        "{image:cataclysm:item\/monstrous_eye width:32 height:32 align:center}"
+    ],
+    "quest.22F4CF59DCBE913B.title": "Un eco straziante",
+    "quest.234CE19736FB24DE.quest_desc": [
+        "Un eroe è caduto. Il mio più grande campione, Tyros, il primo portatore della fiamma, è ora solo un'ombra intrappolata in una fortezza infernale costruita con i suoi stessi rimpianti. Questo è un'offesa a tutto ciò che è valore.",
+        "",
+        "Hai dimostrato la tua forza. Ora, dimostra il tuo onore. Recati al \"Castello\" di fuoco e ombra. È tuo dovere trovarlo.",
+        "",
+        "{image:irons_spellbooks:item\/furled_map_ancient width:32 height:32 align:center}"
+    ],
+    "quest.234CE19736FB24DE.title": "La fortezza di Ash",
+    "quest.24206130C03BF470.quest_desc": [
+        "Si dice che il paesaggio appare ancora più bello quando si è sazi.",
+        "\\&7(Ma i draghi dicono davvero questo?)\\&r",
+        "",
+        "L'odore del grano appena raccolto è delizioso.",
+        "",
+        "Portate con voi degli alimenti, in modo che i membri della gilda non abbiano fame."
+    ],
+    "quest.24206130C03BF470.quest_subtitle": "Il pane quotidiano",
+    "quest.24206130C03BF470.title": "[Livello 1] Agricoltura",
+    "quest.253F0F3FD6BDF0D5.quest_desc": [
+        "Un libro di incantesimi a metà partita",
+        "",
+        "\\&6- Come ottenere",
+        "\\&7Creato manualmente\\&r"
+    ],
+    "quest.262ADEDC5AC0796F.quest_desc": [
+        "È possibile controllare i catalizzatori in JEI.",
+        "",
+        "I catalizzatori per l'essenza Anima",
+        "- Cranio scheletrico di una pianta secca",
+        "- Golden Apple",
+        "- Farina di ossa"
+    ],
+    "quest.2667EBDFC0EFF01D.quest_desc": [
+        "È possibile controllare i catalizzatori in JEI.",
+        "",
+        "I catalizzatori per l'essenza d'acqua",
+        "- Secchio per l'acqua",
+        "- Kelp",
+        "- Blocco di neve"
+    ],
+    "quest.268CA98A4617D3B4.quest_desc": [
+        "Utilizzando i menu FTB (i pulsanti nell'angolo in alto a sinistra dello schermo dell'inventario o della mappa)",
+        "",
+        "È possibile reclamare un'area che altri giocatori non possono distruggere o interagire.",
+        "",
+        "(Vi prego di chiedere agli altri giocatori se state reclamando un'area vicino a qualcuno, e NON reclamizzate le aree designate per i boss o le grandi strutture.)",
+        "",
+        "Clicca con il tasto sinistro per rivendicare, clicca con il tasto destro per annullare la rivendicatura."
+    ],
+    "quest.268CA98A4617D3B4.quest_subtitle": "Reclami!",
+    "quest.2760B67E11676063.quest_desc": [
+        "È arrivato il momento di superare il velo del mondo. Il Regno del Vuoto, un regno di silenzio, era un tempo il perfetto baluardo di Vaelora. Ma in un atto antico di rabbia celeste, Morghast stesso ha distrutto questo regno, lasciando solo isole in rovina che galleggiano in una notte infinita. State per entrare in una prigione in rovina.",
+        "",
+        "Tuttavia, la maestosa fortezza di Vaelora, ancora presente qui, rappresenta l'ultimo baluardo del sigillo. Ed è proprio qui che Nyxarys ora tesse le sue false profezie, avvolgendo la sua influenza nella sua struttura ormai danneggiata.",
+        "",
+        "Fai il primo passo, campione. Attraversa la soglia e lanciati nel vuoto. Lì potrai assistere all'ultimo baluardo della maledizione: il Grande Drago, una creatura vivente la cui sorte è legata all'equilibrio stesso del mondo."
+    ],
+    "quest.2760B67E11676063.title": "Un salto nel vuoto",
+    "quest.2795CA4F8A68CC4E.quest_desc": [
+        "Man mano che i vostri sistemi automatizzati si espandono, vi accorgete che i vostri collaboratori non sono così intelligenti come potreste sperare. La \"Guida di Filtro\" è la soluzione per fornire istruzioni precise ai vostri collaboratori e dispositivi.",
+        "",
+        "",
+        "\\&6Come utilizzare le \"scroll\":\\&r",
+        "",
+        "Registrazione di un oggetto: Tenete un oggetto nella mano principale e l'oggetto che desiderate registrare nella mano opposta. Cliccate con il tasto destro per registrare l'oggetto sullo scroll.",
+        "",
+        "Applicare il filtro: Tenendo in mano lo scroll stampato, fare clic con il tasto destro su un servitore, ad esempio \"\\&eStarbuncle\\&\". A questo punto, il servitore agirà solo in conformità con le regole dello scroll.",
+        "",
+        "",
+        "\\&6Tipi di rotoli filtranti:\\&r",
+        "",
+        "\\&aPermesso:\\&r Il servizio interagirà solo con gli elementi registrati. (Questa è l'impostazione predefinita).",
+        "",
+        "\\&aMimic:\\&r Il servitore raccoglierà solo gli oggetti che già esistono nel cassetto di destinazione.",
+        "",
+        "\\&aRifiuto:\\&r Il servitore interagirà con tutti gli elementi, ad eccezione di quelli registrati.",
+        "",
+        "",
+        "E altro",
+        "\\&7Attualmente, la wiki ufficiale contiene informazioni errate riguardo a questo meccanismo. Si prega di fare riferimento alle istruzioni per l'uso presenti in questa missione, in quanto sono la fonte di informazioni corretta."
+    ],
+    "quest.2795CA4F8A68CC4E.quest_subtitle": "Gestione magica e precisa",
+    "quest.27DB77533D862C25.quest_desc": [
+        "Anche rame, ferro e oro sono comunemente utilizzati in questa modifica.",
+        "",
+        "L'alluminio e lo zinco, mescolati insieme, possono creare ottone!"
+    ],
+    "quest.27DB77533D862C25.title": "Metalli",
+    "quest.28007DE31E9EA681.quest_desc": [
+        "Ogni grande tesoro inizia con solide fondamenta!",
+        "",
+        "Porta alcuni tronchi di buona qualità dalla foresta.",
+        "",
+        "Ne ho bisogno per la mia squadra... ehm, intendo, per le riparazioni della Guild!"
+    ],
+    "quest.28007DE31E9EA681.quest_subtitle": "Fondazione di Nest",
+    "quest.28007DE31E9EA681.title": "[Livello 1] Registrazione",
+    "quest.2937E9BCAC425AFA.quest_desc": [
+        "L'Arcano Anello può migliorare non solo i tuoi rotoli, ma anche le tue attrezzature. Utilizza le \\&mSfere di potenziamento\\&r per aggiungere statistiche extra ai tuoi \\&mlibri di incantesimi\\&r o all'armatura. Puoi personalizzare le tue attrezzature con statistiche come il massimo mana, la riduzione del tempo di ricarica, e altro ancora.",
+        "",
+        "*Nota:*",
+        "\\&7L'applicazione di un aggiornamento a un libro di incantesimi causerà il crash del gioco."
+    ],
+    "quest.2937E9BCAC425AFA.title": "Miglioramento delle attrezzature",
+    "quest.2A1030D9C3CA7DAF.quest_desc": [
+        "Il Sacrificio Abissale è stato creato, un'esca per la fame insaziabile che affligge il mare. Ora, campione, tocca a te lanciare l'amo.",
+        "",
+        "Porta l'offerta sull'altare centrale del santuario e inizia il rituale oscuro. Dalle tenebre profonde, evocherai il Leviatano, la vera bocca affamata di Greythys. Inserisci la tua spada nel cuore dell'abisso e porre fine a questa orrenda situazione."
+    ],
+    "quest.2A1030D9C3CA7DAF.title": "La bocca oscura del profondo",
+    "quest.2B4D865FDE137C89.quest_desc": [
+        "La vera potenza del \\&aSpell Turret\\&r risiede nell'unione della magia della creazione e della distruzione per ottenere una piena automazione. Segua questa guida per costruire un'opera di ingegneria magica che produce infinite pietre senza bisogno di acqua o lava.",
+        "",
+        "\\&6[Guida all'installazione]\\&r",
+        "Innanzitutto, costruite una piattaforma o una parete di 3x3 metri utilizzando il \\&aObsidian\\&r. Lo spell \\&3Break\\&r non è in grado di distruggere \\&aObsidian\\&r, quindi servirà come una barriera resistente per i vostri incantesimi.",
+        "",
+        "Posiziona la tua torretta \\&aSpell\\& a una distanza di un blocco dalla struttura, assicurandoti che sia rivolta verso il centro della parete in \\&aObsidian\\&.",
+        "",
+        "\\&6[Registrazione incantesimo]\\&r",
+        "Ora, registrare la seguente incantesimo nel vostro \\&aSpell Turret\\&r:",
+        "\\&5Proiettile\\&r → \\&3Creare Terreno\\&r → \\&eAmplificare\\&r → \\&eArea d'effetto x2 → \\&3Distruggere\\&r → \\&eArea d'effetto x2",
+        "",
+        "Questo incantesimo utilizza inizialmente il comando \"\\&3Conjure Terrain\\&r\", potenziato da \"\\&eAmplify\\&r\" per creare un terreno di \"pietre\" invece di terra, e ampliato da due \"\\&eAOE\\&r\" per formare un'area di 3x3. Subito dopo, il comando \"\\&3Break\\&r\", anch'esso potenziato da due \"\\&eAOE\\&r\", distrugge quella stessa area di 3x3, trasformandola in oggetti."
+    ],
+    "quest.2B4D865FDE137C89.quest_subtitle": "Generatore automatico di pavimentazione in pietra.",
+    "quest.2B4D865FDE137C89.title": "Introduzione all'ingegneria magica",
+    "quest.2B6D2E6F08ACAD4F.quest_desc": [
+        "Ora che avete individuato la fonte della paura, dovrete addentrarvi al suo interno.",
+        "",
+        "Nelle profondità di queste antiche catacombe, dove giacevano i re, ora avvolte nell'ombra, il regno di Greythys continua a prosperare. Un sovrano che sfida persino gli eserciti della morte, regna su un trono solitario, le cui sale non sono riempite d'acqua, ma di un'angoscia stagnante.",
+        "",
+        "Con la punta della tua arma, spezza la maledizione del re e dona alle anime imprigionate il loro primo assaggio di pace."
+    ],
+    "quest.2B6D2E6F08ACAD4F.title": "Elegia del Re Affogato",
+    "quest.2C1DC99F14E8971D.quest_desc": [
+        "Ha una discreta capacità di protezione e un numero adeguato di fori per filettatura."
+    ],
+    "quest.2C1DC99F14E8971D.title": "Armatura dell'Arcano",
+    "quest.2C5B865DB5AA478E.quest_desc": [
+        "È possibile realizzare nastri trasportatori utilizzando alghe essiccate.",
+        "",
+        "6 di questi componenti permetteranno di creare una cinghia, che potrà essere fissata a 2 alberi. Per il loro funzionamento sarà necessario un sistema di trasmissione della potenza."
+    ],
+    "quest.2C5B865DB5AA478E.quest_subtitle": "Muovetevi!",
+    "quest.2C5B865DB5AA478E.title": "Cinghie trasportatrici",
+    "quest.2C7615C45D16431F.quest_desc": [
+        "Tu, che porti il sangue dei primogeniti, ascolta attentamente. Questo luogo, la fine, ti accoglie in modo diverso rispetto agli esseri umani. È un luogo sacro, e sei soggetto alle sue antiche leggi.",
+        "",
+        "Vi troverete non nel cuore dell'isola, ma piuttosto attratti da un piccolo altare silenzioso nelle vicinanze, dove si trova un \"Ancora Primordiale\". Questo non è un semplice sasso; è un canale per il mio potere, una testimonianza dell'equilibrio delicato che il Drago Ender, conosciuto dal vostro popolo come \"Il Primo Drago\", mantiene.",
+        "",
+        "{image:ftblibrary:textures\/faces\/minecraft\/ender_dragon.png width:50 height:50 align:center}",
+        "",
+        "{@pagebreak}",
+        "Quando l'Ancora emana una luce smeraldina, la situazione è stabile. Toccala e potresti ricevere un frammento della mia benedizione, una nuova capacità o una liberazione da una maledizione che ti affligge. Se la sua luce si affievolisce, una Perla di Ender potrebbe riaccenderla.",
+        "",
+        "{image:dragonsurvival:block\/primordial_anchor_charge width:100 height:100 align:center}",
+        "{@pagebreak}",
+        "Ma tenete presente questa avvertenza: uccidere il Drago Ender è un atto gravissimo. Significa distruggere la chiave e ferire il tessuto stesso di questo regno. La mia ira ricadrà su tutti coloro che saranno coinvolti, come una maledizione, e per voi, discendenti del drago, sarà particolarmente severa, privandovi delle capacità che vi definiscono.",
+        "{image:dragonsurvival:textures\/mob_effect\/ender_dragon_curse.png width:50 height:50 align:center}",
+        "{@pagebreak}",
+        "In assenza del Drago, l'Ancora si illuminerà di una luce cremisi, una ferita nel vuoto che offrirà solo dolore a chiunque la tocchi, rifiutando qualsiasi offerta.",
+        "",
+        "Solo dimostrando pentimento, riportando l'Ender Dragon al suo posto, si potrà guarire la ferita, spezzare la maledizione e ristabilire l'equilibrio.",
+        "",
+        "{image:dragonsurvival:block\/primordial_anchor_bloody width:100 height:100 align:center}"
+    ],
+    "quest.2C7615C45D16431F.title": "La Legge del Primo Drago",
+    "quest.2D60A8FB72D8EB02.quest_subtitle": "È ora di conservare il succo di uva in un barattolo.",
+    "quest.2D60A8FB72D8EB02.title": "Esatto! Ha un sapore viola!",
+    "quest.2D6C875B01BC41B0.quest_desc": [
+        "Tu possiedi il cuore della peste. Avvicinati alla bestia addormentata e presenta il collare. Risveglia il Remnante Antico, un re le cui ossa sono permeate da una putrefazione innaturale, e affronta la rabbia di un sovrano trasformato in un'incarnazione della malattia.",
+        "",
+        "Concedi a quella anima tormentata la pace necessaria per guarire la ferita del deserto."
+    ],
+    "quest.2D6C875B01BC41B0.title": "Il Monarca in decomposizione",
+    "quest.2D7F9BED8B8873A3.quest_desc": [
+        "Con la distruzione di \"Il Guardiano del Serpente\", si apre un nuovo percorso. L'energia opprimente di Nyxarys diminuisce, rivelando le tracce di un potere molto più antico, l'eredità dei primi draghi, che risiede in questo regno ormai in rovina.",
+        "",
+        "Cercate le statue silenziose dei \"Dragoni\", nascoste tra queste isole. Alcune custodiscono l'essenza stessa dell'anima di un drago, mentre altre offrono il dono del volo. Raggiungete il potere antico che si cela qui, e ritrovare la strada per tornare nel mondo reale."
+    ],
+    "quest.2D7F9BED8B8873A3.title": "Ritorna a Draconia",
+    "quest.2E66F8DBB63A6500.quest_desc": [
+        "È possibile controllare i catalizzatori in JEI.",
+        "",
+        "I catalizzatori dell'essenza di Fuoco",
+        "- Pietra focaia e acciarino",
+        "- Polvere da sparo",
+        "- Torcia"
+    ],
+    "quest.2E6AC058F44A30BF.quest_desc": [
+        "Nel cuore della piramide, un monarca scheletrico dorme su un trono fatto di ossa. È il guardiano della tomba, ma anche il veicolo della peste.",
+        "",
+        "Per risvegliarlo, è necessario individuare la fonte della sua corruzione. Affronta le trappole della piramide e recupera il \"Collo di sabbia\", un manufatto che ora funge da fulcro della maledizione di Draegor. Solo allora potrai affrontare il cuore della piaga."
+    ],
+    "quest.2E6AC058F44A30BF.title": "Il Collare del Deserto",
+    "quest.2E78D946B1EE0420.quest_desc": [
+        "Oltre ai nove percorsi conosciuti, esiste una scuola di magia dimenticata e di grande potenza: la scuola degli \\&3Eldritch\\&r. Questi incantesimi non vengono creati in una fucina, ma vengono riscoperti attraverso conoscenze antiche e proibite.",
+        "",
+        "Per imparare un incantesimo eldritico, è necessario prima cercare e raccogliere i \\&eFrammenti di Conoscenza Antica\\&r, che sono sparsi in tutto il mondo. Una volta raccolti abbastanza frammenti, è possibile utilizzare il potere risonante di un \\&eFrammento di Eco\\&r per riunirli, ricostruendo un \\&aManoscritto Eldritico completo.",
+        "",
+        "Consumare questo manoscritto sbloccherà permanentemente un singolo, potente incantesimo eldritico, consentendoti di crearlo e utilizzarlo. Da quel momento, lo Scheggia dell'Eco diventerà l'oggetto principale per questa antica scuola di magia."
+    ],
+    "quest.2E78D946B1EE0420.quest_subtitle": "Conoscenza proibita: La Scuola di Eldritch",
+    "quest.2F5DEFD4486D2D4D.quest_desc": [
+        "\"\\&aEssences\\&r\" sono le forme pure e concentrate degli elementi del mondo, e sono reagenti essenziali per raggiungere livelli più elevati della magia.",
+        "",
+        "È possibile crearli posizionando un \"Gemma di Fonte\" all'interno della \"Camera di Imbricamento\", e disponendo specifici oggetti \"catalizzatori\" sui vicini \"Pedestali Arcani\".",
+        "",
+        "- Consigli -",
+        "«Gli oggetti catalizzatori posizionati sui piedistalli non vengono consumati in questo processo. Si consiglia di creare un'area dedicata per ogni tipo di essenza; ciò consentirà di produrle in modo efficiente quando necessario, semplicemente fornendo una Gemma Sorgente.»"
+    ],
+    "quest.2F5DEFD4486D2D4D.quest_subtitle": "Sfruttare gli elementi",
+    "quest.2F5DEFD4486D2D4D.title": "Creazione di estratti",
+    "quest.2FB4D03749141A8C.quest_desc": [
+        "Danni massivi e concentrati mirati a singoli bersagli.",
+        "",
+        "\\&6- Come ottenerlo? -\\&r",
+        "\\&7Per ottenere un \"creeper\" caricato, utilizzare una bottiglia vuota su un \"creeper\". È possibile utilizzare lo \"spell\" di fulmine, il \"fulmine\" o la lancia per caricare un \"creeper\"."
+    ],
+    "quest.2FB4D03749141A8C.quest_subtitle": "Fulmine",
+    "quest.31E45DE32A2392F7.quest_desc": [
+        "Mentre \\&eMithril\\&r è fondamentale per ottenere le armature più potenti, per portare il tuo equipaggiamento al suo livello massimo sono necessari materiali diversi, ma altrettanto rari: l'Upgrade Orb è realizzato con \\&eCinder Essence\\&r, ottenibile dagli Antichi Cavalieri, e con \\&eArcane Ingot\\&r.",
+        "",
+        "Crea una \"Palla di Aggiornamento Vuota\", che rappresenta la base da cui nascono tutti gli aggiornamenti più potenti."
+    ],
+    "quest.31E45DE32A2392F7.quest_subtitle": "La Fondazione dell'Orb",
+    "quest.33938BFB0091E07B.quest_desc": [
+        "Un grimorio incentrato sulla magia sacra.",
+        "",
+        "\\&6- Come ottenere",
+        "\\&7Il gruppo dei sacerdoti scambierà un oggetto per un libro scritto, che si trova nella fortezza dell'Evoker. Il libro dovrà essere tradotto da un commerciante errante, attualmente prigioniero, all'interno della fortezza dell'Evoker."
+    ],
+    "quest.33C29D7ABC2F2FCF.quest_desc": [
+        "Per le armature più avanzate, gli lingotti di Mithril vengono intrecciati nella \"Tessitura di Mithril\", un tessuto carico di potenziale magico. Questo tessuto incantato costituisce il componente principale per armature leggendarie e di alta qualità."
+    ],
+    "quest.33C29D7ABC2F2FCF.quest_subtitle": "L'arte della tessitura",
+    "quest.34E307EE9A6E6184.quest_desc": [
+        "\\&aEssenza di Cinder\\&r è un materiale fondamentale necessario per creare il \\&eCalderone dell'Alchimista\\&r o le \\&eperle di potenziamento\\&r utilizzate per migliorare l'equipaggiamento. Questa essenza viene ottenuta uccidendo l'\\&eCavaliere Antico\\&r, che appare nel Nether.",
+        "",
+        "Avventuratevi in questo regno infuocato e cercate i luoghi antichi, come antichi campi di battaglia o fortezze, dove questi potenti nemici appaiono frequentemente.",
+        "",
+        "{image:explorerscompass:item\/explorerscompass_29 width:32 height:32 align:center}"
+    ],
+    "quest.34E307EE9A6E6184.quest_subtitle": "Il cacciatore cinereo",
+    "quest.35FDE4956415F691.quest_desc": [
+        "La versione Ars Nouveau si concentra sull'utilizzo di Glyphs all'interno del tuo libro di incantesimi per creare incantesimi personalizzati.",
+        "",
+        "Esistono anche alcune forme di automazione, attraverso rituali e pratiche specifiche, da seguire. (Vedi il capitolo dedicato all'Ars Nouveau!)"
+    ],
+    "quest.35FDE4956415F691.quest_subtitle": "Incantesimi personalizzati",
+    "quest.36C259928A313F37.quest_desc": [
+        "Un leggendario libro di incantesimi per i defunti",
+        "",
+        "\\&6- Come ottenere",
+        "\\&7Oggetto casuale da Dead King\\&r"
+    ],
+    "quest.38317B92B9349695.quest_desc": [
+        "Cuore debole del drago:",
+        "",
+        "+30 minuti di crescita. Adatto per neonati o bambini piccoli."
+    ],
+    "quest.384574C4B383C7E2.quest_desc": [
+        "Per creare gli incantesimi più potenti, è necessario un antico sapere. Si dice che, nelle profondità oscure, all'interno delle antiche città, si possano trovare libri danneggiati e infestati da creature, chiamati \"Libri in rovina\". Questi libri, da soli, sono inutili, ma sono un ingrediente fondamentale per la creazione del libro degli incantesimi definitivo."
+    ],
+    "quest.384574C4B383C7E2.quest_subtitle": "Conoscenza antica",
+    "quest.38C0FE5513063956.quest_desc": [
+        "\\&eEssenza Arcana\\&r da sola non è molto utile, ma il suo vero potenziale si rivela quando viene compressa. Combinando una quantità sufficiente di Essenza Arcana con qualsiasi lingotto, è possibile creare un \\&aLingotto Arcano\\&r, un materiale fondamentale per la creazione di oggetti magici più potenti."
+    ],
+    "quest.38C0FE5513063956.quest_subtitle": "Magia condensata",
+    "quest.391FE208B286A4E6.quest_desc": [
+        "Per utilizzare incantesimi di livello superiore, aggiorna il tuo \"Manuale di Incantesimi per Principianti\" a \"Manuale di Incantesimi di Mage\".",
+        "",
+        "Questo consentirà di utilizzare i glifi di livello 2."
+    ],
+    "quest.391FE208B286A4E6.quest_subtitle": "Il cammino dell'apprendista",
+    "quest.391FE208B286A4E6.title": "Capitolo 2",
+    "quest.3AB5B00D03CB5C37.quest_desc": [
+        "L'\\&dStarbuncle\\& sarà il vostro primo e più adorabile assistente, in grado di trasportare oggetti e raccogliere colture specifiche per voi.",
+        "",
+        "Il token \"\\&eStarbuncle\" che hai ottenuto nella quest precedente è un cristallo che contiene la loro essenza. Ora, utilizza il \"\\&eApparecchio di Incantamento\" per conferire al token il potere necessario e crea il \"\\&aBraccialetto Starbuncle\", la chiave per evocare un fedele \"\\&dStarbuncle\" proprio tuo."
+    ],
+    "quest.3AB5B00D03CB5C37.quest_subtitle": "Assistente brillante",
+    "quest.3B9A9A0AFA3C0380.quest_desc": [
+        "Ci sono molte altre cose da scoprire, divertitevi!",
+        "",
+        "- Cataclisma",
+        "- Minecolonies",
+        "- DoggyTalents",
+        "- Toxony",
+        "- Attacco degli invasori",
+        "- E molto altro!"
+    ],
+    "quest.3B9A9A0AFA3C0380.title": "E molto altro ancora!",
+    "quest.3BF280555E7E84A6.quest_desc": [
+        "Hai padroneggiato le arti dell'iscrizione e della scrittura. Rimane solo l'ultimo elemento necessario per completare il processo: la \"Piattaforma Arcana\". Si tratta dell'attrezzatura più potente, che ti permette di migliorare i rotoli, potenziare armature e libri di incantesimi, e persino di infondere incantesimi alle armi."
+    ],
+    "quest.3BF280555E7E84A6.quest_subtitle": "La Fabbrica Magica",
+    "quest.3C33ECB2D8ED5091.quest_desc": [
+        "Ti risvegli in un mondo che sembra sia allo stesso tempo nuovo e antico. Il vento sussurra storie di dei e draghi, e gli alberi che ti circondano sembrano custodire i ricordi di un tempo lontano.",
+        "",
+        "Questo è Draconia. Un mondo nato dalla contemplazione della Fiamma Silente, ora segnato da un conflitto eterno. La tua arrivo non è stato un caso; è un nuovo capitolo in una storia molto antica.",
+        "",
+        "Riconoscete il mondo in cui vi trovate, e iniziate il vostro viaggio."
+    ],
+    "quest.3C33ECB2D8ED5091.title": "Un mondo di echi",
+    "quest.3C7538B74969687C.quest_desc": [
+        "aggiorna la tua armatura di livello 2 alla versione 3"
+    ],
+    "quest.3C7538B74969687C.title": "Aggiorna l'armatura del Battlemage al livello 3.",
+    "quest.3D682D49DEE48EB3.quest_subtitle": "Acquisizione di materiali leggendari",
+    "quest.3E148A56A2180899.quest_desc": [
+        "Non sottovalutate le rocce!",
+        "",
+        "Non si possono semplicemente impilare monete d'oro su terra morbida, vero?",
+        "",
+        "Abbiamo bisogno di materiali per le fondamenta.",
+        "",
+        "È pietra comune, ma vi farò un extra!\""
+    ],
+    "quest.3E148A56A2180899.quest_subtitle": "Fondamento solido",
+    "quest.3E148A56A2180899.title": "[Livello 1] Estrazione mineraria",
+    "quest.3EE4735F54D13313.quest_desc": [
+        "aggiorna la tua armatura di livello 2 alla versione 3"
+    ],
+    "quest.3EE4735F54D13313.title": "Aggiorna l'armatura dell'Arcano al livello 3",
+    "quest.3F52860FE4840682.quest_desc": [
+        "Non tutta la forza proviene dal metallo. Elyth, il Custode delle Stelle, ha lasciato ai mortali dei segreti, dei metodi per trasformare la luce stellare nelle loro armi e armature.",
+        "",
+        "Sfrutta le biblioteche perdute e gli altari dimenticati del mondo per \"Libri\", i depositori della sua antica conoscenza. Raccogli il \"Lapis Lazuli\", che brilla nell'oscurità, poiché è il pigmento del cielo notturno stesso. Preparati, perché il vero potere attende coloro che lo cercano."
+    ],
+    "quest.3F52860FE4840682.title": "Sussurri di stelle",
+    "quest.40EB43BD8B8CFBE2.quest_desc": [
+        "La campana è stata forgiata. Il tuo ordine finale è pronto. Ritorna alla \"Runica dell'Anima\" nel cuore del castello e suona la campana.",
+        "",
+        "\"Echo of Tyros, primo portatore della fiamma, risponderà, non con la ragione, ma con un falco che brucia di fuoco infernale. Affronta la furia del mio campione caduto. Non concedergli la vittoria. Concedigli la morte di un guerriero. Questo è il mio ordine."
+    ],
+    "quest.40EB43BD8B8CFBE2.title": "La fine di un guerriero",
+    "quest.41290A2221D2FF15.quest_desc": [
+        "Ogni tipo di drago ha una dieta specifica, ideale per le sue esigenze.",
+        "",
+        "Nella schermata del tuo inventario, la terza scheda in alto ti fornirà informazioni sugli alimenti che il tuo drago può mangiare."
+    ],
+    "quest.41290A2221D2FF15.quest_subtitle": "Dieta per draghi",
+    "quest.41290A2221D2FF15.title": "Ho fame!",
+    "quest.4138EA22BF8ABF69.quest_desc": [
+        "Uccidere Jean (il Drago Ender) o trovarsi nella sua zona quando viene uccisa, causerà una maledizione!",
+        "",
+        "Per rimuovere la maledizione, è necessario riportare Jean in vita una volta, e utilizzare un Perla di Ender su uno dei \"Ancoraggi Primordiali\" situati intorno all'isola principale del End."
+    ],
+    "quest.4138EA22BF8ABF69.quest_subtitle": "Il drago Ender",
+    "quest.4196A0B72778B4A9.quest_desc": [
+        "Cuore di stelle:",
+        "",
+        "Interrompere o riavviare la crescita naturale."
+    ],
+    "quest.41B9105AB9128396.quest_desc": [
+        "Il mondo vi ha mostrato la sua prima vera ferita. Un freddo terrore emana dalla terra, un sussurro silenzioso di dolore dimenticato che chiama il vostro nome.",
+        "",
+        "Ti chiama da un luogo profondo, sotto la superficie del mondo, da un luogo dove i re dormono in eterno tormento. Cerca la fonte di questo dolore. Trova l'ingresso alle catacombe dimenticate, perché il primo segno di questo mondo ti aspetta all'interno delle sue sale di pietra.",
+        "",
+        "{image:irons_spellbooks:item\/compass\/wayward_compass_21 width:32 height:32 align:center}"
+    ],
+    "quest.41B9105AB9128396.title": "Voci provenienti dal basso",
+    "quest.4252944538746727.quest_desc": [
+        "Ti trovi all'interno di End, una terra di silenzio assoluto. Tuttavia, i sussurri di Nyxarys non sono assenti nemmeno qui; risuonano dalle mura in rovina di un'antica fortezza.",
+        "",
+        "Individuate questa \"cittadella in rovina\", il centro della sua sorveglianza. Da questo punto di osservazione, osserva attentamente il sigillo, pianificando la sua distruzione.",
+        "",
+        "{image:cataclysm:item\/void_eye width:32 height:32 align:center}"
+    ],
+    "quest.4252944538746727.title": "La fortezza in rovina",
+    "quest.42C41C50BA14FFF1.quest_desc": [
+        "Tundra, Aether, Astral, Sculk, Brain-Stealer e Griffins sono tutti tipi di draghi (e un uccello) che puoi controllare, aggiunti come contenuti extra a Dragon Survival.",
+        "",
+        "Ognuno ha una dieta specifica, alcune più restrittive di altre. Ad esempio, i Griffins possono mangiare qualsiasi cosa, mentre gli Astral praticamente non mangiano."
+    ],
+    "quest.42C41C50BA14FFF1.quest_subtitle": "Più draghi e grifoni",
+    "quest.43F572C577A03A34.quest_desc": [
+        "\\&eMagebloom\\&r è l'unica fonte di \\&eMagebloom Fiber\\&r, un componente essenziale per creare il tuo primo set di armatura magica. Coltivare questa pianta misteriosa è il tuo prossimo obiettivo.",
+        "",
+        "Utilizzando l'apparecchio \\&eEnchanting Apparatus\\&r che hai appena costruito, infondi un seme ordinario con il potere delle \\&eSource Gems\\&r per creare un \\&aMagebloom Seed\\&r. Questo seme sarà fondamentale per il tuo progresso come mago."
+    ],
+    "quest.43F572C577A03A34.quest_subtitle": "I semi del potere",
+    "quest.453E62D64B81006A.quest_desc": [
+        "Per risvegliare il boss dormiente all'interno della Cittadella, è necessario un oggetto speciale: l'\"Appello dell'Anima di Cenere\". Crea questo oggetto e portalo al piano più alto della Cittadella. Utilizzalo vicino alla \"Runica dell'Anima di Cenere\" situata al centro per evocare il boss.",
+        "{image:irons_spellbooks:block\/cinderous_soul_rune width:32 height:32 align:center}"
+    ],
+    "quest.453E62D64B81006A.quest_subtitle": "Risvegliare la Cittadella",
+    "quest.456DCE666FAB6C74.quest_desc": [
+        "Chiamare diverse creature e utilizzare trucchi magici."
+    ],
+    "quest.456DCE666FAB6C74.quest_subtitle": "Riferimento; evocazione",
+    "quest.45ABE2097FC3E432.quest_subtitle": "Acquisizione di materiali leggendari",
+    "quest.45AF92E9DB476367.quest_subtitle": "Direttore di una scuola",
+    "quest.46476CCFA800FBDC.quest_desc": [
+        "Distribuisce in modo uniforme i dati ricevuti a diverse destinazioni collegate.",
+        "",
+        "Utile quando è necessario fornire costantemente una quantità uguale di sorgente a due o più dispositivi."
+    ],
+    "quest.46476CCFA800FBDC.title": "Trasmettitore\/Splitter",
+    "quest.4691160F4A50E8B0.quest_desc": [
+        "Il tuo fedele eStarbuncle possiede l'abilità unica di raccogliere automaticamente le bacche di Fonte. Utilizziamo questo talento per creare un'azienda agricola autosufficiente che fornisca un abbondante fornitura di energia magica.",
+        "",
+        "Utilizzando lo \"Stardust Wand\", fai clic con il pulsante destro del mouse sul tuo \"Starbuncle\" per iniziare a impartire i comandi.",
+        "",
+        "Successivamente, mentre siete in posizione accovacciata, cliccate con il tasto destro sull'area \"\\&6chest\\&r\" che desiderate come destinazione per le bacche raccolte. Questo collegherà la posizione al compito di Starbuncle.",
+        "",
+        "Ora, osservate. Potrete assistere mentre il vostro fedele servitore raccoglie selettivamente solo i frutti maturi e li deposita con diligenza nel contenitore designato.",
+        "",
+        "- Consigli -",
+        "\\&7Se si imposta in modo errato la destinazione, è possibile annullare tutte le istruzioni appoggiandosi e facendo clic con il tasto destro sull'\\&dStarbuncle\\&r utilizzando il\\&r \\&eBastone del Dominio\\&7."
+    ],
+    "quest.4691160F4A50E8B0.title": "Living Automation",
+    "quest.46C2A4EC50856D6D.quest_desc": [
+        "Questa serie di attività è stata progettata per guidarti attraverso il mondo dell'Art Nouveau, aiutandoti a crescere da un principiante a un potente mago. Segui ogni fase per costruire le tue basi magiche, creare incantesimi potenti e creare il tuo laboratorio magico."
+    ],
+    "quest.46C2A4EC50856D6D.quest_subtitle": "Il cammino dell'Archomago",
+    "quest.46C2A4EC50856D6D.title": "Benvenuti nell'arte del Nouveau!",
+    "quest.4899FD60B0D7C72C.quest_desc": [
+        "Ha la difesa più bassa, ma il maggior numero di slot per gli oggetti."
+    ],
+    "quest.4899FD60B0D7C72C.title": "Armatura del mago",
+    "quest.48CAC07693B6162F.quest_desc": [
+        "Raccoglie automaticamente i dati di origine da tutti i contenitori (Jars) che si trovano entro un raggio di 5 blocchi.",
+        "",
+        "Raccogliere informazioni da più fonti, che si trovano in posizioni diverse, e creare una singola rete di informazioni.",
+        "",
+        "Estremamente comodo, in quanto non richiede di collegare ogni barattolo singolarmente."
+    ],
+    "quest.48CAC07693B6162F.title": "Fonte: Collezionista",
+    "quest.49FFEDF68982D737.quest_desc": [
+        "Avete affrontato la prova più difficile e ne siete usciti vittoriosi, dimostrando il vostro valore. Le ricompense ottenute dopo aver sconfitto la temibile Chimera selvaggia sono la chiave finale necessaria per creare il \"Grimorio dell'Archomago\". Questo grimorio rappresenta il culmine del vostro percorso, sbloccando i simboli di livello 3 e spingendo il vostro potenziale magico al massimo."
+    ],
+    "quest.49FFEDF68982D737.quest_subtitle": "L'Ascensione dell'Archomago",
+    "quest.4AFF40349655D2CF.quest_desc": [
+        "La tabella \"\\&aAlteration Table\\&r\" consente di inserire \"\\&aFilo\\&r\" nell'armatura, conferendo effetti passivi potenti. Migora un pezzo di armatura fino al livello 2 e applica il primo filo."
+    ],
+    "quest.4AFF40349655D2CF.quest_subtitle": "Trasformare l'armatura in qualcosa di magico",
+    "quest.4CFA1470CEF3E354.quest_desc": [
+        "L'\\&aAgronomic Sourcelink\\&r è un dispositivo mistico che estrae l'energia vitale direttamente dalle piante in crescita. È ora di costruire la vostra prima struttura di produzione di energia.",
+        "",
+        "Posizionate insieme il \"\\&aSourcelink\\&r\" e il \"\\&aSource Jar\\&r\", quindi create una piccola fattoria di \"\\&eSourceberry\\&r\" attorno a questi due elementi.",
+        "Il dispositivo Sourcelink raccoglierà passivamente il composto \"\\&bSource\\&r\" dai frutti man mano che crescono, conservandolo in un contenitore nelle vicinanze per il suo utilizzo futuro."
+    ],
+    "quest.4CFA1470CEF3E354.quest_subtitle": "Il potere della natura",
+    "quest.4D2CA5FFBFA7AB16.quest_desc": [
+        "Avvolto nella luce del cuore della terra, sei pronto. Per un momento, c'è silenzio. Il mondo sembra trattenere il respiro, riconoscendo il campione che ora si erge sulla sua terra.",
+        "",
+        "Ma il silenzio è spezzato. I sussurri che avete sentito prima si sono trasformati in un grido chiaro e doloroso. Una ferita nel mondo, a lungo nascosta, ora si rivela alla vostra nuova forza. Il vero viaggio inizia ora. Riconoscete la chiamata."
+    ],
+    "quest.4D2CA5FFBFA7AB16.title": "Il mondo respira",
+    "quest.4E2F8DE4A58FDFA3.quest_desc": [
+        "Ha la più alta difesa, ma poche fessure per gli attacchi."
+    ],
+    "quest.4E2F8DE4A58FDFA3.title": "Armatura del mago guerriero",
+    "quest.4E72CD3E329AAA71.quest_desc": [
+        "Ora è il momento di imparare a pagare un prezzo per ottenere ancora più potere.",
+        "",
+        "Il rituale \"\\&aTablet of Overgrowth\\&r\" è il vostro primo rituale di \"assorbimento della fonte\", che sfrutta la fonte presente nella vostra rete per accelerare in modo esplosivo la crescita delle piante circostanti.",
+        "",
+        "Il vero valore di questo rituale risiede nel risparmio di tempo.",
+        "",
+        "Tuttavia, è importante tenere presente che questa crescita forzata non genererà automaticamente un link a una fonte di informazioni agronomiche."
+    ],
+    "quest.4E72CD3E329AAA71.quest_subtitle": "Il costo della crescita",
+    "quest.4EDD3338BAAF743A.quest_desc": [
+        "Le ceneri si alzano. Dalle fiamme emerge \"Ignis\", un essere di pura potenza, vestito di un'armatura impenetrabile, che brandisce una spada e uno scudo in grado di distruggere persino la creazione stessa. È l'ultimo campione di Maw, l'ultima ombra prodotta dal vuoto.",
+        "",
+        "Questa è la battaglia finale. Spegni questo ultimo fuoco. Silenzia la Boca. Il destino di Draconia poggia sulle tue spalle. Ripristina l'equilibrio."
+    ],
+    "quest.4EDD3338BAAF743A.title": "L'ultimo residuo",
+    "quest.4F0CACA80CA4F315.quest_desc": [
+        "\\&l\\&o\\&eOoh! Che brillante!!\\&r",
+        "",
+        "E... ehm... Devo mantenere la calma.",
+        "",
+        "Quindi, si tratta di un oggetto raro, che si trova solo in profondità nel sottosuolo o in dungeon?",
+        "",
+        "Questo è di grande valore. Sarò disposto a pagare un prezzo elevato per il vostro coraggio!"
+    ],
+    "quest.4F0CACA80CA4F315.quest_subtitle": "Tutto ciò che brilla",
+    "quest.4F0CACA80CA4F315.title": "[Fase 3] Esplorazione",
+    "quest.4FFB11111EEEA02D.quest_desc": [
+        "Un rotolo contiene l'eco di un incantesimo, ma una \"Tabella di Inscrizione\" permette di trasformare quell'eco in qualcosa di concreto. Questa postazione consente di trasferire rotoli fragili in un libro di incantesimi robusto, permettendoti di sfruttare il loro potere."
+    ],
+    "quest.4FFB11111EEEA02D.quest_subtitle": "L'arte della scrittura",
+    "quest.50AAF4723149A078.quest_subtitle": "Costruisci la tua prima Camera di Imbimento.",
+    "quest.50AAF4723149A078.title": "Si chiama MAGIK.",
+    "quest.50FB586FFFAC33AE.quest_desc": [
+        "\"Dormire su un letto di oro è una cosa deliziosa\",",
+        "",
+        "ma a volte mi manca un morbido cuscino in lana.",
+        "",
+        "Potete procurarmi della lana soffice?"
+    ],
+    "quest.50FB586FFFAC33AE.quest_subtitle": "Letto confortevole",
+    "quest.50FB586FFFAC33AE.title": "[Livello 1] Cura degli animali",
+    "quest.518911E77C2DE085.quest_desc": [
+        "Frammento del Cuore di Drago:",
+        "",
+        "+10 minuti di crescita. Utile solo per neonati."
+    ],
+    "quest.518911E77C2DE085.title": "Frammento del Cuore di Drago",
+    "quest.51A4F5A55751FEF9.quest_desc": [
+        "Mettete il lapislazzuli o l'ametista nella Camera di Imbricamento per creare il vostro primo \"Gemma di Fonte\". Questo sarà la base per tutte le attività magiche."
+    ],
+    "quest.51A4F5A55751FEF9.quest_subtitle": "La creazione della fonte",
+    "quest.51E09A34284E5D72.quest_desc": [
+        "Una \"Palla di Potenziamento Vuota\" è un contenitore, pronto per essere riempito con energia magica potente. È possibile infonderla con l'essenza di un sigillo per creare una sfera specifica, progettata per migliorare le proprie attrezzature.",
+        "",
+        "Prova a creare una \"Palla di Potenziamento Arcana\" utilizzando la \"Pietra Arcana\" che hai ricevuto come ricompensa da una quest precedente. Questo potente artefatto può essere utilizzato su un \"Martello Arcano\" per aumentare permanentemente la capacità di mana del tuo equipaggiamento."
+    ],
+    "quest.51E09A34284E5D72.quest_subtitle": "Infondere l'Orb",
+    "quest.52A6312666869670.quest_desc": [
+        "Benvenuti in Dragoncraft!",
+        "",
+        "Questo capitolo conterrà alcune informazioni e suggerimenti per iniziare le vostre avventure in Draconia!"
+    ],
+    "quest.52C9E1A2A805EFAE.quest_desc": [
+        "Osso di stella:",
+        "",
+        "Riduci la tua crescita di 1 ora."
+    ],
+    "quest.52D23B72F94EDF3D.quest_desc": [
+        "Un libro di incantesimi semplice ma efficace",
+        "",
+        "\\&6- Come ottenere",
+        "\\&7Creato manualmente\\&r"
+    ],
+    "quest.53279B928EFD7768.quest_desc": [
+        "Il vento implacabile di Orryx ulula sulla terra, un grido di assoluta immobilità. Le leggende parlano di una \"antica fabbrica\" dove la sua volontà oppressiva prende forma, dove macchine di tirannia vengono create senza sosta.",
+        "",
+        "È necessario trovare questo luogo. Seguite il sentiero fatto di ferro e disperazione per scoprire il cuore del dominio di Orryx.",
+        "",
+        "{image:cataclysm:item\/mech_eye width:32 height:32 align:center}"
+    ],
+    "quest.53279B928EFD7768.title": "Il Tiranno di Ferro",
+    "quest.53DF2C0FE883D081.quest_desc": [
+        "Creare armature leggendarie richiede più del semplice \\&eMithril\\&r. Dovrete anche procurvi due materiali estremamente rari:",
+        "",
+        "\\&6\\&l- Frammento dell'Anima Divina -\\&r\\&r",
+        ": Questo oggetto sacro è un oggetto raro, ottenibile solo sconfiggendo un boss. Per trovare questo boss, è necessario prima creare una \"Mappa Antica Ripiegata\", che vi guiderà alla sua posizione nel Nether.",
+        "",
+        "\\&6\\&l- Lingotto di pirite -\\&r\\&r",
+        ": Questo lingotto incandescente può essere trovato solo all'interno delle casse della \\&5Citadella\\&r, un grande castello nero nel Nether. Per aprire queste casse, sarà necessario un Chiave Decaduta, che viene ottenuta uccidendo il boss evocato all'interno della Citadella.",
+        "",
+        "Questo boss è di un livello molto alto, quindi sarà più potente di quanto pensi.",
+        "Quindi, fate attenzione."
+    ],
+    "quest.53DF2C0FE883D081.title": "Acquisizione di materiali leggendari",
+    "quest.55AF8ABF5B60EF15.quest_desc": [
+        "La magia più potente deriva dalla natura. Individuate gli alberi incantati, quelli con il legno di \\&eArchwood\\&r, per poterli utilizzare, e raccogliete i preziosi frammenti di \\&eAmethyst Shards\\&r, che si trovano nelle profondità della terra.",
+        "",
+        "- Consigli -",
+        "\\&7Se il mondo sembra troppo grande e complesso, utilizzate la \"Bussola della Natura\" per trovare una \"Foresta di Archwood\". La bussola vi guiderà verso queste foreste incantate.",
+        "{image:naturescompass:item\/naturescompass_21 width:32 height:32 align:center}"
+    ],
+    "quest.55AF8ABF5B60EF15.quest_subtitle": "Ingredienti magici",
+    "quest.5607AC123F406833.quest_desc": [
+        "Le stelle sussurrano di una verità celata in un inganno. Nel nord lontano, una \"Prigione di Ghiaccio\" brilla, una magnifica e impossibile fortezza di ghiaccio. Ma la sua bellezza è un'illusione, la sua luce un miraggio. È una gabbia di illusioni costruita da Erythral.",
+        "",
+        "Per seguire il sentiero del destino, è necessario prima comprendere l'inganno. Vai, cercatore. Entra nel grande inganno e scopri la verità che si cela al suo interno.",
+        "",
+        "{image:cataclysm:item\/cursed_eye width:32 height:32 align:center}"
+    ],
+    "quest.5607AC123F406833.title": "L'illusione grandiosa",
+    "quest.573F5CC8917A94F7.quest_desc": [
+        "Versatilità, che include la capacità di teletrasportarsi e di svolgere diverse funzioni."
+    ],
+    "quest.573F5CC8917A94F7.quest_subtitle": "Ender",
+    "quest.579016CCA20872DE.quest_desc": [
+        "Sotto le onde, si trova un magnifico santuario, con la sua grande cupola parzialmente sommersa e dimenticata dal tempo. L'influenza di Greythys è forte in questo luogo, avendo evocato una creatura di insaziabile fame per proteggere i suoi sacri ambienti.",
+        "",
+        "Il vostro primo compito è trovare questa struttura perduta. Immergetevi nelle profondità e scoprite la grande struttura che ora funge da dimora per l'abisso.",
+        "",
+        "{image:cataclysm:item\/abyss_eye width:32 height:32 align:center}"
+    ],
+    "quest.579016CCA20872DE.title": "Il santuario sommerso",
+    "quest.57D29E0CFE7CBD6F.quest_desc": [
+        "E non sembrava accorgersi di nulla...",
+        "",
+        "Oppure, forse, ti sta semplicemente ignorando.",
+        "",
+        "E quella reazione era noiosa.",
+        "",
+        "\\&o\\&7Forse riprova, magari con un approccio diverso?"
+    ],
+    "quest.57D29E0CFE7CBD6F.title": "👉 \\&oBoop, il naso",
+    "quest.57F15A80341FC8CC.quest_desc": [
+        "Davanti a te si erge una creatura colossale, forgiata in netherite, redstone e la pietra più nera dell'abisso, una parodia contorta della vita, animata da un'anima tormentata. Questa golem, una perversione delle golem di redstone della leggenda, è ora una marionetta costretta a danzare al volere di Vaemir.",
+        "",
+        "Ogni suo movimento è la prova del suo tormento senza fine. Non si tratta semplicemente di distruggerla, ma di compiere un atto di profonda misericordia. Porre fine al suo sofferenza e concedere una liberazione finale e tranquilla a un'anima corrotta e riluttante."
+    ],
+    "quest.57F15A80341FC8CC.title": "Il Colosso riluttante",
+    "quest.58EDE384B89A5980.quest_desc": [
+        "LootR è un mod che aggiunge casse e contenitori generati in modo casuale, disponibili per tutti i giocatori!",
+        "",
+        "Se trovate un contenitore LootR nel mondo, assicuratevi di saccheggiarlo! Il contenuto sarà unico per voi, e anche altri potranno saccheggiare lo stesso contenitore per ottenere lo stesso bottino!"
+    ],
+    "quest.58F8ADD2A1F29E2D.quest_desc": [
+        "Hai padroneggiato i materiali magici comuni, ma ti attende un metallo intriso di magia pura: l'amitrillo.",
+        "",
+        "Questo raro minerale si trova solo nelle zone più profonde del mondo, al di sotto di \\&6Y=-38\\&r, nascosto all'aria aperta. È così resistente che può essere estratto solo con un piccone specifico, chiamato \\&enetherite pickaxe\\&r.",
+        "",
+        "Il vostro viaggio nel mondo della forgiatura di opere d'arte inizia con un singolo pezzo di questo leggendario metallo."
+    ],
+    "quest.58F8ADD2A1F29E2D.quest_subtitle": "Il metallo più raro",
+    "quest.594D8BDD65C02D63.quest_desc": [
+        "È possibile controllare i catalizzatori in JEI.",
+        "",
+        "I catalizzatori per l'essenza di aria",
+        "- Piuma",
+        "- Freccia",
+        "- Wilden Wing"
+    ],
+    "quest.5B2DE24A0A9911CF.quest_desc": [
+        "Per evocare la potente creatura, è necessario preparare un sacrificio degno. Cacciare la fauna corrotta, sia all'interno delle sale allagate del santuario, sia nell'abisso circostante, per raccogliere gli elementi necessari per il \"Sacrificio Abissale\".",
+        "",
+        "Questo non è solo un omaggio; è un rituale oscuro, un'offerta di vita e morte che attirerà l'insaziabile fame delle profondità. Preparate il sacrificio e siate pronti ad affrontare ciò che risponde."
+    ],
+    "quest.5B2DE24A0A9911CF.title": "Il sacrificio abissale",
+    "quest.5C5CC1BF6981835F.quest_desc": [
+        "L'\\&aApparato Incantato\\&r è la postazione di crafting di livello 2 che trasformerà il tuo laboratorio nel luogo ideale. Per sbloccare il suo pieno potenziale, è necessario costruirlo come una struttura composta da più blocchi.",
+        "",
+        "Innanzitutto, posizionate il blocco \"\\&aArcane Core\\&r\" e, successivamente, il blocco \"\\&aEnchanting Apparatus\\&r\" direttamente sopra di esso. Successivamente, è necessario completare l'altare magico posizionando i blocchi \"\\&aArcane Pedestals\\&r\" entro un raggio di 3 blocchi dall' \"\\&aApparatus\\&r\" stesso, e non dal nucleo.",
+        "",
+        "[in alto] [laterale]",
+        "\\&e■■■\\&r \\&8□□□\\&r \\&5■\\&r = Nucleo + Apparecchi",
+        "\\&e■\\&r\\&5■\\&r\\&e■\\&r　 \\&8□\\&r\\&b■\\&r\\&8□\\&r   \\&e■\\&r = Base Arcana",
+        "\\&e■■■\\&r \\&e■■■\\&r = Apparecchio",
+        "",
+        "*Nota:*",
+        "\\& Se l'apparecchio \"Enchanting\" non funziona ancora, anche se tutto è stato configurato correttamente, controllare se ci sono stati posizionati accidentalmente dei supporti entro un raggio di 3 blocchi.",
+        "",
+        "　　"
+    ],
+    "quest.5C5CC1BF6981835F.quest_subtitle": "Il cuore del laboratorio",
+    "quest.5D1890985F3D52B3.quest_desc": [
+        "Un grimorio incentrato sulla magia del fuoco",
+        "",
+        "\\&6- Come ottenere",
+        "\\&7Raro oggetto casuale ottenibile da Blazes"
+    ],
+    "quest.5D83A12E6486CBF5.quest_desc": [
+        "L'eco distorto di Tyros non risponderà alla chiamata di un semplice guerriero. È necessaria una richiesta di onore.",
+        "",
+        "Creerete il \"Cicalino dell'Anima Guerriera\", un campanello il cui suono risuona con la gloria della battaglia. Raccogliete i materiali più rari dalle profondità del Nether e create questo manufatto. Il suo suono deve essere degno dell'anima di un guerriero."
+    ],
+    "quest.5D83A12E6486CBF5.title": "La campana delle anime",
+    "quest.5D9A018D40D32DE8.quest_desc": [
+        "Tutti i fili del destino ora convergono in un unico punto. Una cicatrice nel regno infernale, dove l'ultimo respiro del Pozzo sarà pronunciato.",
+        "",
+        "Immaginatelo nella vostra mente: un \"campo di battaglia\" dove i grida di battaglia risuonano, in attesa di un vincitore. È qui che il ciclo deve giungere al termine.",
+        "",
+        "Vai. Il tuo destino sta per raggiungere la sua conclusione.",
+        "",
+        "{image:cataclysm:item\/flame_eye width:32 height:32 align:center}"
+    ],
+    "quest.5D9A018D40D32DE8.title": "L'Arena Finale",
+    "quest.5DC1E077FFAEBCAA.quest_desc": [
+        "Magia oscura, come il \"lifesteal\" (rubare la vita) e la creazione di non morti.",
+        "",
+        "\\&6- Come ottenerlo? -\\&r",
+        "\\&7Posizionate un fuoco acceso sotto una pentola, e mettete una creatura all'interno per cuocerla. Questo riempirà la pentola di sangue, che potrà essere estratto con bottiglie di vetro per ottenere delle fiale di sangue."
+    ],
+    "quest.5DC1E077FFAEBCAA.quest_subtitle": "Sangue",
+    "quest.5DDE38011E883F6C.quest_desc": [
+        "È possibile controllare i catalizzatori in JEI.",
+        "",
+        "I catalizzatori dell'essenza di Manipolazione",
+        "- Bottoni in pietra",
+        "- Orologio",
+        "- Redstone"
+    ],
+    "quest.5E93B483040C00A6.quest_desc": [
+        "Le dimensioni e la crescita della tua forma draconica aumenteranno nel tempo.",
+        "",
+        "Un drago crescerà naturalmente:",
+        "Neonato -> Giovane -> Adulto -> Antico",
+        "",
+        "I grifoni utilizzano oggetti diversi rispetto ai draghi per la loro crescita."
+    ],
+    "quest.5E93B483040C00A6.quest_subtitle": "Crescere!",
+    "quest.5E9CF319767A0A96.quest_desc": [
+        "Utilizza il tessuto magico per creare un set di armature \"Armatura Arcana\". Questa armatura offre più mana e difesa rispetto al set \"Mago Errante\" ed è un'ottima base per tutte le future specializzazioni magiche."
+    ],
+    "quest.5E9CF319767A0A96.quest_subtitle": "L'armatura del guerriero magico",
+    "quest.5EEE45CC6C24B24E.quest_subtitle": "Costruisci la tua prima stazione di creazione di gioielli.",
+    "quest.5EEE45CC6C24B24E.title": "Tempo per un gioielliere",
+    "quest.60133A583B24C4DF.quest_desc": [
+        "Creare un sigillo richiede tre elementi: un supporto per la carta (\\&epaper\\&r), un display a inchiostro elettronico (\\&eInk\\&r) per contenere l'energia magica, e un dispositivo di focalizzazione (\\&eFocus\\&r) per determinare la scuola di magia a cui appartiene. La magia è divisa in nove scuole, ognuna con il proprio oggetto di focalizzazione specifico. Consultare la tabella sottostante per esplorare il vostro percorso."
+    ],
+    "quest.60133A583B24C4DF.title": "Le Nove Vie",
+    "quest.605CB66FF638356F.quest_desc": [
+        "La specializzazione può portare a grandi risultati, ma la vera maestria deriva dall'adattabilità. Per un mago che non è legato a un elemento specifico, si consiglia vivamente l'armatura \"\\&aNetherite Battlemage\". Questa armatura offre un'eccellente protezione e un notevole aumento delle riserve magiche, senza favorire una particolare scuola di magia. Aggiornando la tua attuale armatura \"\\&eMage Armor\" con il potere dell'\"\\&eNetherite\" su un \\&esmithing table, puoi creare questo set versatile e potente."
+    ],
+    "quest.605CB66FF638356F.quest_subtitle": "Il guerriero versatile",
+    "quest.60DFB05FE34646BB.quest_desc": [
+        "\"Ho bisogno di combustibile per mantenere acceso il mio focolare!",
+        "",
+        "Il legno brucia troppo velocemente.",
+        "",
+        "Questi sassi neri e duri che bruciano a lungo, ne avete mai sentite parlare?"
+    ],
+    "quest.60DFB05FE34646BB.quest_subtitle": "Fiamma ardente",
+    "quest.60DFB05FE34646BB.title": "[Livello 1] Carburante",
+    "quest.62255B323BACB0BC.quest_desc": [
+        "È possibile controllare i catalizzatori in JEI.",
+        "",
+        "I catalizzatori dell'essenza della Terra",
+        "- Lingotto di ferro",
+        "- Sporco",
+        "- Semi"
+    ],
+    "quest.62994919FC8983F1.quest_desc": [
+        "Ora che avete già acquisito le basi dei rituali, è il momento di mettere in pratica questa conoscenza e di affrontare l'entità più potente di \\&lArs Nouveau\\&r.",
+        "",
+        "\"Aumentare\" il rituale di \"Summon Wilden\" con un corno di \"Wilden\", uno spillo di \"Wilden\" e un'ala di \"Wilden\".",
+        "",
+        "Il rituale si trasformerà quindi in una grande cerimonia che darà il via all'incontro con il boss, la temibile \"Chimera selvaggia\". Utilizzate tutta la vostra magia e le vostre abilità per superare questa prova finale."
+    ],
+    "quest.62994919FC8983F1.quest_subtitle": "La prova definitiva",
+    "quest.62D920F767328225.quest_desc": [
+        "Hai spento la fucina e accecato l'occhio del serpente nel vuoto. Ottimo lavoro, campione. Ma le stelle non cantano in lode; piangono di paura.",
+        "",
+        "Le tue azioni hanno scosso le fondamenta del destino. Interrompendo i piani dei tuoi rivali, hai involontariamente risvegliato creature molto più antiche e potenti, che dormivano da tempo. Tre grandi dolori, sopiti per secoli, ora iniziano a risvegliarsi.",
+        "",
+        "I tuoi problemi non sono finiti. Sono appena iniziati."
+    ],
+    "quest.62D920F767328225.title": "I dormienti si risvegliano",
+    "quest.6316DC089EF5D4ED.quest_desc": [
+        "Il tuo vecchio diario ti ha ormai soddisfatto, ma il suo spazio limitato ora ti ostacola. È ora di creare un \"Grimorio per Apprendisti\" utilizzando risorse provenienti dal Nether. Questo nuovo grimorio offre più slot per incantesimi e effetti magici più potenti."
+    ],
+    "quest.6316DC089EF5D4ED.quest_subtitle": "Il libro del studioso",
+    "quest.63B3973E309BDDF0.quest_desc": [
+        "È ora di imprimere le vostre conoscenze nelle pagine.",
+        "",
+        "Posiziona il tuo libro di incantesimi e un rotolo sulla tavola di incantamento.",
+        "",
+        "Questo registrerà permanentemente lo spell nel tuo libro, permettendoti di utilizzarlo in qualsiasi momento, purché tu abbia mana. Una volta inciso, tieni il libro di incantesimi e fai clic con il pulsante destro del mouse per equipaggiarlo."
+    ],
+    "quest.63B3973E309BDDF0.title": "Collegare il primo incantesimo",
+    "quest.640019EEEEA9C623.quest_desc": [
+        "L'utilizzo di incantesimi consuma mana, la tua riserva di energia magica. Per aumentare questa riserva, è necessario utilizzare attrezzature specifiche. L'insieme di armatura \"Il Mago Errante\" è progettato per i principianti e fornisce l'energia magica extra necessaria per l'utilizzo degli incantesimi."
+    ],
+    "quest.640019EEEEA9C623.quest_subtitle": "L'abbigliamento del mago",
+    "quest.64B5DC9F8F20BC92.quest_desc": [
+        "Un grimorio maledetto",
+        "",
+        "\\&6- Come ottenere",
+        "\\&7Oggetti rari trovati casualmente nel mondo\\&r"
+    ],
+    "quest.64E03CF94FD1208D.quest_desc": [
+        "«I rituali \\&dRituals\\&r rappresentano una forma di magia potente, in grado di produrre effetti straordinari che superano di gran lunga gli incantesimi ordinari.»",
+        "",
+        "Tutti i rituali vengono eseguiti utilizzando un braciere specifico come elemento centrale. È ora di creare l'elemento principale per i futuri rituali più importanti."
+    ],
+    "quest.64E03CF94FD1208D.quest_subtitle": "Introduzione a Grand Magic",
+    "quest.64EA09325CA73BE1.quest_desc": [
+        "Se avete deciso di iniziare una nuova vita come Drago (o Grifone), ci sono alcune impostazioni predefinite che dovrebbero essere configurate per voi:",
+        "",
+        "- Per attivare\/disattivare la modalità aereo: tasto G",
+        "- Per attivare la tua abilità del drago: tasto C (o tenendo premuto il tasto C in alcuni casi).",
+        "- Per selezionare un'abilità diversa: tasto \"R\""
+    ],
+    "quest.64EA09325CA73BE1.quest_subtitle": "Tasti di assegnazione e pulsanti",
+    "quest.64EA09325CA73BE1.title": "Sopravvivenza nel drago",
+    "quest.64EEB95D556D27D7.quest_desc": [
+        "Ogni grande viaggio inizia con la conoscenza. La \"Guida dell'Acciaio\" è un testo fondamentale, che contiene le conoscenze di base necessarie per qualsiasi mago. Può essere realizzata utilizzando un libro comune e un'Essenza Arcana.",
+        "{image:irons_spellbooks:item\/arcane_essence width:32 height:32 align:center}"
+    ],
+    "quest.64EEB95D556D27D7.quest_subtitle": "L'introduzione per gli Arcanisti",
+    "quest.6694BA4236F8F4A5.quest_desc": [
+        "È ora di creare un contenitore per la tua energia magica. Il libro di incantesimi \"A\\&Novice Spell Book\" è lo strumento iniziale che ti permette di creare e lanciare i tuoi incantesimi."
+    ],
+    "quest.6694BA4236F8F4A5.quest_subtitle": "Il primo libro di incantesimi",
+    "quest.6694BA4236F8F4A5.title": "Capitolo 1",
+    "quest.66CC292C0774047F.quest_desc": [
+        "Distribuisce automaticamente il codice sorgente ricevuto a tutti i componenti (Jars) non collegati, situati entro un raggio di 5 blocchi.",
+        "",
+        "Fonte di approvvigionamento che è stata portata a un punto centrale per alimentare diverse macchine.",
+        "",
+        "Si crea un sistema di distribuzione perfetto quando viene utilizzato in combinazione con un raccoglitore."
+    ],
+    "quest.66CC292C0774047F.title": "Fonte: Depositore",
+    "quest.6723BD6572FF0B34.quest_desc": [
+        "Per creare armature da mago più resistenti, è necessario un materiale speciale. Comprimendo una grande quantità di \"Essenza Arcana\", è possibile ottenere \"Tessuto Arcano\", il materiale principale per l'armatura da mago professionale."
+    ],
+    "quest.6723BD6572FF0B34.quest_subtitle": "Tessuto Magicamente Intrecciato",
+    "quest.68B813CDD65EEBC8.quest_desc": [
+        "Un libro di incantesimi incentrato sul ghiaccio",
+        "",
+        "\\&6- Come ottenere",
+        "\\&7Creato manualmente\\&r",
+        "",
+        "\\&7Icy Fangs possono essere ottenuti dagli Ice Spiders, che appaiono raramente negli ambienti innevati."
+    ],
+    "quest.6A37B244128879CC.quest_desc": [
+        "Questi incantesimi di polvere...",
+        "",
+        "Anche solo annusarlo mi fa sentire potente!",
+        "",
+        "Si dice che anche questi strani stregoni scheletrici lascino questo oggetto.",
+        "",
+        "Raccogli questi cristalli di pura magia, e ti ricompenserò generosamente!"
+    ],
+    "quest.6A37B244128879CC.quest_subtitle": "Tracce di magia",
+    "quest.6A37B244128879CC.title": "[Livello 2] Ferro",
+    "quest.6A8064F3B3ED9A5E.quest_desc": [
+        "Il mod Create è incentrato sulla creazione di macchinari e dispositivi di ogni tipo.",
+        "",
+        "Questo mod include un sistema di \"tutorial\" integrato nel gioco, che fornisce istruzioni dettagliate su come utilizzare i blocchi e gli oggetti. (La funzione di tutorial è attivata automaticamente premendo il tasto \"W\" mentre si passa sopra un oggetto)."
+    ],
+    "quest.6A8064F3B3ED9A5E.quest_subtitle": "Steampunk e automazione",
+    "quest.6AB5E4AD4F729D9D.quest_desc": [
+        "Un grimorio incentrato su incantesimi di evocazione.",
+        "",
+        "\\&6- Come ottenere",
+        "\\&7Raro oggetto casuale ottenibile dagli Evokers o dagli Archevocers\\&r"
+    ],
+    "quest.6AE03FECDBE6153D.quest_desc": [
+        "Un grimorio incentrato sul sangue",
+        "",
+        "\\&6- Come ottenere",
+        "\\&7Creato manualmente\\&r"
+    ],
+    "quest.6DFF77993ADCAC01.quest_desc": [
+        "Se sei sopravvissuto, viaggiatore. Ma la sopravvivenza non è sinonimo di valore. Questo mondo è pieno di insidie. Per affrontarle, è necessario avere la forza e la determinazione di un guerriero.",
+        "",
+        "Recatevi nei luoghi segnati dalla storia, nelle rovine e nelle prigioni, e recuperate il metallo dei guerrieri caduti. Forgetelo per creare un'armatura e una spada, e poi consacrate la vostra nuova forza con il sangue dei vostri nemici. Dimostratemi che siete un guerriero. Questo è il vostro primo esame."
+    ],
+    "quest.6DFF77993ADCAC01.title": "Il primo test di valore",
+    "quest.6E2DCC3243C09865.quest_desc": [
+        "Le principali risorse per iniziare a utilizzare Create, in particolare per quanto riguarda molti dei suoi componenti, sono l'Andesite Alloy.",
+        "",
+        "Questo viene prodotto combinando 2 pezzi di zinco e 2 pezzi di andesite."
+    ],
+    "quest.6E2DCC3243C09865.title": "Inizia con Create",
+    "quest.6EF5DC4BE0C7B9CD.quest_desc": [
+        "Il \"Calderone dell'Alchimista\" è più di uno strumento semplice per il riciclo. Cuocendo più tipi di inchiostro di qualità inferiore nel calderone, è possibile creare un inchiostro più concentrato e di qualità superiore.",
+        "",
+        "\\&6- Come funziona? -\\&r",
+        "E, quindi, riempite la pentola con quattro bottiglie di inchiostro dello stesso tipo, quindi aggiungete il materiale indicato da JEI. Dopo un breve periodo, verrà prodotta una bottiglia di inchiostro con una rarità superiore di un livello rispetto agli ingredienti utilizzati."
+    ],
+    "quest.6EF697A1203DF8C3.quest_desc": [
+        "La vera potenza di un \"Source Gem\" risiede nella sua capacità di infondere magia ad altri materiali. È possibile creare un \"Source Gem\", il primo materiale magico, posizionando un \"Source Gem\" al centro di una griglia di creazione e circondandolo di pietra.",
+        "",
+        "Questa pietra magica costituirà la base fondamentale per le numerose macchine misteriose che sarete destinati a costruire."
+    ],
+    "quest.6EF697A1203DF8C3.quest_subtitle": "Pietra del Potere",
+    "quest.7069E58E0D110D10.quest_desc": [
+        "A volte, invece di carne, desidero ardentemente pesce alla griglia!",
+        "",
+        "Portami uno appena pescato dal mare.",
+        "",
+        "Più le squame sono lucide, più il pesce è gustoso!"
+    ],
+    "quest.7069E58E0D110D10.quest_subtitle": "Pesce appena pescato",
+    "quest.7069E58E0D110D10.title": "[Categoria 1] Pesca",
+    "quest.71762A05C92C78DE.quest_desc": [
+        "Man mano che la tua conoscenza della magia aumenta, anche la tua collezione di incantesimi si espanderà. Potrebbe essere necessario sostituire rapidamente il tuo attuale libro di incantesimi, poiché potrebbe esaurire rapidamente lo spazio.",
+        "",
+        "Fortunatamente, è possibile aumentare la capacità di un libro di incantesimi. L'oggetto magico \"Miglioramento delle slot di incantesimo\" è un manufatto realizzato in pelle di Hogskin, che, una volta combinato con un libro di incantesimi all'interno di un \"Arcano Anvil\", aggiungerà ulteriori slot per poter incantare nuovi incantesimi."
+    ],
+    "quest.71762A05C92C78DE.quest_subtitle": "Ampliare il proprio arsenale",
+    "quest.722195DA6E829D9D.quest_desc": [
+        "Magia antica e potente, che richiede un processo di apprendimento specifico."
+    ],
+    "quest.722195DA6E829D9D.quest_subtitle": "???",
+    "quest.72A6D9B71C8D939A.quest_desc": [
+        "Applicare effetti negativi come il veleno ai nemici."
+    ],
+    "quest.72A6D9B71C8D939A.quest_subtitle": "Veleno",
+    "quest.72B6AFD8283616CD.quest_desc": [
+        "Il \\&aTorre di incantesimo\\&r è un dispositivo straordinario che lancia incantesimi al posto tuo. Una volta ricevuto un segnale di redstone, preleva energia da un contenitore di \\&eFonte\\&r nelle vicinanze, per lanciare continuamente l'incantesimo che hai inserito al suo interno.",
+        "",
+        "Utilizzate questo per creare diverse strutture automatizzate, come una cava automatizzata o un'azienda agricola per alberi, e sviluppate la vostra creatività su scala industriale.",
+        "",
+        "Consultare il manuale \\&bJEI\\&r per la ricetta e portare questo straordinario esempio di ingegneria magica nel vostro laboratorio."
+    ],
+    "quest.72B6AFD8283616CD.quest_subtitle": "La fabbrica magica automatizzata",
+    "quest.744E3F58A2BF8992.quest_desc": [
+        "Nel cuore della fortezza, una sentinella veglia eternamente. Un guardiano imponente, forgiato dalla stessa essenza del design distorto dell'Apocalisse, obbedisce solo a un unico signore: Nyxarys.",
+        "",
+        "Distruggete questa gigantesca marionetta. Occhiate il Serpente e proteggete il sigillo importante dal suo sguardo velenoso."
+    ],
+    "quest.744E3F58A2BF8992.title": "Il Guardiano del Serpente",
+    "quest.74A1FC5978293A9D.quest_desc": [
+        "Avete visto quelle gemme viola che brillano di luce eterna?",
+        "",
+        "Sono fatti di pura magia, concentrata!",
+        "",
+        "A differenza della mana grezza, che svanisce, queste gemme mantengono la loro potenza per sempre.",
+        "",
+        "Devo assolutamente aggiungerli alla mia collezione!"
+    ],
+    "quest.74A1FC5978293A9D.quest_subtitle": "Magia cristallizzata",
+    "quest.74A1FC5978293A9D.title": "[Livello 2] Ars",
+    "quest.764AADB2FCB12E0E.quest_desc": [
+        "È giunto il momento della resa dei conti. Nel cuore della fabbrica, il \"Harbinger\" emette un suono inquietante: una macchina che è una parodia del Wither, costruita non di ossa, ma di ferro freddo e duro. È l'incarnazione stessa della volontà incrollabile di Orryx.",
+        "",
+        "Utilizzate la Stella di Nether per distruggere la sua armatura, e smantellate questo simbolo di tirannia, pezzo per pezzo. Fate sì che la fucina che lo ha creato diventi la sua tomba."
+    ],
+    "quest.764AADB2FCB12E0E.title": "Spegnere la forgia",
+    "quest.76A0CEA8AB00F3F5.quest_desc": [
+        "Utilizza un dispositivo magico per migliorare la tua armatura di livello 1 a quella di livello 2."
+    ],
+    "quest.76A0CEA8AB00F3F5.title": "Aggiorna l'armatura del mago al livello 2",
+    "quest.76BF3F34AB4B6D4F.quest_desc": [
+        "Un libro di incantesimi di base, robusto e affidabile.",
+        "",
+        "\\&6- Come ottenere",
+        "\\&7Creato manualmente\\&r"
+    ],
+    "quest.777B97C1B7F50236.quest_desc": [
+        "Non si può iniziare un viaggio con lo stomaco vuoto. Prima di cercare conflitti, è necessario comprendere innanzitutto ciò che questo mondo offre.",
+        "",
+        "La Madre Terra, Halmera, offre i suoi doni a chi la rispetta. Cacciate gli animali delle pianure, coltivate la terra e raccogliete i frutti della natura selvaggia. Un vero sopravvissuto comprende che la sopravvivenza è il primo e più sacro dovere."
+    ],
+    "quest.777B97C1B7F50236.title": "La ricchezza della Terra Madre",
+    "quest.77AD1FF5AF81A8C7.quest_desc": [
+        "Nel cuore della fabbrica, l'«Harbinger» attende, protetto da una barriera impenetrabile. Per spezzare queste catene di oppressione, è necessario evocare un potere nato dal caos stesso.",
+        "",
+        "La Nether Star, un cuore di pura e straziante potenza, è la chiave. Cacciate la bestia a tre teste del Nether, reclamate il suo bottino e preparatevi a scatenare una distruzione dopo l'altra."
+    ],
+    "quest.77AD1FF5AF81A8C7.title": "Stella dell'abisso",
+    "quest.783164012751BCEC.quest_desc": [
+        "La \\&aImbuement Chamber\\&r è la vostra prima macchina magica. Utilizzate questo dispositivo per infondere potere ai minerali comuni, creando le Gemme Sorgenti, l'ingrediente fondamentale della magia."
+    ],
+    "quest.783164012751BCEC.quest_subtitle": "Infondere potere",
+    "quest.78E99AEA3AB73025.quest_desc": [
+        "Il potere di un \\&Archmage\\&r si riflette nell'armatura che indossa. Migliora un pezzo della tua armatura fino al suo livello finale per prepararti ad affrontare i potenti flussi di energia magica che stai per incontrare. L'armatura al livello finale non solo amplifica la tua energia magica, ma permette anche di creare i fili più potenti."
+    ],
+    "quest.78E99AEA3AB73025.title": "Gli ornamenti dell'Archimago",
+    "quest.7B3043DBA34967B6.quest_subtitle": "Utilizza una canna da pesca nel Vuoto",
+    "quest.7B3043DBA34967B6.title": "Aspetta, posso pescare?",
+    "quest.7C7B76F45CC0CC55.quest_desc": [
+        "Cuore del drago antico:",
+        "",
+        "+ 1 ora di crescita. Adatto a tutte le età."
+    ],
+    "quest.7CF86978CAAB36D8.quest_desc": [
+        "La chiave della verità è nelle vostre mani. Il modo per andare avanti non è attraverso una porta, ma attraverso un velo di menzogne. Oltre si trova Maledictus, un guerriero legato non da catene, ma da una menzogna fatta realtà. È il cuore della grande illusione di Erythral.",
+        "",
+        "Affronta il custode, distruggi l'ultima illusione, e lascia che la vera luce delle stelle illumini di nuovo questa terra."
+    ],
+    "quest.7CF86978CAAB36D8.title": "Il cuore della menzogna",
+    "quest.7CFCEE9DE2E87FFD.quest_desc": [
+        "I libri e gli add-on di Iron's Spellbooks si concentrano sull'equipaggiamento e sull'attrezzatura per infliggere danni ai nemici, curare se stessi e gli alleati, e per essere un potente mago in grado di svolgere diverse funzioni."
+    ],
+    "quest.7CFCEE9DE2E87FFD.quest_subtitle": "Spell Blasting!",
+    "quest.7CFCEE9DE2E87FFD.title": "Gli scritti di Ferro",
+    "quest.7DDEEEF0579899EE.quest_desc": [
+        "Controllo della folla tramite congelamento o rallentamento degli avversari."
+    ],
+    "quest.7DDEEEF0579899EE.quest_subtitle": "Ghiaccio",
+    "quest.7E17322C5BC6C834.quest_desc": [
+        "I doni di guarigione di Nerys e le piaghe di Draegor derivano entrambe dalla stessa fonte: l'alchimia. Un \"banco di preparazione\", presente solo nelle fortezze infuocate del Nether, è la chiave per ottenere questo potere.",
+        "",
+        "Intraprendi un breve e audace viaggio nel Nether. Trova una fortezza, prendi il controllo di un'officina di produzione e lascia che la tua prima creazione sia una pozione curativa, in onore della Signora delle Mare, che veglia su ogni forma di vita."
+    ],
+    "quest.7E17322C5BC6C834.title": "La saggezza nel calderone",
+    "quest.7E5622B519EEA4C8.quest_desc": [
+        "La tua armatura, completamente potenziata, è ora pronta per essere dotata della magia più potente. Completa la tua identità magica applicando un potente componente, che può essere utilizzato solo in uno slot di livello 3. Che si tratti del \"Filo del Volo\" che conferisce la capacità di volare, o del \"Filo dell'Immortalità\" che sfida persino la morte, questa scelta definirà la tua identità come \"Archomago\"."
+    ],
+    "quest.7E5622B519EEA4C8.title": "Intreccio del destino",
+    "quest.7E82CDB6EF9CD85D.quest_desc": [
+        "La bocca è silenziosa. Il fuoco è spento. Il mondo sospira di sollievo, e il suo primo respiro in un'era è dovuto a te.",
+        "",
+        "Ma ogni fine è anche un nuovo inizio. La grande minaccia è stata sconfitta, ma l'equilibrio rimane fragile, un filo tessuto sia dalla luce che dall'ombra. Il vostro viaggio come guerriero è terminato, ma il vostro ruolo di protettore è appena iniziato.",
+        "",
+        "Riconoscere il percorso che hai intrapreso e accettare le responsabilità che ti attendono."
+    ],
+    "quest.7E82CDB6EF9CD85D.quest_subtitle": "Epilogo",
+    "quest.7E82CDB6EF9CD85D.title": "Un equilibrio delicato",
+    "quest.7FDE116576AEB576.quest_desc": [
+        "\\&eRaw Mithril\\&r è potente, ma la sua vera forza viene sbloccata solo attraverso la raffinazione. Attraverso il processo di \\&b\"blasting\", è possibile estrarre \\&e\"Mithril Scraps\". Questi scarti possono poi essere fusi per ottenere \\&a\"Mithril Ingots\", che sono la base per molti oggetti potenti."
+    ],
+    "quest.7FDE116576AEB576.quest_subtitle": "La lavorazione del metallo arcano",
+    "reward.00C10BF342D2A371.title": "???",
+    "reward.020EC35D94C2E4DB.title": "...",
+    "reward.037FE74A340C5A92.title": "???",
+    "reward.0552B493574A2A35.title": "...",
+    "reward.0690F4C9423946F5.title": "...",
+    "reward.0B687B625C3B9AAD.title": "Umano\/Grifone",
+    "reward.0DE6BF4B048E3F3E.title": "...",
+    "reward.106C2C7ABE198E18.title": "...",
+    "reward.10DCDDCB0F62DEC1.title": "...",
+    "reward.120BB372F9E104AD.title": "Mare",
+    "reward.1484BFDB649BD8B2.title": "\\&oBonk\\&r",
+    "reward.1662E335EC51FB29.title": "...",
+    "reward.16BB9248B66FF92F.title": "Astrale",
+    "reward.1AC9F3262281376F.title": "Foresta",
+    "reward.1ACCD728763DC91F.title": "???",
+    "reward.24C44BE15E31173E.title": "...",
+    "reward.25EE2D830E2B2697.title": "...",
+    "reward.26B08774BB58976B.title": "...",
+    "reward.2797C7CAE65BDAED.title": "???",
+    "reward.294E74189036CF59.title": "\\&oBap\\&r",
+    "reward.2B2D48C94D0CD228.title": "...",
+    "reward.2C81829394FD8676.title": "...",
+    "reward.2F36FDB4FB252605.title": "...",
+    "reward.310A050242B85872.title": "...",
+    "reward.312218086CFC8BAF.title": "...",
+    "reward.324D9FE7522F6BFA.title": "Scultura",
+    "reward.3456BC4914F572FE.title": "???",
+    "reward.3485BDB748A01EBA.title": "Tundra",
+    "reward.34AF8DA2C2B81D27.title": "...",
+    "reward.356448C3F71D7E93.title": "...",
+    "reward.3CB2B01D071868C9.title": "...",
+    "reward.4016629F07D30A0E.title": "...",
+    "reward.465536DE1199930C.title": "...",
+    "reward.46BC35926A3EBDC1.title": "...",
+    "reward.4894808F245F9E82.title": "\\&oGrowl\\&r",
+    "reward.49D16852646D9447.title": ">:o",
+    "reward.4BC3DD6F7E9F6AA3.title": "...",
+    "reward.4C5F02E30E3DE25C.title": "...",
+    "reward.4E4603FB1D495FE1.title": "...",
+    "reward.4ED51426FA492700.title": "...",
+    "reward.4FF69D91B2486BA5.title": "???",
+    "reward.50C0CF3D4414E2E0.title": "...",
+    "reward.52E0B9213054ABA0.title": "...",
+    "reward.5622FFB2F6F39C56.title": "...",
+    "reward.58D801C5AE372936.title": "...",
+    "reward.5A33A090BE134280.title": "...",
+    "reward.5DEDFB53F10FEDB6.title": "???",
+    "reward.6478759E1E86F82B.title": "???",
+    "reward.675CE711FFDA570B.title": "...",
+    "reward.68B03493CF28C990.title": "...",
+    "reward.696028857191AD93.title": "...",
+    "reward.6BF367FCD4C0936F.title": "Caverna",
+    "reward.6D16D078AD6870D9.title": "...",
+    "reward.6EB29EDD1425FAE3.title": "...",
+    "reward.71C951877D19C60B.title": "???",
+    "reward.7214FF5DF940186B.title": "...",
+    "reward.77C61B473B933E2F.title": "???",
+    "reward.794855A5BE11814B.title": "...",
+    "reward.7E5AF4E6E39A8B98.title": "\\&oPunch\\&r",
+    "reward_table.23E69AAFFC23AEA1.title": "Rotolo di ghiaccio raro",
+    "reward_table.329E6F653BEC5C2D.title": "Mithril",
+    "reward_table.42BC5D6343DF1DCE.title": "Raro rotolo di natura",
+    "reward_table.460077E79EE260C8.title": "Rotolo raro contenente testi riguardanti il fuoco",
+    "reward_table.4D69205CFD4004E7.title": "Guida: Ricompense alimentari",
+    "reward_table.4DB9D8B3405C00C3.title": "Raro rotolo sacro",
+    "reward_table.51F6AE2639383F50.title": "Rotolo standard",
+    "reward_table.56725637C7FCD6F5.title": "Ricompensa basata sul cibo",
+    "reward_table.572BBF509BE9C58E.title": "Rotolo raro di Ender",
+    "reward_table.61CDB7C9BA891C58.title": "Rotolo di invocazione raro",
+    "reward_table.69CAE913267B9E30.title": "Rotolo raro di fulmine",
+    "reward_table.6A95E64F8230AB5B.title": "Ricompensa casuale di esperienza",
+    "reward_table.6C74F05750051916.title": "Scuole di magia",
+    "reward_table.6F22104592AA2998.title": "Semi",
+    "reward_table.7AB9DFF21834897D.title": "Rotolo di sangue raro",
+    "task.02758DADE4FD959A.title": "Qualsiasi gioiello",
+    "task.045B9BB5BF379512.title": "Sconfiggi la Chimera di Wilden",
+    "task.049A99660A6CC050.title": "Esplora le catacombe",
+    "task.049BA0A4F0D9A6D6.title": "Estensioni",
+    "task.055C5B1FD2BAAF55.title": "Aggiorna l'armatura al livello 3",
+    "task.058E017A336920D3.title": "Aggiorna l'armatura al livello 2",
+    "task.096012AB66FA57D6.title": "Sconfiggi il Guardiano di The End",
+    "task.0B2ADD9BC7D644AE.title": "Sconfiggi Ignis",
+    "task.0CE36BCEBEB34826.title": "Titolo del capitolo: Epilogo – Un Equilibrio Precaire",
+    "task.0DCE3B1124DFBA86.title": "Benvenuti in Iron's Spells 'n Spellbooks!",
+    "task.0FB2CB52B0AA8A61.title": "Aggiorna l'armatura al livello 2",
+    "task.1077372FBD987AD8.title": "Scopri la città sommersa",
+    "task.11EC94D3E0D421B3.title": "Trova la fine del tesoro",
+    "task.14F7BE8767661815.title": "Aggiorna l'armatura al livello 3",
+    "task.1534D540E8971B34.title": "Entra nel Nether",
+    "task.15EAFBA180B312B8.title": "Aggiorna l'armatura al livello 3",
+    "task.17B2CEDFD0536650.title": "Aggiorna l'armatura al livello 2",
+    "task.1A4779D9D9DEC5AC.title": "Creare una stazione di gioielleria.",
+    "task.1B3D4919FB7785BE.title": "Ottenere la Stella di Nether",
+    "task.1B77DC6FB7BB765A.title": "Costruzione di una camera di impregnazione.",
+    "task.1C423E18A377A6C2.title": "Aggiorna l'armatura al livello 2",
+    "task.1CB66CCF8FD6A578.title": "Ma non osare-",
+    "task.1D3ACE0DA7CEA64E.title": "Acquistare 16 pezzi di lapislazzuli",
+    "task.20A9DC605704C45C.title": "Aggiorna l'armatura al livello 2",
+    "task.20F1B777F2FAFB56.title": "Sconfiggi il Re Morto",
+    "task.20F5918B9C22D378.title": "Capitolo 2",
+    "task.2181633C67A989D1.title": "Scopri la prigione ghiacciata",
+    "task.221EA60E17E77FD8.title": "Acquistare 5 scaffali da biblioteca.",
+    "task.2231888A68DA7B4C.title": "Grande ruota idraulica",
+    "task.23066FC41C5C697B.title": "Aggiorna l'armatura al livello 3",
+    "task.24F36C239A1056AF.title": "Bussola per esploratori",
+    "task.271A7C4ACBDED1F1.title": "Scopri la Piramide Maledetta",
+    "task.2AA885E9979816A7.title": "Ottieni la corazza di diamante.",
+    "task.2ACB7E8DCA783461.title": "Ferri",
+    "task.2BDB36BD8EDAF841.title": "Aggiorna l'armatura al livello 2",
+    "task.2C10B0FC674236E9.title": "Capitolo 3",
+    "task.2C2DE12164F75973.title": "Prepara la pozione curativa.",
+    "task.2CF9D82F0546FBE5.title": "Scopri Soul Black Smith",
+    "task.2D52AEA810282211.title": "Aggiorna l'armatura al livello 3",
+    "task.2E2838401546602D.title": "Acquistare leggings in pelle",
+    "task.2EA997A5CA47AD01.title": "Art Nouveau",
+    "task.2FC97851B69E93C1.title": "Invia Apple",
+    "task.32832C50E44553BD.title": "Sconfiggi la Mostruosità di Netherite",
+    "task.32B9FB59BCDCFDCC.title": "Maledetto?",
+    "task.34C477DB0DBA80F2.title": "Aggiorna l'armatura al livello 3",
+    "task.36567FA64F161634.title": "Aggiorna l'armatura al livello 3",
+    "task.36BDE9C7F387ECAD.title": "Consegna: 4 sacchi di grano",
+    "task.38B512653930D647.title": "Trova un Ancoraggio Primordiale",
+    "task.3913527C9C06A355.title": "Aggiorna l'armatura al livello 2",
+    "task.3DD6F6D6DB0F07CD.title": "Acquista la postazione per la preparazione di birra.",
+    "task.3E3CEF07D4DA7ACE.title": "Aggiorna l'armatura al livello 3",
+    "task.416763A9524D09B0.title": "Sconfiggi l'eco di Tyros, il primo portatore della fiamma.",
+    "task.433D1055D03D2A8B.title": "Blocchi FTB",
+    "task.4380C4D44E1653F4.title": "Sconfiggi Scilla",
+    "task.443F0B7EE6BD3114.title": "Creazione di un sacrificio abissale",
+    "task.456194D971363AA9.title": "👇 \\&oPicchiare delicatamente",
+    "task.456AB272D25140B3.title": "Ottenere 24 lingotti di ferro.",
+    "task.4678B853DDE46684.title": "Ottenere la corazza in ferro",
+    "task.476797F096C063C3.title": "Aggiorna l'armatura al livello 3",
+    "task.487EB3A4430B3AB4.title": "Eliminare Maledictus.",
+    "task.4926ACE9823E61FA.title": "Aggiorna l'armatura al livello 2",
+    "task.4A873D93275AC61A.title": "Sconfiggi 40 creature di qualsiasi tipo.",
+    "task.4CA7DFB81772E1BF.title": "Scopri la fabbrica antica",
+    "task.4D936438DB0B2A81.title": "Ottenere il casco in diamante",
+    "task.4E12A5B04C075DFF.title": "Aggiorna l'armatura al livello 2",
+    "task.4EC6AEC814B2D712.title": "Sconfiggi l'Annunciatore",
+    "task.4F2FF0E571225919.title": "Pala in ferro forgato",
+    "task.51E5215566ED30CA.title": "Crea Modulo",
+    "task.529EDE7138C5AD29.title": "Ottenere il casco in ferro",
+    "task.550E35D62500D84E.title": "Informazioni sui draghi",
+    "task.55FD41FA39208572.title": "Spada in ferro forgiato",
+    "task.565E510B55788D1C.title": "Aggiorna l'armatura al livello 2",
+    "task.591D31A0568BDAF8.title": "Crea un contenitore per le fonti.",
+    "task.5DBE6FF97B2936DD.title": "Slay Maledictus",
+    "task.61CC6CE36DB5FF30.title": "Capitolo 1",
+    "task.62900F596900A373.title": "Ottenere gli stivali in ferro",
+    "task.63A75E4C22BC0EEF.title": "Scopri la fortezza in rovina",
+    "task.63E0277A8BE3409C.title": "Benvenuti!",
+    "task.648ABF7134821948.title": "LootR",
+    "task.64CF13790B70764A.title": "👉 \\&oBoop, il naso",
+    "task.65C4D0128EC1ECF0.title": "Aggiorna l'armatura al livello 3",
+    "task.688909A44562FDAE.title": "Presentare il maiale crudo",
+    "task.68CC8A2F6BF9575A.title": "👋 \\&oPAT PAT PAT!!!",
+    "task.6A1DFF0ABEC01AE8.title": "Scopri la Cittadella",
+    "task.6C2F2A52E6B3D045.title": "Ottenere le ceneri ardenti",
+    "task.6CBAB96C1EDBDF42.title": "Crea la tua bussola naturale",
+    "task.6CE2BE2A8D980804.title": "Sconfiggi i resti dell'antico",
+    "task.6D7C75643E6F8073.title": "Scoprite l'Acropoli",
+    "task.6F24E110264B645C.title": "Aggiorna l'armatura al livello 2",
+    "task.6F74D79EEFE82280.title": "???",
+    "task.712A6978CE625DAD.title": "Scopri l'arena infuocata",
+    "task.7173FA2C3BEBFEFE.title": "Aggiorna l'armatura al livello 3",
+    "task.71DF0F1581ED0F42.title": "Aggiorna l'armatura al livello 3",
+    "task.72E5B2652D1899FA.title": "Acquistare leggings in tessuto simile al diamante.",
+    "task.73544237E3DB3FCA.title": "saltare; omettere",
+    "task.7464716A8A990E6E.title": "Ottenere gli stivali da diamante",
+    "task.74F5FE55F84538B6.title": "Ottenere la Spada di Diamante",
+    "task.75860ECB71F5ED05.title": "Creare un \"Chiamatore di Anime Cenerine\"",
+    "task.75B3714CD0AB0BCC.title": "Utilizza una canna da pesca nel Vuoto",
+    "task.760AFB31F9370BA8.title": "Entra alla fine",
+    "task.776F335F9139032E.title": "Elimina il direttore.",
+    "task.779CD56434BCE14C.title": "Sconfiggi il Leviatano",
+    "task.7ADF63EDEB65D088.title": "Percorrere 2.000 blocchi (o circa 2 chilometri)",
+    "task.7B393CD97DC59873.title": "32 volte qualsiasi registro",
+    "task.7C3062017591D69D.title": "Dieta alimentare!",
+    "task.7DDAA089C11FC52E.title": "Aggiorna l'armatura al livello 2",
+    "task.7F77CA977BEBBEDB.title": "Forme passive"
+}

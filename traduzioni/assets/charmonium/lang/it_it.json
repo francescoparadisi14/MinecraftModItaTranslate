@@ -1,5 +1,5 @@
 {
-    "cloth.category.charmonium.feature_enabled": "Abilitato %s",
-    "cloth.category.charmonium.title": "Charmonio",
-    "cloth.charmonium.title": "Configurazione di charmonio"
+    "cloth.category.charmonium.feature_enabled": "%s è abilitato",
+    "cloth.category.charmonium.title": "Charmonium",
+    "cloth.charmonium.title": "Configurazione di Charmonium"
 }

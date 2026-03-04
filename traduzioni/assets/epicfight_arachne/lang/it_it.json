@@ -1,0 +1,12 @@
+{
+    "biome.epicfight_arachne.arachne_nest": "Il nido di Aracne, con le sue intricate ragnatele.",
+    "entity.epicfight_arachne.arachne": "Arachne",
+    "item.epicfight_arachne.arachne_egg": "L'uovo di Aracne",
+    "item.epicfight_arachne.arachne_egg.tip_1": "[Un uovo non sviluppato proveniente da Aracne]",
+    "item.epicfight_arachne.arachne_egg.tip_2": "[Utilizzare questo oggetto nella tana di Arachne (con le ragnatele) vi riporta al punto di riapparizione; utilizzarlo al di fuori spruzza veleno]",
+    "item.epicfight_arachne.arachne_egg.tip_3": "[Questo effetto infligge l'effetto \"Avvelenamento Grave\" alle creature colpite]",
+    "item.epicfight_arachne.arachne_egg.tip_4": "[Quando il veleno viene rilasciato, lascia dietro di sé una nuvola tossica]",
+    "item.epicfight_arachne.arachne_harp": "Arpa d'oro",
+    "item.epicfight_arachne.arachne_harp.tip_1": "[Un'arpa perduta nel mondo terreno]",
+    "item.epicfight_arachne.arachne_harp.tip_2": "[Utilizzandolo, si potrà accedere al nido di Aracne, intessuto di ragnatele; utilizzandolo all'interno del nido di Aracne, si evocherà Aracne]"
+}

@@ -1,15 +1,15 @@
 {
-    "name": "Grapes 🌐",
+    "name": "Uva 🌐",
     "category": "patchouli:crops",
     "icon": "vinery:red_grape",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li):moneta: 4$(li)🌐 §5Tutto l'anno$(br2)$(l)Note$()$(br)Viticci possono essere trovati in specifici Biomi a seconda del nome. Possono essere coltivati su erba o sulla parte superiore dei tronchi di vite per un aumento.`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): monete: 4$(li) 🌐 Disponibili tutto l'anno$(br2)$(l)Note$()$(br) I vigneti possono essere coltivati in biomi specifici, a seconda del tipo. Ogni tipo ha una stagione specifica in cui può essere coltivato. Tutti i vigneti devono essere coltivati su tralci e strutture di supporto."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Grapevine Stem",
+            "name ": "Patchouli: Multiblocco\n\nStelo di uva",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -24,12 +24,11 @@
                     "0": "vinery:grapevine_stem[age=4,grape=red]",
                     "F": "vinery:grapevine_stem"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Grape Bush",
+            "name ": "Patchouli: Multibloc\n\nVigneto",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -44,8 +43,7 @@
                     "0": "vinery:red_grape_bush[age=3]",
                     "F": "minecraft:grass_block"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

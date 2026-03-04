@@ -1,0 +1,12 @@
+{
+    "biome.epicfight_arachne.arachne_nest": "Arachne's Webbed Nest",
+    "entity.epicfight_arachne.arachne": "Arachne",
+    "item.epicfight_arachne.arachne_egg": "Arachne's Egg",
+    "item.epicfight_arachne.arachne_egg.tip_1": "[An underdeveloped egg from within Arachne]",
+    "item.epicfight_arachne.arachne_egg.tip_2": "[Using it in Arachne's Webbed Nest returns you to the respawn point; using it outside sprays venom around]",
+    "item.epicfight_arachne.arachne_egg.tip_3": "[The venom inflicts the Severe Poison effect on hit creatures]",
+    "item.epicfight_arachne.arachne_egg.tip_4": "[When the venom bursts, it leaves a patch of poisonous mist]",
+    "item.epicfight_arachne.arachne_harp": "Golden Harp",
+    "item.epicfight_arachne.arachne_harp.tip_1": "[A harp lost in the mortal world]",
+    "item.epicfight_arachne.arachne_harp.tip_2": "[Using it will transport you to Arachne's Webbed Nest; using it within Arachne's Webbed Nest will summon Arachne]"
+}

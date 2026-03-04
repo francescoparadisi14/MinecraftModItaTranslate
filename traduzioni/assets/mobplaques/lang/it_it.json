@@ -1,5 +1,5 @@
 {
-    "key.category.mobplaques.main": "Placchette dei mostri",
-    "key.mobplaques.toggle_plaques": "Attiva\/disattiva targhe mostri",
-    "key.mobplaques.toggle_plaques.message": "Visualizza targhe di creatura: %s"
+    "key.category.mobplaques.main": "Plaque Mobili",
+    "key.mobplaques.toggle_plaques": "Interruttori per pannelli Mob Pla",
+    "key.mobplaques.toggle_plaques.message": "Creare targhe Mob: %s"
 }

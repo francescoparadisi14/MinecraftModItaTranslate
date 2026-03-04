@@ -5,14 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Localizzazioni:$()$(li)Struttura: Spawn di Mucillagini dell'Inferno$(li)Punti di scavo: Blocchi dell'Inferno$(br2)$(l)Rischii:$()$(br)Procura l'effetto luminoso quando è agitato."
+            "text": "patchouli:testo\n\n$(l)Posizioni:$(li)Generatori di Nether Slime$(li)Zone di estrazione: Blocchi del Nether$(br2)$(l)Rischi:$(br)Provoca l'effetto di luminescenza quando è disturbato."
         },
         {
             "type": "patchouli:entity",
-            "name": "Luminous Slime",
+            "name": "patchouli:entità\n\nsplendid\\_slimes:splendid\\_slime{Razza:\"splendid\\_slimes:luminous\"}\n\nSlime luminoso",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:luminous\"}",
-            "scale": 0.9,
-            "text": "Entità: Splendido Slime Luminoso"
+            "scale": 0.9
         }
     ]
 }

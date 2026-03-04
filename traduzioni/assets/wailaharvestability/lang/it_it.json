@@ -1,6 +1,6 @@
 {
     "_comment": "options",
-    "config.waila.plugin_harvestability": "Raccoltabilità",
+    "config.waila.plugin_harvestability": "Facilità di raccolta",
     "config.waila.plugin_harvestability.currentlyharvestable": "Può essere raccolto",
     "config.waila.plugin_harvestability.currentlyharvestable.sneakingonly": "Solo Shift: Può essere raccolto",
     "config.waila.plugin_harvestability.effectivetool": "Attrezzo richiesto",
@@ -8,7 +8,7 @@
     "config.waila.plugin_harvestability.harvestlevel": "Livello richiesto",
     "config.waila.plugin_harvestability.harvestlevel.sneakingonly": "Solo Shift: Livello richiesto",
     "config.waila.plugin_harvestability.harvestlevelnum": "Livello di raccolta n.",
-    "config.waila.plugin_harvestability.harvestlevelnum.sneakingonly": "Solo nascondendo: livello di raccolta n.",
+    "config.waila.plugin_harvestability.harvestlevelnum.sneakingonly": "Raccolta: livello di raccolta.",
     "config.waila.plugin_harvestability.minimal": "Modo minimo",
     "config.waila.plugin_harvestability.oresonly": "Solo minerali",
     "config.waila.plugin_harvestability.shearability": "Tagliabile",

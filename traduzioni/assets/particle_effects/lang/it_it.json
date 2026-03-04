@@ -1,12 +1,12 @@
 {
-    "modmenu.descriptionTranslation.particle_effects": "Mod visivo che aggiunge particelle testurate uniche per ogni effetto presente nel Minecraft originale!",
-    "particle_effects.modmenu.category.general.name": "Generale",
-    "particle_effects.modmenu.formatter.enabled_or_disabled.false": "disabilitato",
-    "particle_effects.modmenu.formatter.enabled_or_disabled.true": "Abilitato",
-    "particle_effects.modmenu.no_config_library_screen.message": "Hai bisogno di installare §6§lyet un'altra libreria di configurazione [yacl]§f per aprire lo schermo di configurazione del modulo ${mod_name}\n\n§a§lopen §6§lyacl §a§lpagina di Modrinth?",
-    "particle_effects.modmenu.option.debug_log_enabled.description": "Se abilitato, ulteriori informazioni saranno registrate nella console per il debug; se disabilitato, non lo sarà.",
-    "particle_effects.modmenu.option.debug_log_enabled.name": "Debug log abilitato",
-    "particle_effects.modmenu.option.mod_enabled.description": "Se abilitato, ogni particella di ogni effetto sarà sostituita con un testo unico; se disabilitato, non lo sarà.",
-    "particle_effects.modmenu.option.mod_enabled.name": "Abilitato modulo",
-    "particle_effects.modmenu.title": "Configurazione di §l${mod_name}"
+    "modmenu.descriptionTranslation.particle_effects": "Mod per Visual Fabric che aggiunge particelle texture uniche per ogni effetto presente nella versione base di Minecraft!",
+    "particle_effects.modmenu.category.general.name": "§Generale",
+    "particle_effects.modmenu.formatter.enabled_or_disabled.false": "Disabili",
+    "particle_effects.modmenu.formatter.enabled_or_disabled.true": "Attivato\nAbilitato",
+    "particle_effects.modmenu.no_config_library_screen.message": "È necessario installare la libreria §6§lYet Another Config Lib [YACL]§f per aprire la schermata di configurazione di ${mod_name}\n\nAprire la pagina di Modrinth per §6§lYACL?",
+    "particle_effects.modmenu.option.debug_log_enabled.description": "Se abilitato, ulteriori informazioni verranno registrate nella console per la risoluzione dei problemi; altrimenti, non verranno registrate.",
+    "particle_effects.modmenu.option.debug_log_enabled.name": "§6 Abilitato il registro di debug",
+    "particle_effects.modmenu.option.mod_enabled.description": "Se abilitato, ogni particella di ogni effetto sarà sostituita da una texture univoca; altrimenti, no.",
+    "particle_effects.modmenu.option.mod_enabled.name": "Modalità abilitata",
+    "particle_effects.modmenu.title": "§Configurazione di ${mod_name}"
 }

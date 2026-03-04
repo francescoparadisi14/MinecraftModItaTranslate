@@ -1,0 +1,80 @@
+{
+    "quest.0D6D45DBA64E612D.quest_desc": [
+        "Il \"Massimo Ritardo di Generazione\" indica quanto tempo può impiegare la generazione di mostri. Come il \"Minimo\", può variare da un valore minimo di 20 a un valore massimo di 32.767. Ogni \"orologio\" modifica la velocità del generatore di mostri di 10 unità. La velocità è espressa in \"tick\", dove 20 tick equivalgono a 1 secondo. Pertanto, il ritardo di generazione più breve sarebbe di 1 secondo tra ogni generazione."
+    ],
+    "quest.0D6D45DBA64E612D.title": "Ritardo massimo di generazione",
+    "quest.0E02CE4469FCA4C9.quest_desc": [
+        "Redstone Activation fornisce al tuo spawner una funzione di accensione\/spegnimento. Senza alimentazione tramite Redstone, non sarà in grado di generare entità."
+    ],
+    "quest.0E02CE4469FCA4C9.title": "Redstone Active",
+    "quest.0F89BFD4A3F63A48.quest_desc": [
+        "Alcune creature (principalmente mostri) necessitano di livelli di luce specifici per comparire. Quelle ostili richiedono livelli inferiori, mentre quelle passive ne necessitano di livelli più alti. L'uso di una Lanterna dell'Anima elimina la necessità di preoccuparsi dei livelli di luce, poiché ignora tale requisito! Questo non significa che non siano necessarie altre condizioni per la comparsa, come ad esempio la presenza di animali da allevamento che richiedono erba."
+    ],
+    "quest.0F89BFD4A3F63A48.title": "Ignora la luce",
+    "quest.167E1474644C9908.quest_desc": [
+        "Il Quartz fa l'opposto di ciò che fa l'altro oggetto. Se si ha il Quartz nella mano sinistra e l'altro oggetto di modifica dello Spawner nella mano destra, esso eseguirà l'azione opposta. Se si utilizzano il Quartz e i Bastoni di Fuoco, invece di aumentare la distanza di generazione, la diminuirà. Se si utilizzano il Quartz e le Lacrime di Ghast, invece di aumentare il numero massimo di entità, lo diminuirà."
+    ],
+    "quest.167E1474644C9908.title": "Giorno inverso",
+    "quest.186593EBCE3FE8D8.quest_desc": [
+        "La zona di spawn è l'area in cui possono comparire i mostri. Maggiore è l'area, maggiore è lo spazio disponibile per la loro comparsa. Una zona più piccola significa un costo di fabbricazione inferiore."
+    ],
+    "quest.186593EBCE3FE8D8.title": "Raggio di sparo",
+    "quest.18E0F5A78F696FA3.quest_desc": [
+        "I frammenti di eco conferiscono un effetto speciale allo spawner. Tutti i mostri generati avranno il loot (l'oggetto) che lasciano moltiplicato."
+    ],
+    "quest.18E0F5A78F696FA3.title": "Risonanza; eco",
+    "quest.1AD87CB3226ED224.quest_desc": [
+        "La lana fa solo una cosa: silenzia lo spawner. Se non gradite i rumori fastidiosi dello spawner, usate la lana! In qualsiasi colore, con qualsiasi tipo di filatura o design!"
+    ],
+    "quest.1AD87CB3226ED224.title": "State più tranquilli, altrimenti risveglierete gli altri!",
+    "quest.2FE4B7B70D90A455.quest_desc": [
+        "Questo contenuto è stato creato da \\&6AllTheMods Staff\\&r, oppure da un \\&2contributore della community\\&r, per l'uso nei pacchetti di mod di AllTheMods.\\n\\nPoiché tutti i pacchetti di AllTheMods sono soggetti al copyright \\&eTutti i diritti riservati\\&r, questo contenuto non può essere utilizzato in altri pacchetti pubblici, a meno che non sia stato rilasciato dal team di AllTheMods, previa autorizzazione esplicita.\\n\\nQuesto contenuto è stato intenzionalmente nascosto. Se lo state visualizzando, siete in modalità di modifica."
+    ],
+    "quest.30EB438C66324213.quest_desc": [
+        "Un Nether Star avrà le stesse funzionalità dei frammenti di Prisma, ma con prestazioni molto migliori. I giocatori non devono più essere nelle vicinanze dello spawner. Finché lo spawner è caricato con i blocchi appropriati, continuerà a generare mob."
+    ],
+    "quest.30EB438C66324213.title": "Ignorare i giocatori",
+    "quest.310969B8FE0A94DE.quest_desc": [
+        "Un'altra novità introdotta da Apotheosis riguarda gli Spawners. Ricordate di poter minare gli Spawners con l'abilità \"Silk Touch\"? Ora è di nuovo possibile, grazie ad Apotheosis! Inoltre, è possibile aggiungere numerosi nuovi modificatori agli Spawners semplicemente facendo clic con il tasto destro su uno di questi oggetti."
+    ],
+    "quest.310969B8FE0A94DE.title": "Apothic Spawners",
+    "quest.3E2A411FF5B4B0E7.quest_desc": [
+        "L'intervallo di attivazione indica la distanza massima che il giocatore (tu) deve mantenere dal punto di generazione affinché funzioni. La distanza minima è di 1 blocco, mentre la massima è di 48 blocchi."
+    ],
+    "quest.3E2A411FF5B4B0E7.title": "Intervallo di attivazione",
+    "quest.40096ED0B04C3EC5.quest_desc": [
+        "È fondamentale per tutti gli Spawners. Quando si afferma che ignora tutte le condizioni, si intende la maggior parte. Ignora i livelli di luce, i requisiti per la generazione e i biomi. Tuttavia, alcune condizioni rimangono necessarie, come ad esempio il fatto che gli slime abbiano bisogno di un'area di 3x3 per generarsi, e che anche i giocatori debbano essere nelle vicinanze."
+    ],
+    "quest.40096ED0B04C3EC5.title": "Ignorare tutte le condizioni",
+    "quest.42D7C8CD8E6F5CD7.quest_desc": [
+        "Utilizzando un frutto \"Chorus\" su un generatore di mob, si possono estrarre le anime dalle creature generate, lasciando solo un involucro vuoto di ciò che erano. Le creature perderanno tutte le loro capacità di intelligenza artificiale, quindi si comporteranno in modo simile a uno statuaria. Non potranno attaccare, non potranno teletrasportarsi e non potranno muoversi da sole. Rimarranno lì, pronte per essere eliminate, che emozionante!"
+    ],
+    "quest.42D7C8CD8E6F5CD7.title": "Nessun'intelligenza artificiale",
+    "quest.4D07B0A4A2E77CDA.quest_desc": [
+        "Il numero massimo di entità che possono essere generate da un generatore e mantenute è di 6. Se sono già presenti 6 entità, nessuna nuova entità verrà generata fino a quando non saranno morte o spostate. Ogni lacrima di Ghast aumenta o diminuisce il numero di entità di 2. Il limite massimo è di 16 entità e il minimo è di 1."
+    ],
+    "quest.4D07B0A4A2E77CDA.title": "Entità massime",
+    "quest.4F7F8F4ED1CA0550.quest_desc": [
+        "L'uso di un fuoco da campo vicino al respawn point farà sì che le creature appaiano avvolte dalle fiamme. Perfetto per cucinare una succulenta bistecca."
+    ],
+    "quest.4F7F8F4ED1CA0550.title": "Bruciare",
+    "quest.6A497B063CF32A5C.quest_desc": [
+        "Un Occhio di Ragno Fermentato può essere utilizzato per aumentare il numero di mostri che possono generarsi da un generatore. I mostri generati sono casuali, con un numero massimo determinato dal valore. Il valore può aumentare o diminuire di 1 per ogni occhio, fino a un massimo di 16."
+    ],
+    "quest.6A497B063CF32A5C.title": "Numero di esemplari",
+    "quest.6F71FD826C29C31A.quest_desc": [
+        "Questo potrebbe essere nuovo per chi ritorna da versioni precedenti. Utilizzando un uovo di tartaruga su un \"spawner\", ne verranno generate solo versioni \"baby\" delle creature presenti. Questo funziona solo con le versioni \"baby\" originali delle creature, non con quelle modificate."
+    ],
+    "quest.6F71FD826C29C31A.title": "Giovane",
+    "quest.7A9AE63998BB41FF.quest_desc": [
+        "Per determinare quando lo Spawner effettuerà la generazione, seleziona un numero casuale compreso tra il massimo e il minimo intervallo di generazione. L'intervallo minimo può variare da 20 a 32.767. Ogni pezzo di zucchero modifica l'intervallo minimo di 10 unità."
+    ],
+    "quest.7A9AE63998BB41FF.title": "Ritardo minimo di generazione",
+    "quest.7F6B66566C211735.quest_desc": [
+        "L'uso di Dripstone sul respawn point ridurrà la salute massima del mostro che viene generato. Questo può ridurre la sua salute fino al 20%."
+    ],
+    "quest.7F6B66566C211735.title": "Salute",
+    "task.39702880D9133E3E.title": "Lana",
+    "task.3B219688DA1CF9C8.title": "Tutti i diritti riservati",
+    "task.73B56F2139A98F77.title": "Tutti i diritti riservati"
+}

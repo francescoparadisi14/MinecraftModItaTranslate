@@ -1,10 +1,14 @@
 {
-    "key.categories.oracle": "Indice Oracle",
-    "key.oracle_index.open": "Apri indice Oracle",
-    "key.oracle_index.search": "Apri ricerca Oracle",
+    "key.categories.oracle": "Indici Oracle",
+    "key.oracle_index.open": "Apri l'indice di Oracle",
+    "key.oracle_index.search": "Attiva la ricerca in Oracle",
+    "oracle_index.button.content": "Contenuto",
+    "oracle_index.button.docs": "Documenti",
     "oracle_index.searchbar.placeholder": "Trova o calcola",
-    "oracle_index.searchbar.tooltip": "Barra di ricerca intelligente che supporta frasi complete e espressioni matematiche.",
-    "oracle_index.title.oracle-index": "Indice Oracle",
-    "oracle_index.title.oracle_index": "Indice dell'oracolo",
-    "tooltip.oracle_index.open_search": "Apri ricerca. Puoi sempre aprire questo con il tasto [Ctrl + %s] o [%s]."
+    "oracle_index.searchbar.tooltip": "Funzione di ricerca intelligente che supporta frasi complete e espressioni matematiche.",
+    "oracle_index.title.oracle-index": "Indici Oracle",
+    "oracle_index.title.oracle_index": "Indici Oracle",
+    "tooltip.oracle_index.back": "Torna alla pagina precedente.",
+    "tooltip.oracle_index.close_screen": "Chiudi Wiki.",
+    "tooltip.oracle_index.open_search": "Apri la barra di ricerca. Puoi sempre aprirla premendo [CTRL + %s] o [%s]."
 }

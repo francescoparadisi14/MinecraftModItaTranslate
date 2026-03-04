@@ -1,0 +1,17 @@
+{
+    "name": "Frostbiter",
+    "category": "patchouli:animals",
+    "icon": "windswept:frozen_branch",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile per la vendita$(li)Latte: Latte$(li)Tempo di raffreddamento del latte: 1 giorno$(li)Raccolta: Ramo congelato, frammenti di manufatti$(br2)$(l)Note$()$(br)La raccolta richiede almeno 5 cuori. Può essere addomesticato con bacche di holly."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "windswept:frostbiter",
+            "scale": 0.6,
+            "text": "Patchouli: entità\n\nWindswept: Frostbiter\n\nAmico o Gelo?"
+        }
+    ]
+}

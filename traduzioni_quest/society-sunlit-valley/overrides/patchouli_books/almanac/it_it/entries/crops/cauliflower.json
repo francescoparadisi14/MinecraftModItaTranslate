@@ -1,15 +1,15 @@
 {
-    "name": "Cauliflower 🌼",
+    "name": "Cavolfiore 🌼",
     "category": "patchouli:crops",
     "icon": "veggiesdelight:cauliflower",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 48$(li)Primavera $(li)Prezzo seme: Denaro 6$(li)Rendimento: 2$(li)Tempo di crescita: 7 giorni"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): monete: 48$(li)🌼 Primavera$(li) Prezzo del seme: monete: 6$(li) Resa: 2$(li) Tempo di crescita: 7 giorni"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Strawberry Crop",
+            "name ": "Patchouli: coltivazione di more",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -24,8 +24,7 @@
                     "0": "veggiesdelight:cauliflower_crop[age=7]",
                     "F": "minecraft:farmland[moisture=7]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

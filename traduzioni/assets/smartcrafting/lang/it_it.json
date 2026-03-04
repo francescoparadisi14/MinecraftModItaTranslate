@@ -1,6 +1,11 @@
 {
-    "block.smartcrafting.smart_crafting_table": "Tavola di craftaggio intelligente",
-    "block.smartcrafting.smart_crafting_table.sort_by_mod": "ordinare per nome",
-    "block.smartcrafting.smart_crafting_table.sort_by_name": "ordinare per nome del modulo",
-    "item.smartcrafting.portable_smart_crafting_table": "Tavola da lavorazione intelligente portatile"
+    "block.smartcrafting.smart_crafting_table": "Tavolo intelligente per il lavoro artigianale",
+    "block.smartcrafting.smart_crafting_table.sort_by_mod": "Ordina per nome",
+    "block.smartcrafting.smart_crafting_table.sort_by_name": "Ordina per modello",
+    "item.smartcrafting.portable_smart_crafting_table": "Tavolo da lavoro intelligente portatile",
+    "key.category.smartcrafting": "Tavolo intelligente per il lavoro artigianale",
+    "key.smartcrafting.open_smart_crafting_menu": "Apri il tavolo di lavoro intelligente",
+    "message.smartcrafting.no_portable_table": "Non hai una tavola da lavoro intelligente portatile nel tuo inventario.",
+    "tooltip.smartcrafting.button": "Premi il tasto %s per aprire dal tuo inventario",
+    "tooltip.smartcrafting.shift": "Premi il tasto SHIFT per maggiori informazioni."
 }

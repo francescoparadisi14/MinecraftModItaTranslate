@@ -1,0 +1,833 @@
+{
+    "quest.026C63594F813BCC.quest_desc": [
+        "\\&Tipo di abilità: Attiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Elimina tutti gli effetti negativi dal giocatore quando viene attivato, e ha un periodo di ricarica."
+    ],
+    "quest.0272E58516A0C284.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Ore miner",
+        "- Scanner Ore \\&4\\&disabilitato\\&r\\&f",
+        "- Tagliaserrа",
+        "- Sky Sweeper",
+        "- Taglialegna",
+        "- \"Leaf Breaker\" (traducibile come \"Rompi foglie\" o \"Distruttore di foglie\")",
+        "- Fabbrica di fusione di metalli",
+        "- Martello",
+        "- Teletrasporto"
+    ],
+    "quest.02B0CCD5607FF3B5.quest_desc": [
+        "L'accessor per il giocatore funge da interfaccia con l'inventario del giocatore. Utilizzando l'interfaccia grafica, l'accessor può essere configurato per interagire con gli slot dell'inventario, gli slot per gli oggetti tenuti in mano o per l'armatura."
+    ],
+    "quest.02B8F50721F12CFF.quest_desc": [
+        "\\&lTipo di abilità:\\&r Passiva",
+        "",
+        "\\&Funzione:",
+        "",
+        "Impedisce al giocatore di subire danni a causa delle cadute."
+    ],
+    "quest.03ED9B0DFE8B4574.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Confusione mentale",
+        "- Incantare",
+        "",
+        "Abilità intrinseca:",
+        "- Riparazione di Lava"
+    ],
+    "quest.04A1D582003A0D9A.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Velocità",
+        "- Velocità di camminata"
+    ],
+    "quest.05056CAA64E3971B.quest_desc": [
+        "\\&lTipo di abilità:\\&r Passiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Rende gli archi che sparano frecce applicano un effetto di una pozione, basato sul contenitore di pozioni che si utilizza."
+    ],
+    "quest.05D8C6EF8FCD6250.quest_desc": [
+        "Primogel Goo è il primo tipo di \"goo\" creato da JDT e richiede materiali di base provenienti dal mondo reale per essere prodotto.",
+        "",
+        "Abilità sbloccate:",
+        "- Ferricore",
+        "- Carbone primario",
+        "",
+        "Esempio di Goo Spread:",
+        "",
+        "{image:atm:textures\/questpics\/justdirethings\/goo_spread_ferricore.png width:200 height:200 align:center}"
+    ],
+    "quest.07655CA904354E9E.quest_desc": [
+        "\\&Tipo di abilità: Attiva",
+        "",
+        "\\&Funzione:",
+        "",
+        "Interrompe l'erba e i fiori nelle immediate vicinanze quando viene attivato."
+    ],
+    "quest.079A415488A32076.quest_desc": [
+        "Blaze Ember è un nuovo materiale introdotto da JDT. Blaze Ember può essere ottenuto eseguendo l'operazione \"Goo Spread\" su blocchi di carbone primario utilizzando \"Goo\" di livello 2 o superiore. L'oro di Blaze Ember è influenzato dal fattore fortuna."
+    ],
+    "quest.09485B63483B7A15.quest_desc": [
+        "\\&Tipo di abilità: Attiva",
+        "",
+        "\\&Funzione:",
+        "",
+        "Fa sì che le creature ostili nelle vicinanze diventino bersaglio del giocatore per un breve periodo, con un tempo di ricarica."
+    ],
+    "quest.09D2137B4F42006E.quest_desc": [
+        "Eclipse Ember è un nuovo materiale introdotto da JDT. Eclipse Ember viene ottenuto tramite l'utilizzo di Goo Spread su blocchi di carbone Voidflame, utilizzando Goo di livello 4. Il minerale Eclipse Ember è influenzato dalla fortuna."
+    ],
+    "quest.0A02DBE226C3F44E.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Confusione mentale",
+        "- Incantare",
+        "- Visione notturna",
+        "- Rimozione di effetti negativi",
+        "- Eliminazione mentale"
+    ],
+    "quest.0B485DB737A036E9.quest_desc": [
+        "La funzione \"Impostazioni condivise\" consente ai giocatori di copiare le impostazioni tra diversi dispositivi."
+    ],
+    "quest.0B9BBE2A764631BF.quest_desc": [
+        "Il semplice \"swapper\" può teletrasportare oggetti, blocchi, creature o giocatori sopra di esso a un altro \"swapper\" a cui è collegato. Per collegare i \"swapper\" utilizzare la chiave Ferricore."
+    ],
+    "quest.0C1D55AA9CC902BD.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Tagliaserrа",
+        "- Sky Sweeper",
+        "- Fabbrica di fusione di metalli",
+        "- Martello",
+        "- Teletrasporto"
+    ],
+    "quest.0C2EC56133D3CC6C.quest_desc": [
+        "\\&Tipo di abilità: Attiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Rende temporaneamente il giocatore immune ai danni una volta attivato, con un periodo di ricarica."
+    ],
+    "quest.0C9DD8E53A1B92C0.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Ore miner",
+        "- Fabbrica di fusione di metalli",
+        "- Martello",
+        "- Teletrasporto",
+        "- Radiografia",
+        "- Pausa immediata"
+    ],
+    "quest.0CBFE2CE53DCACD5.quest_desc": [
+        "\\&lTipo di abilità:\\&r Passiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Aumenta l'altezza del salto del giocatore."
+    ],
+    "quest.0E3FDD8BB6D17A30.quest_desc": [
+        "\\&Tipo di abilità: Attiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Si apre quando viene attivato."
+    ],
+    "quest.0FAF274ADA65B26A.quest_desc": [
+        "Il fluido \"Portal Fluid\" è un liquido misterioso di colore verde, essenziale per il funzionamento dell'Advanced Portal Gun.\n\nL'aggiunta del catalizzatore \"Portal Fluid\" al fluido \"Polymorphic Fluid\" creerà il \"Portal Fluid Instabile\", ma questo fluido instabile può esistere solo nell'End. L'utilizzo del \"Goo Spread\" con un \"Goo\" di livello tre o superiore convertirà il \"Portal Fluid Instabile\" in \"Portal Fluid\"."
+    ],
+    "quest.120DCA89A919C7AF.quest_desc": [
+        "\\&lTipo di abilità:\\&r Passiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Concede al giocatore la visione notturna."
+    ],
+    "quest.1256F280F3669DDA.quest_desc": [
+        "\\&Tipo di abilità: Attiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Lancia una catena verso i nemici nelle vicinanze."
+    ],
+    "quest.132F4671E121C7B8.quest_desc": [
+        "\\&lTipo di abilità:\\&r Passiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Aumenta la velocità di camminata."
+    ],
+    "quest.16E02F671FBE9148.quest_desc": [
+        "La \"Portale Gun\" è un oggetto che utilizza energia per creare due portali, uno blu e uno arancione, per teletrasportarsi tra due punti. Cliccare con il tasto sinistro crea un portale blu, mentre cliccare con il tasto destro crea un portale arancione. Premendo il tasto Shift destro, entrambi i portali vengono eliminati."
+    ],
+    "quest.1705175C20CE91DD.quest_desc": [
+        "Eclipse Alloy è un nuovo materiale introdotto da JDT. Eclipse Alloy viene ottenuto tramite l'utilizzo di Goo su Blocchi di Netherite utilizzando Goo di livello 4. Il minerale di Eclipse Alloy è influenzato dal fattore \"Fortuna\"."
+    ],
+    "quest.1705175C20CE91DD.title": "Legame di lega",
+    "quest.171DB70D0D19A942.quest_desc": [
+        "\\&lTipo di abilità:\\&r Passiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Fusione automatica degli oggetti rilasciati dai blocchi estratti."
+    ],
+    "quest.176A1CC43467EF23.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Assistenza passo dopo passo",
+        "- Aumenta l'energia",
+        "- Effetto pedale",
+        "",
+        "Abilità intrinseca:",
+        "- Riparazione di Lava"
+    ],
+    "quest.17A9D2CA160561D9.quest_desc": [
+        "\\&lTipo di abilità:\\&r Passiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Fornisce assistenza al giocatore, passo dopo passo."
+    ],
+    "quest.17C4F6EC1AFBC3AA.quest_desc": [
+        "\\&Tipo di abilità: Attiva",
+        "",
+        "\\&Funzione:\\&",
+        "Evidenzia i nemici nelle vicinanze con effetti particellari quando l'azione viene attivata."
+    ],
+    "quest.18032636A60D0B2C.quest_desc": [
+        "\\&Tipo di abilità: Attiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Una versione migliorata dello Scanner per minerali, che visualizza i minerali nelle vicinanze una volta attivato."
+    ],
+    "quest.199388A311FAC14C.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Ore miner",
+        "- Scanner Ore \\&4\\&disabilitato\\&r\\&f",
+        "- Fabbrica di fusione di metalli",
+        "- Martello",
+        "",
+        "Abilità intrinseca:",
+        "- Riparazione di Lava"
+    ],
+    "quest.19E6757F04098A0C.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Tagliaserrа",
+        "- Sky Sweeper"
+    ],
+    "quest.19E678E6EF9539DC.quest_desc": [
+        "Un semplice sensore che emette un segnale e dispone di una sola slot per il filtro."
+    ],
+    "quest.1B173E7533E1171F.quest_desc": [
+        "Semplicemente un dispositivo per raccogliere liquidi."
+    ],
+    "quest.1CBA0D7DA0558EBC.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Immunità",
+        "- Spegnere",
+        "",
+        "Abilità intrinseca:",
+        "- Riparazione di Lava"
+    ],
+    "quest.1DAA5DD81EF96469.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Tagliaserrа",
+        "- Sky Sweeper",
+        "- Fabbrica di fusione di metalli",
+        "- Martello",
+        "",
+        "Abilità intrinseca:",
+        "- Riparazione di Lava"
+    ],
+    "quest.1E0C6409B2573CCA.quest_desc": [
+        "\\&Tipo di abilità: Attiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Una versione migliorata di \"Ground Stomp\" che respinge e rallenta i nemici nelle vicinanze, con un periodo di ricarica."
+    ],
+    "quest.1EA02BA24AF02256.quest_desc": [
+        "I modelli di lega Eclipse Alloy vengono utilizzati per aggiornare l'armatura e gli strumenti Celestigem alla lega Eclipse, mantenendo intatte le incantamenti e gli aggiornamenti già installati."
+    ],
+    "quest.1ECFA72CF2BA4B45.quest_desc": [
+        "Un semplice contagocce e puoi regolare la quantità di liquido da erogare in una sola volta."
+    ],
+    "quest.1FE7C52491E7499B.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Assistenza passo dopo passo",
+        "- Aumenta l'energia",
+        "- Effetto pedale",
+        "- Annulla i danni da caduta"
+    ],
+    "quest.1FFA1DA6A5EA4E70.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Assistenza passo dopo passo",
+        "- Aumenta l'energia",
+        "- Effetto pedale",
+        "- Annulla i danni da caduta",
+        "- Terremoto"
+    ],
+    "quest.200ECDC70E97D254.quest_desc": [
+        "Il contenitore per carburante è un serbatoio che può essere utilizzato per riempire contenitori con il liquido contenuto.\n\nIl contenitore per carburante ha tre modalità di riempimento:\n\n*   Nessuna\n*   Qualsiasi\n*   Solo affermazioni"
+    ],
+    "quest.21147C8CBF98AEB4.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Taglialegna",
+        "- \"Leaf Breaker\" (traduzione letterale)",
+        "- Fabbrica di fusione di metalli",
+        "",
+        "Abilità intrinseca:",
+        "- Riparazione di Lava"
+    ],
+    "quest.237D11FF5B09BA88.quest_desc": [
+        "Abilità intrinseca:",
+        "- Vietato calpestare",
+        "- Raccolta di automobili",
+        "- Crescita accelerata delle colture III",
+        "",
+        "Aggiornamento valido:",
+        "- Teletrasporto"
+    ],
+    "quest.2409EAD96CE3BDF7.quest_desc": [
+        "I modelli Blazegold vengono utilizzati per migliorare l'armatura e gli strumenti Ferricore, trasformandoli in Blazegold, mantenendo al contempo gli incantesimi e gli aggiornamenti già installati."
+    ],
+    "quest.242F74010488F261.quest_desc": [
+        "Il contenitore per il combustibile è un oggetto che consente di utilizzare il combustibile in modo più efficiente. Può contenere 50.000 unità di combustibile, e ogni oggetto utilizzabile ha un valore di combustibile diverso, a seconda della quantità di oggetti fusi. Una singola unità di combustibile è sufficiente per fondere un singolo oggetto."
+    ],
+    "quest.24BA4B4EED0A9DBD.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Confusione mentale"
+    ],
+    "quest.25213DBA6E6CEDD2.quest_desc": [
+        "Shadowpulse Goo è il quarto e ultimo tipo di \"goo\" introdotto da JDT e richiede materiali provenienti dalla \"Città Antica\" e dal \"Guardiano\" per essere creato.",
+        "",
+        "Abilità sbloccate:",
+        "- Lega Eclipse",
+        "- Eclipse Ember",
+        "- Cristallo di tempo"
+    ],
+    "quest.25E915AE1FC53254.quest_desc": [
+        "I modelli Celestigem vengono utilizzati per aggiornare l'armatura e gli strumenti Blazegold, mantenendo intatte le incantamenti e gli aggiornamenti già installati."
+    ],
+    "quest.27FD46A8C958D259.quest_desc": [
+        "\"Totem of Death Recall\" è un effetto una tantum che permette al giocatore di tornare al luogo in cui è morto."
+    ],
+    "quest.283D7E65F2AD45F2.quest_desc": [
+        "\\&Tipo di abilità: Attiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Una versione migliorata di Mob Scanner che applicava l'effetto \"Glowing\" (luce) agli NPC vicini quando veniva attivato."
+    ],
+    "quest.2875FACD3BFB0A8E.quest_desc": [
+        "\\&Tipo di abilità: Attiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Fornisce un leggero effetto curativo quando attivato, ma può essere attivato solo se il giocatore ha subito un danno recente o sta subendone uno."
+    ],
+    "quest.2A01CE9206DD4F8A.quest_desc": [
+        "\\&lTipo di abilità:\\&r Passiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Le vene minerarie adiacenti vengono estratte contemporaneamente, ma richiede un tempo leggermente più lungo."
+    ],
+    "quest.2A919F73CB09CF8B.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Velocità",
+        "- Velocità di camminata",
+        "- Velocità di nuoto",
+        "- Inganno",
+        "- Fase"
+    ],
+    "quest.2B1BAEC5DAAF9DAC.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Taglialegna",
+        "- \"Leaf Breaker\" (traduzione letterale)",
+        "- Fabbrica di fusione di metalli",
+        "- Teletrasporto"
+    ],
+    "quest.2D86D4403E0F4EB9.quest_desc": [
+        "Blazegold è un nuovo materiale introdotto da JDT. Per ottenere Blazegold, è necessario eseguire l'operazione \"Goo Spread\" sui Blocchi d'Oro utilizzando un \"Goo\" di livello 2 o superiore. L'oro di Blazegold è influenzato dalla fortuna.",
+        "",
+        "Blazegold conferisce la capacità intrinseca di riparare strumenti e armature, sfruttando la lava. La funzione \"Riparazione con la lava\" ripara lo strumento\/armatura quando viene posizionato in un blocco contenente lava, trasformando il blocco in ossidiana in cambio della riparazione."
+    ],
+    "quest.2D86D4403E0F4EB9.title": "Blazegold",
+    "quest.2F86FB9E4D49E4B0.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Scanner per la rilevazione di dispositivi mobili"
+    ],
+    "quest.3138B83ABC2930F9.quest_desc": [
+        "Abilità intrinseca:",
+        "- Vietato calpestare",
+        "- Raccolta di automobili",
+        "- Crescita accelerata delle colture, IV",
+        "",
+        "Aggiornamento valido:",
+        "- Teletrasporto"
+    ],
+    "quest.35A78E04092767AD.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Potion d'arco",
+        "- Splash",
+        "- Persistente",
+        "- Punta di freccia per il ritorno"
+    ],
+    "quest.37B903620493A354.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Affumatore per auto",
+        "- Suturare le ferite",
+        "- Teletrasporto",
+        "- Raggi X per la mobilità"
+    ],
+    "quest.3971FF7D044D1FE5.quest_desc": [
+        "Le abilità dell'armatura possono essere configurate e attivate\/disattivate nel menu di configurazione. Utilizza uno strumento JDT o un \"wand\" per aprire il menu e cliccare sull'armatura specifica per configurare le sue abilità."
+    ],
+    "quest.3A471716A29F5172.quest_desc": [
+        "\\&lTipo di abilità:\\&r Passiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Fornisce al giocatore un Elytra; è importante notare che l'Elytra fornito da questo aggiornamento è influenzato dagli aggiornamenti relativi alla velocità di camminata e di corsa."
+    ],
+    "quest.3AE1811C32B94A66.quest_desc": [
+        "\\&lTipo di abilità:\\&r Passiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Fa sì che il giocatore venga \"bruciato\" se è in fiamme, con un tempo di ricarica."
+    ],
+    "quest.3B3E3D81843BB358.quest_desc": [
+        "\\&lTipo di abilità:\\&r Passiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Aumenta la velocità di corsa."
+    ],
+    "quest.3BF32843DE3CF3C2.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Velocità",
+        "- Velocità di camminata",
+        "- Velocità di nuoto",
+        "- Inganno"
+    ],
+    "quest.3C8C80345D3F5FE8.quest_desc": [
+        "L'oggetto, che raccoglie gli oggetti e li deposita nell'inventario sottostante."
+    ],
+    "quest.3CBB78C9B8D3665E.quest_desc": [
+        "\\&lTipo di abilità:\\&r Passiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Riduce l'intervallo di rilevamento dei nemici."
+    ],
+    "quest.3CFD798362605880.quest_desc": [
+        "\\&lTipo di abilità:\\&r Passiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Rende gli archi che sparano frecce magiche in grado di avere un effetto \"splash\", colpendo più bersagli in un'area."
+    ],
+    "quest.3D9964CB0440DD5A.quest_desc": [
+        "L'utilizzo di Blaze Ember in Polymorphic Fluid creerà Combustibile Blaze Ember grezzo. L'utilizzo di Goo Spread con Goo di livello due o superiore convertirà il Combustibile Blaze Ember grezzo in Combustibile Blaze Ember."
+    ],
+    "quest.3F3559EF5D08B706.quest_desc": [
+        "\\&lTipo di abilità:\\&r Passiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "I proiettili vengono lanciati attivamente verso i loro bersagli."
+    ],
+    "quest.40C5C355B6DA1893.quest_desc": [
+        "Il Generatore Portatile è un generatore portatile che utilizza materiali combustibili per caricare oggetti e utensili presenti nell'inventario del giocatore. Il Generatore Portatile è compatibile con il contenitore per carburante."
+    ],
+    "quest.41E8C93A44559E48.quest_desc": [
+        "La macchina \"\\&7Paradox Machine\\&r\" può, a un costo elevato di \"\\&aPower\" e \"\\&aTime Fluid\", effettuare una copia di blocchi ed entità in un'area specificata; quindi può duplicarla.\n\nMolti blocchi ed entità sono stati messi in blacklist tramite configurazioni, quindi non è possibile duplicarli."
+    ],
+    "quest.433117EEA55B6A54.quest_desc": [
+        "Semplicemente un dispositivo per il posizionamento di liquidi."
+    ],
+    "quest.441F37A95AB66E6B.quest_desc": [
+        "Questa quest è stata creata da \\&6AllTheMods Staff\\&r, o da un \\&2contributore della community\\&r, per l'uso nei pacchetti mod di AllTheMods.\n\nPoiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti a \\&eTutti i diritti riservati\\&r, questa quest non può essere utilizzata in altri pacchetti pubblici, a meno che non siano stati rilasciati dal team \\&6AllTheMods\\&r, previa autorizzazione esplicita.\n\nQuesta quest è intenzionalmente nascosta. Se la visualizzate, significa che siete in modalità di modifica."
+    ],
+    "quest.4458F8829800A950.quest_desc": [
+        "Il Fluido Polimorfico è la base di tutti i fluidi\/combustibili presenti nel JDT. Il Fluido Polimorfico viene ottenuto aggiungendo il Catalizzatore Polimorfico all'acqua."
+    ],
+    "quest.446A37C7FCDACF84.quest_desc": [
+        "Voidflame Coal è un nuovo materiale introdotto da JDT. Voidflame si ottiene tramite l'utilizzo di Goo Spread su Blocchi di Blaze Ember, utilizzando Goo di livello 3 o superiore. Le vene di Voidflame Coal sono influenzate dal fattore \"fortuna\"."
+    ],
+    "quest.454662617304E299.quest_desc": [
+        "\\&lTipo di abilità:\\&r Passiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Permette al giocatore di camminare attraverso gli ostacoli quando viene applicato agli indumenti (es. leggings). È presente un tag per bloccare l'interazione con determinati ostacoli.",
+        "Quando applicato a un arco, permette alle frecce di attraversare le pareti."
+    ],
+    "quest.454CA1F8CC198D9D.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Assistenza passo dopo passo",
+        "- Aumenta l'energia"
+    ],
+    "quest.45A25221F54A1DEC.quest_desc": [
+        "La chiave Ferricore permette al giocatore di ruotare le macchine, ma viene utilizzata anche per collegare i giocatori tra loro."
+    ],
+    "quest.45D683D7F1A32B04.quest_desc": [
+        "\\&lTipo di abilità:\\&r Passiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Permette allo strumento di estrarre i blocchi istantaneamente."
+    ],
+    "quest.46E6B1600AA8A61E.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Scanner per la rilevazione di dispositivi mobili",
+        "- Affumatore per auto",
+        "- Suturare le ferite",
+        "",
+        "Abilità intrinseca:",
+        "- Riparazione di Lava"
+    ],
+    "quest.46EE2F9818F8D1D9.quest_desc": [
+        "\\&lTipo di abilità:\\&r Passiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Cancella automaticamente tutti i blocchi interessati dalla gravità, direttamente sopra il blocco estratto."
+    ],
+    "quest.4773421DC70009AB.quest_desc": [
+        "Abilità intrinseca:",
+        "- Vietato calpestare",
+        "- Crescita accelerata delle colture I"
+    ],
+    "quest.48E4D75FD3145AD6.quest_desc": [
+        "Il fluido \"Time Fluid\" viene utilizzato sia dalla \"Paradox Machine\" che dalla \"Time Wand\". Viene ottenuto versando un cristallo di \"Time Crystal\" nel fluido \"Polymorphic Fluid\".\n\nPer un cristallo così difficile da ottenere, sono contento che ci abbiano fornito finalmente un fluido facile da usare."
+    ],
+    "quest.49636B3C6E6D0C2A.quest_desc": [
+        "Non ha alcuna utilità, però ha un aspetto molto carino."
+    ],
+    "quest.4987759CF379C1EB.quest_desc": [
+        "\\&lTipo di abilità:\\&r Passiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Previene gli effetti di rallentamento o di velocità quando si hanno i Cristalli Temporali nell'inventario."
+    ],
+    "quest.49EF8A4346AEF582.quest_desc": [
+        "L'utilizzo di Eclipse Ember in Voidflame Fuel creerà Eclipse Ember Fuel non raffinato. L'utilizzo di Goo Spread con il Goo di livello 4 convertirà Eclipse Ember Fuel non raffinato in Eclipse Ember Fuel."
+    ],
+    "quest.4A5937F6E5D06BE1.quest_desc": [
+        "Un generatore a combustibile liquido semplice, alimentato dai combustibili forniti da JDT."
+    ],
+    "quest.4ACB72F3A23A5A19.quest_desc": [
+        "\\&lTipo di abilità:\\&r Passiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Aumenta la velocità di nuoto."
+    ],
+    "quest.4B1E4FC4599DB916.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Immunità",
+        "- Spegnere",
+        "- Ali (anteriori)"
+    ],
+    "quest.4B3F20E5C7E3BCFB.quest_desc": [
+        "Primal Coal è un nuovo materiale introdotto da JDT. Per ottenere Primal Coal, è necessario eseguire l'operazione \"Goo Spread\" su blocchi di carbone utilizzando \"Goo\" di livello 1 o superiore. Le vene di Primal Coal sono influenzate dalla fortuna."
+    ],
+    "quest.4C54BD57CAB8A54B.quest_desc": [
+        "Blazebloom Goo è il secondo tipo di \"goo\" introdotto da JDT e richiede materiali provenienti dal Nether per essere creato.",
+        "",
+        "Abilità sbloccate:",
+        "- Blazegold",
+        "- Blaze Ember"
+    ],
+    "quest.4D98D2123BD5BFB3.quest_desc": [
+        "\\&lTipo di abilità:\\&r Passiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "I log adiacenti vengono distrutti contemporaneamente; pertanto, il tempo necessario per distruggere più log aumenterà."
+    ],
+    "quest.4E03AE15BEF86178.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Scanner per la rilevazione di dispositivi mobili",
+        "- Affumatore per auto",
+        "- Suturare le ferite",
+        "- Teletrasporto"
+    ],
+    "quest.4E9B35DCA018FD42.title": "Aggiornamenti degli strumenti",
+    "quest.4F9932477EDDCB8E.quest_desc": [
+        "La \"Advanced Portal Gun\" è la versione migliorata della \"Portal Gun\", che richiede sia energia che fluido per funzionare. A differenza della \"Portal Gun\", la \"Advanced Portal Gun\" permette al giocatore di teletrasportarsi tra posizioni che sono state codificate. Utilizzando il tasto predefinito \"V\", si accede al menu utilizzato per codificare e selezionare le destinazioni per il teletrasporto."
+    ],
+    "quest.5054977BD5354561.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Taglialegna",
+        "- \"Leaf Breaker\" (traduzione letterale)"
+    ],
+    "quest.515C0527226BA50C.quest_desc": [
+        "\\&lTipo di abilità:\\&r Passiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Concede al giocatore la possibilità di esprimere la propria creatività nel volo."
+    ],
+    "quest.517F0135926B15EE.quest_desc": [
+        "Tutte le macchine semplici sono dotate di un sistema di controllo tramite redstone, e alcune includono anche un sistema di filtraggio."
+    ],
+    "quest.52EC86E03EB50525.quest_desc": [
+        "Abilità intrinseca:",
+        "- Riparazione di Lava",
+        "- Vietato calpestare",
+        "- Raccolta meccanizzata",
+        "- Crescita accelerata delle colture II"
+    ],
+    "quest.53F9E5CE7EE6F852.quest_desc": [
+        "Il \"Creature Catcher\" consente di trasportare gruppi di creature. È possibile bloccare specifiche creature tramite un tag di entità."
+    ],
+    "quest.567005978482235F.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Potion d'arco",
+        "- Splash",
+        "",
+        "Abilità intrinseca:",
+        "- Riparazione di Lava"
+    ],
+    "quest.5961C1ED32522BEF.quest_desc": [
+        "\\&Tipo di abilità: Attiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Crea un personaggio fittizio che attira l'attenzione del nemico, distogliendola dal giocatore. Ha un tempo di ricarica."
+    ],
+    "quest.5A1AB1AD7DEFDD9A.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Immunità",
+        "- Spegnere",
+        "- Ali (anteriori)",
+        "- Protezione contro la morte",
+        "- Volo",
+        "- Immunità di Lava",
+        "- Protezione del tempo"
+    ],
+    "quest.5A38E9F68570F7F3.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Velocità",
+        "- Velocità di camminata",
+        "- Velocità di nuoto",
+        "",
+        "Abilità intrinseca:",
+        "- Capacità di lavaggio"
+    ],
+    "quest.5A9436B100FC1E67.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Potion d'arco"
+    ],
+    "quest.5B02719C13B1FFE2.quest_desc": [
+        "Capacità:",
+        "- Lancio: Distanza di lancio ulteriormente migliorata.",
+        "- Void Shift: Aumento della distanza di teletrasporto.",
+        "- Eclipse Gate: Crea un varco portatile in un'area di 3x3, la direzione dipende dalla faccia del blocco bersaglio. La distanza del varco creato è configurabile. Nota: Eclipse Gate non funziona con entità di tipo tile."
+    ],
+    "quest.5B910F1389C0B915.quest_desc": [
+        "Capacità:",
+        "- Esplosione controllata: Maggiore gittata e consumo di propellente.",
+        "- Void Shift: Trasporta il giocatore nella direzione in cui sta guardando, consumando energia FE nel processo."
+    ],
+    "quest.5BBE8B30ED7518B8.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Ore miner",
+        "- Scanner Ore \\&4\\&disabilitato\\&r\\&f"
+    ],
+    "quest.5BD5737703F3F077.quest_desc": [
+        "Ferricore è un nuovo materiale introdotto da JDT. Ferricore può essere ottenuto eseguendo l'operazione \"Goo Spread\" su blocchi di ferro utilizzando \"Goo\" di livello 1 o superiore. L'oro di Ferricore è influenzato dalla fortuna."
+    ],
+    "quest.5BD5737703F3F077.title": "Ferricore",
+    "quest.5C6709350BEF4050.quest_desc": [
+        "Voidshimmer Goo è il terzo tipo di \"goo\" introdotto da JDT e richiede materiali provenienti dal \"End\", ovvero dalla parte finale del gioco, per essere creato.",
+        "",
+        "Abilità sbloccate:",
+        "- Celestigem",
+        "- Fuoco nero"
+    ],
+    "quest.5D4E51471F3939E0.quest_desc": [
+        "Capacità:",
+        "- Esplosione a distanza: lancia il giocatore nella direzione in cui si trova, consumando la sua energia. Le bacchette di livello superiore lo lanciano a una distanza maggiore. È importante notare che il giocatore non subirà danni a causa della caduta, purché tenga la bacchetta in mano."
+    ],
+    "quest.5EE7D5DE07A83C7D.quest_desc": [
+        "\\&lTipo di abilità:\\&r Attiva\\n\\n\\&lFunzione dell'abilità:\\&r\\n\\nEvidenzia i minerali nelle vicinanze con particelle verdi quando è attivata.\\n\\n\\&4\\&lNOTA: QUESTA ABILITÀ È DISABILITATA.\\&r\\&f"
+    ],
+    "quest.5F5120451BA5B2FE.quest_desc": [
+        "Le macchine avanzate presentano le stesse funzionalità delle versioni più semplici, ma con l'aggiunta di un'area di lavoro configurabile, più slot per i filtri e la necessità di alimentazione elettrica."
+    ],
+    "quest.60A4994078500F63.quest_desc": [
+        "Celestigem è un nuovo materiale introdotto da JDT. Per ottenere Celestigem, è necessario eseguire l'operazione \"Goo Spread\" su blocchi di diamante utilizzando un \"Goo\" di livello tre o superiore. L'oro di Celestigem è influenzato dal fattore fortuna."
+    ],
+    "quest.61213012615619C5.quest_desc": [
+        "\\&lTipo di abilità:\\&r Passiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Genera automaticamente fumo quando vengono uccisi nemici."
+    ],
+    "quest.636854555AD75DC3.quest_desc": [
+        "\\&lTipo di abilità:\\&r Passiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Trasporta automaticamente gli oggetti raccolti nell'inventario associato allo strumento. Cliccando con il tasto destro dello strumento su un inventario, lo si associa. È importante notare che, quando si utilizza la funzione di raccolta automatica nel terreno \"voidshimmer\" \/ \"shadowpulse\", gli oggetti raccolti vengono trasportati nell'inventario associato, e cliccando con il tasto destro sullo stesso terreno, gli oggetti vengono ri-associati se l'inventario associato allo strumento è stato modificato."
+    ],
+    "quest.6690AEE064DC2A7C.quest_desc": [
+        "\\&lTipo di abilità:\\&r Passiva",
+        "",
+        "\\&Funzione:",
+        "",
+        "Aumenta l'area minerabile in un'unica operazione. Quando installato su strumenti di livello superiore, l'area minerabile massima viene aumentata. L'area minerabile può essere configurata nel menu."
+    ],
+    "quest.6720F863B907A5F1.quest_desc": [
+        "\\&lTipo di abilità:\\&r Passiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Rende le frecce magiche lanciate con l'arco capaci di avere un effetto persistente, applicando effetti su un'area nel tempo."
+    ],
+    "quest.6737CB17D562B134.quest_desc": [
+        "Semplicemente un dispositivo che emette un suono quando viene utilizzato con l'oggetto corrispondente."
+    ],
+    "quest.67B87570C340C243.title": "Miglioramenti all'armatura",
+    "quest.6889EFC6CC291463.quest_desc": [
+        "\\&Tipo di abilità: Attiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Dissipa le creature nelle vicinanze quando attivato, con un periodo di ricarica."
+    ],
+    "quest.6A4D31194C4CE156.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Ore miner",
+        "- Tagliaserrа",
+        "- Sky Sweeper",
+        "- Taglialegna",
+        "- \"Leaf Breaker\" (traducibile come \"Rompi foglie\" o \"Distruttore di foglie\")",
+        "- Fabbrica di fusione di metalli",
+        "- Martello",
+        "- Teletrasporto",
+        "- Radiografia",
+        "- Pausa immediata"
+    ],
+    "quest.6ADE6F9E004055F7.quest_desc": [
+        "I cristalli di tempo sono un nuovo materiale introdotto da JDT. Crescono sui Blocchi di Cristalli di Tempo in Crescita, che vengono creati applicando un composto su Blocchi di Ambra o su Blocchi di Cristalli di Tempo.\n\nTuttavia, il Blocco di Cristalli di Tempo in Crescita deve raccogliere tempo dal Mondo, dal Nether e dal The End per poter far crescere i raggruppamenti di cristalli di tempo. Non è possibile rompere o utilizzare la capacità \"Silk Touch\" su questi blocchi. È necessario utilizzare un Swapper, una scatola di cartone o un gadget \"Cut Paste\" per spostarli.\n\nDopo un certo periodo, il Blocco di Cristalli di Tempo in Crescita esaurirà l'energia e dovrà fare un altro viaggio nel Mondo, nel Nether e nel The End.",
+        "{@pagebreak}",
+        "Per automatizzare questo processo, consultare il video collegato nell'immagine precedente a questa istruzione."
+    ],
+    "quest.6ADE6F9E004055F7.quest_subtitle": "Temporale",
+    "quest.6D9CFCD81A23BB3B.quest_desc": [
+        "\\&lTipo di abilità:\\&r Passiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Rende il giocatore immune al flusso di lava."
+    ],
+    "quest.6F709652A2B88C78.quest_desc": [
+        "Il trasmettitore di energia fornisce alimentazione ai blocchi all'interno del suo raggio d'azione, ma può accettare energia solo dalla parte inferiore."
+    ],
+    "quest.6FD4C60B547F4131.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Ore miner",
+        "- Scanner Ore \\&4\\&disabilitato\\&r\\&f",
+        "- Fabbrica di fusione di metalli",
+        "- Martello",
+        "- Teletrasporto"
+    ],
+    "quest.703BDCDC88DD813C.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Tagliaserrа",
+        "- Sky Sweeper",
+        "- Fabbrica di fusione di metalli",
+        "- Martello",
+        "- Teletrasporto",
+        "- Pausa immediata"
+    ],
+    "quest.70AD088336748892.quest_desc": [
+        "Semplicemente un generatore a carbone."
+    ],
+    "quest.70BF85E2D235BAD5.quest_desc": [
+        "Versare del carbone Voidflame nel combustibile Blaze Ember creerà combustibile Voidflame non raffinato. L'utilizzo del \"Goo Spread\" con un \"Goo\" di livello tre o superiore convertirà il combustibile Voidflame non raffinato in combustibile Voidflame."
+    ],
+    "quest.70C404E5685E4E91.quest_desc": [
+        "Semplicemente un blocco posizionatore."
+    ],
+    "quest.71128E508D810DDF.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Potion d'arco",
+        "- Splash",
+        "- Persistente",
+        "- Punta di freccia per il ritorno",
+        "- Fase",
+        "- Yondu Arrow"
+    ],
+    "quest.71441DFA05FD73E5.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Confusione mentale",
+        "- Incantare",
+        "- Visione notturna"
+    ],
+    "quest.7305EE0F7D73C231.quest_desc": [
+        "Gli \"Upgrades\" di base sono alla base di tutte le abilità. Queste ultime sono suddivise in due tipi: passivo e attivo.\n\nLe abilità passive non richiedono alcun intervento attivo da parte del giocatore, mentre le abilità attive funzionano solo quando vengono attivate tramite un'impostazione definita dal giocatore nel menu di configurazione. Inoltre, le abilità attive consumano risorse (durabilità\/energia) quando vengono utilizzate. Quando applicate su armature di livello superiore, le abilità attive hanno tempi di ricarica ridotti e le abilità passive hanno effetti più potenti.\n\nIl banco di fabbro viene utilizzato per applicare gli \"Upgrades\" agli strumenti e all'armatura di JDT. Tenendo premuto il tasto \"Shift\" mentre si passa sopra gli strumenti o l'armatura di JDT, è possibile visualizzare quali \"Upgrades\" sono validi."
+    ],
+    "quest.73552A4BA0687962.quest_desc": [
+        "Questi miglioramenti possono essere applicati sia agli strumenti, sia all'armatura."
+    ],
+    "quest.7464CA1290B3474B.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Immunità"
+    ],
+    "quest.76B1C5AFC5D6B7CF.quest_desc": [
+        "Lo \"Time Wand\" può essere utilizzato per accelerare i blocchi, in modo simile al \"Time in a Bottle\", fino a una velocità di x256. A differenza del TIAB, utilizza il fluido del tempo anziché il tempo immagazzinato come carburante, rendendone il rifornimento molto più semplice.\n\nTuttavia, è stato bloccato per l'uso con giocatori falsi. Non vogliamo che tu utilizzi questo strumento per automatizzare il gioco."
+    ],
+    "quest.76B1C5AFC5D6B7CF.quest_subtitle": "Cugino di \"Il tempo in una bottiglia\"",
+    "quest.78840993C7832E89.quest_desc": [
+        "Aggiornamenti validi:",
+        "- Taglialegna",
+        "- \"Leaf Breaker\" (traduzione letterale)",
+        "- Fabbrica di fusione di metalli",
+        "- Teletrasporto",
+        "- Pausa immediata"
+    ],
+    "quest.79BBCC1BEE90DBBB.quest_desc": [
+        "\\&lTipo di abilità:\\&r Passiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Permette al giocatore di eludere la morte, ma ha un tempo di ricarica molto lungo. In pratica, è come un \"Totem dell'Immortalità\" con un tempo di ricarica che non viene consumato."
+    ],
+    "quest.7AEFF81E7C8CF300.quest_desc": [
+        "Utilizzando il tasto destro del mouse (Shift) mentre si tiene uno strumento o un \"wanda\" del JDT, si aprirà il menu di configurazione, dove il giocatore potrà personalizzare e attivare le abilità."
+    ],
+    "quest.7B9486981786AC47.quest_desc": [
+        "\\&Tipo di abilità: Attiva",
+        "",
+        "\\&Funzione:\\&",
+        "",
+        "Elimina permanentemente le creature circostanti, ma a causa del costo energetico, può influenzare solo un massimo di cinque creature per ogni attivazione. Ha un tempo di ricarica molto lungo."
+    ],
+    "quest.7D1D2A4E07E98709.quest_desc": [
+        "Un semplice gioco in cui bisogna rompere dei blocchi, utilizzando uno strumento specifico."
+    ],
+    "quest.7F0B2D58361FB00E.quest_desc": [
+        "Just Dire Things è un mod versatile che offre diverse funzionalità. In particolare, aggiunge un nuovo meccanismo di crafting chiamato \"Goo Spread\", oltre a macchinari che aiutano nell'automazione di questo processo e di altre funzioni utili."
+    ],
+    "quest.7F0B2D58361FB00E.title": "Semplicemente dire quello che si pensa",
+    "task.00B0A3B14DEB34B9.title": "Aggiornamenti ibridi",
+    "task.03982D782B426ABB.title": "Tutti i diritti riservati",
+    "task.19931057AAC1A03A.title": "Tutti i diritti riservati",
+    "task.32309011F80C0A9E.title": "NOTA",
+    "task.366CA7D53571A552.title": "Servizi pubblici",
+    "task.3AC95E8DC4229D17.title": "Semplicemente dire quello che si pensa",
+    "task.3CAD6AD06BE4C3D3.title": "Strumenti",
+    "task.40B39896B6CD41C6.title": "Armatura",
+    "task.5AB4103FF540ABB4.title": "Liquidi",
+    "task.5DD919AF75C92C8A.title": "Strumenti",
+    "task.665A5DFA6270ADA6.title": "Macchine semplici",
+    "task.67B21CF59C3D02E5.title": "Macchine avanzate",
+    "task.7197FBBA21C0F94A.title": "Armatura"
+}

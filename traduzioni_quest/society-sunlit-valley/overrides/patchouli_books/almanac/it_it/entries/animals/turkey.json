@@ -1,17 +1,17 @@
 {
-    "name": "Turkey",
+    "name": "Turchia",
     "category": "patchouli:animals",
     "icon": "autumnity:turkey_egg",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Uovo: Uovo di tacchino$(li)Bottino: Tacchino crudo, Piuma$(br2)$(l)Note$()$(br)I tacchini affamati non depongono uova e quelli infelici ne depongono molto meno. I tacchini depongono le uova più lentamente rispetto ad altri uccelli."
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile$(li)Uovo: Uovo di tacchino$(li)Piume: Piume di tacchino, piume$(br2)$(l)Note$()$(br)I tacchini affamati non depongono uova, e quelli infelici ne depongono molto meno. I tacchini depongono uova più lentamente rispetto ad altri uccelli."
         },
         {
             "type": "patchouli:entity",
             "entity": "autumnity:turkey",
             "scale": 0.8,
-            "text": "Tutti sono sempre grati per il loro delizioso maionese di tacchino"
+            "text": "patchouli: entità\n\nautumnity: Turchia\n\nTutti sono sempre grati per il loro delizioso pollo con maionese"
         }
     ]
 }

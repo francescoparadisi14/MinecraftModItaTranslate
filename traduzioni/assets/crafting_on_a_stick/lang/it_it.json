@@ -1,15 +1,16 @@
 {
-    "crafting_on_a_stick.key.open_curios": "Apri crafting on a stick",
-    "curios.identifier.crafting_on_a_stick": "Crafting su un bastone",
+    "crafting_on_a_stick.key.open_curios": "Apri la fabbricazione con un bastone",
+    "curios.identifier.crafting_on_a_stick": "Fabbricazione su un bastone",
     "gui.crafting_on_a_stick.prefix": "",
-    "gui.crafting_on_a_stick.suffix": "con bastone",
-    "item.crafting_on_a_stick.anvil": "%1$s su %2$s con %3$s",
-    "item.crafting_on_a_stick.cartography_table": "Tavola di cartografia %1$s con %2$s e %3$s",
-    "item.crafting_on_a_stick.chipped_anvil": "Anzolo lavorante con martello danneggiato: %1$s%2$s%3$s",
-    "item.crafting_on_a_stick.crafting_table": "Tavola di lavorazione %1$s con %2$s e %3$s",
-    "item.crafting_on_a_stick.damaged_anvil": "Anzolo danneggiato da %1$s con %2$s su %3$s",
-    "item.crafting_on_a_stick.grindstone": "Grinatura di %1$s con %2$s su %3$s",
-    "item.crafting_on_a_stick.loom": "%1$s (telare) %2$s %3$s",
-    "item.crafting_on_a_stick.smithing_table": "Tavola da fabbro per %1$s con %2$s e %3$s",
-    "item.crafting_on_a_stick.stonecutter": "Fabbricatore di pietra %1$s con %2$s e %3$s"
+    "gui.crafting_on_a_stick.selection_wheel.no_tool": "Non avete alcun strumento.",
+    "gui.crafting_on_a_stick.suffix": "su uno spiedino",
+    "item.crafting_on_a_stick.anvil": "Incudine su un bastone",
+    "item.crafting_on_a_stick.cartography_table": "Banco da cartografia su un bastone",
+    "item.crafting_on_a_stick.chipped_anvil": "Incudine scheggiata su un bastone",
+    "item.crafting_on_a_stick.crafting_table": "Banco da lavoro su un bastone",
+    "item.crafting_on_a_stick.damaged_anvil": "Incudine danneggiata su un bastone",
+    "item.crafting_on_a_stick.grindstone": "Mola su un bastone",
+    "item.crafting_on_a_stick.loom": "Telaio su un bastone",
+    "item.crafting_on_a_stick.smithing_table": "Banco da forgiatura su un bastone",
+    "item.crafting_on_a_stick.stonecutter": "Tagliapietre su un bastone"
 }

@@ -1,15 +1,15 @@
 {
-    "name": "Foul Berries 🍂",
+    "name": "Bacche marce 🍂",
     "category": "patchouli:crops",
     "icon": "autumnity:foul_berries",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li):moneta: 4$(li)🍂 §4Autunno§r$(li)Rendita: 2\/4$(li)Stadi di crescita: 4\/5$(li)Stadi di rigenerazione: 1\/2$(br2)$(l)Note$()$(br)Si trova nei biomi della Foresta di Mela$(br)Non ci sono semi, semplicemente piantare il frutto.$(br)Ha 2 stadi raccolti"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): monete: 4$(li) 🍂 Autunno§r$(li) Resa: 2\/4$(li) Fasi di crescita: 4\/5$(li) Fasi di rigenerazione: 1\/2$(br2)$(l)Note$()$(br)Presente negli ecosistemi della foresta di acero$(br)Non produce semi, basta piantare il frutto.$(br) Ha 2 fasi di raccolta"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Tall Foul Berry Bush",
+            "name ": "patchouli:multiblock\n\nAlbero di bacche \"Tall Foul Berry\"",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -28,8 +28,7 @@
                     "0": "autumnity:tall_foul_berry_bush[age=3,half=lower]",
                     "F": "minecraft:grass_block"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

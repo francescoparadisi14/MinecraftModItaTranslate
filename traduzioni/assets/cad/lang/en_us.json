@@ -1,0 +1,12 @@
+{
+    "block.cad.example_block": "Example Block",
+    "cad.configuration.items": "Item List",
+    "cad.configuration.logDirtBlock": "Log Dirt Block",
+    "cad.configuration.magicNumber": "Magic Number",
+    "cad.configuration.magicNumberIntroduction": "Magic Number Text",
+    "cad.configuration.section.cad.common.toml": "Cobblemon Ancient Dogs Configs",
+    "cad.configuration.section.cad.common.toml.title": "Cobblemon Ancient Dogs Configs",
+    "cad.configuration.title": "Cobblemon Ancient Dogs Configs",
+    "item.cad.example_item": "Example Item",
+    "itemGroup.cad": "Example Mod Tab"
+}

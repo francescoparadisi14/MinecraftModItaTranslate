@@ -1,0 +1,16 @@
+{
+    "block.aquatic_creepers.drowned_fire": "Fuoco annegato",
+    "entity.aquatic_creepers.aquatic_creeper": "Creatura acquatica",
+    "entity.aquatic_creepers.small_wetball": "Palla piccola e bagnata",
+    "item.aquatic_creepers.aquatic_creeper_spawn_egg": "Uovo di spawn per Aquatic Creeper",
+    "item.aquatic_creepers.blue_charge": "Carica di energia blu",
+    "item.aquatic_creepers.wet_charge": "Caricamento umido",
+    "item.aquatic_creepers.wet_gunpowder": "Polvere da sparo umida",
+    "itemGroup.aquatic_creepers": "Creature acquatiche",
+    "text.config.aquatic_creepers.option.aquatic_creeper_max_group_size": "Dimensione massima del gruppo di Aquatic Creeper",
+    "text.config.aquatic_creepers.option.aquatic_creeper_min_group_size": "Dimensione minima del gruppo per il \"Aquatic Creeper\"",
+    "text.config.aquatic_creepers.option.aquatic_creeper_weight": "Peso delle uova di Aquatic Creeper",
+    "text.config.aquatic_creepers.option.drownedFireBehavesLikeFire": "Drowned Fire si comporta come un normale incendio.",
+    "text.config.aquatic_creepers.option.drownedFireChangesColor": "Il colore del \"Drowned Fire\" cambia in base all'ambiente.",
+    "text.config.aquatic_creepers.title": "Creature acquatiche"
+}

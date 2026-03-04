@@ -1,13 +1,13 @@
 {
-    "constants.gmut.key_category": "Categoria di chiave Mekanism - Modificatore gravitazionale aggiuntivo (unità)",
-    "constants.gmut.mod_name": "Modificatore gravitazionale aggiuntivo (GRAVITAS)",
-    "description.gmut.gravitational_modulating_additional_unit": "Richiede \"unità di modulazione gravitazionale\", fornisce funzionalità aggiuntive",
-    "key.gmut.vertical_speed": "Impostazione di velocità verticale",
-    "module.gmut.enabled": "Abilitato",
-    "module.gmut.fix_fov": "Correggi FOV",
-    "module.gmut.fly_always": "Ignora la gravità sempre",
-    "module.gmut.gravitational_modulating_additional_unit": "Unità di modulazione gravitazionale aggiuntiva",
-    "module.gmut.mute_modulating_sound": "Muta il suono di modulazione",
-    "module.gmut.stop_immediately": "Ferma immediatamente",
+    "constants.gmut.key_category": "Meccanismo - Unità aggiuntiva di modulazione gravitazionale",
+    "constants.gmut.mod_name": "Unità aggiuntiva di modulazione gravitazionale",
+    "description.gmut.gravitational_modulating_additional_unit": "Richiede l'unità di modulazione gravitazionale, che offre funzionalità aggiuntive.",
+    "key.gmut.vertical_speed": "Interruttore per la regolazione della velocità verticale",
+    "module.gmut.enabled": "Attivato",
+    "module.gmut.fix_fov": "Regolare il campo visivo",
+    "module.gmut.fly_always": "Sfida la gravità, sempre.",
+    "module.gmut.gravitational_modulating_additional_unit": "Unità aggiuntiva di modulazione gravitazionale",
+    "module.gmut.mute_modulating_sound": "Suono modulabile con controllo del volume",
+    "module.gmut.stop_immediately": "Smetta immediatamente",
     "module.gmut.vertical_speed": "Modificatore di velocità verticale"
 }

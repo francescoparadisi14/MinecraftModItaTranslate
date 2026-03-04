@@ -1,0 +1,17 @@
+{
+    "config.mapdistancefix.category.formatting": "Formattazione",
+    "config.mapdistancefix.category.general": "Generale",
+    "config.mapdistancefix.option.distanceFormat": "Formato di distanza",
+    "config.mapdistancefix.option.distanceFormat.tooltip": "Formato della stringa per la visualizzazione della distanza. Utilizzare il carattere \"%d\" per il valore della distanza.\nEsempio: \"％dm\" viene visualizzato come \"100m\"",
+    "config.mapdistancefix.option.shortUnitThreshold": "Soglia minima per unità",
+    "config.mapdistancefix.option.shortUnitThreshold.tooltip": "Distanza in blocchi alla quale iniziare a utilizzare unità di misura più piccole.",
+    "config.mapdistancefix.option.showDistance": "Mostra distanza",
+    "config.mapdistancefix.option.showDistance.tooltip": "Mostra la distanza dal centro della mappa sugli indicatori del giocatore.",
+    "config.mapdistancefix.option.showDistanceInsideBoundaries": "Mostra la distanza all'interno dei confini.",
+    "config.mapdistancefix.option.showDistanceInsideBoundaries.tooltip": "Mostra anche la distanza quando il giocatore è all'interno dei confini della mappa.",
+    "config.mapdistancefix.option.showDistanceWhenOffMap": "Mostra la distanza quando non è presente sulla mappa.",
+    "config.mapdistancefix.option.showDistanceWhenOffMap.tooltip": "Distanza di visualizzazione quando il giocatore si trova al di fuori dei confini della mappa.",
+    "config.mapdistancefix.option.useShortUnits": "Utilizzare unità di misura brevi",
+    "config.mapdistancefix.option.useShortUnits.tooltip": "Utilizzare unità abbreviate (ad esempio, \"1,5k\" invece di \"1500m\") per distanze elevate.",
+    "config.mapdistancefix.title": "Impostazioni per la correzione della distanza sulla mappa"
+}

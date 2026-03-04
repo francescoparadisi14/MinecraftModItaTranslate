@@ -1,10 +1,10 @@
 {
-    "item.angel_terraria.bloody_spine": "Spina sanguinaria",
-    "item.angel_terraria.bloody_spine.description_0": "Evoca il cervello di Cthulhu",
-    "item.angel_terraria.crim_ingot": "Barra di Crimtane",
-    "item.angel_terraria.eye_summon": "Occhio sospetto",
-    "item.angel_terraria.eye_summon.description_0": "Evoca l'occhio di Cthulhu.",
-    "item.angel_terraria.lens": "Lente",
+    "item.angel_terraria.bloody_spine": "Spina dorsale",
+    "item.angel_terraria.bloody_spine.description_0": "Invoca la mente di Cthulhu",
+    "item.angel_terraria.crim_ingot": "Bar Crimtane",
+    "item.angel_terraria.eye_summon": "Occhio che sembra sospetto",
+    "item.angel_terraria.eye_summon.description_0": "Chiamare l'Occhio di Cthulhu.",
+    "item.angel_terraria.lens": "Obiettivo",
     "subtitles.brain_theme": "Incarnazione della follia",
-    "subtitles.eye_ost": "Raffica di pupille infiammate"
+    "subtitles.eye_ost": "Attacco sanguinoso"
 }

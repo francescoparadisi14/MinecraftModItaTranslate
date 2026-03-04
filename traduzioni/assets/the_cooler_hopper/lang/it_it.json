@@ -1,0 +1,9 @@
+{
+    "advancements.husbandry.the_cooler_hopper.obtain_bluestone_block": "Acquistare un blocco di pietra blu.",
+    "advancements.husbandry.the_cooler_hopper.obtain_bluestone_block.title": "Ma cosa?",
+    "block.the_cooler_hopper.bluestone_block": "Blocco di pietra blu",
+    "block.the_cooler_hopper.bluestone_block.info": "Potenza alimentata da redstone per far sparare i dispenser in modo rapido.",
+    "block.the_cooler_hopper.ender_hopper": "Ender Hopper",
+    "item.the_cooler_hopper.portal_wand": "Portale a parete",
+    "item.the_cooler_hopper.portal_wand.info": "Cliccare sui hopper di Ender per collegare i loro inventari."
+}

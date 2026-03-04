@@ -1,0 +1,60 @@
+{
+    "quest.0152938EE5651409.quest_desc": [
+        "Questa quest è stata realizzata da \\&6AllTheMods Staff\\&r, oppure da un \\&2contributore della community\\&r, per l'uso nei pacchetti mod di AllTheMods.\\n\\nPoiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti a \\&eTutti i diritti riservati\\&r, questa quest non può essere utilizzata in altri pacchetti pubblici, se non quelli rilasciati dal team \\&6AllTheMods\\&r, senza un'esplicita autorizzazione.\\n\\nQuesta quest è intenzionalmente nascosta. Se la vedete, significa che siete in modalità di modifica."
+    ],
+    "quest.0790D3BB481162A6.quest_desc": [
+        "Avete bisogno di un tavolo portatile per lavori artigianali? Che ne dite di un tavolo portatile per la fabbricazione di oggetti in metallo?",
+        "",
+        "\"Crafting On A Stick\" aggiunge versioni portatili di alcune delle tue stazioni di crafting preferite! È un oggetto essenziale nelle prime fasi del gioco."
+    ],
+    "quest.0790D3BB481162A6.quest_subtitle": "Meno posizionamento, più attenzione alla creazione",
+    "quest.0790D3BB481162A6.title": "Creare... su uno stecchino!",
+    "quest.0C856BBB1679A7DD.quest_desc": [
+        "Su questa pagina troverete alcuni elementi e informazioni utili per aiutarvi nel vostro percorso!"
+    ],
+    "quest.0C856BBB1679A7DD.quest_subtitle": "E altri articoli utili!",
+    "quest.0F8F37D7E12078F5.quest_subtitle": "Seguire tutti i consigli!",
+    "quest.219AA017149C36E2.quest_desc": [
+        "\"Trappola per commercianti: tappeti\" ucciderà istantaneamente qualsiasi commerciante che appaia nelle vicinanze!\\n\\nQuesti potrebbero essere gli oggetti migliori di tutto il set."
+    ],
+    "quest.219AA017149C36E2.quest_subtitle": "Addio a tutti i commercianti fastidiosi!",
+    "quest.32ECD93A8F2FAB8F.quest_desc": [
+        "I \"jetpack\" in legno sono un modo popolare per muoversi.\n\nPer iniziare, avrai bisogno di un \"jetpack\" in legno! Questo può essere migliorato fino a un \"jetpack\" creativo.\n\nAnche se esistono diverse versioni, tutte funzionano allo stesso modo. Possono essere inserite nello slot del petto o nel \"curio\" sulla schiena.\n\nTutte richiedono energia per funzionare; puoi utilizzare qualsiasi caricatore di oggetti per ricaricarle! Utilizzeranno l'energia per volare, e sì, cadranno se l'energia si esaurisce.\n\nPer volare, dovrai attivare il motore (V), quindi, tenendo premuto il tasto Spazio, salirai e cadrà quando lo rilascerai.\n\nPer chi non ama cadere, puoi attivare la funzione \"Hover\" (non vincolata). Quando è attiva, volerai alla stessa altezza; potrai salire premendo (Spazio) e scendere premendo (Shift).\n\nPer regolare la velocità di volo, modifica il tuo acceleratore. Diminuirlo è (,) di default, mentre aumentarlo è (.) di default!"
+    ],
+    "quest.32ECD93A8F2FAB8F.title": "\\&l\\&6Jetpack in lega di ferro",
+    "quest.3B4BF42C55C8BBBF.quest_desc": [
+        "Non vi è mai capitato di rompere qualcosa e di vedere i blocchi cadere proprio fuori dalla vostra portata? \\n\\nNon preoccupatevi, perché abbiamo il \\&4Magneto\\&r! Basta fare clic con il tasto destro mentre tenete il \\&4Magneto\\&r per attivarlo. A quel punto, tutti gli oggetti e i blocchi caduti entro un raggio di 5 blocchi torneranno verso di voi. \\n\\nPotete anche equipaggiare il \\&4Magneto\\&r nel vostro inventario per continuare a utilizzarlo! \\n\\nSe non desiderate continuare a utilizzare il \\&4Magneto\\&r (ad esempio, quando siete vicino a fattorie di mostri), basta fare nuovamente clic con il tasto destro per disattivarlo. \\n\\nInoltre, può essere potenziato per aumentare l'area di effetto!"
+    ],
+    "quest.3B4BF42C55C8BBBF.title": "\\&l\\&9 Magneti semplici",
+    "quest.5EE945A1185E8336.quest_desc": [
+        "\\&l\\&7Magazzino Funzionale\\&r aggiunge \\&7cassetti\\&r che possono contenere diversi gruppi di oggetti. Questi possono essere potenziati per contenere ancora più gruppi!\\n\\nQuesto è ideale per oggetti che si ottengono in grandi quantità, come la pietra o i semi!"
+    ],
+    "quest.5EE945A1185E8336.quest_subtitle": "Cassetti per lo stoccaggio?",
+    "quest.5EE945A1185E8336.title": "\\&l\\&7Magazzino Funzionale\\&r",
+    "quest.637981B64BBE0D92.quest_desc": [
+        "La \\&aStazione di ricarica\\&r è un elemento molto utile nelle prime fasi del gioco.\n\nÈ chiaramente utilizzata per ricaricare oggetti. Si può utilizzare l'energia proveniente dal tubo o utilizzare il combustibile del forno per produrre energia sotto forma di FE (Energy).\n\nSuccessivamente, è possibile inserire qualsiasi oggetto che necessita di ricarica nello slot più a destra."
+    ],
+    "quest.637981B64BBE0D92.title": "\\&l\\&aGadget per la ricarica",
+    "quest.722978AC0C1B2649.quest_desc": [
+        "È un'operazione semplice da automatizzare per ottenere acqua illimitata.\n\nAvete bisogno di più acqua? Create un'altra!"
+    ],
+    "quest.722978AC0C1B2649.quest_subtitle": "Può essere utilizzato come refrigerante del reattore.",
+    "quest.722978AC0C1B2649.title": "Infinito \\&9Acqua\\&r",
+    "quest.7A514E27E1A7FE32.quest_desc": [
+        "I diamanti ci permettono anche di creare degli utili strumenti per la costruzione, come quelli presenti nella categoria \"\\&cGadget per la Costruzione\\&r\".\n\nQuesti strumenti sono molto utili per costruire basi più grandi o per liberare spazio utilizzando lo strumento \"\\&cGadget per la Distruzione\\&r\".\n\nInoltre, è possibile collegarli a una rete AE2 nello stesso modo in cui si collegano i terminali wireless, utilizzando il punto di accesso wireless. Questo permette di utilizzare i blocchi memorizzati nella rete ME."
+    ],
+    "quest.7A514E27E1A7FE32.title": "\\&l\\&cGadget per la casa\\&r",
+    "quest.7EC8814940C4C3D7.quest_desc": [
+        "Utilizzate questo strumento per ridurre le dimensioni degli oggetti. Utile per lavorare sull'automazione, ma anche semplicemente per divertimento."
+    ],
+    "quest.7EC8814940C4C3D7.quest_subtitle": "Caro\/a, mi sono rimpicciolito\/a.",
+    "quest.7EC8814940C4C3D7.title": "Dispositivo per la riduzione personale",
+    "task.172162127C8F6E4E.title": "Tappeto Any Trader",
+    "task.3B1F1A7CAC8B7BC7.title": "Cassetti",
+    "task.3DC008A578A93CCF.title": "Consigli e trucchi!",
+    "task.42DA8E971B27ACED.title": "Pagato a mancia",
+    "task.47A1F59A538E3C4B.title": "Strumenti per la costruzione",
+    "task.4AEB792F6A939B3A.title": "Tutti i diritti riservati",
+    "task.6038387EA35404CD.title": "Creare con un bastoncino",
+    "task.6A965CD027BF762F.title": "Tutti i diritti riservati"
+}

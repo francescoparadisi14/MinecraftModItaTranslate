@@ -1,15 +1,15 @@
 {
-    "name": "Albero di mela rossa 🌐",
+    "name": "Albero di acero rosso 🌐",
     "category": "patchouli:trees",
     "icon": "autumnity:red_maple_sapling",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)🌐 §5Tutto l'anno§r$(li)Dimensioni: 1x1`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🌐 Disponibile tutto l'anno§r$(li)Dimensioni: 1x1"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Red Maple Tree",
+            "name ": "Patchouli: Multibloc\n\nAlbero di acero rosso",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -68,8 +68,7 @@
                     "L": "autumnity:red_maple_leaves",
                     "W": "autumnity:maple_log[axis=y]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

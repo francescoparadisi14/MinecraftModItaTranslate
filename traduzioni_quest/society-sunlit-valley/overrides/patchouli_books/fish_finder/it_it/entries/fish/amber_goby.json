@@ -1,11 +1,11 @@
 {
-    "name": "Amber Goby",
+    "name": "Goby ambra",
     "category": "patchouli:fish",
     "icon": "unusualfishmod:raw_amber_goby",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 288 monete$(li)Simbolo di stagione: Autunno$(li)Acqua: Fresca$(li)Clima: Sereno$(li)Ora: Notte"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 288$(li)§0🍂 §4Autunno§0$(li)Acqua: Fresca$(li)Tempo: Sereno$(li)Ora: Notte"
         },
         {
             "type": "patchouli:entity",
@@ -13,7 +13,7 @@
             "scale": 0.8,
             "rotate": true,
             "offset": -0.3,
-            "text": "Come i capelli dell'amata ambra."
+            "text": "patchouli: entità\n\nunusualfishmod: goby ambrato\n\nCome il colore dell'ambra nei capelli di sua figlia."
         }
     ]
 }

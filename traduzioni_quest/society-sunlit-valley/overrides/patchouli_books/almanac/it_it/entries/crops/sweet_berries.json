@@ -1,15 +1,15 @@
 {
-    "name": "Sweet Berries 🌼🍂",
+    "name": "Deliziose fragole 🌼❆",
     "category": "patchouli:crops",
     "icon": "minecraft:sweet_berries",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li):moneta: 2$(li)🌼 §2Primavera§r 🍂 §4Autunno$(li)Rendita: 1-2\/2-3$(li)Tempo di crescita: 2\/3 giorni$(li)Tempo di ricrescita: 1\/2 giorni$(br2)$(l)Note:$()$(br)Si trova in biomi simili alla Taiga.$(br)Non ci sono semi, semplicemente pianta il frutto.$(br)Ha due stadi raccolti"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): monete: 2$(li) 🌼 Primavera§r ❆ §b Inverno$(li) Raccolta: 1-2\/2-3$(li) Tempo di coltivazione: 2\/3 giorni$(li) Tempo di rigattificazione: 1\/2 giorni$(br2)$(l)Note:$()$(br)Si trova in biomi simili alla taiga.$(br)Non sono necessarie le sementi, basta piantare il frutto.$(br)Ha 2 fasi di raccolta"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Sweet Berry Bush",
+            "name ": "Patchouli: Multibloc\n\nRosa dolce",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -22,10 +22,9 @@
                 ],
                 "mapping": {
                     "0": "minecraft:sweet_berry_bush[age=3]",
-                    "F": "minecraft:grass_block"
+                    "F": "minecraft:farmland[moisture=7]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

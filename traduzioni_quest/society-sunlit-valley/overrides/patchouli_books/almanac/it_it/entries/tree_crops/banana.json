@@ -1,15 +1,15 @@
 {
-    "name": "banana 🔥",
+    "name": "Banana 🔥",
     "category": "patchouli:tree_crops",
     "icon": "pamhc2trees:bananaitem",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li):moneta: 16$(li)§6Summer§r$(li)Rendita: 3$(li)Stadi di crescita: 8$(br2)$(l)Note$()$(li)Vedi: $(l:trees\/pams\/banana)Banana Tree$(\/l)`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): moneta: 16$(li)🔥 Estate$(li)Resa: 3$(li)Fasi di crescita: 8$(br2)$(l)Note$()$(li)Vedi: $(l:alberi\/pams\/banana)Albero di banana$(\/l)"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Banana Tree",
+            "name ": "Patchouli: Multibloc\nAlbero di banana",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {
@@ -24,8 +24,7 @@
                         "F"
                     ]
                 ]
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

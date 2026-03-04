@@ -1,14 +1,14 @@
 {
-    "balancedflight.ponder.flight_anchor.header": "Volata bilanciata con forza rotazionale alimentata",
-    "balancedflight.ponder.flight_anchor.text_1": "Il puntatore di volo richiede un'enorme quantità di potenza per funzionare.",
-    "balancedflight.ponder.flight_anchor.text_2": "Per ogni giro al minuto, potrai volare un blocco attorno all'ancora.",
-    "balancedflight.ponder.flight_anchor.text_3": "Le velocità più elevate coprono una superficie molto maggiore.",
-    "balancedflight.ponder.tag.flight_anchor": "Anchia volo",
-    "balancedflight.ponder.tag.flight_anchor.description": "Volata bilanciata con forza rotazionale alimentata",
-    "block.balancedflight.flight_anchor": "Anchia volo",
-    "curios.identifier.flight_ring": "Anello del volo",
-    "item.balancedflight.ascended_flight_ring": "Anello di volo ascendente",
-    "itemGroup.balancedflight.base": "Creare volo bilanciato",
-    "tooltip.balancedflight.ascended_flight_ring": "Un anello d'oro incredibilmente denso eppure consente il volo ovunque.",
-    "tooltip.balancedflight.flight_anchor": "Consente il volo entro un raggio di 25 blocchi. Funziona solo nel mondo superficiale."
+    "balancedflight.ponder.flight_anchor.header": "Volo motorizzato con forza rotatoria",
+    "balancedflight.ponder.flight_anchor.text_1": "Il sistema di ancoraggio richiede una notevole quantità di energia per funzionare.",
+    "balancedflight.ponder.flight_anchor.text_2": "Per ogni RPM (giri al minuto), sarà possibile effettuare un giro completo attorno all'ancora.",
+    "balancedflight.ponder.flight_anchor.text_3": "Velocità più elevate coprono una superficie molto più ampia.",
+    "balancedflight.ponder.tag.flight_anchor": "Ancora per aerei",
+    "balancedflight.ponder.tag.flight_anchor.description": "Volo motorizzato con forza rotatoria",
+    "block.balancedflight.flight_anchor": "Ancora per aerei",
+    "curios.identifier.flight_ring": "Anello per il volo",
+    "item.balancedflight.ascended_flight_ring": "Anello di volo ascensionale",
+    "itemGroup.balancedflight.base": "Crea: Volo equilibrato",
+    "tooltip.balancedflight.ascended_flight_ring": "Un anello dorato incredibilmente denso, eppure, permette di volare ovunque.",
+    "tooltip.balancedflight.flight_anchor": "Permette di volare entro un raggio di 25 blocchi. Funziona solo nel mondo principale."
 }

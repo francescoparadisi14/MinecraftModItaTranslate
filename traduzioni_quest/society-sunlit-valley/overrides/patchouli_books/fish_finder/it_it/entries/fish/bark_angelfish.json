@@ -1,18 +1,18 @@
 {
-    "name": "Bark Angelfish",
+    "name": "Pesce angelo \"Bark\"",
     "category": "patchouli:fish",
     "icon": "unusualfishmod:raw_bark_angelfish",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Moneta: 144$(li)🍂 Autunno $(li)Acqua: Fresca$(li)Clima: Qualsiasi$(li)Ora: Giorno"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 144$(li)🍂 Autunno$(li)Acqua: Fresca$(li)Tempo: Qualsiasi$(li)Ora: Giorno"
         },
         {
             "type": "patchouli:entity",
             "entity": "unusualfishmod:bark_angelfish",
             "scale": 0.8,
             "rotate": true,
-            "text": "Mescolandosi come legno di dritto, nascondendosi alla vista."
+            "text": "patchouli: entità\n\nunusualfishmod: bark_angelfish\n\nSi mimetizza come un pezzo di legno galleggiante, nascondendosi in bella vista."
         }
     ]
 }

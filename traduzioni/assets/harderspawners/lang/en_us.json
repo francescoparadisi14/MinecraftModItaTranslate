@@ -1,4 +1,4 @@
 {
-    "subtitles.harderspawners.spawner.wails": "The Spawner Groans",
-    "text.harderspawners.add_durability": "Add Durability"
+    "subtitle.spawner.recovers": "Spawner Wakes Up",
+    "text.harderspawners.add_lifespan": "Repair"
 }

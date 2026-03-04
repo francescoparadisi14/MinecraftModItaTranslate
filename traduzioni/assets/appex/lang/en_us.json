@@ -1,9 +1,12 @@
 {
     "appex.gui.element.experience.tooltip": "%s \/ %s",
+    "appex.item.converter.inv.in": "Stored %s",
+    "appex.item.converter.inv.out": "Stored %s",
     "appex.item.converter.tooltip": "Stored: %s XP",
     "block.appex.experience_acceptor": "ME Experience Acceptor",
     "block.appex.experience_converter": "Experience Converter",
     "gui.appex.experience_converter": "Experience Converter",
+    "item.appex.cable_experience_acceptor": "Experience Acceptor Part",
     "item.appex.experience_cell_housing": "ME Experience Cell Housing",
     "item.appex.experience_p2p_tunnel": "Experience P2P Tunnel",
     "item.appex.experience_storage_cell_16k": "16k ME Experience Storage Cell",

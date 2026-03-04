@@ -1,15 +1,15 @@
 {
-    "block.extrasponges.diamond_sponge": "Spongia di diamante",
-    "block.extrasponges.emerald_sponge": "Spongia di emerodio",
-    "block.extrasponges.gold_sponge": "Spongia d'oro",
-    "block.extrasponges.iron_sponge": "Spongia di ferro",
-    "block.extrasponges.lava_sponge": "Spongia di lava",
-    "block.extrasponges.netherite_sponge": "Spongia di netherite",
-    "block.extrasponges.wet_diamond_sponge": "Spongia di diamante umida",
-    "block.extrasponges.wet_emerald_sponge": "Spongia umida di emerodio",
-    "block.extrasponges.wet_gold_sponge": "Spongia d'oro umida",
-    "block.extrasponges.wet_iron_sponge": "Spongia di ferro umida",
-    "block.extrasponges.wet_lava_sponge": "Spongia di lava fusa",
-    "block.extrasponges.wet_netherite_sponge": "Spongia di netherite bagnata",
-    "itemGroup.extrasponges.items": "Sponge extra"
+    "item.extrasponges.diamond_sponge": "Spugna di diamante",
+    "item.extrasponges.emerald_sponge": "Sponda smeraldina",
+    "item.extrasponges.gold_sponge": "Spugna d'oro",
+    "item.extrasponges.iron_sponge": "Spugna di ferro",
+    "item.extrasponges.lava_sponge": "Spugna per lavare",
+    "item.extrasponges.netherite_sponge": "Spugna di Netherite",
+    "item.extrasponges.wet_diamond_sponge": "Spugna diamantata umida",
+    "item.extrasponges.wet_emerald_sponge": "Spugna verde smeraldo umida",
+    "item.extrasponges.wet_gold_sponge": "Spugna dorata umida",
+    "item.extrasponges.wet_iron_sponge": "Spugna per stiratura",
+    "item.extrasponges.wet_lava_sponge": "Sponda di lava fusa",
+    "item.extrasponges.wet_netherite_sponge": "Spugna di Netherite bagnata",
+    "itemGroup.extrasponges.items": "Spugne extra"
 }

@@ -1,0 +1,253 @@
+{
+    "quest.01F18150EC923482.quest_desc": [
+        "\\&3Storage Refined\\&r (RS o RS2) è un modulo di archiviazione che offre un sistema di archiviazione basato su rete.\\\\n\\\\nPer iniziare con il modulo, è necessario creare il \\&3Controller\\&r.\\\\n\\\\nIl Controller è il \"cuore\" della tua rete di archiviazione. Una volta alimentato, fornisce energia a tutti i componenti RS collegati."
+    ],
+    "quest.01F18150EC923482.quest_subtitle": "Versione 2",
+    "quest.01F18150EC923482.title": "\\&3Archiviazione avanzata",
+    "quest.03C78165C5CBD9E1.title": "\\&a16k Componente di archiviazione",
+    "quest.0945EC53626F58E6.quest_desc": [
+        "Oltre agli oggetti e ai liquidi, il modulo \"Refined Storage\" può anche essere utilizzato per conservare sostanze chimiche, grazie all'integrazione con il mod \"Refined Storage - Mekanism\".\n\nInoltre, è possibile conservare energia, risorse e anime, grazie al mod \"Refined Types\"."
+    ],
+    "quest.0945EC53626F58E6.title": "\\&5 Altri componenti per lo stoccaggio",
+    "quest.0D4FE97640F2CA60.quest_desc": [
+        "Il \\&bUltra Destructor\\&r dispone di 36 slot per filtri, funziona 5 volte più velocemente e include un sistema di aggiornamento \\&eStack\\&r integrato."
+    ],
+    "quest.0D4FE97640F2CA60.title": "\\&bUltra Destructor",
+    "quest.0F00BBDF3618B3BA.quest_desc": [
+        "La griglia \"\\&3Crafting Grid\" vi permette di accedere al vostro inventario, ma con un'interfaccia dedicata alla creazione di oggetti!\n\nSiamo onesti, nessuno utilizza le normali griglie \"\\&3Grids\"."
+    ],
+    "quest.0F00BBDF3618B3BA.title": "\\&3La Rete Migliore",
+    "quest.1187F9D4F4E0D254.quest_desc": [
+        "Lo strumento \"\\&3Wrench\" è uno strumento che può eseguire due azioni:\n- Ruotare i blocchi.\n- Rompere le coperture di Refined Storage.\n\nBasta usare lo strumento \"\\&3Wrench\" e premere il tasto \"sneak\" (furtività) seguito dal tasto destro del mouse."
+    ],
+    "quest.1187F9D4F4E0D254.quest_subtitle": "Mi fai girare![\/tuo]",
+    "quest.1187F9D4F4E0D254.title": "\\&3Chiave inglese",
+    "quest.123807F4BBE75120.title": "\\&b16384k, componente di archiviazione",
+    "quest.12A43F82FC67A289.quest_desc": [
+        "Per archiviare i tuoi dati, dovrai creare dei dischi, che possono essere memorizzati all'interno delle unità disco (unità disco) collegate alla tua rete.\\n\\nQueste unità disco hanno 8 slot per i dischi."
+    ],
+    "quest.12A43F82FC67A289.quest_subtitle": "È ora di giocare con i dischi!",
+    "quest.13A0714444BA79AB.quest_desc": [
+        "Il \\&bUltra Importer\\&r dispone di 36 slot di filtro, funziona 5 volte più velocemente e include un sistema di aggiornamento \\&eStack\\&r integrato."
+    ],
+    "quest.13A0714444BA79AB.title": "\\&bImporter Ultra",
+    "quest.15ECBC8E174FA39B.quest_desc": [
+        "Permette di accedere allo spazio di archiviazione di rete in modalità wireless."
+    ],
+    "quest.15ECBC8E174FA39B.quest_subtitle": "Griglia portatile",
+    "quest.17920C436DDBBD07.title": "\\&2262kB, Componente per lo stoccaggio di fluidi",
+    "quest.189018F641FBB44E.quest_desc": [
+        "Il \\&4Mega Autocrafter\\&r dispone di 54 slot per modelli, funziona 8 volte più velocemente e include un aggiornamento integrato per lo stoccaggio."
+    ],
+    "quest.189018F641FBB44E.title": "\\&4Mega Autocrafter",
+    "quest.1D2700821045CCF2.title": "\\&565536k, Componente di archiviazione",
+    "quest.1F55A483008F74FE.quest_desc": [
+        "Il \\&bUltra Constructor\\&r dispone di 36 slot per filtri, funziona 5 volte più velocemente e include un sistema di aggiornamento \\&eStack\\&r integrato."
+    ],
+    "quest.1F55A483008F74FE.title": "\\&bUltra Constructor",
+    "quest.22F80D267321BFC5.quest_desc": [
+        "L'\\&3Autocrafer Manager\\&r consente di accedere a tutti i tuoi \\&3Autocrafter\\&r da un'unica posizione.\n\nSpero che non provi a organizzare tutto, per il tuo bene."
+    ],
+    "quest.22F80D267321BFC5.quest_subtitle": "",
+    "quest.22F80D267321BFC5.title": "\\&3Gestire Autocrafters",
+    "quest.23F691FC053F2319.quest_desc": [
+        "L'interfaccia per dischi consente di trasferire oggetti e liquidi da un disco all'altro, inserendoli in un altro set di dischi."
+    ],
+    "quest.23F691FC053F2319.quest_subtitle": "Basta con le manipolazioni!",
+    "quest.24D3F605315ADB03.quest_desc": [
+        "Il dispositivo Wireless Universal Grid\\&r consente di accedere al tuo spazio di archiviazione, alla tua rete di archiviazione, e alla tua coda di creazione, tutto in modalità wireless."
+    ],
+    "quest.24D3F605315ADB03.quest_subtitle": "",
+    "quest.24D3F605315ADB03.title": "\\&d Rete Universale Wireless",
+    "quest.253657BE5D9D9162.quest_desc": [
+        "L'interfaccia di archiviazione esterna è un tipo di interfaccia cablata che rappresenta uno degli elementi più importanti da utilizzare nel proprio sistema di archiviazione.\n\nQuesto tipo di interfaccia collega un dispositivo di archiviazione esterno alla tua rete. In pratica, permette al sistema RS di accedere al contenitore di archiviazione, consentendoti di accedervi all'interno del tuo sistema!\n\nFunziona con diversi tipi di contenitori, tra cui casse, barili, cassetti, controllori di cassetti e altro ancora.\n\nSe non hai dischi rigidi e hai molti contenitori sparsi, questa è la soluzione migliore per creare una rete di archiviazione."
+    ],
+    "quest.2B27E4E04A628C60.quest_desc": [
+        "L'aggiornamento \"\\&eSpeed Upgrade\\&r\" fa esattamente ciò che dice. Aumenta la velocità con cui l'interfaccia\/blocco funziona. Avete bisogno di un importatore più veloce? Volete che i vostri artigiani lavorino più velocemente? Questo è l'aggiornamento!\\n\\nL'aggiornamento \"\\&eStack Upgrade\\&r\" aumenta la velocità di trasferimento a un gruppo di oggetti, piuttosto che a un singolo oggetto. Combinate con gli aggiornamenti di velocità per una maggiore efficienza delle reti!"
+    ],
+    "quest.2B27E4E04A628C60.title": "E accelerare!",
+    "quest.2CFEE04BA574921E.quest_desc": [
+        "Il comando \"\\&bConstructor\\&r\" è un'interfaccia che permette di posizionare un blocco specifico nella direzione in cui è orientato.\n\nÈ possibile specificare il blocco all'interno dell'interfaccia grafica. Questo può essere utile per l'automazione!"
+    ],
+    "quest.2CFEE04BA574921E.quest_subtitle": "Posizionamento dei blocchi!",
+    "quest.2E2811D1A0F2A492.quest_desc": [
+        "Per aumentare l'intervallo della connessione wireless al tuo sistema, è possibile utilizzare le seguenti opzioni:\n\n*   **Aggiornamenti per l'intervallo:** (o \"Aggiornamenti per l'estensione della portata\")\n\nIl trasmettitore wireless può supportare un massimo di 4 dispositivi."
+    ],
+    "quest.2E2811D1A0F2A492.quest_subtitle": "Segnale migliore",
+    "quest.2E2811D1A0F2A492.title": "\\&bAumentare la portata del Wi-Fi",
+    "quest.30700E99091B712A.quest_desc": [
+        "L'aggiornamento \"\\&cRegulator Upgrade\\&r\" consente di mantenere un certo numero di oggetti all'interno di un blocco o di una macchina. Un ottimo esempio è specificare al sistema che desideri mantenere 64 pezzi di carbone all'interno di un forno. Potresti inserire l'aggiornamento in un dispositivo di esportazione collegato al forno, quindi impostarlo su 64. Il sistema cercherà quindi di mantenere il forno pieno di combustibile!\n\nMa cosa succede se hai bisogno di un oggetto che deve essere creato? L'aggiornamento \"\\&6Crafting Upgrade\\&r\" fa esattamente questo. Se hai la ricetta all'interno di un autocrafter, aggiungendo questo aggiornamento a un'interfaccia, il sistema saprà crearla quando ne avrai bisogno.\n\nPrendendo come esempio quello precedente, supponiamo di avere un'azienda agricola \"\\&aMystical Agriculture\\&r\" e di avere \"Essenza di carbone\". Possiamo quindi inserire la ricetta per il carbone in un autocrafter collegato al nostro sistema, quindi posizionare questo aggiornamento nello stesso dispositivo di esportazione che mantiene il forno alimentato. Se esaurisci il carbone nel tuo sistema, l'aggiornamento \"\\&6Crafting Upgrade\\&r\" permette al tuo sistema di crearne di nuovo!"
+    ],
+    "quest.30700E99091B712A.title": "\\&cAggiornamento del regolatore",
+    "quest.33105698C75093C2.quest_desc": [
+        "Il \\&4Mega Destructor\\&r dispone di 54 slot per filtri, funziona 8 volte più velocemente e include un aggiornamento integrato per lo stack."
+    ],
+    "quest.33105698C75093C2.title": "\\&4Mega Distruttore",
+    "quest.34F7325C2AFA6DA7.quest_desc": [
+        "Questo contenuto è stato creato da \\&6AllTheMods Staff\\&r, oppure da un \\&2contributore della community\\&r, per l'uso nei pacchetti di mod di AllTheMods.\\n\\nPoiché tutti i pacchetti di AllTheMods sono soggetti al copyright \\&eTutti i diritti riservati\\&r, questo contenuto non può essere utilizzato in altri pacchetti pubblici, a meno che non sia stato rilasciato dal team di AllTheMods, previa autorizzazione esplicita.\\n\\nQuesto contenuto è stato intenzionalmente nascosto. Se lo state visualizzando, siete in modalità di modifica."
+    ],
+    "quest.3751015CD5C84134.title": "\\&b4096B: Componente per lo stoccaggio di fluidi",
+    "quest.39C8E1705EF1CD31.title": "\\&e256B, Componente per lo stoccaggio di fluidi",
+    "quest.3B062B9EC2CEF592.quest_desc": [
+        "Il \\&4Mega Exporter\\&r dispone di 54 slot per filtri, funziona 8 volte più velocemente e include un aggiornamento per lo stack integrato."
+    ],
+    "quest.3B062B9EC2CEF592.title": "\\&4Mega Esportatore",
+    "quest.3B84215240D9F2CB.quest_desc": [
+        "Il \"Gestore di Sicurezza\" consente di concedere accesso e permessi agli utenti all'interno della vostra rete.\\\\n\\\\nQuando viene installato nel sistema, sarà necessario un \"Biglietto di Sicurezza\" per ogni giocatore a cui si desidera assegnare permessi. Se non sono presenti biglietti, tutti avranno accesso a tutti i permessi.\\\\n\\\\nPer limitare i permessi e l'accesso a tutti i giocatori non configurati, è necessario creare un biglietto che non sia associato a un giocatore specifico e inserirlo nel gestore. La persona che ha installato il \"Gestore di Sicurezza\" avrà sempre accesso ad esso."
+    ],
+    "quest.3B84215240D9F2CB.quest_subtitle": "Proteggi la tua rete!",
+    "quest.3B84215240D9F2CB.title": "\\&3Responsabile della sicurezza",
+    "quest.3E890BABC4C41370.quest_desc": [
+        "A causa del limite imposto dal Controller, probabilmente vorrete collegare diversi sistemi al vostro hub principale senza dover utilizzare un'enorme quantità di cavi.\n\nQuesto si realizza utilizzando i \\&3Trasmettitori\\&r e i \\&3Ricevitori\\&r.\n\nI \\&3Trasmettitori\\&r devono essere collegati al vostro sistema principale, ovunque si trovi il Controller.\n\nIl \\&3Ricevitore\\&r deve essere posizionato dove desiderate che si trovi la vostra rete esterna. Ad esempio, potrebbe essere una parte separata della vostra base, dove avete le api, una fattoria per i mob, ecc.\n\nPer collegare il ricevitore alla vostra rete principale, sarà necessario utilizzare una \\&3Scheda di rete\\&r. Per collegare la scheda di rete, cliccate con il tasto destro sul ricevitore e quindi inserite la scheda di rete nel trasmettitore collegato al vostro sistema principale."
+    ],
+    "quest.3E890BABC4C41370.quest_subtitle": "Connessione di reti senza fili",
+    "quest.3E890BABC4C41370.title": "\\&3Reti a griglia",
+    "quest.3F8EEE1AD4420702.title": "Parte di archiviazione \\&b64k",
+    "quest.3FD801D7DE9176FB.title": "\\&e4k, componente di archiviazione",
+    "quest.4101F8275B41C79B.title": "\\&61k, componente di archiviazione",
+    "quest.43E8912CB307E421.quest_desc": [
+        "Fantastico! Possiamo archiviare le cose virtualmente, ma come possiamo vedere cosa c'è nella rete?\\n\\nPer accedere al sistema, sarà necessario creare un \"3Grid\". Questo è la forma più elementare di \"Visualizzazione\" per gli elementi presenti nella vostra rete.\\n\\nIl \"3Grid\" può archiviare Elementi, Fluidi, Energia, Fonti, Anime e Prodotti chimici."
+    ],
+    "quest.43E8912CB307E421.quest_subtitle": "Non disconnettervi dalla rete.",
+    "quest.43E8912CB307E421.title": "\\&3La griglia",
+    "quest.44881E39AB1D62AA.quest_desc": [
+        "Il \"\\&3Autocrafter\" è il modo in cui possiamo memorizzare i modelli per consentire alla nostra rete di sapere come creare oggetti. Una volta inserito un modello nella macchina, potrete richiedere la creazione di un oggetto dal vostro \"\\&3Grid\". Per farlo, basta premere Control + Shift mentre si clicca sull'oggetto per il quale avete un modello, per aprire l'interfaccia di creazione.\n\nQuesto blocco può anche essere posizionato di fronte a una macchina per utilizzare i \"\\&6Pattern di Elaborazione\". Ad esempio, se posizionate l' \"\\&3Autocrafter\" di fronte a un forno, potrete inserire un modello per la creazione di un oggetto per il quale è necessario il forno, come la fusione di Processori grezzi. Finché l' \"\\&3Autocrafter\" è collegato al vostro sistema e il forno ha un \"Importer\" collegato, il Crafter vi permetterà di richiedere la versione fusa del Processore!"
+    ],
+    "quest.44881E39AB1D62AA.quest_subtitle": "Produzione automatizzata!",
+    "quest.44881E39AB1D62AA.title": "\\&3Autocrafter",
+    "quest.45FF08E4DB6F7F0E.quest_desc": [
+        "L'Elite Autocrafter dispone di 18 slot per modelli e funziona 2 volte più velocemente."
+    ],
+    "quest.45FF08E4DB6F7F0E.quest_subtitle": "",
+    "quest.45FF08E4DB6F7F0E.title": "",
+    "quest.4966162FBA933453.title": "\\&4262m, componente di archiviazione",
+    "quest.49772923B8AF0F1F.title": "\\&b1048kB Componente per lo stoccaggio di fluidi",
+    "quest.4A198E875A6B0A64.quest_desc": [
+        "Il \\&bUltra Autocrafter\\&r dispone di 36 slot per modelli, opera 5 volte più velocemente e include un aggiornamento integrato per lo stoccaggio."
+    ],
+    "quest.4A198E875A6B0A64.title": "\\&bUltra Autocrafter",
+    "quest.4A99CAB529BB9F75.quest_desc": [
+        "Il \\&4Mega Constructor\\&r dispone di 54 slot per filtri, funziona 8 volte più velocemente e include un aggiornamento integrato per lo stack."
+    ],
+    "quest.4A99CAB529BB9F75.title": "\\&4Mega Constructor",
+    "quest.4B81E84CAE814BA9.title": "\\&664B: Componente per lo stoccaggio di fluidi",
+    "quest.4C1F13F5A0E273EF.title": "\\&6256k Parte di archiviazione",
+    "quest.4CD83943865018EA.quest_desc": [
+        "Lo strumento \"\\&9Exporter\\&r\" viene utilizzato per trasferire oggetti dal tuo sistema in un blocco proveniente dallo spazio di archiviazione di rete.\\n\\nQuesto può essere utilizzato per riempire forni con minerali o combustibili, per spostare materiali in casse specifiche, ecc.\\n\\nÈ inoltre possibile filtrare quali oggetti vengono trasferiti."
+    ],
+    "quest.4CD83943865018EA.quest_subtitle": "Esportazione di articoli!",
+    "quest.52ACADDFCB0E22AB.title": "Parte di archiviazione \\&a4096k",
+    "quest.532229D285CA4858.quest_desc": [
+        "L'\\&9Importer\\&r è un'interfaccia che può essere utilizzata per estrarre elementi da un blocco connesso.\n\nAd esempio, è possibile utilizzarla con i forni per estrarre il prodotto finito nel proprio sistema.\n\nÈ inoltre possibile filtrare gli elementi che vengono estratti."
+    ],
+    "quest.532229D285CA4858.quest_subtitle": "Importazione di articoli!",
+    "quest.53CA0D6B4D5A17D5.title": "\\&616384B: Componente per lo stoccaggio di fluidi",
+    "quest.59F5ED931FD70C55.quest_desc": [
+        "Gli \"\\&9Patterns\\&r\" sono fondamentali per l'artigianato automatico. Permettono di memorizzare ricette, in modo che la tua rete RS sappia come creare oggetti."
+    ],
+    "quest.59F5ED931FD70C55.quest_subtitle": "Seguire il modello",
+    "quest.59F5ED931FD70C55.title": "Auto-costruzione",
+    "quest.5BB7648DC10E1E08.quest_desc": [
+        "Il modulo \\&bUltra Exporter\\&r dispone di 36 slot di filtro, funziona 5 volte più velocemente e include un sistema di aggiornamento \\&eStack\\&r integrato."
+    ],
+    "quest.5BB7648DC10E1E08.title": "\\&bEsportatore Ultra",
+    "quest.5CAC395680027354.quest_desc": [
+        "L'\\&bTrasmettitore wireless interdimensionale\\&r è una versione migliorata del \\&3Trasmettitore wireless\\&r, che offre un raggio di azione illimitato, anche attraverso le dimensioni."
+    ],
+    "quest.5CAC395680027354.quest_subtitle": "In breve: Ottima connessione Wi-Fi.",
+    "quest.5CAC395680027354.title": "\\& Trasmettitore wireless interdimensionale",
+    "quest.5EAD916C4F15335F.quest_desc": [
+        "Il \\&4Mega Importer\\&r dispone di 54 slot per filtri, funziona 8 volte più velocemente e include un aggiornamento integrato per lo stack."
+    ],
+    "quest.5EAD916C4F15335F.title": "\\&4Mega Importer",
+    "quest.60244F26B9ABED49.title": "\\&a1024B: Componente per lo stoccaggio di fluidi",
+    "quest.6092490EC9008A05.quest_desc": [
+        "Il comando \"\\&4Destructor\\&r\" è un'interfaccia che permette di distruggere automaticamente il blocco a cui è collegato.\n\nÈ inoltre possibile utilizzarlo per creare una lista bianca di blocchi, il che è utile per automatizzare determinate operazioni, come la creazione di casse in \"\\&6Create\"."
+    ],
+    "quest.6092490EC9008A05.quest_subtitle": "Rompi i blocchi!",
+    "quest.616B6046EF5DDF21.quest_desc": [
+        "L'Elite Importer dispone di 18 slot per filtri e funziona 2 volte più velocemente."
+    ],
+    "quest.616B6046EF5DDF21.quest_subtitle": "",
+    "quest.616B6046EF5DDF21.title": "",
+    "quest.64D6C395B6304F40.title": "\\&e65536B Componente per lo stoccaggio di fluidi",
+    "quest.64E85274D24FE394.quest_desc": [
+        "Quando è connesso al tuo sistema, il software \\&9Storage Monitor\\&r visualizzerà il numero corrente di un elemento all'interno della tua rete."
+    ],
+    "quest.65C8A43FEDBA3835.quest_desc": [
+        "La funzione \"\\&3Pattern Grid\\&r\" consente di salvare le ricette sui Pattern per la tua rete.\n\nIl modo più semplice per creare una ricetta per un Pattern è cercare l'articolo su JEI, quindi fare clic sul pulsante \"+\" nella parte inferiore destra della ricetta. Questo inserirà la ricetta nella griglia.\n\nSul lato destro, la prima casella è utilizzata per memorizzare Pattern vuoti. Una volta inserito un Pattern vuoto, dovresti essere in grado di fare clic sull'freccia sottostante per applicare la ricetta al Pattern.\n\nSuccessivamente, dovresti inserire il Pattern nell'\\&3Autocrafter\\&r!"
+    ],
+    "quest.65C8A43FEDBA3835.quest_subtitle": "",
+    "quest.65C8A43FEDBA3835.title": "\\&3Griglia di pattern",
+    "quest.66D85424EC74EDCC.quest_desc": [
+        "Il \\&9Portable Grid\\&r è un sistema di archiviazione portatile che non è connesso a una rete.\n\nPermette di interagire con un \\&9Storage Disk\\&r anche quando non si è connessi a una rete."
+    ],
+    "quest.6904EC449FBEE387.quest_desc": [
+        "I cavi (codice \"\\&9Cables\\&r\") vengono utilizzati per collegare blocchi e oggetti al vostro sistema.\\\\n\\\\nInizialmente, è possibile semplicemente posizionare i blocchi uno accanto all'altro per collegarli al sistema, ma i cavi consentono di estendere la connessione! Questa è una funzionalità essenziale per qualsiasi rete RS di grandi dimensioni."
+    ],
+    "quest.6904EC449FBEE387.quest_subtitle": "Collegare il sistema",
+    "quest.6904EC449FBEE387.title": "Cavi",
+    "quest.6973A5923AF7BF05.quest_desc": [
+        "Il modello Elite Exporter dispone di 18 slot di filtro e funziona 2 volte più velocemente."
+    ],
+    "quest.6973A5923AF7BF05.quest_subtitle": "",
+    "quest.6973A5923AF7BF05.title": "",
+    "quest.6B04FC81351CD1AB.quest_desc": [
+        "Se desiderate accedere alla vostra rete RS in modalità wireless, dovrete prima creare un trasmettitore wireless.\n\nPotete posizionare questo dispositivo in qualsiasi punto del vostro sistema. È necessario per utilizzare le reti wireless."
+    ],
+    "quest.6B04FC81351CD1AB.quest_subtitle": "Il XXI secolo",
+    "quest.6B04FC81351CD1AB.title": "\\&5 Accesso wireless",
+    "quest.6D81DF90E9C2C049.quest_desc": [
+        "L'Elite Destructor ha 18 slot per filtri e funziona 2 volte più velocemente."
+    ],
+    "quest.6D81DF90E9C2C049.quest_subtitle": "",
+    "quest.6D81DF90E9C2C049.title": "",
+    "quest.6DB06E3984D0CF97.quest_desc": [
+        "Il Elite Constructor dispone di 18 slot per filtri e funziona 2 volte più velocemente."
+    ],
+    "quest.6DB06E3984D0CF97.quest_subtitle": "",
+    "quest.6DB06E3984D0CF97.title": "",
+    "quest.7044EAB5EDF32BBC.quest_desc": [
+        "Quando collegato al tuo sistema, il \"Crafting Monitor\" ti permette di visualizzare quali oggetti sono attualmente presenti nella tua lista di crafting.\n\nAvrai bisogno di uno di questi dispositivi se desideri poter annullare i processi di crafting che non funzionano o presentano errori."
+    ],
+    "quest.7044EAB5EDF32BBC.quest_subtitle": "",
+    "quest.7044EAB5EDF32BBC.title": "\\&3Monitoraggio della produzione automatizzata",
+    "quest.718A2040D868E09F.title": "\\&21048m, componente di archiviazione",
+    "quest.723E0CD3C8DD36B1.quest_desc": [
+        "L'interfaccia Elite Disk dispone di 18 slot per filtri e offre prestazioni 2 volte superiori."
+    ],
+    "quest.723F67A9C6993018.quest_desc": [
+        "L'interfaccia \\&bUltra Disk\\&r dispone di 36 slot per filtri, funziona 5 volte più velocemente e include un sistema di aggiornamento \\&eStack\\&r integrato."
+    ],
+    "quest.723F67A9C6993018.title": "\\&Interfaccia per disco Ultra",
+    "quest.744842B2AED28344.quest_desc": [
+        "Permette di accedere al tuo storage di rete in modalità wireless, grazie a un'interfaccia di gestione integrata."
+    ],
+    "quest.744842B2AED28344.quest_subtitle": "",
+    "quest.744842B2AED28344.title": "",
+    "quest.7604D8B3C9FCCFD9.quest_desc": [
+        "È ora di creare gli \"Hard Drive\" per lo storage raffinato. Per farlo, avremo bisogno di un \"Storage Housing\" che combineremo con un \"Storage Part\" per creare un \"Storage Disk\". Semplicemente, è sufficiente definire le dimensioni desiderate per la parte, quindi combinarla con un \"Storage Housing\" per creare un disco.\n\nIl \"Storage Disk\" viene utilizzato per archiviare virtualmente i tuoi oggetti una volta inserito all'interno del \"Disk Drive\". Deve essere inserito all'interno del \"Disk Drive\". Il disco non scomparirà quando viene lasciato nel mondo."
+    ],
+    "quest.787415570026FFAA.quest_desc": [
+        "Questi aggiornamenti aggiungono incantesimi al tuo \"\\&4Destructor\\&\".\n\nTi stai chiedendo perché dovresti usarlo? Immagina di avere un \"\\&bConstructor\\&\" che pompa minerali \"Silk-Touched\" nel tuo sistema. Potresti utilizzare il \"\\&bConstructor\\&\" per ottenere questi minerali, e poi un \"\\&4Destructor\\&\" con l'incantesimo \"\\&eFortune\\&\" per romperli ulteriormente e ottenere ancora più minerali grezzi."
+    ],
+    "quest.787415570026FFAA.quest_subtitle": "",
+    "quest.787415570026FFAA.title": "Aggiornamenti per Destructor",
+    "quest.796E922CA69BAE82.quest_desc": [
+        "L'interfaccia \\&4Mega Disk\\&r dispone di 54 slot per filtri, offre una velocità di 8 volte superiore e include un sistema di aggiornamento \\&eStack\\&r integrato."
+    ],
+    "quest.796E922CA69BAE82.title": "\\& Interfaccia per dischi Mega",
+    "quest.7C94F6AE2A793858.title": "Parte di archiviazione \\&e1024k",
+    "quest.7DD638E4111D66E7.quest_desc": [
+        "È necessario un'area di stoccaggio avanzata per poter creare dischi di archiviazione di livello superiore."
+    ],
+    "quest.7DD638E4111D66E7.quest_subtitle": "",
+    "quest.7DD638E4111D66E7.title": "\\&8Alloggi di archiviazione avanzati",
+    "quest.7FA85713C86166DA.quest_desc": [
+        "Permette di accedere alla tua coda di creazione di reti in modalità wireless."
+    ],
+    "task.086992D773D34C15.title": "Miglioramenti a Fortuna",
+    "task.2AEFA81B8D7EB62B.title": "Tutti i diritti riservati",
+    "task.3D29353D5475642D.title": "",
+    "task.7D72E6723FFA5BB7.title": "Tutti i diritti riservati"
+}

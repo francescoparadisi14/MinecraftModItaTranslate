@@ -1,17 +1,17 @@
 {
-    "name": "Ragno",
+    "name": "Rana",
     "category": "patchouli:animals",
     "icon": "society:ribbit_gadget",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Raccolta: Succo di sughero (30% di probabilità), Zampa di rana (10% di probabilità), Gadget di ribbit (5% di probabilità), Luminari di rana (25% di probabilità)$(br2)$(l)Note$()$(br)La raccolta richiede 1+ cuori. Può essere trovato in biomi di palude."
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile per la vendita$(li)Risorsa: Sapa (30% di probabilità), Coscia di rana (10% di probabilità), Gadget \"Ribbit\" (5% di probabilità), \"Froglights\" (25% di probabilità)$(br2)$(l)Note$()$(br)La raccolta delle risorse richiede almeno 1 cuore. Si trova negli ambienti di palude. Può essere addomesticata con gli occhi di ragno."
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:frog",
             "scale": 0.7,
-            "text": "Amore per completare le taglie, odio ai Luminosi!"
+            "text": "Patchouli: entità\n\nMinecraft: rana\n\nAma completare le missioni, ma odia i Slimes!"
         }
     ]
 }

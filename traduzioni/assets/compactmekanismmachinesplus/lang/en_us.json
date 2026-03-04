@@ -1,0 +1,8 @@
+{
+    "block.compactmekanismmachinesplus.compact_fusion_reactor": "Compact Fusion Reactor",
+    "block.compactmekanismmachinesplus.compact_sps": "Compact Supercritical Phase Shifter",
+    "block.compactmekanismmachinesplus.compact_thermoelectric_boiler": "Compact Thermoelectric Boiler",
+    "boiler.compactmekanismmachinesplus.stats.dispersers_y": "Pressure disperser height: %1$s",
+    "other.compactmekanismmachinesplus.mod_name": "CompactMekanismMachinesPlus",
+    "reactor.compactmekanismmachinesplus.stats.active": "In operation"
+}

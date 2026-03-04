@@ -5,14 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Localizzazioni:$()$(li)Bioma: Caverne degli Squeletti (Caverna degli Squeletti)$(li)Fusione del Cuore$(li)Punti di scavo: Ghiaccio, Blocco di Neve$(li)Uccisione dei Creepers (20% di probabilità)$(br2)$(l)Rischii:$()$(br)Causa esplosioni quando è affamato e non rompe blocchi."
+            "text": "patchouli:testo\n\n$(l)Posizioni:$()$(li)Bioma: Caverne del Cranio (Caverna del Cranio)$(li)Fusione del cuore$(li)Luoghi di raccolta: Ghiaccio, Blocchi di Neve$(li)Possibilità di uccidere i Creepers (20%)$(br2)$(l)Rischi:$()$(br)Provoca esplosioni quando ha fame, senza distruggere i blocchi."
         },
         {
             "type": "patchouli:entity",
-            "name": "Boomcat Slime",
+            "name": "patchouli:entità\n\nsplendid_slimes:splendid_slime{Razza:\"splendid_slimes:boomcat\"}\n\nSlime di tipo \"Boomcat\"",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:boomcat\"}",
-            "scale": 0.9,
-            "text": "Entità: Splendido Slime di Boomcat"
+            "scale": 0.9
         }
     ]
 }

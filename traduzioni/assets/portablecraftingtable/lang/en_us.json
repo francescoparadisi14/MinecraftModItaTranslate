@@ -1,1 +1,6 @@
-[]
+{
+    "item.portablecraftingtable.portable_crafting_table": "Portable Crafting Table",
+    "itemGroup.portablecraftingtable_creative_mode_tab": "Portable Crafting Table",
+    "key.category.portablecraftingtable.category": "Portable Crafting Table",
+    "key.mymod.open_gui": "Open Portable Crafting Table"
+}

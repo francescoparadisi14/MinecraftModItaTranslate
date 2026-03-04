@@ -1,0 +1,8 @@
+{
+    "tooltip.pipezretriever.mode": "Mode: %s",
+    "tooltip.pipezretriever.mode.extract": "Extract (Push to destinations)",
+    "tooltip.pipezretriever.mode.retrieve": "Retrieve (Pull from destinations)",
+    "tooltip.pipezretriever.requires_upgrade": "Requires at least a Basic Upgrade",
+    "tooltip.pipezretriever.retrieve_button": "Toggle Retrieve Mode",
+    "tooltip.pipezretriever.retrieve_button.description": "When enabled, pulls items\/fluids\/energy FROM connected inventories INTO the source"
+}

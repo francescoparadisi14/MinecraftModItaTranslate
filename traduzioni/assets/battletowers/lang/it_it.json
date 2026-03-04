@@ -1,4 +1,4 @@
 {
-    "entity.battletowers.battle_tower_golem": "Golemo della torre di battaglia",
-    "notify.battletowers.golem_defeated": "Un guardiano di una torre da battaglia è caduto! Senza il suo potere, la torre crollerà..."
+    "entity.battletowers.battle_tower_golem": "Torre di Battaglia: Golem",
+    "notify.battletowers.golem_defeated": "Il Guardiano della Torre è caduto! Senza la sua protezione, la Torre crollerà..."
 }

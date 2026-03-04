@@ -1659,6 +1659,7 @@
     "vampirism.configuration.render": "Render",
     "vampirism.configuration.renderScreenOverlay": "Enable Screen Overlay",
     "vampirism.configuration.renderScreenOverlay.tooltip": "Render fullscreen colored HUD effects. E.g. when leveling up as vampire",
+    "vampirism.configuration.renderTotemFactionName": "Render Totem Faction Name",
     "vampirism.configuration.rendering": "Rendering",
     "vampirism.configuration.resourceCooldown": "Resource Cooldown",
     "vampirism.configuration.resourceCooldownOfflineMult": "Resource Cooldown Offline Multiplier",

@@ -1,0 +1,5 @@
+{
+    "block.portablespawner.example_block": "Example Block",
+    "item.portablespawner.example_item": "Example Item",
+    "itemGroup.portablespawner": "Example Mod Tab"
+}

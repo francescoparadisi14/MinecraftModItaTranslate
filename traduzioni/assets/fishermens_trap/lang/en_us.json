@@ -1,0 +1,9 @@
+{
+    "block.fishermens_trap.fishtrap": "Fish Trap",
+    "fishermens_trap.configuration.chance": "Chance",
+    "fishermens_trap.configuration.enable_full_stack_catch": "Fish trap catches full stack",
+    "fishermens_trap.configuration.max_ticks": "Min ticks",
+    "fishermens_trap.configuration.min_ticks": "Max ticks",
+    "fishermens_trap.container.fishtrap": "Fish Trap",
+    "fishermens_trap.jei.fishtrap_fishing": "Fish Trap Fishing"
+}

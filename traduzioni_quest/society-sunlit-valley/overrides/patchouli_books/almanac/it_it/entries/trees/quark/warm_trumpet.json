@@ -1,15 +1,15 @@
 {
-    "name": "Warm Trumpet Tree 🌐",
+    "name": "Albero della tromba caldo 🌐",
     "category": "patchouli:trees",
     "icon": "quark:orange_blossom_sapling",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)🌐 §5Tutto l'anno§r$(li)Dimensioni: 1x1`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🌐 Disponibile tutto l'anno§r$(li)Dimensioni: 1x1."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Warm Trumpet Tree",
+            "name ": "Patchouli: Multibloc\n\nAlbero Trumpet caldo",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -394,8 +394,7 @@
                     "L": "quark:orange_blossom_leaves",
                     "W": "quark:blossom_log[axis=y]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

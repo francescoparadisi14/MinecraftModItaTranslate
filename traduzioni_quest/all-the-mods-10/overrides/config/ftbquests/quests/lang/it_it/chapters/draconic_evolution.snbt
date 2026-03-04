@@ -1,0 +1,486 @@
+{
+    "quest.0000A88BB40B2149.quest_desc": [
+        "Prima di affrontare il Chaos Island, consiglio di prepararsi adeguatamente. Anche se assomiglia all'Ender Dragon, questo è molto più difficile. Sarà utile utilizzare armi o strumenti di tipo draconico, in grado di infliggere molti danni, per facilitare la battaglia. Inoltre, è consigliabile indossare un'armatura di alta qualità, come quella in Unobtainium o la Meka-Suit, per proteggersi. Anche gli effetti di rigenerazione, assorbimento e resistenza saranno utili per sopravvivere. Non preoccupatevi, potete sempre tornare a combattere un altro giorno se non siete ancora pronti."
+    ],
+    "quest.0000A88BB40B2149.quest_subtitle": "",
+    "quest.0000A88BB40B2149.title": "È difficile, quindi dovrete prepararvi.",
+    "quest.01612963DBBAC9A1.quest_desc": [
+        "Spero che questo possa proteggerti."
+    ],
+    "quest.01612963DBBAC9A1.title": "Armatura caotica",
+    "quest.0252B8F77A038D17.title": "Modulo di alimentazione automatica per Wyvern",
+    "quest.04695DA1BD3BF1B2.title": "Modulo di danni caotici",
+    "quest.0499A372F55D04C8.title": "Modulo di Velocità per Proiettili Draconici",
+    "quest.04BF68E4554D69AA.quest_desc": [
+        "L'ultimo e il migliore: Livello 8! Avrete bisogno di 378 blocchi di Draconium risvegliato e di 786 blocchi di Draconium! Ne vale la pena?",
+        "{image:atm:textures\/questpics\/draconic\/draconic_core_8off.png width:100 height:100 align:1}",
+        "{image:atm:textures\/questpics\/draconic\/draconic_core_8on.png width:100 height:100 align:1}"
+    ],
+    "quest.04BF68E4554D69AA.quest_subtitle": "Negozi: Praticamente illimitati",
+    "quest.04BF68E4554D69AA.title": "Livello 8",
+    "quest.052E261F934AB439.quest_desc": [
+        "Posso anche creare percorsi personalizzati!"
+    ],
+    "quest.052E261F934AB439.title": "Pala disordinata",
+    "quest.070F8045CC14B50D.title": "Modulo di penetrazione di proiettili draconici",
+    "quest.0817FD6E45C127E8.quest_desc": [
+        "Tecnicamente, questa opzione è facoltativa, ma è fortemente consigliata! È possibile utilizzare più pyloni per trasportare una maggiore quantità di materiali."
+    ],
+    "quest.0817FD6E45C127E8.title": "More Pylons {optional)",
+    "quest.0AE8B51D63327EC3.title": "Modulo di recupero dello scudo caotico",
+    "quest.0AE930BA037DC565.quest_desc": [
+        "Per saperne di più su come utilizzare e aggiornare gli oggetti DE, consultate i moduli. Funzionano come un arco normale, sparando frecce. Ogni tiro consuma una quantità di energia dall'arco stesso, quindi sì, avrete bisogno di almeno un modulo di energia."
+    ],
+    "quest.0AE930BA037DC565.title": "Arco Wyvern",
+    "quest.0E487EACA837EA9B.title": "Modulo di controllo per lo scudo caotico",
+    "quest.10690FDB9E892250.quest_desc": [
+        "Esplorate i moduli per saperne di più su come utilizzare e aggiornare gli oggetti DE! Usatelo e colpite qualcosa con esso. Forza, è una spada, non posso più spiegarlo."
+    ],
+    "quest.10690FDB9E892250.title": "Spada del Wyvern",
+    "quest.106D08542AAFA166.quest_desc": [
+        "La prima fase della battaglia consiste nel distruggere i cristalli che proteggono lo scudo del Guardiano del Caos. Non è possibile danneggiarlo finché questi cristalli non saranno stati distrutti. Distruggere questi cristalli non è un compito facile senza un'arma draconica. I proiettili del Guardiano del Caos possono indebolire lo scudo, permettendovi di distruggerlo. (Sì, dovrà sparare a voi\/ai cristalli). Noterete la produzione di particelle quando lo scudo è vulnerabile e, quando viene colpito, emetterà un suono. Più si avvicina alla distruzione, più il suono sarà forte e il cristallo diventerà più opaco. Una volta distrutti, finalmente potrete danneggiarlo!",
+        "{image:atm:textures\/questpics\/draconic\/draconic_end_crystal.png width:150 height:100 align:1}"
+    ],
+    "quest.106D08542AAFA166.title": "Individuare e distruggere 14 Cristalli Protettivi",
+    "quest.10E4ADA1D0063EB7.title": "Modulo di Velocità Caotica per Proiettili",
+    "quest.120B403D56EE5C79.title": "Modulo Energetico Wyvern",
+    "quest.12469CC0CCFBA1C5.quest_desc": [
+        "La spada migliore, il piccone più veloce e la pala?!?! Cosa si potrebbe chiedere di più!"
+    ],
+    "quest.12469CC0CCFBA1C5.title": "Personale disorganizzato",
+    "quest.129E09C03E40BA57.quest_desc": [
+        "Il reattore utilizza il Draconio risvegliato come combustibile; non preoccupatevi, è molto efficiente! La conversione del combustibile determina quando il Draconio risvegliato si trasformerà in Caos. Può utilizzare solo 8 slot contemporaneamente e può essere alimentato o ricaricato solo quando il reattore è spento. La modalità SAS rende questo processo più semplice! Inoltre, il combustibile va inserito negli slot inferiori a destra."
+    ],
+    "quest.129E09C03E40BA57.title": "Combustibile per il nostro reattore",
+    "quest.12BDE512C734D19A.quest_desc": [
+        "I nuclei di Draconium sono un ingrediente fondamentale in molte ricette di Draconic Evolution, in particolare per gli oggetti di livello base."
+    ],
+    "quest.12BDE512C734D19A.title": "Nucleo di base (Draconio)",
+    "quest.131AA933D59D3017.quest_desc": [
+        "Per raggiungere il livello 5, sono necessari 90 blocchi di lingotto di Draconium e 80 blocchi di Redstone, oltre a 4 Stabilizzatori Avanzati o 36 Stabilizzatori.",
+        "{image:atm:textures\/questpics\/draconic\/draconic_core_5off.png width:100 height:100 align:1}",
+        "{image:atm:textures\/questpics\/draconic\/draconic_core_5on.png width:100 height:100 align:1}"
+    ],
+    "quest.131AA933D59D3017.quest_subtitle": "Negozi: 59.300.000.000 RF",
+    "quest.131AA933D59D3017.title": "Livello 5",
+    "quest.154D9EA863FD2A32.title": "Modulo di Penetrazione Caotica",
+    "quest.164BBBD98163F64C.quest_desc": [
+        "Consultate i moduli per saperne di più su come utilizzare e aggiornare gli oggetti DE! Potrebbero trasformare un terreno agricolo o farvi guadagnare dei soldi. Oh, scusate, intendevo un altro oggetto."
+    ],
+    "quest.164BBBD98163F64C.title": "Wyvern Hoe",
+    "quest.165030137EF59299.title": "Modulo Wyvern ad area d'effetto",
+    "quest.166D2A191871F80E.quest_desc": [
+        "Versione migliorata dell'ascia Wyvern."
+    ],
+    "quest.166D2A191871F80E.title": "Piccone draconico",
+    "quest.16FF2219F110F50A.quest_desc": [
+        "\"Undying\" funge da elemento chiave, trasformandosi nel \"Totem di Recupero\"! Quando i vostri cuori raggiungono 0 invece di morire, il modulo si attiverà, fornendovi Assorbimento e Rigenerazione, salvandovi la vita. Ha un periodo di ricarica e necessita di utilizzare OP (Overpower) per ricaricarsi. Cercate di non morire durante questo periodo! Migliori aggiornamenti significano tempi di ricarica più brevi."
+    ],
+    "quest.16FF2219F110F50A.title": "Modulo Wyvern Undying",
+    "quest.1830412AB77E9526.quest_desc": [
+        "Con un'arma così rudimentale come un arco, non ci si può aspettare una precisione perfetta. Tuttavia, è possibile ottenerla se si utilizzano questi moduli. L'arco diventa molto più probabile che colpisca il bersaglio, senza deviazioni."
+    ],
+    "quest.1830412AB77E9526.title": "Modulo di precisione per proiettili Wyvern",
+    "quest.1A53B6544782442E.quest_desc": [
+        "Shield Control modifica lo scudo che possiedi e ne regola il ricarico."
+    ],
+    "quest.1A53B6544782442E.title": "Modulo di controllo per lo scudo Wyvern",
+    "quest.1C8210712349A2E3.quest_desc": [
+        "L'idea è piuttosto semplice: \"Axes and Swords\" può infliggere più danni. Sì, questo effetto si accumula!"
+    ],
+    "quest.1C8210712349A2E3.title": "Modulo di base per i danni",
+    "quest.1D3E2363CFD4C5E0.quest_desc": [
+        "Fusion Crafting prevede livelli, determinati dagli Injectors. I livelli sono disposti in ordine crescente: Draconium (che uso come termine generico per distinguerli), Wyvern, Draconic e Chaotic. Gli Injectors devono essere posizionati a sinistra e a destra del nucleo di Fusion Crafting, a una distanza di alcuni blocchi. Per fornire energia, è possibile utilizzare dei cristalli Relay IO collegati agli Injectors; per maggiori informazioni, consultare la sezione Crystak Binding."
+    ],
+    "quest.1D3E2363CFD4C5E0.title": "Livello base",
+    "quest.1E41A5071854DEC8.title": "Modulo di danno per Wyvern",
+    "quest.1F7D147C9AF6A4FC.quest_desc": [
+        "Il Tier 4 è diverso. Innanzitutto, richiede 26 blocchi di Redstone che racchiudono il Core. Successivamente, sopra i blocchi di Redstone, sono necessari 56 blocchi di Draconium.",
+        "{image:atm:textures\/questpics\/draconic\/draconic_core_4off.png width:100 height:100 align:1}",
+        "{image:atm:textures\/questpics\/draconic\/draconic_core_4on.png width:100 height:100 align:1}"
+    ],
+    "quest.1F7D147C9AF6A4FC.quest_subtitle": "Negozi: 9.880.000.000 RF",
+    "quest.1F7D147C9AF6A4FC.title": "Quarto livello",
+    "quest.20D8DA523E900A52.quest_desc": [
+        "I collegamenti wireless consentono ai cristalli wireless di ricaricare i dispositivi. Più moduli sono presenti, maggiore è la capacità di gestire la ricarica e maggiore è la velocità di ricarica."
+    ],
+    "quest.20D8DA523E900A52.title": "Collegamento wireless di energia",
+    "quest.2158A566C2F54AA9.title": "Modulo di controllo per lo scudo draconico",
+    "quest.22D383BAEF8A2B39.quest_desc": [
+        "Conosce il leggendario Paxel? Si tratta di una combinazione di asce, picconi e pale! Funziona esattamente come gli strumenti draconici!"
+    ],
+    "quest.22D383BAEF8A2B39.title": "Bastone draconico",
+    "quest.236C936FE3BA8396.title": "Modulo di volo caotico",
+    "quest.265D0DB0E8CED73B.title": "Modulo di compensazione gravitazionale per proiettili draconici",
+    "quest.26DF1427AC3966DE.quest_desc": [
+        "Benvenuti in Draconic Evolution, un mod molto divertente e potente! Per iniziare, dovrete estrarre il Draconic Ore per ottenere la Draconic Dust. Questa si genera in tutte le dimensioni (quelle originali), ma in particolare nell'End!"
+    ],
+    "quest.26DF1427AC3966DE.title": "Evoluzione draconica",
+    "quest.285656AF1F870AF8.quest_desc": [
+        "È una delle due \"infusioni\" di livello base, ma non sottovalutate il \"Cassetto Draconico\". Ha più spazio di un cassetto doppio, può fondere e creare oggetti, e, soprattutto, può cambiare colore! È senza dubbio il mio cassetto preferito in qualsiasi mod!"
+    ],
+    "quest.285656AF1F870AF8.title": "Cassa di Draconio",
+    "quest.28AF8DD34412CBAA.title": "Modulo di velocità draconica",
+    "quest.295EB6CFEC029AE2.quest_desc": [
+        "Prima di procedere, è necessario un oggetto che richieda l'utilizzo di \"OP\" (Overpower): Arco del Wyvern, Condensatore Caotico, Bastone del Potere, ecc. Successivamente, è necessario aggiungere un modulo di energia all'oggetto, che determinerà la quantità di \"OP\" che l'oggetto può immagazzinare e che sarà utilizzato per alimentare l'oggetto. Una volta ottenuto ciò, è necessario creare e posizionare il \"Trasformatore di Energia\", riempire l'oggetto con l'OP, quindi inserire l'oggetto nel trasformatore. Capirai che funziona quando l'OP all'interno si accende e si muove."
+    ],
+    "quest.295EB6CFEC029AE2.title": "Aggiungere \"OP\" agli articoli",
+    "quest.2A5C5B44E9643A5D.title": "Modulo di velocità caotico",
+    "quest.2AA08313F927981E.title": "Modulo di velocità Wyvern",
+    "quest.2AAE61752728EA8D.quest_desc": [
+        "Quando si è in \"caduta\", la velocità di movimento viene rallentata. Questo vale anche quando si vola in modo creativo o si salta nell'acqua. Fortunatamente, è possibile utilizzare l'incantesimo \"Affinità con l'aria\" per annullare questo effetto! Anche se non è un incantesimo standard, è comunque molto utile! Ah, mi ero dimenticato di parlare del modulo... lo stesso discorso!"
+    ],
+    "quest.2AAE61752728EA8D.title": "Modulo di stabilizzazione per l'estrazione",
+    "quest.2B6D71DAF72EAFA4.quest_desc": [
+        "I condensatori agiscono come batterie per l'evoluzione draconica. Hanno bisogno di moduli energetici per immagazzinare effettivamente energia, e ricordate: \"Più è meglio!\"."
+    ],
+    "quest.2B6D71DAF72EAFA4.title": "Condensatore Wyvern",
+    "quest.2D9AF97C03C5AEC7.quest_desc": [
+        "Per le fasi 5-8, avrete bisogno di Stabilizzatori Avanzati. Cosa sono gli Stabilizzatori Avanzati? Sono 9 stabilizzatori disposti in un'area di 3x1x3. Se realizzati correttamente, si trasformeranno in un cerchio! Realizzateli nello stesso modo in cui realizzate un singolo stabilizzatore."
+    ],
+    "quest.2D9AF97C03C5AEC7.title": "Stabilizzatori avanzati",
+    "quest.2DB2A4A1182FE0BB.quest_desc": [
+        "Per raggiungere il livello 6, sono necessari 150 blocchi di Draconio e 178 blocchi di Redstone (non dimenticare i 36 stabilizzatori).",
+        "{image:atm:textures\/questpics\/draconic\/draconic_core_6off.png width:100 height:100 align:1}",
+        "{image:atm:textures\/questpics\/draconic\/draconic_core_6on.png width:100 height:100 align:1}"
+    ],
+    "quest.2DB2A4A1182FE0BB.quest_subtitle": "Negozi: 356.000.000.000 RF",
+    "quest.2DB2A4A1182FE0BB.title": "Livello 6",
+    "quest.2E74B5149D4BD0A0.quest_desc": [
+        "Il cristallo di base (cristallo di energia) è il punto di partenza per l'utilizzo dell'energia attraverso l'evoluzione draconica!"
+    ],
+    "quest.2E74B5149D4BD0A0.title": "Cristallo per relè di energia di base",
+    "quest.30F97EB743B0A07F.quest_desc": [
+        "Consultare i moduli per saperne di più su come utilizzare e aggiornare gli oggetti DE! L'ascia Wyvern è simile alle asce di Minecraft dopo gli aggiornamenti. Può essere utilizzata sia come arma per sconfiggere i nemici, sia come strumento per abbattere gli alberi."
+    ],
+    "quest.30F97EB743B0A07F.title": "Ascia Wyvern",
+    "quest.3235FBD9CE21D5EE.quest_desc": [
+        "Consultate i moduli per saperne di più su come utilizzare e aggiornare gli oggetti DE! So che voi, giocatori, siete particolarmente interessati allo \"Shovel\" (pale da scavo) del tipo DE. Non dovrete più passare notti insonni, ora sapete che gli \"Shovels\" DE possono creare percorsi."
+    ],
+    "quest.3235FBD9CE21D5EE.title": "Pala Wyvern",
+    "quest.32EBB3D53AA91E09.quest_desc": [
+        "A meno che tu non sia un giocatore che utilizza texture per la visione notturna, potresti trovare l'oscurità un po' spaventosa. Fortunatamente, il modulo \"Visione Notturna\" presente su un peto di cuoio ti aiuta a superare la paura di non poter vedere nell'oscurità. Tuttavia, non si tratta della paura di ciò che potrebbe esserci nell'oscurità..."
+    ],
+    "quest.32EBB3D53AA91E09.title": "Modulo per visione notturna",
+    "quest.33D2901594655A77.title": "Modulo di effetto area caotico",
+    "quest.34D3F6D54F5B26C2.quest_desc": [
+        "Una zappa migliorata, quindi una donna elegante e raffinata?"
+    ],
+    "quest.34D3F6D54F5B26C2.title": "Zappa",
+    "quest.35767977FB9E0B1B.quest_desc": [
+        "Per il livello 2, sono necessari 6 blocchi di lingotti di Draconio, uno su ciascun lato del Nucleo. Successivamente, ovviamente, è necessario produrre i 4 stabilizzatori.",
+        "{image:atm:textures\/questpics\/draconic\/draconic_core_2off.png width:100 height:100 align:1}",
+        "{image:atm:textures\/questpics\/draconic\/draconic_core_2on.png width:100 height:100 align:1}"
+    ],
+    "quest.35767977FB9E0B1B.quest_subtitle": "Negozi: 273.000.000 RF",
+    "quest.35767977FB9E0B1B.title": "Livello 2",
+    "quest.35A674E2C6F66673.title": "Modulo di precisione per proiettili caotici",
+    "quest.366431661CC43A6E.quest_desc": [
+        "Questo contenuto è stato creato da \\&6AllTheMods Staff\\&r, oppure da un \\&2contributore della community\\&r, per essere utilizzato nei pacchetti di mod di AllTheMods.",
+        "Poiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti al copyright \\&eAll Rights Reserved\\&r, questo contenuto non può essere utilizzato in alcun pacchetto pubblico che non sia stato rilasciato dal team \\&6AllTheMods\\&r, senza un'esplicita autorizzazione.",
+        "",
+        "",
+        "",
+        "Questo compito è intenzionalmente nascosto. Se lo state visualizzando, significa che siete in modalità di modifica."
+    ],
+    "quest.366431661CC43A6E.quest_subtitle": "",
+    "quest.366431661CC43A6E.title": "",
+    "quest.36DAFC3FECC67406.quest_desc": [
+        "La migliore batteria per l'energia, prodotta in Germania."
+    ],
+    "quest.36DAFC3FECC67406.title": "Condensatore caotico",
+    "quest.36F123B2A6B52A01.quest_desc": [
+        "Questi possono immagazzinare più energia e avere più connessioni. Si riferisce ai cristalli di energia di livello superiore."
+    ],
+    "quest.36F123B2A6B52A01.title": "Cristallo di trasmissione dell'energia draconica",
+    "quest.3765485408041FC6.quest_desc": [
+        "Esplorate le sezioni dedicate per saperne di più su come utilizzare e aggiornare gli oggetti DE! Le picche funzionano come una picca di livello 6 standard. Possono essere utilizzate per estrarre qualsiasi tipo di blocco, da pietra a \"Unobtainium\". Gli oggetti estratti verranno automaticamente aggiunti al vostro inventario."
+    ],
+    "quest.3765485408041FC6.title": "Pala Wyvern",
+    "quest.376D154F27A00BCD.quest_desc": [
+        "Cosa succede con la fisica e con Arrow, e con il fatto di tradirli? La gravità fa sì che l'Arrow cada mentre viene sparata. Il sistema di compensazione della gravità ci permette di preoccuparci meno di questo."
+    ],
+    "quest.376D154F27A00BCD.title": "Modulo di compensazione gravitazionale per proiettili Wyvern",
+    "quest.37CC51B689CB8A40.quest_desc": [
+        "Le placche pettorali funzionano in modo simile all'armatura Meka. Qualsiasi danno subito, invece di colpirti direttamente, viene assorbito dalla tua scudo. La capacità dello scudo indica quanta energia può contenere, mentre il tasso di ricarica indica la velocità con cui si ricarica."
+    ],
+    "quest.37CC51B689CB8A40.title": "Modulo di capacità per lo scudo Wyvern",
+    "quest.389655CD41C7A691.quest_desc": [
+        "Per la categoria Tier 1, sono necessari solo il componente principale e 4 stabilizzatori.",
+        "{image:atm:textures\/questpics\/draconic\/draconic_core_1off.png width:100 height:100 align:1}",
+        "{image:atm:textures\/questpics\/draconic\/draconic_core_1on.png width:100 height:100 align:1}"
+    ],
+    "quest.389655CD41C7A691.quest_subtitle": "Negozi: 45.500.000 RF",
+    "quest.389655CD41C7A691.title": "Livello 1",
+    "quest.38AD547C36BDF4C4.title": "Modulo di precisione per proiettili draconici",
+    "quest.39865681B03CABAA.quest_desc": [
+        "L'acqua ha una viscosità leggermente maggiore rispetto all'aria. Di conseguenza, l'estrazione subacquea è più lenta. È possibile utilizzare l'incantesimo \"Affinità con l'acqua\" o questo modulo. La scelta è vostra!"
+    ],
+    "quest.39865681B03CABAA.title": "Modulo Aqua Adapt",
+    "quest.39AF9B1A996DA949.quest_desc": [
+        "È come la spada di Netherite, ma molto migliore e molto più fantastica!"
+    ],
+    "quest.39AF9B1A996DA949.title": "Spada Caotica",
+    "quest.3B4CEE8A8CE0D6CB.quest_desc": [
+        "Quasi arrivati! Livello 7. 210 lingotti di Draconio e 328 blocchi di Redstone!",
+        "{image:atm:textures\/questpics\/draconic\/draconic_core_7off.png width:100 height:100 align:1}",
+        "{image:atm:textures\/questpics\/draconic\/draconic_core_7on.png width:100 height:100 align:1}"
+    ],
+    "quest.3B4CEE8A8CE0D6CB.quest_subtitle": "Negozi: 2.140.000.000.000 RF",
+    "quest.3B4CEE8A8CE0D6CB.title": "Livello 7",
+    "quest.3BE3B54B4A681668.quest_desc": [
+        "Ecco la domanda: preferiresti agire in modo aggressivo e distruttivo, come un camion, ma a un ritmo più lento? Oppure preferiresti essere una persona normale che utilizza una spada?"
+    ],
+    "quest.3BE3B54B4A681668.title": "Ascia caotica",
+    "quest.3CB8F5F1D33C8F9F.quest_desc": [
+        "Come nella precedente missione, ma in quantità molto maggiore."
+    ],
+    "quest.3CB8F5F1D33C8F9F.title": "Modulo per Wyvern di grande capacità",
+    "quest.3DF794EBCAA7AE1A.title": "Raccoglitore di alberi draconici",
+    "quest.3FD19A001899D8C6.quest_desc": [
+        "Ok, in questo caso si tratta sia di \"volo\" tradizionale, sia di \"volo\" creativo."
+    ],
+    "quest.3FD19A001899D8C6.title": "Modulo di volo draconico",
+    "quest.40F34EBE09DA7752.quest_desc": [
+        "L'Auto-Feed fornirà automaticamente qualsiasi cibo presente nel tuo inventario quando hai fame. Tuttavia, ha una capacità massima di 2 punti di cibo per ogni barra piena. Pertanto, il modello base può contenere solo 8 bistecche."
+    ],
+    "quest.40F34EBE09DA7752.title": "Modulo di alimentazione automatica di base",
+    "quest.41BD497108CA109F.quest_desc": [
+        "Il Draconium si ottiene tramite la fusione dei blocchi. I blocchi possono essere fusi per ottenere 9 lingotti. Questi sono i secondi lingotti più importanti nella fase di evoluzione Draconica e sono essenziali per le fasi Wyvern e Draconica."
+    ],
+    "quest.41BD497108CA109F.title": "Risvegliato il Draconio",
+    "quest.421954D7D46FAAD6.quest_desc": [
+        "Stabilizzatori del Nucleo... per stabilizzare il Nucleo. Per i primi 4 livelli del Nucleo, sono necessari solo 4 stabilizzatori. Inoltre, è possibile accedere all'interfaccia utente del Nucleo tramite gli stabilizzatori. Se vengono posizionati troppo vicino al Nucleo o in posizioni errate, il sistema vi avviserà."
+    ],
+    "quest.421954D7D46FAAD6.title": "Stabilizzatori del nucleo energetico",
+    "quest.43C2B07AB25C708E.quest_desc": [
+        "Versione migliorata dell'arco Wyvern."
+    ],
+    "quest.43C2B07AB25C708E.title": "Arco draconico",
+    "quest.45EE60207C466D6C.quest_desc": [
+        "Per accedere a Draconic Evolution, avrai bisogno di Schegge del Caos. Le Schegge del Caos si trovano nelle Isole del Caos, protette dai Guardiani del Caos nella Zona Finale. Per raggiungere la Zona Finale, dovrai dirigerti a una coordinata X\/Z che sia un multiplo di 10. Ad esempio: 10k, 10k \/ 10k, 20k \/ 20k, 20k, ecc."
+    ],
+    "quest.45EE60207C466D6C.quest_subtitle": "Trovare l'Isola del Caos",
+    "quest.45EE60207C466D6C.title": "Dove si trova?",
+    "quest.4638F21544D6D337.title": "Tunnel quantico di energia, basato sull'entanglement e sul caos.",
+    "quest.46C816844C513D5D.quest_desc": [
+        "Versione migliorata dello \"shovel\" Wyvern."
+    ],
+    "quest.46C816844C513D5D.title": "Pala draconica",
+    "quest.4903BDC389C73082.title": "Modulo di danno per proiettili draconici",
+    "quest.4A3A5684302C8627.title": "Modulo di capacità di scudo caotico",
+    "quest.4AAADEC52D16461A.quest_desc": [
+        "Fondamentalmente, questa funzione attiva automaticamente il salto automatico. Personalmente, mi piace, ma la decisione di utilizzarla spetta a te!"
+    ],
+    "quest.4AAADEC52D16461A.title": "Modulo per scalinata",
+    "quest.4AB564420C48579B.quest_desc": [
+        "Draconic Evolution ritiene che non sia necessario coprire l'intero corpo con armature inadeguate, quando si può utilizzare un singolo corpetto dotato di scudi integrati. Aspetta, gli scudi non sono integrati, ma richiedono moduli... scusate."
+    ],
+    "quest.4AB564420C48579B.title": "Corazza per Wyvern",
+    "quest.4ABEF61DADBD0640.quest_desc": [
+        "La maggior parte degli archi sono semiautomatici. Bisogna tirare l'arco, rilasciarlo e inserire una nuova freccia, ripetendo l'operazione. In alternativa, basta tenere premuto il tasto destro e l'arco sparerà automaticamente ogni volta che è completamente teso!"
+    ],
+    "quest.4ABEF61DADBD0640.title": "Modulo di sicurezza antincendio per auto",
+    "quest.4B7840F1A8CF1378.quest_desc": [
+        "La \"Fusion Crafting\" è il metodo principale per creare la maggior parte degli oggetti (almeno quelli più interessanti). Per iniziare, è necessario un \"Fusion Crafting Core\", che va posizionato a circa un blocco sopra il terreno. Questo componente è dove è possibile inserire automaticamente le ricette tramite JEI, specificando l'oggetto centrale e l'oggetto finale. Saranno inoltre necessari degli \"Injectors\", posizionati a qualche blocco di distanza dal Core, rivolti verso di esso su due lati. Per maggiori dettagli, consultare la prossima missione. Gli \"Injectors\" richiederanno anche energia, che sarà spiegata più nel dettaglio nella missione \"Crystal Binding\"."
+    ],
+    "quest.4B7840F1A8CF1378.title": "Creazione combinata",
+    "quest.4B9FF9E972B0E530.quest_desc": [
+        "Ovviamente, più efficiente è il collegamento o il tunnel, maggiore è la quantità di energia che può trasferire, ma probabilmente avete notato anche un aspetto mancante: non funziona tra le dimensioni! Fortunatamente, i modelli più avanzati sì, ma è importante assicurarsi che l'altra dimensione sia stata caricata correttamente."
+    ],
+    "quest.4B9FF9E972B0E530.title": "Tunnel quantico",
+    "quest.4CD2ADD3601B8191.quest_desc": [
+        "Vuoi che la tua scudo ritorni e non solo quando sei quasi al collasso? Allora avrai bisogno di moduli di recupero. Più moduli utilizzi, più velocemente si riprenderà."
+    ],
+    "quest.4CD2ADD3601B8191.title": "Modulo di recupero dello scudo Wyvern",
+    "quest.4E27182763DA83DC.quest_desc": [
+        "Versione migliorata dell'armatura Wyvern."
+    ],
+    "quest.4E27182763DA83DC.title": "Armatura per petto draconica",
+    "quest.4EFFE300EC781C3E.quest_desc": [
+        "I moduli sono fondamentali per i nostri oggetti DE. Sono così importanti che non funzionano senza di essi! La maggior parte dei moduli è realizzata a partire da un modulo base o da un modulo precedente. Tenendo un oggetto, è possibile aprire il menu dei moduli premendo i tasti Shift e C. Qui si vedranno degli slot e dei pulsanti. Gli slot sono dove i moduli verranno effettivamente inseriti e la griglia determina quanti moduli possono essere inseriti. Se un modulo indica \"1x1\", occuperà solo 1 slot, mentre uno che indica \"2x2\" occuperà 4 slot. Il pulsante più in basso a destra mostrerà quali moduli possono essere applicati all'oggetto che si sta tenendo. Gli altri pulsanti servono solo a modificare l'aspetto dell'interfaccia utente (GUI)."
+    ],
+    "quest.4EFFE300EC781C3E.title": "Moduli!",
+    "quest.4F6A9F1AEFD535F5.title": "Modulo di capacità per scudo draconico",
+    "quest.50013DD7370F8EDB.title": "Modulo \"Salto Caotico\"",
+    "quest.5021D159A5EC2315.title": "Modulo di energia draconica",
+    "quest.51CF09EC333DB1A3.quest_desc": [
+        "Per raggiungere un livello superiore nella creazione di oggetti nel sistema \"Draconic Evolution Fusion Crafting\", gli ingredienti necessari per una ricetta devono essere almeno al livello corrispondente o superiore. Ad esempio, per creare l'ascia del Wyvern, è necessario avere almeno 6 Wyvern Injectors, con 3 su ciascun lato. Non preoccupatevi, il \"Crafting Core\" rimane invariato!"
+    ],
+    "quest.51CF09EC333DB1A3.title": "Livello Wyvern",
+    "quest.529123A789D790E3.title": "Modulo Wyvern Jump",
+    "quest.52C301DF1776E0D8.title": "Modulo di danni caotici per proiettili",
+    "quest.52C3F61D678B00F5.quest_desc": [
+        "Una volta ho avuto una relazione con una persona piuttosto disordinata."
+    ],
+    "quest.52C3F61D678B00F5.title": "Persona disordinata",
+    "quest.52EA9793A7100E75.title": "Modulo \"Entità Caotiche Immortali\"",
+    "quest.542AD6FD1927C3E6.title": "Modulo \"Creature Immortale Draconica\"",
+    "quest.5443E15E226DFC86.quest_desc": [
+        "I pyloni sono il modo per introdurre e estrarre l'OP dal Nucleo Energetico. Posizionali almeno vicino al Nucleo, con 2 pyloni: uno per l'ingresso e uno per l'uscita (è possibile usarne anche altri). Quindi, posizionate il vetro sopra di essi e verranno automaticamente assemblati, puntando verso il Nucleo Energetico più vicino. Cliccate con il tasto destro sulle nuove sfere che si formano sopra i pyloni per cambiare la loro funzione (ingresso o uscita), riconoscendo la funzione in base alle frecce e al loro design. Quindi, potrete collegare ai pyloni dei cristalli per spostare l'OP!"
+    ],
+    "quest.5443E15E226DFC86.title": "Il potere arriva e scompare attraverso questi mezzi.",
+    "quest.54F78C9A945CF0E7.title": "Modulo Energia Caotica",
+    "quest.574E5806D1A98FE5.quest_desc": [
+        "I moduli di energia sono i più importanti e sono necessari per utilizzare gli oggetti DE. La quantità presente in essi determina la quantità di OP (Punti Operativi) che un oggetto può contenere e utilizzare. Per saperne di più sul ricaricamento, consultare il \"Energizer\". Maggiore è il livello del modulo di energia, maggiore è la quantità di OP che un oggetto può contenere e utilizzare. Questo è importante, poiché gli oggetti aggiornati richiedono più OP per ogni utilizzo."
+    ],
+    "quest.574E5806D1A98FE5.title": "Modulo di energia di base",
+    "quest.5895B7FA5497BD68.quest_desc": [
+        "Versione migliorata dell'ascia Wyvern."
+    ],
+    "quest.5895B7FA5497BD68.title": "Ascia draconica",
+    "quest.594BBD31461F212D.title": "Modulo di recupero dello scudo draconico",
+    "quest.5ADFC45B03BAB852.quest_desc": [
+        "Questo è lo scopo delle \"Core draconiche\"."
+    ],
+    "quest.5ADFC45B03BAB852.title": "Creatura draconica",
+    "quest.5BC6CC3C09F512A7.quest_desc": [
+        "Il nucleo del reattore è la parte più importante, ovvero il nucleo stesso. Posizionalo a 5 blocchi o più dall'iniettore e dagli stabilizzatori, e potrai fare clic con il pulsante destro del mouse per visualizzare la sua interfaccia utente. Qui troverai alcune barre, una sfera, pulsanti e slot. Le barre vanno da sinistra a destra: Temperatura, Campo di contenimento, Saturazione energetica e Conversione del combustibile. Come hai già imparato, il Campo e l'Energia sono importanti, e imparerai a conoscere il combustibile in una prossima missione. Pertanto, la temperatura è molto importante, poiché raggiungerà i 2000°C prima di poter essere attivato. Assicurati che non raggiunga valori troppo alti, altrimenti... disastro! La sfera rappresenta l'immagine del tuo nucleo. Attualmente ho un bug in cui il nucleo non ha una texture, quindi non posso fornire molte informazioni. I pulsanti modificano l'aspetto dell'interfaccia utente, consentendo di attivare o disattivare il reattore e di ricaricarlo.",
+        "{image:atm:textures\/questpics\/draconic\/draconic_reactor_off_down.png width:200 height:100 align:1}",
+        "{image:atm:textures\/questpics\/draconic\/draconic_reactor_off_up.png width:150 height:150 align:1}"
+    ],
+    "quest.5BC6CC3C09F512A7.quest_subtitle": "POTERE ILLIMITATO",
+    "quest.5BC6CC3C09F512A7.title": "Costruzione del reattore",
+    "quest.5C2CF51D28F84CBE.quest_desc": [
+        "Now the actual fight starts, he has two health bars both need to get taken to 0 to get the Chaos Shards. Don't get too close or he'll hit you with a barrage of Fireballs! {BTW in older versions the Chaos Guardian could even kill someone in Creative mode! Fortunately it can't anymore)",
+        "{image:atm:textures\/questpics\/draconic\/draconic_guardian.png width:150 height:100 align:1}"
+    ],
+    "quest.5C2CF51D28F84CBE.title": "Sconfiggi il Guardiano del Caos",
+    "quest.5D87088E8D71DB9B.quest_desc": [
+        "I cristalli IO funzionano come blocchi che possono essere collegati tra loro e trasferire energia. Per collegarli, è sufficiente fare clic con il tasto destro su un cristallo e poi fare clic con il tasto destro sul cristallo a cui si desidera collegarlo. Quando si guarda il cristallo, si vedrà indicato se è una fonte di energia (Input) o una destinazione per l'energia (Output). \"Input\" indica la fonte da cui si desidera prelevare energia, mentre \"Output\" indica la destinazione a cui si desidera inviare l'energia."
+    ],
+    "quest.5D87088E8D71DB9B.title": "Trasloco di OP",
+    "quest.5E0D78B7B2CF1729.quest_desc": [
+        "So, so è un oggetto di livello Wyvern, quindi perché c'è un oggetto draconico qui? Per raggiungere il livello draconico, è necessario avere gli \"Injector draconici\". Per ottenere gli \"Injector draconici\", è necessario avere i \"Cori draconici\". Ora capite perché sono qui?"
+    ],
+    "quest.5E0D78B7B2CF1729.title": "Nucleo draconico",
+    "quest.5E671F1F370DDE43.title": "Modulo di alimentazione automatica per veicoli Draconic",
+    "quest.5E8D527DE9D7DD46.quest_desc": [
+        "Con questo equipaggiamento sul petto, potrai \"volare\" in modo simile a come farebbe un Elytra (ma senza il costo dell'armatura). Preferisco chiamarlo \"cadere con stile\"."
+    ],
+    "quest.5E8D527DE9D7DD46.title": "Modulo di volo Wyvern",
+    "quest.607337D8AA20FA18.quest_desc": [
+        "Tutti gli alberi collegati a quelli abbattuti vengono rimossi insieme a essi."
+    ],
+    "quest.607337D8AA20FA18.title": "Raccoltatore di alberi Wyvern",
+    "quest.60C27206F1414DD6.quest_desc": [
+        "Grazie a Newton, sappiamo che per ogni azione esiste una reazione uguale e contraria. In pratica, quando una freccia colpisce un gruppo di nemici, la forza esercitata dal gruppo si trasmette alla freccia, rallentandola. A meno che non si utilizzi questo modulo, la freccia si comporterà come se ogni gruppo di nemici fosse fatto di carta, invece di reagire alla loro presenza. Le frecce non rallenteranno dopo aver colpito un bersaglio."
+    ],
+    "quest.60C27206F1414DD6.title": "Modulo di cancellazione dell'immunità ai proiettili",
+    "quest.61419D230687CBB5.quest_desc": [
+        "La velocità è la velocità con cui un oggetto si muove in una direzione specifica. Nel nostro caso, \"Arrow\" si riferisce semplicemente alla velocità con cui una freccia viene lanciata dalla balestra verso il bersaglio. Ogni aggiornamento riduce il tempo necessario alla freccia per raggiungere il bersaglio. Tuttavia, ciò comporta una leggera diminuzione della precisione."
+    ],
+    "quest.61419D230687CBB5.title": "Modulo di Velocità per Proiettili Wyvern",
+    "quest.655BE42CD5BB9D82.title": "Modulo di effetto area per creature draconiche",
+    "quest.6601ACCDDF6CA5FF.quest_desc": [
+        "Il reattore può contenere solo 1 miliardo di OP, e anche se questo sembra un numero elevato, non lo sarà per molto. Quando l'energia raggiungerà il 100%, aumenterà notevolmente la temperatura, il che potrebbe portare a un'esplosione. Per attivarlo, saranno necessari 500.000.000 OP, e un \"Gate di Flusso\" aiuterà a limitare l'entrata e l'uscita di OP. (Inoltre, 1 RF = 1 OP) Avrete bisogno di Redstone per attivare il sistema, e può essere utilizzata sia per aggiungere che per sottrarre OP. Per evitare l'esplosione, è necessario utilizzare l'energia in un \"Core di Energia\"!"
+    ],
+    "quest.6601ACCDDF6CA5FF.title": "Un avviamento di emergenza",
+    "quest.6616A62426ED4D15.quest_desc": [
+        "L'iniettore deve essere posizionato su un lato diverso da tutti gli stabilizzatori e deve condividere lo stesso asse del nucleo. È qui che sarà necessario intervenire per attivare il sistema. Per attivare il sistema e aumentare l'energia disponibile, è necessario aumentare il livello di \"Energia Disponibile\". L'\"Energia Disponibile\" rappresenta l'energia immagazzinata e quella pronta per essere utilizzata."
+    ],
+    "quest.6616A62426ED4D15.title": "Iniettore di energia per reattore",
+    "quest.69396F87A09FBD85.quest_desc": [
+        "Tutte le picche devono essere nello stesso livello di miniera, quindi l'unico aspetto da migliorare è la velocità e l'acquisto degli strumenti."
+    ],
+    "quest.69396F87A09FBD85.title": "Piccone caotico",
+    "quest.69986817D58AC8BE.quest_desc": [
+        "I stabilizzatori sono ciò che forma il campo di contenimento (lo scudo protettivo attorno al nucleo del reattore). Una volta che lo scudo di contenimento raggiunge lo zero mentre il reattore è in funzione, inizierà un processo di fusione. Tutti e quattro i stabilizzatori devono essere situati a circa 5 o più blocchi di distanza dal nucleo e devono essere allineati con lo stesso asse del nucleo per funzionare correttamente. Qui è anche dove si collegano i cavi per estrarre l'energia dal reattore, ma non in eccesso!"
+    ],
+    "quest.69986817D58AC8BE.title": "Stabilizzatori del reattore",
+    "quest.6B0CD6732BE0E819.quest_desc": [
+        "Semplicemente, \"Jump Boost\" originale."
+    ],
+    "quest.6B0CD6732BE0E819.title": "Modulo di salto di base",
+    "quest.6B8F2E05429C185F.quest_desc": [
+        "Una volta sconfitto, otterrai esperienza, un Cuore di Drago e, soprattutto, i Frammenti del Caos. Osserva dove colpirà il fulmine, quindi scava sotto quel punto. Lì troverai il Frammento del Caos. Estrailo per ottenere 5 Frammenti del Caos, che potrai poi utilizzare per creare parti più piccole!",
+        "{image:atm:textures\/questpics\/draconic\/draconic_shard.png width:150 height:100 align:1}"
+    ],
+    "quest.6B8F2E05429C185F.title": "Chaos Shard{s}",
+    "quest.6DBD81BA83B1D0A5.quest_desc": [
+        "Ancora più opportunità operative!"
+    ],
+    "quest.6DBD81BA83B1D0A5.title": "Condensatore draconico",
+    "quest.7081E9BF44EFBCB0.title": "Modulo per capacità di protezione caotica",
+    "quest.710C7FEFAA6C0979.quest_desc": [
+        "Versione migliorata della spada Wyvern."
+    ],
+    "quest.710C7FEFAA6C0979.title": "Spada draconica",
+    "quest.713D3B3954E58C4A.quest_desc": [
+        "Per la realizzazione del Tier 3, sono necessari 26 blocchi di lingotti di Draconium, che devono circondare completamente il nucleo.",
+        "{image:atm:textures\/questpics\/draconic\/draconic_core_3off.png width:100 height:100 align:1}",
+        "{image:atm:textures\/questpics\/draconic\/draconic_core_3on.png width:100 height:100 align:1}"
+    ],
+    "quest.713D3B3954E58C4A.quest_subtitle": "Negozi: 1.640.000.000 RF",
+    "quest.713D3B3954E58C4A.title": "Livello 3",
+    "quest.7143CE930D08F160.quest_desc": [
+        "\"Area of Effect\" è un termine che la maggior parte dei giocatori conosce. In pratica, aumenta l'area di utilizzo dello strumento. Ad esempio, un piccone con un'Area of Effect di 3x3 minerà in un'area di 3x3. Una spada con un'Area of Effect di 3x3 ucciderà tutti i nemici colpiti all'interno di quell'area. Più è elevato il livello di potenziamento, maggiore è l'area. No, non è possibile combinarne più di uno!"
+    ],
+    "quest.7143CE930D08F160.title": "Modulo di base per aree d'effetto",
+    "quest.715F9F7107374299.quest_desc": [
+        "Cristallo Wyvern (Rilascio di energia). Funziona esattamente come il cristallo base, ma con maggiore capacità di rilascio di energia e più connessioni."
+    ],
+    "quest.715F9F7107374299.title": "Cristallo di trasmissione per energia Wyvern",
+    "quest.731A70C25C2C7281.quest_desc": [
+        "Gli oggetti ottenuti da questo strumento andranno direttamente nella tua cassetta Ender, quella originale di Minecraft, non modificata."
+    ],
+    "quest.731A70C25C2C7281.title": "Modulo Ender Collection",
+    "quest.7496B2380A23FDC6.title": "Raccoglitore di alberi caotico",
+    "quest.74C715F8F24B8BAE.quest_desc": [
+        "Lo stesso accordo, ma con la possibilità di filtrare."
+    ],
+    "quest.74C715F8F24B8BAE.title": "Modulo di raccolta Ender con filtro",
+    "quest.75F0405FFAB9C080.quest_desc": [
+        "Questo sarà necessario per l'ultimo livello, il livello Caotico. Spero che abbiate seguito la linea di missioni che spiegano come ottenere i frammenti di Caos!"
+    ],
+    "quest.75F0405FFAB9C080.title": "Nucleo caotico",
+    "quest.76064465104B1C28.title": "Modulo di capacità dello scudo draconico",
+    "quest.763EB5C911D7E78C.quest_desc": [
+        "Fine della linea di produzione per le Infusioni, Livello Caotico. Qui è possibile creare qualsiasi cosa. Non solo gli strumenti, ma anche tutto ciò di cui si ha bisogno per il reattore."
+    ],
+    "quest.763EB5C911D7E78C.title": "Livello caotico",
+    "quest.78FBB0C88182040E.quest_desc": [
+        "Se non avete giocato a Minecraft a partire dalla versione 1.13, potreste trovare questa informazione confusa, ma sicuramente conoscete gli archi e le frecce perforanti. Questi oggetti hanno un effetto che permette alle frecce di colpire più bersagli contemporaneamente, infliggendo danni continuamente. Questo modulo fa esattamente questo!"
+    ],
+    "quest.78FBB0C88182040E.title": "Modulo di penetrazione per proiettili Wyvern",
+    "quest.79886D63280DBBF3.quest_desc": [
+        "Semplicemente non basta?! Volete che gli oggetti vengano distrutti?! Che persona crudele!"
+    ],
+    "quest.79886D63280DBBF3.title": "Modulo per l'incenerimento selettivo",
+    "quest.79FC674836B6340E.title": "Modulo di salto draconico",
+    "quest.7A4ABFCD12202A91.quest_desc": [
+        "Il Potenziale Operativo è la fonte di energia per l'evoluzione draconica. Il modo principale (ma non l'unico) per trasferire il Potenziale Operativo è attraverso i cristalli di trasmissione IO. Per trasferire effettivamente il Potenziale Operativo agli oggetti, sarà necessario un meccanismo di trasferimento dell'energia."
+    ],
+    "quest.7A4ABFCD12202A91.title": "Cos'è l'energia, o come la chiamiamo noi, \"OP\"?",
+    "quest.7B9F5EEC76FDD0D4.title": "Modulo danni draconici",
+    "quest.7C54581562D2EA75.quest_desc": [
+        "I moduli di velocità sono divertenti, funzionano praticamente con tutto e rendono le azioni più veloci! Spade, picconi, asce, archi e armature rendono le azioni più rapide. Più è buono il modulo di velocità, più diventano veloci! (A proposito, è un buon momento per menzionare che la maggior parte delle statistiche si sommano. Ad esempio, due moduli di velocità base aumentano la velocità del 20%!)"
+    ],
+    "quest.7C54581562D2EA75.title": "Modulo di velocità di base",
+    "quest.7D159D333B2AC57E.quest_desc": [
+        "500 milioni di OP? Sì. Carburante? Sì. Temperatura di 2000°C? Sì. Basta cliccare sul pulsante di attivazione e sperare che non si verifichi un guasto!",
+        "{image:atm:textures\/questpics\/draconic\/draconic_reactor_on_down.png width:200 height:100 align:1}",
+        "{image:atm:textures\/questpics\/draconic\/draconic_reactor_on_up.png width:150 height:150 align:1}"
+    ],
+    "quest.7D159D333B2AC57E.quest_subtitle": "Ora preghiamo e speriamo...",
+    "quest.7D159D333B2AC57E.title": "Avviare il reattore",
+    "quest.7D7E4C31DFE59E29.quest_desc": [
+        "Questi moduli sono specifici per le armi a arco, a differenza di quelli precedenti. Il modulo \"Danno Proiettile\" aumenta il danno inflitto dalle frecce scagliate con l'arco. Alcuni moduli possono avere effetti negativi, come ad esempio aumentare leggermente l'imprecisione per gli archi. Tutti questi effetti possono sommarsi."
+    ],
+    "quest.7D7E4C31DFE59E29.title": "Modulo danni per proiettili Wyvern",
+    "quest.7EB1C1AE52A0027F.title": "Modulo di compensazione gravitazionale per proiettili caotici",
+    "quest.7EB97C0DDE60DED4.quest_desc": [
+        "La migliore arma di Draconic Evolution, oltre a offrire più slot per moduli!"
+    ],
+    "quest.7EB97C0DDE60DED4.title": "Arco caotico",
+    "quest.7F757CD6F8C57733.quest_desc": [
+        "Il Core è uno dei, se non il, più grandi depositi di energia in Minecraft. E tutto inizia con il Core. Questo è il nucleo e il cuore del blocco Multiblock Core (assicurandosi che sia leggermente rialzato). Una volta posizionato, si può vedere la sua interfaccia utente, che include: Guida alla costruzione, Passaggio al livello inferiore, Passaggio al livello superiore e Assemblaggio del Core. I livelli determinano la dimensione e la potenza del Core. La Guida alla costruzione mostra come assemblare questo livello del Core. Se si dispone di tutti i blocchi necessari, è possibile premere \"Assembla Core\" e il sistema lo creerà automaticamente!"
+    ],
+    "quest.7F757CD6F8C57733.quest_subtitle": "Accumulo di energia draconica",
+    "quest.7F757CD6F8C57733.title": "Nucleo energetico multifunzionale",
+    "task.1EFD3D7C04F9682A.title": "Missioni create da AllTheMods",
+    "task.2AE8A0F6A6C2D453.title": "Missioni create da AllTheMods",
+    "task.61CCAD2018478894.title": "Attivazione",
+    "task.664130FB28E419EF.title": "",
+    "task.6EAC5BBFAA0184BC.title": "Preparazione"
+}

@@ -1,15 +1,15 @@
 {
     "energy_bar.polylib.capacity": "Capacità:",
-    "energy_bar.polylib.energy_storage": "Archivio Di Energia",
-    "energy_bar.polylib.rf": "Rf",
-    "energy_bar.polylib.stored": "Immagazzinato:",
+    "energy_bar.polylib.energy_storage": "Stoccaggio dell'energia",
+    "energy_bar.polylib.rf": "RF",
+    "energy_bar.polylib.stored": "Conservato:",
     "fluid_tank.polylib.capacity": "Capacità:",
     "fluid_tank.polylib.contains": "Contiene:",
-    "fluid_tank.polylib.fluid_storage": "Magazzino Di Fluidi",
-    "fluid_tank.polylib.mb": "Mb",
-    "fluid_tank.polylib.stored": "Stato Di Conservazione:",
-    "rs_mode.polylib.active_high": "Attivo Con Segnale Di Raddrizzamento Rosso",
-    "rs_mode.polylib.active_low": "Attivo Senza Segnale Di Redstone",
-    "rs_mode.polylib.always_active": "Sempre Attivo",
-    "rs_mode.polylib.never_active": "Mai Attivo"
+    "fluid_tank.polylib.fluid_storage": "Stoccaggio di fluidi",
+    "fluid_tank.polylib.mb": "mB",
+    "fluid_tank.polylib.stored": "Conservato:",
+    "rs_mode.polylib.active_high": "Attivo grazie al segnale di redstone",
+    "rs_mode.polylib.active_low": "Funziona senza segnale di redstone.",
+    "rs_mode.polylib.always_active": "Costantemente attivo\/a",
+    "rs_mode.polylib.never_active": "Mai attivo"
 }

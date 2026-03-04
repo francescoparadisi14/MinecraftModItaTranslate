@@ -1,0 +1,22 @@
+{
+    "block.invertedbed.bed.not_possible_now": "È possibile dormire solo di giorno.",
+    "block.invertedbed.black_inverted_bed": "Letto nero, con la parte superiore nera",
+    "block.invertedbed.blue_inverted_bed": "Letto blu con struttura invertita",
+    "block.invertedbed.brown_inverted_bed": "Letto a baldacchino marrone",
+    "block.invertedbed.cyan_inverted_bed": "Letto con fondo blu invertito",
+    "block.invertedbed.gray_inverted_bed": "Letto grigio con struttura a incasso",
+    "block.invertedbed.green_inverted_bed": "Letto verde, capovolto",
+    "block.invertedbed.inverted_bed.tooltip0": "Permette di dormire durante il giorno.",
+    "block.invertedbed.inverted_bed.tooltip1": "Può essere appeso al soffitto.",
+    "block.invertedbed.light_blue_inverted_bed": "Letto a baldacchino di colore azzurro chiaro",
+    "block.invertedbed.light_gray_inverted_bed": "Letto grigio chiaro, con la testata in un colore diverso (ad esempio, bianco o nero).",
+    "block.invertedbed.lime_inverted_bed": "Letto invertito in calce",
+    "block.invertedbed.magenta_inverted_bed": "Letto a baldacchino di colore magenta",
+    "block.invertedbed.orange_inverted_bed": "Letto a testa in giù arancione",
+    "block.invertedbed.pink_inverted_bed": "Letto rosa, capovolto",
+    "block.invertedbed.purple_inverted_bed": "Letto viola, rovesciato",
+    "block.invertedbed.red_inverted_bed": "Letto a testa in giù di colore rosso",
+    "block.invertedbed.white_inverted_bed": "Letto bianco capovolto",
+    "block.invertedbed.yellow_inverted_bed": "Letto giallo rovesciato",
+    "itemGroup.invertedbed": "Letto a testa in giù"
+}

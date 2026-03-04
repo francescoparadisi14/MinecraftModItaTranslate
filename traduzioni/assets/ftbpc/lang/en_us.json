@@ -1,4 +1,13 @@
 {
+    "block.ftbpc.trigger_block": "Player Trigger",
+    "ftbpackcompanion.actionpad.tpa.request_sent": "TP request sent to",
+    "ftbpackcompanion.command.bypass.added": "Added %s to the forced gamemode bypass list.",
+    "ftbpackcompanion.command.bypass.no-players": "No players are currently in the forced gamemode bypass list.",
+    "ftbpackcompanion.command.bypass.removed": "Removed %s from the forced gamemode bypass list.",
+    "ftbpackcompanion.command.fixed": "Fixed gamemode for player %s.",
+    "ftbpackcompanion.home": "Home",
+    "ftbpackcompanion.key.category": "Pack Companion",
+    "ftbpackcompanion.key.open_action_pad": "Open Action Pad",
     "ftbpackcompanion.pause.mods": "Mods (%s)",
     "ftbpackcompanion.shaders_notice.no_shaders.description": "Shaders have been included in this pack but are disabled by default. Would you like to enable them? Shaders can be performance-intensive, cause issues with certain mods, and may not be compatible with your hardware.",
     "ftbpackcompanion.shaders_notice.no_shaders.title": "No shaders",
@@ -7,6 +16,9 @@
     "ftbpackcompanion.shaders_notice.shaders_btn.disable": "Disable shaders",
     "ftbpackcompanion.shaders_notice.shaders_btn.enable": "Enable shaders",
     "ftbpackcompanion.shaders_notice.title": "Would you like to use shaders?",
+    "ftbpackcompanion.spawn": "Spawn",
     "ftbpackcompanion.tooltip.support_discord": "Need help? Join our Discord server!",
-    "ftbpackcompanion.tooltip.support_github": "Found a bug? Report it on GitHub!"
+    "ftbpackcompanion.tooltip.support_github": "Found a bug? Report it on GitHub!",
+    "ftbpackcompanion.tpa": "Request Teleport",
+    "item.ftbpc.action_pad": "Action Pad"
 }

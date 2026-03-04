@@ -1,7 +1,7 @@
 {
-    "tabplus.search": "Cerca schede",
-    "text.autoconfig.creativetabplus.option.preservePageOne": "Conserva la pagina iniziale",
-    "text.autoconfig.creativetabplus.option.searchMode": "Modalità ricerca",
-    "text.autoconfig.creativetabplus.option.sortDirection": "Direzione di ordinamento",
+    "tabplus.search": "Pagine di ricerca",
+    "text.autoconfig.creativetabplus.option.preservePageOne": "Salvare la prima pagina",
+    "text.autoconfig.creativetabplus.option.searchMode": "Modalità di ricerca",
+    "text.autoconfig.creativetabplus.option.sortDirection": "Ordine di ordinamento",
     "text.autoconfig.creativetabplus.option.sortMode": "Modalità di ordinamento"
 }

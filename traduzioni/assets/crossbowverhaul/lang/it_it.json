@@ -1,15 +1,15 @@
 {
-    "item.crossbowverhaul.bolt_diamond": "Fionda di diamante",
-    "item.crossbowverhaul.bolt_diamond.tooltip": "Un proiettile a freccia fatto di diamanti",
-    "item.crossbowverhaul.bolt_explosive": "Fionda esplosiva",
-    "item.crossbowverhaul.bolt_explosive.tooltip": "Una freccia da crossbow §9a. §c Esplose al contatto!",
-    "item.crossbowverhaul.bolt_gold": "Fionda d'oro",
-    "item.crossbowverhaul.bolt_gold.tooltip": "§9shiny",
-    "item.crossbowverhaul.bolt_iron": "Fionda di ferro",
-    "item.crossbowverhaul.bolt_iron.tooltip": "Un proiettile normale in ferro",
-    "item.crossbowverhaul.bolt_netherite": "Fionda di netherite",
-    "item.crossbowverhaul.bolt_netherite.tooltip": "Il più raffinato tipo di freccia",
-    "item.crossbowverhaul.boltdamagetooltip": "Danni da proiettile di base: %d (rosso)",
-    "item.crossbowverhaul.crossbow_netherite": "Arco netherite",
-    "item.crossbowverhaul.tooltip.hold_shift": "Tenere [shift] per vedere di più"
+    "item.crossbowverhaul.bolt_diamond": "Diamante",
+    "item.crossbowverhaul.bolt_diamond.tooltip": "§9 Una vite realizzata in diamanti",
+    "item.crossbowverhaul.bolt_explosive": "Fulmine esplosivo",
+    "item.crossbowverhaul.bolt_explosive.tooltip": "§9 Un dardo da arcobalestra. §C ESPLODE ALL'IMPATTO!",
+    "item.crossbowverhaul.bolt_gold": "Fulmine d'oro",
+    "item.crossbowverhaul.bolt_gold.tooltip": "§9 Lucido",
+    "item.crossbowverhaul.bolt_iron": "Vite di ferro",
+    "item.crossbowverhaul.bolt_iron.tooltip": "§9 Un bullone standard in acciaio",
+    "item.crossbowverhaul.bolt_netherite": "Proiettile di Netherite",
+    "item.crossbowverhaul.bolt_netherite.tooltip": "§9 La versione più raffinata di una vite",
+    "item.crossbowverhaul.boltdamagetooltip": "§9Danno alla base del fulmine: %d",
+    "item.crossbowverhaul.crossbow_netherite": "Arco in Netherite",
+    "item.crossbowverhaul.tooltip.hold_shift": "§9 Per visualizzare ulteriori informazioni, premete §f[§eSHIFT§f]§9"
 }

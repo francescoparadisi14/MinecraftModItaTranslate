@@ -1,6 +1,6 @@
 {
-    "block.lolmfv.blackstone_furnace": "Fornace di blackstone",
-    "block.lolmfv.deepslate_furnace": "Fornace di pietra profonda",
-    "container.blackstone_furnace": "Fornace di blackstone",
-    "container.deepslate_furnace": "Fornace di pietra profonda"
+    "block.lolmfv.blackstone_furnace": "Fornace Blackstone",
+    "block.lolmfv.deepslate_furnace": "Fornace di Deepslate",
+    "container.blackstone_furnace": "Fornace Blackstone",
+    "container.deepslate_furnace": "Fornace di Deepslate"
 }

@@ -1,0 +1,16 @@
+{
+    "block.packageddraconic.fusion_crafter": "Fusion Package Crafter",
+    "block.packageddraconic.fusion_crafter.injectors.0": "Draconium %s",
+    "block.packageddraconic.fusion_crafter.injectors.1": "Wyvern %s",
+    "block.packageddraconic.fusion_crafter.injectors.2": "Draconic %s",
+    "block.packageddraconic.fusion_crafter.injectors.3": "Chaotic %s",
+    "block.packageddraconic.fusion_crafter.injectors.required": "Minimum Required Marked Fusion Crafting Injectors:",
+    "block.packageddraconic.fusion_crafter.injectors.usable": "Currently Usable Marked Fusion Crafting Injectors:",
+    "block.packageddraconic.marked_chaotic_injector": "Marked Chaotic Fusion Crafting Injector",
+    "block.packageddraconic.marked_draconic_injector": "Marked Draconic Fusion Crafting Injector",
+    "block.packageddraconic.marked_draconium_injector": "Marked Draconium Fusion Crafting Injector",
+    "block.packageddraconic.marked_wyvern_injector": "Marked Wyvern Fusion Crafting Injector",
+    "itemGroup.packageddraconic": "PackagedDraconic",
+    "recipe.packageddraconic.fusion": "Fusion Crafting",
+    "recipe.packageddraconic.fusion.short": "Fusion"
+}

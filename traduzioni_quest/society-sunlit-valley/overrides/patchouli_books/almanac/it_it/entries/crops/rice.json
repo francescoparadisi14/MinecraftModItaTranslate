@@ -1,15 +1,15 @@
 {
-    "name": "Rice 🔥🍂",
+    "name": "Riso 🌾🍂",
     "category": "patchouli:crops",
     "icon": "farmersdelight:rice",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li):moneta: 16$(li)§6 Estate §r 🍂 §4 Autunno$(li)Prezzo seme: :moneta: 64$(li)Rendimento: 1$(li)Stadi di crescita: 6$(li)Ricrescita stadi: 3$(br2)$(l)Note$()$(br)Deve essere piantato in acqua poco profonda."
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): monete: 16$(li)🔥 Estate§r 🍂 Autunno$(li) Prezzo del seme: monete: 64$(li) Resa: 1$(li) Tempo di crescita: 6 giorni$(li) Tempo di rigenerazione: 3 giorni$(br2)$(l)Note$()$(br) Deve essere piantato in acqua poco profonda in un terreno agricolo."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Flax Crop",
+            "name ": "Patchouli: coltura di lino",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -26,10 +26,9 @@
                 "mapping": {
                     "U": "farmersdelight:rice_panicles[age=3]",
                     "0": "farmersdelight:rice[age=3,supporting=true]",
-                    "F": "minecraft:dirt"
+                    "F": "minecraft:farmland[moisture=7]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

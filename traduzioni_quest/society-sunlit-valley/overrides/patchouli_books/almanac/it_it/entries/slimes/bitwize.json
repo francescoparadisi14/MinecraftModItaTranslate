@@ -5,14 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Localizzazioni:$()$(li)Bioma: Maelstrom Congelato (Caverna del Cranio)$(br2)$(l)Pericoli:$()$(br)Procura l'effetto di Confusione quando è disturbata."
+            "text": "patchouli:testo\n\n$(l)Posizione:$()$(li)Bioma: Tempesta Congelata (Caverna del Cranio)$(br2)$(l)Rischi:$()$(br)Provoca l'effetto \"Confusione\" quando è disturbato."
         },
         {
             "type": "patchouli:entity",
-            "name": "Bitwise Slime",
+            "name": "patchouli:entità\n\nsplendid_slimes:splendid_slime{Razza:\"splendid_slimes:bitwise\"}\n\nSlime Bitwise",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:bitwise\"}",
-            "scale": 0.9,
-            "text": "Entità: Splendido Slime Bitwise"
+            "scale": 0.9
         }
     ]
 }

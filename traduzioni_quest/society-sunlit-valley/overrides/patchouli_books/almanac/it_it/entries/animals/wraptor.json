@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Uovo: Uovo di Wraptor $(br2)$(l)Note$()$(br)Gli uova richiedono 2+ cuori. Possono essere trovate nei Boschi Distorti. Spariranno se non vengono etichettati con un nome!"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile per la vendita$(li)Uovo: Uovo di Wraptor $(br2)$(l)Note$()$(br)Gli uova richiedono almeno 2 cuori. Si possono trovare nelle Foreste Distorte. Spariranno se non vengono contrassegnati!"
         },
         {
             "type": "patchouli:entity",
             "entity": "species:wraptor",
             "scale": 0.8,
-            "text": "Essi odiano stare fuori dalla calda e rassicurante temperatura del Nether."
+            "text": "patchouli: entità\n\nspecie: wraptor\n\nOdiano stare all'aperto, lontano dalla confortevole calore del Nether."
         }
     ]
 }

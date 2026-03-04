@@ -1,0 +1,30 @@
+{
+    "name": "Bacche selvatiche ❆",
+    "category": "patchouli:crops",
+    "icon": "windswept:wild_berries",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): monete: 8$(li)❆ Inverno$(li)Resa: 1-2$(li)Tempo di crescita: 2\/3 giorni$(li)Tempo di rigenerazione: 1\/2 giorni$(br2)$(l)Note:$()$(br)Si trova in biomi innevati.$(br)Non sono necessarie semi, basta piantare il frutto."
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Patchouli: Multibloc\n\nArbusto di bacche selvatiche",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ],
+                "mapping": {
+                    "0": "windswept:wild_berry_bush[age=3]",
+                    "F": "minecraft:farmland[moisture=7]"
+                }
+            }
+        }
+    ]
+}

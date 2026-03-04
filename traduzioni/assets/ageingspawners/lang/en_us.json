@@ -1,0 +1,11 @@
+{
+    "ageingspawners.configuration.Blacklist": "Blacklist",
+    "ageingspawners.configuration.General": "General",
+    "ageingspawners.configuration.Whitelist": "Whitelist",
+    "ageingspawners.configuration.blacklist": "Blacklist",
+    "ageingspawners.configuration.blacklistMaxSpawnCount": "Blacklist Max Spawn Count",
+    "ageingspawners.configuration.playerPlacedOnly": "Player Placed Only",
+    "ageingspawners.configuration.spawnerMode": "Spawner Mode",
+    "ageingspawners.configuration.whitelist": "Whitelist",
+    "ageingspawners.configuration.whitelistMaxSpawnCount": "Whitelist Max Spawn Count"
+}

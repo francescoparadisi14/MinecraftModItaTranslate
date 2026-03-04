@@ -1,4 +1,4 @@
 {
-    "config.modnametooltip.formatting.modNameFormat": "Formato nome modulo",
-    "config.modnametooltip.formatting.modNameFormat.comment": "Come deve essere formattato il nome del modulo nella tooltip. Lasciare vuoto per disabilitare."
+    "config.modnametooltip.formatting.modNameFormat": "Formato del nome del modulo",
+    "config.modnametooltip.formatting.modNameFormat.comment": "Come dovrebbe essere formattato il nome del mod nella tooltip. Lasciare vuoto per disabilitare."
 }

@@ -338,6 +338,8 @@
     "stone_type.wetland_whimsy.limestone": "Lemonstone",
     "stone_type.what_is_stone.limestone": "Beige Limestone",
     "stone_type.what_is_stone.marble": "White Marble",
+    "stone_type:what_is_stone.limestone": "Beige Limestone",
+    "stone_type:what_is_stone.marble": "White Marble",
     "tooltip.stonezone.mud_type": "Mud Type: %s",
     "tooltip.stonezone.stone_type": "Stone Type: %s"
 }

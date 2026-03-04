@@ -1,8 +1,8 @@
 {
-    "_comment": "Nome della scheda creativa",
-    "entity.resourcepandas.resource_panda": "Panda delle risorse",
-    "item.resourcepandas.resource_panda_spawn_egg": "Uovo di nidificazione del panda delle risorse",
-    "itemGroup.resourcepandas:spawn_eggs": "Uova di panda risorse",
-    "resourcepandas.gui.jei.pandas.tooltip": "%s% di probabilità",
-    "resourcepandas.pandas.title": "Resource Pandas"
+    "_comment": "Nome creativo per la sezione",
+    "entity.resourcepandas.resource_panda": "Panda Risorse",
+    "item.resourcepandas.resource_panda_spawn_egg": "Uovo di Panda (risorsa)",
+    "itemGroup.resourcepandas:spawn_eggs": "Pandas per risorse",
+    "resourcepandas.gui.jei.pandas.tooltip": "%s: probabilità",
+    "resourcepandas.pandas.title": "Pandas per risorse"
 }

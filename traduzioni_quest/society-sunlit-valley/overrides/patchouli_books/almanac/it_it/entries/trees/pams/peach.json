@@ -1,16 +1,16 @@
 {
-    "name": "Peach Tree 🔥",
+    "name": "Albero di pesco 🔥",
     "category": "patchouli:trees",
     "icon": "pamhc2trees:peach_sapling",
     "sortnum": -1,
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)🔥 Estate $(li)Prezzo: 16.384 :coin$(li)Dimensioni: 1x1$(li)Cresce in:`$(l:tree_crops\/peach)8 pepe$(\/l)$(br2)$(l)Note$()$(li)Vendita di sementili acquistati sul mercato.`"
+            "text": "patchouli:text\n\n$(l)Statistiche$()$(li)🔥 Estate$(r) $(li) Prezzo: 16.384$(li) Dimensioni: 1x1$(li) Cresce: 8 peschi (da peach)$(\/l)$(br2)$(l)Note$()$(li) Piantine acquistate dal mercato."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Peach Tree",
+            "name ": "Patchouli: Multibloc\nAlbero di pesco",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {
@@ -77,8 +77,7 @@
                         "     "
                     ]
                 ]
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

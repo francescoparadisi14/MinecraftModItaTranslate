@@ -1,15 +1,15 @@
 {
-    "name": "tubabacco 🌼❆",
+    "name": "Tubabacco 🌼❆",
     "category": "patchouli:crops",
     "icon": "society:tubabacco_leaf",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li):moneta: 87$(li)🌼 §2Primavera§r ❆ §bInverno$(li)Prezzo seme: :moneta: 512$(li)Rendimento: 1$(li)Tempo di crescita: 9 giorni$(br2)$(l)Note$()$(br)I semi acquistati solo dal Cultivatore Maestro`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): monete: 87$(li) 🌼 Primavera§r ❆ §bInverno$(li) Prezzo del seme: 87 monete$(li) Resa: 1$(li) Tempo di crescita: 9 giorni$(br2)$(l)Note$()$(br)Semi acquistati solo dal coltivatore principale"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Tubabacco Crop",
+            "name ": "Patchouli: Multiblock\n\nTubabacco Crop",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -24,8 +24,7 @@
                     "0": "society:tubabacco_leaf[age=9]",
                     "F": "minecraft:farmland[moisture=7]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

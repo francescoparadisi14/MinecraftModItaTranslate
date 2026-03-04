@@ -1,17 +1,17 @@
 {
-    "name": "Cochineal",
+    "name": "Cochinella",
     "category": "patchouli:animals",
     "icon": "atmospheric:carmine_husk",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Raccolta: Cuscino di carmignano, Dragonfruit (50% di probabilità) $(li)Bottino: Cuscino di carmignano$(br2)$(l)Note$()$(br)La raccolta richiede 1+ cuori."
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile per la vendita$(li)Alimentazione: Gusci di carmine, frutto di dragon (50% di probabilità) $(li)Oggetti ottenuti: Gusci di carmine$(br2)$(l)Note$()$(br)La raccolta richiede almeno 1 cuore."
         },
         {
             "type": "patchouli:entity",
             "entity": "atmospheric:cochineal",
             "scale": 0.5,
-            "text": "Il materiale dei incubi, spero che i tuoi bei blocchi ne siano valsi la pena."
+            "text": "Patchouli: entità\n\nAtmosferico: coccinella\n\nSpero che i tuoi bei mattoncini valgano la pena, perché questa cosa mi fa venire i brividi."
         }
     ]
 }

@@ -1,0 +1,14 @@
+{
+    "key.tagtooltips.show_tag_tooltip": "Show Item Tag Tooltips",
+    "tooltip.tagtooltips.block": "Block tags:",
+    "tooltip.tagtooltips.enchantment": "Enchantment tags:",
+    "tooltip.tagtooltips.entity_type": "Entity type tags:",
+    "tooltip.tagtooltips.fluid": "Fluid tags:",
+    "tooltip.tagtooltips.instrument": "Instrument tags:",
+    "tooltip.tagtooltips.item": "Item tags:",
+    "tooltip.tagtooltips.multiple_enchantments": "Multiple enchantments",
+    "tooltip.tagtooltips.no_tags": "No tags",
+    "tooltip.tagtooltips.poi_type": "Point of interest tags:",
+    "tooltip.tagtooltips.tag": "#%s",
+    "tooltip.tagtooltips.tag_translatable": "#%s (%s)"
+}

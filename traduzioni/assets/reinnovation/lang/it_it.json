@@ -1,12 +1,12 @@
 {
-    "block.reinnovation.copper_drain": "Drain di rame",
-    "block.reinnovation.dripleaf_launcher": "Lanciatore foglia triplice",
+    "block.reinnovation.copper_drain": "Scarico",
+    "block.reinnovation.dripleaf_launcher": "Dripleaf Launcher",
     "block.reinnovation.harvester": "Raccoglitore",
-    "block.reinnovation.sculk_receiver": "Ricevitore sculk",
-    "block.reinnovation.sculk_transmitter": "Trasmettitore sculk",
-    "itemGroup.reinnovation": "Rinovazione",
-    "subtitles.reinnovation.drain": "L'oggetto assorbe",
-    "subtitles.reinnovation.harvest": "Il raccoltore ruota",
-    "subtitles.reinnovation.launch": "Attivazione lanciatore Dripleaf",
-    "subtitles.reinnovation.transmit": "Il segnale del Skulk è stato trasmesso"
+    "block.reinnovation.sculk_receiver": "Ricevitore per sensori di prossimità",
+    "block.reinnovation.sculk_transmitter": "Trasmettitore di Sculk",
+    "itemGroup.reinnovation": "Rinnovamento",
+    "subtitles.reinnovation.drain": "Funzione di scarico",
+    "subtitles.reinnovation.harvest": "Rotazioni del mulino",
+    "subtitles.reinnovation.launch": "L'applicazione Dripleaf è stata avviata.",
+    "subtitles.reinnovation.transmit": "Segnale di avvertimento inviato"
 }

@@ -1,4 +1,6 @@
 {
+    "block.ilikewood.acacia_bookshelf": "Acacia Bookshelf",
+    "block.ilikewood.bamboo_bookshelf": "Bamboo Bookshelf",
     "block.ilikewood.biomesoplenty_dead_bookshelf": "Dead Bookshelf",
     "block.ilikewood.biomesoplenty_fir_bookshelf": "Fir Bookshelf",
     "block.ilikewood.biomesoplenty_hellbark_bookshelf": "Hellbark Bookshelf",
@@ -8,5 +10,14 @@
     "block.ilikewood.biomesoplenty_palm_bookshelf": "Palm Bookshelf",
     "block.ilikewood.biomesoplenty_redwood_bookshelf": "Redwood Bookshelf",
     "block.ilikewood.biomesoplenty_umbran_bookshelf": "Umbran Bookshelf",
-    "block.ilikewood.biomesoplenty_willow_bookshelf": "Willow Bookshelf"
+    "block.ilikewood.biomesoplenty_willow_bookshelf": "Willow Bookshelf",
+    "block.ilikewood.birch_bookshelf": "Birch Bookshelf",
+    "block.ilikewood.cherry_bookshelf": "Cherry Bookshelf",
+    "block.ilikewood.crimson_bookshelf": "Crimson Bookshelf",
+    "block.ilikewood.dark_oak_bookshelf": "Dark Oak Bookshelf",
+    "block.ilikewood.jungle_bookshelf": "Jungle Bookshelf",
+    "block.ilikewood.mangrove_bookshelf": "Mangrove Bookshelf",
+    "block.ilikewood.oak_bookshelf": "Oak Bookshelf",
+    "block.ilikewood.spruce_bookshelf": "Spruce Bookshelf",
+    "block.ilikewood.warped_bookshelf": "Warped Bookshelf"
 }

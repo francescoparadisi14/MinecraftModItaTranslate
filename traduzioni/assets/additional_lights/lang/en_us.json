@@ -1,4 +1,10 @@
 {
+    "additional_lights.configuration.enableFireCrafting": "Enable fire crafting",
+    "additional_lights.configuration.enableFireCrafting.tooltip": "Enables crafting recipes for Additional Lights fire blocks (fire_for_* \/ soul_fire_for_*). Apply with \/reload or by rejoining.",
+    "additional_lights.configuration.recipes": "Recipes",
+    "additional_lights.configuration.section.additional.lights.common.toml": "%s Settings",
+    "additional_lights.configuration.section.additional.lights.common.toml.title": "%s Settings",
+    "additional_lights.configuration.title": "%s Settings",
     "additional_lights.txt.block.pedestal.rightclick": "- §9Right click:§r Ignition.",
     "additional_lights.txt.block.pedestal.signals": "- Supports redstone signals.",
     "additional_lights.txt.block.pedestal.sneaking": "- §9Sneaking:§r Placed without fire, reject signals.",

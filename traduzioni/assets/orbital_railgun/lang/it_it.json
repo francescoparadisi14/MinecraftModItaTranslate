@@ -1,0 +1,13 @@
+{
+    "creativetab.orbital_railgun": "Orbital Railgun: Versione aggiornata",
+    "death.attack.strike": "%1$ è stato distrutto da un attacco a distanza",
+    "item.orbital_railgun.orbital_railgun": "Orbital Railgun: Versione aggiornata",
+    "item.orbital_railgun.orbital_railgun.tooltip": "Lancia un attacco orbitale devastante.",
+    "item.orbital_railgun.orbital_railgun.tooltip.shift1": "⚡ Tenere premuto per la ricarica; rilasciare quando la batteria è completamente carica.",
+    "item.orbital_railgun.orbital_railgun.tooltip.shift2": "⚙ Altamente configurabile",
+    "item.orbital_railgun.orbital_railgun.tooltip.shift3": "⚠ Gli effetti shader non sono compatibili con i pacchetti shader di Oculus, quindi non vedrete gli effetti dei mod quando utilizzate i pacchetti shader.",
+    "subtitles.orbital_railgun.equip": "Dotata di cannone a rotaia",
+    "subtitles.orbital_railgun.railgun_shoot": "Operazione di attacco orbitale lanciata.",
+    "subtitles.orbital_railgun.scope_on": "Ambito online",
+    "tooltip.orbital_railgun.hold_shift": "Tenere premuto il tasto Shift per visualizzare i dettagli."
+}

@@ -1,18 +1,17 @@
 {
-    "name": "Piangete",
+    "name": "Piangere",
     "category": "patchouli:slimes",
     "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:weeping\"}}",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Localizzazioni:$()$(li)Ambienti: Biomi dell'Inferno fuori dalla Valle del Sabbia dell'Anima$(br2)$(l)Rischii:$()$(br)Cadrà occasionalmente in lacrime, riempiendo l'area d'acqua."
+            "text": "patchouli:testo\n\n$(l)Posizioni:$(()\n$(li)Biomi: Biomi del Nether al di fuori della Valle di Soul Sand\n$(br2)\n$(l)Rischi:$(()\n$(br) Potrebbe piangere periodicamente, riempiendo l'area d'acqua."
         },
         {
             "type": "patchouli:entity",
-            "name": "Weeping Slime",
+            "name": "patchouli:entità\n\nsplendid_slimes:splendid_slime{Razza:\"splendid_slimes:weeping\"}\n\nSlime che piange",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:weeping\"}",
-            "scale": 0.9,
-            "text": "Entità: Splendido Slime (Razza: Lamento)"
+            "scale": 0.9
         }
     ]
 }

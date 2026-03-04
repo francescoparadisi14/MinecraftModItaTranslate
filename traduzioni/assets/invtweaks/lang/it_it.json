@@ -1,6 +1,6 @@
 {
-    "key.categories.invtweaks": "Modifiche inventario rinnovate",
-    "key.invtweaks_sort_either.desc": "Ordina inventario sottolineato",
-    "key.invtweaks_sort_inventory.desc": "Ordina inventario esterno",
-    "key.invtweaks_sort_player.desc": "Ordina inventario giocatore"
+    "key.categories.invtweaks": "Aggiornamento delle modifiche all'inventario",
+    "key.invtweaks_sort_either.desc": "Ordina l'inventario sotto il cursore",
+    "key.invtweaks_sort_inventory.desc": "Ordinare l'inventario esterno",
+    "key.invtweaks_sort_player.desc": "Ordinare l'inventario del giocatore"
 }

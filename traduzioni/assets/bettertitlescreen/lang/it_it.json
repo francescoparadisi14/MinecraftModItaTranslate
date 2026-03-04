@@ -1,7 +1,7 @@
 {
-    "_comment": "Nota: configurazione del gioco Forge",
+    "_comment": "Crea le impostazioni di gioco.",
     "bettertitlescreen.config.category.general.title": "Generale",
-    "bettertitlescreen.config.category.general.tooltip": "Seleziona quali marchi vuoi visualizzare sullo schermo di titolo (se ne hai qualcuno del tutto).",
+    "bettertitlescreen.config.category.general.tooltip": "Seleziona quali marchi desideri visualizzare nella schermata iniziale (se presenti).",
     "bettertitlescreen.config.category.listCustomText.title": "Testo personalizzato",
-    "bettertitlescreen.config.category.listCustomText.tooltip": "Inserisci il testo che desideri qui (supporta più righe)."
+    "bettertitlescreen.config.category.listCustomText.tooltip": "Inserisci il testo desiderato qui (supporta più righe)."
 }

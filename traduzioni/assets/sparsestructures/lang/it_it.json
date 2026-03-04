@@ -1,0 +1,6 @@
+{
+    "command.sparsestructures.dump.dumping": "Strutture per lo scarico...",
+    "command.sparsestructures.dump.failure": "Non è stato possibile salvare i set di strutture. Controllare i log per eventuali errori.",
+    "command.sparsestructures.dump.server": "(È possibile trovare il risultato nei file del server)",
+    "command.sparsestructures.dump.success": "Strutture salvate in `%s`"
+}

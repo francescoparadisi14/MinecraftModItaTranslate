@@ -1,0 +1,133 @@
+{
+    "quest.062AA943A1629A86.quest_desc": [
+        "Hai distrutto il \\&zFornello Arcobaleno\\&r?!?! Hai semplicemente acceso TNT proprio accanto? Sei arrabbiato? Ci sono voluti così tanti forni e risorse, e poi l'hai distrutto!!! Almeno hai ottenuto qualcosa di utile, come il \\&zCarbone Arcobaleno\\&r? Carbone che dura \\&mper sempre\\&r a lungo? In realtà, è decisamente un buon affare."
+    ],
+    "quest.062AA943A1629A86.title": "\\&zRainbow Coal",
+    "quest.07753C5D94312A50.quest_desc": [
+        "\\&3Augment\\&r: Generator è l'opposto del \\&3Augment\\&r: Factory: invece di utilizzare l'energia per la fusione, la fusione viene effettuata per ottenere energia. Non potrete più utilizzare l'oggetto all'interno per la fusione; ogni fonte di energia utilizzata verrà trasformata in energia!",
+        "",
+        "(Mi chiedo se sia meglio collegare un generatore e i forni industriali, invece di utilizzare solo il combustibile in un unico sistema)"
+    ],
+    "quest.07753C5D94312A50.title": "\\&3Aumenta: Generatore",
+    "quest.0AD2B11565B484E7.quest_desc": [
+        "Avrete bisogno di ogni fornace prima di ottenere il Netherite. Sì, di tutti, anche quello in rame! E anche quello in argento! E persino quello in cristallo!"
+    ],
+    "quest.0AD2B11565B484E7.title": "\\&Rainbow Plating",
+    "quest.0ADBE90B33ACC9FB.quest_desc": [
+        "Il \"Generatore Arcobaleno\" fornisce un aumento al \"Fornello Arcobaleno\" quando si utilizza il \"Generatore Arcobaleno\". Se tutti gli altri 9 forni (eccetto quelli del tipo \"AllTheModium\" e superiori) sono posizionati attorno al \"Fornello Arcobaleno\", hanno il \"Generatore Arcobaleno\" e stanno attivamente producendo energia (cioè, non sono pieni), allora forniranno un aumento al \"Fornello Arcobaleno\" che ha il \"Generatore Arcobaleno\" e che è in funzione. Questo aumenterà la produzione di 2.000 FE al tick!"
+    ],
+    "quest.0ADBE90B33ACC9FB.title": "\\&zGeneratore di arcobaleni",
+    "quest.20EC8001A05CE2C8.quest_desc": [
+        "Wireless Heat è un modo divertente e semplice per alimentare i focolari. Innanzitutto, posiziona il trasmettitore Wireless Heat e inserisci l'energia. Quindi, collega il ricevitore al trasmettitore per stabilire la connessione. Infine, posiziona il ricevitore nella sezione del combustibile del focolare per iniziare l'alimentazione!"
+    ],
+    "quest.21EA29A8C7F950CE.quest_desc": [
+        "«E i Forni d'Oro, che sono fondamentali in \\&2Minecraft\\&r, e apparentemente anche nei Forni potenziati...»\n\nQuesti funzionano ancora più velocemente, impiegando solo 80 \"Ticks\" o 4 secondi per fondere gli oggetti. Questo è ancora più veloce di un forno a fusione!\n\nQuesti forni possono essere creati solo con Forni d'Oro e possono essere trasformati in Forni di \\&3Cristallo\\&r o \\&aSmeraldo\\&r."
+    ],
+    "quest.21EA29A8C7F950CE.title": "\\&Fornace a diamante",
+    "quest.2354BC5330350DF6.quest_desc": [
+        "Se il \"Forno di Smeraldo\" non fa al caso, il \"Forno di Cristallo\" potrebbe essere quello che fa per voi!\n\nFunziona allo stesso modo del \"Forno di Smeraldo\" a 40 tick.\n\nÈ realizzato con un \"Forno di Diamante\" e può essere trasformato in un \"Forno di Ossidiana\".\n\n(No, non è possibile vedere gli oggetti che si stanno fondendo all'interno, è semplicemente trasparente)"
+    ],
+    "quest.2354BC5330350DF6.title": "\\&3Fornace in cristallo",
+    "quest.25080E3295B1DF01.quest_desc": [
+        "Lo \\&5Unobtainium Furnace\\&r è in grado di fondere gli oggetti più velocemente rispetto a qualsiasi altro forno presente nel set!"
+    ],
+    "quest.25080E3295B1DF01.title": "E il forno a Unobtainium",
+    "quest.2748ACEAB96A5F60.quest_desc": [
+        "I forni in ferro (da non confondere con i titoli \"Iron Furnaces\" che è il nome del mod e del nome dell'oggetto) funzionano ancora più velocemente rispetto ai forni normali e in rame. Richiedono 160 \"ticks\" (unità di tempo), ovvero 8 secondi.\n\nQuesti forni possono essere creati utilizzando sia un forno normale che un forno in rame. E possono essere trasformati in un forno in argento o in oro."
+    ],
+    "quest.2748ACEAB96A5F60.title": "\\&Fornace a carbone",
+    "quest.2E85D6E2CFCC356E.quest_desc": [
+        "Il forno \\&3Vibranium\\& è addirittura migliore del forno \\&6Allthemodium\\&!"
+    ],
+    "quest.2E85D6E2CFCC356E.title": "\\&Fornace a vibranio",
+    "quest.2EE8FCB63A338BC4.quest_desc": [
+        "Il \\&zRainbow Furnace richiede letteralmente tutti gli altri forni per essere creato. 8 \\&zRainbow Plating e 1 \\&zRainbow Core ci forniscono il forno migliore che si possa immaginare!",
+        "",
+        "Sì, ci vogliono 20 \"ticks\" per fondere o 1 secondo, ma non si possono fondere un singolo oggetto. Quanti oggetti? Quanti sono in un gruppo di oggetti?"
+    ],
+    "quest.2EE8FCB63A338BC4.title": "\\&Rainbow Furnace",
+    "quest.32C7D8AE859BF89E.quest_desc": [
+        "Potrebbe essere Obsidian, ma non preoccupatevi, non vi serve un piccone di Diamante per raccoglierlo, solo per crearlo.",
+        "",
+        "Funziona ogni 20 volte o ogni secondo. No, solo ogni secondo.",
+        "",
+        "Può essere creato utilizzando un \\&3Fornello di Cristallo\\&r o un \\&aFornello di Smeraldo\\&r, e può essere trasformato in un \\&5Fornello di Netherite\\&r!"
+    ],
+    "quest.32C7D8AE859BF89E.title": "\\&Fornace in ossidiana",
+    "quest.33436ED0D9F128BD.quest_desc": [
+        "\\&4Augment\\&r: L'aggiunta \"Fornace a carbone\" trasforma la tua fornace in una fornace per affumicare. Ora potrà affumicare solo alimenti, ma con una velocità doppia! Come l'aggiunta \"Esplosione\": anche questa si combina con altre modifiche!"
+    ],
+    "quest.33436ED0D9F128BD.title": "\\&4Aumentare: Fumo",
+    "quest.39605F1FEB1A5A1C.quest_desc": [
+        "Questa quest è stata creata da \\&6AllTheMods Staff\\&r, o da un \\&2contributore della community\\&r, per l'uso nei pacchetti mod di AllTheMods.\n\nPoiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti a \\&eTutti i diritti riservati\\&r, questa quest non può essere utilizzata in altri pacchetti pubblici, a meno che non siano stati rilasciati dal team \\&6AllTheMods\\&r, previa autorizzazione esplicita.\n\nQuesta quest è intenzionalmente nascosta. Se la visualizzate, significa che siete in modalità di modifica."
+    ],
+    "quest.39605F1FEB1A5A1C.title": "Tutti i diritti riservati",
+    "quest.3A4C17878FC8315B.quest_desc": [
+        "Il \"Furnace di Allthemodium\" è praticamente identico al \"Furnace di Netherite\". Ne avrete bisogno per creare il \"Furnace di Vibranium\"."
+    ],
+    "quest.3A4C17878FC8315B.title": "\\&6Fornace di Allthemodium",
+    "quest.420FE84DEE12CCE0.quest_desc": [
+        "Il forno \\&eGold\\&r è migliore rispetto a quelli in ferro, con un tempo di cottura di 120 tick.\\n\\nPuò essere creato utilizzando un forno in \\&7argento\\&r o in ferro, e poi trasformato in un forno in \\&bdiamante\\&r!"
+    ],
+    "quest.420FE84DEE12CCE0.title": "\\&eFornace d'oro",
+    "quest.49F08DE190AAD0D8.quest_desc": [
+        "\\&3Augment\\&r: Il modulo \"Factory\" trasforma il tuo forno in qualcosa di simile alla fabbrica di fusione di Mekanism. Invece di utilizzare combustibili, ora utilizzerà energia! Collega una fonte di energia e inizierà a fondere."
+    ],
+    "quest.49F08DE190AAD0D8.title": "\\&3Aumentare: Fabbrica",
+    "quest.538821E23E39BE97.quest_desc": [
+        "E 2: L'efficienza del carburante è ideale per tutti coloro che amano la Terra, che si prendono cura degli alberi, che ammirano Captain Planet e che sono degli hippy. Il forno consuma la metà della quantità di carburante, ma in un tempo inferiore. Il carbone permette di fondere 8 oggetti, invece di 16!"
+    ],
+    "quest.538821E23E39BE97.title": "\\&2Aumentare\\&r: Efficienza nei consumi",
+    "quest.553220A2CD7CAFE4.quest_desc": [
+        "Durante il Natale, tutti i forni sembrano regali... ma i forni in sé spiccano come un errore! Questo può essere risolto utilizzando la carta da regalo! Basta fare clic con il tasto destro per applicarla a qualsiasi forno e sarà pronto per le festività! E una volta che la stagione è finita, è possibile utilizzare nuovamente il clic con il tasto destro per rimuovere la carta da regalo."
+    ],
+    "quest.553220A2CD7CAFE4.quest_subtitle": "Completato, risolto",
+    "quest.61847F47CCA225D9.quest_desc": [
+        "Seguendo lo stesso schema, questi oggetti si raffreddano in 140 tick (o 7 secondi).\n\nPossono essere creati utilizzando forni in rame o in ferro e possono essere utilizzati per creare un forno in oro."
+    ],
+    "quest.61847F47CCA225D9.title": "Fornace in argento",
+    "quest.661C072E48F8D41F.quest_desc": [
+        "E il rame è uno dei minerali più comuni che si possono trovare, quindi perché non utilizzare del rame in eccesso per migliorare il vostro forno!",
+        "",
+        "I forni normali impiegano 200 \"tick\" per fondere 1 oggetto (1 \"tick\" = 1 secondo), mentre i forni in rame richiedono 180 \"tick\".",
+        "",
+        "Possono essere trasformati in forni in argento o in ferro."
+    ],
+    "quest.661C072E48F8D41F.title": "\\&6 Focolare in rame",
+    "quest.686B25F2E9D8CC97.quest_desc": [
+        "Al momento in cui scrivo, siamo a fine luglio, quindi ho circa 3 mesi prima di Halloween. Tuttavia, non è mai troppo presto per iniziare a prepararsi! Proprio come con Spirit Halloween, possiamo iniziare a preparare tutto 3 mesi prima che inizi effettivamente. In questo caso, basta fare clic con il tasto destro su un camino utilizzando lo strumento \"Spook-alator\"! Una volta che è il momento di prepararsi per la fase di preparazione del \"Thanksgiving\", basta fare clic con il tasto destro per disattivare lo strumento!"
+    ],
+    "quest.686B25F2E9D8CC97.quest_subtitle": "È Halloween",
+    "quest.711DDD55CEC439E5.quest_desc": [
+        "L'\\&aFornace di smeraldo\\&r, mi chiedo se gli abitanti la scamberebbero?\n\nFunziona a 40 \"ticks\" o solo a 2 secondi per fondere! Se non fai attenzione, potresti perderla.\n\nQueste forni sono realizzate con l'\\&aFornace di diamante\\&r e possono essere trasformate in una \\&aFornace di ossidiana\\&r."
+    ],
+    "quest.711DDD55CEC439E5.title": "\\&aFornace di smeraldo",
+    "quest.73FF01D830A669AA.quest_desc": [
+        "\\&4Aumenta: Trasforma il tuo forno in un forno per la fusione ad alta velocità! Ora sarà in grado di fondere solo i minerali, ma a una velocità doppia! Sì, questo effetto si somma con gli effetti di altri aumenti e con i diversi livelli dei forni."
+    ],
+    "quest.73FF01D830A669AA.title": "\\&4Aumentare: Esplosioni",
+    "quest.757B14D08A9A03C4.quest_desc": [
+        "Come la maggior parte delle macchine modificate, anche i forni in ferro hanno delle configurazioni. Queste configurazioni possono essere trovate cliccando nell'angolo in alto a sinistra. Qui si troveranno gli ingressi, le uscite e l'attivazione tramite redstone. L'attivazione tramite redstone determina quando il forno inizierà a fondere. I pulsanti in alto indicano se l'ingresso o l'uscita avverrà automaticamente, il che significa che il forno si muoverà automaticamente tra gli inventari collegati. Le caselle si trovano su ciascun lato del forno e determinano se si tratta di un ingresso, un'uscita, entrambi, l'alimentazione di carburante o di nulla. Questo è importante per gli oggetti che vengono trasferiti all'interno o all'esterno. Il \"Link per le impostazioni del forno\" copierà tutte queste impostazioni su altri forni!"
+    ],
+    "quest.757B14D08A9A03C4.title": "Configurazioni",
+    "quest.78D1C97A542133D8.quest_desc": [
+        "Gli \"Augments\" sono miglioramenti per i forni in ghisa!",
+        "",
+        "Nella parte superiore destra dell'interfaccia del forno, troverete il pulsante per accedere alla sezione \"Augment\". Questa sezione conterrà tre aree colorate: una rossa, una verde e una blu, ognuna delle quali potrà contenere un singolo oggetto colorato."
+    ],
+    "quest.78D1C97A542133D8.title": "\\&Aumenta",
+    "quest.79C4CF8D7312FC28.quest_desc": [
+        "Il miglior modo per ottenere il Vanilla Netherite! E non avrete bisogno della \"Smithing Template\", basta avere parecchio Netherite.\n\nQuesto oggetto fonde un oggetto ogni 5 tick, il che significa che ne fonde 4 ogni secondo. Sì, non è più \"Secondi per fusione\" (S.P.S.), ora è \"Fusione per secondo\" (S.P.S.).\n\nÈ realizzato con un \"Fornello di ossidiana\"... ma questo non è il forno finale?"
+    ],
+    "quest.79C4CF8D7312FC28.title": "\\&5Fornello di Netherite\\&r",
+    "quest.7A615E2A152917AD.quest_desc": [
+        "Per questo, avrai bisogno di 2 forni in Netherite e 5 pezzi di vetro, ognuno di un colore diverso: rosso, arancione, giallo, verde, blu, indaco e viola. Sì! L'intero spettro di Roy G. Bpm!"
+    ],
+    "quest.7A615E2A152917AD.title": "\\&zRainbow Core",
+    "quest.7F67849DE9F700D8.quest_desc": [
+        "\\&2Aumenta la velocità: il tuo forno funzionerà più velocemente! Il forno in diamante invece fonderà ogni 40 \"tick\" invece di 80. A costo di un doppio consumo di carburante."
+    ],
+    "quest.7F67849DE9F700D8.title": "\\&2Aumenta\\&r: Velocità",
+    "task.38B6F45109CB033A.title": "Tutti i diritti riservati",
+    "task.5DB7A437BEC3E2D4.title": "Tutti i diritti riservati"
+}

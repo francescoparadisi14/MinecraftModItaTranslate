@@ -1,13 +1,14 @@
 {
     "block.createlowheated.basic_burner": "Bruciatore di base",
     "block.createlowheated.basic_burner.tooltip": "Bruciatore di base",
-    "block.createlowheated.basic_burner.tooltip.behaviour1": "Clicca con il pulsante destro su di esso con un _combustibile_ o utilizza un _fogliaio\/assemeccanismo\/articolo meccanico_.",
-    "block.createlowheated.basic_burner.tooltip.behaviour2": "Per accendere il fuoco è necessario cliccare destro con _pietra e acciarino_. fintanto che viene alimentato costantemente, il fuoco si manterrà acceso.",
-    "block.createlowheated.basic_burner.tooltip.behaviour3": "Può essere potenziato utilizzando un ventilatore a rpm massimo contro di esso.",
-    "block.createlowheated.basic_burner.tooltip.condition1": "Richiede combustibile",
-    "block.createlowheated.basic_burner.tooltip.condition2": "Richiede carbonella e acciaio da fuoco",
+    "block.createlowheated.basic_burner.tooltip.behaviour1": "Clicca con il tasto destro e usa uno strumento come _Fuel_ o un _Funnel\/Deployer\/Braccio meccanico_.",
+    "block.createlowheated.basic_burner.tooltip.behaviour2": "Per accendere il fuoco, è necessario fare clic con il tasto destro del mouse utilizzando la pietra focaia e il ferro. Finché il fuoco viene alimentato continuamente, continuerà a ardere.",
+    "block.createlowheated.basic_burner.tooltip.behaviour3": "Può essere potenziata utilizzando una ventola che raggiunge un'alta velocità di rotazione.",
+    "block.createlowheated.basic_burner.tooltip.condition1": "Necessita di carburante",
+    "block.createlowheated.basic_burner.tooltip.condition2": "Richiede un bisturi e una pietra focaia.",
     "block.createlowheated.basic_burner.tooltip.condition3": "Bruciatore potenziato",
-    "block.createlowheated.basic_burner.tooltip.summary": "Fornisce calore alle ricette del bacino e all'ingranaggio a vapore.",
-    "create.recipe.heat_requirement.lowheated": "Riscaldamento basso",
-    "itemGroup.createlowheated.base": "Crea bassa temperatura"
+    "block.createlowheated.basic_burner.tooltip.summary": "Fornisce calore per le ricette di _Basin Recipes_ e per la _Steam Engine_.",
+    "create.addon.basicburner.burner_contents": "Contenuto standard della bruciatura:",
+    "create.recipe.heat_requirement.lowheated": "A bassa temperatura",
+    "itemGroup.createlowheated.base": "Creare un ambiente a bassa temperatura"
 }

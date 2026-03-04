@@ -44,7 +44,8 @@
     "chimes.configGui.options.on": "On",
     "chimes.configGui.options.static": "Static",
     "chimes.configGui.title": "Chimes Config",
-    "chimes.subtitles.wind_chime.chimes": "Wind chime chimes",
-    "chimes.subtitles.wind_chime.shimmers": "Wind chime shimmers",
-    "chimes.subtitles.wind_chime.tie": "Wind chime tied"
+    "chimes.subtitles.wind_chime.chimes": "Wind Chime chimes",
+    "chimes.subtitles.wind_chime.shimmers": "Wind Chime shimmers",
+    "chimes.subtitles.wind_chime.tie": "Wind Chime tied",
+    "item.glass_wind_bell.customizable": "Customizable"
 }

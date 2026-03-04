@@ -1,5 +1,5 @@
 {
-    "block.experienced_crops.mod_block": "Blocco modificato",
-    "entity.experienced_crops.mod_entity": "Entità modificata",
-    "item.experienced_crops.mod_item": "oggetto modificato"
+    "block.experienced_crops.mod_block": "Blocco Mod",
+    "entity.experienced_crops.mod_entity": "Entità Mod",
+    "item.experienced_crops.mod_item": "Modello"
 }

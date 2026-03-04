@@ -12,7 +12,7 @@
     "block.create_deep_dark.echo_block": "Echo Block",
     "block.create_deep_dark.molten_echo": "Molten Echo",
     "fluid.create_deep_dark.molten_echo": "Molten Echo",
-    "fluid_type.create_deep_dark.molten_echo": "Liquid Echo",
+    "fluid_type.create_deep_dark.molten_echo": "Molten Echo",
     "item.create_deep_dark.echo_armor_boots": "Echo Boots",
     "item.create_deep_dark.echo_armor_boots.description_0": "§7With full set on:",
     "item.create_deep_dark.echo_armor_boots.description_1": "§7- §aResistance II §7(infinite)",
@@ -38,7 +38,16 @@
     "item.create_deep_dark.echo_sword.description_0": "§7On hit, inflicts to target:",
     "item.create_deep_dark.echo_sword.description_1": "§7- §cWeakness II §7(5 sec.)",
     "item.create_deep_dark.echo_sword.description_2": "§7- §cDarkness II §7(5 sec.)",
+    "item.create_deep_dark.echo_upgrade_smithing_template": "Smithing Template",
+    "item.create_deep_dark.echo_upgrade_smithing_template.description_0": "§7Echo Upgrade",
+    "item.create_deep_dark.echo_upgrade_smithing_template.description_1": "",
+    "item.create_deep_dark.echo_upgrade_smithing_template.description_2": "§7Applies to:",
+    "item.create_deep_dark.echo_upgrade_smithing_template.description_3": "§9 Netherite Equipment",
+    "item.create_deep_dark.echo_upgrade_smithing_template.description_4": "§7Ingredients:",
+    "item.create_deep_dark.echo_upgrade_smithing_template.description_5": "§9 Echo Ingot",
+    "item.create_deep_dark.echo_upgrade_smithing_template.description_6": "§9 Echo Ingot",
+    "item.create_deep_dark.echo_upgrade_smithing_template.description_7": "§9 Echo Ingot",
     "item.create_deep_dark.molten_echo_bucket": "Molten Echo Bucket",
     "item.create_deep_dark.sculk_flour": "Sculk Flour",
-    "item_group.create_deep_dark.create_deep_dark": "Create Deep Dark"
+    "item_group.create_deep_dark.create_deep_dark": "Create: Deep Dark"
 }

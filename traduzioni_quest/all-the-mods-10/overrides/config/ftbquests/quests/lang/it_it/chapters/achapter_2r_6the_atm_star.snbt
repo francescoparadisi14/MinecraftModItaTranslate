@@ -1,0 +1,185 @@
+{
+    "quest.00F00B0B66059996.quest_desc": [
+        "Bene, un altro \"Multiblock\"! Questa richiede più porte di qualsiasi base navale abbia mai visto!\n\nAvremo bisogno di porte per l'ingresso e l'uscita di \\&3Fluid Input\\&r e \\&3Output\\&r, nonché di porte per l'ingresso e l'uscita di \\&6Item Input\\&r e \\&6Output\\&r.\n\nOra, questo processo richiede un po' di attenzione, quindi seguite attentamente i passaggi!\n\nInnanzitutto, avremo bisogno di \\&7Unrefined Liquid Souls\\&r, che si ottiene utilizzando un Fluid Extractor (da \\&lIF\\&r) su un Soul Tree.\n\nSuccessivamente, avremo bisogno di \\&dLiquefied Source\\&r, che possiamo ottenere utilizzando un \\&9Source Condenser\\&r. Un \\&9Source Condenser\\&r preleverà la Source da contenitori vicini e la trasformerà in \\&dLiquefied Source\\&r!\n\nQuindi, possiamo utilizzare il \\&b\\&lRunic Crucible\\&r per combinare le Souls, \\&7Unrefined Liquid Souls\\&r, e \\&dLiquefied Source\\&r per ottenere Liquid Souls!\n\nInfine, utilizzeremo le Liquid Souls, \\&dLiquefied Source\\&r, e alcuni oggetti da \\&l\\&5Mekanism\\&r per creare \\&5Obsidiansteel\\&r.",
+        "{@pagebreak}",
+        "{image:atm:textures\/questpics\/chap3\/creative_crucible1.png width:125 height:100 align:center}",
+        "La prima strato del \"Crucible Runico\" sarà composta da \"Pietra Oscura Lavorata e Lucidata\" al centro, circondata da \"Pietra Oscura Lucidata\" su tutti i lati. Successivamente, sui lati, avremo delle \"Scale in Pietra Oscura Lucidata\" capovolte, con dei \"Blocchi Runici\" agli angoli.",
+        "{image:atm:textures\/questpics\/chap3\/creative_crucible2.png width:125 height:100 align:center}",
+        "Al centro, posizioneremo un \"\\&Arcane Crystal\" circondato da \"\\&Polished Darkstone Stairs\". Ai lati, ci saranno \"\\&Arcane Polished Darkstone Pillars\", \"\\&Polished Darkstone\" che verranno sostituiti da \"Hatches\" e \"\\&Arcane Polished Darkstone\".",
+        "{image:atm:textures\/questpics\/chap3\/creative_crucible3.png width:125 height:100 align:center}",
+        "Semplicemente posizionate i blocchi di cristallo \"Arcane\" in ogni angolo e basta!",
+        "{image:atm:textures\/questpics\/chap3\/creative_crucible4.png width:125 height:100 align:center}",
+        "Infine, posizionando il blocco di spazio, posiziona l'elemento \"\\&7Quantum Injector\\&r\" sopra il blocco centrale \"\\&bArcane Crystal Block\\&r\".",
+        "{image:atm:textures\/questpics\/chap3\/creative_crucible5.png width:150 height:100 align:center}",
+        "{image:atm:textures\/questpics\/chap3\/creative_crucible6.png width:150 height:100 align:center}",
+        "I blocchi di \"Darkstone levigato\" (codice \"\\&9\") nella seconda fila sono dove installeremo i nostri \"Hatches\"!"
+    ],
+    "quest.00F00B0B66059996.title": "\\&b\\&lRunic Crucible",
+    "quest.050CCE5D1DD6B21E.quest_desc": [
+        "Uno dei componenti più importanti, principalmente perché ne abbiamo bisogno per gli altri.\n\nQui avrete bisogno di \\&bInput per i fluidi (ogni \\&bInput può contenere solo un tipo di \\&bFluido, quindi ne avrete bisogno di più), \\&cInput per l'energia, e \\&eInput e Output Hatches.\n\nUtilizzando questi Hatches, potrete inserire tutti gli \\&eItems, i \\&bFluids, e l'\\&cEnergy, e verranno prodotti i nostri oggetti, proprio come fanno gli altri \\&5Multiblock Controllers!\n\nOppure, potrete creare gli oggetti necessari per i \\&6Star Parts! Avrete bisogno di molto \\&4Blood, \\&bAureal, e \\&cEnergy!",
+        "{@pagebreak}",
+        "{image:atm:textures\/questpics\/chap3\/creative_forge1.png width:150 height:100 align:center}",
+        "Il primo strato è piuttosto semplice. Consiste in alcuni blocchi di \\&9\"Pietra Oscura Levigata\" e \\&9\"Scale\" e, insieme a \\&7\"Blocchi Runici\" e \\&6\"Pietra Oscura Levigata Arcana\". Oh, quasi dimenticavo il blocco più importante! Il blocco \\&5\"Fornace\"",
+        "{image:atm:textures\/questpics\/chap3\/creative_forge2.png width:150 height:100 align:center}",
+        "Lo strato successivo conterrà più blocchi di \\&9Darkstone\\&f, scale e lastre, e persino \\&6Darkstone\\&f lucido e intagliato, oltre a \\&6Arcane Darkstone\\&f lucido e intagliato. E non dimentichiamoci dei 4 \\&bArcane Crystal Obelisks\\&r!",
+        "{image:atm:textures\/questpics\/chap3\/creative_forge3.png width:150 height:100 align:center}",
+        "Questo è molto semplice! Basta un quadrato di livello 5 e 6, con un'area centrale e 8 piedistalli in pietra scura, posizionati a 2 blocchi di distanza.",
+        "{image:atm:textures\/questpics\/chap3\/creative_forge4.png width:150 height:100 align:center}",
+        "Dovremo saltare un livello, dato che non ci sono componenti aggiuntivi in quella posizione. Invece, posizioneremo il dispositivo \"\\&7Quantum Injector\\&r\" sopra il \"\\&9\\&lTier 5 \\&6Forge\\&r\".",
+        "{image:atm:textures\/questpics\/chap3\/creative_forge5.png width:200 height:100 align:center}",
+        "{image:atm:textures\/questpics\/chap3\/creative_forge6.png width:200 height:100 align:center}",
+        "Infine, dobbiamo aggiungere qualche altro attacco! Ne avremo bisogno!"
+    ],
+    "quest.050CCE5D1DD6B21E.title": "\\&c\\&lFornace automatica di Efesto",
+    "quest.070CAEAD49B8DBA3.quest_desc": [
+        "Per 8 pile di \\&7Blocchi di Ferro Compresso\\&r e un \\&6\\&lStella ATM\\&r, potrete ottenere 1 \\&5Blocco di Ferro Compresso\\&r! \\n\\nQuesto può essere impostato alla temperatura desiderata, che potrà poi essere utilizzata nelle vostre macchine. \\n\\n8 pile di \\&7Blocchi di Ferro Compresso\\&r equivalgono a 4.608 \\&7Lingote di Ferro Compresso\\&r... buona fortuna!"
+    ],
+    "quest.070CAEAD49B8DBA3.title": "\\&5\\&lBlocchi di ferro compressi",
+    "quest.0EF9C391EE42824A.quest_desc": [
+        "Questo metodo è leggermente più costoso, ma anche più divertente!\n\nI diamanti possono essere ottenuti attraverso quasi qualsiasi metodo.\n\nI \"Flint\" (pietre di pietra focaia) possono essere ottenuti attraverso diversi metodi di lavorazione: schiacciando, frantumando, arricchendo...?\n\nI blocchi di \"Dripstone\" (che sono semplicemente 4 \"Dripstones\") possono essere creati utilizzando estrattori o miscelatori, ma entrambi richiedono \"Dripstones\" originali per produrne altri."
+    ],
+    "quest.0EF9C391EE42824A.title": "\\&7Prisma Terrastomp",
+    "quest.149C260C10B34BB0.quest_subtitle": "5\/5",
+    "quest.149C260C10B34BB0.title": "Lato sinistro, modello Star, parte anteriore",
+    "quest.14C27D44D3C8EDF5.quest_desc": [
+        "1. È molto probabile che dovrete semplicemente saccheggiare le città per ottenerlo.\n\n2. Per automatizzare il processo, dovrete procurvi tutti gli oggetti necessari.\n\nGli oggetti come \"Bonemeal\", \"Gunpowder\", \"Redstone\", \"Blaze Powder\" e \"Phantom Membrane\" possono essere automatizzati utilizzando \"HNN\" o \"MA\".\n\nGli \"Arcane Crystals\" invece, necessiteranno di \"Api\" o \"MA\" per essere ottenuti, per poi essere fusi in \"Polvere\"."
+    ],
+    "quest.14C27D44D3C8EDF5.title": "\\&cMundabitur Dust",
+    "quest.173541B0765DA13E.quest_desc": [
+        "Secondo me, questa è la più facile da automatizzare.\n\nI materiali come Phantom Membranes, Feathers e Wool possono essere automatizzati tramite il sistema \\&b\\&lHNN\\&r.\n\nSolo la \\&7Ala di pipistrello\\&r è più difficile, e richiede la raccolta tramite spawn!"
+    ],
+    "quest.173541B0765DA13E.title": "\\&fPrisma vorticoso",
+    "quest.1C566975C4EC5D93.quest_desc": [
+        "Sinceramente, il modo più semplice è utilizzare semplicemente \"\\&2\\&lMA\\&r\".\\n\\nPer favore, evitate di creare grandi allevamenti di \\&2Turtle\\&r e di abbattere grandi quantità di \\&bGuardian\\&r. La TPS è fondamentale!"
+    ],
+    "quest.1C566975C4EC5D93.title": "\\&9 Prisma Marino",
+    "quest.1D87415343E65AA7.quest_desc": [
+        "Il \\&5Creative \\&8Compressor\\&r ti permette di scegliere qualsiasi pressione desiderata! Positiva, negativa, anche 0! Può essere utilizzato all'interno delle macchine.\n\nAvrai bisogno di 4 set di tubi di pressione avanzati, di compressore avanzato per liquidi, di compressore d'aria avanzato, di compressore elettrostatico e di compressore avanzato.\n\nNon so quale sia più difficile: ottenere il \\&6\\&lStar\\&r o ricordare tutti gli articoli necessari per realizzarlo!"
+    ],
+    "quest.1D87415343E65AA7.title": "\\&5\\&lCreativo \\&8Compressore",
+    "quest.1FC1588A131B6A4A.quest_desc": [
+        "Proprio come costruire l'altare \"Star \\&r\" normalmente, l'automazione deve avvenire all'interno dell'altare \"Star \\&r\"!\n\nPer saperne di più su come costruirlo e utilizzarlo, consultare la quest nel capitolo 3."
+    ],
+    "quest.1FC1588A131B6A4A.title": "\\&6\\&Altare a forma di stella runica",
+    "quest.1FFF00B5D90C3905.quest_desc": [
+        "È possibile ottenere \\&bArcane Crystals\\&r in molti modi diversi, quindi vi darò una breve introduzione!\n\nQuesti sono ingredienti necessari per la creazione.\n\nInnanzitutto, dovrete estrarre \\&bArcane Crystals\\&r; quindi, potrete utilizzare \\&2\\&lMA\\&r o \\&6\\&lBees\\&r per crearne altri!"
+    ],
+    "quest.1FFF00B5D90C3905.title": "\\&Cristalli Arcani",
+    "quest.203C91B992BA8CF9.quest_desc": [
+        "Per creare il \"Star \\&dPatrick \\&aStar\\&r\", avremo bisogno di un \"Infused \\&dPatrick \\&aStar\\&r\", che a sua volta richiederà un altro \"Infused \\&dPatrick \\&aStar\\&r\". Entrambi vengono creati tramite il \"Runic Star Altar\".\n\nGli altri oggetti necessari per creare l'\"Infused \\&dPatrick \\&aStar\\&r\" sono i 4 \"Mending Books\" e l'\"Infused Dragon's Breath\", che si ottengono tramite il \"Runic Enchanting\".\n\nInoltre, avremo bisogno di \"Star Shards\", che otteniamo dalle nostre api!\n\nE infine, avremo bisogno di \"Alloy Ingots\": \"Vibranium\", \"Allthemodium\" e \"Unobtainium\".\n\nTutti e tre vengono creati in modo unico, come descritto nel capitolo \"Allthemodium\"!\n\nInserendo tutti questi oggetti nel \"Runic Star Altar\", più 85MFE, otterremo il nostro \"Infused \\&dPatrick \\&aStar\\&r\"!"
+    ],
+    "quest.203C91B992BA8CF9.title": "Infuso \\& Patrick \\& Stella",
+    "quest.228CB313BAB6406E.quest_desc": [
+        "Sembra che questo modello non avesse un ricettario predefinito! Sembra che gli sviluppatori non volessero che utilizzaste i vostri Locomotive di \\&5Creative\\&r in modalità Sopravvivenza.\n\nNon pensavo che fossero troppo potenti, quindi godetevi i vostri Locomotive di \\&5Trains\\&r!\n\nFunzionano come i Locomotive normali, ma senza la necessità di carburante o energia. Basta avere le \\&6Rails\\&r."
+    ],
+    "quest.228CB313BAB6406E.title": "\\&5\\&lCreativo \\&8Locomotiva",
+    "quest.235273F7C9A9B0D0.quest_subtitle": "3\/5",
+    "quest.235273F7C9A9B0D0.title": "Parte inferiore destra e simbolo \"\\&6\\&lATM Star\"",
+    "quest.23DE60E57136C207.quest_desc": [
+        "Il modo più semplice per immagazzinare energia in modo infinito, richiedendo solo 4 batterie e 3 (dalle batterie ID 3 e 4) e una stella!\n\nDovrete quindi caricarle tutte con... quanto più energia possibile, ovvero fino al limite massimo consentito da Minecraft!"
+    ],
+    "quest.23DE60E57136C207.title": "\\&5\\&lBatteria a energia creativa",
+    "quest.360B150190A5C894.quest_desc": [
+        "Una cosa che infastidisce molti giocatori che utilizzano la magia, è che non è possibile automatizzare completamente il processo di \\&5Enchanting\\&r. Inoltre, non si può scegliere quali \\&5Enchants\\&r si desiderano, bisogna semplicemente sperare di ottenere quelli giusti!\n\nTuttavia, non preoccupatevi, questi desideri sono stati esauditi! Grazie al \\&5\\&lRunic Enchanter\\&r.\n\nPer utilizzarlo, non sarà necessario interagire con il \\&5Enchanting Table\\&r, ma sarà sufficiente inserire gli oggetti e il \\&dSource\\&r appropriati, oltre al \\&aXP Fluid\\&r.\n\nL'\\&aXP Fluid\\&r dovrà essere ottenuto riempiendo un contenitore con un \\&aLiquid XP\\&r utilizzando la macchina di imbottigliamento del mod \\&8\\&lImmersive Engineering\\&r, e quindi passandolo attraverso la macchina di imbottigliamento del mod \\&7\\&lExtended Industrialization\\&r.\n\nSarà necessario creare l'\\&dInfused Dragon's Breath\\&r e gli \\&5Mending Books\\&r per ricreare l'\\&6\\&lATM Star\\&r!",
+        "{@pagebreak}",
+        "(\\&bTappeto azzurro\\&r è \\&b\"Soul-Touched Deepshelf\"\\&r",
+        "\\&5Purple Carpet\\&r è un riferimento a \\&5Echoing Sculkshelf\\&r",
+        "\\&9Scaffale in legno intagliato\\&r è \\&9Scaffale in legno intagliato\\&r)",
+        "{image:atm:textures\/questpics\/chap3\/creative_enchanter1.png width:125 height:100 align:center}",
+        "La base del \"Runic Enchanter\" è piena di quasi tutto! Contiene abbondanti \"Darkstone\", scaffali, \"Rune Blocks\" e \"Arcane Crystal Blocks\"!",
+        "{image:atm:textures\/questpics\/chap3\/creative_enchanter2.png width:125 height:100 align:center}",
+        "Continueremo nello stesso modo, sostituendo i nostri \"\\&7Blocchi Runici\" e \"\\&bBlocchi di Cristallo Arcano\" con \"\\&6Blocchi di Pietra Oscura Lavorata e Lucidata\" e \"\\&6Pilastri di Pietra Oscura\". Sì, quei nuovi e divertenti quadrati sono la parte superiore dei \"\\&6Pilastri di Pietra Oscura\"!",
+        "{image:atm:textures\/questpics\/chap3\/creative_enchanter3.png width:125 height:100 align:center}",
+        "Non preoccupatevi, sta diventando più facile! Aggiungete anche alcuni scaffali, oltre a un \"Pedistallo di Pietra Nera\" e una \"Tavola Incantata\".",
+        "{image:atm:textures\/questpics\/chap3\/creative_enchanter4.png width:125 height:100 align:center}",
+        "Questo è ancora più semplice! Basta aggiungere 4 lampade e 1 scaffale sopra gli ultimi scaffali.",
+        "{image:atm:textures\/questpics\/chap3\/creative_enchanter5.png width:125 height:100 align:center}",
+        "Ok, questo è troppo facile! Basta posizionare un \"\\&7Quantum Injector\" e un \"\\&5Enchanting Table\" uno sopra l'altro.",
+        "{image:atm:textures\/questpics\/chap3\/creative_enchanter6.png width:150 height:150 align:center}",
+        "{image:atm:textures\/questpics\/chap3\/creative_enchanter7.png width:150 height:150 align:center}",
+        "Probabilmente avrei dovuto avvisarvi prima, ma gli oggetti \"Hatches\" vanno posizionati nella parte inferiore dell'enchantatore \"\\&5\\&lRunic\". Scusate!"
+    ],
+    "quest.360B150190A5C894.title": "\\&5\\&Incantatore Runico",
+    "quest.36ABE142039E712B.quest_desc": [
+        "Questo dispositivo funziona come un normale sistema di accumulo di energia, ma ha anche la possibilità di connettersi al tuo sistema! Non dovrai più preoccuparti di avere abbastanza energia. Ciò include anche il \\&5\"Armatura Quantica\".\n\nAvrai bisogno di 4 \\&d\"Supercelle\" e di un \\&6\"Stella ATM\". Ogni \\&d\"Supercella\" necessita di 8 \\&d\"celle dense\", e ogni \\&d\"cella densa\" necessita di 8 \\&d\"celle di energia\".\n\n256 \\&d\"celle di energia\"... e molto altra energia!"
+    ],
+    "quest.36ABE142039E712B.title": "\\&5\\&lCella energetica creativa",
+    "quest.38BFF6F845EA479E.quest_subtitle": "4\/5",
+    "quest.38BFF6F845EA479E.title": "Parte inferiore sinistra, modello \\&6\\&lATM Star",
+    "quest.3BB0926C4C00BE1D.quest_desc": [
+        "Non vi è mai capitato di rimanere senza energia nel vostro jetpack? Beh, non dovrete più preoccuparvi!\n\nPotreste dover acquistare ogni jetpack, oltre a un sistema di ricarica \\&6\\&lATM Star\\&r, e altri articoli più costosi, ma ne vale la pena!\n\nBasta indossarlo e utilizzarlo normalmente, ma con meno necessità di ricarica."
+    ],
+    "quest.3BB0926C4C00BE1D.title": "\\&5\\&l Jetpack Creativo",
+    "quest.3D755073C56274BE.quest_desc": [
+        "Metti un oggetto \"Lente\" davanti al Ricostruttore Atomico e, una volta attivato, si trasformerà in una \"Lente di Detonazione\".\n\nMetti una \"Lente di Detonazione\" davanti a quest'ultima e, una volta attivata, si trasformerà in una \"Lente di Morte Certa\".\n\nContinua a fare questo finché non ottieni la \"Lente di Morte Certa\"."
+    ],
+    "quest.3D755073C56274BE.title": "Lente: \"Certa Morte\"",
+    "quest.3D78D9F4E8A60EDB.quest_desc": [
+        "Attualmente, la ricetta è piuttosto semplice, richiedendo solo 4 contenitori di \\&dSource, 4 blocchi di \\&dSource e una \\&6\\&lStella\\&r. Non preoccupatevi, questo cambierà per diventare ancora più complesso!\n\nQuesto contenitore è sempre pieno di \\&dSource e può essere collegato a qualsiasi cosa richieda \\&dSource, inclusi i multiblocchi con la \\&6\\&lStella\\&r."
+    ],
+    "quest.3D78D9F4E8A60EDB.quest_subtitle": "Ottienilo per primo!",
+    "quest.3D78D9F4E8A60EDB.title": "\\&5\\&lFonte creativa \\&d\\&fBottiglia",
+    "quest.3FF61A4D7A250AE1.quest_desc": [
+        "Per questa \\&5Creative \\&cEnergy Cell, da non confondere con l'altra \\&5Creative \\&dEnergy Cell, avrai bisogno di 4 \\&cNitro Cells.\n\nOgni \\&cNitro Cell richiede 2 \\&aSpirited Cells, e ogni \\&aSpirited Cell richiede 2 \\&bNiotic Cells. Questo continua per un po'...\n\nNon mi sto occupando di questi calcoli, prendete un albero delle ricette, ho altre cose più importanti da fare!"
+    ],
+    "quest.3FF61A4D7A250AE1.quest_subtitle": "Potenza illimitata!",
+    "quest.3FF61A4D7A250AE1.title": "\\&l\\&cEnergy Cell \\&5 (Creative)",
+    "quest.405D2571E61694FD.quest_desc": [
+        "Cliccando con il tasto destro su un \"\\&6ATM Star Block\", otterrai un \"\\&6Starry Bee\"!\n\nAvrai bisogno di un altro \"\\&6ATM Star Block\" per farlo impollinare... Forse avrei dovuto dirtelo prima...\n\nGli \"\\&6Starry Bees\" produrranno \"\\&6Starry Combs\", che possono poi essere utilizzati in un centrifugatore per ottenere raramente \"\\&6Star Shards\"!"
+    ],
+    "quest.405D2571E61694FD.title": "\\&Apis stellata!",
+    "quest.427BBEB1F24E9DEE.quest_desc": [
+        "La maggior parte del \"Obsidiansteel\" può essere prodotta automaticamente.\n\nIl \"Nether Wart\" può essere ottenuto con qualsiasi fattoria automatizzata. Il \"Blaze Powder\" e i \"Enderpearl Fragments\" possono essere ottenuti dal \"HNN\". Gli \"Arcane Crystals\" sono presenti in un'altra quest.\n\nSolo il \"Obsidiansteel\" dovrà essere prodotto automaticamente utilizzando il \"Runic Crucible\"."
+    ],
+    "quest.427BBEB1F24E9DEE.title": "\\&5 Polvere corrotta",
+    "quest.4A6B585C2394A89A.quest_desc": [
+        "Gli oggetti di cui abbiamo bisogno tramite \\&5\\&lInvocatore Runico\\&r sono \\&dRespiro Infuso del Drago\\&r e \\&5Libri di Riparazione\\&r.\n\n\\&dRespiro Infuso del Drago\\&r è piuttosto semplice, basta \\&aEsperienza Liquida\\&r, \\&dFonte\\&r e \\&dRespiro del Drago\\&r!\n\n\\&dRespiro del Drago\\&r può essere ottenuto facilmente con \\&b\\&lHNN\\&r o, ancora meglio, un Estrattore da \\&l\\&9X\\&cy\\&aC\\&8r\\&aa\\&cf\\&9t\\&r.\n\n\\&5Libri di Riparazione\\&r possono essere automatizzati con \\&aEsperienza Liquida\\&r, \\&dFonte\\&r, \\&9Lapis Lazuli\\&r, \\&4Base di Incantamento Supremo\\&r e la parte più difficile, \\&aBastone di Esperienza\\&r.\n\n\\&9Lapis\\&r può essere ottenuto da \\&2\\&lMA\\&r, \\&6\\&lApi\\&r o anche semplicemente da cave.\n\n\\&aBastone di Esperienza\\&r richiederà due leghe provenienti da \\&a\\&lEnderIO\\&r: Soularium e Energetic Alloy. Entrambi possono essere creati con un fonderia di leghe.\n\n\\&4Base di Incantamento Supremo\\&r è un nuovo oggetto creato per \\&5\\&lInvocatore Runico\\&r. Avrete bisogno di grandi quantità di \\&aEssenza di Esperienza\\&r e di essenze di diversi livelli per passare da un libro e una penna (che possono essere automatizzati tramite \\&b\\&lHNN\\&r) alla \\&4Base di Incantamento Supremo\\&r!"
+    ],
+    "quest.4F7F0A5162D70082.quest_desc": [
+        "Non si confonda: esistono cubi pieni e vuoti.\n\nI cubi vuoti fungono da contenitore per l'energia, assorbendo qualsiasi energia che vi entri.\n\nI cubi pieni fungono da serbatoio di energia illimitato. Per riempirli, però, avrete bisogno di cubi vuoti, e questi sono costosi!\n\nRiempiendo 4 cubi vuoti con un \"ATM Star\", potrete ottenere il cubo pieno."
+    ],
+    "quest.4F7F0A5162D70082.title": "\\&5\\&l Cubo Creativo \\&a Energetico",
+    "quest.5436157FDFC9633E.quest_desc": [
+        "Grazie a Infused \\&dPatrick \\&aStar\\&r, 5 \\&6Star Fragments\\&r, 5Corrupti Dust\\&r, Mundabitur Dust\\&r, e la Lente del \"Killer\", potremo ricostruire le 6 stelle, completamente automatizzate!\n\nOra, questi oggetti \"Creative\" saranno molto facili da creare!"
+    ],
+    "quest.5436157FDFC9633E.title": "Sistema completamente automatizzato e con pressione di 6 ATM",
+    "quest.5660E81BBEED6DC3.quest_desc": [
+        "Il cristallo \"\\&dSoul Binding\" è quello più difficile da creare.\nI frammenti di \"\\&3Ender Pearl\" possono essere creati a partire da \"\\&3Ender Pearl\", che possono essere ottenuti dagli \"\\&5Endermen\". È possibile utilizzare un \"Estrattore\" per ottenere un numero infinito di \"\\&5Amethyst\". Il \"\\&2\\&lMA\" può essere ottenuto dagli \"\\&2\\&lMA\".\n\nOra dobbiamo concentrarci sulle anime. Per iniziare, abbiamo bisogno di anime normali! Di solito, utilizziamo un \"Estrattore\" sull'arena di sabbia per estrarre l'anima.\n\nMa questo implica l'uso di un oggetto, e modifica l'arena di sabbia... Inizialmente, possiamo sostituirci utilizzando un \"Clicker\" da \"\\&3\\&lJust Dire Things\"!\n\nOra dobbiamo semplicemente sostituire l'arena di sabbia senza anima con l'arena di sabbia, che può essere utilizzata con gli strumenti di demolizione e costruzione, anch'essi da \"\\&3\\&lJust Dire Things\".\n\nOra possiamo combinare le anime con \"\\&5Corrupti Dust\" e le anime intrappolate (oggetti ottenuti dagli \"\\&5Lunar Guardian\") per ottenere anime corrotte.\n\nInfine, possiamo combinare le anime con il \"Liquid Aureal\" e la \"Holy Hand Grenade\" per creare anime incantate. La \"Holy Hand Grenade\" è un oggetto di una serie di ricette da \"\\&c\\&lReliquary\"."
+    ],
+    "quest.5660E81BBEED6DC3.title": "\\&Cristallo di Legame Spirituale",
+    "quest.6076D1DB438EB997.quest_desc": [
+        "Una ricetta molto semplice, che richiede solo \\&7Carbone\\&r, \\&bCristallo Arcano\\&r, e un \\&bBlocco di Cristallo Arcano\\&r.\n\nIl \\&7Carbone\\&r e il \\&bCristallo Arcano\\&r possono essere ottenuti tramite miniere, \\&6Api\\&r, o fattorie. Esistono molti modi per ottenere il \\&cPolvere di Blaze\\&r."
+    ],
+    "quest.6076D1DB438EB997.title": "\\&cSmelter Prism",
+    "quest.635BA2C17458E9E6.quest_desc": [
+        "Per una ricetta così semplice, in realtà si ottiene una macchina piuttosto utile!\n\nBasta posizionarla, (il modo in cui la si posiziona determina la sua funzione, proprio come un distributore!), fornirle dell'energia e impostare il funzionamento tramite un \\&4\"Torcia di Redstone\".\n\nSe è impostata per disattivarsi, significa che si disattiverà quando verrà inviato un \\&4\"segnale di Redstone\". Su Pusle, questo significa che si attiverà ogni volta che verrà fornito un \\&4\"segnale di Redstone\".\n\nIl nostro obiettivo è automatizzare l'\\&6\"Star\", quindi non entreremo troppo nei dettagli; inizieremo con una lente!"
+    ],
+    "quest.66BAC2B478F9B119.quest_subtitle": "1\/5",
+    "quest.66BAC2B478F9B119.title": "Parte superiore e inferiore del prodotto",
+    "quest.66E88F916B638B3B.quest_desc": [
+        "Questo potrebbe essere un po' confuso, ci sono diverse versioni di \"Creative \\&eSpellbooks\\&r\"! Ma quella che desideriamo è quella di \"AllTheArcanist Gear\\&r\".\n\nPer ottenere questa versione, dobbiamo creare quella di \"Ars Nouveau\\&r\". Questa \"eSpellbook\\&r\" richiede un \"eArchmage Spellbook\\&r\", un \"ATM Star\\&r\", e alcuni oggetti aggiuntivi.\n\nHa le stesse configurazioni di un \"eUnobtainium Spellbook\\&r\", ma ha un'infinità di Mana e tutti i Glyphs sbloccati!\n\nTutta la potenza magica, BWAHAHAHAHA!"
+    ],
+    "quest.66E88F916B638B3B.title": "\\&5\\&lCreativo \\&eSpellbook",
+    "quest.6C16670D16113DE9.quest_desc": [
+        "Per automatizzare la creazione di \"Star Shards\", avremo bisogno di \"Star Shards\". Per ottenere \"Star Shards\", avremo bisogno di \"Starry Bees\"!\n\nE ovviamente, per ottenere \"Starry Bees\", avremo bisogno di \"Patrick\"! Potete ottenere \"Patrick\" pescando nell'Oceano Caldo!\n\nSe non volete convertirli, potete anche coltivarli con loro."
+    ],
+    "quest.6C16670D16113DE9.title": "\\&dPatrick \\&aStar\\&r... Ape?",
+    "quest.71B72958B9F80355.quest_desc": [
+        "Non preoccupatevi, a questo punto non ci saranno più oggetti persi!\n\nOra dobbiamo semplicemente creare l'oggetto \"Lente dell'Assoluta Morte\", con la \"Spada di Diamante\" e il \"Libro Incantato di Affilatura V\".\n\nPotete ottenere il \"Libro Incantato di Affilatura\" dal \"Incantatore Runico\"! Ne potrete trovare maggiori informazioni in un'altra missione."
+    ],
+    "quest.71B72958B9F80355.title": "Obiettivo del \"Killer\" (o \"Assassino\")",
+    "quest.73201E591C2A40CC.quest_desc": [
+        "Ora che avete ottenuto i frammenti \"6 Stelle\", potete iniziare a creare le diverse parti per ricreare le nostre \"6 Stelle\"!\n\nAvrete bisogno di un totale di 262 frammenti \"6 Stelle\" per ricreare una singola \"6 Stelle\"... spero che abbiate organizzato bene il vostro sistema!"
+    ],
+    "quest.73201E591C2A40CC.title": "\\&Frammenti di stelle di 6 stelle\\&",
+    "quest.745E616E97838D2E.quest_desc": [
+        "\\&lAspettate!\\&r Fermate l'uccisione indiscriminata degli animali. Sembra che PETA abbia trovato un compromesso. Se smettete di uccidere gli animali innocenti, vi forniranno il \\&4Sangue di Creatura\\&r!\n\nCon questo, potrete riempire qualsiasi contenitore che necessiti di \\&4Sangue\\&r, in modo infinito!\n\nPer crearlo, avrete bisogno di 4 \\&bPromesse di Tenacia\\&r, una \\&6\\&lStella ATM\\&r, e altri 4 oggetti che devono essere pieni di \\&4Sangue\\&r."
+    ],
+    "quest.745E616E97838D2E.title": "\\&5\\&lCreativo \\&4Goccia di sangue",
+    "quest.7A066DD274F970C2.quest_subtitle": "2\/5",
+    "quest.7A066DD274F970C2.title": "Lato destro, sezione \"Star\"",
+    "quest.7C9154EF6068BE27.quest_desc": [
+        "Tecnicamente, è anche possibile utilizzare il \"Crusher\" per trasformare le stelle a 6 punte in frammenti a 6 punte...\n\nTuttavia, avrai bisogno di 262 unità per creare una nuova stella a 6 punte...\n\nQuindi, perché lo faresti?"
+    ],
+    "quest.7C9154EF6068BE27.title": "Ma perché?"
+}

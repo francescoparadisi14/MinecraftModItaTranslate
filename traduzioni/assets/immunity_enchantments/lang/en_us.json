@@ -1,0 +1,14 @@
+{
+    "enchantment.immunity_enchantments.blindness_immunity": "Blindness Immunity",
+    "enchantment.immunity_enchantments.blindness_immunity.desc": "Grants Immunity to Blindness when Worn.",
+    "enchantment.immunity_enchantments.mining_fatigue_immunity": "Mining Fatigue Immunity",
+    "enchantment.immunity_enchantments.mining_fatigue_immunity.desc": "Grants Immunity to Mining Fatigue when Worn.",
+    "enchantment.immunity_enchantments.nausea_immunity": "Nausea Immunity",
+    "enchantment.immunity_enchantments.nausea_immunity.desc": "Grants Immunity to Nausea when Worn.",
+    "enchantment.immunity_enchantments.poison_immunity": "Poison Immunity",
+    "enchantment.immunity_enchantments.poison_immunity.desc": "Grants Immunity to Poison when Worn.",
+    "enchantment.immunity_enchantments.slowness_immunity": "Slowness Immunity",
+    "enchantment.immunity_enchantments.slowness_immunity.desc": "Grants Immunity to Slowness when Worn.",
+    "enchantment.immunity_enchantments.wither_immunity": "Wither Immunity",
+    "enchantment.immunity_enchantments.wither_immunity.desc": "Grants Immunity to Wither when Worn."
+}

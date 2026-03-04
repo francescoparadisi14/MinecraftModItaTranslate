@@ -8,6 +8,7 @@
     "sodium-extra-information.options.memory_usage.tooltip": "Show the memory usage on the overlay.",
     "sodium-extra-information.options.memory_usage_extended": "Memory usage extended",
     "sodium-extra-information.options.memory_usage_extended.tooltip": "Show a more detailed memory usage on the overlay.",
+    "sodium-extra-information.options.name": "Sodium Extra Information",
     "sodium-extra-information.options.session_time": "Session time",
     "sodium-extra-information.options.session_time.tooltip": "Show the time you have been in the current session in the overlay.",
     "sodium-extra-information.options.show_biome": "Show Biome",

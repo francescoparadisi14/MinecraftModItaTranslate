@@ -1,5 +1,5 @@
 {
-    "merchantmarkers.general.optifine_workaround_warning": "OptiFine rompe i marker dei mercanti quando si utilizzano shader senza opzione di rendering veloce. I marker dei mercanti hanno abilitato l'opzione di rendering veloce.",
-    "merchantmarkers.key.categories.merchantMarkers": "Segnalini dei mercanti",
-    "merchantmarkers.key.showMarkers": "Mostra marcatori dei mercanti"
+    "merchantmarkers.general.optifine_workaround_warning": "Optifine interrompe la funzionalità dei segnali dei commercianti quando si utilizzano gli shader senza l'opzione di rendering rapido. L'opzione di rendering rapido era abilitata dai segnali dei commercianti.",
+    "merchantmarkers.key.categories.merchantMarkers": "Segnalazioni commerciali",
+    "merchantmarkers.key.showMarkers": "Mostra i segnali degli abitanti del villaggio"
 }

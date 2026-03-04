@@ -1,17 +1,17 @@
 {
-    "name": "Sniffer",
+    "name": "Rilevatore",
     "category": "patchouli:animals",
     "icon": "minecraft:sniffer_egg",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Uovo: Uovo di Sniffer$(li)Raccolta: Frammenti d'Artefatto$(br2)$(l)Note$()$(br)La raccolta richiede 5+ cuori."
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile$(li)Uovo: Uovo di Sniffer$(li)Raccolta: Frammenti di artefatto$(br2)$(l)Note$()$(br)La raccolta richiede almeno 5 cuori."
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:sniffer",
             "scale": 0.8,
-            "text": "Essi amano scavare nel terreno per vecchie cose."
+            "text": "patchouli: entità\n\nminecraft: rilevatore\n\nAmano scavare nella terra alla ricerca di oggetti antichi."
         }
     ]
 }

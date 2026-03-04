@@ -1,12 +1,12 @@
 {
-    "name": "Albero di crimosso",
+    "name": "Albero rosso cremisi",
     "icon": "minecraft:crimson_fungus",
     "category": "patchouli:tree_absorber",
     "sortnum": "1",
     "pages": [
         {
             "type": "multiblock",
-            "name": "Struttura Multiblocco: Albero di Sanguigno",
+            "name": "Multiblocco\n\nCrimson Tree",
             "enable_visualize": true,
             "multiblock": {
                 "pattern": [
@@ -78,7 +78,7 @@
         {
             "type": "text",
             "title": "Crimson Tree",
-            "text": "Questa struttura richiede; $(li)Stelo di Sangue$(li)Blocco di Funghi dell'Inferno$(li)Assorbente d'Albero$(br2)Una volta completata, l'assorbente d'albero inizierà a creare bottini del tipo di albero specifico. Richiede potenza"
+            "text": "Questa struttura richiede:\n*   Tronco rosso\n*   Blocco di \"Nether Wart\"\n*   Assorbitore di alberi\n*   Una volta completata, l'assorbitore di alberi inizierà a produrre frutti di quel tipo di albero. Richiede energia."
         }
     ]
 }

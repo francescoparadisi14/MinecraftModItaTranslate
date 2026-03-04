@@ -1,17 +1,17 @@
 {
-    "name": "Hedgehog",
+    "name": "Riccio",
     "category": "patchouli:pets",
     "icon": "supplementaries:bamboo_spikes",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Doni Possibili:$()$(br)Testa di Sonic$(br2)$(l)Note$()$(br)Può essere trovato nei boschi."
+            "text": "patchouli:testo\n\n$(l)Possibili regali:$()$(br)Cuffie Sonic$(br2)$(l)Note$()$(br)Si possono trovare nei boschi."
         },
         {
             "type": "patchouli:entity",
             "entity": "wildernature:hedgehog",
             "scale": 0.7,
-            "text": "Un animale letterario noto per i suoi vari dilemmi"
+            "text": "Patchouli: entità\n\nAnimale legato alla natura selvaggia, noto per i suoi diversi dilemmi."
         }
     ]
 }

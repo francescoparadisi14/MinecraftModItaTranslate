@@ -1,4 +1,9 @@
 {
+    "doespotatotick.page": "DPT",
+    "doespotatotick.skip.shoot": "Always Render Entities When Using Projectile Weapons",
+    "doespotatotick.skip.shoot.tooltip": "If true, when you are using\/charging a bow\/crossbow\/trident or any other modded projectile weapons, entities will not be skipped by the 'Skip Rendering Untickable Entities' option.",
+    "doespotatotick.skip.untickable": "Skip Rendering Untickable Entities",
+    "doespotatotick.skip.untickable.tooltip": "If true, entities whose ticking is stopped by Does Potato Tick will no longer be rendered on the client.",
     "doespotatotick.warn.both.present": "Does Potato Tick is installed in this server. If you find your mobfarm not working when you are far from it, try to use FTB Chunks or Open Parties And Claims to claim the chunks of it. You can disable this message in Does Potato Tick's config.",
     "doespotatotick.warn.ftbchunks.present": "Does Potato Tick is installed in this server. If you find your mobfarm not working when you are far from it, try to use FTB Chunks to claim the chunks of it. You can disable this message in Does Potato Tick's config.",
     "doespotatotick.warn.notfound": "Does Potato Tick is installed but FTB Chunks or Open Parties And Claims is not. If you find your mobfarm not working when you are far from it, try to install one of them and claim the chunks of it. You can disable this message in Does Potato Tick's config.",

@@ -1,12 +1,12 @@
 {
-    "custommachinery.machine.component.contraption": "Contrapposizione",
-    "custommachinerycreate.gui.creation.components.contraption": "Strumento",
-    "custommachinerycreate.gui.creation.components.contraption.stress_impact": "Impatto di stress",
-    "custommachinerycreate.requirement.contraption.error.speed.input": "Non ci sono abbastanza velocità rotazionale: richiesto %s rpm, trovato %s rpm",
-    "custommachinerycreate.requirement.contraption.error.stress.input": "Questo macchinario è sovraccarico!",
+    "custommachinery.machine.component.contraption": "Meccanismo complesso",
+    "custommachinerycreate.gui.creation.components.contraption": "Meccanismo complesso",
+    "custommachinerycreate.gui.creation.components.contraption.stress_impact": "Impatto dello stress",
+    "custommachinerycreate.requirement.contraption.error.speed.input": "Velocità di rotazione insufficiente: sono necessari %s giri al minuto, ma sono stati rilevati %s giri al minuto.",
+    "custommachinerycreate.requirement.contraption.error.stress.input": "Questa macchina è sottoposta a un eccessivo carico!",
     "custommachinerycreate.requirement.contraption.info.scaling": "La velocità di elaborazione sarà proporzionale alla velocità di rotazione.",
-    "custommachinerycreate.requirement.contraption.info.speed.input": "Requisito di velocità: %s giri al minuto",
-    "custommachinerycreate.requirement.contraption.info.speed.output": "Velocità di output: %s rpm",
-    "custommachinerycreate.requirement.contraption.info.stress.input": "Impatto di stress: %sx rpm",
-    "custommachinerycreate.requirement.contraption.info.stress.output": "Capacità di stress: %sx rpm"
+    "custommachinerycreate.requirement.contraption.info.speed.input": "Velocità richiesta: %s giri al minuto",
+    "custommachinerycreate.requirement.contraption.info.speed.output": "Velocità di uscita: %s giri al minuto",
+    "custommachinerycreate.requirement.contraption.info.stress.input": "Impatto dello stress: % x RPM",
+    "custommachinerycreate.requirement.contraption.info.stress.output": "Capacità di sopportare lo stress: %sx RPM"
 }

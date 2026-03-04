@@ -70,6 +70,8 @@
     "text.autoconfig.frycmobvariants.option.ghastConvertChance.@Tooltip": "For example, when set to 10, Ghast will have 10% chance to convert to Nightmare after spawning",
     "text.autoconfig.frycmobvariants.option.magmaCubeToLavaSlimeConvertChance": "Chance to convert Magma Cube to Lava Slime",
     "text.autoconfig.frycmobvariants.option.magmaCubeToLavaSlimeConvertChance.@Tooltip": "For example, when set to 50, Magma Cube will have 50% chance to convert to Lava Slime after spawning",
+    "text.autoconfig.frycmobvariants.option.minYLevelForBiomeVariants": "Min. Y level for biome variant conversion",
+    "text.autoconfig.frycmobvariants.option.minYLevelForBiomeVariants.@Tooltip": "Mob conversion isn't affected by biome under this Y level, unless they spawn in one of the cave biomes in which they can convert",
     "text.autoconfig.frycmobvariants.option.piglinBruteConvertChance": "Chance to convert Piglin Brute to Infected Piglin Brute",
     "text.autoconfig.frycmobvariants.option.piglinBruteConvertChance.@Tooltip": "For example, when set to 10, Piglin Brute will have 10% chance to convert to Infected Piglin Brute after spawning",
     "text.autoconfig.frycmobvariants.option.piglinConvertChance": "Chance to convert Piglin to Infected Piglin",

@@ -1,0 +1,8 @@
+{
+    "skinrestorer.command.skin.affected_players": "Modifiche della skin applicate per %s",
+    "skinrestorer.command.skin.config_reloaded": "La configurazione è stata ricaricata",
+    "skinrestorer.command.skin.failed": "Impossibile cambiare la skin: %s",
+    "skinrestorer.command.skin.loading": "Caricamento della skin...",
+    "skinrestorer.command.skin.no_changes": "Nessuna modifica alla skin",
+    "skinrestorer.command.skin.ok": "Skin cambiata"
+}

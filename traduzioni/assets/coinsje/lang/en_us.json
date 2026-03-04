@@ -129,5 +129,10 @@
     "item.coinsje.redstone_coin_pile": "Redstone Coin Pile",
     "item.coinsje.zinc_coin": "Zinc Coin",
     "item.coinsje.zinc_coin_pile": "Zinc Coin Pile",
-    "itemGroup.coinsje.creative_tab": "Coins"
+    "itemGroup.coinsje.creative_tab": "Coins",
+    "itemGroup.coinsje.tab": "Coins",
+    "tag.item.bookshelf.creative_tab.coinsje.tab": "CoinJE Item Tab",
+    "tag.item.coinsje.coin_like": "Coin Items",
+    "tag.item.coinsje.coin_piles": "Coin Piles",
+    "tag.item.coinsje.coins": "Coins"
 }

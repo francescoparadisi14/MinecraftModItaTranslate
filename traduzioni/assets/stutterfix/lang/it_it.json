@@ -1,0 +1,19 @@
+{
+    "stutterfix.name": "StutterFix",
+    "stutterfix.options.Worker_threads_priority_cut": "Punto di riferimento per la priorità",
+    "stutterfix.options.Worker_threads_priority_cut.tooltip": "Indica il punto di interruzione per la priorità dei thread di lavoro. Un valore più alto significa che la prima parte dei thread avrà una priorità normale e l'ultima parte avrà una priorità minima. Il valore deve essere inferiore al numero di thread di lavoro per definire il punto di interruzione; in caso contrario, tutti i thread avranno una priorità normale. I thread con priorità minima aiutano a ridurre il \"stuttering\" (il fenomeno di interruzioni o rallentamenti).",
+    "stutterfix.options.keep": "Continua",
+    "stutterfix.options.name": "Opzioni di StutterFix",
+    "stutterfix.options.priority_cut": "%s",
+    "stutterfix.options.remove": "Rimuovi",
+    "stutterfix.options.remove_yield": "Rimuovi Yield()",
+    "stutterfix.options.remove_yield.tooltip": "Il thread di rendering esegue una chiamata a `yield()` all'interno di ogni ciclo, con lo scopo di informare lo \"scheduler\" che il thread corrente è disponibile per cedere l'utilizzo del processore ad altri thread. L'eliminazione di `yield()` può contribuire a stabilizzare il frame rate.\n\nValore predefinito: Mantenere",
+    "stutterfix.options.render_thread_priority": "Imposta la priorità del thread",
+    "stutterfix.options.render_thread_priority.tooltip": "Il thread di rendering è dove vengono eseguite le operazioni, come la riproduzione audio, l'input da tastiera e mouse, e il rendering grafico.\n\nValore predefinito: %s",
+    "stutterfix.options.server_thread_priority": "Priorità del thread del server",
+    "stutterfix.options.server_thread_priority.tooltip": "In modalità singleplayer, il gioco avvia il server integrato che gestisce l'intero mondo, inclusi i tick, le entità e l'inizializzazione della generazione dei chunk (che verranno eseguiti in thread separati). Questa opzione è disponibile solo quando si gioca in un mondo in modalità singleplayer.\n\nValore predefinito: %s",
+    "stutterfix.options.thread_priority": "%s",
+    "stutterfix.options.threads": "%s fili",
+    "stutterfix.options.worker_threads": "Numero di thread utilizzati dai processi di lavoro.",
+    "stutterfix.options.worker_threads.tooltip": "Si tratta del numero di thread utilizzati per eseguire attività come la generazione di blocchi. Un valore inferiore significa una minore pressione sul processore, riducendo il \"stuttering\" (il blocco o rallentamento) e una velocità di generazione dei blocchi più lenta.\n\nValore predefinito (Vanilla): %s\nValore predefinito (StutterFix): %s"
+}

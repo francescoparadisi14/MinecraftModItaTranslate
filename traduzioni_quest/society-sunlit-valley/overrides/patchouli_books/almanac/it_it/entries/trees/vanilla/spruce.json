@@ -1,15 +1,15 @@
 {
-    "name": "Albero di betulla 🌼🍂❆",
+    "name": "Abete rosso 🌼🍂❆",
     "category": "patchouli:trees",
     "icon": "minecraft:spruce_sapling",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Stagioni: $(c)Spring$(c)Autumn$(c)Winter$(li)Prezzo di Semi: :coin: 8$(li)Dimensioni: 1x1, 2x2"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🌼 Primavera§r 🍂 §4 Autunno§r ❆ §b Inverno§r$(li)Prezzo del seme: :moneta: 8$(li)Dimensioni: 1x1, 2x2"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Oak Tree",
+            "name ": "Patchouli: Multiblocco\n\nQuercia",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -82,8 +82,7 @@
                     "L": "minecraft:spruce_leaves",
                     "W": "minecraft:spruce_log[axis=y]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

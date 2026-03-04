@@ -1,8 +1,8 @@
 {
-    "block.drill_drain.drill_drain": "Drainaggio a foro",
-    "block.drill_drain.drill_drain.tooltip.summary": "Colloca dietro un array di trapani per poter rimuovere i fluidi mentre il trapano si muove, richiede spazio nella macchina per memorizzare il fluido (configurabile)",
-    "drill_drain.ponder.drill_drain.header": "Usando la pompa di aspirazione del trapano",
-    "drill_drain.ponder.drill_drain.text_1": "Il serbatoio di perforazione può essere collocato dietro una perforatrice, si connetterà a un raggio di blocchi davanti a sé.",
-    "drill_drain.ponder.drill_drain.text_2": "I serbatoi di fluido attaccati si riempiranno del fluido catturato dal trapano.",
-    "drill_drain.ponder.drill_drain.text_3": "Deve esserci spazio nella macchina per il fluido essere immagazzinato altrimenti non raccoglierà alcun fluido."
+    "block.drill_drain.drill_drain": "Pozzo di drenaggio",
+    "block.drill_drain.drill_drain.tooltip.summary": "Per poter rimuovere i fluidi man mano che la trivella si muove, è necessario posizionare il sistema _dietro una serie di fori_, il che richiede spazio all'interno del dispositivo per lo stoccaggio dei fluidi (configurabile).",
+    "drill_drain.ponder.drill_drain.header": "Utilizzando il sistema di drenaggio",
+    "drill_drain.ponder.drill_drain.text_1": "Il sistema di drenaggio può essere posizionato dietro una macchina da trapano e sarà collegato a una serie di blocchi posti davanti.",
+    "drill_drain.ponder.drill_drain.text_2": "I serbatoi collegati si riempiranno con il fluido catturato dalla trivella.",
+    "drill_drain.ponder.drill_drain.text_3": "Deve esserci spazio all'interno del dispositivo per contenere il fluido, altrimenti non sarà in grado di raccoglierlo."
 }

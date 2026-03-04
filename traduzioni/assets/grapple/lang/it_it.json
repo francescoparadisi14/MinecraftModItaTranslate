@@ -1,0 +1,12 @@
+{
+    "effect.grapple.adrenaline": "Adrenalina",
+    "enchantment.grapple.aer_hook": "Aer Hook",
+    "enchantment.grapple.aer_hook.desc": "Permette di aggrapparsi a un punto senza essere vincolato a un blocco. È necessario utilizzare l'incantesimo \"Aggrapparsi\".",
+    "enchantment.grapple.grapple": "Afferrare; presa",
+    "enchantment.grapple.grapple.desc": "Trasforma una canna da pesca in un gancio, tirandoti verso la destinazione a cui è attaccato, se è collegata a un blocco.",
+    "gamerule.adrenalinePreventsCooldown": "L'adrenalina impedisce il raffreddamento.",
+    "gamerule.adrenalinePreventsCooldown.description": "Se questa opzione è abilitata, i canne da pesca del giocatore non entreranno in modalità di \"raffreddamento\" quando si utilizza la tecnica di aggancio.",
+    "gamerule.adrenalinePreventsFallDamage": "L'adrenalina previene lesioni dovute alla caduta.",
+    "item.grapple.golden_cookie": "Biscotto dorato",
+    "subtitles.grapple": "Lotta tra giocatori"
+}

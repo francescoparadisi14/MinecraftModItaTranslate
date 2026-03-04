@@ -1,6 +1,5 @@
 {
-    "item.tfccanes.refined_walking_cane": "Cane di ferro",
-    "item.tfccanes.walking_cane": "Bastoncino di legno",
-    "tfccanes.creative_tab.canes": "Tabella dei cani",
-    "tile.crate.name": "Cassetto metallico"
+    "item.tfccanes.refined_walking_cane": "Bastone di ferro",
+    "item.tfccanes.walking_cane": "Bastone in legno",
+    "tfccanes.creative_tab.canes": "Cane Tab"
 }

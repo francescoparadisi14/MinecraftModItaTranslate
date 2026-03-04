@@ -1,7 +1,13 @@
 {
     "effect.moretotems.cephalopod": "Cephalopod",
+    "effect.moretotems.cephalopod.desc": "Mobs that attack will be slowed and blinded by ink, temporarily disabling their pathfinding and detection of all mobs. Attacked mobs will be blinded and will not be able to detect any entities.",
+    "effect.moretotems.cephalopod.description": "Attacking mobs will be slowed and blinded by ink, temporarily disabling their pathfinding and detection of all mobs. Mobs that are attacked by the effect holder will be blinded and will not be able to detect any entities.",
     "effect.moretotems.necrosis": "Necrosis",
+    "effect.moretotems.necrosis.desc": "Poison and Instant Damage heal you, while Regeneration and Instant Healing hurt you.",
+    "effect.moretotems.necrosis.description": "Poison and Instant Damage heal you, while Regeneration and Instant Healing hurt you.",
     "effect.moretotems.sniper": "Sniper",
+    "effect.moretotems.sniper.desc": "Increases damage dealt by projectiles.",
+    "effect.moretotems.sniper.description": "Increases damage dealt by projectiles.",
     "entity.moretotems.summoned_bee": "Totem Bee",
     "entity.moretotems.summoned_zombie": "Totem Zombie",
     "item.moretotems.explosive_totem_of_undying": "Explosive Totem of Undying",

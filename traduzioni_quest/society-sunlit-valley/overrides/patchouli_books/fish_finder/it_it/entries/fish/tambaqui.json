@@ -1,18 +1,18 @@
 {
-    "name": "Tambaqui",
+    "name": "Tambaco",
     "category": "patchouli:fish",
     "icon": "aquaculture:tambaqui",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 112 monete$(li)Simbolo di fuoco: Estate$(li)Acqua: Fiume$(li)Clima: Qualsiasi$(li)Ora: Notte"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 112$(li)§0🔥 §6Estate§0$(li)Acqua: Fiume$(li)Meteo: Qualsiasi$(li)Ora: Notte"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:tambaqui",
             "scale": 0.8,
             "rotate": true,
-            "text": "Questo mi fa paura, credo."
+            "text": "patchouli: entità\n\nacquacoltura: tambaqui\n\nQuesto mi mette un po' di paura, credo."
         }
     ]
 }

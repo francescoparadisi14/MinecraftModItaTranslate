@@ -1,15 +1,15 @@
 {
-    "name": "Albero di cenere 🌐",
+    "name": "Albero cinereo 🌐",
     "category": "patchouli:trees",
     "icon": "quark:ancient_sapling",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Stagione: ❆ Inverno ❆$(li)Dimensione: 1x1$(br2)$(l)Note$()$(li)Ottenuto dal Naso."
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)❆ Inverno§r$(li)Dimensioni: 1x1$(br2)$(l)Note$()$(li)Proveniente da Sniffer."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Ashen Tree",
+            "name ": "Patchouli: Multibloc\n\nAlbero cinereo",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -244,8 +244,7 @@
                     "L": "quark:ancient_leaves",
                     "W": "quark:ancient_log[axis=y]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

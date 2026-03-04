@@ -1,0 +1,17 @@
+{
+    "item.cmpackagepipebomb.pipebomb": "Pipebomb",
+    "item.cmpackagepipebomb.pipebomb.tooltip.behaviour1": "Throws a pipebomb.",
+    "item.cmpackagepipebomb.pipebomb.tooltip.condition1": "R-Click",
+    "item.cmpackagepipebomb.pipebomb.tooltip.summary": "Woah, pipebomb, so cool",
+    "item.cmpackagepipebomb.pipebomb_rigged": "Rigged Pipebomb",
+    "item.cmpackagepipebomb.pipebomb_rigged.tooltip.behaviour1": "Spawns a short fuse Pipebomb",
+    "item.cmpackagepipebomb.pipebomb_rigged.tooltip.behaviour2": "Traps the postbox",
+    "item.cmpackagepipebomb.pipebomb_rigged.tooltip.condition1": "When Opened From a Package",
+    "item.cmpackagepipebomb.pipebomb_rigged.tooltip.condition2": "When Used on a Postbox",
+    "item.cmpackagepipebomb.pipebomb_rigged.tooltip.summary": "_Handle with care._",
+    "item.cmpackagepipebomb.pipebomb_rigged.trapped": "Bomb has been planted",
+    "item.cmpackagepipebomb.tnt_rigged": "Rigged TNT",
+    "item.cmpackagepipebomb.tnt_rigged.tooltip.behaviour1": "Spawns a short fuse TNT",
+    "item.cmpackagepipebomb.tnt_rigged.tooltip.condition1": "When Opened From a Package",
+    "item.cmpackagepipebomb.tnt_rigged.tooltip.summary": "_Handle with care._"
+}

@@ -6,11 +6,11 @@
     "pages": [
         {
             "type": "text",
-            "text": "Strumenti vanilla disabilitati, utilizzare Tinkers' Construct per creare strumenti."
+            "text": "Gli strumenti in vaniglia sono stati disabilitati; per crearli, utilizzare gli strumenti di costruzione."
         },
         {
             "type": "text",
-            "text": "Un kama dei fabbri può essere utilizzato come vanga e usato per raccogliere foglie."
+            "text": "Un attrezzo simile a un rastrello può essere utilizzato come zappa e per raccogliere foglie."
         }
     ]
 }

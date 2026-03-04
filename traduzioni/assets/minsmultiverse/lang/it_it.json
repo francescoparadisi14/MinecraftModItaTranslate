@@ -1,17 +1,17 @@
 {
-    "entity.minsmultiverse.camera_shake": "Scompiglio della telecamera",
-    "entity.minsmultiverse.creepeel": "Creepeel",
+    "entity.minsmultiverse.camera_shake": "Movimento della telecamera",
+    "entity.minsmultiverse.deadman": "???",
     "entity.minsmultiverse.orochi": "Orochi",
     "item.minsmultiverse.call_of_orochi": "Chiamata di Orochi",
-    "item.minsmultiverse.creepeel_spawn_egg": "Uovo di crepeel di spawn",
-    "item.minsmultiverse.cupiditas": "Cupidità",
-    "item.minsmultiverse.desidia": "Desidia",
-    "item.minsmultiverse.gula": "Gula",
+    "item.minsmultiverse.cupiditas": "Cupido",
+    "item.minsmultiverse.deadman_spawn_egg": "Uovo di covata",
+    "item.minsmultiverse.desidia": "Pigrizia",
+    "item.minsmultiverse.gula": "Gola",
     "item.minsmultiverse.invidia": "Invidia",
     "item.minsmultiverse.iram": "Iram",
-    "item.minsmultiverse.luxuria": "Luxuria",
-    "item.minsmultiverse.orb_of_orochi": "Orb di Orochi",
-    "item.minsmultiverse.orochi_spawn_egg": "Uovo di spawn Orochi",
-    "item.minsmultiverse.superbia": "Superbia",
-    "itemGroup.minsmultiverse": "Multiverso di min"
+    "item.minsmultiverse.luxuria": "Lusso",
+    "item.minsmultiverse.orb_of_orochi": "L'Orb di Orochi",
+    "item.minsmultiverse.orochi_spawn_egg": "Uovo della larva di Orochi",
+    "item.minsmultiverse.superbia": "Orgoglio",
+    "itemGroup.minsmultiverse": "Il Multiverso di Min"
 }

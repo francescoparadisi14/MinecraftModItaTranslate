@@ -1,18 +1,17 @@
 {
-    "name": "Rotting",
+    "name": "In decomposizione; in putrefazione",
     "category": "patchouli:slimes",
     "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:rotting\"}}",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Localizzazioni:$()$(li)Bioma: Grotte Congelate (Caverna del Cranio)$(li)Struttura: Spawners di Schiuma$(li)Punti di scavo: Superficie$(li)Scatole dei palloni: Rosse$(br2)$(l)Rischii:$()$(br)Procura effetto fame quando è disturbato. Chiamate Zombie di Schiuma quando attacca i Villaggiatori."
+            "text": "patchouli:testo\n\n$(l)Posizioni:$()$(li)Bioma: Caverne ghiacciate (Caverna del Cranio)$(li)Struttura: Generatori di Slime$(li)Luoghi di estrazione: Mondo di gioco$(li)Scatole di palloncini: Rosse$(br2)$(l)Rischi:$()$(br)Causa l'effetto fame quando è disturbato. Genera Zombi di Slime quando attacca gli Abitanti."
         },
         {
             "type": "patchouli:entity",
-            "name": "Rotting Slime",
+            "name": "patchouli:entità\n\nsplendid_slimes:splendid_slime{Razza:\"splendid_slimes:rotting\"}\n\nSlime in decomposizione",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:rotting\"}",
-            "scale": 0.9,
-            "text": "Entità: Splendido Slime (Rottura)"
+            "scale": 0.9
         }
     ]
 }

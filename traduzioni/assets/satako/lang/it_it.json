@@ -1,5 +1,5 @@
 {
     "block.satako.test_block": "Blocco di test",
-    "satako.discard.success.multiple": "rimossi %1$s entità",
-    "satako.discard.success.single": "rimossa %1$s"
+    "satako.discard.success.multiple": "Eliminate le entità specificate.",
+    "satako.discard.success.single": "Rimosso il testo \"%1$s\""
 }

@@ -1,8 +1,8 @@
 {
-    "l2library.configuration.restoreFullHealthOnRespawn": "Ripristina la piena salute al risveglio",
+    "l2library.configuration.restoreFullHealthOnRespawn": "Ripristino della salute completa al respawn.",
     "l2library.configuration.restoreFullHealthOnRespawn.tooltip": "",
-    "l2library.configuration.section.l2configs.l2library.server.toml": "Configurazione del server di l2library",
-    "l2library.configuration.section.l2configs.l2library.server.toml.title": "Configurazione del server l2library",
-    "l2library.configuration.title": "Configurazione di l2library",
-    "l2library.title": "L2 Library"
+    "l2library.configuration.section.l2configs.l2library.server.toml": "Configurazione del server L2Library",
+    "l2library.configuration.section.l2configs.l2library.server.toml.title": "Configurazione del server L2Library",
+    "l2library.configuration.title": "Configurazione della libreria L2",
+    "l2library.title": "L2Library"
 }

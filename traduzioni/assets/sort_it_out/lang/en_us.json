@@ -2,6 +2,7 @@
     "category.sort_it_out": "Sort It Out",
     "config.sort_it_out.client_preferences.comparators": "Comparators",
     "config.sort_it_out.client_preferences.comparators.count": "By Quantity",
+    "config.sort_it_out.client_preferences.comparators.creative_tab": "By Creative Tab",
     "config.sort_it_out.client_preferences.comparators.display_name": "By Name",
     "config.sort_it_out.client_preferences.comparators.durability": "By Durability",
     "config.sort_it_out.client_preferences.comparators.empty_list": "Comparator list cannot be empty",

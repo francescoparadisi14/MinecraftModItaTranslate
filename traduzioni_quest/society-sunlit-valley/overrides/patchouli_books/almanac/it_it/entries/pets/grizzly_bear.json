@@ -1,17 +1,17 @@
 {
-    "name": "Orso grizzuto",
+    "name": "Orso bruno",
     "category": "patchouli:pets",
     "icon": "buzzier_bees:honey_apple",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Doni Possibili:$()$(br)Sigillo Beeomonican$(br2)$(l)Note$()$(br)Può essere trovato solo da un uovo di spawn, che è nascosto dalla ricerca del JEI."
+            "text": "patchouli:testo\n\n$(l)Possibili oggetti da raccogliere:$()$(br)Sigillo di Beeomonican$(br2)$(l)Note$()$(br)È possibile trovarlo solo dall'uovo di spawn, che non è visibile nella ricerca di JEI."
         },
         {
             "type": "patchouli:entity",
             "entity": "buzzier_bees:grizzly_bear",
             "scale": 0.6,
-            "text": "Mi chiedo da dove vengano questi..."
+            "text": "patchouli: entità\n\napi: orso bruno\n\nMi chiedo da dove provengano..."
         }
     ]
 }

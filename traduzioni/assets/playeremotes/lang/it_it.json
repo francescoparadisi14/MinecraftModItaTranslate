@@ -1,13 +1,13 @@
 {
-    "key.category.playeremotes": "Emozioni del giocatore",
-    "key.playeremotes.trigger": "Pulsante rapido del volantino",
+    "key.category.playeremotes": "Emozioni dei giocatori",
+    "key.playeremotes.trigger": "QuickWheel",
     "playeremotes.author": "Autore:",
     "playeremotes.cancel": "Annulla",
-    "playeremotes.config": "Configurazione emozioni giocatore",
-    "playeremotes.done": "Fatto",
-    "playeremotes.emotelist": "Elenco di emozioni",
+    "playeremotes.config": "Impostazioni",
+    "playeremotes.done": "Completato",
+    "playeremotes.emotelist": "Elenco delle espressioni facciali",
     "playeremotes.search": "Cerca...",
-    "screen.playeremotes.emoteconfig": "Schermo di configurazione degli emotes del giocatore",
-    "screen.playeremotes.emotelist": "Schermo elenco emoticon",
-    "screen.playeremotes.quickwheel": "Schermo ruota rapida"
+    "screen.playeremotes.emoteconfig": "Schermata di configurazione delle espressioni",
+    "screen.playeremotes.emotelist": "Schermata delle espressioni",
+    "screen.playeremotes.quickwheel": "Schermo rapido per ruote"
 }

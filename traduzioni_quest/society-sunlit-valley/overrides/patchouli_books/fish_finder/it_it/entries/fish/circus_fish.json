@@ -1,18 +1,18 @@
 {
-    "name": "Circus Fish",
+    "name": "Pesci del circo",
     "category": "patchouli:fish",
     "icon": "unusualfishmod:raw_circus_fish",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 320 monete$(li)Simbolo di fuoco: Estivo$(li)Acqua: Fresca$(li)Clima: Qualsiasi$(li)Ora: Giorno"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 320$(li)§0🔥 §6Estate§0$(li)Acqua: Fresca$(li)Meteo: Qualsiasi$(li)Ora: Giorno"
         },
         {
             "type": "patchouli:entity",
             "entity": "unusualfishmod:circus",
             "scale": 0.8,
             "rotate": true,
-            "text": "È anche noto come Woland."
+            "text": "patchouli: entità\n\nunusualfishmod: circo\n\nÈ noto anche come Woland."
         }
     ]
 }

@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 112 monete$(li)Simbolo di fuoco: Estate$(li)Acqua: Fiume$(li)Clima: Sereno$(li)Ora: Giorno"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 112$(li)§0🔥 §6Estate§0$(li)Acqua: Fiume$(li)Meteo: Sereno$(li)Ora: Giorno"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:synodontis",
             "scale": 0.8,
             "rotate": true,
-            "text": "Assomiglia a un gatto."
+            "text": "patchouli: entità\n\nacquacoltura: Synodontis\n\nSembra un gattino."
         }
     ]
 }

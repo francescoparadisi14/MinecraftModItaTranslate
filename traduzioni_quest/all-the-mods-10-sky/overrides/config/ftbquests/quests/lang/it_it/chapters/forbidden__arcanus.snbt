@@ -1,0 +1,212 @@
+{
+    "quest.02F2DF9D9DA7833A.quest_desc": [
+        "Per ottenere le \"Anime Corrotte\", dovremo utilizzare l'incantesimo \"Incantesimo di Raccolta di Anime\". Questo incantesimo si applica alle armi, e ogni volta che uccidi un mostro, c'è la possibilità che spunti una \"Anima Corrotta\".\n\nQueste \"Anime Corrotte\" possono essere uccise per ottenerle come oggetti. Cerca di farlo rapidamente, perché tendono a fuggire.\n\nForse sanno che vuoi ucciderle?"
+    ],
+    "quest.02F2DF9D9DA7833A.title": "\\&5Incantesimo di \"Furto di Anime\"",
+    "quest.03C54B07106091DD.quest_desc": [
+        "\\&cSmelter Prism\\&r è probabilmente l'oggetto più utilizzato in questi rituali.\n\nPer crearlo, avrai bisogno di 4 \\&cBlaze Powder\\&r, 2 \\&8Coal\\&r e un blocco di \\&bArcane Crystal\\&r. E non dimenticare il \\&3Elementarium\\&r! Può essere utilizzato con gli strumenti per fondere gli oggetti che produce: minerale grezzo in lingotti, legna per carbone, sabbia per vetro.\n\nPuoi anche utilizzarlo come combustibile per il forno, ma è piuttosto inefficiente. Questo è strano, perché il nome suggerisce che dovrebbe essere più utile!"
+    ],
+    "quest.03C54B07106091DD.title": "\\&c Prisma per fonderia",
+    "quest.050CD33E92601651.quest_desc": [
+        "E se il \"Tier 1\" non ti soddisfa? Allora dovrai aggiornarlo!\n\nInserisci un \"Edelwood Plank\" nello slot centrale del \"Forge\" e posiziona 4 \"Arcane Crystals\" e 4 \"Spawner Scrap\" sui piedistalli.\n\nColpisci il \"Forge\" con un martello e il tuo \"Tier 1\" si aggiornerà a un \"Tier 2\"!\n\nOra, saranno disponibili nuovi rituali, il \"Forge\" potrà contenere più \"Essences\" e potrai utilizzare un secondo \"Relic\"!",
+        "{image:atm:textures\/questpics\/forbidden\/forbidden_tier1.png width:100 height:100 align:center}"
+    ],
+    "quest.050CD33E92601651.title": "\\& Livello 2 \\& Fabbrica",
+    "quest.07BEE6FEC14765DC.quest_desc": [
+        "Una ricetta semplice che richiede argilla, ferro, palline di schiuma e altro ancora...\n\nI magneti sono il miglior oggetto da recuperare. Le mod aggiungono questi oggetti nei \"loot pool\" in tutto il gioco, quindi non è necessario crearli, basta trovarli!\n\nLa cera è un nuovo oggetto introdotto da \"Forbidden \\& Arcanus\", che è una miscela di miele e palline di schiuma.\n\nPuoi utilizzarla su un \"Darkstone Pedestal\" per ottenere \"Pedestals magnetizzati\", che funzionano in combinazione con i \"Hoppers\" (e altri oggetti simili come le tubature).\n\nPuoi anche utilizzarla con gli stivali per aumentare la distanza a cui gli oggetti possono essere trascinati nel tuo inventario!"
+    ],
+    "quest.092BB595F75D5536.quest_desc": [
+        "Benvenuti in \\&6\\&lForbidden \\& Arcanus\\&r! \\n\\nPer iniziare questo Mod, avremo bisogno di alcuni Cristalli Arcani. Raccogliete un po' di polvere."
+    ],
+    "quest.092BB595F75D5536.title": "\\&6\\&lProibito \\& Arcani",
+    "quest.0AC8FE3B59D1B09D.quest_desc": [
+        "Il Quantum Catcher è uno strumento molto utile per spostare i mostri.\n\nBasta fare clic con il tasto destro su un mostro per \"catturarlo\", quindi fare di nuovo clic con il tasto destro per rilasciarlo.\n\nTuttavia, avrai bisogno di una certa quantità di \"\\&bAureal\" per poterlo utilizzare, e questa quantità dipende dalla salute del mostro. Maggiore è la salute, maggiore è la quantità di \"\\&bAureal\" necessaria! Tuttavia, rilasciare i mostri non avrà alcun costo, è gratuito.\n\nAh, scusate, probabilmente dovrei dirvi come crearla! Avrete bisogno di un \"\\&7Quantum Core\", che viene creato con \"\\&7Runes\", \"\\&cMundabitur Dust\" e \"\\&8Flint\".\n\nI frammenti del Spawner sono oggetti ottenuti minando un Spawner senza l'abilità \"Silk Touch\", quindi distruggeranno il Spawner."
+    ],
+    "quest.0FD638380EECFFBD.quest_desc": [
+        "{image:atm:textures\/questpics\/forbidden\/forbidden_forge1.png width:100 height:100 align:center}",
+        "Per iniziare a costruire il tuo Forge, posiziona i seguenti elementi in questo ordine: \\&9Pietra scura levigata\\&r, \\&6Pietra scura levigata arcana\\&r e \\&6Pietra scura levigata dorata\\&r.",
+        "{image:atm:textures\/questpics\/forbidden\/forbidden_forge2.png width:100 height:100 align:center}",
+        "\"Next place our Smithing Table on the inner &6Gilded Chiseled Polished Darkstone&r and smack it with &cMundabitur Dust&r, you'll get the &6&lHephaestus Forge&r!\\n\\nLastly place our &6Darkstone Pedestals&r on top of the 8 outside &6Gilded Chiseled Polished Darkstone&r!\""
+    ],
+    "quest.0FD638380EECFFBD.title": "Costruzione della forgia",
+    "quest.15849165CA8C00F9.quest_desc": [
+        "L'ultimo oggetto più potente, il \"Forge\", quindi ovviamente è anche il più costoso!\n\nAvrete bisogno di 2 \"Dark Nether Stars\", che si ottengono combinando 4 \"Obsidiansteel\" e una \"Nether Star\".\n\n2 \"Dragon Scales\", che si ottengono quando si uccide il \"Ender Dragon\".\n\n4 \"Sculk Catalysts\", che si ottengono dal \"Warden\", oppure possono essere ottenuti tramite il metodo \"Silk-Touched\" nella \"Deep Dark\".\n\nE 9 \"Stellarite Pieces\", che sono semplicemente 9 \"Stellarite\"!\n\nQuesto permette di ottenere ancora più \"Essences\" e... ricette per la fine del gioco? Da dove ho preso questa pagina della quest?",
+        "{image:atm:textures\/questpics\/forbidden\/forbidden_tier5.png width:100 height:100 align:center}"
+    ],
+    "quest.15849165CA8C00F9.title": "\\&l\\&Fabbrica di livello 5 e 6",
+    "quest.185DBBDD252CBA0C.quest_desc": [
+        "Il \"\\&6lForge\" è il blocco più importante in \"\\&6lForbidden \\& Arcanus\"! Ora che hai creato il Multiblock, puoi distruggere il blocco \"\\&6lForge\" e spostarlo, anche se funziona solo quando è all'interno del Multiblock.\n\nDovrai riempirlo con le 4 Essenze: \"\\&bAureal\", \"\\&4Sangue\" e \"\\&aEsperienza\"!\n\nSuccessivamente, se necessario, puoi aggiungere i Reliqui.\n\nInfine, metti l'oggetto centrale nella ricetta, nella posizione centrale del \"\\&6lForge\", e gli altri oggetti sui \"\\&6Pedestals\".",
+        "{image:atm:textures\/questpics\/forbidden\/forbidden_gui.png width:135 height:100 align:center}",
+        "{image:atm:textures\/questpics\/forbidden\/forbidden_tier3.png width:100 height:100 align:center}"
+    ],
+    "quest.185DBBDD252CBA0C.title": "\\&l\\&cCategoria 1 \\&6Fabbrica",
+    "quest.198E9E90CC9606C4.quest_desc": [
+        "Abbiamo ottenuto i nostri oggetti (Pedestali, \\&bAureal\\&r, Anime, \\&4Sangue\\&r, e \\&aEsperienza\\&r), ma il rituale non si completa. Perché non si completa?\n\nPer completare effettivamente il rituale, avremo bisogno di un Martello!\n\nFunziona come un piccone, ma ha anche un numero limitato di utilizzi per completare i rituali. Basta fare clic con il tasto destro sul \\&6\\&lFornace\\&r!"
+    ],
+    "quest.198E9E90CC9606C4.title": "Completare il rituale",
+    "quest.2002AB7D061007FA.quest_desc": [
+        "L'\\&6Artisan Relic\\&r può essere creato utilizzando la fucina di Hephaestus di livello 3, utilizzando Blazegold, un Blaze Burner, alcune obsidian e nuclei fusi.\n\nQuando utilizzato nella \\&l\\&bClibano\\&r, ti permetterà di creare \\&5Obsidiansteel\\&r.\n\nQuando utilizzato nelle \\&6\\&lForges\\&r, ti darà uno sconto sull'esperienza utilizzata!"
+    ],
+    "quest.2002AB7D061007FA.title": "\\&6 Artefatto artigianale",
+    "quest.230EEE4671B46D0C.quest_desc": [
+        "\\&9Darkstone\\&r di solito si trova in profondità sotto terra. Ma... qui non c'è spazio sotterraneo. Fortunatamente, abbiamo Cobblegen Galore che può fornirci del Darkstone.\n\nPosizionate il Witch Water e il Lava accanto al Block Generator, con un Block di Arcane Crystal sotto. Il Lava verrà consumato, però.\n\nÈ il Block più utilizzato in \\&6\\&lForbidden \\\\& Arcanus\\&r, e tutti i Multiblocks lo utilizzano come base.\n\nAssicuratevi di procurarsi un gran numero!"
+    ],
+    "quest.230EEE4671B46D0C.title": "\\&9Darkstone",
+    "quest.29434DB0CC2E30E6.quest_desc": [
+        "Combinando il \"Dust\\&r\", il \"Crystal Dust\\&r\", il \"Charcoal\\&r\" e l' \"Gold Ingot\", otterremo il nostro primo legante! Si tratta del \"Deorum Ingot\"!\n\nQuesto è il legante fondamentale per \"Forbidden \\& Arcanus\", ne avrete bisogno in grandi quantità!\n\nÈ particolarmente utile per la creazione dei componenti per le nostre macchine Multiblock."
+    ],
+    "quest.29434DB0CC2E30E6.title": "\\&6Deorum",
+    "quest.2ADA491A2485061C.quest_desc": [
+        "\\&aEsperienza\\&r è lo slot e il materiale necessari per l'\\&6\\&lFornace\\&r.\n\nPer aggiungere l'\\&aEsperienza\\&r, dovrai inserire uno dei seguenti elementi nello slot \\&aEsperienza\\&r:\n\n1. \\&aSfere di Esperienza\\&r, che forniscono la maggiore quantità di \\&aEXP\\&r.\n2. \\&aBottiglia di Incantamento\\&r, che fornisce una piccola quantità di \\&aEXP\\&r, ma è facile da ottenere!\n3. \\&5Oggetto Incantato\\&r, l'\\&6\\&lFornace\\&r rimuoverà gli \\&5Incantesimi\\&r, conservandoli come \\&aEXP\\&r!",
+        "{image:atm:textures\/questpics\/forbidden\/forbidden_experience.png width:135 height:100 align:center}"
+    ],
+    "quest.2ADA491A2485061C.title": "\\&esperienza",
+    "quest.2D3C8905B783A212.quest_desc": [
+        "Con alcuni Mob Drops, oltre a \\&cPolvere di Cristallo Arcana\\&r, è possibile creare \\&cPolvere di Mundabitur\\&r!\n\nQuesto è un componente fondamentale nella creazione di Multiblocchi!\n\nE la si può trovare nelle \\&dCittà Finali\\&r, che di solito vengono semplicemente abbandonate..."
+    ],
+    "quest.2D3C8905B783A212.title": "E altre polveri di Mundabitur",
+    "quest.31AD9826FB036C98.quest_desc": [
+        "\\&7Runes\\&r possono essere estratte da qualsiasi spirito minerario dell'occultismo!\n\nSono più utili di \\&2Stellarite\\&r, ma meno utili di \\&bArcane Crystals\\&r."
+    ],
+    "quest.31AD9826FB036C98.quest_subtitle": "Questi erano precedentemente chiamati \"\\&5Purple\\&r!\"",
+    "quest.31AD9826FB036C98.title": "\\&7Runes",
+    "quest.356102D5B5F3CA1E.quest_desc": [
+        "Un metallo creato con l'oggetto \\&6\\&l\"Forbidden \\& Arcanus\\&r\" è l'\"Obsidiansteel\".\\n\\nViene creato nel \\&l\\&b\"Clibano\\&r\", combinando Ferro grezzo e \\&5\"Obsidian\\&r\".\\n\\nAvrete bisogno di un manufatto di un artigiano per effettivamente creare il metallo!\\n\\nInoltre, otterrete \\&6\"Cuore\\&r\" come residuo, il che probabilmente non dovrebbe accadere..."
+    ],
+    "quest.356102D5B5F3CA1E.title": "\\&Acciaio ossidato\\&",
+    "quest.3999AE0921641E60.quest_desc": [
+        "\\&8Dark Matter\\&r è creato da Smelting Edelwood. \\n\\n\\&5Corrupti Dust\\&r è realizzato con \\&5Obsidiansteel\\&r e alcuni oggetti ottenuti dagli Mob. \\n\\nGetta entrambi questi oggetti a terra contemporaneamente e si genererà un \\&8Black Hole\\&r! \\n\\nIl \\&8Black Hole\\&r distruggerà ogni oggetto o proiettile che si avvicini, ma ciò che vogliamo dargli da mangiare è \\&aExperience\\&r! \\n\\nQuando gli fornisci abbastanza \\&aEXP\\&r, in cambio otterrai un \\&aXpetrified Orb\\&r.",
+        "{image:atm:textures\/questpics\/forbidden\/forbidden_blackhole.png width:150 height:100 align:center}"
+    ],
+    "quest.3999AE0921641E60.title": "\\&8Buco Nero",
+    "quest.3BEE1B1DF87783A8.quest_desc": [
+        "Abbiamo un terzo modo per ottenere Edelwood in questo pacchetto: la setacciatura. Utilizzate un setaccio (o uno più fine) per setacciare l'edera e ottenere l'Edelwood desiderato."
+    ],
+    "quest.3D82C6639A6371CB.quest_desc": [
+        "4 e 7: Quantum Cores e Mundabitur Dust, e potrete ottenere anche il 7: Quantum Injector.\n\nI 7: Quantum Injector non vengono utilizzati molto in questa fase. Non so nemmeno a cosa servono normalmente, a parte creare alcune animazioni quando si fa clic con il pulsante destro del mouse."
+    ],
+    "quest.3D82C6639A6371CB.title": "\\&7Iniettore Quantico\\&r",
+    "quest.40B757772D0FBAC9.quest_desc": [
+        "\\&4Blood\\&r è l'ultimo slot da riempire nel \\&6\\&lForge\\&r.\n\nPuoi uccidere i Mob vicino al \\&6\\&lForge\\&r per ottenere \\&4Blood\\&r.\n\nOppure, puoi depositare provette piene nel \\&6\\&lForge\\&r per aggiungere \\&4Blood\\&r.\n\nPer riempire una provetta, tienila in mano libera mentre uccidi i Mob.",
+        "{image:atm:textures\/questpics\/forbidden\/forbidden_blood.png width:135 height:100 align:center}"
+    ],
+    "quest.40B757772D0FBAC9.title": "\\&4Sangue",
+    "quest.414A35A72AFB5FF5.quest_desc": [
+        "Probabilmente è una delle ricette più complicate da creare, richiede \\&bPrismarine\\&r, \\&2Turtle Scute\\&r, \\&9Lapis\\&r e \\&3Heart of the Sea\\&r.\n\nSpero che vi piaccia!\n\nSi combina con i Caschi... probabilmente per ottenere Respiration o Aqua Affinity, ma non riesco a farla funzionare..."
+    ],
+    "quest.414A35A72AFB5FF5.title": "\\&9 Prisma Marino",
+    "quest.46567ED894E9883C.quest_desc": [
+        "È qui che diventa divertente!\n\nUtilizzate 4 lingotti di \\&Deorum\\&r, 4 cristalli di \\&Arcane Crystals\\&r e 1 pietra di \\&Chiseled Polished Darkstone\\&r per passare dal Tier 2 al Tier 3.\n\nOra possiamo contenere ancora più essenze, ancora più reliquie e ancora più ricette!",
+        "{image:atm:textures\/questpics\/forbidden\/forbidden_tier2.png width:100 height:100 align:center}"
+    ],
+    "quest.46567ED894E9883C.title": "\\&e\\&lLivello 3 \\&6Fornace",
+    "quest.4707FB01F15F6E1F.quest_desc": [
+        "Il \\&b\\&lClibano\\&r è un nuovo blocco multifunzione che funziona in modo simile a un forno Jumbo! Per utilizzarlo, segui questi passaggi:",
+        "{image:atm:textures\/questpics\/forbidden\/forbidden_clibano1.png width:100 height:100 align:center}",
+        "Il primo strato è composto da un'area di 3x3, con gli angoli realizzati in \\&9Pietra scura levigata\\&r e il resto riempito di \\&9Mattoni in pietra scura levigata\\&r.",
+        "{image:atm:textures\/questpics\/forbidden\/forbidden_clibano2.png width:100 height:100 align:center}",
+        "Il secondo strato utilizza esclusivamente mattoni in \\&9\"Pietra scura levigata\" e il \\&b\"Nucleo di Libano\" (o \"Nucleo di Libano\"). Ricorda di lasciare il blocco centrale vuoto!",
+        "{image:atm:textures\/questpics\/forbidden\/forbidden_clibano3.png width:100 height:100 align:center}",
+        "Lo strato finale è esattamente come il primo... proprio sopra gli altri due!",
+        "{image:atm:textures\/questpics\/forbidden\/forbidden_clibano4.png width:100 height:100 align:center}",
+        "Infine, clicca con il tasto destro del mouse sul blocco Multiblock e seleziona \"Polvere di Mundabitur\" per completare l'operazione!"
+    ],
+    "quest.4707FB01F15F6E1F.title": "\\&b\\&lClibano",
+    "quest.487C70679535DDDB.quest_desc": [
+        "Non odiate quelle stupide limitazioni sul vostro Quantum Catcher? Non è possibile posizionare i Wardens nella base dei vostri amici!\n\nBeh, ora non ci sono più problemi, perché possiamo migliorare il nostro Quantum Catcher con 3 pezzi di Stellarite e una Nether Star per creare il Boss Catcher.\n\nOra possiamo trasportare i nostri Boss ovunque vogliamo!"
+    ],
+    "quest.487C70679535DDDB.quest_subtitle": "Lo so, Trinity Gem, non è necessario urlare.",
+    "quest.49D0B6D3ED3DCCCD.quest_desc": [
+        "\\&bArcane Crystal Dust\\&r è molto semplice: basta fondere gli \\&bArcane Crystals\\&r e voilà!\n\nInoltre, puoi utilizzare il Clibano Multiblock per recuperare alcuni \\&bArcane Crystals\\&r!"
+    ],
+    "quest.49D0B6D3ED3DCCCD.title": "\\&Polvere di cristallo arcano",
+    "quest.4A564E8FE587C7E4.quest_desc": [
+        "Il modo migliore per ottenere le Anime è tramite l'Estrattore di Anime!\n\nCon alcuni oggetti e blocchi del Nether e un contenitore Utrem (che richiede l'utilizzo di Edelwood per essere creato), potrete ottenere uno strumento in grado di estrarre le Anime.\n\nTenendo premuto il tasto destro del mouse su Sabbia di Anime, lo strumento estrarrà le Anime.\n\nLasciando la sabbia così com'è... aspetta, è sabbia senza anime... ma cos'è esattamente la sabbia senza anime?!?!?!"
+    ],
+    "quest.4BE209D5DAF1F321.quest_desc": [
+        "\\&bAureal\\&r è la prima e più importante posizione nella \\&6\\&lForge\\&r.\n\nPuoi automatizzarla utilizzando gli \\&bArcane Crystal Obelisks\\&r o depositando gli \\&bAureal Bottles\\&f\/\\&bPotions\\&r!\n\nPuoi trovare gli \\&bAureal Bottles\\&r in casse presenti nella maggior parte delle strutture, oppure puoi crearli utilizzando il \\&bArcane Crystal Dust\\&r e una Pozione di Rigenerazione II.",
+        "{image:atm:textures\/questpics\/forbidden\/forbidden_aureal.png width:135 height:100 align:center}"
+    ],
+    "quest.4BE209D5DAF1F321.title": "\\&bAureal",
+    "quest.4C93FCBAB7F3C00D.quest_desc": [
+        "Considerando che in un mondo \"Skyblock\" non ci sono minerali da estrarre, ci si aspetterebbe che poteste ottenere Rune e Stellarite attraverso la selezione, giusto?\nINVERSI! Dovrete utilizzare gli \"Spiriti Minatori\" per ottenerli. Consultate la pagina della quest \"Occultism\" per saperne di più sulla mod."
+    ],
+    "quest.4C93FCBAB7F3C00D.quest_subtitle": "Pensavo che questa fosse la pagina dedicata alla quest \"Forbidden Arcanus\".",
+    "quest.4C93FCBAB7F3C00D.title": "Occultismo?",
+    "quest.4CFE097D0A8683C8.quest_desc": [
+        "Lo \"Scudo di ossidiana\" è un elmo che, una volta indossato, offre protezione contro danni da fuoco\/lava!\n\nCol tempo, l'elmo si deteriorerà e sarà necessario ripararlo utilizzando 8 \"piastre di ossidiana\".\n\nQuesto è anche il modo in cui lo si crea: un cranio di scheletro con 8 \"piastre di ossidiana\"."
+    ],
+    "quest.4CFE097D0A8683C8.title": "E 5: Cranio di ossidiana",
+    "quest.52472667678E10D1.quest_desc": [
+        "\\&2Stellarite\\&r si genera tra il livello Y – ma perché sto dicendo questo? Ovviamente, non esiste! Forse sto ripetendo troppo il fatto che siamo in un mondo a tema \"skyblock\".\\n\\nSi potrebbe pensare che, con un raggio così ampio, sia facile trovarlo! In realtà, è molto raro!\\n\\nCosì raro, che solo Marid ed i minatori di Eldritch sono abbastanza abili per trovarlo!\\n\\nTuttavia, fate attenzione quando lo estraete: se lo rompete, esploderà!"
+    ],
+    "quest.52472667678E10D1.title": "\\& 2 pezzi di Stellarite",
+    "quest.52D4FCE72B15BC46.quest_desc": [
+        "Desidera un \"secchio\" migliore? Con il secchio Edelwood, è possibile!\n\nCon pochi tavole di Edelwood, è possibile ottenere un secchio migliore, in grado di contenere 4 secchi di acqua o latte.\nÈ inoltre possibile contenere 3 secchi di lava! Poiché è più pesante, è possibile contenerne solo 3 anziché 4."
+    ],
+    "quest.539266A1C03C2EBA.quest_desc": [
+        "\"Le \"Souls\" sono la seconda componente necessaria per il Forge, ed è anche quella più piccola: ne servono solo 10 per riempirla!\n\nOgni \"Soul\" e \"Corrupt Soul\" verranno considerate come 1 \"Soul\". Mentre le \"Enchanted Souls\" verranno considerate come l'intera quantità di 10!\"",
+        "{image:atm:textures\/questpics\/forbidden\/forbidden_souls.png width:135 height:100 align:center}"
+    ],
+    "quest.539266A1C03C2EBA.title": "Anime",
+    "quest.53E2BEA626B35BFC.quest_desc": [
+        "Ricetta piuttosto costosa, ma assolutamente ne vale la pena!\n\nUtilizzando il \"Occhio Spettrale\", otterrete l'effetto \"Visione Spettrale\". Questo effetto conferisce un effetto \"luminoso\" a ogni mob all'interno di un raggio di 100 blocchi in tutte le direzioni!\n\nPerfetto per trovare strutture sotterranee, o gli \"Guardian Withers\" evocati dal \"Chaos Guardian\", o anche per trovare la fattoria nascosta dei vostri \"Axolotl\"!"
+    ],
+    "quest.53E2BEA626B35BFC.quest_subtitle": "Estremamente popolare nell'ATM6!",
+    "quest.53E2BEA626B35BFC.title": "\\&6Spettro \\&4Occhio \\&7Amuleto",
+    "quest.580148D1141446A6.quest_desc": [
+        "E se il Nether è troppo spaventoso per te, puoi cercare le Anime nell'Overworld!\\n\\nPotresti trovare alcune Anime perdute che vagano per il tuo mondo.\\n\\nPuoi ucciderle per ottenere le Anime che lasciano cadere. Tuttavia, questo metodo è molto meno efficiente...",
+        "Se hai difficoltà a trovare le Anime, potresti provare ad aggiungere l'incantesimo \"Soul Looting\" alla tua spada. Utilizzando questo incantesimo, uccidere i mostri potrebbe occasionalmente far apparire le Anime."
+    ],
+    "quest.580148D1141446A6.title": "Anime smarrate",
+    "quest.5A6FF0D4BA894306.quest_desc": [
+        "Il campione di \\&6\\&lForbidden \\\\& Arcanus\\&r, l'\\&aStella Eterna\\&r. \\n\\nCon 1 \\&bDiamante\\&r, 3 \\&aSfere Petrificate\\&r, e un \\&2Pezzo di Stellaite\\&r, possiamo creare uno degli oggetti più potenti in questo modpack! \\n\\nÈ possibile utilizzare l'\\&aStella Eterna\\&r insieme a un oggetto e a un modificatore per oggetti per far perdere agli oggetti la loro durabilità. No, intendo, per far perdere agli oggetti la necessità di durabilità! In pratica, oggetti indistruttibili. \\n\\nQuesto può essere utilizzato su quasi tutti gli oggetti con durabilità, dagli \\&bAscie di Diamante\\&r, alle canne da pesca, fino persino all'\\&eArmatura di Pietra Luminosa Raffinata\\&r! \\n\\nCi sono alcune limitazioni: funziona solo con oggetti che hanno durabilità, come i cristalli di infusione o l'energia, come l'Meka-Tool!"
+    ],
+    "quest.5A6FF0D4BA894306.title": "\\&aStella Eterna",
+    "quest.5CD0E6F349F2F32D.quest_desc": [
+        "Non abbiate paura, non è un giocattolo, è un vero e proprio \"Edelwood\"!\n\nL'albero avrà un tronco di \"Edelwood\" intagliato sopra, con rami di \"Edelwood\" che partono da esso; questi possono essere spezzati per ottenere bastoncini di \"Edelwood\".\n\nI tronchi sono vuoti all'interno, con uno spazio simile a quello di una pentola. Incredibilmente, possono anche contenere acqua, proprio come una pentola!"
+    ],
+    "quest.5ED0DA95BAE43D88.quest_desc": [
+        "L'ultimo dei Prismi, in questo caso si tratta di un \\&dCristallo\\&r, ma l'idea è questa!\n\nInnanzitutto, avrete bisogno di un \\&ePatto Divino\\&r, che si trovano in \\&b\\&lAltro\\&r.\n\nSuccessivamente, avrete bisogno di \\&3Frammenti di Perla di Ender\\&r, \\&5Amethyst\\&r e Quarzo del Nether. Non preoccupatevi, diventa più difficile!\n\nOra avremo bisogno di ogni tipo di Anima. Vi ho già insegnato come ottenere le Anime e come \\&9Corrompere le Anime\\&r in altre missioni, ora vi insegnerò a ottenere le \\&dAnime Incantate\\&r.\n\nTrovate un'Anima incantata che vola nel vostro mondo, poi lanciate un \\&bPozione di Aureal\\&r contro di essa! Quindi, diventerà una \\&dAnima Incantata Perduta\\&r, uccidetela!\n\nCon questo, potrete ora creare il \\&dCristallo\\&r, che può essere applicato a strumenti e armature per conferire loro un'anima. Ciò significa che, quando morirete, risorgerete con questi oggetti ancora nel vostro inventario."
+    ],
+    "quest.5ED0DA95BAE43D88.title": "\\&Cristallo di Legame Spirituale",
+    "quest.5F00A66CC1FE1F9F.quest_desc": [
+        "Onestamente, l'unico aspetto difficile di questa ricetta è l'ottenimento delle ali di pipistrello. Ma quante volte dovete uccidere i pipistrelli, figuriamoci coltivarli?\n\nQuesta ricetta è relativamente nuova e non può essere utilizzata per creare armature. È destinata solo alla fine del gioco!"
+    ],
+    "quest.63C95FDAA447CA47.quest_desc": [
+        "L'unico ricetta che richiede il \\&7Prisma Terrastomp\\&r, il \\&7Blocco di Diamante\\&r! \\n\\nAvrete bisogno di \\&7Blocco di Dripstone\\&r, \\&7Blocco di Dripstone\\&r, e \\&8Pietra di Fiamma\\&r, oltre a un \\&bBlocco di Diamante\\&r! \\n\\nCome gli altri Prismi, anche questo richiederà un \\&3Artefatto Elementario\\&r per essere creato. \\n\\nCome il \\&cPrisma di Fiamma\\&r, il \\&7Prisma Terrastomp\\&r può essere utilizzato con gli strumenti. Questi strumenti permetteranno di estrarre 9 blocchi in un'area di 3x3, invece di solo 1."
+    ],
+    "quest.63C95FDAA447CA47.title": "\\&7Prisma Terrastomp",
+    "quest.66FE4552E09B5EFF.quest_desc": [
+        "I prismi sono importanti per molte ricette di \\&6\\&lForbidden \\\\& Arcanus\\&r e per altri mod in seguito!\n\nPer crearli, avremo bisogno di \\&3Elementarium, che viene prodotto utilizzando diverse squame di drago nella Fabbrica di Hephaestus.\n\nPenso che sarebbe più utile se ci indicaste dove non è possibile trovarlo!"
+    ],
+    "quest.66FE4552E09B5EFF.title": "\\&3Elementarium",
+    "quest.67CCEFEBA4D79429.quest_desc": [
+        "«Il contratto con l'Entità Divina è il più difficile da ottenere; avrete bisogno di creare alcune \"granate sacre\" per esso! »\n\n«Viene utilizzato per creare il Cristallo di Legame dell'Anima... e poco altro. »"
+    ],
+    "quest.67CCEFEBA4D79429.title": "\\&Patto Divino",
+    "quest.692183ACBB2AABF7.quest_desc": [
+        "Questi oggetti rari si trovano raramente nel vostro mondo di \\&2\\&lMinecraft\\&r! Ma... non abbiamo esattamente oggetti da raccogliere in un mondo di \"skyblock\". Fortunatamente, ora potete crearli utilizzando la Fabbrica di Hephaestus.\n\nPossono essere utilizzati nella vostra \\&6\\&lForge\\&r, nelle caselle attorno alla posizione centrale, e diventano più utili man mano che aggiornate i livelli!\n\nOppure, potete utilizzarli in \\&l\\&bClibano\\&r.\n\nAlcuni sono disponibili solo in modalità Creativa, quindi non preoccupatevi, sappiamo quanto amate i vostri oggetti speciali e stiamo cercando modi per aggiungerli!"
+    ],
+    "quest.692183ACBB2AABF7.title": "\\&Reliquie",
+    "quest.6BA2BC09E23B34A9.quest_desc": [
+        "Questo oggetto richiede un'altra \"Pietra Oscura Levigata e Intagliata\" (tipo \"\\&9Chiseled Polished Darkstone\\&r\"), e ora include 4 \"Runes\" (tipo \"\\&7Runes\\&r\") e 4 pezzi di \"Stellarite\" (tipo \"\\&2Stellarite\\&r\").\n\nQuesto \"Forno\" (tipo \"\\&6Forge\\&r\") è l'ultimo per la categoria \"\\&6Forbidden \\\\& Arcanus\\&r\".\n\nNaturalmente, include tutte le ricette, e ora anche tutti gli spazi per i manufatti sono disponibili!",
+        "{image:atm:textures\/questpics\/forbidden\/forbidden_tier4.png width:100 height:100 align:center}"
+    ],
+    "quest.6BA2BC09E23B34A9.title": "\\&l\\&dTier 4 \\&6Fornace",
+    "quest.6F57BE412A7BE84E.quest_desc": [
+        "I materiali \"\\&9Corrupt Souls\" possono essere utilizzati per due scopi:\n\n1.  Creare ricette con il \"Fornello di livello 4\", che non dobbiamo preoccuparci di utilizzare al momento.\n2.  Far crescere l'Edelwood!\n\nFar crescere l'Edelwood funge da \"piantina\" per l'Edelwood. Attualmente, questo è l'unico modo per ottenere l'Edelwood, insieme al metodo di setacciatura."
+    ],
+    "quest.6F57BE412A7BE84E.title": "\\&9Anime corrotte",
+    "quest.7671AFAA1EFD287F.quest_desc": [
+        "Se desideri automatizzare il processo di \\&bAureal\\&r, avrai bisogno di 2 \\&bBlocchi di Cristallo Arcani\\&r, \\&6Pietra Oscura Lucidata Arcana\\&r, e \\&cPolvere di Mundabitur\\&r!\n\nPosiziona i \\&6Blocchi di Pietra Oscura Lucidata Arcana\\&r, e poi posiziona entrambi i \\&bBlocchi di Cristallo Arcani\\&r sopra.\n\nUna volta che avrai creato questa struttura 1x3x1, fai clic con il tasto destro e spargi \\&cPolvere di Mundabitur\\&r per creare l'\\&bObelisco\\&r!\n\nPuoi posizionare questi elementi, dove di solito si trovano i piedistalli, all'interno del \\&6\\&lForge Multiblock\\&r per automatizzare il processo di \\&bAureal\\&r!"
+    ],
+    "quest.7671AFAA1EFD287F.title": "\\&Obelisco di cristallo arcano",
+    "quest.79C9875A1A494762.quest_desc": [
+        "Se preferite non utilizzare \"Corrupt Souls\" per far crescere l'Edelwood, potete affidarvi alla fortuna!\n\nIl \"Wandering Trader\" ha la possibilità di vendervi l'Edelwood, che potrà essere piantato per farlo crescere.\n\nTuttavia, il \"Wandering Trader\" è molto imprevedibile, quindi provate a utilizzare i \"Trader Carpets\" per almeno sapere dove apparirà!"
+    ],
+    "quest.79C9875A1A494762.quest_subtitle": "Da Wandy T",
+    "quest.79C9875A1A494762.title": "Acquistare Edelwood",
+    "task.63D5DE02A5E407A1.title": "Qualsiasi informazione relativa all'occultismo e ai minatori.",
+    "task.763964008982F4ED.title": "Trader Carpets"
+}

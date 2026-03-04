@@ -96,6 +96,8 @@
     "resourcify.config.ads.title": "Enable Ads",
     "resourcify.config.data-pack.description": "Show the browse button in the data pack screen.",
     "resourcify.config.data-pack.title": "Enable Data Pack Browsing",
+    "resourcify.config.disable-gifs.description": "Disable Resourcify's GIF rendering, this can help alleviate stuttering issues while loading images.",
+    "resourcify.config.disable-gifs.title": "Disable GIF Rendering",
     "resourcify.config.gui-scale.auto": "auto",
     "resourcify.config.gui-scale.description": "The GUI scale that Resourcify will use in the browse and project screen, you can input a number here.",
     "resourcify.config.gui-scale.title": "GUI Scale",

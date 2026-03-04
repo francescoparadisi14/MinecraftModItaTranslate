@@ -1,6 +1,9 @@
 {
-    "block.replication_matter_overflow.matter_void": "Tanca di sovraccarico di materia",
-    "itemGroup.replication_matter_overflow": "Tanque di overflow di materia di riproduzione",
-    "tooltip.replication_matter_overflow.matter_void.line1": "Raccoglie materia come un serbatoio normale",
-    "tooltip.replication_matter_overflow.matter_void.line2": "Materia vuota quando piena"
+    "block.replication_matter_overflow.matter_void": "Serbatoio di accumulo per liquidi",
+    "itemGroup.replication_matter_overflow": "Replica: Serbatoio per il flusso di materiali",
+    "tooltip.replication_matter_overflow.matter_void.line1": "Il tipo di negozio è importante, proprio come un serbatoio normale.",
+    "tooltip.replication_matter_overflow.matter_void.line2": "Elimina il materiale in eccesso quando è pieno.",
+    "tooltip.replication_matter_overflow.priority.current": "Priorità: %s",
+    "tooltip.replication_matter_overflow.priority.decrease": "Ridurre la priorità del serbatoio",
+    "tooltip.replication_matter_overflow.priority.increase": "Aumentare la priorità dei serbatoi"
 }

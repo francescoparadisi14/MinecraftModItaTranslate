@@ -1,5 +1,5 @@
 {
-    "block.spawnerhead.falling_spawner": "Generatore cadente",
-    "entity.spawnerhead.spawner_head": "Testa generatrice",
-    "item.spawnerhead.spawner_head_spawn_egg": "Uovo di spawn della testa del generatore"
+    "block.spawnerhead.falling_spawner": "Spawn di caduta",
+    "entity.spawnerhead.spawner_head": "Testa del dispositivo di fecondazione",
+    "item.spawnerhead.spawner_head_spawn_egg": "Uovo di allevamento"
 }

@@ -1,18 +1,18 @@
 {
-    "name": "Spindle Fish",
+    "name": "Pesce a spina",
     "category": "patchouli:fish",
     "icon": "unusualfishmod:raw_spindlefish",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 368 monete$(li)Stagione: Primavera$(li)Acqua: Oceano$(li)Clima: Qualsiasi$(li)Ora: Notte"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 368$(li)§0🌼 §2Primavera§0$(li)Acqua: Oceano$(li)Meteo: Qualsiasi$(li)Ora: Notte"
         },
         {
             "type": "patchouli:entity",
             "entity": "unusualfishmod:spindlefish",
             "scale": 0.8,
             "rotate": true,
-            "text": "È destinato a vivere una vita di raccolta di Pietre Scintillanti."
+            "text": "patchouli: entità\n\nunusualfishmod: spinafish\n\nÈ destinato a vivere una vita dedicata alla raccolta di pietre di Sparkstone."
         }
     ]
 }

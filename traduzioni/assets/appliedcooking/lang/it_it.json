@@ -1,9 +1,9 @@
 {
-    "block.appliedcooking.kitchen_station": "Stazione cucina",
-    "config.jade.plugin_appliedcooking.kitchen_station": "Stazione cucina",
-    "itemGroup.appliedcooking": "Cottura applicata",
-    "jade.appliedcooking:kitchen_station": "Connesso a %s in %s",
-    "jade.appliedcooking:offline": "Dispositivo offline",
+    "block.appliedcooking.kitchen_station": "Stazione di Cucina ME",
+    "config.jade.plugin_appliedcooking.kitchen_station": "Stazione di Cucina ME",
+    "itemGroup.appliedcooking": "Cucina pratica",
+    "jade.appliedcooking:kitchen_station": "Collegato a %s in %s",
+    "jade.appliedcooking:offline": "Dispositivo non attivo",
     "jade.appliedcooking:online": "Dispositivo online",
-    "tooltip.appliedcooking:kitchen_station.description": "Nodo di stazione che si connette ai reticoli di Applied Energistics 2."
+    "tooltip.appliedcooking:kitchen_station.description": "Nodo di stazione che si collega alle reti di Applied Energistics 2."
 }

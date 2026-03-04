@@ -1,0 +1,15 @@
+{
+    "gui.status.title": "Imposta il tuo stato",
+    "key.status_gui": "Interfaccia grafica per Open Status",
+    "message.status.change_status": "Non dimenticate di aggiornare il vostro stato.",
+    "message.status.do_not_disturb": "Non disturbare",
+    "message.status.incompatible_version": "La versione del tuo software non è compatibile con la versione del server.\n\nSi prega di installare la versione %s di %s.",
+    "message.status.mod_name": "Stato",
+    "message.status.neutral": "Senza stato",
+    "message.status.no_availability": "Non disponibile",
+    "message.status.no_sleep": "Senza sonno",
+    "message.status.open": "Apri",
+    "message.status.recording": "Registrazione",
+    "message.status.set_status": "Apri l'interfaccia grafica per gestire il tuo stato.",
+    "message.status.streaming": "Streaming"
+}

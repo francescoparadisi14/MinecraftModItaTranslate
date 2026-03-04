@@ -1,18 +1,18 @@
 {
-    "name": "Pufferfish",
+    "name": "Pesce pagliaccio",
     "category": "patchouli:fish",
     "icon": "minecraft:pufferfish",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li):moneta: 16$(li)§0🌼 §2Primavera§0 🔥 §6Estate§0 🍂 §4Autunno§0$(li)Acqua: Oceano$(li)Clima: Sereno$(li)Ora: Notte"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 16$(li)§0🌼 §2Primavera§0 🔥 §6Estate§0 🍂 §4Autunno§0$(li)Acqua: Oceano$(li)Tempo: Notte"
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:pufferfish",
             "scale": 0.8,
             "rotate": true,
-            "text": "Ha un buon modulo di abilità."
+            "text": "patchouli: entità\n\nminecraft: pesce puffer\n\nHa un ottimo mod per sviluppare le abilità."
         }
     ]
 }

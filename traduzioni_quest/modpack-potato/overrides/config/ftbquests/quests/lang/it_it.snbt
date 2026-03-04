@@ -1,497 +1,528 @@
 {
     "chapter.06D6C00D504BF8A8.title": "Applied Energistics 2",
-    "chapter.13E66880751F871B.title": "Secondo capitolo",
+    "chapter.13E66880751F871B.title": "Capitolo 2",
     "chapter.146CB13F0E6075DC.title": "Vampirismo",
-    "chapter.19F264284CD3DA7F.title": "Magazzino funzionale",
-    "chapter.22C20C1827FE6805.title": "Ingegneria Immersiva",
-    "chapter.249443E379CBC224.title": "Il semplice archivio di Tom",
-    "chapter.280B623FEEC99342.title": "Industriale Antecedente",
+    "chapter.19F264284CD3DA7F.title": "Archiviazione funzionale",
+    "chapter.22C20C1827FE6805.title": "Ingegneria immersiva",
+    "chapter.249443E379CBC224.title": "L'archiviazione semplice di Tom",
+    "chapter.280B623FEEC99342.title": "Prevenzione industriale",
     "chapter.3D120DE9DFA2C4B7.title": "Applied Energistics 2",
-    "chapter.3E7D92CADCCFB861.title": "Reattori estremi",
+    "chapter.3E7D92CADCCFB861.title": "Reattori ad alta potenza",
     "chapter.449CAC5A9ACC7526.title": "Psi",
-    "chapter.4625075C7CD0A659.title": "Tabella dei ricercati",
-    "chapter.47DD00170D38C18A.title": "Rete neural ostili",
-    "chapter.48EC561D880A51CA.title": "Powah",
+    "chapter.4625075C7CD0A659.title": "Tabella dei premi",
+    "chapter.47DD00170D38C18A.title": "Reti neurali ostili",
+    "chapter.48EC561D880A51CA.title": "Potere",
     "chapter.4BE7A0D4CC927D3B.title": "Industrializzazione moderna",
-    "chapter.4D4372B7AE791259.title": "Industriale Antecedente",
-    "chapter.4EBB2171D5A3AAAC.title": "Proibito e Arcano",
-    "chapter.5527F2EC38ED3C08.title": "I incantesimi di ferro",
+    "chapter.4D4372B7AE791259.title": "Prevenzione industriale",
+    "chapter.4EBB2171D5A3AAAC.title": "Proibito e Arcani",
+    "chapter.5527F2EC38ED3C08.title": "Gli incantesimi di Ferro",
     "chapter.561A5EA25FE966F5.title": "AE2",
     "chapter.59395B6806F2A98A.title": "Cataclisma",
-    "chapter.67EA3C934935FB5F.title": "Primo capitolo",
-    "chapter.6A8CE6EDDCA76FB3.title": "Ars Nouveau",
-    "chapter.6AEDA2F9BEB57759.title": "Ars Nouveau",
+    "chapter.5FC14B7D3606D064.title": "Mekanism: Fine della partita",
+    "chapter.67EA3C934935FB5F.title": "Capitolo 1",
+    "chapter.6A8CE6EDDCA76FB3.title": "Art Nouveau",
+    "chapter.6AEDA2F9BEB57759.title": "Art Nouveau",
     "chapter.70822E2C0141F612.title": "Consigli",
-    "chapter.745290F62A72C71C.title": "Powah",
-    "chapter.76DF5FAA7961E5E7.title": "I libri di incantesimi di ferro",
-    "chapter.7BD80211A645DA4F.title": "Rete di flussi",
-    "chapter.7D482754CF70EFFE.title": "Mekanism",
-    "chapter.7D53B2CB6E9CDF69.title": "Sophisticato",
+    "chapter.745290F62A72C71C.title": "Potere",
+    "chapter.76DF5FAA7961E5E7.title": "Gli scritti di Ferro",
+    "chapter.7BD80211A645DA4F.title": "Flux Networks",
+    "chapter.7D482754CF70EFFE.title": "Meccanismo",
+    "chapter.7D53B2CB6E9CDF69.title": "Sofisticato",
     "chapter_group.02360BD7BE383180.title": "Avventura",
     "chapter_group.1976ACA522BAF321.title": "Tecnologia",
     "chapter_group.1C25C38C9771266F.title": "Magia",
-    "chapter_group.22065BFB76D5CE39.title": "Basic",
-    "chapter_group.37096A782911CBAC.title": "Magazzino",
+    "chapter_group.22065BFB76D5CE39.title": "Di base",
+    "chapter_group.37096A782911CBAC.title": "Archiviazione",
     "quest.04D9F6587EF8D9B7.quest_desc": [
-        "Raccoglie pozioni"
+        "Negozio di prodotti per la cura personale"
     ],
     "quest.05024864BCD3A6B4.quest_desc": [
-        "Una macchina in grado di convertire i composti chimici nella loro forma liquida e viceversa"
+        "Una macchina in grado di trasformare sostanze chimiche nella loro forma liquida e viceversa."
     ],
     "quest.05F1E515A85BE975.quest_desc": [
-        "Dopo il tuo primo reattore di base, limitato da dimensioni, è ora il momento di costruire il tuo reattore rinforzato!",
+        "Dopo aver completato il tuo primo reattore di base, che ha delle limitazioni di dimensioni, è ora il momento di costruire il tuo reattore rinforzato!",
         "",
-        "Ps.: non è necessario utilizzare nulla come raffreddante. Il reattore estremo del reattore funziona bene senza un raffreddante, i raffreddanti sono stati creati esclusivamente per aumentare l'efficienza. Non genererà più Fe\/T."
+        "P.S.: Non è necessario utilizzare alcun liquido refrigerante. Il reattore di Extreme Reactor funziona perfettamente senza, i liquidi refrigeranti sono progettati esclusivamente per migliorare l'efficienza. Non genererà più FE\/t."
     ],
-    "quest.082D2D2910D9BD14.title": "Andare nel Nether",
+    "quest.082D2D2910D9BD14.title": "Vai nel Nether (o, più precisamente, nel Regno dei Morti)",
     "quest.0862CF78AFF35B1D.quest_desc": [
-        "Un paio di utili consigli per il tuo inizio, ma non solo"
+        "Ecco alcuni consigli utili, ma non solo, per iniziare:"
     ],
     "quest.086E7435DA8D6325.quest_desc": [
-        "Linea di sangue zealoita",
+        "Linea di sangue ZEALOT",
         "",
-        "La stirpe dei zeloti è abituata a una vita sotterranea e quindi subisce significativamente più danni solari. Tuttavia, hanno bisogno di bere meno sangue e possono minare più velocemente.",
+        "Gli Zealot sono abituati a vivere sottoterra, e di conseguenza subiscono danni da esposizione al sole molto maggiori. Tuttavia, hanno bisogno di bere meno sangue e possono estrarlo più velocemente.",
         "",
-        "Alcuni dei loro abilità sbloccabili includono:",
+        "Alcune delle abilità sbloccabili includono:",
         "",
-        "Consumatore di carne putrida, possono consumare carne putrida per sangue",
+        "Mangia Carne: Sono in grado di consumare carne putrefatta per ottenere sangue.",
         "",
-        "Passo d'ombra, teletrasporto tra aree oscurate",
+        "Passo nell'ombra, teletrasporto in aree oscure",
         "",
-        "Vestito oscuro, invisibilità presso i muri in aree buie",
+        ".Mantello scuro, invisibilità in prossimità delle pareti in ambienti bui",
         "",
-        "Scalata sul muro",
+        "Arrampicata su pareti",
         "",
-        "Esportazione sotterranea, movimento più veloce su materiali simili al marmo.",
+        ".Esportazione sotterranea, movimento più rapido su materiali simili a pietra.",
         "",
-        "Aggiungendo",
+        "ADESIONE",
         "",
-        "In profondità sottoterra nel bioma delle tenebre profonde ci sono strutture di santuario piccole. Al centro, c'è un altare. Come vampiro, creando e utilizzando un catalizzatore rituale del zealous sulla tomba, inizierà un rito che ti farà diventare un zealous"
+        "Profondamente sotto, nell'ambiente chiamato \"Deep Dark\", si trovano piccole strutture simili a santuari. Al centro, c'è un altare. Come vampiro, la creazione e l'utilizzo di un \"Catalizzatore di Rituale del Zealot\" su questo altare avvierà un rituale, che porterà alla trasformazione in Zealot."
     ],
-    "quest.086E7435DA8D6325.title": "Zealoto",
+    "quest.086E7435DA8D6325.title": "FANATICO",
     "quest.09A405780C30E854.quest_desc": [
-        "Linea di sangue dei cavalieri del sangue",
+        "BLOODKNIGHT: La stirpe",
         "",
-        "La stirpe dei Bloodknight sono una setta che si nutre principalmente del sangue fresco di altri vampiri. Come risultato, perdono sangue più lentamente, ma altre fonti di sangue non sono altrettanto nutrienti.",
+        "La stirpe dei Bloodknight si nutre principalmente del sangue fresco di altri vampiri. Di conseguenza, perdono il sangue più lentamente, ma altre fonti di sangue non sono altrettanto nutrienti.",
         "",
-        "Alcuni dei loro abilità sbloccabili includono:",
+        "Alcune delle abilità sbloccabili includono:",
         "",
-        "Consumi sangue giorno dopo giorno, ottenendo l'immunità al sole",
+        "Daywalker: Consuma continuamente il sangue, ma è immune al sole",
         "",
-        "Acqua stagnante, ottenere un grande quantità di sangue bevendo il vampa",
-        "Fiaschi di sangue",
+        ".Acqua calma, ottenere una grande quantità di sangue bevendo dal vampiro.",
+        "Bottiglie per il prelievo di sangue",
         "",
-        " Estrazione di sangue, estrarre bottiglie di sangue dei vampiri dai vampiri",
+        "Prelievo di sangue, raccolta di bottiglie di sangue da vampiri",
         "",
-        "Caccia al sangue, consuma costantemente il sangue, ma diventa invisibile",
+        "Caccia al sangue: Consuma continuamente sangue, ma diventa invisibile",
         "",
-        "Raccogliendo frenesia, bere sangue di vampiro temporaneamente ti dà potere.",
-        "Descrizione della missione",
+        ".Mangiare voracemente e bere il sangue di un vampiro vi conferisce temporaneamente poteri speciali.",
         "",
-        "Aggiungendo",
         "",
-        "Per diventare un cavaliere del sangue, devi creare e bere l'elisir nefasto. Campioni di sangue corrotti possono essere lasciati cadere dai vampiri quando vengono uccisi con una Heartstriker o Heartseeker, o possono essere trovati in scatole all'interno delle cripte dei vampiri. L'elisir applicherà molti effetti negativi per 30 secondi, ma se sopravvivi diventerai un cavaliere del sangue"
+        "ADESIONE",
+        "",
+        "Per diventare un Bloodknight, è necessario creare e consumare l'Elixir nefasto. I campioni di sangue corrotti possono essere ottenuti uccidendo i Vampiri con l'arma Heartstriker o Heartseeker, oppure possono essere trovati in forzieri all'interno delle tombe dei Vampiri. L'elixir avrà diversi effetti negativi per 30 secondi, ma se sopravviverai, diventerai un Bloodknight."
     ],
-    "quest.09A405780C30E854.title": "Bloodknight",
-    "quest.09F28FB71996BBBF.title": "Livello lupo mannaro 12",
+    "quest.09A405780C30E854.title": "Cavaliere del Sangue",
+    "quest.09F28FB71996BBBF.title": "Livello 12 di lupo mannaro",
     "quest.0ACE3F3E54D401FD.quest_desc": [
-        "Un macchinario abbastanza avanzato utilizzato per comprimere l'osmio in varie polveri al fine di creare i loro equivalenti in lingotto."
+        "Una macchina piuttosto avanzata, utilizzata per comprimere l'osmium in diverse polveri, al fine di ottenere le corrispondenti forme di lingotti."
     ],
-    "quest.0C4A2AE2C2496370.title": "Livello vampiro 14",
+    "quest.0C4A2AE2C2496370.title": "Vampiro, livello 14",
     "quest.0C6F27E1F2DB257C.quest_desc": [
-        "Una macchina utilizzata per triturare gli ingoti in corrispondenti polveri e eseguire molte altre operazioni."
+        "Una macchina utilizzata per ridurre le lingote in polvere, oltre a svolgere numerose altre operazioni."
     ],
     "quest.0CB60F1570381F80.quest_desc": [
-        "Linea nobiliare",
-        "Descrizione della missione",
+        "Linea di sangue nobile",
         "",
-        "La stirpe nobile dei vampiri è generalmente più fragile rispetto ad altri vampiri, prendono più danni e hanno meno salute. Tuttavia, la minaccia del sole e delle fiamme è meno pronunciata per loro.",
         "",
-        "Alcuni dei loro abilità sbloccabili includono:",
+        "Le \"Noble Bloodline\" sono generalmente più vulnerabili rispetto ad altri vampiri, subiscono più danni e hanno meno punti vita. Tuttavia, la minaccia del sole e del fuoco è meno significativa per loro.",
         "",
-        "Risentimento più lento, possono rimanere al sole per più tempo senza sentire gli effetti negativi.",
+        "Alcune delle abilità sbloccabili includono:",
         "",
-        "Semplicemente, consumando sangue direttamente dai mostri, otterranno più nutrimento.",
+        ". Sundamage più resistente al sole: possono rimanere esposti al sole per periodi più lunghi senza subire effetti negativi.",
         "",
-        "Volo più veloce dei pipistrelli",
+        "\"Delicatezza sanguigna: saranno in grado di ottenere maggiori nutrienti bevendo direttamente il sangue dalle creature\".",
         "",
-        "Calice infinito, consente l'accesso a un calice che può contenere enormi quantità di sangue.",
+        ".Volo più veloce delle pipistrelli",
         "",
-        "Intrigo e fiancheggia, aumenta il danno quando attacchi da dietro e l'abilità di teletrasportarti dietro creature che non ti vedono.",
-        "Descrizione della missione",
-        "Aggiungendo",
+        "Calice illimitato: permette di accedere a un calice in grado di contenere enormi quantità di sangue",
         "",
-        "Per diventare un nobile, deve essere già un signore vampiro di rango 2. Deve quindi creare un'iniezione lordslayer e trovare un barone vampiro. Campioni di sangue corrotto possono essere lasciati cadere dai vampiri quando vengono uccisi con un Heartstriker o Heartseeker, o possono essere trovati in scatole all'interno delle cripte dei vampiri che il barone vampiro deve essere portato a meno del 30% di salute e dovrebbe avere l'effetto debole applicato su di lui. Poi, attacca il barone con l'iniezione lordslayer per diventare un nobile."
+        ". Intrigo e manovra laterale: aumentano i danni quando si attacca da dietro e consentono di teletrasportarsi dietro le creature che non possono vederti.",
+        "",
+        "ADESIONE",
+        "",
+        "Per diventare un Noble, è necessario essere già un Signore Vampiro di livello 2. Successivamente, è necessario creare un \"Lordslayer\" e trovare un Barone Vampiro. I campioni di sangue corrotto possono essere ottenuti uccidendo i vampiri con l'arma \"Heartstriker\" o \"Heartseeker\", oppure possono essere trovati in casse all'interno delle cripti dei vampiri. Il Barone Vampiro deve essere ridotto al di sotto del 30% di salute, e deve avere applicato l'effetto \"Weakness\" su di lui. Quindi, attacca il Barone con l'arma \"Lordslayer\" per diventare un Noble."
     ],
-    "quest.0CB60F1570381F80.title": "Nobile",
-    "quest.0D5DA885A2A9518F.title": "Livello vampiro 9",
+    "quest.0CB60F1570381F80.title": "NOBBILE",
+    "quest.0D5DA885A2A9518F.title": "Vampiro, livello 9",
     "quest.0DCE22E0AC8CB4E1.quest_desc": [
-        "Devi posizionare i blocchi in questo modo, ogni \"\/\" rappresenta un piedistallo, e l'\"e\" è il dispositivo di incantesimo, il nucleo deve essere posto sotto lo strumento.",
+        "Dovrete posizionare i blocchi in questo modo: ogni simbolo \"\/\" rappresenta una base, e il simbolo \"E\" indica l'apparecchio magico. L'elemento centrale deve essere posizionato sotto l'apparecchio.",
         "",
-        "\/ \/ \/",
-        "\/e\/",
-        "\/ \/ \/"
+        "                    \/ \/ \/",
+        "                    \/ E \/",
+        "                    \/ \/ \/"
     ],
     "quest.0E8CCF973279D55E.quest_desc": [
-        "Un macchinario elitario in grado di elaborare minerali in quattro frammenti, servendo come stadio iniziale del trattamento dei minerali al 400%"
+        "Una macchina di livello superiore, in grado di trasformare i minerali in quattro frammenti, che rappresenta la prima fase di un processo di estrazione dei minerali con un aumento del 400%"
     ],
-    "quest.10115D83731485D8.title": "Livello vampiro 7",
+    "quest.0E8EB25FD7376785.quest_desc": [
+        "Ovviamente, sarà necessario trovare un luogo sicuro per conservare tutto quel rifiuto nucleare.",
+        "",
+        "\\&e\\&lPS.: Si, si degrada, ma molto lentamente, quindi tenetene conto. Sono piuttosto sicuro che non vorrete trasformare la vostra casa in un ambiente radioattivo."
+    ],
+    "quest.10115D83731485D8.title": "Vampiro, livello 7",
     "quest.10387D99D21FAB45.quest_desc": [
-        "Non può essere trovato. Ecco il tuo premio."
+        "Non si riesce a trovarlo. Quindi, ecco fatto."
     ],
-    "quest.12325A4D0E8D342E.title": "Livello lupo mannaro 11",
+    "quest.12325A4D0E8D342E.title": "Livello 11 di lupo mannaro",
     "quest.13F45CAFD93C7244.quest_desc": [
-        "Linea sanguigna ectotermica",
+        "La linea di sangue degli ectotermi",
         "",
-        "La discendenza ectotermica vive in freddo e acqua gelida. Sono più deboli nei confronti del fuoco e sono indeboliti in aree o biomi calde. Tuttavia, hanno una velocità di nuoto significativamente più alta e hanno più potere innato legato alla loro discendenza rispetto ad altre discendenze. Ciò include l'accesso al \"Signore del Ghiaccio\" come azione innata al rango 2, che viene ulteriormente migliorato dalle abilità.",
+        "La stirpe degli ectotermi vive in ambienti freddi e subacquei. Sono più vulnerabili ai danni da fuoco e subiscono un impatto maggiore nelle aree o negli ecosistemi caldi. Tuttavia, possiedono una velocità di nuoto significativamente più elevata e un potere innato legato alla loro stirpe superiore a quello delle altre stirpi. Ciò include l'accesso innato all'abilità \"Signore del Gelo\" al livello 2, che può essere ulteriormente potenziata tramite abilità.",
         "",
-        "Alcuni dei loro abilità sbloccabili includono:",
+        "Alcune delle abilità sbloccabili includono:",
         "",
-        "Il pescatore, il pesce crudo può essere mangiato per guadagnare sangue",
+        ".Venditore di pesce, il pesce crudo può essere consumato per ottenere sangue.",
         "",
-        "Salto del delfino, mentre si è in acqua, ottenere l'abilità di poterti spingere velocemente nella direzione in cui ti trovi, anche fuori dall'acqua.",
+        ". \"Delfino Salto: Mentre si è in acqua, si acquisisce la capacità di muoversi rapidamente nella direzione in cui si guarda, anche fuori dall'acqua.",
         "",
-        "Rifrazione, nessun danno solare mentre si è sott'acqua",
+        ".Rifrazione, senza danni causati dalla luce solare sott'acqua",
         "",
-        "Il Signore del Ghiaccio, mentre è attivo il Signore del Gelido, possono muoversi liberamente attraverso il ghiaccio.",
+        "\"Il Signore del Gelo, mentre il Signore del Gelo è attivo, può muoversi liberamente attraverso il ghiaccio\".",
         "",
-        "Controllo del gelo, mentre è attivo il Signore del Gelido, l'acqua può essere trasformata in ghiaccio.",
+        ".Control del gelo: mentre \"Lord of Frost\" è attivo, è possibile trasformare l'acqua in ghiaccio.",
         "",
-        "Aggiungendo",
+        "ADESIONE",
         "",
-        "Per diventare un ectotermo, devi creare e bere l'elisir congelante. Campioni di sangue congelati per la crafting di questo sono trovati uccidendo vampiri ectotermi utilizzando un Heartstriker o un Heartseeker. Gli ectotermi si possono trovare comunemente in biomi freddi. L'elisir congelante applicherà un effetto temporaneo, e se muori a causa del danno del sole mentre sei sommerso nell'acqua poco profonda e sotto l'effetto dell'elisir, diventerai un ectotermo."
+        "Per diventare un ectotermo, è necessario creare e consumare l'Elisir Congelante. I campioni di sangue di ectotermi possono essere ottenuti uccidendo i vampiri ectotermi utilizzando l'arma Heartstriker o Heartseeker. Gli ectotermi si trovano comunemente in ambienti freddi. L'Elisir Congelante applicherà un effetto temporaneo, e se muori a causa di danni da sole mentre sei immerso in acque poco profonde e sotto l'effetto dell'elisir, diventerai un ectotermo."
     ],
-    "quest.13F45CAFD93C7244.title": "Ectoterm",
+    "quest.13F45CAFD93C7244.title": "ECTOTERMICO",
     "quest.149C4E8DEE57B85D.quest_desc": [
-        "Quando metti per la prima volta un punto di flusso\/connettore\/controllatore a terra, dovresti creare la tua rete principale.",
-        "Nota che puoi creare reti private, protette e pubbliche."
+        "Quando si posiziona per la prima volta il punto di connessione\/presa\/controller a terra, è necessario creare la prima rete.",
+        "Tenete presente che è possibile creare reti private, sicure e pubbliche."
     ],
     "quest.14CAD7A9D5E44424.quest_desc": [
-        "Mettila accanto ai tuoi cassetti\/blocchi di archiviazione per collegarli a esso."
+        "Posizionalo accanto ai tuoi forni\/blocchi di stoccaggio per collegarlo."
     ],
     "quest.17118336957170C5.quest_desc": [
-        "Se desideri lasciare la setta lupo mannaro, devi ottenere un'iniezione strana cliccando con il pulsante destro su un lupo mannaro con una siringa vuota e quindi iniettare l'iniezione a te stesso su un tavolo di iniezione. L'effetto strano che ricevi ti purifica dallo stato di lupo mannaro dopo 100 secondi."
+        "Se desiderate abbandonare la fazione dei lupi mannari, dovete ottenere un \"Iniezione Misteriosa\" facendo clic con il tasto destro su un lupo mannaro e poi iniettandola su un tavolo di iniezione. L'effetto misterioso che otterrete vi libererà dalla condizione di lupo mannaro dopo 100 secondi."
     ],
     "quest.19D02325579F2AA8.quest_desc": [
-        "Genera fonte consumando oggetti combustibili vicini.",
-        "I tronchi di archwood generano un fonte di bonus, con l'archwood in fiamme che genera il maggior numero."
+        "Genera risorse consumando materiali combustibili nelle vicinanze.",
+        "I tronchi di archwood generano una fonte di bonus, in particolare quelli di archwood, che ne generano il maggior numero."
     ],
-    "quest.19D562FBE27D2438.title": "Costruzione di bastone",
-    "quest.1BCAD6E2D62C33CD.title": "Livello lupo mannaro 9",
+    "quest.19D562FBE27D2438.title": "Bastone per la costruzione",
+    "quest.1AA392744B8697CF.quest_desc": [
+        "Quando raffreddate il vostro reattore a fissione con l'acqua, otterrete una quantità enorme di vapore. Potreste utilizzarlo per alimentare una turbina Mekanism! È piuttosto potente e produce una grande quantità di energia al secondo."
+    ],
+    "quest.1BCAD6E2D62C33CD.title": "Livello 9 di lupo mannaro",
     "quest.1CFD1822C190A34B.quest_desc": [
-        "Un generatore che utilizza le varie sostanze gassose molecolari per produrre energia."
+        "Un generatore che sfrutta le diverse molecole presenti nei gas per produrre energia."
     ],
-    "quest.1D2A89FE1253C115.title": "Livello vampiro 10",
-    "quest.1E2E292B63E33932.title": "Livello lupo mannaro 5",
+    "quest.1D2A89FE1253C115.title": "Vampiro, livello 10",
+    "quest.1E2E292B63E33932.title": "Livello 5 di lupo mannaro",
     "quest.20559953E51CEEDC.quest_desc": [
-        "Utilizza substrato, ossigeno e etene liquido nella camera di reazione a pressione per essere prodotto"
+        "Utilizza substrato, ossigeno e etilene liquido nella camera di reazione pressurizzata per la produzione di…"
     ],
     "quest.227DBA8836021B0B.quest_desc": [
-        "Assorbirà la font da un collegamento di fonte vicino"
+        "Sarà in grado di ottenere dati da una fonte di dati vicina."
     ],
-    "quest.236D3250A2D010C8.title": "Orb energetico",
+    "quest.236D3250A2D010C8.title": "Sfera energetica",
+    "quest.2551235541EBBF8F.quest_desc": [
+        "Avrete bisogno di entrambi affinché possiate trasformare i rifiuti nucleari in polonio e plutonio."
+    ],
     "quest.278B232BABB2AFF4.quest_desc": [
-        "A partire da questo livello, sarà necessario utilizzare l'altare dell'infusione. Come nei livelli precedenti, l'altare è già pronto nel nostro villaggio. È possibile ottenere cuori uccidendo cacciatori sparsi per la mappa."
+        "A partire da questo livello, sarà necessario utilizzare il Altare dell'Infusione. Come nei livelli precedenti, l'altare è già presente nel nostro villaggio. Potrete ottenere Cuori uccidendo i cacciatori presenti sulla mappa."
     ],
-    "quest.278B232BABB2AFF4.title": "Livello vampiro 5",
+    "quest.278B232BABB2AFF4.title": "Vampiro, livello 5",
     "quest.27F94A36BBC942E8.quest_desc": [
-        "Questo strumento viene utilizzato per aggiungere o rimuovere qualsiasi cassetto da un controllore di archiviazione specifico."
+        "Questo strumento viene utilizzato per aggiungere o rimuovere qualsiasi cassetto da un determinato controller di archiviazione."
     ],
     "quest.295C77EEC89000FC.quest_desc": [
-        "Generare fonti da morte di mostri vicini e allevamento di animali.",
-        "Inoltre, il collegamento di origine vitale genererà fonti passive da animali neonati vicini e accelererà la loro crescita."
+        "Generare risorse da fonti come la morte di animali e l'allevamento.",
+        "Inoltre, il collegamento alla fonte vitale genererà fonti passive provenienti da piccoli animali nelle vicinanze e accelererà la loro crescita."
     ],
     "quest.2A6319C07BE13042.quest_desc": [
-        "Questo consente il ricarica senza fili, è molto utile."
+        "Questo permette la ricarica wireless, ed è molto utile."
     ],
     "quest.2AD04E51C05D7440.quest_desc": [
-        "Un semplice macchinario utilizzato per arricchire i minerali in due dei loro equivalenti polvere.",
+        "Un macchinario semplice utilizzato per trasformare i minerali in due forme di polvere.",
         "",
-        "Può aiutarti anche a ottenere materiali arricchiti, che sono modi migliori per utilizzare l'infusore."
+        "Può anche aiutarvi a ottenere materiali più pregiati, che rappresentano un modo migliore per utilizzare il filtro."
     ],
-    "quest.2AD499199B0112D0.title": "Livello lupo mannaro 14",
+    "quest.2AD499199B0112D0.title": "Livello 14 di lupo mannaro",
     "quest.2B54D7A144959E95.quest_desc": [
-        "Non può essere trovato. Ecco il tuo premio."
+        "Non si riesce a trovarlo. Quindi, ecco fatto."
     ],
-    "quest.2B54D7A144959E95.title": "Andare nella città antica",
+    "quest.2B54D7A144959E95.title": "Visita la città antica",
     "quest.2B65EAF8B757C86A.quest_desc": [
-        "Usa il trucco di ebano e avorio su uno di questi per trasformarlo. Devi essere nell'End."
+        "Utilizza la tecnica di \"Ebony \\& Ivory\" su uno di questi oggetti per trasformarlo. Devi trovarti nella fase finale."
     ],
     "quest.2C9129D86B8CC358.quest_desc": [
-        "Questo \"connettore wireless di base\" non è veramente un connettore wireless. Ti consente solo di cliccare sul terminale da una distanza maggiore."
+        "Questo \"connettore\" wireless di base non è realmente un connettore wireless. Semplicemente consente di accedere al terminale situato in una posizione più distante."
     ],
     "quest.2CF31C8DB72A3DA2.quest_desc": [
-        "Un macchinario avanzato che elabora un miscela solida, liquida e chimica e crea sia un prodotto chimico che solido."
+        "Una macchina avanzata in grado di elaborare una miscela di solidi, liquidi e sostanze chimiche, producendo sia un prodotto chimico che solido."
     ],
     "quest.2D0CF18C8B2ABB7D.quest_desc": [
-        "Colloccalo vicino a un campo di coltivazione e genererà una fonte",
+        "Posizionalo vicino a un'azienda agricola e produrrà energia.",
         "",
-        "Nota: l'utilizzo dei pasti ossei non genera fonti."
+        "\\&e\\&lNOTA: L'UTILIZZO DI POLVERI OSSOSI NON PRODUCE FONTI."
     ],
     "quest.2D5766F40471C6F1.quest_desc": [
-        "Ulteriori avventure in arrivo presto"
+        "Nuovi incarichi in arrivo"
     ],
     "quest.2F625AAB296C29B2.quest_desc": [
-        "Se non vuoi più essere un vampiro, devi trovare o creare un altare di purificazione e interagirvi con esso. Lì morirai per lasciare la frazione, a meno che non tenga un totem dell'immortalità o gioca in un mondo hardcore."
+        "Se non desiderate più essere un vampiro, dovrete trovare o creare un Altare di Purificazione e interagire con esso. In questo modo, morirete per lasciare la fazione, a meno che non possiate un Talismano dell'Immortalità o giocate in un mondo hardcore."
     ],
-    "quest.3359C43884ED53F5.title": "Livello lupo mannaro 7",
+    "quest.3359C43884ED53F5.title": "Livello 7 di lupo mannaro",
     "quest.33C7179B81C3CD92.quest_desc": [
-        "Per livellare come lupo mannaro avrai bisogno di 3 cose. Ossa, fegati e danni subiti.",
+        "Per trasformarsi in un lupo mannaro, avrai bisogno di 3 cose: ossa, fegli e danni inflitti.",
         "",
-        "Danni subiti significa la somma della salute massima di tutti i mostri uccisi",
-        "Il progresso viene tracciato nel menu vampirismo",
+        "\\&e\\&l.I danni subiti equivalgono alla somma della massima salute di tutti gli esseri creati.",
+        "E L. I progressi vengono monitorati nel menu \"Vampirismo\".",
         "",
-        "Ossicini crepati sono lasciati cadere dai lupo mannari e dalle scheletri",
+        "\\&e\\&l. Le ossa rotte vengono rilasciate dai lupi mannari e dagli scheletri.",
         "",
-        "I cuori sono caduti dai lupo mannari e dagli abitanti"
+        "I \"Livers\" vengono raccolti da lupi mannari e abitanti dei villaggi.",
+        "",
+        "E poi, tenendo in mano un pietra focaia e un acciarino, cliccare con il tasto destro sull'altare."
     ],
-    "quest.33C7179B81C3CD92.title": "Livello lupo mannaro 2",
+    "quest.33C7179B81C3CD92.title": "Livello 2 di lupo mannaro",
     "quest.34696F561B1AA768.quest_desc": [
-        "Non può essere trovato. Ecco il tuo premio."
+        "Non si riesce a trovarlo. Quindi, ecco fatto."
     ],
     "quest.34DD916B994D1D7A.quest_desc": [
-        "Dovrai utilizzare l'altare dell'ispirazione per aumentare il tuo livello, dovrai posizionare sangue all'interno di esso, quindi premi Shift + destro clic con la mano vuota. Per ottenere sangue, puoi semplicemente estrarre sangue dai tuoi vittime utilizzando un bottiglia di vetro nella tua mano.",
-        "Ci sono un altare nel centro del nostro villaggio"
+        "Per aumentare di livello, dovrai utilizzare l'Altare dell'Ispirazione. Dovrai quindi versare del sangue nell'altare, quindi premere il tasto SHIFT e fare clic con il pollice. Per ottenere il sangue, dovrai semplicemente raccogliere il sangue dalle tue vittime utilizzando una bottiglia.",
+        "C'è un altare al centro del nostro villaggio."
     ],
-    "quest.34DD916B994D1D7A.title": "Livello vampiro 2",
-    "quest.3655E6F4EDFEC7DE.title": "Raccogli uranite",
-    "quest.36C5F4C6AC02B263.title": "Impianto dielettrico",
+    "quest.34DD916B994D1D7A.title": "Vampiro, livello 2",
+    "quest.3655E6F4EDFEC7DE.title": "Raccogliere Uranite",
+    "quest.36C5F4C6AC02B263.title": "Guscio dielettrico",
     "quest.36DBD523EB602978.quest_desc": [
-        "Lascia cadere qualsiasi quantità di risonanza sulla roccia base, metti un blocco di ossidiana uno blocco sopra la roccia base, fai clic destro sull'ossidiana."
+        "Versare qualsiasi quantità di redstone sopra una piattaforma di roccia, posizionare un blocco di ossidiana uno spazio sopra la piattaforma di roccia, fare clic sinistro sul blocco di ossidiana."
     ],
     "quest.3808F9088A719C6A.quest_desc": [
-        "Può essere creata presso la macina, utilizzando quasi qualsiasi risorsa biologica."
+        "Può essere prodotto presso la discarica, utilizzando quasi qualsiasi risorsa biologica."
     ],
     "quest.38D935EBF17C1A62.quest_desc": [
-        "Lancia solo l'assemblaggio di oro Cad e utilizza l'infusione su di esso."
+        "Semplicemente, usa l'assemblaggio del tuo Cad d'oro e applica l'abilità Infusion."
     ],
     "quest.3C4B9A3A8DFC8F98.quest_desc": [
-        "Il controllore di archiviazione può essere utilizzato per collegare più cassetti."
+        "Il controller di archiviazione può essere utilizzato per collegare più cassetti."
     ],
     "quest.3C9B052F308DBB2F.quest_desc": [
-        "Questo cassetto funziona come si dice nel nome, comprimendo i tuoi oggetti. Ad esempio, puoi mettere un ingoto di ferro lì, quindi lo storerà come nugget di ferro, ingoto di ferro e blocco di ferro allo stesso tempo."
+        "Questo cassetto funziona, come suggerisce il nome, comprimendo i tuoi oggetti. Ad esempio, se inserisci un lingotto di ferro, il cassetto lo conserverà come un singolo lingotto di ferro, un lingotto di ferro e un blocco di ferro contemporaneamente."
     ],
     "quest.3D862A3D3F83CA26.quest_desc": [
-        "L'apparecchio incantatorio è utilizzato per creare vari oggetti all'interno del modulo. richiede fonti per funzionare.\n\nInoltre, è anche una struttura a blocchi 3D che utilizza piedistalli arcani per creare.\n\nInizia collocando un nucleo arcano nel terreno, quindi collocare l'apparecchio incantatorio sopra di esso. Circonda l'apparecchio con piedistalli arcani."
+        "L'\"Enchanting Apparatus\" (indicato con \"\\&9\") viene utilizzato per creare diversi oggetti all'interno del mod. Richiede la presenza di Source per funzionare.\n\nSi tratta anche di una struttura a più blocchi che utilizza gli Arcane Pedestals per la creazione.\n\nInizi posizionando un Arcane Core nel terreno, quindi posiziona l'\"Enchanting Apparatus\" sopra di esso. Circonda l'apparecchio con gli Arcane Pedestals."
     ],
     "quest.3D8FF9D7D3776B48.quest_desc": [
-        "Una volta raggiunto il livello più alto della tua frazione, puoi farti un nome e diventare un signore vampiro o cacciatore rispettivamente.",
-        "Come un signore, sei in grado di ottenere e controllare i minacci. Per diventare un signore, devi soddisfare una certa richiesta per la tua fazione. Puoi accettarla e completarla presso qualsiasi rappresentante vampiro\/cacciatore.",
-        "Possono essere trovati nei villaggi della tua fazione."
+        "Una volta raggiunto il livello più alto all'interno della vostra fazione, potrete distinguervi e diventare rispettivamente un signore o un cacciatore di vampiri.",
+        "Come signore, è possibile ottenere e controllare servitori. Per diventare signore, è necessario completare un determinato compito per la propria fazione. Questo compito può essere accettato e completato presso qualsiasi rappresentante di vampiri o cacciatori.",
+        "Possono essere trovati nei villaggi della vostra fazione."
     ],
-    "quest.3D8FF9D7D3776B48.title": "Signore vampiro",
-    "quest.408FCA77AC4BC545.title": "Livello vampiro 3",
+    "quest.3D8FF9D7D3776B48.title": "Signore dei Vampiri",
+    "quest.408FCA77AC4BC545.title": "Vampiro, livello 3",
     "quest.40B40EEC60DE735E.quest_desc": [
-        "Questo strumento viene utilizzato per modificare molte configurazioni. Puoi premere Shift + destro clic guardando verso l'aria per cambiare modalità."
+        "Questo strumento viene utilizzato per modificare numerose impostazioni. È possibile utilizzare la combinazione di tasti SHIFT + click destro, puntando verso l'aria, per cambiare le modalità."
     ],
     "quest.4131594535787BFF.quest_desc": [
-        "Dopo aver diventato un signore, avrai alcune opzioni."
+        "Una volta che avrete ottenuto il titolo di nobile, avrete diverse opzioni a disposizione."
     ],
     "quest.41A0BE357C8A74E1.quest_desc": [
-        "Genera fonti consumando pozioni dalle bottiglie di pozioni adiacenti.",
-        "La quantità di sostanza varia a seconda del potione e dipende dalla complessità del potione.",
-        "La fonte di bonus viene data per la lunghezza e il livello della pozione, con moltiplicatori per ogni effetto contenuto in una pozione."
+        "Genera risorse consumando pozioni provenienti da barattoli adiacenti.",
+        "La quantità di ingredienti varia a seconda della pozione e dipende dalla sua complessità.",
+        "La fonte di bonus è determinata in base alla lunghezza e al livello della pozione, con moltiplicatori per ogni effetto che la pozione contiene."
     ],
     "quest.4231F11F58258FE3.quest_desc": [
-        "Il connettore di flusso raccoglierà energia dal generatore di energia selezionato nella rete scelta."
+        "Il dispositivo Flux preleverà energia dal tuo generatore e la trasmetterà alla rete selezionata."
     ],
-    "quest.42AFA73ED8EF8ABC.title": "Diventare un lupo mannaro",
-    "quest.45C49C9E0F344926.title": "Armadura di ferro",
+    "quest.42AFA73ED8EF8ABC.title": "Trasformati in un lupo mannaro",
+    "quest.4488D58A3F9EBA59.quest_desc": [
+        "Dovrete produrre il combustibile fissile per utilizzarlo.",
+        "",
+        "Intendo dire, se volete capire come ottenere il combustibile fissile, potete cercare informazioni su JEI. Se siete arrivati fino a questo punto, dovreste avere già abbastanza capacità di comprensione.",
+        "",
+        "E buona fortuna!"
+    ],
+    "quest.45C49C9E0F344926.title": "Armatura in ferro",
     "quest.46D25EC5D4D44E11.quest_desc": [
-        "Raccogli cristallo di quartzo Certus"
+        "Raccogliere cristalli di quarzo Certus"
     ],
-    "quest.46D25EC5D4D44E11.title": "Raccogli cristallo di Certus",
+    "quest.46D25EC5D4D44E11.title": "Raccogliere Quarzo Certus",
     "quest.49F9F7BD831AF568.quest_desc": [
-        "Fontana d'acqua infinita"
+        "Fonte d'acqua illimitata"
     ],
-    "quest.4A555EA8AA2C796E.title": "Livello lupo mannaro 3",
-    "quest.4AF7775D29F29951.title": "Diventare un vampiro",
+    "quest.4A555EA8AA2C796E.title": "Livello 3 di lupo mannaro",
+    "quest.4AF7775D29F29951.title": "Diventa un vampiro",
     "quest.4B458FE76969774B.quest_desc": [
-        "Puoi ottenere sangue puro uccidendo signori vampiri nel loro bioma.",
-        "I signori hanno diversi livelli (1-5) e li lasciano cadere rispettivamente il loro sangue di purezza."
+        "È possibile ottenere sangue puro uccidendo i signori dei vampiri nel loro ambiente naturale.",
+        "I signori hanno diversi livelli (1-5) e rilasciano il loro corrispondente \"sangue puro\"."
     ],
-    "quest.4B458FE76969774B.title": "Livello vampiro 6",
+    "quest.4B458FE76969774B.title": "Vampiro, livello 6",
     "quest.4C884A03B5C43E5E.quest_desc": [
-        "Collo un segnalatore accanto al tuo sistema di archiviazione semplice per poter utilizzare questo."
+        "Posiziona un dispositivo di segnalazione vicino al tuo sistema di archiviazione per poterlo utilizzare."
     ],
     "quest.4CD8EE82886ADE1D.quest_desc": [
-        "Mettilo questo in connessione con un lato di un connettore dell'inventario."
+        "Collega questo dispositivo a uno dei lati dell'Inventory Connector."
     ],
     "quest.4DC764EED629D2DC.quest_desc": [
-        "Funziona esattamente come un cassettone delle dimensioni ultimate."
+        "Funziona esattamente come un baule di Ender."
     ],
     "quest.4E0DD2B829A426F8.quest_desc": [
-        "Un macchinario avanzato in grado di elaborare minerali in tre gruppi, rappresentando la prima fase del trattamento dei minerali al 300%.",
+        "Una macchina avanzata in grado di trasformare i minerali in tre formazioni, rappresentando la prima fase di un processo di estrazione dei minerali del 300%.",
         "",
-        "Usa l'ossigeno prodotto nello separatore elettrolitico utilizzando acqua"
+        "Utilizza l'ossigeno prodotto all'interno del separatore elettrolitico, ottenuto dall'acqua."
     ],
     "quest.4EC310B147473D11.quest_desc": [
-        "Il blocco che utilizzi per creare il tuo CAD, utilizzando l'assemblaggio del CAD più alcuni oggetti opzionali."
+        "Il software che utilizzi per creare i tuoi progetti CAD, insieme a eventuali componenti aggiuntivi."
     ],
-    "quest.501476630742E4C5.title": "Livello vampiro 8",
+    "quest.501476630742E4C5.title": "Vampiro, livello 8",
+    "quest.504257900FC36116.quest_desc": [
+        "Per attivare il vostro reattore di fusione, avrete bisogno di combustibile D-T. Avrete bisogno di queste due macchine per produrlo."
+    ],
     "quest.50BB5858F60E0264.quest_desc": [
-        "Crea un campo e colloca il collegamento del fonte vicino a esso, collocare la giara del fonte vicino a esso e utilizzare la bacchetta del dominio per stabilire il collegamento."
+        "Crea una fattoria e posiziona il link alla fonte nelle vicinanze. Posiziona il contenitore della fonte vicino e utilizza il \"Dominion Wand\" per collegarli."
     ],
     "quest.51D8CB90A0245FC1.quest_desc": [
-        "Utilizza idrogeno e acqua come biocombustibile nel serbatoio di reazione a pressione per essere prodotto."
+        "Utilizza biocarburanti, idrogeno e acqua nella camera di reazione pressurizzata per la produzione di…"
     ],
-    "quest.524FCB81A8A62310.title": "Livello vampiro 4",
-    "quest.525880B905CBF781.title": "Livello vampiro 13",
-    "quest.529A64F92B8DAD6E.title": "Livello lupo mannaro 10",
-    "quest.53C8DF9E8AAB0AB9.title": "Livello lupo mannaro 13",
+    "quest.524FCB81A8A62310.title": "Vampiro, livello 4",
+    "quest.525880B905CBF781.title": "Vampiro, livello 13",
+    "quest.529A64F92B8DAD6E.title": "Livello 10 di lupo mannaro",
+    "quest.53C8DF9E8AAB0AB9.title": "Livello 13 di lupo mannaro",
     "quest.53ECBCFBF5C97C96.quest_desc": [
-        "Una macchina che utilizza l'elettrolisi per dividere un certo fluido in due diversi composti chimici."
+        "Una macchina che utilizza l'elettrolisi per separare un determinato fluido in due sostanze chimiche diverse."
     ],
     "quest.5766C8B9E850C186.quest_desc": [
-        "Collociare il lapislazzulo qui e genererà gemme di origine"
+        "Posizionate la pietra lapis lazuli qui, e verrà generata una pietra grezza."
     ],
     "quest.57C294A5CFE4CF49.quest_desc": [
-        "Puoi cliccare destro su qualsiasi mostro compatibile utilizzando il framework di modelli. Sarà trasformato in un modello dal mostro specifico sul quale hai cliccato con il pulsante destro del mouse.",
+        "È possibile fare clic con il pulsante destro del mouse su qualsiasi entità compatibile utilizzando il Model Framework. Questo la trasformerà in un modello specifico, basato sull'entità su cui è stato fatto clic.",
         "",
-        "Apri il tuo apprendente profondo, inserisci quel modello dentro il tuo apprendente profondo, quindi uccidi quel mostro almeno fino a quando il tuo modello non sarà difettoso."
+        "Attiva il tuo sistema di apprendimento profondo, inserisci quel modello al suo interno, e poi elimina quel gruppo di dati almeno finché il tuo modello non diventa inutilizzabile."
     ],
-    "quest.584089F815C61833.title": "Livello vampiro 12",
+    "quest.584089F815C61833.title": "Vampiro, livello 12",
     "quest.58505D698B7A113D.quest_desc": [
-        "Un minerello avanzato, basato su filtro, in grado di estrarre qualsiasi blocco che gli si indichi all'interno di un raggio massimo di 32 unità."
+        "Un sistema avanzato, basato su filtri e automatizzato, in grado di estrarre qualsiasi blocco all'interno di un raggio di 32 (o più) unità."
     ],
     "quest.5A6C2BC5352B2B0E.quest_desc": [
-        "Versione arricchita del risonanza più economica per l'infusione nel macchinario di infusione."
+        "Versione migliorata di Redstone, più economica da utilizzare nella macchina di infusione."
     ],
     "quest.5ADE1C64EC864DC9.quest_desc": [
-        "Un semplice macchinario che funge da forno basato su Mekanism, alimentato da energia"
+        "Un dispositivo semplice che funge da meccanismo per alimentare un forno, alimentato da energia."
     ],
     "quest.5CB72F970DD73BB3.quest_desc": [
-        "Qualsiasi domanda, guardare il codice manoscritto logoro"
+        "Avete domande? Consultate Tattered Tome."
     ],
     "quest.5EB0CF9F8F6E7604.quest_desc": [
-        "Un macchinario finale utilizzato per cristallizzare in cristalli di minerale la melma di minerale purificata."
+        "Una macchina all'avanguardia progettata per cristallizzare una sospensione di minerale purificato in cristalli di minerale."
     ],
     "quest.601540CF636DC82C.quest_desc": [
-        "Raccomando di ottenerne uno, sarà utile nel tuo viaggio."
+        "La consiglio vivamente, sarà molto utile durante il vostro viaggio."
+    ],
+    "quest.6555BD917B2D726F.quest_desc": [
+        "Questo è ciò di cui avrete bisogno per trasformare sia il polonio che il plutonio in pellet."
     ],
     "quest.65755255C5DEF788.quest_desc": [
-        "Realizzato nella camera di arricchimento utilizzando 3 HDPE"
+        "Prodotto nella camera di arricchimento utilizzando 3 strati di HDPE."
     ],
-    "quest.6C2EE70FBB9275C3.title": "Livello vampiro 11",
+    "quest.69D67B76B2F95012.quest_desc": [
+        "Inoltre, sarà necessario caricare un potente laser per attivare il reattore."
+    ],
+    "quest.6C2EE70FBB9275C3.title": "Vampiro, livello 11",
     "quest.6E0E13806F388D7E.quest_desc": [
-        "Qualsiasi domanda sul modulo, guardare il libro"
+        "Per qualsiasi domanda riguardo al mod, consultate il manuale."
     ],
     "quest.6E67538B6F6BD4E8.quest_desc": [
-        "Versione arricchita di diamante, più economica per l'infusione nel macchinario di infusione."
+        "Versione migliorata del Diamond, più economica per l'utilizzo nella macchina di infusione."
     ],
     "quest.7058445743B500B6.quest_desc": [
-        "Ecco, sai la classe di matematica che hai sempre pensato fosse inutile e che non avresti mai utilizzato nella tua vita. Be', ti sbagliavi"
+        "Quindi... Ricordi la lezione di matematica che pensavi fosse inutile e che non avresti mai mai utilizzato nella tua vita? Beh, eri in errore."
     ],
-    "quest.70B12626EED16A99.title": "Livello lupo mannaro 6",
+    "quest.70B12626EED16A99.title": "Livello 6 di lupo mannaro",
     "quest.70DD5E133C8E9A75.quest_desc": [
-        "Cassetto di archiviazione per oggetti base. Può essere 1x1, 1x2 o 2x2."
+        "Cassetti per lo stoccaggio di oggetti di base. Disponibili nelle dimensioni 1x1, 1x2 o 2x2."
     ],
     "quest.72DEA812CBA39A04.quest_desc": [
-        "Dovresti non trasformarlo in un cadavere."
+        "Non dovresti trasformarlo in un file CAD."
     ],
     "quest.74EECD0425992124.quest_desc": [
-        "Versione arricchita del carbone, più economica per l'infusione nel macchinario di infusione"
+        "Versione migliorata del carbone, più economica per l'utilizzo nella macchina di infusione."
     ],
     "quest.752A6586719B6F39.quest_desc": [
-        "Ssshhh..."
+        "Silenzio."
     ],
     "quest.75A078AAC483B30B.quest_desc": [
-        "I punti di flusso raccoglieranno l'energia da una rete selezionata e la distribuiranno poi a qualsiasi cavo energetico vicino e\/o a qualsiasi blocco che accetta FE."
+        "Il dispositivo Flux Point raccoglierà l'energia da una rete selezionata e la distribuirà a qualsiasi cavo o blocco nelle vicinanze che accetta energia FE (Field Energy)."
     ],
     "quest.75CED31F4266B76D.quest_desc": [
-        "Ora che già hai il tuo modello, ti basta metterlo dentro questa macchina, non dimenticare di mettere anche alcuni matrici di previsione lì."
+        "Ora che hai già il tuo modello, devi semplicemente inserirlo in questa macchina. Non dimenticare di aggiungere anche alcune matrici di previsione."
     ],
     "quest.7633B66DF5D408A3.quest_desc": [
-        "Cassetto di archiviazione oggetti, ma questa è una versione personalizzabile. Puoi scegliere qualsiasi blocco per la sua apparenza."
+        "Cassetto per lo stoccaggio degli oggetti, ma questa è una versione personalizzabile. È possibile scegliere qualsiasi elemento per la sua estetica."
     ],
     "quest.76CCCBB319768A18.quest_desc": [
-        "Versione arricchita dell'ossidiano raffinato, più economica per l'utilizzo nella macchina di infusione."
+        "Versione migliorata di Refined Obsidian, più economica per l'utilizzo nella macchina di infusione."
     ],
     "quest.76E9F136FD9A5F51.quest_desc": [
-        "avrai bisogno di molti barre di grafite per creare reattori potenti utilizzando reattori estremi."
+        "Avrete bisogno di un gran numero di barre di grafite per costruire reattori potenti utilizzando il modulo \"Extreme Reactors\"."
     ],
     "quest.77145113CD5B26FB.quest_desc": [
-        "Genera fonte da cibo vicino.",
-        "Generando più da alimenti più nutrizionali.",
+        "Genera ricette a partire dagli ingredienti disponibili.",
+        "Ottenere il massimo da alimenti più nutrienti.",
         "",
-        "Nota: il cibo di frutta proveniente da fonti è molto più valioso rispetto ad altri alimenti banali."
+        "\\&e\\&lNOTA: I frutti selvatici sono molto più preziosi rispetto ad altri alimenti comuni."
     ],
     "quest.775F5DD72FC76EED.quest_desc": [
-        "Un macchinario utilizzato per infondere vari materiali in metalli per creare leghe metalliche e composti chimici."
+        "Una macchina utilizzata per infondere diversi materiali (generalmente metalli) per creare leghe metalliche e altri composti."
     ],
-    "quest.78B425A52825B02F.title": "Livello lupo mannaro 4",
+    "quest.78B425A52825B02F.title": "Livello 4 di lupo mannaro",
     "quest.78D7156DE2CCFBA6.quest_desc": [
-        "utilizza quantità estreme di calore per elaborare certi elementi"
+        "Utilizza temperature estremamente elevate per la lavorazione di alcuni elementi."
     ],
     "quest.79F4A3A20B23D30A.quest_desc": [
-        "Lo stesso di un vampiro, dovrai ottenere un villaggio lupo mannaro là dove incontrerai il rappresentante del lupo mannaro.",
+        "Come per un vampiro, dovrai trovare un villaggio di lupi mannari, dove incontrerai il rappresentante dei lupi mannari.",
         "",
-        "Il rappresentante lupo mannaro offrirà il compito \"Sei degno?\" per diventare un signore. Per completare questo compito, è necessario...",
+        "Il rappresentante dei lupi mannari offrirà l'incarico \"Siete degni?\". Per completare questo incarico, dovete",
         "",
-        "Uccidi 10 cacciatori",
+        "Uccidere 10 cacciatori",
         "Uccidi 10 vampiri",
-        "Hai bisogno di 2 denti di lupo",
-        "Hai bisogno di 32 lingotti d'oro",
-        "Vincere 3 raid dei villaggi (attacchi\/difesa)"
+        "Ho due denti da lupo mannaro.",
+        "Possiedo 32 lingotti d'oro.",
+        "Vinci 3 attacchi e difese contro i villaggi."
     ],
-    "quest.79F4A3A20B23D30A.title": "Signore lupo mannaro",
-    "quest.7A5930897DD1C150.title": "Livello lupo mannaro 8",
+    "quest.79F4A3A20B23D30A.title": "Signore dei lupi mannari",
+    "quest.7A5930897DD1C150.title": "Livello 8 di lupo mannaro",
     "quest.7AA157B612762E49.quest_desc": [
-        "Stoccaggio di fluido di base. Può essere 1x1, 1x2 o 2x2."
+        "Stoccaggio di fluidi di base. Può essere di dimensioni 1x1, 1x2 o 2x2."
     ],
     "quest.7B290879D7E8164D.quest_desc": [
-        "Usa per creare un gioiello di fonte, basta mettere una lazurite."
+        "Utilizzare per creare la gemma originale, basta inserire un pezzo di lapislazzuli."
     ],
     "quest.7C4AD00D10AF062C.quest_desc": [
-        "Ovviamente, ma hai bisogno di inserire la tua predizione su un mostro prodotta dalla camera di simulazione in questo macchinario.",
+        "È piuttosto ovvio, ma è sufficiente inserire all'interno di questa macchina la previsione relativa al comportamento dei gruppi, prodotta dalla Camera di Simulazione.",
         "",
-        "ps.: in un sistema automatizzato, un produttore di bottini di simulazione potrebbe facilmente occupare 5 camere di simulazione."
+        "P.S.: In un sistema automatizzato, un singolo \"Loot Fabricator\" potrebbe facilmente gestire 5 camere di simulazione."
     ],
     "quest.7EA96B3CA74204F9.quest_desc": [
-        "&Ei non hanno alcuna idea su come funziona questo modulo. Questo libro dovrebbe aiutare. Buona fortuna, forse ci sarà un'indagine su di esso nel futuro."
+        "Non ho idea di come funzioni questo mod. Questo libro dovrebbe essere utile. In bocca al lupo a tutti, magari in futuro ci sarà una quest a riguardo."
     ],
-    "reward.3E701D9A6CF59B48.title": "Mela",
-    "reward.40DFF527DD2CB826.title": "Ingot di unobtanium",
-    "reward.44B06394FBC5E126.title": "Re del Crimiglio",
-    "reward_table.0C6280431848193B.title": "Reattori estremi",
-    "reward_table.1997549B2C7B7A4A.title": "Flux",
+    "reward.3E701D9A6CF59B48.title": "Apple",
+    "reward.40DFF527DD2CB826.title": "Lingotto di unobtainium",
+    "reward.44B06394FBC5E126.title": "King Crimson",
+    "reward_table.0C6280431848193B.title": "Reattori ad alta potenza",
+    "reward_table.1997549B2C7B7A4A.title": "Flusso",
     "reward_table.1F0ABAF93DC08101.title": "AE2",
-    "reward_table.2D32B64313BD515F.title": "Se",
-    "reward_table.6039B8DE9AF1B08B.title": "Rafforzato estremo",
-    "reward_table.61A5FC5515F137EA.title": "Basic Mekanism",
-    "reward_table.6C46518B0B9B79A4.title": "Powah avanzato",
-    "reward_table.6F19CF123FAA1A60.title": "Mekanism avanzato",
-    "reward_table.7567AE5DD3CED997.title": "Incantesimi di ferro",
-    "reward_table.7D9B0F04A4C0BCE5.title": "Powah",
-    "reward_table.7E62A1757805332C.title": "Ars",
-    "task.049A369ACA7B29F1.title": "1125 danni",
-    "task.07A5E19113942BB4.title": "Resta a guardare",
-    "task.081CB32FF406B32E.title": "Danni 625",
-    "task.0B0885FD7138B4A1.title": "Abbandonare la frazione",
-    "task.0D9F495F52F88AFD.title": "1625 danni",
+    "reward_table.2D32B64313BD515F.title": "SE",
+    "reward_table.4C66123CA32F9B77.title": "Mekanism: Fine della partita",
+    "reward_table.6039B8DE9AF1B08B.title": "Estremamente rinforzato",
+    "reward_table.61A5FC5515F137EA.title": "Meccanismo di base",
+    "reward_table.6C46518B0B9B79A4.title": "Powah Advanced",
+    "reward_table.6F19CF123FAA1A60.title": "Mekanism Avanzato",
+    "reward_table.7567AE5DD3CED997.title": "Gli incantesimi di Ferro",
+    "reward_table.7D9B0F04A4C0BCE5.title": "Potere",
+    "reward_table.7E62A1757805332C.title": "Arte",
+    "task.049A369ACA7B29F1.title": "Danni pari a 1125",
+    "task.07A5E19113942BB4.title": "Rimanete sintonizzati",
+    "task.081CB32FF406B32E.title": "Danni pari a 625",
+    "task.0B0885FD7138B4A1.title": "Uscire dal gruppo",
+    "task.0D9F495F52F88AFD.title": "Danni per 1625",
     "task.0E111B1754D5CA7C.title": "Reattore di base",
-    "task.1279A08A3A038F84.title": "Raccoglitore funzionale",
-    "task.232472D3E8B84547.title": "Primo stadio",
-    "task.248D213CC449BDF1.title": "Lord",
-    "task.28FB98BA7590CA19.title": "Qualsiasi costruzione di bastoni da costruzione",
-    "task.2EF49720DE10E6ED.title": "Psicopatico",
-    "task.307228F8B99FCEC1.title": "Qualsiasi legno di Minecraft",
-    "task.338FCB51A1ED0C6E.title": "Suggerimenti",
-    "task.3424CE837CC64A4B.title": "250 danni",
-    "task.34F9CBD0605B074F.title": "Danni 1375",
-    "task.3A2DC147A51965AD.title": "Capitolo iniziale",
-    "task.40289989DEF7D304.title": "750 danni",
-    "task.463112C0397C07B4.title": "370 danni",
-    "task.467FB21437252EEE.title": "Livello di base",
-    "task.4EFACD77B48272CB.title": "Completa",
-    "task.54384FD21D6BE872.title": "Suggerimenti",
-    "task.56C7D4B77FCAFA17.title": "1750 danni",
-    "task.5710802DC051B9DB.title": "Lord",
-    "task.60CAA633D80959A4.title": "1000 danni",
-    "task.64A11E16FE6AC975.title": "Danni 1255",
-    "task.665183C00702C2C1.title": "Qual è il prossimo passo",
-    "task.695531D0377F319C.title": "1500 danni",
-    "task.74FCED33BC9A7311.title": "500 danni",
-    "task.769D00CBE8B3C62A.title": "875 danni",
-    "task.7CE2E40EF0D81386.title": "Abbandonare la frazione"
+    "task.1279A08A3A038F84.title": "Qualsiasi contenitore funzionale: cassetto",
+    "task.232472D3E8B84547.title": "Prima fase",
+    "task.248D213CC449BDF1.title": "Signore",
+    "task.28FB98BA7590CA19.title": "Qualsiasi tipo di bastoncino per la costruzione: bastoncini per la costruzione",
+    "task.2EF49720DE10E6ED.title": "Psicopatico\/a",
+    "task.307228F8B99FCEC1.title": "Qualsiasi log relativo a Minecraft.",
+    "task.338FCB51A1ED0C6E.title": "Consigli",
+    "task.3424CE837CC64A4B.title": "250 punti di danno",
+    "task.34F9CBD0605B074F.title": "Danni per un valore di 1375",
+    "task.3A2DC147A51965AD.title": "Capitolo 1",
+    "task.40289989DEF7D304.title": "Danno di 750",
+    "task.463112C0397C07B4.title": "Danni pari a 370",
+    "task.467FB21437252EEE.title": "Livello base",
+    "task.4EFACD77B48272CB.title": "Completare",
+    "task.54384FD21D6BE872.title": "Consigli",
+    "task.56C7D4B77FCAFA17.title": "Danni per 1750 unità di misura",
+    "task.5710802DC051B9DB.title": "Signore",
+    "task.60CAA633D80959A4.title": "Danno di 1000",
+    "task.64A11E16FE6AC975.title": "Danni per un valore di 1255",
+    "task.665183C00702C2C1.title": "Cosa succederà? \/ Cosa faremo ora?",
+    "task.695531D0377F319C.title": "Danno di 1500",
+    "task.74FCED33BC9A7311.title": "Danno di 500",
+    "task.769D00CBE8B3C62A.title": "Danni per un valore di 875",
+    "task.7CE2E40EF0D81386.title": "Lasciare la fazione"
 }

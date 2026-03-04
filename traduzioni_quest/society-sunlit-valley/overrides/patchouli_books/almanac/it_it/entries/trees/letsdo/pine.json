@@ -1,15 +1,15 @@
 {
-    "name": "Albero di pino 🌐",
+    "name": "Abete",
     "category": "patchouli:trees",
     "icon": "meadow:pine_sapling",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)🌐 §5Tutto l'anno§r$(li)Prezzo: :coin: 16$(li)Dimensioni: 1x1$(br2)$(l)Note$()$(li)Venduti nel Mercato.$(li)Si trasforma la terra vicina.`"
+            "text": "patchouli:text\n\n$(l)Statistiche$()$(li)🌐 Disponibile tutto l'anno§r$(li)Prezzo: :moneta: 16$(li)Dimensioni: 1x1$(br2)$(l)Note$()$(li)Piantine acquistate dal mercato.$(li)Trasforma il terreno circostante."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Pine Tree",
+            "name ": "Patchouli: Multibloc\n\nPino",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -124,8 +124,7 @@
                     "L": "meadow:pine_leaves",
                     "W": "meadow:pine_log[axis=y]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

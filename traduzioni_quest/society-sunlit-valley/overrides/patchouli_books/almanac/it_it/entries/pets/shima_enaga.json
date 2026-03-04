@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Doni possibili:$()$(br)Boostatore di Elytra$(br)$(l)Oggetto per addomesticare:$()$(br)Semi$(br2)$(l)Note$()$(br)Può essere trovato in biomi innebbiati."
+            "text": "patchouli:testo\n\n$(l)Possibili oggetti regalo:$()$(br)Elytra Booster$(br)$(l)Oggetto per addomesticare:$()$(br)Semi$(br2)$(l)Note$()$(br)Si possono trovare negli ambienti innevati."
         },
         {
             "type": "patchouli:entity",
             "entity": "crittersandcompanions:shima_enaga",
             "scale": 0.7,
-            "text": "Uccello di neve adorabile!!!@"
+            "text": "patchouli: entità\n\ncrittersandcompanions: shima_enaga\n\nUn uccellino adorabile!!!"
         }
     ]
 }

@@ -1,7 +1,9 @@
 {
-    "key.mobhealthbar.category": "Barra di salute dei mostri di ydm",
-    "key.mobhealthbar.chooser": "Selettore della barra di salute",
-    "mobhealthbar.hpbarchooser": "Scegli barra salute",
+    "hpbarchooser.key.settings_screen": "Selettore della barra della salute",
+    "key.category.mobhealthbar.category": "Barra della salute del giocatore (YDM)",
+    "key.mobhealthbar.category": "Barra della salute del giocatore (YDM)",
+    "key.mobhealthbar.chooser": "Selettore della barra della salute",
+    "mobhealthbar.hpbarchooser": "Seleziona la barra della salute",
     "mobhealthbar.menu.next": "",
     "mobhealthbar.menu.previous": "",
     "mobhealthbar.menu.toggle_hb_bars": ""

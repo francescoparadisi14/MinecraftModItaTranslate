@@ -1,15 +1,15 @@
 {
-    "name": "Albero di aspen 🌐",
+    "name": "Aspen Tree 🌐",
     "category": "patchouli:trees",
     "icon": "atmospheric:aspen_sapling",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)🌐 §5Tutto l'anno§r$(li)Dimensioni: 1x1`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🌐 Disponibile tutto l'anno§r$(li)Dimensioni: 1x1"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Aspen Tree",
+            "name ": "Patchouli: Multibloc\n\nQuercia",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -145,8 +145,7 @@
                     "L": "atmospheric:aspen_leaves",
                     "W": "atmospheric:aspen_log[axis=y]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

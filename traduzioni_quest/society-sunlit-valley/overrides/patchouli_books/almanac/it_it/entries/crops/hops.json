@@ -1,15 +1,15 @@
 {
-    "name": "Hops 🔥",
+    "name": "Orzo 🔥",
     "category": "patchouli:crops",
     "icon": "brewery:hops",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li):moneta: 21$(li)🔥 §6Summer§r$(li)Rendita: 2$(li)Tempo di crescita: 6 giorni$(br2)$(l)Note$()$(br)Si trova in biomi simili a quelli della taiga."
+            "text": "patchouli: testo\n\n$(l)Statistiche$()$(li): monete: 21$(li)🔥 §6Estate§r$(li)Resa: 2$(li)Tempo di crescita: 6 giorni$(br2)$(l)Note$()$(br)Si trova in biomi simili alla taiga."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Hops Crop",
+            "name ": "Patchouli: più blocchi\n\nOrzo",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -24,8 +24,7 @@
                     "0": "brewery:hop_trellis[age=6]",
                     "F": "minecraft:farmland[moisture=7]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

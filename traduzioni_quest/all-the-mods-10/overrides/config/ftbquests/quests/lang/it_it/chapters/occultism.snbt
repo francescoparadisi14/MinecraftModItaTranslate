@@ -1,0 +1,452 @@
+{
+    "quest.00A6020BC979947F.quest_desc": [
+        "Grazie al tuo nuovo \"Crusher\\&r\" appena ottenuto, puoi frantumare un frammento di Echo Shard e un lingotto di Iesnium. Quando questi vengono combinati con un sacco di inchiostro luminoso, si ottiene della creta di colore ciano."
+    ],
+    "quest.00A6020BC979947F.title": "\\&3Gesso blu",
+    "quest.03250A0202C25E80.quest_desc": [
+        "Dopo aver sconfitto con successo il demone \\&9Unbound Marid\\&r che hai evocato utilizzando \\&4Abras' Fortified Conjure\\&r, puoi utilizzare l'essenza \\&9Marid\\&r che rilascia per creare la \"più pregiata\" versione di gesso, ovvero il gesso blu."
+    ],
+    "quest.03250A0202C25E80.title": "\\&9Gesso blu",
+    "quest.08697EB269B011FD.quest_desc": [
+        "Con l'oggetto \"Contact\" di \\&dRonaza, è possibile aggiornare il vostro \"Ritual Bowl\" a \"Eldritch Chalice\". Utilizzato durante un rituale, riduce il tempo necessario per completarlo... completamente.",
+        "",
+        "Sì, il Calice di Eldritch permette di completare tutti i rituali in modo istantaneo!"
+    ],
+    "quest.08697EB269B011FD.title": "Bicchiere di Eldritch",
+    "quest.0A25276925EB0CBA.quest_desc": [
+        "Una volta che avrete raccolto ogni singolo tipo di \"Chalk\" colorato e \"Foundation Chalk\", potrete eseguire il rituale di tipo \"Ronaza's Contact\", che è il rituale finale, utilizzando tutto ciò che avete imparato finora!",
+        "",
+        "Ha un utilizzo limitato, ma tutto ciò che viene creato attraverso questo rituale è estremamente potente!"
+    ],
+    "quest.0A25276925EB0CBA.quest_subtitle": "Con questo prezioso oggetto sacro, chiamo...",
+    "quest.0A25276925EB0CBA.title": "\\&dRonaza: Contatti",
+    "quest.0B3EA604C5172D98.quest_desc": [
+        "Per poter specificare quale \\&aDemone\\&r e quale \\&bAmico\\&r desideriamo evocare, avremo bisogno di creare un \\&aLibro di Vincolo\\&r specifico.\n\nPer farlo, dovrete purificare del \\&aTinte Nero\\&r in \\&dFuoco Spirituale\\&r per ottenere l'inchiostro purificato. Con questo, creeremo il nostro primo \\&aLibro di Vincolo\\&r, che evocherà un \\&aDemone Foliot\\&r.",
+        "",
+        "In alternativa, è possibile creare un libro vuoto da rilegare, che potrà poi essere colorato in base al tipo di rituale di cui si ha bisogno."
+    ],
+    "quest.0B3EA604C5172D98.title": "\\&bLibri di \\&dLegatura",
+    "quest.0BD6365534BF04D5.quest_desc": [
+        "Con Lime Chalk, è ora di approfondire i rituali relativi al possesso. Questi rituali sono leggermente diversi dagli altri, poiché tutti richiedono un sacrificio vivo, solitamente creature piccole come galline, api, pipistrelli, ecc. Tuttavia, man mano che i rituali diventano più complessi, richiederanno sacrifici sempre più grandi.",
+        "",
+        "Anche se avete posizionato tutti gli oggetti necessari e il Libro dei Vincoli nella Sacra Ciotola d'Oro, il rituale non inizierà finché non avrete ucciso l'offerta sopra le rune.",
+        "",
+        "Si raccomanda di procurarsi un oggetto per catturare mostri, come una Gemma dello Spirito Vuota, un Barattolo, uno Strumento per imprigionare i mostri, o un \"Quantum Catcher\"!",
+        "",
+        "Il primo livello dei rituali, chiamato \"\\&eHeidryn's Lure\\&r\", serve per ottenere oggetti comuni come le ossa di scheletro e la pietra del Nether. Grazie a questo, è possibile saltare direttamente al secondo livello del rituale, chiamato \"\\&aIhagan's Enthrallment\\&r\"."
+    ],
+    "quest.0BD6365534BF04D5.quest_subtitle": "A chi chiamerai?",
+    "quest.0BD6365534BF04D5.title": "\\&L'ammirazione di A.I. Hagan",
+    "quest.0D18BBB04693885A.quest_desc": [
+        "\"Strigeor's Higher Binding\" è il secondo livello dei rituali di infusione. Viene utilizzato per molte cose diverse, ma gli elementi principali di cui avremo bisogno sono l'ascia infusa e la pasta grigia."
+    ],
+    "quest.0D18BBB04693885A.quest_subtitle": "Il \"Rituale di Tutto\"",
+    "quest.0D18BBB04693885A.title": "\\&AStrigeor: Legame Superiore",
+    "quest.11A0593C0E2E6A35.quest_desc": [
+        "Utilizzando il \"Spectral Compulsion\" di \\&eEziveus, possiamo creare una varietà di blocchi naturali per ottenere una \"Pasta Naturale\". Combinando questa pasta con del gesso bianco impuro, si otterrà del gesso verde."
+    ],
+    "quest.11A0593C0E2E6A35.title": "E gesso verde",
+    "quest.145C8235BCCB9BA8.quest_desc": [
+        "Se vogliamo raccogliere tutti i Chalks, dovremo evocare e sconfiggere un \"Afric\", che non è particolarmente amichevole.",
+        "",
+        "Anche se questo non è un rituale di \"Possessione\", è necessario un sacrificio vivo per eseguirlo. In questo caso, sacriferemo una mucca. Mi dispiace, Betsy!"
+    ],
+    "quest.145C8235BCCB9BA8.quest_subtitle": "Addio, Betsy",
+    "quest.145C8235BCCB9BA8.title": "e altro",
+    "quest.172D2A634E849562.quest_desc": [
+        "Grazie alla nostra capacità di raccogliere e gestire le risorse, possiamo chiedere agli Demoni di aiutarci nelle miniere... intendo, di aiutarci a raccogliere minerali. Assolutamente niente sfruttamento degli Demoni o altro.\n\nPer farlo, dovremo creare una \"miniera dimensionale\" per accedere al mondo delle miniere degli Demoni. Avrete anche bisogno di un Demone minerario confinato in una lampada, che dovrete posizionare all'interno della miniera per farlo funzionare. Anche se qualsiasi livello può completare questa missione, i livelli più alti funzionano più velocemente e hanno una maggiore probabilità di estrarre l'Iesnium per voi.\n\nLe miniere non esportano automaticamente le risorse. Dovrete estrarle utilizzando dei Hopper, dei Demoni trasportatori, o altri metodi come i tubi per oggetti. Qualsiasi oggetto che superi il limite di stoccaggio verrà eliminato."
+    ],
+    "quest.172D2A634E849562.title": "\\&cEstrazione mineraria",
+    "quest.1848F431D0380DA9.quest_desc": [
+        "Similmente alla funzione di riparazione di \\&aStrigeor's Higher Binding\\&r, anche \\&cSevira's Permanent Confinement\\&r può essere utilizzata per riparare oggetti, sfruttando il potere di un demone Afrit.",
+        "",
+        "Questo rituale può riparare quasi qualsiasi cosa, quindi strumenti, attrezzature e armature come quelli dei \"Demon Miners\" possono essere riportati al loro stato originale!",
+        "",
+        "Tutti gli oggetti riparati utilizzando questo rituale manterranno le loro proprietà originali (abilità, incantesimi, ecc.), quindi non preoccupatevi dei vostri preziosi incantesimi!"
+    ],
+    "quest.1848F431D0380DA9.quest_subtitle": "Durabilità a basso costo (o quasi gratuita)!",
+    "quest.1848F431D0380DA9.title": "Riparazione di oggetti",
+    "quest.1B5177A774FCEF64.quest_desc": [
+        "Prima di iniziare a chiedere aiuto ai nostri amici demoni, dovremo creare l'elemento più importante per i rituali: la \\&aGesso.\\n\\nSono necessari diversi colori di gesso, e i rituali di livello superiore richiedono l'uso di più colori per essere attivati. Per iniziare, il \\&bGesso bianco\\&r è il più facile da ottenere.\\n\\nPer prima cosa, gettate l'Otherstone nel forno e l'Otherworld Logs in \\&dFuoco Spirituale\\&r. Con gli oggetti che otterrete, potrete creare il gesso bianco impuro.\\n\\nPer purificare qualsiasi pezzo di gesso, basta gettarlo in \\&dFuoco Spirituale\\&r per pulirlo. Utilizzando il gesso purificato sul terreno, si creeranno dei simboli \\&mdemonici\\&r sul terreno. Rimuoverli è un'operazione laboriosa, a meno che non si crei il \\&aPennello per Gesso\\&r. Fate così, ne vale la pena."
+    ],
+    "quest.1B5177A774FCEF64.title": "Prepararsi per un rituale: \\&eChalk",
+    "quest.1BDB369FD243D4C6.quest_desc": [
+        "Probabilmente, l'oggetto più utile che si possa creare nell'occultismo è l'«Anello di Besnium», una versione superpotente dell'Anello Vanilla.",
+        "",
+        "Creato utilizzando il modello \"Inverted Tower\" di \\&9Uphyxes:",
+        "",
+        "- È indistruttibile.",
+        "- Aumenta il livello massimo di tutti gli incantesimi applicabili a qualsiasi oggetto, combinandoli.",
+        "- Il costo dovrebbe essere la metà di quanto indicato nella stima (arrotondando per difetto, quindi se la stima indica 25, il costo sarà di 12).",
+        "- Richiede un requisito di esperienza inferiore per le modifiche ripetute sullo stesso elemento.",
+        "- Aumenta il livello massimo di esperienza necessario per modificare gli oggetti (il punto in cui appare il messaggio \"Troppo costoso!\")."
+    ],
+    "quest.1DE0F289821F55D1.quest_desc": [
+        "Ora che abbiamo una macina Foliot, possiamo gentilmente chiedere a questa macina di frantumare alcune pietre di \\&eEnd Stone\\&r, \\&9Obsidian\\&r e \\&7Calcite\\&r per noi. Useremo questi materiali per creare nuova gesso!"
+    ],
+    "quest.1DE0F289821F55D1.title": "E minimizzare il problema",
+    "quest.1EB887F8072439A3.quest_desc": [
+        "Dopo aver utilizzato l'oggetto \"Incentivized Attraction\" di Fatma per evocare l'oggetto \"Marid Crusher\", è possibile trasformare il ghiaccio, il ghiaccio compatto e il ghiaccio blu nelle loro forme tritate, e utilizzare questi per creare gesso blu chiaro."
+    ],
+    "quest.1EB887F8072439A3.title": "\\&bGesso blu chiaro",
+    "quest.2960FFE0C53DFEB1.quest_desc": [
+        "\\&cLa Confinamento Permanente di Sevira\\&r è il terzo livello del processo di \\&6Rituali di Infusione\\&r. Viene principalmente utilizzato per creare il livello successivo di preparazione, ovvero la \"Chalk Nera\".",
+        "",
+        "È inoltre utilizzato per creare alcuni oggetti che possono accelerare notevolmente la preparazione e l'esecuzione di rituali."
+    ],
+    "quest.2960FFE0C53DFEB1.quest_subtitle": "Il rituale \"Even More Everything\"",
+    "quest.2960FFE0C53DFEB1.title": "E altre misure, tra cui l'incarcerazione permanente di Sevira",
+    "quest.29C83B00AC4AFC23.quest_desc": [
+        "Ora che siete arrivati a questo punto, potreste chiedervi: \"Cosa succede dopo?\". Beh, ci sono così tante altre cose da esplorare nell'occultismo!",
+        "",
+        "È possibile consultare un elenco completo di tutti i rituali e gli oggetti presenti nel vostro \"Dizionario degli Spiriti\", e potreste provare a esaminare i risultati di ogni rituale per vedere se trovate qualcosa che vi interessa particolarmente!",
+        "",
+        "Se non lo avete già fatto, potreste creare tre aree rituali separate: una per le invocazioni, una per i beni e una per le infusioni.",
+        "",
+        "Ci sono sempre nuovi modi per utilizzare ogni funzionalità, anche quelle che sembrano banali, al fine di ottimizzare la tua esperienza con il pacchetto di modifiche. Buon lavoro creativo!"
+    ],
+    "quest.29C83B00AC4AFC23.title": "Cosa succederà dopo?",
+    "quest.2A3683BF7E50EF83.quest_desc": [
+        "La maggior parte degli oggetti di cui abbiamo avuto bisogno da \"\\&3Otherworld\\&\" fino ad ora ha richiesto solo l'uso di \"Spiritfire\". Tuttavia, per trovare l'\"Ore of the \\&3Otherworld\\&\", dovremo fare affidamento sull'aiuto di \"\\&3Third Eye\\&\".",
+        "",
+        "Inoltre, avremo bisogno di un piccone speciale per poterlo estrarre. Per questo, dovremo infondere un Demone in una \"testa di piccone sensibile allo spirito\" per creare un piccone in grado di rompere questo nuovo tipo di minerale."
+    ],
+    "quest.2A3683BF7E50EF83.title": "Strumenti del mestiere: piccone aromatizzato",
+    "quest.2A5004EB99AE4F96.quest_desc": [
+        "Ci sono altri oggetti provenienti dal \"Mondo Alternativo\" che dovrai raccogliere, e mangiare ripetutamente la \"Frutta del Sogno del Demone\" ogni volta che hai bisogno dell'effetto dell'\"Occhio di Terzo\" diventa fastidioso.",
+        "",
+        "Ecco a cosa servono gli occhiali \\&dOtherworld\\&r! Una volta equipaggiati (anche nella slot \"Curios\"), conferiscono l'effetto \"Terzo Occhio\"!"
+    ],
+    "quest.2A5004EB99AE4F96.quest_subtitle": "Smetti di mangiare quella frutta!",
+    "quest.2A5004EB99AE4F96.title": "Strumenti del mestiere: Occhiali a spettro",
+    "quest.2AD68066C1948C90.quest_desc": [
+        "Quello primo \"Foliot Crusher\" era fantastico, ma immagina se ti dicessi che potresti evocare un demone che ti fornisce 6 polvere per ogni minerale grezzo che schiaccia.",
+        "",
+        "Il \"Crusher \\&9Marid\" fa esattamente questo. Per richiamarlo, dovrai utilizzare \"Fatma's Incentivized Attraction\"."
+    ],
+    "quest.2AD68066C1948C90.quest_subtitle": "Massimo numero di invocazioni",
+    "quest.2AD68066C1948C90.title": "\\&9L'attrazione incentivata di Fatma",
+    "quest.2CF96A264EB5522C.quest_desc": [
+        "«\\&9Uphyxes' Inverted Tower\\&r» è il livello massimo dei «\\&6Infusion Rituals\\&r». Non ha così tante applicazioni come gli altri tre livelli, ma è comunque necessario per la fase finale dell'occultismo.",
+        "",
+        "Principalmente, viene utilizzato per creare la polvere di Dragonyst, che è l'ingrediente principale per la creta magenta."
+    ],
+    "quest.2CF96A264EB5522C.quest_subtitle": "Massima infusione",
+    "quest.2CF96A264EB5522C.title": "\\&9Uphyxes' Torre Invertita",
+    "quest.2E68E1D96B25336D.quest_desc": [
+        "Dopo aver combattuto contro alcuni Piglin zombi posseduti da \\&6Odus' Open Convocation\\&r, potrete utilizzare la carne demoniaca che essi vi forniscono per creare della gesso rosa."
+    ],
+    "quest.2E68E1D96B25336D.title": "\\&dGesso rosa",
+    "quest.2FD22502E6481269.quest_desc": [
+        "Utilizzando il \"Contact\" di \\&dRonaza, è possibile potenziare la tua Gemma dell'Anima per creare una Gemma Trinitaria. In pratica, si tratta di una versione potenziata della Gemma dell'Anima, in grado di catturare nemici più grandi, anche se non è ancora in grado di contenere la maggior parte dei boss."
+    ],
+    "quest.2FD22502E6481269.title": "Gemma del Trinitario",
+    "quest.30C5B597610F4AFB.quest_desc": [
+        "Il primo e più importante ingrediente per creare il \"Spectral Compulsion\" di Eziveus è la polvere di \"Research Fragment\". Questa viene utilizzata in combinazione con alcuni smeraldi tritati per creare la \"calce\"!"
+    ],
+    "quest.30C5B597610F4AFB.title": "\\&aLime (creta di lime)",
+    "quest.33106E24A3B5DDD8.quest_desc": [
+        "Il passo successivo nel vostro viaggio sarà trovare il Netherite Ore nel Nether.",
+        "",
+        "Senza l'effetto dell'\"Occhio di Terza Persona\", apparirà esattamente come il Netherrack. Assicurati di avere gli \"Occhiali per l'Altro Mondo\" equipaggiati!",
+        "",
+        "Per individuare il minerale, prova a utilizzare un \"Bastone Divinatorio\". Innanzitutto, dovrai sincronizzarlo con il Netherrack, quindi premi il tasto destro del mouse per utilizzarlo. Dopo alcuni secondi, vedrai una particella sparare nella direzione del minerale Iesnium più vicino. Puoi estrarre il minerale solo utilizzando l'ascia \"Potenziata\"!",
+        "",
+        "Dato che non è possibile suddividere questo minerale in due volte la quantità di polvere utilizzando i metodi standard, provate a utilizzare il vostro Foliot Crusher per ottenere il doppio delle lingote rispetto al minerale grezzo!",
+        "",
+        "Nota: Se non visualizzate la particella, assicuratevi che le impostazioni per la visualizzazione delle particelle siano attivate!",
+        "",
+        "{image:atm:textures\/questpics\/occultism\/iesniumexample.png width:200 height:175 align:1}"
+    ],
+    "quest.33106E24A3B5DDD8.title": "E altre opere di Ciesnium: Ore del mondo ultraterreno",
+    "quest.3543563DF036D461.quest_desc": [
+        "Per creare la polvere di Dragonyst, dovrai eseguire il compito \"Torre Invertita\" di 9Uphyxes. Tuttavia, per creare la gesso magenta, avrai anche bisogno di alcuni materiali che puoi ottenere solo tramite la \"Macchina di frantumazione Marid\"."
+    ],
+    "quest.3543563DF036D461.title": "Gesso magenta",
+    "quest.367E891A50991436.quest_desc": [
+        "Utilizzando il \"Materiale di Confinamento Permanente di Sevira\", possiamo combinare diversi materiali di Wither e del Netherite per creare tre polveri di Witherite. Con queste, possiamo creare la forma più alta di gesso per fondamenta, ovvero il gesso nero."
+    ],
+    "quest.367E891A50991436.title": "Gesso nero",
+    "quest.38A1295878B68F83.quest_desc": [
+        "No, non intendo quel tipo.",
+        "",
+        "Gli \"Afrit\" sono demoni del fuoco. Sono demoni più potenti, e alcuni possono essere alleati, mentre altri... no. Tutto dipende da quanto efficacemente il rituale può controllare gli \"Afrit\".",
+        "",
+        "Poiché al momento non abbiamo accesso a Red Chalk, possiamo evocare solo un Demone di tipo \"\\&9Unbound\\&r\", il che significa che non può essere controllato e sarà aggressivo."
+    ],
+    "quest.38A1295878B68F83.quest_subtitle": "Demoni ardenti!",
+    "quest.38A1295878B68F83.title": "\\&6Abras' Open Conjure",
+    "quest.39647A2473F6F7D7.quest_desc": [
+        "Il nostro prossimo passo è l'esplorazione dei rituali di \"Infusione Demoniaca\" (r). Questi rituali vengono utilizzati per conferire agli oggetti il potere dei demoni.",
+        "",
+        "Il primo livello del rituale \"\\&eInfusion Rituals\\&r\" è \"\\&eEziveus' Spectral Compulsion\\&r\". Utilizzeremo questo rituale per creare diversi oggetti di cui avrete bisogno durante l'utilizzo di questo mod.",
+        "",
+        "Si raccomanda di creare questo rituale in un'area separata rispetto alla prima, poiché i tre tipi principali di rituali si basano sui precedenti."
+    ],
+    "quest.39647A2473F6F7D7.quest_subtitle": "Spruzzate un po' di Demon Dust™!",
+    "quest.39647A2473F6F7D7.title": "\\&eEziveus: La forza spettrale",
+    "quest.3D41D0092D94636B.quest_desc": [
+        "E se vi dicessi che il Frutto del Demone è infiammabile?",
+        "",
+        "Buttare via il \"Frutto del Sogno del Demone\" e accenderlo creerà \"Fuoco Spirituale\". Questo è il modo in cui potremo trasformare alcuni oggetti del mondo reale in materiali del \"Mondo Alternativo\".",
+        "",
+        "È anche molto bello\/a."
+    ],
+    "quest.3D41D0092D94636B.title": "Le fiamme di \"The Otherworld\"",
+    "quest.429B5A81DF6C43FE.quest_desc": [
+        "\\&6Il rituale di \"Open Convocation\" di Odus è utilizzato per evocare un demone, in particolare un demone di origine \"africana\". Poiché questo rituale viene eseguito senza l'uso di gesso rosso, è in grado di evocare solo un demone \"non legato\".",
+        "",
+        "In particolare, questo rituale creerà un \"Zombified Piglin\" posseduto da un'entità, che rilascerà carne demoniaca, utilizzata per creare la \"Pink Chalk\".",
+        "",
+        "\\&4ATTENZIONE: Potrebbe essere necessario ripetere questa operazione più volte per ottenere la quantità di carne demoniaca desiderata."
+    ],
+    "quest.429B5A81DF6C43FE.quest_subtitle": "Come... succoso...",
+    "quest.429B5A81DF6C43FE.title": "\\&6La Riunione Pubblica di Odus",
+    "quest.42F50CE7FE715583.quest_desc": [
+        "Per aumentare la capacità di memorizzazione del tuo magico deposito, dovrai creare e utilizzare i \"Stabilizzatori di deposito magico\".",
+        "",
+        "Una volta installati, questi componenti devono puntare direttamente verso la sezione della \"Matrice Dimensionale\" del tuo attuatore di stoccaggio, e non verso la base. Possono essere posizionati fino a 5 blocchi di distanza, ma devono avere una linea di vista chiara verso la matrice.",
+        "",
+        "Ogni volta che si desidera passare a un livello di stabilizzatore superiore, la rottura non distruggerà gli oggetti al suo interno. Tuttavia, non sarà possibile aggiungere altri oggetti allo spazio di archiviazione fino a quando lo stabilizzatore non sarà sostituito o aggiornato.",
+        "",
+        "Di seguito, un esempio di configurazione semplice!",
+        "",
+        "{image:atm:textures\/questpics\/occultism\/storageupgradeexample.png width:200 height:150 align:1}"
+    ],
+    "quest.42F50CE7FE715583.title": "\\&aMiglioramento del nostro magazzino magico",
+    "quest.47358ADC1470C82A.quest_desc": [
+        "\\&cFrutto \"Sogno del Demone\"\\&r è perfettamente sicuro per la tua salute. Tuttavia, potrebbero esserci alcuni effetti collaterali a cui è bene prestare attenzione.",
+        "",
+        "Quando ne consumi uno, hai la possibilità di ottenere l'effetto dell'\"Occhio del Terzo\", che ti permette di vedere \"Il Mondo degli Altri\". Alcuni oggetti nel mondo potrebbero non essere ciò che sembrano, e avrai bisogno di questa \"abilità\" per trovare determinati oggetti necessari per progredire.",
+        "",
+        "Oppure, potete semplicemente appiccare il fuoco e risparmiarvi la fatica di cercarli. La scelta è vostra."
+    ],
+    "quest.47358ADC1470C82A.quest_subtitle": "Preparatevi per un viaggio",
+    "quest.47358ADC1470C82A.title": "E altre Frutti del Diavolo",
+    "quest.4C873491F6F0FFAF.quest_desc": [
+        "Utilizzando \"\\&dSpiritfire\", è possibile trasformare diversi tappeti dell'Overworld nelle loro versioni dell'Otherworld. Inoltre, è possibile trovare diversi tappeti dell'Otherworld esplorando il mondo e attivando l'effetto \"\\&bThird Eye\". Potreste rimanere sorpresi da ciò che troverete. Per semplificare il processo, sono disponibili ricette per la creazione dei materiali di base, che possono essere ottenuti utilizzando \"\\&dSpiritfire\".",
+        "",
+        "\\&bAndesite\\&r viene convertito in \\&3Otherstone\\&r, che può essere utilizzato per accendere un \\&dSpiritfire\\&r permanente.",
+        "",
+        "\\&aPiantine di Quercia\\&r si trasformano in \\&9Piantine di Quercia\\&r, ma non sono identiche. Una volta cresciute, assomiglieranno esattamente a un albero di quercia normale. Tuttavia, grazie all'effetto dell'\"Occhio Terzo\", sarà possibile raccogliere la variante \"Altro Mondo\".",
+        "",
+        "Se riscontri difficoltà nel raccogliere i log (se diventano log di quercia normali anche con l'abilità \"\\&Third Eye\"), prova a raccoglierli dall'alto.",
+        "",
+        "Le \\&eDiamonds\\&r si trasformeranno in \\&dSpirit Attuned Gems\\&r, che saranno utilizzate in diverse ricette di cui avremo bisogno in seguito."
+    ],
+    "quest.4C873491F6F0FFAF.title": "\\&dSpiritfire\\&r Conversioni",
+    "quest.4CE571F942461909.quest_desc": [
+        "La borsa rituale \"Ritual Satchel\" è molto bella, ma richiede molto tempo per posizionare tutti i blocchi. Ora che è possibile eseguire il rituale \"\\&cSevira's Permanent Confinement\", è possibile creare la borsa rituale \"Artisanal Ritual Satchel\"!",
+        "",
+        "La borsa rituale artigianale funziona quasi esattamente come la borsa rituale standard, ma permette di posizionare immediatamente tutti gli oggetti necessari per il rituale. Inoltre, consente di fare clic con il tasto destro sulla \"Golden Bowl\" per cancellare tutte le rune di \"Chalk\" e raccogliere tutti gli altri oggetti (cranio, candele e cristalli) e riporli nella borsa.",
+        "",
+        "No, non ripristina la resistenza del gesso."
+    ],
+    "quest.4CE571F942461909.title": "Strumenti del mestiere: Sacchetto rituale artigianale",
+    "quest.4DF0D7B85065ADC9.quest_subtitle": "Attacco e distruzione!",
+    "quest.4DF0D7B85065ADC9.title": "Gli strumenti del mestiere: il coltello da macellaio",
+    "quest.4F35D04721DFC9FF.quest_desc": [
+        "Il primo tipo di rituale che eseguiremo è il rituale di \"Invocazione\" (Summoning Ritual). Questi rituali vengono utilizzati per evocare diversi tipi di demoni utili, che possono assisterti nelle attività di frantumazione, fusione e altre, man mano che progredisci nei livelli più alti dei rituali.",
+        "",
+        "Per il nostro primo rituale, desideriamo evocare un Demone del tipo \"\\&aFoliot Crusher\\&r\". Questo Demone ci aiuterà a frantumare oggetti, il che sarà utile per creare alcuni dei Chalk di livello superiore!",
+        "",
+        "Per iniziare, combinate il vostro libro \"Unbound\" con il dizionario \"Dictionary of Spirits\" in una griglia di creazione. Questo legerà un Demone al libro, il che sarà necessario per il rituale.",
+        "",
+        "Parlando del vostro Dizionario degli Spiriti, è ora di aprirlo! Sul lato sinistro, cliccate sulla scheda \"\\&dPentacles\\&r\" e poi su \"\\&bAviar's Circle\\&r\". Potrebbe essere necessario navigare attraverso di essa leggendo un po'. Esiste anche un modo per cliccare su \"Segna tutto come letto\", che sblocca tutto nel libro.",
+        "",
+        "Questo è ciò che utilizzeremo per chiamare il nostro nuovo amico. Sul lato destro, è possibile cliccare sull'occhio nell'angolo in basso a sinistra dell'immagine per creare una rappresentazione del rituale nel mondo reale. È davvero utile!",
+        "",
+        "Una volta completato il rituale multi-blocco, posizionate 4 (o più, per rituali futuri) ciotole sacrificali in qualsiasi punto all'interno di un raggio orizzontale di 8 blocchi dal centro della ciotola sacrificale, e utilizzate gli oggetti necessari su di esse. Una volta che avrete posizionato il vostro Libro Vincolato nella ciotola sacrificale dorata, il rituale inizierà!",
+        "",
+        "Ecco come si svolgerà il rito.",
+        "",
+        "{image:atm:textures\/questpics\/occultism\/aviarcirclenew.png width:200 height:200 align:1}"
+    ],
+    "quest.4F35D04721DFC9FF.quest_subtitle": "Il cerchio di Aviar",
+    "quest.4F35D04721DFC9FF.title": "\\&bIl nostro primo rito",
+    "quest.5316DF321B45D2CA.quest_desc": [
+        "Benvenuti in \\&dOccultism\\&r!\\n\\nQuesto mod mira ad aiutare il giocatore in molti modi, coinvolgendo l'aiuto di \\&c\\&mDemoni\\&r e \\&bSpiriti\\&r! Non preoccupatevi, la maggior parte sono amichevoli. \\&oMaggior parte\\&r.\\n\\nPer iniziare, avrete bisogno di \\&aSemi di Frutto dei Demoni\\&r."
+    ],
+    "quest.5316DF321B45D2CA.title": "E sognare i demoni",
+    "quest.53DEA3DFEDC4809E.quest_desc": [
+        "Non preoccupatevi, questa è l'ultima delle cerimonie della serie \"Abras\". Vi permette di evocare un demone, ma anche se utilizza la \"Gesso Rosso\", non è sufficientemente potente per \"intrappolarlo\". Ciò significa che, purtroppo, dovrete affrontarlo direttamente.",
+        "",
+        "Questo rituale utilizza un tridente come offerta, il che è confuso perché la maggior parte degli sacrifici implicano creature viventi. Invece di uccidere un gruppo di persone all'interno del cerchio rituale completato, si lancia semplicemente il tridente nel centro della ciotola per iniziare il rituale."
+    ],
+    "quest.53DEA3DFEDC4809E.quest_subtitle": "È un uccello? È un aereo? No, è un \"unbound \\&9Marid\\&r\"!",
+    "quest.53DEA3DFEDC4809E.title": "\\&4Abras: Incantesimo Potenziato",
+    "quest.54378277B8D28B1D.quest_desc": [
+        "Una versione \"aggiornata\" della \"Cera Arcobaleno\", pensata per coloro che non apprezzano i simboli che cambiano rapidamente di colore e rischiano di rovinare l'estetica meticolosamente creata.",
+        "",
+        "Ha la stessa funzione della matita colorata Rainbow, ma in questo caso tutti i simboli appariranno in bianco. Inoltre, funziona anche con la matita per il fondotinta."
+    ],
+    "quest.56EC79AF11B0869E.quest_desc": [
+        "\\&9Xeovrenth Adjure\\&r è il livello massimo dei \\&5Rituali di Possesso\\&r. Ha solo due utilizzi: creare l'Essenza di Crueltà, l'ingrediente principale per la Gesso Marrone, e creare un golem di Iesnium, che è essenzialmente un golem di ferro immortale e con maggiore potenza."
+    ],
+    "quest.56EC79AF11B0869E.quest_subtitle": "Possesso massimo",
+    "quest.56EC79AF11B0869E.title": "\\&9Xeovrenth: Supplica",
+    "quest.57282D7E31EE61EE.quest_desc": [
+        "Una volta che avrete raccolto alcune risorse di Iesnium, probabilmente vorrete utilizzare le prime legature per creare un piccone di Iesnium. Questo non solo vi permetterà di estrarre l'Iesnium come farebbe un piccone \"infuso\", ma avrà anche una durata molto maggiore.",
+        "",
+        "Fai un favore a te stesso e prova a preparare qualcuna di queste ricette!"
+    ],
+    "quest.57282D7E31EE61EE.title": "\\&aLo scasso del mondo alterno\\&r",
+    "quest.5831B3192C0E8C56.quest_desc": [
+        "Desidera accedere ai propri dati da remoto? Questo è possibile utilizzando sia il software \"\\&eStable Wormhole\" che il software \"\\&aStorage Accessor\".",
+        "",
+        "Per utilizzare il \"Wormhole\", è sufficiente fare clic con il tasto destro su un \"Storage Actuator\" per collegarlo. A questo punto, è possibile posizionare il Wormhole come ulteriore posizione di archiviazione.",
+        "",
+        "Anche l'accessore \"\\&aStorage\" funziona in modo simile, ma agisce come un telecomando wireless che può persino operare attraverso dimensioni diverse!"
+    ],
+    "quest.5831B3192C0E8C56.title": "\\&Accesso remoto",
+    "quest.5ACE97EE75813006.quest_desc": [
+        "Questa è la principale fonte di informazioni su \\&dRituals\\&r. Ecco le informazioni di base:",
+        "",
+        "\\&lt;Livelli di rituali\\&gt;:",
+        "",
+        "I rituali sono suddivisi in quattro livelli principali, in base alla potenza del demone che si sta invocando. Il primo livello è quello di \\&eFoliot\\&r, seguito da \\&aDijini\\&r, \\&cAfrit\\&r, e \\&9Marid\\&r. Alcuni rituali rientrano in livelli intermedi, come il livello di \\&6Unbound Afrit\\&r.",
+        "",
+        "Tipi di rituali:",
+        "",
+        "Esistono cinque tipi principali di rituali, ma ne utilizzeremo solo quattro per il progresso. I tre principali sono i rituali di \\&9Invocazione\\&r, i rituali di \\&5Possessione\\&r e i rituali di \\&6Infusione\\&r. Ogni rituale sarà spiegato la prima volta che compare in queste missioni. Il quarto tipo di rituale è una sorta di rituale \\&dsen demonico\\&r, il che significa che utilizza elementi provenienti dai tre tipi precedenti per eseguire un'azione speciale senza l'uso diretto di un Demone.",
+        "",
+        "Il quinto tipo, \"Rituali familiari\", non è necessario per progredire. Tuttavia, possono comunque essere utilizzati per ottenere l'aiuto di alcuni alleati utili!",
+        "",
+        "\\&lChalks\\&r:",
+        "",
+        "Esistono due tipi di gesso: gesso per fondamenta e gesso colorato.",
+        "",
+        "La polvere di calce viene utilizzata in ogni singolo rito, e ogni livello superiore diventa più scuro, iniziando con la polvere bianca e terminando con la polvere nera.",
+        "",
+        "Le matite colorate sono le più comunemente utilizzate, ma il colore delle matite non è direttamente correlato alla loro potenza, come accade nel caso delle matite per la fondazione."
+    ],
+    "quest.5ACE97EE75813006.title": "I Fondamenti dei Rituali",
+    "quest.5AE80FF518B1BBA6.quest_desc": [
+        "Stanco di trasportare sempre con te pietre, candele, crani e cristalli? Allora crea una borsa rituale!",
+        "",
+        "Utilizzando il comando \"sneak\" e facendo clic con il tasto destro del mouse, tenendo in mano la \"Sacca Rituale\", è possibile riempirla con tutti i materiali necessari per disegnare un cerchio rituale.",
+        "",
+        "Una volta che hai caricato il sacchetto, basta fare clic con il pulsante destro del mouse su qualsiasi blocco di anteprima per iniziare (e automaticamente) a posizionare tutti i simboli necessari per il rituale selezionato.",
+        "",
+        "Se un pezzo di gesso all'interno della confezione presenta una durabilità inferiore al 40%, l'effetto magico su questo oggetto svanirà, segnalando che potrebbe essere il momento di riparare o sostituire alcuni dei vostri gessi."
+    ],
+    "quest.5AE80FF518B1BBA6.quest_subtitle": "Rituale da fare ovunque!",
+    "quest.5AE80FF518B1BBA6.title": "Strumenti del mestiere: Sacchetto rituale",
+    "quest.5FE507DAEE770507.quest_desc": [
+        "Se non desidera ottenere un \"Marid Crusher\", può optare invece per un \"Djinni Crusher\". \"Ophyx' Calling\" viene utilizzato per evocare i \"Djinnis\". Questo include anche un \"demoni\", ovvero un marito\/moglie demoniaco. I \"Djinnis\" sono in grado di frantumare i minerali in modo più efficiente rispetto ai \"Foliots\", ma non quanto gli \"Afrits\" o i \"Marids\". Sono inoltre in grado di frantumare il ghiaccio senza scioglierlo."
+    ],
+    "quest.5FE507DAEE770507.quest_subtitle": "Un percorso alternativo per il colore azzurro chiaro.",
+    "quest.5FE507DAEE770507.title": "\\&aOphyx: Chiamata",
+    "quest.61999669BDE127F9.quest_desc": [
+        "Se non lo avete notato, ripetere continuamente gli stessi rituali di preparazione e ri-preparazione può influire negativamente sulla durata delle vostre attrezzature.",
+        "",
+        "Se sei preoccupato che la tua matita si rompa, ma non vuoi ripetere l'intero rituale per creare una nuova matita, allora questo rituale è quello giusto per te!",
+        "",
+        "Grazie al potere di \"a \\&aDijinni\\&r\", è possibile ripristinare qualsiasi colore di gesso al suo massimo splendore!",
+        "",
+        "In alternativa, potresti utilizzare un mod come \"\\&aEternal Stella\\&r\" dal mod Forbidden Arcanus per preservare in modo permanente i tuoi Chalks!"
+    ],
+    "quest.61999669BDE127F9.quest_subtitle": "Se lo rompi, i demoni lo riparano!",
+    "quest.61999669BDE127F9.title": "Riparazione della lavagna",
+    "quest.6581D4AF1A6DE230.quest_desc": [
+        "\"Come le candele, immagino.\"\n\n\"Per quasi ogni rituale per evocare i nostri amici, avrete bisogno di candele. Potete creare un coltello da macellaio e uccidere maiali, mucche, pecore, cavalli o persino le \"Llama del Commerciante\" per ottenere il \"Grasso\" necessario per farle. In realtà, dovete assolutamente trovare le \"Llama del Commerciante\". Ho sentito dire che producono ottime candele. E no, non l'ho inventata io.\"\n\n\"In alternativa, anche le candele di vaniglia possono funzionare!\"\n\n\"Anche i \"Cristalli Armonizzati con lo Spirito\" vengono utilizzati in diversi rituali, quindi perché non crearne alcune ora!\""
+    ],
+    "quest.6581D4AF1A6DE230.title": "Prepararsi per un rituale: \\&candele",
+    "quest.666EA8B8F13EB292.quest_desc": [
+        "Questo oggetto viene utilizzato per catturare gruppi di creature al fine di trasportarle o conservarle. È inoltre necessario per l'utilizzo con la \\&6ATM Star\\&r."
+    ],
+    "quest.666EA8B8F13EB292.title": "\\& Pietra dell'Anima Vuota",
+    "quest.67884BFA27870CCE.quest_desc": [
+        "«\\&dChiamata senza demoni» è il secondo livello del rituale «\\&dRituali senza demoni». Il primo livello non è utile per il progresso; è utilizzato solo per riportare in vita gli animali domestici e trasformare i Vex in Allays.",
+        "",
+        "Questo rituale viene utilizzato per creare un gran numero di blocchi, oggetti e materiali rari, che altrimenti potrebbero essere difficili da ottenere."
+    ],
+    "quest.67884BFA27870CCE.quest_subtitle": "Per coloro che non sono particolarmente interessati alle procedure giudiziarie",
+    "quest.67884BFA27870CCE.title": "\\&La chiamata senza limiti di Dorin",
+    "quest.690B89D23134B624.quest_desc": [
+        "Prendi i tuoi gessetti, disegna il rituale di contatto di \\&dRonaza e preparati a creare il gesso più FANTASTICO!",
+        "",
+        "Invece di dover trasportare un set completo di 16 matite colorate, è possibile utilizzare la matita Rainbow per creare un simbolo Runico che cambia colore e che può essere considerato equivalente a uno qualsiasi dei 16 simboli!",
+        "",
+        "\\&8*Non include la \"Chalk\" della fondazione. Includere la \"Chalk\" del vuoto in modo da includere anche quella."
+    ],
+    "quest.690B89D23134B624.title": "\\&zRainbow\\&r Gesso",
+    "quest.6C1BBA559963B3DF.quest_desc": [
+        "Il \"Dizionario degli Spiriti\" funge da guida per lo studio dell'occultismo. Se desiderate continuare con questa modifica, è assolutamente necessario procurarsi questo dizionario.",
+        "",
+        "Il dizionario contiene anche una guida in stile \"missione\" che potrete consultare invece di completare queste attività.",
+        "",
+        "Inoltre, avrete bisogno del libro per creare diversi oggetti all'interno del set, quindi in pratica dovrete procurarselo. :)"
+    ],
+    "quest.6C1BBA559963B3DF.title": "Piccolo libro di... e altre creature demoniache",
+    "quest.6CC5FE34778F0DFA.quest_desc": [
+        "È molto probabile che avrete troppi oggetti quando utilizterete questo pacchetto di mod. Semplicemente funziona, e se non avete ancora trovato una soluzione per la gestione del vostro inventario, \"Dimensional Storage\" potrebbe essere proprio quello che fa per voi!",
+        "",
+        "Per iniziare a utilizzare questa soluzione di archiviazione magica, dovrai costruire il \"Dimensionale Attuatore di Archiviazione\" e posizionarlo nel mondo. Funziona in modo simile a una scatola di Shulker, il che significa che, se la distruggi, non perderai alcun oggetto contenuto al suo interno.",
+        "",
+        "Per impostazione predefinita, questo contenitore ha 128 slot, ognuno dei quali può contenere fino a 16 pile di oggetti, ad eccezione degli oggetti con dati \"\\&5NBT\\&\". Questi oggetti non possono essere impilati e occuperanno un intero slot, quindi assicurati di escluderli!",
+        "",
+        "Se non siete sicuri quali oggetti contengono dati NBT, potete sempre consultare la quest \"NBT e voi\" all'interno della linea di quest relativa allo \"Storage\" per ottenere maggiori informazioni sugli NBT!"
+    ],
+    "quest.6CC5FE34778F0DFA.title": "E altro ancora! Magazzino magico!",
+    "quest.6CCDEEDA2C99DA66.quest_desc": [
+        "Questo contenuto è stato creato da \\&6AllTheMods Staff\\&r, o da un \\&2contributore della community\\&r, per l'uso nei pacchetti mod di AllTheMods.\n\nPoiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti a \\&e\"Tutti i diritti riservati\", questo contenuto non può essere utilizzato in altri pacchetti pubblici, a meno che non sia stato rilasciato dal team \\&6AllTheMods\\&r.\n\nQuesto contenuto è intenzionalmente nascosto. Se lo state visualizzando, siete in modalità di modifica."
+    ],
+    "quest.6FEED25FFAC4101F.quest_desc": [
+        "Utilizzando il prodotto \"\\&aStrigeor's Higher Binding\", è possibile creare la \"Pasta Grigia\". Applicate questa pasta su un pezzo di gesso bianco impuro per ottenere gesso grigio."
+    ],
+    "quest.6FEED25FFAC4101F.title": "\\&8Gesso grigio",
+    "quest.6FFFAE334DFAAAAB.quest_desc": [
+        "Come probabilmente avete notato, i rituali tendono ad essere... un po' lenti. Ma non più! Grazie al prodotto \\&cSevira's Permanent Confinement\\&r, è possibile creare il \\&bIesnium Ritual Bowl\\&r.",
+        "",
+        "Quando si utilizza questo strumento al posto di un tradizionale recipiente per rituali, il tempo necessario per completare il rituale viene notevolmente ridotto, arrivando a circa un quarto del tempo originale!"
+    ],
+    "quest.6FFFAE334DFAAAAB.quest_subtitle": "Rituali per una velocità straordinaria!",
+    "quest.6FFFAE334DFAAAAB.title": "Ciotola rituale Iesnium",
+    "quest.74130EB1E4B8586D.quest_desc": [
+        "Utilizzando l'oggetto \"Enthrallment\" di \\&aIhagan, è possibile sacrificare un Allay, un Pipistrello, un'ape o un pappagallo per evocare un \"Ape Posseduta\". Dopo averla sconfitta, rilascerà Miele Maledetto, l'ingrediente principale per creare la Gesso Arancione!"
+    ],
+    "quest.74130EB1E4B8586D.title": "\\&6 Gesso arancione",
+    "quest.78ECC28DD4BA9696.quest_desc": [
+        "Sebbene sia possibile ottenere la maggior parte dei materiali di \"\\&Otherworld\\&\" utilizzando lo \"Spiritfire\", è anche possibile utilizzare le \"Divination Rods\" per localizzarli.",
+        "",
+        "Innanzitutto, è necessario regolare il \"Rod\" in base al materiale che si sta cercando. Ad esempio, se si sta cercando un \"Otherstone\", è possibile utilizzare il \"Rod\" con il termine \"\\&aAndesite\\&r\" per localizzare l'Otherstone nel mondo.",
+        "",
+        "Una volta che si è stabilito un legame con un materiale, è possibile utilizzare il tasto destro del mouse tenendo in mano il bastone, e una particella verrà sparata nella direzione del materiale a cui è legato.",
+        "",
+        "Sarà comunque necessario essere sotto l'influenza del \"Terzo Occhio\" per poter raccogliere il blocco proveniente dall'Altro Mondo."
+    ],
+    "quest.78ECC28DD4BA9696.quest_subtitle": "Ricerca e acquisizione di materiali per \"Otherworld\"",
+    "quest.78ECC28DD4BA9696.title": "Strumenti del mestiere: Bacchetta divinatoria",
+    "quest.7BCD4A425CF6199B.quest_desc": [
+        "Dopo aver sconfitto il Capro della Misericordia evocato da \"\\&9Xeovrenth Adjure\\&r\", otterrai un'Essenza di Crueltà in più. Combina questa con alcuni fagioli di cacao per creare la matita marrone."
+    ],
+    "quest.7BCD4A425CF6199B.title": "Gesso marrone",
+    "quest.7F09F8F98C13F11B.quest_desc": [
+        "Qual è un rituale demoniaco senza offerte? :D\n\nNella maggior parte dei casi, i demoni desiderano semplicemente oggetti, quindi non dovresti essere troppo preoccupato. Tuttavia, se hai un muletto preferito, potresti dover prestare attenzione. Scusa, Betsy.\n\nI \"vasi per offerte\" vengono utilizzati per posizionare gli oggetti necessari per i rituali. Questi possono essere posizionati ovunque all'interno del rituale, purché non coprano la creta necessaria.",
+        "",
+        "Al momento, sarà sufficiente ne avere quattro, ma in seguito ne avrete bisogno di almeno dieci per ogni rituale!\n\nLa \"Bolla Sacra del Rituale\" (indicata con \"\\&6\") viene utilizzata nel centro del rituale per attivarlo, e di solito è necessario anche un \"Libro di Legatura\" per il rituale."
+    ],
+    "quest.7F09F8F98C13F11B.title": "Preparazione per un rituale: 6 ciotole",
+    "quest.7F59941D62E672B0.quest_desc": [
+        "L'occultismo offre molto più che semplici demoni da sconfiggere!",
+        "",
+        "Esistono demoni in grado di eseguire compiti per te, come tagliare legna e altro ancora!!",
+        "",
+        "Esistono anche modi per ottenere amici speciali, chiamati \"\\&dFamiliars\\&r\", che forniscono bonus speciali e persino combattono al tuo posto! Assicurati di consultare la sezione \"\\&dFamiliar Rituals\\&r\" nel tuo manuale!"
+    ],
+    "quest.7F59941D62E672B0.title": "\\& Familiari",
+    "task.036759CF4EEFFC7D.title": "Tutti i diritti riservati",
+    "task.0446B7C6DBB5DDF9.title": "Ciotole dorate",
+    "task.05A43D4098C30ED1.title": "Calici di Eldritch",
+    "task.0EE813C344409F59.title": "Candele",
+    "task.10037D5225C2D20E.title": "Ciotole rituali Iesnium",
+    "task.1709A45C149125F1.title": "Tutti i diritti riservati",
+    "task.2C5C6F411E2F0CAF.title": "Qualsiasi quantità di polvere di Netherite",
+    "task.348A7E3E3A3D324E.title": "Sì, l'ho letto e sicuramente non lo dimenticherò!",
+    "task.3621D48E2CFAF2C2.title": "Qualsiasi tipo di lana (c:wools)",
+    "task.3A9C5AE548810FA6.title": "Cesti per offerte",
+    "task.523951BF097BA61F.title": "Qualsiasi prodotto con il codice \"#c:dusts\/emerald\"",
+    "task.53DE943DF951696B.title": "Minatore di demoni",
+    "task.6C3887D42B6B2122.title": "Animali domestici"
+}

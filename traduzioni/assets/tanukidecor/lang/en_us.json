@@ -53,6 +53,7 @@
     "block.tanukidecor.carriage_clock": "Carriage Clock",
     "block.tanukidecor.cash_register": "Cash Register",
     "block.tanukidecor.classic_vase": "Classic Vase",
+    "block.tanukidecor.crab_clock": "Crab Clock",
     "block.tanukidecor.crystal_clock": "Crystal Clock",
     "block.tanukidecor.cuckoo_clock": "Cuckoo Clock",
     "block.tanukidecor.dessert_case": "Dessert Case",
@@ -210,6 +211,7 @@
     "block.tanukidecor.yellow_rocket_lamp": "Yellow Rocket Lamp",
     "block.tanukidecor.yellow_stall_tarp": "Yellow Stall Tarp",
     "block.tanukidecor.yellow_wall_tarp": "Yellow Wall Tarp",
+    "itemGroup.tanukidecor.tab": "Tanuki Decor",
     "jei.recipe.category.tanukidecor.diy": "DIY Crafting",
     "message.block.tanukidecor.diy_workbench.disabled": "DIY crafting is disabled",
     "subtitle.block.tanukidecor.alarm_clock.chime": "Alarm clock rings",
@@ -231,6 +233,5 @@
     "subtitle.block.tanukidecor.mini_figure.squeak": "Mini figure squeaks",
     "subtitle.block.tanukidecor.pocket_watch.tick": "Pocket watch ticks",
     "subtitle.block.tanukidecor.recognizable_clock.chime": "Recognizable clock chimes",
-    "subtitle.block.tanukidecor.slate_clock.chime": "Slate clock chimes",
-    "tab.tanukidecor.tab": "Tanuki Decor"
+    "subtitle.block.tanukidecor.slate_clock.chime": "Slate clock chimes"
 }

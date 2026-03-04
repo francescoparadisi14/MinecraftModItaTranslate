@@ -1,5 +1,12 @@
 {
-    "block.copperhopper.copper_hopper": "Fusto di rame",
-    "entity.copperhopper.copper_hopper_minecart": "Carro minatore con contenitore di rame",
-    "item.copperhopper.copper_hopper_minecart": "Carro minatore con contenitore di rame"
+    "block.copperhopper.copper_hopper": "Serbatoio in rame",
+    "block.copperhopper.exposed_copper_hopper": "Contenitore in rame esposto",
+    "block.copperhopper.oxidized_copper_hopper": "Contenitore in rame ossidato",
+    "block.copperhopper.waxed_copper_hopper": "Contenitore in rame lucidato",
+    "block.copperhopper.waxed_exposed_copper_hopper": "Contenitore in rame scoperto con rivestimento in cera",
+    "block.copperhopper.waxed_oxidized_copper_hopper": "Contenitore in rame ossidato e lucidato",
+    "block.copperhopper.waxed_weathered_copper_hopper": "Contenitore in rame anticato e lucidato",
+    "block.copperhopper.weathered_copper_hopper": "Contenitore in rame consumato",
+    "entity.copperhopper.copper_hopper_minecart": "Carro minerario con contenitore in rame",
+    "item.copperhopper.copper_hopper_minecart": "Carro minerario con contenitore in rame"
 }

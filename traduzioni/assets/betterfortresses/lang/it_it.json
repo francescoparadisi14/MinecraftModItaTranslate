@@ -1,6 +1,6 @@
 {
-    "Use \/locate structure betterfortresses:fortress instead!": "Usa \/locate Struttura Betterfortresses:fortezza Invece!",
-    "text.autoconfig.betterfortresses-fabric-1_21.option.general.disableVanillaFortresses": "Disabilita Fortezze Del Nether Vanilla",
-    "text.autoconfig.betterfortresses-fabric-1_21.option.general.disableVanillaFortresses.@Tooltip": "Se Le Fortezze Del Nether Di Base Dovrebbero Essere Disabilitate",
-    "text.autoconfig.betterfortresses-fabric-1_21.title": "Fortezze Del Nether Di Yung"
+    "Use \/locate structure betterfortresses:fortress instead!": "Utilizzare la struttura `\/locate structure:fortress` invece di `\/locate structure:fortress`!",
+    "text.autoconfig.betterfortresses-fabric-1_21.option.general.disableVanillaFortresses": "Disabilitare le fortezze del Nether originali",
+    "text.autoconfig.betterfortresses-fabric-1_21.option.general.disableVanillaFortresses.@Tooltip": "Se è necessario disabilitare le fortezze Nether di vanilla.",
+    "text.autoconfig.betterfortresses-fabric-1_21.title": "Le migliori fortezze di YUNG"
 }

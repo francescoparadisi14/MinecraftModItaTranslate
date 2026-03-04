@@ -1,12 +1,12 @@
 {
-    "name": "Albero di sangue shroom",
+    "name": "Albero del sangue",
     "icon": "tconstruct:blood_slime_sapling",
     "category": "patchouli:tree_absorber",
     "sortnum": "1",
     "pages": [
         {
             "type": "multiblock",
-            "name": "Piante di fungo sanguigno",
+            "name": "Albero del fungo",
             "enable_visualize": true,
             "multiblock": {
                 "pattern": [
@@ -85,7 +85,7 @@
         {
             "type": "text",
             "title": "Bloodshroom Tree",
-            "text": "Questa struttura richiede; $(li)Tronchi di Funghi Sanguinario$(li)Verme di Mucillagine$(li)Assorbitore d'Albero$(br2)Una volta completata, l'assorbitore d'albero inizierà a creare bottini del tipo di albero specifico. Richiede energia"
+            "text": "Questa struttura richiede:\n*   Log di Bloodshroom\n*   Slimey Wart\n*   Albero assorbitore\n*   Una volta completata, l'albero assorbitore inizierà a produrre frutti di quel tipo. Richiede energia."
         }
     ]
 }

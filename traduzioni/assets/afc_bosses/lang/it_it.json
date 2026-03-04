@@ -1,0 +1,21 @@
+{
+    "death.attack.dark_abyss": "È stato eliminato.",
+    "death.attack.dark_abyss.item": "%1$s è stato eliminato da %2$s utilizzando %3$s",
+    "death.attack.dark_abyss.player": "%1$s è stato rimosso mentre cercava di fuggire da %2$s",
+    "effect.afc_bosses.armor_shred": "Distruzione dell'armatura",
+    "effect.afc_bosses.buff_immunity": "Immunità potenziata",
+    "effect.afc_bosses.camera_shake": "Scossa",
+    "effect.afc_bosses.daze": "Confuso, sbalordito",
+    "effect.afc_bosses.daze_effect": "Confuso, sbalordito",
+    "effect.afc_bosses.immunity": "Immunità",
+    "effect.afc_bosses.rage": "Rabbia",
+    "effect.afc_bosses.soul_curse": "Maledizione dell'anima",
+    "entity.afc_bosses.exodus_the_hollow": "Esodo: Il Vuoto",
+    "item.afc_bosses.exodus_boss_music_disc": "Disco musicale",
+    "item.afc_bosses.exodus_boss_music_disc.desc": "Makai Symphony - Battle Troopers",
+    "item.afc_bosses.exodus_the_hollow_spawn_egg": "Exodo: Uovo di incubazione",
+    "item_group.afc_bosses.afc_bosses": "Dirigenti dell'AFC",
+    "subtitles.bosslaugh": "Esodo ride",
+    "subtitles.bossmusic1": "",
+    "subtitles.exodusbossmusic": ""
+}

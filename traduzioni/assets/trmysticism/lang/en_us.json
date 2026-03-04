@@ -75,7 +75,7 @@
     "item.trmysticism.shadow_imp_spawn_egg": "Shadow Imp Spawn Egg",
     "tooltip.trmysticism.darkness_core": "Used to convert a Fallen Angel into a Fallen. Can't be used by any other race.",
     "trmysticism.axe_already_created": "You have already created Marduck’s Axe!",
-    "trmysticism.command.force_dissolve.failure": "%s is not a spirit!",
+    "trmysticism.command.force_dissolve.failure": "Command failed! (No contract was detected).",
     "trmysticism.command.force_dissolve.failure_self": "You are not a spirit!",
     "trmysticism.command.force_dissolve.offline_dissolve": "While you were offline, one of your contracts was dissolved.",
     "trmysticism.command.force_dissolve.offline_dissolve_name": "While you were offline, your contract with %s was dissolved.",

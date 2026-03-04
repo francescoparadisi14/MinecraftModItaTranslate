@@ -1,5 +1,7 @@
 {
+    "item.tinkers_katanas.fuma_shuriken": "Lancia Shuriken",
+    "item.tinkers_katanas.fuma_shuriken.description": "Lo Shuriken Fuma è un'arma da lancio di grandi dimensioni, progettata per colpire i nemici a distanza.",
     "item.tinkers_katanas.katana": "Katana",
-    "item.tinkers_katanas.katana.description": "La katana è un'arma a lama singola progettata per attacchi circolari contro un gruppo di avversari.",
-    "itemGroup.tinkers_katanas.tinkers_katanas": "Katanas dei fabbri"
+    "item.tinkers_katanas.katana.description": "La katana è un'arma a lama singola, progettata per attacchi ampi contro un gruppo di avversari.",
+    "itemGroup.tinkers_katanas.tinkers_katanas": "Katane dei fabbri"
 }

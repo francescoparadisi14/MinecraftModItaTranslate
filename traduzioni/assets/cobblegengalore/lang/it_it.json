@@ -1,12 +1,12 @@
 {
-    "block.cobblegengalore.block_gen_copper": "Generatore di blocchi di rame",
+    "block.cobblegengalore.block_gen_copper": "Generatore a blocco di rame",
     "block.cobblegengalore.block_gen_diamond": "Generatore di blocchi di diamante",
-    "block.cobblegengalore.block_gen_emerald": "Generatore di blocchi di zaffiro",
+    "block.cobblegengalore.block_gen_emerald": "Generatore di blocchi verdi smeraldo",
     "block.cobblegengalore.block_gen_gold": "Generatore di blocchi d'oro",
     "block.cobblegengalore.block_gen_iron": "Generatore di blocchi di ferro",
-    "block.cobblegengalore.block_gen_netherite": "Generatore di blocchi di netherite",
+    "block.cobblegengalore.block_gen_netherite": "Generatore di blocchi di Netherite",
     "block.cobblegengalore.block_gen_stone": "Generatore di blocchi di pietra",
-    "block_gen.tooltip": "Modificatore di velocità: %s",
+    "block_gen.tooltip": "Fattore di velocità: %s",
     "jei.cobblegengalore.blockgen": "Generatore di blocchi",
-    "jei.cobblegengalore.consumed": "Il blocco di partenza è consumato"
+    "jei.cobblegengalore.consumed": "La fonte viene utilizzata\/consumata."
 }

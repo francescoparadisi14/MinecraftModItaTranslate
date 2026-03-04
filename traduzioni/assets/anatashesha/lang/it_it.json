@@ -1,13 +1,13 @@
 {
-    "entity.anatashesha.anatashesha": "Anatashësha",
-    "entity.anatashesha.anatashesha_jumping": "Anatashe'a",
-    "entity.anatashesha.anatashesha_jumping_spawn": "Anatashësha",
-    "gamerule.enableAnatasheshaSpawn": "Abilita la nascita di Anatashesha",
-    "gamerule.enableAnatasheshaSpawn.description": "Abilita lo spawning di SCP-3000",
-    "item.anatashesha.anatashesha_jumping_spawn_egg": "Uovo di spawn di Anatashesha",
-    "item.anatashesha.anatashesha_spawn_egg": "Uovo di anatashsha",
-    "subtitles.entity.anatashesha.ambient": "Anatashesha ringhia",
-    "subtitles.entity.anatashesha.death": "anatashesha muore",
-    "subtitles.entity.anatashesha.hurt": "Anatash' Sha è stato ferito",
-    "subtitles.entity.anatashesha.spawn": "Anatashsha si è generata"
+    "entity.anatashesha.anatashesha": "Anatashesha",
+    "entity.anatashesha.anatashesha_jumping": "Anatashesha",
+    "entity.anatashesha.anatashesha_jumping_spawn": "Anatashesha",
+    "gamerule.enableAnatasheshaSpawn": "Abilita la generazione di Anatashesha",
+    "gamerule.enableAnatasheshaSpawn.description": "Permette la creazione di SCP-3000.",
+    "item.anatashesha.anatashesha_jumping_spawn_egg": "Uovo di Anatashesha",
+    "item.anatashesha.anatashesha_spawn_egg": "Uovo di Anatashesha",
+    "subtitles.entity.anatashesha.ambient": "Ringhi di Anatashesha",
+    "subtitles.entity.anatashesha.death": "Anatashesha Dies",
+    "subtitles.entity.anatashesha.hurt": "Anastasha Hurt",
+    "subtitles.entity.anatashesha.spawn": "Uova di Anatashesha"
 }

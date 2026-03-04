@@ -1,0 +1,101 @@
+{
+    "quest.06094615950AC062.title": "Altri miglioramenti per i sistemi di trasporto",
+    "quest.0BCCDE24D378F260.quest_subtitle": "Livello: \\&d3",
+    "quest.0BCCDE24D378F260.title": "\\&dTelaio meccanico avanzato",
+    "quest.0E8647B8EB4AAC41.quest_desc": [
+        "Comportamento passivo dei nemici -> Più \"carne\" (probabilmente riferito a \"pink slime\").\nComportamento ostile dei nemici -> Più \"carne\" (probabilmente riferito a \"pink slime\")."
+    ],
+    "quest.0E8647B8EB4AAC41.title": "\"Pink Slime\" e \"Carne Liquida\"",
+    "quest.0EA9E52B67B533DF.quest_desc": [
+        "Quando la gomma viene fusa, si trasforma in plastica, che è la principale risorsa nell'industria manifatturiera."
+    ],
+    "quest.0EC2053B191C55C6.quest_desc": [
+        "Estrae la resina di acacia dai log, e funziona meglio quando ha energia disponibile.\n\nVerificare con JEI quali tipi di log e quantità di resina di acacia sono accettabili. Il tipo di log migliore da utilizzare è l'acacia."
+    ],
+    "quest.0FAAE744E156D8EF.quest_desc": [
+        "L'unità \\&laquo;Reattore a Micelio\\&raquo; è composta da tutti i generatori a micelio che operano simultaneamente, situati vicino al blocco del reattore, e produce un totale di \\&laquo;25 MFE\/t\\&raquo;.\n\nTutto sembra funzionare, ma è necessario automatizzare alcuni processi per farlo, analizzando il consumo di energia di ciascun generatore a micelio e automatizzandolo. La maggior parte delle operazioni è semplice, ma alcune richiedono più attenzione... ad esempio, analizzando il \\&laquo;Generatore a Micelio di Disincantamento\\&raquo;.\n\nUna volta automatizzati tutti i processi, non è necessario fermarsi a uno solo; è possibile costruire altri reattori."
+    ],
+    "quest.0FAAE744E156D8EF.quest_subtitle": "Reattore micelio, eh?",
+    "quest.1823CC81D613892B.quest_desc": [
+        "Gruppi di persone inattive → Più \"Pink Slime\"",
+        "Gruppi di persone ostili → Più carne"
+    ],
+    "quest.1BA3D15FFE7DBE59.quest_desc": [
+        "In \\&bIndustrial Foregoing\\&r, una delle principali risorse è il \\&fLatex.\\&r Viene utilizzato per costruire telai di macchine, necessari per la costruzione e l'aggiornamento delle macchine.\n\nLa produzione di \\&fLatex\\&r è relativamente semplice: l'\\&aEstrattore di fluidi\\&r estrae il \\&fLatex\\&r dagli \\&6Tronchi (gli \\&Acacia\\&r sono quelli che producono la maggiore quantità).\n\n------------------------\n\nOra, per quanto riguarda la produzione di plastica: la plastica è il risultato della fusione del gomma secco, che viene prodotta nell'\\&aUnità di lavorazione del gomma\\&r, che trasforma il \\&fLatex\\&r in gomma secca.\n\nQuindi, in sintesi: \\&fLatex\\&r -> Gomma secca -> Plastica."
+    ],
+    "quest.1BA3D15FFE7DBE59.quest_subtitle": "Latex e plastica? Ma cosa intende?",
+    "quest.1BA3D15FFE7DBE59.title": "Latex e plastica? Ma cosa intende?",
+    "quest.2CCFEE98FE3B2E97.quest_desc": [
+        "Queste macchine sono utilizzate per automatizzare l'inserimento e la rimozione di blocchi. Questo è particolarmente utile quando si automatizza la lavorazione della gomma naturale."
+    ],
+    "quest.2CCFEE98FE3B2E97.title": "Blocchi",
+    "quest.2F69010E1FA2787D.quest_desc": [
+        "Questo contenuto è stato creato da \\&6AllTheMods Staff\\&r, o da un \\&2contributore della community\\&r, per l'uso nei pacchetti mod di AllTheMods.\n\nPoiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti a \\&e\"Tutti i diritti riservati\", questo contenuto non può essere utilizzato in altri pacchetti pubblici, a meno che non sia stato rilasciato dal team \\&6AllTheMods\\&r.\n\nQuesto contenuto è intenzionalmente nascosto. Se lo state visualizzando, siete in modalità di modifica."
+    ],
+    "quest.3027584AA6138E6D.title": "Inserimento e rimozione di nastri trasportatori",
+    "quest.321FA7348E532F4E.title": "Latex",
+    "quest.33532408B21A5378.quest_desc": [
+        "Il generatore inefficiente produce una piccola quantità di energia elettrica utilizzando combustibili come il carbone."
+    ],
+    "quest.339DF320DDCAD98B.title": "Trasporto di articoli e fluidi",
+    "quest.3514E9C1A8C7400C.quest_subtitle": "Livello: \\&b2",
+    "quest.3514E9C1A8C7400C.title": "\\&bTelaio per macchine semplici",
+    "quest.3CB7884B7B32CF00.quest_desc": [
+        "Ottenere il vostro primo \"Ether Gas\" potrebbe essere un'esperienza un po' intimidatoria.\n\nL'\"Ether Gas\" viene ottenuto perforando un \"Wither\" utilizzando una \"Fluid Drill\" con una \"Purple Lens\".",
+        "",
+        "Ma non preoccupatevi del Wither: Industrial Foregoing dispone di una macchina apposita per aiutarvi in questa operazione. La \"Camera di Stasi\" è una macchina che congela qualsiasi oggetto situato all'interno di un'area di 3x3, incluso il Wither.",
+        "",
+        "E, spero che non si esaurisca la batteria, perché se dovesse succedere... spero che siate pronti a combattere contro il \"Wither\"."
+    ],
+    "quest.3CB7884B7B32CF00.quest_subtitle": "Gas di etere? Ma cosa intende?",
+    "quest.3E6706BC4C318A40.quest_desc": [
+        "Il sistema di fognatura viene utilizzato per raccogliere le acque reflue, che a loro volta vengono utilizzate per produrre fertilizzanti."
+    ],
+    "quest.3E6706BC4C318A40.title": "Fognatura",
+    "quest.418E57E34FFC19E1.quest_desc": [
+        "Suggerimento: Utilizzare un tipo di vetro resistente alla putrefazione."
+    ],
+    "quest.418E57E34FFC19E1.quest_subtitle": "Minatore di risorse inutilizzate",
+    "quest.418E57E34FFC19E1.title": "Trapano laser",
+    "quest.41E8550FC36ABCA5.title": "Infinity Tools",
+    "quest.427C3AFC0FF131CD.title": "Liquidi",
+    "quest.485AFAE5BBEF2FC7.title": "Animali",
+    "quest.4C366515E3CCB0B2.quest_desc": [
+        "Carne cotta in un tubo, deliziosa."
+    ],
+    "quest.4DB5DD6E20619B4D.quest_desc": [
+        "Utilizzato per migliorare le macchine."
+    ],
+    "quest.540B857F043C24D5.quest_desc": [
+        "Il bioreattore utilizza il bio-carburante prodotto dal generatore di bio-carburante per generare FE."
+    ],
+    "quest.540B857F043C24D5.title": "Energia biologica",
+    "quest.55820773BDD5319D.quest_desc": [
+        "\\&bIndustrial Foregoing\\&r (IF, per brevità) è un mod tecnologico che aggiunge numerose macchine con diverse funzioni.\n\nPer iniziare, costruite un \\&aTelaio per Macchina di Compassione\\&r."
+    ],
+    "quest.55820773BDD5319D.quest_subtitle": "Livello: \\&a1",
+    "quest.55820773BDD5319D.title": "Prevenzione industriale",
+    "quest.57C4A0BAE739E903.quest_desc": [
+        "La Camera di Dissoluzione viene utilizzata per creare macchinari più avanzati.\n\nDovrete inserire un determinato liquido, insieme agli oggetti necessari per la creazione. Consultate JEI."
+    ],
+    "quest.57C4A0BAE739E903.quest_subtitle": "Il tavolo di lavoro?",
+    "quest.5FE631066CAB7397.quest_desc": [
+        "Progettato per catturare e trasportare facilmente gruppi di creature."
+    ],
+    "quest.690CFF61CE787D43.quest_desc": [
+        "La plastica è la principale risorsa di \\&bIndustrial Foregoing\\&r; ora avete accesso a macchinari molto utili!"
+    ],
+    "quest.6C001E18093FC037.title": "Piante",
+    "quest.6FF04DD735346BED.quest_desc": [
+        "Trasforma il lattice in gomma dura."
+    ],
+    "quest.7B4AF35313D7D779.quest_subtitle": "Livello: \\&64",
+    "quest.7B4AF35313D7D779.title": "\\&6 Telaio Supremo",
+    "quest.7E39FB9F3E973009.title": "Gas di etere",
+    "task.1F1A69738DE70DB6.title": "Il reattore miceliale",
+    "task.335D80E83360A7DB.title": "Comprendere il gas Ether",
+    "task.38E166AC8F55D42E.title": "Aggiornamenti",
+    "task.391AB5CA0E5C35FD.title": "Comprendere il lattice e la plastica",
+    "task.6B17A0D9906E8C90.title": "Tutti i diritti riservati",
+    "task.7058D3373DA87B34.title": "Tutti i diritti riservati"
+}

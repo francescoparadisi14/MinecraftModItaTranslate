@@ -1,0 +1,452 @@
+{
+    "quest.001B195541AE0FA1.quest_desc": [
+        "È un'armatura divertente che utilizzo sia per il salto che per l'arrampicata, ovunque e sempre."
+    ],
+    "quest.001B195541AE0FA1.quest_subtitle": "12",
+    "quest.001B195541AE0FA1.title": "\\&Armatura di Slime",
+    "quest.004D61425172324F.quest_desc": [
+        "\\&8L'armatura in catena\\&r è leggermente meno efficace dell'armatura in ferro. Il suo principale utilizzo in \\&l\\&2Minecraft\\&r era la sua rarità, ottenibile solo tramite scambi e oggetti ottenuti dagli NPC.\n\nNaturalmente, questo è dovuto all'uso di mod, quindi ora possiamo crearla! Questo però ne elimina la funzione principale..."
+    ],
+    "quest.004D61425172324F.quest_subtitle": "12",
+    "quest.004D61425172324F.title": "\\&Armatura in catena",
+    "quest.03C059DFF8F1BF41.quest_desc": [
+        "L'armatura \"Emerald\" fornita dal mod \"Pickle Tweaks\" offre un set di armatura con statistiche simili a quelle dell'armatura in diamante, ma a un costo praticamente nullo, dato che gli \"emeraldi\" sono facili da ottenere."
+    ],
+    "quest.03C059DFF8F1BF41.quest_subtitle": "20",
+    "quest.03C059DFF8F1BF41.title": "\\&aArmatura di smeraldo",
+    "quest.04B31A600004F7CB.quest_desc": [
+        "Questa quest è stata creata da \\&6AllTheMods Staff\\&r, o da un \\&2contributore della community\\&r, per l'uso nei pacchetti mod di AllTheMods.\n\nPoiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti a \\&eTutti i diritti riservati\\&r, questa quest non può essere utilizzata in altri pacchetti pubblici, a meno che non siano stati rilasciati dal team \\&6AllTheMods\\&r, previa autorizzazione esplicita.\n\nQuesta quest è intenzionalmente nascosta. Se la visualizzate, significa che siete in modalità di modifica."
+    ],
+    "quest.06B8539B731FE4BA.quest_desc": [
+        "L'armatura \"\\&4Eclipse Alloy\\&r\" del mod \"\\&b\\&lJust Dire Things\\&r\" è il livello finale e più potente dell'armatura \"\\&b\\&lJDT\". Sebbene offra la protezione dell'armatura in diamante, le sue vere funzioni derivano dalla sua capacità di immagazzinare energia e dalle numerose modifiche che possono essere applicate."
+    ],
+    "quest.06B8539B731FE4BA.quest_subtitle": "20",
+    "quest.06B8539B731FE4BA.title": "\\&4Armatura in lega di Eclipse",
+    "quest.074EC1E636CD6605.quest_desc": [
+        "\\&cArmatura di Netherite\\&r è l'armatura migliore che si possa ottenere in \\&l\\&2Vanilla\\&r. Ha lo stesso livello di protezione dell'armatura in \\&bDiamante\\&r, ma offre una maggiore resistenza.\n\nProbabilmente perché è necessario utilizzare il \\&bDiamante\\&r per crearla!"
+    ],
+    "quest.074EC1E636CD6605.quest_subtitle": "20",
+    "quest.074EC1E636CD6605.title": "\\& Armatura di Netherite",
+    "quest.0ABB2264CBB82470.quest_desc": [
+        "Armatura in ferro di \\&d\\&lArs\\&r.",
+        "L'insieme \"\\&5Arcanist\\&r\" è uno dei tre tipi principali di armatura magica presenti nel mod \"\\&5Ars Nouveau\\&r\", insieme agli insiemi \"\\&5Sorcerer\\&r\" e \"\\&cBattlemage\\&r\".\n\nFornisce un numero moderato di slot per i fili magici, che conferiscono vantaggi e abilità speciali. È più versatile dell'armatura \"\\&cBattlemage\\&r\", ma ha meno slot e meno potenti rispetto all'armatura \"\\&5Sorcerer\\&r\"."
+    ],
+    "quest.0ABB2264CBB82470.quest_subtitle": "15",
+    "quest.0ABB2264CBB82470.title": "\\&5Abbigliamento da mago",
+    "quest.0CE23DBBBFBCC372.quest_desc": [
+        "L'armatura \"\\&6Mortem Armor\\&r\" del mod \"\\&6Forbidden Arcanus\\&r\" è un set di armatura di base, utilizzabile all'inizio del gioco, che offre una protezione leggermente superiore rispetto all'armatura in cuoio. È notevole per il suo basso costo e il suo aspetto accattivante, ma è solo un set temporaneo.\n\n**Nota per chi utilizza la modalità di modifica:** Questa quest è stata temporaneamente nascosta perché all'epoca della stesura, l'armatura \"\\&6Mortem Armor\\&r\" non disponeva di una ricetta. Una volta che \"\\&6Mortem Armor\\&r\" sarà possibile crearla, tramite \"\\&6Forbidden Arcanus\\&r\" o KubeJS, rimuovi questa nota e rendi di nuovo visibile la quest."
+    ],
+    "quest.0CE23DBBBFBCC372.quest_subtitle": "11",
+    "quest.0CE23DBBBFBCC372.title": "\\&6Armatura di Mortem",
+    "quest.0E2515424291BB59.quest_desc": [
+        "Edizione speciale di armature per \\&d\\&lArs\\&r!"
+    ],
+    "quest.0E2515424291BB59.quest_subtitle": "20",
+    "quest.0E2515424291BB59.title": "\\&5L'abbigliamento di Battlemage",
+    "quest.0F1D6F4729CC38F3.quest_desc": [
+        "È anche possibile ottenerli dagli scheletri di \"Wild Hunt\" (Caccia Selvaggia).",
+        "{image:atm:textures\/questpics\/basicarmor\/armor_rib.png width:100 height:150 align:center}"
+    ],
+    "quest.0F1D6F4729CC38F3.quest_subtitle": "Fortezza di Nether",
+    "quest.0F1D6F4729CC38F3.title": "Rettilatura per armature in acciaio",
+    "quest.10AA2B20D86747F7.quest_desc": [
+        "\\&bFerricore\\&r ha le stesse statistiche di Ferro, ma possiede anche altre abilità che Ferro desidererebbe avere!\n\nPer saperne di più su cosa può fare, consultate le descrizioni degli oggetti."
+    ],
+    "quest.10AA2B20D86747F7.quest_subtitle": "15",
+    "quest.10AA2B20D86747F7.title": "\\&bFerricore Amor",
+    "quest.1245126B4338C019.quest_desc": [
+        "È anche possibile ottenerlo da Wild Evokers.",
+        "{image:atm:textures\/questpics\/basicarmor\/armor_vex.png width:100 height:150 align:center}"
+    ],
+    "quest.1245126B4338C019.quest_subtitle": "Villa nel bosco",
+    "quest.1245126B4338C019.title": "Guarnizione per armatura Vex",
+    "quest.13517D17E6BF015F.quest_desc": [
+        "Con l'armatura \\&bDiamond Armor\\&r e alcuni oggetti \\&aInferium\\&r, è possibile creare l'armatura \\&aInferium Armor\\&r! Inoltre, è possibile migliorarla utilizzando la meccanica!"
+    ],
+    "quest.13517D17E6BF015F.quest_subtitle": "21",
+    "quest.13517D17E6BF015F.title": "\\&aArmatura Inferiore",
+    "quest.17A68C4E9E9EA2B7.quest_desc": [
+        "L'armatura dorata si colloca tra l'armatura in ferro e quella in cuoio. Tuttavia, la sua resistenza è molto più simile a quella in cuoio.\n\nNon ha molte applicazioni, oltre a far sì che i Piglins siano neutrali nei tuoi confronti quando la indossi."
+    ],
+    "quest.17A68C4E9E9EA2B7.quest_subtitle": "11",
+    "quest.17A68C4E9E9EA2B7.title": "\\&Armatura dorata",
+    "quest.19F58E291A543228.quest_desc": [
+        "Edizione speciale di armature in oro!",
+        "",
+        "È un set di armatura con una difesa base molto bassa, ma con un enorme potenziale per miglioramenti magici. A differenza degli altri set di armatura, non offre una grande resistenza ai danni, ma aumenta notevolmente la potenza delle tue magie.\n\nForse non avrai nemmeno bisogno di ripararla..."
+    ],
+    "quest.19F58E291A543228.quest_subtitle": "11",
+    "quest.19F58E291A543228.title": "\\&5L'abbigliamento del mago",
+    "quest.1A8440C0048EEB02.quest_desc": [
+        "\\&cBlazegold\\&r ha le stesse statistiche di Iron, ma possiede anche altre abilità che Iron desidererebbe avere!\n\nPer saperne di più su cosa può fare, consultate le descrizioni degli oggetti."
+    ],
+    "quest.1A8440C0048EEB02.quest_subtitle": "15",
+    "quest.1A8440C0048EEB02.title": "E altre armature Blazegold",
+    "quest.1C27C74722A19FC1.quest_desc": [
+        "Con una vasta gamma di oggetti di valore elevato, tra cui l'armatura \"Unobtainium\", potrai migliorarla fino all'armatura \"MekaSuit\"!\n\nOra, invece di subire danni che riducono la salute, l'armatura assorbirà energia.\n\nPuoi utilizzare le unità di miglioramento per renderla ancora più potente!"
+    ],
+    "quest.1C27C74722A19FC1.quest_subtitle": "Quanta energia possibile",
+    "quest.1C27C74722A19FC1.title": "\\&A MekaSuit",
+    "quest.1CC627D3FB348C89.quest_desc": [
+        "È anche possibile ottenerlo dal \"Wild Horde Silverfish\".",
+        "{image:atm:textures\/questpics\/basicarmor\/armor_shaper.png width:100 height:150 align:center}"
+    ],
+    "quest.1CC627D3FB348C89.quest_subtitle": "Resti di antichi sentieri",
+    "quest.1CC627D3FB348C89.title": "Rettilatura per armature",
+    "quest.1D27EE427ECFD6CE.quest_desc": [
+        "Versione migliorata di \\&cTertium\\&r."
+    ],
+    "quest.1D27EE427ECFD6CE.quest_subtitle": "27",
+    "quest.1D27EE427ECFD6CE.title": "\\&9 Imperium Armor",
+    "quest.1D91E37BFD8CC911.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_emerald.png width:100 height:150 align:center}"
+    ],
+    "quest.1D91E37BFD8CC911.title": "\\&2Emerald\\&r",
+    "quest.1E3E688B3B52C4D2.quest_desc": [
+        "È anche possibile ottenerlo dal \"Wild Horde Silverfish\".",
+        "{image:atm:textures\/questpics\/basicarmor\/armor_raiser.png width:100 height:150 align:center}"
+    ],
+    "quest.1E3E688B3B52C4D2.quest_subtitle": "Resti di antichi sentieri",
+    "quest.1E3E688B3B52C4D2.title": "Guarnizione per armatura",
+    "quest.1EABF2E7AE7B8F22.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_netherite.png width:100 height:150 align:center}"
+    ],
+    "quest.1EABF2E7AE7B8F22.title": "\\&8Netherite\\&r",
+    "quest.1FAE4A884E083283.quest_desc": [
+        "L'armatura \"\\&6Tyr\\&r\" del mod \"\\&d\\&lForbidden and Arcanus\\&r\" è l'equipaggiamento difensivo migliore del mod, offrendo una protezione e una durata eccezionali. È un aggiornamento dell'armatura \"\\&5Draco Arcanus\\&r\" e richiede l'utilizzo degli strumenti \"\\&6Forge\\&r\" avanzati del mod."
+    ],
+    "quest.1FAE4A884E083283.quest_subtitle": "37",
+    "quest.1FAE4A884E083283.title": "\\&6Armatura di Tyr",
+    "quest.1FC7ABEAB5018E79.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_redstone.png width:100 height:150 align:center}"
+    ],
+    "quest.1FC7ABEAB5018E79.title": "\\&4Redstone\\&r",
+    "quest.211FD55DEB635A98.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_copper.png width:100 height:150 align:center}"
+    ],
+    "quest.211FD55DEB635A98.title": "\\&6Rame\\&r",
+    "quest.2296CE4418AE62D4.quest_desc": [
+        "\\&6Armatura di Allthemodium\\&r, ma con potenziamenti per gli incantesimi di \\&d\\&lStile Art Nouveau\\&r!"
+    ],
+    "quest.2296CE4418AE62D4.quest_subtitle": "24",
+    "quest.2296CE4418AE62D4.title": "\\&6Equipaggiamento per il Mago Arcanista",
+    "quest.243008D4DCD789D0.quest_desc": [
+        "Può anche essere creato dagli spiriti selvatici.",
+        "{image:atm:textures\/questpics\/basicarmor\/armor_wild.png width:100 height:150 align:center}"
+    ],
+    "quest.243008D4DCD789D0.quest_subtitle": "Templi nella giungla",
+    "quest.243008D4DCD789D0.title": "Finitura in stile \"Wild Armor\"",
+    "quest.28408BFAA54E4FC6.quest_desc": [
+        "«L'armatura in cuoio è l'armatura \"vanilla\" peggiore che si possa ottenere.\n\nQuesto è principalmente perché Mojang si aspettava che la ottenessi prima di qualsiasi altra.\n\nIn realtà, quasi non la ottengo, perché faccio fatica a trovarne così tante.»"
+    ],
+    "quest.28408BFAA54E4FC6.quest_subtitle": "7",
+    "quest.28408BFAA54E4FC6.title": "\\&7Armatura in pelle",
+    "quest.2A4FE9644F3B9DC1.quest_desc": [
+        "Versione migliorata di \\&2Prudentium\\&r."
+    ],
+    "quest.2A4FE9644F3B9DC1.quest_subtitle": "26",
+    "quest.2A4FE9644F3B9DC1.title": "E altro ancora, Tertium Armor",
+    "quest.2AC0FE608759AD53.quest_desc": [
+        "L'armatura subacquea prodotta da \\&e\\&lCreate\\&r non solo offre protezione, ma fornisce anche numerosi bonus per la costruzione e il lavoro sott'acqua."
+    ],
+    "quest.2AC0FE608759AD53.quest_subtitle": "da 7 a 15",
+    "quest.2AC0FE608759AD53.title": "\\&9Armatura per immersioni",
+    "quest.2E0F82F7E1B74033.quest_desc": [
+        "\\&d\\&lArs Elementale \\&r \\&2Armatura della Terra\\&r!",
+        "Aumenta l'efficacia degli incantesimi basati su \"Terra\" e veleno.\n\nRiduce i danni provenienti da fonti basate su \"Terra\".\n\nInoltre, converte parte dei danni provenienti da fonti basate su \"Terra\" in mana quando l'intero set viene indossato."
+    ],
+    "quest.2E0F82F7E1B74033.quest_subtitle": "15",
+    "quest.2E0F82F7E1B74033.title": "\\&2 Abbigliamento del Geomante",
+    "quest.2EAA6BE598C83F24.quest_desc": [
+        "\\&d\\&lArs Elementale \\&r \\&3Armatura d'acqua!",
+        "Questo aumenta i danni inflitti dagli oggetti con l'icona \"\\&3Water\\&r\".\\n\\nRiduce i danni provenienti da fonti basate sull'elemento \"\\&3Water\\&r\".\\n\\nConverte una parte dei danni provenienti da fonti basate sull'elemento \"\\&3Water\\&r\" in mana quando l'intero set è equipaggiato."
+    ],
+    "quest.2EAA6BE598C83F24.quest_subtitle": "15",
+    "quest.2EAA6BE598C83F24.title": "Abbigliamento del \"Magico dell'Acqua\"",
+    "quest.338BD467EBE6EE1F.quest_desc": [
+        "È anche possibile ottenerlo da Wild Evokers.",
+        "{image:atm:textures\/questpics\/basicarmor\/armor_sentry.png width:100 height:150 align:center}"
+    ],
+    "quest.338BD467EBE6EE1F.quest_subtitle": "Avamposto dei saccheggiatori",
+    "quest.338BD467EBE6EE1F.title": "Guarnizione per armatura Sentry",
+    "quest.3403D7502F7BC897.quest_desc": [
+        "In pratica, sei invincibile: niente può colpirti e causarti danni.\n\nAttualmente, devi migliorare la tua armatura in Netherite con un \"Quantum Upgrade\", ma i tuoi amici del team ATM stanno lavorando per rendere la ricetta ancora più difficile!\n\nE non puoi fare nulla per fermarli! «BWAHAHAHAHA»"
+    ],
+    "quest.3403D7502F7BC897.quest_subtitle": "Invincibile",
+    "quest.3403D7502F7BC897.title": "\\&eQuantum \\&bArmatura\\&r (\\&l\\&7MI\\&r)",
+    "quest.34D14B807A2DAC0F.quest_desc": [
+        "Pensate che solo \\&5\\&lMekanism\\&r e \\&l\\&7Modern Industrialization\\&r possano divertirsi? \\n\\nQuesto \\&5\\&lQuantum Armor\\&r ha statistiche predefinite simili a quelle dell'\\&cNetherite Armor\\&r, ma, come l'\\&aMekaSuit\\&r, può utilizzare l'energia come scudo. \\nInoltre, può essere potenziato per renderlo ancora più potente! Ad esempio, può essere dotato di capacità di volo, visione notturna e persino la possibilità di ricaricare l'energia. \\n\\nLa parte migliore è che può essere collegato al vostro sistema di stoccaggio! In questo modo, potrete estrarre automaticamente l'energia e qualsiasi oggetto, ovunque vi troviate. \\n\\nInoltre, indossare l'intero set può proteggervi dalle \\&aRadiazioni\\&r."
+    ],
+    "quest.34D14B807A2DAC0F.quest_subtitle": "Quanta energia possibile",
+    "quest.34D14B807A2DAC0F.title": "\\&5Armatura Quantistica\\&r (\\&l\\&bAE2\\&r)",
+    "quest.351159C55159C316.quest_desc": [
+        "È anche possibile ottenerlo dai Shulker posseduti.",
+        "{image:atm:textures\/questpics\/basicarmor\/armor_spire.png width:100 height:150 align:center}"
+    ],
+    "quest.351159C55159C316.quest_subtitle": "Cesti per la fine del gioco",
+    "quest.351159C55159C316.title": "Raffinate finiture per armature Spire",
+    "quest.3512F47DADC07EAE.quest_desc": [
+        "\\&5Armatura in \"Unobtainium\"\\&r, ma con potenziamenti per gli incantesimi di stile \"Art Nouveau\"!"
+    ],
+    "quest.3512F47DADC07EAE.quest_subtitle": "40",
+    "quest.3512F47DADC07EAE.title": "\\&5Equipaggiamento per maghi di livello 5",
+    "quest.3685B52446DEC809.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_gold.png width:100 height:150 align:center}"
+    ],
+    "quest.3685B52446DEC809.title": "\\&eGold\\&r",
+    "quest.39796D8EE440F318.quest_desc": [
+        "È anche possibile ottenerlo dai resti di Wild Horde.",
+        "{image:atm:textures\/questpics\/basicarmor\/armor_dune.png width:100 height:150 align:center}"
+    ],
+    "quest.39796D8EE440F318.quest_subtitle": "Piramidi del deserto",
+    "quest.39796D8EE440F318.title": "Rettilatura per armature \"Dune\"",
+    "quest.3A840658A11D16A5.quest_desc": [
+        "L'armatura \\&7Pneumatic\\&r di \\&7PneumaticCraft\\&r è un equipaggiamento potente e avanzato, modulare, che funziona con aria compressa proveniente dalla tua rete di pressione. Il punto di forza di questo set sono le sue opzioni di personalizzazione. Puoi volare più velocemente di un personaggio quantico, saltare a grande altezza e proteggerti da una vasta gamma di pericoli."
+    ],
+    "quest.3A840658A11D16A5.quest_subtitle": "15 anni e più",
+    "quest.3A840658A11D16A5.title": "\\&7Armatura pneumatica",
+    "quest.3AA836E8EDB52097.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_lapis.png width:100 height:150 align:center}"
+    ],
+    "quest.3AA836E8EDB52097.title": "\\&9Lapis Lazuli\\&r",
+    "quest.3ABE7074E500494D.quest_desc": [
+        "\\&7Steel\\&r è utilizzato per la maggior parte delle macchine in \\&5\\&lMekanism\\&r... oltre all'armatura, che è molto utile!"
+    ],
+    "quest.3ABE7074E500494D.quest_subtitle": "20",
+    "quest.3ABE7074E500494D.title": "\\&5\\&Meccanismo \\&7Armatura in acciaio",
+    "quest.3AE0198177A8E91B.quest_desc": [
+        "È anche possibile ottenerlo dagli anziani custodi.",
+        "{image:atm:textures\/questpics\/basicarmor\/armor_coast.png width:100 height:150 align:center}"
+    ],
+    "quest.3AE0198177A8E91B.quest_subtitle": "Naufragi e tesori nascosti",
+    "quest.3AE0198177A8E91B.title": "Finitura per la carrozzeria \"Coast Armor\"",
+    "quest.3C662D3A3537F514.quest_desc": [
+        "L'armatura Exo sviluppata da \\&6\\&lOritech\\&r è progettata principalmente per l'uso pratico ed esplorativo, piuttosto che per il combattimento. Offre diversi vantaggi con ogni componente, ma fornisce una protezione molto limitata."
+    ],
+    "quest.3C662D3A3537F514.quest_subtitle": "17",
+    "quest.3C662D3A3537F514.title": "\\&7Casco Exo",
+    "quest.3EA3A6414AB8A39C.quest_desc": [
+        "È anche disponibile presso Wild Strong Breezes.",
+        "{image:atm:textures\/questpics\/basicarmor\/armor_flow.png width:100 height:150 align:center}"
+    ],
+    "quest.3EA3A6414AB8A39C.quest_subtitle": "Corti d'indagine",
+    "quest.3EA3A6414AB8A39C.title": "Rettilatura per abbigliamento Flow Armor",
+    "quest.3FCEF8FF45E51608.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_quartz.png width:100 height:150 align:center}"
+    ],
+    "quest.44CC11E67ADD0556.quest_desc": [
+        "L'armatura \"\\&5Draco Arcanus\\&r\" del mod \"\\&d\\&lForbidden and Arcanus\\&r\" è un set di alto livello che fornisce statistiche di protezione elevate. Si tratta di un aggiornamento dell'armatura \"\\&5Obsidian\\&r\" del mod; per ottenerla, è necessario accedere alla \"Fabbrica di Hephaestus\" del mod."
+    ],
+    "quest.44CC11E67ADD0556.quest_subtitle": "30",
+    "quest.44CC11E67ADD0556.title": "\\&5Armatura di Drago Arcano",
+    "quest.452DC5EB02D592B8.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_amethyst.png width:100 height:150 align:center}"
+    ],
+    "quest.452DC5EB02D592B8.title": "\\&5Amethyst\\&r",
+    "quest.4915960FBC94AD0E.quest_desc": [
+        "\\&7L'armatura in ferro compresso è un set di armatura di base, utilizzabile all'inizio del gioco, che funge da introduzione al resto del mod. È realizzata combinando armatura in cuoio con ferro compresso, per insegnare come creare ferro compresso.\\n\\nOffre un aumento modesto della protezione rispetto all'armatura in cuoio, ma è equivalente al ferro e inferiore al diamante."
+    ],
+    "quest.4915960FBC94AD0E.quest_subtitle": "15",
+    "quest.4915960FBC94AD0E.title": "\\&7Armatura in ferro compressa",
+    "quest.497D222F74A52DF5.quest_desc": [
+        "Questo è esattamente ciò che mi piace! Il ferro è molto comune e la sua armatura è fantastica per le prime fasi del gioco.\n\nZombi e scheletri hanno pochissime possibilità!"
+    ],
+    "quest.497D222F74A52DF5.quest_subtitle": "15",
+    "quest.49E13245EE169048.quest_desc": [
+        "L'\\&6\"Tuta Antiveleno\" potrebbe sembrare inutile, in quanto non offre alcuna protezione, ma è l'unico modo per evitare che la \\&a\"Radiazioni\" vi uccidano (oltre all'unità di schermatura dalle \\&a\"Radiazioni\" della \\&a\"Armatura Mekanica\" e all'\\&5\"Armatura Quantica\" avanzata).\n\nÈ necessario indossare l'intero set per evitare la \\&a\"Avvelenamento da Radiazioni\"!\n\nLa \\&a\"Radiazioni\" uccideranno altri mostri e giocatori nelle vicinanze; i giocatori possono essere salvati con le \\&6\"Tute Antiveleno\", ma i mostri non hanno la stessa fortuna!\n\nPer maggiori informazioni sulla \\&a\"Radiazioni\", consultate la pagina della quest \\&5\"Mekanism: Reactors\"."
+    ],
+    "quest.49E13245EE169048.quest_subtitle": "0",
+    "quest.49E13245EE169048.title": "\\&6Tuta protettiva per ambienti pericolosi",
+    "quest.4A9CB8778D37049F.quest_desc": [
+        "Dovrete utilizzare un rituale di risveglio per far sì che gli oggetti eseguano un altro rituale di risveglio per l'armatura \\&4Supremium Armor\\&r.\n\nPenso che valga la pena; è l'armatura migliore che si possa ottenere dall'armatura \\&2\\&lMystical\\&r!"
+    ],
+    "quest.4A9CB8778D37049F.quest_subtitle": "36",
+    "quest.4A9CB8778D37049F.title": "\\&6Armatura Supremium risvegliata",
+    "quest.4B9C54DA5CB6D5C9.quest_desc": [
+        "È anche possibile ottenerlo dal \"Wild Horde Silverfish\".",
+        "{image:atm:textures\/questpics\/basicarmor\/armor_host.png width:100 height:150 align:center}"
+    ],
+    "quest.4B9C54DA5CB6D5C9.quest_subtitle": "Resti di antichi sentieri",
+    "quest.4B9C54DA5CB6D5C9.title": "Rafforzamento della carrozzeria",
+    "quest.4C2BB25A757CE834.quest_desc": [
+        "L'armatura in gomma è un set di protezione molto precoce nel gioco. Principalmente, è un componente per la creazione di tecnologie di medio gioco, piuttosto che un equipaggiamento significativo. L'armatura in gomma offre una protezione molto limitata e non è progettata per il combattimento o l'esplorazione."
+    ],
+    "quest.4C2BB25A757CE834.quest_subtitle": "+2",
+    "quest.4C2BB25A757CE834.title": "\\&8Guscio in gomma",
+    "quest.4DF683461225690F.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_iron.png width:100 height:150 align:center}"
+    ],
+    "quest.4DF683461225690F.title": "\\&7Ferro\\&r",
+    "quest.5064D5F99E2C69C8.quest_desc": [
+        "Versione migliorata di \\&9Imperium\\&r."
+    ],
+    "quest.5064D5F99E2C69C8.quest_subtitle": "29",
+    "quest.5064D5F99E2C69C8.title": "\\&4Armatura di alta qualità",
+    "quest.5270883BF008AACE.quest_desc": [
+        "Questo è solo un cancello, quindi non devo contrassegnare così tante attività come \"Completato con dipendenze\"."
+    ],
+    "quest.5270883BF008AACE.title": "Occultismo OPPURE rifiniture casuali per armature",
+    "quest.52AFABA08674B6A8.quest_desc": [
+        "\\&3Armatura in Vibranium\\&r, ma con potenziamenti per gli incantesimi di stile \\&d\\&lArt Nouveau\\&r!"
+    ],
+    "quest.52AFABA08674B6A8.quest_subtitle": "32",
+    "quest.52AFABA08674B6A8.title": "\\&3Equipaggiamento per maghi di Vibranium",
+    "quest.52B61FB01D7C12A4.quest_desc": [
+        "Versione migliorata di \\&aInferium\\&r."
+    ],
+    "quest.52B61FB01D7C12A4.quest_subtitle": "23",
+    "quest.52B61FB01D7C12A4.title": "\\&2Armatura Prudentium",
+    "quest.537CDA57EBECD176.quest_desc": [
+        "Abbiamo perso tutte le decorazioni per armature, a causa della rimozione delle strutture in cui di solito si trovavano. Tuttavia, abbiamo una soluzione: le vecchie e affidabili \"setacci\". Utilizzare un setaccio per sabbia con una rete dorata può darvi la possibilità di ottenere una decorazione per armature casuale."
+    ],
+    "quest.56975E521D14BDC9.quest_desc": [
+        "L'occultismo offre anche un modo per ottenere gli elementi decorativi per armature da diverse creature possedute e selvatiche. Per maggiori informazioni, consultare la pagina della quest \"Occultismo\" e il dizionario degli spiriti."
+    ],
+    "quest.56975E521D14BDC9.title": "Rituali occulti",
+    "quest.57F3F5875F7CF80C.quest_desc": [
+        "L'armatura \"\\&3Celestigem\\&r\" del mod \"\\&b\\&lJust Dire Things\\&r\" è un set di armatura di livello tre, alimentato dall'energia, che offre una protezione di livello diamante. Le funzionalità avanzate derivano dagli aggiornamenti che è possibile installare e alimentare con energia."
+    ],
+    "quest.57F3F5875F7CF80C.quest_subtitle": "20",
+    "quest.57F3F5875F7CF80C.title": "\\&3Armatura di Celestigem",
+    "quest.5865951E4F81C91F.quest_desc": [
+        "\\&7Osmium\\&r + \\&6Glowstone\\&r = \\&eGlowstone raffinato\\&r!",
+        "È più difficile."
+    ],
+    "quest.5865951E4F81C91F.quest_subtitle": "20",
+    "quest.5865951E4F81C91F.title": "\\&Armatura in Pietra Luminosa Raffinata",
+    "quest.59771D9B8CAD80C5.quest_desc": [
+        "Probabilmente, è l'armatura più facile da ottenere all'inizio di \"Titan Quest\", dato che il \"flint\" (pietra focaia) è piuttosto facile da trovare."
+    ],
+    "quest.59771D9B8CAD80C5.quest_subtitle": "12",
+    "quest.59771D9B8CAD80C5.title": "\\&7Armatura di Flint",
+    "quest.5A21B16F7600561A.quest_desc": [
+        "L'armatura in cartone è ridicola. È l'armatura peggiore di tutto il pacchetto di modifiche. Forse ha alcuni vantaggi per nascondersi, però..."
+    ],
+    "quest.5A21B16F7600561A.quest_subtitle": "4",
+    "quest.5A21B16F7600561A.title": "\\&6Armatura in cartone",
+    "quest.5A9C646718EE92C2.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_vibranium.png width:100 height:150 align:center}"
+    ],
+    "quest.5A9C646718EE92C2.title": "\\&Vibranio\\&",
+    "quest.5C83D5CDD980FD9A.quest_desc": [
+        "È anche possibile ottenerlo dai Possessed Hoglins.",
+        "{image:atm:textures\/questpics\/basicarmor\/armor_snout.png width:100 height:150 align:center}"
+    ],
+    "quest.5C83D5CDD980FD9A.quest_subtitle": "Resti del Bastion",
+    "quest.5C83D5CDD980FD9A.title": "Rettilatura per la protezione del naso",
+    "quest.5DDC15AAFD2CAF47.quest_desc": [
+        "«\\&bArmatura di Diamante\\&r» è il prossimo oggetto nella serie \\&l\\&2Vanilla\\&r, e di solito è qui che iniziamo a applicare gli incantesimi!\n\nConsiglio di utilizzare l'armatura di protezione e le sue varianti. Non dobbiamo essere troppo esigenti con le versioni modificate."
+    ],
+    "quest.5DDC15AAFD2CAF47.quest_subtitle": "20",
+    "quest.5DDC15AAFD2CAF47.title": "\\&Armatura in diamante",
+    "quest.5E7CCDE9229A646A.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_allthemodium.png width:100 height:150 align:center}"
+    ],
+    "quest.5E7CCDE9229A646A.title": "\\&6Allthemodium\\&r",
+    "quest.62161BDE9AAAA4BF.quest_desc": [
+        "È anche possibile ottenerlo dal \"Wild Horde Silverfish\".",
+        "{image:atm:textures\/questpics\/basicarmor\/armor_wayfinder.png width:100 height:150 align:center}"
+    ],
+    "quest.62161BDE9AAAA4BF.quest_subtitle": "Resti di antichi sentieri",
+    "quest.62161BDE9AAAA4BF.title": "Accessori per l'armatura Wayfinder",
+    "quest.65A529C8238E89F1.quest_desc": [
+        "Grazie a \\&5\\&lMekanism\\&r, ora possiamo creare armature con \\&9Lapis Lazuli\\&r! \\n\\nPerò, devo dire che è un po' deludente..."
+    ],
+    "quest.65A529C8238E89F1.quest_subtitle": "9",
+    "quest.65A529C8238E89F1.title": "\\&Armatura in lapislazzuli",
+    "quest.65E733AACBE62EDB.quest_desc": [
+        "È anche possibile ottenerlo dai guardiani.",
+        "{image:atm:textures\/questpics\/basicarmor\/armor_ward.png width:100 height:150 align:center}"
+    ],
+    "quest.65E733AACBE62EDB.quest_subtitle": "Città antiche",
+    "quest.65E733AACBE62EDB.title": "Raffinate finiture per la protezione delle pareti",
+    "quest.66C21934DAFFAC7F.quest_desc": [
+        "È anche possibile ottenerlo dagli anziani custodi.",
+        "{image:atm:textures\/questpics\/basicarmor\/armor_tide.png width:100 height:150 align:center}"
+    ],
+    "quest.66C21934DAFFAC7F.quest_subtitle": "Rimosso dalla lista dei Guardiani più anziani",
+    "quest.66C21934DAFFAC7F.title": "Rettilatura per armatura",
+    "quest.68DABFFB6B3E1A57.quest_desc": [
+        "È anche possibile ottenerli dai Posseduti (Endermen).",
+        "{image:atm:textures\/questpics\/basicarmor\/armor_eye.png width:100 height:150 align:center}"
+    ],
+    "quest.68DABFFB6B3E1A57.quest_subtitle": "Fortezza",
+    "quest.68DABFFB6B3E1A57.title": "Guarnizione per proteggere gli occhi",
+    "quest.6B671CB07D046BEC.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_diamond.png width:100 height:150 align:center}"
+    ],
+    "quest.6B671CB07D046BEC.title": "\\&Diamante\\&",
+    "quest.6C5F9D0D447EFB9C.quest_desc": [
+        "Cosa ne pensate di \\&l\\&2Vanilla\\&r? \\n\\n\\&6L'Armatura di Allthemodium\\&r ha più punti di difesa e maggiore resistenza, oltre a una maggiore protezione contro la magia e altri bonus, come si può leggere nella pagina della quest di \\&6\\&lAllthemodium\\&r! \\n\\nInoltre, per crearla, avrete bisogno di \\&cNetherite\\&r."
+    ],
+    "quest.6C5F9D0D447EFB9C.quest_subtitle": "24",
+    "quest.6C5F9D0D447EFB9C.title": "\\&6Armatura di Allthemodium",
+    "quest.6D45C78AD098AF87.quest_desc": [
+        "Questo è un set di armatura altamente specializzato, progettato per proteggere da pericoli elettrici piuttosto che per la difesa in combattimento. Funziona come una \"cella di Faraday\", offrendoti immunità nei confronti di cavi e bobine di Tesla."
+    ],
+    "quest.6D45C78AD098AF87.quest_subtitle": "7",
+    "quest.6D45C78AD098AF87.title": "\\&7Armatura di Faraday",
+    "quest.6F76DA3BBAE8337B.quest_desc": [
+        "L'armatura più potente che si possa ottenere da \\&6\\&lAllthemodium\\&r e \\&5Unobtainium\\&r!\n\nOra, con resistenza al knockback al 100% e statistiche migliorate in ogni aspetto!\n\nInoltre, è necessaria l'armatura \\&3Vibranium\\&r per crearla."
+    ],
+    "quest.6F76DA3BBAE8337B.quest_subtitle": "40",
+    "quest.6F76DA3BBAE8337B.title": "\\&5Armatura in \"Unobtainium\"",
+    "quest.71C552678A0F649F.quest_desc": [
+        "\\&7Osmium\\&r si genera intorno al Deepslate e necessita solo di ferro per essere estratto, ma fornisce statistiche migliori rispetto all'\\&cNetherite\\&r!"
+    ],
+    "quest.71C552678A0F649F.quest_subtitle": "21",
+    "quest.71C552678A0F649F.title": "\\&7Armatura in osmium",
+    "quest.7279700A93E8630B.quest_desc": [
+        "{image:atm:textures\/questpics\/basicarmor\/armor_unobtainium.png width:100 height:150 align:center}"
+    ],
+    "quest.7279700A93E8630B.title": "\\&5Unobtainium\\&r",
+    "quest.729DCB919A92B735.quest_desc": [
+        "È anche disponibile presso Wild Breezes.",
+        "{image:atm:textures\/questpics\/basicarmor\/armor_bolt.png width:100 height:150 align:center}"
+    ],
+    "quest.729DCB919A92B735.quest_subtitle": "Corti d'indagine",
+    "quest.729DCB919A92B735.title": "Finitura per armatura Bolt",
+    "quest.72DDA413D73E3235.quest_desc": [
+        "Statistiche molto più elevate per tutte le armature di tipo \\&6Allthemodium\\&r, e \\&3Vibranium\\&r!\n\nPer crearle, avrete bisogno dell'armatura \\&6Allthemodium\\&r."
+    ],
+    "quest.72DDA413D73E3235.quest_subtitle": "32",
+    "quest.72DDA413D73E3235.title": "\\&Armatura in Vibranio",
+    "quest.76CDF08465700AA2.quest_desc": [
+        "È anche possibile ottenerlo dai guardiani.",
+        "{image:atm:textures\/questpics\/basicarmor\/armor_silent.png width:100 height:150 align:center}"
+    ],
+    "quest.76CDF08465700AA2.quest_subtitle": "Città antiche",
+    "quest.76CDF08465700AA2.title": "Finitura per paraurti silenziosa",
+    "quest.79D3055DE0EEA6B0.quest_desc": [
+        "\\&d\\&lArs Elementale \\&r \\&Armatura di Fuoco!\\&r",
+        "Questo set potenzia gli incantesimi basati sul fuoco, rendendoli più potenti.\n\nFornisce una maggiore resistenza ai danni causati dal fuoco, con una maggiore resistenza quando l'intero set viene indossato.\n\nInoltre, converte parte dei danni causati da incantesimi basati sul fuoco in mana quando l'intero set viene indossato."
+    ],
+    "quest.79D3055DE0EEA6B0.quest_subtitle": "15",
+    "quest.79D3055DE0EEA6B0.title": "E altri abiti da \"Pyromancer\"",
+    "quest.7B500E0577BDFF8F.quest_desc": [
+        "\\&6Bronzo\\&r è una combinazione di \\&6 rame\\&r e stagno.\n\nEsistono diverse modalità per creare l'alleaggio, ma non vi dirò il metodo corretto."
+    ],
+    "quest.7B500E0577BDFF8F.quest_subtitle": "18",
+    "quest.7B500E0577BDFF8F.title": "\\&6Armatura in bronzo",
+    "quest.7C1D407CF67786F6.quest_desc": [
+        "\\&d\\&lArs Elementale \\&r \\&eArmatura d'Aria\\&r!",
+        "*   **Aumenta l'efficacia dei simboli \\&eAir\\&r, che possono essere utili per incantesimi come \"Salto\" e quelli legati al controllo dell'aria.**\n*   **Riduce i danni provenienti da fonti basate su \\&eAir\\&r. Trasforma parte dei danni provenienti da \\&eAir\\&r in mana quando si indossa l'intero set.**"
+    ],
+    "quest.7C1D407CF67786F6.quest_subtitle": "15",
+    "quest.7C1D407CF67786F6.title": "\\& Outfit per il personaggio Aethermancer",
+    "quest.7F11ABFB2E21B7E4.quest_desc": [
+        "L'armatura è una parte molto importante di \\&l\\&2Minecraft\\&r, in quanto ti protegge dai danni.\n\nDiversi pezzi di armatura forniscono diversi punti di difesa. Questi determinano l'efficacia della tua armatura: più ne hai, meglio è!\n\nLa maggior parte delle armature può essere modificata per aggiungere ulteriori dettagli, utilizzando pezzi di armatura con elementi decorativi, e oggetti per la colorazione, per personalizzare l'aspetto!"
+    ],
+    "quest.7F11ABFB2E21B7E4.title": "\\&l\\&bArmatura di base\\&r",
+    "quest.7FABB77A60E7962C.quest_desc": [
+        "Aggiungendo \\&bDiamanti\\&r a Obsidian, possiamo ottenere polvere di Obsidian raffinata!\n\nSuccessivamente, possiamo comprimere \\&7Osmio\\&r per ottenere la forma di lingotto.\n\nInfine, possiamo trasformare questi lingotti in armature con statistiche superiori anche a quelle dell'armatura \\&6Allthemodium\\&r!"
+    ],
+    "quest.7FABB77A60E7962C.quest_subtitle": "31",
+    "quest.7FABB77A60E7962C.title": "\\&5Armatura in ossidiana rifinita",
+    "task.27B97C63DC58278E.title": "Maschere per immersioni",
+    "task.337C841AD2B16764.title": "Bocche per immersioni",
+    "task.4BDF268861CA744F.title": "Tutti i diritti riservati",
+    "task.57895147416291FE.title": "Tutti i diritti riservati",
+    "task.597120AD20EEBF1D.title": "Scarpe da subacqueo",
+    "task.73142F195D9B100C.title": "Oggetti decorativi per il petto"
+}

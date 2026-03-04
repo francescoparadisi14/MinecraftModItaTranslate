@@ -1,7 +1,8 @@
 {
-    "entity.tinyskeletons.baby_bogged": "Seduto in laghetto da bambino",
-    "entity.tinyskeletons.baby_skeleton": "Scheletro bambino",
-    "entity.tinyskeletons.baby_stray": "Strisciante neonato",
-    "entity.tinyskeletons.baby_wither_skeleton": "Scheletro di lupo della morte neonato",
-    "entity.tinyskeletons.mushroom": "Funghi"
+    "entity.tinyskeletons.baby_bogged": "Bambino intrappolato",
+    "entity.tinyskeletons.baby_parched": "Bambino assetato",
+    "entity.tinyskeletons.baby_skeleton": "Scheletro di un neonato",
+    "entity.tinyskeletons.baby_stray": "Cucciolo abbandonato",
+    "entity.tinyskeletons.baby_wither_skeleton": "Scheletro di Baby Wither",
+    "entity.tinyskeletons.thrown_item": "Oggetto gettato"
 }

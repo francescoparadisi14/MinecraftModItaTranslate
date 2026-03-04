@@ -1,0 +1,12 @@
+{
+    "block.ocean_lily_pad_village.example_block": "Example Block",
+    "item.ocean_lily_pad_village.example_item": "Example Item",
+    "itemGroup.ocean_lily_pad_village": "Example Mod Tab",
+    "ocean_lily_pad_village.configuration.items": "Item List",
+    "ocean_lily_pad_village.configuration.logDirtBlock": "Log Dirt Block",
+    "ocean_lily_pad_village.configuration.magicNumber": "Magic Number",
+    "ocean_lily_pad_village.configuration.magicNumberIntroduction": "Magic Number Text",
+    "ocean_lily_pad_village.configuration.section.ocean_lily_pad_village.common.toml": "Ocean Lily Pad Village Configs",
+    "ocean_lily_pad_village.configuration.section.ocean_lily_pad_village.common.toml.title": "Ocean Lily Pad Village Configs",
+    "ocean_lily_pad_village.configuration.title": "Ocean Lily Pad Village Configs"
+}

@@ -1,11 +1,11 @@
 {
-    "advancement.aether.craft_altar.desc": "Crea un altare degli incantatori",
-    "aether.pro_tips.line.aether.altar_repairing": "Gli incantatori possono riparare gli oggetti danneggiati e migliorare gli oggetti esistenti.",
-    "aether.pro_tips.line.aether.ambrosium_shard_fuel": "I frammenti di ambrosio sono ottimi per alimentare gli incantatori.",
-    "block.aether.altar": "Altare incantatore",
-    "lore.aether.blue_berry": "Raccolto dai cespugli di mirtillo, è la principale fonte alimentare più comune nell'etere. Ha una riduzione del bisogno di cibo molto debole. Puoi incantare questi in un incantatore per ottenere una riduzione del bisogno di cibo molto migliore.",
-    "lore.aether.enchanted_gravitite": "Dopo aver messo il minerale di gravità in un incantatore e averlo incantato, si ottiene il gravità incantato. Questo può essere trasformato in strumenti e armature di gravità. Quando alimentato da un segnale di redstone, i blocchi di gravità incantati voleranno in aria, simile al minerale di gravità.",
-    "lore.aether.golden_dart_shooter": "Un lanciatore di dardi che spara dardi d'oro, l'incantesimo su un incantatore migliora la sua potenza d'attacco!",
-    "menu.aether.altar": "Altare incantatore",
-    "subtitles.aether.block.altar.crackle": "Il mago della trasmutazione crepita"
+    "advancement.aether.craft_altar.desc": "Creare un incantatore",
+    "aether.pro_tips.line.aether.altar_repairing": "Gli incantatori possono riparare oggetti danneggiati e migliorare quelli esistenti.",
+    "aether.pro_tips.line.aether.ambrosium_shard_fuel": "I frammenti di Ambrosio sono un'ottima fonte di energia per gli incantatori.",
+    "block.aether.altar": "Incantatore",
+    "lore.aether.blue_berry": "Raccolto dagli arbusti di bacche, questo è il cibo più comune nell'Aether. Offre una capacità di recupero della fame molto limitata. È possibile potenziare queste bacche presso un incantatore per ottenere un recupero della fame molto più efficace.",
+    "lore.aether.enchanted_gravitite": "Dopo aver inserito il minerale di Gravitite in un incantatore e averlo incantato, si ottiene il Gravitite incantato. Questo può essere trasformato in strumenti e armature in Gravitite. Quando viene alimentato con un segnale di Redstone, i blocchi di Gravitite incantato fluttueranno nell'aria, in modo simile al minerale di Gravitite.",
+    "lore.aether.golden_dart_shooter": "Un arco da frecce, che utilizza frecce dorate, può essere potenziato da un incantatore per aumentare la sua potenza offensiva!",
+    "menu.aether.altar": "Incantatore",
+    "subtitles.aether.block.altar.crackle": "L'incantatore emette scintille."
 }

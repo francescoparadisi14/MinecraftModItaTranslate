@@ -1,15 +1,15 @@
 {
-    "name": "Lettuce 🌼",
+    "name": "Lattuga 🌼",
     "category": "patchouli:crops",
     "icon": "farm_and_charm:lettuce",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 24$(li)Primavera $(li)Prezzo seme: Denaro 4$(li)Rendimento: 1$(li)Tempo di crescita: 3 giorni"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 24$(li)🌼 Primavera$(li)Prezzo del seme: moneta: 4$(li)Resa: 1$(li)Tempo di crescita: 3 giorni"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Lettuce Crop",
+            "name ": "Patchouli: coltivazione di più colture",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -24,8 +24,7 @@
                     "0": "farm_and_charm:lettuce_crop[age=3]",
                     "F": "minecraft:farmland[moisture=7]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

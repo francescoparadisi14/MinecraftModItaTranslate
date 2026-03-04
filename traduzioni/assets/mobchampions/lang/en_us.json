@@ -4,6 +4,8 @@
     "effect.mobchampions.rare_champion_effect": "Rare",
     "effect.mobchampions.uncommon_champion_effect": "Uncommon",
     "mobchampions.announcement.spawn": "A %s champion has appeared nearby!",
+    "mobchampions.configuration.allowelytradrops.description": "Set to false to prevent champions from dropping elytra.",
+    "mobchampions.configuration.allowelytradrops.name": "Allow Elytra Drops",
     "mobchampions.configuration.armorlist.description": "Format: <rarity>-<weight>-<modid:item_name>\nRarity: 1 (Uncommon), 2 (Rare), 3 (Epic), 4 (Legendary)\nWeight: Integer value representing the relative chance of selection\nExample: 3-30-minecraft:diamond_chestplate",
     "mobchampions.configuration.armorlist.name": "Armor List",
     "mobchampions.configuration.championwhitelist.description": "Whitelist of entities that can spawn as champions.\nIf the whitelist is empty, the mod is effectively disabled.",

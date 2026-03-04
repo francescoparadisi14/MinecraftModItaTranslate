@@ -18,6 +18,7 @@
     "ftbunearthed.message.unearther_level.player": "Unearther Level for '%s': %s (%s)",
     "ftbunearthed.tooltip.echo_encoder_charges": "Charges remaining: %s",
     "ftbunearthed.tooltip.echo_encoder_usage": "Sneak + Right-click a villager to encode it into a Worker Token",
+    "ftbunearthed.tooltip.super_brush": "Workers and Players work %s%% faster\nWorkers don't consume food\nWorkers always work at level 5",
     "ftbunearthed.tooltip.worker_level": "Level: %s",
     "ftbunearthed.tooltip.worker_profession": "Profession: %s",
     "ftbunearthed.tooltip.worker_require_level": "Required Level: >= %s",
@@ -35,6 +36,7 @@
     "item.ftbunearthed.crude_brush": "Crude Brush",
     "item.ftbunearthed.echo_encoder": "Echo Encoder",
     "item.ftbunearthed.reinforced_brush": "Reinforced Brush",
+    "item.ftbunearthed.super_brush": "⭑✸✰ Brush of the Cosmos ✰✸⭑",
     "item.ftbunearthed.unbreakable_brush": "Unbreakable Brush",
     "item.ftbunearthed.worker_token": "Worker Token"
 }

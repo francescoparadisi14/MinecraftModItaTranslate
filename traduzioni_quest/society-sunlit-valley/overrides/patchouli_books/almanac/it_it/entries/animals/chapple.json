@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Uovo: Mela$(li)Bottino: Pollo crudo, Piuma$(br2)$(l)Note$()$(br)Le Chapples affamate o infelici (meno di 2 cuori d'affetto) non depongono Melate"
+            "text": "patchouli: testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile$(li)Uovo: Mela$(li)Polvere: Pollo crudo, piume$(br2)$(l)Note$()$(br)Se l'animale è affamato o infelice (con meno di 2 cuori di affetto), i Chapples non depongono uova."
         },
         {
             "type": "patchouli:entity",
             "entity": "etcetera:chapple",
             "scale": 0.8,
-            "text": "Una strana mutazione nata da un Eggple trovato in una cassa di bottino."
+            "text": "Patchouli: entità\n\neccetera: chapple\n\nUna strana mutazione, nata da un \"Eggple\" trovato in una cassa di oggetti."
         }
     ]
 }

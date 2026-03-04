@@ -5,14 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Localizzazioni:$()$(li)Struttura: Spawners di Slime dell'Umbra Barrens (Caverna del Cranio)$(br2)$(l)Rischii:$()$(br)Provooca effetto Fulmine quando è agitato. Esplose violentemente quando è infuriato e è molto scivoloso. Molti umori estremamente volatili."
+            "text": "patchouli:testo\n\n$(l)Posizioni:$()$(li)Struttura: Umbra Barrens Slime Spawners (Caverna del Cranio)$(li)Fusione del cuore$(br2)$(l)Rischi:$()$(br)Provoca l'effetto di un fulmine quando è arrabbiato. Esplode violentemente quando è furioso ed è estremamente scivoloso. Umori molto instabili."
         },
         {
             "type": "patchouli:entity",
-            "name": "Sparkcat Slime",
+            "name": "patchouli:entità\n\nsplendid\\_slimes:splendid\\_slime{Razza:\"splendid\\_slimes:sparkcat\"}\n\nSlime Sparkcat",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:sparkcat\"}",
-            "scale": 0.9,
-            "text": "Entità: Splendido Slime di tipo Sparkcat"
+            "scale": 0.9
         }
     ]
 }

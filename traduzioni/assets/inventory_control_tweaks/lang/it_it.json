@@ -1,6 +1,6 @@
 {
     "category.inventory_control_tweaks": "Inventory Control Tweaks",
-    "key.category.inventory_control_tweaks.main": "Modifiche al controllo inventario",
+    "key.category.inventory_control_tweaks.main": "Miglioramenti nel controllo dell'inventario",
     "key.inventory_control_tweaks.click_armor_swap_modifier": "Clicca per scambiare armatura",
     "key.inventory_control_tweaks.drag_all_out_of_inventory_modifier": "Drag all out of inventory modifier",
     "key.inventory_control_tweaks.drag_all_stacks_across_modifier": "Trascina tutti gli stack",
@@ -50,8 +50,8 @@
     "text.autoconfig.inventory_control_tweaks.option.move_hotbar_stacks.@Tooltip": "When you use 'Drag matching stacks across inventories',\nstacks in your hotbar will be included.",
     "text.autoconfig.inventory_control_tweaks.option.offhand_preferred_items": "List of items that shift-click to offhand:",
     "text.autoconfig.inventory_control_tweaks.option.offhand_preferred_items.@Tooltip": "Shift-clicking items in this list while your offhand\nis empty will move those items to your offhand.",
-    "text.autoconfig.inventory_control_tweaks.option.prevent_using_items": "Preventare l'utilizzo di questi oggetti:",
-    "text.autoconfig.inventory_control_tweaks.option.prevent_using_items.@Tooltip": "Gli oggetti di questa lista non faranno nulla quando utilizzati.\nQuesto impatta solo sull'oggetto stesso; un blocco che richiede l'oggetto per essere utilizzato non sarà influenzato.",
+    "text.autoconfig.inventory_control_tweaks.option.prevent_using_items": "Evitare l'uso di questi oggetti:",
+    "text.autoconfig.inventory_control_tweaks.option.prevent_using_items.@Tooltip": "Gli oggetti presenti in questa lista non avranno alcun effetto quando vengono utilizzati.\nQuesto effetto è limitato all'oggetto stesso; un blocco che richiede l'utilizzo di un oggetto non sarà influenzato.",
     "text.autoconfig.inventory_control_tweaks.title": "Configurazione di Inventory Control Tweaks",
     "text.inventory_control_tweaks.name": "Inventory Control Tweaks",
     "text.inventory_control_tweaks.no_config_screen.message": "§cInstall Cloth Config to enable configuration.",

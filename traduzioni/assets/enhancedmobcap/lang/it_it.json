@@ -1,0 +1,12 @@
+{
+    "block.enhancedmobcap.example_block": "Esempio di blocco",
+    "enhancedmobcap.configuration.items": "Elenco degli articoli",
+    "enhancedmobcap.configuration.logDirtBlock": "Blocco di argilla per pavimentazione",
+    "enhancedmobcap.configuration.magicNumber": "Numero magico",
+    "enhancedmobcap.configuration.magicNumberIntroduction": "Numero Magico",
+    "enhancedmobcap.configuration.section.enhancedmobcap.common.toml": "Configurazioni avanzate per la gestione dei dispositivi mobili",
+    "enhancedmobcap.configuration.section.enhancedmobcap.common.toml.title": "Configurazioni avanzate per la gestione dei dispositivi mobili",
+    "enhancedmobcap.configuration.title": "Configurazioni avanzate per la gestione dei dispositivi mobili",
+    "item.enhancedmobcap.example_item": "Esempio di articolo",
+    "itemGroup.enhancedmobcap": "Esempio di tabella Mod"
+}

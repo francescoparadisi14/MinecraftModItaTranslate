@@ -1,0 +1,319 @@
+{
+    "quest.02B4BF3175AE8E93.quest_desc": [
+        "\\&2Seeds\\&r è tutto incentrato su questo, e per ottenere questi \\&2Seeds\\&r, è necessario predisporre un \\&eAltare dell'Infusione.\n\nPosizionate l'\\&eAltare dell'Infusione\\&r con gli 8 \\&ePedestali dell'Infusione\\&r attorno ad esso. Ci saranno indicazioni per aiutarvi a posizionarli correttamente.\n\nConsultando le ricette, la base del seme andrà sull'\\&eAltare\\&r, mentre gli oggetti andranno sui \\&ePedestali\\&r.\n\nUna volta che tutto sarà pronto, inviate un segnale \\&cRedstone\\&r all'\\&eAltare\\&r, e questo dovrebbe attivarsi. A quel punto, il nuovo \\&2Seed\\&r o oggetto apparirà nell'\\&eAltare\\&r."
+    ],
+    "quest.02B4BF3175AE8E93.title": "\\&Altare per l'infusione \\& – Set per l'installazione",
+    "quest.04B68D8613E4A81F.quest_desc": [
+        "Il componente \"\\&b\\&lME Controller\" è il componente più importante in tutto il sistema \"\\&b\\&lAE2\". È il cuore del sistema \"\\&bME\". Non esiste niente in \"\\&b\\&lAE2\" senza il componente \"\\&b\\&lME Controller\".\n\nOra, come possiamo realizzarlo?\n\nIl primo e più semplice metodo è utilizzare \"\\&bSky Stone\". Basta trasformare \"\\&bSky Stone\" in polvere!\n\nIl secondo componente è \"\\&5Fluix Dust\". Per realizzarlo, è necessario seguire la quest precedente.\n\nInfine, è necessario utilizzare il componente \"\\&cEngineering Processor\". Questo viene creato combinando \"\\&5\\&lInscriber\", polvere di \"\\&cRedstone\" e un circuito di \"\\&bEngineering Processor\"!"
+    ],
+    "quest.04B68D8613E4A81F.title": "\\&5\\&Controller LME",
+    "quest.07A439B838E4BE61.quest_desc": [
+        "\\&4Tutti i serbatoi sono progettati per aggiungere liquidi alla nostra fonderia. \\n\\nPrincipalmente carburante. \\n\\nPrincipalmente \\&c\\&lCarburante! \\n\\nEsistono altri modi per alimentare la nostra fonderia, ma non ci preoccuperemo di questo al momento. \\n\\nAvremo anche bisogno di \\&6Bobine di riscaldamento per il pavimento della fonderia. \\n\\nQueste saranno riscaldate dal carburante e scioglieranno i nostri oggetti nella fonderia."
+    ],
+    "quest.07A439B838E4BE61.title": "e altre specifiche\n4 Serbatoi\ne 6 Sistemi di riscaldamento",
+    "quest.07BEB974DF1E5AD3.quest_desc": [
+        "Funziona esattamente come un generatore a induzione... ma molto meglio!"
+    ],
+    "quest.07BEB974DF1E5AD3.title": "\\&cGeneratore di Netherite",
+    "quest.08B60C5548530D6C.quest_desc": [
+        "\\&4Acceleratore di crescita potenziato\\&r funziona esattamente come un \\&5Acceleratore di crescita\\&r… ma ancora più velocemente!\n\nConcentriamoci quindi su come realizzarlo.\n\n\\&5Perle di Fluix\\&f sono semplicemente \\&5Cristalli di Fluix\\&f, \\&5Polvere di Fluix\\&f e un \\&3Perla di Ender\\&r.\n\nIl Nucleo di Annichilazione è composto da Quarzo, \\&5Polvere di Fluix\\&r e un \\&cProcessore Logico\\&r.\n\nLe Carte di Accelerazione sono aggiornamenti presenti in \\&b\\&lAE2\\&r. Le realizziamo utilizzando le Carte Avanzate. Queste richiedono un \\&cProcessore di Calcolo\\&r."
+    ],
+    "quest.08B60C5548530D6C.title": "\\&4 Acceleratore di crescita potenziato",
+    "quest.09BF4A7F1C3426D4.quest_desc": [
+        "\\&6\\&lGeOre\\&r sono le nostre principali risorse automatizzate, insieme a \\&b\\&lATM10TTS\\&r.\nFunzionano in modo simile a \\&5Budding Amethyst\\&r o \\&bCertus\\&r. I cristalli cresceranno su qualsiasi lato se c'è spazio.\n\nLa differenza principale è che \\&6\\&lGeOres\\&r possono essere raccolte con le piccozze! Anche senza l'abilità \"Silk Touch\"!\n\nI cristalli possono essere estratti da \\&6Budding GeOre\\&r e quindi fusi per ottenere il nostro lingotto.\nQualsiasi blocco che aumenti la velocità di \\&5Amethyst\\&r aumenterà anche la velocità di \\&6GeOres\\&r."
+    ],
+    "quest.09BF4A7F1C3426D4.title": "\\&6\\&lGeOre",
+    "quest.0BDD1938BA14B2BE.quest_desc": [
+        "Con il nostro \"\\&7Cristallo Luminoso\" e alcune \"\\&5Slate di Pietra\" e \"\\&8Slate fuse con gemme\" (che sono semplicemente \"\\&5Slate di Pietra\" e \"\\&5Polvere di Gemme\"), possiamo creare un \"\\&bModello di Aggiornamento in Diamante\"!\n\nSì, \"\\&5Apotheosis\" ci fornisce modelli di aggiornamento che vanno dalla \"\\&7Pietra\" al \"\\&bDiamante\". Questi possono aiutarci a mantenere gli \"\\&5Effetti\" e gli \"\\&6Attributi\" su un oggetto durante il suo aggiornamento.\n\nAvremo bisogno di un \"\\&bModello di Aggiornamento in Diamante\" per creare..."
+    ],
+    "quest.0BDD1938BA14B2BE.title": "\\&bModello di aggiornamento per gioielli",
+    "quest.0D05288932D4542A.quest_desc": [
+        "Il modo più semplice ed economico per accelerare la crescita.\n\nMa prima, cosa sono gli \"\\&2Growth Accelerators\"? Gli \"\\&2Growth Accelerators\" funzionano accelerando la crescita di qualsiasi pianta o cristallo nelle loro vicinanze.\n\nSe il grano è adiacente a un \"\\&2Growth Accelerator\", crescerà molto più velocemente. Allo stesso modo, se un \"\\&5Budding Amethyst\" è adiacente a un \"\\&2Growth Accelerator\", crescerà più velocemente.\n\nL' \"\\&aCranked Growth Accelerator\" non utilizza energia, ma richiede l'intervento manuale! Utilizzando le manovelle.\n\nPosiziona una manovella in legno e, facendo clic con il tasto destro, la farai funzionare.",
+        "{image:atm:textures\/questpics\/chap2\/chap2_geore.png width:100 height:100 align:center}"
+    ],
+    "quest.0D05288932D4542A.title": "\\&Acceleratore di crescita rapido",
+    "quest.0FDD6BD1005EE958.quest_desc": [
+        "L'\\&8\\&lHammer\\&r automatizzerà il processo di creazione. Non utilizzerà la Durabilità, ma l'Energia!\n\nAvremo bisogno di un inventario dietro la macchina (il lato aperto, la ruota sarà sul lato destro del lato di output) per consentire l'output automatico.\n\nUna volta inseriti i blocchi, l'\\&8\\&lHammer\\&r li creerà e invierà i nuovi blocchi nell'inventario.\n\nPossiamo anche posizionare un \\&b\\&lSieve\\&r dietro per far sì che l'\\&7Gravel\\&r venga automaticamente lanciato nell'\\&b\\&lSieve\\&r!"
+    ],
+    "quest.0FDD6BD1005EE958.title": "\\&l\\&8Hammer Flux",
+    "quest.10B804035EFF34F9.quest_desc": [
+        "\\&0I resti scheletrici\\&r appariranno nelle \\&cFortezze del Nether\\&r.\nSono alti 3 blocchi, con 20 \\&4Cuori\\&r e una \\&7Spada di pietra\\&r.\nSembrano innocui, vero? In realtà, forniscono anche l'effetto \\&0Wither\\&r, simile al veleno, ma con danni maggiori e che può ucciderti!\nPossono raramente far cadere le loro \\&0crani\\&r, che avremo bisogno per evocare l'\\&0Wither\\&r."
+    ],
+    "quest.10B804035EFF34F9.title": "\\&Resti scheletrici",
+    "quest.16905BC2C6158311.quest_desc": [
+        "Bene, ora che abbiamo il sistema di generazione di mostri, così come i raccoglitori di oggetti, ora dobbiamo semplicemente uccidere i mostri!\n\nLe punte di ferro non sono particolarmente economiche (né facili) da creare, ma sicuramente saranno efficaci!\n\nQualsiasi mostro che tocchi le punte di ferro subirà danni. Se il mostro muore, rilascerà i suoi oggetti e guadagnerà anche esperienza.\n\nLe punte di ferro non rilasceranno determinati oggetti se è necessario che il giocatore uccida esplicitamente il mostro."
+    ],
+    "quest.17B49742F34F23B0.quest_desc": [
+        "Non vi piacciono gli \"Iron Spikes\" o gli \"\\&bMob Mashers\\&r\"? Provate allora gli \"\\&lSpiky Spikes\\&r\"!\n\nQuesti offrono 6 diversi livelli di \"Spikes\".\n\nPiù costoso è lo \"\\&4Spike\\&r\", maggiore è il danno. Ma... producono anche effetti diversi per ogni uccisione.\n\nGli \"\\&6Wooden Spikes\\&r\" non uccidono. Gli \"\\&7Stone\\&r\" non fanno cadere oggetti o \"\\&bXP\\&r\". Gli \"Iron Spikes\" fanno cadere oggetti, ma non \"\\&bXP\\&r\", mentre gli \"\\&eGold\\&r\" fanno il contrario. Gli \"\\&bDiamond\\&r\" fanno cadere oggetti, oltre a poter essere \"\\&5Enchanted\" come una spada! Gli \"\\&cNetherite\\&r\" fanno tutto ciò che possono fare gli \"\\&bDiamond\\&r\", oltre a resistere agli esplosivi, anche contro \"\\&0\\&lThe Wither\\&r\"."
+    ],
+    "quest.17B49742F34F23B0.title": "\\&l\\&4Spiky Spikes",
+    "quest.1843C79133DFB024.quest_desc": [
+        "Il generatore più potente ed efficiente: il Netherstar Generator. Provate a indovinare cosa utilizza per produrre energia!"
+    ],
+    "quest.1A97DDE49DB49E9D.quest_desc": [
+        "4 contenitori di \"Fluid XP\", 1 \"Seed\" di qualsiasi tipo, oltre a \"Drops\" da zombie, scheletri, ragni e \"Creepers\", ci daranno \"5GM Chicken Feed Cursed\".\n\nQuesto orribile ammasso di microplastiche, modifiche genetiche e glutine può essere dato a un pollo per ottenere un \"Rotten Egg\". I polli non sono in grado di gestire tutte le modifiche genetiche e esploderanno.\n\nPossiamo mettere il \"Rotten Egg\" sulla terra per ottenere \"5 Dreadful Dirt\". Questo può estendersi fino a 5x5 di \"Dreadful Dirt\".\n\nIl \"Dreadful Dirt\" genererà \"Hostile Mobs\" quando è buio. Circa 10 volte più velocemente rispetto al normale. Anche se non li vediamo spesso!",
+        "{image:atm:textures\/questpics\/chap2\/chap2_dreadful.png width:100 height:100 align:center}"
+    ],
+    "quest.1A97DDE49DB49E9D.quest_subtitle": "Per gruppi di individui ostili",
+    "quest.1A97DDE49DB49E9D.title": "E sporco terribile",
+    "quest.1C73E60FC70408D4.quest_desc": [
+        "Finalmente, un generatore unico! \"Culinary\" è il nome per l'arte del cibo. Questi generatori non utilizzano carbone, lava o persino legna, ma cibo. Qualsiasi cosa con \"punti cibo\" può essere utilizzata per produrre energia, e la quantità prodotta dipende dal numero di \"punti cibo\" contenuti nel cibo. Una bistecca produrrà più energia rispetto a una carota."
+    ],
+    "quest.1DB607AA14FBF2F7.quest_desc": [
+        "Il \"\\&bMob Masher\\&r\" è una macchina perfetta per eliminare i mob!\n\nAvrà bisogno di un \"\\&csegnale di Redstone\\&r\" per funzionare.\n\nQualsiasi mob che tocchi il \"\\&bMob Masher\\&r\" verrà distrutto e, sì, lascerà cadere oggetti come se fosse stato ucciso da un giocatore.\n\nCome gli \"\\&8Fans\\&r\", i \"\\&bMob Mashers\\&r\" possono essere potenziati.\n\nQuesti possono aumentare i danni, il bottino e persino aggiungere l'effetto del fuoco!"
+    ],
+    "quest.1DB607AA14FBF2F7.title": "\\&bMob Masher",
+    "quest.1E3BEB94E0EEF222.quest_desc": [
+        "Gli \\&9Acceleratori di Crescita Direzionali\\&r utilizzano la stessa ricetta degli \\&4Acceleratori di Crescita Potenziati\\&r, semplicemente sostituendo il Nucleo di Annichilimento con un Nucleo di Formazione.\n\nI Nuclei di Formazione richiedono un \\&bCristallo Certus\\&f, un \\&5Polvere di Fluix\\&f, e un \\&cProcessore Logico\\&r.\n\nL'\\&9Acceleratore di Crescita Direzionale\\&r funziona in modo diverso rispetto agli altri \\&2Acceleratori di Crescita\\&r, in quanto determina la direzione di crescita. Invece di far crescere i cristalli in ogni direzione disponibile dal cristallo di germinazione, crescerà solo in una direzione specifica.\n\nPossiamo impostare la direzione nell'\\&9Acceleratore di Crescita Direzionale\\&r utilizzando un oggetto chiamato \\&9Modificatore di Direzione\\&r. Basta fare clic con il tasto destro sull'\\&9Acceleratore di Crescita\\&r per modificare la direzione.\n\nQuesti \\&9Acceleratori di Crescita\\&r sono i più veloci e ideali per le fattorie automatiche!"
+    ],
+    "quest.1E3BEB94E0EEF222.title": "\\&9Acceleratore di crescita direzionale",
+    "quest.21912CB57B687E30.quest_desc": [
+        "Combina 8 generatori da 8x con un ingranaggio in Netherite per creare un generatore da 64x!\n\nQuesto significa avere un intero set di generatori in... un... blocco!"
+    ],
+    "quest.21912CB57B687E30.title": "Un intero set in un unico generatore",
+    "quest.24677171BCD906C4.quest_desc": [
+        "Il \"Drago Ender\" è esattamente lo stesso del \"Drago Vaniglia\", inclusi i suoi attributi.\nIl \"Drago Ender\" ha 150 punti salute e recupererà salute grazie ai \"Cristalli Ender\" presenti sulle \"Colonne di Obsidian\".\n\nHa diversi attacchi: proiettili di fuoco che si diffondono ovunque colpiscano, spargendo \"Respiro del Drago\" dove si trova sopra il suo nido, oppure può semplicemente scontrarsi con te.\nRompi i \"Cristalli\", poi spara a bersaglio finché non si posa sopra il suo nido, quindi tagliala con le tue spade!\n\nUna volta ucciso, rilascerà le sue \"Scaglie\", una grande quantità di \"XP\", e aprirà il portale, lasciando l'uovo sopra il nido. Ricorda di prenderlo!"
+    ],
+    "quest.24677171BCD906C4.title": "\\&5\\&Drago Ender",
+    "quest.258531A2C52ED845.quest_desc": [
+        "Quando arriverete con l'edizione \\&6AllTheModium Nugget, il nuovo capitolo sarà già disponibile.\n\nCapisco, ma state decisamente sottovalutando le vostre capacità.\n\nComunque, presto creeremo un nuovo capitolo, l'edizione \\&6\\&lAllTheModium\\&r!"
+    ],
+    "quest.25FBF7A3BD8A96B2.quest_desc": [
+        "\\&5Fluix\\&r è un materiale molto misterioso e utile per \\&b\\&lAE2\\&r. Ne avremo bisogno in grandi quantità!\n\nPer crearlo, avremo bisogno di \\&9Acqua\\&r e di altri materiali: \\&cPolvere di Redstone\\&f, Quarzo e \\&bCristallo di Certus Caricato\\&r.\n\nVersate tutti questi materiali nell'\\&9Acqua\\&r, lasciatelo agire per un secondo e otterrete 2 \\&5Cristalli di Fluix\\&r!"
+    ],
+    "quest.25FBF7A3BD8A96B2.title": "\\&5Fluix Crystal",
+    "quest.2A8588D77B5C74CA.quest_desc": [
+        "Consultare il \"Cranked Growth Accelerator\" per capire come funzionano in generale gli \"Growth Accelerators\".\n\nQuesto modello è più costoso, in quanto richiede \"Fluix\" e Quarzo per essere costruito.\n\nA differenza del modello precedente, questo richiede energia, che può provenire da un \"ME System\" o da una propria fonte di energia."
+    ],
+    "quest.2A8588D77B5C74CA.title": "\\&5Acceleratore di crescita",
+    "quest.2C320EC6C73F8F0A.quest_desc": [
+        "Le fortezze di \\&cNether sono intatte. Conservano ancora oggetti, strutture e punti di generazione.\n\nIn realtà, di solito hanno più punti di generazione, dato che non ci sono altri luoghi dove possono apparire i mostri!"
+    ],
+    "quest.2C320EC6C73F8F0A.title": "E altre fortificazioni simili",
+    "quest.306BF72C2D2E544A.quest_desc": [
+        "Creando una forma a \"T\" con i blocchi di \"Soul Sand\" e \"Wither Skeleton\" e posizionando 3 \"Wither Skeleton\" sopra i blocchi di \"Soul Sand\", evocheremo il \"Wither\".\n\nAttenzione: il \"Wither\" esploderà quando sarà pronto per attaccare!\n\nIl \"Wither\" ha 300 \"Cuori\" e può volare. Sparerà \"Wither Skulls\" che esploderanno e infliggeranno l'effetto \"Wither\" a chiunque le colpisca.\n\nOgni mob ucciso dal \"Wither\" lascerà delle \"Wither Roses\".\n\nUna volta ridotto a 150 \"Cuori\", il \"Wither\" volerà più basso e non subirà danni da proiettili, quindi dovrai utilizzare le tue armi da corpo a corpo.\n\nUna volta ucciso, rilascerà alcuni oggetti, tra cui la Nether Star."
+    ],
+    "quest.306BF72C2D2E544A.title": "\\&l\\&8La putrefazione",
+    "quest.30BF71B8E28163BB.quest_desc": [
+        "\\&8La polvere di Soulium\\&r è prodotta da \\&bSetto di sabbia\\&r... provate a indovinare. Avrete bisogno di una \\&bRete di diamante\\&r per il \\&cNetherite\\&r.\n\n\\&8La polvere di Soulium\\&r sarà necessaria per tutti i \\&2\\&lSemi\\&r che coinvolgono la morte.\n\nMi scuso per questo cambiamento di tono, ma sto solo cercando di essere onesto!"
+    ],
+    "quest.30BF71B8E28163BB.title": "\\&8Polvere di Soulium",
+    "quest.35E666FB9EAFA39B.quest_desc": [
+        "Prepariamo una torta! \\n\\n2 tazze di zucchero, 1 uovo intero, 3 \"Pietre di Ender\" (schiacciate) e 3 \"Occhi di Ender\". \\n\\nDubito che la torta abbia un buon sapore con questi ingredienti! Ma ti teletrasporterà a \"The End\"! \\n\\n\"The End\" è perfettamente normale, e consiglio di utilizzare una \"Waystone\" per teletrasportarti più facilmente tra i due luoghi."
+    ],
+    "quest.35E666FB9EAFA39B.title": "Come arrivare a \\&d\\&lThe End",
+    "quest.36AE40E537B22E1B.quest_desc": [
+        "\\&8I condensatori di base\\&r sono solo l'inizio di molte, molte, molte ricette necessarie in \\&c\\&lPowah\\&r, che verranno ripetute numerose volte."
+    ],
+    "quest.36AE40E537B22E1B.title": "\\&c\\&lPowah",
+    "quest.3824439740223998.quest_desc": [
+        "\\&8Flux Dust\\&r, \\&5Obsidian\\&r e \\&aEyes of Ender\\&r. \\nTutto ciò di cui avremo bisogno per \\&8\\&lFlux Networks\\&r!"
+    ],
+    "quest.3824439740223998.title": "\\&8\\&lFlux Networks",
+    "quest.38FAA74C68B2E14C.quest_desc": [
+        "\\&a\\&lMob Grinding Utils\\&r è molto utile per l'allevamento di mostri, soprattutto in mondi limitati come \\&b\\&lSkyblock\\&r!\n\nPer iniziare, avremo bisogno di alcuni \\&aXP fluidi\\&r. Per questo, avremo bisogno di un \\&5 Hopper di raccolta e di un \\&aSerbatoio di Singolarità\\&r.\n\nL'\\&5 Hopper di raccolta raccoglierà qualsiasi oggetto e \\&aXP\\&r lasciati in un'area specifica attorno ad esso e li memorizzerà.\n\nConsultate l'interfaccia utente dell'\\&5 Hopper di raccolta per modificare l'area di raccolta o per specificare dove inviare gli \\&aXP\\&r o gli oggetti. Ad esempio, potete inviarli al nostro...\n\n\\&aSerbatoio di Singolarità\\&r, che memorizzerà gli \\&aXP\\&r sotto forma di \\&aXP fluidi\\&r. Quindi, possiamo semplicemente fare clic con il tasto destro sul \\&aSerbatoio\\&r con un secchio per raccogliere gli \\&aXP fluidi\\&r!"
+    ],
+    "quest.38FAA74C68B2E14C.title": "Acquisizione di esperienza",
+    "quest.3D0FE8A0EA0E9177.quest_desc": [
+        "Benvenuti nel capitolo 2!\n\nOra dovreste avere accesso alla maggior parte dei materiali più semplici. Ora possiamo iniziare ad esplorare altri mod e fattorie.\n\nAvete dimenticato che si tratta di un pacchetto di mod per ATM? Avrete bisogno di fattorie!"
+    ],
+    "quest.3D0FE8A0EA0E9177.title": "E le parti interessanti",
+    "quest.3D73B9D876DAF356.quest_desc": [
+        "Finalmente possiamo iniziare a ottenere materiali di qualità da \\&bSieving\\&r!\n\nCon le mesh di \\&bDiamond\\&r e \\&cNetherite\\&r, avremo le migliori possibilità di ottenere gli oggetti più rari, oltre a una grande quantità di nuovi oggetti.\n\nPossiamo ora ottenere \\&5Draconium Dust\\&f e \\&3Deep Dark\\&r oggetti da \\&eEndstone\\&r. \\&8Soulium\\&ffrom \\&8Soul Sand\\&r. \\&aUrananite\\&ffrom \\&eSand\\&r. \\&bIsneium\\&ffrom \\&0Blackstone\\&r.\n\nE infine \\&6AllTheModium Nuggets\\&r da entrambi \\&eSand\\&fand \\&0Blackstone\\&r!",
+        "{image:atm:textures\/questpics\/chap2\/chap2_mesh.png width:100 height:100 align:center}"
+    ],
+    "quest.3D73B9D876DAF356.title": "I migliori modelli!",
+    "quest.40DB6E3DE87F16EF.quest_desc": [
+        "\\&dDragon's Breath\\&r è un oggetto potente, (e con un odore forte), e misterioso. \"Potente\" significa che possiamo ottenere Energia da esso, e in grandi quantità! \\&5Halitosis Generator\\&r produce Energia da \\&dDragon's Breath\\&r!",
+        "",
+        "(A proposito, è possibile raccogliere \"Dragon's Breath\" utilizzando un estrattore di XyCraft, insieme alla \"Dragon's Head\")."
+    ],
+    "quest.40DB6E3DE87F16EF.title": "\\&5Generatore di alito cattivo",
+    "quest.419F9D82FFA2A6C4.quest_desc": [
+        "Gli \"\\&8Mob Fans\" sono macchine utili e facili da configurare, progettate per spostare i mostri.\n\nPer impostazione predefinita, si attivano quando ricevono un segnale \"\\&cRedstone\". Una volta attivati, sposteranno qualsiasi oggetto e mostro a 5 blocchi di distanza dal \"\\&8Fan\".\n\nGli \"\\&8Fans\" sono inoltre dotati di aggiornamenti che possiamo creare e aggiungere facendo clic con il tasto destro sul \"\\&8Fan\". Questi aggiornamenti consentono di spingere oggetti e mostri a distanze maggiori!"
+    ],
+    "quest.419F9D82FFA2A6C4.title": "\\&8Fan\n",
+    "quest.4788B2DC0228CA50.quest_desc": [
+        "Con l'utilizzo di Obsidian e Nether Portal, possiamo creare il portale verso il Nether.\n\nAccendilo con il \"fuoco\" per attivarlo. Quindi, procedi verso il Nether.\n\nPotresti notare una mancanza di... \"Nether\" all'interno del Nether. Spero che tu non abbia dimenticato di giocare a un \"Skyblock Modpack\"!\n\nPuoi costruire strutture per trovare \"Nether Fortresses\" o anche semplici piattaforme per far apparire i mob. \"Dreadful Dirt\" funziona anche nel Nether!"
+    ],
+    "quest.4788B2DC0228CA50.title": "E altro ancora",
+    "quest.481E60311ED46731.quest_desc": [
+        "Combinando 8 generatori dello stesso tipo con un ingranaggio a forma di diamante, è possibile comprimere il sistema in un unico generatore equivalente a 8!\n\nQuesti funzioneranno con la stessa velocità e efficienza di 8 generatori, ma in un unico macchinario!"
+    ],
+    "quest.481E60311ED46731.title": "8 volte più potente!",
+    "quest.48BA757A68C25883.quest_desc": [
+        "Questi oggetti speciali, molto rari e difficili da ottenere, che sono superiori agli altri oggetti!\n\nOltre all'oggetto speciale, otterremo anche un \"Gemma di Apoteosi\".\n\nBisogna schiacciare la gemma sotto un martello che cade.\n\nQuesto ci darà \"Polvere di Gemma\"!\n\nLa \"Polvere di Gemma\" sarà necessaria per molte ricette, tra cui quelle per il tavolo di recupero."
+    ],
+    "quest.48BA757A68C25883.title": "\\&5Polvere di gemme",
+    "quest.4C7E0034F317E49D.quest_desc": [
+        "\\&aInferium Essence\\&r non viene estratta o raffinata, ma viene ottenuta dai mostri. Come quasi tutti i mostri.\n\nAvrete bisogno di grandi quantità per ottenere \\&aInferium Seeds\\&r, quindi uccidete abbastanza mostri per raccoglierli.\n\nQuesti possono essere piantati per coltivare \\&aInferium\\&r."
+    ],
+    "quest.4C7E0034F317E49D.title": "\\&aEssenza di Inferium",
+    "quest.4DF0B04764C17642.quest_desc": [
+        "Molto raramente, in \\&9Night\\&r, apparirà un \\&c\"Gruppo Ostile\" \\&r, diverso da qualsiasi altro, con un ingresso \\&\"caotico\".\\n\\nQuesti sono i Boss provenienti da \\&5\\&lApotheosis\\&r!\\n\\nHanno più \\&4Cuori\\&r, effetti e equipaggi rispetto agli altri mostri. Quando li sconfiggeremo, rilasceranno un \\&6Oggetto Equipaggiato\\&r.\\n\\nQuesti sono il nostro modo di introdurci a \\&5\\&lApotheosis\\&r. Premete CTRL e T per aprire il menu \\&l\"Livello del Mondo\\&r!"
+    ],
+    "quest.4DF0B04764C17642.title": "\\&5\\&Apotesi\\&r Avventura",
+    "quest.51D71CA472F930D1.quest_desc": [
+        "4 secchi di \"Materiale per l'alimento\", alcuni tipi di \"semi\" e 4 tipi di \"colture\" ci permetteranno di ottenere \"Alimento per pollame nutriente\"!\n\nI 4 tipi di \"colture\" o i loro \"semi\" possono essere ottenuti setacciando il \"Terreno\".\n\nL'\"Alimento per pollame nutriente\" può essere dato a un pollo per ottenere un \"Uovo d'oro\"! (A costo della vita del pollo.)\n\nL'\"Uovo d'oro\" può essere posizionato sul \"Terreno\" e creerà un'area di massimo 5x5 di \"Terreno piacevole\".\n\nIl \"Terreno piacevole\" genererà \"Mob passivi\" molto più frequentemente rispetto al normale \"Terreno\". Potrebbe persino generare alcuni che raramente si vedono!",
+        "{image:atm:textures\/questpics\/chap2\/chap2_delightful.png width:100 height:100 align:center}"
+    ],
+    "quest.51D71CA472F930D1.quest_subtitle": "Per gruppi di creature inattive",
+    "quest.51D71CA472F930D1.title": "\\&2Terreno meraviglioso",
+    "quest.54369B8F151CAFAB.quest_desc": [
+        "Combinando le \"palle di argilla\" con la \"sabbia\", possiamo ottenere l'\"argilla refrattaria\".\n\nCuocete l'\"argilla refrattaria\" per ottenere i \"mattoni refrattari\"! Quindi, unite 4 \"mattoni refrattari\" per creare l'inizio della nostra \"fabbrica\".\n\nOtterrete \"mattoni refrattari neri\", ma potete colorarli, quindi va bene!"
+    ],
+    "quest.54369B8F151CAFAB.title": "Creare la \\&c\\&lFoundry",
+    "quest.5590E979DBE4E09B.quest_desc": [
+        "\"Sarà necessaria la pasta dielettrica per il [nome dell'oggetto]! \\n\\nNe esistono 2 ricette, per ironia della sorte. 1: 3 [nome del materiale], 2 [nome del materiale] e un [nome del materiale] in sacchetto. 2: 2 [nome del materiale], 1 [nome del materiale] e 1 [nome del materiale] in polvere. \\n\\nLa ricetta con il [nome del materiale] darà 24 unità di pasta dielettrica, mentre quella con la polvere di [nome del materiale] ne darà 16. \\n\\n\"Wow, sembra un sacco per una sola ricetta!\" INVECE NO! Questo mod richiederà MILIARDI di unità di pasta dielettrica. \\n\\nSperate che la ricetta dia 24.000 unità!"
+    ],
+    "quest.5590E979DBE4E09B.title": "\\&8Pasta dielettrica",
+    "quest.56370EFB8C300AE5.quest_desc": [
+        "\\&eEndstone Schiacciato\\&r fornisce oggetti piuttosto semplici come ricompense.\n\\&ePerle di Ender, \\&aOcchi di Ender, \\&dFrutti di Chorus e \\&dFiori\\&r.\n\nUna volta che inizieremo a utilizzare le \\&bGriglie di Diamante e \\&cGriglie di Netherite, otterremo oggetti molto migliori!\n\nInoltre, potrete preparare una deliziosa torta magica!"
+    ],
+    "quest.56370EFB8C300AE5.title": "\\& Pietra angolare frantumata",
+    "quest.5893A5D20E77D98B.quest_desc": [
+        "Gli unici Spawners che possiamo trovare in \\&b\\&lATM10TTS\\&r sono nelle \\&cFortezze del Nether\\&r.\n\nAbbiamo ottenuto \\&5\\&lApotheosis\\&r, quindi usate l'abilità \"Silk Touch\" per rubare questi Spawners!\n\nSuccessivamente, potrete modificarli come desiderate."
+    ],
+    "quest.5A71A1F11FB74BDA.quest_desc": [
+        "\\&8Flux Networks\\&r riguarda esclusivamente \\&8Flux\\&r! \\&8Flux\\&r è realizzato schiacciando \\&8Redstone\\&r contro \\&8Bedrock\\&f con \\&5Obsidian\\&r!\n\nNon abbiamo \\&8Bedrock\\&r, ma abbiamo \\&5Obsidian\\&r compresso. Quale di questi due è sufficiente?\n\nPosizionate \\&5Obsidian\\&r compresso, con \\&5Obsidian\\&r normale sopra, lasciando un'interruzione di 1 blocco. Lanciate \\&cRedstone Dust\\&r tra di loro e cliccate con il tasto sinistro sull'\\&5Obsidian\\&r superiore per schiacciarlo.\n\nQuesto ci darà \\&8Flux Dust\\&r!",
+        "{image:atm:textures\/questpics\/chap2\/chap2_flux1.png width:50 height:100 align:center}",
+        "{image:atm:textures\/questpics\/chap2\/chap2_flux2.png width:50 height:100 align:center}"
+    ],
+    "quest.5A71A1F11FB74BDA.title": "\"Polvere di Flux\" (o \"Polvere di Flux\")",
+    "quest.5AAE3E43A8A545C4.quest_desc": [
+        "Sia il \\&b\\&lFlux Sieve\\&r che il \\&8\\&lHammer\\&r possono essere potenziati!\n\nQuesti potenziamenti aumenteranno la velocità con cui funzionano e il numero di oggetti che possono elaborare. È possibile utilizzare fino a 3 unità di ciascuno, e più ne possiedi, migliori saranno."
+    ],
+    "quest.5AAE3E43A8A545C4.title": "Aggiornamenti di Flux",
+    "quest.5AE7A856B4CEB97A.quest_desc": [
+        "Gli \"Entity Conveyors\" sono tra i miei preferiti per spostare i Mob.\nI Mob possono generarsi sopra gli \"Entity Conveyors\", a meno che non abbiano bisogno di un blocco specifico per generarsi.\nGli \"Entity Conveyors\" sposteranno i Mob nella direzione in cui sono posizionati.\nNon possiamo renderli più veloci; solo i \"Fans\" possono essere potenziati."
+    ],
+    "quest.5AE7A856B4CEB97A.title": "\\&7Conveyor Entity",
+    "quest.5D5DE276D2746B46.quest_desc": [
+        "Con i nostri materiali di scarto, possiamo trasformarli in \"Frammenti di Netherite\".\n\n(A proposito, con soli 9 \"Frammenti\", possiamo creare un \"Blocco di Netherite\"!)\n\nOra possiamo creare \"Blocchi di Netherite\"!\n\nPurtroppo, quasi tutto richiederà un \"Modello di Aggiornamento di Netherite\" anche..."
+    ],
+    "quest.5D5DE276D2746B46.title": "E altri lingotti di Netherite",
+    "quest.603816519B62044F.quest_desc": [
+        "\\&5\\&lDraconic Evolution\\&r è diventato un elemento comune in \\&b\\&lTo The Sky\\&r. Non li biasmo, è un mod divertente e potente!\n\n\\&5\\&lDraconic Evolution\\&r si concentra sulla creazione e sull'utilizzo di moduli. Entrambi richiederanno \\&5Draconium Dust\\&r.\n\nQui troverete una serie di missioni per \\&5\\&lDraconic Evolution\\&r... a condizione che rimanga un'esperienza impegnativa!"
+    ],
+    "quest.603816519B62044F.title": "\\&5\\&Evoluzione draconica",
+    "quest.615D8F153DBF3C9C.quest_desc": [
+        "\\&8Il \"Steel\" sarà utilizzato per molte modifiche, tra cui \\&5\\&lMekanism\\&r!\n\nPer ottenerlo, dovremo costruire un \"\\&9\\&lInfusore Metallurgico\". Inoltre, sarà necessario fornire energia, carbone e ferro.\n\nFornite energia all'\"\\&9\\&lInfusore Metallurgico\", quindi posizionate il carbone nell'\"\\&eQuadrato Giallo\" e il ferro nell'\"\\&4Quadrato Rosso\"."
+    ],
+    "quest.615D8F153DBF3C9C.title": "Realizzare l'acciaio",
+    "quest.61F265D9A5713A4D.quest_desc": [
+        "\\&6\\&lGenerator Galore\\&r è cambiato parecchio!\n\nFunzionano ancora allo stesso modo, utilizzando il meccanismo \"ottenere energia\", ma i tipi e le ricette sono diversi.\n\nNon abbiamo più bisogno di generatori di \\&6Cuore, \\&eOro\\&f e \\&bDiamante\\&r; ora abbiamo solo generatori di ferro, \\&cNetherite\\&r e generatori unici.\n\nTutti, tranne il \\&4Generatore Magmatico\\&r, partono dal Generatore di Ferro!"
+    ],
+    "quest.61F265D9A5713A4D.quest_subtitle": "Generatore di ferro",
+    "quest.61F265D9A5713A4D.title": "E numerosi generatori",
+    "quest.64B72C477EA7E6CA.quest_desc": [
+        "I canali saranno utilizzati per estrarre i materiali. Sì, purtroppo sarà troppo caldo per utilizzare le mani o i secchi.\n\nÈ necessario collegare il \"Canale di raccolta\" al \"Canale di scarico\", in modo che i materiali possano essere scaricati quando si clicca con il tasto destro sul canale di raccolta.\n\nÈ inoltre possibile visualizzare la quantità di liquidi presenti nel \"Canale di raccolta\" visualizzando il \"Canale di scarico\"!"
+    ],
+    "quest.64B72C477EA7E6CA.title": "e altri componenti: stampo, sifoni e 7 valvole",
+    "quest.65CE3B5FCD759ABC.quest_desc": [
+        "Dovremo continuare a utilizzare \\&bSieving\\&r e \\&8Hammering\\&r per un lungo periodo, soprattutto con \\&bSkyblock\\&r. Purtroppo, non tutte le fattorie lo permetteranno.\n\nComunque, almeno con \\&b\\&lEx Machinis\\&r, potremo automatizzare completamente \\&bSieving\\&r e \\&8Hammering\\&r, tenendo conto del costo dell'energia!"
+    ],
+    "quest.65CE3B5FCD759ABC.title": "\\&bSkyblock\\&r Automazione",
+    "quest.6712DF74C4972D56.quest_desc": [
+        "E altro ancora!\\n\\nIl nostro \\&c\\&lNether\\&r è un po' carente di Bastioni, quindi dobbiamo costruirli.\\n\\nIntendo, potete usare \\&b\\&lOccultism\\&r per ottenerli... ma è molto più difficile rispetto al metodo \\&5\\&lApotheosis\\&r!"
+    ],
+    "quest.6712DF74C4972D56.title": "\\&cModello di aggiornamento per Netherite",
+    "quest.68972BA647FDCF8F.quest_desc": [
+        "Se conoscete \\&l\\&6Productive Bees\\&r, dovete conoscere LobsterJonn. Lui ha creato sia \\&l\\&6Productive Bees\\&r che \\&l\\&6Generator's Galore\\&r (insieme a molti altri). Lo \\&6Honey Generator\\&r è un ottimo modo per combinare entrambi i mod! Lo \\&6Honey Generator\\&r utilizza \\&6Liquid Honey\\&r per produrre energia."
+    ],
+    "quest.68972BA647FDCF8F.title": "\\&6 Generatore di miele",
+    "quest.69201157ECFBB426.quest_desc": [
+        "Mi dà sempre fastidio quando ho una fattoria di Endermen per ottenere XP o gemme di Apotheosis, ma alla fine finisco per avere solo queste perle di Endermen (ahah, perle di Endermen). Ora, potrete utilizzare queste perle di Endermen per ottenere energia con il Generatore di Endermen. Potete persino creare degli \"Occhi di Endermen\" per ottenere ancora più energia!"
+    ],
+    "quest.69201157ECFBB426.title": "\\&Generatore Ender",
+    "quest.6A1145678E80FB8E.quest_desc": [
+        "Ci sono così tante risorse inutili, perché non sfruttare al massimo le \"Enchantments\"? Il \"Generator di Enchantments\" utilizza i \"Libri Enchantati\" per produrre energia. Il livello e la rarità dei \"Libri Enchantati\" influenzano la quantità di energia che si ottiene."
+    ],
+    "quest.6A1145678E80FB8E.title": "\\&Generatore di incantesimi",
+    "quest.6AAE1DA641CBD6A6.quest_desc": [
+        "Possiamo utilizzare la polvere di \\&bSieve\\&r per ottenere la polvere di \\&bSky Stone\\&r.\n\nQuesto sarà necessario per realizzare le nostre presse.\n\nPossiamo anche utilizzarla in altre ricette o fondere per ottenere la \\&bSky Stone\\&r."
+    ],
+    "quest.6AAE1DA641CBD6A6.title": "\\&bSky Stone",
+    "quest.6B4AD4927B665338.quest_desc": [
+        "Gli \"Echo Shards\" sono oggetti che si trovano nelle \"Antiche Città\", ma non le abbiamo. Oppure, si ottengono come ricompensa dal \"Warden\", che al momento non possiamo generare...\n\nComunque, possiamo sempre provare a ottenere gli \"Echo Shards\" tramite il \"Sieve\" e l'\"Endstone\", anche se la possibilità di ottenerli è rara.\n\nGli \"Echo Shards\" sono necessari per la creazione di molti oggetti costosi e potenti."
+    ],
+    "quest.6B4AD4927B665338.title": "\\&3Oggetti rari e oscuri",
+    "quest.6C3E384FBDE74A8E.quest_desc": [
+        "\\&6\\&lCreate\\&r verrà utilizzato molto qui.\nAbbiamo ricevuto anche l'ultima versione 1.21 e la funzione automatica \\&5Enchanting\\&r! Speriamo che non vi stanchi!\nAvrete bisogno di una grande quantità di \\&7Andesite\\&r, quindi siete fortunati che ora è automatizzata."
+    ],
+    "quest.6C3E384FBDE74A8E.title": "\\&6\\&lCrea",
+    "quest.6C8DB9997F9D5B62.quest_desc": [
+        "\\&aController\\&r è il componente centrale di \\&c\\&lFoundry\\&r.\n\nOgni \\&c\\&lFoundry\\&r avrà bisogno di almeno uno \\&aController\\&r.\n\nPossiamo utilizzare l'\\&aController\\&r per visualizzare l'interfaccia grafica di \\&c\\&lFoundry\\&r. Qui possiamo vedere le quantità di liquidi presenti all'interno di \\&c\\&lFoundry\\&r.\n\nPossiamo anche utilizzarlo per aggiungere e rimuovere oggetti da e all'interno di \\&c\\&lFoundry\\&r."
+    ],
+    "quest.6C8DB9997F9D5B62.title": "e altro ancora, Foundry \\& Controller",
+    "quest.6D05CA4C501AAC9C.quest_desc": [
+        "La \"Scatola di Recupero\" ci fornirà polvere di gemme (5 unità) e frammenti di rarità provenienti dagli oggetti!\n\nOgni oggetto \"Vincolato\" ha una rarità: Comune, Non Comune, Raro, Epico e Leggendario. Ciò ci fornirà un frammento di rarità corrispondente.\n\nAbbiamo bisogno di frammenti di cristallo luminoso, che si ottengono recuperando oggetti \"Vincolati\" di rarità Rara!"
+    ],
+    "quest.6D9F5C88564B009F.quest_desc": [
+        "\\&0Frammenti di Blackstone\\&r con reti economiche daranno solo pochi oggetti relativi a \\&0Nether\\&r o \\&0Black\\&r! Ad esempio, \\&0Magma Dye\\&r!\n\nMa possono anche fornire \\&0Ancient Debris\\&r!\n\nMaggiore è la qualità della rete, maggiore è la probabilità di ottenerlo.\n\nTuttavia, la probabilità rimane molto bassa, solo leggermente superiore a quella precedente!"
+    ],
+    "quest.6D9F5C88564B009F.title": "\\&8Frammenti di Blackstone",
+    "quest.6DB2D7D50AE1DA18.quest_desc": [
+        "\\&3Nucleo di Sculk. Può essere utilizzato su un \\&3Squek di Sculk\\&r per permettere la generazione di \\&3Il Guardiano\\&r.\n\nI \\&3Nuclei di Sculk\\&r sono realizzati con 4 \\&3Frammenti di Echo\\&r e 1 \\&3Perla di Ender\\&r.\n\nGli \\&3Squek di Sculk\\&r possono essere ottenuti tramite \\&bSetacciatura\\&r. Gli \\&3Squek di Sculk\\&r funzioneranno anche normalmente, continuando a diffondersi dal suono!"
+    ],
+    "quest.6DB2D7D50AE1DA18.title": "Uova e \"Il Guardiano\"",
+    "quest.6DC80D4BB5DE54D5.quest_desc": [
+        "\\&bI cristalli di Certus\\&r, un tempo presenti nei \\&bCristalli di Certus\\&r trovati nei meteoriti! Ma immagino che ci fossero così tanti meteoriti che il terreno non è riuscito a contenerli e sono scomparsi.\n\nInvece, ora possiamo ottenerli da \\&bSieving\\&e Sabbia.\n\nPossiamo anche ottenere \\&bCristalli di Certus\\&r carichi da \\&bSieving\\&e Sabbia, oppure utilizzare il \\&c\\&lCaricatore!\n\nIl \\&c\\&lCaricatore\\&r è una macchina che può utilizzare sia un albero a manovella che l'energia per caricare gli oggetti.\n\nPossiamo anche lanciare un \\&bCristallo di Certus\\&r caricato con \\&bPolvere di Certus\\&r in \\&9Acqua\\&r per ottenere 2 \\&bCristalli di Certus\\&r. La \\&bPolvere di Certus\\&r viene ottenuta attraverso la \\&bSieving\\&r."
+    ],
+    "quest.6DC80D4BB5DE54D5.title": "\\&bCertus Crystals\\&r e ricarica",
+    "quest.6FDB420BD5FF1E6B.quest_desc": [
+        "Smetta di raccogliere i \\&7Pebbles\\&r e raccogli invece questi!\n\nSì, avete capito bene! Possiamo automatizzare la raccolta di \\&7Andesite\\&r con l'\\&7\\&lCobble Generator\\&r.\n\nCostruiscilo normalmente, ma posiziona un \\&7Andesite Block\\&r sotto e otterrai \\&7Andesite\\&r invece di \\&7Cobble\\&r!",
+        "{image:atm:textures\/questpics\/chap2\/chap2_gen.png width:100 height:100 align:center}"
+    ],
+    "quest.6FDB420BD5FF1E6B.title": "Automatizzazione e \\&7Andesite",
+    "quest.716B9E90D1A0F120.quest_desc": [
+        "\\&l\\&bAE2\\&r è un processo complesso. Perché l'avete evitato per così tanto tempo? Ma proveremo a semplificarlo?\n\nUtilizzando la nostra \\&5\\&lInscriber\\&r, possiamo combinare determinati oggetti con piastre di ferro per creare \\&7Inscriber Presses\\&r.\n\nAvremo bisogno di tutte e 4 queste \\&7Presses\\&r, ma non è un problema, sono relativamente facili da ottenere.\n\nNe avremo bisogno per creare i \\&cCircuits\\&r, quindi date un'occhiata alla pagina successiva per saperne di più!",
+        "{@pagebreak}",
+        "E, oltre a realizzare le presse, producono anche i circuiti... utilizzando quelle presse.\n\nOgni pressa può essere combinata con un materiale per creare un circuito specifico.\n\nQuesti circuiti dovranno essere combinati tra loro in un'Inscriber per creare i circuiti completi. Questi sono i prodotti finali per la creazione delle nostre macchine.\n\nTuttavia, non posso garantire che sia semplice... l'AE2 è un processo complesso."
+    ],
+    "quest.716B9E90D1A0F120.title": "\\&7Stampa \\&f e \\&cCircuiti",
+    "quest.725E8046DA60CFA3.quest_desc": [
+        "\\&bFrammenti di Prosperità\\&r si ottengono setacciando il \\&bSabbia dell'Anima\\&r con una rete in ferro o migliore.\n\nSono necessari per creare i \\&bSemi di Prosperità\\&r, che sono essenziali per quasi tutti i \\&2\\&lMA\\&r \\&2Semi!\n\nQuindi, sono piuttosto importanti.\n\nAssolutamente, iniziate a procurarsene!"
+    ],
+    "quest.725E8046DA60CFA3.title": "\\&Prosperity Shards (Frammenti di Prosperità)",
+    "quest.7297391D026EE9A6.quest_desc": [
+        "Cerchi qualcosa di eccitante e nuovo per aumentare l'energia? Potresti provare a utilizzare il \"dPotion Generator\"! Questo strumento trasformerà le tue pozioni in energia, in base alla loro forza e durata."
+    ],
+    "quest.7297391D026EE9A6.title": "\\&Generatore di pozioni",
+    "quest.72DD9E63B22C08E3.quest_desc": [
+        "Con la nostra versione modificata di \"\\&3Shrieker\", possiamo attivarlo 3 volte per far apparire \"\\&3The Warden\". \"\\&3The Warden\" rimane comunque molto potente nel \"\\&bSky\", con 500 \"\\&4Hearts\" e un'enorme quantità di danni! Inoltre, possiede il suo \"\\&bSonic Beam\".\n\nFortunatamente, rimane altrettanto difficile da colpire, anche a centinaia di blocchi di distanza. Sfrutta questo vantaggio per eliminarlo. Mantieni la distanza e resta in silenzio.\n\nLa strategia migliore sarebbe posizionarsi a 23 blocchi sopra \"\\&3The Warden\" e sparare frecce verso di esso. \"\\&3The Warden\" non può utilizzare il suo \"\\&bSonic Beam\" a una distanza superiore a 23 blocchi.\n\nI suoi oggetti rimangono necessari per \"\\&5Apotheosis\"!"
+    ],
+    "quest.72DD9E63B22C08E3.title": "\\&3\\&lIl Guardiano",
+    "quest.7455D154FD1B4716.quest_desc": [
+        "Il \\&b\\&lFlux Sieve\\&r richiede diversi requisiti per funzionare correttamente.\n\nInnanzitutto, è necessaria l'energia. Potete occuparvi di questo da soli.\n\nIn secondo luogo, è necessario un inventario sotto di esso. Può accettare qualsiasi tipo di risorsa, ma ha bisogno di un inventario per poterla rilasciare.\n\nIn terzo luogo, è necessario un \"mesh\" (rete). Il tipo di rete determinerà quali risorse possono essere ottenute tramite il processo di \"siepaggio\".\n\nUna volta che avete tutto, automatizzate il processo nel \\&b\\&lFlux Sieve\\&r e questo inserirà le risorse nell'inventario sottostante!"
+    ],
+    "quest.7455D154FD1B4716.title": "\\&b\\&lFlux Sieve",
+    "quest.74C6A31F7D3E15CF.quest_desc": [
+        "Aspetta, perché ha creato il \"\\&7Ferro potenziato\"?\n\nAh, dobbiamo semplicemente aggiungere \"\\&0Carbone\" al \"\\&7Ferro potenziato\". Questo ci darà \"\\&8Polvere di ferro\"!\n\nFai fondere la \"\\&8Polvere di ferro\" e finalmente avremo \"\\&8Lingotti di ferro\".\n\nPenso che ora tu sia pronto per affrontare \"\\&5Mekanism\"!"
+    ],
+    "quest.74C6A31F7D3E15CF.title": "\\&5\\&Meccanismo",
+    "quest.74CEF0D801DEE219.quest_desc": [
+        "Una volta che la \\&c\\&lFoundry\\&r sarà fumante e i nostri materiali si saranno sciolti, avremo bisogno di un luogo dove poterli organizzare per creare i nostri \\&6GeOres\\&r!\n\nIl \\&8Casting Basin\\&r sarà perfetto, dato che dobbiamo versare un blocco intero di lingotti in \\&e1 Compressed Sand\\&r per ottenere i \\&6GeOres\\&r.\n\nVersare il \\&e1 Compressed Sand\\&r nel \\&8Basin\\&r, quindi utilizzare il \\&7Tap\\&r su un \\&bDrain\\&r sopra il \\&8Basin\\&r per far fluire il materiale al suo interno.\n\nAttendere un momento per permettere al materiale di raffreddarsi, e dovremo ora avere..."
+    ],
+    "quest.76B5E884D18F5A7B.quest_desc": [
+        "Non mi importa come le ottieni! Basta che le ottieni!\n\nPuoi utilizzare un martello da fabbro per trasformare 1 lingotto di ferro in 1 piastra di ferro, a costo di una diminuzione della durabilità.\n\nPuoi utilizzare un martello da fabbro che può trasformare 2 lingotti di ferro in 1 piastra, oppure, se aggiungi un martello specifico, ne avrà bisogno solo uno.\n\nInoltre, anche il mod \\&6\\&lRailCraft\\&r ci fornisce la macchina per la laminazione manuale, ma questa può trasformare solo 4 lingotti di ferro in 4 piastre di ferro."
+    ],
+    "quest.76B5E884D18F5A7B.title": "Piastre in ferro",
+    "quest.7A7D7227BECE21B6.quest_desc": [
+        "L'\\&5\\&lInscriber\\&r è una macchina utilizzata in \\&b\\&lAE2\\&r, che necessita di energia per funzionare...\n\nTuttavia, se abbiamo energia disponibile, possiamo utilizzarla per trasformare oggetti!\n\nPossiamo trasformare lingotti e cristalli in polvere, oppure combinare circuiti.\n\nPer utilizzarla, posizionare gli oggetti negli 3 slot a sinistra. Se è presente energia (e la ricetta corretta), il prodotto finale apparirà a destra."
+    ],
+    "quest.7A7D7227BECE21B6.title": "\\&5\\&lInscriber",
+    "quest.7E8E9F1F6BE23268.quest_desc": [
+        "Ora che abbiamo i nostri blocchi, dovremo assemblare la nostra struttura.\n\nInnanzitutto, dovremo installare i \"6Coil di riscaldamento a liquido\". Questi costituiranno il pavimento della struttura e saranno necessari per riscaldare la struttura.\n\nLe pareti saranno realizzate con \"mattoni refrattari\" o finestre. Le pareti saranno anche dove posizioneremo i \"drenaggi\", i \"serbatoi\" e i \"controllori\".\n\nLa struttura non avrà bisogno di un telaio, quindi ogni angolo può rimanere vuoto; ma deve avere 4 pareti e un pavimento per essere completata. Il \"controllore\" vi indicherà se manca un blocco.\n\nLa struttura può essere di dimensioni minime, ad esempio 1x1 internamente, purché abbia un \"controllore\", i \"coil di riscaldamento a liquido\" e le altre pareti completate!\n\nTuttavia, non consiglio di realizzarla così piccola, perché più grande è la struttura, più spazio avrà!\n\nSaprete che la struttura è completa quando il \"controllore\" si accende come un forno, e i \"coil di riscaldamento a liquido\" diventano \"arancioni\".",
+        "{image:atm:textures\/questpics\/chap2\/chap2_foundry.png width:100 height:100 align:center}"
+    ],
+    "quest.7E8E9F1F6BE23268.title": "\\&c\\&lFoundry",
+    "task.18574AAEB6B01E23.title": "Martelli",
+    "task.1EB84CB8EE502009.title": "Controller per fonderie",
+    "task.2A6B52161759B041.title": "Punti; Spine; Proiezioni",
+    "task.2D99E799D705C751.title": "Macchine di stampa Inscriber",
+    "task.3ECD980426D48A3D.title": "8 generatori",
+    "task.40EA7B0CB21276E4.title": "Generatori da 64 kVA",
+    "task.48FBBB59246F4831.title": "Muri in calcestruzzo gettato in opera",
+    "task.5CD77BCA43DF7796.title": "Serbatoi per fonderia",
+    "task.5FA76A208C54EBBC.title": "Scarichi per fonderie"
+}

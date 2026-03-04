@@ -1,10 +1,10 @@
 {
-    "item.revampedwolf.bagu_hat": "Cappello da bagu",
-    "item.revampedwolf.copper_wolf_armor": "armatura di lupo di rame",
-    "item.revampedwolf.diamond_wolf_armor": "Armadura di lupo di diamante",
-    "item.revampedwolf.golden_wolf_armor": "Armadura di lupo d'oro",
-    "item.revampedwolf.iron_wolf_armor": "Armadura lupo di ferro",
-    "item.revampedwolf.leather_wolf_armor": "armatura di lupo in pelle",
-    "item.revampedwolf.netherite_wolf_armor": "Armadura di lupo netherite",
-    "revampedwolf.config.disable_wolf_armor": "Disabilita armatura"
+    "item.revampedwolf.bagu_hat": "Cappello da pescatore",
+    "item.revampedwolf.copper_wolf_armor": "Armatura in rame",
+    "item.revampedwolf.diamond_wolf_armor": "Armatura di diamante",
+    "item.revampedwolf.golden_wolf_armor": "Armatura del Lupo d'Oro",
+    "item.revampedwolf.iron_wolf_armor": "Armatura Iron Wolf",
+    "item.revampedwolf.leather_wolf_armor": "Armatura in pelle di lupo",
+    "item.revampedwolf.netherite_wolf_armor": "Armatura per lupo in Netherite",
+    "revampedwolf.config.disable_wolf_armor": "Disattivare l'armatura"
 }

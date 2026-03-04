@@ -1,0 +1,18 @@
+{
+    "block.mo_waystones.calcite_waystone": "Calcite Waystone",
+    "block.mo_waystones.divine_bricks": "Divine Bricks",
+    "block.mo_waystones.divine_bricks_waystone": "Divine Bricks Waystone",
+    "block.mo_waystones.divine_waystone": "Divine Waystone",
+    "block.mo_waystones.ice_waystone": "Ice Waystone",
+    "block.mo_waystones.mud_bricks_waystone": "Mud Bricks Waystone",
+    "block.mo_waystones.nether_bricks_waystone": "Nether Bricks Waystone",
+    "block.mo_waystones.polished_calcite_waystone": "Polished Calcite Waystone",
+    "block.mo_waystones.runic_divine_bricks": "Runic Divine Bricks",
+    "block.mo_waystones.sculk_waystone": "Sculk Waystone",
+    "block.mo_waystones.sea_stone_waystone": "Sea Stone Waystone",
+    "block.mo_waystones.stable_divine_stone": "Stable Divine Stone",
+    "block.mo_waystones.tuff_bricks_waystone": "Tuff Bricks Waystone",
+    "block.mo_waystones.tuff_waystone": "Tuff Waystone",
+    "block.mo_waystones.unstable_divine_stone": "Unstable Divine Stone",
+    "creativetab.mo_waystones.mo_waystones_tab": "Mo Waystones"
+}

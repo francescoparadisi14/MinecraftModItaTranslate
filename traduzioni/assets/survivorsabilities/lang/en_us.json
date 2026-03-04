@@ -1,0 +1,9 @@
+{
+    "attribute.name.survivorsabilities.hunger_tolerance": "Hunger Tolerance",
+    "attribute.name.survivorsabilities.max_load": "Maximum Weight Capacity",
+    "attribute.name.survivorsabilities.resilience": "Self-Healing Ability",
+    "effect.survivorsabilities.artemis_vision": "Vision of Artemis",
+    "effect.survivorsabilities.neptune_vision": "Vision of Neptune",
+    "effect.survivorsabilities.pluto_vision": "Vision of Pluto",
+    "effect.survivorsabilities.workhorse": "Workhorse"
+}

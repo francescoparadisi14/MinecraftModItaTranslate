@@ -1,0 +1,17 @@
+{
+    "createWorld.customize.lostworlds.atlantis": "Atlantide",
+    "createWorld.customize.lostworlds.atlantis.description": "Questo è un mondo normale, con l'unica differenza che il livello del mare è aumentato fino a 90 metri. Utilizzare questo dato in combinazione con il profilo \"Atlantis\" delle Lost Cities.",
+    "createWorld.customize.lostworlds.caves": "Grotte",
+    "createWorld.customize.lostworlds.caves.description": "Gioca in un mondo pieno di grotte. In combinazione con \"Lost Cities\", puoi riempire queste grotte di città. Utilizza il profilo \"caverna\" di \"Lost Cities\".",
+    "createWorld.customize.lostworlds.cavespheres": "Sfere di pietra",
+    "createWorld.customize.lostworlds.cavespheres.description": "Gioca in un mondo pieno di grotte e sfere. In combinazione con \"Lost Cities\", puoi riempire queste grotte con città. Utilizza il profilo \"biosphere_caves\" di \"Lost Cities\".",
+    "createWorld.customize.lostworlds.islands": "Isole",
+    "createWorld.customize.lostworlds.islands.description": "Gioca in un mondo pieno di isole. In combinazione con \"Lost Cities\", puoi creare queste isole popolando le città utilizzando il profilo \"fluttuante\".",
+    "createWorld.customize.lostworlds.normal": "Normale",
+    "createWorld.customize.lostworlds.normal.description": "Questo è un mondo normale, ma permette di giocare in un ambiente desertico se si seleziona il tipo di mondo \"Wastes\". Utilizzare questo insieme al profilo \"biosfera\" delle Città Perdute.",
+    "createWorld.customize.lostworlds.spheres": "Sfere",
+    "createWorld.customize.lostworlds.spheres.description": "Gioca in un mondo vuoto, pieno di sfere. In combinazione con \"Lost Cities\", puoi riempire questo mondo vuoto di sfere contenenti città. Utilizza questa combinazione con il profilo \"Lost Cities\" per \"spazio\".",
+    "createWorld.customize.lostworlds.title": "Configurazione di Lost Worlds",
+    "generator.lostworlds.lost_worlds": "Mondi perduti",
+    "generator.lostworlds.lost_worlds_wastes": "Mondi perduti (deserti)"
+}

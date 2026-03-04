@@ -1,18 +1,18 @@
 {
-    "name": "Perch",
+    "name": "Perché",
     "category": "patchouli:fish",
     "icon": "aquaculture:perch",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li):moneta: 16$(li)§0🌼 §2Primavera§0 §0🍂 §4Autunno§0 §0❆ §bInverno§0$(li)Acqua: Fresca$(li)Clima: Qualsiasi$(li)Ora: Primavera, Autunno (Giorno), Inverno (Notte)`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 16$(li)§0🌼 Primavera§0 §0🍂 Autunno§0 §0❆ Inverno§0$(li)Acqua: Fresca$(li)Tempo: Qualsiasi$(li)Ora: Primavera, Autunno (giorno), Inverno (notte)"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:perch",
             "scale": 0.8,
             "rotate": true,
-            "text": "Non è questo il comportamento dei uccelli."
+            "text": "patchouli: entità\n\nacquacoltura: pesce\n\nNon fanno così anche gli uccelli?"
         }
     ]
 }

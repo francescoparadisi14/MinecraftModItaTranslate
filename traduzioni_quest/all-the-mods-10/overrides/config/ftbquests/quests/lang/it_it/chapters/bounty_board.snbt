@@ -1,0 +1,96 @@
+{
+    "quest.08B60D8A25008CCC.quest_desc": [
+        "Questo contenuto è stato creato da \\&6AllTheMods Staff\\&r, o da un \\&2contributore della community\\&r, per l'uso nei pacchetti mod di AllTheMods.\n\nPoiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti a \\&e\"Tutti i diritti riservati\", questo contenuto non può essere utilizzato in altri pacchetti pubblici, a meno che non sia stato rilasciato dal team \\&6AllTheMods\\&r.\n\nQuesto contenuto è intenzionalmente nascosto. Se lo state visualizzando, siete in modalità di modifica."
+    ],
+    "quest.08D1CC753F6B4283.quest_desc": [
+        "L'Elder Guardian era considerato un boss di livello intermedio in Minecraft prima dell'introduzione del Warden, ma lo considero un boss minore.\n\nGli Elder Guardians appaiono nelle \"Ocean Monuments\". Ne appaiono tre e infliggono \"Mining Fatigue\" a chiunque si trovi nelle vicinanze.\n\nSe desiderate ottenere i tesori dell'Ocean Monument, dovrete trovarli e sconfiggerli! (Suggerimento: ho sempre trovato uno nella stanza più alta, uno sul lato sinistro e uno sul lato destro!)\n\nHanno 80 punti vita e attaccano come i normali Guardian, con laser e spine!\n\nQuando vengono sconfitti, lasciano cadere: spugne, prismarine e il loro cibo."
+    ],
+    "quest.08D1CC753F6B4283.title": "Elimina il Guardiano Anziano",
+    "quest.09C82CDDA800D8C9.quest_desc": [
+        "Il Wither è il secondo boss di Minecraft, e questo è un boss più opzionale.\n\nPer farlo apparire, dovrai costruire il Wither utilizzando 4 blocchi di Soul Sand a forma di \"T\" e posizionando 3 crani di scheletro di Wither sopra.\n\nHa 300 punti vita e volerà, sparando crani di scheletro contro i giocatori o le creature.\n\nQuando la sua salute scende a metà, acquisirà uno scudo contro i proiettili e dovrà essere sconfitto con una spada o un ascia.\n\nUna volta sconfitto, rilascerà: una Stella del Nether, la possibilità di ottenere un'anima di Wither, e una grande quantità di oggetti di Corail."
+    ],
+    "quest.09C82CDDA800D8C9.title": "Sconfiggi il Wither",
+    "quest.0E20A9B79D1C6637.quest_desc": [
+        "Il Warden è un boss introdotto nella versione 1.20.\n\nAppare quando tre Sculk Shriekers (o qualsiasi altro Shrieker) si attivano in sequenza, oppure quando un primo Warden è già apparso.\n\nÈ il mostro più potente introdotto da Minecraft, con 500 punti ferita e danni superiori a 20 punti ferita con i suoi attacchi.\n\nI suoi attacchi includono colpire direttamente e lanciare esplosioni Sonar contro i nemici più lontani.\n\nLa sua unica debolezza è la cecità, ma, come il Daredevil, questo lo ha reso molto più sensibile agli altri sensi! Se si trova vicino, può annusarti e fare attenzione a non fare rumore!\n\nSe riesce a essere ucciso, rilascerà: Sculk Catalysts, il guscio del Warden e il Cuore del Profondo."
+    ],
+    "quest.0E20A9B79D1C6637.title": "Eliminare il direttore",
+    "quest.0F55D0B4D5094EDB.quest_desc": [
+        "Mentre completavo diverse missioni per ATM7, il villaggio del commerciante ha pensato che sarebbe stato divertente spingermi continuamente sullo schermo della missione.\n\n\"Eliminateli. Tutti.\"\n- AlfredGG\n\n\"Io sono d'accordo!\"\n- Toshiba"
+    ],
+    "quest.0F55D0B4D5094EDB.quest_subtitle": "\"Questo è personale\" - AlfredGG",
+    "quest.0F55D0B4D5094EDB.title": "Uccidi il contadino e le sue fastidiose lamine.",
+    "quest.13BB75A7E1973488.quest_desc": [
+        "La Mostruosità Lunare è il primo boss introdotto in Eternal Starlight.\n\nSi trova al centro del Giardino Maledetto, quindi buona fortuna a trovarlo e a sconfiggerlo!"
+    ],
+    "quest.13BB75A7E1973488.title": "Sconfiggi la Mostruosità Lunare",
+    "quest.17F3AC15ADCFB175.title": "\\&l\\&9Ricompensa per la fine dei Endermen:\\&r\\&e Endermen",
+    "quest.199932BF623A6785.quest_desc": [
+        "Il Guardiano dimenticato è il boss del Giardino Sotterraneo.\n\nSi trova all'interno della Struttura delle Catacombe."
+    ],
+    "quest.199932BF623A6785.title": "Eliminate il Guardiano dimenticato",
+    "quest.1F18B64C84C8809D.title": "\\&l\\&9Ricompensa nel mondo principale:\\&r\\&e Ragni",
+    "quest.1F31EBF49079F9D3.quest_desc": [
+        "Le version modificate dei \"Creepers\" ci offrono diverse varianti adatte a diversi biomi. \\n\\nOgnuna ha diversi tipi di oggetti che rilascia, e alcune addirittura sono amichevoli! \\n\\nTuttavia, tutte sono spaventate dai gatti..."
+    ],
+    "quest.1F31EBF49079F9D3.title": "Riparazione completa dei mezzi di trasporto per il personale di manutenzione",
+    "quest.2001998045ABC04C.quest_desc": [
+        "Tangled Hatred è un miniboss presente in Eternal Starlight.\nAppare insieme alla Lunar Monstrosity nel Cursed Gardens."
+    ],
+    "quest.2001998045ABC04C.title": "Sconfiggere l'odio radicato",
+    "quest.2B05A29C62676EB2.title": "\\&l\\&9Ricompensa nel mondo principale:\\&r\\&e Zombies",
+    "quest.2BD077EFE77B8EBB.quest_desc": [
+        "Esistono diverse varianti di zombie che appaiono in biomi diversi.\n\n*   **Husks:** appaiono nei deserti.\n*   **Drowned:** appaiono sott'acqua.\n*   **Gelid:** appaiono in ambienti freddi.\n*   **Thickets:** appaiono nelle giungle."
+    ],
+    "quest.2BD077EFE77B8EBB.title": "Varianti di zombie",
+    "quest.2CA9394459C24012.quest_desc": [
+        "I Rotbeasts sono boss minori che appaiono in tutta la Undergarden."
+    ],
+    "quest.2CA9394459C24012.title": "Sconfiggi un Rotbeast",
+    "quest.3371F9248D403664.title": "\\&l\\&cLa ricompensa per la sconfitta dei Nether Skeletons:\\&r\\&e",
+    "quest.3813F5C1760C3A79.quest_desc": [
+        "La presenza di Piglin Brutes potrebbe generare controversie, ma li considero dei \"mini-boss\".\n\nAppaiono nei Bastion insieme ai Piglin normali, ma in questo caso sono ostili, non neutrali. Personalmente, non mi piacciono, soprattutto perché se li colpisci, tutti i Piglin diventano ostili nei tuoi confronti.\n\nHanno 50 punti vita e un'ascia d'oro che usano per attaccare. Di solito, le asce d'oro non infliggono molto danno, ma quando le usano, è come se fossero potenti!\n\nNon lasciano oggetti e agiscono più come un ostacolo per i Bastion!"
+    ],
+    "quest.3813F5C1760C3A79.title": "Sconfiggi un Bruto Piglin",
+    "quest.41C0948CD9D50322.quest_desc": [
+        "Qui troverete tutti i premi che potete ottenere sconfiggendo i nemici."
+    ],
+    "quest.41C0948CD9D50322.quest_subtitle": "Distruggere tutto",
+    "quest.41C0948CD9D50322.title": "Tabella dei premi",
+    "quest.42822B1E8A53D051.title": "\\&l\\&9Ricompensa nel mondo principale:\\&r\\&e Scheletri",
+    "quest.56DA46DC82F6665D.quest_desc": [
+        "Il Wilden Chimera è un boss introdotto da Ars Nouveau ed è necessario per progredire nella sua sconfitta.\n\nÈ necessario richiamarlo attraverso un rituale, dopodiché sarà possibile affrontarlo."
+    ],
+    "quest.56DA46DC82F6665D.title": "Sconfiggi la Chimera di Wilden",
+    "quest.570223A03231DF8C.quest_desc": [
+        "\"Overhauled Endermen è un mod simile a Overhauled Creepers! Ma, ovviamente, con gli Endermen!\n\nTroverete tutti questi Endermen in diversi biomi, e ognuno ha le sue caratteristiche uniche! Alcuni hanno attacchi diversi, altri lasciano cadere perle diverse, e tutti hanno un aspetto diverso!"
+    ],
+    "quest.570223A03231DF8C.title": "Riparazione degli Endermen",
+    "quest.5AC497F76A086A5C.title": "\\&l\\&9Ricompensa nel mondo principale:\\&r\\&e Streghe",
+    "quest.6141DE779232C8AA.title": "\\&l\\&cLa ricompensa del Nether:\\&r\\&e Fiamme",
+    "quest.6827836C8E675A94.quest_desc": [
+        "Esistono diverse varianti di scheletri, proprio come i non morti!\n\n*   **Strays:** Appaiono negli ambienti freddi.\n*   **Bogged:** Appaiono nelle paludi e nelle stanze di prova.\n*   **Murks:** Appaiono sott'acqua nelle barriere coralline.\n*   **Verdants:** Appaiono nelle giungle."
+    ],
+    "quest.6827836C8E675A94.title": "Varianti scheletriche",
+    "quest.6DCDD55786025911.quest_desc": [
+        "Il Golem di Starlight è il secondo boss nel gioco Eternal Starlight.\n\nÈ in attesa nella Fabbrica dei Golem, pronto ad affrontare un giocatore!"
+    ],
+    "quest.6DCDD55786025911.title": "Distruggi il golem di luce stellare",
+    "quest.728BE1816DA23DC0.quest_desc": [
+        "L'Ender Dragon è il boss che protegge The End.\n\nQuando entri in un End Portal, arriverai sull'Isola del The End, dove si trova.\n\nHa 200 cuori e può attaccare lanciando palle di fuoco o caricando contro di te.\n\nDovrai distruggere i cristalli del The End sulle colonne, poiché questo la curerà, per poterla sconfiggere!\n\nUna volta sconfitta, rilascerà: Essence Arcana, sacche di Dragon Skin, squame di drago provenienti da due diversi mod, e una grande quantità di esperienza!\n\nA quel punto, il portale si aprirà, permettendoti di tornare nel mondo normale, oppure potrai trovare un'altra porta per esplorare le isole esterne. Troverai anche un uovo di drago sulla porta."
+    ],
+    "quest.728BE1816DA23DC0.title": "Sconfiggi il Drago Ender",
+    "quest.734411D931A8CDBF.quest_desc": [
+        "Il Ravager è un miniboss che compare solo nelle raid più difficili.\n\nSe non sapete cosa sono le raid o se non capite il nuovo sistema, non c'è problema! Le quest sono proprio per questo.\n\nEliminando i capi dei Pillager (quelli che sorvegliano le bandiere), potrete ottenere Pozioni di Presagio, che, una volta consumate, vi daranno l'effetto \"Presagio\". A quel punto, potrete avvicinarvi a un villaggio e iniziare una raid.\n\nDurante le raid, compariranno Pillager, Vindicators, Evokers, streghe e Ravager, pronti per essere combattuti!"
+    ],
+    "quest.734411D931A8CDBF.title": "Eliminare un distruttore",
+    "quest.77FC692AC94D2EEF.title": "\\&l\\&9Ricompensa nel mondo principale:\\&r\\&e Creeper",
+    "task.00CBF98DE4E9CC90.title": "Tutti i diritti riservati",
+    "task.171FD27057746E80.title": "Uccidi 1 Wither",
+    "task.1809F1F9A3043683.title": "Sconfiggi il drago Ender",
+    "task.1D136D138EF82DA9.title": "Uccidere 2 \"Trader Llamas\"",
+    "task.2F28B803C75DA3B2.title": "Eliminare un Guardiano anziano",
+    "task.452B65E139D9E12D.title": "Uccidere una Chimera di Wilden",
+    "task.596ABB45C0612AAF.title": "Eliminare un commerciante nomade",
+    "task.65E53C9C5AE98B69.title": "Tutti i diritti riservati",
+    "task.69678CAC075C8EA5.title": "Uccidere un funzionario carcerario"
+}

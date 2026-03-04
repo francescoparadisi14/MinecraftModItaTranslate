@@ -1,0 +1,558 @@
+{
+    "quest.00075A5F9AC120ED.quest_desc": [
+        "Questo rimuoverà gli oggetti dal tuo inventario."
+    ],
+    "quest.00075A5F9AC120ED.quest_subtitle": "È sempre necessario",
+    "quest.002163B909070CF8.quest_desc": [
+        "Permette di visualizzare dettagli su specifici blocchi o fluidi, anche attraverso le pareti.",
+        "{image:atm:textures\/questpics\/pneumaticcraft\/block_tracker.png width:150 height:150 align:center}"
+    ],
+    "quest.002163B909070CF8.quest_subtitle": "Massimo: 1",
+    "quest.00D7BCC68D971A53.quest_desc": [
+        "Gli esseri viventi nelle vicinanze verranno automaticamente rilevati, anche attraverso le pareti. Se si tratta di un gruppo aggressivo, riceverai un avviso quando questo si rivolge verso di te."
+    ],
+    "quest.00D7BCC68D971A53.quest_subtitle": "Massimo: 1",
+    "quest.02643BAD1AE747C6.quest_desc": [
+        "Il \\&3Advanced Liquid Compressor\\&r funziona allo stesso modo del compressore a liquido, ma è molto più efficiente!"
+    ],
+    "quest.04BE9F63E6003475.quest_desc": [
+        "\\&3LPG\\&r può essere utilizzato per creare plastica fusa."
+    ],
+    "quest.04BE9F63E6003475.quest_subtitle": "Quello di cui abbiamo bisogno",
+    "quest.04BE9F63E6003475.title": "GPL",
+    "quest.0672462DA3599484.quest_subtitle": "512.000 MB",
+    "quest.09BA45CBBFB4AE26.quest_desc": [
+        "La fase successiva di questa modifica richiede la creazione di una o più \\&3Linee di Assemblaggio\\&r. Il componente principale di una \\&3Linea di Assemblaggio\\&r è il \\&3Controller di Assemblaggio\\&r.\n\nÈ qui che si concentrerà la pressione."
+    ],
+    "quest.09BA45CBBFB4AE26.quest_subtitle": "È sempre necessario",
+    "quest.0A912B2E2BE34920.quest_desc": [
+        "Anche se è possibile trovare petrolio in superficie, la perforazione è un ottimo modo per ottenere grandi quantità di petrolio. Innanzitutto, utilizzate il sensore sismico \"\\&3Seismic Sensor\\&r\" fino a individuare il petrolio sottostante, quindi utilizzate il \"\\&3Gas Lift\\&r\" riempito di tubi per perforare. (Questo richiede una pressione per funzionare).",
+        "{image:pneumaticcraft:textures\/patchouli\/oil_pumping.png width:200 height:200 align:right fit:true}"
+    ],
+    "quest.0A912B2E2BE34920.quest_subtitle": "Perforazione per l'estrazione di petrolio",
+    "quest.0AEAEA976ED0C470.quest_desc": [
+        "La stazione di ricarica \"\\&3Charging Station\\&r\" viene utilizzata per ricaricare vari strumenti e dispositivi in \"\\&aPneumaticCraft\\&r\" tramite pressione."
+    ],
+    "quest.0AEAEA976ED0C470.quest_subtitle": "Dove è il cavo?",
+    "quest.0CC48C2AA553A314.quest_desc": [
+        "I trapani possono essere utilizzati in un martello pneumatico."
+    ],
+    "quest.0D2F5CC96269F9E3.quest_desc": [
+        "La fase successiva nella realizzazione di circuiti stampati prevede l'utilizzo del serbatoio di incisione \"\\&3Etching Tank\\&r\" insieme all'acido di incisione. È necessario applicare calore per il processo."
+    ],
+    "quest.0D2F5CC96269F9E3.quest_subtitle": "È ora di incidere!",
+    "quest.0D31CD79BE6CC8D2.quest_desc": [
+        "Perché il pane normale non ha bisogno di lievito?"
+    ],
+    "quest.0D31CD79BE6CC8D2.quest_subtitle": "La causa dei vostri problemi",
+    "quest.0D31CD79BE6CC8D2.title": "Lievito",
+    "quest.0D5015B8FF482D0A.quest_desc": [
+        "Dovremo ordinare alcuni oggetti tramite il sistema \"\\&3Amadron\" utilizzando il \"\\&3Amadron Tablet\". Per farlo, è sufficiente fare clic con il tasto destro su un forziere e un contenitore per liquidi, inserire la propria valuta in un contenitore collegato (ad esempio, smeraldi) e effettuare l'ordine. Si vedrà un Amadrone avvicinarsi per prelevare il denaro e un altro Amadrone che consegnerà l'oggetto ordinato.",
+        "",
+        "{image:atm:textures\/questpics\/pneumaticcraft\/amadron_drone.png width:300 height:150 align:center}"
+    ],
+    "quest.0D5015B8FF482D0A.quest_subtitle": "Mi chiedo se offrono la consegna in un solo giorno.",
+    "quest.0D5015B8FF482D0A.title": "Amadron",
+    "quest.0D50BDEFA0319EA1.quest_desc": [
+        "Questo farà sì che il prodotto finito venga depositato nel contenitore di output."
+    ],
+    "quest.0D50BDEFA0319EA1.quest_subtitle": "È sempre necessario",
+    "quest.0D9560C8E247F9E7.quest_desc": [
+        "Clicca con il tasto destro in un punto qualsiasi e sarai in grado di trovare la strada per tornare indietro. Se sei abbastanza vicino e hai un percorso diretto, apparirà un sentiero."
+    ],
+    "quest.0D9560C8E247F9E7.quest_subtitle": "Massimo: 1",
+    "quest.0E65BE9460B74000.quest_desc": [
+        "I moduli Logistic Frames devono essere collegati a un modulo di logistica (Logistics Module) per funzionare.",
+        "",
+        "{image:pneumaticcraft:textures\/patchouli\/logistics_module.png width:100 height:100 align:left fit:true}"
+    ],
+    "quest.0F49E9167B5E97C9.quest_desc": [
+        "Qualsiasi danno subito a causa della caduta (escludendo l'armatura) sarà inflitto anche alle creature circostanti."
+    ],
+    "quest.0F49E9167B5E97C9.quest_subtitle": "Massimo: 1",
+    "quest.0FF050EC1EA6EAED.quest_desc": [
+        "Il \\&3Liquid Hopper\\&r è un contenitore per liquidi, ma non è un sostituto per le tubature."
+    ],
+    "quest.0FF050EC1EA6EAED.quest_subtitle": "Chi ha bisogno di tubi?",
+    "quest.122EDEC12C9A05D2.quest_desc": [
+        "...Avete dimenticato di menzionare che tutto potrebbe esplodere? ...\\n\\nFortunatamente, esiste una soluzione semplice! L'\\&3Security Upgrade, una volta inserito in una macchina, garantisce che non esploda. Inserite questi dispositivi in qualsiasi macchina in cui possano essere inseriti."
+    ],
+    "quest.122EDEC12C9A05D2.quest_subtitle": "Se solo ci fosse una soluzione semplice...",
+    "quest.122EDEC12C9A05D2.title": "Come prevenire le esplosioni?",
+    "quest.132DF9ECEFFB3B71.quest_desc": [
+        "La scheda di espansione \"\\&3Module\" migliora ulteriormente il modulo di ricarica."
+    ],
+    "quest.13F68CA518CD287C.quest_desc": [
+        "Il gasolio può essere utilizzato per produrre più cherosene o per produrre lubrificanti."
+    ],
+    "quest.13F68CA518CD287C.quest_subtitle": "Povero Sel",
+    "quest.13F68CA518CD287C.title": "Diesel",
+    "quest.1427B3AB09510D20.quest_desc": [
+        "Assembla insieme la tua PCB non assemblata, utilizzando 2 condensatori e 2 transistor, per ottenere una PCB completa."
+    ],
+    "quest.1427B3AB09510D20.quest_subtitle": "Ce l'hai fatta!",
+    "quest.142C67218BD16867.quest_desc": [
+        "Riempi la tua Minigun con questo e con le munizioni specifiche per la Minigun, per poterla utilizzare."
+    ],
+    "quest.15007DCAF701B361.quest_desc": [
+        "Trasferisci altri oggetti pressurizzabili dal tuo inventario allo spazio di archiviazione del peto."
+    ],
+    "quest.15007DCAF701B361.quest_subtitle": "Massimo: 6",
+    "quest.15D355EB164EBE68.quest_subtitle": "Necessario per PCB già assemblate",
+    "quest.15D355EB164EBE68.title": "Condensatori",
+    "quest.187816477B732517.quest_desc": [
+        "Il dispositivo \"\\&3Transfer Gadget\" funziona come un contenitore che può essere posizionato tra due blocchi."
+    ],
+    "quest.187816477B732517.quest_subtitle": "Hopper più piccolo",
+    "quest.21624A6500545C42.quest_desc": [
+        "I supporti per le colture possono essere posizionati sopra le piante per favorire una crescita più rapida.",
+        "",
+        "{image:atm:textures\/questpics\/pneumaticcraft\/crop_support.png width:200 height:100 align:center}"
+    ],
+    "quest.21624A6500545C42.quest_subtitle": "Coltivazioni più rapide",
+    "quest.22572456571C3F8D.quest_desc": [
+        "Il modulo \"\\&3Charging\" rilascia la pressione di qualsiasi elemento pressurizzabile presente all'interno dei contenitori a cui è collegato."
+    ],
+    "quest.230463E830D6FFEB.quest_desc": [
+        "Ora che abbiamo i materiali in plastica, il passo successivo è ottenere alcune PCB già pronte. Inizialmente, produrremo alcune PCB vuote (codice \"\\&3Empty PCBs\") all'interno della camera di pressione."
+    ],
+    "quest.230463E830D6FFEB.quest_subtitle": "Il percorso verso i circuiti stampati",
+    "quest.2338E5269CA23C91.quest_desc": [
+        "La punta da trapano in Netherite è la migliore, e persino superiore alla punta da trapano in diamante."
+    ],
+    "quest.2338E5269CA23C91.quest_subtitle": "Questo è il momento migliore.",
+    "quest.23737103592776C2.quest_desc": [
+        "La lampada a kerosene è una valida fonte di luce che utilizza il combustibile (il kerosene è il più adatto) per produrre luce."
+    ],
+    "quest.23737103592776C2.quest_subtitle": "Le torceメガ sono inutili!",
+    "quest.24042326B4632DD4.quest_desc": [
+        "Per iniziare, è consigliabile creare un modulo \"Logistica di base\" (Logistics Core) nel sistema PNC:R. Per una guida completa sull'utilizzo di questi strumenti, si raccomanda di consultare il manuale PNC:R."
+    ],
+    "quest.24042326B4632DD4.quest_subtitle": "Trasporto di merci\/fluidi",
+    "quest.24042326B4632DD4.title": "Logistica",
+    "quest.26BEA64C80ECE1A6.quest_desc": [
+        "Ogni modulo \\&3Logistic Frame può essere utilizzato per diversi tipi di automazione."
+    ],
+    "quest.2745297337E13E9E.quest_desc": [
+        "Il compressore \\&3Advanced Air Compressor\\& funziona nello stesso modo del compressore standard, ma è molto più efficiente!"
+    ],
+    "quest.2745297337E13E9E.quest_subtitle": "Non servono più i vecchi e noiosi compressori d'aria!",
+    "quest.2801B7B6BF61E978.quest_desc": [
+        "\\&3Il cherosene può essere utilizzato per produrre benzina o può essere utilizzato come combustibile per una lampada a cherosene."
+    ],
+    "quest.2801B7B6BF61E978.quest_subtitle": "L'hai visto, Kero?",
+    "quest.2801B7B6BF61E978.title": "Cherosene",
+    "quest.2AED15E3AC0346FE.quest_desc": [
+        "Di seguito sono elencate alcune opzioni di miglioramento che è possibile utilizzare fin dall'inizio di questo mod. Per visualizzare le possibili applicazioni di un determinato miglioramento, utilizzare la scorciatoia mentre si passa il cursore sopra di esso. Allo stesso modo, utilizzare la scorciatoia mentre si passa il cursore sopra un oggetto per vedere quali miglioramenti può utilizzare.",
+        "",
+        "Nota: Il sottotitolo indicherà la quantità massima di \"Upgrade\" di tipo \"\\&3\" che può essere inserita in un determinato oggetto."
+    ],
+    "quest.2AED15E3AC0346FE.quest_subtitle": "Materiale molto utile",
+    "quest.2AED15E3AC0346FE.title": "Aggiornamenti semplici",
+    "quest.2C5D78630C7AD57F.quest_desc": [
+        "Aumenta l'autonomia, e ha diverse funzionalità a seconda dell'uso."
+    ],
+    "quest.2C5D78630C7AD57F.quest_subtitle": "Avvicinati!",
+    "quest.2CC56A4F06E53307.quest_desc": [
+        "Posizionate le vostre PCB vuote in una scatola con illuminazione a luce UV (lunghezza d'onda di circa 365 nm) per caricarle. È necessario applicare una pressione e l'esposizione alla luce solare.",
+        "{image:atm:textures\/questpics\/pneumaticcraft\/uv_charging.png width:300 height:150 align:center}"
+    ],
+    "quest.2CC56A4F06E53307.quest_subtitle": "Spero che abbiate degli occhiali da sole!",
+    "quest.2CC56A4F06E53307.title": "Caricamento con raggi UV",
+    "quest.2DE7CC686B56881F.quest_desc": [
+        "Ti protegge dalle radiazioni di Mekanism."
+    ],
+    "quest.2DE7CC686B56881F.quest_subtitle": "Massimo: 1",
+    "quest.2E8F851A4E98F741.quest_desc": [
+        "Lo scudo \\&3Pneumatic Armor\\& di per sé è già ottimo, tuttavia, per renderlo davvero eccezionale, sarà necessario installare degli aggiornamenti. Premendo il tasto 'U' si aprirà l'interfaccia di aggiornamento. Alcuni aggiornamenti richiedono l'uso della pressione, mentre altri no.",
+        "",
+        "Proprio come per gli altri strumenti in PneumaticCraft, per potenziare l'armatura \"3Pneumatic Armor\", sarà necessario un punto di ricarica con una pressione specifica.",
+        "",
+        "Nota: La didascalia indicherà la quantità massima di quel tipo di miglioramento che può essere applicato a un determinato oggetto."
+    ],
+    "quest.2E8F851A4E98F741.quest_subtitle": "Ferro, compresso",
+    "quest.2E8F851A4E98F741.title": "Armatura pneumatica",
+    "quest.30AD7B15682E4D0E.quest_desc": [
+        "Un segnalibro intelligente che può memorizzare e visualizzare quantità arbitrarie di testo, adattando automaticamente la dimensione del testo.\n\nCliccando con il tasto destro su qualsiasi elemento, è possibile modificare il colore, sia del bordo che dello sfondo, in modo indipendente."
+    ],
+    "quest.30AD7B15682E4D0E.quest_subtitle": "Segnali? Non ne ho mai sentita parlare!",
+    "quest.312331F6DB0CE5F4.quest_desc": [
+        "È più veloce della categoria I."
+    ],
+    "quest.312331F6DB0CE5F4.quest_subtitle": "Massimo: 1",
+    "quest.31BCE63F5E016323.quest_desc": [
+        "Il compressore \\&3Solar\\& utilizza la luce solare per generare pressione: più caldo diventa, maggiore sarà la pressione prodotta.\n\nTuttavia, attenzione: se si surriscalda, potrebbe smettere di funzionare e sarà necessario ripararlo."
+    ],
+    "quest.31BCE63F5E016323.quest_subtitle": "Nel palmo della mia mano...",
+    "quest.31BCE63F5E016323.title": "Pressione esercitata dal Sole",
+    "quest.325483DEB0C602F8.quest_desc": [
+        "Questo contenuto è stato creato da \\&6AllTheMods Staff\\&r, o da un \\&2contributore della community\\&r, per l'uso nei pacchetti mod di AllTheMods.\n\nPoiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti a \\&e\"Tutti i diritti riservati\", questo contenuto non può essere utilizzato in altri pacchetti pubblici, a meno che non sia stato rilasciato dal team \\&6AllTheMods\\&r.\n\nQuesto contenuto è intenzionalmente nascosto. Se lo state visualizzando, siete in modalità di modifica."
+    ],
+    "quest.32C3E14578D48E6C.quest_desc": [
+        "Come i tubi standard per la pressione, anche questi sono progettati per resistere a una pressione massima di 10 bar."
+    ],
+    "quest.32C3E14578D48E6C.quest_subtitle": "Tubi a pressione migliorati",
+    "quest.3334D15766A47A46.quest_desc": [
+        "Utilizzando un programma di assemblaggio laser, è possibile accelerare la produzione di schede elettroniche non assemblate. Basta inserire una scheda elettronica vuota nel contenitore di input, applicare una pressione e attendere."
+    ],
+    "quest.3334D15766A47A46.title": "Automatizzare la produzione di circuiti stampati",
+    "quest.36D72D759C4E8823.quest_desc": [
+        "Forse, forse è un po' troppo veloce."
+    ],
+    "quest.36D72D759C4E8823.quest_subtitle": "Massimo: 1",
+    "quest.371A34B297C8A8EF.quest_desc": [
+        "PneumaticCraft si concentra sulla pressione! Queste missioni non copriranno ogni aspetto del mod, ma ne esploreranno molti. Ricordate di controllare JEI, leggere le informazioni sugli strumenti e leggere il manuale PCB:R, sono tutti molto utili.\n\nPer iniziare, avrete bisogno di creare alcuni \"Ingots di ferro compressi\". Il modo più semplice per farlo è scavare un buco nel terreno, inserire alcuni ingots di ferro (o blocchi) e poi farli esplodere con della TNT!\n\nAlcuni potrebbero essere persi a causa dell'esplosione, ma è un rischio che dovremo accettare!"
+    ],
+    "quest.371A34B297C8A8EF.quest_subtitle": "Il potere dell'aria",
+    "quest.371A34B297C8A8EF.title": "PneumaticCraft: Pressione aumentata",
+    "quest.39F142224D5210A9.quest_desc": [
+        "\\&3Biodiesel\\&r può essere utilizzato per produrre \\&3Lubrificante\\&r e \\&3Plastica fusa\\&r."
+    ],
+    "quest.39F142224D5210A9.quest_subtitle": "Bio\/Diesel",
+    "quest.39F142224D5210A9.title": "Biodiesel",
+    "quest.3A9AC6AB4407DC32.quest_desc": [
+        "Anche se non tutti i ricette richiedono gli stessi componenti, è possibile configurare le proprie \"Linee di Assemblaggio\" con tutti i componenti installati. È illustrata di seguito una configurazione semplice di \"Linea di Assemblaggio\" che può essere utilizzata per qualsiasi ricetta. Leggere le istruzioni per ogni componente per ottenere informazioni importanti.\n\nGli aggiornamenti di velocità rendono tutto molto più veloce!"
+    ],
+    "quest.3A9AC6AB4407DC32.quest_subtitle": "Assemblaggio richiesto",
+    "quest.3A9AC6AB4407DC32.title": "Utilizzo di linee di produzione",
+    "quest.3CFE522A4B7CC2EC.quest_desc": [
+        "Lo \"\\&3Chest Rinforzato\\&\" è un baule antiproiettile con 36 scomparti. Non può essere utilizzato come un secondo baule. Funziona anche come una scatola di Shulker.",
+        "{image:atm:textures\/questpics\/pneumaticcraft\/reinforced_chest_ui.png width:200 height:100 align:center}"
+    ],
+    "quest.3CFE522A4B7CC2EC.quest_subtitle": "Migliore del tuo \"Everyday Chest\"",
+    "quest.3D819550074CA376.quest_desc": [
+        "L'oggetto dovrà essere posizionato qui prima di essere nuovamente prelevato."
+    ],
+    "quest.3D819550074CA376.quest_subtitle": "È sempre necessario",
+    "quest.3E16CF590C911129.quest_desc": [
+        "Il \"compressore d'aria\" è un modo semplice per creare pressione: basta inserire materiali combustibili al suo interno e osservare l'effetto! (Consiglio di realizzarne almeno 3 per iniziare)."
+    ],
+    "quest.3E16CF590C911129.quest_subtitle": "Sentirsi sotto pressione",
+    "quest.3E16CF590C911129.title": "Creare pressione",
+    "quest.3F9CCCFEF4E84166.quest_desc": [
+        "Per aumentare la produzione di calore, posizionate un dissipatore di calore (Heat Sink) sul lato freddo del vostro Vortex Tube."
+    ],
+    "quest.3F9CCCFEF4E84166.quest_subtitle": "Più calore",
+    "quest.3F9CCCFEF4E84166.title": "Maggiore efficienza di produzione del calore",
+    "quest.40924F0D64253A38.quest_desc": [
+        "Permette di erogare oggetti."
+    ],
+    "quest.40924F0D64253A38.quest_subtitle": "Scomparso!",
+    "quest.40F634AC38F42B88.quest_desc": [
+        "Per aumentare la pressione, avrete bisogno di ottenere due tubi di pressione. A quale pressione vi riferite? Continuate la missione per scoprire a cosa servono questi tubi."
+    ],
+    "quest.40F634AC38F42B88.quest_subtitle": "Qual è la pressione?",
+    "quest.40F634AC38F42B88.title": "Pressione dovuta al trasloco",
+    "quest.423B8DA485C1308C.quest_desc": [
+        "\\&3Il gas di petrolio può essere utilizzato per produrre GPL."
+    ],
+    "quest.423B8DA485C1308C.quest_subtitle": "Gas, gas, gas",
+    "quest.423B8DA485C1308C.title": "Benzina",
+    "quest.42951D14ADCD9332.quest_desc": [
+        "Potrei avere quel piatto, con piselli schiacciati e una fetta di pane tostato con fagioli, per favore, signore?"
+    ],
+    "quest.42951D14ADCD9332.quest_subtitle": "Ti va un piatto di pesce fritto e patatine?",
+    "quest.42951D14ADCD9332.title": "Pesce e patatine fritte!",
+    "quest.43CDC28DC56BB3E2.quest_subtitle": "128.000 MB",
+    "quest.43EF5513A1C52A37.quest_desc": [
+        "L'impianto di trattamento termopneumatico \"\\&3Thermopneumatic Processing Plant\\&\" sarà utilizzato per la produzione di plastica fusa, semplicemente inserendo del GPL, carbone e calore."
+    ],
+    "quest.43EF5513A1C52A37.quest_subtitle": "Più lungo è il nome, meglio è.",
+    "quest.43EF5513A1C52A37.title": "Elaborazione termopneumatica",
+    "quest.440B1E1D4951F808.quest_desc": [
+        "Lo \\&3Smart Chest\\& è un contenitore antiproiettile con 72 scomparti, dotato di un sistema di caricamento omnidirezionale integrato e completamente configurabile, e di slot per aggiornamenti. Non è compatibile con altri contenitori simili. Funziona anche come una scatola Shulker.",
+        "{image:atm:textures\/questpics\/pneumaticcraft\/smart_chest_ui.png width:200 height:100 align:center}"
+    ],
+    "quest.440B1E1D4951F808.quest_subtitle": "Gli appassionati di casse",
+    "quest.456B9DD108CF340F.quest_desc": [
+        "Rende le cose più veloci."
+    ],
+    "quest.456B9DD108CF340F.quest_subtitle": "Velocemente!",
+    "quest.461C8F1E88AA58D9.quest_desc": [
+        "Questi possono essere utilizzati nelle ricette utilizzando le versioni a contenitore dei liquidi di PneumaticCraft.\n\nQuando un contenitore a forma di \"tanica\" (Fluid Tank) viene posizionato sopra un altro contenitore a forma di \"tanica\" e vengono uniti, diventano un unico contenitore più grande.",
+        "{image:pneumaticcraft:textures\/patchouli\/small_tanks.png width:250 height:250 align:center fit:true}"
+    ],
+    "quest.461C8F1E88AA58D9.quest_subtitle": "32.000 MB",
+    "quest.46BE62C20C720D10.quest_desc": [
+        "In modo che gli Endermen non diventino aggressivi nei tuoi confronti, come fanno le zucche intagliate."
+    ],
+    "quest.46BE62C20C720D10.quest_subtitle": "Massimo: 1",
+    "quest.482E558BCFEE6B7E.quest_desc": [
+        "«I mattoni di costruzione sono ottimi elementi per la costruzione, ma fai attenzione, possono essere pericolosi. Per renderli più sicuri, puoi lavorarli ulteriormente per lisciarli.»"
+    ],
+    "quest.482E558BCFEE6B7E.quest_subtitle": "Non c'è dolore peggiore di quello che si prova quando si calpesta questo.",
+    "quest.495DCA49B4E80852.quest_desc": [
+        "La \\&3Minigun\\& è un'arma che richiede pressione e munizioni per funzionare. Per maggiori informazioni, consultare la descrizione."
+    ],
+    "quest.495DCA49B4E80852.quest_subtitle": "Pew! Pew!",
+    "quest.4A076530297F4A97.quest_desc": [
+        "Con questi 3 componenti, è possibile creare dei fantastici ascensori.",
+        "{image:pneumaticcraft:textures\/patchouli\/elevator.png width:1 height:1 align:left fit:true}"
+    ],
+    "quest.4A076530297F4A97.title": "Ascensori",
+    "quest.4B4F5341D6DBDD19.quest_desc": [
+        "Continua a respirare sott'acqua: una volta che le bolle raggiungono i 5 metri, verranno automaticamente riempite! Inoltre, ti permetterà di vedere molto più chiaramente sott'acqua!"
+    ],
+    "quest.4B4F5341D6DBDD19.quest_subtitle": "Massimo: 1",
+    "quest.4C0D00B5305117A1.quest_desc": [
+        "La torretta \\&3Sentry\\& può essere posizionata in qualsiasi punto e programmata per attaccare mostri o giocatori quando si trovano entro un certo raggio. È necessario solo munizioni per mitragliatrice.",
+        "",
+        "{image:pneumaticcraft:textures\/patchouli\/sentry_turret.png width:100 height:100 align:left fit:true}"
+    ],
+    "quest.4C0D00B5305117A1.quest_subtitle": "Pew Pew (Senza di te)",
+    "quest.4CA17B0A80020B2F.quest_desc": [
+        "Il manometro \"\\&3Manometer\" viene utilizzato per visualizzare informazioni aggiuntive su una macchina."
+    ],
+    "quest.4CA17B0A80020B2F.quest_subtitle": "Ho bisogno di maggiori informazioni!",
+    "quest.4E1E31EDD544EE10.quest_subtitle": "64.000 MB",
+    "quest.4F5348D0C83C3B0D.quest_desc": [
+        "Le celle solari vengono utilizzate per realizzare i compressori solari."
+    ],
+    "quest.4F5348D0C83C3B0D.quest_subtitle": "Le cellule del Sole",
+    "quest.4F5348D0C83C3B0D.title": "Celle solari",
+    "quest.4FCC20D9F8F87B2F.quest_desc": [
+        "La chiave pneumatica \"\\&3\" viene utilizzata per spostare o smontare macchinari e tubi."
+    ],
+    "quest.4FCC20D9F8F87B2F.quest_subtitle": "Parliamo di utensili!",
+    "quest.5103C817381181DE.quest_desc": [
+        "Permette di utilizzare le ali Elytra pur indossando ancora la corazza pneumatica."
+    ],
+    "quest.5103C817381181DE.quest_subtitle": "Massimo: 1",
+    "quest.520EFA7F446AFBF2.quest_desc": [
+        "\\&3Il lubrificante\\&r può essere utilizzato per la produzione di punte da trapano."
+    ],
+    "quest.520EFA7F446AFBF2.quest_subtitle": "Produzione di Lube!",
+    "quest.520EFA7F446AFBF2.title": "Lubrificante",
+    "quest.521656D425E2FDBA.quest_desc": [
+        "È ancora più veloce della categoria II."
+    ],
+    "quest.521656D425E2FDBA.quest_subtitle": "Massimo: 1",
+    "quest.52D3697F1F5625C7.quest_desc": [
+        "L'acido per l'incisione viene prodotto nella camera a pressione, utilizzando plastica fusa, e altri materiali. Viene utilizzato nel serbatoio di incisione."
+    ],
+    "quest.52D3697F1F5625C7.quest_subtitle": "Non chiedere...",
+    "quest.5303509A1C2B1CCD.quest_desc": [
+        "Il \\&3Pneumatic Jackhammer\\& utilizza la pressione per scavare, ed è possibile migliorarlo per ottenere prestazioni eccezionali!"
+    ],
+    "quest.5303509A1C2B1CCD.quest_subtitle": "Mi dispiace, Jack!",
+    "quest.53518D4ED99A242F.quest_desc": [
+        "L'\\&3Camouflage Applicator\\&r può essere utilizzato per nascondere le macchine PneumaticCraft all'interno di altri blocchi."
+    ],
+    "quest.53518D4ED99A242F.quest_subtitle": "Vuoi che la tua configurazione abbia un aspetto moderno e accattivante?",
+    "quest.54169B69725C49DF.quest_desc": [
+        "Posizionate il vostro materiale plastico sul terreno o conservatelo in un contenitore con un telaio riscaldante, e avrete il vostro materiale plastico!"
+    ],
+    "quest.54169B69725C49DF.quest_subtitle": "Finalmente!",
+    "quest.54169B69725C49DF.title": "\\&fPlastica",
+    "quest.5A0860631323B5E3.quest_desc": [
+        "Realizzato con farina di grano. Può essere utilizzato per preparare il tempura di salmone e il pane a lievitazione naturale."
+    ],
+    "quest.5A0860631323B5E3.quest_subtitle": "Mescolate questo",
+    "quest.5A9D6672385D3D82.quest_desc": [
+        "Utilizzare solo 1 Lapis per l'upgrade, invece di 4."
+    ],
+    "quest.5A9D6672385D3D82.quest_subtitle": "Salvare Lapis",
+    "quest.5AEE86EB39FD4087.quest_desc": [
+        "Il \\&3Vortex Tube\\&r separa la pressione in aria calda e aria fredda. L'aria fredda viene indirizzata verso il lato blu, mentre l'aria calda viene indirizzata verso il lato rosso."
+    ],
+    "quest.5AEE86EB39FD4087.quest_subtitle": "Ancora non è un segnale RF...",
+    "quest.5AEE86EB39FD4087.title": "Produzione di calore",
+    "quest.5B9F933ECD6B24FD.quest_desc": [
+        "Permette di saltare più in alto rispetto al Tier II."
+    ],
+    "quest.5B9F933ECD6B24FD.quest_subtitle": "Massimo: 1",
+    "quest.5C7D9BCDF19B86BD.quest_desc": [
+        "Previene che le cose esplodano."
+    ],
+    "quest.5C7D9BCDF19B86BD.quest_subtitle": "Sicuro!",
+    "quest.5D64250B940BC8FD.quest_desc": [
+        "L'acciaio compresso può essere utilizzato per creare l'armatura in acciaio compresso, che è identica all'armatura in acciaio, ma con una maggiore resistenza e una migliore resistenza agli impatti.\n\nL'armatura può essere creata o può essere trovata comunemente nei forzieri."
+    ],
+    "quest.5D64250B940BC8FD.quest_subtitle": "Elevata resistenza agli impatti",
+    "quest.5D64250B940BC8FD.title": "Armatura in ferro compressa",
+    "quest.5D71ED16FD4E725A.quest_desc": [
+        "Rende i Piglins non aggressivi (come indossare l'armatura d'oro); è sufficiente applicare l'upgrade su un singolo oggetto."
+    ],
+    "quest.5D71ED16FD4E725A.quest_subtitle": "Massimo: 1",
+    "quest.5D7B34761E8FD212.quest_desc": [
+        "Lo \"Compressore elettrostatico\" genera una notevole pressione a seguito degli attacchi di fulmine.\n\nPer maggiori informazioni, consultare la sezione \"Informazioni\" in JEI.",
+        "{image:pneumaticcraft:textures\/patchouli\/electrostatic_compressor.png width:100 height:100 align:left fit:true}"
+    ],
+    "quest.5D7B34761E8FD212.title": "Pressione esercitata da Lightning",
+    "quest.5E71F8A046C60346.quest_desc": [
+        "Chi vi ha detto che PneumaticCraft non riguarda la generazione di energia?\\n\\nIl \"Pneumatic Dynamo\" vi permette di utilizzare la pressione in FE (FE = Finite Element). Per saperne di più su come funziona, consultate la tooltip o la sezione relativa nel PNC:R."
+    ],
+    "quest.5E71F8A046C60346.quest_subtitle": "Pressione = Potere",
+    "quest.5E71F8A046C60346.title": "Generare energia",
+    "quest.602C3E88D96F8843.quest_desc": [
+        "Mettete una PCB vuota e carica in un contenitore per l'incisione, insieme all'acido per l'incisione e al calore, e otterrete una PCB assemblata."
+    ],
+    "quest.602C3E88D96F8843.quest_subtitle": "Quasi arrivati!",
+    "quest.61AD2207E770CD7F.quest_desc": [
+        "Permette di acquistare prodotti e servizi da luoghi più lontani."
+    ],
+    "quest.61AD2207E770CD7F.quest_subtitle": "Massimo: 6",
+    "quest.61B479079DC1C69C.quest_desc": [
+        "Permette di saltare più in alto rispetto al Tier I."
+    ],
+    "quest.61B479079DC1C69C.quest_subtitle": "Massimo: 1",
+    "quest.61BA2932EC86DA2E.quest_desc": [
+        "Permette di saltare molto in alto."
+    ],
+    "quest.61BA2932EC86DA2E.quest_subtitle": "Massimo: 1",
+    "quest.63F6F4EBCEB914B0.quest_desc": [
+        "La \\&3Camera di Pressione\\&r è una struttura importante composta da \\&3Pareti della Camera di Pressione\\&r (che possono essere sostituite con \\&3Vetro della Camera di Pressione\\&r). La Camera di Pressione può essere delle dimensioni di una struttura a blocchi 3x3x3, oppure può essere più grande, fino a una struttura a blocchi 5x5x5. I blocchi necessari per la struttura 5x5x5 sono quelli necessari per completare questa missione.\n\nPer utilizzare la Camera di Pressione, sarà necessario introdurre pressione tramite \\&3Valvole della Camera di Pressione\\&r, utilizzando i \\&3Tubi di Pressione\\&r che avete creato in precedenza. Ricordate di installare un aggiornamento di sicurezza sulla valvola. \\&lDiverse ricette richiedono quantità di pressione diverse\\&r.\n\nSarà necessario poter inserire e rimuovere oggetti dalla Camera di Pressione, ed è qui che entrano in gioco le \\&3Interfacce della Camera di Pressione\\&r. Se il colore è blu all'esterno, significa che è per l'importazione di oggetti, mentre se è oro all'esterno, è per l'esportazione di oggetti. Mettete una di ciascuna su ogni faccia."
+    ],
+    "quest.63F6F4EBCEB914B0.quest_subtitle": "Aumentare la pressione!",
+    "quest.63F6F4EBCEB914B0.title": "La camera a pressione",
+    "quest.649167FC31EB916E.quest_desc": [
+        "\\&3L'olio vegetale può essere prodotto mettendo semi o colture in un \\&3impianto di lavorazione termopneumatica\\&r."
+    ],
+    "quest.649167FC31EB916E.quest_subtitle": "Olio migliore",
+    "quest.649167FC31EB916E.title": "Olio vegetale",
+    "quest.64D34A6C3487C5DF.quest_desc": [
+        "L'interfaccia \\&3Aerial Interface\\& può essere utilizzata per pressurizzare i tuoi oggetti, fornendo la pressione necessaria. Ora potrai utilizzare la tua armatura pneumatica senza doverla ricaricare!\\n\\nAvrai bisogno di uno di questi elementi per costruire l'\\&6ATM Star\\&r."
+    ],
+    "quest.64D34A6C3487C5DF.quest_subtitle": "Pressione senza fili!",
+    "quest.64E2E05B228EA53E.quest_desc": [
+        "\\&3Tubi per alta pressione\\&r sono i migliori tubi disponibili, in grado di sopportare una pressione di 20 bar!\\n\\nAnche se sono fantastici da soli, possono essere utilizzati anche in ricette ancora più interessanti."
+    ],
+    "quest.64E2E05B228EA53E.quest_subtitle": "Un livello completamente nuovo!",
+    "quest.657DB994B029F61C.quest_desc": [
+        "Quando il \"Heat Frame\" viene posizionato su un contenitore contenente determinati liquidi e raffreddato a sufficienza, trasformerà tali liquidi in oggetti.",
+        "",
+        "Trasforma la plastica fusa in plastica.",
+        "Trasforma l'acqua in ghiaccio.",
+        "Trasforma il magma in ossidiana."
+    ],
+    "quest.65E2AF881709C896.quest_desc": [
+        "Uno dei materiali più importanti che avrete bisogno è il \"Pietra Rinforzata\", iniziate creando 32 unità utilizzando ferro compresso e pietra normale."
+    ],
+    "quest.65E2AF881709C896.quest_subtitle": "Avrete bisogno di una quantità considerevole di questo.",
+    "quest.65E2AF881709C896.title": "Pietra rinforzata",
+    "quest.6674270897997BF7.quest_desc": [
+        "Permette di saltare più in alto del normale e di avere una maggiore elasticità, rendendo i movimenti più veloci.\n\nÈ possibile utilizzare solo un tipo di miglioramento per i leggings alla volta."
+    ],
+    "quest.6674270897997BF7.quest_subtitle": "Massimo: 1",
+    "quest.681A3F31FB242555.quest_desc": [
+        "L'etanolo può essere utilizzato per produrre biodiesel."
+    ],
+    "quest.681A3F31FB242555.title": "Etanolo",
+    "quest.68F92455A9483AD6.quest_desc": [
+        "Potrai accedere a questa missione solo se hai utilizzato le Jet Boots.\n\nNon è possibile utilizzare le Jet Boots senza subire danni, quindi non provate nemmeno..."
+    ],
+    "quest.68F92455A9483AD6.quest_subtitle": "Pensavi che usare le ali di un insetto fosse difficile?",
+    "quest.68F92455A9483AD6.title": "Scarpe Jet",
+    "quest.6B1C06C753C10E44.quest_desc": [
+        "Lo strumento \"\\&3Logistics Configurator\" può essere utilizzato per configurare i \"Logistic Frames\" e i \"Transfer Gadgets\"."
+    ],
+    "quest.6CA01DCE1F4A0EC3.quest_desc": [
+        "La fase successiva del mod richiede la raccolta di 3 unità di \"Petrolio greggio\". Questo petrolio può essere trovato naturalmente sulla superficie del mondo di gioco."
+    ],
+    "quest.6CA01DCE1F4A0EC3.quest_subtitle": "Il percorso verso la plastica",
+    "quest.6CA01DCE1F4A0EC3.title": "Petrolio grezzo",
+    "quest.6D124ACF4AE80490.quest_desc": [
+        "Con i missili micrometrici, è possibile creare esplosioni da lontano! Ora nessuno può sfuggire!\\n\\nQuesti materiali sono necessari per costruire il \"Star \\&6ATM\"."
+    ],
+    "quest.6D124ACF4AE80490.quest_subtitle": "Esplosioni a distanza!",
+    "quest.6EB53CDCB80D4B66.quest_desc": [
+        "La porta pneumatica \\&3Pneumatic Door\\& funziona come una porta automatica che può essere programmata per aprirsi solo per te.",
+        "",
+        "{image:pneumaticcraft:textures\/patchouli\/pneumatic_door.png width:200 height:200 align:right fit:true}"
+    ],
+    "quest.6FD65139CD50A8C0.quest_desc": [
+        "È anche possibile?\\n\\nSe desiderate automatizzare questo processo, potete utilizzare \\&eProductive Bees\\&r o \\&aMystical Agriculture\\&r. Oppure, immagino, potreste automatizzarlo, con... esplosioni."
+    ],
+    "quest.6FD65139CD50A8C0.quest_subtitle": "Stanchi di fare esplodere cose?",
+    "quest.7040CA41C0A3C2F2.quest_desc": [
+        "\\&3PCB: Progetti disponibili a partire da 8 Emeralds. (Offerta valida solo per un periodo limitato).",
+        "{@pagebreak}",
+        "(testo di esempio per una nuova pagina)"
+    ],
+    "quest.7040CA41C0A3C2F2.quest_subtitle": "Grazie, Amadron!",
+    "quest.7040CA41C0A3C2F2.title": "\\&9PCB: Progetto dettagliato",
+    "quest.715B86DC82EA636B.quest_desc": [
+        "Il compressore \\&3Liquid utilizza determinati liquidi per creare pressione. È possibile aggiungere il carburante facendo clic con il pulsante destro del mouse sul contenitore sopra la macchina, oppure versando il liquido nel contenitore o inserendolo nello slot superiore nell'interfaccia grafica.",
+        "",
+        "{image:pneumaticcraft:textures\/gui\/gui_liquid_compressor.png width:200 height:200 align:center fit:true}"
+    ],
+    "quest.715B86DC82EA636B.title": "Pressione esercitata dai liquidi",
+    "quest.7177E49BF9ECA5CF.quest_desc": [
+        "Il compressore a 3 fasi crea pressione sfruttando il calore! Posizionate un oggetto caldo su un lato e un oggetto freddo sull'altro per generare pressione.",
+        "",
+        "{image:pneumaticcraft:textures\/patchouli\/thermal_compressor.png width:100 height:100 align:left fit:true}"
+    ],
+    "quest.7177E49BF9ECA5CF.title": "Pressione dovuta al calore",
+    "quest.718DABA6C9E5982A.quest_desc": [
+        "Conferisce al giocatore la visione notturna quando viene indossato."
+    ],
+    "quest.718DABA6C9E5982A.quest_subtitle": "Massimo: 1",
+    "quest.72C09FD89C28B1EC.quest_desc": [
+        "L'unità di raffinazione che creeremo è composta da un blocco 1x1x5, costituito da un singolo \"Controller di Raffinazione\" (in basso) e quattro \"Uscite di Raffinazione\" (sopra). Per farlo funzionare, sarà necessario fornire olio e calore. Il risultato sarà la produzione di diesel, cherosene, benzina e GPL. L'aggiunta di \"Isolamento Termico\" ai lati aiuta a mantenere la temperatura.",
+        "",
+        "{image:atm:textures\/questpics\/pneumaticcraft\/oil_refinery.png width:300 height:150 align:center}"
+    ],
+    "quest.72C09FD89C28B1EC.quest_subtitle": "Ora stiamo arrivando al punto.",
+    "quest.72C09FD89C28B1EC.title": "Impianto di raffinazione del petrolio",
+    "quest.7386A8433698946C.quest_desc": [
+        "Seleziona un oggetto: questo aggiornamento cercherà l'oggetto nelle casse o sul pavimento. Per trovarlo nelle casse, sarà necessario l'aggiornamento \"Tracker di oggetti\", mentre per trovarlo sul pavimento sarà necessario l'aggiornamento \"Tracker di entità\".",
+        "{image:atm:textures\/questpics\/pneumaticcraft\/item_search_upgrade.png width:200 height:200 align:center}"
+    ],
+    "quest.7386A8433698946C.quest_subtitle": "Massimo: 1",
+    "quest.7395B41685F4BC1A.quest_desc": [
+        "Il compressore \\&3Flux può generare una notevole quantità di pressione utilizzando l'energia. Basta iniettare del FE e inizierà a produrla. Se si dispone di una quantità sufficiente di FE, questo è probabilmente il metodo più semplice per generare pressione."
+    ],
+    "quest.7395B41685F4BC1A.quest_subtitle": "Potere = Pressione",
+    "quest.7395B41685F4BC1A.title": "Pressione da parte del potere",
+    "quest.74015945716FD10A.quest_desc": [
+        "Questo \"Hopper\" omnidirezionale può accettare oggetti da qualsiasi lato, e inoltre può essere migliorato per essere molto più veloce di un normale \"Hopper\"! Utile quando non sono necessarie le tubazioni."
+    ],
+    "quest.74015945716FD10A.quest_subtitle": "Un contenitore configurabile",
+    "quest.74AE214747A3DB1A.quest_desc": [
+        "Aumenta la capacità di sopportare la pressione."
+    ],
+    "quest.74AE214747A3DB1A.quest_subtitle": "Aumenta il volume!",
+    "quest.75D3F3C1D4A3EAA2.quest_desc": [
+        "Per trasferire il calore prodotto dal tubo Vortex, è necessario utilizzare alcuni \"tubi riscaldanti\"."
+    ],
+    "quest.75D3F3C1D4A3EAA2.quest_subtitle": "Abbiamo la possibilità di agire :)",
+    "quest.75D3F3C1D4A3EAA2.title": "Trasferimento di calore",
+    "quest.762B8309E1A31B99.quest_desc": [
+        "Ogni aggiornamento aggiunge +0,5 di difesa e +1 di resistenza."
+    ],
+    "quest.762B8309E1A31B99.quest_subtitle": "Massimo: 4",
+    "quest.7770F0D62457096D.quest_desc": [
+        "Anche se queste attività non richiedono l'uso di droni, sono fantastiche! Potete provarle se lo desiderate."
+    ],
+    "quest.7770F0D62457096D.title": "Programmazione di droni",
+    "quest.795143471F31A64A.quest_subtitle": "Necessario per le ricette laser",
+    "quest.7953C87C488A2AF7.quest_desc": [
+        "Ti permette di volare come Iron Man.\n\nPuoi avere solo un livello di questi miglioramenti sulle scarpe alla volta. Ogni livello richiede più pressione rispetto al precedente.\n\nUtilizza questi miglioramenti, non solo crearli."
+    ],
+    "quest.7953C87C488A2AF7.quest_subtitle": "Massimo: 1",
+    "quest.7B2008977702D0C8.quest_desc": [
+        "Quando si utilizza una pompa per aria, è fondamentale avere un punto di scarico per la pressione. Se non c'è un punto di scarico, la pressione semplicemente scompare. Assicurarsi di avere un punto di scarico prima di utilizzare la pompa."
+    ],
+    "quest.7B2008977702D0C8.quest_subtitle": "Cosa è successo a RF o FE?",
+    "quest.7BFC24607189B6D0.quest_desc": [
+        "Ti aiuta a nuotare più velocemente."
+    ],
+    "quest.7BFC24607189B6D0.quest_subtitle": "Massimo: 1",
+    "quest.7BFE7DAF18981843.quest_subtitle": "Necessario per le ricette per la preparazione di fori.",
+    "quest.7D6B4AEF806AF62E.quest_desc": [
+        "Troppo veloce! Fate attenzione a non morire!"
+    ],
+    "quest.7D6B4AEF806AF62E.quest_subtitle": "Massimo: 1",
+    "quest.7D81F2381516204D.quest_subtitle": "Necessario per PCB già assemblate",
+    "quest.7D81F2381516204D.title": "Transistor",
+    "quest.7FB12EC3A5888123.quest_desc": [
+        "Il \\&3Tube Junction\\&r ti offre maggiore controllo sul trasporto della pressione, consentendoti di spostare i tuoi tubi di pressione in più direzioni."
+    ],
+    "quest.7FB12EC3A5888123.quest_subtitle": "No, andate in questo senso!",
+    "task.0B54EDC9E21F2E77.title": "Strutture logistiche",
+    "task.13266875BDB5077D.title": "Tutti i diritti riservati",
+    "task.1EEC7B67E037F766.title": "Comprendere la pressione",
+    "task.25FF884779D98BAD.title": "Mattoni Construction Bricks™",
+    "task.2C268116DA162155.title": "Tutti i diritti riservati",
+    "task.49A8320F9EA7F4BD.title": "Automazione per l'industria del ferro compressato"
+}

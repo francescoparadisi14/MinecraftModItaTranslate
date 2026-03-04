@@ -1,4 +1,6 @@
 {
+    "block.laserbridges.laser_block_powered": "Laser Block",
+    "block.laserbridges.laser_fence_powered": "Laser Block",
     "block.laserbridges.laser_fence_source_block": "Laser Fence Source",
     "block.laserbridges.laser_source_block": "Laser Source",
     "laserbridges.deimosconfig.blocks_cut_through_by_lasers": "Blocks that can be replaced by lasers",

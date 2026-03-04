@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li):moneta: 8$(li)🍂 §4Autunno§r $(li)Rendita: 4$(li)Stadi di crescita: 8$(br2)$(l)Note$()$(li)Vedi: $(l)trees\/pams\/apple)Albero di mele$(\/l)$(li)Vedi: $(l)trees\/letsdo\/apple)Albero di mele oscura$(\/l)`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): moneta: 8\n$(li)🍂 Autunno\n$(li)Resa: 4\n$(br2)\n$(l)Note$()\n$(li)Vedi: Albero di mele (trees\/pams\/apple)\n$(\/l)\n$(li)Vedi: Albero di mele scuro (trees\/letsdo\/apple)\n$(\/l)"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Apple Tree",
+            "name ": "patchouli:multiblock\n\nTiglio",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {
@@ -24,8 +24,7 @@
                         "F"
                     ]
                 ]
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

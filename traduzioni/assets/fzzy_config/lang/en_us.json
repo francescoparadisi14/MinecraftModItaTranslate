@@ -281,6 +281,9 @@
     "fc.validated_field.set.clear.desc": "Pressing Confirm will entirely clear this set. Continue?",
     "fc.validated_field.update": "[%1$s], [%2$s] to [%3$s]",
     "fc.validated_field.update.error": "Update error for [%1$s], [%2$s] to [%3$s]: %4$s",
+    "fzzy_config.text.and_2": "%1$s and %2$s",
+    "fzzy_config.text.or_2": "%1$s or %2$s",
+    "fzzy_config.text.or_3": "%1$s, %2$s",
     "test.walkable.testChildDave.testChildBool": "Test Child Dave's Boolean",
     "test.walkable.testChildDave.testChildBool.desc": "Dave's favorite boolean. Please treat it well."
 }

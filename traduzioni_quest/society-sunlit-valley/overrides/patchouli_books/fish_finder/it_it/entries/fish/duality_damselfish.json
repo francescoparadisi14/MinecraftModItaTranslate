@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 448 monete$(li)Simbolo: ❆ $(li)Stagione: Inverno$(li)Acqua: Fiume$(li)Clima: Sereno$(li)Ora: Notte"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 448$(li)§0❆ §bInverno§0$(li)Acqua: Fiume$(li)Meteo: Sereno$(li)Ora: Notte"
         },
         {
             "type": "patchouli:entity",
             "entity": "unusualfishmod:duality_damselfish",
             "scale": 0.8,
             "rotate": true,
-            "text": "Un po' contraddittorio, pesci."
+            "text": "patchouli: entità\n\nunusualfishmod: duality_damselfish\n\nMa, pesce, è un po' contraddittorio."
         }
     ]
 }

@@ -15,6 +15,7 @@
     "lambdabettergrass.option.better_snow.tooltip": "Adds a purely visual snow\/moss layer\nto non-full blocks that\nare surrounded by snow\/moss",
     "lambdabettergrass.option.mode.tooltip": "Makes the sides of\ngrass blocks connect to\nadjacent grass blocks",
     "options.iris.shaderPackSelection.tooltip": "Open a screen to select\nshaderpacks and configure them",
+    "puzzle.action.open_config_screen": "Open config screen",
     "puzzle.midnightconfig.category.features": "Features",
     "puzzle.midnightconfig.category.gui": "GUI",
     "puzzle.midnightconfig.category.internal": "Internal",

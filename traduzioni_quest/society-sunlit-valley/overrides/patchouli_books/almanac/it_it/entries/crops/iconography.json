@@ -6,12 +6,12 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Per rendere più facile la visualizzazione dei cereali che hanno quali stagioni in questo capitolo, gli seguenti icone sono utilizzate: $(li)🌼 §2Primavera$(li)🔥 §6Estate$(li)🍂 §4Autunno$(li)❆ §bInverno$(li)🌐 §5Tutto l'anno"
+            "text": "per facilitare la comprensione delle stagioni in cui si coltivano le diverse piante in questo capitolo, vengono utilizzati i seguenti simboli:\n* 🌼 Primavera\n* 🔥 Estate\n* 🍂 Autunno\n* ❆ Inverno\n* §b Stagione intera\n"
         },
         {
             "type": "patchouli:text",
             "title": "Growth Duration",
-            "text": "$(li)Tempo di crescita: Il coltivato cresce alle 6:00 del mattino.$(li)Stadi di crescita: Il coltivato cresce in modo casuale."
+            "text": "patchouli:testo\n\n$(li) Periodo di crescita: la pianta cresce alle 6:00.\n$(li) Fasi di crescita: la pianta cresce in modo casuale."
         }
     ]
 }

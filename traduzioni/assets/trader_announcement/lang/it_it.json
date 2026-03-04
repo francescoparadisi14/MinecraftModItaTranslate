@@ -1,0 +1,9 @@
+{
+    "config.trader_announcement.add_glowing_effect": "Aggiungere un effetto di illuminazione temporaneo ai trader.",
+    "config.trader_announcement.announce_globally": "Comunicare a tutti i giocatori",
+    "config.trader_announcement.announcement_range": "Intervallo di annuncio",
+    "config.trader_announcement.announcement_sound": "Quale suono riprodurre?",
+    "config.trader_announcement.announcement_sound_enabled": "Riproduci un suono quando un trader appare.",
+    "message.trader_announcement.spawned_global": "È apparso un commerciante itinerante.",
+    "message.trader_announcement.spawned_local": "È apparso un commerciante ambulante nelle vicinanze."
+}

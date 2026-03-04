@@ -1,15 +1,15 @@
 {
-    "name": "Eggplant 🍂",
+    "name": "Melanzane 🍂",
     "category": "patchouli:crops",
     "icon": "society:eggplant",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 42$(li)§4Autunno$(li)Prezzo seme: Denaro 8$(li)Rendimento: 1$(li)Tempo di crescita: 6 giorni"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 42$(li)🍂 Autunno$(li) Prezzo del seme: 42 monete$(li)Resa: 1$(li) Tempo di crescita: 6 giorni"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Eggplant Crop",
+            "name ": "Patchouli: coltivazione di più tipi di piante",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -24,8 +24,7 @@
                     "0": "society:eggplant[age=6]",
                     "F": "minecraft:farmland[moisture=7]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

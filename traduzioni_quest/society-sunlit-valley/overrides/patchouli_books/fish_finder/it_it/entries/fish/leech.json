@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 136 monete$(li)Simbolo del fuoco: Estate $(li)Acqua: Fresca$(li)Clima: Qualsiasi$(li)Ora: Notte"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 136$(li)🔥 Estate$(li)Acqua: Fresca$(li)Meteo: Qualsiasi$(li)Ora: Notte"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:brown_shrooma",
             "scale": 0,
             "rotate": true,
-            "text": "Denaro gratuito d'estate!!"
+            "text": "patchouli: entità\n\nacquacoltura: funghi marroni\n\nSoldi gratis in estate!!"
         }
     ]
 }

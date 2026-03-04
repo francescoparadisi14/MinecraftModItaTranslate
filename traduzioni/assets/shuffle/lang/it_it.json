@@ -1,0 +1,14 @@
+{
+    "key.categories.shuffle": "Mescolare",
+    "key.shuffle.shuffle": "Attivazione\/Disattivazione della modalità \"Shuffle\"",
+    "message.shuffle.disable": "Modalità di mescolamento: disabilitata",
+    "message.shuffle.enable": "Modalità di mescolamento: §aAttiva§r",
+    "shuffle.options.hotbar_lock": "Blocca le posizioni nella barra degli oggetti",
+    "shuffle.options.hotbar_lock.description": "Cliccare su uno slot nella barra degli oggetti per impedirne lo spostamento casuale.",
+    "shuffle.options.hotbar_lock.tooltip.off": "Slot di blocco %s",
+    "shuffle.options.hotbar_lock.tooltip.on": "Sblocca lo slot %s",
+    "shuffle.options.play_sound_effects": "Riproduci effetti sonori",
+    "shuffle.options.play_sound_effects.tooltip": "Quando la funzione \"casuale\" è attiva, viene riprodotto un effetto sonoro.",
+    "shuffle.options.use_weighted_random": "Seleziona i blocchi in base al numero di blocchi.",
+    "shuffle.options.use_weighted_random.tooltip": "Quando si sceglie un blocco a caso da posizionare, la quantità presente nello stack influisce sulla probabilità di posizionare quel blocco."
+}

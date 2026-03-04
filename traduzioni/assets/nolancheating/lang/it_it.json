@@ -1,0 +1,6 @@
+{
+    "nolancheating.configuration.removeButtonInCreateNewWorldScreen": "Pulsante \"Elimina\" nella schermata \"Crea nuovo mondo\"",
+    "nolancheating.configuration.removeButtonInCreateNewWorldScreen.tooltip": "Rimuove il pulsante \"Consenti comandi\" nella schermata \"Crea nuovo mondo\".",
+    "nolancheating.configuration.removeButtonInOpenToLANScreen": "Pulsante \"Apri a LAN\" sullo schermo",
+    "nolancheating.configuration.removeButtonInOpenToLANScreen.tooltip": "Rimuove il pulsante \"Consenti comandi\" nella schermata \"Connetti alla rete locale\"."
+}

@@ -1,12 +1,12 @@
 {
-    "tag.entity_type.bucketlib.milkable": "Entità Da Mungere",
-    "tag.fluid.bucketlib.infinity_enchantable": "Fluidi Che Abilitano L'incantesimo Infinito",
+    "tag.entity_type.bucketlib.milkable": "Entità sfruttabili",
+    "tag.fluid.bucketlib.infinity_enchantable": "Fluidi che consentono un'illusione senza limiti",
     "tag.fluid.c.milk": "Latte",
-    "text.autoconfig.bucketlib.option.INFINITY_ENCHANTMENT_ENABLED": "Abilitato L'incantesimo Infinito",
-    "text.autoconfig.bucketlib.option.INFINITY_ENCHANTMENT_ENABLED.@Tooltip[0]": "Abilitato L'incantesimo Infinito §6§l",
-    "text.autoconfig.bucketlib.option.INFINITY_ENCHANTMENT_ENABLED.@Tooltip[1]": "Se Abilitato O Meno L'incantesimo Infinito Per Gli Oggetti Modificati",
-    "text.autoconfig.bucketlib.option.INFINITY_ENCHANTMENT_ENABLED.@Tooltip[2]": "Buchi Riempiti Di Fluidi Con Etichetta",
-    "text.autoconfig.bucketlib.option.INFINITY_ENCHANTMENT_ENABLED.@Tooltip[3]": "\"Il Rilevamento Dell'infinità Del Bucketlib\" Dovrebbe Essere Abilitato.",
-    "text.autoconfig.bucketlib.option.INFINITY_ENCHANTMENT_ENABLED.@Tooltip[4]": "§7§oImpostazione Predefinita: Falso",
-    "text.autoconfig.bucketlib.title": "Impostazioni Bucketlib"
+    "text.autoconfig.bucketlib.option.INFINITY_ENCHANTMENT_ENABLED": "Abilita l'incantesimo di infinito.",
+    "text.autoconfig.bucketlib.option.INFINITY_ENCHANTMENT_ENABLED.@Tooltip[0]": "§6§Abilita l'incantesimo di \"Infinito\"",
+    "text.autoconfig.bucketlib.option.INFINITY_ENCHANTMENT_ENABLED.@Tooltip[1]": "Se l'incantesimo \"Infinity\" è compatibile con le modifiche.",
+    "text.autoconfig.bucketlib.option.INFINITY_ENCHANTMENT_ENABLED.@Tooltip[2]": "secchi pieni di liquidi appartenenti al gruppo \"tag\"",
+    "text.autoconfig.bucketlib.option.INFINITY_ENCHANTMENT_ENABLED.@Tooltip[3]": "\"bucketlib:infinity_enchantable\" deve essere abilitato.",
+    "text.autoconfig.bucketlib.option.INFINITY_ENCHANTMENT_ENABLED.@Tooltip[4]": "§7§ Valore predefinito: false",
+    "text.autoconfig.bucketlib.title": "Impostazioni di BucketLib"
 }

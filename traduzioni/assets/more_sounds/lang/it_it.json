@@ -1,15 +1,15 @@
 {
-    "subtitles.item.bipbip": "Il oggetto emette un beep",
-    "subtitles.item.cardboard": "L'oggetto di cartone si sposta",
-    "subtitles.item.dark_breath": "Respiro oscuro",
-    "subtitles.item.equip_bone": "Indossare armatura ossea",
-    "subtitles.item.filled_sack": "Il sacco pieno si muove",
+    "subtitles.item.bipbip": "Segnali sonori per l'identificazione degli oggetti",
+    "subtitles.item.cardboard": "Oggetto in cartone in movimento",
+    "subtitles.item.dark_breath": "Respiro affannoso",
+    "subtitles.item.equip_bone": "Equipare armature di alta qualità",
+    "subtitles.item.filled_sack": "Movimenti con sacchi pieni",
     "subtitles.item.interference": "Interferenza",
-    "subtitles.item.magic_hum": "Sussurro magico",
-    "subtitles.item.metal_box_empty": "Gli oggetti metallici vuoti si spostano",
-    "subtitles.item.metal_box_full": "Il contenitore di metallo è pieno e si sposta",
+    "subtitles.item.magic_hum": "Magico",
+    "subtitles.item.metal_box_empty": "Oggetto metallico vuoto in movimento",
+    "subtitles.item.metal_box_full": "Movimenti di oggetti in metallo",
     "subtitles.item.night_vision": "Visione notturna",
-    "subtitles.item.small_motor": "Il piccolo motore gira",
-    "subtitles.item.viscous_slosh": "Un liquido viscoso nel bottiglia si agita",
-    "subtitles.screen.zip": "Si apre il file zip"
+    "subtitles.item.small_motor": "Il motore piccolo è in funzione.",
+    "subtitles.item.viscous_slosh": "Liquido viscoso contenuto in bottiglia che si spande.",
+    "subtitles.screen.zip": "Zip si apre"
 }

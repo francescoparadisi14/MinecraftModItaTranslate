@@ -1,4 +1,5 @@
 {
+    "curios.identifier.smartphone": "Smartphone",
     "item.cobblemon_smartphone.black_smartphone": "Black Smartphone",
     "item.cobblemon_smartphone.blue_smartphone": "Blue Smartphone",
     "item.cobblemon_smartphone.brown_smartphone": "Brown Smartphone",
@@ -26,5 +27,6 @@
     "message.nbp.heal.success": "Your Pokémon have been healed!",
     "message.nbp.pc.battle_error": "You cannot open your PC during a battle!",
     "message.nbp.pc.cooldown": "You need to wait %d seconds before open your PC again",
-    "message.nbp.pc.disabled": "The PC feature is disabled on this server"
+    "message.nbp.pc.disabled": "The PC feature is disabled on this server",
+    "trinkets.slot.legs.smartphone": "Smartphone"
 }

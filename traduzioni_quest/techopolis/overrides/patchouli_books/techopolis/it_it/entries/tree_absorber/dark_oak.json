@@ -1,12 +1,12 @@
 {
-    "name": "Albero di quercia oscura",
+    "name": "Albero di quercia scura",
     "icon": "minecraft:dark_oak_sapling",
     "category": "patchouli:tree_absorber",
     "sortnum": "1",
     "pages": [
         {
             "type": "multiblock",
-            "name": "Multiblocco di Quercia di Noce Oscura",
+            "name": "Struttura a più livelli\nAlbero di quercia scura",
             "enable_visualize": true,
             "multiblock": {
                 "pattern": [
@@ -78,7 +78,7 @@
         {
             "type": "text",
             "title": "Dark Oak Tree",
-            "text": "Questa struttura richiede; $(li)Tronchi di Quercia Oscura$(li)Foglie di Quercia Oscura$(li)Assorbente d'Albero$(br2)Una volta completata, l'assorbente d'albero inizierà a creare bottini dal tipo di albero specifico. Richiede potenza"
+            "text": "Questa struttura richiede:\n* Legni di quercia scura\n* Foglie di quercia scura\n* Assorbitore per alberi\n* Una volta completata, l'assorbitore per alberi inizierà a produrre frutti di quel tipo di albero. Richiede energia."
         }
     ]
 }

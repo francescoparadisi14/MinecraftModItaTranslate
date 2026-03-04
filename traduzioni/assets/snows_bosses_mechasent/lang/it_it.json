@@ -1,0 +1,10 @@
+{
+    "death.attack.roar": "«%1$» è stato colpito da onde sonore.",
+    "death.attack.roar.item": "«%1$» è stato colpito da onde sonore.",
+    "death.attack.roar.player": "«%1$» è stato colpito da onde sonore.",
+    "entity.snows_bosses_mechasent.mechasent": "Mechasent",
+    "entity.snows_bosses_mechasent.mechasent_laser": "Mechasent Laser",
+    "item.snows_bosses_mechasent.empty_item": "Articolo vuoto",
+    "item.snows_bosses_mechasent.mechasent_spawn_egg": "Uovo di Mechasent",
+    "subtitles.mechasent_roar": "Mechasent Roar"
+}

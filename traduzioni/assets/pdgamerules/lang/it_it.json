@@ -1,0 +1,5 @@
+{
+    "commands.pdgamerules.clear": "Regola PD completata: %s",
+    "commands.pdgamerules.clear.failed": "La regola \"PD gamerule %s\" non esiste.",
+    "commands.pdgamerules.overworldCheck.failed": "Questa regola di gioco non è supportata per l'uso nel mondo principale."
+}

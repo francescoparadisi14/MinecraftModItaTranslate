@@ -1,16 +1,16 @@
 {
-    "name": "Albero di passionfruit 🌼",
+    "name": "Albero della passion fruit 🌼",
     "category": "patchouli:trees",
     "icon": "pamhc2trees:passionfruit_sapling",
     "sortnum": -1,
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Stagione: Primavera $(li)Dimensioni: 1x1$(li)Cresce in: $(l:tree_crops\/passionfruit)8 passion fruit$(\/l)$(br2)$(l)Note$()$(li)I semiotti vinti alla macchina dei premi.`"
+            "text": "patchouli:text\n\n$(l)Statistiche$()$(li)🌼 Primavera§r $(li)Dimensione: 1x1$(li)Coltivabile: 8 x frutto della passiflora$(\/l)$(br2)$(l)Note$()$(li)Piantine ottenute dalla macchina premi."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Passionfruit Tree",
+            "name ": "Patchouli: Multibloc\n\nAlbero della passion fruit",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {
@@ -77,8 +77,7 @@
                         "     "
                     ]
                 ]
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

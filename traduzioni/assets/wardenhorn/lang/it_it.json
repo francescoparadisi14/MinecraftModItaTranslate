@@ -1,10 +1,10 @@
 {
-    "death.attack.horned_shriek.player": "%1$s è stato distrutto da un urlo acustico lanciato da %2$s",
-    "instrument.wardenhorn.call_warden_horn": "urlaio",
-    "item.wardenhorn.warden_horn": "Corno del guardiano (in colore dorato)",
-    "wardenhorn.text.damage": "Danni d'attacco di %1$s",
-    "wardenhorn.text.knockback": "Forza di respingimento %1$s",
-    "wardenhorn.text.range": "Raggio di %1$s blocchi",
-    "wardenhorn.text.recharge_time": "Tempo di ricarica in  %1$s secondi",
-    "wardenhorn.text.whatitdo": "Usato per urlare gli strilli sonoramente carichi del custode"
+    "death.attack.horned_shriek.player": "%1$s è stato distrutto da un urlo carico di energia sonora, emesso da %2$s.",
+    "instrument.wardenhorn.call_warden_horn": "Urlo",
+    "item.wardenhorn.warden_horn": "§Il direttore Horn",
+    "wardenhorn.text.damage": "Danno inflitto",
+    "wardenhorn.text.knockback": "Forza di respingimento",
+    "wardenhorn.text.range": "Intervallo di blocchi",
+    "wardenhorn.text.recharge_time": "%1$s Secondo tempo di ricarica",
+    "wardenhorn.text.whatitdo": "Usavano per urlare: \"Gli urli acustici del figlio del Warden\""
 }

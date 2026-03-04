@@ -1,0 +1,11 @@
+{
+    "advancements.husbandry.shear_sheep.description": "Utilizzare delle cesoie per tosare una pecora",
+    "advancements.husbandry.shear_sheep.title": "Il ladro di lana!",
+    "fml.menu.mods.info.description.awesomesheepswell": "La lana si ispessisce man mano che le pecore mangiano l'erba, e otterrete una lana più abbondante dopo il tosatura!",
+    "fml.menu.mods.info.displayname.awesomesheepswell": "Meravigliosi ovini",
+    "modmenu.descriptionTranslation.awesomesheepswell": "La lana si ispessisce man mano che le pecore mangiano l'erba, e otterrete una lana più abbondante dopo il tosatura!",
+    "modmenu.nameTranslation.awesomesheepswell": "Meravigliosi ovini",
+    "text.autoconfig.awesomesheepswell.option.maxThickness": "Aumentare al massimo lo spessore della lana.",
+    "text.autoconfig.awesomesheepswell.option.maxThickness.@Tooltip": "Valori più elevati, con una variazione di spessore inferiore per ogni strato.",
+    "text.autoconfig.awesomesheepswell.title": "Meravigliosi ovini"
+}

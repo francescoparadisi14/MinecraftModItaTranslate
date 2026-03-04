@@ -4,6 +4,7 @@
     "energy.factory_api.forge": "Forge Energy (FE)",
     "energy.factory_api.neoforge": "Forge Energy (FE)",
     "options.factory_api.expressionFailLogging": "Expression Fail Logging",
+    "options.factory_api.manualMipmap": "Manual Mipmap",
     "options.factory_api.manualMipmapPath": "Manual Mipmap Path",
     "options.factory_api.nearestMipmapScaling": "Nearest Mipmap Scaling",
     "options.factory_api.randomBlockRotations": "Random Block Rotations",

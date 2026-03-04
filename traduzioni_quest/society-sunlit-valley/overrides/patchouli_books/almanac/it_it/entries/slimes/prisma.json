@@ -5,14 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Localizzazioni:$()$(li)Trappole per granchi: Bait per Trappola per Granchio Deluxe$(li)Fusione del Cuore di Schiuma$(br2)$(l)Rischii:$()$(br)Ha spine e causerà l'effetto di Fatica Miniera quando si arrabbierà. Si infastidisce quando è fuori dall'acqua!"
+            "text": "patchouli:testo\n\n$(l)Posizioni:$()$(li)Trappole per granchi: Esclusivo appello per trappole per granchi$(li)Fusione di Slime Heart$(br2)$(l)Rischi:$()$(br)Contiene spine e provoca l'effetto di affaticamento minerario se disturbato. Diventa infelice quando è fuori dall'acqua!"
         },
         {
             "type": "patchouli:entity",
-            "name": "Prisma Slime",
+            "name": "patchouli:entità\n\nsplendid\\_slimes:splendid\\_slime{Razza:\"splendid\\_slimes:prisma\"}\n\nPrisma Slime",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:prisma\"}",
-            "scale": 0.9,
-            "text": "Entità: Splendido Slime di Prisma"
+            "scale": 0.9
         }
     ]
 }

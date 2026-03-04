@@ -1,12 +1,12 @@
 {
-    "name": "Ores",
+    "name": "Minerali",
     "icon": "minecraft:coal_ore",
     "category": "patchouli:getting_started",
     "sortnum": "2",
     "pages": [
         {
             "type": "text",
-            "text": "Le miniere di Vanilla sono state disattivate, è necessario utilizzare i minatori per raccogliere le miniere."
+            "text": "Le miniere di vaniglia sono state disabilitate; è necessario utilizzare i minatori per raccogliere le risorse."
         }
     ]
 }

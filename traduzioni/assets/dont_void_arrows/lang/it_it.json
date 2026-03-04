@@ -1,4 +1,4 @@
 {
-    "gamerule.dropSpectralArrows": "Lascia cadere frecce spettrali",
-    "gamerule.dropSpectralArrows.description": "Fa cadere gli arrow spettrali sparate dai mostri anziché le normali."
+    "gamerule.dropSpectralArrows": "rilascia frecce spettrali",
+    "gamerule.dropSpectralArrows.description": "rende i mostri colpiti dalle frecce spettrali a cadere invece di frecce normali."
 }

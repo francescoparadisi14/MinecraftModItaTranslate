@@ -1,7 +1,7 @@
 {
-    "item.mi_sound_addon.mallet": "Martello di acciaio",
-    "message.mi_sound_addon.creative_tab": "Pannello di accessori suoni MI",
+    "item.mi_sound_addon.mallet": "Martello in acciaio",
+    "message.mi_sound_addon.creative_tab": "Estensione MI Sound",
     "message.mi_sound_addon.machine_silenced": "Macchina silenziata",
-    "message.mi_sound_addon.machine_unsilenced": "Macchina non silenziata",
-    "message.mi_sound_addon.tooltip": "Clicca destro sui tuoi macchinari per silenziarli o disattivarne il silenzio"
+    "message.mi_sound_addon.machine_unsilenced": "Rimuovere i silenzi",
+    "message.mi_sound_addon.tooltip": "Clicca con il tasto destro del mouse sui tuoi dispositivi per silenziarli o riattivare il suono."
 }

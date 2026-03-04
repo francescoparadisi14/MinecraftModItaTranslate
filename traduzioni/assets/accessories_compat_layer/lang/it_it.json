@@ -1,5 +1,12 @@
 {
-    "text.config.accessories_compat.option.dumpDataWhenNullEntries": "Dump dati quando sono vuoti",
-    "text.config.accessories_compat.option.dumpDataWhenNullEntries.tooltip": "Utile quando si verifica un errore all'interno dei trinkets a causa di valore nullo e tale comportamento porta al crash del gioco.",
-    "text.config.accessories_compat.title": "Configurazione di compatibilità accessori"
+    "accessories.slot.pocket": "Tasca",
+    "text.config.accessories_compat.option.addPocketSlot": "Aggiungi lo slot per la tasca",
+    "text.config.accessories_compat.option.addPocketSlot.tooltip": "Aggiunge uno slot simile allo slot Curio.",
+    "text.config.accessories_compat.option.dumpDataWhenNullEntries": "Eliminare i dati quando ci sono valori nulli.",
+    "text.config.accessories_compat.option.dumpDataWhenNullEntries.tooltip": "Utile quando si verifica un errore all'interno di un'applicazione a causa di un valore nullo, e questo comportamento causa il blocco dell'applicazione.",
+    "text.config.accessories_compat.option.showPocketSlotInTooltip": "Mostra la sezione \"Pocket Slot\" nella tooltip",
+    "text.config.accessories_compat.option.showPocketSlotInTooltip.tooltip": "Mostra lo slot nel tooltip solo se non è implicitamente valido per lo slot.",
+    "text.config.accessories_compat.option.slotIdRedirects": "Reindirizzamenti per ID di slot",
+    "text.config.accessories_compat.option.slotIdRedirects.tooltip": "Utile quando è necessario reindirizzare una fiaschetta a uno slot per accessori standard.",
+    "text.config.accessories_compat.title": "Accessori Compatibile con la configurazione"
 }

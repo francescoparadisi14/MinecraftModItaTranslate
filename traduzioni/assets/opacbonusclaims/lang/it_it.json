@@ -1,0 +1,15 @@
+{
+    "item.opacbonusclaims.common_claim": "Aumento del bonus +1",
+    "item.opacbonusclaims.common_forceload": "Bonus di carico +1",
+    "item.opacbonusclaims.epic_claim": "Aumento dei bonus del +10%",
+    "item.opacbonusclaims.epic_forceload": "Bonus di forza +10",
+    "item.opacbonusclaims.rare_claim": "Aumento del bonus del +5",
+    "item.opacbonusclaims.rare_forceload": "Bonus di forza +5",
+    "item.opacbonusclaims.uncommon_claim": "Aumento del bonus del +3",
+    "item.opacbonusclaims.uncommon_forceload": "Bonus di forza +3",
+    "item_group.opacbonusclaims.main": "Reclami per il bonus OPAC",
+    "message.opacbonusclaims.claims.added": "Per ogni richiesta di %s, sono state aggiunte %d richieste bonus. Totale: %d",
+    "message.opacbonusclaims.claims.removed": "Per i %s, sono state eliminate %d richieste di bonus. Totale: %d",
+    "message.opacbonusclaims.forceloads.added": "Per ogni operazione di caricamento forzato, vengono aggiunti %d bonus. Totale: %d",
+    "message.opacbonusclaims.forceloads.removed": "Per ogni operazione di caricamento forzato, viene applicato un bonus di %d. Totale: %d"
+}

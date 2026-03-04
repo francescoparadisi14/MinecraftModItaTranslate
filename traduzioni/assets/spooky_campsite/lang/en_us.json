@@ -1,1 +1,12 @@
-[]
+{
+    "block.spooky_campsite.example_block": "Example Block",
+    "item.spooky_campsite.example_item": "Example Item",
+    "itemGroup.spooky_campsite": "Example Mod Tab",
+    "spooky_campsite.configuration.items": "Item List",
+    "spooky_campsite.configuration.logDirtBlock": "Log Dirt Block",
+    "spooky_campsite.configuration.magicNumber": "Magic Number",
+    "spooky_campsite.configuration.magicNumberIntroduction": "Magic Number Text",
+    "spooky_campsite.configuration.section.spooky_campsite.common.toml": "Spooky Campsite Configs",
+    "spooky_campsite.configuration.section.spooky_campsite.common.toml.title": "Spooky Campsite Configs",
+    "spooky_campsite.configuration.title": "Spooky Campsite Configs"
+}

@@ -1,9 +1,9 @@
 {
-    "curios.identifier.bank_meter": "Contatore di banca",
+    "curios.identifier.bank_meter": "Misuratore bancario",
     "curios.identifier.card": "Carta",
     "gui.numismatics_utils.bank_meter": "¤ %s",
-    "info.numismatics_utils.balance": "Saldo: ¤ %s",
-    "item.numismatics_utils.bank_meter": "Indicatore del conto corrente",
+    "info.numismatics_utils.balance": "Equilibrio: ¤ %s",
+    "item.numismatics_utils.bank_meter": "Misuratore bancario",
     "item.numismatics_utils.portable_bank_terminal": "Terminal bancario portatile",
     "itemGroup.numismatics_utils": "Strumenti per la numismatica"
 }

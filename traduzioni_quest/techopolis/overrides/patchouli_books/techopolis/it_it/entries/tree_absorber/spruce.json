@@ -1,12 +1,12 @@
 {
-    "name": "Albero di betulla",
+    "name": "Abete",
     "icon": "minecraft:spruce_sapling",
     "category": "patchouli:tree_absorber",
     "sortnum": "1",
     "pages": [
         {
             "type": "multiblock",
-            "name": "Multiblock Spruce Tree",
+            "name": "Multiblocco\n\nAbete",
             "enable_visualize": true,
             "multiblock": {
                 "pattern": [
@@ -78,7 +78,7 @@
         {
             "type": "text",
             "title": "Spruce Tree",
-            "text": "Questa struttura richiede; $(li)Tronchi di Pino$(li)Foglie di Pino$(li)Assorbitore d'Albero$(br2)Una volta completata, l'assorbitore d'albero inizierà a creare bottini dal tipo di albero specifico. Richiede energia"
+            "text": "Questa struttura richiede:\n*   Tronchi di pino\n*   Foglie di pino\n*   Assorbitore per alberi\n*   Una volta completata, l'assorbitore per alberi inizierà a produrre frutti di quel tipo di albero. Richiede alimentazione."
         }
     ]
 }

@@ -1,17 +1,17 @@
 {
-    "name": "Squid",
+    "name": "Polpi",
     "category": "patchouli:animals",
     "icon": "minecraft:ink_sac",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Latte: Sacco d'inchiostro$(li)Ritardo del latte: 1 giorno$(li)Cerca: Tentacoli di calamaro (20% di probabilità), Inchiostro antico (10% di probabilità) $(li)Bottino: Sacco d'inchiostro$(br2)$(l)Note$()$(br)I bottini si verificano a 5+ cuori di affetto"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile$(li)Fonte: Sacca di inchiostro$(li)Tempo di ricarica: 1 giorno$(li)Possibilità di ottenere: Sacca di inchiostro (20%), Inchiostro antico (10%) $(li)Oggetti ottenibili: Sacca di inchiostro$(br2)$(l)Note$()$(br)Raccoglie oggetti quando il livello di affetto è superiore a 5. Deve avere un nome (tag) o altrimenti scomparirà."
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:squid",
             "scale": 0.4,
-            "text": "Sommersione di un calamaro?"
+            "text": "patchouli:entità\n\ncalamaro (in Minecraft)\n\nÈ possibile \"mungere\" un calamaro?"
         }
     ]
 }

@@ -1,6 +1,6 @@
 {
-    "name": "Blocco d'erba",
-    "description": "I blocchi d'erba possono essere creati cliccando con il tasto destro su qualsiasi seme su un blocco di terra!",
+    "name": "Blocco di erba",
+    "description": "I blocchi di erba possono essere creati facendo clic con il tasto destro su qualsiasi seme presente su un blocco di terra!",
     "icon": "minecraft:grass_block",
     "sortnum": "1"
 }

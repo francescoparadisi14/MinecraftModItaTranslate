@@ -1,0 +1,19 @@
+{
+    "block.createpureglass.black_stained_pure_glass": "Vetro trasparente con macchie nere",
+    "block.createpureglass.blue_stained_pure_glass": "Vetro trasparente con macchie blu",
+    "block.createpureglass.brown_stained_pure_glass": "Vetro trasparente macchiato di marrone",
+    "block.createpureglass.cyan_stained_pure_glass": "Vetro trasparente colorato di blu (ciano)",
+    "block.createpureglass.gray_stained_pure_glass": "Vetro trasparente con macchie grigie",
+    "block.createpureglass.green_stained_pure_glass": "Vetro trasparente con macchie verdi",
+    "block.createpureglass.light_blue_stained_pure_glass": "Vetro trasparente con venature di colore azzurro chiaro",
+    "block.createpureglass.light_gray_stained_pure_glass": "Vetro trasparente con venature grigio chiaro",
+    "block.createpureglass.lime_stained_pure_glass": "Vetro trasparente macchiato di calcare",
+    "block.createpureglass.magenta_stained_pure_glass": "Vetro trasparente con macchie di magenta",
+    "block.createpureglass.orange_stained_pure_glass": "Vetro trasparente macchiato di arancione",
+    "block.createpureglass.pink_stained_pure_glass": "Vetro trasparente macchiato di rosa",
+    "block.createpureglass.pure_glass": "Vetro puro",
+    "block.createpureglass.purple_stained_pure_glass": "Vetro trasparente con macchie viola",
+    "block.createpureglass.red_stained_pure_glass": "Vetro trasparente macchiato di rosso",
+    "block.createpureglass.white_stained_pure_glass": "Vetro trasparente con macchie bianche",
+    "block.createpureglass.yellow_stained_pure_glass": "Vetro trasparente macchiato di giallo"
+}

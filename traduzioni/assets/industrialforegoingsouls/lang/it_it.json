@@ -1,7 +1,13 @@
 {
-    "block.industrialforegoingsouls.soul_laser_base": "Base Del Raggio Animico",
-    "block.industrialforegoingsouls.soul_network_pipe": "Tubo Dell'anima",
-    "block.industrialforegoingsouls.soul_surge": "Surge Dell'anima",
-    "industrialforegoingsouls.soul_storage": "Archivio Anime:",
-    "itemGroup.industrialforegoingsouls": "Industrial Foregoing: Anime"
+    "block.industrialforegoingsouls.soul_laser_base": "Base per laser a effetto \"Soul\"",
+    "block.industrialforegoingsouls.soul_network_pipe": "Canale dell'anima",
+    "block.industrialforegoingsouls.soul_surge": "Esplosione di energia",
+    "industrialforegoingsouls.can_be_used_filter": "*Può essere utilizzato per richiedere anime tramite un'interfaccia AE2*",
+    "industrialforegoingsouls.soul_storage": "Archivio delle anime:",
+    "industrialforegoingsouls.storage_bus": "*È possibile accedere alle anime tramite il bus di archiviazione AE2, situato nella parte superiore.*",
+    "itemGroup.industrialforegoingsouls": "Industrial Foregoing: Souls",
+    "jei.industrialforegoingsouls.soul_laser": "Base per laser a effetto \"Soul\"",
+    "soulkey.description": "Anima",
+    "soulkey.name": "L'anima del custode",
+    "soulkey.tooltip": "Produzione per uso:"
 }

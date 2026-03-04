@@ -18,7 +18,6 @@
     "block.itemalchemy.emc_repeater": "EMC Repeater",
     "block.itemalchemy.red_matter_block": "Red Matter Block",
     "block.itemalchemy.ultimate_aegu": "Ultimate AEGU",
-    "category.itemalchemy.all": "Item Alchemy",
     "container.itemalchemy.alchemy_table": "Alchemy Table",
     "container.itemalchemy.emc_battery": "EMC Battery",
     "container.itemalchemy.emc_collector": "EMC Collector",
@@ -54,6 +53,8 @@
     "item.itemalchemy.void_ring": "Void Ring",
     "item.itemalchemy.wrench": "IA Wrench",
     "itemGroup.itemalchemy.item_alchemy": "Item Alchemy",
+    "key.category.itemalchemy.main": "Item Alchemy",
+    "key.itemalchemy.changemode": "Change Mode",
     "key.itemalchemy.charge": "Charge",
     "message.itemalchemy.failed_to_set_team": "[Item Alchemy] Failed to set team",
     "text.itemalchemy.owner": "Owner: %s"

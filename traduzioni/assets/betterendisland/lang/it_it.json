@@ -1,15 +1,15 @@
 {
-    "text.autoconfig.betterendisland-fabric-1_21.option.general.playBellSound": "Suonare il suono della campana",
-    "text.autoconfig.betterendisland-fabric-1_21.option.general.playBellSound.@Tooltip": "Se il suono della campana dovrebbe essere riprodotto prima che il drago dell'ender sia evocato per la prima volta e durante le ri-evocazioni.",
-    "text.autoconfig.betterendisland-fabric-1_21.option.general.resummonedDragonDropsEgg": "Uovo dei resti del drago risvegliato",
-    "text.autoconfig.betterendisland-fabric-1_21.option.general.resummonedDragonDropsEgg.@Tooltip": "Se l'ender dragon lascia cadere un uovo ogni volta che viene sconfitto",
-    "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerInitially": "Spawnare la torre centrale inizialmente",
-    "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerInitially.@Tooltip": "Se il torre centrale dovrebbe apparire nell'End quando il mondo viene generato per la prima volta.",
-    "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerOnResummon": "Ripristina la torre centrale alla risurrezione",
-    "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerOnResummon.@Tooltip": "Se il torre centrale dovrebbe risorgere nell'End quando il drago dell'End viene ri-evocato.",
-    "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaEndGateways": "Generare porte di fine del gioco standard",
-    "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaEndGateways.@Tooltip": "Se i cancelli di accesso alla fine del gioco Vanilla dovrebbero apparire nella fine anziché quelli rivisti.",
-    "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaSpawnPlatform": "Usa piattaforma di partenza in pietra vulcanica originale",
-    "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaSpawnPlatform.@Tooltip": "Se il piatto di ossidiana originale dovrebbe apparire nell'End al posto del piatto rivisto.",
-    "text.autoconfig.betterendisland-fabric-1_21.title": "L'isola finale di yung"
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.playBellSound": "Riproduci il suono di una campana",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.playBellSound.@Tooltip": "Se il suono della campana dovrebbe suonare sia quando il Drago Ender viene evocato per la prima volta, sia quando viene evocato nuovamente.",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.resummonedDragonDropsEgg": "Uovo di Drago Risvegliato",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.resummonedDragonDropsEgg.@Tooltip": "Se il Drago Ender rilascia un uovo ogni volta che viene sconfitto.",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerInitially": "Inizio della costruzione della Torre Spawn Central",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerInitially.@Tooltip": "Se la torre principale dovrebbe apparire nell'End quando il mondo viene creato per la prima volta.",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerOnResummon": "Riavvia la Torre Central in Resummon",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerOnResummon.@Tooltip": "Se la torre principale dovrebbe rigenerarsi nella Dimensione End quando il Drago Ender viene richiamato.",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaEndGateways": "Genera i portali verso l'End di base.",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaEndGateways.@Tooltip": "Dovrebbero le porte verso l'End apparire nell'End invece che nelle porte rinnovate?",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaSpawnPlatform": "Genera la piattaforma Obsidian Vanilla.",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaSpawnPlatform.@Tooltip": "Se la piattaforma in ossidiana dovrebbe apparire nell'End invece della piattaforma rinnovata.",
+    "text.autoconfig.betterendisland-fabric-1_21.title": "YUNG's Migliore Isola"
 }

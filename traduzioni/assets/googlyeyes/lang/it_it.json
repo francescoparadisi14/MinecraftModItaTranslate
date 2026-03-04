@@ -1,14 +1,14 @@
 {
-    "config.googlyeyes.prop.acidTripEyes.desc": "Lascia che gli occhi Googly siano in tripudio",
-    "config.googlyeyes.prop.acidTripEyes.name": "Occhi di viaggio acido",
-    "config.googlyeyes.prop.allPlayersHaveGooglyEyes.desc": "Deve avere gli occhi strabici tutti i giocatori?",
-    "config.googlyeyes.prop.allPlayersHaveGooglyEyes.name": "Tutti i giocatori hanno gli occhi strabici",
-    "config.googlyeyes.prop.disabledGoogly.desc": "Per disabilitare gli occhi strabici su un entità specifica, inserisci il nome di registro dell'entità qui. Ad esempio: \"maiale\", \" scheletro\". Per i giocatori, inserisci \"giocatore\".",
-    "config.googlyeyes.prop.disabledGoogly.name": "Occhi strabici disabilitati",
-    "config.googlyeyes.prop.entityOverrideChance.desc": "Sovrascrittura della probabilità di entità. Ogni voce deve essere un'ubicazione di risorsa e una probabilità, separate da una virgola. Ad esempio: \"minecraft:pig,100\" farà avere a tutti i maiali di Minecraft il 100% di probabilità di avere occhi strabici.",
-    "config.googlyeyes.prop.entityOverrideChance.name": "Sovrascrittura della probabilità di entità",
-    "config.googlyeyes.prop.googlyEyeChance.desc": "Probabilità di occhio googly (in percentuale)",
-    "config.googlyeyes.prop.googlyEyeChance.name": "Probabilità di occhio googly",
-    "config.googlyeyes.prop.nameOverride.desc": "Gli entità con questi nomi avranno sempre gli occhi strabici.",
-    "config.googlyeyes.prop.nameOverride.name": "Sovrascrittura nome"
+    "config.googlyeyes.prop.acidTripEyes.desc": "Lasciali fare le loro buffonate.",
+    "config.googlyeyes.prop.acidTripEyes.name": "Occhi sotto l'effetto di sostanze psicotrope",
+    "config.googlyeyes.prop.allPlayersHaveGooglyEyes.desc": "Dovrebbero tutti i giocatori avere occhi rotondi?",
+    "config.googlyeyes.prop.allPlayersHaveGooglyEyes.name": "Tutti i giocatori hanno occhi che sembrano \"girare\".",
+    "config.googlyeyes.prop.disabledGoogly.desc": "Per disabilitare gli \"Occhi Googly\" per un'entità specifica, inserire il suo nome di registro qui:\nEsempio: \"Maiale\", \"Scheletro\"\nPer i giocatori, inserire \"player\"",
+    "config.googlyeyes.prop.disabledGoogly.name": "Occhi Googly per persone con disabilità",
+    "config.googlyeyes.prop.entityOverrideChance.desc": "Sovrascrittura della probabilità per entità. Ogni voce dovrebbe contenere una posizione di risorse e una probabilità, separate da una virgola. Ad esempio, \"minecraft:maiale,100\" farà sì che tutti i maiali di Minecraft abbiano il 100% di probabilità di avere gli occhi Googly.",
+    "config.googlyeyes.prop.entityOverrideChance.name": "Sovrascrittura dell'entità",
+    "config.googlyeyes.prop.googlyEyeChance.desc": "Probabilità di successo (in percentuale)",
+    "config.googlyeyes.prop.googlyEyeChance.name": "Gioco con gli occhi mobili",
+    "config.googlyeyes.prop.nameOverride.desc": "Le entità con questi nomi avranno sempre degli occhi \"Googly\".",
+    "config.googlyeyes.prop.nameOverride.name": "Modifica del nome"
 }

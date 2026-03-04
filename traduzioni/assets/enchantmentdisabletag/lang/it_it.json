@@ -1,3 +1,3 @@
 {
-    "command.enchantmentdisabledtag.disabled": "L'incantesimo \"%s\" è stato disattivato tramite il tag di incantesimo disabilitato."
+    "command.enchantmentdisabledtag.disabled": "La funzione \"Enchantment\" è stata disabilitata tramite il tag di attivazione \"enchantmentdisabletag:disabled\"."
 }

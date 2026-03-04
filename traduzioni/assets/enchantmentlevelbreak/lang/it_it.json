@@ -1,0 +1,6 @@
+{
+    "command.enchantmentlevelbreak.error.invalid_enchantment": "Incantesimo non valido: %s",
+    "command.enchantmentlevelbreak.error.level_too_high": "Il livello di incanto non può superare i 2147483647.",
+    "command.enchantmentlevelbreak.error.no_item": "È necessario tenere in mano un oggetto per effettuare l'incantamento.",
+    "command.enchantmentlevelbreak.success": "Applicato il %s all'articolo."
+}

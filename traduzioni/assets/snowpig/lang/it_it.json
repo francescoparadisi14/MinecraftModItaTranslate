@@ -1,16 +1,16 @@
 {
-    "entity.snowpig.snow_pig": "Cinghiale di neve",
+    "entity.snowpig.snow_pig": "Maialino di neve",
     "item.snowpig.frozen_ham": "Prosciutto congelato",
-    "item.snowpig.frozen_porkchop": "Porcetto congelato",
+    "item.snowpig.frozen_porkchop": "Salsicce di maiale congelate",
     "item.snowpig.music_disc_frosty_snig": "Disco musicale",
-    "item.snowpig.snow_pig_spawn_egg": "Uovo di nascita del maiale della neve",
-    "jukebox_song.snowpig.frosty_snig": "Luz - Frosty Snig",
-    "subtitles.entity.snow_pig.ambient": "Il maiale di neve grugnisce",
-    "subtitles.entity.snow_pig.death": "Il maiale di neve muore",
-    "subtitles.entity.snow_pig.hurt": "Il maiale di neve si ferisce",
-    "subtitles.snowpig.entity.snow_pig.ambient": "I maiali di neve grugniscono",
-    "subtitles.snowpig.entity.snow_pig.death": "Muore il maiale di neve",
-    "subtitles.snowpig.entity.snow_pig.hurt": "Il maiale di neve si ferisce",
-    "tag.entity_type.snowpig.killer_for_snowpig_disc": "Assassino per disco di cinghiale di neve",
-    "tag.worldgen.biome.snowpig.spawns_snow_pig": "Genera maiale della neve"
+    "item.snowpig.snow_pig_spawn_egg": "Uovo di covata del Snow Pig",
+    "jukebox_song.snowpig.frosty_snig": "Luz - Snig gelato",
+    "subtitles.entity.snow_pig.ambient": "Il maialino di neve emette un suono simile a quello di un maiale.",
+    "subtitles.entity.snow_pig.death": "Il maiale di neve muore.",
+    "subtitles.entity.snow_pig.hurt": "Il maiale di neve fa male.",
+    "subtitles.snowpig.entity.snow_pig.ambient": "Il maialino di neve emette un suono simile a quello di un maiale.",
+    "subtitles.snowpig.entity.snow_pig.death": "Il maiale di neve muore.",
+    "subtitles.snowpig.entity.snow_pig.hurt": "Il maiale di neve fa male.",
+    "tag.entity_type.snowpig.killer_for_snowpig_disc": "Per il disco \"Snow Pig\"",
+    "tag.worldgen.biome.snowpig.spawns_snow_pig": "Genera un maiale di neve."
 }

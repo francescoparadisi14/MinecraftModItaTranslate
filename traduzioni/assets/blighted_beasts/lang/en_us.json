@@ -1,4 +1,5 @@
 {
+    "block.blighted_beasts.monolith": "Monolith",
     "entity.blighted_beasts.beckon": "Beckon",
     "entity.blighted_beasts.behemoth": "Behemoth",
     "entity.blighted_beasts.bloater": "Bloater",
@@ -10,6 +11,7 @@
     "entity.blighted_beasts.sculk_pearl": "Sculk Pearl",
     "entity.blighted_beasts.seer": "Seer",
     "entity.blighted_beasts.skitter": "Skitter",
+    "entity.blighted_beasts.unseen": "Unseen",
     "item.blighted_beasts.beckon": "Beckon Puppet",
     "item.blighted_beasts.beckon_spawn_egg": "Beckon Spawn Egg",
     "item.blighted_beasts.behemoth_spawn_egg": "Behemoth Spawn Egg",
@@ -20,6 +22,7 @@
     "item.blighted_beasts.sculk_pearl": "Sculk Pearl",
     "item.blighted_beasts.seer_spawn_egg": "Seer Spawn Egg",
     "item.blighted_beasts.skitter_spawn_egg": "Skitter Spawn Egg",
+    "item.blighted_beasts.unseen_spawn_egg": "Unseen Spawn Egg",
     "subtitles.entity.apparition.ambient": "Sculk Apparition Apparates",
     "subtitles.entity.apparition.death": "Sculk Apparition dies",
     "subtitles.entity.apparition.hurt": "Sculk Apparition hurts",
@@ -49,7 +52,13 @@
     "subtitles.entity.seer.shriek": "Seer shrieks",
     "subtitles.entity.skitter.ambient": "Skitter clicks",
     "subtitles.entity.skitter.death": "Skitter dies",
+    "subtitles.entity.skitter.howl": "Skitter howls",
     "subtitles.entity.skitter.hurt": "Skitter hurts",
     "subtitles.entity.skitter.run": "Skitter skits aggressively",
-    "subtitles.entity.skitter.walk": "Skitter skits"
+    "subtitles.entity.skitter.walk": "Skitter skits",
+    "subtitles.entity.unseen.ambient": "Eery whisper",
+    "subtitles.entity.unseen.death": "Unseen dies",
+    "subtitles.entity.unseen.hurt": "Unseen hurts",
+    "subtitles.entity.unseen.stop": "Sudden stop",
+    "subtitles.entity.unseen.walk": "Creaky footsteps"
 }

@@ -1,4 +1,13 @@
 {
+    "zeta.gui.config.default": "Set to Default",
+    "zeta.gui.config.defaultvalue": "Default: %s",
+    "zeta.gui.config.discard": "Discard Changes",
+    "zeta.gui.config.header": "%s Configuration",
+    "zeta.gui.config.missingaddon": "You're missing the necessary addon mod for this category",
+    "zeta.gui.config.nchildren": "%d children",
+    "zeta.gui.config.onechild": "1 child",
+    "zeta.gui.config.save": "Save Changes",
+    "zeta.gui.config.subcategories": "------- Sub Categories -------",
     "zeta.jei.hint_preamble": "[Zeta]",
     "zeta.misc.mod_disabled": "Disabled. Install %s to enable."
 }

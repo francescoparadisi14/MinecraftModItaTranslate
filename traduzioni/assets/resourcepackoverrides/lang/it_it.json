@@ -1,14 +1,14 @@
 {
-    "packAction.copyId.description": "Tieni %s per copiare",
-    "packAction.copyId.success": "Copiato!",
-    "packAction.copyId.title": "Copiare ID pacchetto",
-    "packAction.reloadSettings.description": "Tieni premuto %s per ricaricare le impostazioni",
-    "packAction.reloadSettings.success": "Ricaricato!",
-    "packAction.reloadSettings.title": "Carica impostazioni",
-    "packAction.restoreDefaults.description": "Tieni premuto %s per ripristinare",
-    "packAction.restoreDefaults.success": "Ristabilito!",
-    "packAction.restoreDefaults.title": "Ripristina pacchetti predefiniti",
-    "packAction.toggleDebug.description": "Tenere premuto %s per abilitare\/disabilitare",
-    "packAction.toggleDebug.success": "Abilitato\/disabilitato!",
-    "packAction.toggleDebug.title": "Abilita\/Disabilita ID pacchetto"
+    "pack_action.resourcepackoverrides.copy_id.description": "Tenere premuto il tasto %s per copiare",
+    "pack_action.resourcepackoverrides.copy_id.success": "Copiato!",
+    "pack_action.resourcepackoverrides.copy_id.title": "ID del pacchetto",
+    "pack_action.resourcepackoverrides.reload_settings.description": "Tenere premuto il tasto %s per ricaricare.",
+    "pack_action.resourcepackoverrides.reload_settings.success": "Ricaricato!",
+    "pack_action.resourcepackoverrides.reload_settings.title": "Ripristina le impostazioni",
+    "pack_action.resourcepackoverrides.restore_defaults.description": "Tenere premuto il pulsante %s per ripristinare",
+    "pack_action.resourcepackoverrides.restore_defaults.success": "Ristretto!",
+    "pack_action.resourcepackoverrides.restore_defaults.title": "Ripristina i pacchetti predefiniti",
+    "pack_action.resourcepackoverrides.toggle_debug.description": "Tenere premuto il pulsante %s per attivare\/disattivare",
+    "pack_action.resourcepackoverrides.toggle_debug.success": "Attivato!",
+    "pack_action.resourcepackoverrides.toggle_debug.title": "Identificatori del pacchetto (per attivare\/disattivare)"
 }

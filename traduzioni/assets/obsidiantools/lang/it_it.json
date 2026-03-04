@@ -1,13 +1,13 @@
 {
-    "item.obsidiantools.obsidian_axe": "Ascia di ossidiano",
-    "item.obsidiantools.obsidian_boots": "Stivali di ossidiano",
-    "item.obsidiantools.obsidian_chestplate": "Pettorina di obsidiano",
-    "item.obsidiantools.obsidian_helmet": "Elmetto di ossidiano",
-    "item.obsidiantools.obsidian_hoe": "Falcetto di ossidiano",
-    "item.obsidiantools.obsidian_ingot": "Ingot di ossidiano",
-    "item.obsidiantools.obsidian_leggings": "Gambali di ossidiano",
-    "item.obsidiantools.obsidian_pickaxe": "Picco per pietra ossidata",
-    "item.obsidiantools.obsidian_shovel": "Cazzuola di ossidiano",
-    "item.obsidiantools.obsidian_sword": "Spada di ossidiano",
-    "itemGroup.obsidian": "Obsidiano"
+    "item.obsidiantools.obsidian_axe": "Ascia di ossidiana",
+    "item.obsidiantools.obsidian_boots": "Stivali in ossidiana",
+    "item.obsidiantools.obsidian_chestplate": "Armatura in ossidiana",
+    "item.obsidiantools.obsidian_helmet": "Elmo in ossidiana",
+    "item.obsidiantools.obsidian_hoe": "Ascia in ossidiana",
+    "item.obsidiantools.obsidian_ingot": "Lingotto di ossidiana",
+    "item.obsidiantools.obsidian_leggings": "Leggings neri in tessuto di ossidiana.",
+    "item.obsidiantools.obsidian_pickaxe": "Piccone in ossidiana",
+    "item.obsidiantools.obsidian_shovel": "Pala in ossidiana",
+    "item.obsidiantools.obsidian_sword": "Spada di ossidiana",
+    "itemGroup.obsidian": "Obsidian"
 }

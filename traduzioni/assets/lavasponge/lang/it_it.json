@@ -1,6 +1,6 @@
 {
-    "block.lavasponge.hot_lavasponge": "Spongia di lava umida",
+    "block.lavasponge.hot_lavasponge": "Sponda di lava umida",
     "block.lavasponge.hot_lavasponge.description": "",
-    "block.lavasponge.lavasponge": "Spongia di lava",
-    "itemGroup.lavasponge": "Spongia lava"
+    "block.lavasponge.lavasponge": "Spugna per lavare",
+    "itemGroup.lavasponge": "LavaSponge"
 }

@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Raccolta: Frutta tropicale casuale (75% di probabilità)$(br2)$(l)Note$()$(br)La raccolta richiede 2+ cuori. I panda hanno problemi con la fecondità e le Pozioni Miracolose hanno una alta probabilità di fallire..."
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile per la vendita$(li)Alimentazione: Frutta tropicale casuale (75% di probabilità)$(br2)$(l)Note$()$(br)L'alimentazione richiede almeno 2 cuori. I panda hanno difficoltà con la riproduzione e le Pozioni Miracolose hanno un'alta probabilità di fallire..."
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:panda",
             "scale": 0.8,
-            "text": "Essi amano condividere i frutti che trovano. Da dove vengono quei frutti, comunque...?"
+            "text": "patchouli: entità\n\nminecraft: panda\n\nAmano condividere i frutti che trovano. Ma da dove provengono questi frutti...?"
         }
     ]
 }

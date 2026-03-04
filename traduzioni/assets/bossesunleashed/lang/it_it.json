@@ -1,0 +1,21 @@
+{
+    "biome.Unleashed.celestial_field": "Campo celeste",
+    "entity.bossesunleashed.blackhole": "Buco nero",
+    "entity.bossesunleashed.camera_shake": "Movimento della telecamera",
+    "entity.bossesunleashed.celestial_beam": "Raggio celestiale",
+    "entity.bossesunleashed.celestial_jellyfish": "Medusa celestiale",
+    "entity.bossesunleashed.celestial_orb": "Sfera celeste",
+    "entity.bossesunleashed.jellyfish": "Medusa",
+    "entity.bossesunleashed.wormhole": "Ponte di wormhole",
+    "item.bossesunleashed.celestial_core": "Nucleo celeste",
+    "item.bossesunleashed.celestial_jelly": "Gelatina celestiale",
+    "item.bossesunleashed.celestial_jelly.tooltip": "Sembra delizioso...",
+    "item.bossesunleashed.celestial_jellyfish_boots": "Scarpe a forma di meduse celesti",
+    "item.bossesunleashed.celestial_jellyfish_chestplate": "Corazza per petto di medusa celestiale",
+    "item.bossesunleashed.celestial_jellyfish_leggings": "Leggings a forma di medusa celeste",
+    "item.bossesunleashed.celestial_jellyfish_mask": "Maschera per il viso a forma di medusa celeste",
+    "item.bossesunleashed.celestial_jellyfish_spawn_egg": "Uova di medusa celestiale",
+    "item.bossesunleashed.celestial_jellyfish_umbrella": "Ombrello a forma di medusa celeste",
+    "item.bossesunleashed.celestial_jellyfish_umbrella.tooltip": "Utilizzare il tasto destro per aprire\/chiudere l'ombrello.",
+    "itemGroup.unleashed": "Il potere dei capi"
+}

@@ -1,10 +1,10 @@
 {
-    "key.categories.llor": "Overlay di livello di luce ripristinato",
-    "key.llor.hotkey": "Alternare (on\/off)",
-    "llor.message.binding_error": "Ovrapposizione di livello di luce: non è stato possibile legare il testo per %s",
-    "llor.message.opening_error": "Overlay di livello di luce: non è stato possibile aprire %s",
-    "llor.message.parsing_error": "Visualizzazione livello di luce: non è stato possibile elaborare %s",
-    "llor.message.switch_mode": "Overlay di livello di luce: modalità %s",
-    "llor.message.toggle_off": "Visualizzazione livello di luce: disattivato",
-    "llor.message.toggle_on": "Sovrapposizione livello di luce: attivato"
+    "key.categories.llor": "Sovrapposizione del livello di luminosità (aggiornata)",
+    "key.llor.hotkey": "Attiva\/Disattiva",
+    "llor.message.binding_error": "Livello di illuminazione: impossibile associare la texture a \"%s\"",
+    "llor.message.opening_error": "Livello di luminosità: impossibile aprire %s",
+    "llor.message.parsing_error": "Livello di luminosità: impossibile interpretare \"%s\"",
+    "llor.message.switch_mode": "Livello di luminosità: modalità %s",
+    "llor.message.toggle_off": "Sovrapposizione del livello di luminosità: disattivata",
+    "llor.message.toggle_on": "Livello di luminosità: attivo"
 }

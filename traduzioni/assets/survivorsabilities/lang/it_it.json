@@ -1,0 +1,9 @@
+{
+    "attribute.name.survivorsabilities.hunger_tolerance": "Tolleranza alla fame",
+    "attribute.name.survivorsabilities.max_load": "Capacità di carico massima",
+    "attribute.name.survivorsabilities.resilience": "Capacità di auto-riparazione",
+    "effect.survivorsabilities.artemis_vision": "La visione di Artemide",
+    "effect.survivorsabilities.neptune_vision": "La visione di Nettuno",
+    "effect.survivorsabilities.pluto_vision": "La visione di Plutone",
+    "effect.survivorsabilities.workhorse": "Strumento fondamentale, cavallo di battaglia"
+}

@@ -1,15 +1,15 @@
 {
-    "name": "Palma da fuoco 🔥",
+    "name": "Palma 🔥",
     "category": "patchouli:trees",
     "icon": "beachparty:palm_sapling",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)🔥 Estate $(li)Prezzo: :moneta: 128$(li)Dimensioni: 1x1$(br2)$(l)Note$()$(li)Venduti come semi acquistati sul mercato."
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🔥 Estate$(r) $(li) Prezzo: 128$(li) Dimensioni: 1x1$(br2)$(l)Note$()$(li)Piantine acquistate dal mercato."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Palm Tree",
+            "name ": "Patchouli: Multiblocco\n\nPalma",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -128,8 +128,7 @@
                     "C": "beachparty:coconut_hanging",
                     "W": "beachparty:palm_log[axis=y]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

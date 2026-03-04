@@ -1,15 +1,15 @@
 {
-    "name": "Nether Grapes 🌐",
+    "name": "Uva nera 🌼🍂",
     "category": "patchouli:crops",
     "icon": "nethervinery:warped_grape",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li):moneta: 8$(li)🌐 §5Tutto l'anno$(br2)$(l)Note$()$(br)Viticci possono essere trovati nel loro Bioma Nether corrispondente in base al nome. Possono essere coltivati su Nylium o sulla metà superiore dei Ceci di Vite per un aumento.`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): monete: 8$(li) 🌼 Primavera 🍂 🌼 Autunno$(br2)$(l)Note$()$(br) I vigneti possono essere trovati nel bioma corrispondente, a seconda del nome. Tutti i vigneti devono essere coltivati su steli e strutture per viti."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Grapevine Stem",
+            "name ": "Patchouli: Multiblocco\n\nStelo di uva",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -24,12 +24,11 @@
                     "0": "vinery:grapevine_stem[age=4,grape=warped]",
                     "F": "vinery:grapevine_stem"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Grape Bush",
+            "name ": "Patchouli: Multibloc\n\nVigneto di uva",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -44,8 +43,7 @@
                     "0": "nethervinery:warped_grape_bush[age=3]",
                     "F": "minecraft:warped_nylium"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

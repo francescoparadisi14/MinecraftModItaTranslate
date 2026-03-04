@@ -1,8 +1,12 @@
 {
-    "key.invincible.category": "Invincible Key",
-    "key.invincible.key1": "KEY1",
-    "key.invincible.key2": "KEY2",
-    "key.invincible.key3": "KEY3",
-    "key.invincible.key4": "KEY4",
-    "tips.invincible.charge": "Long Press KEY2 to charge."
+    "commands.invincible.reload": "[Invincible Lib]: Skills Reloaded!",
+    "key.invincible.category": "Invincible Lib Actions",
+    "key.invincible.key1": "Primary Action",
+    "key.invincible.key1.description": "Usually performs your main attack or primary combat action.",
+    "key.invincible.key2": "Secondary Action",
+    "key.invincible.key2.description": "Commonly used for blocking, aiming, or secondary combat actions.",
+    "key.invincible.key3": "Special Ability 1",
+    "key.invincible.key3.description": "Triggers a special ability or alternate skill when available.",
+    "key.invincible.key4": "Special Ability 2",
+    "key.invincible.key4.description": "Activates an additional special or support ability if assigned."
 }

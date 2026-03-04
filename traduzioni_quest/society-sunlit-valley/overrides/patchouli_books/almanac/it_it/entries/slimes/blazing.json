@@ -1,18 +1,17 @@
 {
-    "name": "Blazing",
+    "name": "Incandescente; ardente; brillante",
     "category": "patchouli:slimes",
     "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:blazing\"}}",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Localizzazioni:$()$(li)Bioma: Caverne di Blackstone (Caverna del Cranio)$(li)Struttura: Fortezza del Nether, Cassoni dei Bastioni, Spawners di Slime del Nether$(li)Punti di scavo: Blocchi del Nether$(br2)$(l)Rischii:$()$(br)Inizia a incendiarsi quando è affamato e aumenta il danno da fuoco quando è arrabbiato."
+            "text": "patchouli:testo\n\n$(l)Posizioni:$()$(li)Bioma: Caverne di Blackstone (Caverna dello Scheletro)$(li)Struttura: Fortezza del Nether, casse del Bastion, generatori di Nether Slime$(li)Luoghi di estrazione: Blocchi del Nether$(br2)$(l)Rischi:$()$(br)Provoca incendi quando ha fame e aumenta i danni da fuoco quando è arrabbiato."
         },
         {
             "type": "patchouli:entity",
-            "name": "Blazing Slime",
+            "name": "patchouli:entità\n\nsplendid_slimes:splendid_slime{Razza:\"splendid_slimes:blazing\"}\n\nSlime \"Blazing\"",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:blazing\"}",
-            "scale": 0.9,
-            "text": "Entità: Splendido Slime di Fuoco"
+            "scale": 0.9
         }
     ]
 }

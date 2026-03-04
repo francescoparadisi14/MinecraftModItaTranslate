@@ -1,0 +1,17 @@
+{
+    "createWorld.customize.lostworlds.atlantis": "Atlantis",
+    "createWorld.customize.lostworlds.atlantis.description": "This is a normal world except that everything is floaded (sea level at 90). Use this in combination with the Lost Cities 'atlantis' profile",
+    "createWorld.customize.lostworlds.caves": "Caves",
+    "createWorld.customize.lostworlds.caves.description": "Play in a world filled with caves. In combination with Lost Cities you can have these caves filled with cities. Use the Lost Cities 'cavern' profile",
+    "createWorld.customize.lostworlds.cavespheres": "Cave Spheres",
+    "createWorld.customize.lostworlds.cavespheres.description": "Play in a world filled with caves and spheres. In combination with Lost Cities you can have these caves filled with cities. Use the Lost Cities 'biosphere_caves' profile",
+    "createWorld.customize.lostworlds.islands": "Islands",
+    "createWorld.customize.lostworlds.islands.description": "Play in a world filled with islands. In combination with Lost Cities you can have these islands populated with cities using the 'floating' profile.",
+    "createWorld.customize.lostworlds.normal": "Normal",
+    "createWorld.customize.lostworlds.normal.description": "This is a normal world except that it allows you to play in a wasteland if you select the 'Wastes' world type. Use this in combination with the Lost Cities 'biosphere' profile",
+    "createWorld.customize.lostworlds.spheres": "Spheres",
+    "createWorld.customize.lostworlds.spheres.description": "Play in a void world filled with spheres. In combination with Lost Cities you can have this void populated with spheres containing cities. Use this in combination with the Lost Cities 'space' profile",
+    "createWorld.customize.lostworlds.title": "Lost Worlds Setup",
+    "generator.lostworlds.lost_worlds": "Lost Worlds",
+    "generator.lostworlds.lost_worlds_wastes": "Lost Worlds (Wastes)"
+}

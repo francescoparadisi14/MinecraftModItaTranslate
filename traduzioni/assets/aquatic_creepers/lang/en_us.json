@@ -1,0 +1,16 @@
+{
+    "block.aquatic_creepers.drowned_fire": "Drowned Fire",
+    "entity.aquatic_creepers.aquatic_creeper": "Aquatic Creeper",
+    "entity.aquatic_creepers.small_wetball": "Small Wetball",
+    "item.aquatic_creepers.aquatic_creeper_spawn_egg": "Aquatic Creeper Spawn Egg",
+    "item.aquatic_creepers.blue_charge": "Blue Fire Charge",
+    "item.aquatic_creepers.wet_charge": "Wet Charge",
+    "item.aquatic_creepers.wet_gunpowder": "Wet Gunpowder",
+    "itemGroup.aquatic_creepers": "Aquatic Creepers",
+    "text.config.aquatic_creepers.option.aquatic_creeper_max_group_size": "Aquatic Creeper Max Group Size",
+    "text.config.aquatic_creepers.option.aquatic_creeper_min_group_size": "Aquatic Creeper Min Group Size",
+    "text.config.aquatic_creepers.option.aquatic_creeper_weight": "Aquatic Creeper Spawn Weight",
+    "text.config.aquatic_creepers.option.drownedFireBehavesLikeFire": "Drowned Fire behaves like normal fire",
+    "text.config.aquatic_creepers.option.drownedFireChangesColor": "Drowned Fire change color with biome",
+    "text.config.aquatic_creepers.title": "Aquatic Creepers"
+}

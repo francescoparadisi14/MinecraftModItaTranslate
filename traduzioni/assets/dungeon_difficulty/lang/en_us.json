@@ -1,11 +1,11 @@
 {
-    "difficulty.type.adventure": "珞 Adventure",
-    "difficulty.type.apocalypse": "酪 Apocalypse",
-    "difficulty.type.boss": "酪 Boss",
-    "difficulty.type.boss_dungeon": "酪 Boss Dungeon",
-    "difficulty.type.dungeon": "落 Dungeon",
-    "difficulty.type.heroic": "酪 Heroic",
-    "difficulty.type.mythic": "酪 Mythic",
+    "difficulty.type.adventure": "𜻡 Adventure",
+    "difficulty.type.apocalypse": "𜻣 Apocalypse",
+    "difficulty.type.boss": "𜻣 Boss",
+    "difficulty.type.boss_dungeon": "𜻣 Boss Dungeon",
+    "difficulty.type.dungeon": "𜻢 Dungeon",
+    "difficulty.type.heroic": "𜻣 Heroic",
+    "difficulty.type.mythic": "𜻣 Mythic",
     "difficulty.type.normal": "Normal",
-    "item.power.level": "§f烙§r Power Level: %s"
+    "item.power.level": "§f𜻠§r Power Level: %s"
 }

@@ -1,6 +1,6 @@
 {
-    "block.barteringstation.bartering_station": "Stazione di scambio",
-    "container.bartering_station": "Stazione di scambio",
-    "container.barteringstation.bartering_station": "negoziato di scambio",
-    "gui.barteringstation.bartering_station.piglins": "%s x %s"
+    "block.barteringstation.bartering_station": "Punto di scambio",
+    "container.bartering_station": "Punto di scambio",
+    "container.barteringstation.bartering_station": "§6 Stazione di scambio",
+    "gui.barteringstation.bartering_station.piglins": "Trovati % di piglin nelle vicinanze per scambiare"
 }

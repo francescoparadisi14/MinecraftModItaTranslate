@@ -1,9 +1,9 @@
 {
-    "key.inventoryhud.shown": "Mostra\/nascondi HUD",
+    "key.inventoryhud.shown": "Mostra\/Nascondi l'HUD",
     "text.autoconfig.inventory_hud.category.default": "Generale",
-    "text.autoconfig.inventory_hud.option.alpha": "Alpha",
+    "text.autoconfig.inventory_hud.option.alpha": "Alfa",
     "text.autoconfig.inventory_hud.option.show": "Mostrato",
-    "text.autoconfig.inventory_hud.option.x": "Asse x",
-    "text.autoconfig.inventory_hud.option.y": "asse y",
-    "text.autoconfig.inventory_hud.title": "Configurazione del HUD dell'inventario"
+    "text.autoconfig.inventory_hud.option.x": "Asse X",
+    "text.autoconfig.inventory_hud.option.y": "Asse Y",
+    "text.autoconfig.inventory_hud.title": "Configurazione di InventoryHUD"
 }

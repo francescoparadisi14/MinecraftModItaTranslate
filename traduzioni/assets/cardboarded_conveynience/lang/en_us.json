@@ -1,0 +1,12 @@
+{
+    "_comment.cardboarded_conveynience.nermal_delivery": "Nermal as in the Garfield character often mailed away in boxes. Pun on 'normal'. Translators: try making a pun with your localized name!",
+    "advancement.cardboarded_conveynience.like_any_package.description": "Ride a chain conveyor like any other package",
+    "advancement.cardboarded_conveynience.like_any_package.title": "Like Any Package",
+    "advancement.cardboarded_conveynience.nermal_delivery.description": "Get delivered to a Frogport using nametag routing",
+    "advancement.cardboarded_conveynience.nermal_delivery.title": "Just a Nermal Delivery",
+    "advancement.cardboarded_conveynience.vertical_delivery.description": "Drop through a chute",
+    "advancement.cardboarded_conveynience.vertical_delivery.title": "Oh, Chute!",
+    "cardboarded_conveynience.ponder.cardboard_disguise.header": "Package Disguise",
+    "cardboarded_conveynience.ponder.cardboard_disguise.text_1": "Wear full cardboard armor while riding a chain conveyor...",
+    "cardboarded_conveynience.ponder.cardboard_disguise.text_2": "...to disguise yourself as a package!"
+}

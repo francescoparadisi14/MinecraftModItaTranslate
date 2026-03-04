@@ -1,6 +1,6 @@
 {
-    "name": "Controllore del Nether",
-    "description": "Alcuni macchinari richiedono una struttura intorno a sé per funzionare.",
+    "name": "Controllore di rete",
+    "description": "Alcune macchine necessitano di una struttura attorno per funzionare correttamente.",
     "icon": "kubejs:nether_controller_side",
     "sortnum": "3"
 }

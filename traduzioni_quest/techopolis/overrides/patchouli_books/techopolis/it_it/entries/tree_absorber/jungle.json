@@ -1,12 +1,12 @@
 {
-    "name": "Albero della giungla",
+    "name": "Albero nella giungla",
     "icon": "minecraft:jungle_sapling",
     "category": "patchouli:tree_absorber",
     "sortnum": "1",
     "pages": [
         {
             "type": "multiblock",
-            "name": "Struttura di Multiblocco: Albero della Giungla",
+            "name": "Multiblocco\n\nAlbero nella giungla",
             "enable_visualize": true,
             "multiblock": {
                 "pattern": [
@@ -78,7 +78,7 @@
         {
             "type": "text",
             "title": "Jungle Tree",
-            "text": "Questa struttura richiede; $(li)Tronchi di Giungla$(li)Foglie di Giungla$(li)Assorbitore d'Albero$(br2)Una volta completata, l'assorbitore d'albero inizierà a creare bottini del tipo di albero specifico. Richiede energia"
+            "text": "Questa struttura richiede:\n*   Tronchi di giungla\n*   Foglie di giungla\n*   Assorbitore per alberi\n*   Una volta completata, l'assorbitore per alberi inizierà a produrre gocce di quel tipo di albero. Richiede energia."
         }
     ]
 }

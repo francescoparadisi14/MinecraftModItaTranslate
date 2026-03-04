@@ -30,7 +30,6 @@
     "ftbteambases.message.no_archived_bases": "No archived bases exist currently",
     "ftbteambases.message.no_bases": "No team bases exist currently",
     "ftbteambases.message.no_dimensions": "No team dimensions!",
-    "ftbteambases.message.not_nether_team_base": "Team nether entry points are not enabled in this instance",
     "ftbteambases.message.player_in_party": "Archived base owner '%s' is in a party. They must leave first!",
     "ftbteambases.message.purge_not_found": "No pending purge found for %s!",
     "ftbteambases.message.restored": "Team base '%s' has been restored from archive.",

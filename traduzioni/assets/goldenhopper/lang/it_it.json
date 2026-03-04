@@ -1,6 +1,6 @@
 {
-    "block.goldenhopper.golden_hopper": "Hopper di rame",
-    "container.goldenhopper.golden_hopper": "Hopper di rame",
-    "entity.goldenhopper.golden_hopper_minecart": "Carro minatore con cassetto di rame",
-    "item.goldenhopper.golden_hopper_minecart": "Carro minatore con contenitore di rame"
+    "block.goldenhopper.golden_hopper": "Golden Hopper",
+    "container.goldenhopper.golden_hopper": "Golden Hopper",
+    "entity.goldenhopper.golden_hopper_minecart": "Carro minerario con contenitore dorato",
+    "item.goldenhopper.golden_hopper_minecart": "Carro minerario con contenitore dorato"
 }

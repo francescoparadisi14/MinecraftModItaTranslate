@@ -1,0 +1,8 @@
+{
+    "prometheus:campfire_tags": "Prometheus campfires",
+    "prometheus:fire_charge_tags": "Prometheus fire charges",
+    "prometheus:fire_source_tags": "Prometheus fire sources",
+    "prometheus_dynamic_campfire_tags": "Marks campfires with the correct tag",
+    "prometheus_dynamic_fire_charge_tags": "Marks fire charges with the correct tag",
+    "prometheus_dynamic_fire_source_tags": "Marks fire sources with the correct tag"
+}

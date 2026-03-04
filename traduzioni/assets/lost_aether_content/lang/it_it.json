@@ -69,8 +69,8 @@
     "lore.item.lost_aether_content.flaming_gemstone": "Questa pietra è calda da toccare, quando chi la indossa viene attaccato, l'attaccante prende fuoco per 3 secondi.",
     "lore.item.lost_aether_content.gravitite_shield": "Uno scudo fatto interamente di Gravitite. Può essere usato per bloccare gli attacchi. Provoca molto più contraccolpo quando qualcosa lo attacca.",
     "lore.item.lost_aether_content.invincibility_gem": "Una pietra che ha una chance che permette a chi la indossa di schivare un colpo, nascondendoli, possibilmente per aiutarli a scappare nelle situazioni difficili.",
-    "lore.item.lost_aether_content.music_disc_legacy": "Un disco in vinile di colore blu chiaro. Quando inserito in un jukebox, suona \"Legacy\" di Lachney.",
-    "lore.item.lost_aether_content.music_disc_sovereign_of_the_skies": "Un disco in vinile di colore blu pastello. Quando inserito in un jukebox, suona \"Sovrano dei cieli\" di JesterGuy. Ha un profumo simile a quello della pioggia.",
+    "lore.item.lost_aether_content.music_disc_legacy": "Un disco in vinile di colore azzurro. Quando inserito in una macchina per ascoltare musica, riproduce \"Legacy\" di Lachney.",
+    "lore.item.lost_aether_content.music_disc_sovereign_of_the_skies": "Un disco in tonalità di blu pastello. Quando inserito in un distributore automatico, riproduce \"Sovereign of the Skies\" di Jesterguy. Ha un profumo simile a quello della pioggia.",
     "lore.item.lost_aether_content.orange_moa_egg": "Un uovo deposto da un Moa Arancione. L'uovo è sorprendentemente leggero. Quando incubato produce un Moa Arancione con 2 salti a mezz'aria. Questo Moa ha un'abilità speciale che gli permette di velocizzarsi gradualmente quando si muove in una singola direzione. Il mitragliamento non sembra danneggiare la sua velocità direttamente, ma lo fa velocizzare più lentamente. Girare diminuisce la sua velocità. Quando messo a terra, ottiene velocità molto più lentamente di quanto lo farebbe invece nell'aria.",
     "lore.item.lost_aether_content.phoenix_axe": "La testa di quest'ascia fusa è calda, si scioglie attraverso il legno e lo carbonizza a contatto.",
     "lore.item.lost_aether_content.phoenix_cape": "Un mantello caldo. Ha il potere di dare a chi lo indossa una seconda possibilità di vita, se dovesse avvicinarsi a cadere nel vuoto.",
@@ -86,12 +86,12 @@
     "lore.item.lost_aether_content.zanite_shield": "Uno scudo fatto interamente di Zanite usato per bloccare gli attacchi. Non sembra avere nessuna abilità speciale. Nonostante ciò, dura di più di un normale scudo di legno.",
     "lost_aether_content.platinum_treasure_chest_locked": "Questa Cassa del Tesoro deve essere sbloccata con una Chiave di Platino",
     "menu.lost_aether_content.platinum_treasure_chest": "Cassa del Tesoro di Platino",
-    "sounds.musicmanager.lost_aether_content.music.platinum_boss": "jesterguy - sovrano dei cieli",
+    "sounds.musicmanager.lost_aether_content.music.platinum_boss": "Jesterguy – Sovrano dei Cieli",
     "subtitles.entity.lost_aether_content.aerwhale_king.charge": "Il Re Aerwhale carica",
     "subtitles.entity.lost_aether_content.aerwhale_king.death": "Il Re Aerwhale muore",
     "subtitles.entity.lost_aether_content.aerwhale_king.hurt": "Il Re Aerwhale danneggia",
     "subtitles.entity.lost_aether_content.aerwhale_king.idle": "Il Re Aerwhale fischia",
     "subtitles.entity.lost_aether_content.aerwhale_king.shoot": "Il Re Aerwhale becca",
     "subtitles.entity.lost_aether_content.cloud_shot.puff": "Palla di Nuvola espelle",
-    "trim_pattern.lost_aether_content.noble": "Decorazione di armatura nobile"
+    "trim_pattern.lost_aether_content.noble": "Raffinate finiture per armature nobili"
 }

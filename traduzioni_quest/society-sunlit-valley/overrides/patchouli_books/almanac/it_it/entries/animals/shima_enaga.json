@@ -1,0 +1,17 @@
+{
+    "name": "Shima Enaga",
+    "category": "patchouli:animals",
+    "icon": "atmospheric:currant",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "patchouli: testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile per la vendita$(li)Alimentazione: Currant (100% di probabilità), Ciliegia (65% di probabilità), Mirtillo (10% di probabilità)$(li)Oggetti ottenuti: Piuma$(br2)$(l)Note$()$(br)Per raccogliere, è necessario avere almeno 2 cuori. Si trova in ambienti innevati e può essere addomesticato con semi."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "crittersandcompanions:shima_enaga",
+            "scale": 0.7,
+            "text": "patchouli: entità\n\ncrittersandcompanions: shima_enaga\n\nUn uccellino adorabile!!!"
+        }
+    ]
+}

@@ -1,9 +1,9 @@
 {
-    "effect.horde_hoard.thinking": "Pensiero",
-    "gamerule.hordeMultiplying": "Moltiplicazione orda",
-    "gamerule.hordeMultiplying.description": "I mostri della orda faranno emergere altri mostri.",
-    "gamerule.hordeStacking": "Accumulo orda",
-    "gamerule.hordeStacking.description": "Le orde si accalcano l'una sull'altra",
-    "gamerule.ironGolemRegenPower": "Livello di rigenerazione dei golemi di ferro",
-    "gamerule.ironGolemRegenPower.description": "Il livello di effetto di rigenerazione che ricevono i golemi di ferro quando non c'è pericolo."
+    "effect.horde_hoard.thinking": "Pensare",
+    "gamerule.hordeMultiplying": "Aumento della popolazione",
+    "gamerule.hordeMultiplying.description": "I gruppi di nemici continueranno a generare altri nemici.",
+    "gamerule.hordeStacking": "Sovrapposizione di risorse",
+    "gamerule.hordeStacking.description": "Grandi gruppi si accavallano e si sovrappongono.",
+    "gamerule.ironGolemRegenPower": "Livello di rigenerazione del golem di ferro",
+    "gamerule.ironGolemRegenPower.description": "Il livello di rigenerazione che gli Iron Golems ottengono quando non sono in pericolo."
 }

@@ -7,11 +7,13 @@
     "advancements.wine_advancement_3.title": "Aged like fine wine",
     "advancements.wine_advancement_4.descr": "Take a sip of wine of any sort",
     "advancements.wine_advancement_4.title": "Good wine needs no bush",
+    "block.create_winery.red_grape_bush": "Red Grape Bush",
     "block.create_winery.red_grape_bush_stage_0": "Red Grape Bush",
     "block.create_winery.red_grape_bush_stage_1": "Red Grape Bush",
     "block.create_winery.red_grape_bush_stage_2": "Red Grape Bush",
     "block.create_winery.red_grape_bush_stage_3": "Red Grape Bush (§aMature§r)",
     "block.create_winery.red_grape_crate": "Red Grape Crate",
+    "block.create_winery.white_grape_bush": "White Grape Bush",
     "block.create_winery.white_grape_bush_stage_0": "White Grape Bush",
     "block.create_winery.white_grape_bush_stage_1": "White Grape Bush",
     "block.create_winery.white_grape_bush_stage_2": "White Grape Bush",
@@ -123,5 +125,5 @@
     "item.create_winery.zinfandel.description_4": "§eIngredients: §7Red Grape Pomace",
     "item.create_winery.zinfandel.description_5": "§eEffects: §7(80% chance) §6Slowness§7, §aResistance §7(20s)",
     "item.create_winery.zinfandel.description_6": "§eEffect: §7(20% chance) §cNausea §7(10s)",
-    "item_group.create_winery.wines_creative_tab": "Winery"
+    "item_group.create_winery.winery": "Winery"
 }

@@ -3,12 +3,12 @@
     "horse.tooltip.health.unit": "%s cuori",
     "horse.tooltip.jump_height": "Altezza del salto: %s",
     "horse.tooltip.jump_height.unit": "%s blocchi",
-    "horse.tooltip.max": "massimo: %s",
-    "horse.tooltip.min": "Minimo: %s",
+    "horse.tooltip.max": "Max: %s",
+    "horse.tooltip.min": "Min: %s",
     "horse.tooltip.speed": "Velocità: %s",
-    "horse.tooltip.speed.unit": "%s blocchi al secondo",
-    "horse.tooltip.strength": "Riserva: %s",
-    "horse.tooltip.strength.unit": "slots %s",
-    "item.horseexpert.monocle": "Monoculo",
-    "item.horseexpert.monocle.tooltip": "Indossalo e guardalo su un montato per vedere tutte le statistiche!"
+    "horse.tooltip.speed.unit": "%s unità\/secondo",
+    "horse.tooltip.strength": "Archiviazione: %s",
+    "horse.tooltip.strength.unit": "%s slot\/letti",
+    "item.horseexpert.monocle": "Occhiali da sole a forma di monocolo",
+    "item.horseexpert.monocle.tooltip": "Indossalo e guarda una montagna per visualizzare tutti i dati!"
 }

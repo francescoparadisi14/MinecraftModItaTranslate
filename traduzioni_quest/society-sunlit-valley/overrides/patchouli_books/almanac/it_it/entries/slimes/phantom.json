@@ -5,14 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Localizzazioni:$()$(li)Bioma: Deserto dell'Ombra (Caverna del Cranio)$(br2)$(l)Rischii:$()$(br)Vipere e causa effetto Hearthstone (teletrasporta te nel tuo punto di spawn) quando è agitato."
+            "text": "patchouli:testo\n\n$(l)Posizioni:$()$(li)Bioma: Umbra Barrens (Caverna del Cranio)$(br2)$(l)Rischi:$()$(br)Attira insetti e causa l'effetto Hearthstone (ti teletrasporta al tuo punto di riapparizione) quando è disturbato."
         },
         {
             "type": "patchouli:entity",
-            "name": "Phantom Slime",
+            "name": "patchouli:entità\n\nsplendid_slimes:splendid_slime{Razza:\"splendid_slimes:phantom\"}\n\nSlime Fantasma",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:phantom\"}",
-            "scale": 0.9,
-            "text": "Entità Splendida Slime (Razza: Phantom)"
+            "scale": 0.9
         }
     ]
 }

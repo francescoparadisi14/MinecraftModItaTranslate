@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li):moneta: 20$(li)🍂 §4Autunno$(li)Prezzo seme: :moneta: 64$(li)Rendimento: 1-4$(li)Tempo di crescita: 5 giorni$(br2)$(l)Note$()$(br)I semi acquistati solo dal Cultivatore Maestro.`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): monete: 20$(li)🍂 Autunno$(li) Prezzo del seme: monete: 64$(li) Resa: 1-4$(li) Tempo di crescita: 5 giorni$(br2)$(l)Note$()$(br) Semi acquistati solo dal coltivatore principale."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Sweet Potato Crop",
+            "name ": "Patchouli: coltivazione di più varietà\n\nPatata dolce",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -24,8 +24,7 @@
                     "0": "veggiesdelight:sweet_potato_crop[age=5]",
                     "F": "minecraft:farmland[moisture=7]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

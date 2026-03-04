@@ -1,4 +1,5 @@
 {
+    "gui.stellarview.alt_vertex_build_order": "Alternate Vertex Build Order",
     "gui.stellarview.config": "Stellar View Config",
     "gui.stellarview.config.aether": "Aether Config",
     "gui.stellarview.config.end": "End Config",
@@ -14,6 +15,7 @@
     "gui.stellarview.dust_clouds": "Dust Clouds",
     "gui.stellarview.false": "False",
     "gui.stellarview.gravitational_lensing": "Gravitational Lensing",
+    "gui.stellarview.instancing": "Instancing",
     "gui.stellarview.light_pollution": "Light Pollution",
     "gui.stellarview.ly": "ly",
     "gui.stellarview.meteor_shower_chance": "Meteor Shower Chance",

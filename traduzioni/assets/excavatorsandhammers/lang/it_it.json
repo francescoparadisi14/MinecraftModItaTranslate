@@ -1,0 +1,17 @@
+{
+    "item.excavatorsandhammers.diamond_excavator": "Escavatore diamantato",
+    "item.excavatorsandhammers.diamond_hammer": "Martello in diamante",
+    "item.excavatorsandhammers.golden_excavator": "Escavatore dorato",
+    "item.excavatorsandhammers.golden_hammer": "Martello d'oro",
+    "item.excavatorsandhammers.iron_excavator": "Escavatore in ferro",
+    "item.excavatorsandhammers.iron_hammer": "Martello di ferro",
+    "item.excavatorsandhammers.netherite_excavator": "Escavatore di Netherite",
+    "item.excavatorsandhammers.netherite_hammer": "Martello di Netherite",
+    "item.excavatorsandhammers.obsidian_excavator": "Escavatore Obsidian",
+    "item.excavatorsandhammers.obsidian_hammer": "Martello in ossidiana",
+    "item.excavatorsandhammers.stone_excavator": "Escavatore per la cava",
+    "item.excavatorsandhammers.stone_hammer": "Martello in pietra",
+    "item.excavatorsandhammers.wooden_excavator": "Escavatore in legno",
+    "item.excavatorsandhammers.wooden_hammer": "Martello in legno",
+    "itemGroup.excavatorsandhammers.tab": "Escavatori e martelli"
+}

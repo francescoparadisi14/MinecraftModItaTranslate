@@ -1,15 +1,15 @@
 {
-    "name": "Kousa Tree ❆",
+    "name": "Albero di Kousa ❆",
     "category": "patchouli:trees",
     "icon": "atmospheric:kousa_sapling",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Stagione: ❆ Inverno $(li)Dimensione: 1x1"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)❆ Inverno§r$(li)Dimensioni: 1x1"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Kousa Tree",
+            "name ": "Patchouli: Multibloc\nAlbero Kousa",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -118,8 +118,7 @@
                     "L": "atmospheric:kousa_leaves",
                     "W": "atmospheric:kousa_log[axis=y]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

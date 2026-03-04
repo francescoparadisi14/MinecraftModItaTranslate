@@ -1,15 +1,15 @@
 {
-    "name": "Garlic 🌼",
+    "name": "Aglio 🌼",
     "category": "patchouli:crops",
     "icon": "veggiesdelight:garlic",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li):moneta: 27$(li)🌼 §2Primavera§r$(li)Prezzo seme: :moneta: 32$(li)Rendimento: 1-3$(li)Tempo di crescita: 5 giorni$(br2)$(l)Note$()$(br)I semi acquistati solo dal Cultivatore Maestro.`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): monete: 27$(li)🌼 Primavera$(li) Prezzo del seme: monete: 32$(li) Resa: 1-3$(li) Tempo di crescita: 5 giorni$(br2)$(l)Note$()$(br) Semi acquistati solo dal coltivatore principale."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Garlic Crop",
+            "name ": "Patchouli: coltivazione di più tipi di piante\nAglio",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [

@@ -1,16 +1,16 @@
 {
-    "name": "Albero di cannella 🍂❆",
+    "name": "Cinnamon Tree 🍂❆",
     "category": "patchouli:trees",
     "icon": "pamhc2trees:cinnamon_sapling",
     "sortnum": -1,
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Stagioni: 🍂 §4Autumn§r ❆ §bWinter§r $(li)Dimensioni: 1x1$(li)Cresce:(l:tree_crops\/cinnamon)4-6 Cannella(\/l)$(br2)$(l)Note$()$(li)Vendita di semi esotici presso il Mercante Esotico."
+            "text": "patchouli:text\n\n$(l)Statistiche$()$(li)🍂 Autunno§r ❆ §bInverno§r $(li)Dimensione: 1x1$(li)Crescita: 4-6 piante di cannella$(\/l)$(br2)$(l)Note$()$(li)Piantine disponibili presso Exotic Trader."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Apple Tree",
+            "name ": "patchouli:multiblock\n\nTiglio",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {
@@ -76,8 +76,7 @@
                         "     "
                     ]
                 ]
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

@@ -1,8 +1,8 @@
 {
     "text.easy_npc_example.hello.name": "Traduttore",
-    "text.easy_npc_example.hello.no_answer": "Ok, buona giornata!",
+    "text.easy_npc_example.hello.no_answer": "Bene, buona giornata!",
     "text.easy_npc_example.hello.no_button": "No, grazie.",
-    "text.easy_npc_example.hello.text": "Ciao @initiator, mi chiamo @npc, è un piacere conoscerti!\n\nVuoi sapere di più su di me?",
-    "text.easy_npc_example.hello.yes_answer": "Sono un traduttore, posso aiutarti a comprendere il linguaggio del mondo.",
+    "text.easy_npc_example.hello.text": "Ciao @iniziatore, il mio nome è @npc, piacere di conoscerti!\n\nTi andrebbe di saperne di più su di me?",
+    "text.easy_npc_example.hello.yes_answer": "Sono un traduttore e posso aiutarvi a comprendere le lingue del mondo.",
     "text.easy_npc_example.hello.yes_button": "Sì, certo."
 }

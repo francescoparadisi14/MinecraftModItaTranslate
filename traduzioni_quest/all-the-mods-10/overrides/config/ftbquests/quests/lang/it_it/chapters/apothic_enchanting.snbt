@@ -1,0 +1,206 @@
+{
+    "quest.001A348054127235.quest_desc": [
+        "\\&5Budding Amethyst\\&r può essere utile per creare ricette e persino per coltivare \\&5Amethyst\\&r!\n\nCon un \\&5Amethyst Block\\&r, \\&a60 Eterna\\&r, tra il 30% e il 50% di Quanta\\&r, e il 50% di Arcana\\&r, possiamo infonderlo.\n\nPer ottenere tutte queste statistiche, possiamo utilizzare 15 \\&4Glowing Hellshelves\\&r e 4 \\&2Melonshelves\\&r."
+    ],
+    "quest.001A348054127235.title": "Creazione di un cristallo di ametista per principianti",
+    "quest.0518551637F76C50.quest_desc": [
+        "Per l'aggiornamento \"\\&9Echoing\\&r\", avremo bisogno di alcuni oggetti diversi.\n\nIn particolare, \"\\&9Echo Shards\\&r\", che sono piuttosto difficili da ottenere...\n\nLa migliore possibilità per ottenerli è saccheggiare una \"\\&6Ancient City\\&r\", ma è anche possibile crearli utilizzando diversi rituali.\n\n(Oppure, anche in un momento successivo, con \"\\&5Enchanting\\&r!\")\n\nLe \"\\&9Echoing Deepshelves\\&r\" forniranno una quantità molto maggiore di \"\\&5Arcana\\&r\", fino al \"\\&515%\\&r\"! Inoltre, aumenteranno il limite massimo di \"\\&aEterna\\&r\" a \"\\&a75\\&r\"."
+    ],
+    "quest.0518551637F76C50.title": "\\&9Ecoing Deepshelf",
+    "quest.0A3C464EF7CDD5F6.quest_desc": [
+        "\\&4Hellshelves\\&r sono il tuo punto di partenza per \\&cQuanta\\&r, ti forniscono \\&c3% di \\&cQuanta\\&r e \\&a3 Eterna\\&r.\n\nSono migliori delle normali \\&4Hellshelves\\&r, giusto?\n\nAvrai bisogno di 16 unità per il passaggio successivo: 15 \\&4Hellshelves\\&r attorno alla \\&5Enchantment Table\\&r, con 1 nell'inventario.\n\nRealizza i primi 11 e ti fornirò gli ultimi 5 \\&4Hellshelves\\&r!",
+        "{image:atm:textures\/questpics\/apothic\/enchant_hellshelf.png width:100 height:100 align:center}"
+    ],
+    "quest.0A3C464EF7CDD5F6.title": "\\&4Mensole",
+    "quest.0F3A0A4DC18E5E55.quest_desc": [
+        "\\&aEterna\\&r imposta il livello di \\&5Enchantment\\&r, che determina quali \\&5Enchantments\\&r potrai ottenere!\n\nIl valore predefinito è \\&a0\\&r e il massimo è \\&a50\\&r.\n\nQuasi tutti gli \\&7Bookshelves\\&r forniranno \\&aEterna\\&r, ma ognuno ha un limite massimo per impostare il valore."
+    ],
+    "quest.0F3A0A4DC18E5E55.title": "\\&Aeterna",
+    "quest.105442DA79829777.quest_desc": [
+        "Con gli oggetti \"8 \\& 7 Books\" e un \"Anvil\", possiamo creare il \"Tome of Scraping\". In realtà, ne possiamo creare 8, ma capite il concetto!\n\nCombinando un oggetto con il \"Tome\" nell'Anvil, possiamo rimuovere metà degli \"Enchantments\" dall'oggetto.\n\nQuesto farà sì che l'oggetto venga distrutto e reso inutilizzabile. Non lo consiglio, ma piuttosto suggerisco di migliorarlo!"
+    ],
+    "quest.105442DA79829777.quest_subtitle": "Mezza magia, distruzione di oggetti",
+    "quest.105442DA79829777.title": "\\& Tome di riciclo",
+    "quest.148A33CC36B2563A.quest_desc": [
+        "Lo scaffale \"\\&dDraconic Shelf\" è l'ultimo scaffale di cui avremo bisogno per completare il set.\n\nPotrebbe fornire solo \"\\&aEterna\", ma ha la massima quantità di \"\\&aEterna\", ovvero \"\\&a100\".\n\nPer realizzarlo, avremo bisogno di 5 \"\\&Ender Pearls\" e di una \"\\&dDragon Head\". Questo è ciò che lo rende \"\\&dDraconic\"!\n\nPer ottenerli, potete utilizzare \"\\&a\\&lMA\" o trovarli sulle \"\\&dEnd Ships\". Le \"\\&dEnd Ships\" sono strutture in \"\\&d\\&lThe End\", e la \"\\&dDragon Head\" si trova sulla prua (parte anteriore)."
+    ],
+    "quest.148A33CC36B2563A.title": "\\& Scaffale finale draconico",
+    "quest.158F872A3A2C3650.quest_desc": [
+        "Ora che abbiamo raggiunto il livello massimo, possiamo iniziare a ottenere \\&a80\\&r, \\&c25% Quanta\\&r e \\&5100% Arcana\\&r! \\n\\n\\&dDragon's Breath\\&r può essere ottenuto combattendo il \\&d\\&lEnder Dragon\\&r. Quando è appollaiata sopra il suo nido, potrebbe spararti una \\&dPink\\&r nebbia. Utilizzando una bottiglia vuota, puoi ottenere \\&dDragon's Breath\\&r! \\n\\nIl modo migliore per ottenere questi materiali è con 4 \\&9Echoing Sculkshelves\\&r, 4 \\&9Soul-Touched Sculkshelves\\&r, e 6 \\&6Geode-Encased Bookshelves of Stability\\&r."
+    ],
+    "quest.158F872A3A2C3650.title": "\\&dInfuso con \"Respiro del Drago\"",
+    "quest.1873205CF5247E3E.quest_desc": [
+        "L'ultimo e più potente di tutti gli \"Bookshelves\", ovvero gli \"End Shelves\"!\n\nQuesti sono creati con 6 \"Endstone Bricks\", 1 \"Ender Pearl\", 1 \"Bookshelf\" e, ovviamente, il \"Infused Dragon's Breath\".\n\nLe loro statistiche non sono attualmente le migliori, fornendo solo 5 punti per ciascuna. Ma il loro massimo valore, pari a 90, è incredibile!\n\nAh, e inoltre, possono essere potenziati utilizzando altri oggetti!",
+        "{image:atm:textures\/questpics\/apothic\/enchant_endshelf.png width:100 height:100 align:center}"
+    ],
+    "quest.1873205CF5247E3E.title": "\\&dEndshelves",
+    "quest.191A7F3C9FBA4C13.quest_desc": [
+        "Possiamo creare \"Seashelves\" con \"Prismarine Crystals\" per ottenere \"Crystalline Seashelves\".\n\nI \"Crystalline Seashelves\" manterranno le stesse statistiche: 5 Eterna e 55% Arcana, e ora avranno anche 3% Quanta.\n\nCon 12 unità, potremo ottenere abbastanza \"Deepshelves\" per infondere 9 \"Dormant Deepshelves\"!"
+    ],
+    "quest.191A7F3C9FBA4C13.title": "\\&bScogliera cristallina",
+    "quest.1FAFDB20F504688E.quest_desc": [
+        "\\&5Enchanting\\&r subisce alcune modifiche grazie a \\&5\\&lApotheosis\\&r.\n\nPer riassumere, 15 \\&7Bookshelves\\&r non saranno sufficienti.\n\nOra ci sono nuovi \\&5Enchantment Tables\\&r e azioni che è possibile eseguire, e speriamo che questi compiti vi aiutino a capire."
+    ],
+    "quest.1FAFDB20F504688E.title": "\\&5\\&\"Enchanting\" (in riferimento a un prodotto o marchio)",
+    "quest.224716A537F2FFA0.quest_desc": [
+        "Gli \"Armour Tomes\" vengono utilizzati per ottenere gli \"Enchantments\", che possono essere applicati solo all'armatura. Tutti gli \"Armour Tomes\" possono ottenere gli enchantments di \"Protezione\", \"Protezione contro le esplosioni\" e \"Protezione contro il fuoco\".\n\nInoltre, ogni \"Armour Tome\" fornisce anche enchantments specifici per determinate parti dell'armatura. Ad esempio, i stivali forniranno \"Depth Strider\" e i caschi forniranno \"Aqua Affinity\".\n\nSe desiderate la migliore possibilità di ottenere \"Protezione\", provate il \"Chestplate Tome\"!"
+    ],
+    "quest.224716A537F2FFA0.title": "\\&8Tomi di armatura",
+    "quest.235E3C386E8D36A3.quest_desc": [
+        "È qui che terminano la separazione tra le \\&8Hellshelves\\&r e le \\&bSeashelves\\&r!\n\nInnanzitutto, avremo bisogno di creare 6 \\&8Cracked Deepslate Tiles\\&r e 3 \\&7Books\\&r per ottenere una \\&9Dormant Deepshelf\\&r.\n\nSuccessivamente, avremo bisogno di 60 \\&9Eterna\\&r, 40 \\&9Quanta\\&r e 40 \\&9Arcana\\&r. Possiamo ottenerli con 12 \\&bCrystalline Seashelves\\&r o 12 \\&4Glowing Hellshelves\\&r!\n\nInfine, possiamo \\&d\\&lInfuse\\&r le nostre \\&9Dormant Deepshelves\\&r in \\&9Deepshelves\\&r!",
+        "{image:atm:textures\/questpics\/apothic\/enchant_deepshelf.png width:100 height:100 align:center}"
+    ],
+    "quest.235E3C386E8D36A3.title": "\\&9Scaffale profondo",
+    "quest.24391162F4FF0587.quest_desc": [
+        "Con le 15 \"Seashelf\" disponibili, possiamo \"infondere\" le nostre ultime \"Seashelf\"!\n\nLe \"Seashelf\" \"infuse\" offrono più \"Eterna\" a 5, con un massimo di 60. Inoltre, offrono più \"Arcana\" al 55%.\n\nQueste possono essere trasformate in diversi \"Bookshelves\", quelli che stiamo cercando. Per ottenere il massimo \"Enchanting\", è necessario utilizzare le \"Crystalline Seashelf\".\n\nAvremo bisogno di 12 di queste, quindi avremo bisogno di 12 \"Infused Seashelf\". Crea 8 e ti darò le restanti!"
+    ],
+    "quest.24391162F4FF0587.title": "\\&Basi di alghe",
+    "quest.24C757B8AA6841F6.quest_desc": [
+        "\\&5\\&lApotheosis\\&r sa quanto possa essere fastidioso ottenere un \\&3Trident\\&r, quindi hanno reso il processo più semplice… beh, almeno un po' più semplice!\n\nOra è possibile creare un \\&3Inert Trident\\&r e \\&d\\&lInfusarlo\\&r per ottenere un normale \\&3Trident\\&r.\n\nL' \\&3Trident\\&r richiede tra \\&a40 Eterna\\&r, \\&c20%-50% Quanta\\&r, e almeno \\&535% Arcana\\&r.\n\nQuesto può essere ottenuto con 1 \\&7Bookshelf\\&r, 4 \\&9Echoing Sculkshelf\\&r, e 1 \\&2Melonshelf\\&r."
+    ],
+    "quest.24C757B8AA6841F6.title": "Creare un vero e proprio Trident",
+    "quest.24FCFF18296ED907.quest_desc": [
+        "Per migliorare ulteriormente le librerie, ci aspettavamo di aver bisogno di più \"Infusione\", ma invece, abbiamo scoperto che ne abbiamo più che sufficiente!\n\nInnanzitutto, avremo bisogno di 5 \"Blocchi di Sculk\" e di un \"Catalizzatore di Sculk\". Entrambi possono essere trovati all'interno della \"Zona Oscura Profonda\" e richiederanno l'abilità \"Tocco di Seta\" per essere raccolti.\n\nInfine, avremo bisogno del \"Ramo del Guardiano\"... questo è un oggetto che si ottiene uccidendo il \"Guardiano\".\n\nUna volta ottenuti tutti questi materiali, potrete creare una delle migliori librerie! Una che vi fornirà 10 \"Eterna\", 15% di \"Quanta\" e 10% di \"Arcana\".\n\nE, soprattutto, vi fornirà un massimo di 80 \"Eterna\"! Quasi al 100%!"
+    ],
+    "quest.24FCFF18296ED907.title": "\\&9 Scultura \"Soul-Touched Sculkshelf\"",
+    "quest.2EC2FA680076C07D.quest_desc": [
+        "Per migliorare ulteriormente le librerie, ci aspettavamo di aver bisogno di più \"Infusione\", ma invece, abbiamo scoperto che ne abbiamo più che sufficiente!\n\nInnanzitutto, avremo bisogno di 5 \"Blocchi di Sculk\" e di un \"Catalizzatore di Sculk\". Entrambi possono essere trovati all'interno della \"Zona Oscura Profonda\" e richiederanno l'abilità \"Tocco di Seta\" per essere raccolti.\n\nInfine, avremo bisogno del \"Ramo del Guardiano\"... questo è un oggetto che si ottiene uccidendo il \"Guardiano\".\n\nUna volta ottenuti tutti questi materiali, potrete creare una delle migliori librerie! Una che vi fornirà 10 \"Eterna\", 10% di \"Quanta\" e 15% di \"Arcana\".\n\nE, soprattutto, vi fornirà un massimo di 80 \"Eterna\"! Quasi al 100%!"
+    ],
+    "quest.2EC2FA680076C07D.title": "\\&9Eco-scaffale",
+    "quest.31E7F7464D79F881.quest_desc": [
+        "Non si tratta solo di \\&7Bookshelves\\&r, ma di qualsiasi oggetto!"
+    ],
+    "quest.31E7F7464D79F881.title": "Altri articoli relativi a d\\&lInfusion\\&r",
+    "quest.377D6CF86BC1C64F.quest_desc": [
+        "Il \"Tome di Scrapping\" rimuoverà solo metà degli \"Enchantment\", mentre il \"Tome di Scrapping Superiore\" ne rimuoverà tutti!\n\nEntrambi i \"Tome\" distruggeranno l'oggetto durante l'uso.\n\nPer trasformare il \"Tome di Scrapping\" in un \"Tome di Scrapping Superiore\", possiamo utilizzare 3 \"Scull Shelves\" e 15 \"Shelves\", oppure 4 blocchi di Draconium."
+    ],
+    "quest.377D6CF86BC1C64F.quest_subtitle": "Tutti gli incantesimi, interrompi oggetto",
+    "quest.377D6CF86BC1C64F.title": "\\& Tome di tecniche di recupero avanzate",
+    "quest.3D31B94CC42BCE43.quest_desc": [
+        "L'\"\\&8Tome of Extraction\\&r\" è proprio l'\"\\&8Tome\\&r\" che stiamo cercando! Rimuoverà tutti gli \"\\&5Enchantments\\&r\" e lascerà l'oggetto intatto!\n\nPer realizzarlo, avremo bisogno di \"infondere\" il nostro \"\\&8Tome of Superior Scrapping\\&r\".\n\nPossiamo semplicemente utilizzare la nostra configurazione precedente per questo."
+    ],
+    "quest.3D31B94CC42BCE43.quest_subtitle": "Tutti gli incantesimi, non hanno effetti negativi.",
+    "quest.42746659C66CF17F.quest_desc": [
+        "La \"Biblioteca di Alessandria\" è una biblioteca più avanzata.\n\nÈ in grado di contenere libri incantati di livelli superiori, ma sarà comunque necessario specificare il livello del libro per poterlo estrarre.\n\nÈ anche in grado di contenere più punti. La \"Biblioteca di Alessandria\" può contenere 32768 punti, mentre la \"Biblioteca di Alessandria\" può contenere 1.1 miliardi di punti per ogni libro!\n\nPer ottenerla, dovremo \"infondere\" la \"Biblioteca di Alessandria\".\n\nUtilizzare 4 scaffali \"Scultore dell'anima\", 4 scaffali \"Echi\", 1 scaffale \"Dracónico\", 5 scaffali \"Libri di stabilità incantati\" e un cranio di scheletro."
+    ],
+    "quest.42746659C66CF17F.quest_subtitle": "Immaginate solo cosa sarebbe successo se Roma non fosse mai stata distrutta dalle fiamme.",
+    "quest.42746659C66CF17F.title": "\\&6\\&Biblioteca di Alessandria",
+    "quest.43167C59036E79A7.quest_desc": [
+        "L'oggetto \"\\&8Tome of Miners\\&r\" ti aiuterà in tutte le tue attività di estrazione. Ti fornirà gli effetti \"\\&5Efficiency\\&f\", \"\\&5Fortune\\&f\" e \"\\&5Silk Touch\\&r\".\n\nQuesti effetti funzionano con picconi, asce, pale e persino zappe!\n\nL'oggetto \"\\&8Tome of the Fishers\\&r\" fornirà solo gli incantesimi per la canna da pesca, e sì, ce ne sono molti."
+    ],
+    "quest.43167C59036E79A7.title": "\\&8Strumenti per la lettura",
+    "quest.45161821C221EF0B.quest_desc": [
+        "Una volta che avremo posizionato i 15 Hellshelves e le 4 Hellshelves attorno al tavolo di incantamento, avremo 45 Eterna e 30% Quanta nel nostro tavolo.\n\nQuesta è la quantità perfetta per incantare i nostri Hellshelves!\n\nGli Hellshelves incantati forniscono 45 Eterna, con un massimo di 60 Eterna, insieme al 30% Quanta.\n\nQuesti possono essere creati combinando altri oggetti per ottenere diversi scaffali, e per quelli che desideriamo, avremo bisogno di 12 Hellshelves incantati!\n\nNaturalmente, essendo io così generoso, avrete bisogno di raccogliere solo 8!"
+    ],
+    "quest.45161821C221EF0B.title": "\\&4 Scaffali con elementi decorativi in stile gotico",
+    "quest.4E895C54651A3CB3.quest_desc": [
+        "\\&8Tomes\\&r sono essenzialmente \\&7libri\\&r... semplicemente più utili! \\n\\nOgni \\&8Tome\\&r è realizzato con \\&7libri\\&r, bastoncini, ecc. e \\&cPowder\\&r. \\n\\nGli \\&8Tomes\\&r possono essere \\&5incantati\\&r, come gli oggetti, per ottenere determinati \\&5incantesimi\\&r. \\n\\nEsiste anche il \\&8Tomes of Scrapping\\&r, che può essere utilizzato nei martelli per rimuovere gli \\&5incantesimi\\&r dagli oggetti."
+    ],
+    "quest.4E895C54651A3CB3.title": "\\&8\\&lTomes",
+    "quest.516E66BE01EE5B31.quest_desc": [
+        "\\&8Iscrizioni sulle armi\\&r forniranno \\&5incantamenti\\&r per spade e asce. \\n\\nPrincipalmente quelli che aiutano a uccidere! Come \\&5Affilatura\\&f e \\&5Fuoco\\&f. \\n\\n\\&8Iscrizioni sull'arco\\&r forniranno \\&5incantamenti\\&r per armi a distanza, come l'arco e l'arco lungo. \\n\\n\\&5Perforazione\\&f, \\&5Potenza\\&f e \\&5Riapproprio\\&r!"
+    ],
+    "quest.516E66BE01EE5B31.title": "\\&8Tomes di armi",
+    "quest.51E554305FFEBA1D.quest_desc": [
+        "\\&4Blazing Hellshelves\\&r offrono un buon livello di \\&cQuanta\\&r e \\&aEterna\\&r, ma non sono l'opzione più economica che stiamo cercando, per i nostri \\&d\\&lInfusions\\&r!"
+    ],
+    "quest.51E554305FFEBA1D.title": "\\&4Blazing Hellshelf",
+    "quest.523DC411241B470A.quest_desc": [
+        "Tutti gli incantesimi ottenuti dalla \\&5Tabella degli Incantesimi\\&r sono determinati dai livelli di \\&aEterna\\&r, \\&cQuanta\\&r e \\&5Arcana\\&r.\n\nÈ possibile visualizzare la \\&5Tabella degli Incantesimi\\&r disponibile cliccando sul \"?\" nell'angolo in alto a destra della GUI quando si sta \\&5Incantando\\&r un oggetto.\n\nMaggiore è il valore di \\&cQuanta\\&r, maggiori sono le probabilità di ottenere un \\&5Incantesimo\\&r più debole.\n\nCon la \\&6Scaffale di Stabilità incassato nella \\&6Geode\\&r, si riducono le probabilità di ottenere \\&5Incantesimi\\&r peggiori.",
+        "{@pagebreak}",
+        "Per creare \"Craft it\" avremo bisogno di: 1 scaffale, 7 cristalli di calcite e 1 \"Budding Amethyst\".\n\nL'\"Budding Amethyst\" non può essere ottenuto tramite l'estrazione, nemmeno con l'abilità \"Silk Touch\". In questo caso, sarà necessario utilizzare un rituale o un'infusione."
+    ],
+    "quest.523DC411241B470A.title": "\\&6Rimozione di incantesimi negativi",
+    "quest.586D5DE28EEC8014.quest_desc": [
+        "\\&cQuanta\\&r aiuta a diversificare il pool di \\&5Enchantments\\&r, rendendo più facile ottenere una varietà di \\&5Enchantments\\&r.\n\nTuttavia, \\&cQuanta\\&r può anche essere controproducente: più ne utilizzi, più è probabile che tu ottenga \\&5Enchantments\\&r negativi, come ad esempio \\&5Curse of Binding\\&r!\n\nPrima utilizzavamo \\&eRectification\\&r, ma ora preferiamo utilizzare \\&6Geode-Encased Bookshelves of Stability\\&r!\n\nIl valore predefinito di \\&cQuanta\\&r è \\&c15%\\&r, mentre il massimo è \\&c100%\\&r."
+    ],
+    "quest.586D5DE28EEC8014.title": "\\&cQuanta",
+    "quest.5C73247A48E72FB3.quest_desc": [
+        "Se desiderate rimuovere un determinato oggetto \"\\&5Enchant\" dal \"\\&5Enchantment Pool\", potete utilizzare questo \"\\&bBookshelf\" nella vostra configurazione \"\\&5Enchanting\"!\n\nInserite un \"\\&5Enchantment Book\" che desiderate escludere, in uno spazio vuoto di questo \"\\&bSeashelf\".\n\nSuccessivamente, durante il processo di \"\\&5Enchanting\", questo \"\\&5Enchantment\" non apparirà nella sezione \"Items\" o \"Books\"."
+    ],
+    "quest.5C73247A48E72FB3.title": "Rimuovi \"\\&5Enchantments\\&r\" dalla piscina.",
+    "quest.5DE45BC0258D1B0B.quest_desc": [
+        "Lo scaffale \\&dPearlescent\\&r è un prodotto di buona qualità, soprattutto considerando il prezzo.\n\nÈ realizzato combinando uno scaffale \\&dEndshelf\\&r con 4 \\&7End Rods\\&r e 2 \\&3Ender Pearls\\&r.\n\nCi permetterà di ottenere il massimo con l'abilità \\&aEterna 90\\&r, ma questo non è ciò che desideriamo per massimizzare l'abilità \\&5Enchanting\\&r."
+    ],
+    "quest.5DE45BC0258D1B0B.title": "\\&dScaffale posteriore con finitura perlata",
+    "quest.60850E717C747A78.quest_desc": [
+        "Ti è mai capitato di studiare per 3 mesi il \"Codice Galattico\" per finalmente capire il linguaggio dell'\"Albero degli Incantesimi\", solo per scoprire che è incomprensibile?\n\nNo?\n\nAnche a me, ma l'\"Albero degli Incantesimi\" è il vero strumento per decifrarlo!\n\nOgni \"Indizio Incantato\" ti fornirà 1 \"Incantesimo\" prima che tu lo utilizzi effettivamente."
+    ],
+    "quest.60850E717C747A78.title": "\\&3Indizi affascinanti",
+    "quest.61217D80BFF8A858.quest_desc": [
+        "La terza e ultima fase di \"\\&Ender Lead\" è finalmente disponibile! Questa fase è inattaccabile e può persino legare i mostri ai Spawners. Richiederà una configurazione \"\\&d\\&lInfusion\" significativamente più complessa. Avremo bisogno di almeno 75 \"\\&Eterna\", 85% \"\\&Quanta\" e tra il 560% e l'85% di \"\\&Arcana\".\n\nÈ possibile ottenere questo con 4 \"\\&Soul-Touched Sculkshelves\", 4 \"\\&Echoing Sculkshelves\", 2 \"\\&Stoneshelves\" e una \"\\&Bookshelf\" standard. Ah, e avrete anche bisogno di una \"\\&Witch\" nell'Ender Lead utilizzata per questa \"\\&d\\&lInfusion\"."
+    ],
+    "quest.61217D80BFF8A858.quest_subtitle": "Non c'entra nulla con l'occultismo, giuro.",
+    "quest.61217D80BFF8A858.title": "\\&5Occult Ender Lead",
+    "quest.6220EDE42C813C1B.quest_desc": [
+        "La parte peggiore di \\&eCharms\\&r è che si rompono! Perché questi effetti di \\&rPotion of Power\\&r dovrebbero avere una durata?\n\nMa non preoccupatevi, \\&rApotheosis\\&r ha la soluzione: \\&rInfusions\\&r!\n\nAvrete bisogno di 10 \\&rGlowing Hellshelves\\&r, 4 \\&rGeode-Encased Bookshelves of Stability\\&r, 2 \\&rDraconic Endshelves\\&r e un cranio di scheletro!\n\nSì, anche alcuni \\&rBookshelves\\&r e altri oggetti forniscono statistiche!"
+    ],
+    "quest.6220EDE42C813C1B.title": "Indistruttibile \\&eCharms",
+    "quest.62D39F68DE6E44A4.quest_desc": [
+        "\\&5Arcani\\&r rappresentano una quantità molto importante, in quanto aumentano la quantità di \\&5Incantesimi\\&r che si ottengono; e rendono gli \\&5Incantesimi\\&r rari più comuni.\n\nAd esempio, \\&5Smite\\&r è un \\&5Incantesimo\\&r molto comune, mentre \\&5Looting\\&r è molto più raro.\n\nIl valore predefinito per \\&5Arcani\\&r è \\&510%\\&r, mentre il massimo è \\&5100%\\&r."
+    ],
+    "quest.62D39F68DE6E44A4.title": "\\&5Arcani",
+    "quest.6852BEFDD4DE4E4B.quest_desc": [
+        "\\&9Scaffali Intrisi di Spirito\\&r sono un aggiornamento per i \\&9Scaffali\\&r.\n\nSono realizzati con una \\&bTorcia di Spirito\\&r e 3 \\&3Blocchi di Sculk\\&r. Avrete bisogno di \\&5Tocco di Seta\\&r per raccogliere i \\&3Blocchi di Sculk\\&r.\n\nQuindi, possiamo creare la nostra versione \\&9Intrisa di Spirito\\&r. Queste forniranno una quantità molto maggiore di \\&cQuanta\\&r! \\&c(15%)\\&r!\n\nInoltre, aumentano il limite massimo di \\&aEterna\\&r a \\&a75\\&r."
+    ],
+    "quest.6852BEFDD4DE4E4B.title": "\\&9Scaffale profondo e toccato dall'anima",
+    "quest.6884E25641A1020C.quest_desc": [
+        "La libreria \"\\&5Enchantment\" è il modo migliore per archiviare i \"\\&5Enchanted Books\"!\n\nPer costruirla, avrai bisogno di 4 \"\\&3Ender Chests\", 1 \"\\&5Enchanting Table\" e 4 di qualsiasi dei seguenti \"\\&d\\&lInfused Bookshelves\": \"\\&4Infused Hellshelf\", \"\\&bInfused Seashelves\" e \"\\&9Deepshelves\".\n\nPer utilizzarla, puoi semplicemente fare clic con il tasto sinistro su un \"\\&5Enchanted Book\" o spostarlo nello slot \"\\&9Blue\". Questo aggiungerà il \"\\&5Book\" alla \"\\&5Library\".\n\nI \"\\&5Books\" sono ordinati per nome e sono memorizzati in punti. Ogni livello di \"\\&5Enchanted Book\" determina il livello, e questo si riflette nel numero di \"\\&5Books\" necessari per raggiungere quel livello. Il livello 1 richiede 1 punto. Il livello 2 richiede 2 punti. Il livello 3 richiede 4 punti. Il livello 4 richiede 8 punti.\n\nOgni \"\\&5Book\" può essere memorizzato fino a 32768 punti, e può essere estratto facendo clic con il tasto sinistro sul \"\\&5Book\" memorizzato. Ogni clic aggiungerà un altro livello al \"\\&5Book\" nello slot \"\\&6Orange\".\n\nPuoi fare clic su diversi \"\\&5Books\" per aggiungerli al \"\\&5Book\" nello slot \"\\&6Orange\", proprio come combinare \"\\&5Books\" in un Anvil.\n\nIl livello massimo di un \"\\&5Enchanted Book\" è determinato dal livello più alto di un \"\\&5Book\" che hai inserito. Non importa se hai 32000 punti, se hai solo inserito un \"\\&5Sharpness III\", puoi solo estrarre un \"\\&5Sharpness III\"."
+    ],
+    "quest.6884E25641A1020C.title": "\\&5Biblioteca di incantesimi",
+    "quest.695889817162EFC7.quest_desc": [
+        "\\&aEXP\\&r è fondamentale per ottenere \\&5\\&lBottiglie di Potenziamento\\&r! Ogni \\&5\\&lBottiglia di Potenziamento\\&r ne richiede! (Perché dovreste pensare che la fornisco in ogni ricompensa?)\n\nCon \\&d\\&lInfusione\\&r, possiamo trasformare \\&6\\&lBottiglie di Miele\\&r in \\&aBottiglie di Potenziamento\\&r. In realtà, otteniamo 3 diversi tipi di \\&d\\&lInfusione\\&r! Partiamo da 1 \\&aBottiglia di Potenziamento\\&r, fino a 8, fino a 32!\n\nInnanzitutto, serve per 1 \\&aBottiglia\\&r e richiede solo 2 \\&9Scaffali di Eco\\&r.\n\nIn secondo luogo, serve per 8 \\&aBottiglie\\&r e richiede 5 \\&9Scaffali di Eco\\&r e 1 \\&9Scaffale toccato dallo spirito\\&r.\n\nInfine, serve per 32 \\&aBottiglie di Potenziamento\\&r e richiederà 5 \\&9Scaffali di Eco\\&r, 3 \\&9Scaffali toccati dallo spirito\\&r e 1 \\&dScaffale Draconico\\&r!"
+    ],
+    "quest.695889817162EFC7.title": "Creazione e sviluppo?",
+    "quest.6A07D09831428CB9.quest_desc": [
+        "E le \"Hell Shelves\" possono essere piuttosto spaventose, se preferisci esplorare il \"Sea Shelves\"!\n\nI \"Sea Shelves\" sono il tuo modo per iniziare a conoscere gli \"Arcana\", ti forniscono il 53% di \"Arcana\" e 3 \"Eterna\".\n\nMeglio dei normali \"Shelves\", giusto?\n\nAvrai bisogno di 16 per l'\"Infusing\"... beh, 15 per l'\"Infusing\", e 1 per essere \"Infused\"!\n\nCome le \"Hell Shelves\", ti darò un bonus, basta raccogliere 11 ora!",
+        "{image:atm:textures\/questpics\/apothic\/enchant_seashelf.png width:100 height:100 align:center}"
+    ],
+    "quest.6A07D09831428CB9.title": "\\&BSeashelves",
+    "quest.6C2C135B9B7B9402.quest_desc": [
+        "\\&d\\&lInfusion\\&r è una versione speciale di \\&5Enchanting\\&r, che ironicamente viene utilizzata per ottenere \\&5Enchantments\\&r più efficaci.\n\nQuando vengono raggiunte le giuste quantità di \\&aEterna\\&r, \\&cQuanta\\&r e \\&5Arcana\\&r, \\&5Enchantments\\&r offrirà \\&d\\&lInfusion\\&r.\n\n(Per conoscere i livelli necessari, è possibile consultare EMI o seguire queste missioni)"
+    ],
+    "quest.6C2C135B9B7B9402.title": "\\&l\\&dInfusione",
+    "quest.6C57D64518FF22C0.quest_desc": [
+        "Gli altri incantesimi, come \"\\&5Unbreaking\", provengono da questo \"\\&8Tome\". \\n\\n\\&5Unbreaking... non so davvero se ce ne sono altri..."
+    ],
+    "quest.6C57D64518FF22C0.title": "\\&8ETC. Volumi",
+    "quest.70D2C5FAC661E01A.quest_desc": [
+        "Il \"\\&bHeart-Forged Seashelf\\&r\" è un ulteriore miglioramento del \"\\&bInfused Seashelf\\&r\".\n\nÈ un po' costoso, ma offre molte \"\\&5Arcana\"!\n\nQuesto sarà molto utile per le successive \"\\&d\\&lInfusions\" che richiedono un gran numero di \"\\&5Arcana\"."
+    ],
+    "quest.70D2C5FAC661E01A.title": "\\& \"Scogliere forgiata dal cuore\"",
+    "quest.784466C3813AA506.quest_desc": [
+        "Avete mai desiderato catturare creature? Noi abbiamo gemme, strumenti per imprigionare creature e dispositivi per la cattura, a vostra disposizione.\n\nPer ora, possiamo ignorare queste opzioni e concentrarci sull'offerta \"\\&5Apotheosis\". L' \"\\&5Flimsy Ender Lead\" è la versione più economica dell' \"\\&5Ender Lead\", ma anche la più debole e fragile. Può essere utilizzata solo per catturare animali e si rompe dopo 8 utilizzi."
+    ],
+    "quest.784466C3813AA506.title": "\\&5Flimsy Ender Lead",
+    "quest.78BFDD3A9B996655.quest_desc": [
+        "Un passo avanti rispetto al \"Flimsy Ender Lead\", ora è in grado di contenere anche mostri ostili e si romperà dopo 64 utilizzi. Per ottenere questo, avremo bisogno di almeno 4 \"Eterna\", 25 \"Quanta\" e 4 \"Arcana\".\n\nQuesto può essere realizzato con 9 \"Crystalline Seashelves\", oppure, se preferite, con 9 \"Glowing Hellshelves\" e 8 candele (Suggerimento: è possibile inserire fino a 4 candele in un unico blocco)."
+    ],
+    "quest.78BFDD3A9B996655.title": "\\&5Ender (Capitano)",
+    "quest.78E66F1DE42C747A.quest_desc": [
+        "\\&9Frammenti di Eco\\&r possono essere piuttosto fastidiosi da ottenere, inoltre ne avremo bisogno in grandi quantità! Quindi, perché non rendere più semplice il loro ottenimento?\n\nCon \\&d\\&lInfusione\\&r, possiamo trasformare 1 \\&9Frammento di Eco\\&r in 4!\n\nAvremo bisogno di 70 \\&9Eterne\\&r, 50 \\&9Quanta\\&r, e 50 \\&9Arcana\\&r.\n\nPer ottenere questi materiali, possiamo utilizzare 12 \\&9Scaffali Luminosi\\&r e 2 \\&9Scaffali Profondi\\&r, che non sono \\&9Inattivi\\&r!"
+    ],
+    "quest.78E66F1DE42C747A.title": "Infinite \\& Schegge di Echo \\&r?",
+    "quest.78FEDE6FA4845585.quest_desc": [
+        "Alcuni ingredienti, come \\&aEterna\\&r, \\&cQuanta\\&r, o \\&5Arcana\\&r, richiedono quantità molto precise.\n\nPer ottenere queste quantità, potrebbe essere necessario uno dei seguenti elementi: \\&7Shelves\\&r.\n\nOgni elemento riduce la quantità del corrispondente ingrediente."
+    ],
+    "quest.78FEDE6FA4845585.title": "\\&4Importi negativi\\&r",
+    "quest.79AF63E77AD70A93.quest_desc": [
+        "«I tuoi scaffali sono il punto di partenza, ma non il punto finale. Almeno, non gli scaffali normali.\n\nCon gli scaffali normali, puoi ottenere al massimo 30 unità di «Eterna».\n\nSpiegherò i livelli di «Enchantment» più avanti, ma sappi che ne avrai bisogno.»"
+    ],
+    "quest.79AF63E77AD70A93.title": "\\&2\\&Vaniglia\\&r Max è solo l'inizio",
+    "quest.7C758209D06ED0E3.quest_desc": [
+        "Combinando un \"Hellshelf\" infuso con \"\\&4\" con del \"\\&eGlowstone\", possiamo creare \"Hellshelves\" che brillano!\n\nQuesti hanno le stesse proprietà di \"\\&aEterna\" e \"\\&cQuanta\", ma offrono un aumento del \"\\&53% di Arcana\".\n\nQuesto sarà utile in future infusion, ad esempio, se volessimo utilizzare 12 di questi per infondere un \"Deepshelf\" dormiente in un \"Deepshelf\"!"
+    ],
+    "quest.7C758209D06ED0E3.title": "\\&Scaffale luminoso",
+    "quest.7C9D9D1C054874A7.quest_desc": [
+        "Se desiderate avere l'armoire perfetta, con tutte le statistiche al massimo e tutti gli incantesimi migliori disponibili, allora avrete bisogno di queste!\n\nInnanzitutto, avrete bisogno delle \"armoire Soul-Touched\" e delle \"armoire Echoing\". Queste vi forniranno tutti i \"Quanta\" e gli \"Arcana\" di cui avete bisogno!\n\nSuccessivamente, avrete bisogno dell'\"armadio Draconic Endshelf\", che vi fornirà 100 \"Eterna\", ovvero la quantità massima e il livello massimo.\n\nInoltre, avrete bisogno dell'\"armadio Geode-Encased Bookshelf of Stability\", che impedirà ai \"Quanta\" di fornirvi incantesimi terribili!\n\nInfine, è un'aggiunta opzionale, ma consigliata: l'\"armadio Deepshelf of Arcane Treasures\". Questa armadio vi permetterà di ottenere incantesimi che normalmente non potreste ottenere, come l'\"Mending\"!"
+    ],
+    "quest.7C9D9D1C054874A7.title": "\\&6\\&L Il miglior allestimento incantevole",
+    "task.3D62C020980A2DEC.title": "Scaffali per libri",
+    "task.432FCFECDAA542F1.title": "Scaffali per libri",
+    "task.4644C76CEC129AA4.title": "Amuleti permanenti",
+    "task.52C6DC68BF096122.title": "Libri di armi",
+    "task.598F1FCB5B5ED8FC.title": "Libri di strumenti",
+    "task.5AB4C41B6800D7FA.title": "Tomes di armatura"
+}

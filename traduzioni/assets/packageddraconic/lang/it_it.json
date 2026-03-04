@@ -1,0 +1,16 @@
+{
+    "block.packageddraconic.fusion_crafter": "Creatore di pacchetti di fusione",
+    "block.packageddraconic.fusion_crafter.injectors.0": "Draconio %s",
+    "block.packageddraconic.fusion_crafter.injectors.1": "Wyvern %s",
+    "block.packageddraconic.fusion_crafter.injectors.2": "Draconic %s",
+    "block.packageddraconic.fusion_crafter.injectors.3": "Caos %s",
+    "block.packageddraconic.fusion_crafter.injectors.required": "Numero minimo di iniettori per la fusione marcata richiesto:",
+    "block.packageddraconic.fusion_crafter.injectors.usable": "Attualmente, i seguenti sistemi di infusione per la creazione di oggetti di fusione sono disponibili:",
+    "block.packageddraconic.marked_chaotic_injector": "Iniettore di fusione caotico (o creatore di oggetti caotici)",
+    "block.packageddraconic.marked_draconic_injector": "Iniettore per la creazione di oggetti di fusione draconica (marca: Draconic Fusion Crafting)",
+    "block.packageddraconic.marked_draconium_injector": "Iniettore per la creazione di materiali Draconium (prodotto specifico)",
+    "block.packageddraconic.marked_wyvern_injector": "Iniettore per la creazione di oggetti Wyvern (marca)",
+    "itemGroup.packageddraconic": "Prodotto in confezione originale",
+    "recipe.packageddraconic.fusion": "Creazione combinata",
+    "recipe.packageddraconic.fusion.short": "Fusione"
+}

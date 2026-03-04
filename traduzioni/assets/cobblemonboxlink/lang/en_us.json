@@ -1,4 +1,5 @@
 {
+    "accessories.slot.box_link": "Box Link",
     "cobblemonboxlink.key_open_pc.no_box_link": "No Box Link",
     "cobblemonboxlink.message.box_link_not_required": "A Box Link is not required to Open PC Storage in this World.\nPress '%s' to open the PC.",
     "curios.identifier.box_link": "Box Link",

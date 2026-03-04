@@ -1,0 +1,23 @@
+{
+    "text.hltweaker.level": "Level",
+    "text.hltweaker.level.ancient_elements_tier_eight": "Spectrillium",
+    "text.hltweaker.level.ancient_elements_tier_five": "Meteorite",
+    "text.hltweaker.level.ancient_elements_tier_nine": "Endrium",
+    "text.hltweaker.level.ancient_elements_tier_seven": "Infernal",
+    "text.hltweaker.level.ancient_elements_tier_six": "Aetherium",
+    "text.hltweaker.level.ancient_elements_tier_ten": "Celestium",
+    "text.hltweaker.level.ancient_elements_tier_twelve": "Aeonite",
+    "text.hltweaker.level.minecraft.diamond": "Diamond",
+    "text.hltweaker.level.minecraft.gold": "Gold",
+    "text.hltweaker.level.minecraft.iron": "Iron",
+    "text.hltweaker.level.minecraft.netherite": "Netherite",
+    "text.hltweaker.level.minecraft.stone": "Stone",
+    "text.hltweaker.level.minecraft.wood": "Wood",
+    "text.hltweaker.tool.minecraft.axe": "Axe",
+    "text.hltweaker.tool.minecraft.hoe": "Hoe",
+    "text.hltweaker.tool.minecraft.pickaxe": "Pickaxe",
+    "text.hltweaker.tool.minecraft.shovel": "Shovel",
+    "text.hltweaker.unknown_level": "Unknown",
+    "tooltip.hltweaker.block_harvest_level": "Block Harvest Level: %s",
+    "tooltip.hltweaker.tool_type_level": "%s: %s"
+}

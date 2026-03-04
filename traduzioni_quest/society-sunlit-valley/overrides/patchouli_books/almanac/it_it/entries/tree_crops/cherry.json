@@ -1,15 +1,15 @@
 {
-    "name": "Cherry 🌼",
+    "name": "Ciliegia 🌼",
     "category": "patchouli:tree_crops",
     "icon": "vinery:cherry",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li):moneta: 12$(li)🌼 §2Primavera§r $(li)Rendita: 4$(li)Stadi di crescita: 8$(br2)$(l)Note$()$(li)Vedi: $(l:trees\/pams\/cherry)Albero di ciliegio$(\/l)$(li)Vedi: $(l:trees\/letsdo\/darkcherry)Albero di ciliegi oscuri$(\/l)`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): moneta: 12$(li) 🌼 Primavera§r $(li) Resa: 4$(li) Fasi di crescita: 8$(br2)$(l)Note$()$(li) Vedi: Albero di ciliegia (trees\/pams\/cherry)$(li) Vedi: Albero di ciliegia scura (trees\/letsdo\/darkcherry)"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Apple Tree",
+            "name ": "patchouli:multiblock\n\nTiglio",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {
@@ -24,8 +24,7 @@
                         "F"
                     ]
                 ]
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

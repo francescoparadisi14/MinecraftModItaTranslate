@@ -1,0 +1,255 @@
+{
+    "quest.008D186B4E0ED14F.quest_desc": [
+        "Il forno a vapore è un altro dispositivo che utilizza il vapore per uno scopo utile.\n\nInserendo vapore nel forno a vapore, questo agirebbe come un forno per qualsiasi oggetto al suo interno, permettendo di creare lingotti da minerali e di cuocere alimenti.\n\nSi tratta di una macchina composta da 2x2x2 blocchi di forno a vapore.",
+        "{image:atm:textures\/questpics\/railcraft\/rail_oven.png width:100 height:100 align:center}"
+    ],
+    "quest.008D186B4E0ED14F.title": "Forno a vapore",
+    "quest.020E6AF37A0421C8.quest_desc": [
+        "Il serbatoio d'acqua è come avere un bidone all'aperto, ma molto più grande. Serve per raccogliere l'acqua e può contenere acqua per le locomotive a vapore.\n\nLa quantità di acqua contenuta dipende dall'ambiente circostante e può essere vista nel cielo.\n\nÈ realizzato con blocchi di serbatoio d'acqua di dimensioni 3x3x3, con una cavità al centro.",
+        "{image:atm:textures\/questpics\/railcraft\/rail_tank.png width:100 height:100 align:center}"
+    ],
+    "quest.020E6AF37A0421C8.title": "Serbatoio per acqua",
+    "quest.032B654201E71618.quest_desc": [
+        "Questi kit (e altri) sono progettati per essere utilizzati con i tuoi \"Carrelli\" (Entità, alias Mob).\n\nIl kit \"Embarking\" preleva i Mob presenti nelle vicinanze e li mette all'interno di un \"Carrello\".\nIl kit \"Disembarking\" svuota i Mob dai \"Carrelli\".\nIl kit \"Dumping\" lascia cadere i Mob all'interno dei \"Carrelli\" sotto i \"tracciati\" su cui si trovano."
+    ],
+    "quest.032B654201E71618.title": "\\&cSet di strumenti per il tracciamento di entità in movimento",
+    "quest.035C52EF63AD23A7.quest_desc": [
+        "Ecco perché il nome del mod, \"\\&lRailCraft\\&r\", e ciò a cui si concentra, \"\\&5Treni\\&r\", \"\\&6Binari\\&r\", sono così importanti.\n\nLe versioni \"\\&2Originali\" funzionano per molte di queste, ma ovviamente sappiamo che sono scadenti. Le versioni aggiornate richiederanno alcuni materiali specifici per le loro ricette! Realizzatele! (Potrebbero essere necessarie l'uso di macchinari per creare gli oggetti, quindi controllate questa parte della missione!)"
+    ],
+    "quest.035C52EF63AD23A7.title": "\\&6\\&lRails\\&r!",
+    "quest.068294A7C21DE550.quest_desc": [
+        "I kit \\&cTrack\\&r vengono utilizzati per costruire binari speciali utilizzando i \\&6rails\\&r.\n\nQuesti \\&6rails\\&r saranno utili per tutto ciò relativo ai \\&5Train\\&r, come ad esempio: fermare il \\&5Train\\&r, spostare il \\&5Train\\&r e generare segnali di redstone."
+    ],
+    "quest.068294A7C21DE550.title": "E altro ancora!",
+    "quest.08457BEED799E600.quest_desc": [
+        "Questi nuovi strumenti, denominati \"\\&7Carts\", sono principalmente progettati per lavorare con i \"\\&6Tracks\".\n\nLo strumento \"\\&7Track Layer\" crea i \"\\&6Tracks\", mentre lo strumento \"\\&7Track Remover\" li elimina.\n\nLo strumento \"\\&7Track Relayer\" sostituisce i \"\\&6Tracks\" con altri, mentre lo strumento \"\\&7Track UnderCutter\" sostituisce i blocchi sotto i \"\\&6Tracks\"."
+    ],
+    "quest.08457BEED799E600.title": "\\&7Carts\\&r e \\&6Tracks",
+    "quest.0A43FD0B5C76C1C5.quest_desc": [
+        "\\&l\\&7RailCraft\\&r aggiunge un blocco multimodulare, la \"Fornace a Blast\", per trasformare il ferro in acciaio!\n\nPer costruirla, avrai bisogno di 34 mattoni per la fornace. Sarà larga 3 blocchi, lunga 3 blocchi e alta 4 blocchi. I due blocchi al centro dovranno essere vuoti. Riconoscerai che è completa quando tutti i blocchi si assemblano e ti permette di accedere alla sua interfaccia utente.\n\nQui potrai inserire ferro, in qualsiasi forma, per ottenere acciaio e sabbia granulata.",
+        "{image:atm:textures\/questpics\/railcraft\/rail_furnace.png width:100 height:100 align:center}"
+    ],
+    "quest.0A43FD0B5C76C1C5.title": "Fornace (in acciaio)",
+    "quest.104049993CC62E7F.quest_desc": [
+        "Lo strumento avanzato per il caricamento di oggetti è esattamente lo stesso del modello standard, ma può essere utilizzato da qualsiasi punto vicino al \\&6Track\\&r. Può essere posizionato accanto, sopra o sul lato opposto. Utilizzare lo \\&4Crowbar\\&r per modificarne la direzione."
+    ],
+    "quest.104049993CC62E7F.title": "Caricatore avanzato",
+    "quest.1698565EBB68DC85.quest_desc": [
+        "Il \\&6Wye Track\\&r è il secondo percorso creato utilizzando un Spike Maul. Esso collega due \\&6Tracks\\&r in un unico percorso. Se un \\&6Track\\&r è intersecato da un altro, il \\&6Wye\\&r sposterà i \\&7Carts\\&r sul primo \\&6Track\\&r verso l'intersezione.",
+        "{image:atm:textures\/questpics\/railcraft\/rail_wye.png width:100 height:100 align:center}"
+    ],
+    "quest.1698565EBB68DC85.title": "\\&6 Tracce",
+    "quest.170118E3C3C072E5.quest_desc": [
+        "Il \\&6Junction\\&r è l'ultimo \\&6Track\\&r prodotto da Spike Maul. Funziona come un incrocio normale per i \\&6Tracks. I \\&7Carts\\&r continuano a muoversi come prima, ma ora i \\&6Tracks\\&r possono incrociarsi. Cosa succede se due \\&7Carts\\&r si scontrano su di esso? ESPLODONO!!! Sto scherzando, ma i \\&eElectric Locomotives\\&r sì.",
+        "{image:atm:textures\/questpics\/railcraft\/rail_junction.png width:100 height:100 align:center}"
+    ],
+    "quest.170118E3C3C072E5.title": "\\& Tracce di collegamento",
+    "quest.175D943160C10646.quest_desc": [
+        "\\&l\\&7RailCraft\\&r utilizza numerose macchine per diversi scopi, ma principalmente per la creazione di risorse.",
+        "",
+        "Tutti iniziano con le lingote di ferro!"
+    ],
+    "quest.175D943160C10646.title": "\\&l\\&7Macchine",
+    "quest.17F7964611D893BE.quest_desc": [
+        "Il Fluid Loader sarà utile per mantenere in funzione i tuoi locomotive a vapore. Deve essere posizionato a qualche blocco sopra le linee ferroviarie e rilascerà i fluidi sia nella locomotiva che nei carri."
+    ],
+    "quest.17F7964611D893BE.title": "Caricatore fluido",
+    "quest.184F98BE0F6710E2.quest_desc": [
+        "Questi kit, denominati \"\\&7Carts\\&r\" e \"Redstone\", sono progettati per l'uso con carrelli e Redstone.\n\nIl kit \"\\&7Activator\" attiverà qualsiasi \"\\&7Cart\" che vi passi sopra. Il kit \"\\&7Detector\" attiverà un segnale Redstone ogni volta che un \"\\&7Cart\" vi passa sopra.\n\nEntrambi sono simili ai kit \"\\&2Vanilla\" per i percorsi standard."
+    ],
+    "quest.184F98BE0F6710E2.title": "\\&cSet di componenti per l'utilizzo di Redstone",
+    "quest.21693C4DE6531D73.quest_desc": [
+        "Il frantoio è esattamente come suggerisce il nome. È in grado di frantumare i blocchi per ottenere i materiali necessari per la fabbricazione, come mattoni da una scala in mattoni, o polvere da lingotti.\n\nTuttavia, ha bisogno di energia per funzionare!\n\nPer costruirlo, sono necessari 3 blocchi di frantoio per lato.",
+        "{image:atm:textures\/questpics\/railcraft\/rail_crusher.png width:100 height:100 align:center}"
+    ],
+    "quest.21693C4DE6531D73.title": "Frantoio",
+    "quest.249E5C6893387E15.quest_desc": [
+        "Questi e altri componenti sono progettati per fermare le locomotive e i carri.\n\nIl \"Kit di blocco\" ferma i carri e li avvia solo quando riceve un segnale di redstone. Il \"Kit di buffer\" è per la fine dei binari e li ferma, ma non li avvia. Il \"Kit a cancello\" semplicemente installa un cancello collegato al binario."
+    ],
+    "quest.249E5C6893387E15.title": "E altro ancora: kit per l'arresto di carrelli",
+    "quest.283AB56F81EF03A5.quest_desc": [
+        "Per alimentare i tuoi \\&6Electric Rails\\&r e la tua \\&eElectric Locomotive\\&r, avrai bisogno di \\&eFrame\\&r. I \\&eFrame\\&r devono essere alimentati e trasmetteranno l'energia a ciascun \\&eFrame\\&r a cui sono collegati."
+    ],
+    "quest.283AB56F81EF03A5.title": "\\&eFrames",
+    "quest.2869AB982799CF0C.quest_desc": [
+        "Il kit \"One Way Track\" è piuttosto semplice. I carrelli possono muoversi solo nella direzione indicata dalla freccia."
+    ],
+    "quest.2869AB982799CF0C.title": "\\&cKit di tracciamento \\&r Unidirezionale",
+    "quest.2A30595DC6DDBFF7.quest_desc": [
+        "Le \\&6Binari elettrici\\&r sono utilizzati per le \\&eLocomotive elettriche\\&r. Dovranno essere alimentate da \\&eStrutture\\&r, e quindi è necessario prestare attenzione, in quanto il contatto può essere pericoloso.",
+        "{image:atm:textures\/questpics\/railcraft\/rail_electric_rail.png width:150 height:100 align:center}"
+    ],
+    "quest.2A30595DC6DDBFF7.title": "\\&6 Tracce elettriche",
+    "quest.2AB0FA084739827A.quest_desc": [
+        "Per utilizzare effettivamente un \"Tunnel Bore\", è necessario un \"Tunnel Bore Head\".\n\nSono disponibili in 4 diversi stili e il tipo di miniera dipende dal \"Bore Head\".\n\nPuò essere incantato e ha una durata, quindi è consigliabile incantarlo!"
+    ],
+    "quest.2AB0FA084739827A.title": "\\&9 Trincea, Testa di perforazione",
+    "quest.2D00F85379A4D591.quest_desc": [
+        "Il Item Loader è il dispositivo più semplice di RailCraft. Deve essere posizionato sopra il \\&6Track\\&r e può essere configurato per caricare gli oggetti desiderati nei \\&7Carts\\&r sottostanti."
+    ],
+    "quest.2D00F85379A4D591.title": "Caricatore",
+    "quest.31094CC16E710040.quest_desc": [
+        "Lo \\&4Crowbar\\& è lo strumento principale di RailCraft.\n\nQuando viene utilizzato su un \\&5Locomotive\\&r, ne cambia la direzione.\n\nPremendo il tasto \"Shift\", è possibile collegare \\&5Locomotives\\&r e \\&7Carts\\&r.\n\nQuando viene utilizzato solo su \\&7Carts\\&r, le spinge leggermente.\n\nE quando viene utilizzato su binari speciali, ne modifica la funzione.\n\nI diversi \\&4Crowbars\\&r offrono semplicemente un aspetto e un livello di danno differenti."
+    ],
+    "quest.31094CC16E710040.quest_subtitle": "Quindi, stai per derubarmi?",
+    "quest.365D4B1DC953D406.quest_desc": [
+        "Il distributore \"\\&7Cart\\&r\" funzionerà come suggerisce il nome. Sarà in grado di distribuire qualsiasi \"\\&7Cart\\&r\" sui \"Track\\&r\" davanti a esso. Richiede un segnale di Redstone per funzionare."
+    ],
+    "quest.365D4B1DC953D406.title": "\\&7Distributore di cartucce",
+    "quest.38451B61E3FC075B.quest_desc": [
+        "Aspettate, abbiamo di nuovo il \"Ferro\"? Questo significa anche che possiamo recuperare il nostro \"Carbone\"? Sì!\n\nPer ottenere il \"Carbone\", avrete bisogno di un \"Forno per il Carbone\". Per costruirlo, avrete bisogno di 26 mattoni per forno e dovrete disporli a forma di 3x3x3, con un blocco vuoto al centro. Saprete che è completo quando potrete accedere all'interfaccia e tutto avrà una sola texture.\n\nPer ottenere \"Carbone\" e \"Creosoto Liquido\", posizionate \"Carbone\" o \"Blocchi di Carbone\". Potete sempre utilizzare qualsiasi tipo di legno per ottenere \"Carbone\" e \"Creosoto\".",
+        "{image:atm:textures\/questpics\/railcraft\/rail_coke.png width:100 height:100 align:center}"
+    ],
+    "quest.38451B61E3FC075B.title": "Forno per la produzione di coke",
+    "quest.3E75AFE3482834C5.quest_desc": [
+        "\\&lRailCraft\\&r è un mod completo basato su \\&5Trains\\&r!\n\nInclude tutto, dai \\&7carri minatori\\&r alle \\&elocomotive elettriche\\&r e ai \\&9tunnel\\&r! Offre anche tutti gli accessori necessari per \\&5Trains\\&r, come semafori e caldaie per alimentare le locomotive, oltre a sistemi di automazione.\n\nIl mod ideale per gli amanti di \\&5Trains\\&r!"
+    ],
+    "quest.3E75AFE3482834C5.title": "\\&7\\&lRailCraft",
+    "quest.3E8C2E7769DFBF35.quest_desc": [
+        "A differenza del \\&3Locotmotiva a vapore, non sarà necessario inserire nulla nella \\&eLocotmotiva elettrica\\&r.\n\nFunziona grazie all'energia fornita dai \\&6Binari elettrici\\&r sottostanti.\n\nSì, può funzionare solo sui \\&6Binari elettrici\\&r.",
+        "{image:atm:textures\/questpics\/railcraft\/rail_electric.png width:100 height:100 align:center}"
+    ],
+    "quest.3E8C2E7769DFBF35.title": "\\& Locomotiva elettrica",
+    "quest.4071BBBE12CACD2D.quest_desc": [
+        "Il distributore \"\\&5Train\\&r\" è una versione migliorata del distributore \"\\&7Cart\\&r\". È in grado di distribuire l'intero \"\\&5Locomotive\\&r\" e altro ancora! Definisci un modello per ciò che desideri distribuire, quindi invia un segnale di redstone."
+    ],
+    "quest.4071BBBE12CACD2D.title": "Distributore di biglietti",
+    "quest.425E375A9EC127EB.quest_desc": [
+        "\\&6Binari rinforzati\\&r sono la versione migliorata dei normali \\&6binari\\&r! Sono leggermente più veloci e non esplodono.",
+        "{@pagebreak}",
+        "1",
+        "{image:atm:textures\/questpics\/railcraft\/rail_reinforced1.png width:150 height:100 align:center}",
+        "{@pagebreak}",
+        "2",
+        "{image:atm:textures\/questpics\/railcraft\/rail_reinforced2.png width:150 height:100 align:center}",
+        "{@pagebreak}",
+        "3",
+        "{image:atm:textures\/questpics\/railcraft\/rail_reinforced3.png width:150 height:100 align:center}",
+        "{@pagebreak}",
+        "4",
+        "{image:atm:textures\/questpics\/railcraft\/rail_reinforced4.png width:150 height:100 align:center}"
+    ],
+    "quest.425E375A9EC127EB.title": "\\&6 Cingoli rinforzati",
+    "quest.475E307844E3AF7F.quest_desc": [
+        "Gli scaldacqua sono tra le macchine più utili di \\&l\\&7RailCraft\\&r. Necessitano di un serbatoio per il combustibile e di un tipo di scaldacqua sopra. Il serbatoio per il combustibile può essere di dimensioni 1x1, 2x2 o 3x3. Le dimensioni del serbatoio influenzano le dimensioni dello scaldacqua sopra. Per un serbatoio 1x1, può avere solo uno scaldacqua 1x1. Per un serbatoio 2x2, può avere uno scaldacqua 2x2x3. Per un serbatoio 3x3, può avere uno scaldacqua 3x3x4. Il combustibile liquido utilizzerà la cera per riscaldare. Per un serbatoio a combustibile solido, utilizzerà qualsiasi materiale che un forno possa utilizzare.",
+        "{image:atm:textures\/questpics\/railcraft\/rail_big_boiler.png width:100 height:100 align:center}"
+    ],
+    "quest.475E307844E3AF7F.title": "Caldaie",
+    "quest.4A44623D8A307473.quest_desc": [
+        "Le \\&6Tracce elettriche ad alta velocità\\&r sono simili alle \\&6Tracce elettriche\\&r, ma sono più veloci! Richiedono anche ciò che richiedono le normali \\&6Tracce ad alta velocità\\&r e le \\&6Tracce elettriche\\&r, ovvero l'alimentazione tramite \\&eSpeed Boosts\\&r e \\&eFrames\\&r. È importante prestare attenzione quando si manovrano e quando si toccano!",
+        "{image:atm:textures\/questpics\/railcraft\/rail_electric_speed.png width:150 height:100 align:center}"
+    ],
+    "quest.4A44623D8A307473.title": "\\&6 Tracce elettriche ad alta velocità",
+    "quest.50A286C268F38E09.quest_desc": [
+        "Con questa pagina, ho dedicato molto tempo a colorare il testo per cercare di aiutare il giocatore a capire a cosa mi riferisco. Tuttavia, mi sono reso conto che potrebbe essere ancora più confuso, quindi ecco una legenda:\n\n*   \\&5Viola\\&r si riferisce a qualsiasi treno o locomotiva, inclusi treni elettrici e a vapore, nonché carrelli.\n*   \\&6Oro\\&r si riferisce a qualsiasi binario, inclusi binari speciali, ma non a kit di binari.\n*   \\&cRosso chiaro\\&r si riferisce a qualsiasi kit di binari.\n*   \\&4Rosso scuro\\&r si riferisce alle pinze.\n*   \\&3Ciano\\&r si riferisce esclusivamente alla locomotiva a vapore.\n*   \\&eGiallo\\&r si riferisce esclusivamente al treno elettrico.\n*   \\&9Blu\\&r si riferisce alla trivella.\n*   \\&7Grigio\\&r si riferisce a carrelli e carrelli speciali."
+    ],
+    "quest.50A286C268F38E09.title": "Legenda dei colori",
+    "quest.5128B119DFFF0C4C.quest_desc": [
+        "Il \\&3Locotmotiva a vapore\\&r è il modello più semplice. Può essere alimentato fornendogli acqua, combustibile per il forno e aspettando. Necessita di un costante rifornimento di acqua per funzionare correttamente.\n\nNon preoccupatevi, questo significa semplicemente che il vapore che esce dalla parte superiore è vapore acqueo, che è sicuro per l'ambiente. Tuttavia, il carbone non è l'opzione migliore per l'ambiente... ma, cosa ne sappiamo noi!",
+        "{image:atm:textures\/questpics\/railcraft\/rail_steam_locomotive.png width:100 height:100 align:center}"
+    ],
+    "quest.5128B119DFFF0C4C.title": "\\&3Locotmotiva a vapore",
+    "quest.5180CDD196518F64.quest_desc": [
+        "Le \\&6Strap Iron Tracks\\&r, come le \\&6Abandoned Tracks\\&r, sono perfette per chi cerca soluzioni economiche. Sono molto più lente rispetto alle altre \\&6tracks\\&r, ma non c'è il rischio di deragliamento!",
+        "{image:atm:textures\/questpics\/railcraft\/rail_strap.png width:150 height:100 align:center}"
+    ],
+    "quest.5180CDD196518F64.title": "\\&6 Binari in acciaio",
+    "quest.53594EBA9F7BA840.quest_desc": [
+        "L'avanzato dispositivo di scarico è esattamente uguale al modello standard, ma può essere utilizzato in qualsiasi direzione. La differenza è solo quella della direzione."
+    ],
+    "quest.53594EBA9F7BA840.title": "Caricatore avanzato",
+    "quest.541D270451DA4320.quest_desc": [
+        "La \"Switch Track\" sarà necessaria per spostare le corsie tra i diversi binari speciali. Le frecce presenti su questa traccia indicano la direzione corretta per ogni corsia."
+    ],
+    "quest.54F2CB52D3A7BA87.quest_desc": [
+        "L'Unloader è l'opposto dell'Item Loader. Preleva gli oggetti dai \\&7Carrelli\\&r. Inoltre, deve essere posizionato sopra il \\&6Binario\\&r."
+    ],
+    "quest.54F2CB52D3A7BA87.title": "Unità di scarico",
+    "quest.55D7CD0FA8F1AE48.quest_desc": [
+        "La ragione per cui siamo tutti qui: \\&5Trains\\&r. Il mod si chiama \\&l\\&7RailCraft\\&r, quindi non sorprenderete.\n\nEsistono 2 tipi principali di \\&5Trains\\&r e 1 \\&5Train\\&r speciale per l'estrazione.\n\nQuesti \\&5Trains\\&r, da soli, possono diventare un po' ripetitivi, quindi perché non aggiungere \\&7Carts\\&r? Collegare \\&7Carts\\&r tra loro e con \\&5Trains\\&r si chiama \"accoppiamento\", mentre scollegarli si chiama \"disaccoppiamento\". Per accoppiare \\&5Trains\\&r e \\&7Carts\\&r, utilizzare uno \\&4Crowbar\\&r o un \\&6Track\\&r con il kit \\&cTrack Kit\\&r."
+    ],
+    "quest.55D7CD0FA8F1AE48.title": "\\&7\\&lCarrelli\\&r 'N' \\&5\\&lTreni\\&r!",
+    "quest.5820EDEF71340A1A.quest_desc": [
+        "E le \"strade abbandonate\" sono ideali per chi cerca soluzioni economiche e un aspetto più rustico. Possono essere utilizzate per attraversare alcuni isolati senza la necessità di fondamenta. Tuttavia, è importante notare che possono essere utilizzate solo per attraversare isolati adiacenti nella stessa direzione, o uno isolato nella direzione opposta. È fondamentale tenere presente che questo comporta il rischio di deragliamento, ovvero che il veicolo potrebbe uscire dai binari.",
+        "{image:atm:textures\/questpics\/railcraft\/rail_abandoned.png width:150 height:100 align:center}"
+    ],
+    "quest.5820EDEF71340A1A.title": "\\&6 Binari abbandonati",
+    "quest.5E750DB2244A67A1.quest_desc": [
+        "Il \"Turnout track\" è il primo di una serie di \"track\" che possono essere utilizzati con un \"Spike Maul\". Permette di muoversi in due direzioni: in avanti e lateralmente. Può essere sostituito con un interruttore situato accanto al \"track\".",
+        "{image:atm:textures\/questpics\/railcraft\/rail_turnout.png width:100 height:100 align:center}"
+    ],
+    "quest.5E750DB2244A67A1.title": "\\&6 Tracce per binari",
+    "quest.5F458D79D43D8842.quest_desc": [
+        "Questo contenuto è stato creato da \\&6AllTheMods Staff\\&r, oppure da un \\&2contributore della community\\&r, per l'uso nei pacchetti di mod di AllTheMods.\\n\\nPoiché tutti i pacchetti di AllTheMods sono soggetti al copyright \\&eTutti i diritti riservati\\&r, questo contenuto non può essere utilizzato in altri pacchetti pubblici, a meno che non sia stato rilasciato dal team di AllTheMods, previa autorizzazione esplicita.\\n\\nQuesto contenuto è stato intenzionalmente nascosto. Se lo state visualizzando, siete in modalità di modifica."
+    ],
+    "quest.609CA1ACFA981BD5.quest_desc": [
+        "L'\\&cRouting Kit\\&r viene utilizzato insieme ai biglietti."
+    ],
+    "quest.609CA1ACFA981BD5.title": "\\&Kit di tracciamento \\&Instradamento",
+    "quest.61C93ABE07742DCD.quest_desc": [
+        "La turbina a vapore utilizza il vapore per produrre energia elettrica (FE e EU).\n\nSi tratta di una struttura di dimensioni 3x2x2, composta esclusivamente dall'alloggiamento della turbina, e necessiterà di un motore per la turbina e di un sistema di fornitura di vapore.",
+        "{image:atm:textures\/questpics\/railcraft\/rail_turbine.png width:100 height:100 align:center}"
+    ],
+    "quest.61C93ABE07742DCD.title": "Turbina a vapore",
+    "quest.64C105E1E2F97900.quest_desc": [
+        "I \"Spike Mauls\" sono utilizzati per cambiare le modalità dei binari standard. Sono molto utili per cercare di creare incroci."
+    ],
+    "quest.64C105E1E2F97900.title": "\"Cambiare le cose\" \/ \"Modificare le situazioni\"",
+    "quest.677C5D35DADA4A42.quest_desc": [
+        "\\&cIl \"Coupler\" è progettato per collegare o scollegare i \\&7Carrelli\\&r. Il termine \"Coupling\" si riferisce al processo di collegamento dei \\&7Carrelli\\&r.\n\nPuò essere configurato con un \\&4Crowbar\\&r per collegare, scollegare o effettuare un collegamento automatico. Richiede l'uso di Redstone per funzionare."
+    ],
+    "quest.677C5D35DADA4A42.title": "\\&cKit per il collegamento dei vagoni",
+    "quest.6C14D1B60124C2B2.quest_desc": [
+        "La \"Tosa Tunnel\" è perfetta per posizionare automaticamente i \"Binari\" (rail) in particolare sotto montagne o colline.\n\nPer funzionare, avrà bisogno di 3 elementi: la \"Testa di Scavo\", un combustibile come il carbone, e i \"Binari\". Una volta che avrà questi 3 elementi, basta lasciarla lavorare!\n\nRicordate di tenere traccia degli elementi che vengono inseriti.",
+        "{image:atm:textures\/questpics\/railcraft\/rail_tunnel.png width:100 height:100 align:center}"
+    ],
+    "quest.6C14D1B60124C2B2.title": "\\&9 Scavo di galleria",
+    "quest.6C163E005351FF6D.quest_desc": [
+        "Quando il kit \"\\&cWhistle Kit\\&r\" è attivo con il Redstone, farà suonare i clacson dei vagoni \"\\&5Locomotives\\&r\"."
+    ],
+    "quest.6C163E005351FF6D.title": "E altro, Kit per il tracciamento, fischietto",
+    "quest.6DB65926EE6D6C2E.quest_desc": [
+        "Questi kit (e altri) sono progettati per modificare la velocità dei tuoi veicoli.\n\nI kit di transizione cambiano la velocità del veicolo in transito, richiedono alimentazione tramite redstone.\nI kit di accelerazione aumentano la velocità del veicolo se alimentati, e la diminuiscono se non alimentati.\nIl kit di controllo fornisce una piccola spinta al veicolo, e quando alimentato, ne modifica la direzione.\nIl kit di accelerazione permette di impostare la velocità desiderata per il veicolo in transito, e richiede l'alimentazione tramite redstone.\nIl kit di lancio permette di lanciare letteralmente il tuo veicolo!"
+    ],
+    "quest.6DB65926EE6D6C2E.title": "E altro ancora: set di strumenti per il trasporto di carrelli",
+    "quest.6E7C4228CD2B6BB9.quest_desc": [
+        "Questo oggetto, chiamato \"\\&4Crowbar\\&r\", ha diverse modalità, ognuna delle quali modifica l'aspetto del \"\\&5Locomotive\\&r\". La modalità predefinita, descritta quando si passa il mouse sull'oggetto nel proprio inventario, lo presenta in tonalità \"\\&7grigie\\&r\". Altre modalità includono: \"\\&6H\\&r\\&5a\\&r\\&6l\\&r\\&5l\\&r\\&6o\\&r\\&5w\\&r\\&6e\\&r\\&5e\\&r\\&6n\\&r\", che lo rende inquietante, e \"\\&cC\\&r\\&2h\\&r\\&cr\\&r\\&2i\\&r\\&cs\\&r\\&2t\\&r\\&cm\\&r\\&2a\\&r\\&cs\\&r\", che lo rende festoso!"
+    ],
+    "quest.75DD345164EE5CD9.quest_desc": [
+        "\\&6Le \"High Speed Tracks\" sono simili alle \"Reinforced Tracks\", ma ovviamente più veloci. Tuttavia, avranno bisogno di \"Track Kits\" per aumentare la velocità! E attenzione nelle curve.",
+        "{image:atm:textures\/questpics\/railcraft\/rail_speed.png width:150 height:100 align:center}"
+    ],
+    "quest.75DD345164EE5CD9.title": "\\&6 Tracce ad alta velocità",
+    "quest.78D8F40AA9568511.quest_desc": [
+        "La macchina per laminare automatica è una versione molto migliore rispetto alla macchina manuale.\n\nNon è necessario controllare costantemente la macchina per creare gli oggetti, poiché lo farà automaticamente.\n\nL'unico problema è che richiede energia elettrica."
+    ],
+    "quest.7D40B80DBBC4E160.quest_desc": [
+        "La macchina per la laminazione sarà la vostra piccola macchina per la creazione di oggetti per il settore ferroviario!\n\nQuando inserite la ricetta e la macchina è in grado di produrne più di una, inizierà la produzione automaticamente mentre state ancora guardando. Se lasciate la macchina durante la produzione, interromperà il processo e inserirà l'oggetto nel vostro inventario.\n\nÈ necessario costruire manualmente l'ultima ricetta!"
+    ],
+    "quest.7F187E291C3D5BA7.quest_desc": [
+        "Il Fluid Unloader è esattamente l'opposto del Fluid Loader. Invece di essere posizionato sopra la \\&6Traccia\\&r, è posizionato sotto. Invece di fornire acqua alle locomotive a \\&3vapore\\&r, ne preleva. Non capisco perché vorresti farlo, ma puoi!"
+    ],
+    "quest.7F187E291C3D5BA7.title": "Dispositivo di scarico del fluido",
+    "quest.7F4B734CFB0F0306.quest_desc": [
+        "Questi nuovi \"Minecart\" (carrelli minerari) simili al \"Vanilla Minecart\" sono funzionali in modo simile. Il \"Minecart\" con un serbatoio sarà in grado di contenere e spostare qualsiasi liquido contenuto al suo interno. Il \"Minecart\" con una batteria energetica, invece, conterrà e sposterà l'energia!"
+    ],
+    "quest.7F4B734CFB0F0306.title": "Nuovi veicoli",
+    "task.025A45B704969EAE.title": "Tracce di Wye",
+    "task.03AE084C781CBA31.title": "Set di componenti per il monitoraggio",
+    "task.11741300813AF742.title": "Tutti i diritti riservati",
+    "task.15BD622D04888DD8.title": "Carrelli",
+    "task.19E2DE9D89B89D7B.title": "Spike, un attacco violento",
+    "task.1E77B21EA9F2E9A7.title": "Fornelli alimentati",
+    "task.2606DDF2AE263B42.title": "Set di componenti per il monitoraggio",
+    "task.2A2D77813F3127A6.title": "Rails",
+    "task.3490AE43AD653256.title": "Tracce per il monitoraggio",
+    "task.382933BEE2BCBD64.title": "Teste per perforazione di tunnel",
+    "task.395D321BFFDB098A.title": "Binari di intersezione",
+    "task.3E8F4263F7053EDD.title": "Carrelli",
+    "task.653ED58A9B65C796.title": "Pinze",
+    "task.6A4FADC04E1C9DA7.title": "Serbatoi per caldaie a vapore",
+    "task.6C12449632AD53DC.title": "Set di componenti per il monitoraggio",
+    "task.6D074E91F5BFC2A8.title": "Set di componenti per il monitoraggio",
+    "task.7B128D5D8D5530A8.title": "Colorare",
+    "task.7BB13793B38DFC2C.title": "Tutti i diritti riservati"
+}

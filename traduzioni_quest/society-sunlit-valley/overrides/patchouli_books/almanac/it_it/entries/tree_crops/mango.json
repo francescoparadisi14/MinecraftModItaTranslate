@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li):moneta: 64$(li)§6Summer§r$(li)Rendita: 1$(li)Fasi di crescita: 8$(br2)$(l)Note$()$(li)Vedi: $(l:trees\/pams\/mango)Albero di Mango$(\/l)`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): moneta: 64$(li)🔥 Estate$(li)Resa: 1$(li)Fasi di crescita: 8$(br2)$(l)Note$()$(li)Vedi: $(l:alberi\/pams\/mango)Albero di mango$(\/l)"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Mango Tree",
+            "name ": "Patchouli: Multiblocco\n\nMango Tree",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {
@@ -24,8 +24,7 @@
                         "F"
                     ]
                 ]
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

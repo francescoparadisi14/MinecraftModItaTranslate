@@ -1,9 +1,9 @@
 {
-    "\"The Wither\"": "Il Mietitore",
+    "\"The Wither\"": "La putrefazione",
     "\"The end at hand\"": "La fine è vicina",
-    "84tangelo -": "Non è un valore traducibile, sembra essere il nome di un plugin o un mod.",
-    "Now playing:": "Ora in riproduzione:",
-    "solunary -": "Non è un valore traducibile, sembra essere un nome o una stringa di testo.",
-    "subtitles.enderdragonbosstheme": "Il tema del boss dell'ender dragon suona",
-    "subtitles.witherboss": "Il tema del boss del Wither suona"
+    "84tangelo -": "84tangelo -",
+    "Now playing:": "In riproduzione:",
+    "solunary -": "solare",
+    "subtitles.enderdragonbosstheme": "Si avvia la colonna sonora principale del boss, Ender Dragon.",
+    "subtitles.witherboss": "La colonna sonora a tema del boss inizia a suonare."
 }

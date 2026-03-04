@@ -4,6 +4,6 @@
     "completionistsindex.gui.index.sorting.alphabetically": "Alphabetically",
     "completionistsindex.gui.index.sorting.collected": "Collected",
     "completionistsindex.gui.index.sorting.creative": "Creative",
-    "key.categories.completionistsindex": "Completionist's Index",
+    "key.category.completionistsindex.main": "Completionist's Index",
     "key.completionistsindex.open_index": "Open Index"
 }

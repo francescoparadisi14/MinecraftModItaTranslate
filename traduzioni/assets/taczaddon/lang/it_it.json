@@ -1,6 +1,8 @@
 {
-    "gui.taczaddon.gun_smith_table.default_prop": "Filtro di proprietà",
-    "gui.taczaddon.gun_smith_table.page_index": "%s (pagina-%s\/%s)",
-    "key.categories.taczaddon": "Aggiunta di Tacz",
-    "key.taczaddon.switch_gun.desc": "Scegli velocemente arma"
+    "gui.taczaddon.gun_smith_table.default_prop": "Filtro",
+    "gui.taczaddon.gun_smith_table.page_index": "%s (Pagina-%s\/%s)",
+    "key.categories.taczaddon": "Estensione TaCZ",
+    "key.taczaddon.switch_gun.desc": "Cambio rapido di arma",
+    "tooltip.taczaddon.ammo_box": "Selezionare con il tasto destro per selezionare tutto.",
+    "tooltip.taczaddon.more_attachment_info": "Mostrare di avere una pistola."
 }

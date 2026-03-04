@@ -1,8 +1,8 @@
 {
-    "block.ender_pack.ender_pack": "Pacco dell'altro mondo",
-    "container.enderPack": "Pacchetto dei confini",
-    "item.ender_pack.ender_pack": "Pacco dei Portali",
-    "itemGroup.enderPack": "Pacco dell'altro mondo!",
+    "block.ender_pack.ender_pack": "Pacchetto Ender",
+    "container.enderPack": "Pacchetto Ender",
+    "item.ender_pack.ender_pack": "Pacchetto Ender",
+    "itemGroup.enderPack": "Pacchetto Ender!",
     "key.category.ender_pack.access": "Pacchetto Ender",
-    "key.ender_pack.toggle": "Apri pacchetto di fine mondo"
+    "key.ender_pack.toggle": "Apri il pacchetto Ender"
 }

@@ -1,16 +1,16 @@
 {
-    "name": "Banana Tree 🔥",
+    "name": "Albero di banana 🔥",
     "category": "patchouli:trees",
     "icon": "pamhc2trees:banana_sapling",
     "sortnum": -1,
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)🔥 Estate $(li)Prezzo: 512 monete $(li)Dimensioni: 1x1 $(li)Cresce in:`$(l:tree_crops\/banana)8 banane $(\/l)$(br2)$(l)Note$()$(li)Venduti come semi nel Mercato.`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🔥 Estate$(li)Prezzo: 512$(li)Dimensione: 1x1$(li)Cresce: 8 banane (da banana\/tree_crops\/banana)$(\/l)$(br2)$(l)Note$()$(li)Piantine acquistate dal mercato."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Banana Tree",
+            "name ": "Patchouli: Multibloc\nAlbero di banana",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {
@@ -77,8 +77,7 @@
                         "     "
                     ]
                 ]
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

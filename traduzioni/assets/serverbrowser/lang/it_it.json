@@ -1,10 +1,10 @@
 {
-    "serverbrowser.button.favorite": "Preferito",
-    "serverbrowser.button.filter": "Filtra server",
-    "serverbrowser.button.history": "Storia (in corso di sviluppo)",
-    "serverbrowser.button.next_page": "Avanti: %s",
-    "serverbrowser.button.prev_page": "Indietro",
-    "serverbrowser.button.register": "Registra il server",
-    "serverbrowser.error.unreachable_website": "Il sito web non è raggiungibile in questo momento.",
+    "serverbrowser.button.favorite": "Preferito\/a",
+    "serverbrowser.button.filter": "Server di filtraggio",
+    "serverbrowser.button.history": "Storia (in fase di sviluppo)",
+    "serverbrowser.button.next_page": "Prossimo: %s",
+    "serverbrowser.button.prev_page": "Precedente",
+    "serverbrowser.button.register": "Registro del server",
+    "serverbrowser.error.unreachable_website": "Il sito web non è attualmente raggiungibile.",
     "serverbrowser.server.official": "Ufficiale"
 }

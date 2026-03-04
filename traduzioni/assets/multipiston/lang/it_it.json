@@ -1,4 +1,4 @@
 {
-    "block.multipiston.multipistonblock": "Blocco a pistoni multipla",
-    "com.ldtteam.multipiston.equalpos": "La direzione di input e di output non possono essere la stessa!"
+    "block.multipiston.multipistonblock": "A più pistoni",
+    "com.ldtteam.multipiston.equalpos": "La direzione di input e output non possono essere uguali!"
 }

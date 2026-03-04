@@ -7,6 +7,7 @@
     "structurecompass.locate.distance": "Bound structure is %s blocks away",
     "structurecompass.locate.fail": "Bound structure could not be located nearby",
     "structurecompass.locate.invalid": "Bound structure invalid. Please re-bind",
+    "structurecompass.locate.structure_prohibited": "You are not allowed to locate this structure",
     "structurecompass.locate.toggled": "Structure Compass hud toggled %s",
     "structurecompass.screen.search": "Search",
     "structurecompass.screen.search.a_to_z": "A-Z",

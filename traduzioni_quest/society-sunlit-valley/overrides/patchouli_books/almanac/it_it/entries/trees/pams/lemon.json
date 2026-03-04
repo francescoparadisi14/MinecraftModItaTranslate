@@ -1,16 +1,16 @@
 {
-    "name": "Limoneto 🔥🌼",
+    "name": "Albero di limoni 🌼🔥",
     "category": "patchouli:trees",
     "icon": "pamhc2trees:lemon_sapling",
     "sortnum": -1,
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Stagioni: Primavera 🔥 Estate $(li)Dimensioni: 1x1$(li)Cresce:$(l:tree_crops\/lemon)8 limoni$(\/l)$(br2)$(l)Note$()$(li)Vendita di semi presso il Commercio Elvico.`"
+            "text": "patchouli:text\n\n$(l)Statistiche$()$(li)🌼 Primavera§r 🔥 §6Estate§r$(li)Dimensione: 1x1$(li)Produce: 8 limoni (da *tree_crops\/lemon*)$(\/l)$(br2)$(l)Note$()$(li)Piantine scambiate presso il Mercato Elfico."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Apple Tree",
+            "name ": "patchouli:multiblock\n\nTiglio",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {
@@ -77,8 +77,7 @@
                         "     "
                     ]
                 ]
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

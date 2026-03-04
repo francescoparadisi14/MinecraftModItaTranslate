@@ -1,0 +1,6 @@
+{
+    "nolancheating.configuration.removeButtonInCreateNewWorldScreen": "Remove button in \"Create New World\" screen",
+    "nolancheating.configuration.removeButtonInCreateNewWorldScreen.tooltip": "Removes the \"Allow Commands\" button in the \"Create New World\" screen.",
+    "nolancheating.configuration.removeButtonInOpenToLANScreen": "Remove button in \"Open to LAN\" screen",
+    "nolancheating.configuration.removeButtonInOpenToLANScreen.tooltip": "Removes the \"Allow Commands\" button in the \"Open to LAN\" screen."
+}

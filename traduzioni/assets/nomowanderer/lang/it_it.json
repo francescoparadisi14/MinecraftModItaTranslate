@@ -1,8 +1,8 @@
 {
-    "block.nomowanderer.no_soliciting_sign": "Segnale \"Non vendere\"",
-    "block.nomowanderer.trader_rug": "Tappeto del commerciante",
-    "item.nomowanderer.no_mo_wanderer_totem": "Talismano anti-pretore",
-    "item.nomowanderer.no_soliciting_sign": "Segnale \"Non vendere\"",
-    "item.nomowanderer.trader_cloth_piece": "Pezzo di stoffa del commerciante",
-    "item.nomowanderer.trader_rug": "Tappeto del commerciante"
+    "block.nomowanderer.no_soliciting_sign": "Segno \"Non disturbare\"",
+    "block.nomowanderer.trader_rug": "Tappeto per il commercio",
+    "item.nomowanderer.no_mo_wanderer_totem": "Amuleto contro gli avvocati",
+    "item.nomowanderer.no_soliciting_sign": "Segno \"Non disturbare\"",
+    "item.nomowanderer.trader_cloth_piece": "Pezzo di tessuto per il commercio",
+    "item.nomowanderer.trader_rug": "Tappeto per il commercio"
 }

@@ -1,5 +1,7 @@
 {
     "effect.fightorflight.resistance_weakened": "Resistance Weakened",
+    "fightorflight.behaviour.fights_range.desc": "Range attack behaviour from FOF, please don't apply this behaviour manually.",
+    "fightorflight.behaviour.fights_range.name": "Range Attack(FOF)",
     "item.fightorflight.oran_lucky_egg": "Oran Lucky Egg",
     "item.fightorflight.oran_lucky_egg.tooltip": "Increases the amount of experience earned by the holder after defeating without a battle. The amount is the same as the Lucky Egg",
     "item.fightorflight.pokestaff": "Poke Staff",
@@ -19,8 +21,8 @@
     "item.fightorflight.pokestaff.mode.send": "Send command to your Pokémon",
     "item.fightorflight.pokestaff.move": "[ %s ] Selected move: %s",
     "item.fightorflight.pokestaff.move.failed": "[ %s ] Can't change the move",
-    "key.fightorflight.categories.fightorflight": "Cobblemon Fight of Flight",
-    "key.fightorflight.categories.fightorflight.pokestaff": "Cobblemon Fight of Flight: Poke Staff",
+    "key.fightorflight.categories.fightorflight": "Cobblemon Fight or Flight",
+    "key.fightorflight.categories.fightorflight.pokestaff": "Cobblemon Fight or Flight: Poke Staff",
     "key.fightorflight.cmdmode.attack": "Attack Target",
     "key.fightorflight.cmdmode.attack_position": "Attack Position",
     "key.fightorflight.cmdmode.clear": "Clear Command",

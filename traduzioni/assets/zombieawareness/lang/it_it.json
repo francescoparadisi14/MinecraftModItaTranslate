@@ -1,5 +1,5 @@
 {
-    "zombieawareness.subtitle.alert": "! (attenzione!)",
-    "zombieawareness.subtitle.investigate": "Indagine su mostro",
-    "zombieawareness.subtitle.target": "Il mostro è stato allertato"
+    "zombieawareness.subtitle.alert": "!",
+    "zombieawareness.subtitle.investigate": "Indagine in corso",
+    "zombieawareness.subtitle.target": "Avviso emesso"
 }

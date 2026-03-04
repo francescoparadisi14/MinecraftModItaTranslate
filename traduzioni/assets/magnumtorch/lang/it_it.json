@@ -11,14 +11,14 @@
     "block.magnumtorch.magnum_torch.info.shift": "Shift",
     "block.magnumtorch.magnum_torch.info.vertical_range": "Raggio verticale: %s",
     "block.magnumtorch.magnum_torch.info.whitelist": "Whitelist: %s",
-    "block.magnumtorch.magnum_torch.tooltip.additional": "Tieni %s per ulteriori informazioni",
-    "block.magnumtorch.magnum_torch.tooltip.blacklist": "Elenco nero: %s",
-    "block.magnumtorch.magnum_torch.tooltip.description": "Impedisce la nascita di mostri in un'area molto ampia.",
-    "block.magnumtorch.magnum_torch.tooltip.horizontal_range": "Raggio orizzontale: %s",
-    "block.magnumtorch.magnum_torch.tooltip.mob_types": "Tipi di mostro: %s",
+    "block.magnumtorch.magnum_torch.tooltip.additional": "Tenere premuto il pulsante %s per visualizzare ulteriori informazioni.",
+    "block.magnumtorch.magnum_torch.tooltip.blacklist": "Lista nera: %s",
+    "block.magnumtorch.magnum_torch.tooltip.description": "Previene la comparsa di gruppi di nemici in un'ampia area.",
+    "block.magnumtorch.magnum_torch.tooltip.horizontal_range": "Intervallo di blocchi orizzontali: %s",
+    "block.magnumtorch.magnum_torch.tooltip.mob_types": "Tipo di veicolo: %s",
     "block.magnumtorch.magnum_torch.tooltip.shape_type": "Tipo di forma: %s",
-    "block.magnumtorch.magnum_torch.tooltip.shift": "Sposta",
-    "block.magnumtorch.magnum_torch.tooltip.vertical_range": "Raggio verticale: %s",
-    "block.magnumtorch.magnum_torch.tooltip.whitelist": "Elenco bianco: %s",
-    "itemGroup.magnumtorch.main": "Torcia Magnum"
+    "block.magnumtorch.magnum_torch.tooltip.shift": "⇧ Cambia",
+    "block.magnumtorch.magnum_torch.tooltip.vertical_range": "Intervallo di blocchi verticali: %s",
+    "block.magnumtorch.magnum_torch.tooltip.whitelist": "Elenco consentiti: %s",
+    "itemGroup.magnumtorch.main": "Magnum Torch"
 }

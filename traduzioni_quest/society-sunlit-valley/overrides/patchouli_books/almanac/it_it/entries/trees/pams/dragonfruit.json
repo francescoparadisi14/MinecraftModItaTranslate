@@ -6,11 +6,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)❆ Stagione invernale $(li)Prezzo: :coin: 43.008$(li)Dimensioni: 1x1$(li)Cresce:(l:tree_crops\/dragonfruit)8 Dragonfruit(\/l)$(br2)$(l)Note$()$(li)Vendita di sementili acquistati dal Cultivatore Maestro"
+            "text": "patchouli:text\n\n$(l)Statistiche$()$(li)❆ Inverno§r $(li)Prezzo: 43.008 $(li)Dimensione: 1x1 $(li)Coltivabile: 8 x Dragon Fruit$(\/l)$(br2)$(l)Note$()$(li)Piantine acquistate da un coltivatore esperto."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Dragonfruit Tree",
+            "name ": "Patchouli: Multibloc\n\nAlbero di dragon fruit",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {
@@ -77,8 +77,7 @@
                         "     "
                     ]
                 ]
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

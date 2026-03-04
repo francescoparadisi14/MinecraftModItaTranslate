@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Uovo: Uovo petrificato (25% di probabilità)$(br2)$(l)Note$()$(br)Gli uova richiedono 5+ cuori."
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile$(li)Uovo: Uovo fossilizzato (5% di probabilità)$(br2)$(l)Note$()$(br)Gli uova richiedono almeno 5 punti vita."
         },
         {
             "type": "patchouli:entity",
             "entity": "species:goober",
             "scale": 0.8,
-            "text": "Gli uova dei Goober necessitano del calore di Magma per essere fecondate."
+            "text": "patchouli: entità\n\nspecie: goober\n\nI loro uova necessitano del calore della Magma per schiudersi."
         }
     ]
 }

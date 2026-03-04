@@ -1,17 +1,17 @@
 {
-    "name": "Ferret",
+    "name": "Putro",
     "category": "patchouli:pets",
     "icon": "minecraft:iron_shovel",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Doni possibili:$()$(br)Uovo di ragnatela saltatrice$(br)$(l)Oggetto per addomesticare:$()$(br)Ragno crudo$(br2)$(l)Note$()$(br)Può essere trovato in pianure e foreste."
+            "text": "patchouli:testo\n\n$(l)Possibili oggetti da raccogliere:$()$(br)Uovo di ragno arrampicatore$(br)$(l)Oggetto per addomesticare:$()$(br)Coniglio selvatico$(br2)$(l)Note$()$(br)Si trova nelle pianure e nelle foreste."
         },
         {
             "type": "patchouli:entity",
             "entity": "crittersandcompanions:ferret",
             "scale": 0.7,
-            "text": "Possono scavare cose quando ti dai da mangiare Pollo crudo!"
+            "text": "patchouli: entità\n\ncrittersandcompanions: furetto\n\nPossono scavare e trovare oggetti quando vengono nutriti con pollo crudo!"
         }
     ]
 }

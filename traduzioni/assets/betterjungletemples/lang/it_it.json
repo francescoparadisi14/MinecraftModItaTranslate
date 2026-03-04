@@ -1,13 +1,13 @@
 {
-    "Use \/locate structure betterjungletemples:jungle_temple instead!": "Usa \/locate Struttura Betterjungletemples:jungle_temple Invece!",
-    "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples": "I Migliori Templi Della Giungla Di Yung",
-    "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.compat": "Compatibilità Del Modulo",
-    "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.compat.@Tooltip": "Impostazioni Di Compatibilità Del Modulo",
-    "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.compat.pickYourPoisonEnabled": "Abilita Compatibilità Con Pick Your Poison",
-    "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.compat.pickYourPoisonEnabled.@Tooltip": "Se Dovrebbero Generarsi Frecce Velenose PYP Nei Templi Giungla Migliori",
+    "Use \/locate structure betterjungletemples:jungle_temple instead!": "Utilizzate invece la struttura `\/locate` e `jungle_temple`!",
+    "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples": "I templi più belli della giungla di YUNG",
+    "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.compat": "Compatibilità con i modelli",
+    "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.compat.@Tooltip": "Impostazioni di compatibilità del modulo",
+    "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.compat.pickYourPoisonEnabled": "Abilita la compatibilità con \"Pick Your Poison\"",
+    "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.compat.pickYourPoisonEnabled.@Tooltip": "Dovrebbero le frecce avvelenate del PYP apparire anche nei templi della giungla di Better Jungle?",
     "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.general": "Generale",
-    "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.general.@Tooltip": "Impostazioni Generali",
-    "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.general.disableVanillaJungleTemples": "Disabilita Templi Di Giungla Vanilla",
-    "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.general.disableVanillaJungleTemples.@Tooltip": "Se Le Templi Di Giungla Del Gioco Originale Dovrebbero Essere Disabilitati.",
-    "text.autoconfig.betterjungletemples-fabric-1_21.title": "I Templi Della Giungla Di Yung"
+    "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.general.@Tooltip": "Impostazioni generali",
+    "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.general.disableVanillaJungleTemples": "Disabilitare i templi originali della giungla",
+    "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.general.disableVanillaJungleTemples.@Tooltip": "Se è necessario disabilitare le \"Vanilla Jungle Temples\".",
+    "text.autoconfig.betterjungletemples-fabric-1_21.title": "I templi più belli della giungla di YUNG"
 }

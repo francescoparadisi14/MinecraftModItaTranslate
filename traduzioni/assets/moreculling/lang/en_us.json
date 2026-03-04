@@ -2,6 +2,8 @@
     "modmenu.descriptionTranslation.moreculling": "A mod that changes how multiple types of culling are handled in order to improve performance",
     "moreculling.config.category.compat": "Mod Compatibility",
     "moreculling.config.category.general": "General Culling",
+    "moreculling.config.category.item_frame": "Item Frame Culling",
+    "moreculling.config.category.leaves": "Leaves Culling",
     "moreculling.config.option.beaconBeamCulling": "Beacon Beam Culling",
     "moreculling.config.option.beaconBeamCulling.tooltip": "Does frustum culling on beacon beams",
     "moreculling.config.option.blockStateCulling": "BlockState Culling",

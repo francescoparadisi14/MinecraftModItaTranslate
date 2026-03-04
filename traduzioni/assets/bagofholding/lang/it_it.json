@@ -1,0 +1,14 @@
+{
+    "enchantment.bagofholding.preservation": "Preservazione",
+    "enchantment.bagofholding.preservation.desc": "Impedisce che un sacco vada perso alla morte. Il livello di incantamento viene ridotto di uno ad ogni morte.",
+    "item.bagofholding.golden_bag_of_holding": "Sacco d'oro",
+    "item.bagofholding.iron_bag_of_holding": "Sacco di ferro",
+    "item.bagofholding.leather_bag_of_holding": "Sacco di cuoio",
+    "item.container.tooltip.info": "Premi %s per visualizzare il contenuto",
+    "item.container.tooltip.shift": "Shift",
+    "itemGroup.bagofholding.main": "Sacchetto di contenimento",
+    "tag.item.bagofholding.bags": "Sacchetti",
+    "tag.item.bagofholding.recipes_ignore_components": "Ricette: Ignora gli ingredienti",
+    "tutorial.container.bag_of_holding.name": "Bag of Holding",
+    "tutorial.container.itemInsert.title": "Usa un %s"
+}

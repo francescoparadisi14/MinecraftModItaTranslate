@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li):moneta: 6$(li)🌼 §2Primavera§r 🔥 §6Estate§r 🍂 §4Autunno$(li)Rendita: 1-4$(li)Tempo di crescita: 3 giorni$(br2)$(l)Note$()$(br)Si trova in biomi montuosi.$(br)Non ci sono semi, semplicemente pianta la foglia."
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 6$(li)🌼 Primavera§r 🔥 §6 Estate§r 🍂 §4 Autunno$(li)Resa: 1-4$(li)Tempo di crescita: 3 giorni$(br2)$(l)Note$()$(br)Si trova in biomi montuosi.$(br)Non necessita di semi, basta piantare la foglia."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Yerba Mate Crop",
+            "name ": "Patchouli: coltura di Yerba Mate",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -24,8 +24,7 @@
                     "0": "herbalbrews:yerba_mate_plant[age=3]",
                     "F": "minecraft:farmland[moisture=7]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

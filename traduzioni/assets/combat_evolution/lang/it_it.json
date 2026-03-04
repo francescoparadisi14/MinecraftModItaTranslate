@@ -1,0 +1,20 @@
+{
+    "command.combat_evolution.execution_failed": "l'esecuzione non è riuscita",
+    "config.combat_evolution.client_config": "Configurazione del client Combat Evolution",
+    "config.combat_evolution.hud_type": "Tipo di HUD:",
+    "config.combat_evolution.icon_display": "Visualizzazione dell'icona",
+    "config.combat_evolution.play_music": "Ascolta musica CE:",
+    "config.combat_evolution.text_display": "Testo da visualizzare:",
+    "death.attack.execution": "L'operazione è stata completata.",
+    "effect.combat_evolution.bypass_dodge_effect": "Eludere Dodge",
+    "effect.combat_evolution.bypass_guard_effect": "Eludere la sorveglianza",
+    "effect.combat_evolution.full_stun_immunity": "Immunità completa agli stordimenti",
+    "entity.combat_evolution.shelmarow": "ShelMarow (Test Mobile)",
+    "hud.combat_evolution.execution_disabled": "Esecuzione disabilitata!",
+    "hud.combat_evolution.execution_tooltip": "Obiettivo: [inserire valore]\nPremi il pulsante [%s]",
+    "key.categories.combat_evolution": "Evoluzione in combattimento",
+    "key.combat_evolution.execution": "Esecuzione",
+    "skill.combat_evolution.shield_counter": "Contatore di protezione",
+    "skill.combat_evolution.shield_counter.tooltip": "Quando si tiene uno scudo nella mano sinistra,\npremere [Difesa + Arma Innata] per sferrare un colpo con lo scudo.\nSe si riesce a bloccare un attacco, si stordirà il nemico, si ripristinerà l'energia e si otterrà l'effetto di stordimento, resistenza e forza.",
+    "text.combat_evolution.not_available_pos": "La posizione non è adatta o non offre abbastanza spazio."
+}

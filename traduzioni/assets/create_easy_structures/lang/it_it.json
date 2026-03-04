@@ -1,8 +1,8 @@
 {
-    "block.create_easy_structures.destroyedtrack_1": "Tracciato distrutto 1",
-    "block.create_easy_structures.destroyedtrack_2": "Tratto distrutto 1",
-    "block.create_easy_structures.destroyedtrack_3": "Tracciato distrutto 1",
-    "itemGroup.tab_create_easy_structures": "Crea strutture facili",
-    "itemGroup.tabcreate_easy_structures": "Crea strutture facili",
-    "item_group.create_easy_structures.create_easy_structures": "Crea strutture facili"
+    "block.create_easy_structures.destroyedtrack_1": "Traccia 1 danneggiata",
+    "block.create_easy_structures.destroyedtrack_2": "Traccia 1 danneggiata",
+    "block.create_easy_structures.destroyedtrack_3": "Traccia 1 danneggiata",
+    "itemGroup.tab_create_easy_structures": "Crea: Strutture Semplici",
+    "itemGroup.tabcreate_easy_structures": "Crea: Strutture Semplici",
+    "item_group.create_easy_structures.create_easy_structures": "Crea: Strutture Semplici"
 }

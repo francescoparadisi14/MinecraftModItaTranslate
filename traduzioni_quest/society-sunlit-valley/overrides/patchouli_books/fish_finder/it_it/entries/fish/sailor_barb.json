@@ -1,18 +1,18 @@
 {
-    "name": "Sailor Barb",
+    "name": "Barba da marinaio",
     "category": "patchouli:fish",
     "icon": "unusualfishmod:raw_sailor_barb",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 112 monete$(li)Simbolo di stagione: 🍂 Autunno$(li)Acqua: Oceano$(li)Clima: Qualsiasi$(li)Ora: Giorno"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 112$(li)§0🍂 §4Autunno§0$(li)Acqua: Oceano$(li)Meteo: Qualsiasi$(li)Ora: Giorno"
         },
         {
             "type": "patchouli:entity",
             "entity": "unusualfishmod:sailor_barb",
             "scale": 0.8,
             "rotate": true,
-            "text": "Sono nel mio apice, Optimus."
+            "text": "patchouli: entità\n\nunusualfishmod: sailor_barb\n\nEhm, sono al culmine della mia forma, Optimus."
         }
     ]
 }

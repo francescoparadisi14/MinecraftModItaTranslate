@@ -1,7 +1,7 @@
 {
     "advancedbackups.backup_cancelled": "Backup annullato!",
-    "advancedbackups.backup_failed": "Il backup è fallito!\ncontrolla il log per ulteriori informazioni.",
+    "advancedbackups.backup_failed": "Backup fallito!\nConsultare il log per maggiori dettagli.",
     "advancedbackups.backup_finished": "Backup completato!",
-    "advancedbackups.backup_starting": "Il backup sta iniziando!",
-    "advancedbackups.progress": "Backup in corso: %1$s%"
+    "advancedbackups.backup_starting": "Backup in corso!",
+    "advancedbackups.progress": "Backup in corso: %1$s%%"
 }

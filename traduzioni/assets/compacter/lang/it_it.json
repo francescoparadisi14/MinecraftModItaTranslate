@@ -1,13 +1,13 @@
 {
-    "block.compacter.cobbler": "Cuoio",
-    "block.compacter.compacter": "Compattatore",
-    "compacter.craftmode.hollow": "Modalità vuota (3x3 senza centro)",
-    "compacter.craftmode.one_only": "Modalità unica elemento (1x1)",
-    "compacter.craftmode.three_only": "Soli ricette 3x3",
-    "compacter.craftmode.three_two": "Prova prima le ricette 3x3",
-    "compacter.craftmode.two_only": "Sono disponibili solo ricette 2x2",
-    "compacter.craftmode.two_three": "Prova prima le ricette 2x2",
-    "compacter.recurse.disabled": "La compattazione ricorsiva è disabilitata",
-    "compacter.recurse.enabled": "La compattazione ricorsiva è abilitata",
-    "itemGroup.compacter": "Compattatore"
+    "block.compacter.cobbler": "Falegname",
+    "block.compacter.compacter": "Compattare",
+    "compacter.craftmode.hollow": "Modalità \"Vuota\" (3x3 senza centro)",
+    "compacter.craftmode.one_only": "Modalità \"Singolo elemento\" (1x1)",
+    "compacter.craftmode.three_only": "Solo ricette con ingredienti in proporzioni 3:3",
+    "compacter.craftmode.three_two": "Iniziare con ricette semplici, ad esempio quelle che richiedono solo ingredienti di base e passaggi facili.",
+    "compacter.craftmode.two_only": "Solo ricette con ingredienti in proporzioni 2:2",
+    "compacter.craftmode.two_three": "Iniziare con ricette semplici, come quelle 2x2.",
+    "compacter.recurse.disabled": "Compattazione ricorsiva disabilitata",
+    "compacter.recurse.enabled": "Compattazione ricorsiva abilitata",
+    "itemGroup.compacter": "Compattare"
 }

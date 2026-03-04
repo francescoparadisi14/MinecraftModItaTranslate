@@ -1,0 +1,9 @@
+{
+    "command.displayscoreboard.add.exists": "Esiste già una tabellone con il nome '%s'!",
+    "command.displayscoreboard.add.success": "Tabellone \"%s\" aggiunto correttamente!",
+    "command.displayscoreboard.error": "Errore: %s",
+    "command.displayscoreboard.modify.success": "Proprietà '%s' di '%s' aggiornata.",
+    "command.displayscoreboard.reload.success": "Configurazione ripristinata!",
+    "command.displayscoreboard.remove.not_found": "Tabellone \"%s\" non trovato.",
+    "command.displayscoreboard.remove.success": "Tabellone \"%s\" rimosso."
+}

@@ -1,0 +1,1555 @@
+{
+    "chapter.291E3F05850D5553.title": "The Beginning",
+    "chapter.3CCD597FF88266DC.title": "The Draconian Saga",
+    "chapter.63A2C57351A99ED0.title": "Daily",
+    "chapter.695318EE7C44D321.title": "Ars Nouveau",
+    "chapter.6AE9E2455A1A6349.title": "Iron's Spells 'n Spellbooks",
+    "chapter_group.22FF1BDE9C722455.title": "New Beginnings",
+    "chapter_group.4E9BD0014FC39D00.title": "Repeatable",
+    "chapter_group.5110117D1985F86D.title": "Story",
+    "chapter_group.78EA73D4AA556E12.title": "Guides",
+    "file.0000000000000001.title": "Fables of Draconia",
+    "quest.00C009F41021BDEE.quest_desc": [
+        "On your inventory screen, there will be multiple tabs at the top.",
+        "",
+        "The second tab will display a screen with all your dragon ability. Mouse hover to see a description.",
+        "The passives (The middle row) can be leveled up and down with the little arrows on each side of the icons."
+    ],
+    "quest.00C009F41021BDEE.quest_subtitle": "Leveling up!",
+    "quest.012E593F04EB24A5.quest_desc": [
+        "In the world of Ars Nouveau dwell the 'Wilden', beings born from the condensed essence of nature.",
+        "",
+        "- Wilden Hunter",
+        "- Wilden Defender",
+        "- Wilden Stalker",
+        "",
+        "&eThe Wilden Horn&r, &eWilden Spike&r, and &eWilden Wing&r you will harvest from them are potent catalysts that will elevate your magic to the next level. Now, prove your strength and claim these materials.",
+        "",
+        "- &6Advice&r -",
+        "&7The Wilden congregate in their lairs, known as 'Wilden Den'. The &eExplorer's Compass&r &7can be used to easily locate their lairs.&r"
+    ],
+    "quest.012E593F04EB24A5.title": "Wilden?",
+    "quest.01BF5B85CDB5449A.quest_desc": [
+        "Finding spells in the world is a path reliant on fate. A true mage forges their own destiny. The &aScroll Forge&r allows you to create any scroll you desire using ink, paper, and a magical 'Focus'."
+    ],
+    "quest.01BF5B85CDB5449A.quest_subtitle": "The Scribe's Forge",
+    "quest.01FEDC8F9EBAC230.quest_desc": [
+        "To wield magic, you need its fuel. &aArcane Essence&r is the primordial material for all magic. It can be found in the forgotten chests of ancient ruins or from wandering mages. Find your first piece of this crystallized magic."
+    ],
+    "quest.01FEDC8F9EBAC230.quest_subtitle": "The Source of Magic",
+    "quest.02BE82503F35470D.quest_desc": [
+        "Mithril Ingots are not only for armor; they are also a key component in crafting some of the most powerful magical weapons available, such as the &eSpellbreaker&r and the &eAmethyst Rapier&r. These weapons often come with unique imbued spells, blending martial prowess with magical might."
+    ],
+    "quest.02BE82503F35470D.title": "Mithril Armaments",
+    "quest.039BCAD1B8BFEC6A.quest_desc": [
+        "Congratulations, you are now a true &6Archmage&r. The world's most profound magics are at your command. Open your new spellbook, witness the power of the Tier 3 glyphs now available to you, and pour all of your knowledge and creativity into crafting an ultimate spell that symbolizes your very being. This spell is the proof of your ascension."
+    ],
+    "quest.039BCAD1B8BFEC6A.quest_subtitle": "The Apex of Power",
+    "quest.045F60E47DA778FB.quest_desc": [
+        "The Empty Dragon Soul can be used to contain the soul and form of your dragon.",
+        "",
+        "Using one (by holding right click) will store your current form within it. (You will turn back into a human by default)",
+        "",
+        "Then selecting a dragon form again at the altar, or staying human, if you use the soul again, you will return to that dragon form."
+    ],
+    "quest.0473249CA2C086E1.quest_desc": [
+        "upgrade your Tier 2 armor to Tier 3"
+    ],
+    "quest.0473249CA2C086E1.title": "Upgrade Sorceror's Armor to Tier 3",
+    "quest.04C9850EF2293C36.quest_desc": [
+        "All-Rounder Spellbook",
+        "",
+        "&6- How to Obtain -&r",
+        "&7Craftable&r"
+    ],
+    "quest.05493550EC7EC5C5.quest_desc": [
+        "Use an Enchanting Apparatus to upgrade your Tier 1 armor to Tier 2"
+    ],
+    "quest.05493550EC7EC5C5.title": "Upgrade Battlemage's Armor to Tier 2",
+    "quest.05C73A65DDBDCDA2.quest_desc": [
+        "The champion of ruin sleeps behind a veil of lesser flames. It will not wake for a challenge, only for a tribute.",
+        "",
+        "The path is clear. Hunt the 'Ignited Revenants' that haunt the arena and gather their 'Burning Ashes'. With this offering of dust and defeat, you shall summon the final fire."
+    ],
+    "quest.05C73A65DDBDCDA2.title": "An Offering of Ash",
+    "quest.060DCF63454FA000.quest_desc": [
+        "&o&7He is definitely angry.",
+        "",
+        "&o&7Smoke is coming out of his nostrils.",
+        "",
+        "&o&7Logic says run.",
+        "",
+        "&o&7Instinct says... &l&cPET HIM."
+    ],
+    "quest.060DCF63454FA000.title": "👋 &oPAT PAT PAT!!!",
+    "quest.07115A6A6AD83973.quest_desc": [
+        "Why choose between sword and sorcery? The Arcane Anvil allows you to imbue a spell directly onto a weapon, allowing it to be cast without a spellbook. This process consumes the scroll permanently, so choose wisely. Imbue a useful spell onto your sword."
+    ],
+    "quest.07115A6A6AD83973.title": "Imbuing Weapons",
+    "quest.080431B8861B86C2.quest_subtitle": "The Glorious Evolution!",
+    "quest.08D6616B70289460.quest_desc": [
+        "A nature-focused Spellbook",
+        "",
+        "&6- How to Obtain -&r",
+        "&7Craftable using Rotten Spell Book&r"
+    ],
+    "quest.0B8F40F2B5B1AE7F.quest_desc": [
+        "\"I hear 'spinning machines' are the trend these days?",
+        "",
+        "They say mixing stone and iron nuggets makes a sturdy alloy.",
+        "",
+        "Are you walking the path of an engineer? Bring me a few samples.\""
+    ],
+    "quest.0B8F40F2B5B1AE7F.quest_subtitle": "Moving Machines",
+    "quest.0B8F40F2B5B1AE7F.title": "[Tier2] Create",
+    "quest.0BD41C2B66A1E0D1.quest_desc": [
+        "This world is filled with unseen arcane energies. Iron's Spells 'n Spellbooks will transform you into a powerful spellcaster, much like a classic RPG mage. Discover scrolls, inscribe them into spellbooks, and craft powerful equipment to begin your own magical journey."
+    ],
+    "quest.0BD41C2B66A1E0D1.quest_subtitle": "The Call of Magic",
+    "quest.0BD41C2B66A1E0D1.title": "Iron's Spells 'n Spellbooks",
+    "quest.0C40C1C71B10807C.quest_desc": [
+        "You can check the catalysts in JEI.",
+        "",
+        "The catalysts for the Abjuration essence",
+        "- Fermented Spider Eye",
+        "- Milk Bucket",
+        "- Sugar"
+    ],
+    "quest.0C7352106331D93D.quest_desc": [
+        "A spell is fleeting, but a Spellbook grants its power permanence. The most basic spellbook is the &aFlimsy Journal&r. Though it may seem humble, this book will hold your first true spells."
+    ],
+    "quest.0C7352106331D93D.quest_subtitle": "The First Spellbook",
+    "quest.0D6A08C3AB75AB76.quest_subtitle": "Use a Ritual of Summon Wilden to summon a Wilden Chimera.",
+    "quest.0D6A08C3AB75AB76.title": "I tapped the Leyline",
+    "quest.0DE90B9549320B4F.quest_desc": [
+        "You have passed the gods' early tests and armed yourself in steel. But iron, the metal of mortal wars, will bend and break before the true threats of Draconia.",
+        "",
+        "The whispers from below grow louder, a sorrow that threatens to consume all. To face this looming dread, you must become a beacon of hope, clad in a light that cannot be extinguished. Seek the heart of the world—the diamonds that sleep in the abyss. Forge from them the arms of a true champion. Only then will you be ready to face the first scar."
+    ],
+    "quest.0DE90B9549320B4F.title": "The Forge of a Champion",
+    "quest.0E9BD8F605F8AB28.quest_desc": [
+        "In the wilds, you may encounter the &eStarbuncle&r, an adorable creature that glitters like a fragment of a star. They are particularly fond of all things shiny and golden.",
+        "",
+        "Find a wild &eStarbuncle&r and offer it a &egold nugget&r. As a sign of its gratitude, it will gift you a &aStarbuncle Shard&r a piece of its very essence. This &aShard&r is the first step to summoning a &eStarbuncle&r of your own."
+    ],
+    "quest.0E9BD8F605F8AB28.quest_subtitle": "A Glimmering Friendship",
+    "quest.0F91AEF0828AB737.quest_subtitle": "The once majestic and Ice Dragon Deity was slayed by Maledictus, the Phantom General, created by Erythral, The Shattered Veil.",
+    "quest.0F91AEF0828AB737.title": "Avange Yumorra",
+    "quest.0FACE98FFD827ADE.quest_desc": [
+        "The &aTablet of Sunrise&r is a special ritual that does not consume any Source. It offers you a safe opportunity to learn the fundamental principles of grand magic—how to directly influence the laws of the world without yet paying a price.",
+        "",
+        "Take your first step into rituals by performing this miracle that turns night into day."
+    ],
+    "quest.0FACE98FFD827ADE.quest_subtitle": "The First Miracle",
+    "quest.106B25DB6ADA0DCE.quest_desc": [
+        "Use &aMagebloom Fiber&r to craft your first set of magical armor. Choose one of the three types that best suits your style"
+    ],
+    "quest.106B25DB6ADA0DCE.quest_subtitle": "The Mage's Armor",
+    "quest.11747DB51D17A212.quest_desc": [
+        "Across the sun-scorched dunes, a 'Cursed Pyramid' stands. But the curse upon this land is not of sand or sun, but of unnatural, creeping rot. The very life has been scoured from the desert by a magical plague.",
+        "",
+        "You must venture into this blighted land. Find the pyramid, for it is the epicenter of the pestilence Draegor has unleashed upon the world.",
+        "",
+        "{image:cataclysm:item\/desert_eye width:32 height:32 align:center}"
+    ],
+    "quest.11747DB51D17A212.title": "The Blighted Kingdom",
+    "quest.120F411AA342A4CE.quest_desc": [
+        "Destructive damage and damage over time."
+    ],
+    "quest.120F411AA342A4CE.quest_subtitle": "Fire",
+    "quest.1213C780A1C5226E.quest_desc": [
+        "Support, healing, and buffing yourself and allies."
+    ],
+    "quest.1255EEE5B07AFDF6.quest_desc": [
+        "All spells follow the structure of",
+        "'&5Form&r → &3Effect&r → &6Augment&r'",
+        "",
+        "The &eForm&r determines the shape of the spell, such as a projectile, a touch, or a self-cast.",
+        "",
+        "The &eEffect&r determines what the spell actually does, like breaking blocks or creating light.",
+        "",
+        "The &eAugment&r is a modifier that assists and enhances the Effect glyph to its immediate left.",
+        "",
+        "Now, open your &eNovice Spell Book&r and combine",
+        "'&5Projectile&r + &3Magelight&r + &6Amplify&r'",
+        "to create your first utility spell."
+    ],
+    "quest.1255EEE5B07AFDF6.title": "The Grammar of Spells",
+    "quest.12C71128ADCE428F.quest_desc": [
+        "Teleports Source over an unlimited distance. ",
+        "",
+        "Essential for sending Source to over hundreds of blocks away.",
+        "",
+        "Source loss begins to occur at distances over 30 blocks, capping at a maximum of 30% loss. "
+    ],
+    "quest.12C71128ADCE428F.title": "Source Relay: Warper",
+    "quest.13313CA9D10EDC56.quest_desc": [
+        "It is time to use the Scribe's Table to bring your first glyph into existence.",
+        "",
+        "First, hold your spellbook in your main hand and right-click the Scribe's Table. A UI will appear, revealing the many glyphs available for you to craft.   ",
+        "",
+        "Select the &aGlyph of Conjure Magelight&r, then check the required materials in the bottom-left of the UI.",
+        "",
+        "When you are ready, click the 'Select' button in the bottom-right. Ethereal images of the materials you just confirmed will begin to float above the table.   ",
+        "",
+        "Now, supply the indicated materials to the Scribe's Table to craft your first glyph.",
+        "",
+        "- &6Advice&r -",
+        "&7The Scribe's Table will automatically pull the necessary materials from any adjacent inventory. Arrange your workshop for efficiency.&r"
+    ],
+    "quest.13313CA9D10EDC56.quest_subtitle": "How to Scribe a Glyph",
+    "quest.13BF03CC50E1E180.quest_desc": [
+        "You have mastered all the basics of magic. But to become a true &6Archmage&r, you must prove your knowledge and transcend your limits. In this final chapter, you will be tested in every way and at last, ascend to the rank of &6Archmage&r"
+    ],
+    "quest.13BF03CC50E1E180.quest_subtitle": "Final Chapter",
+    "quest.13BF03CC50E1E180.title": "Chapter 3",
+    "quest.143013B565B37643.quest_desc": [
+        "You can check the catalysts in JEI.",
+        "",
+        "The catalysts for the Conjuration essence",
+        "- Wilden Horn",
+        "- Book",
+        "- Starbuncle Shards"
+    ],
+    "quest.1572C0E1808DF810.quest_desc": [
+        "You have arrived. This storm is the grief of Scylla, a creation of Neryssa and myself, now twisted into a spirit of vengeance. She is chained to this place by an anchor, not of iron, but of sorrow.",
+        "",
+        "Touch the anchor that binds her. Face the heart of the tempest. She is beyond my reach, but not beyond yours. Release her from her sorrow, and let the winds be calm once more."
+    ],
+    "quest.1572C0E1808DF810.title": "The Heart of the Tempest",
+    "quest.16374D9840B4ECDB.quest_desc": [
+        "The Starbuncle you've met is only one of many magical creatures that can aid you on your journey. The world of Ars Nouveau is home to a variety of familiars, each with their own unique specialty.    ",
+        "",
+        "",
+        "{image:ars_nouveau:item\/drygmy_charm width:32 height:32 align:center}",
+        "- Drygmy:",
+        "A diligent worker that will automatically collect drops from nearby mob farms.    ",
+        "",
+        "",
+        "{image:ars_nouveau:item\/wixie_charm width:32 height:32 align:center}",
+        "- Wixie:",
+        "A clever artisan that, when summoned near a cauldron, will automate potion brewing and item crafting.    ",
+        "",
+        "",
+        "{image:ars_nouveau:item\/whirlisprig_charm width:32 height:32 align:center}",
+        "- Whirlisprig:",
+        " A friend of nature that will automatically plant and harvest standard crops in your farms.    ",
+        "",
+        "",
+        "{image:ars_nouveau:item\/bookwyrm_charm width:32 height:32 align:center}",
+        "- Bookwyrm:",
+        "A wise dragon that manages a mage's library. When used with a Storage Lectern, it allows you to manage numerous scattered chests as if they were one massive, unified storage system.    ",
+        "",
+        "",
+        "{image:ars_nouveau:item\/amethyst_golem_charm width:32 height:32 align:center}",
+        "- Amethyst Golem:",
+        "A living amethyst mine. When summoned near an Amethyst Geode, it demonstrates incredible automation capabilities by growing, harvesting, and storing amethyst in a designated chest all on its own.    ",
+        "",
+        "",
+        "{image:ars_elemental:item\/siren_charm width:32 height:32 align:center}",
+        "- Siren:",
+        "A mystical being imbued with the power of the sea. (Found in the Ars Elemental addon)",
+        "",
+        "",
+        "{image:ars_nouveau:item\/alakarkinos_charm width:32 height:32 align:center}",
+        "- Alakarkinos:",
+        "A creature resembling an ancient crustacean. (Found in the Ars Elemental addon)",
+        "",
+        "Each of these creatures can be befriended through a unique method. Consult your Worn Notebook to learn how to make them your loyal assistants and transform your magical workshop into a fully automated factory.",
+        "",
+        "{image:ars_elemental:item\/firenando_charm width:32 height:32 align:center}"
+    ],
+    "quest.16374D9840B4ECDB.title": "A World of Familiars",
+    "quest.1641D30ED096AB55.quest_desc": [
+        "The power of a spell is not fixed. Using the Arcane Anvil, you can combine two identical scrolls to create a more powerful version. You can also upgrade scrolls using higher-tier inks. Enhance your primary spell to its maximum level."
+    ],
+    "quest.1641D30ED096AB55.title": "Perfecting Spells",
+    "quest.168E42B1A1AFD5CE.quest_desc": [
+        "The desert breathes a clean wind. The sea sings a tranquil song. The sky weeps no more. You have severed the limbs of the great threat, and the world enjoys a moment of peace.",
+        "",
+        "But a serpent with its limbs cut can still bite. The heart of the war still beats. An illusion in the north still hides a terrible truth, and the ghost of a fallen hero still cries out for release in the flames of the Nether.",
+        "",
+        "The time for cleansing is over. Now, you must march upon the heart."
+    ],
+    "quest.168E42B1A1AFD5CE.title": "The Heart of the War",
+    "quest.16C833E99D530D2D.quest_desc": [
+        "To confront the encroaching shadows, you must now walk through fire. The Nether, a realm of eternal flame and torment, awaits your arrival.",
+        "",
+        "It is here that Auron's valor clashes with Vaemir's deceit. Steel your heart and step through the obsidian gate. The path of a hero is often forged in the crucible of hell itself."
+    ],
+    "quest.16C833E99D530D2D.title": "A Descent into Fire",
+    "quest.198A977205EA9E60.quest_desc": [
+        "As your Source farms expand, they may end up far from your workshop. Efficiently transporting this generated power to where it is needed is a challenge every mage must overcome. The &aSource Relay&r is the solution.",
+        "",
+        "A &aSource Relay&r opens a conduit for magical energy between distant &eSource Jars&r or other relays. Using a &eDominion Wand&r, right-click the source (a Jar or Relay), and then right-click the destination to create a flow of Source between them.",
+        "",
+        "A standard &aSource Relay&r has a maximum transfer range of 30 blocks.",
+        "",
+        "To clear a relay's connections, simply crouch and right-click the relay with the &eDominion Wand&r in hand."
+    ],
+    "quest.198A977205EA9E60.quest_subtitle": "The Flow of Magic",
+    "quest.199009F075169F8A.quest_desc": [
+        "Ink can be found, but a true mage creates their own. The &aAlchemist's Cauldron&r allows you to break down unwanted scrolls into pure ink. It is also used to refine higher-tier inks."
+    ],
+    "quest.199009F075169F8A.quest_subtitle": "The Alchemist's Cauldron",
+    "quest.1A0CE8A4B54787CF.quest_desc": [
+        "Use an Enchanting Apparatus to upgrade your Tier 1 armor to Tier 2"
+    ],
+    "quest.1A0CE8A4B54787CF.title": "Upgrade Arcanist's Armor to Tier 2",
+    "quest.1A3E34C0D1437B0D.quest_desc": [
+        "\"Human technology is fun!",
+        "",
+        "baking sand turns it into a transparent gem!",
+        "",
+        "I need clean glass for my treasure display case.",
+        "",
+        "No scratches, please?\""
+    ],
+    "quest.1A3E34C0D1437B0D.quest_subtitle": "Transparent Shield",
+    "quest.1A3E34C0D1437B0D.title": "[Tier2] Processing",
+    "quest.1AA97068154AEBE6.quest_desc": [
+        "The world is vast, traveler, and its paths are ever-changing. Veyrion, the God of Wind, watches over those who are bold enough to walk them. To understand this world, you must first map its corners.",
+        "",
+        "Craft a compass to find your true north, and let the winds guide your feet. Every step is a prayer to the god of change."
+    ],
+    "quest.1AA97068154AEBE6.title": "The Wanderer's Path",
+    "quest.1B8E39CF00E2994E.quest_desc": [
+        "\"Ugh, those rotting things keep me up at night with their noise!",
+        "",
+        "Clean up around the village, will you?",
+        "",
+        "I'll give you some pocket money for the smelly trophies.\""
+    ],
+    "quest.1B8E39CF00E2994E.quest_subtitle": "Street Cleaning",
+    "quest.1B8E39CF00E2994E.title": "[Tier1] Hunting",
+    "quest.1BAF1EAFD763D796.quest_desc": [
+        "The &bSourceberry farm&r holds more potential than simply being a place for harvesting berries. It can become a powerful dual-power source, capable of fueling two different types of Sourcelinks simultaneously.",
+        "",
+        "The &eAgronomic Sourcelink&r generates Source from the process of the &eSourceberries&r growing.",
+        "",
+        "The &aMycelial Sourcelink&r generates Source by consuming the harvested &eSourceberries&r.",
+        "",
+        "Try placing both of these Sourcelinks near your &eSourceberry farm&r. The &aAgronomic Sourcelink&r will passively gather Source as the berries grow, while a &eStarbuncle&r can be configured to feed the harvested berries to the &aMycelial Sourcelink&r for an additional stream of power.",
+        "",
+        "&7(Information about the Starbuncle is explained in Chapter 2)&r"
+    ],
+    "quest.1BAF1EAFD763D796.quest_subtitle": "The Virtuous Cycle of Magic",
+    "quest.1C816F5EBE4AAFE3.quest_desc": [
+        "To use new spells, you must learn Glyphs at the &aScribe's Table&r. Craft and use a glyph to make its knowledge permanently yours."
+    ],
+    "quest.1C816F5EBE4AAFE3.quest_subtitle": "The Quest for Knowledge",
+    "quest.1C9E3BEC03EBA9C5.quest_desc": [
+        "Within a lie, there is always a kernel of truth that holds it together. The warden, Maledictus, is bound by a lock that cannot be seen, only perceived.",
+        "",
+        "The 'Strange Key' you seek is the first truth. It is guarded by the prison's greatest deception: the hulking specter they call 'Aptrgangr'. But is he a jailer, or another prisoner? Defeat this grand illusion and claim the key that unravels the first layer of Erythral's lie."
+    ],
+    "quest.1C9E3BEC03EBA9C5.title": "The First Truth",
+    "quest.1EB098B6E1834C4F.quest_desc": [
+        "Every mage's journey begins with knowledge. Craft the &eWorn Notebook&r, which contains everything about Ars Nouveau, to light your path. This book will be your most important companion.",
+        "",
+        "&7You don't need to carry this book around all the time. Just hover your cursor over an Ars item you want to learn more about, and hold down the key shown on the UI to bring up the Ars documentation.&r"
+    ],
+    "quest.1EB098B6E1834C4F.quest_subtitle": "The Mage's Must-Read",
+    "quest.1F0754600335D889.quest_subtitle": "Free the Ancient City from the Warden and Avange Magnus Everflame Legacy.",
+    "quest.1F0754600335D889.title": "The light of hope",
+    "quest.1F2A6DFEFC77A9B2.quest_desc": [
+        "A basic relay is often insufficient for a complex magical network. Ars Nouveau provides several specialized relays for different purposes."
+    ],
+    "quest.1F2A6DFEFC77A9B2.title": "Advanced Relays",
+    "quest.1F967DD98F01B75C.quest_desc": [
+        "The winds whisper a tale of sorrow to you, traveler. High above the sea, a storm rages, not of nature, but of a great grief given form. An Acropolis, once a sanctuary of peace, now weeps an endless gale. Then, the whispers coalesce into a single, clear voice on the wind.",
+        "",
+        "\"I am Veyrion, and I feel this disturbance in my domain. You, who travels between realms, are the only one who can reach this place. Ascend to the clouds. Find my lost sanctuary. The wind will be your guide.\"",
+        "",
+        "{image:cataclysm:item\/storm_eye width:32 height:32 align:center}"
+    ],
+    "quest.1F967DD98F01B75C.title": "The Unsettled Wind",
+    "quest.1FFFDF56B05F54FF.quest_desc": [
+        "&7&oDrago is distracted.&r",
+        "",
+        "&7&oHis scales look incredibly smooth.&r",
+        "",
+        "&7&oJust one little touch wouldn't hurt, right?&r"
+    ],
+    "quest.1FFFDF56B05F54FF.title": "👇 &oPoke lightly",
+    "quest.208AFC1D645FFA97.quest_desc": [
+        "While a spellbook allows you to channel magic, a Staff offers a more direct and intuitive way to cast spells. Instead of using a keybind, a staff allows you to cast your selected spell with a simple right-click. Many staves also provide powerful bonuses to specific schools of magic. Craft or find your first staff to unlock a new style of spellcasting."
+    ],
+    "quest.208AFC1D645FFA97.quest_subtitle": "A Mage's Focus: The Staff",
+    "quest.224060A3BFE9FFE7.quest_desc": [
+        "Tier 2 armor is but a stepping stone. Your armor is a vessel, capable of containing far greater power, and its potential has yet to be fully realized.",
+        "",
+        "You can upgrade your armor up to a maximum of Tier 4. With each tier, your maximum mana and mana regeneration will be permanently amplified.",
+        "",
+        "Upon reaching Tier 4, the armor awakens its true potential, granting powerful 'set bonuses'. These effects, such as enhancing the power of specific elemental magic, will become the cornerstone of your combat style."
+    ],
+    "quest.224060A3BFE9FFE7.title": "Unleashing True Potential",
+    "quest.22F4CF59DCBE913B.quest_desc": [
+        "From the scorching air of the Nether, a cry of pure agony echoes across the warped landscape. It is a sound of immense suffering, a soul twisted against its will.",
+        "",
+        "The cowardly whispers of Vaemir are the cause. Journey beyond the crimson fog and seek the source of this tormented roar. It is said to emanate from a forge of damned souls, a place where the very rock of the Nether is twisted into a mockery of life.",
+        "",
+        "{image:cataclysm:item\/monstrous_eye width:32 height:32 align:center}"
+    ],
+    "quest.22F4CF59DCBE913B.title": "An Agonizing Echo",
+    "quest.234CE19736FB24DE.quest_desc": [
+        "A hero has fallen. My greatest champion, Tyros, the First Flamebearer, is now but a shadow bound in a Nether fortress built from his own regret. This is an affront to all that is valor.",
+        "",
+        "You have proven your strength. Now, prove your honor. Go to the 'Citadel' of fire and shadow. It is your duty to find it.",
+        "",
+        "{image:irons_spellbooks:item\/furled_map_ancient width:32 height:32 align:center}"
+    ],
+    "quest.234CE19736FB24DE.title": "The Citadel of Ash",
+    "quest.24206130C03BF470.quest_desc": [
+        "\"They say the scenery looks better on a full stomach.",
+        "&7(Do dragons even say that?)&r",
+        "",
+        "The smell of fresh wheat is delightful.",
+        "",
+        "Bring some provisions so the guild members don't go hungry.\""
+    ],
+    "quest.24206130C03BF470.quest_subtitle": "Daily Bread",
+    "quest.24206130C03BF470.title": "[Tier1] Farming",
+    "quest.253F0F3FD6BDF0D5.quest_desc": [
+        "A mid-game Spellbook",
+        "",
+        "&6- How to Obtain -&r",
+        "&7Craftable&r"
+    ],
+    "quest.262ADEDC5AC0796F.quest_desc": [
+        "You can check the catalysts in JEI.",
+        "",
+        "The catalysts for the Anima essence",
+        "- Wither Skeleton Skull",
+        "- Golden Apple",
+        "- Bone Meal"
+    ],
+    "quest.2667EBDFC0EFF01D.quest_desc": [
+        "You can check the catalysts in JEI.",
+        "",
+        "The catalysts for the Water essence",
+        "- Water Bucket",
+        "- Kelp",
+        "- Snow Block"
+    ],
+    "quest.268CA98A4617D3B4.quest_desc": [
+        "Using the FTB menus (buttons on the top left corner of the inventory or map screen)",
+        "",
+        "You can claim an area for you that other players cannot destroy or interact with.",
+        "",
+        "(Please ask the other players if you claim near someone, and do NOT claim boss arenas and large structures.)",
+        "",
+        "Left click to claim, right click to unclaim."
+    ],
+    "quest.268CA98A4617D3B4.quest_subtitle": "Claims!",
+    "quest.2760B67E11676063.quest_desc": [
+        "The time has come to step beyond the world's veil. The End, a realm of silent void, was once Vaelora's perfect seal. But in an ancient act of celestial rage, Morghast himself shattered this realm, leaving only broken islands floating in an endless night. You are stepping into a prison in ruins.",
+        "",
+        "Yet, the great Dragon Vaelora placed here remains, the last bastion of the seal. And it is here that Nyxarys now weaves his false prophecies, coiling his influence around its fractured fabric.",
+        "",
+        "Take the first step, champion. Cross the threshold and make the leap into the void. There you shall witness the last bastion of the seal: the great Dragon, a living key whose fate is tied to the very balance of the world."
+    ],
+    "quest.2760B67E11676063.title": "A Leap into the Void",
+    "quest.2795CA4F8A68CC4E.quest_desc": [
+        "As your automated systems expand, you will find that your loyal servants are not as smart as you might hope. The &aScroll of Filtering&r is the solution for giving precise instructions to your servants and devices.",
+        "",
+        "",
+        "&6How to Use Scrolls:&r",
+        "",
+        "Imprinting an Item: Hold a &aFilter Scroll&r in your main hand and the item you wish to register in your off-hand. Right-click to imprint the item onto the scroll.",
+        "",
+        "Applying the Filter: With the imprinted scroll in hand, right-click a servant like your &eStarbuncle&r. It will now act only according to the rules of the scroll.",
+        "",
+        "",
+        "&6Types of Filter Scrolls:&r",
+        "",
+        "&aAllow:&r The servant will only interact with the registered items. (This is the default filter).",
+        "",
+        "&aMimic:&r The servant will only pick up items that already exist in its destination chest.",
+        "",
+        "&aDeny:&r The servant will interact with all items except the ones registered.",
+        "",
+        "",
+        "&cNote&r",
+        "&7The official wiki currently has incorrect information regarding this mechanic. Please refer to the usage instructions in this quest, as they are the correct source of information.&r"
+    ],
+    "quest.2795CA4F8A68CC4E.quest_subtitle": "Magical Micromanagement",
+    "quest.27DB77533D862C25.quest_desc": [
+        "Copper, Iron and Gold are also commonly used in this mod.",
+        "",
+        "Copper and Zinc mixed together can make Brass!"
+    ],
+    "quest.27DB77533D862C25.title": "Metals",
+    "quest.28007DE31E9EA681.quest_desc": [
+        "\"Every great hoard starts with sturdy pillars!",
+        "",
+        "Go fetch some quality logs from the forest.",
+        "",
+        "I need them for my nest... er, I mean, for Guild repairs!\""
+    ],
+    "quest.28007DE31E9EA681.quest_subtitle": "Foundation of the Nest",
+    "quest.28007DE31E9EA681.title": "[Tier1] Logging",
+    "quest.2937E9BCAC425AFA.quest_desc": [
+        "The Arcane Anvil can enhance not only your scrolls but also your equipment. Use &aUpgrade Orbs&r to add extra stats to your &mspellbooks&r or armor. You can tailor your gear with stats like max mana, cooldown reduction, and more.",
+        "",
+        "&c*Note*&r :",
+        "&7Applying an orb upgrade to a spellbook will crash the game.&r"
+    ],
+    "quest.2937E9BCAC425AFA.title": "Enhancing Equipment",
+    "quest.2A1030D9C3CA7DAF.quest_desc": [
+        "The Abyssal Sacrifice is forged, a lure for the insatiable hunger that plagues the sea. Now, champion, it falls to you to cast the line.",
+        "",
+        "Take the offering to the sanctum's central altar and begin the dark ritual. From the crushing dark below, you will summon the Leviathan, the very maw of Greythys's hunger. Plunge your blade into the heart of the abyss and end this terror."
+    ],
+    "quest.2A1030D9C3CA7DAF.title": "The Maw of the Deep",
+    "quest.2B4D865FDE137C89.quest_desc": [
+        "The true power of the &aSpell Turret&r lies in combining the magic of creation and destruction to achieve full automation. Follow this guide to construct a marvel of magical engineering that produces infinite cobblestone without any need for water or lava.",
+        "",
+        "&6[Setup Guide]&r",
+        "First, build a 3x3 platform or wall using &aObsidian&r. The &3Break&r spell cannot destroy &aObsidian&r, so this will act as a durable backstop for your spell.",
+        "",
+        "Place your &aSpell Turret&r one block away from the structure, ensuring it faces the center of the &aObsidian&r wall.",
+        "",
+        "&6[Spell Registration]&r",
+        "Now, register the following spell in your &aSpell Turret&r:",
+        "&5Projectile&r → &3Conjure Terrain&r → &eAmplify&r → &eAOE&r x2 → &3Break&r → &eAOE&r x2",
+        "",
+        "This spell first uses &3Conjure Terrain&r, augmented by &eAmplify&r to create &acobblestone&r instead of dirt, and expanded by two &eAOE&r glyphs to form a 3x3 area. Immediately after, the &3Break&r glyph, also enhanced by two &eAOE&r glyphs, destroys that same 3x3 area, dropping it all as items."
+    ],
+    "quest.2B4D865FDE137C89.quest_subtitle": "Automated Cobblestone Generator",
+    "quest.2B4D865FDE137C89.title": "Intro to Magical Engineering",
+    "quest.2B6D2E6F08ACAD4F.quest_desc": [
+        "You have found the source of the dread. Now, you must venture within.",
+        "",
+        "Deep within these forgotten catacumbs, where ancient kings were laid to rest, the shadow of Greythys now festers. A monarch who defies even death guards a lonely throne, his halls filled not with water, but with stagnant despair.",
+        "",
+        "With the point of your blade, sever the king's curse and grant the entombed souls their first taste of peace."
+    ],
+    "quest.2B6D2E6F08ACAD4F.title": "Elegy of the Drowned King",
+    "quest.2C1DC99F14E8971D.quest_desc": [
+        "It has a decent amount of defense and a decent number of thread slots."
+    ],
+    "quest.2C1DC99F14E8971D.title": "Arcanist Armor",
+    "quest.2C5B865DB5AA478E.quest_desc": [
+        "You can make conveyor belts with dried kelp.",
+        "",
+        "6 of them will make you a belt, that you can attach to 2 shafts. These will require rotation power to operate."
+    ],
+    "quest.2C5B865DB5AA478E.quest_subtitle": "Movement!",
+    "quest.2C5B865DB5AA478E.title": "Conveyor Belts",
+    "quest.2C7615C45D16431F.quest_desc": [
+        "You, who carry the blood of the firstborn, listen closely. This realm, the End, receives you differently than it does mortals. It is a sacred place, and you are bound by its ancient laws.",
+        "",
+        "You will find yourself not at the island's heart, but drawn instead to a small, silent altar nearby, where a 'Primordial Anchor' rests. This is no mere stone; it is a conduit of my own power, a testament to the fragile balance that the Ender Dragon, known to your kind as 'The First Dragon', upholds.",
+        "",
+        "{image:ftblibrary:textures\/faces\/minecraft\/ender_dragon.png width:50 height:50 align:center}",
+        "",
+        "{@pagebreak}",
+        "When the Anchor glows with emerald light, the seal is stable. Touch it, and you may receive a fragment of my blessing, a new power, or a release from a curse already upon you. Should its light fade, an Ender Pearl may rekindle it.",
+        "",
+        "{image:dragonsurvival:block\/primordial_anchor_charge width:100 height:100 align:center}",
+        "{@pagebreak}",
+        "But heed this warning: to slay the Ender Dragon is a grave transgression. It is to break the key and wound the very fabric of this realm. My sorrow will fall upon all involved as a curse, and for you, dragon-kin, it will be most severe, shackling the very abilities that define you.",
+        "{image:dragonsurvival:textures\/mob_effect\/ender_dragon_curse.png width:50 height:50 align:center}",
+        "{@pagebreak}",
+        "In the Dragon's absence, the Anchor will bleed with a crimson light, a wound upon the void that will offer only pain to those who touch it, rejecting any offering.",
+        "",
+        "Only by showing remorse, by restoring the Ender Dragon to its rightful place, can the wound be healed, my curse be lifted, and the balance be restored.",
+        "",
+        "{image:dragonsurvival:block\/primordial_anchor_bloody width:100 height:100 align:center}"
+    ],
+    "quest.2C7615C45D16431F.title": "The Law of the First Dragon",
+    "quest.2D60A8FB72D8EB02.quest_subtitle": "Time to store Grape Juice into a jar.",
+    "quest.2D60A8FB72D8EB02.title": "Yup! That tastes Purple!",
+    "quest.2D6C875B01BC41B0.quest_desc": [
+        "You hold the heart of the plague. Approach the slumbering beast and present the necklace. Awaken the Ancient Remnant, a king whose very bones fester with unnatural decay, and face the rage of a monarch twisted into an avatar of pestilence.",
+        "",
+        "Grant its blighted spirit peace to cleanse the desert's festering wound."
+    ],
+    "quest.2D6C875B01BC41B0.title": "The Rotting Monarch",
+    "quest.2D7F9BED8B8873A3.quest_desc": [
+        "With the Serpent's Sentinel shattered, a path opens. The oppressive energy of Nyxarys recedes, revealing echoes of a far older power, the legacy of the first dragons, left behind in this shattered realm.",
+        "",
+        "Seek out the silent 'Treasure End' statues of dragonkind that lie hidden amongst these islands. Some guard the very essence of a dragon's soul; others bestow gifts of flight. Claim the ancient power within, and find your way back to the Overworld."
+    ],
+    "quest.2D7F9BED8B8873A3.title": "Return to the Draconia",
+    "quest.2E66F8DBB63A6500.quest_desc": [
+        "You can check the catalysts in JEI.",
+        "",
+        "The catalysts for the Fire essence",
+        "- Flint and Steel",
+        "- Gunpoweder",
+        "- Torch"
+    ],
+    "quest.2E6AC058F44A30BF.quest_desc": [
+        "Deep within the pyramid, a skeletal monarch sleeps upon a throne of bone. It is the tomb's guardian, but also the very vessel of the plague.",
+        "",
+        "To awaken it, you must find the source of its corruption. Brave the pyramid's traps and recover the 'Necklace of the desert', a relic that now serves as the focal point for Draegor's curse. Only then can you confront the heart of the blight."
+    ],
+    "quest.2E6AC058F44A30BF.title": "The Necklace of the Desert",
+    "quest.2E78D946B1EE0420.quest_desc": [
+        "Beyond the nine known paths lies a forgotten and immensely powerful school of magic: the &3Eldritch&r school. These spells are not crafted in a forge but are rediscovered through ancient, forbidden knowledge.",
+        "",
+        "To learn an Eldritch spell, you must first hunt for &eAncient Knowledge Fragments&r, which are scattered throughout the world. Once you have gathered enough, you can use the resonant power of an &eEcho Shard&r to piece them together, restoring a complete &aEldritch Manuscript&r.   ",
+        "",
+        "Consuming this manuscript will permanently unlock a single, powerful Eldritch spell, allowing you to craft and cast it. From that point on, the Echo Shard will serve as the focus item for this ancient school of magic."
+    ],
+    "quest.2E78D946B1EE0420.quest_subtitle": "Forbidden Knowledge: The Eldritch School",
+    "quest.2F5DEFD4486D2D4D.quest_desc": [
+        "'&aEssences&r' are the pure, condensed forms of the world's elements and are essential reagents for ascending to higher tiers of magic.",
+        "",
+        "You can craft them by placing a &eSource Gem&r into the &eImbuement Chamber&r while specific 'catalyst' items are arranged on nearby &eArcane Pedestals.&r   ",
+        "",
+        "- &6Advice&r -",
+        "&7The catalyst items placed on the pedestals are not consumed in this process. Consider building a dedicated setup for each type of essence; this will allow you to produce them efficiently whenever needed, simply by supplying a Source Gem.&r"
+    ],
+    "quest.2F5DEFD4486D2D4D.quest_subtitle": "Harnessing the Elements",
+    "quest.2F5DEFD4486D2D4D.title": "Crafting Essences",
+    "quest.2FB4D03749141A8C.quest_desc": [
+        "Massive, concentrated burst damage to single targets.",
+        "",
+        "&6- How to obtain? -&r",
+        "&7Use an empty bottle on a charged creeper to obtain. You can use the Lightning Bolt Spell, lightning rod or trident to charge a creeper.&r"
+    ],
+    "quest.2FB4D03749141A8C.quest_subtitle": "Lightning",
+    "quest.31E45DE32A2392F7.quest_desc": [
+        "While &eMithril&r is key to the strongest armors, enhancing your gear to its absolute peak requires different, yet equally rare, materials. Upgrade Orb is crafted from &eCinder Essence&r dropped by Ancient Knights and &eArcane Ingot&r.",
+        "",
+        "Craft an &aEmpty Upgrade Orb&r, the foundation from which all powerful upgrades are born."
+    ],
+    "quest.31E45DE32A2392F7.quest_subtitle": "The Orb's Foundation",
+    "quest.33938BFB0091E07B.quest_desc": [
+        "A Holy-focused Spellbook",
+        "",
+        "&6- How to Obtain -&r",
+        "&7The Priest mob will trade one for a written book that can be found in the Evoker Fort. The written book must be translated by a captive wandering trader from the Evoker Fort first.&r"
+    ],
+    "quest.33C29D7ABC2F2FCF.quest_desc": [
+        "For the most advanced armors, &eMithril Ingots&r are woven into &aMithril Weave&r, a fabric humming with magical potential. This enchanted cloth serves as the primary component for legendary, masterwork armor pieces."
+    ],
+    "quest.33C29D7ABC2F2FCF.quest_subtitle": "Weaving Magic",
+    "quest.34E307EE9A6E6184.quest_desc": [
+        "&aCinder Essence&r is a crucial material required for crafting the &eAlchemist Cauldron&r or the &eupgrade orbs&r used to enhance gear. This essence is dropped by the &eAncient Knight&r, which spawns in the Nether.",
+        "",
+        "Venture into the fiery dimension and search for &5ancient battlegrounds&r or &5citadels&r where these powerful enemies frequently appear.",
+        "",
+        "{image:explorerscompass:item\/explorerscompass_29 width:32 height:32 align:center}"
+    ],
+    "quest.34E307EE9A6E6184.quest_subtitle": "The Ashen Hunter",
+    "quest.35FDE4956415F691.quest_desc": [
+        "The Ars Nouveau mod focuses on using Glyphs within your spell book to create custom spells.",
+        "",
+        "There is also some automation with familiars and rituals to perform. (See Chapter on Ars Nouveau!)"
+    ],
+    "quest.35FDE4956415F691.quest_subtitle": "Custom Magical Spells",
+    "quest.36C259928A313F37.quest_desc": [
+        "A legendary Spellbook of the dead",
+        "",
+        "&6- How to Obtain -&r",
+        "&7Random drop from Dead King&r"
+    ],
+    "quest.38317B92B9349695.quest_desc": [
+        "Weak Dragon Heart:",
+        "",
+        "+30 minutes of growth. Usable for Young or Newborn."
+    ],
+    "quest.384574C4B383C7E2.quest_desc": [
+        "To craft the most powerful spellbooks, ancient knowledge is required. It is said that in the deep dark, within the chests of &5Ancient Cities&r, one can find a sculk-infested &aRuined Book&r. Useless on its own, it is a key ingredient for the ultimate spellbook."
+    ],
+    "quest.384574C4B383C7E2.quest_subtitle": "Ancient Knowledge",
+    "quest.38C0FE5513063956.quest_desc": [
+        "&eArcane Essence&r is not very useful on its own, but its true potential is revealed when it is compressed. By combining a sufficient amount of Arcane Essence with any Ingot, you can craft an &aArcane Ingot&r, a core material for more powerful magical items."
+    ],
+    "quest.38C0FE5513063956.quest_subtitle": "Condensed Magic",
+    "quest.391FE208B286A4E6.quest_desc": [
+        "To use higher-level magic, upgrade your &eNovice Spell Book&r to an &aMage's Spell Book&r.",
+        "",
+        "This will allow you to use Tier 2 glyphs."
+    ],
+    "quest.391FE208B286A4E6.quest_subtitle": "The Apprentice's Path",
+    "quest.391FE208B286A4E6.title": "Chapter 2",
+    "quest.3AB5B00D03CB5C37.quest_desc": [
+        "The &dStarbuncle&r will be your first and most adorable assistant, capable of transporting items and harvesting specific crops for you.",
+        "",
+        "The &eStarbuncle Token&r you acquired in the previous quest is a crystal containing their very essence. Now, use the &eEnchanting Apparatus&r to imbue this token with power and craft the &aStarbuncle Charm&r the key to summoning a loyal &dStarbuncle&r of your very own."
+    ],
+    "quest.3AB5B00D03CB5C37.quest_subtitle": "The Shining Assistant",
+    "quest.3B9A9A0AFA3C0380.quest_desc": [
+        "There's plenty more to discover, have fun!",
+        "",
+        "- Cataclysm",
+        "- Minecolonies",
+        "- DoggyTalents",
+        "- Toxony",
+        "- Illagers Invasion",
+        "- And more!"
+    ],
+    "quest.3B9A9A0AFA3C0380.title": "And more!!",
+    "quest.3BF280555E7E84A6.quest_desc": [
+        "You have mastered the arts of inscription and scribing. Only the final pillar of magic remains: the &aArcane Anvil&r. This is the most powerful workstation, allowing you to upgrade scrolls, enhance armor and spellbooks, and even imbue weapons with spells"
+    ],
+    "quest.3BF280555E7E84A6.quest_subtitle": "The Arcane Anvil",
+    "quest.3C33ECB2D8ED5091.quest_desc": [
+        "You awaken in a world that feels both new and ancient. The wind whispers tales of gods and dragons, and the very trees around you seem to hold memories of a time long past.",
+        "",
+        "This is Draconia. A world born from the Silent Flame's contemplation, now scarred by an eternal conflict. Your arrival was not by chance; it is a new verse in a very old song.",
+        "",
+        "Acknowledge the world you have entered, and let your saga begin"
+    ],
+    "quest.3C33ECB2D8ED5091.title": "A World of Echoes",
+    "quest.3C7538B74969687C.quest_desc": [
+        "upgrade your Tier 2 armor to Tier 3"
+    ],
+    "quest.3C7538B74969687C.title": "Upgrade Battlemage's Armor to Tier 3",
+    "quest.3D682D49DEE48EB3.quest_subtitle": "Sourcing Legendary Materials",
+    "quest.3E148A56A2180899.quest_desc": [
+        "\"Don't look down on rocks!",
+        "",
+        "You can't pile gold coins on soft dirt, can you?",
+        "",
+        "We need foundation materials.",
+        "",
+        "It's common stone, but I'll pay you extra for it!\""
+    ],
+    "quest.3E148A56A2180899.quest_subtitle": "Solid Ground",
+    "quest.3E148A56A2180899.title": "[Tier1] Mining",
+    "quest.3EE4735F54D13313.quest_desc": [
+        "upgrade your Tier 2 armor to Tier 3"
+    ],
+    "quest.3EE4735F54D13313.title": "Upgrade Arcanist's Armor to Tier 3",
+    "quest.3F52860FE4840682.quest_desc": [
+        "Not all power comes from steel. The Keeper of Stars, Elyth, left secrets for mortals to find, ways to weave starlight into their blades and armor.",
+        "",
+        "Plunder the lost libraries and forgotten altars of the world for 'Bookshelves', the vessels of her ancient knowledge. Gather the 'Lapis Lazuli' that glitters in the deep, for it is the pigment of the night sky itself. Prepare yourself, for true power awaits those who seek it."
+    ],
+    "quest.3F52860FE4840682.title": "Whispers of Starlight",
+    "quest.40EB43BD8B8CFBE2.quest_desc": [
+        "The bell is forged. Your final order awaits. Return to the 'Soul Rune' at the Citadel's heart and sound the call.",
+        "",
+        "The 'Echo of Tyros, First Flamebearer' will answer, not with reason, but with a scythe burning with hellfire. Face the fury of my fallen champion. Do not grant him victory. Grant him a warrior's death. This is my command."
+    ],
+    "quest.40EB43BD8B8CFBE2.title": "A Warrior's End",
+    "quest.41290A2221D2FF15.quest_desc": [
+        "Each dragon types have a specific diet suited best for them.",
+        "",
+        "On your inventory screen, the third tab at the top will give you information on the food your dragon can eat."
+    ],
+    "quest.41290A2221D2FF15.quest_subtitle": "Dragon Diets",
+    "quest.41290A2221D2FF15.title": "I'm hungry!",
+    "quest.4138EA22BF8ABF69.quest_desc": [
+        "Killing Jean (the Ender Dragon) or being in the area when she is killed will cause you to be cursed!",
+        "",
+        "To remove the curse, you must revive Jean once more, and use an Ender Pearl on one of the Primordial Anchors located around the main central island of the End."
+    ],
+    "quest.4138EA22BF8ABF69.quest_subtitle": "The Ender Dragon",
+    "quest.4196A0B72778B4A9.quest_desc": [
+        "Star Heart:",
+        "",
+        "Stop or start your natural growth."
+    ],
+    "quest.41B9105AB9128396.quest_desc": [
+        "The world has shown you its first true wound. A cold dread seeps from the earth, a silent whisper of forgotten sorrow calling your name.",
+        "",
+        "It calls to you from deep beneath the world, from a place where kings sleep in eternal unrest. Seek the source of this despair. Find the entrance to the forgotten catacombs, for the first scar upon this world awaits you within its stone halls.",
+        "",
+        "{image:irons_spellbooks:item\/compass\/wayward_compass_21 width:32 height:32 align:center}"
+    ],
+    "quest.41B9105AB9128396.title": "Whispers from Below",
+    "quest.4252944538746727.quest_desc": [
+        "You stand within the End, a land of stark silence. But Nyxarys's whispers are not absent here; they echo from the crumbling walls of a forgotten fortress.",
+        "",
+        "Seek out this 'Ruined Citadel', the heart of his surveillance. It is from this vantage that he gazes upon the seal, plotting its demise.",
+        "",
+        "{image:cataclysm:item\/void_eye width:32 height:32 align:center}"
+    ],
+    "quest.4252944538746727.title": "The Citadel of Ruin",
+    "quest.42C41C50BA14FFF1.quest_desc": [
+        "Tundra, Aether, Astral, Sculk, Brain-Stealer, Griffins are all types of dragons(and one bird) that you can play as, added extra on top of Dragon Survival.",
+        "",
+        "Each have specific diets, some more restrictive then others. (Griffins can eat anything, while Astral doesn't really eat.)"
+    ],
+    "quest.42C41C50BA14FFF1.quest_subtitle": "More Dragons and Griffins",
+    "quest.43F572C577A03A34.quest_desc": [
+        "&eMagebloom&r is the sole source of &eMagebloom Fiber&r, an essential component for crafting your first set of magical armor. Cultivating this mystical plant is your next objective.   ",
+        "",
+        "Using the &eEnchanting Apparatus&r you just built, imbue an ordinary seed with the power of &eSource Gems&r to create a &aMagebloom Seed&r. This seed will be crucial for your advancement as a mage."
+    ],
+    "quest.43F572C577A03A34.quest_subtitle": "The Seeds of Power",
+    "quest.453E62D64B81006A.quest_desc": [
+        "To awaken the boss sleeping within the Citadel, you need a special item: the &aCinderous Soulcaller&r. Craft this item and take it to the highest floor of the Citadel. Use it near the &eCinderous Soul Rune&r located in the center to summon the boss.",
+        "{image:irons_spellbooks:block\/cinderous_soul_rune width:32 height:32 align:center}"
+    ],
+    "quest.453E62D64B81006A.quest_subtitle": "Awakening the Citadel",
+    "quest.456DCE666FAB6C74.quest_desc": [
+        "Summoning various creatures and using magical trickery."
+    ],
+    "quest.456DCE666FAB6C74.quest_subtitle": "Evocation",
+    "quest.45ABE2097FC3E432.quest_subtitle": "Sourcing Legendary Materials",
+    "quest.45AF92E9DB476367.quest_subtitle": "Master of a School",
+    "quest.46476CCFA800FBDC.quest_desc": [
+        "Evenly distributes received Source to multiple linked destinations. ",
+        "",
+        "Useful when you need to consistently supply an equal amount of Source to two or more devices."
+    ],
+    "quest.46476CCFA800FBDC.title": "Source Relay: Splitter",
+    "quest.4691160F4A50E8B0.quest_desc": [
+        "Your loyal &dStarbuncle&r possesses the unique ability to automatically harvest Source Berries. Let's harness this talent to create a self-sustaining farm that provides a bountiful supply of magical energy.",
+        "",
+        "With the &eDominion Wand&r, right-click your summoned &dStarbuncle&r to begin issuing your command.",
+        "",
+        "Next, while crouching, right-click the &6chest&r you wish to be the destination for the harvested berries. This will bind the location to your Starbuncle's task.",
+        "",
+        "Now, observe. You will witness your diligent servant selectively harvest only the fully-grown Source Berries and dutifully deposit them into the designated chest.",
+        "",
+        "- &6Advice&r -",
+        "&7Should you set the destination incorrectly, you can clear all instructions by crouching and right-clicking the &dStarbuncle&r &7with the&r &eDominion Wand&7."
+    ],
+    "quest.4691160F4A50E8B0.title": "Living Automation",
+    "quest.46C2A4EC50856D6D.quest_desc": [
+        "This quest line is designed to guide you through the world of Ars Nouveau, helping you grow from a humble novice into a world-shaking archmage. Follow each step to build your magical foundation, create powerful spells, and construct your own magical workshop."
+    ],
+    "quest.46C2A4EC50856D6D.quest_subtitle": "The Path of the Archmage",
+    "quest.46C2A4EC50856D6D.title": "Welcome to Ars Nouveau!",
+    "quest.4899FD60B0D7C72C.quest_desc": [
+        "It has the lowest defense but the most Thread slots."
+    ],
+    "quest.4899FD60B0D7C72C.title": "Sorcerer Armor",
+    "quest.48CAC07693B6162F.quest_desc": [
+        "Automatically collects Source from all unlinked Jars within a 5-block radius. ",
+        "",
+        "Gathering Source from multiple, spread-out Sourcelinks into a single network.",
+        "",
+        "Extremely convenient as it doesn't require linking each jar individually."
+    ],
+    "quest.48CAC07693B6162F.title": "Source Relay: Collector",
+    "quest.49FFEDF68982D737.quest_desc": [
+        "You have faced the harshest trial and proven your worth. The spoils from defeating the &dWilden Chimera&r are the final key needed to craft the &aArchmage's Spellbook&r. This grimoire is the pinnacle of your journey, unlocking Tier 3 glyphs and pushing your magical potential to its absolute limit."
+    ],
+    "quest.49FFEDF68982D737.quest_subtitle": "The Archmage's Ascension",
+    "quest.4AFF40349655D2CF.quest_desc": [
+        "The &aAlteration Table&r allows you to weave &aThreads&r into your armor, granting powerful passive effects. Upgrade a piece of armor to Tier 2 and apply your first thread."
+    ],
+    "quest.4AFF40349655D2CF.quest_subtitle": "Weaving Magic into Armor",
+    "quest.4CFA1470CEF3E354.quest_desc": [
+        "The &aAgronomic Sourcelink&r is a mystical device that harvests &bSource&r from the very life force of growing plants. It's time to construct your first Source production facility.",
+        "",
+        "Place the &aSourcelink&r and a &aSource Jar&r together, then build a small &eSourceberry&r farm around them.",
+        "The Sourcelink will passively gather &bSource&r from the berries as they grow, storing it in the nearby Jar for your future use."
+    ],
+    "quest.4CFA1470CEF3E354.quest_subtitle": "The Power of Nature",
+    "quest.4D2CA5FFBFA7AB16.quest_desc": [
+        "Clad in the light of the earth's heart, you stand ready. For a moment, there is silence. The world seems to hold its breath, acknowledging the champion that now stands upon its soil.",
+        "",
+        "But the silence is broken. The whispers you heard before have grown into a clear, sorrowful cry. A scar upon the world, long hidden, now reveals itself to your new strength. The true journey begins now. Acknowledge the call."
+    ],
+    "quest.4D2CA5FFBFA7AB16.title": "The World Breathes",
+    "quest.4E2F8DE4A58FDFA3.quest_desc": [
+        "It has the highest defense, but few Thread slots."
+    ],
+    "quest.4E2F8DE4A58FDFA3.title": "Battlemage Armor",
+    "quest.4E72CD3E329AAA71.quest_desc": [
+        "Now it is time to learn how to pay a price for even greater power.",
+        "",
+        "The &aTablet of Overgrowth&r is your first 'Source-Consuming' ritual, which draws upon the Source in your network to explosively accelerate the growth of nearby plants.",
+        "",
+        "The true value of this ritual lies in saving time.",
+        "",
+        "Be aware, however, that this forced growth will &l&cnot&r &lgenerate Source from an &eAgronomic Sourcelink&r."
+    ],
+    "quest.4E72CD3E329AAA71.quest_subtitle": "The Price of Growth",
+    "quest.4EDD3338BAAF743A.quest_desc": [
+        "The ashes rise. From the flames, 'Ignis' emerges, a being of pure power, clad in impenetrable armor, wielding a sword and shield that can unmake creation itself. It is the Maw's final champion, the last shadow cast by the void.",
+        "",
+        "This is the final battle. Quench this last fire. Silence the Maw. The fate of Draconia rests upon your shoulders. Restore the Balance."
+    ],
+    "quest.4EDD3338BAAF743A.title": "The Final Cinder",
+    "quest.4F0CACA80CA4F315.quest_desc": [
+        "\"&l&o&eOoh! Shiny!!&r",
+        "",
+        "&o....Ahem,&r I must stay calm.",
+        "",
+        "That's the gem found only deep underground or in dungeons, right?",
+        "",
+        "This is precious. I'll pay a hefty price for your bravery!\""
+    ],
+    "quest.4F0CACA80CA4F315.quest_subtitle": "All That Glitters",
+    "quest.4F0CACA80CA4F315.title": "[Tier3] Exploration",
+    "quest.4FFB11111EEEA02D.quest_desc": [
+        "A scroll holds the echo of a spell, but an &aInscription Table&r makes that echo sing. This workstation allows you to transfer fragile scrolls into a sturdy spellbook, making their power your own."
+    ],
+    "quest.4FFB11111EEEA02D.quest_subtitle": "The Art of Inscription",
+    "quest.50AAF4723149A078.quest_subtitle": "Craft your first Imbuement Chamber.",
+    "quest.50AAF4723149A078.title": "It's called, MAGIK",
+    "quest.50FB586FFFAC33AE.quest_desc": [
+        "\"Sleeping on hard gold is nice,",
+        "",
+        "but sometimes I miss a soft wool pillow.",
+        "",
+        "Can you get me some fluffy wool?\""
+    ],
+    "quest.50FB586FFFAC33AE.quest_subtitle": "Cozy Bedding",
+    "quest.50FB586FFFAC33AE.title": "[Tier1] Husbandry",
+    "quest.518911E77C2DE085.quest_desc": [
+        "Dragon Heart Shard:",
+        "",
+        "+10 minutes of growth. Usable as a newborn only."
+    ],
+    "quest.518911E77C2DE085.title": "Dragon Heart Shard",
+    "quest.51A4F5A55751FEF9.quest_desc": [
+        "Place &elapis lazuli&r or &eamethyst&r into the Imbuement Chamber to create your first &aSource Gem&r. This will be the foundation of all magical crafting"
+    ],
+    "quest.51A4F5A55751FEF9.quest_subtitle": "The Creation of Source",
+    "quest.51E09A34284E5D72.quest_desc": [
+        "An &eEmpty Upgrade Orb&r is a vessel, ready to be filled with potent magical energy. You can infuse it with the essence of a rune to create a specialized orb for enhancing your gear.",
+        "",
+        "Try crafting a &aMana Upgrade Orb&r using the &eArcane Rune&r you received as a reward from a previous quest. This powerful artifact can be used at an &eArcane Anvil&r to permanently increase the mana capacity of your equipment."
+    ],
+    "quest.51E09A34284E5D72.quest_subtitle": "Infusing the Orb",
+    "quest.52A6312666869670.quest_desc": [
+        "Welcome to&l Dragoncraft!&r",
+        "",
+        "This chapter will contain a few information about things and mods to get you started on your adventures in Draconia!"
+    ],
+    "quest.52C9E1A2A805EFAE.quest_desc": [
+        "Star Bone:",
+        "",
+        "Reduces your growth by 1 hour."
+    ],
+    "quest.52D23B72F94EDF3D.quest_desc": [
+        "A simple but effective Spellbook",
+        "",
+        "&6- How to Obtain -&r",
+        "&7Craftable&r"
+    ],
+    "quest.53279B928EFD7768.quest_desc": [
+        "The Unyielding Gale of Orryx howls across the land, a cry of absolute stasis. Legends speak of an 'Ancient Factory' where his oppressive will is given form, where machines of tyranny are forged without rest.",
+        "",
+        "You must find this place. Follow the trail of iron and despair to uncover the heart of Orryx's dominion.",
+        "",
+        "{image:cataclysm:item\/mech_eye width:32 height:32 align:center}"
+    ],
+    "quest.53279B928EFD7768.title": "The Iron Tyrant",
+    "quest.53DF2C0FE883D081.quest_desc": [
+        "Crafting legendary armor requires more than just &eMithril&r. You will also need to acquire two exceptionally rare materials:",
+        "",
+        "&6&l- Divine Soulshard -&r&r",
+        ": This holy artifact is a boss drop. To find this boss, you must first craft an &eAncient Furled Map&r, which will lead you to its location in the Nether.",
+        "",
+        "&6&l- Pyrium Ingot -&r&r",
+        ": This fiery ingot can only be found within the vaults of the &5Citadel&r, a large, black castle in the Nether. To open these vaults, you'll need a Decrepit Key, which is dropped by the boss summoned within the Citadel.",
+        "",
+        "This boss is &cend-game level&r, so it will be stronger than you expect.",
+        "so be careful."
+    ],
+    "quest.53DF2C0FE883D081.title": "Sourcing Legendary Materials",
+    "quest.55AF8ABF5B60EF15.quest_desc": [
+        "Great magic originates from nature. Find the magically imbued &aArchwood&r Trees to secure their wood, and gather the shining &eAmethyst Shards&r from deep within the earth.",
+        "",
+        "- &6Advice&r -",
+        "&7If the vast world feels daunting, use the &eNature's Compass&r &7to search for an \"Archwood Forest.\" The compass will guide your steps toward these enchanted woods.&r",
+        "{image:naturescompass:item\/naturescompass_21 width:32 height:32 align:center}"
+    ],
+    "quest.55AF8ABF5B60EF15.quest_subtitle": "Magical Ingredients",
+    "quest.5607AC123F406833.quest_desc": [
+        "The stars whisper of a truth hidden within a lie. In the far north, a 'Frosted Prison' glitters, a beautiful and impossible fortress of ice. But its beauty is a falsehood, its light a mirage. It is a cage of illusions built by Erythral.",
+        "",
+        "To walk the path of destiny, you must first see through the deception. Go, seeker. Step into the grand illusion and find the truth that lies frozen within.",
+        "",
+        "{image:cataclysm:item\/cursed_eye width:32 height:32 align:center}"
+    ],
+    "quest.5607AC123F406833.title": "The Grand Illusion",
+    "quest.573F5CC8917A94F7.quest_desc": [
+        "Versatility, including teleportation and utility."
+    ],
+    "quest.573F5CC8917A94F7.quest_subtitle": "Ender",
+    "quest.579016CCA20872DE.quest_desc": [
+        "Below the waves, a magnificent sanctum sleeps, its great dome half-drowned and forgotten by time. Greythys's influence is strong here, having summoned a creature of insatiable hunger to guard its hallowed halls.",
+        "",
+        "Your first task is to find this lost edifice. Plunge into the depths and discover the grand structure that now serves as a lair for the abyss.",
+        "",
+        "{image:cataclysm:item\/abyss_eye width:32 height:32 align:center}"
+    ],
+    "quest.579016CCA20872DE.title": "The Sunken Sanctum",
+    "quest.57D29E0CFE7CBD6F.quest_desc": [
+        "&o&7He didn't seem to notice...",
+        "",
+        "&o&7or maybe he's ignoring you.",
+        "",
+        "&o&7But that reaction was boring.",
+        "",
+        "&o&7Maybe try again, but &l&fbolder?&r"
+    ],
+    "quest.57D29E0CFE7CBD6F.title": "👉 &oBoop snoot",
+    "quest.57F15A80341FC8CC.quest_desc": [
+        "Before you stands a colossus forged from netherite, redstone, and the blackest stone of the abyss a twisted mockery of life, animated by a tormented soul. This golem, a perversion of the Redstone Golems of legend, is now a puppet forced to dance on Vaemir's strings.",
+        "",
+        "Its every move is a testament to its unending torment. To strike it down is no act of mere destruction, but one of profound mercy. End its suffering and grant a final, quiet release to a corrupted, unwilling soul."
+    ],
+    "quest.57F15A80341FC8CC.title": "The Unwilling Colossus",
+    "quest.58EDE384B89A5980.quest_desc": [
+        "LootR is a mod that adds randomly generated chests and containers for everyone!",
+        "",
+        "If you find a LootR container in the world, loot it! The loot will be unique to you and others can loot the same container for loot as well!"
+    ],
+    "quest.58F8ADD2A1F29E2D.quest_desc": [
+        "You have mastered the common magical materials, but a metal infused with pure magic awaits: &aMithril&r.",
+        "",
+        "This rare ore is found only in the deepest parts of the world, below &6Y=-38&r, hidden from the open air. It is so resilient that only a &enetherite pickaxe&r can harvest it.",
+        "",
+        "Your journey into masterwork forging begins with a single, raw piece of this legendary metal."
+    ],
+    "quest.58F8ADD2A1F29E2D.quest_subtitle": "The Rarest Metal",
+    "quest.594D8BDD65C02D63.quest_desc": [
+        "You can check the catalysts in JEI.",
+        "",
+        "The catalysts for the Air essence",
+        "- Feather",
+        "- Arrow",
+        "- Wilden Wing"
+    ],
+    "quest.5B2DE24A0A9911CF.quest_desc": [
+        "To summon the great beast, you must prepare a worthy sacrifice. Hunt the corrupted fauna, both within the sanctum's flooded halls and in the surrounding abyss, to gather the components for the 'Abyssal Sacrifice'.",
+        "",
+        "This is no mere tribute; it is a dark ritual, an offering of life and death that will call to the insatiable hunger of the deep. Forge the sacrifice, and prepare to face what answers."
+    ],
+    "quest.5B2DE24A0A9911CF.title": "The Abyssal Sacrifice",
+    "quest.5C5CC1BF6981835F.quest_desc": [
+        "The &aEnchanting Apparatus&r is the Tier 2 crafting station that will elevate your workshop to the next level. To unlock its true potential, you must construct it as a proper multi-block structure.",
+        "",
+        "First, place the &aArcane Core&r, and then the &aEnchanting Apparatus&r block directly on top of it. Afterward, you must complete the magical altar by placing &aArcane Pedestals&r within a 3-block radius of the &aApparatus&r itself, not the core.",
+        "",
+        "[top]  [side]",
+        " &e■■■&r　 &8□□□&r   &5■&r = Core + Apparatus",
+        " &e■&r&5■&r&e■&r　 &8□&r&b■&r&8□&r   &e■&r = Arcane Pedestal",
+        " &e■■■&r　 &e■■■&r   &b■&r = Apparatus",
+        "",
+        "&c*Note:*&r",
+        "&7If the Enchanting Apparatus still isn't working even though everything is set up correctly, check for any unintended pedestals placed within a 3-block radius.&r",
+        "",
+        "　　"
+    ],
+    "quest.5C5CC1BF6981835F.quest_subtitle": "The Heart of the Workshop",
+    "quest.5D1890985F3D52B3.quest_desc": [
+        "A Fire-focused Spellbook",
+        "",
+        "&6- How to Obtain -&r",
+        "&7Rare random drop from Blazes&r"
+    ],
+    "quest.5D83A12E6486CBF5.quest_desc": [
+        "The corrupted echo of Tyros will not answer the call of a common warrior. A summons of honor is required.",
+        "",
+        "You will forge the 'Cinderous Soul Caller', a bell whose chime echoes with the glory of battle. Gather the rarest materials from the Nether's depths and craft this artifact. Its toll must be worthy of a champion's soul."
+    ],
+    "quest.5D83A12E6486CBF5.title": "The Bell of Souls",
+    "quest.5D9A018D40D32DE8.quest_desc": [
+        "All threads of fate now lead to a single point. A scar upon the Nether, where the Maw's final breath will be drawn.",
+        "",
+        "See it in your mind's eye: a 'Burning Arena' where echoes of battle cry out for a victor. It is here that the cycle must end.",
+        "",
+        "Go. Your destiny awaits its final verse.",
+        "",
+        "{image:cataclysm:item\/flame_eye width:32 height:32 align:center}"
+    ],
+    "quest.5D9A018D40D32DE8.title": "The Final Arena",
+    "quest.5DC1E077FFAEBCAA.quest_desc": [
+        "Dark magic, such as lifesteal and summoning undead.",
+        "",
+        "&6- How to obtain? -&r",
+        "&7Place a lit campfire beneath a cauldron, and put a mob in the cauldron to cook the mob. This will fill the cauldron with blood, which can be withdrawn with glass bottles to obtain vials of blood.&r"
+    ],
+    "quest.5DC1E077FFAEBCAA.quest_subtitle": "Blood",
+    "quest.5DDE38011E883F6C.quest_desc": [
+        "You can check the catalysts in JEI.",
+        "",
+        "The catalysts for the Manipulation essence",
+        "- Stone Button",
+        "- Clock",
+        "- Redstone"
+    ],
+    "quest.5E93B483040C00A6.quest_desc": [
+        "The size and growth of your dragonic form will increase in time.",
+        "",
+        "A dragon will grow naturally: ",
+        "Newborn -> Young -> Adult -> Ancient",
+        "",
+        "Griffins use different items for growth than dragons."
+    ],
+    "quest.5E93B483040C00A6.quest_subtitle": "Growing Up!",
+    "quest.5E9CF319767A0A96.quest_desc": [
+        "Use Arcane Cloth to craft a set of &aMage Armor&r. This armor provides more mana and defense compared to the &eWandering Magician&r set and will serve as an excellent foundation for all future magical specializations"
+    ],
+    "quest.5E9CF319767A0A96.quest_subtitle": "The Battlemage's Armor",
+    "quest.5EEE45CC6C24B24E.quest_subtitle": "Craft your first Jewelcrafting Station.",
+    "quest.5EEE45CC6C24B24E.title": "Jewelry Maker time",
+    "quest.60133A583B24C4DF.quest_desc": [
+        "Crafting a scroll requires three things: &epaper&r, &eInk&r to hold the magical power, and a &eFocus&r to determine the spell's school. Magic is divided into nine schools, each with its own unique focus item. Refer to the table below to explore your path."
+    ],
+    "quest.60133A583B24C4DF.title": "The Nine Paths",
+    "quest.605CB66FF638356F.quest_desc": [
+        "Specialization can lead to great power, but true mastery comes from adaptability. For a mage who is not tied to a specific elements, the &aNetherite Battlemage armor&r set is highly recommended. This armor provides excellent protection and a significant boost to your magical reserves without favoring any single school of magic. By upgrading your existing &eMage Armor&r with the power of &eNetherite&r at a &esmithing table&r, you can craft this versatile and powerful set"
+    ],
+    "quest.605CB66FF638356F.quest_subtitle": "The Versatile Battlemage",
+    "quest.60DFB05FE34646BB.quest_desc": [
+        "\"I need fuel to keep my flame sac warm!",
+        "",
+        "Burning wood goes out too fast.",
+        "",
+        "You know those black, hard stones that burn for a long time, right?\""
+    ],
+    "quest.60DFB05FE34646BB.quest_subtitle": "Burning Flame",
+    "quest.60DFB05FE34646BB.title": "[Tier1] Fuel",
+    "quest.62255B323BACB0BC.quest_desc": [
+        "You can check the catalysts in JEI.",
+        "",
+        "The catalysts for the Earth essence",
+        "- Iron Ingot",
+        "- Dirt",
+        "- Seeds"
+    ],
+    "quest.62994919FC8983F1.quest_desc": [
+        "You have already learned the basics of rituals. Now, it is time to apply that knowledge and challenge the most powerful entity in &lArs Nouveau&r.",
+        "",
+        "'Augment' the &aTablet of Summon Wilden&r ritual with a &eWilden Horn&r, a &eWilden Spike&r, and a &eWilden Wing&r.",
+        "",
+        "The ritual will then transform into a grand ceremony that calls forth the fearsome '&dWilden Chimera&r' boss. Use all of your magic and skills to overcome this ultimate trial."
+    ],
+    "quest.62994919FC8983F1.quest_subtitle": "The Ultimate Trial",
+    "quest.62D920F767328225.quest_desc": [
+        "You have silenced the forge and blinded the serpent's eye in the void. Well done, champion. But the stars do not sing praises; they weep with fear.",
+        "",
+        "Your actions have sent tremors through the fabric of fate. In disrupting the rivals' plans, you have inadvertently shaken the cages of far older, more powerful beings. Three great sorrows, long dormant, now begin to stir in their ancient slumber.",
+        "",
+        "Your trials are not over. They have just begun."
+    ],
+    "quest.62D920F767328225.title": "The Sleepers Stir",
+    "quest.6316DC089EF5D4ED.quest_desc": [
+        "Your Flimsy Journal has served its purpose, but its limited space now hinders your growth. It is time to craft an &aApprentice's Spell Book&r using resources from the Nether. This improved spellbook offers more spell slots and powerful magical effects."
+    ],
+    "quest.6316DC089EF5D4ED.quest_subtitle": "The Scholar's Tome",
+    "quest.63B3973E309BDDF0.quest_desc": [
+        "It is time to etch your knowledge into the pages.",
+        "",
+        "Place your spellbook and a scroll onto the &eInscription Table&r.",
+        "",
+        "This will permanently record the spell in your book, allowing you to cast it anytime, so long as you have mana. Once inscribed, hold the spellbook and right-click to equip it."
+    ],
+    "quest.63B3973E309BDDF0.title": "Binding the First Spell",
+    "quest.640019EEEEA9C623.quest_desc": [
+        "Casting spells consumes mana, your inner reservoir of magical energy. To expand this reservoir, special equipment is required. The &aWandering Magician armor&r set is designed for novices and provides the essential extra mana for spellcasting."
+    ],
+    "quest.640019EEEEA9C623.quest_subtitle": "The Mage's Attire",
+    "quest.64B5DC9F8F20BC92.quest_desc": [
+        "A cursed Spellbook",
+        "",
+        "&6- How to Obtain -&r",
+        "&7Rare random world loot&r"
+    ],
+    "quest.64E03CF94FD1208D.quest_desc": [
+        "&dRituals&r are a form of grand magic, capable of producing powerful effects that far surpass ordinary spells.",
+        "",
+        "All rituals are performed using a &aRitual Brazier&r as their focus. It's time to craft the centerpiece of your future grand workings."
+    ],
+    "quest.64E03CF94FD1208D.quest_subtitle": "Prelude to Grand Magic",
+    "quest.64EA09325CA73BE1.quest_desc": [
+        "Should you have decided to begin your new life as a Dragon (or Griffin) there are some keybinds by default that should be set up for you:",
+        "",
+        "- To toggle flight mode: G key",
+        "- To cast your dragon ability: C key (or hold C in some cases.)",
+        "- To change which ability is selected: R key"
+    ],
+    "quest.64EA09325CA73BE1.quest_subtitle": "Keybinds and Buttons",
+    "quest.64EA09325CA73BE1.title": "Dragon Survival",
+    "quest.64EEB95D556D27D7.quest_desc": [
+        "Every great journey begins with knowledge. The Iron's Guidebook is an essential read, containing the foundational knowledge for any spellcaster. It can be crafted with an ordinary book and an Arcane Essence.",
+        "{image:irons_spellbooks:item\/arcane_essence width:32 height:32 align:center}"
+    ],
+    "quest.64EEB95D556D27D7.quest_subtitle": "The Arcanist's Primer",
+    "quest.6694BA4236F8F4A5.quest_desc": [
+        "It's time to create a vessel for your mana. The &aNovice Spell Book&r is the first tool that allows you to create and cast your own spells"
+    ],
+    "quest.6694BA4236F8F4A5.quest_subtitle": "The First Spell Book",
+    "quest.6694BA4236F8F4A5.title": "Chapter 1",
+    "quest.66CC292C0774047F.quest_desc": [
+        "Automatically distributes received Source to all unlinked Jars within a 5-block radius.",
+        "",
+        "Supplying Source that has arrived at a central point to the jars powering various machines.",
+        "",
+        "Forms a perfect distribution system when paired with a Collector."
+    ],
+    "quest.66CC292C0774047F.title": "Source Relay: Depositor",
+    "quest.6723BD6572FF0B34.quest_desc": [
+        "To craft stronger mage robes, a special material is needed. By compressing a large amount of &eArcane Essence&r, you can create &aArcane Cloth&r, the primary material for professional mage armor."
+    ],
+    "quest.6723BD6572FF0B34.quest_subtitle": "Magically Woven Cloth",
+    "quest.68B813CDD65EEBC8.quest_desc": [
+        "A Ice-focused Spellbook",
+        "",
+        "&6- How to Obtain -&r",
+        "&7Craftable&r",
+        "",
+        "&7Icy Fangs drop from Ice Spiders, which only spawn rarely in snow biomes&r"
+    ],
+    "quest.6A37B244128879CC.quest_desc": [
+        "\"This dust wizards drop...",
+        "",
+        "just smelling it makes me feel powerful!",
+        "",
+        "They say those weird skeleton wizards drop this too.",
+        "",
+        "Gather these crystals of pure magic, and I will reward you handsomely!\""
+    ],
+    "quest.6A37B244128879CC.quest_subtitle": "Trace of Arcane",
+    "quest.6A37B244128879CC.title": "[Tier2] Iron's",
+    "quest.6A8064F3B3ED9A5E.quest_desc": [
+        "The Create mod is focused on making machines and contraptions of all kind.",
+        "",
+        "There is an in-game \"ponder\" system in this mod which gives you mini-tutorials on what the blocks and items can do. (W key while hovering by default)"
+    ],
+    "quest.6A8064F3B3ED9A5E.quest_subtitle": "Steampunk and Automation",
+    "quest.6AB5E4AD4F729D9D.quest_desc": [
+        "A Evocation-focused Spellbook",
+        "",
+        "&6- How to Obtain -&r",
+        "&7Rare random drop from Evokers or Archevokers&r"
+    ],
+    "quest.6AE03FECDBE6153D.quest_desc": [
+        "A Blood-focused Spellbook",
+        "",
+        "&6- How to Obtain -&r",
+        "&7Craftable&r"
+    ],
+    "quest.6DFF77993ADCAC01.quest_desc": [
+        "You have survived the wilds, wanderer. But survival is not valor. This world is beset by shadows. To face them, you require the strength of steel.",
+        "",
+        "Go to the scarred places of this world, the ruins and dungeons, and claim the iron of fallen warriors. Forge it into armor and a blade, then baptize your new strength in the blood of your enemies. Show me you are a warrior. This is your first test."
+    ],
+    "quest.6DFF77993ADCAC01.title": "The First Test of Valor",
+    "quest.6E2DCC3243C09865.quest_desc": [
+        "The main resources to get started with a lot of components of Create is Andesite Alloy.",
+        "",
+        "This is made by combining 2 zinc nuggets with 2 andesite."
+    ],
+    "quest.6E2DCC3243C09865.title": "Getting Started with Create",
+    "quest.6EF5DC4BE0C7B9CD.quest_desc": [
+        "The &eAlchemist's Cauldron&r is more than a simple recycling tool. By boiling multiple lower-tier inks in the cauldron, you can create a more concentrated, higher-tier ink.",
+        "",
+        "&6- How it works? -&r",
+        "&7Fill the cauldron with four bottles of ink of the same rarity, then add the material indicated on JEI. After a short time, one bottle of ink with a rarity one tier higher than the ingredients will be produced.&r"
+    ],
+    "quest.6EF697A1203DF8C3.quest_desc": [
+        "The true power of a Source Gem&r lies in its ability to imbue other materials with magic. You can create &aSourcestone&r, your first arcane building material, by placing a &eSource Gem&r in the center of a crafting grid and surrounding it with Stone.",
+        "",
+        "This enchanted stone will form the very foundation of the many mystical contraptions you are destined to build."
+    ],
+    "quest.6EF697A1203DF8C3.quest_subtitle": "Stone of Power",
+    "quest.7069E58E0D110D10.quest_desc": [
+        "\"Sometimes I crave flopping fish instead of land meat!",
+        "",
+        "Get me a fresh one from ocean.",
+        "",
+        "The shinier the scales, the tastier it is!\""
+    ],
+    "quest.7069E58E0D110D10.quest_subtitle": "Fresh Catch",
+    "quest.7069E58E0D110D10.title": "[Tier1] Fishing",
+    "quest.71762A05C92C78DE.quest_desc": [
+        "As your knowledge of magic grows, so too will your collection of spells. Your current spellbook may quickly run out of space.",
+        "",
+        "Fortunately, it is possible to expand a spellbook's capacity. The &aLesser Spell Slot Improvement&r is a magical item crafted from Hogskin that, when combined with a spellbook in an Arcane Anvil, will add more slots for you to inscribe new spells."
+    ],
+    "quest.71762A05C92C78DE.quest_subtitle": "Expanding Your Arsenal",
+    "quest.722195DA6E829D9D.quest_desc": [
+        "Ancient, powerful magic requiring a separate learning process"
+    ],
+    "quest.722195DA6E829D9D.quest_subtitle": "???",
+    "quest.72A6D9B71C8D939A.quest_desc": [
+        "Applying debuffs like poison to enemies."
+    ],
+    "quest.72A6D9B71C8D939A.quest_subtitle": "Poison",
+    "quest.72B6AFD8283616CD.quest_desc": [
+        "The &aSpell Turret&r is a wondrous device that casts your magic on your behalf. Upon receiving a redstone signal, it draws power from a nearby &eSource Jar&r to tirelessly cast the spell you have inscribed within it.",
+        "",
+        "Use this to create various automated facilities, such as an automated quarry or a tree farm, and expand your creativity to an industrial scale.",
+        "",
+        "Consult &bJEI&r for the crafting recipe and bring this marvel of magical engineering into your workshop."
+    ],
+    "quest.72B6AFD8283616CD.quest_subtitle": "The Automated Magic Factory",
+    "quest.744E3F58A2BF8992.quest_desc": [
+        "Within the citadel's heart, a sentinel stands eternal watch. A towering guardian, forged from the very essence of the End's twisted design, it obeys but one master: Nyxarys.",
+        "",
+        "Strike down this colossal puppet. Blind the Serpent's Eye and shield the great seal from its venomous gaze."
+    ],
+    "quest.744E3F58A2BF8992.title": "The Serpent's Sentinel",
+    "quest.74A1FC5978293A9D.quest_desc": [
+        "\"Have you seen those purple gem that glow with eternal light?",
+        "",
+        "They are made of pure, condensed magic!",
+        "",
+        "Unlike raw mana that fades away, these gems keep their power forever.",
+        "",
+        "I must have them for my collection!\""
+    ],
+    "quest.74A1FC5978293A9D.quest_subtitle": "Crystallized Magic",
+    "quest.74A1FC5978293A9D.title": "[Tier2] Ars",
+    "quest.764AADB2FCB12E0E.quest_desc": [
+        "The time for confrontation has arrived. At the factory's core hums the Harbinger, a mechanical mockery of the Wither, built not of bone but of cold, hard iron. It is the very embodiment of Orryx's unyielding will.",
+        "",
+        "Use the Nether Star to break its shield, and dismantle this herald of tyranny piece by piece. Let the forge that created it become its tomb."
+    ],
+    "quest.764AADB2FCB12E0E.title": "Silence the Forge",
+    "quest.76A0CEA8AB00F3F5.quest_desc": [
+        "Use an Enchanting Apparatus to upgrade your Tier 1 armor to Tier 2"
+    ],
+    "quest.76A0CEA8AB00F3F5.title": "Upgrade Sorceror's Armor to Tier 2",
+    "quest.76BF3F34AB4B6D4F.quest_desc": [
+        "A basic, sturdy Spellbook",
+        "",
+        "&6- How to Obtain -&r",
+        "&7Craftable&r"
+    ],
+    "quest.777B97C1B7F50236.quest_desc": [
+        "One's journey cannot begin on an empty stomach. Before you seek conflict, you must first understand the life this world provides.",
+        "",
+        "The Earthmother, Halmera, offers her bounty to all who respect it. Hunt the beasts of the plains, till the soil, and gather the fruits of the wild. A true survivor understands that survival is the first and most sacred rite."
+    ],
+    "quest.777B97C1B7F50236.title": "The Earthmother's Bounty",
+    "quest.77AD1FF5AF81A8C7.quest_desc": [
+        "Deep within the factory, the 'Harbinger' awaits, shielded by an impenetrable ward. To shatter these chains of oppression, you must summon a power born from chaos itself.",
+        "",
+        "The Nether Star, a heart of pure, agonizing power, is the key. Hunt the three-headed beast of the Nether, claim its prize, and prepare to unleash destruction upon destruction."
+    ],
+    "quest.77AD1FF5AF81A8C7.title": "Star of the Abyss",
+    "quest.783164012751BCEC.quest_desc": [
+        "The &aImbuement Chamber&r is your first magical machine. Use this device to imbue ordinary minerals with power, creating Source Gems, the core ingredient of magic."
+    ],
+    "quest.783164012751BCEC.quest_subtitle": "Imbuing Power",
+    "quest.78E99AEA3AB73025.quest_desc": [
+        "The power of an &6Archmage&r is reflected in the armor they wear. Upgrade a piece of your armor to its final tier to prepare yourself to withstand the immense flows of magical energy you are about to face. Final tier armor not only amplifies your mana but also unlocks the potential to weave the most powerful &aThreads&r into its fabric."
+    ],
+    "quest.78E99AEA3AB73025.title": "The Archmage's Regalia",
+    "quest.7B3043DBA34967B6.quest_subtitle": "Use a Fishing Rod on the Void",
+    "quest.7B3043DBA34967B6.title": "Wait, I can fish?",
+    "quest.7C7B76F45CC0CC55.quest_desc": [
+        "Elder Dragon Heart:",
+        "",
+        "+1 hour of growth. Usable at all ages."
+    ],
+    "quest.7CF86978CAAB36D8.quest_desc": [
+        "The key of truth is in your hand. The way forward is not through a door, but through a veil of falsehoods. Beyond it lies Maledictus, a warrior bound not by chains, but by a lie given form. He is the heart of Erythral's grand mirage.",
+        "",
+        "Face the warden, shatter the final illusion, and let the true light of the stars shine upon this land once more."
+    ],
+    "quest.7CF86978CAAB36D8.title": "The Heart of the Lie",
+    "quest.7CFCEE9DE2E87FFD.quest_desc": [
+        "Iron's Spellbooks and addons focus on equipement and gear to blast your enemies, heal or buff yourself and allies, and be an all around powerful spell caster."
+    ],
+    "quest.7CFCEE9DE2E87FFD.quest_subtitle": "Spell Blasting!",
+    "quest.7CFCEE9DE2E87FFD.title": "Iron's Spellbooks",
+    "quest.7DDEEEF0579899EE.quest_desc": [
+        "Crowd control by freezing or slowing enemies."
+    ],
+    "quest.7DDEEEF0579899EE.quest_subtitle": "Ice",
+    "quest.7E17322C5BC6C834.quest_desc": [
+        "The gifts of Neryssa's healing and the taints of Draegor's plagues both stem from the same root: alchemy. A 'Brewing Stand', found only in the fiery fortresses of the Nether, is the key to this power.",
+        "",
+        "Make a brief, daring journey into the Nether. Find a fortress, claim a brewing stand, and let your first concoction be one of healing, a tribute to the Lady of Tides who watches over all life."
+    ],
+    "quest.7E17322C5BC6C834.title": "Wisdom in the Cauldron",
+    "quest.7E5622B519EEA4C8.quest_desc": [
+        "Your fully upgraded armor is now ready to be imbued with the most potent of magics. Complete your magical identity by applying a powerful thread that can only be fitted into a level 3 slot. Whether it is the &aThread of Gliding&r that grants flight, or the &aThread of Undying&r that defies death itself, this choice will define you as an &6Archmage&r."
+    ],
+    "quest.7E5622B519EEA4C8.title": "Weaving Fate",
+    "quest.7E82CDB6EF9CD85D.quest_desc": [
+        "The Maw is silent. The fire is quenched. The world breathes a sigh of relief, and its first breath in an age is thanks to you.",
+        "",
+        "But every end is a new beginning. The great threat has been vanquished, but the Balance remains fragile, a thread woven from both light and shadow. Your journey as a warrior is over, but your watch as a Guardian has just begun.",
+        "",
+        "Acknowledge the path you have walked and accept the duty that lies ahead."
+    ],
+    "quest.7E82CDB6EF9CD85D.quest_subtitle": "Epilogue",
+    "quest.7E82CDB6EF9CD85D.title": "A Fragile Balance",
+    "quest.7FDE116576AEB576.quest_desc": [
+        "&eRaw Mithril&r is potent, but its true power is only unlocked through refinement. By &bblasting&r the raw ore, you can extract &eMithril Scraps&r. These scraps can then be forged into resilient &aMithril Ingots&r, the foundation for many powerful items."
+    ],
+    "quest.7FDE116576AEB576.quest_subtitle": "Forging the Arcane Metal",
+    "reward.00C10BF342D2A371.title": "???",
+    "reward.020EC35D94C2E4DB.title": "...",
+    "reward.037FE74A340C5A92.title": "???",
+    "reward.0552B493574A2A35.title": "...",
+    "reward.0690F4C9423946F5.title": "...",
+    "reward.0B687B625C3B9AAD.title": "Human\/Griffin",
+    "reward.0DE6BF4B048E3F3E.title": "...",
+    "reward.106C2C7ABE198E18.title": "...",
+    "reward.10DCDDCB0F62DEC1.title": "...",
+    "reward.120BB372F9E104AD.title": "Sea",
+    "reward.1484BFDB649BD8B2.title": "&oBonk&r",
+    "reward.1662E335EC51FB29.title": "...",
+    "reward.16BB9248B66FF92F.title": "Astral",
+    "reward.1AC9F3262281376F.title": "Forest",
+    "reward.1ACCD728763DC91F.title": "???",
+    "reward.24C44BE15E31173E.title": "...",
+    "reward.25EE2D830E2B2697.title": "...",
+    "reward.26B08774BB58976B.title": "...",
+    "reward.2797C7CAE65BDAED.title": "???",
+    "reward.294E74189036CF59.title": "&oBap&r",
+    "reward.2B2D48C94D0CD228.title": "...",
+    "reward.2C81829394FD8676.title": "...",
+    "reward.2F36FDB4FB252605.title": "...",
+    "reward.310A050242B85872.title": "...",
+    "reward.312218086CFC8BAF.title": "...",
+    "reward.324D9FE7522F6BFA.title": "Sculk",
+    "reward.3456BC4914F572FE.title": "???",
+    "reward.3485BDB748A01EBA.title": "Tundra",
+    "reward.34AF8DA2C2B81D27.title": "...",
+    "reward.356448C3F71D7E93.title": "...",
+    "reward.3CB2B01D071868C9.title": "...",
+    "reward.4016629F07D30A0E.title": "...",
+    "reward.465536DE1199930C.title": "...",
+    "reward.46BC35926A3EBDC1.title": "...",
+    "reward.4894808F245F9E82.title": "&oGrowl&r",
+    "reward.49D16852646D9447.title": ">:o",
+    "reward.4BC3DD6F7E9F6AA3.title": "...",
+    "reward.4C5F02E30E3DE25C.title": "...",
+    "reward.4E4603FB1D495FE1.title": "...",
+    "reward.4ED51426FA492700.title": "...",
+    "reward.4FF69D91B2486BA5.title": "???",
+    "reward.50C0CF3D4414E2E0.title": "...",
+    "reward.52E0B9213054ABA0.title": "...",
+    "reward.5622FFB2F6F39C56.title": "...",
+    "reward.58D801C5AE372936.title": "...",
+    "reward.5A33A090BE134280.title": "...",
+    "reward.5DEDFB53F10FEDB6.title": "???",
+    "reward.6478759E1E86F82B.title": "???",
+    "reward.675CE711FFDA570B.title": "...",
+    "reward.68B03493CF28C990.title": "...",
+    "reward.696028857191AD93.title": "...",
+    "reward.6BF367FCD4C0936F.title": "Cave",
+    "reward.6D16D078AD6870D9.title": "...",
+    "reward.6EB29EDD1425FAE3.title": "...",
+    "reward.71C951877D19C60B.title": "???",
+    "reward.7214FF5DF940186B.title": "...",
+    "reward.77C61B473B933E2F.title": "???",
+    "reward.794855A5BE11814B.title": "...",
+    "reward.7E5AF4E6E39A8B98.title": "&oPunch&r",
+    "reward_table.23E69AAFFC23AEA1.title": "Rare Ice Scroll",
+    "reward_table.329E6F653BEC5C2D.title": "Mithril",
+    "reward_table.42BC5D6343DF1DCE.title": "Rare Nature Scroll",
+    "reward_table.460077E79EE260C8.title": "Rare Fire Scroll",
+    "reward_table.4D69205CFD4004E7.title": "Tutorial Food Reward",
+    "reward_table.4DB9D8B3405C00C3.title": "Rare Holy Scroll",
+    "reward_table.51F6AE2639383F50.title": "Common Scroll",
+    "reward_table.56725637C7FCD6F5.title": "Story Food Reward",
+    "reward_table.572BBF509BE9C58E.title": "Rare Ender Scroll",
+    "reward_table.61CDB7C9BA891C58.title": "Rare Summon Scroll",
+    "reward_table.69CAE913267B9E30.title": "Rare Lightning Scroll",
+    "reward_table.6A95E64F8230AB5B.title": "Random XP Reward",
+    "reward_table.6C74F05750051916.title": "Schools of Magic",
+    "reward_table.6F22104592AA2998.title": "Seeds",
+    "reward_table.7AB9DFF21834897D.title": "Rare Blood Scroll",
+    "task.02758DADE4FD959A.title": "Any Jewel",
+    "task.045B9BB5BF379512.title": "Kill the Wilden Chimera",
+    "task.049A99660A6CC050.title": "Discover the Catacombs",
+    "task.049BA0A4F0D9A6D6.title": "Addons",
+    "task.055C5B1FD2BAAF55.title": "Upgrade Armor to Tier 3",
+    "task.058E017A336920D3.title": "Upgrade Armor to Tier 2",
+    "task.096012AB66FA57D6.title": "Slay the Ender Guardian",
+    "task.0B2ADD9BC7D644AE.title": "Slay Ignis",
+    "task.0CE36BCEBEB34826.title": "Chapter Title: Epilogue - A Fragile Balance",
+    "task.0DCE3B1124DFBA86.title": "Welcome to Iron's Spells 'n Spellbooks!",
+    "task.0FB2CB52B0AA8A61.title": "Upgrade Armor to Tier 2",
+    "task.1077372FBD987AD8.title": "Discover the Sunken City",
+    "task.11EC94D3E0D421B3.title": "Find Treasure End",
+    "task.14F7BE8767661815.title": "Upgrade Armor to Tier 3",
+    "task.1534D540E8971B34.title": "Enter The Nether",
+    "task.15EAFBA180B312B8.title": "Upgrade Armor to Tier 3",
+    "task.17B2CEDFD0536650.title": "Upgrade Armor to Tier 2",
+    "task.1A4779D9D9DEC5AC.title": "Crafting a Jewelcrafting Station.",
+    "task.1B3D4919FB7785BE.title": "Obtain Nether Star",
+    "task.1B77DC6FB7BB765A.title": "Crafting an Imbuement Chamber.",
+    "task.1C423E18A377A6C2.title": "Upgrade Armor to Tier 2",
+    "task.1CB66CCF8FD6A578.title": "\"OH DON'T YOU DARE-\"",
+    "task.1D3ACE0DA7CEA64E.title": "Obtain x16 Lapis Lazuli",
+    "task.20A9DC605704C45C.title": "Upgrade Armor to Tier 2",
+    "task.20F1B777F2FAFB56.title": "Slay the Dead King",
+    "task.20F5918B9C22D378.title": "Chapter 2",
+    "task.2181633C67A989D1.title": "Discover the Frosted Prison",
+    "task.221EA60E17E77FD8.title": "Obtain x5 Bookshelf",
+    "task.2231888A68DA7B4C.title": "Large Water Wheel",
+    "task.23066FC41C5C697B.title": "Upgrade Armor to Tier 3",
+    "task.24F36C239A1056AF.title": "Craft Explorer's Compass",
+    "task.271A7C4ACBDED1F1.title": "Discover the Cursed Pyramid",
+    "task.2AA885E9979816A7.title": "Obtain Diamond Chestplate",
+    "task.2ACB7E8DCA783461.title": "Irons",
+    "task.2BDB36BD8EDAF841.title": "Upgrade Armor to Tier 2",
+    "task.2C10B0FC674236E9.title": "Chaptor3",
+    "task.2C2DE12164F75973.title": "Brew Potion of Healing",
+    "task.2CF9D82F0546FBE5.title": "Discover the Soul Black Smith",
+    "task.2D52AEA810282211.title": "Upgrade Armor to Tier 3",
+    "task.2E2838401546602D.title": "Obtain Iron Leggings",
+    "task.2EA997A5CA47AD01.title": "Ars Nouveau",
+    "task.2FC97851B69E93C1.title": "Submit Apple",
+    "task.32832C50E44553BD.title": "Slay the Netherite Monstrosity",
+    "task.32B9FB59BCDCFDCC.title": "Cursed?",
+    "task.34C477DB0DBA80F2.title": "Upgrade Armor to Tier 3",
+    "task.36567FA64F161634.title": "Upgrade Armor to Tier 3",
+    "task.36BDE9C7F387ECAD.title": "Submit x4 Wheat",
+    "task.38B512653930D647.title": "Find a Primordial Anchor",
+    "task.3913527C9C06A355.title": "Upgrade Armor to Tier 2",
+    "task.3DD6F6D6DB0F07CD.title": "Obtain Brewing Stand",
+    "task.3E3CEF07D4DA7ACE.title": "Upgrade Armor to Tier 3",
+    "task.416763A9524D09B0.title": "Slay the Echo of Tyros, First Flamebearer",
+    "task.433D1055D03D2A8B.title": "FTB Chunks",
+    "task.4380C4D44E1653F4.title": "Slay Scylla",
+    "task.443F0B7EE6BD3114.title": "Craft Abyssal Sacrifice",
+    "task.456194D971363AA9.title": "👇 &oPoke lightly",
+    "task.456AB272D25140B3.title": "Obtain x24 Iron Ingots",
+    "task.4678B853DDE46684.title": "Obtain Iron Chestplate",
+    "task.476797F096C063C3.title": "Upgrade Armor to Tier 3",
+    "task.487EB3A4430B3AB4.title": "Kill Maledictus.",
+    "task.4926ACE9823E61FA.title": "Upgrade Armor to Tier 2",
+    "task.4A873D93275AC61A.title": "Slay 40x Any Mob",
+    "task.4CA7DFB81772E1BF.title": "Discover the Ancient Factory",
+    "task.4D936438DB0B2A81.title": "Obtain Diamond Helmet",
+    "task.4E12A5B04C075DFF.title": "Upgrade Armor to Tier 2",
+    "task.4EC6AEC814B2D712.title": "Slay the Harbinger",
+    "task.4F2FF0E571225919.title": "Craft Iron Pickaxe",
+    "task.51E5215566ED30CA.title": "Create Mod",
+    "task.529EDE7138C5AD29.title": "Obtain Iron Helmet",
+    "task.550E35D62500D84E.title": "Dragon Information",
+    "task.55FD41FA39208572.title": "Craft Iron Sword",
+    "task.565E510B55788D1C.title": "Upgrade Armor to Tier 2",
+    "task.591D31A0568BDAF8.title": "Craft a Source Jar.",
+    "task.5DBE6FF97B2936DD.title": "Slay Maledictus",
+    "task.61CC6CE36DB5FF30.title": "Chapter 1",
+    "task.62900F596900A373.title": "Obtain Iron Boots",
+    "task.63A75E4C22BC0EEF.title": "Discover the Ruined Citadel",
+    "task.63E0277A8BE3409C.title": "Welcome!",
+    "task.648ABF7134821948.title": "LootR",
+    "task.64CF13790B70764A.title": "👉 &oBoop snoot",
+    "task.65C4D0128EC1ECF0.title": "Upgrade Armor to Tier 3",
+    "task.688909A44562FDAE.title": "Submit Raw Porkchop",
+    "task.68CC8A2F6BF9575A.title": "👋 &oPAT PAT PAT!!!",
+    "task.6A1DFF0ABEC01AE8.title": "Discover the Citadel",
+    "task.6C2F2A52E6B3D045.title": "Obtain Burning Ashes",
+    "task.6CBAB96C1EDBDF42.title": "Craft Nature's Compass",
+    "task.6CE2BE2A8D980804.title": "Slay the Ancient Remnant",
+    "task.6D7C75643E6F8073.title": "Discover the Acropolis",
+    "task.6F24E110264B645C.title": "Upgrade Armor to Tier 2",
+    "task.6F74D79EEFE82280.title": "???",
+    "task.712A6978CE625DAD.title": "Discover the Burning Arena",
+    "task.7173FA2C3BEBFEFE.title": "Upgrade Armor to Tier 3",
+    "task.71DF0F1581ED0F42.title": "Upgrade Armor to Tier 3",
+    "task.72E5B2652D1899FA.title": "Obtain Diamond Leggings",
+    "task.73544237E3DB3FCA.title": "skip",
+    "task.7464716A8A990E6E.title": "Obtain Diamond Boots",
+    "task.74F5FE55F84538B6.title": "Obtain Diamond Sword",
+    "task.75860ECB71F5ED05.title": "Craft Cinderous Soul Caller",
+    "task.75B3714CD0AB0BCC.title": "Use a Fishing Rod on the Void",
+    "task.760AFB31F9370BA8.title": "Enter The End",
+    "task.776F335F9139032E.title": "Kill the Warden.",
+    "task.779CD56434BCE14C.title": "Slay the Leviathan",
+    "task.7ADF63EDEB65D088.title": "Travel 2,000 blocks",
+    "task.7B393CD97DC59873.title": "32x Any Log",
+    "task.7C3062017591D69D.title": "Food Diets!",
+    "task.7DDAA089C11FC52E.title": "Upgrade Armor to Tier 2",
+    "task.7F77CA977BEBBEDB.title": "Passives"
+}

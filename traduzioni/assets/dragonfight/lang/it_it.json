@@ -1,5 +1,5 @@
 {
-    "death.attack.weakexplosion": "Il drago dell'ender ha fatto a pezzi %s",
-    "player.gravity.hurt": "Ti ha colpito la magia del volo dei draghi e ti ha lasciato gravemente ferito!",
-    "player.gravity.warn": "Stai essendo influenzato dalla magia del volo del drago! Atterra o affronta le sue conseguenze!"
+    "death.attack.weakexplosion": "L'Enderdragon ha distrutto tutto in mille pezzi.",
+    "player.gravity.hurt": "L'incantesimo magico dei draghi, che manipolava la gravità, ha colpito e ti ha ferito gravemente!",
+    "player.gravity.warn": "Stai subendo gli effetti della magia di volo del drago! Stabilizzati o dovrai affrontare le sue conseguenze!"
 }

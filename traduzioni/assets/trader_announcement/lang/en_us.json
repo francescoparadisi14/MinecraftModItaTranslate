@@ -1,0 +1,9 @@
+{
+    "config.trader_announcement.add_glowing_effect": "Add temporary glowing effect to traders",
+    "config.trader_announcement.announce_globally": "Announce to all players",
+    "config.trader_announcement.announcement_range": "Announcement range",
+    "config.trader_announcement.announcement_sound": "Which sound to play",
+    "config.trader_announcement.announcement_sound_enabled": "Play sound when a trader spawns",
+    "message.trader_announcement.spawned_global": "A Wandering Trader has appeared",
+    "message.trader_announcement.spawned_local": "A Wandering Trader has appeared nearby"
+}

@@ -1,6 +1,6 @@
 {
-    "crashutils.copycontainer": "Classe di copia contenitore",
-    "crashutils.keycategory": "Strumenti di utilizzo in caso di crash",
-    "crashutils.openscreen": "Apri lo schermo delle utility di crash",
-    "crashutils.slottooltips": "Mostra indici di slot di tooltip"
+    "crashutils.copycontainer": "Classe contenitore (copia)",
+    "crashutils.keycategory": "Strumenti di ripristino",
+    "crashutils.openscreen": "Apri la schermata degli strumenti di ripristino.",
+    "crashutils.slottooltips": "Mostra i suggerimenti degli strumenti dell'indice"
 }

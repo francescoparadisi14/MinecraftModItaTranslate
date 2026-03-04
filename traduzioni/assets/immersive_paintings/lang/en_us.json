@@ -20,6 +20,8 @@
     "config.immersive_paintings.client.thumbnailSize.desc": "Number of pixels for the width and height of thumbnails",
     "config.immersive_paintings.common": "Common Settings",
     "config.immersive_paintings.common.advancedGroup": "Advanced Settings",
+    "config.immersive_paintings.common.automaticImageResizing": "Automatic Image Resizing",
+    "config.immersive_paintings.common.automaticImageResizing.desc": "Automatically resize images that are larger than the allowed limit",
     "config.immersive_paintings.common.generalGroup": "General Settings",
     "config.immersive_paintings.common.maxPacketsPerSecond": "Maximum Packets Per Second",
     "config.immersive_paintings.common.maxPacketsPerSecond.desc": "Maximum number of image packets to send per second",

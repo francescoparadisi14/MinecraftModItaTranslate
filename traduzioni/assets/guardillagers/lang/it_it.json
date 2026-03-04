@@ -1,8 +1,8 @@
 {
-    "entity.guardillagers.guard_illager": "Illudere di guardia",
-    "guardillagers:subtitles.guardillager.ambient": "Guardiano dei villaggi mormora",
-    "guardillagers:subtitles.guardillager.die": "Il guardiano morì",
-    "guardillagers:subtitles.guardillager.hurt": "Il guardiano villaggio si ferisce",
+    "entity.guardillagers.guard_illager": "Bandito",
+    "guardillagers:subtitles.guardillager.ambient": "\"GuardIllager\" (presumibilmente un nome o un termine specifico)",
+    "guardillagers:subtitles.guardillager.die": "GuardIllager, morire",
+    "guardillagers:subtitles.guardillager.hurt": "GuardIllager è ferito.",
     "item.guardillagers.guard_helm": "Elmo del guardiano",
-    "item.guardillagers.guard_illager_egg": "Uovo di generazione guardiano malvagio"
+    "item.guardillagers.guard_illager_egg": "Uovo di spawn per il Guard Illager"
 }

@@ -1,0 +1,12 @@
+{
+    "advancement.display_case.collapse.description": "",
+    "advancement.display_case.collapse.title": "Il crollo",
+    "advancement.display_case.colorful.description": "Modificare il colore del display case",
+    "advancement.display_case.colorful.title": "Colorato!",
+    "advancement.display_case.display_item.description": "Metti l'oggetto nella vetrina.",
+    "advancement.display_case.display_item.title": "Che oggetto fantastico!",
+    "advancement.display_case.infinity_case.description": "Metti il case espositivo all'interno del case espositivo.",
+    "advancement.display_case.infinity_case.title": "Verso l'infinito e oltre",
+    "block.display_case.display_case": "Vetrina",
+    "item.display_case.display_case": "Vetrina"
+}

@@ -1,15 +1,15 @@
 {
-    "name": "Lemon 🌼🔥",
+    "name": "Limone 🌼🔥",
     "category": "patchouli:tree_crops",
     "icon": "pamhc2trees:lemonitem",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li):Moneta: 160$(li)🌼 §2Primavera§r 🔥 §6Estate§r$(li)Rendita: 1$(li)Stadi di crescita: 8$(br2)$(l)Note$()$(li)Vedi anche: $(l:trees\/pams\/lemon)Limoncello$(\/l)`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): moneta: 160$(li) 🌼 Primavera§r 🔥 §6 Estate§r$(li)Resa: 1$(li)Fasi di crescita: 8$(br2)$(l)Note$()$(li)Vedi: Albero di limone (trees\/pams\/lemon)$(\/l)"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Lemon Tree",
+            "name ": "Patchouli: Multibloc\n\nAgrumi (albero di limone)",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {
@@ -24,8 +24,7 @@
                         "F"
                     ]
                 ]
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

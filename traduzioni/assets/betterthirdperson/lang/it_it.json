@@ -1,10 +1,10 @@
 {
-    "text.autoconfig.betterthirdperson.option.aimDuration": "Durata mira",
-    "text.autoconfig.betterthirdperson.option.aimOnInteract": "Mirare il giocatore durante l'interazione",
-    "text.autoconfig.betterthirdperson.option.followYaw": "Angolo di yaw di seguito",
-    "text.autoconfig.betterthirdperson.option.freeCameraDuringElytraFlight": "Libera telecamera durante il volo con l'elytra",
-    "text.autoconfig.betterthirdperson.option.pitchChangeSpeed": "Velocità di cambiamento del pitch",
-    "text.autoconfig.betterthirdperson.option.playerRotationSpeed": "Velocità di rotazione del giocatore",
-    "text.autoconfig.betterthirdperson.option.skipThirdPersonFrontView": "Ignora la vista in terza persona anteriore",
-    "text.autoconfig.betterthirdperson.title": "Terzo persona migliore"
+    "text.autoconfig.betterthirdperson.option.aimDuration": "Durata prevista",
+    "text.autoconfig.betterthirdperson.option.aimOnInteract": "Giocatore principale su Interact",
+    "text.autoconfig.betterthirdperson.option.followYaw": "Seguire l'angolo di Yaw",
+    "text.autoconfig.betterthirdperson.option.freeCameraDuringElytraFlight": "Telecamera gratuita durante il volo sugli elitri",
+    "text.autoconfig.betterthirdperson.option.pitchChangeSpeed": "Velocità di variazione del tono",
+    "text.autoconfig.betterthirdperson.option.playerRotationSpeed": "Velocità di rotazione dei giocatori",
+    "text.autoconfig.betterthirdperson.option.skipThirdPersonFrontView": "Salta la visualizzazione in prima persona da una prospettiva frontale.",
+    "text.autoconfig.betterthirdperson.title": "Meglio in terza persona"
 }

@@ -1,0 +1,14 @@
+{
+    "enchantment.immunity_enchantments.blindness_immunity": "Immunità alla cecità",
+    "enchantment.immunity_enchantments.blindness_immunity.desc": "Concede l'immunità alla cecità quando viene indossato.",
+    "enchantment.immunity_enchantments.mining_fatigue_immunity": "Resistenza all'affaticamento minerario",
+    "enchantment.immunity_enchantments.mining_fatigue_immunity.desc": "Concede l'immunità all'affaticamento minerario quando viene indossato.",
+    "enchantment.immunity_enchantments.nausea_immunity": "Nausea e immunità",
+    "enchantment.immunity_enchantments.nausea_immunity.desc": "Fornisce protezione contro la nausea quando indossato.",
+    "enchantment.immunity_enchantments.poison_immunity": "Immunità alle tossine",
+    "enchantment.immunity_enchantments.poison_immunity.desc": "Concede l'immunità al veleno quando indossato.",
+    "enchantment.immunity_enchantments.slowness_immunity": "Immunità alla lentezza",
+    "enchantment.immunity_enchantments.slowness_immunity.desc": "Concede l'immunità alla lentezza quando viene indossato.",
+    "enchantment.immunity_enchantments.wither_immunity": "Perdita dell'immunità",
+    "enchantment.immunity_enchantments.wither_immunity.desc": "Concede l'immunità a Wither quando viene indossato."
+}

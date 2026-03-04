@@ -1,5 +1,5 @@
 {
-    "item.lavender.dynamic_book": "Libro dinamico di lavanda",
+    "item.lavender.dynamic_book": "Libro",
     "text.lavender.book.back": [
         "Go Back\n",
         {
@@ -7,7 +7,7 @@
             "color": "gray"
         }
     ],
-    "text.lavender.book.bookmark.add": "Aggiungi segnalibro",
+    "text.lavender.book.bookmark.add": "Aggiungi segnaletica",
     "text.lavender.book.bookmark.remove_hint": {
         "text": "Shift-click to remove",
         "color": "dark_gray"
@@ -30,7 +30,7 @@
             "color": "gray"
         }
     ],
-    "text.lavender.book.reload": "Ricarica",
+    "text.lavender.book.reload": "Ricaricare",
     "text.lavender.book.unlock_progress": [
         {
             "text": "Unlocked: ",
@@ -53,8 +53,8 @@
         "font": "minecraft:uniform",
         "color": "gray"
     },
-    "text.lavender.entry.multiple_unread": "Entrate non lette",
-    "text.lavender.entry.unread": "Inserzione non letta",
+    "text.lavender.entry.multiple_unread": "Messaggi non letti",
+    "text.lavender.entry.unread": "Messaggio non letto",
     "text.lavender.entry_hud.click_to_view": {
         "text": "Click to view",
         "color": "gray"
@@ -92,8 +92,8 @@
         }
     ],
     "text.lavender.index": "Indice",
-    "text.lavender.index_category": "Tutti gli elementi",
-    "text.lavender.index_category.title": "Voci",
+    "text.lavender.index_category": "Tutte le voci",
+    "text.lavender.index_category.title": "Inserimenti",
     "text.lavender.invalid_internal_link": [
         {
             "text": "Invalid internal link: ",
@@ -129,10 +129,10 @@
         "text": "⚓",
         "color": "gray"
     },
-    "text.lavender.structure_component.all_layers_tooltip": "Tutti i livelli",
-    "text.lavender.structure_component.hide_hint": "❌ Fai clic con il pulsante destro per nascondere",
+    "text.lavender.structure_component.all_layers_tooltip": "Tutte le strati",
+    "text.lavender.structure_component.hide_hint": "❌ Clicca e trascina per nascondere",
     "text.lavender.structure_component.layer_tooltip": "Strato: %d",
-    "text.lavender.structure_component.place_hint": "⚓ Clicca con Shift per posizionare",
+    "text.lavender.structure_component.place_hint": "⚓ Clicca con il tasto destro per posizionare",
     "text.lavender.structure_hud.completion": "%s: %s \/ %s",
     "text.lavender.toast.new_entries": [
         "",

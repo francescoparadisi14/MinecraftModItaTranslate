@@ -1,9 +1,9 @@
 {
-    "alchemylib.container.close_recipe_select": "Chiudi selezione ricetta",
-    "alchemylib.container.lock_recipe": "Ricetta di blocco",
-    "alchemylib.container.open_recipe_select": "Apri selezione ricetta",
+    "alchemylib.container.close_recipe_select": "Seleziona la ricetta desiderata",
+    "alchemylib.container.lock_recipe": "Ricetta per fare la serratura",
+    "alchemylib.container.open_recipe_select": "Selezione ricetta libera",
     "alchemylib.container.pause": "Pausa",
-    "alchemylib.container.resume": "Ripresa",
-    "alchemylib.container.show_recipes": "Mostra ricette",
-    "alchemylib.container.unlock_recipe": "Sblocca ricetta"
+    "alchemylib.container.resume": "Curriculum vitae",
+    "alchemylib.container.show_recipes": "Ricette",
+    "alchemylib.container.unlock_recipe": "Rivelare la ricetta"
 }

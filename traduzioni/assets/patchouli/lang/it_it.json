@@ -1,7 +1,7 @@
 {
     "item.patchouli.comprehensive_test_book.landing": "Quello che si spera diventi un libro di prova completo per tutta Patchouli, invece del miscuglio di codice che abbiamo in questo momento.",
     "item.patchouli.comprehensive_test_book.name": "Libro di test Completo",
-    "item.patchouli.guide_book": "Libro Guida",
+    "item.patchouli.guide_book": "Guida turistica",
     "item.patchouli.guide_book.invalid": "Libro non valido: %s",
     "item.patchouli.guide_book.name": "Guida",
     "item.patchouli.guide_book.undefined": "Libro non valido: ID non definito",
@@ -88,8 +88,8 @@
     "patchouli.gui.lexicon.toast.info": "Nuovi capitoli sbloccati",
     "patchouli.gui.lexicon.view": "Visualizza voce",
     "patchouli.gui.lexicon.visualize_letter": "V",
-    "patchouli.networking.open_book.failed": "Fallito L'apertura Del Libro %s",
-    "patchouli.networking.reload_contents.failed": "Fallito Il Ripristino Dei Contenuti %s",
+    "patchouli.networking.open_book.failed": "Impossibile aprire il libro \"%s\"",
+    "patchouli.networking.reload_contents.failed": "Impossibile ricaricare i contenuti.",
     "patchouli.subtitle.book_flip": "Pagina che gira",
     "patchouli.subtitle.book_open": "Libro che si apre"
 }

@@ -30,6 +30,7 @@
     "craftingtweaks.configuration.common.compressRequiresCraftingGrid.tooltip": "Set this to false if you want the (de)compress feature to work outside of crafting GUIs (only works if installed on server while in the player inventory)",
     "craftingtweaks.configuration.title": "Crafting Tweaks",
     "key.categories.craftingtweaks": "Crafting Tweaks",
+    "key.categories.craftingtweaks.default": "Crafting Tweaks",
     "key.craftingtweaks.balance": "Balance Grid",
     "key.craftingtweaks.clear": "Clear Grid",
     "key.craftingtweaks.compress_all": "Compress All",

@@ -1,0 +1,12 @@
+{
+    "block.cobblemonlegendarybirdsgalarian.example_block": "Esempio di blocco",
+    "cobblemonlegendarybirdsgalarian.configuration.items": "Elenco degli articoli",
+    "cobblemonlegendarybirdsgalarian.configuration.logDirtBlock": "Blocco di argilla per pavimentazione",
+    "cobblemonlegendarybirdsgalarian.configuration.magicNumber": "Numero magico",
+    "cobblemonlegendarybirdsgalarian.configuration.magicNumberIntroduction": "Numero Magico",
+    "cobblemonlegendarybirdsgalarian.configuration.section.cobblemonlegendarybirdsgalarian.common.toml": "Configurazioni leggendarie di Cobblemon: Uccelli Galarian",
+    "cobblemonlegendarybirdsgalarian.configuration.section.cobblemonlegendarybirdsgalarian.common.toml.title": "Configurazioni leggendarie di Cobblemon: Uccelli Galarian",
+    "cobblemonlegendarybirdsgalarian.configuration.title": "Configurazioni leggendarie di Cobblemon: Uccelli Galarian",
+    "item.cobblemonlegendarybirdsgalarian.example_item": "Esempio di articolo",
+    "itemGroup.cobblemonlegendarybirdsgalarian": "Esempio di tabella Mod"
+}

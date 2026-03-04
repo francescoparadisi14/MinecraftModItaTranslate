@@ -1,0 +1,19 @@
+{
+    "block.ipla.l_item": "Posizionamento",
+    "ipla.midnightconfig.absSize": "Dimensione assoluta",
+    "ipla.midnightconfig.bSize": "Dimensioni dell'articolo",
+    "ipla.midnightconfig.iSize": "Dimensione del blocco",
+    "ipla.midnightconfig.oldRendering": "Rifacimento di un edificio esistente",
+    "ipla.midnightconfig.title": "Configurazione di Ipla",
+    "key.categories.ipla": "Ipla",
+    "key.category.ipla.ipla": "Ipla",
+    "key.ipla.hide_item_key": "Nascondi la casella di delimitazione dell'elemento",
+    "key.ipla.place_item_key": "Posiziona l'articolo",
+    "key.ipla.rotate_item_key": "Ruota l'articolo",
+    "key.ipla.rotate_rounded_item_key": "Rotazione arrotondata",
+    "text.autoconfig.ipla.option.absSize": "Dimensione assoluta",
+    "text.autoconfig.ipla.option.bSize": "Dimensioni dell'articolo",
+    "text.autoconfig.ipla.option.iSize": "Dimensione del blocco",
+    "text.autoconfig.ipla.option.oldRendering": "Rifacimento di un edificio esistente",
+    "text.autoconfig.ipla.title": "Configurazione di Ipla"
+}

@@ -1,4 +1,4 @@
 {
-    "mod.nostructureoverlap.description": "Previene l'overlapping dei box di confine delle strutture durante la generazione del mondo.",
-    "mod.nostructureoverlap.name": "No sovrapposizione di strutture"
+    "mod.nostructureoverlap.description": "Impedisce che le scatole di delimitazione delle strutture si sovrappongano durante la generazione del mondo.",
+    "mod.nostructureoverlap.name": "Nessuna sovrapposizione di strutture"
 }

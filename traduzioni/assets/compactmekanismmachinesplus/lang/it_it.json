@@ -1,0 +1,8 @@
+{
+    "block.compactmekanismmachinesplus.compact_fusion_reactor": "Reattore a fusione compatto",
+    "block.compactmekanismmachinesplus.compact_sps": "Trasformatore di fase supercritico compatto",
+    "block.compactmekanismmachinesplus.compact_thermoelectric_boiler": "Caldaia termo-elettrica compatto",
+    "boiler.compactmekanismmachinesplus.stats.dispersers_y": "Altezza del diffusore di pressione: %1$s",
+    "other.compactmekanismmachinesplus.mod_name": "CompactMekanismMachinesPlus",
+    "reactor.compactmekanismmachinesplus.stats.active": "In funzione"
+}

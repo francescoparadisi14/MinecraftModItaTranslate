@@ -1,5 +1,5 @@
 {
-    "fastquit.config.compat.allowMultipleServers.disabledForCompat": "Quest'opzione è disattivata per evitare problemi con i seguenti mod:\n%s",
+    "fastquit.config.compat.allowMultipleServers.disabledForCompat": "«Questa opzione è disabilitata per evitare problemi con i seguenti mod:»",
     "fastquit.config.general.showSavingTime.toastsOnly": "Solo toast",
     "fastquit.config.performance.backgroundPriority.1": "1 (Minima)",
     "fastquit.config.performance.backgroundPriority.10": "10 (Massima)",
@@ -11,11 +11,11 @@
     "fastquit.toast.deleted": "\"%s\" è stato eliminato",
     "fastquit.toast.description": "Salvato \"%s\"",
     "fastquit.toast.title": "FastQuit finito!",
-    "text.autoconfig.fastquit.category.compat": "Compatibilità dei mod",
+    "text.autoconfig.fastquit.category.compat": "Compatibilità con i modelli",
     "text.autoconfig.fastquit.category.default": "Generale",
-    "text.autoconfig.fastquit.category.performance": "Rendimento",
-    "text.autoconfig.fastquit.option.allowMultipleServers": "Consenti di eseguire più mondi in contemporanea",
-    "text.autoconfig.fastquit.option.allowMultipleServers.@Tooltip": "Se abilitato, è possibile unirsi a un nuovo mondo mentre l'altro è ancora in salvataggio. Questo è sicuro da fare nel Minecraft originale, ma alcuni mod potrebbero avere problemi quando due server eseguono contemporaneamente.",
+    "text.autoconfig.fastquit.category.performance": "Prestazioni",
+    "text.autoconfig.fastquit.option.allowMultipleServers": "Permettere la contemporanea realizzazione di più Campionati Mondiali.",
+    "text.autoconfig.fastquit.option.allowMultipleServers.@Tooltip": "Quando questa opzione è abilitata, è possibile unirsi a un nuovo mondo mentre il vecchio è ancora in fase di salvataggio.\nQuesto è sicuro da fare nella versione standard di Minecraft, ma alcuni mod potrebbero avere problemi quando due server sono attivi contemporaneamente.",
     "text.autoconfig.fastquit.option.backgroundPriority": "Priorità di thread nel background",
     "text.autoconfig.fastquit.option.backgroundPriority.@Tooltip": "La priorità di thread del server per salvare i mondi nel background.\nUn valore più basso migliora le prestazioni del client mentre salva, ma il server ci mette di più a farlo.",
     "text.autoconfig.fastquit.option.renderSavingScreen": "Mostra lo schermo di salvataggio del mondo",
@@ -24,5 +24,5 @@
     "text.autoconfig.fastquit.option.showSavingTime.@Tooltip": "Mostra il tempo impiegato per salvare il mondo nei toast e nella lista dei mondi.",
     "text.autoconfig.fastquit.option.showToasts": "Mostra toast",
     "text.autoconfig.fastquit.option.showToasts.@Tooltip": "Mostra un toast quando un mondo viene finito di salvare",
-    "text.autoconfig.fastquit.title": "Rilascio rapido"
+    "text.autoconfig.fastquit.title": "FastQuit"
 }

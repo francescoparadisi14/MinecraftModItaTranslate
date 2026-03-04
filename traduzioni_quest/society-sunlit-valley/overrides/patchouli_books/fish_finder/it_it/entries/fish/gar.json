@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Moneta: 88$(li)Simbolo di stagione: 🍂 $(li)Stagione: Autunno$(li)Acqua: Fresca$(li)Clima: Pioggia Neve$(li)Ora: Giorno"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 88$(li)§0🍂 §4Autunno§0$(li)Acqua: Fresca$(li)Tempo: Pioggia, neve$(li)Ora: Giorno"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:gar",
             "scale": 0.8,
             "rotate": true,
-            "text": "Qualcuno prendi le tue chiavi di Gar."
+            "text": "patchouli: entità\n\nacquacoltura: gar\n\nQualcuno, per favore, recuperi le chiavi di gar."
         }
     ]
 }

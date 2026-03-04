@@ -1,0 +1,10 @@
+{
+    "block.create_chimneys.chimney": "Camino",
+    "block.create_chimneys.chimney_bricks": "Camino in mattoni",
+    "block.create_chimneys.chimney_copper": "Camino in rame",
+    "block.create_chimneys.chimney_deepslate_bricks": "Camino in mattoni di Deepslate",
+    "block.create_chimneys.chimney_iron": "Camino in ferro",
+    "block.create_chimneys.chimney_mud_bricks": "Camino in mattoni di fango",
+    "block.create_chimneys.chimney_nether_bricks": "Camino in mattoni di Nether Bricks",
+    "block.create_chimneys.chimney_stone_bricks": "Camino in mattoni di pietra"
+}

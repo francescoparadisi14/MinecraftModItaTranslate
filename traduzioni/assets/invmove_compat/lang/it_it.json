@@ -1,0 +1,9 @@
+{
+    "config.invmove.jei.backgroundHide.recipe": "Schermata della ricetta",
+    "config.invmove.jei.movement.recipe": "Schermata della ricetta",
+    "config.invmove.roughlyenoughitems.backgroundHide.recipe": "Schermata della ricetta",
+    "config.invmove.roughlyenoughitems.movement.recipe": "Schermata della ricetta",
+    "key.invmove.module.cloth-config": "Configurazione del tessuto",
+    "key.invmove.module.jei": "Solo il numero di articoli necessario.",
+    "key.invmove.module.roughlyenoughitems": "Circa il numero di articoli necessario."
+}

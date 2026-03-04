@@ -1,12 +1,12 @@
 {
-    "name": "Blueprints & Builds",
+    "name": "Progetti e realizzazioni",
     "icon": "create:crafting_blueprint",
     "category": "patchouli:basics",
     "pages": [
         {
             "type": "text",
             "title": "About These Blueprints",
-            "text": "Questi sono pagine copiate dai quaderni laterali di T.M. Gearsprocket - semplici diagrammi di piccole macchine, annotate con spiegazioni rassicuranti. Non sono a scala. Non sono in codice. Ma funzionano comunque."
+            "text": "(br)Queste sono pagine estratte dagli appunti personali di T.M. Gearsprocket: semplici diagrammi di piccole macchine, corredati di spiegazioni chiare e semplici. Non sono a scala. Non sono destinate alla programmazione. Tuttavia, funzionano perfettamente."
         },
         {
             "type": "patchouli:image",
@@ -14,7 +14,7 @@
                 "homestead:textures\/farm_diagram.png"
             ],
             "title": "Farm Diagram",
-            "text": "Una semplice fattoria rotante utilizzando raccoglitori e un supporto meccanico."
+            "text": "patchouli:immagine\n\nUn semplice sistema agricolo rotante, che utilizza macchinari per la raccolta e un sistema meccanico di supporto."
         },
         {
             "type": "patchouli:image",
@@ -22,7 +22,7 @@
                 "homestead:textures\/millstone_diagram.png"
             ],
             "title": "Vertical Millstone",
-            "text": "Una ruota idraulica azionata verticalmente in un mulino. Adatto per macinare grano, semi o blocchi ossei. Colloca una cassetta o un canale sottostante per raccogliere la farina."
+            "text": "Patchouli: immagine\n\nUna ruota idraulica che gira verticalmente all'interno di una macina. Adatta per macinare grano, semi o blocchi di ossa. Posizionare un canale o un imbuto sotto per raccogliere la farina."
         },
         {
             "type": "patchouli:image",
@@ -30,7 +30,7 @@
                 "homestead:textures\/press_diagram.png"
             ],
             "title": "Basic Press Setup",
-            "text": "![Immagine non disponibile](Drop ingots on the depot. Power the press from behind or above. Smack it into sheets. Very satisfying. Do not stand under the press.)"
+            "text": "Patchouli: immagine\n\nPosiziona le tavolette sul banco di lavoro. Accendi la pressa da dietro o sopra. Appoggia le tavolette e premile. È molto gratificante. Non rimanere sotto la pressa."
         },
         {
             "type": "patchouli:image",
@@ -38,7 +38,7 @@
                 "homestead:textures\/power_diagram.png"
             ],
             "title": "Power Train Example",
-            "text": "Usando ingranaggi e un cambio per trasferire la rotazione in due direzioni. Utile quando hai bisogno di una macchina che giri in un senso e un'altra in senso opposto."
+            "text": "patchouli:immagine\n\nUtilizza ingranaggi e un cambio di velocità per trasferire la rotazione in due direzioni. Utile quando è necessario che una macchina ruoti in una direzione e un'altra nell'altra."
         },
         {
             "type": "patchouli:image",
@@ -46,7 +46,7 @@
                 "homestead:textures\/chute_diagram.png"
             ],
             "title": "Chute & Funnel Chain",
-            "text": "Immagine: Item Drop Chute"
+            "text": "Patchouli: immagine\n\nScarica automaticamente gli oggetti attraverso un condotto in un cesto, un baule o un barile. Utile per la selezione o per il rilascio programmato."
         }
     ]
 }

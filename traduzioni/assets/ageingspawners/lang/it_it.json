@@ -1,0 +1,11 @@
+{
+    "ageingspawners.configuration.Blacklist": "Elenco dei soggetti indesiderati",
+    "ageingspawners.configuration.General": "Generale",
+    "ageingspawners.configuration.Whitelist": "Elenco consentiti",
+    "ageingspawners.configuration.blacklist": "Elenco dei soggetti indesiderati",
+    "ageingspawners.configuration.blacklistMaxSpawnCount": "Numero massimo di creature \"Blacklist\"",
+    "ageingspawners.configuration.playerPlacedOnly": "Giocatore posizionato solo",
+    "ageingspawners.configuration.spawnerMode": "Modalità di riproduzione",
+    "ageingspawners.configuration.whitelist": "Elenco consentiti",
+    "ageingspawners.configuration.whitelistMaxSpawnCount": "Massimo numero di creature da generare (lista bianca)"
+}

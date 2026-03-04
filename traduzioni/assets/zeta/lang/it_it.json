@@ -1,4 +1,13 @@
 {
-    "zeta.jei.hint_preamble": "[zeta]",
-    "zeta.misc.mod_disabled": "Disabilitato. Installa %s per abilitare."
+    "zeta.gui.config.default": "Imposta su valori predefiniti",
+    "zeta.gui.config.defaultvalue": "Valore predefinito: %s",
+    "zeta.gui.config.discard": "Annulla modifiche",
+    "zeta.gui.config.header": "Configurazione di %s",
+    "zeta.gui.config.missingaddon": "Manca il modulo aggiuntivo necessario per questa categoria.",
+    "zeta.gui.config.nchildren": "% di bambini",
+    "zeta.gui.config.onechild": "1 bambino\/a",
+    "zeta.gui.config.save": "Salva modifiche",
+    "zeta.gui.config.subcategories": "------- Sottocategorie -------",
+    "zeta.jei.hint_preamble": "[Zeta]",
+    "zeta.misc.mod_disabled": "Disabilitato. Per attivarlo, installare il %s."
 }

@@ -1,4 +1,4 @@
 {
-    "options.horizontalstretch": "Scala di distanza di rendering orizzontale",
-    "options.verticalstretch": "Scala di distanza di rendering verticale"
+    "options.horizontalstretch": "Scala orizzontale di rendering",
+    "options.verticalstretch": "Scala verticale del rendering"
 }

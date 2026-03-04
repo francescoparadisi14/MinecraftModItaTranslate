@@ -1,0 +1,15 @@
+{
+    "block.mm.alchem_fe_input": "FE Port Input",
+    "block.mm.alchem_fe_output": "FE Port Output",
+    "block.mm.alchem_item_input": "Alchemy Multiblock Item Input",
+    "block.mm.alchem_item_output": "Alchemy Multiblock Item Output",
+    "block.mm.cc_compressor_input": "Chemical Compressor Input",
+    "block.mm.cc_compressor_output": "Chemical Compressor Output",
+    "block.mm.cc_target_input": "Target Port (Not Consumed) Input",
+    "block.mm.cc_target_output": "Target Port (Not Consumed) Output",
+    "block.mm.centrifuge_item_input": "Dissolver Centrifuge Input",
+    "block.mm.centrifuge_item_output": "Dissolver Centrifuge Output",
+    "block.mm.chem_compressor": "Chemical Compressor",
+    "block.mm.chem_dissolver_centrifuge": "Dissolver Centrifuge",
+    "item.mm.blueprint": "Blueprint"
+}

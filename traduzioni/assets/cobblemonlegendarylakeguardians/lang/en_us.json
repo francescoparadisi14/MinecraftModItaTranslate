@@ -1,0 +1,12 @@
+{
+    "block.cobblemonlegendarylakeguardians.example_block": "Example Block",
+    "cobblemonlegendarylakeguardians.configuration.items": "Item List",
+    "cobblemonlegendarylakeguardians.configuration.logDirtBlock": "Log Dirt Block",
+    "cobblemonlegendarylakeguardians.configuration.magicNumber": "Magic Number",
+    "cobblemonlegendarylakeguardians.configuration.magicNumberIntroduction": "Magic Number Text",
+    "cobblemonlegendarylakeguardians.configuration.section.cobblemonlegendarylakeguardians.common.toml": "Cobblemon Legendary Lake Guardians Configs",
+    "cobblemonlegendarylakeguardians.configuration.section.cobblemonlegendarylakeguardians.common.toml.title": "Cobblemon Legendary Lake Guardians Configs",
+    "cobblemonlegendarylakeguardians.configuration.title": "Cobblemon Legendary Lake Guardians Configs",
+    "item.cobblemonlegendarylakeguardians.example_item": "Example Item",
+    "itemGroup.cobblemonlegendarylakeguardians": "Example Mod Tab"
+}

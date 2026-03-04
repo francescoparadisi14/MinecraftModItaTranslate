@@ -1,18 +1,18 @@
 {
-    "name": "Cod",
+    "name": "Codice",
     "category": "patchouli:fish",
     "icon": "minecraft:cod",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li):moneta: 30$(li)§0🌼 §2Primavera§0 ❆ §bInverno§0$(li)Acqua: Oceano$(li)Clima: Qualsiasi$(li)Ora: Primavera (Notte), Inverno (Giorno e Notte)`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 16$(li)§0🌼 §2Primavera§0 ❆ §bInverno§0$(li)Acqua: Fiume$(li)Meteo: Qualsiasi$(li)Ora: Primavera (Notte), Inverno (Giorno & Notte)"
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:cod",
             "scale": 0.8,
             "rotate": true,
-            "text": "Catturato di Doody."
+            "text": "Patchouli: entità\n\nMinecraft: cod\n\n\"Caught of Duty\""
         }
     ]
 }

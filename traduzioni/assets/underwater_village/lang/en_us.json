@@ -1,1 +1,12 @@
-[]
+{
+    "block.underwater_village.example_block": "Example Block",
+    "item.underwater_village.example_item": "Example Item",
+    "itemGroup.underwater_village": "Example Mod Tab",
+    "underwater_village.configuration.items": "Item List",
+    "underwater_village.configuration.logDirtBlock": "Log Dirt Block",
+    "underwater_village.configuration.magicNumber": "Magic Number",
+    "underwater_village.configuration.magicNumberIntroduction": "Magic Number Text",
+    "underwater_village.configuration.section.underwater_village.common.toml": "Underwater Village Configs",
+    "underwater_village.configuration.section.underwater_village.common.toml.title": "Underwater Village Configs",
+    "underwater_village.configuration.title": "Underwater Village Configs"
+}

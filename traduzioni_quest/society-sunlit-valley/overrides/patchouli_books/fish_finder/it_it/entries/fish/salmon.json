@@ -1,18 +1,18 @@
 {
-    "name": "Salmon",
+    "name": "Salmone",
     "category": "patchouli:fish",
     "icon": "minecraft:salmon",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 24 monete$(li)Simbolo di stagione: 🔥 Estate 🍂 Autunno $(li)Acqua: Fiume$(li)Clima: Qualsiasi$(li)Ora: Giorno"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 24$(li)§0🔥 §6Estate §0🍂 §4Autunno§0$(li)Acqua: Fiume$(li)Meteo: Qualsiasi$(li)Ora: Giorno"
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:salmon",
             "scale": 0.8,
             "rotate": true,
-            "text": "Salmongo."
+            "text": "patchouli:entità\n\nminecraft:salmone\n\nSalmongus."
         }
     ]
 }

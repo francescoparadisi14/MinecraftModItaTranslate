@@ -1,0 +1,82 @@
+{
+    "quest.05B0A7D0B991050F.title": "Reattore (protetto)",
+    "quest.08245411AFDB63DB.quest_desc": [
+        "Questa quest è stata realizzata da \\&6AllTheMods Staff\\&r, oppure da un \\&2contributore della community\\&r, per l'uso nei pacchetti mod di AllTheMods.\\n\\nPoiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti a \\&eTutti i diritti riservati\\&r, questa quest non può essere utilizzata in altri pacchetti pubblici, se non quelli rilasciati dal team \\&6AllTheMods\\&r, senza un'esplicita autorizzazione.\\n\\nQuesta quest è intenzionalmente nascosta. Se la vedete, significa che siete in modalità di modifica."
+    ],
+    "quest.0FD62827710F0AC6.quest_desc": [
+        "L'unità \\&cMagmator\\&r genererà energia elettrica quando alimentata con lava."
+    ],
+    "quest.0FFF2BEE5D8EBE12.title": "Reattore (Niotic)",
+    "quest.1B0087400B0B8B49.quest_desc": [
+        "L'\\&9Reactor\\&r è un generatore multiblock di dimensioni 3x4x3 che utilizza l'\\&aUrananite\\&r come combustibile per produrre FE.\n\nPer costruirlo, avrai bisogno di 36 blocchi Reactor. Una volta che ne hai 36 in mano, posizionando un blocco, il generatore verrà costruito automaticamente. Assicurati di aver liberato spazio prima!\n\nPer aumentare la produzione di FE, è necessario raffreddare il reattore, e ciò può essere fatto utilizzando sia un refrigerante solido che liquido. Per utilizzare un refrigerante solido, è necessario anche fornirgli del refrigerante liquido. Il \\&bDry Ice\\&r è un ottimo refrigerante solido! (Nota: 1 secchio d'acqua è sufficiente).\n\nÈ inoltre possibile aumentare la produzione di FE mantenendo pieno il serbatoio del combustibile, nonché aggiungendo sia carbone che redstone al reattore. L'utilizzo di blocchi di uno qualsiasi dei materiali funzionerà."
+    ],
+    "quest.1B0087400B0B8B49.title": "Reattore (unità di avvio)",
+    "quest.1C273D9E046FD18A.quest_desc": [
+        "Utilizzato per ricaricare gli oggetti tramite la \"Palla Energizzante\"."
+    ],
+    "quest.25EFC21A3C48E0B6.title": "Livello: \\&2Spirited",
+    "quest.33816AF0E699F19F.quest_desc": [
+        "Questo effetto rimuoverà l'energia FE da qualsiasi oggetto caricato."
+    ],
+    "quest.341486C9F277FEB7.title": "Reattore (Spirited)",
+    "quest.3CB6DC5B09C62CFE.quest_desc": [
+        "\\&5Ender Gates\\&r vengono utilizzate per trasferire l'energia in modo wireless tra un blocco e un altro all'interno della \\&7Ender Network\\&r.\n\nImmaginate questi dispositivi come punti di accesso wireless per la vostra rete di energia.\n\nNota: È possibile aggiungere solo capacità di \\&storage\\&r utilizzando un Ender Cell."
+    ],
+    "quest.3D5F87F8E6B89C1B.quest_desc": [
+        "La macchina chiamata \"\\&7Furnator\\&r\" brucerà materiali come carbone e legno per produrre FE."
+    ],
+    "quest.3DDF87A1E5F5D009.quest_desc": [
+        "All'inizio, è possibile utilizzare le macchine dei livelli \\&7Starter\\&r e \\&bBasic\\&r create con il ferro, ma alla fine sarà necessario creare dei tappetini energetici utilizzando l'oggetto \\&9Energizing Orb\\&r.\n\nL'oggetto \\&9Energizing Orb\\&r energizzerà gli oggetti utilizzando gli \\&aEnergizing Rods\\&r nelle immediate vicinanze, creando materiali migliori da utilizzare per progredire nei livelli \\&eTiers\\&r in Powah.\n\nPer alimentare l'orb, sarà necessario collegare gli \\&aEnergizing Rods\\&r a cavi di energia. Se si desidera che l'orb energizzi più velocemente, è possibile creare più aste, oppure aggiornare a aste di livello superiore, o entrambi! Per verificare se le aste sono collegate, impostare lo \\&aWrench\\&r in modalità di collegamento e sarà possibile collegare qualsiasi asta all'orb.",
+        "",
+        "{image:atm:textures\/questpics\/powah\/powah_energizing.png width:200 height:200 align:1}"
+    ],
+    "quest.3DDF87A1E5F5D009.title": "L' \"Orb Energetico\"",
+    "quest.4F1FFC02F4EAA2E6.title": "Livello: \\&4Nitro",
+    "quest.52E59FCB39D66BCF.quest_desc": [
+        "Una delle opzioni migliori per la \"Produzione di Energia Passiva\" è il generatore \\&9, che produrrà energia quando viene posizionato sopra una \\&cFonte di Calore\\&r e fornito di un costante apporto di acqua.\n\nAttualmente, ci sono 3 tipi di blocchi su cui è possibile posizionarlo: un blocco di magma, che produce la minore quantità di calore, un blocco di fonte di lava, che produce una quantità leggermente maggiore, o un \\&cBlocco di Cristallo Ardente\\&r, che fornisce la maggiore quantità di calore."
+    ],
+    "quest.562BD37539EE318E.title": "Livello: \\&cBlazing",
+    "quest.5BCA3F716348ECCD.quest_desc": [
+        "L'unità \\&9Energy Hopper\\&r sarà in grado di caricare qualsiasi oggetto ricaricabile presente all'interno dell'inventario di un blocco, come un cofanetto."
+    ],
+    "quest.5E090C9BB4DAA5D4.title": "Livello: \\&Energizzato",
+    "quest.5F6152CF085D75D6.title": "Reattore (base)",
+    "quest.61A8FAEC4FF18449.quest_desc": [
+        "Questi possono essere utilizzati per ricaricare gli oggetti nel tuo inventario, oppure per aumentare la capacità complessiva di potenza di un canale di una rete \\&7Ender."
+    ],
+    "quest.61DCECE1FC38E151.title": "Reattore (Nitro)",
+    "quest.66ECC26BC81D0093.title": "Livello: \\&bBase",
+    "quest.6754612E9AD4B9C0.title": "Reattore (Blazing)",
+    "quest.677365A816994C8B.quest_desc": [
+        "Il trasmettitore \"\\&9Player Transmitter\" caricherà gli oggetti del giocatore in modalità wireless. È necessario prima associare il trasmettitore a un giocatore utilizzando una \"Carta di Associazione\" (\\&9Binding Card\\&r). Questa è la carta di base che permette al trasmettitore di funzionare solo nella stessa dimensione. È possibile aggiornare la carta utilizzando una \"Carta di Associazione (Dimensionale)\" (\\&dBinding Card (Dimensional)\\&r) invece.",
+        "",
+        "Nota: Per ottenere una Perla Aerea, utilizzate una Perla Aerea su un Zombi o un Husk."
+    ],
+    "quest.6B2027DA7AA6FF34.quest_desc": [
+        "\\&9Powah\\&r è un modulo tecnologico incentrato sulla generazione, lo stoccaggio e la trasmissione di \\&dPower\\&r. Da una semplice generazione di \\&dPower\\&r a \\&aReattori\\&r in grado di produrre \\&b250k FE\/t\\&r, Powah ha tutto ciò di cui hai bisogno!\\n\\nPer iniziare, procurati del \\&aUraninite\\&r!"
+    ],
+    "quest.6B2027DA7AA6FF34.title": "E benvenuti in \\&9Powah\\&r!!!",
+    "quest.6D88C19F47D0D469.title": "Livello: \\&7Tiny",
+    "quest.700F3FF7C23D0C0F.quest_desc": [
+        "L'\\&5Ender Cell\\&r memorizzerà l'energia per un canale nella tua \\&7Ender Network\\&r. Per aumentare la capacità di energia della rete, fai clic con il tasto destro sull'Ender Cell per aprire l'interfaccia, quindi aggiungi o un \\&9Energy Cell\\&r per aumentare la capacità complessiva."
+    ],
+    "quest.7678B5DD1339833E.quest_desc": [
+        "Il pannello solare genera energia elettrica quando è direttamente esposto alla luce solare. Tuttavia, è possibile utilizzare una \"lente di Ender\" per ignorare gli ostacoli presenti nel suo percorso."
+    ],
+    "quest.78202A1CF5D86B94.quest_desc": [
+        "Le batterie Power Bank di Powah.\n\nQueste possono anche essere utilizzate per aumentare la capacità totale di stoccaggio dell'energia delle vostre reti wireless."
+    ],
+    "quest.7D52DD751DDADA1B.quest_desc": [
+        "I cavi di base per il trasferimento di energia."
+    ],
+    "quest.7D7983F39E6E818D.title": "Livello: \\&9Niotico",
+    "quest.7E92ED270C67FDE5.quest_desc": [
+        "Quasi ogni macchina che potrete costruire nel mod richiederà un involucro in \\&9Dielectric\\&r.\nDovrete prima creare l'\\&bPaste\\&r, oltre a qualche \\&aRods\\&r, per poter procedere!"
+    ],
+    "quest.7E92ED270C67FDE5.title": "Iniziamo con i tappetini dielettrici.",
+    "task.09C7E50E7E13C53C.title": "Tutti i diritti riservati",
+    "task.17F07D6404668DE6.title": "Bastoncini energizzanti",
+    "task.1F929F1DF23460AE.title": "Carte di vincolo",
+    "task.3282910297C28795.title": "Tutti i diritti riservati",
+    "task.36E378BF22554E0A.title": "Cavi per l'energia"
+}

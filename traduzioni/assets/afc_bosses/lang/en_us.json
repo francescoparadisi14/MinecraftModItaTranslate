@@ -1,0 +1,21 @@
+{
+    "death.attack.dark_abyss": "%1$s was expunged",
+    "death.attack.dark_abyss.item": "%1$s was expunged by %2$s using %3$s",
+    "death.attack.dark_abyss.player": "%1$s was expunged whilst trying to escape %2$s",
+    "effect.afc_bosses.armor_shred": "Armor Shred",
+    "effect.afc_bosses.buff_immunity": "Buff Immunity",
+    "effect.afc_bosses.camera_shake": "Camera Shake",
+    "effect.afc_bosses.daze": "Dazed",
+    "effect.afc_bosses.daze_effect": "Dazed",
+    "effect.afc_bosses.immunity": "Immunity",
+    "effect.afc_bosses.rage": "Rage",
+    "effect.afc_bosses.soul_curse": "Soul Curse",
+    "entity.afc_bosses.exodus_the_hollow": "Exodus The Hollow",
+    "item.afc_bosses.exodus_boss_music_disc": "Music Disc",
+    "item.afc_bosses.exodus_boss_music_disc.desc": "Makai Symphony - Battle Troopers",
+    "item.afc_bosses.exodus_the_hollow_spawn_egg": "Exodus The Hollow Spawn Egg",
+    "item_group.afc_bosses.afc_bosses": "AFC Bosses",
+    "subtitles.bosslaugh": "Exodus laughs",
+    "subtitles.bossmusic1": "",
+    "subtitles.exodusbossmusic": ""
+}

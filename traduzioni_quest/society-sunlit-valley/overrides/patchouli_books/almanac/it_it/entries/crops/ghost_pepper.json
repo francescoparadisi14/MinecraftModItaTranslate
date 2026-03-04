@@ -1,15 +1,15 @@
 {
-    "name": "Ghost Pepper 🔥",
+    "name": "Peperoncino \"Ghost\" 🔥",
     "category": "patchouli:crops",
     "icon": "vintagedelight:ghost_pepper",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li):moneta: 36$(li)§6Summer§r$(li)Prezzo seme: :moneta: 64$(li)Rendimento: 2-3$(li)Tempo di crescita: 7 giorni$(br2)$(l)Note$()$(br)I semi acquistati solo dal Cultivatore Maestro.`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): monete: 36$(li)🔥 Estate$(li) Prezzo del seme: monete: 64$(li) Resa: 2-3$(li) Tempo di crescita: 7 giorni$(br2)$(l)Note$()$(br) Semi acquistati solo da Master Cultivator."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Ghost Pepper Crop",
+            "name ": "Patchouli: coltura multi-blocco\n\nPeperoncino fantasma",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -24,8 +24,7 @@
                     "0": "vintagedelight:ghost_pepper_crop[age=7]",
                     "F": "minecraft:farmland[moisture=7]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

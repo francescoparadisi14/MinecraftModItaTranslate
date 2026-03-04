@@ -1,7 +1,9 @@
 {
-    "text.e4mc_minecraft.clickToStop": "(clicca Qui Per Fermare)",
-    "text.e4mc_minecraft.closeServer": "Gioco Locale Non Più Ospitato Pubblicamente",
-    "text.e4mc_minecraft.domainAssigned": "Gioco Locale Ospitato Sul Dominio [%s]",
-    "text.e4mc_minecraft.error": "Si è Verificato Un Errore Nell'e4mc",
-    "text.e4mc_minecraft.serverAlreadyClosed": "Gioco Locale Non Ospitato Pubblicamente"
+    "text.e4mc_minecraft.clickToStop": "(Fare clic qui per interrompere la condivisione a livello globale)",
+    "text.e4mc_minecraft.closeServer": "La condivisione è stata interrotta!",
+    "text.e4mc_minecraft.doctor.start": "Creazione di informazioni per la risoluzione dei problemi. Si prega di attendere.",
+    "text.e4mc_minecraft.domainAssigned": "Il mondo viene condiviso su: [%s]",
+    "text.e4mc_minecraft.error": "Si è verificato un errore in Luna.",
+    "text.e4mc_minecraft.poisonpill.badurl": "e4mc è stato scaricato da una fonte sconosciuta. Questa copia di e4mc potrebbe essere obsoleta o modificata.",
+    "text.e4mc_minecraft.serverAlreadyClosed": "Non è disponibile pubblicamente."
 }

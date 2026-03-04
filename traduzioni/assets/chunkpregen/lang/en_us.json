@@ -111,7 +111,7 @@
     "gui.chunk_pregen.biome_preview.slime_chunks": "Slime Chunks",
     "gui.chunk_pregen.biome_preview.spawn": "Spawn Point:",
     "gui.chunk_pregen.biome_preview.structures": "Structures",
-    "gui.chunk_pregen.biome_preview.tooltip.active": "Active:",
+    "gui.chunk_pregen.biome_preview.tooltip.active": "Active: %s",
     "gui.chunk_pregen.biome_preview.tooltip.active.false": "False",
     "gui.chunk_pregen.biome_preview.tooltip.active.true": "True",
     "gui.chunk_pregen.biome_preview.tooltip.biome": "Biome: %s",

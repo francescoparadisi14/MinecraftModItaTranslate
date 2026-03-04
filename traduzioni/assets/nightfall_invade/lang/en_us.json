@@ -1,0 +1,14 @@
+{
+    "advancements.nightfall_invade.kill_arterius.description": "Arterius, one of the six legendary heroes, fought to halt the otherworldly invasion at the Gate Of Disaster. His comrades fell, and he sacrificed his sanity to destroy the gateway. Now, bound by this solemn destiny, he stands as its eternal watcher, forever guarding the shattered portal in noble solitude.",
+    "advancements.nightfall_invade.kill_arterius.title": "The last watcher",
+    "advancements.nightfall_invade.root.description": "Start your journey",
+    "advancements.nightfall_invade.root.title": "Nightfall Invade",
+    "boss_bar.nightfall_invade.arterius": "<Arterius>",
+    "boss_bar.nightfall_invade.arterius_hard": "<Flame Lord(WIP)>",
+    "creativetab.nightfall_invade.items": "NightFall Invade Items",
+    "effect.nightfall_invade.soul_of_flame": "Soul of flame",
+    "entity.nightfall_invade.arterius": "<The last watcher - Arterius>",
+    "entity.nightfall_invade.arterius_hard": "<Lord Of Flame - Arterius(WIP)>",
+    "item.nightfall_invade.arterius_spawn_egg": "Arterius spawn egg",
+    "structure.nightfall_invade.gate_of_disaster": "Gate Of Disaster"
+}

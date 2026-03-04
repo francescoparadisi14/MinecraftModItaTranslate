@@ -1,17 +1,17 @@
 {
-    "name": "Owl",
+    "name": "Gufo",
     "category": "patchouli:pets",
     "icon": "tanukidecor:owl_clock",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Doni possibili:$()$(br)Orologio di Civetta$(br)$(l)Articolo da addomesticare:$()$(br)Carne Putrida$(br2)$(l)Note$()$(br)Può essere trovato nei boschi."
+            "text": "patchouli:testo\n\n$(l)Possibili oggetti regalo:$()$(br)Orologio a forma di gufo$(br)$(l)Oggetto per addomesticare:$()$(br)Carne putrefatta$(br2)$(l)Note$()$(br)Si possono trovare nelle foreste."
         },
         {
             "type": "patchouli:entity",
             "entity": "wildernature:owl",
             "scale": 0.7,
-            "text": "Conserva questo lontano dagli animali più piccoli..."
+            "text": "patchouli: pianta\n\nowl: gufo\n\nTenete questo lontano dagli animali più piccoli..."
         }
     ]
 }

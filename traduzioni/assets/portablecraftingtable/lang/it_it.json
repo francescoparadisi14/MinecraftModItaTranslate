@@ -1,1 +1,6 @@
-[]
+{
+    "item.portablecraftingtable.portable_crafting_table": "Banco da Lavoro Portatile",
+    "itemGroup.portablecraftingtable_creative_mode_tab": "Portable Crafting Table",
+    "key.category.portablecraftingtable.category": "Portable Crafting Table",
+    "key.mymod.open_gui": "Apri Banco da Lavoro Portatile"
+}

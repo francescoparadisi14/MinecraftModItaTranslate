@@ -1,7 +1,7 @@
 {
-    "item.rsinfinitybooster.dimension_card": "Carta di dimensione",
-    "item.rsinfinitybooster.infinity_card": "Boostatore di portata infinita",
-    "item.rsinfinitybooster.tooltip.dimension_card.help": "Incrementa la portata del trasmettitore wireless di ∞ blocchi e ti consente di accedere alla rete da qualsiasi dimensione.",
-    "item.rsinfinitybooster.tooltip.infinity_card.help": "Incrementa la portata del trasmettitore wireless di ∞ blocchi.",
-    "item_group.rsinfinitybooster.tab": "Pannello di boost dei RS Infinity"
+    "item.rsinfinitybooster.dimension_card": "Scheda dimensionale",
+    "item.rsinfinitybooster.infinity_card": "Potenziatore di portata infinita",
+    "item.rsinfinitybooster.tooltip.dimension_card.help": "Aumenta l'intervallo del trasmettitore wireless all'infinito e consente di accedere alla rete da qualsiasi dimensione.",
+    "item.rsinfinitybooster.tooltip.infinity_card.help": "Aumenta l'intervallo del trasmettitore wireless di ∞ blocchi.",
+    "item_group.rsinfinitybooster.tab": "RS Infinity Booster"
 }

@@ -1,0 +1,21 @@
+{
+    "buff.deus_ex_machina.attack_boost": "Attack Boost",
+    "buff.deus_ex_machina.berserker": "Berserker",
+    "buff.deus_ex_machina.critical_chance": "Critical Chance",
+    "buff.deus_ex_machina.evasion": "Evasion",
+    "buff.deus_ex_machina.execute": "Execute",
+    "buff.deus_ex_machina.knockback": "Knockback",
+    "buff.deus_ex_machina.knockback_resistance": "Knockback Resistance",
+    "buff.deus_ex_machina.life_leech": "Life Leech",
+    "buff.deus_ex_machina.momentum": "Momentum",
+    "buff.deus_ex_machina.resistance": "Resistance",
+    "buff.deus_ex_machina.thorns": "Thorns",
+    "deus_ex_machina.death_screen.attack": "Attack Boost: +%d%%",
+    "deus_ex_machina.death_screen.attack.now": "(now %d%%)",
+    "deus_ex_machina.death_screen.header": "Deus Ex Machina Buffs vs %s:",
+    "deus_ex_machina.death_screen.resistance": "Resistance: +%d%%",
+    "deus_ex_machina.death_screen.resistance.now": "(now %d%%)",
+    "effect.deus_ex_machina.deus_ex_machina_effect": "Deus Ex Machina",
+    "effect.deus_ex_machina.deus_ex_machina_effect.desc": "A state in which you are even tougher. After you die, you become a little tougher still",
+    "item.deus_ex_machina.ambrosia": "Bottle of Ambrosia"
+}

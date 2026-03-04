@@ -1,8 +1,9 @@
 {
-    "advancements.transfem.descr": "Non preoccuparti di questo",
-    "advancements.transfem.title": "Transfem",
-    "attribute.skilltreemkp.damage_dealt": "Danni inflitti",
-    "attribute.skilltreemkp.multiplier": "Multiplicatore",
+    "advancements.transfem.descr": "Non prestare attenzione.",
+    "advancements.transfem.title": "Transfemmina",
+    "attribute.skilltreemkp.damage_dealt": "Danni causati",
+    "attribute.skilltreemkp.multiplier": "Moltiplicatore",
     "attribute.skilltreemkp.points": "Punti",
-    "attribute.skilltreemkp.rampup": "Ripresa"
+    "attribute.skilltreemkp.ramp_up_dmg": "Aumentare i danni",
+    "attribute.skilltreemkp.rampup": "Fase di preparazione"
 }

@@ -1,6 +1,6 @@
 {
-    "jmi.infoslot.ftbchunks": "FTB Chunks",
-    "jmi.toggleable_overlay.ftbchunks": "Sovrapposizione ftbchunks",
-    "jmi.toggleable_overlay.ftbchunks.claiming_mode": "Modalità di claim Ftbchunks",
-    "jmi.toggleable_overlay.waystones": "Sfondo dei segnalini di guida"
+    "jmi.infoslot.ftbchunks": "FTBChunks",
+    "jmi.toggleable_overlay.ftbchunks": "Sovrapposizione FTBChunks",
+    "jmi.toggleable_overlay.ftbchunks.claiming_mode": "Reclami di FTBChunks",
+    "jmi.toggleable_overlay.waystones": "Sovrapposizioni Waystones"
 }

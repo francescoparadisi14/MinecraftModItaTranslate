@@ -7,5 +7,5 @@
     "gui.clickmachine.right_click": "Click tasto destro",
     "gui.clickmachine.sneaking": "Abbassato",
     "gui.clickmachine.speed": "%s click\/s",
-    "gui.clickmachine.speed_slow": "1 clic per %ss"
+    "gui.clickmachine.speed_slow": "1 clic\/secondo"
 }

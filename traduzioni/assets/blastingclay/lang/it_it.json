@@ -1,6 +1,6 @@
 {
-    "blastingclay.deimosconfig.blasting_list": "Elenco di ricette di fusione con ingresso, uscita e esperienze",
-    "blastingclay.deimosconfig.title": "Smaltimento argilla e ceramica nel configuratore forno a bassa temperatura",
-    "blastingstone.deimosconfig.blasting_list": "Elenco di ricette di fusione con ingresso, uscita e esperienze",
-    "blastingstone.deimosconfig.title": "Fonder tutti i blocchi di pietra nei forni a bassa temperatura"
+    "blastingclay.deimosconfig.blasting_list": "Elenco di ricette per la fusione, con materiali di input, prodotto finale e punti esperienza.",
+    "blastingclay.deimosconfig.title": "Fusione di argilla e terracotta in un forno a fusione",
+    "blastingstone.deimosconfig.blasting_list": "Elenco di ricette per la fusione, con materiali di input, prodotto finale e punti esperienza.",
+    "blastingstone.deimosconfig.title": "Fusione di tutti i blocchi di pietra nei forni a fusione."
 }

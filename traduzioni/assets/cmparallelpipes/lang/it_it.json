@@ -1,8 +1,13 @@
 {
-    "block.cmparallelpipes.locked_copycat_fluid_pipe": "Tubo di fluido copia chiuso",
-    "block.cmparallelpipes.locked_fluid_pipe": "Tubo di fluido chiuso",
-    "cmparallelpipes.ponder.locked_pipe.header": "Pompe di fluido bloccate",
-    "cmparallelpipes.ponder.locked_pipe.text_1": "I tubi di fluido sempre si connetteranno ad altri tubi di fluido.",
-    "cmparallelpipes.ponder.locked_pipe.text_2": "qualsiasi blocco di impalcatura può essere utilizzato per bloccare lo stato di connettività del tubo, simile a tubo incapsulato",
-    "cmparallelpipes.ponder.locked_pipe.text_3": "Il tubo di fluido può essere sbloccato nuovamente con un chiave inglese."
+    "cmparallelpipes.ponder.locked_pipe.header": "Sigillare i tubi con fluido",
+    "cmparallelpipes.ponder.locked_pipe.text_1": "Le tubazioni per fluidi sono sempre collegate ad altre tubazioni per fluidi.",
+    "cmparallelpipes.ponder.locked_pipe.text_2": "La chiave per tubi può essere utilizzata per bloccare lo stato di connessione del tubo, in modo simile a quanto avviene con il \"Encased Pipe\".",
+    "cmparallelpipes.ponder.locked_pipe.text_3": "Il tubo può essere riaperto utilizzando la chiave per tubi.",
+    "cmparallelpipes.ponder.outline_segment.header": "Struttura e Collegamenti",
+    "cmparallelpipes.ponder.outline_segment.text_1": "Le tubature chiuse saranno visibili quando si utilizza una chiave per tubature.",
+    "cmparallelpipes.ponder.outline_segment.text_2": "È possibile configurare le connessioni di tubi chiusi utilizzando una chiave per tubi.",
+    "cmparallelpipes.ponder.outline_segment.text_3": "È possibile aggiungere un punto finale.",
+    "cmparallelpipes.ponder.outline_segment.text_4": "... oppure rimuoverne uno",
+    "cmparallelpipes.ponder.outline_segment.text_5": "Tuttavia, ricordate che un tubo deve avere almeno due estremità aperte, altrimenti non sarà possibile rimuoverle.",
+    "item.cmparallelpipes.pipe_wrench": "Chiave a tubo"
 }

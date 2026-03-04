@@ -1,18 +1,18 @@
 {
-    "name": "Hatchet Fish",
+    "name": "Pesce a forma di ascia",
     "category": "patchouli:fish",
     "icon": "unusualfishmod:raw_hatchetfish",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 96 monete$(li)Simbolo di stagione: Primavera $(li)Piuma: Fresca$(li)Clima: Qualsiasi$(li)Ora: Notte"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 352$(li)§0🌼 §2Primavera§0 §0❆ §bInverno§0$(li)Acqua: Fresca$(li)Tempo: Qualsiasi$(li)Ora: Notte"
         },
         {
             "type": "patchouli:entity",
             "entity": "unusualfishmod:hatchet_fish",
             "scale": 0.8,
             "rotate": true,
-            "text": "Il pesce preferito di Raskolnikov."
+            "text": "patchouli: entità\n\nunusualfishmod: pesce ascia\n\nIl pesce preferito di Raskolnikov."
         }
     ]
 }

@@ -1,0 +1,160 @@
+{
+    "quest.0B1DF8A040826D87.quest_desc": [
+        "Ora che avete ottenuto \\&aBenitoite\\&r, potete mescolarlo con \\&dInsanite\\&r per creare lingotti di \\&dInsanite\\&r.\n\nÈ possibile ottenere \\&aBenitoite\\&r utilizzando il Laser Minerario da Industrial Foregoing."
+    ],
+    "quest.0B1DF8A040826D87.title": "Insano",
+    "quest.14E5349DD740D026.quest_desc": [
+        "Per inserire il combustibile nel reattore, dovrai scegliere uno dei lati che presenta una \"Porta di accesso al combustibile\" e quindi pompare del \"Uranio\" da un inventario.\n\nIl modo più semplice per farlo è utilizzare qualcosa come un \"Cassetto di stoccaggio\" o anche semplicemente un \"Baule\" con un \"Tubo per oggetti\" collegato nella parte superiore, come mostrato nell'immagine qui sotto.",
+        "{image:atm:textures\/questpics\/extremereactors\/importexample.png width:150 height:150 align:1}"
+    ],
+    "quest.14E5349DD740D026.title": "Alimentare il nostro reattore passivo",
+    "quest.186731580B14F9D2.quest_desc": [
+        "Per interagire con la nostra turbina, avremo bisogno di diversi connettori a 6 porte.\n\nIl connettore a 9 porte viene utilizzato per introdurre vapore, come quello prodotto dalla caldaia, o per estrarre i gas di scarico, come l'acqua. Per questo motivo, ne avrete bisogno di due per la vostra turbina.\n\nIl connettore per l'estrazione dell'energia viene utilizzato per prelevare energia e rappresenta un componente necessario per completare la struttura a più blocchi."
+    ],
+    "quest.186731580B14F9D2.title": "Porte delle turbine",
+    "quest.19DE6EBEA8219E8E.quest_desc": [
+        "Questa quest è stata creata da \\&6AllTheMods Staff\\&r, o da un \\&2contributore della community\\&r, per l'uso nei pacchetti mod di AllTheMods.\n\nPoiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti a \\&eTutti i diritti riservati\\&r, questa quest non può essere utilizzata in altri pacchetti pubblici, a meno che non siano stati rilasciati dal team \\&6AllTheMods\\&r, previa autorizzazione esplicita.\n\nQuesta quest è intenzionalmente nascosta. Se la visualizzate, significa che siete in modalità di modifica."
+    ],
+    "quest.2598273041353196.quest_desc": [
+        "Quando si costruisce il \\&aReprocessor\\&r, sarà necessario almeno un \\&eCollector\\&r e un \\&9Waste Injector\\&r.\n\nL'\\&eReprocessor Collector\\&r deve essere posizionato al centro della faccia inferiore della struttura.\n\nL'\\&9Waste Injector\\&r deve essere posizionato al centro della faccia superiore, dove si inseriranno o verranno iniettate le scorie, come ad esempio i \\&9Cyanite Ingots\\&r."
+    ],
+    "quest.2598273041353196.title": "Importazione di rifiuti",
+    "quest.25D4406CB86C8CBB.quest_desc": [
+        "Ora che stiamo raccogliendo del \"rifiuto\" dal nostro reattore, una parte del processo richiede che tu \"fluidizzi\" alcune delle lingote che ottieni. Sai cosa significa?\\n\\nAbbiamo bisogno di costruire un \"fluidizzatore\"! Il componente principale è il \"controllore del fluidizzatore\". Una volta costruito, puoi fare clic con il pulsante destro del mouse per aprire l'interfaccia. Qui puoi accenderlo o spegnerlo, vedere cosa contiene e il livello di potenza attuale."
+    ],
+    "quest.25D4406CB86C8CBB.title": "Il fluidoizzatore",
+    "quest.2A20000FAEC2E16A.quest_desc": [
+        "Per estrarre energia o oggetti dal tuo reattore, o anche per introdurre carburante, avrai bisogno di questi blocchi:\n\nIl \"Prese di energia\" ti permette di sfruttare l'energia prodotta da un reattore \"passivo\". Puoi collegare tubi e cavi per estrarre l'energia.\n\nLe \"Porte di accesso\" sono necessarie per ogni reattore e ti permettono sia di introdurre carburante nel reattore, sia di estrarne i rifiuti. Di solito è consigliabile avere due porte per reattore, una per ogni funzione."
+    ],
+    "quest.2A20000FAEC2E16A.title": "Interagire con il reattore",
+    "quest.2AF31F1769085641.quest_desc": [
+        "La struttura \\&aReprocessor\\&r è una struttura a più blocchi di dimensioni 3x3x7, con regole specifiche per completare la sua costruzione.",
+        "",
+        "Il componente principale di questa struttura modulare è l'\\&aController\\&r, e può essere posizionato su qualsiasi faccia verticale, purché non sia posizionato sul telaio."
+    ],
+    "quest.2D592669F4D41793.quest_desc": [
+        "Proprio come il reattore, la struttura deve essere realizzata con i materiali \\&dCasings\\&r, ma le pareti possono essere realizzate con il vetro \\&9Turbine\\&r!"
+    ],
+    "quest.2D592669F4D41793.title": "Costruzione di turbine",
+    "quest.354086C858E10154.quest_desc": [
+        "Ora che abbiamo ottenuto del cyanite dal nostro reattore sperimentale, vorremo trovare un modo per riciclare quel materiale di scarto in qualcosa di utile.",
+        "",
+        "Per farlo, dovremo costruire un altro blocco multi-componente: il \"\\&aReprocessor\\&r\".",
+        "",
+        "Questo richiede una grande quantità di Cianite, quindi è meglio iniziare a procurarsene. Potrebbe anche essere utile considerare l'acquisto di un reattore più grande."
+    ],
+    "quest.354086C858E10154.title": "Riciclare i nostri rifiuti",
+    "quest.3C3FE45CEF5E242B.quest_desc": [
+        "Mentre le altre parti del \\&aReprocessor\\& richiedono una posizione specifica durante l'assemblaggio, queste tre parti possono essere posizionate su qualsiasi faccia verticale, purché non siano posizionate sul telaio!\\n\\nLa \\&cPower Port\\&r viene utilizzata per fornire energia alla macchina multifunzionale per il trattamento dei rifiuti.\\n\\nLa \\&9Fluid Injector Port\\&r viene utilizzata per iniettare il liquido necessario, che dipenderà dal tipo di rifiuto da trattare. Nel caso del Cyanite, ciò significa acqua!\\n\\nLa \\&aOutput Port\\&r viene utilizzata per estrarre il materiale rielaborato. È possibile fare clic con il tasto destro per prelevarlo manualmente, oppure per inviarlo tramite un sistema automatizzato."
+    ],
+    "quest.3F9D553C9FA64F2A.quest_desc": [
+        "I reattori sono strutture composte da più blocchi, il che significa che è possibile creare le dimensioni personalizzate desiderate!\\n\\nSe si utilizzano i componenti del reattore \\&aBasic, la dimensione massima che si può costruire è 5x5x5.\\n\\nIl reattore \\&lBiggest\\&r che si può realizzare utilizzando i componenti del reattore \\&eReinforced\\&r è di 32x32x48. Ci sono molte variabili che contribuiscono all'output complessivo di un reattore, quindi è importante sperimentare!\\n\\nAlcuni consigli generali:\\n\\nPiù alto è il reattore, più carburante può contenere e bruciare, poiché ci sono più barre di carburante, il che significa una maggiore potenza complessiva. Ciò si traduce anche in un tasso di combustione più elevato.\\n\\nPiù ampio è il reattore, più efficiente è, a condizione di non aggiungere ulteriori barre di carburante al design. Ciò significa un consumo complessivo inferiore."
+    ],
+    "quest.3F9D553C9FA64F2A.title": "Aumentare la capacità dei nostri reattori",
+    "quest.4415C9F8DA2D7E68.quest_desc": [
+        "Con Cyanite, possiamo creare il nucleo della Turbina, ovvero il componente \"\\&9Turbine Controller\\&r\".\n\nLe turbine sono strutture composte da più blocchi, proprio come i reattori! Utilizzano vapore, come il \"\\&7Steam\\&r\" prodotto dai \"\\&dActively Cooled\\&r\" reattori, per generare enormi quantità di energia! Avremo bisogno di alcuni altri componenti per poterla costruire.\n\nNota: I componenti base della turbina possono essere utilizzati solo per costruire una turbina di dimensioni massime di 5x5x10. Per costruire una turbina più grande, è necessario utilizzare i \"\\&aReinforced Turbine Parts\\&r\"."
+    ],
+    "quest.4415C9F8DA2D7E68.title": "Costruzione di turbine",
+    "quest.4745152F6FF242B3.quest_desc": [
+        "Quando il reattore consuma il combustibile, produce dei rifiuti o un reagente che dovrà essere estratto. È per questo che esiste l'altro \"Porta di accesso solida\"! Assicurati di impostarla per l'emissione, quindi collegala a un sistema di stoccaggio."
+    ],
+    "quest.4745152F6FF242B3.quest_subtitle": "\"Non sprecare, non avrai bisogno\" o qualcosa di simile.",
+    "quest.4745152F6FF242B3.title": "Gestione dei rifiuti",
+    "quest.476755275B948A5F.quest_desc": [
+        "I reattori possono anche essere utilizzati per riscaldare e raffreddare i fluidi, come l'acqua, per creare vapore, come in un bollitore.\n\nPer farlo, dovrai costruire un reattore rinforzato. Questo viene costruito nello stesso modo in cui hai costruito il tuo reattore 3x3x3, ma tutte le parti dovranno essere componenti di un \"Reattore Rinforzato\". Suggerisco inoltre che sia più grande di un 3x3x3.\n\nPer introdurre un fluido, avrai bisogno di una \"Porta per Fluidi Mekanism\". Questa porterà qualsiasi fluido, come l'acqua, nel reattore. Sarà anche utilizzata per esportare il vapore creato nel reattore.\n\nSe desideri, puoi creare una \"Porta per Fluidi Mekanism\" per convertire il fluido vapore in vapore gassoso Mekanism."
+    ],
+    "quest.476755275B948A5F.quest_subtitle": "Per fare il vapore!",
+    "quest.476755275B948A5F.title": "Costruzione di un reattore con raffreddamento attivo",
+    "quest.4AD8363D7359A072.quest_desc": [
+        "Costruiremo il reattore passivo più piccolo possibile, con dimensioni di 93x3x3. Per realizzare questo, si inizia costruendo una struttura di 93x3x3 realizzata con dei componenti, come ad esempio dei reattori. Nel centro della faccia inferiore, si può utilizzare un altro componente reattivo. Ogni parete esterna dovrà avere un componente reattivo, come un connettore di alimentazione attivo o una porta di accesso solida.",
+        "{@pagebreak}",
+        "Ogni reattore che costruirai richiederà esattamente 1 unità di \"Controller del reattore\" e 1 unità di \"Barra di controllo\", che di solito vengono posizionate al centro della parete anteriore. Successivamente, posizioneremo 1 unità di \"Barra di controllo\" al centro della struttura e 1 unità di \"Barra di controllo\" sopra di essa, sulla faccia superiore.\n\nAvrete bisogno di un modo per gestire i rifiuti, che viene fatto utilizzando le \"Porte di accesso solide del reattore\". Per questa costruzione, posizionate una su un lato e una sull'altro.\n\nPer ottenere energia, posizioneremo la \"Torre di alimentazione attiva\" al centro della parete posteriore. Una volta posizionata, il reattore dovrebbe essere completo! Ora, facendo clic con il tasto destro sul Controller, potrete aprire l'interfaccia e attivarlo!\n\nNota: Il reattore più grande che potrete costruire utilizzando le \"Parti di reattore di base\" è di dimensioni 5x5x5. Per costruire un reattore più grande, avrete bisogno delle \"Parti di reattore rinforzate\".",
+        "{@pagebreak}",
+        "Ecco come apparirà un reattore 3x3x3:",
+        "{image:atm:textures\/questpics\/extremereactors\/3x3sample.png width:150 height:150 align:1}"
+    ],
+    "quest.4AD8363D7359A072.quest_subtitle": "Imparare le basi",
+    "quest.4AD8363D7359A072.title": "\\&dIl nostro primo reattore",
+    "quest.4B9E9497E44D0096.quest_desc": [
+        "Per costruire un reattore, è necessario iniziare realizzando i seguenti componenti: \"\\&6Gabbie del reattore\\&\\r\".\n\nQuesti costituiscono la struttura e le pareti del reattore, anche se le pareti possono essere sostituite da \"\\&9Vetro del reattore\\&\\r\" se si desidera vedere l'interno del reattore.\n\nPer riferimento futuro, quando un componente è indicato come \"Base\", ciò significa che può essere utilizzato solo con altri componenti base. I componenti base possono essere utilizzati solo per costruire reattori più piccoli, in quanto hanno un limite di dimensioni. Tenete presente questo!"
+    ],
+    "quest.4B9E9497E44D0096.title": "Componenti dell'edificio del reattore",
+    "quest.4ED36AA3766E842B.quest_desc": [
+        "Invece di costruire la turbina più piccola possibile in questo momento, è meglio costruire una turbina basata sul design del vostro reattore \\&9Reactor\\&r.\n\nPer cominciare, volete costruire una turbina in grado di gestire il tasso di produzione di vapore del vostro reattore \\&9Reactor\\&r. Per ottenere la massima potenza, dovrà mantenere una velocità di 900 RPM o 1800 RPM. Questo richiede una grande quantità di sperimentazione con diversi avvolgimenti, numero di pale e dimensioni complessive della turbina!\n\nNota: Per completare questa missione, dovrete creare uno schermo di qualsiasi dimensione. Una volta posizionato, potete fare clic con il pulsante destro del mouse sullo schermo e selezionare questa missione come requisito, quindi inserire l'energia nello schermo del compito per riempirlo e completare la missione."
+    ],
+    "quest.4ED36AA3766E842B.title": "\\&dLa turbina",
+    "quest.4FA6BEA4E646B742.quest_desc": [
+        "Prima di poter iniziare a costruire il nostro reattore, avremo bisogno di fondere del carbone o del carbone per creare le \"Lingote di Grafite\".\n\nIl grafite, combinato con il ferro, è uno dei materiali principali per la costruzione di un reattore."
+    ],
+    "quest.4FA6BEA4E646B742.quest_subtitle": "Grafite densa",
+    "quest.4FA6BEA4E646B742.title": "Grafite per telai",
+    "quest.501C6B7580453410.quest_desc": [
+        "Il modulo \\&aFluidizer\\&r è un modulo componibile di dimensioni minime di 3x3x3. Come gli altri moduli componibili, la struttura dovrà essere realizzata in materiali come Casings, mentre le superfici possono essere realizzate in vetro."
+    ],
+    "quest.501C6B7580453410.title": "Costruzione del fluidoizzatore",
+    "quest.55DCA040C84DCEF3.quest_desc": [
+        "Se desiderate utilizzare il prodotto realizzato da \\&aFluidizer\\&r, sarà necessario un \\&aOutput Port\\&r su una delle superfici.\n\n\\&aFluidizer\\&r necessiterà di alimentazione per funzionare, pertanto è necessario un \\&cPower Port\\&r per completare la struttura."
+    ],
+    "quest.55DCA040C84DCEF3.title": "Porti necessari",
+    "quest.5914D015D8543875.quest_desc": [
+        "L'\\&aFluidizer\\&r può operare in uno dei 3 modalità: da solido a fluido, combinazione di 2 solidi in un fluido, o combinazione di 2 fluidi in un nuovo fluido. Tutto dipende dal tipo di \\&aInjectors\\&r che utilizzi per il multiblock.\n\nAd esempio, se desideri convertire il \\&dBlutonium\\&r in un fluido, puoi utilizzare 1 \\&aSolid Injector\\&r.\n\nSe desideri combinare 2 solidi in qualcosa di nuovo, costruirai il multiblock con 2 \\&aSolid Injectors\\&r.\n\nSe desideri combinare 2 fluidi, utilizzerai 2 \\&9Fluid Injectors\\&r.\n\nQuesto potrebbe sembrare confuso, ma è fondamentale per il processo. Ad esempio, vorrai prima convertire il Magentite in un fluido utilizzando l'\\&aFluidizer\\&r, quindi inviarlo a un \\&aReprocessor\\&r con Ludicrite per creare Ridiculite."
+    ],
+    "quest.5914D015D8543875.title": "Modalità operative",
+    "quest.5A615BB74A5CD332.quest_desc": [
+        "Utilizzando il \\&aReprocessor\\&r, possiamo combinare tutti gli elementi che abbiamo creato finora per ottenere alcuni nuovi lingotti.\n\nNota: Potrebbe essere necessario l'\\&aFluidizer\\&r per completare questo passaggio!"
+    ],
+    "quest.5A615BB74A5CD332.title": "Ludicrite e Ridiculite",
+    "quest.5AD80D3242DD3F60.quest_desc": [
+        "È uno dei materiali più difficili da reperire per la modifica!\n\nÈ anche l'avvolgimento del motore più potente disponibile!"
+    ],
+    "quest.5AD80D3242DD3F60.title": "\\&dInsanite Block",
+    "quest.67AFCBCE7AAC3089.quest_desc": [
+        "Per far girare una turbina, avremo bisogno dei seguenti componenti:\n\n- I cuscinetti del rotore sono posizionati all'estremità di uno dei bracci dell'albero della turbina. Possono essere posizionati su qualsiasi faccia, ma determinano da quale faccia l'albero emerge. Di solito sono posizionati al centro della faccia inferiore.\n\n- Gli alberi del rotore si estendono da un cuscinetto del rotore all'estremità opposta della turbina, fino a un singolo blocco di alloggiamento della turbina, creando l'albero per la turbina.\n\n- Le pale del rotore fanno girare il rotore. Sono posizionate sugli alberi del rotore e possono essere costituite da più elementi. Ogni pala è in grado di gestire una certa quantità di vapore, e il numero necessario dipende dal tasso di produzione del vostro reattore.\n\nEcco un esempio di configurazione per un albero verticale per una turbina, con l'avvolgimento di piombo nella parte superiore.",
+        "{image:atm:textures\/questpics\/extremereactors\/maxbasicturbine.png width:100 height:150 align:1}"
+    ],
+    "quest.67AFCBCE7AAC3089.title": "Progettazione e realizzazione dell'albero della turbina",
+    "quest.69642A3618E86DED.quest_desc": [
+        "Per costruire la struttura per il \\&aReprocessor\\&r, avrete bisogno di molte \"Casings\". Ciò significa anche un gran numero di \"Cyanite\".\n\nIniziate costruendo una struttura di 3 blocchi di larghezza, 3 blocchi di profondità e 7 blocchi di altezza. Questa sarà la struttura di base.\n\nSe eseguita correttamente, otterrete uno spazio vuoto al centro delle due facce inferiori e superiori. Per le facce verticali, potete utilizzare il \"aReprocessor Glass\" o uno dei componenti richiesti del \"aReprocessor\", come la porta di alimentazione o il controller, ecc.\n\nSe desiderate vedere un'immagine di come apparirà la struttura, consultate la pagina successiva!",
+        "{@pagebreak}",
+        "La struttura del Reprocessor multiblock.",
+        "{image:atm:textures\/questpics\/extremereactors\/reprocessorframe.png width:100 height:175 align:1}",
+        "{@pagebreak}",
+        "Un riprocessore completamente assemblato:",
+        "{image:atm:textures\/questpics\/extremereactors\/reprocessorfull.png width:100 height:150 align:1}"
+    ],
+    "quest.69642A3618E86DED.title": "Costruzione dello scheletro",
+    "quest.6ADDFD55AD0DF7D4.quest_desc": [
+        "Combinando i lingotti di \\&cRossinite\\&r con i lingotti di \\&aReprocessor\\&r, si otterranno lingotti di \\&dInanite\\&r.\n\nOra possiamo utilizzare questi lingotti per creare un blocco di \\&dInanite\\&r."
+    ],
+    "quest.6ADDFD55AD0DF7D4.title": "Infinita",
+    "quest.75AD0CEBC1335915.quest_desc": [
+        "Il \\&dController del reattore\\&r è il componente principale del reattore. Quando si crea un reattore, è possibile fare clic con il pulsante destro del mouse sulla stazione di controllo per accedere all'interfaccia del reattore.\n\nA seconda che si tratti di un reattore con raffreddamento \\&9passivo\\&r o di un reattore con raffreddamento \\&eattivo\\&r, l'interfaccia cambierà. I reattori con raffreddamento passivo vengono utilizzati per produrre energia bruciando direttamente il combustibile. I reattori con raffreddamento attivo utilizzano il calore prodotto per vaporizzare il refrigerante, che viene quindi inviato a una turbina per generare energia.\n\nNell'interfaccia di un reattore passivo, è possibile visualizzare e controllare lo stato e l'espulsione dei rifiuti. È inoltre possibile visualizzare la temperatura, la quantità di energia prodotta dal reattore e la quantità di combustibile bruciato per ciclo."
+    ],
+    "quest.75AD0CEBC1335915.quest_subtitle": "Il nucleo del reattore",
+    "quest.775D176081DD75F5.quest_desc": [
+        "Cliccando con il tasto destro sul controllore della turbina una volta che è stata costruita, si aprirà l'interfaccia della turbina.\n\nQui, potrete visualizzare tutti i dati relativi alla turbina. Passando il mouse su ciascuno di essi, otterrete ulteriori informazioni.\n\nNella parte inferiore a sinistra, troverete due frecce per controllare il flusso. Questo controlla la quantità di vapore riscaldato che viene pompato nella turbina. Per sapere quale valore impostare, consultate il tasso di produzione di vapore del vostro reattore come punto di partenza.",
+        "{image:atm:textures\/questpics\/extremereactors\/turbineui.png width:200 height:150 align:1}"
+    ],
+    "quest.7B4AAC741F0A6073.quest_desc": [
+        "Ogni reattore necessita di 9 barre di controllo e 9 barre di combustibile. Queste barre controllano l'inserimento del combustibile nel reattore.\n\nLe barre di controllo vengono posizionate sulla superficie superiore del reattore. È possibile avere più barre per reattore, ma è necessario ne avere almeno una. In genere, più barre si hanno, maggiore è la quantità di combustibile che il reattore può utilizzare e bruciare. Ciò può tradursi in una maggiore potenza complessiva, ma a costo di un maggiore tasso di combustione, a seconda della configurazione del proprio reattore.\n\nPer ogni barra di controllo, sarà necessario un numero sufficiente di barre di combustibile per raggiungere la base del reattore. Ad esempio, se il vostro reattore è alto 5 blocchi, sarà necessario 3 barre di combustibile per ogni barra di controllo.\n\nCliccando con il tasto destro su una barra di controllo, è possibile controllare la quantità di combustibile bruciato nel reattore inserendo o ritraendo le barre di combustibile. Più si estendono le barre, minore sarà la quantità di combustibile bruciato."
+    ],
+    "quest.7B4AAC741F0A6073.title": "Barre di controllo del reattore",
+    "quest.7C4D8AA107780795.quest_desc": [
+        "Utilizzando il dispositivo \"\\&aFluidizer\\&r\", è possibile combinare \"\\&dBlutonium\\&r\" con \"\\&eYellorium\\&r\" per ottenere \"\\&2Verderium\".\\n\\nQuando utilizzato come combustibile in un reattore, \"\\&2Verderium\\&r\" produce \"\\&cRossinite\\&r\" come reagente. Ne abbiamo bisogno!\\n\\nPer utilizzare \"\\&2Verderium\\&r\" come combustibile, sarà necessario creare dei \"\\&cFuel Injection Ports\\&r\" per il vostro reattore.\\n\\nNota: Potrebbe essere necessario svuotare il combustibile attualmente presente nel vostro reattore, oppure creare un nuovo reattore per questo scopo."
+    ],
+    "quest.7C4D8AA107780795.title": "Rossinite",
+    "quest.7C4E4793DA887DE4.quest_desc": [
+        "Basandosi sul mod originale \"\\&eBig Reactors\\&r\", \"\\&aExtreme Reactors\\&r\" ti permette di costruire reattori modulari personalizzabili!\\n\\nL'elemento principale, ovviamente, è l'uranio. Ne avrai bisogno, insieme a molta carbone e ferro, per iniziare a costruire.\\n\\nSe ti perdi durante la costruzione, consulta il manuale \"\\&aThe Extreme Book\\&r\" per ricevere assistenza!"
+    ],
+    "quest.7C4E4793DA887DE4.quest_subtitle": "Non è commestibile... fidatevi.",
+    "quest.7C4E4793DA887DE4.title": "Benvenuti in \\&9Extreme Reactors\\&r!",
+    "quest.7E07C5A6FA6B6B1F.quest_desc": [
+        "Una volta che avete costruito un \\&aReprocessor\\&r funzionante, potete introdurre energia, acqua e \\&9Cyanite\\&r per creare \\&dBlutonium\\&r.",
+        "",
+        "Questo può essere utilizzato come combustibile per il vostro reattore, e produce un proprio tipo di scarto chiamato \"magnetite\"."
+    ],
+    "quest.7E07C5A6FA6B6B1F.title": "Bloro",
+    "task.27D8027E1B88F02A.title": "Tutti i diritti riservati",
+    "task.2905C4386A407A1E.title": "L'interfaccia per la turbina",
+    "task.4851C74261B5FA25.title": "Tutti i diritti riservati"
+}

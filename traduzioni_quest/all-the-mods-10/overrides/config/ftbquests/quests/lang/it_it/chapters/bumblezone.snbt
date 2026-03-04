@@ -1,0 +1,443 @@
+{
+    "quest.00764A738DA6451C.quest_desc": [
+        "Uccidere 4 Endermite. \\n\\nStiamo semplicemente distruggendo tutto, vero?"
+    ],
+    "quest.027EF5C8A74B1596.quest_desc": [
+        "Le loro armi principali sono gli Stingers.\n\nQuindi, perché non utilizziamo gli Stingers anche noi? Potete creare, trovare o scambiare gli Stingers, e funzionano come un tridente.\n\nSono semplicemente molto più deboli e infliggono veleno alle creature!",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_spear.png width:100 height:150 align:center}"
+    ],
+    "quest.02F4C3BEBD8427AD.quest_desc": [
+        "Credetemi, lo capirete quando lo vedrete.\n\nDecine di giardini appesi al tetto dell'alveare. Contengono centinaia di specie diverse di fiori e alberi, persino alcune provenienti da mod come Eternal Starlight o Regions Unexplored!",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_garden.png width:200 height:100 align:center}"
+    ],
+    "quest.02F4C3BEBD8427AD.title": "Giardini pensili",
+    "quest.037E0DAA5ECC5AB8.quest_desc": [
+        "Colpisci 24 diversi mostri usando gli \"Pollen Puffs\". Gli \"Pollen Puffs\" sono particolarmente divertenti da usare contro i mostri!"
+    ],
+    "quest.041D16DA96BC4253.quest_desc": [
+        "Le colonne di \\&e\\&lPollinated Fields\\&r sono ciò che collega le \\&e\\&lPollinated Fields\\&r alle \\&6\\&lHive Walls\\&r.\nSono un ottimo connubio tra le \\&6\\&lHive Walls\\&r, caratterizzate da pareti imponenti e ricoperte di \\&ePollen\\&r!",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_pollenpillar.png width:200 height:100 align:center}"
+    ],
+    "quest.041D16DA96BC4253.title": "Pili pollinati",
+    "quest.04665EFC3A37250E.quest_desc": [
+        "Eliminare i pesciolini argentati (Silverfish) e quelli di taglia 8 e 7."
+    ],
+    "quest.053483E3349B2F8A.quest_desc": [
+        "Questa struttura assomiglia alle Giardini Pensili, ma è composta da un'unica struttura molto grande. La riconoscerete come il \"Tempio Eterno Blu\" all'interno del \"Cera Antica Luminosa Blu\".\n\nEntrate nella struttura e seguite il percorso fino alla stanza inferiore (prestando attenzione agli addetti alla sorveglianza). Qui troverete l'\"Essenza Blu\".\n\nEntrate e preparatevi a trattenere il respiro. Dovrete affrontare ondate di \"Annegati\", \"Guardiani\" e \"Guardiani Anziani\" sott'acqua. Una volta che tutti saranno morti, otterrete...",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_blue1.png width:200 height:100 align:center}",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_blue2.png width:200 height:100 align:center}"
+    ],
+    "quest.053483E3349B2F8A.title": "\\&bBlue Sempiternal Sanctum",
+    "quest.0584073A7383E0EA.quest_desc": [
+        "Alcune delle missioni relative alla \"Regina Ape\" potrebbero sembrare noiose, poiché ci sono poche aree in cui è possibile raccogliere \"Endermiti\" e \"Pesci d'argento\".\n\nQuesto non è più così, grazie agli aggiornamenti più recenti! Benvenuti alla Fortezza degli Endermiti!\n\nAll'interno delle imponenti strutture in \"Pietra\", troverete numerosi \"Pesci d'argento\" (oltre a bottini, in particolare all'interno della \"Obsidian\").\n\nAl centro della struttura, dove tutto sarà di colore \"Viola\", troverete gli \"Endermiti\".\n\nA proposito, sapevate che gli \"Endermiti\" e i \"Pesci d'argento\" attaccano gli \"Endermiti\"? Combattete con loro per conquistare il cuore della \"Regina\".",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_mite.png width:200 height:100 align:center}"
+    ],
+    "quest.0584073A7383E0EA.title": "Fortezza di Mite",
+    "quest.05A4496705B6C6AF.quest_desc": [
+        "I Beehemoth sono creature uniche, simili a un cavallo volante selvatico.\n\nPossono essere addomesticate nutrendoli con miele liquido, sia in bottiglia che in secchio.\n\nHanno un livello di affetto che determina se vengono addomesticate e quanto velocemente si muovono e quanta salute hanno! Nutrirli aumenterà il livello, mentre se subiscono danni lo diminuirà.\n\nUna volta raggiunto il livello massimo di affetto, diventeranno una \\&5Regina Beehemoth\\&r!\n\nSeguiranno i \\&6Secchi di Miele\\&r come le mucche seguono il grano (si consiglia anche di utilizzarli con la Regina Miele).",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_beehemoth.png width:100 height:100 align:center}"
+    ],
+    "quest.05A4496705B6C6AF.title": "Gigante",
+    "quest.0910C28A609ECBC1.quest_desc": [
+        "Lo strumento \"\\&6Honey Compass\\&r\" è uno strumento molto utile aggiunto da \"\\&6\\&lBumblezone\\&r\".\n\nÈ possibile crearlo o scambiarlo.\n\nÈ possibile fare clic con il tasto destro su un \"\\&eBeehive\\&r\" per tracciare quel \"\\&eHive\\&r\" (inclusi i \"\\&lProductive Beehives\\&r\") oppure fare clic con il tasto destro sull'aria per individuare un labirinto di celle."
+    ],
+    "quest.0910C28A609ECBC1.title": "\\&6Honey Compass",
+    "quest.0980661B2F7FBC10.quest_desc": [
+        "Salta sopra e oltre le candele per raggiungere la cima!\nUna volta arrivato in cima, potrai trovare delle \"coccole di miele\".\nFai attenzione a non scottarti i piedi.",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_candle.png width:200 height:100 align:center}"
+    ],
+    "quest.0980661B2F7FBC10.title": "Parco di candele",
+    "quest.0B0BDC37185AF9EC.quest_desc": [
+        "Le Antiche Anse sono torri alte costruite con la pietra antica.\n\nIn cima, si possono trovare delle Anse con aria che vi scorre attraverso.\n\nÈ anche qui che si trovano le coccoon!\n\nSembra un luogo ideale per utilizzare le ali!",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_hoops.png width:200 height:100 align:center}"
+    ],
+    "quest.0B0BDC37185AF9EC.title": "Anelli antichi",
+    "quest.0BE2E7C9454058C3.quest_desc": [
+        "Una parte del bellissimo giardino \\&d\\&lFloral Meadow\\&r, in particolare l'albero di \\&dCiliegio\\&r, è molto più grande e antico rispetto agli altri.\n\nSembra che le api siano particolarmente attratte da questi alberi e hanno costruito piccoli alveari proprio accanto ad essi, pieni di giovani api!",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_cherry.png width:200 height:100 align:center}"
+    ],
+    "quest.0BE2E7C9454058C3.title": "\\&dAlbero di ciliegio storico",
+    "quest.0C8180524757B238.quest_desc": [
+        "\\&7I \"Floaters\" non sono tecnicamente strutture nei file di Minecraft, ma sono comunque presenti in termini semplici.\\n\\nPossono apparire in qualsiasi bioma, ma sono particolarmente comuni nelle \"Howling Constructs\" (Strutture Ululate). \\n\\nSi tratta di strutture a forma di disco galleggianti realizzate in cera antica. Se non avete ancora utilizzato il \"Essense of Bees\", entrerete in uno stato di debolezza, lentezza e affaticamento durante il contatto con la cera antica. Inoltre, sulle \"Howling Constructs\" si trovano anche \"Honey Cocoons\" e \"Crystals\"!",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_floaters.png width:200 height:100 align:center}"
+    ],
+    "quest.0C8180524757B238.title": "\\&7Floaters",
+    "quest.0C9C5639D76FDF65.quest_desc": [
+        "Recupera i personaggi 12 e 6B\\&8e\\&6e\\&8s\\&r ricollegando il loro \"Stinger\".\n\nQuando un \"Stinger\" colpisce un nemico o anche te stesso, questo verrà rimosso, causando un avvelenamento fatale.\n\nSe li colpisci con un \"Stinger\", puoi ricollegarlo e salvarli!"
+    ],
+    "quest.0E32DB6B8E023764.quest_desc": [
+        "E le api produttive? Cosa state facendo qui?\n\nA volte, lungo le pareti dell'alveare o le colonne, potrete trovare depositi di favi provenienti dalle api produttive!\n\nÈ un po' come estrarre minerali nel mondo di gioco."
+    ],
+    "quest.0E32DB6B8E023764.title": "Trasposizione?",
+    "quest.0F5549B02D1B383B.quest_desc": [
+        "Uccidere 16 ragni delle grotte.\n\nNon preoccupatevi, ci sono molti oggetti disponibili nel negozio \"\\&6\\&lBumblezone\\&r\" che possono aiutare a curare l'avvelenamento."
+    ],
+    "quest.1207E5C3E7BD0584.title": "Motivo a forma di ape",
+    "quest.12EF38830108D02B.quest_desc": [
+        "Uccidi 32 ragni normali."
+    ],
+    "quest.13681866CE6A831C.title": "Motivo \"Swords Banner\"",
+    "quest.13E3DE157B89E847.quest_desc": [
+        "Una struttura molto semplice, alcuni elementi (in particolare il codice \"\\&6B\\&8e\\&6e\\&8s\\&r\") e altri materiali sono stati congelati in un gelato.",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_ice.png width:200 height:100 align:center}"
+    ],
+    "quest.13E3DE157B89E847.title": "Monolito di ghiaccio",
+    "quest.14F6ED7F0C1DC503.quest_desc": [
+        "Bevi 8 bottiglie di miele e 6 bottiglie di acqua.\n\nQuesta è la cosa più difficile per me: non sopporto il rumore di bere 6 bottiglie di miele."
+    ],
+    "quest.1A67F4F87B3D456C.quest_desc": [
+        "L'arma \\&6B\\&8e\\&6e\\&r può essere creata, trovata all'interno di strutture, o acquistata dalla Regina \\&5Bee.\n\nÈ molto semplice: fai clic con il tasto destro sull'arma \\&6B\\&8e\\&6e\\&r per caricarla, quindi tieni premuto il tasto destro e rilascialo per sparare!\n\nNon diventeranno ostili a causa dei colpi, quindi non preoccuparti, in realtà credo che ne apprezzino.",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_cannon2.png width:75 height:150 align:center}"
+    ],
+    "quest.1C6B815C0F43312D.quest_desc": [
+        "Un cambiamento di ritmo per Bumblezone.\n\nIl \"Floral Meadow\" offre erba, alberi di ciliegio e molto altro, immaginabile. (Questo mi fa pensare, dovresti seguire Minty Meadow su Twitch).\n\nAspetta, se Bumblezone ha fiori, perché dobbiamo metterli fuori?!?!?!?!",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_meadow.png width:200 height:100 align:center}"
+    ],
+    "quest.1C6B815C0F43312D.title": "\\&d\\&l, Prato Fiorito",
+    "quest.1D4973B187284CBB.quest_desc": [
+        "È un oggetto molto utile e pacifico, da tenere nella mano non dominante per utilizzarlo. Quando è nella mano non dominante, fertilizzerà le colture e i giovani alberi.\n\nInoltre, curerà anche i mob addomesticati e i giocatori nelle vicinanze.\n\nE rimuoverà anche il veleno e la condizione di \"congelamento\" dai giocatori e dai mob addomesticati. Non so come i vostri mob stiano subendo la condizione di \"congelamento\", ma possiamo risolverlo ora!\n\nDopo un'adeguata cura o fertilizzazione, avrà un periodo di \"ricarica\" di 10 minuti."
+    ],
+    "quest.1D4973B187284CBB.title": "\\&L'essenza della vita",
+    "quest.206918773B0BD7A0.title": "Cognome, Nome, Cognome",
+    "quest.20E5C888891FBCFE.quest_desc": [
+        "Quando tenuto nella mano non dominante, tutti i mostri nelle vicinanze smetteranno di essere ostili nei tuoi confronti.\n\nChe tu sia la persona che li ha provocati o che siano semplicemente naturalmente aggressivi, la situazione cambierà.\n\nHa 600 utilizzi prima di esaurirsi, e dopo l'utilizzo o l'interruzione, dovrà attendere 10 minuti nell'inventario per ricaricarsi.\n\nPuò essere interrotto se subisci danni mentre lo stai utilizzando o se colpisci un mostro."
+    ],
+    "quest.20E5C888891FBCFE.title": "\\&bEssenza di calma",
+    "quest.2149833F65D523E5.quest_desc": [
+        "Similmente all'arma \\&6B\\&8e\\&6e\\&r Cannon, la Crystal Cannon può essere: creata, trovata in strutture, o scambiata con la \\&5Bee Queen\\&r.\n\nQuesta arma può essere utilizzata come un arco, se possiedi \\&5Honey Crystal Shards\\&r nel tuo inventario. Tieni premuto il tasto destro per caricare la \\&5Crystal\\&r e rilascialo per sparare!",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_cannon1.png width:75 height:150 align:center}"
+    ],
+    "quest.21BFDE6AD1C0F62A.quest_desc": [
+        "Ovviamente, nella realtà, ci sono molte altre opzioni oltre a \"Api\" e \"Api Mimete\", quindi \"Api Mimete\" offre una gamma ancora più ampia e varietà di opzioni!\n\nDalle \"Api Mimete\" ai \"Mimete\", fino alle \"Api Mimete\"!"
+    ],
+    "quest.21BFDE6AD1C0F62A.title": "Varianti: \\&8B\\&6e\\&8e\\&r",
+    "quest.22BB55249EF2E819.quest_desc": [
+        "«The Bumblezone» è un mod di esplorazione che aggiunge una nuova dimensione all'interno dei nostri alveari.\n\nTi sei mai chiesto cosa fanno le api nei loro alveari? Beh, puoi scoprirlo avventurandoti!"
+    ],
+    "quest.22BB55249EF2E819.quest_subtitle": "Benvenuti su Bumble!",
+    "quest.22BB55249EF2E819.title": "\\&l\\&6La Zona del Bombino!",
+    "quest.253957D992A88C88.quest_desc": [
+        "Questa scudo, come la maggior parte degli oggetti presenti qui, può essere: trovata in strutture, creata o scambiata con la Regina \\&5Bee.\n\nFunziona come uno scudo \\&2Vanilla, tenendolo nella mano non dominante per bloccare gli attacchi.\n\nCiò che lo rende diverso (e migliore) è che, una volta riparato con \\&5Honey Crystals, diventerà più potente.",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_shield.png width:100 height:150 align:center}"
+    ],
+    "quest.262B307753106817.title": "Affogare nella disperazione",
+    "quest.26988330D3E5BF95.title": "Modello di frecce",
+    "quest.270498437D938DD4.quest_desc": [
+        "Creando una candela speciale con miele reale e una pozione, otterrai una candela con effetto pozione!\n\nQuando la candela sarà accesa, avrà un effetto sulla pozione per tutte le aree circostanti."
+    ],
+    "quest.270498437D938DD4.title": "Candela a forma di pozione",
+    "quest.27B5D0329DD92126.quest_desc": [
+        "… Zuppa… fatta con api? Sembra piuttosto crudele…\\n\\nConsumare\/bere questa zuppa conferirà un effetto di energia temporaneo e darà anche la possibilità di ottenere fortuna!\\n\\nInoltre, si può ottenere anche la possibilità di levitare, cadere lentamente, essere avvelenati o paralizzati.\\n\\nInoltre, utilizzando la zuppa, è possibile creare pozioni paralizzanti."
+    ],
+    "quest.27FEF80A08AF43C2.quest_desc": [
+        "L'area colorata \"\\&6B\\&8e\\&6e\\&r\"!\n\nAttraversate la struttura, ma vi consiglio di non toccare nulla: manopole, pulsanti, trappole o piastre a pressione, perché potrebbe essere pericoloso!\n\nUna volta raggiunta l'area \"\\&eEssenza Gialla\", preparatevi a correre!\n\nDovrete correre e saltare attraverso le \"\\&eAnelli Elettrici\". Una volta che lo avrete fatto, ne spunteranno altri. Continuate a farlo per molto tempo e, speriamo, un giorno la completerete.",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_yellow1.png width:200 height:100 align:center}",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_yellow2.png width:200 height:100 align:center}"
+    ],
+    "quest.27FEF80A08AF43C2.title": "\\&eSanctum giallo eterno\\&r",
+    "quest.288A4A32CDBB14D5.quest_desc": [
+        "Un'altra struttura realizzata principalmente in cera antica.\n\nQuesta assomiglia quasi a un parabolo. È piena di polvere, quindi attenzione a chi soffre di allergie.\n\nAl centro, si possono trovare un blocco di smeraldo e abbondanti quantità di ametista.",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_dish.png width:200 height:100 align:center}"
+    ],
+    "quest.288A4A32CDBB14D5.title": "Santuario antico",
+    "quest.29C78845B488EDF8.quest_desc": [
+        "I numerosi fiori viola e il \"viola cera antica luminescente\" ci dimostrano che si tratta della \"struttura viola\".\n\nSeguite i \"canali d'aria viola\", superate le \"fognature viola\", percorrete le \"stanze viola\" piene di fiori, ametiste e tende, per raggiungere l'essenza \"viola\".\n\nUna volta all'interno, dovrete sopravvivere per il tempo stabilito per vincere. Spigoli viola emergeranno dal terreno per attaccarvi, evitateli!",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_purple1.png width:200 height:100 align:center}",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_purple2.png width:200 height:100 align:center}"
+    ],
+    "quest.29C78845B488EDF8.title": "\\&5Sanctum viola eterno",
+    "quest.29DF2E7D0402284F.title": "Luce radiosa",
+    "quest.29E2033EA65E706E.quest_desc": [
+        "Qui potrete trovare la casa di una allevatrice di slime che cerca di guadagnarsi da vivere... ma aspetta, cosa sta succedendo? Come è arrivato un abitante del villaggio qui?",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_ranch.png width:200 height:100 align:center}"
+    ],
+    "quest.29E2033EA65E706E.quest_subtitle": "Slime Rancher",
+    "quest.29E2033EA65E706E.title": "\\&6Honey Slime\\&r Ranch",
+    "quest.29E9E361DDC8041B.title": "Modello a forma di sole",
+    "quest.2A50A687C40DB864.quest_desc": [
+        "Le \"muri di miele\" sono la base della \"Bumblezone\".\n\nSi tratta di enormi muri di \"alveoli di miele\" e \"cera\" che si estendono dal pavimento al soffitto.\n\nQuesti muri contengono anche \"alveoli\" e \"fori\" per le \"api produttive\", dove appariranno i \"blocchi di covata\".",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_hivewall.png width:200 height:100 align:center}"
+    ],
+    "quest.2A50A687C40DB864.title": "\\&6\\&Muro vivente",
+    "quest.2A6FC21142E75DD5.quest_desc": [
+        "I laghi, gli oceani, i bacini e i fiumi della \\&l\\&6Bumblezone\\&r. \\n\\nProbabilmente originariamente erano solo \\&bAcqua\\&r, ma a causa del tempo trascorso all'interno della \\&eHive\\&r, si sono trasformati in \\&bAcqua zuccherata\\&r. \\n\\nQuesti sono molto utili per uscire dalla \\&l\\&6Bumblezone\\&r, poiché ci sono molte meno \\&bBlocchi\\&r in questa bioma. \\n\\nInoltre, a volte qui si generano anche gli \\&bSlime di miele\\&r.",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_sugar.png width:200 height:100 align:center}"
+    ],
+    "quest.2A6FC21142E75DD5.title": "Laghi di zucchero! (\\&acqua)",
+    "quest.2ABAE97E992BB800.title": "Motivo a forma di favo",
+    "quest.2AD13B965611DC86.quest_desc": [
+        "Il bioma più affascinante di \\&l\\&6Bumblezone\\&r, gli \\&7\\&lCostrutti Ululanti\\&r.\n\nA terra, si trovano stalattiti di Pietra di Zucchero Infusa, \\&eCera Modellabile\\&r, e \\&6Miele\\&r.\n\nLa parte interessante è ciò che non si trova a terra. Sono presenti \\&7strutture galleggianti\\&r in tutto il \\&l\\&7Howling Constructs\\&r.\n\nSono realizzate in cera antica, di cui imparerete di più in seguito.",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_constructs.png width:200 height:100 align:center}"
+    ],
+    "quest.2AD13B965611DC86.title": "\\&7\\&lCostruzioni che ululano",
+    "quest.2B857941D7BBA0B8.quest_desc": [
+        "È possibile trovarlo nelle strutture della \\&6\\&lBumblezone\\&r o scambiarlo con la \\&5Regina Ape\\&r!\n\nAvete mai avuto la frustrazione di rimanere bloccati dai \\&6\\&lBlocchi di miele\\&r? O anche quando il \\&ePolline\\&r vi rallenta? Allora non c'è motivo di preoccuparsi, perché i leggings \"Honey Bee\" sono qui per aiutarvi! Vi permetteranno di muovervi più facilmente attraverso quei blocchi. Più armature da ape indossate, più facile sarà il vostro viaggio!\n\nInoltre, potete usare lo \\&ePolline\\&r per raccoglierlo!"
+    ],
+    "quest.2DE2E5A1275E4B20.quest_desc": [
+        "È possibile trovarlo nelle strutture della \\&6\\&lBumblezone\\&r o scambiarlo con la \\&5Regina Ape\\&r!\n\nI \\&6\\&lB\\&8e\\&6e\\&8s\\&r hanno un modo piuttosto interessante per trovare e comunicare tra loro. Non so come fanno, quindi ipotizzo che utilizzino antenne per inviare e ricevere segnali radio.\n\nIndossando il casco \"Ape Senza Spine\", è possibile evidenziare tutti i \\&6\\&lB\\&8e\\&6e\\&8s\\&r nelle vicinanze.\n\nInoltre, indossando il casco, i sintomi di avvelenamento e nausea scompariranno più rapidamente."
+    ],
+    "quest.30C12E249F7E2D52.quest_desc": [
+        "Una delle strutture più grandi in \\&6\\&lBumblezone\\&r, il che significa ovviamente la maggior parte dei tesori!\\n\\nCi sono tantissime stanze collegate in una sorta di schema di puzzle.\\n\\nSe non hai ancora utilizzato l'Effetto \"Essenza delle Api\" o hai attivo l'Effetto \"Protezione dell'alveare\", otterrai l'Effetto \"Furia dell'alveare\" mentre sei nel Labirinto delle Celle. Quindi, libera alcune Api!\\n\\nInoltre, la \\&5Throne Pillar Compass\\&r apparirà sempre in questa struttura.",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_cell.png width:200 height:100 align:center}"
+    ],
+    "quest.30C12E249F7E2D52.title": "Labirinto cellulare",
+    "quest.3365017C9B24C0A9.quest_desc": [
+        "Utilizzate archi o balestri per sparare a 32 missili Stingers.\n\nSì, è possibile!"
+    ],
+    "quest.339384ADC9CDB944.title": "Sapere",
+    "quest.341DF467E3936E78.quest_desc": [
+        "Sconfiggi il drago Ender indossando un'armatura completa! \\n\\nIl tuo nome sarà ricordato per secoli!"
+    ],
+    "quest.351769579833FA9E.title": "Rilassarsi con gli \"Hom-bees\"",
+    "quest.358D4F507521075F.quest_desc": [
+        "\\&eHive\\&r all'interno di un \\&eHive\\&r, in un contesto di \\&eHive\\&r.",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_shrine.png width:200 height:100 align:center}"
+    ],
+    "quest.358D4F507521075F.title": "\\&eHive\\&r Tempio",
+    "quest.396CEB9D05700927.quest_desc": [
+        "Per accedere alla \\&eHive\\&r, avrai bisogno prima di tutto di una \\&eBeehive\\&r. Sia le \\&eBeehives\\&r normali che quelle \\&eAdvanced Beehives\\&r funzionano! \\n\\nQuindi, puoi o lanciare un Enderpearl all'interno, oppure far spingere la \\&eBeehive\\&r da un pistone! \\n\\nIn questo modo, entrerai nella \\&eHive\\&r e accederai alla \\&l\\&6Bumblezone\\&r!"
+    ],
+    "quest.396CEB9D05700927.quest_subtitle": "Incredibile",
+    "quest.396CEB9D05700927.title": "Entra nel mondo di \\&eHive",
+    "quest.3ADC0CBB059FF927.quest_desc": [
+        "Per utilizzarlo, è necessario:\n1. Tenerlo in mano.\n2. Essere all'aperto, durante il giorno.\n3. Essere esposto al cielo.\n\nIn questo modo, si ottengono Regeneration (rigenerazione), Saturation (saturazione), Speed (velocità), Haste (agilità) e Resistance (resistenza). Inoltre, si ripara la durata dell'armatura.\n\nUna volta utilizzato, avrà un periodo di recupero di 10 minuti."
+    ],
+    "quest.3ADC0CBB059FF927.title": "\\&Essenza di luminosità",
+    "quest.3B7BB08D6AA2E7FE.quest_desc": [
+        "Finalmente, le candele \"Red Super Candles\" sembrano complete! Sappiamo che si tratta delle candele \"Red\" prodotte da \"Red Flowers\" e \"Red Luminescent Ancient Wax\".\n\nEsplorate le stanze \"rosse\" per raggiungere l'essenza \"Red\".\n\nSpariranno dozzine di diversi gruppi di creature ostili: lupi, orsi polari e Hoglins. Sconfiggeteli tutti per vincere!",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_red1.png width:200 height:100 align:center}",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_red2.png width:200 height:100 align:center}"
+    ],
+    "quest.3B7BB08D6AA2E7FE.title": "\\&cRed Sempiternal Sanctum\\&r",
+    "quest.3B9E6FBEDABA4F7E.quest_desc": [
+        "All'interno delle \\&6\\&\"mura dell'alveare\\&r, potrete trovare una \\&6\\&\"grotta del miele\\&r! \\n\\nQui potrete trovare \\&6\\&\"liquido di miele\\&r, \\&5\\&\"cristalli di miele\\&r, blocchi per l'alveare e persino creature simili a formiche giganti! \\n\\nTutto ciò relativo al \\&6\\&\"miele\\&r\".",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_cave.png width:200 height:100 align:center}"
+    ],
+    "quest.3B9E6FBEDABA4F7E.title": "\\&6Miele\\&r Stanza nella grotta",
+    "quest.3C413D4A210A3BDE.title": "Apis mellifera",
+    "quest.4040BFCD4BE56621.quest_desc": [
+        "L'hotel \\&6Honey\\&r (Honitel) è una struttura grande e relativamente sicura, ad eccezione del rischio di cadute.\n\nDispone di numerose stanze per gli \\&6B\\&8e\\&6e\\&8s\\&r. Inoltre, troverete molti oggetti da prendere nelle stanze.\n\nSpero solo che vi sentiate in colpa per averli sottratti a queste persone innocenti.",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_honitel.png width:200 height:100 align:center}"
+    ],
+    "quest.4040BFCD4BE56621.quest_subtitle": "Non disponibile",
+    "quest.4040BFCD4BE56621.title": "Honitel",
+    "quest.41D539DA3B3EC287.quest_desc": [
+        "Goliath sta sottovalutando questa fontana di \\&6Miele\\&r. Pensate a qualcosa di molto più grande!\n\nLa fontana di \\&6Miele\\&r di Goliath è una struttura gigantesca, piena di \\&6Miele liquido\\&r.\nPotete persino entrare per trovare una grande quantità di \\&6Cristalli di miele\\&r e \\&5Ambra\\&r.",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_goliath.png width:200 height:100 align:center}"
+    ],
+    "quest.41D539DA3B3EC287.title": "Goliath \\&6Honey\\&r Fonte",
+    "quest.42CB494F72FA1FD1.quest_desc": [
+        "Realizzare 6 alveari e 6 nidi per api. Ciò include anche 6 alveari con api produttive."
+    ],
+    "quest.454AC491FDFC3FDB.quest_desc": [
+        "A differenza della maggior parte degli altri mob cubici, gli \"Slime di miele\" sono amichevoli!\n\nPossono essere allevati con lo zucchero e possono essere... estratti? Utilizzando bottiglie per ottenere \"Bottiglie di miele\". Tuttavia, se li estratti, reagiranno, a meno che tu non abbia l'Essenza di api.\n\nQuando muoiono, lasceranno cadere dello zucchero.\n\nLi puoi trovare in alcune strutture, come i \"Laghi di zucchero\", oppure a volte, facendo crescere gli \"Api\" nei Blocchi di Nido.",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_slime.png width:100 height:100 align:center}"
+    ],
+    "quest.454AC491FDFC3FDB.quest_subtitle": "Nessun \"Royal Jelly Slimes\"?",
+    "quest.454AC491FDFC3FDB.title": "\\&6Slime a base di miele",
+    "quest.4646DCF463FD913F.quest_desc": [
+        "Sconfiggi il Wither con la lancia Stinger.\n\nProva a utilizzare il portale di uscita per l'End per facilitare questo compito."
+    ],
+    "quest.46FEF3DB6A5B52A0.quest_desc": [
+        "Battle Cubes sono un'area di combattimento all'interno di \\&6\\&lBumblezone\\&r!\n\nSimilmente alle \"Sale di Prova\", presentano diverse stanze con spawn point e, ovviamente, oggetti da raccogliere!\n\nAll'interno delle stanze si trovano ragnatele e lana per rappresentare le uova di ragno, all'interno dei quali si trovano spawn point per ragni o ragni di caverna, e a volte oggetti di valore come blocchi di diamante o smeraldo!\n\nNell'ultima stanza si trovano anche delle \"Coccole di miele\" che possono contenere oggetti di valore, come un \"Pilastro del trono\"!",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_cube.png width:200 height:100 align:center}"
+    ],
+    "quest.46FEF3DB6A5B52A0.title": "Cubetti di battaglia",
+    "quest.4718C2728C0CA40F.quest_desc": [
+        "Quando lo utilizerai, acquisirai molte conoscenze!\n\nNella parte inferiore a sinistra, vedrai la struttura in cui ti trovi, se sei all'interno di una.\n\nInoltre, tutte le entità saranno evidenziate quando è in uso, inclusi blocchi come casse o supporti per armature.\n\nDopo averlo utilizzato, avrà un periodo di riposo di 15 minuti. Tuttavia, grazie al suo ampio utilizzo, non dovresti avere problemi!"
+    ],
+    "quest.4718C2728C0CA40F.title": "\\&5L'essenza della conoscenza",
+    "quest.497FA7CA04117995.title": "Vita",
+    "quest.4A5F84912C755688.quest_desc": [
+        "\"L'autobus è arrivato\\nE tutti si stanno affrettando\\nDa New York a San Francisco\\nUna festa notturna tra le città\\nLe ruote girano\\nE i semafori si accendono\\nQuindi, se vi piace ballare,\\nSalite a bordo e muovetevi!\".",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_dance.png width:200 height:100 align:center}"
+    ],
+    "quest.4A5F84912C755688.title": "Pista da ballo",
+    "quest.4F144E5F70932C7D.quest_desc": [
+        "Un'altra struttura galleggiante! (Penso di notare un modello). \\n\\Qui troverete una grande quantità di oggetti nascosti all'interno delle coccole e sotto i cristalli di miele scintillante. \\n\\Qui troverete anche un gran numero di fantasmi, da cui deriva il nome! Potrebbe essere utile avere qualcosa per prevenire lesioni da caduta...",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_phantasm.png width:200 height:100 align:center}"
+    ],
+    "quest.4F144E5F70932C7D.title": "Aviario Phantasm",
+    "quest.50150380043F97F9.title": "Il volo dell'ape",
+    "quest.513060836057E5B7.quest_desc": [
+        "I campi impollinati da... ACHEW... sono simili all'ecosistema delle pianure, ma sono pieni di... ACHEW... polline! ACHEW... Il polline si accumula in strati, come la neve, e cade a causa della gravità... ACHEW. Rallenterà il tuo movimento mentre cammini, in modo simile alla... ACHEW... neve polverosa.",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_pollenfields.png width:200 height:100 align:center}"
+    ],
+    "quest.513060836057E5B7.title": "Campi impollinati da insetti",
+    "quest.516ECA0396621C32.quest_desc": [
+        "Come possiamo essere sicuri che è l'«aGreen»? L'erba è «aGreen», ma è presente anche in ogni altro santuario. Gli «aAzaela Bushes» e la «aGreen Luminescent Ancient Wax» lo dimostrano.\n\nSeguite l'aria frizzante e le fogne per raggiungere la stanza principale, dove troverete l'«aGreen Essence».\n\nEntrate e inizierà una battaglia contro un boss, un Rootmin. Salite sull'altra piattaforma e colpite i \"Dirt Pellets\" per abbassare la sua barra del boss.",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_green1.png width:200 height:100 align:center}",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_green2.png width:200 height:100 align:center}"
+    ],
+    "quest.516ECA0396621C32.title": "\\&A: Santuario eterno di Green",
+    "quest.5219D2F2B13F57F3.quest_desc": [
+        "Uno, se non il, elemento più importante in \\&6\\&lBumblezone\\&r! La \"Borsa per l'assistenza\" è l'elemento perfetto per prendersi cura delle api.\n\nÈ possibile fare clic con il tasto destro sulla \"Borsa per l'assistenza\" per catturare le api al suo interno. Successivamente, è possibile utilizzare il tasto Shift per fare clic con il tasto destro e visualizzare le api all'interno.\n\nPuò contenere fino a 14 api, inclusa la \"Apis Produttiva\".\n\nQui è possibile visualizzare la loro salute, il nome, il tipo di ape, se ha uno stinger, se contiene polline, e molto altro!\n\nÈ anche possibile utilizzarla per rilasciare le api dalla borsa.",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_briefcase.png width:200 height:150 align:center}"
+    ],
+    "quest.52C7FAA044E07628.quest_desc": [
+        "Immaginate il \"Totem dell'Immortalità\", e poi pensate a come potrebbe essere incredibilmente potente. Questo è l'essenza del \"Continuity\".\n\nQuando state per subire un colpo fatale, sarete teletrasportati al vostro punto di ripristino, con la salute, la fame e gli effetti negativi rimossi. Ovviamente, questo vi salverà la vita.\n\nInoltre, vi fornirà un diario che descrive come e dove avreste perso la vita.\n\nDopo aver salvato la vostra vita, il totem avrà un periodo di ricarica di 40 minuti e fornirà anche periodi di ricarica a tutte le altre essenze che potrete utilizzare."
+    ],
+    "quest.52C7FAA044E07628.title": "\\&Fessenza di continuità",
+    "quest.540895E6C9E724AD.quest_desc": [
+        "E i pilastri sono come le pareti dell'alveare, solo più piccoli. È semplicemente così.",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_hivepillar.png width:200 height:100 align:center}"
+    ],
+    "quest.540895E6C9E724AD.title": "\\&6\\&Pilastro principale",
+    "quest.5443AA65C0D0C599.quest_desc": [
+        "Puoi ottenere questo liquido rubandolo alla Regina \\&5Bee\\&r, oppure puoi collaborare con lei. Tuttavia, ti consiglio di trattarla con rispetto, poiché è una figura regale!\n\nUna volta consumato, otterrai numerosi effetti sorprendenti, oltre a eliminare alcuni effetti negativi.\n\nQuesto liquido può essere utilizzato anche su \\&6B\\&8e\\&6e\\&8s\\&r e Beehemoths per conferire loro effetti!"
+    ],
+    "quest.54D80939887B3F7D.quest_desc": [
+        "Fai scambi con \\&5Bee Queen\\&r per 128 volte! \\n\\nIn bocca al lupo!"
+    ],
+    "quest.55B9B9C3AA01D323.quest_desc": [
+        "Tra le imponenti e scintillanti \"Cristalli\" nel \"Canyon di Cristallo\", si trova un \"Cristallo\" a forma di \"Fiore\".\n\nÈ meraviglioso, quasi ipnotico. Mi fa desiderare di creare un giardino pieno di bellissimi \"Fiori\", ma so che nessuno di quei \"Fiori\" potrà mai avvicinarsi alla bellezza di questo \"Cristallo a forma di fiore\".\n\nComunque, troverete abbondanti \"Cristalli di Miele\", \"Miele\" e, soprattutto, \"Fiori Crystalline\"!",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_overgrown.png width:200 height:100 align:center}"
+    ],
+    "quest.55B9B9C3AA01D323.title": "E una pianta fiorita in modo eccessivo",
+    "quest.565EBD340595EAC4.quest_desc": [
+        "Questo contenuto è stato creato da \\&6AllTheMods Staff\\&r, o da un \\&2contributore della community\\&r, per l'uso nei pacchetti mod di AllTheMods.\n\nPoiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti a \\&e\"Tutti i diritti riservati\", questo contenuto non può essere utilizzato in altri pacchetti pubblici, a meno che non sia stato rilasciato dal team \\&6AllTheMods\\&r.\n\nQuesto contenuto è intenzionalmente nascosto. Se lo state visualizzando, siete in modalità di modifica."
+    ],
+    "quest.571CC5558B87377D.quest_desc": [
+        "La Crystal Cannon è un'arma molto divertente e pericolosa, aggiunta da \\&6\\&lBumblezone\\&r!\n\nCome per tutte le armi, è importante fare pratica. L'area di tiro è stata creata appositamente per questo!\n\nLì troverete numerose armi, \\&5Cristalli\\&r, e bersagli da colpire! Quindi potrete ottenere le ricompense per aver colpito i blocchi bersaglio.",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_range.png width:200 height:100 align:center}"
+    ],
+    "quest.571CC5558B87377D.title": "Area di tiro",
+    "quest.5728D87E3240AF0D.quest_desc": [
+        "Una struttura molto semplice, ovvero i canali per l'irrigazione alimentati da nettare. Si tratta di acquedotti alimentati da acqua zuccherina!",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_streams.png width:200 height:100 align:center}"
+    ],
+    "quest.5728D87E3240AF0D.title": "\\& Acque irrigate da impollinazione",
+    "quest.58CC2E563F92B4C5.quest_desc": [
+        "\"Quando si utilizza \"Essenza di Rabbia\", si attiverà un sistema simile a quello dei \"ricompense\".\n\nIl sistema evidenzierà 4 mostri e, una volta uccisi, si guadagneranno punti di Forza. Più mostri si uccidono, più aumenterà il valore!\n\nIl massimo raggiungibile è di 16.\n\nDopo l'utilizzo, sarà necessario attendere 30 minuti prima di poterlo utilizzare nuovamente."
+    ],
+    "quest.58CC2E563F92B4C5.title": "E altre qualità",
+    "quest.5B4397D4EC23E702.quest_desc": [
+        "Il luogo ideale per tutti i guerrieri di livello 6B\\&8e\\&6e!\n\nQui potrete trovare una lancia \"Stinger\" e gli incantesimi per essa!",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_stingy.png width:200 height:100 align:center}"
+    ],
+    "quest.5B4397D4EC23E702.title": "Santuario della Lancia di Stinger",
+    "quest.5C040191740A53C8.quest_desc": [
+        "Vostra Altezza, la Regina delle Api.\n\nUna regina delle api di dimensioni eccezionali, così grande da non essere in grado di muoversi da sola.\n\nAl suo incontro, vi chiederà di procurarle un determinato oggetto. Se lo farete, riceverete una ricompensa speciale.\n\nInoltre, ora che l'avete incontrata, potrete commerciare con lei (consultare JEI per tutti i possibili scambi) e completare le sue richieste.\n\nPer progredire in Bumblezone, avrete bisogno di \"Essenza di Ape\", che otterrete completando tutte le sue 16 missioni.",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_queen.png width:200 height:100 align:center}"
+    ],
+    "quest.5C040191740A53C8.title": "\\&5Vostra Altezza",
+    "quest.5E180764FBEE666B.quest_desc": [
+        "Un blocco molto particolare e utile, ottenuto da \"\\&6Bumblezone\\&r\", che è raro da trovare in alcune strutture, e uno dei più facili è \"\\&5Overgrown Flower\\&r\"!\n\nSi tratta di un blocco complesso, quindi ascoltate attentamente. \"\\&5Overgrown Flower\\&r\" viene utilizzato per incantare libri, e ha livelli che devono essere sbloccati per poter utilizzare gli incantesimi.\n\nPer ottenere livelli più alti, sarà necessario fornire \"\\&5Overgrown Flower\\&r\" oggetti o punti esperienza. Quindi, è possibile inserire un libro o un libro incantato e selezionare l'incantesimo da applicare.",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_flower.png width:175 height:200 align:center}"
+    ],
+    "quest.5E180764FBEE666B.title": "\\& Fiore cristallino",
+    "quest.5F834F8C607A8B77.quest_desc": [
+        "Dovete trovare questi oggetti all'interno delle strutture presenti nella \\&6\\&lBumblezone\\&r oppure potete scambiarli con la \\&5Regina Ape\\&r per ottenerne uno!\n\nMentre indossate l'oggetto, potete premere il tasto \"Space\" per volare per un breve periodo.\n\nTuttavia, come accade con la \\&6B\\&8e\\&6e\\&r, le ali sono troppo piccole per mantenere il vostro corpo stabile a terra."
+    ],
+    "quest.6013C6B2E0B81D73.quest_desc": [
+        "Sulla superficie delle \\&6\\&lMuri dell'alveare\\&r e delle \\&6\\&lColonne\\&r, troverete ciò che chiamo \\&6\\&lCentri per l'infanzia delle api\\&r.\n\nQui troverete \\&6\\&lBlocchi di miele\\&r e \\&6\\&lBlocchi di nido per api\\&r! Questi si generano con \\&6\\&lCucciolate di api\\&r all'interno.\n\nPotete nutrirli con \\&bBottiglie di acqua zuccherata\\&r, \\&6\\&lBottiglie di miele\\&r, o \\&6\\&lPane d'api\\&r. Hanno 4 fasi e, dopo la quarta, si genererà una \\&6\\&lCucciolata di api\\&r. A volte, si generano anche \\&6\\&lSlime di miele\\&r!\n\nPotete portare il \\&6\\&lBlocco di nido vuoto\\&r alla \\&5Regina dell'alveare\\&r per riempirlo.\n\nSe li nutrite a sufficienza, otterrete la protezione dell'alveare. Se li rimuovete, otterrete la rabbia dell'alveare.",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_daycare.png width:200 height:100 align:center}"
+    ],
+    "quest.6013C6B2E0B81D73.title": "\\&6 Centri per l'infanzia",
+    "quest.612157986673F815.quest_desc": [
+        "Alimenta il sistema con \"8B\\&6E\\&8E\\&6S\\&R\" o con qualsiasi altra cosa, ma non con \"8B\\&6E\\&8E\\&R\" per 48 volte!"
+    ],
+    "quest.613AC4DF39E5621D.quest_desc": [
+        "Il \"Gazebuzz Cluster\" è un complesso composto da decine e decine di stanze sospese e separate.\n\nNon avrei potuto elencare tutto ciò che si trova nelle stanze, altrimenti sarei stato a digitare per tutto il giorno! Ma posso riassumere: ci sono stanze con miele, foglie, oggetti da recuperare e persino trappole divertenti!\n\nDovresti quindi prestare particolare attenzione a queste stanze, soprattutto a quelle con il miele e i dipinti...",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_cluster.png width:200 height:100 align:center}"
+    ],
+    "quest.613AC4DF39E5621D.title": "Cluster Gazebuzz",
+    "quest.61500C8F68509E5D.quest_desc": [
+        "Durante la vostra prima visita a \\&d\\&lFloral Meadows\\&r, potreste non accorgervi nemmeno di questi piccoli esseri che si nascondono nell'erba.\n\nI Rootmin si fingono blocchi di erba con dei \\&dFiori\\&r sulla testa.\n\nSe non indossate l'armatura da ape, potrebbero sparare delle palline di terra quando passate di lì.\n\nPotete cambiare il \\&dFiore\\&r sulla loro testa facendo clic con il tasto destro e sostituendolo con un altro!",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_rootmin2.png width:100 height:150 align:center}",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_rootmin1.png width:100 height:100 align:center}"
+    ],
+    "quest.61500C8F68509E5D.title": "Rootmin",
+    "quest.61768CFEDA041E4D.quest_desc": [
+        "Una volta che entrate nella \"Bumblezone\", potreste dover tornare nell'\"Overworld\". Ad esempio, se aveste lasciato accesa la vostra fornace!\n\nPer uscire dalla \"Bumblezone\", potete scavare verso l'alto o verso il basso, superando le \"Api con cera\" per accedere al Vuoto.\n\nQuesto Vuoto non vi ucciderà, ma vi teleporterà di nuovo nel punto da cui siete partiti nell'\"Overworld\"!"
+    ],
+    "quest.61768CFEDA041E4D.quest_subtitle": "Per favore, lasciatemi uscire! \/ Mi date una mano a uscire qui?",
+    "quest.61768CFEDA041E4D.title": "Fuggire",
+    "quest.6434796EAAF2A4EC.quest_desc": [
+        "Dopo aver completato tutte queste missioni, puoi fare clic con il tasto destro sull'\\&5Regina\\&r per ottenere il miele. \\n\\n\\&lMangialo!\\&r\\n\\nOra puoi praticamente fare qualsiasi cosa qui. Puoi raccogliere in modo sicuro il \\&6Miele\\&r da tutti gli \\&eApiari\\&r, i \\&6Comb di miele\\&r e i \\&6Slime di miele\\&r. Puoi attraversare il labirinto delle celle senza subire gli effetti della \"Furia dell'alveare\", puoi entrare nella \\&5Colonna del trono\\&r senza affaticamento dovuto all'estrazione, e puoi camminare sopra la cera antica senza subire gli effetti terribili. E quando consumi il \\&6Miele liquido\\&r o la gelatina reale, otterrai effetti incredibili.\n\nLa parte migliore è che questi effetti ti rimangono anche dopo la morte! Ora puoi accedere alla fase finale!"
+    ],
+    "quest.6474FE12450A4A7D.quest_desc": [
+        "La quinta colonna, chiamata \"Colonna del Trono\", assomiglia alla sesta, ma questa è particolarmente decorata con cristalli, ragnatele e favi, disposti in eleganti motivi.\n\nAl centro della colonna si trova la Sala del Trono, dove incontrerete...",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_throne.png width:200 height:100 align:center}"
+    ],
+    "quest.6474FE12450A4A7D.title": "Pilastro del trono",
+    "quest.64FEF31955CB158D.quest_desc": [
+        "Attiva l'effetto \"Fiori e polline\" per generare 8 nuovi fiori."
+    ],
+    "quest.65D993EB95726067.title": "Attenzione al Tempio",
+    "quest.67A0F6661D658A52.quest_desc": [
+        "Questo può essere trovato in uno qualsiasi dei 3 precedenti incarichi, ma apparirà sempre nel labirinto delle celle.\n\nTi indicherà verso il pilastro del trono più vicino. Segui questa indicazione!"
+    ],
+    "quest.680E960554CEE76B.quest_desc": [
+        "Questi bellissimi canyon, circondati da pareti di... beh, avete indovinato! ...cristalli!\n\nIl pavimento è realizzato in cera modellabile, mentre il resto è pieno di piccoli cristalli di miele e di grandi cristalli di miele lucido.",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_canyon.png width:200 height:100 align:center}"
+    ],
+    "quest.680E960554CEE76B.title": "\\&5\\& Canyon Cristallo",
+    "quest.6BC0904E03683190.quest_desc": [
+        "Allevare 8 esemplari di \\&8B\\&6e\\&8e\\&6s\\&r per ottenere 8 nuovi esemplari di \\&8B\\&6e\\&8e\\&6s\\&r."
+    ],
+    "quest.6C5D61A704DC125A.quest_desc": [
+        "Questo oggetto è divertente: puoi trovarlo, crearlo o scambiarlo.\n\nUna volta ottenuto, puoi colorarlo come preferisci e, ovviamente, indossarlo sulla testa.\n\nGli altri personaggi (indicati con \"\\&6B\\&8e\\&6e\\&8s\\&r\") penseranno che sei un fiore e ti seguiranno.\n\nInoltre, ti farà assomigliare a Daffy da \"Duck Amuck\".",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_duckamuck.png width:100 height:100 align:center}"
+    ],
+    "quest.719D5CEB4217B734.quest_desc": [
+        "È una casa a forma di \\&8B\\&6e\\&8e\\&r! \\n\\nUna casa a forma di \\&8B\\&6e\\&8e\\&r! \\n\\nContiene alcuni oggetti molto semplici, come \\&6Miele\\&r, e a volte anche un abitante a forma di \\&8B\\&6e\\&8e\\&r!",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_house.png width:200 height:100 align:center}"
+    ],
+    "quest.719D5CEB4217B734.title": "Casa \\&8B\\&6e\\&8e\\&r",
+    "quest.7208CB011F6E2ACF.quest_desc": [
+        "Questi stivali per api Carpenter sono davvero eccezionali: consentono di correre lungo le pareti o di saltare più lontano utilizzando le tavole di legno, le foglie e i blocchi di miele.\n\nInoltre, tenendo premuto il tasto Shift, gli stivali mineranno il blocco sotto di te."
+    ],
+    "quest.7231F6177EEF5BF0.quest_desc": [
+        "Un set di tubi colorati, perfetti per trasportare oggetti di valore o per te! \\n\\nCon Windy Air potrai raggiungere qualsiasi punto della metropolitana, persino stanze piene di tesori!",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_subway.png width:200 height:100 align:center}"
+    ],
+    "quest.7231F6177EEF5BF0.title": "Metropolitana",
+    "quest.72489FB9D9A5A24B.quest_desc": [
+        "Questi stivali per api Carpenter sono davvero eccezionali: consentono di correre lungo le pareti o di saltare più lontano utilizzando le tavole di legno, le foglie e i blocchi di miele.\n\nInoltre, tenendo premuto il tasto Shift, gli stivali mineranno il blocco sotto di te."
+    ],
+    "quest.72569275EDE9FA23.quest_desc": [
+        "Breed 6 e 6Honey Slimes, insieme a Sugar."
+    ],
+    "quest.72917C96C322A922.title": "Bee-da Loca",
+    "quest.73C7F57B90731010.quest_desc": [
+        "Una struttura per fontane splendidamente progettata, con acqua dolce e zuccherata.",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_fountain.png width:200 height:100 align:center}"
+    ],
+    "quest.73C7F57B90731010.title": "\\&6Miele\\&r Fonte",
+    "quest.74D4E51A6381DB24.title": "Modello \"Occhi\"",
+    "quest.75ACC8CF5873F92D.quest_desc": [
+        "Il Bianco Luminescente Cera Antica, i Fiori Bianchi e Grigio Scuro ci indicano che si tratta del Bianco Santuario Eterna.\n\nL'intero luogo ha un profumo di vaniglia e miele, il che mi fa venire fame.\n\nSeguite le stanze per trovare l'Essenza Bianca.\n\nDovrete affrontare 6 Entità di Cristallo Cosmico. Tutte hanno 60 punti vita e subiscono solo 1 punto di danno da qualsiasi arma.",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_white1.png width:200 height:100 align:center}",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_white2.png width:200 height:100 align:center}"
+    ],
+    "quest.75ACC8CF5873F92D.title": "\\&fSantuario eterno bianco\\&r",
+    "quest.772C65FC32AECD6B.title": "Modello di bandiera per la pace",
+    "quest.7834734E79E41A3A.quest_desc": [
+        "Vi preghiamo di riconsiderare l'utilizzo del mod \"\\&l\\&6Bumblezone\\&r\" se soffrite di una delle seguenti fobie:\n\n*   Melissofobia\n*   Apifobia\n*   Entomofobia\n*   Arachnofobia\n*   Tripofobia\n*   Acrofobia\n*   Claustrofobia\n*   Crystallofobia\n\nSe soffrite di tripofobia, potete utilizzare il pacchetto di risorse aggiunto da \"\\&l\\&6Bumblezone\\&r\" per aiutarvi! In caso contrario, la situazione sarà molto difficile."
+    ],
+    "quest.7834734E79E41A3A.quest_subtitle": "Attenzione!",
+    "quest.786073B57C901DB7.title": "Modello \"Pluses Banner\"",
+    "quest.78B7FC6A868F5C4D.quest_desc": [
+        "Dovete trovare questi oggetti all'interno delle strutture presenti nella \\&6\\&lBumblezone\\&r oppure potete scambiarli con la \\&5Regina Ape\\&r per ottenerne uno!\n\nMentre indossate l'oggetto, potete premere il tasto \"Space\" per volare per un breve periodo.\n\nTuttavia, come accade con la \\&6B\\&8e\\&6e\\&r, le ali sono troppo piccole per mantenere il vostro corpo stabile a terra."
+    ],
+    "quest.78E40BDB0E54B638.quest_desc": [
+        "È possibile trovarlo nelle strutture della \\&6\\&lBumblezone\\&r o scambiarlo con la \\&5Regina Ape\\&r!\n\nAvete mai avuto la frustrazione di rimanere bloccati dai \\&6\\&lBlocchi di miele\\&r? O anche quando il \\&ePolline\\&r vi rallenta? Allora non c'è motivo di preoccuparsi, perché i leggings \"Honey Bee\" sono qui per aiutarvi! Vi permetteranno di muovervi più facilmente attraverso quei blocchi. Più armature da ape indossate, più facile sarà il vostro viaggio!\n\nInoltre, potete usare lo \\&ePolline\\&r per raccoglierlo!"
+    ],
+    "quest.79FF12D7A4C8E821.quest_desc": [
+        "Navigare sulle \"7 Mari dello Zucchero\" a bordo della pericolosa \"nave pirata\" comandata dal terrificante Capitano, è un'esperienza emozionante!\nNella zona inferiore si trovano i navigatori.\nVicino alle armi, nel deposito merci, si trova il quartermaster.\n\nIn tutta la nave, potrete trovare i tesori dei pirati, frutto di numerose avventure!",
+        "{image:atm:textures\/questpics\/bumblezone\/bumble_pirates.png width:200 height:100 align:center}"
+    ],
+    "quest.79FF12D7A4C8E821.title": "\\&Pirataria",
+    "quest.7C7C0D3D7FCB0297.quest_desc": [
+        "È possibile trovarlo nelle strutture della \\&6\\&lBumblezone\\&r o scambiarlo con la \\&5Regina Ape\\&r!\n\nI \\&6B\\&8e\\&6e\\&8s\\&r hanno un modo piuttosto interessante per trovare e comunicare tra loro. Non so come fanno, quindi ipotizzo che utilizzino antenne per inviare e ricevere segnali radio.\n\nIndossando il casco \"Ape Senza Spine\", è possibile evidenziare tutti i \\&6B\\&8e\\&6e\\&8s\\&r nelle vicinanze.\n\nInoltre, indossando il casco, i sintomi di avvelenamento e nausea scompariranno più rapidamente."
+    ],
+    "task.030FFC7C0532E7B2.title": "Sconfiggi 3 \"Honey Slimes\"",
+    "task.1256A95F7D5C782F.title": "Blocchi di cera per api produttivi",
+    "task.1884D3DA3CCC1439.title": "Tutti i diritti riservati",
+    "task.37C196344D9FD2C3.title": "Uccidi un gigante",
+    "task.386645685E595D4D.title": "AVVISO: FOBI",
+    "task.4E6F5A4B1FE8CB23.title": "Eliminare 5 Rootmin",
+    "task.5F9F725E2AD5FD3C.title": "Tutti i diritti riservati",
+    "task.646B54EB48AFB6A4.title": "Eliminare le 10 varianti di api."
+}

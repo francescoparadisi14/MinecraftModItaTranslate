@@ -1,5 +1,5 @@
 {
-    "fasterladderclimbing.configuration.allowQuickAscension": "Ascesa rapida abilitata",
-    "fasterladderclimbing.configuration.allowQuickDescension": "Discesa rapida consentita",
+    "fasterladderclimbing.configuration.allowQuickAscension": "Ascensione rapida",
+    "fasterladderclimbing.configuration.allowQuickDescension": "Discesa rapida",
     "fasterladderclimbing.configuration.speedModifier": "Modificatore di velocità"
 }

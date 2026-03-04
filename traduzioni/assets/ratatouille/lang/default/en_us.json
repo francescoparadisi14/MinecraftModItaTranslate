@@ -13,6 +13,7 @@
     "ratatouille.compost_tower.size_dots": "......",
     "ratatouille.compost_tower.status": "Composting Status :",
     "ratatouille.generic.unit.millibuckets": "mB",
+    "ratatouille.gui.goggles.current_layer_fluid_output": "Current Layer Fluid Output",
     "ratatouille.gui.goggles.squeeze_basin_contents": "Basin Contents",
     "ratatouille.oven.fan": "Air",
     "ratatouille.oven.fan_dots": "......",

@@ -61,7 +61,7 @@
     "message.sleep_tight.command.set_insomnia": "Set sleep cooldown",
     "message.sleep_tight.command.set_nights": "Set consecutive nights slept",
     "message.sleep_tight.encounter": "Somebody is having a bad time",
-    "message.sleep_tight.home_bed_lost": "Lost last home bed progress",
+    "message.sleep_tight.home_bed_lost": "Lost last bed progress",
     "message.sleep_tight.hunger": "You feel too hungry to sleep",
     "message.sleep_tight.insomnia.day": "You don't feel tired right now",
     "message.sleep_tight.insomnia.night": "You don't feel tired right now",

@@ -677,6 +677,7 @@
     "item.mbd2.mbd_gadgets.multiblock_debugger.catalyst.items": "§cCatalyst Items§r %s",
     "item.mbd2.mbd_gadgets.multiblock_debugger.catalyst.tags": "§cCatalyst Tags§r %s",
     "item.mbd2.mbd_gadgets.multiblock_debugger.failure.error.info": "§cFailure info§r: %s",
+    "item.mbd2.mbd_gadgets.multiblock_debugger.failure.error.not_controller": "It's not a §cmultiblock controller§r",
     "item.mbd2.mbd_gadgets.multiblock_debugger.failure.no_error": "§cFailure§r: No error found.",
     "item.mbd2.mbd_gadgets.multiblock_debugger.is_formed": "§aSuccess§r: Multiblock is already assembling.",
     "item.mbd2.mbd_gadgets.multiblock_debugger.success": "§aSuccess§r: Multiblock can be assembled.",

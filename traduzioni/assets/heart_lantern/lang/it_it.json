@@ -1,8 +1,8 @@
 {
-    "advancements.life_in_a_lantern.descr": "Crea un lanterna del cuore",
-    "advancements.life_in_a_lantern.title": "Vita in un lume",
-    "block.heart_lantern.heart_lantern": "Lanterna del cuore",
-    "block.heart_lantern.heart_lantern.description_0": "Un lanterna magica che ti guarisce!",
-    "effect.heart_lantern.heart_lantern_regeneration": "Riproduzione lanterna",
-    "item.heart_lantern.heart_lantern": "Lanterna del cuore"
+    "advancements.life_in_a_lantern.descr": "Crea una lanterna a forma di cuore.",
+    "advancements.life_in_a_lantern.title": "La vita in una lanterna",
+    "block.heart_lantern.heart_lantern": "Lanterna a forma di cuore",
+    "block.heart_lantern.heart_lantern.description_0": "Una lanterna magica che cura!",
+    "effect.heart_lantern.heart_lantern_regeneration": "Rinascita della lanterna",
+    "item.heart_lantern.heart_lantern": "Lanterna a forma di cuore"
 }

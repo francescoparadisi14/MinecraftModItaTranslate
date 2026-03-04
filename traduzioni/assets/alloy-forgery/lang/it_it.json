@@ -1,0 +1,205 @@
+{
+    "alloy-forgery.tier.advanced_name.alloy-forgery.common_plus_tier": [
+        {
+            "text": "Common+",
+            "color": "white"
+        },
+        {
+            "text": " [",
+            "color": "gray"
+        },
+        {
+            "index": 0,
+            "color": "white"
+        },
+        {
+            "text": "]",
+            "color": "gray"
+        }
+    ],
+    "alloy-forgery.tier.advanced_name.alloy-forgery.common_tier": [
+        {
+            "text": "Common",
+            "color": "gray"
+        },
+        {
+            "text": " [",
+            "color": "gray"
+        },
+        {
+            "index": 0,
+            "color": "white"
+        },
+        {
+            "text": "]",
+            "color": "gray"
+        }
+    ],
+    "alloy-forgery.tier.advanced_name.alloy-forgery.rare_tier": [
+        {
+            "text": "Rare",
+            "color": "yellow"
+        },
+        {
+            "text": " [",
+            "color": "gray"
+        },
+        {
+            "index": 0,
+            "color": "white"
+        },
+        {
+            "text": "]",
+            "color": "gray"
+        }
+    ],
+    "alloy-forgery.tier.advanced_name.alloy-forgery.uncommon_tier": [
+        {
+            "text": "Uncommon",
+            "color": "green"
+        },
+        {
+            "text": " [",
+            "color": "gray"
+        },
+        {
+            "index": 0,
+            "color": "white"
+        },
+        {
+            "text": "]",
+            "color": "gray"
+        }
+    ],
+    "alloy-forgery.tier.name.alloy-forgery.common_plus_tier": [
+        {
+            "text": "Common+",
+            "color": "white"
+        }
+    ],
+    "alloy-forgery.tier.name.alloy-forgery.common_tier": [
+        {
+            "text": "Common",
+            "color": "gray"
+        }
+    ],
+    "alloy-forgery.tier.name.alloy-forgery.rare_tier": [
+        {
+            "text": "Rare",
+            "color": "yellow"
+        }
+    ],
+    "alloy-forgery.tier.name.alloy-forgery.uncommon_tier": [
+        {
+            "text": "Uncommon",
+            "color": "green"
+        }
+    ],
+    "block.alloy-forgery.bricks_forge_controller": "Controllo della forgia di mattoni",
+    "block.alloy-forgery.deepslate_bricks_forge_controller": "Controllo della forgia di mattoni di ardesia profonda",
+    "block.alloy-forgery.end_stone_bricks_forge_controller": "Controllo della forgia di mattoni di pietra dell'End",
+    "block.alloy-forgery.polished_blackstone_forge_controller": "Controllo della forgia di pietranera levigata",
+    "block.alloy-forgery.prismarine_bricks_forge_controller": "Controllo della forgia di mattoni di prismarino",
+    "block.alloy-forgery.stone_bricks_forge_controller": "Controllo della forgia di mattoni di pietra",
+    "emi.category.alloy-forgery.alloy_forge": "Forgia di leghe",
+    "itemGroup.alloy-forgery.main": "Forgia di leghe",
+    "itemGroup.alloy-forgery.main.button.curseforge": "CurseForge",
+    "itemGroup.alloy-forgery.main.button.discord": "Discord",
+    "itemGroup.alloy-forgery.main.button.github": "GitHub",
+    "itemGroup.alloy-forgery.main.button.modrinth": "Modrinth",
+    "message.alloy-forgery.invalid_multiblock": "Configurazione multiblocco non valida",
+    "tag.item.c.copper_ores": "Minerali di rame",
+    "tag.item.c.gold_ores": "Miniera di oro",
+    "tag.item.c.iron_ores": "Minerali contenenti ferro",
+    "tag.item.c.raw_copper_blocks": "Blocchi di minerale di rame grezzo",
+    "tag.item.c.raw_gold_blocks": "Blocchi di minerale d'oro grezzo",
+    "tag.item.c.raw_iron_blocks": "Blocchi di minerale di ferro grezzo",
+    "text.config.alloy-forgery.option.allowBlastingFurnaceAdaption": "Consenti l'adattamento della ricetta per il forno di sabbiatura.",
+    "text.config.alloy-forgery.option.allowBlastingFurnaceAdaption.tooltip": "Interruttore per attivare o disattivare l'adattamento per le ricette di sparo",
+    "text.config.alloy-forgery.option.allowHigherTierOutput": "Permetti l'output di livello superiore",
+    "text.config.alloy-forgery.option.allowHigherTierOutput.tooltip": "Interruttore per attivare o disattivare l'output di livello superiore per l'adattamento al processo di sabbiatura, per tutte le ricette.",
+    "text.config.alloy-forgery.option.baseInputAmount": "Importo di base",
+    "text.config.alloy-forgery.option.baseInputAmount.tooltip": "Regola il numero di ingredienti di base per le ricette adattate.",
+    "text.config.alloy-forgery.option.darkModeTheme": "Modalità scura",
+    "text.config.alloy-forgery.option.darkModeTheme.tooltip": "Modifica lo schermo Alloy per utilizzare le texture del tema scuro.",
+    "text.config.alloy-forgery.option.higherTierOutputAmount.tooltip": "Aumenta l'importo aggiuntivo quando si raggiunge il terzo livello.",
+    "text.config.alloy-forgery.option.higherTierOutputIncrease": "Quantità di output aggiuntivo",
+    "text.config.alloy-forgery.option.strictRecipeChecks": "Verifiche rigorose delle ricette",
+    "text.config.alloy-forgery.option.strictRecipeChecks.tooltip": "Utilizzato per regolare il livello di controllo durante la validazione dei valori di input per le ricette in Forge.",
+    "text.config.alloy-forgery.section.blasting_adaption": "Adattamento all'esplosione",
+    "text.config.alloy-forgery.section.debug": "Valori di debug",
+    "text.config.alloy-forgery.section.screen": "Impostazioni dello schermo",
+    "text.config.alloy-forgery.title": "Configurazione per la fabbricazione di leghe",
+    "title.alloy-forgery.forge_controller": "Forgia di leghe",
+    "title.alloy-forgery.recipe": "Forgia di leghe",
+    "tooltip.alloy-forgery.disabled_slot": "Clicca per attivare lo slot",
+    "tooltip.alloy-forgery.enabled_slot": "Clicca per disabilitare lo slot",
+    "tooltip.alloy-forgery.forge_tier": "Grado: %d",
+    "tooltip.alloy-forgery.fuel_capacity": "Capacità combustibile: %d",
+    "tooltip.alloy-forgery.fuel_consumption_multiplier": [
+        {
+            "text": "Fuel Consumption",
+            "color": "gray"
+        },
+        {
+            "text": ": ",
+            "color": "dark_gray"
+        },
+        {
+            "index": 0,
+            "color": "white"
+        },
+        {
+            "text": "x",
+            "color": "gray"
+        }
+    ],
+    "tooltip.alloy-forgery.invalid_tier": "Questa ricetta richiede un Controller di Forge di livello %d.",
+    "tooltip.alloy-forgery.override_range.equal_to": [
+        {
+            "index": 0
+        }
+    ],
+    "tooltip.alloy-forgery.override_range.greater_or_equal_to": [
+        {
+            "index": 0
+        },
+        {
+            "text": "+"
+        }
+    ],
+    "tooltip.alloy-forgery.override_range.range": [
+        {
+            "index": 0
+        },
+        {
+            "text": " to "
+        },
+        {
+            "index": 1
+        }
+    ],
+    "tooltip.alloy-forgery.recipe.button": "Scorri tra i gradi",
+    "tooltip.alloy-forgery.recipe.fuel_per_tick": "Carburante per tick: %d",
+    "tooltip.alloy-forgery.recipe.min_tier": "Grado richiesto: %d",
+    "tooltip.alloy-forgery.slot_toggle_disable": "Abilita la commutazione delle slot",
+    "tooltip.alloy-forgery.slot_toggle_enable": "Disabilitare la commutazione delle slot",
+    "tooltip.alloy-forgery.speed_multiplier": [
+        {
+            "text": "Speed",
+            "color": "gray"
+        },
+        {
+            "text": ": ",
+            "color": "dark_gray"
+        },
+        {
+            "index": 0,
+            "color": "white"
+        },
+        {
+            "text": "x",
+            "color": "gray"
+        }
+    ]
+}

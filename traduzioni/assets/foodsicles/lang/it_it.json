@@ -1,9 +1,9 @@
 {
-    "enchantment.foodsicles.foodsicle_autofeed": "Rifornimento automatico",
-    "item.foodsicles.diamond_foodsicle": "Gelato di diamante",
-    "item.foodsicles.emerald_foodsicle": "Gelato di emerodio",
-    "item.foodsicles.foodsicle": "Gelato di cibo",
-    "item.foodsicles.foodsicle_face": "viso di foodsicle",
-    "item.foodsicles.foodsicle_grip": "Impugnatura di gelato",
-    "itemGroup.foodsicles": "Gelati alimentari"
+    "enchantment.foodsicles.foodsicle_autofeed": "Alimentazione automatica",
+    "item.foodsicles.diamond_foodsicle": "Diamond Foodsicle",
+    "item.foodsicles.emerald_foodsicle": "Emerald Foodsicle",
+    "item.foodsicles.foodsicle": "Gelati",
+    "item.foodsicles.foodsicle_face": "Gelato per il viso",
+    "item.foodsicles.foodsicle_grip": "Grip Foodsicle",
+    "itemGroup.foodsicles": "Gelati in formato \"food popsicle\""
 }

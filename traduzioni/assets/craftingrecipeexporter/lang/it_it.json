@@ -1,5 +1,5 @@
 {
-    "block.craftingrecipeexporter.example_block": "Blocco di esempio",
-    "item.craftingrecipeexporter.example_item": "Oggetto di esempio",
-    "itemGroup.craftingrecipeexporter": "Pannello di esempio del modulo"
+    "block.craftingrecipeexporter.example_block": "Esempio di blocco",
+    "item.craftingrecipeexporter.example_item": "Esempio di articolo",
+    "itemGroup.craftingrecipeexporter": "Esempio di tabella Mod"
 }

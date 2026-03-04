@@ -1,15 +1,15 @@
 {
-    "name": "Albero di aspen verde 🌐",
+    "name": "Albero di betulla verde 🌐",
     "category": "patchouli:trees",
     "icon": "atmospheric:green_aspen_sapling",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)🌐 §5Tutto l'anno§r$(li)Dimensioni: 1x1`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🌐 Disponibile tutto l'anno§r$(li)Dimensioni: 1x1"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Green Aspen Tree",
+            "name ": "Patchouli: Multibloc\n\nAlbero di betulla verde",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -145,8 +145,7 @@
                     "L": "atmospheric:green_aspen_leaves",
                     "W": "atmospheric:aspen_log[axis=y]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

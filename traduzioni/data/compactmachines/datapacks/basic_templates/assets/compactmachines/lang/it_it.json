@@ -1,8 +1,8 @@
 {
-    "machine.compactmachines.colossal": "Macchina compatta (colossale)",
-    "machine.compactmachines.giant": "Macchina compatta (gigante)",
-    "machine.compactmachines.large": "Macchina compatta (grande)",
-    "machine.compactmachines.normal": "Macchina compatta (normale)",
+    "machine.compactmachines.colossal": "Macchina compatta (di grandi dimensioni)",
+    "machine.compactmachines.giant": "Macchina compatta (di grandi dimensioni)",
+    "machine.compactmachines.large": "Macchina compatta (versione grande)",
+    "machine.compactmachines.normal": "Macchina compatta (standard)",
     "machine.compactmachines.small": "Macchina compatta (piccola)",
     "machine.compactmachines.tiny": "Macchina compatta (piccola)"
 }

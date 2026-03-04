@@ -1,15 +1,15 @@
 {
-    "name": "Albero di ciliegio 🌼",
+    "name": "Ciliegio 🌼",
     "category": "patchouli:trees",
     "icon": "minecraft:cherry_sapling",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Stagione: Primavera $(li)Prezzo del Seme: 8 monete $(li)Dimensioni: 1x1`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🌼 Primavera§r $(li)Prezzo del seme: :moneta: 8$(li)Dimensione: 1x1"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Cherry Tree",
+            "name ": "patchouli:multiblock\n\nCiliegio",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -110,8 +110,7 @@
                     "W": "minecraft:cherry_log[axis=y]",
                     "T": "minecraft:cherry_log[axis=z]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

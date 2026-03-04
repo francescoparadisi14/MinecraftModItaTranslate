@@ -5,7 +5,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Stats$()$(li):coin: 232$(li)§0🌼 §2Spring§0$(li)Water: Ocean$(li)Weather: Rain Snow$(li)Time: Day"
+            "text": "$(l)Stats$()$(li):coin: 232$(li)§0🌼 §2Spring§0$(li)Water: Ocean$(li)Weather: Rain $(li)Time: Day"
         },
         {
             "type": "patchouli:entity",

@@ -1,15 +1,15 @@
 {
-    "name": "Barley 🍂❆",
+    "name": "Orzo 🍂❆",
     "category": "patchouli:crops",
     "icon": "farm_and_charm:barley",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li):moneta: 11$(li)🍂 §4Autumn §r❆ §bWinter$(li)Prezzo seme: :moneta: 2$(li)Rendimento: 2$(li)Tempo di crescita: 4 giorni"
+            "text": "patchouli: testo\n\n$(l)Statistiche$()$(li): monete: 11$(li)🍂 Autunno §4 Inverno$(li) Prezzo del seme: 2 monete$(li) Resa: 2$(li) Tempo di crescita: 4 giorni"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Barley Crop",
+            "name ": "Patchouli: più blocchi\n\nColtivazione di orzo",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -24,8 +24,7 @@
                     "0": "farm_and_charm:barley_crop[age=4]",
                     "F": "minecraft:farmland[moisture=7]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

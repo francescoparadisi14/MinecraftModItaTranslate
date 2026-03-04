@@ -1,0 +1,209 @@
+{
+    "quest.062AA943A1629A86.quest_desc": [
+        "Hai distrutto il \\&zFornello Arcobaleno\\&r?!?! Hai semplicemente acceso TNT proprio accanto? Sei arrabbiato? Ci sono voluti così tanti forni e risorse, e poi l'hai distrutto!!! Almeno hai ottenuto qualcosa di utile? Ad esempio, del \\&zCarbone Arcobaleno\\&r? Carbone che dura a lungo? In realtà, è decisamente un buon affare."
+    ],
+    "quest.062AA943A1629A86.title": "\\&zRainbow Coal",
+    "quest.076A648E3E3245C9.quest_desc": [
+        "Ha un tasso di conversione dell'energia dal combustibile molto elevato, il che lo rende estremamente efficiente. L'unico problema è che non è più possibile aggiornarlo. Continua a utilizzare il combustibile standard per il forno."
+    ],
+    "quest.076A648E3E3245C9.title": "\\&aGeneratore di Emerald",
+    "quest.07753C5D94312A50.quest_desc": [
+        "\\&3Augment\\&r: Generator è l'opposto del \\&3Augment\\&r: Factory: invece di utilizzare l'Energia per la fusione, la fusione viene effettuata per ottenere Energia. Non potrete più utilizzare l'oggetto all'interno per la fusione; ogni fonte di energia utilizzata verrà trasformata in Energia!",
+        "",
+        "(Mi chiedo se sia meglio collegare un generatore e i forni industriali, invece di utilizzare solo il combustibile in un unico sistema)"
+    ],
+    "quest.07753C5D94312A50.title": "\\&3Aumenta: Generatore",
+    "quest.07BEB974DF1E5AD3.quest_desc": [
+        "Funziona allo stesso modo di un generatore di \\&aEmerald\\&r, ma ha un tasso di trasferimento molto più elevato. Inoltre, potrebbe essere più economico, poiché richiede meno oggetti, ma questi oggetti sono anch'essi \\&aNetherite\\&r, quindi..."
+    ],
+    "quest.07BEB974DF1E5AD3.title": "\\&5Generatore di Netherite",
+    "quest.0AD2B11565B484E7.quest_desc": [
+        "Avrete bisogno di ogni fornace prima di ottenere il Netherite. Sì, di tutti, anche quello in rame! E anche quello in argento! E persino quello in cristallo!"
+    ],
+    "quest.0AD2B11565B484E7.title": "\\&Rainbow Plating",
+    "quest.0ADBE90B33ACC9FB.quest_desc": [
+        "Il \"Generatore Arcobaleno\" è un potenziamento per il \"Fornello Arcobaleno\" quando si utilizza il \"Generatore Arcobaleno\". Se tutti gli altri 9 forni (eccetto quelli di tipo AllTheModium e superiori) sono posizionati attorno al \"Fornello Arcobaleno\", hanno il \"Generatore Arcobaleno\" e stanno attivamente producendo energia (con un livello di energia non pieno), contribuiranno ad aumentare la produzione di energia di un \"Fornello Arcobaleno\" che ha il \"Generatore Arcobaleno\" e che è in funzione. Questo aumenterà la produzione di energia di 2.000 FE al tick!"
+    ],
+    "quest.0ADBE90B33ACC9FB.title": "\\&zGeneratore di arcobaleni",
+    "quest.1843C79133DFB024.quest_desc": [
+        "Il generatore più potente ed efficiente: il Netherstar Generator. Provate a indovinare cosa utilizza per produrre energia!"
+    ],
+    "quest.1C73E60FC70408D4.quest_desc": [
+        "Infine, un generatore unico! \"Culinary\" è il nome per l'arte del cibo. Questi generatori non utilizzano carbone, lava o persino legna, ma cibo. Qualsiasi cosa con \"punti cibo\" può essere utilizzata per produrre energia, e la quantità prodotta dipende dal numero di \"punti cibo\" contenuti nel cibo. Una bistecca produrrà più energia rispetto a una carota."
+    ],
+    "quest.20EC8001A05CE2C8.quest_desc": [
+        "Wireless Heat è un modo divertente e semplice per alimentare i forni. Innanzitutto, posiziona il trasmettitore Wireless Heat e inserisci l'energia. Quindi, collega il ricevitore al trasmettitore per stabilire la connessione. Infine, posiziona il ricevitore nella sezione del combustibile del forno per iniziare l'alimentazione!"
+    ],
+    "quest.21EA29A8C7F950CE.quest_desc": [
+        "…e i forni in oro, che sono fondamentali in \\&2Minecraft\\&r, e apparentemente anche per i forni potenziati…\\n\\nQuesti funzionano ancora più velocemente, impiegando solo 80 tick (o 4 secondi) per fondere gli oggetti. Questo è ancora più veloce di un forno a fusione! \\n\\nQuesti possono essere creati solo con forni in oro e possono essere trasformati in forni in \\&3cristallo\\&r o in forni in \\&aemera\\&r."
+    ],
+    "quest.21EA29A8C7F950CE.title": "\\&Fornace a diamante",
+    "quest.2354BC5330350DF6.quest_desc": [
+        "Se il \"Forno di Smeraldi\" non fa al caso, il \"Forno di Cristallo\" potrebbe essere quello che fa per voi!\n\nFunziona allo stesso modo del \"Forno di Smeraldi\" a 40 tick.\n\nÈ realizzato con un \"Forno di Diamanti\" e può essere trasformato in un \"Forno di Obsidiana\".\n\n(No, non è possibile vedere gli oggetti che si stanno fondendo all'interno, è semplicemente trasparente)"
+    ],
+    "quest.2354BC5330350DF6.title": "\\&3Fornace in cristallo",
+    "quest.25080E3295B1DF01.quest_desc": [
+        "Il forno \"\\&5Unobtainium\" fonde gli oggetti più velocemente di qualsiasi altro forno nel set!"
+    ],
+    "quest.25080E3295B1DF01.title": "\\&5Fornace a base di Unobtainium",
+    "quest.25A3E30F722B38B6.quest_desc": [
+        "Perché siete sorpresi che \\&eGold\\&r venga effettivamente utilizzato nei mod? L'avete visto in azione e funziona molto bene! Inoltre, apre la strada a generatori più unici che non si limitano a utilizzare il combustibile del forno."
+    ],
+    "quest.25A3E30F722B38B6.title": "\\&eGeneratore di oro",
+    "quest.2748ACEAB96A5F60.quest_desc": [
+        "I forni in ferro (da non confondere con i titoli \"Iron Furnaces\" che è il nome del mod e del nome dell'oggetto) funzionano ancora più velocemente rispetto ai forni normali e in rame. Richiedono 160 \"ticks\" (unità di tempo), ovvero 8 secondi.\n\nQuesti forni possono essere creati utilizzando sia un forno normale che un forno in rame. E possono essere trasformati in un forno in argento o in oro."
+    ],
+    "quest.2748ACEAB96A5F60.title": "\\&fFornace a carbone",
+    "quest.28FEB4C11AD1AE7C.quest_desc": [
+        "\\&bDiamonds\\&r sono generalmente costosi... per Vanilla, ma in questo caso avrai abbastanza per almeno 1 \\&bDiamond Generator. Continua a utilizzare il combustibile normale per il forno."
+    ],
+    "quest.28FEB4C11AD1AE7C.title": "\\&bGeneratore di diamanti",
+    "quest.2E85D6E2CFCC356E.quest_desc": [
+        "Il forno \\&3Vibranium\\& è addirittura migliore del forno \\&6Allthemodium\\&!"
+    ],
+    "quest.2E85D6E2CFCC356E.title": "\\&Fornace a vibranio",
+    "quest.2EE8FCB63A338BC4.quest_desc": [
+        "Il \\&zRainbow Furnace richiede letteralmente tutti gli altri forni per essere creato. 8 \\&zRainbow Plating e 1 \\&zRainbow Core ci forniscono il forno migliore che si possa immaginare!",
+        "",
+        "Sì, ci vogliono 20 \"ticks\" per fondere o 1 secondo, ma non si possono fondere un singolo oggetto. Quanti oggetti? Quanti sono in un gruppo di oggetti?"
+    ],
+    "quest.2EE8FCB63A338BC4.title": "\\&Rainbow Furnace",
+    "quest.311F43D48B9C26FF.quest_desc": [
+        "Il generatore di \\&dObsidian\\&r è più lento rispetto ai generatori di \\&aEmerald\\&r e \\&5Netherite\\&r, ma offre più opzioni di miglioramento rispetto a tutti e tre!"
+    ],
+    "quest.311F43D48B9C26FF.title": "\\&dGeneratore Obsidian",
+    "quest.32C7D8AE859BF89E.quest_desc": [
+        "Potrebbe essere Obsidian, ma non preoccupatevi, non vi serve un piccone di diamante per raccoglierlo, solo per crearlo.",
+        "",
+        "Funziona ogni 20 \"ticks\" o ogni secondo. No, solo ogni secondo.",
+        "",
+        "Può essere creato utilizzando un \\&3Fornello di Cristallo\\&r o un \\&aFornello di Smeraldo\\&r, e può essere trasformato in un \\&5Fornello di Netherite\\&r!"
+    ],
+    "quest.32C7D8AE859BF89E.title": "\\&Fornace in ossidiana",
+    "quest.33436ED0D9F128BD.quest_desc": [
+        "\\&4Augment\\&r: L'aggiunta \"Fornace a carbone\" trasforma la tua fornace in una fornace per affumicare. Ora potrà affumicare solo alimenti, ma a una velocità doppia! Come l'aggiunta \"Esplosione\": anche questa si combina con altre modifiche!"
+    ],
+    "quest.33436ED0D9F128BD.title": "\\&4Aumenta: Fumo",
+    "quest.39605F1FEB1A5A1C.quest_desc": [
+        "Questo contenuto è stato creato da \\&6AllTheMods Staff\\&r, o da un \\&2contributore della community\\&r, per l'uso nei pacchetti mod di AllTheMods.\n\nPoiché tutti i pacchetti \\&6AllTheMods\\&r sono soggetti a \\&e\"Tutti i diritti riservati\", questo contenuto non può essere utilizzato in altri pacchetti pubblici, a meno che non sia stato rilasciato dal team \\&6AllTheMods\\&r.\n\nQuesto contenuto è intenzionalmente nascosto. Se lo state visualizzando, siete in modalità di modifica."
+    ],
+    "quest.39605F1FEB1A5A1C.title": "Tutti i diritti riservati",
+    "quest.3A4C17878FC8315B.quest_desc": [
+        "Il \"Furnace di Allthemodium\" è praticamente identico al \"Furnace di Netherite\". Ne avrete bisogno per creare il \"Furnace di Vibranium\"."
+    ],
+    "quest.3A4C17878FC8315B.title": "\\&6Tutti i componenti del forno",
+    "quest.40DB6E3DE87F16EF.quest_desc": [
+        "\\&dDragon's Breath\\&r è un oggetto potente, (e con un odore forte), e misterioso. \"Potente\" significa che possiamo ottenere Energia da esso, e in grandi quantità! \\&5Halitosis Generator\\&r produce Energia da \\&dDragon's Breath\\&r!",
+        "",
+        "(A proposito, è possibile coltivare e raccogliere \"Dragon's Breath\" utilizzando un Estrattore di XyCraft, insieme a una \"Testa di Drago\")."
+    ],
+    "quest.40DB6E3DE87F16EF.title": "\\&5Generatore di alito cattivo",
+    "quest.420FE84DEE12CCE0.quest_desc": [
+        "Il forno \\&eGold\\&r è migliore rispetto a quelli in ferro, con un tempo di cottura di 120 tick.\\n\\nPuò essere creato utilizzando un forno in \\&7argento\\&r o in ferro, e poi trasformato in un forno in \\&bdiamante\\&r!"
+    ],
+    "quest.420FE84DEE12CCE0.title": "\\&eFornace d'oro",
+    "quest.47750F3CB020104C.quest_desc": [
+        "«\\&lGenerator's Galore\\&r» e «\\&lIron Furnaces\\&r» sono due mod diverse, ma anche simili. Entrambe iniziano con il leggendario forno!"
+    ],
+    "quest.47750F3CB020104C.quest_subtitle": "Tutto inizia qui",
+    "quest.47750F3CB020104C.title": "Il forno",
+    "quest.49F08DE190AAD0D8.quest_desc": [
+        "\\&3Augment\\&r: Il modulo \"Factory\" trasforma il tuo forno in qualcosa di simile alla fabbrica di fusione di Mekanism. Invece di utilizzare combustibili, ora utilizzerà energia! Collega una fonte di energia e inizierà a fondere."
+    ],
+    "quest.49F08DE190AAD0D8.title": "\\&3Aumentare: Fabbrica",
+    "quest.538821E23E39BE97.quest_desc": [
+        "E 2: L'efficienza del carburante è pensata per tutti coloro che amano la Terra, che si prendono cura degli alberi, che ammirano Captain Planet e che sono degli hippy. Il forno consuma la metà della quantità di carburante, ma in un tempo inferiore. Il carbone non permette di produrre 8 oggetti, ma ben 16!"
+    ],
+    "quest.538821E23E39BE97.title": "\\&2Aumentare\\&r: Efficienza nei consumi di carburante",
+    "quest.552CA2ABE659A507.quest_desc": [
+        "\\&cLava\\&r entra. L'energia esce."
+    ],
+    "quest.552CA2ABE659A507.title": "\\&cGeneratore Magmatico",
+    "quest.553220A2CD7CAFE4.quest_desc": [
+        "Durante il Natale, tutti i forni sembrano regali... ma i forni in sé spiccano come un errore! Questo può essere risolto con la carta da regalo! Basta fare clic con il tasto destro per applicarla a qualsiasi forno e sarà pronto per le festività! E una volta che la stagione è finita, è possibile utilizzare nuovamente il clic con il tasto destro per rimuovere la carta da regalo."
+    ],
+    "quest.553220A2CD7CAFE4.quest_subtitle": "Completato, risolto",
+    "quest.61847F47CCA225D9.quest_desc": [
+        "Seguendo lo stesso schema, questi oggetti si raffreddano in 140 tick (o 7 secondi).\n\nPossono essere creati utilizzando forni in rame o in ferro e possono essere utilizzati per creare un forno in oro."
+    ],
+    "quest.61847F47CCA225D9.title": "Fornace in argento",
+    "quest.618F1434757C8E69.quest_desc": [
+        "«Generator's Galore» aggiunge generatori molto semplici. I più basilari funzionano come fucine, con un'aggiunta: il generatore. Questi prelevano combustibile e lo trasformano in energia!\n\nSì, dovete iniziare con un generatore in rame."
+    ],
+    "quest.618F1434757C8E69.title": "\\& Generatore in rame \\&",
+    "quest.61F265D9A5713A4D.quest_desc": [
+        "Ogni aggiornamento migliora ogni aspetto, dall'ammontare che produce alla quantità che può contenere fino a ciò che può trasferire ad altri blocchi!\n\nAvrete bisogno di un generatore di rame per creare un generatore di ferro, scusate gli \"odiatori del rame\"."
+    ],
+    "quest.61F265D9A5713A4D.title": "\\&fGeneratore di ferro",
+    "quest.661C072E48F8D41F.quest_desc": [
+        "E il rame è uno dei minerali più comuni che si possono trovare, quindi perché non utilizzare del rame in eccesso per migliorare il vostro forno!",
+        "",
+        "I forni normali impiegano 200 \"tick\" per fondere 1 oggetto (1 \"tick\" = 1 secondo), mentre i forni \"Copper Furnace\" impiegano 180 \"tick\".",
+        "",
+        "Possono essere trasformati in forni in argento o in ferro."
+    ],
+    "quest.661C072E48F8D41F.title": "\\&6 Focolare in rame",
+    "quest.686B25F2E9D8CC97.quest_desc": [
+        "Al momento in cui scrivo, siamo a fine luglio, quindi ho circa 3 mesi prima di Halloween. Tuttavia, non è mai troppo presto per iniziare a prepararsi! Proprio come con Spirit Halloween, possiamo iniziare a preparare tutto 3 mesi prima che inizi effettivamente. In questo caso, basta fare clic con il tasto destro su un camino utilizzando lo strumento \"Spook-alator\"! Una volta che è il momento di prepararsi per la festa del Ringraziamento, basta fare clic con il tasto destro per disattivare la funzione!"
+    ],
+    "quest.686B25F2E9D8CC97.quest_subtitle": "È Halloween",
+    "quest.68972BA647FDCF8F.quest_desc": [
+        "Se conoscete \\&l\\&6Productive Bees\\&r, dovete conoscere LobsterJonn. Lui ha creato sia \\&l\\&6Productive Bees\\&r che \\&lGenerator's Galore\\&r (insieme a molti altri). L'\\&6Honey Generator\\&r è un ottimo modo per collegare entrambi i mod! L'\\&6Honey Generator\\&r utilizza l'\\&6Liquid Honey\\&r per produrre Energia."
+    ],
+    "quest.68972BA647FDCF8F.title": "\\&6 Generatore di miele",
+    "quest.69201157ECFBB426.quest_desc": [
+        "Mi dà sempre fastidio quando ho una fattoria di Endermen per ottenere XP o gemme di Apotheosis, ma alla fine finisco per avere solo queste perle di Endermen (ahah, è così!). Ora, potrete utilizzare queste perle di Endermen per ottenere energia con il Generatore di Endermen. Potete persino creare degli \"Occhi di Endermen\" per ottenere ancora più energia!"
+    ],
+    "quest.69201157ECFBB426.title": "\\&Generatore Ender",
+    "quest.6A1145678E80FB8E.quest_desc": [
+        "Ci sono così tante risorse inutili, perché non sfruttare anche quelle? Il \"Generatore di Incantesimi\" utilizza libri incantati per produrre energia. Il livello e la rarità dei libri incantati influenzano la quantità di energia che si ottiene."
+    ],
+    "quest.6A1145678E80FB8E.title": "\\&Generatore di incantesimi",
+    "quest.711DDD55CEC439E5.quest_desc": [
+        "L'\\&aFornace di smeraldo\\&r, mi chiedo se gli abitanti la scamberebbero?\n\nFunziona a 40 tick o solo a 2 secondi per fondere! Se non fai attenzione, potresti perderla.\n\nQueste forni sono realizzate con l'\\&aFornace di diamante\\&r e possono essere trasformate in una \\&aFornace di ossidiana\\&r."
+    ],
+    "quest.711DDD55CEC439E5.title": "\\&aFornace di smeraldo",
+    "quest.7297391D026EE9A6.quest_desc": [
+        "Cerchi qualcosa di eccitante e nuovo per aumentare l'energia? Potresti provare a utilizzare il \"dPotion Generator\"! Questo strumento trasformerà le tue pozioni in energia, in base alla loro forza e durata."
+    ],
+    "quest.7297391D026EE9A6.title": "\\&Generatore di pozioni",
+    "quest.72A287DCAEEFE49F.quest_desc": [
+        "Creare 8 generatori da 8x e combinarli con un condotto permette di ottenere un unico generatore molto più grande! Funziona allo stesso modo di 64 generatori normali, ma occupa solo lo spazio di 1.",
+        "",
+        "È necessario un generatore Magmatic da 64 unità per creare l'ATM Star."
+    ],
+    "quest.73FF01D830A669AA.quest_desc": [
+        "\\&4Aumenta: Trasforma il tuo forno in un forno per la fusione ad alta velocità! Ora sarà in grado di fondere solo i minerali, ma a una velocità doppia! Sì, questo effetto si somma con gli effetti di altri aumenti e con i diversi livelli dei forni."
+    ],
+    "quest.73FF01D830A669AA.title": "\\&4Aumentare: Esplosioni",
+    "quest.757B14D08A9A03C4.quest_desc": [
+        "Come la maggior parte delle macchine modificate, anche il \"Iron Furnace\" ha delle configurazioni. Queste configurazioni possono essere trovate cliccando sull'angolo in alto a sinistra. Qui si troveranno le impostazioni per gli ingressi, le uscite e l'attivazione del Redstone. L'attivazione del Redstone determina quando il forno inizierà a fondere. I pulsanti in alto determinano se l'ingresso e l'uscita avvengono automaticamente, il che significa che l'inventario si muoverà automaticamente tra il forno e gli inventari collegati. Le caselle su ciascun lato del forno determinano se vengono effettuati ingressi, uscite, entrambi, l'alimentazione del combustibile o nessuna operazione. Questo è importante per gli oggetti che vengono trasferiti all'interno o all'esterno del forno. Il \"Furnace Settings Linker\" copierà tutte queste impostazioni su altri forni!"
+    ],
+    "quest.757B14D08A9A03C4.title": "Configurazioni",
+    "quest.78D1C97A542133D8.quest_desc": [
+        "Le \"Augments\" sono miglioramenti per i forni in ghisa!",
+        "",
+        "Nella parte superiore destra dell'interfaccia utente del forno, troverete il pulsante per accedere alla sezione \"Augment\". Questa sezione conterrà tre aree colorate: una rossa, una verde e una blu, ognuna delle quali potrà contenere un singolo oggetto colorato."
+    ],
+    "quest.78D1C97A542133D8.title": "\\&Aumenta",
+    "quest.79C4CF8D7312FC28.quest_desc": [
+        "Il miglior modo per ottenere il Vanilla Netherite! E non avrete bisogno di un modello di fusione, basta avere parecchio Netherite.\n\nQuesto oggetto si fonde ogni 5 tick, il che significa che ne vengono fusi 4 ogni secondo. Sì, non è più \"Secondi per fusione\" (S.P.S.), ora è \"Fusione per secondo\" (S.P.S.).\n\nÈ realizzato con un forno in ossidiana... ma questo non è il forno finale?"
+    ],
+    "quest.79C4CF8D7312FC28.title": "\\&5Fornace di Netherite\\&r",
+    "quest.7A615E2A152917AD.quest_desc": [
+        "Per questo, avrete bisogno di 2 forni in Netherite e di 7 pezzi di vetro, ognuno di un colore diverso: rosso, arancione, giallo, verde, blu, indaco e viola. Sì! L'intero spettro di Roy G. Bpm!"
+    ],
+    "quest.7A615E2A152917AD.title": "\\&zRainbow Core",
+    "quest.7CE86300AF8E9BCA.quest_desc": [
+        "Creare 8 generatori identici insieme a un frammento di \"Echo\" li combina in un unico generatore enorme! Funziona allo stesso modo di 8 generatori normali, ma occupa solo lo spazio di 1."
+    ],
+    "quest.7CE86300AF8E9BCA.title": "8 volte, che affare!",
+    "quest.7F67849DE9F700D8.quest_desc": [
+        "\\&2Aumenta\\&r: Aumenta la velocità, in modo che il tuo forno funzioni più velocemente! Il forno in diamante invece fonderà ogni 40 \"ticks\" invece di 80. A costo di un doppio consumo di carburante."
+    ],
+    "quest.7F67849DE9F700D8.title": "\\&2Aumenta\\&r: Velocità",
+    "task.31E6FDB712244B72.title": "Generatori da 64 unità",
+    "task.37641D5607F6D00A.title": "8 generatori",
+    "task.38B6F45109CB033A.title": "Tutti i diritti riservati",
+    "task.5DB7A437BEC3E2D4.title": "Tutti i diritti riservati"
+}

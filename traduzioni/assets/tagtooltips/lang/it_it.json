@@ -1,0 +1,14 @@
+{
+    "key.tagtooltips.show_tag_tooltip": "Mostra i tooltip per i tag degli elementi",
+    "tooltip.tagtooltips.block": "Tag di blocco:",
+    "tooltip.tagtooltips.enchantment": "Tag per l'incanto:",
+    "tooltip.tagtooltips.entity_type": "Tag per il tipo di entità:",
+    "tooltip.tagtooltips.fluid": "Tag fluidi:",
+    "tooltip.tagtooltips.instrument": "Etichette degli strumenti:",
+    "tooltip.tagtooltips.item": "Etichette prodotto:",
+    "tooltip.tagtooltips.multiple_enchantments": "Molte incantamenti",
+    "tooltip.tagtooltips.no_tags": "Senza tag",
+    "tooltip.tagtooltips.poi_type": "Tag per punti di interesse:",
+    "tooltip.tagtooltips.tag": "#%s",
+    "tooltip.tagtooltips.tag_translatable": "#%s (%s)"
+}

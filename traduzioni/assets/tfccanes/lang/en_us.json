@@ -1,6 +1,5 @@
 {
     "item.tfccanes.refined_walking_cane": "Iron Cane",
     "item.tfccanes.walking_cane": "Wooden Cane",
-    "tfccanes.creative_tab.canes": "Cane Tab",
-    "tile.crate.name": "Metal Crate"
+    "tfccanes.creative_tab.canes": "Cane Tab"
 }

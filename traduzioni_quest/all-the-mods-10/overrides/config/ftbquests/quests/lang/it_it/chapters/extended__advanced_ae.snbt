@@ -1,0 +1,261 @@
+{
+    "quest.03164C4C7813CE2B.quest_desc": [
+        "Il computer quantistico è un potente processore per la creazione di oggetti. È in grado di eseguire un numero illimitato di operazioni di creazione e di condividere thread di elaborazione tra di esse, a condizione che disponga di spazio di archiviazione sufficiente.",
+        "",
+        "Deve trattarsi di un cubo con dimensioni di almeno 3x3x3 e fino a 7x7x7. In alternativa: Un singolo nucleo di computer quantistico può funzionare come un computer quantistico autonomo.",
+        "",
+        "Un computer quantistico a più blocchi richiede quanto segue:",
+        "- Non devono esserci spazi vuoti all'interno della struttura a più blocchi. Questi possono essere riempiti con un'unità di fabbricazione quantistica senza ottenere alcun vantaggio aggiuntivo.",
+        "- Unità di elaborazione di un computer quantistico (esattamente una)",
+        "- Al massimo, un singolo dispositivo di entanglement quantistico.",
+        "- Al massimo un computer quantistico multi-thread",
+        "- Tutti i blocchi presenti nello strato esterno devono essere realizzati in vetro strutturale per computer quantistici.",
+        "- Non è possibile utilizzare vetro strutturale per computer quantistici all'interno.",
+        "",
+        "Spero che siate pronti a creare molte Singularità."
+    ],
+    "quest.03164C4C7813CE2B.title": "Lavori illimitati: il computer quantistico",
+    "quest.034AB493E1EC2E63.quest_desc": [
+        "I nuclei del \"Assembler Matrix\" sono ciò che determina la capacità di produzione, i tipi di lavori e la velocità di assemblaggio del multiblock.",
+        "",
+        "I moduli Craft Cores aggiungono fino a 8 lavori di fabbricazione paralleli al sistema multiblock.",
+        "I moduli Pattern aggiungono 36 slot per modelli al multiblock.",
+        "I \"Speed Cores\" funzionano come una carta di accelerazione, aumentando la velocità dei processi di creazione. L'installazione di più di 5 Speed Cores non ha alcun effetto sulla velocità di ciascun processo di creazione."
+    ],
+    "quest.034AB493E1EC2E63.title": "Assemblaggio dei nuclei (o moduli)",
+    "quest.07E5B0BF7D8E055A.quest_subtitle": "+30% di possibilità di evitare",
+    "quest.09F43EB79DDBD127.quest_desc": [
+        "Il Quantum Data Entangler consente di memorizzare oggetti in più dimensioni, aumentando efficacemente lo spazio di archiviazione per la creazione in un Quantum Computer Multiblock di 6 volte. Ad esempio, uno spazio di archiviazione di 256M per la creazione diventerà uno spazio di 1.5G.",
+        "",
+        "\\&LÈ possibile avere solo uno di questi componenti in un computer quantistico a blocchi multipli."
+    ],
+    "quest.09F43EB79DDBD127.title": "Archiviazione eccessiva: Quantum Data Entangler",
+    "quest.0A354B4707894A62.quest_subtitle": "Fino a +3 metri di altezza di salto",
+    "quest.0B4CE3969067FA31.quest_desc": [
+        "L'armatura quantistica può essere potenziata con una varietà di aggiornamenti diversi.",
+        "",
+        "Per migliorare la tua armatura quantistica, apri il menu di configurazione dell'armatura quantistica premendo il tasto corrispondente (N di default)."
+    ],
+    "quest.0B4CE3969067FA31.title": "Aggiornamenti per l'armatura quantistica",
+    "quest.0D8B4DAB82ABEF9D.quest_desc": [
+        "Gli acceleratori quantici aggiungono 12 thread di elaborazione parallela al blocco multi-processore del Quantum Computer. È importante notare che tutti i processi di fabbricazione eseguiti dal Quantum Computer possono utilizzare tutti i processori, quindi è consigliabile investire in un numero elevato di essi."
+    ],
+    "quest.0D8B4DAB82ABEF9D.title": "Collaborazione e oblio: acceleratore per computer quantistici",
+    "quest.0E06F323BF8C1D73.quest_desc": [
+        "Considerando l'inevitabile decadimento delle Budding Entroized Fluix, potreste voler esplorare altri metodi per coltivarle automaticamente.",
+        "",
+        "Fortunatamente, c'è una soluzione: un'ape e un seme."
+    ],
+    "quest.0E06F323BF8C1D73.quest_subtitle": "Quando non si riesce a gestire il deterioramento.",
+    "quest.0E06F323BF8C1D73.title": "Automatizzazione dei cristalli Entro",
+    "quest.12749A25600C7FF3.quest_desc": [
+        "Il Quantum Crafter è un sistema di crafting potente e altamente configurabile. Grazie alla possibilità di accedere a un intero inventario di una rete ME, trasformare qualsiasi oggetto in modo continuo diventa un compito semplice. È in grado di eseguire operazioni di crafting a un ritmo molto elevato. Inoltre, è in grado di gestire sostituzioni di materiali e crafting ricorsivi (come la duplicazione di modelli di fabbricazione).",
+        "",
+        "È inoltre possibile stabilire la quantità di ciascun ingrediente da conservare e la quantità massima di prodotto da tenere in magazzino.",
+        "",
+        "Tuttavia, non accetterò richieste di creazione da parte di fornitori di modelli."
+    ],
+    "quest.12749A25600C7FF3.title": "Fabbricazione completamente automatizzata: Il Creatore Quantico",
+    "quest.14FC9E4A3C80C0AE.quest_desc": [
+        "La camera di reazione è in grado di accelerare diverse reazioni all'interno del mondo, utilizzando un fluido catalitico e grandi quantità di energia. Grazie all'ambiente controllato, questa macchina è in grado di rendere tali reazioni più efficienti, consentendoti di ottenere maggiori quantità di materiale.",
+        "",
+        "Tuttavia, questa macchina richiede una notevole quantità di energia, quindi è consigliabile utilizzare un sistema di generazione e accumulo di energia efficiente, come quello proposto nel vostro ME Network.",
+        "",
+        "Questa macchina è inoltre necessaria per le ricette relative alla meccanica quantistica nel modulo avanzato di AE."
+    ],
+    "quest.14FC9E4A3C80C0AE.title": "Efficienza della reazione: la camera di reazione",
+    "quest.18499D33BA12A8A9.quest_desc": [
+        "Ti sei mai chiesto se l'utilizzo dei \"Formation Planes\" come se fossero una \"Storage Bus\" fosse troppo poco intuitivo per l'automazione? Allora, non devi cercare oltre: il \"Active Formation Plane\" è la soluzione. Funziona come un \"ME Export Bus\", ma tratta il mondo come il suo mezzo. Non è necessario un sottorete per questo."
+    ],
+    "quest.18499D33BA12A8A9.quest_subtitle": "ESCI: Edizione Attiva",
+    "quest.18499D33BA12A8A9.title": "Creazione attiva da rete: il piano di formazione attivo",
+    "quest.1A20BBBAFBEDF911.quest_desc": [
+        "Il Quantum Computer Multi-Threader moltiplica i thread di co-elaborazione nel Quantum Computer Multiblock di 6 volte. Ad esempio: un acceleratore per Quantum Computer fornirà 72 thread di co-elaborazione con questo blocco all'interno del multiblock.",
+        "",
+        "\\&Può essere presente solo un processore Quantum Computer Multi-Threader all'interno di un Quantum Computer Multiblock.\\&r",
+        "",
+        "È anche un ingrediente per il prodotto ATM Star."
+    ],
+    "quest.1A20BBBAFBEDF911.title": "Elaborazione collaborativa senza limiti: Computer quantistici con architettura multi-thread",
+    "quest.1A815711703E4A24.quest_desc": [
+        "Questo contenuto è stato creato da \\&6AllTheMods Staff\\&r, oppure da un \\&2contributore della community\\&r, per l'uso nei pacchetti di mod di AllTheMods.\\n\\nPoiché tutti i pacchetti di AllTheMods sono soggetti al copyright \\&eTutti i diritti riservati\\&r, questo contenuto non può essere utilizzato in altri pacchetti pubblici, a meno che non sia stato rilasciato dal team di AllTheMods, previa autorizzazione esplicita.\\n\\nQuesto contenuto è stato intenzionalmente nascosto. Se lo state visualizzando, siete in modalità di modifica."
+    ],
+    "quest.1B90B94D07BBDD09.quest_desc": [
+        "Per realizzare tutti questi dispositivi ExtendedAE, un banco da lavoro con un martello e delle pinze non saranno sufficienti.",
+        "",
+        "È ora di passare all'Assembler Crystal, una macchina in grado di gestire queste operazioni complesse.",
+        "",
+        "Con questi componenti, è possibile assemblare i vari dispositivi di ExtendedAE.",
+        "",
+        "Questi dispositivi sono in grado di gestire anche le reazioni all'interno del gioco, anche se non con la stessa efficacia della Camera di Reazione, e sono inoltre in grado di assemblare processori, fino a 4 unità alla volta.",
+        "",
+        "Il dispositivo con schermo non può connettersi a una rete ME."
+    ],
+    "quest.1B90B94D07BBDD09.title": "Complex Crafter: L'Assemblatore di Cristalli",
+    "quest.1E535784A9D3DE89.quest_desc": [
+        "Questi sono oggetti provenienti da ExtendedAE che non richiedono Cristalli Entro."
+    ],
+    "quest.27FC0C092EE00532.quest_desc": [
+        "Il ME Canner è in grado di riempire o svuotare contenitori che possono contenere liquidi, sostanze chimiche o energia, come secchi, serbatoi chimici e altro. Se viene utilizzata una specifica procedura, il dispositivo invia automaticamente i dati al fornitore di pattern."
+    ],
+    "quest.27FC0C092EE00532.quest_subtitle": "da non confondere con \"me caner\"",
+    "quest.27FC0C092EE00532.title": "È possibile utilizzare questo dispositivo, \"The ME Canner\"?",
+    "quest.2E61219FC0BAB675.quest_subtitle": "Fino a +5 livelli",
+    "quest.3347CB6478F486C6.quest_subtitle": "Cell Workbench: ovunque tu vada",
+    "quest.34FBD04361657724.quest_desc": [
+        "Durante l'intero corso di ExtendedAE, utilizzerete frequentemente i cristalli \\&aEntro come risorsa.",
+        "",
+        "Per ottenere il cristallo \\&aEntro, avrai bisogno di un blocco Fluix e di un seme Entro. Clicca con il tasto destro sul blocco Fluix, tenendo premuto il seme Entro.",
+        "",
+        "Questo creerà un \"Budding Entroized Fluix\", che, come fa il \"Budding Certus Quartz\", produrrà dei \"Bud Entro\" attorno a sé. A differenza del Certus, però, la sua decomposizione è inevitabile.",
+        "",
+        "\\&aBud Entroizzato\\&r lascerà sempre \\&aPolvere Entro\\&r quando viene distrutto, indipendentemente dal suo stato. Gli Entro Buds lasceranno frammenti di Entro quando non sono completamente sviluppati."
+    ],
+    "quest.34FBD04361657724.quest_subtitle": "da non confondere con i cristalli temporali",
+    "quest.34FBD04361657724.title": "I Cristalli dello Spazio e del Tempo: Entro Crystals",
+    "quest.3621155A4138EBCA.quest_desc": [
+        "La \"Cell Void\" deve essere suddivisa (filtrata) nell'ambiente di lavoro della cella prima di essere utilizzata. Eliminerà qualsiasi elemento che entri nel sistema ME e che corrisponda al filtro (supponendo che la \"Cell Void\" abbia la priorità), oppure li convertirà in sfere di materia o singolarità, in modo simile al \"Matter Condenser\".",
+        "",
+        "Clicca con il tasto destro per aprire l'interfaccia di configurazione."
+    ],
+    "quest.3621155A4138EBCA.title": "Condensatore di materia in una cella: la cella vuota",
+    "quest.36FB694262102CFD.quest_desc": [
+        "ExtendedAE offre un nuovo tipo di cellula, la \"Infinity Cell\".",
+        "",
+        "Queste celle forniscono una fornitura illimitata di un determinato tipo di risorsa, come ad esempio acqua, pietre, lava, ecc."
+    ],
+    "quest.36FB694262102CFD.quest_subtitle": "Il lavandino, ma in forma cellulare.",
+    "quest.36FB694262102CFD.title": "Più risorse di quante ne possano servire: Infinity Cells",
+    "quest.38D0BBD5F699EF41.quest_desc": [
+        "Permette al pezzo di armatura quantistica di ricaricare la sua energia proveniente dal sistema ME, qualora sia collegato a un punto di accesso wireless. Inoltre, se inserito in un gilet quantistico, ricarica anche gli oggetti presenti nel tuo inventario. Questo ha un'interazione speciale con AppliedFlux: se hai celle FE nella rete, il sistema estrarrà energia da esse."
+    ],
+    "quest.3916B48D7F294932.quest_desc": [
+        "Il ME Wireless Hub è un aggiornamento del ME Wireless Connector. Ora è in grado di connettersi a 8 diversi Wireless Connector o Hub. Si prega di notare che il Hub può trasferire un massimo di 32 canali."
+    ],
+    "quest.3916B48D7F294932.title": "Rami di Connections: Il Hub Wireless",
+    "quest.3972EE0ECB215843.quest_desc": [
+        "Extended e Advanced AE sono moduli aggiuntivi per Applied Energistics 2. Entrambi si concentrano sul miglioramento della tua esperienza, aggiungendo versioni migliorate di vari dispositivi e altro ancora."
+    ],
+    "quest.3972EE0ECB215843.title": "AE avanzato e specializzato",
+    "quest.3B3F1DE1AF6EBC1E.quest_subtitle": "+10 Forza",
+    "quest.3CF32F2314839B1D.quest_desc": [
+        "Stanchi di vedere i vostri preziosi Certus Quartz e Entroized Fluix deteriorarsi? Possiamo aiutarvi! Con questo strumento \"Crystal Fixer\", potrete riparare i Certus Quartz danneggiati con Certus Quartz caricato, e l'Entroized Fluix con Ender Dust.",
+        "",
+        "Esiste anche una piccola possibilità di ottenere il \"Certus Quartz\" di alta qualità."
+    ],
+    "quest.3CF32F2314839B1D.title": "Fai riparare i tuoi cristalli: Il riparatore di cristalli",
+    "quest.3FE739EA7E297DF3.quest_desc": [
+        "I dispositivi Extended Devices sono varianti dei dispositivi AE2, che possono avere una maggiore capacità, essere più veloci, o addirittura entrambi.",
+        "",
+        "Ad esempio: il \"Pattern Provider\" esteso dispone di 36 slot per pattern, quattro volte il numero offerto da un \"Pattern Provider\" standard.",
+        "",
+        "Oppure, i bus di esportazione\/importazione estesi, che funzionano circa 8 volte più velocemente rispetto a quelli standard e supportano un maggior numero di aggiornamenti.",
+        "",
+        "Dato che la maggior parte di queste sono semplicemente versioni aggiornate della versione base, non creerò missioni separate per ciascuna di esse."
+    ],
+    "quest.3FE739EA7E297DF3.title": "Più veloci e più grandi: dispositivi estesi",
+    "quest.411A463E98C3B102.quest_desc": [
+        "Alcuni degli ingredienti necessari per creare il computer quantistico, l'artigiano e l'armatura.",
+        "",
+        "Shattered Singularity è creato utilizzando un Singularity, 2 polveri di Ender, 2 polveri di Sky Stone e 100 mB di Lava in una Camera di Reazione.",
+        "",
+        "1 contenitore di Quantum Infusion è prodotto con 4 contenitori di acqua e con della polvere di Quantum Infusion, ottenuta frantumando la Singolarità Spezzata utilizzando un Inscriber o un Crusher di Mekanism.",
+        "",
+        "L'alluminio potenziato con la tecnologia quantistica è realizzato con 1 contenitore di \"Quantum Infusion\", 4 lingotti di rame, 4 Singularità frantumate e 4 Singularità normali."
+    ],
+    "quest.411A463E98C3B102.title": "Ingredienti quantistici",
+    "quest.4818C8387C0DBBE7.quest_desc": [
+        "ExtendedAE è un'estensione per Applied Energistics 2, che si concentra sull'aggiunta di versioni migliorate di vari dispositivi e sul ripristino di alcune funzionalità presenti nelle versioni precedenti di AE2.",
+        "",
+        "Per iniziare, procuratevi un Fluix Block."
+    ],
+    "quest.4818C8387C0DBBE7.title": "AE esteso",
+    "quest.48357A7486125C52.quest_desc": [
+        "Stanchi della lentezza del dispositivo Inscriber?",
+        "",
+        "Presentiamo il \"Circuit Slicer\"! È in grado di tagliare blocchi come i blocchi d'oro in circuiti, creando fino a 9 circuiti alla volta (o 4 nel caso di Certus o Entro).",
+        "",
+        "Le superfici in vetro del Circuit Slicer che non presentano una porta non possono essere collegate a una rete ME."
+    ],
+    "quest.48357A7486125C52.title": "Blocchi per circuiti: Il \"Circuit Slicer\"",
+    "quest.4AC3EA41234BC5F0.quest_subtitle": "+20 Punti Vita massimi",
+    "quest.52CD31F48715B17C.quest_desc": [
+        "Il ME Wireless Connector può essere utilizzato per connettere due punti all'interno di una rete ME in modalità wireless, in modo simile al Quantum Bridge. A differenza del Quantum Bridge, può connettersi solo con altri Wireless Connector entro circa 1000 blocchi di distanza, e non può stabilire connessioni tra dimensioni diverse.",
+        "",
+        "Per stabilire la connessione, utilizzare un kit di configurazione wireless su entrambi i connettori wireless che desiderate collegare.",
+        "",
+        "È inoltre possibile modificare il colore di un connettore wireless utilizzando l'apposito strumento. Ciò impedirà al connettore di connettersi a cavi o altri connettori wireless di colore diverso."
+    ],
+    "quest.52CD31F48715B17C.title": "Connessioni a lunga distanza: Il Wireless Connector",
+    "quest.534D827A628907F4.quest_desc": [
+        "Il terminale di accesso ai modelli esteso funziona in modo simile al terminale standard, ma offre 3 funzionalità aggiuntive.",
+        "",
+        "\\&l\\&nRicerca di pattern migliorata\\&r",
+        "",
+        "È possibile cercare un modello inserendo i nomi degli ingredienti di input e output.",
+        "",
+        "\\&l\\&nEvidenzia il modello\\&r",
+        "",
+        "A volte, a causa del modo in cui i modelli vengono visualizzati in un gruppo, può essere difficile individuare il modello specifico che si sta cercando. Con questa interfaccia, il modello che si sta cercando sarà evidenziato nell'interfaccia grafica.",
+        "",
+        "\\&l\\&nFornitore di modelli in gioco: evidenziazione\\&r",
+        "",
+        "Può essere frustrante scoprire quali dei tuoi fornitori di modelli sono bloccati durante la realizzazione di progetti di grande dimensioni. La stazione di accesso esteso ai modelli può evidenziare i fornitori di modelli nel mondo, facilitando la loro individuazione."
+    ],
+    "quest.534D827A628907F4.title": "Accesso ai modelli migliorato: Terminale per l'accesso esteso ai modelli",
+    "quest.55DFC96B4CDBFA7D.quest_desc": [
+        "Il Quantum Computer Core è il componente centrale del Quantum Computer. Dispone di 256M di spazio di archiviazione e 12 thread di elaborazione indipendenti. Inoltre, è l'unico blocco in grado di creare un Quantum Computer autonomamente, quando alimentato tramite i lati superiore o inferiore, dove si trovano i connettori. Tuttavia, se utilizzato per creare un sistema composto da più blocchi, è possibile creare un computer molto più potente."
+    ],
+    "quest.55DFC96B4CDBFA7D.title": "Il cuore dell'artigianato: il nucleo del computer quantistico",
+    "quest.56DE217FEAE3F036.quest_desc": [
+        "Il ME Advanced Pattern Provider è un nuovo tipo di ME Pattern Provider che migliora un ME Pattern Provider standard o esteso, consentendo di configurare la faccia a cui viene inviato ogni singolo elemento di un modello. Ciò consente di automatizzare macchine che richiedono specifiche superfici per input specifici, utilizzando un unico blocco e senza tubi o subnet, come nel caso del \"Metallurgic Infuser\" di Mekanism.",
+        "",
+        "Per utilizzare questa funzione, è necessario un encoder avanzato, che determini quale lato della macchina deve essere utilizzato per ogni ingrediente."
+    ],
+    "quest.56DE217FEAE3F036.quest_subtitle": "Guardandoti, Mekanism",
+    "quest.56DE217FEAE3F036.title": "Modelli specifici per lato: Il fornitore di modelli avanzati",
+    "quest.5E610C059737628B.quest_subtitle": "Fino a +3 livelli di altezza",
+    "quest.6033ABA2088BA70C.quest_subtitle": "Assenza di deriva dovuta al volo",
+    "quest.6559C57A1A476489.quest_subtitle": "+5 Velocità d'attacco",
+    "quest.658DEAAD1E68E549.quest_desc": [
+        "Questi moduli aumentano lo spazio di archiviazione per la creazione di componenti del Quantum Core. In pratica, consentono al Quantum Computer di eseguire un maggior numero di operazioni simultanee. Inoltre, sono necessari per la creazione del Quantum Computer Core."
+    ],
+    "quest.658DEAAD1E68E549.title": "Spazio di archiviazione massivo: lo spazio di archiviazione per computer quantistici",
+    "quest.67C7EF299BEC37DE.quest_subtitle": "Vola con la creatività",
+    "quest.763A19067AEEF6D5.quest_subtitle": "+2 Fortuna",
+    "quest.7725CB7D0AE55180.quest_desc": [
+        "Advanced AE è un'estensione per Applied Energistics 2, che si concentra sul miglioramento dell'esperienza utente quando si utilizza il sistema ME e sull'ampliamento delle possibilità dei sistemi di fine gioco.",
+        "",
+        "Da un sistema di controllo che permette di indirizzare le operazioni a specifiche parti di una macchina, a un computer multi-blocco in grado di eseguire un numero illimitato di operazioni di fabbricazione, condividendo i co-processori tra queste operazioni, e tutto ciò che c'è in mezzo."
+    ],
+    "quest.7725CB7D0AE55180.title": "AE avanzato",
+    "quest.78215D704E6095B0.quest_desc": [
+        "Pensi che \\&5\\&lMekanism\\&r e \\&l\\&7Modern Industrialization\\&r possano godersi appieno i loro set di armatura avanzati?\n\nQuesto \\&5\\&lArmatura Quantistica\\&r ha statistiche predefinite simili a quelle dell'\\&cArmatura Netherite\\&r, ma, come l'\\&aMekaSuit\\&r, può utilizzare l'energia come scudo.\nInoltre, è possibile installare degli aggiornamenti per renderla ancora più potente! Ad esempio, è possibile aggiungere la capacità di volare, la visione notturna e persino la possibilità di ricaricare l'energia.\n\nLa parte migliore è che può essere collegata al tuo sistema di stoccaggio! In questo modo, potrai estrarre automaticamente l'energia e qualsiasi oggetto, ovunque ti trovi.\n\nInoltre, indossare l'intero set può proteggerti dal \\&aRaggiamento\\&r."
+    ],
+    "quest.78215D704E6095B0.quest_subtitle": "Non vi renderà completamente invincibili.",
+    "quest.78215D704E6095B0.title": "ME System come armatura: L'armatura quantistica",
+    "quest.7900A4836CC55428.quest_desc": [
+        "L'Assembler Matrix è un dispositivo multifunzionale che può contenere in modo efficace più Assemblatori Molecolari e fornitori di modelli, tutti nello stesso canale.",
+        "",
+        "La matrice Assembler deve avere almeno le dimensioni di un cubo 3x3x3 e fino a un cubo 7x7x7. Richiede le seguenti componenti:",
+        "- Bordi composti da telai della matrice Assembler",
+        "- Facce realizzate con pannelli in matrice assemblabile\/vetro",
+        "- Interno composto da un motivo\/design basato sul \"Assembler Matrix Pattern\/Craft\/Speed Core\"",
+        "",
+        "Una matrice Assembler valida deve contenere almeno un nucleo di pattern e un nucleo di crafting. Deve essere completamente riempita e non può essere vuota. Quando la matrice Assembler è correttamente formata e alimentata, le linee sul telaio diventeranno blu.",
+        "",
+        "{@pagebreak}",
+        "",
+        "In questo esempio, creeremo una matrice di assemblaggio 7x7x7, concentrandoci principalmente sull'equilibrio tra i componenti di base per la creazione e i componenti per la definizione del pattern.",
+        "",
+        "Realizzare i primi 43 telai e i primi 125 muri del \"Assembler Matrix\". Vi fornirò 25 di ciascuno come ricompensa per questo compito (per un totale di 68 telai e 150 muri)."
+    ],
+    "quest.7900A4836CC55428.quest_subtitle": "Molti assemblatori molecolari e fornitori di modelli in un unico canale.",
+    "quest.7900A4836CC55428.title": "Molti Assembler in uno: Assembler Matrix",
+    "task.13FF4A021BBF1451.title": "Celle infinite",
+    "task.1854DDA036C8A2BA.title": "Entro Seeds\/Combs",
+    "task.1B927BD83D40F37D.title": "Cose non entrate",
+    "task.3A76350DDF5A318D.title": "Fornitori di modelli avanzati",
+    "task.3E8E72F0861329B6.title": "Tutti i diritti riservati",
+    "task.475B673DC78361D2.title": "Dispositivi estesi"
+}

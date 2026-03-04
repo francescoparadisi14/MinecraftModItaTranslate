@@ -1,4 +1,5 @@
 {
+    "button.corpse.add_waypoint": "Aggiungi punto di riferimento",
     "button.corpse.additional_items": "Oggetti aggiuntivi",
     "button.corpse.next": "Avanti",
     "button.corpse.previous": "Indietro",
@@ -18,5 +19,6 @@
     "message.corpse.no_death_history": "Cronologia di morti del giocatore vuota",
     "tooltip.corpse.death_date": "Morto il %s",
     "tooltip.corpse.item_count": "Contiene %s pila\/e",
-    "tooltip.corpse.teleport": "Teletrasporta"
+    "tooltip.corpse.teleport": "Teletrasporta",
+    "waypoint.death.name": "Luogo del decesso"
 }

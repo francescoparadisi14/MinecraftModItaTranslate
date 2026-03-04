@@ -1,4 +1,4 @@
 {
     "caelus.fallFlying": "Volo con le elitre",
-    "caelus.networking.failed": "Fallimento rete Caelus: %s"
+    "caelus.networking.failed": "Guasto di rete Caelus: %s"
 }

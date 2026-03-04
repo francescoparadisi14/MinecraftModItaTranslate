@@ -1,9 +1,11 @@
 {
-    "tooltipoverhaul.binds.category": "Rinoplastica di tooltip",
-    "tooltipoverhaul.binds.compare_bind": "Comparare equipaggiamento (alternare)",
+    "tooltipoverhaul.binds.category": "Riprogettazione delle didascalie\/spiegazioni rapide",
+    "tooltipoverhaul.binds.compare_bind": "Confronto tra attrezzature",
     "tooltipoverhaul.common_rarity": "Comune",
     "tooltipoverhaul.epic_rarity": "Epico",
-    "tooltipoverhaul.equipped_badge_text": "Equipaggiato",
+    "tooltipoverhaul.equipped_badge_text": "Dotato di; Equipaggiato",
     "tooltipoverhaul.rare_rarity": "Raro",
+    "tooltipoverhaul.reload_resources.fail": "§c[Ricaricamento risorse fallito!]",
+    "tooltipoverhaul.reload_resources.success": "[Aggiornamento completato] I file `custom_frames.json` sono stati ricaricati correttamente!",
     "tooltipoverhaul.uncommon_rarity": "Non comune"
 }

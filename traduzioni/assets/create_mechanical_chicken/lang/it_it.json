@@ -1,0 +1,17 @@
+{
+    "block.create_mechanical_chicken.chicken_nutrient": "Nutrienti per il pollame",
+    "block.create_mechanical_chicken.mechanical_chicken": "Pollo meccanico",
+    "block.create_mechanical_chicken.mechanical_chicken.tooltip.summary": "Generatore di uova e pollo.",
+    "config.jade.plugin_create_mechanical_chicken.data": "Dati relativi a galline meccaniche",
+    "create_mechanical_chicken.chicken.tooltip.progress": "Progresso: %d%",
+    "create_mechanical_chicken.itemGroup:main": "Crea un pollo meccanico",
+    "create_mechanical_chicken.ponder.mechanical_chicken.header": "Produce uova di pollo",
+    "create_mechanical_chicken.ponder.mechanical_chicken.text_1": "Il \"Pollo Meccanico\" utilizza una forza rotatoria e un fluido specifico per produrre uova.",
+    "create_mechanical_chicken.ponder.mechanical_chicken.text_2": "È alimentato dalla parte inferiore.",
+    "create_mechanical_chicken.ponder.mechanical_chicken.text_3": "L'ingresso dei fluidi può avvenire SOLO dal lato anteriore.",
+    "create_mechanical_chicken.ponder.mechanical_chicken.text_4": "La produzione di uova è situata ESCLUSIVAMENTE sul lato posteriore.",
+    "create_mechanical_chicken.ponder.mechanical_chicken.text_5": "Può essere estratto solo tramite automazione.",
+    "create_mechanical_chicken.recipe": "Ricetta per pollo artificiale",
+    "fluid.create_mechanical_chicken.chicken_nutrient": "Nutrienti per il pollame",
+    "item.create_mechanical_chicken.chicken_nutrient_bucket": "Secchio di nutrienti per pollame"
+}

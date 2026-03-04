@@ -1,4 +1,6 @@
 {
+    "item.tinkers_katanas.fuma_shuriken": "Fuma Shuriken",
+    "item.tinkers_katanas.fuma_shuriken.description": "The Fuma Shuriken is a large throwing weapon designed for dispatching foes at a distance.",
     "item.tinkers_katanas.katana": "Katana",
     "item.tinkers_katanas.katana.description": "The Katana is a single-edged blade designed for sweeping attacks against a group of opponents.",
     "itemGroup.tinkers_katanas.tinkers_katanas": "Tinkers' Katanas"

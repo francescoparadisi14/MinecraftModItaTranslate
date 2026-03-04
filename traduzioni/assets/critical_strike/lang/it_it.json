@@ -1,0 +1,20 @@
+{
+    "attribute.name.critical_strike.chance": "Probabilità di colpo critico",
+    "attribute.name.critical_strike.damage": "Danno critico",
+    "effect.critical_strike.chance": "Colpo critico",
+    "effect.critical_strike.chance.description": "Aumenta la probabilità di infliggere danni critici.",
+    "effect.critical_strike.damage": "Impatto significativo",
+    "effect.critical_strike.damage.description": "Aumenta i danni inflitti dai colpi critici.",
+    "enchantment.critical_strike.chance": "Colpo critico",
+    "enchantment.critical_strike.chance.description": "Aumenta la probabilità di infliggere danni critici.",
+    "enchantment.critical_strike.damage": "Impatto significativo",
+    "enchantment.critical_strike.damage.description": "Aumentare i danni inflitti dagli attacchi critici.",
+    "item.minecraft.lingering_potion.effect.critical_strike_chance": "Pozione che prolunga l'effetto del colpo critico",
+    "item.minecraft.lingering_potion.effect.critical_strike_damage": "Pozione di effetto critico persistente",
+    "item.minecraft.potion.effect.critical_strike_chance": "Pozione per aumentare le probabilità di colpo critico",
+    "item.minecraft.potion.effect.critical_strike_damage": "Pozione dell'impatto critico",
+    "item.minecraft.splash_potion.effect.critical_strike_chance": "Pozione Splash per colpi critici",
+    "item.minecraft.splash_potion.effect.critical_strike_damage": "Pozione Splash di Impatto Critico",
+    "item.minecraft.tipped_arrow.effect.critical_strike_chance": "Probabilità di colpo critico",
+    "item.minecraft.tipped_arrow.effect.critical_strike_damage": "Punto di impatto critico"
+}

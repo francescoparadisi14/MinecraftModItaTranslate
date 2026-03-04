@@ -1,14 +1,12 @@
 {
-    "block.ls_spooky_music.block_trader_spooky_music": "Blocco di musica spettrale",
-    "entity.minecraft.villager.ls_spooky_music.spooky_music_trader": "Negozio di musica spettrale",
-    "entity.villager.ls_spooky_music.spooky_music_trader": "Negozio di musica spettrale",
-    "gui.ls_spooky_music.screen_album_kurzel_covenant.label_jed_kurzel_alien_covenant": "Jed Kurzel - Alien Covenant",
-    "item.ls_spooky_music.album_kurzel_covenant": "Jed Kurzel - Alien Covenant",
-    "item.ls_spooky_music.block_trader_spooky_music": "Blocco di musica spettrale",
+    "block.ls_spooky_music.block_trader_spooky_music": "Blocco musicale inquietante",
+    "entity.minecraft.villager.ls_spooky_music.spooky_music_trader": "Mercante di musica inquietante",
+    "gui.ls_spooky_music.screen_album_kurzel_covenant.label_jed_kurzel_alien_covenant": "Jed Kurzel – Alien Covenant",
+    "item.ls_spooky_music.album_kurzel_covenant": "Jed Kurzel – Alien Covenant",
     "item.ls_spooky_music.disc_eleven_fixed": "Disco musicale",
-    "item.ls_spooky_music.disc_eleven_fixed.desc": "Jed Kurzel - Alien Covenant (fixato)",
+    "item.ls_spooky_music.disc_eleven_fixed.desc": "Jed Kurzel – Alien Covenant (versione corretta)",
     "painting.ls_spooky_music.painting_alien.author": "Taknax",
     "painting.ls_spooky_music.painting_alien.title": "Alieno",
-    "subtitles.eleven_fixed": "Jed Kuzel - Alien Covenant",
+    "subtitles.eleven_fixed": "Jed Kuzel – Alien Covenant",
     "subtitles.spookybreathing": ""
 }

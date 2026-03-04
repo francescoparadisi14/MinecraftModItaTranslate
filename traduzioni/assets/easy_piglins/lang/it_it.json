@@ -1,7 +1,7 @@
 {
-    "block.easy_piglins.barterer": "Barattiere",
-    "gui.easy_piglins.input_items": "Input Items",
-    "gui.easy_piglins.output_items": "Elementi Di Output",
-    "itemGroup.easy_piglins": "Piglin Facili",
-    "message.easy_piglins.cant_pick_up": "Non è Possibile Raccogliere Piglin Aggressivi O Occupati"
+    "block.easy_piglins.barterer": "Scambista",
+    "gui.easy_piglins.input_items": "Elementi di input",
+    "gui.easy_piglins.output_items": "Elementi di output",
+    "itemGroup.easy_piglins": "Maiali facili",
+    "message.easy_piglins.cant_pick_up": "Non è possibile interagire con piglini aggressivi o particolarmente attivi."
 }

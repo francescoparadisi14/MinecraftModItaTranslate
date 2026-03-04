@@ -1,0 +1,6 @@
+{
+    "advancement.netherportalconfigurator.portal_unlocked.desc": "You now have permanent access to the Nether!",
+    "advancement.netherportalconfigurator.portal_unlocked.title": "The Hellish Wanderer!",
+    "message.netherportalconfigurator.config_error": "§8[Nether Portal Configurator] Invalid item: %s",
+    "message.netherportalconfigurator.portal_denied": "§7You need a special item to activate a Nether Portal! Find a §r§d%s§7 before trying again!"
+}

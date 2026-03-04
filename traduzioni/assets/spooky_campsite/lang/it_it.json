@@ -1,0 +1,12 @@
+{
+    "block.spooky_campsite.example_block": "Esempio di blocco",
+    "item.spooky_campsite.example_item": "Esempio di articolo",
+    "itemGroup.spooky_campsite": "Esempio di tabella Mod",
+    "spooky_campsite.configuration.items": "Elenco degli articoli",
+    "spooky_campsite.configuration.logDirtBlock": "Blocco di argilla per pavimentazione",
+    "spooky_campsite.configuration.magicNumber": "Numero magico",
+    "spooky_campsite.configuration.magicNumberIntroduction": "Numero Magico",
+    "spooky_campsite.configuration.section.spooky_campsite.common.toml": "Configurazioni insolite per il campeggio",
+    "spooky_campsite.configuration.section.spooky_campsite.common.toml.title": "Configurazioni insolite per il campeggio",
+    "spooky_campsite.configuration.title": "Configurazioni di campeggio inquietanti"
+}

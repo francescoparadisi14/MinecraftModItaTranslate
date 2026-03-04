@@ -13,5 +13,6 @@
     "key.amecs.toggle_left_pants_leg": "Attiva gamba sinistra dei pantaloni",
     "key.amecs.toggle_left_sleeve": "Attiva manica sinistra",
     "key.amecs.toggle_right_pants_leg": "Attiva gamba destra dei pantaloni",
-    "key.amecs.toggle_right_sleeve": "Attiva manica destra"
+    "key.amecs.toggle_right_sleeve": "Attiva manica destra",
+    "key.category.amecs.skin_layers": "Livelli di Skin Amecs"
 }

@@ -1,0 +1,119 @@
+{
+    "quest.088CA7B6D4899846.quest_desc": [
+        "La macchina Packer\\&r è utilizzata per creare lingotti doppi e lame, oltre a cavi. Oltre a queste applicazioni principali, la macchina ha molte altre funzioni, ma queste saranno quelle più rilevanti per te."
+    ],
+    "quest.0DAF5D42694EA8C9.quest_desc": [
+        "«\\&#6E6D6D\\&nForge Hammer\\&r» è l'inizio del tuo percorso. È uno strumento versatile che può essere utilizzato per ottenere un miglior rendimento dai tuoi minerali, oppure per creare componenti per future attività artigianali.",
+        "",
+        "Lo strumento \"\\&7Hammer\\&r\" che hai creato non è necessario per la ricetta, ma ti fornirà risultati migliori quando lavori con i componenti \"\\&DBD25A\"."
+    ],
+    "quest.0DAF5D42694EA8C9.title": "Martello da fabbro",
+    "quest.1036837C9AD3F301.quest_desc": [
+        "La \"Forge Hammer\\&r\" vi permetterà di frantumare facilmente le lingote o le forme di rame in polvere."
+    ],
+    "quest.12F9705ACB8FB300.quest_desc": [
+        "La macchina EDD653\\&nCutting Machine\\&r consente di realizzare numerosi progetti artigianali. Tra i più importanti, ci sono i progetti relativi alle \"Bolts\".",
+        "",
+        "La macchina per il taglio funziona con il lubrificante ottenuto utilizzando il miscelatore."
+    ],
+    "quest.12FB3990CA1653A4.quest_desc": [
+        "Lo strumento \"DBA15ASteam Drill\" sarà il tuo alleato ideale per l'estrazione nelle prime fasi del gioco. È in grado di creare un'area di estrazione di 53x3, oltre a disporre di una funzione \"Silk Touch\" attivabile.",
+        "",
+        "È possibile attivare\/disattivare l'estrazione a 3x3 premendo la combinazione di tasti predefinita \"Attiva\/Disattiva Estrazione 3x3\", che è impostata di default su \"Y\".",
+        "",
+        "È possibile attivare\/disattivare la funzione \"Silk Touch\" premendo il tasto destro del mouse mentre si utilizza la \"Steam Drill\".",
+        "",
+        "Per riempire la trivella, è sufficiente tenere la trivella sopra un contenitore di carburante nel proprio inventario e premere il tasto destro. L'acqua può essere aggiunta al contenitore premendo il tasto destro nel mondo, oppure trasportando un secchio d'acqua."
+    ],
+    "quest.1C9D3FC67D58AC02.quest_desc": [
+        "L'unità di miscelazione (codice EDD653) ci permetterà di combinare oggetti e liquidi. Può essere utilizzata per tingere gli oggetti o anche per duplicarli."
+    ],
+    "quest.1E4E462928F2A71C.quest_desc": [
+        "Il forno \\&7\\&nCoke\\&r sarà utilizzato per convertire il carbone in coke. Il coke è 4 volte più efficace come combustibile rispetto al carbone.",
+        "",
+        "È possibile visualizzare i blocchi multipli tenendo in mano una chiave inglese e, tenendo in mano un cacciavite, è possibile visualizzare le possibili posizioni per questi ultimi.",
+        "",
+        "Il forno \"\\&7\\&nCoke\" è una struttura cava composta principalmente da mattoni."
+    ],
+    "quest.21A4FE1741E4E78C.quest_desc": [
+        "Il \"Quarry\" è un blocco multifunzionale utilizzato per generare risorse. Richiede l'utilizzo di \"Foraggi\" e \"Vapore\" per funzionare.",
+        "",
+        "Ogni tentativo ha la possibilità di consumare l'\\&aDrill\\&r. Gli \\&aDrills\\&r migliori forniscono risorse migliori.",
+        "",
+        "La macchina Steam Quarry può utilizzare solo trapani in rame e bronzo. Inoltre, può utilizzare anche terra per generare pietre."
+    ],
+    "quest.21A4FE1741E4E78C.quest_subtitle": "Risorse illimitate",
+    "quest.23708582B1064C9D.quest_desc": [
+        "Un circuito di tipo \\&#46DBBBCircuit\\&r richiederà alcuni di questi componenti di base per funzionare, e l'automazione di alcune di queste operazioni sarà utile in futuro."
+    ],
+    "quest.23708582B1064C9D.title": "Capacità e Resistenza",
+    "quest.24285F25F9563B02.quest_desc": [
+        "Il circuito analogico \\&#467FDB, ah! finalmente ce l'hai fatta. Solitamente, gli altri impiegano metà del tempo, ma non mi aspetto che tu faccia diversamente..."
+    ],
+    "quest.24285F25F9563B02.quest_subtitle": "Fondamenti dell'elettronica",
+    "quest.253822C64BBBB1EB.quest_desc": [
+        "La \"Forge Hammer\\&r\" vi permetterà di ridurre facilmente le lingote o le forme di minerale in polvere."
+    ],
+    "quest.357DDE894EB512F7.quest_desc": [
+        "La Wiremill è in grado di applicare la giusta quantità di forza per produrre i cavi perfetti per noi. Incredibile! Lo so..."
+    ],
+    "quest.3AA4D1B60E4E71A5.quest_desc": [
+        "Tutti i moduli sono definiti dai componenti specifici che li compongono. Migliorare questi componenti all'interno dei moduli migliorerà l'intero sistema."
+    ],
+    "quest.41877F44CD3D1EDB.quest_desc": [
+        "Il forno in bronzo (codice \\&#E3BC19) funziona esattamente come un forno normale, ma la differenza principale è che utilizza la pressione del vapore e opera a una velocità due volte superiore."
+    ],
+    "quest.458BFDB636F8B495.quest_desc": [
+        "Combinando la polvere di Coca con il Ferro, si otterrà la polvere di acciaio cruda. Cuocendola nel forno a vapore, si otterranno le billette di acciaio necessarie per i progressi futuri."
+    ],
+    "quest.478C1AF86610A8B7.quest_desc": [
+        "La macchina EDD653 viene utilizzata per realizzare lastre, lastre curve e anelli."
+    ],
+    "quest.48F77A0BE1F33B29.quest_desc": [
+        "Grazie alla nuova struttura, la \"Wiremill\", ora possiamo produrre cavi e fili sottili, il che ci permetterà di entrare nel settore dell'elettronica."
+    ],
+    "quest.48F77A0BE1F33B29.title": "Dire Wire",
+    "quest.4E69C6ABFE467C25.quest_desc": [
+        "Lo stampo per l'Al (\\&#65C2A6Alloy Smelter\\&r) proviene dal processo di industrializzazione estesa (\\&#3187C4Extended Industrialization\\&r). Esso combina le funzioni di miscelazione (\\&#4C4BDEMixer\\&r) e di fusione (\\&#954BDEFurnace\\&r) in un unico strumento, rendendo il lavoro meno laborioso."
+    ],
+    "quest.55C6BBC996B51838.quest_desc": [
+        "Il brughiera in bronzo converte l'acqua in vapore. Il vapore fungerà da combustibile per alimentare le vostre macchine nell'era del vapore.",
+        "",
+        "Per utilizzare la macchina, è sufficiente fornirle acqua e combustibile per il riscaldamento. Questo aumenterà la temperatura della macchina, che potrà quindi gestire contemporaneamente fino a 4 macchine."
+    ],
+    "quest.55C6BBC996B51838.quest_subtitle": "Acqua bollente",
+    "quest.589DFDB8FB7211AA.quest_desc": [
+        "La produzione di \\&7Rubber\\&r per il vostro passaggio all'era dell'elettricità è semplice. Automatizzare questo processo il prima possibile vi porterà avanti molto di più di quanto pensiate."
+    ],
+    "quest.589DFDB8FB7211AA.title": "Gomma e circuiti stampati",
+    "quest.5CCF92238B23EDC9.quest_desc": [
+        "DE45\\&nModern Industrialization\\&r è un mod simile a DIC2\\&r e GregTech\\&r, ma richiede un approccio diverso rispetto a questi due mod.",
+        "",
+        "Attraverso queste missioni, vi guiderò nella creazione dei componenti necessari per il mod \"AllTheMods Star\" e successivamente per il mod \"Infinity Armor\"."
+    ],
+    "quest.5CCF92238B23EDC9.quest_subtitle": "Leggere aiuterà",
+    "quest.5CCF92238B23EDC9.title": "Benvenuti in \"Modern Industrialization\"",
+    "quest.5E191081662C2F1A.quest_desc": [
+        "Il blocco \"Forge Hammer\" funge da post di lavoro per il villaggio \"Modern Industrialization\". Questo villaggio ti offrirà una vasta gamma di servizi utili."
+    ],
+    "quest.68EAB0248989FC97.quest_desc": [
+        "La fornace a vapore \"EDD653\" apre nuove possibilità di progressione. Sarà un elemento fondamentale per i vostri futuri progetti.",
+        "",
+        "Questo multiblock non solo ti permetterà di produrre lingotti di acciaio, ma ti consentirà anche di trasformare l'olio sintetico grezzo in olio sintetico, che potrà essere utilizzato successivamente per produrre gomma e altro ancora."
+    ],
+    "quest.7282DCB1547CEB63.quest_desc": [
+        "Il \"Bronzo\" fungerà da elemento fondamentale per la creazione dell'\"Era del Vapore\". La cottura di questo polvere ci fornirà i \"Blocchi di Bronzo\" che utilizzeremo successivamente."
+    ],
+    "quest.7282DCB1547CEB63.title": "Bronzo",
+    "quest.7A873E48E38B5C0E.quest_desc": [
+        "Le macchine in acciaio utilizzano il doppio della quantità di vapore rispetto a quelle in bronzo, ma compensano questa differenza con una velocità di funzionamento raddoppiata."
+    ],
+    "quest.7D220876E8FF7AED.quest_desc": [
+        "Lo strumento \"Unpacker\" ha molte applicazioni, tra cui la possibilità di trasformare i \"Block\" in lingotti e di riciclare le parti di macchine.",
+        "",
+        "E inoltre, è possibile ottenere lingotti di silicio più facili da lavorare."
+    ],
+    "task.198A217D6A4C951C.title": "Scambi tra i residenti",
+    "task.31BE41B971794377.title": "L'era del ferro",
+    "task.45C5CAC94406DF41.title": "Livelli a più blocchi"
+}

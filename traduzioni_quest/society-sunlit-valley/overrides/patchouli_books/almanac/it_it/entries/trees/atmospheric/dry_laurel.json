@@ -1,15 +1,15 @@
 {
-    "name": "Albero di lauro secco 🌐",
+    "name": "Albero di alloro secco 🌐",
     "category": "patchouli:trees",
     "icon": "atmospheric:dry_laurel_sapling",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)🌐 §5Tutto l'anno§r$(li)Dimensioni: 2x2`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🌐 Disponibile tutto l'anno§r$(li)Dimensioni: 2x2"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Dry Laurel Tree",
+            "name ": "Patchouli: Multibloc\n\nFico secco",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -109,8 +109,7 @@
                     "L": "atmospheric:dry_laurel_leaves",
                     "W": "atmospheric:laurel_log[axis=y]"
                 }
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

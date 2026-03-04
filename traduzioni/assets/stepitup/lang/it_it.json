@@ -1,5 +1,5 @@
 {
-    "text.autoconfig.stepitup.option.enableStepUp": "Abilita Step Up",
-    "text.autoconfig.stepitup.option.enableStepUpWhenSneaking": "Abilita salita quando si è in equilibrio",
-    "text.autoconfig.stepitup.title": "Step It Up"
+    "text.autoconfig.stepitup.option.enableStepUp": "Attiva la funzione \"Passa al livello successivo\"",
+    "text.autoconfig.stepitup.option.enableStepUpWhenSneaking": "Attiva la funzione \"Passo dopo passo\" quando ti nascondi.",
+    "text.autoconfig.stepitup.title": "Aumenta"
 }

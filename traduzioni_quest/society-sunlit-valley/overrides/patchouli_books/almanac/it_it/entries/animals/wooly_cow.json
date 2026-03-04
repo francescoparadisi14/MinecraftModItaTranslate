@@ -1,22 +1,22 @@
 {
-    "name": "Wooly Cow",
+    "name": "Bovino di lana",
     "category": "patchouli:animals",
     "icon": "meadow:highland_wool",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Prezzo: Non venduto$(li)Latte: Latte$(li)Ritardo del latte: 1 giorno$(li)Bottino dopo la tosatura: Lana Umbra o Lana Highland$(li)Bottino: Lana Umbra o Lana Highland, Carne cruda di manzo, Pelle$(br2)$(l)Note$()$(br)Entrambe le varianti possono essere trovate nei biomi foresta di Prato e Bosco Oscuro."
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile$(li)Latte: Latte$(li)Tempo di raffreddamento del latte: 1 giorno$(li)Lana: Umbra o Lana Highland$(li)Materiali: Umbra o Lana Highland, Carne cruda, Pelle$(br2)$(l)Note$()$(br)Entrambe le varianti si trovano negli ecosistemi di Meadow e Dark Oak."
         },
         {
             "type": "patchouli:entity",
-            "name": "Vitella di montagna lanuta",
+            "name": "patchouli:entità\n\nmucca di lana selvaggia: variante 0\n\nMucca di lana selvaggia delle Highlands",
             "entity": "meadow:wooly_cow{Variant:0}",
             "scale": 0.8,
-            "text": "Una specie di vacca soffice nota per la sua unica lana"
+            "text": "patchouli: entità\n\nprato: mucca_lana{Variante: 0}\n\nUna razza di mucca nota per la sua lana unica"
         },
         {
             "type": "patchouli:entity",
-            "name": "Entità: Umbra Wooly Cow (Variante 1)",
+            "name": "patchouli:entità\n\nprato:mucca_lana{Variante:1}\n\nUmbra Mucca di Lana",
             "entity": "meadow:wooly_cow{Variant:1}",
             "scale": 0.8
         }

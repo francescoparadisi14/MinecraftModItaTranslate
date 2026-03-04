@@ -1,0 +1,185 @@
+{
+    "quest.01B7B66FAAAAEAE5.quest_desc": [
+        "{image:atm:textures\/questpics\/pro_farming\/farm_anemone.png width:100 height:150 align:center}"
+    ],
+    "quest.01B7B66FAAAAEAE5.quest_subtitle": "Bianco",
+    "quest.06B197EB778C17AC.quest_desc": [
+        "Similmente a quanto fatto con le \\&2Piante\\&r, possiamo fare lo stesso con le \\&2Colture\\&r!\n\nQuando le \\&2Api impollinano un'area con specifiche \\&2Colture\\&r, alcune potrebbero subire delle \\&6Mutazioni\\&r.\n\nConsultare la sezione \\&lJEI\\&r per vedere quali \\&2Colture\\&r saranno necessarie per l'allevamento."
+    ],
+    "quest.06B197EB778C17AC.title": "\\&6 Mutazioni",
+    "quest.095024BF19ABA326.quest_desc": [
+        "Una combinazione di peperoni arancioni e peperoni verdi."
+    ],
+    "quest.0D04BCF5940E2AF1.quest_desc": [
+        "La combinazione del mais Blue Jade e del mais Black Aztec produce il mais Sugar Pearl."
+    ],
+    "quest.126CCC6B187C0B18.quest_desc": [
+        "Infine, possiamo mescolare il mais \"Black Aztec\" con il mais \"Sugar Pearl\", per ottenere un mais multicolore."
+    ],
+    "quest.15474BAF1997CD27.quest_desc": [
+        "{image:atm:textures\/questpics\/pro_farming\/farm_balloon.png width:100 height:150 align:center}"
+    ],
+    "quest.15474BAF1997CD27.quest_subtitle": "Viola",
+    "quest.15474BAF1997CD27.title": "\\&5Fiore di giglio",
+    "quest.158978D35BDA805D.quest_desc": [
+        "Questi sono una miscela di lamponi… e pomodori Sungold? \\n\\nMa uno è un frutto e l'altro è un pomodoro? Questo non ha alcun senso!"
+    ],
+    "quest.167554E0A562B60A.quest_desc": [
+        "Una miscela di peperoni rossi e gialli! \\n\\nQuesto dovrebbe essere abbastanza ovvio... è arancione."
+    ],
+    "quest.1699BD1B8B348B7C.quest_desc": [
+        "Una combinazione di mais Blue Jade e mais Yellow Dent, produce il mais Black Aztec."
+    ],
+    "quest.2117CE8C21A9EE98.quest_desc": [
+        "Una combinazione di peperoni rossi e neri."
+    ],
+    "quest.223F47BDD763F306.quest_desc": [
+        "I pomodorini ciliegia hanno la possibilità di mutare in modo casuale in pomodorini al cioccolato.\n\nNon so da dove provengano il cioccolato o le pere, ma va bene!"
+    ],
+    "quest.244B10862943A802.quest_subtitle": "Mondo pazzo",
+    "quest.2AFB12E742596864.quest_desc": [
+        "Il \"Controller\" di \\&aFarm è il cuore del \"Farm Auto\", una macchina multifunzione perfetta per tutte le fattorie!\n\nNella prossima quest spiegherò come costruirlo, qui spiegherò solo come utilizzarlo.\n\nQuesto \"Farm Auto\" coltiverà, raccoglierà e ripianterà tutte le colture all'interno della struttura. Colture di qualsiasi tipo, come quelle del \"Farming Produttivo\", dell'\"Agricoltura Mistica\" e del \"Vanilla\", potranno essere coltivate!\n\nRaccoglierà tutti i prodotti all'interno del controller, che potranno essere prelevati manualmente o tramite tubi."
+    ],
+    "quest.2AFB12E742596864.title": "\\&a\\&lAuto-Farm",
+    "quest.2BFC97460B4B49F1.quest_desc": [
+        "Una combinazione di pomodori al cioccolato e pomodori gialli di forma a pera darà come risultato pomodori Sungold."
+    ],
+    "quest.2CFD0DF119CC5E85.quest_desc": [
+        "Ora passiamo alla parte della costruzione. Inizialmente, avrete a disposizione una vasta gamma di blocchi tra cui scegliere per completare la missione. Questi sono tutti i blocchi che possono costituire la struttura.\n\n(In pratica, qualsiasi tipo di mattoni e vetro). Potete combinare e utilizzare qualsiasi tipo di blocco, senza restrizioni.\n\nLa struttura stessa è costituita solo dalle pareti e dallo spazio interno. Le pareti devono essere realizzate con questi blocchi, mentre lo spazio interno deve avere un volume minimo di blocchi.\n\nLa dimensione minima è di 2x2 per la fattoria automatica. La massima, invece, può raggiungere un volume di 200 blocchi. Ho detto \"volume\" perché include l'area, considerando che ogni blocco ha un'altezza di 2 blocchi, compresi i raccolti. Ciò significa che se avete un'area interna di 10x10, sarà la dimensione massima.\n\nLo spazio interno è dove posizionate i vostri campi (o l'acqua, a seconda di cosa volete coltivare). Per coltivare, avrete comunque bisogno di acqua (consiglio il blocco \"acqua\" di XyCraft).\n\nPotete comunque utilizzare fertilizzanti o acceleratori di crescita vicino alle colture per velocizzare la loro crescita!",
+        "{image:atm:textures\/questpics\/pro_farming\/farm_autofarm.png width:150 height:100 align:center}"
+    ],
+    "quest.2CFD0DF119CC5E85.title": "Costruirlo",
+    "quest.2DB404AA2832F81D.quest_desc": [
+        "{image:atm:textures\/questpics\/pro_farming\/farm_holly.png width:100 height:150 align:center}"
+    ],
+    "quest.2DB404AA2832F81D.quest_subtitle": "Blu",
+    "quest.2DB404AA2832F81D.title": "\\&9Sea Holly",
+    "quest.2F1B74D45E50A079.quest_desc": [
+        "{image:atm:textures\/questpics\/pro_farming\/farm_lobelia.png width:100 height:150 align:center}"
+    ],
+    "quest.2F1B74D45E50A079.quest_subtitle": "Ultramarine",
+    "quest.2F1B74D45E50A079.title": "\\&9Lobelia eccellente",
+    "quest.3111C0CA63A82E7A.quest_desc": [
+        "Il \"Blue Jade Corn\" è prodotto con mais giallo dent e fiori di campo. Ecco perché vengono chiamati \"Cornflowers\"!"
+    ],
+    "quest.33C3C334981AF72E.quest_desc": [
+        "I pomodorini ciliegia e la loro seconda evoluzione (non l'ho già detto, vero?) ovvero il pomodoro pera al cioccolato, possono combinarsi per formare un pomodoro pera giallo.\n\nDa dove proviene il giallo? O il pomodoro pera di nuovo?"
+    ],
+    "quest.383EDBE9AAAF4C99.quest_subtitle": "Microfono",
+    "quest.3BB39CC4E8F40B67.quest_subtitle": "1, 2... 1, 2",
+    "quest.3CBF4D703AA17199.quest_desc": [
+        "\\&a\\&l\"Productive Farming\" è il più recente mod disponibile (al momento della sua creazione).\n\nQuesto mod introduce una struttura multiblock automatizzata per l'agricoltura, nuove colture e più varietà di fiori e colori per queste ultime!\n\nFunziona anche in sinergia con \\&6\\&l\"Productive Bees\" e \\&l\\&cD\\&6y\\&ee\\&an\\&ba\\&dm\\&ci\\&6c\\&es\\&r!"
+    ],
+    "quest.3CBF4D703AA17199.quest_subtitle": "Quanti mod svilupperà?",
+    "quest.3CBF4D703AA17199.title": "\\&a\\&lAgricoltura Produttiva",
+    "quest.3E57854E27545581.quest_desc": [
+        "Una miscela di peperoni arancioni e gialli."
+    ],
+    "quest.42AE629EBAA3AA94.quest_desc": [
+        "{image:atm:textures\/questpics\/pro_farming\/farm_skullcap.png width:100 height:150 align:center}"
+    ],
+    "quest.42AE629EBAA3AA94.quest_subtitle": "Viola",
+    "quest.42AE629EBAA3AA94.title": "\\&5Cappello di scorpione",
+    "quest.439705A42B6DC4D1.quest_desc": [
+        "{image:atm:textures\/questpics\/pro_farming\/farm_cattail.png width:100 height:150 align:center}"
+    ],
+    "quest.439705A42B6DC4D1.quest_subtitle": "Marrone",
+    "quest.439705A42B6DC4D1.title": "\\&8Cattail",
+    "quest.44DA8B6C651B3456.quest_desc": [
+        "Una miscela di bacche di goji e bacche dorate darà origine alle famose \"bacche miracolose\".\n\nQueste bacche hanno la straordinaria capacità di modificare i recettori del gusto, in modo che non percepiscano il sapore acido. Di conseguenza, tutto ciò che dovrebbe essere acido, avrà un sapore dolce!\n\nProvatelo!"
+    ],
+    "quest.46932B57EF21D346.quest_desc": [
+        "Il \"Bacino per l'Acqua\" è un altro elemento che aiuterà con gli animali.\nInvece di utilizzare \"Cibo per Animali\", utilizzerà \"Secchi d'Acqua\"!\n\nQuando i piccoli animali si avvicinano al \"Bacino per l'Acqua\", cresceranno più velocemente rispetto ai cuccioli che non lo utilizzano.\nRicorda di riempirlo sempre con \"Acqua\"!"
+    ],
+    "quest.46932B57EF21D346.title": "\\&9Bacinella per l'acqua",
+    "quest.48323FABB7E3D31E.quest_desc": [
+        "Combinando il pomodoro Roma con la sua seconda varietà, il pomodoro Beefsteak, otteniamo il pomodoro Blue Beauty.\n\nTuttavia, c'è anche la possibilità di ottenere altre due varietà di pomodoro."
+    ],
+    "quest.4B2754CD11FFE247.quest_desc": [
+        "{image:atm:textures\/questpics\/pro_farming\/farm_amaryllis.png width:100 height:150 align:center}"
+    ],
+    "quest.4B2754CD11FFE247.quest_subtitle": "Marrone",
+    "quest.4B2754CD11FFE247.title": "\\&4Amaryllis",
+    "quest.507821D8F9C064CF.quest_desc": [
+        "L'incrocio tra uva verde e uva rossa produce l'uva Concord.\nÈ anche conosciuta come \"uva viola\"!"
+    ],
+    "quest.512A525B513DA118.quest_desc": [
+        "{image:atm:textures\/questpics\/pro_farming\/farm_chrysanthemum.png width:100 height:150 align:center}"
+    ],
+    "quest.512A525B513DA118.quest_subtitle": "Magenta",
+    "quest.512A525B513DA118.title": "\\&dGiglio",
+    "quest.523AD3D448DE58A6.quest_desc": [
+        "{image:atm:textures\/questpics\/pro_farming\/farm_hellebore.png width:100 height:150 align:center}"
+    ],
+    "quest.523AD3D448DE58A6.quest_subtitle": "Grigio",
+    "quest.523AD3D448DE58A6.title": "\\&7Hellebore",
+    "quest.53CD2E3D27601F3F.quest_desc": [
+        "{image:atm:textures\/questpics\/pro_farming\/farm_cape.png width:100 height:150 align:center}"
+    ],
+    "quest.53CD2E3D27601F3F.quest_subtitle": "Blu ghiacciato",
+    "quest.53CD2E3D27601F3F.title": "\\&B Cape Leadwort",
+    "quest.540F3CA118762DDB.quest_desc": [
+        "Il \"Ciotola per l'alimentazione\" è un oggetto aggiunto da \"Agricoltura Produttiva\".\n\nHa 9 slot di inventario che possono contenere una quantità di \"Alimento per animali\" da distribuire.\n\nChe tipo di \"Alimento per animali\"?\n\nQualsiasi cosa che venga utilizzata per far riprodurre 2 animali (della stessa specie) andrà bene! Grano? Sì! Bambù? Sì! Assicurati solo che il bambù sia piantato nelle vicinanze."
+    ],
+    "quest.540F3CA118762DDB.title": "\\&c Cestello per l'alimentazione",
+    "quest.5854DA8F791AD71F.quest_desc": [
+        "{image:atm:textures\/questpics\/pro_farming\/farm_nettle.png width:100 height:150 align:center}"
+    ],
+    "quest.5854DA8F791AD71F.quest_subtitle": "Verde",
+    "quest.5854DA8F791AD71F.title": "\\& Erba spinosa",
+    "quest.5969AEE09A61EC16.quest_desc": [
+        "Combinando il pomodoro Roma con la sua seconda varietà, il pomodoro Beefsteak, otteniamo il pomodoro White Wonder.\n\nTuttavia, c'è anche la possibilità di ottenere altre due varietà di pomodoro."
+    ],
+    "quest.5B21A7A5ED1DDABB.quest_desc": [
+        "Le bistecche possono derivare da una mutazione casuale con i pomodori Roma."
+    ],
+    "quest.5E4DE1FFA8A45C6D.quest_desc": [
+        "\\&dFiori\\&r! Innanzitutto, come otteniamo questi nuovi e bellissimi \\&dFiori\\&r?\n\nQuesti \\&dFiori\\&r vengono ottenuti nello stesso modo in cui vengono ottenuti gli altri \\&dFiori\\&r, attraverso la macinatura del \\&2Erba\\&r. Scusate, i \\&dCampi di Fiori\\&r non saranno molto utili nel \\&bCielo\\&r.\n\nPotete vedere l'aspetto di tutti questi \\&dFiori\\&r nelle loro rispettive missioni!\n\nTuttavia, il colore potrebbe cambiare. Questo perché abbiamo un nuovo metodo di \\&6Ibrido\\&r.\n\nSe abbiamo \\&6Api\\&r con \\&aAggiornamenti di Polline\\&r nelle loro \\&6Apiarie\\&r, queste \\&6Ibrideranno\\&r i tipi e i colori degli \\&dFiori\\&r mentre \\&aPolinizzano\\&r.\n\nI nuovi \\&dFiori\\&r spunteranno sull'\\&2Erba\\&r vicino agli \\&dFiori\\&r esistenti, saranno o dello stesso tipo degli \\&dFiori\\&r precedenti, ma con uno dei loro colori, o una combinazione dei due colori.\n\nQuesto significa che potrete ottenere \\&9Papassuole blu\\&f, \\&4Cattails marroni\\&r, o persino \\&4Tulipani bianchi! Oh, aspetta, questo è un \\&2\\&lFiore alla Vaniglia\\&r..."
+    ],
+    "quest.5E4DE1FFA8A45C6D.title": "\\&FIORE",
+    "quest.60521AAE8BAA32C5.quest_desc": [
+        "{image:atm:textures\/questpics\/pro_farming\/farm_hydrangea.png width:100 height:150 align:center}"
+    ],
+    "quest.60521AAE8BAA32C5.quest_subtitle": "Rosa",
+    "quest.60521AAE8BAA32C5.title": "\\&dIdigia",
+    "quest.6479A38086A43E49.quest_desc": [
+        "{image:atm:textures\/questpics\/pro_farming\/farm_zinnia.png width:100 height:150 align:center}"
+    ],
+    "quest.6479A38086A43E49.quest_subtitle": "Ambra",
+    "quest.6479A38086A43E49.title": "\\&eZinnia",
+    "quest.66D27708343F9DB4.quest_desc": [
+        "Un mix di uva verde e uva Concord ci darà uva dal sapore simile a quello della torta di compleanno.\n\n...Anche se il sapore è più simile a quello della \"uva caramello\", rimane comunque molto gustosa!"
+    ],
+    "quest.699F91BC5CA58FE2.quest_desc": [
+        "Per ottenere questi raccolti, dovremo acquistare i semi necessari dai contadini.\n\nNon chiedete come li hanno ottenuti...\n\nI contadini vi scambieranno le gemme per i semi, fino al livello 5, che non prevede nuovi semi.\n\nÈ del tutto casuale quale seme il contadino vi venderà? Sì! Quindi, buona fortuna a tutti!\n\nQuesto è un ottimo momento per trasportare gli artefatti del villaggio."
+    ],
+    "quest.699F91BC5CA58FE2.title": "\\&2 Colture",
+    "quest.6AF7427DCA9D66D2.quest_desc": [
+        "{image:atm:textures\/questpics\/pro_farming\/farm_dahlia.png width:100 height:150 align:center}"
+    ],
+    "quest.6AF7427DCA9D66D2.quest_subtitle": "Nero",
+    "quest.6AF7427DCA9D66D2.title": "\\&Dalia",
+    "quest.6C31A50068FBA0EE.quest_desc": [
+        "{image:atm:textures\/questpics\/pro_farming\/farm_bearded.png width:100 height:150 align:center}"
+    ],
+    "quest.6C31A50068FBA0EE.quest_subtitle": "Grigio",
+    "quest.6C31A50068FBA0EE.title": "\\&8Iris con barba nera",
+    "quest.7264CC40170E461A.quest_desc": [
+        "Combinando il pomodoro Roma con la sua seconda varietà, il pomodoro Beefsteak, otteniamo il pomodoro Black Beauty.\n\nTuttavia, c'è anche la possibilità di ottenere altre due varietà di pomodoro."
+    ],
+    "quest.739C0DB291B1563C.quest_desc": [
+        "{image:atm:textures\/questpics\/pro_farming\/farm_valerian.png width:100 height:150 align:center}"
+    ],
+    "quest.739C0DB291B1563C.quest_subtitle": "Bianco",
+    "quest.7514CF65A077985E.quest_desc": [
+        "{image:atm:textures\/questpics\/pro_farming\/farm_himalayan.png width:100 height:150 align:center}"
+    ],
+    "quest.7514CF65A077985E.quest_subtitle": "Blu chiaro",
+    "quest.7514CF65A077985E.title": "\\&Papaver himalayensis",
+    "quest.7EF3DB8B5258FA34.quest_desc": [
+        "{image:atm:textures\/questpics\/pro_farming\/farm_motherwort.png width:100 height:150 align:center}"
+    ],
+    "quest.7EF3DB8B5258FA34.quest_subtitle": "Pesca",
+    "quest.7EF3DB8B5258FA34.title": "\\&6Erba di San Giovanni",
+    "task.0A074866CCBD8FD5.title": "Blocchi agricoli"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Sparkpod 🌼",
+    "category": "patchouli:crops",
+    "icon": "society:sparkpod",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):monete: 100$(li)🌼 Primavera$(li)Prezzo del seme: 4.096 monete$(li)Resa: 1$(li)Tempo di crescita: 8 giorni"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Patchouli: coltivo multi-blocco\n\nSparkpod",
+            "enable_visualize": false,
+            "multiblock": {
+                "pattern": [
+                    [
+                        "0"
+                    ],
+                    [
+                        "F"
+                    ]
+                ],
+                "mapping": {
+                    "0": "society:sparkpod[age=8]",
+                    "F": "minecraft:farmland[moisture=7]"
+                }
+            }
+        }
+    ]
+}

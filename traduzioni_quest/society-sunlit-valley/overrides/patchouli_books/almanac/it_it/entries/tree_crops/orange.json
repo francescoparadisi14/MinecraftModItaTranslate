@@ -1,15 +1,15 @@
 {
-    "name": "arancione 🔥",
+    "name": "Arancione 🔥",
     "category": "patchouli:tree_crops",
     "icon": "atmospheric:orange",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li):moneta: 96$(li)§6Summer§r$(li)Rendita: 1$(li)Fasi di crescita: 8$(br2)$(l)Note$()$(li)Vedi: $(l:trees\/pams\/orange)Albero d'arancio$(\/l)`"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): moneta: 96$(li)🔥 Estate$(li)Resa: 1$(li)Fasi di crescita: 8$(br2)$(l)Note$()$(li)Vedi: $(l:alberi\/pams\/arancia)Albero d'arancia$(\/l)"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Orange Tree",
+            "name ": "Patchouli: Multibloc\n\nAlbero d'arancia",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {
@@ -24,8 +24,7 @@
                         "F"
                     ]
                 ]
-            },
-            "text": "Multiblock Structure"
+            }
         }
     ]
 }

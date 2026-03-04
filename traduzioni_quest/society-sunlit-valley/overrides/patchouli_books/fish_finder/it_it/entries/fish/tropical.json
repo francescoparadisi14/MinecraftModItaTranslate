@@ -1,18 +1,18 @@
 {
-    "name": "Pesce tropicale",
+    "name": "Pesci tropicali",
     "category": "patchouli:fish",
     "icon": "minecraft:tropical_fish",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li):moneta: 72$(li)§0🌼 §2Primavera§0 🔥 §6Estate§0$(li)Acqua: Oceano$(li)Clima: Qualsiasi$(li)Ora: Primavera (notte), Estate (notte o giorno)`"
+            "text": "patchouli: testo\n\n$(l)Statistiche$()$(li): monete: 72$(li)§0🌼 §2Primavera§0 🔥 §6Estate§0$(li)Acqua: Oceano$(li)Meteo: Qualsiasi$(li)Ora: Primavera (notte), Estate (notte o giorno)"
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:tropical_fish",
             "scale": 0.8,
             "rotate": true,
-            "text": "Essi desiderano essere un Sneep Snorp."
+            "text": "patchouli: entità\n\nminecraft: pesce tropicale\n\nVorrebbero essere dei Sneep Snorp."
         }
     ]
 }

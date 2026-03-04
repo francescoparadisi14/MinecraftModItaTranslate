@@ -81,7 +81,6 @@
     "inventoryhud.config.gui.updateclick": "Clicca qui per ottenerla",
     "inventoryhud.config.gui.withdebug": "Con debug:",
     "key.category.inventoryhud.main": "Inventory HUD+",
-    "key.inventoryhud.category": "Inventory HUD+",
     "key.inventoryhud.openconfig": "Apri configurazione",
     "key.inventoryhud.toggle": "Attiva\/disattiva Inventory HUD",
     "key.inventoryhud.toggleall": "Rimuovi tutti gli HUD attivo\/disattivo",

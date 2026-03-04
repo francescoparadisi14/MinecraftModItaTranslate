@@ -1,12 +1,12 @@
 {
-    "name": "Controllore del Nether",
+    "name": "Controllore di rete",
     "icon": "techopolis:nether_teleportation_core",
     "category": "patchouli:nether_controller",
     "sortnum": "1",
     "pages": [
         {
             "type": "multiblock",
-            "name": "Controller del Nether",
+            "name": "Multibloc\nController di Nether",
             "enable_visualize": true,
             "multiblock": {
                 "pattern": [
@@ -87,7 +87,7 @@
         {
             "type": "text",
             "title": "Nether Controller",
-            "text": "Questa struttura richiede; $(li)Ossidiano$(li)Portaportale Quantico Entangolatore$(li)Vetro Strutturale$(li)Controllore del Nether$(br2)Una volta completata, potrai creare il teleporter del Nether che può essere utilizzato per viaggiare nel Nether."
+            "text": "Questa struttura richiede:\n*   Obsidian\n*   Quantum Entangloporter\n*   Vetro strutturale\n*   Nether Controller\n\nUna volta completata, sarà possibile creare il Nether Teleporter, che può essere utilizzato per viaggiare nel Nether."
         }
     ]
 }

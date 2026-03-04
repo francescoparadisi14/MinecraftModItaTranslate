@@ -1,12 +1,12 @@
 {
-    "death.attack.dodosmobs.wound": "Si è aperto il ferito.",
-    "death.attack.dodosmobs.wound.player": "Si è aperto la ferita",
-    "effect.dodosmobs.wound": "Lesione",
-    "entity.dodosmobs.bone_chimera": "Cimero di ossa",
-    "entity.dodosmobs.dead_horn": "corna morta",
-    "item.dodosmobs.amalgam_claws": "Artigli amalgamati",
-    "item.dodosmobs.bone_chimera_spawn_egg": "Uovo di spawn del cimero osseo",
-    "item.dodosmobs.chimera_armor_chestplate": "Pettorina d'armatura chimera",
+    "death.attack.dodosmobs.wound": "La ferita si è aperta.",
+    "death.attack.dodosmobs.wound.player": "La ferita si è aperta.",
+    "effect.dodosmobs.wound": "Ferita",
+    "entity.dodosmobs.bone_chimera": "Chimera",
+    "entity.dodosmobs.dead_horn": "Corno morto",
+    "item.dodosmobs.amalgam_claws": "Artigli di amalgam",
+    "item.dodosmobs.bone_chimera_spawn_egg": "Uovo di incubazione della Chimera",
+    "item.dodosmobs.chimera_armor_chestplate": "Pannello pettorale in armatura \"Chimera\"",
     "item.dodosmobs.chimera_claw": "Artiglio di Chimera",
-    "itemGroup.dodosmobs.item": "Elemento di dodo's mods"
+    "itemGroup.dodosmobs.item": "Oggetto di Dodo's Mods"
 }

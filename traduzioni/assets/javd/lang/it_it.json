@@ -1,0 +1,10 @@
+{
+    "advancement.javd.enter_void_dimension": "Verso l'infinito e il nulla",
+    "advancement.javd.enter_void_dimension.description": "Entra nel Vuoto",
+    "biome.javd.void": "Il Vuoto",
+    "block.javd.portal_block": "Portale vuoto",
+    "dimension.javd.void": "Il Vuoto",
+    "item.javd.portal_block": "Portale vuoto",
+    "javd.invalid.pos": "Impossibile trovare una posizione valida per il portale.",
+    "javd.invalid.world": "Impossibile trovare il mondo '%s'"
+}

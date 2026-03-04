@@ -1,11 +1,11 @@
 {
-    "name": "Magma Cube Fish",
+    "name": "Pesce Magma Cube",
     "category": "patchouli:fish",
     "icon": "netherdepthsupgrade:magmacubefish",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Statistiche$()$(li)Denaro: 620$(li)Dimensione: Inferno$(li)Bioma: Delti di Basalto"
+            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 620$(li)Dimensioni: Nether$(li)Bioma: Delta di basalto"
         },
         {
             "type": "patchouli:entity",
@@ -13,7 +13,7 @@
             "scale": 0.5,
             "offset": -0.3,
             "rotate": true,
-            "text": "Un abitante del magma gonfio e tremolante"
+            "text": "patchouli: entità\n\nnetherdepthsupgrade: pesce di magma\n\nUn abitante gelatinoso del magma si gonfiò"
         }
     ]
 }

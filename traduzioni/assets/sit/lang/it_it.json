@@ -1,5 +1,5 @@
 {
-    "sit.configuration.block_reach_distance": "Distanza di raggiungimento del blocco",
-    "sit.configuration.block_reach_distance.tooltip": "La distanza massima in blocchi che il giocatore può essere lontano da un blocco per poterlo ancora sedere. Nota che questo è limitato dalla distanza a cui un giocatore può accedere a un blocco nel Minecraft originale. Se impostato su 0, il giocatore deve stare sopra il blocco per poterlo sedere.",
-    "text.autoconfig.sit.option.blockReachDistance": "Distanza di raggiungimento del blocco"
+    "sit.configuration.block_reach_distance": "Distanza di raggiungimento bloccata",
+    "sit.configuration.block_reach_distance.tooltip": "La distanza massima, in blocchi, che un giocatore può avere da un blocco per poterlo ancora occupare. È importante notare che questo limite è determinato dalla distanza massima che un giocatore può raggiungere per interagire con un blocco nella versione standard di Minecraft. Se questo valore è impostato a 0, il giocatore dovrà essere direttamente sopra il blocco per poterlo occupare.",
+    "text.autoconfig.sit.option.blockReachDistance": "Distanza di raggiungimento massima"
 }
