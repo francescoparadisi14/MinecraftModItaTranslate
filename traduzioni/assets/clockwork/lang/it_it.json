@@ -1,0 +1,16 @@
+{
+    "creativetab.clockwork.title": "Meccanismo a orologeria",
+    "entity.clockwork.broken_dragonfly": "Libellula spezzata",
+    "entity.clockwork.dragonfly": "Libellula",
+    "item.clockwork.barrel_crossbow": "Arco a molla automatico",
+    "item.clockwork.clockwork_arrow": "Freccia meccanica",
+    "item.clockwork.clockwork_gear": "Ingranaggio meccanico",
+    "item.clockwork.clockwork_potion_sprayer": "Spruzzatore per pozioni",
+    "item.clockwork.clockwork_wings": "Ali meccaniche",
+    "item.clockwork.crossbow_barrel": "Canna del balestra",
+    "item.clockwork.scope_crossbow": "Arco compatto",
+    "key.categories.clockwork": "Meccanismo a orologeria",
+    "key.clockwork.toggle_dragonfly_flight": "Attiva\/Disattiva la modalità volo per libellule",
+    "packet.clockwork.client_message.is_flying": "Ora il\/la \\[s] è in volo.",
+    "packet.clockwork.client_message.is_walking": "Ora sta camminando."
+}

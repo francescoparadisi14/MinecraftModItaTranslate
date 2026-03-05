@@ -1,0 +1,9 @@
+{
+    "block.mekanismneutronactivator.fission_neutron_activator": "Fission Neutron Activator",
+    "block.mekanismneutronactivator.fusion_neutron_activator": "Fusion Neutron Activator",
+    "constants.mekanismneutronactivator.mod_name": "Mekanism: Neutron Activator",
+    "container.mekanismneutronactivator.fission_neutron_activator": "Fission Neutron Activator",
+    "container.mekanismneutronactivator.fusion_neutron_activator": "Fusion Neutron Activator",
+    "description.mekanismneutronactivator.fission_neutron_activator": "A machine that directs the neutron radiation primarily due to the spontaneous fission of plutonium-240 into its internal reservoir, allowing for the glacial creation of various isotopes. Must be placed directly under the radioactive waste barrel containing (not spent)nuclear waste or plutonium. The plutonium will be consumed in the process.",
+    "description.mekanismneutronactivator.fusion_neutron_activator": "A machine that directs the neutron radiation from D-T reaction of the fusion reactor into its internal reservoir, allowing for the efficient creation of various isotopes. Must be placed directly under the center of active fusion reactor."
+}

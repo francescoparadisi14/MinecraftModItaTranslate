@@ -1,0 +1,12 @@
+{
+    "config.jade.plugin_jade_vs.block_mass": "Blocco di massa",
+    "config.jade.plugin_jade_vs.ship_mass": "Peso della nave",
+    "jade.modName.jadeaddons.jade_vs": "Jade VS",
+    "jade_vs.tooltip.ship_mass": "Peso della nave",
+    "jade_vs.tooltip.standard_mass": "Messa standard",
+    "jade_vs.unit.gigagram": "kt",
+    "jade_vs.unit.gram": "g",
+    "jade_vs.unit.kilogram": "kg",
+    "jade_vs.unit.megagram": "t",
+    "jade_vs.unit.teragram": "Mt"
+}

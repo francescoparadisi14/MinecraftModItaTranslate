@@ -1,0 +1,10 @@
+{
+    "key.category.togenc.title": "Toggle Enchantments",
+    "key.togenc.open_menu": "Open Menu",
+    "screen.togenc.blacklist.tooltip": "This Enchantment is on Blacklist",
+    "screen.togenc.curse.tooltip": "Curses Cannot be Toggled",
+    "screen.togenc.disabled.tooltip": "Press to Disable",
+    "screen.togenc.enabled.tooltip": "Press to Enable",
+    "screen.togenc.enchantment.disabled": "Disabled",
+    "screen.togenc.title": "Toggle Enchantments"
+}

@@ -1,0 +1,18 @@
+{
+    "block.coffeemod.coffee_bush": "Semi di caffè",
+    "block.coffeemod.coffee_machine": "Macchina per il caffè",
+    "block.coffeemod.deluxe_coffee_machine": "Macchina per il caffè di lusso",
+    "gui.ingredient.add.from.inventory.x.available": "Aggiungi %s dal magazzino (%s disponibili)",
+    "gui.ingredient.full": "Completo",
+    "gui.ingredient.not.enough": "Nessun prodotto di tipo \"%s\" in magazzino.",
+    "gui.ingredients": "Ingredienti",
+    "item.coffeemod.caramel": "Caramello",
+    "item.coffeemod.caramel_macchiato": "Caramello Macchiato",
+    "item.coffeemod.cocoa_drink": "Bevanda al cacao",
+    "item.coffeemod.coffee": "Caffè",
+    "item.coffeemod.espresso": "Caffè espresso",
+    "item.coffeemod.frappe": "Frullato",
+    "item.coffeemod.latte": "Latte",
+    "item.coffeemod.mocha": "Mocha",
+    "item.coffeemod.roasted_coffee_beans": "Caffè tostato"
+}

@@ -1,0 +1,11 @@
+{
+    "block.end_villager_trader.end_villager_trader_block": "End Villager Trader Block",
+    "entity.minecraft.villager.end_villager_trader.end_trader": "End Trader",
+    "entity.villager.end_villager_trader.end_trader": "End Trader",
+    "item.end_villager_trader.end_villager_trader_block": "End Villager Trader Block",
+    "item.end_villager_trader.shulker_armor_boots": "Shulker Armor Boots",
+    "item.end_villager_trader.shulker_armor_chestplate": "Shulker Armor Chestplate",
+    "item.end_villager_trader.shulker_armor_helmet": "Shulker Armor Helmet",
+    "item.end_villager_trader.shulker_armor_leggings": "Shulker Armor Leggings",
+    "item_group.end_villager_trader.end_villager_trader_tab": "End Villager Trader Tab"
+}

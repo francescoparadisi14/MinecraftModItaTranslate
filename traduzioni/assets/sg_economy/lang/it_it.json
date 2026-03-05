@@ -1,0 +1,16 @@
+{
+    "command.coins.add.success": "Ricevuto: %1$d %3$s",
+    "command.coins.exception.disabled": "Questo comando è disabilitato.",
+    "command.coins.exception.insufficient_funds": "Il giocatore non dispone di fondi sufficienti.",
+    "command.coins.exception.only_players": "Questo comando può essere eseguito solo dai giocatori.",
+    "command.coins.exception.player_not_found": "«Non è stato possibile trovare il giocatore».",
+    "command.coins.exception.target_not_online": "§ctarget deve essere un giocatore online.",
+    "command.coins.pay.received": "Ha ricevuto €%1$s da %3$s.",
+    "command.coins.pay.sent": "Hai inviato %1$s a %2$s a %3$s.",
+    "command.coins.rank.title": "Classifica dei magnati",
+    "command.coins.remove.success": "%2$s rimosso %1$d %3$s",
+    "command.coins.set.success": "\"%1$d\" impostato su \"%3$s\"",
+    "text.coin": "moneta",
+    "text.coins": "monete",
+    "text.page": "pagina"
+}

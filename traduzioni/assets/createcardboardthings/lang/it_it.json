@@ -1,0 +1,21 @@
+{
+    "entity.createcardboardthings.cardboard_arrow": "Frecce di cartone",
+    "item.createcardboardthings.cardboard_arrow": "Frecce di cartone",
+    "item.createcardboardthings.cardboard_ball": "Palla di cartone",
+    "item.createcardboardthings.cardboard_elytra": "Ali di cartone",
+    "item.createcardboardthings.cardboard_ingot": "Lingotto di cartone",
+    "item.createcardboardthings.cardboard_pickaxe": "Piccone in cartone",
+    "item.createcardboardthings.cardboard_rocket": "Razzo di cartone",
+    "item.createcardboardthings.cardboard_saddle": "Sella in cartone",
+    "item.createcardboardthings.cardboard_shears": "Forbici per cartone",
+    "item.createcardboardthings.cardboard_totem": "Totem di cartone",
+    "tooltip.createcardboardthings.cardboard_arrow": "Nessun danno, ma un forte impatto.",
+    "tooltip.createcardboardthings.cardboard_ball": "È efficace e non eccessivamente invasivo.",
+    "tooltip.createcardboardthings.cardboard_elytra": "Vola per sempre... una sola volta.",
+    "tooltip.createcardboardthings.cardboard_ingot": "Aumenta l'effetto di respingimento di \"Cardboard\" di Create.",
+    "tooltip.createcardboardthings.cardboard_pickaxe": "Debole, ma resistente",
+    "tooltip.createcardboardthings.cardboard_rocket": "Solo ali di Elytra",
+    "tooltip.createcardboardthings.cardboard_saddle": "Una base per future selle.",
+    "tooltip.createcardboardthings.cardboard_shears": "Nessuno sa perché... ancora",
+    "tooltip.createcardboardthings.cardboard_totem": "Ti protegge, quindi ti aiuta a funzionare."
+}

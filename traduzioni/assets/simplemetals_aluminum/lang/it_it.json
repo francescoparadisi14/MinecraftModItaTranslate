@@ -1,0 +1,13 @@
+{
+    "block.simplemetals_aluminum.aluminum_block": "Blocco di alluminio",
+    "block.simplemetals_aluminum.aluminum_ore": "Roccia di bauxite",
+    "block.simplemetals_aluminum.cut_aluminum": "Tagliare l'alluminio",
+    "block.simplemetals_aluminum.cut_aluminum_slab": "Taglio di lastra di alluminio",
+    "block.simplemetals_aluminum.cut_aluminum_stairs": "Taglio di scale in alluminio",
+    "block.simplemetals_aluminum.deepslate_aluminum_ore": "Miniera di bauxite di Deepslate",
+    "block.simplemetals_aluminum.raw_aluminum_block": "Blocco di bauxite grezza",
+    "item.simplemetals_aluminum.aluminum_ingot": "Lingotto di alluminio",
+    "item.simplemetals_aluminum.aluminum_nugget": "Blocco di alluminio",
+    "item.simplemetals_aluminum.aluminum_sheet": "Lastra di alluminio",
+    "item.simplemetals_aluminum.raw_aluminum": "Bauxite grezza"
+}

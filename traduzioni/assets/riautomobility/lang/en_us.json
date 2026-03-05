@@ -1,0 +1,18 @@
+{
+    "container.riautomobility.hitbox": "Box",
+    "entity.riautomobility.driver_seat": "Driver Seat",
+    "entity.riautomobility.hitbox": "Automobile",
+    "frame.riautomobility.bejeweled_doublemotorcar": "Bejeweled DoubleMotorcar",
+    "frame.riautomobility.bejeweled_quadmotorcar": "Bejeweled QuadMotorcar",
+    "frame.riautomobility.copper_doublemotorcar": "Copper DoubleMotorcar",
+    "frame.riautomobility.copper_quadmotorcar": "Copper QuadMotorcar",
+    "frame.riautomobility.golden_doublemotorcar": "Golden DoubleMotorcar",
+    "frame.riautomobility.golden_quadmotorcar": "Golden QuadMotorcar",
+    "frame.riautomobility.lorry": "Lorry",
+    "frame.riautomobility.steel_doublemotorcar": "Steel DoubleMotorcar",
+    "frame.riautomobility.steel_quadmotorcar": "Steel QuadMotorcar",
+    "frame.riautomobility.wooden_doublemotorcar": "Wooden DoubleMotorcar",
+    "frame.riautomobility.wooden_quadmotorcar": "Wooden QuadMotorcar",
+    "key.categories.riautomobility": "RIAutomobility",
+    "key.riautomobility.boarding_as_passenger": "Board \/ Switch Seat"
+}

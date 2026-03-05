@@ -53,6 +53,10 @@
     "gui.curios.page": "Page %d \/ %d",
     "gui.curios.toggle": "Toggle Visibility",
     "gui.curios.toggle.cosmetics": "Toggle Cosmetics",
+    "item.curios.amulet": "Curious Amulet",
+    "item.curios.crown": "Curious Crown",
+    "item.curios.knuckles": "Curious Knuckles",
+    "item.curios.ring": "Curious Ring",
     "key.curios.category": "Curios",
     "key.curios.open.desc": "Open\/Close Curios Inventory"
 }

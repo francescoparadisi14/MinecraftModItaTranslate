@@ -1,0 +1,9 @@
+{
+    "block.mekanismneutronactivator.fission_neutron_activator": "Attivatore di neutroni per fissione",
+    "block.mekanismneutronactivator.fusion_neutron_activator": "Attivatore di neutrini per fusione",
+    "constants.mekanismneutronactivator.mod_name": "Meccanismo: Attivatore di neutroni",
+    "container.mekanismneutronactivator.fission_neutron_activator": "Attivatore di neutroni per fissione",
+    "container.mekanismneutronactivator.fusion_neutron_activator": "Attivatore di neutrini per fusione",
+    "description.mekanismneutronactivator.fission_neutron_activator": "Un dispositivo progettato per dirigere la radiazione neutronica, principalmente a causa della fissione spontanea del plutonio-240, che rilascia i suoi isotopi interni, consentendo la creazione graduale di diversi isotopi. Il dispositivo deve essere posizionato direttamente sotto il contenitore di rifiuti radioattivi contenente (non utilizzate) scorie nucleari o plutonio. Il plutonio sarà consumato nel processo.",
+    "description.mekanismneutronactivator.fusion_neutron_activator": "Un dispositivo che dirige la radiazione di neutroni prodotta dalla reazione D-T del reattore di fusione verso il suo serbatoio interno, consentendo la creazione efficiente di diversi isotopi. Deve essere posizionato direttamente sotto il centro del reattore di fusione attivo."
+}

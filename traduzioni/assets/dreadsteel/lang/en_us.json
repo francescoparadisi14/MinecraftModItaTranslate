@@ -1,0 +1,22 @@
+{
+    "item.dreadsteel.dreadsteel_boots": "Dreadsteel Boots",
+    "item.dreadsteel.dreadsteel_chestplate": "Dreadsteel Chestplate",
+    "item.dreadsteel.dreadsteel_helmet": "Dreadsteel Helmet",
+    "item.dreadsteel.dreadsteel_ingot": "Dreadsteel Ingot",
+    "item.dreadsteel.dreadsteel_leggings": "Dreadsteel Leggings",
+    "item.dreadsteel.dreadsteel_scythe": "Dreadsteel Scythe",
+    "item.dreadsteel.dreadsteel_shield": "Dreadsteel Shield",
+    "item.dreadsteel.kit_black": "Black Kit",
+    "item.dreadsteel.kit_bronze": "Bronze Kit",
+    "item.dreadsteel.kit_default": "Default Kit",
+    "item.dreadsteel.kit_white": "White Kit",
+    "tooltip.dreadsteel.cosmetic_kit": "§7Consume to dye all currently equipped and held Dreadsteel items§r",
+    "tooltip.dreadsteel.dreadsteel_color_black": "§7Color:§r §8Black§r",
+    "tooltip.dreadsteel.dreadsteel_color_bronze": "§7Color:§r §6Bronze§r",
+    "tooltip.dreadsteel.dreadsteel_color_default": "§7Color:§r §7Default§r",
+    "tooltip.dreadsteel.dreadsteel_color_white": "§7Color:§r §fWhite§r",
+    "tooltip.dreadsteel.dreadsteel_ingot": "§7You hear whispers coming from the flames§r",
+    "tooltip.dreadsteel.dreadsteel_scythe": "§7While Attacking: Summon a magical spinning blade, piercing all enemies and armor on hit§r",
+    "tooltip.dreadsteel.dreadsteel_setbonus": "§7Full Set: Immunity to damage from Fire, Spikes and Lightning§r",
+    "tooltip.dreadsteel.dreadsteel_shield": "§7While Blocking: Incinerates all projectiles and burns melee attackers§r"
+}

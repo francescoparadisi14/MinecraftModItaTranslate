@@ -1,0 +1,22 @@
+{
+    "block.dtsakuracompact.maple_branch": "Albero di acero",
+    "block.dtsakuracompact.maplegreen_sapling": "Germoglio di acero",
+    "block.dtsakuracompact.mapleorange_sapling": "Piantina di acero e arancia",
+    "block.dtsakuracompact.maplered_sapling": "Germoglio di acero rosso",
+    "block.dtsakuracompact.mapleyellow_sapling": "Germoglio di acero giallo",
+    "block.dtsakuracompact.sakura_branch": "Albero di ciliegio",
+    "block.dtsakuracompact.sakura_sapling": "Piantina di ciliegio",
+    "block.dtsakuracompact.sakurasmall_sapling": "Piantina di Sakura di Hill",
+    "dtsakuracompact": "Alberi dinamici per il ciliegio in fiore",
+    "item.dtsakuracompact.maplegreen_seed": "Semi di acero verde",
+    "item.dtsakuracompact.mapleorange_seed": "Semi di acero arancione",
+    "item.dtsakuracompact.maplered_seed": "Seme di acero rosso",
+    "item.dtsakuracompact.mapleyellow_seed": "Semi di acero giallo",
+    "item.dtsakuracompact.sakura_seed": "Ciliegia rosa",
+    "species.dtsakuracompact.maplegreen": "Acero verde",
+    "species.dtsakuracompact.mapleorange": "Arancia e acero",
+    "species.dtsakuracompact.maplered": "Acero rosso",
+    "species.dtsakuracompact.mapleyellow": "Acero giallo",
+    "species.dtsakuracompact.sakura": "Sakura",
+    "species.dtsakuracompact.sakurasmall": "Sakura Hill"
+}

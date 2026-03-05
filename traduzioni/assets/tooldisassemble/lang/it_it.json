@@ -1,0 +1,6 @@
+{
+    "info.tooldisassemble.failed": "Non è possibile smontare un utensile danneggiato.",
+    "info.tooldisassemble.failed2": "Non è possibile smontarlo tramite le impostazioni di configurazione.",
+    "item.tooldisassemble.disassembling_tool": "Strumento per lo smontaggio",
+    "item_group.tooldisassemble": "Smontaggio degli strumenti"
+}

@@ -1,0 +1,10 @@
+{
+    "block.simplemetals_tin.deepslate_tin_ore": "Deepslate Cassiterite Ore",
+    "block.simplemetals_tin.raw_tin_block": "Block of Raw Cassiterite",
+    "block.simplemetals_tin.tin_block": "Block of Tin",
+    "block.simplemetals_tin.tin_ore": "Cassiterite Ore",
+    "item.simplemetals_tin.raw_tin": "Raw Cassiterite",
+    "item.simplemetals_tin.tin_ingot": "Tin Ingot",
+    "item.simplemetals_tin.tin_nugget": "Tin Nugget",
+    "item.simplemetals_tin.tin_sheet": "Tin Sheet"
+}

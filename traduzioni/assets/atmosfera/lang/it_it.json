@@ -1,0 +1,15 @@
+{
+    "config.atmosfera.resource_pack_warning": "Non è stato rilevato alcun evento sonoro. Attiva il pacchetto di risorse Atmosfera integrato o personalizzato.",
+    "config.category.atmosfera.general": "Generale",
+    "config.category.atmosfera.subtitles": "Sottotitoli",
+    "config.category.atmosfera.volumes": "Volumi",
+    "config.subcategory.atmosfera.ambient_sound": "Suoni ambient",
+    "config.subcategory.atmosfera.music": "Musica",
+    "config.value.atmosfera.custom_music_weight_scale": "Scala personalizzata per pesare la musica",
+    "config.value.atmosfera.custom_music_weight_scale_explanation": "\"Peso\"? \"Bilancia per il peso\"?",
+    "config.value.atmosfera.custom_music_weight_scale_explanation.@Tooltip": "\"Peso\" si riferisce alla probabilità che una determinata musica venga riprodotta.\nNormalmente, tutte le musiche hanno lo stesso peso.\nLa \"Scala di Peso Personalizzata per la Musica\" aumenta il peso per la musica personalizzata, rendendola più probabile rispetto alla musica standard.\nÈ importante notare che non tutte le musiche possono essere riprodotte in tutti i luoghi, e di solito c'è molta più musica standard rispetto alla musica personalizzata.\nTipicamente, il rapporto tra musica standard e musica personalizzata è di circa 27 a 3.",
+    "config.value.atmosfera.enable_custom_music": "Abilita la musica personalizzata",
+    "config.value.atmosfera.enable_custom_music.@Tooltip": "Se verranno utilizzati o meno i brani musicali presenti nei pacchetti di risorse Atmosfera.",
+    "config.value.atmosfera.sound_tip.@Tooltip": "Impostato al 0% per disabilitare",
+    "modmenu.descriptionTranslation.atmosfera": "Un sistema di suoni ambientali con risorse sonore personalizzabili e adatte a creare un'atmosfera specifica."
+}

@@ -1,0 +1,11 @@
+{
+    "block.end_villager_trader.end_villager_trader_block": "Blocco del negoziante del villaggio",
+    "entity.minecraft.villager.end_villager_trader.end_trader": "Termine per il trader che chiude la propria posizione.",
+    "entity.villager.end_villager_trader.end_trader": "Termine per il trader che chiude la propria posizione.",
+    "item.end_villager_trader.end_villager_trader_block": "Blocco del negoziante del villaggio",
+    "item.end_villager_trader.shulker_armor_boots": "Stivali di armatura Shulker",
+    "item.end_villager_trader.shulker_armor_chestplate": "Armatura di Shulker",
+    "item.end_villager_trader.shulker_armor_helmet": "Elmetto dell'armatura Shulker",
+    "item.end_villager_trader.shulker_armor_leggings": "Pantaloni in pelle di Shulker",
+    "item_group.end_villager_trader.end_villager_trader_tab": "Tab per il commerciante del villaggio"
+}

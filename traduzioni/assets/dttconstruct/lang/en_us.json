@@ -1,0 +1,17 @@
+{
+    "block.dttconstruct.bloodshroom_branch": "Bloodshroom Fungus",
+    "block.dttconstruct.enderbark_branch": "Enderbark Tree",
+    "block.dttconstruct.enderbark_roots": "Enderbark Tree",
+    "block.dttconstruct.greenheart_branch": "Greenheart Tree",
+    "block.dttconstruct.skyroot_branch": "Skyroot Tree",
+    "block.tconstruct.ender_slime_sapling": "Enderbark Sapling",
+    "block.tconstruct.potted_ender_slime_sapling": "Potted Enderbark Sapling",
+    "item.dttconstruct.bloodshroom_seed": "Bloodshroom Cap",
+    "item.dttconstruct.enderbark_seed": "Enderbark Propagule",
+    "item.dttconstruct.greenheart_seed": "Greenheart Seed",
+    "item.dttconstruct.skyroot_seed": "Skyroot Seed",
+    "species.dttconstruct.bloodshroom": "Bloodshroom",
+    "species.dttconstruct.enderbark": "Enderbark",
+    "species.dttconstruct.greenheart": "Greenheart",
+    "species.dttconstruct.skyroot": "Skyroot"
+}

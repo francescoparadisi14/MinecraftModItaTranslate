@@ -1,0 +1,12 @@
+{
+    "eof": "eof",
+    "gui.epicparcool.config_screen.title": "Configurations",
+    "gui.epicparcool.config_screen.warn": "The configurations don't apply to dedicated servers",
+    "gui.epicparcool.tooltip.config_screen.stamina_source": "Determines which mod's stamina will be used for parcool actions",
+    "gui.epicparcool.widget.config_screen.stamina_source": "Stamina Source",
+    "gui.epicparcool.widget.stamina_source.epicfight": "Epic Fight",
+    "gui.epicparcool.widget.stamina_source.hunger": "Hunger",
+    "gui.epicparcool.widget.stamina_source.none": "None",
+    "gui.epicparcool.widget.stamina_source.paraglider": "Paraglider",
+    "gui.epicparcool.widget.stamina_source.parcool": "ParCool"
+}

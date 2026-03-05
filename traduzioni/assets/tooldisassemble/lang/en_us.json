@@ -1,0 +1,6 @@
+{
+    "info.tooldisassemble.failed": "You cannot disassemble a damaged tool.",
+    "info.tooldisassemble.failed2": "You cannot disassemble it by config.",
+    "item.tooldisassemble.disassembling_tool": "Disassembling Tool",
+    "item_group.tooldisassemble": "Tool Disassemble"
+}

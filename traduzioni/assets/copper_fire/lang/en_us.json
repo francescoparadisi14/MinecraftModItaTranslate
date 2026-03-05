@@ -1,0 +1,10 @@
+{
+    "block.minecraft.copper_campfire": "Copper Campfire",
+    "datapack.copper_fire.enchantments": "Copper Fire enchantments",
+    "datapack.copper_fire.enchantments.description": "Burn your enemies with Copper Fire Aspect and Copper Flame!",
+    "enchantment.minecraft.copper_fire_aspect": "Copper Fire Aspect",
+    "enchantment.minecraft.copper_fire_aspect.desc": "Causes additional copper fire damage when used to attack a mob.",
+    "enchantment.minecraft.copper_flame": "Copper Flame",
+    "enchantment.minecraft.copper_flame.desc": "Arrows fired from the bow will deal additional copper fire damage.",
+    "item.minecraft.copper_fire_charge": "Copper Fire Charge"
+}

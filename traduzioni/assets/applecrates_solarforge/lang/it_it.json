@@ -1,0 +1,16 @@
+{
+    "block.applecrates_solarforge.radiant_crate": "Radiant Crate",
+    "block.applecrates_solarforge.runic_crate": "Cassa runica",
+    "cannot.switch.trade": "Per effettuare un cambio di metodo di pagamento, la casella di pagamento deve essere vuota.",
+    "container.crate": "Cassa",
+    "container.crate.owner": "Il mio negozio di casse",
+    "crate.add.owner": "Aggiungi proprietario",
+    "crate.add.owner.already_owner": "%s è già un proprietario!",
+    "crate.add.owner.confirm": "Conferma l'aggiunta del proprietario",
+    "crate.add.owner.not_found": "L'utente con ID %s non è stato trovato. Impossibile aggiungerlo come proprietario.",
+    "crate.add.owner.success": "Aggiunto %s come proprietario!",
+    "crate.button.sale.buyer": "Commercio",
+    "crate.button.sale.owner": "Negozio all'ingrosso",
+    "crate.set.creative": "Set di contenitori destinato a un laboratorio creativo",
+    "tab.crate": "Cesti"
+}

@@ -1,0 +1,13 @@
+{
+    "block.simplemetals_aluminum.aluminum_block": "Block of Aluminum",
+    "block.simplemetals_aluminum.aluminum_ore": "Bauxite Ore",
+    "block.simplemetals_aluminum.cut_aluminum": "Cut Aluminum",
+    "block.simplemetals_aluminum.cut_aluminum_slab": "Cut Aluminum Slab",
+    "block.simplemetals_aluminum.cut_aluminum_stairs": "Cut Aluminum Stairs",
+    "block.simplemetals_aluminum.deepslate_aluminum_ore": "Deepslate Bauxite Ore",
+    "block.simplemetals_aluminum.raw_aluminum_block": "Block of Raw Bauxite",
+    "item.simplemetals_aluminum.aluminum_ingot": "Aluminum Ingot",
+    "item.simplemetals_aluminum.aluminum_nugget": "Aluminum Nugget",
+    "item.simplemetals_aluminum.aluminum_sheet": "Aluminum Sheet",
+    "item.simplemetals_aluminum.raw_aluminum": "Raw Bauxite"
+}

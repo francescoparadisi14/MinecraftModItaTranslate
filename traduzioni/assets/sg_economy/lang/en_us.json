@@ -1,0 +1,16 @@
+{
+    "command.coins.add.success": "%2$s received %1$d %3$s",
+    "command.coins.exception.disabled": "§cthis command is disabled",
+    "command.coins.exception.insufficient_funds": "§cthe player does not have sufficient funds",
+    "command.coins.exception.only_players": "§cthis command can only be run by players",
+    "command.coins.exception.player_not_found": "§cthe player could not be found",
+    "command.coins.exception.target_not_online": "§ctarget must be an online player",
+    "command.coins.pay.received": "You received %1$s %2$s from %3$s.",
+    "command.coins.pay.sent": "You sent %1$s %2$s to %3$s.",
+    "command.coins.rank.title": "Magnates Ranking",
+    "command.coins.remove.success": "%2$s removed %1$d %3$s",
+    "command.coins.set.success": "%2$s set to %1$d %3$s",
+    "text.coin": "coin",
+    "text.coins": "coins",
+    "text.page": "page"
+}

@@ -1,0 +1,17 @@
+{
+    "text.autoconfig.vintage_animations.category.animations": "Animations",
+    "text.autoconfig.vintage_animations.category.miscellaneous": "Miscellaneous",
+    "text.autoconfig.vintage_animations.option.chopAnimation": "Chop Animation",
+    "text.autoconfig.vintage_animations.option.chopAnimation.@Tooltip": "Play the chop animation when chopping with an axe",
+    "text.autoconfig.vintage_animations.option.digAnimation": "Dig Animation",
+    "text.autoconfig.vintage_animations.option.digAnimation.@Tooltip": "Play the dig animation when digging with a shovel",
+    "text.autoconfig.vintage_animations.option.pickAnimation": "Pick Animation",
+    "text.autoconfig.vintage_animations.option.pickAnimation.@Tooltip": "Play the pick animation when picking with a pickaxe",
+    "text.autoconfig.vintage_animations.option.showArmsInFirstPerson": "Display Arms in First Person",
+    "text.autoconfig.vintage_animations.option.showArmsInFirstPerson.@Tooltip": "Render the player's arms during animations in first-person view",
+    "text.autoconfig.vintage_animations.option.showOffHandInFirstPerson": "Display Off-Hand in First Person",
+    "text.autoconfig.vintage_animations.option.showOffHandInFirstPerson.@Tooltip": "Render the player's off-hand during animations in first-person view",
+    "text.autoconfig.vintage_animations.option.tillAnimation": "Till Animation",
+    "text.autoconfig.vintage_animations.option.tillAnimation.@Tooltip": "Play the till animation when tilling with a hoe",
+    "text.autoconfig.vintage_animations.title": "Vintage Animations"
+}

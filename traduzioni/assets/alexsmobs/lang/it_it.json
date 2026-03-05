@@ -1154,5 +1154,12 @@
     "item.minecraft.tipped_arrow.effect.speed_iii": "Punta di velocità",
     "item.minecraft.tipped_arrow.effect.strong_knockback_resistance": "Resistenza al colpo",
     "item.minecraft.tipped_arrow.effect.strong_soulsteal": "L'arco del furto d'anima",
-    "itemGroup.alexsmobs": "Le bande di Alex"
+    "itemGroup.alexsmobs": "Le bande di Alex",
+    "jukebox_song.alexsmobs.daze": "Mimico del polpo",
+    "jukebox_song.alexsmobs.thime": "Thime - Enderiophage",
+    "tag.item.alexsmobs.animal_dictionary_ingredient": "Lessico degli ingredienti per animali",
+    "tag.item.alexsmobs.bananas": "Banane",
+    "tag.item.alexsmobs.insect_items": "Articoli relativi agli insetti",
+    "tag.item.alexsmobs.mudskipper_breedables": "Razze di Mudskipper",
+    "tag.item.alexsmobs.tiger_breedables": "Razze di Tigri"
 }

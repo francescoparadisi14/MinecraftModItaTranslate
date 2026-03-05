@@ -1,0 +1,22 @@
+{
+    "item.dreadsteel.dreadsteel_boots": "Stivali Dreadsteel",
+    "item.dreadsteel.dreadsteel_chestplate": "Corazza in acciaio \"Dreadsteel\"",
+    "item.dreadsteel.dreadsteel_helmet": "Casco Dreadsteel",
+    "item.dreadsteel.dreadsteel_ingot": "Lingotto di acciaio di alta qualità",
+    "item.dreadsteel.dreadsteel_leggings": "Leggings Dreadsteel",
+    "item.dreadsteel.dreadsteel_scythe": "Falcio di Dreadsteel",
+    "item.dreadsteel.dreadsteel_shield": "Scudo di acciaio resistente",
+    "item.dreadsteel.kit_black": "Kit nero",
+    "item.dreadsteel.kit_bronze": "Kit in bronzo",
+    "item.dreadsteel.kit_default": "Kit standard",
+    "item.dreadsteel.kit_white": "Kit bianco",
+    "tooltip.dreadsteel.cosmetic_kit": "§7 Consumere tutti gli oggetti Dreadsteel attualmente equipati e in possesso.",
+    "tooltip.dreadsteel.dreadsteel_color_black": "§7Colore:§r §8Nero§r",
+    "tooltip.dreadsteel.dreadsteel_color_bronze": "§7Colore:§r §6Bronzo§r",
+    "tooltip.dreadsteel.dreadsteel_color_default": "§7Colore:§r §7Predefinito",
+    "tooltip.dreadsteel.dreadsteel_color_white": "§7Colore:§r §fBianco§r",
+    "tooltip.dreadsteel.dreadsteel_ingot": "§7Si sentono sussurri provenienti dalle fiamme.",
+    "tooltip.dreadsteel.dreadsteel_scythe": "§7 Durante l'attacco: Evoca una lama magica che ruota, colpendo tutti i nemici e le armature.",
+    "tooltip.dreadsteel.dreadsteel_setbonus": "§7: Resistenza a danni da fuoco, punte e fulmini.",
+    "tooltip.dreadsteel.dreadsteel_shield": "§7 Durante l'attacco: distrugge tutti i proiettili e infligge danni ai nemici che attaccano in corpo a corpo."
+}

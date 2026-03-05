@@ -1,0 +1,10 @@
+{
+    "block.voidz.infested_void_stone": "Pietra infestata",
+    "block.voidz.item_group": "VoidZ",
+    "block.voidz.void_portal": "Portale vuoto",
+    "block.voidz.void_stone": "Pietra vuota",
+    "death.attack.infested": "%1$s è stato assorbito dal vuoto",
+    "text.autoconfig.voidz.option.allow_boss_respawn": "Abilita la riapparizione del capo",
+    "text.autoconfig.voidz.option.boss_respawn_time": "Tempo di riattivazione del capo",
+    "text.autoconfig.voidz.title": "Configurazione VoidZ"
+}

@@ -1,0 +1,5 @@
+{
+    "block.abandoned_city_buildings.example_block": "Example Block",
+    "item.abandoned_city_buildings.example_item": "Example Item",
+    "itemGroup.abandoned_city_buildings": "Example Mod Tab"
+}

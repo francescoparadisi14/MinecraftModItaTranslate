@@ -53,6 +53,10 @@
     "gui.curios.page": "Pagina %d \/ %d",
     "gui.curios.toggle": "Mostra\/Nascondi",
     "gui.curios.toggle.cosmetics": "Toggle Cosmetics",
+    "item.curios.amulet": "Amuleto misterioso",
+    "item.curios.crown": "Corona curiosa",
+    "item.curios.knuckles": "Dita curiose",
+    "item.curios.ring": "Anello curioso",
     "key.curios.category": "Curios",
     "key.curios.open.desc": "Apri\/Chiudi l'inventario di Curios"
 }

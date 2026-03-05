@@ -1,0 +1,9 @@
+{
+    "retraining.configuration.general": "Generale",
+    "retraining.configuration.ignoreExperience": "Ignorare l'esperienza",
+    "retraining.networking.reset_trades.failed": "Impossibile reimpostare le transazioni per l'agricoltore {}.",
+    "retraining.networking.update.failed": "Impossibile aggiornare il villaggio {}.",
+    "text.autoconfig.retraining.option.general": "Generale",
+    "text.autoconfig.retraining.option.general.ignoreExperience": "Ignorare l'esperienza",
+    "text.autoconfig.retraining.title": "Riformazione professionale"
+}

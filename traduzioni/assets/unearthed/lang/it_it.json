@@ -413,5 +413,6 @@
     "item.unearthed.gold_ore": "Oro in polvere",
     "item.unearthed.iron_ore": "Ferro",
     "item.unearthed.regolith": "Regolite",
-    "itemGroup.unearthed.general": "Scavata"
+    "itemGroup.unearthed.general": "Scavata",
+    "itemGroup.unearthed.tab": "Scavata"
 }

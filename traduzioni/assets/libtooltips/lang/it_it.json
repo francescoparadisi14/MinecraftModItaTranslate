@@ -1,0 +1,15 @@
+{
+    "tooltip.always.namespace.path.0": "Questo tooltip sarà sempre visualizzato, anche se non viene premuto il tasto \"Shift\"!",
+    "tooltip.libtooltips.generic.empty": "",
+    "tooltip.libtooltips.generic.shift_down": "⏫ §l§6[Cambia]§r ⏫",
+    "tooltip.libtooltips.generic.shift_up": "⏬ §l§3[Cambio]§r ⏬",
+    "tooltip.namespace.path.0": "Wow, una descrizione molto elegante! Mi sembra davvero interessante.",
+    "tooltip.namespace.path.1": "È possibile aggiungere ulteriori righe utilizzando il formato `<rgb>`, semplicemente inserendo valori come .1 .2, ecc.",
+    "tooltip.namespace.path.2": "<gradient-30>È possibile definire un gradiente in questo modo!<\/gradient-60>",
+    "tooltip.namespace.path.3": "I numeri 30 e 60 si riferiscono a una scala che va da 00 a 99 per indicare la tonalità.",
+    "tooltip.namespace.path.4": "",
+    "tooltip.namespace.path.5": "È possibile creare una \"linea di interruzione\" semplicemente lasciando vuoto il testo, come in questo esempio.",
+    "tooltip.namespace.path.7": "Saltare un numero interromperà il ciclo del tooltip, quindi non farlo. Questo testo non verrà mai visualizzato.",
+    "tooltip.namespace.path.8": "Questo funziona con qualsiasi oggetto o blocco, non solo con i tuoi mod o con la versione originale!",
+    "tooltip.namespace.path.name": "<rgb>Diamante!<\/rgb>"
+}

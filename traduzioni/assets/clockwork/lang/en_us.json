@@ -1,0 +1,16 @@
+{
+    "creativetab.clockwork.title": "Clockwork",
+    "entity.clockwork.broken_dragonfly": "Broken Dragonfly",
+    "entity.clockwork.dragonfly": "Dragonfly",
+    "item.clockwork.barrel_crossbow": "Automatic Crossbow",
+    "item.clockwork.clockwork_arrow": "Clockwork Arrow",
+    "item.clockwork.clockwork_gear": "Clockwork Gear",
+    "item.clockwork.clockwork_potion_sprayer": "Potion Sprayer",
+    "item.clockwork.clockwork_wings": "Clockwork Wings",
+    "item.clockwork.crossbow_barrel": "Crossbow Barrel",
+    "item.clockwork.scope_crossbow": "Scoped Crossbow",
+    "key.categories.clockwork": "Clockwork",
+    "key.clockwork.toggle_dragonfly_flight": "Toggle Dragonfly Flight Mode",
+    "packet.clockwork.client_message.is_flying": "%1$s is now flying",
+    "packet.clockwork.client_message.is_walking": "%1$s is now walking"
+}

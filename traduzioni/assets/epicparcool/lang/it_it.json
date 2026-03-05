@@ -1,0 +1,12 @@
+{
+    "eof": "fine",
+    "gui.epicparcool.config_screen.title": "Configurazioni",
+    "gui.epicparcool.config_screen.warn": "Queste configurazioni non si applicano ai server dedicati.",
+    "gui.epicparcool.tooltip.config_screen.stamina_source": "Determina quale mod utilizzerà l'energia per le azioni di parkour.",
+    "gui.epicparcool.widget.config_screen.stamina_source": "Fonte di energia",
+    "gui.epicparcool.widget.stamina_source.epicfight": "Battaglia epica",
+    "gui.epicparcool.widget.stamina_source.hunger": "Fame",
+    "gui.epicparcool.widget.stamina_source.none": "Nessuno",
+    "gui.epicparcool.widget.stamina_source.paraglider": "Paracadutista",
+    "gui.epicparcool.widget.stamina_source.parcool": "ParCool"
+}

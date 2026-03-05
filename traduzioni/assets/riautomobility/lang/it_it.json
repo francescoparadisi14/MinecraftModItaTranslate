@@ -1,0 +1,18 @@
+{
+    "container.riautomobility.hitbox": "Scatola",
+    "entity.riautomobility.driver_seat": "Sedile del conducente",
+    "entity.riautomobility.hitbox": "Automobile",
+    "frame.riautomobility.bejeweled_doublemotorcar": "Auto elettrica a doppia trazione",
+    "frame.riautomobility.bejeweled_quadmotorcar": "QuadMotorcar decorato con gemme",
+    "frame.riautomobility.copper_doublemotorcar": "Auto elettrica a doppio motore in rame",
+    "frame.riautomobility.copper_quadmotorcar": "Auto a quattro motori in rame",
+    "frame.riautomobility.golden_doublemotorcar": "Golden DoubleMotorcar",
+    "frame.riautomobility.golden_quadmotorcar": "Golden Quad",
+    "frame.riautomobility.lorry": "Autocar",
+    "frame.riautomobility.steel_doublemotorcar": "Auto a doppio motore in acciaio",
+    "frame.riautomobility.steel_quadmotorcar": "Auto a quattro motori in acciaio",
+    "frame.riautomobility.wooden_doublemotorcar": "Auto a doppio motore in legno",
+    "frame.riautomobility.wooden_quadmotorcar": "Auto a quattro motori in legno",
+    "key.categories.riautomobility": "RIAutomobilità",
+    "key.riautomobility.boarding_as_passenger": "Sedile per la tavola direttiva \/ Sedile per il pannello di controllo"
+}

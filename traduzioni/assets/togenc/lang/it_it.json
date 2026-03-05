@@ -1,0 +1,10 @@
+{
+    "key.category.togenc.title": "Attiva\/Disattiva incantesimi",
+    "key.togenc.open_menu": "Apri il menu",
+    "screen.togenc.blacklist.tooltip": "Questa magia è stata inclusa nella lista nera.",
+    "screen.togenc.curse.tooltip": "Le funzioni non possono essere disattivate.",
+    "screen.togenc.disabled.tooltip": "Premi per disattivare",
+    "screen.togenc.enabled.tooltip": "Premi per attivare",
+    "screen.togenc.enchantment.disabled": "Disabili",
+    "screen.togenc.title": "Attiva\/Disattiva Incantesimi"
+}

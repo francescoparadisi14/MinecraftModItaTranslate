@@ -1,0 +1,22 @@
+{
+    "block.dtsakuracompact.maple_branch": "Maple Tree",
+    "block.dtsakuracompact.maplegreen_sapling": "Green Maple Sapling",
+    "block.dtsakuracompact.mapleorange_sapling": "Orange Maple Sapling",
+    "block.dtsakuracompact.maplered_sapling": "Red Maple Sapling",
+    "block.dtsakuracompact.mapleyellow_sapling": "Yellow Maple Sapling",
+    "block.dtsakuracompact.sakura_branch": "Sakura Tree",
+    "block.dtsakuracompact.sakura_sapling": "Sakura Sapling",
+    "block.dtsakuracompact.sakurasmall_sapling": "Hill Sakura Sapling",
+    "dtsakuracompact": "Dynamic Trees for Sakura",
+    "item.dtsakuracompact.maplegreen_seed": "Green Maple Seed",
+    "item.dtsakuracompact.mapleorange_seed": "Orange Maple Seed",
+    "item.dtsakuracompact.maplered_seed": "Red Maple Seed",
+    "item.dtsakuracompact.mapleyellow_seed": "Yellow Maple Seed",
+    "item.dtsakuracompact.sakura_seed": "Pink Cherry",
+    "species.dtsakuracompact.maplegreen": "Green Maple",
+    "species.dtsakuracompact.mapleorange": "Orange Maple",
+    "species.dtsakuracompact.maplered": "Red Maple",
+    "species.dtsakuracompact.mapleyellow": "Yellow Maple",
+    "species.dtsakuracompact.sakura": "Sakura",
+    "species.dtsakuracompact.sakurasmall": "Hill Sakura"
+}

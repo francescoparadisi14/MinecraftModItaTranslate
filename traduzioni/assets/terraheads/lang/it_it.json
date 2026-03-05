@@ -1,0 +1,10 @@
+{
+    "_comment": "------------------------------------------------------------------------------------------------------------------!",
+    "biome.minecraft.snow": "Neve",
+    "block.terraheads.illager_head": "Capo dei saccheggiatori",
+    "block.terraheads.villager_head": "Capo del villaggio",
+    "block.terraheads.wandering_trader_head": "Capo del commerciante nomade",
+    "block.terraheads.witch_head": "Cappello di strega",
+    "block.terraheads.zombie_villager_head": "Testa di un abitante del villaggio (tipo zombie)",
+    "itemGroup.terraheads": "TerraHeads"
+}

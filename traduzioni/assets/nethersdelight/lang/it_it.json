@@ -17,6 +17,7 @@
     "block.nethersdelight.soul_compost": "Soul Compost",
     "block.nethersdelight.stuffed_hoglin": "Cane di selvaggio ripieno",
     "block.nethersdelight.warped_fungus_colony": "Colonia di funghi deformati",
+    "emi.category.nethersdelight.decomposition": "Composizione",
     "item.nethersdelight.diamond_machete": "Machete in lega di diamante",
     "item.nethersdelight.golden_machete": "Machete dorato",
     "item.nethersdelight.grilled_strider": "Strider alla griglia",
@@ -47,5 +48,10 @@
     "nethersdelight.jei.composition.accelerators": "Accelerato da attivatori adiacenti (vedi sotto)",
     "nethersdelight.jei.composition.fluid": "Accelerato dall'attività vulcanica circostante",
     "nethersdelight.jei.composition.light": "Accelerato dalla presenza di fiamme vicine (vedi sotto)",
-    "nethersdelight.jei.composition.nether": "Comporrò esclusivamente nel Nether."
+    "nethersdelight.jei.composition.nether": "Comporrò esclusivamente nel Nether.",
+    "nethersdelight.rei.decomposition": "Composizione",
+    "nethersdelight.rei.decomposition.accelerators": "Accelerato da attivatori adiacenti (vedi sotto)",
+    "nethersdelight.rei.decomposition.fluid": "Accelerato dall'attività vulcanica circostante",
+    "nethersdelight.rei.decomposition.light": "Accelerato dal calore delle fiamme circostanti",
+    "nethersdelight.tab.main": "Delizia di Nether"
 }

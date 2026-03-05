@@ -1,0 +1,17 @@
+{
+    "block.dttconstruct.bloodshroom_branch": "Funghi del sangue",
+    "block.dttconstruct.enderbark_branch": "Albero Enderbark",
+    "block.dttconstruct.enderbark_roots": "Albero Enderbark",
+    "block.dttconstruct.greenheart_branch": "Albero Greenheart",
+    "block.dttconstruct.skyroot_branch": "Albero Skyroot",
+    "block.tconstruct.ender_slime_sapling": "Piantina di Enderbark",
+    "block.tconstruct.potted_ender_slime_sapling": "Piantina di Enderbark in vaso",
+    "item.dttconstruct.bloodshroom_seed": "Cappello di Bloodshroom",
+    "item.dttconstruct.enderbark_seed": "Propaggini di Enderbark",
+    "item.dttconstruct.greenheart_seed": "Semi di Greenheart",
+    "item.dttconstruct.skyroot_seed": "Seme di Skyroot",
+    "species.dttconstruct.bloodshroom": "Champigno di sangue",
+    "species.dttconstruct.enderbark": "Enderbark",
+    "species.dttconstruct.greenheart": "Cuore verde",
+    "species.dttconstruct.skyroot": "Skyroot"
+}

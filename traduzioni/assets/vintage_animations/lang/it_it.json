@@ -1,0 +1,17 @@
+{
+    "text.autoconfig.vintage_animations.category.animations": "Animazioni",
+    "text.autoconfig.vintage_animations.category.miscellaneous": "Varie",
+    "text.autoconfig.vintage_animations.option.chopAnimation": "Animazione di Chop",
+    "text.autoconfig.vintage_animations.option.chopAnimation.@Tooltip": "Attiva l'animazione di falciatura quando si utilizza l'ascia.",
+    "text.autoconfig.vintage_animations.option.digAnimation": "Animazione digitale",
+    "text.autoconfig.vintage_animations.option.digAnimation.@Tooltip": "Attiva l'animazione di scavo quando si utilizza una pala.",
+    "text.autoconfig.vintage_animations.option.pickAnimation": "Animazione a scatti",
+    "text.autoconfig.vintage_animations.option.pickAnimation.@Tooltip": "Riproduci l'animazione di raccolta quando si utilizza un piccone.",
+    "text.autoconfig.vintage_animations.option.showArmsInFirstPerson": "Mostra armi in prima persona",
+    "text.autoconfig.vintage_animations.option.showArmsInFirstPerson.@Tooltip": "Rendere le braccia del giocatore durante le animazioni in modalità di prima persona.",
+    "text.autoconfig.vintage_animations.option.showOffHandInFirstPerson": "Mostra l'inventario a portata di mano in prima persona",
+    "text.autoconfig.vintage_animations.option.showOffHandInFirstPerson.@Tooltip": "Mostra la mano destra del giocatore durante le animazioni nella visuale in prima persona.",
+    "text.autoconfig.vintage_animations.option.tillAnimation": "Till Animation",
+    "text.autoconfig.vintage_animations.option.tillAnimation.@Tooltip": "Riproduci l'animazione del \"trapianto\" quando si utilizza una zappa.",
+    "text.autoconfig.vintage_animations.title": "Animazioni d'epoca"
+}
