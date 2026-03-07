@@ -1,0 +1,11 @@
+{
+    "block.thecopperierage.copper_campfire": "Fuoco di rame",
+    "block.thecopperierage.copper_fire": "Fuoco di rame",
+    "block.thecopperierage.copper_jack_o_lantern": "Cupro Jack o'Lantern",
+    "option.thecopperierage.copper_fire_enabled": "Fuoco di rame",
+    "option.thecopperierage.copper_fire_poisons": "Pozioni velenose a base di rame",
+    "option.thecopperierage.copper_particles": "Particelle di rame",
+    "tooltip.thecopperierage.copper_fire_enabled": "Se il fuoco si trasformerà in fuoco di rame quando si trova sopra un blocco di rame.",
+    "tooltip.thecopperierage.copper_fire_poisons": "Se Cupric Fire può avvelenare le creature.",
+    "tooltip.thecopperierage.copper_particles": "Se determinati oggetti creati da \"Cupric Fire\" (Fuoco Cuprico) e relativi elementi (come \"Cupric Campfires\" e \"Cupric Torches\") emetteranno particelle di colore verde.\nQuesto include \"Cupric Fire\", \"Cupric Campfires\" e \"Cupric Torches\".\nIl colore verde delle particelle simili al fumo svanirà."
+}

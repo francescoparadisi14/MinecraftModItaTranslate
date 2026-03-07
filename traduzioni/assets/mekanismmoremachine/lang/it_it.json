@@ -1,0 +1,8 @@
+{
+    "block.mekanismmoremachine.energy_catalyst_machine": "Duplicatore termodinamico",
+    "constants.mekanismmoremachine.mod_name": "Meccanismo: Macchina",
+    "container.mekanismmoremachine.energy_catalyst_machine": "Duplicatore termodinamico",
+    "description.mekanismmoremachine.energy_catalyst_machine": "Questa macchina è in grado di ricreare un oggetto a livello molecolare, sfruttando le leggi della conservazione dell'energia e della materia.",
+    "item.mekanismmoremachine.crystal_energy": "Cristallo energetico",
+    "item.mekanismmoremachine.shard_energy": "Frammento di energia"
+}

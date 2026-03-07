@@ -1,0 +1,11 @@
+{
+    "block.thecopperierage.copper_campfire": "Cupric Campfire",
+    "block.thecopperierage.copper_fire": "Cupric Fire",
+    "block.thecopperierage.copper_jack_o_lantern": "Cupric Jack o'Lantern",
+    "option.thecopperierage.copper_fire_enabled": "Cupric Fire",
+    "option.thecopperierage.copper_fire_poisons": "Cupric Fire Poisons Mobs",
+    "option.thecopperierage.copper_particles": "Cupric Particles",
+    "tooltip.thecopperierage.copper_fire_enabled": "Whether Fire will turn into Cupric Fire when above a Copper block.",
+    "tooltip.thecopperierage.copper_fire_poisons": "Whether Cupric Fire can poison mobs.",
+    "tooltip.thecopperierage.copper_particles": "Whether certain particles created by Cupric Fire-related blocks will emit green-tinted particles.\nThis includes Cupric Fire, Cupric Campfires, and Cupric Torches.\nThe green tint of smoke-like particles will fade away."
+}
