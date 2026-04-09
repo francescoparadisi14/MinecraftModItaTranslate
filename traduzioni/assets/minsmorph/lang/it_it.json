@@ -1,3 +1,7 @@
 {
-    "entity.minsmorph.fake_target": "Falso Target"
+    "entity.minsmorph.fake_target": "Falso Target",
+    "key.categories.minsmorph": "La trasformazione di Min",
+    "key.minsmorph.open_menu": "Menu principale",
+    "key.minsmorph.trigger": "Obiettivo selezionato",
+    "minsmorph.goalmenu.title": "Menu Obiettivi"
 }

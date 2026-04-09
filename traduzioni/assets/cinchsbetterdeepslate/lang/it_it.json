@@ -17,6 +17,7 @@
     "block.cinchsbetterdeepslate.mossy_deepslate_tiles": "Piastrelle di Deepslate muschiata",
     "block.cinchsbetterdeepslate.polished_deepslate_button": "Pulsante in pietra di Deepslate levigata",
     "block.cinchsbetterdeepslate.polished_deepslate_pressure_plate": "Piattaforma in Pietra Oscura Levigata",
+    "block.cinchsbetterdeepslate.sculk_inlaid_deepslate": "Scultura in basalto profondo",
     "item.cinchsbetterdeepslate.blackstone_axe": "Ascia Blackstone",
     "item.cinchsbetterdeepslate.blackstone_hoe": "Zappa da giardinaggio nera",
     "item.cinchsbetterdeepslate.blackstone_pickaxe": "Piccone Blackstone",
@@ -27,5 +28,6 @@
     "item.cinchsbetterdeepslate.deepslate_pickaxe": "Piccone per la pietra di basalto",
     "item.cinchsbetterdeepslate.deepslate_shovel": "Pala per la pietra basaltica",
     "item.cinchsbetterdeepslate.deepslate_sword": "Spada di Deepslate",
-    "itemGroup.cinchsbetterdeepslate.cinchsbetterdeepslate_tab": "Tabella \"Better Deepslate\" di Cinch"
+    "itemGroup.cinchsbetterdeepslate.cinchsbetterdeepslate_tab": "Tabella \"Better Deepslate\" di Cinch",
+    "itemgroup.cinchsbetterdeepslate": "Cinch's Better Deepslate"
 }

@@ -1,0 +1,18 @@
+{
+    "block.puddleflood.puddle": "Pozza d'acqua",
+    "item.puddleflood.puddle": "Pozza d'acqua",
+    "puddleflood.collectionSpeed": "Velocità di raccolta",
+    "puddleflood.doCauldronPuddles": "Pozze di fango",
+    "puddleflood.doDripPuddles": "Piccole pozze d'acqua",
+    "puddleflood.doFloods": "Inondazioni",
+    "puddleflood.doFlowingWaterPuddles": "Pozze d'acqua in movimento",
+    "puddleflood.doMeltingSnowPuddles": "Pozze di neve che si sciolgono",
+    "puddleflood.doPotionPuddles": "Pozze di pozioni",
+    "puddleflood.doRainPuddles": "Pozze d'acqua create dalla pioggia",
+    "puddleflood.evaporationSpeed": "Velocità di evaporazione",
+    "puddleflood.rainLevel": "Copertura in caso di pioggia",
+    "puddleflood.range": "Gamma di prodotti\/servizi",
+    "puddleflood.stormLevel": "Copertura durante le tempeste",
+    "puddleflood.title": "Pozze d'acqua e inondazioni",
+    "puddleflood.useShaderpackWater": "Utilizza il pacchetto shader per l'acqua."
+}

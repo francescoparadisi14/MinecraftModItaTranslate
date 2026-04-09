@@ -1,6 +1,6 @@
 {
     "effect.lne_archers.rangers_focus": "Ranger´s Focus",
-    "effect.lne_archers.rangers_focus.description": "Increases Ranged Damage, Haste, reduces movement speed and pull time.",
+    "effect.lne_archers.rangers_focus.description": "Increases Ranged Damage & Velocity, reduces movement speed and pull time.",
     "filled_map.loot_n_explore.archers_camps": "Hidden Ranger Camp Map",
     "filled_map.loot_n_explore.archers_outposts": "Hidden Ranger Outpost Map",
     "item.archers.archer.treasure_spell_scroll": "Treasure Archery Scroll",
@@ -33,7 +33,7 @@
     "spell.lne_archers.dragon_breath.name": "Ender Dragon's Breath",
     "spell.lne_archers.glacial_splitter.description": "Defeating Enemies spawns glacial projectiles that deal {damage} damage and freeze enemies for {effect_duration} seconds.",
     "spell.lne_archers.glacial_splitter.name": "Glacial Splitter",
-    "spell.lne_archers.rangers_focus.description": "Slows you drastically for {stash_duration} seconds, increases your ranged damage & velocity & decreasing pull time, but creates a area impact on arrow impact.",
+    "spell.lne_archers.rangers_focus.description": "Slows you drastically for {stash_duration} seconds, increases your ranged damage & velocity & decreases pull time, but creates a magic area impact on arrow impact.",
     "spell.lne_archers.rangers_focus.name": "Ranger´s Focus",
     "spell.lne_archers.reef_arrows.description": "On arrow hit: {trigger_chance} chance to inflict bleeding for {effect_duration} seconds and dealing additional {damage} damage.",
     "spell.lne_archers.reef_arrows.name": "Coral Reef Arrows"

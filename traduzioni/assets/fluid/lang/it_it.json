@@ -12,6 +12,8 @@
     "block.fluid.fluid_interface.tooltip.summary": "Un blocco di connessione per interagire con i contenitori fluidi adiacenti.",
     "block.fluid.gutter_outlet": "Negozio di articoli per la manutenzione e la pulizia di grondaie",
     "block.fluid.pipette": "Pipetta meccanica",
+    "block.fluid.redstone_triple_valve": "Valvola a tre vie Redstone",
+    "block.fluid.redstone_valve": "Valvola Redstone",
     "block.fluid.smart_fluid_interface": "Interfaccia intelligente per fluidi",
     "block.fluid.smart_fluid_interface.tooltip": "Interfaccia fluida intelligente",
     "block.fluid.smart_fluid_interface.tooltip.behaviour1": "Permette solo l'inserimento o l'estrazione di fluidi specifici.",

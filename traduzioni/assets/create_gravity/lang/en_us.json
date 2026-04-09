@@ -1,0 +1,7 @@
+{
+    "advancements.place_banner_in_the_end.descr": "Place a Banner in the End",
+    "advancements.place_banner_in_the_end.title": "A Giant Leap For Mankind",
+    "death.attack.out_of_oxygen": "%s ran out of air",
+    "message.action_bar.low_oxygen_alert": "You're running out of air",
+    "message.action_bar.remaining_oxygen": "Oxygen : %s %s"
+}

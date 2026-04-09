@@ -32,6 +32,8 @@
     "audioimprovements.config.option.soundSpeedOther.tooltip": "Delays all other sounds depending on how far you are from their source",
     "audioimprovements.config.option.soundSpeedThunder": "Speed Of Thunder Sounds",
     "audioimprovements.config.option.soundSpeedThunder.tooltip": "Delays thunder sounds depending on how far you are from their source",
+    "audioimprovements.config.option.stereoSpatializationFix": "Stereo Spatialization Fix",
+    "audioimprovements.config.option.stereoSpatializationFix.tooltip": "Fixes stereo sounds to be correctly positioned in the world by converting them to mono.\nOnly affects resource pack and mod sounds that play in-world but are incorrectly using stereo format (spatialization only supports mono).",
     "audioimprovements.gui.percentageFormat": "%s%%",
     "audioimprovements.gui.subScreenButtonFormat": "%s...",
     "audioimprovements.screen.config.subScreenButton.dopplerEffect": "Doppler Effect",

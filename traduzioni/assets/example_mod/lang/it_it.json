@@ -15,6 +15,8 @@
     "immersivearmorhud.configuration.example": "esempio",
     "miningspeedtooltips.configuration.client": "cliente",
     "miningspeedtooltips.configuration.example": "esempio",
+    "missingmodschecker.configuration.client": "cliente",
+    "missingmodschecker.configuration.example": "esempio",
     "opacpvp.configuration.client": "cliente",
     "opacpvp.configuration.example": "esempio",
     "packanalytics.configuration.client": "cliente",

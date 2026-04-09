@@ -45,6 +45,8 @@
     "mechanical_botany.ponder.void_compost_use.text_1": "Chorus Fruit can be produced with the help of Void Liquid Compost",
     "mechanical_botany.text.cannot_process.empty": "Cannot process when input is empty",
     "mechanical_botany.text.config.disabled_saplings": "Sapling Processing Disabled Via Config",
+    "mechanical_botany.text.config.input_slot": "(Input)",
+    "mechanical_botany.text.config.output_slot": "(Output)",
     "mechanical_botany.text.insolating.input_consumed": "Is Consumed",
     "mechanical_botany.text.processing_ticks": "%ss",
     "recipe.mechanical_botany.composting": "Mechanical Composting",

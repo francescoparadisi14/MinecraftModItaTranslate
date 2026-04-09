@@ -1,0 +1,12 @@
+{
+    "block.trashed.energy_trash_can": "Energy Trash Can",
+    "block.trashed.fluid_trash_can": "Fluid Trash Can",
+    "block.trashed.trash_can": "Trash Can",
+    "death.attack.trashed": "%1$s was thrown into the trash",
+    "trashed.configuration.itemTrashQuantity": "Item Trash Quantity",
+    "trashed.configuration.itemTrashQuantity.tooltip": "The quantity of items the Trash Can destroys every cycle [Default: 1]",
+    "trashed.configuration.trashing": "Trashing",
+    "trashed.configuration.trashing.tooltip": "Trashing Settings",
+    "trashed.container.trashcan": "Trash Can",
+    "trashed.trash_tooltip": "Jump in to trash yourself (Trash Can needs to be two blocks tall)"
+}

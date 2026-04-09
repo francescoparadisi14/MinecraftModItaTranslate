@@ -30,5 +30,9 @@
     "tooltip.utilityvest.vest.hotbar": "Definisci i filtri tramite %s + la pressione di un tasto numerico. Carica i filtri tramite %s + la pressione di un tasto numerico.",
     "tooltip.utilityvest.vest.inventory": "Premi il tasto %s per aprire il menu dell'inventario.",
     "tooltip.utilityvest.vest.radial": "Tenere premuto il tasto %s + un tasto numerico per aprire il menu di selezione rapida.",
-    "tooltip.utilityvest.vest.restock": "Premi il tasto %s per inserire gli articoli corrispondenti ai tuoi filtri nell'inventario dei giubbotti."
+    "tooltip.utilityvest.vest.restock": "Premi il tasto %s per inserire gli articoli corrispondenti ai tuoi filtri nell'inventario dei giubbotti.",
+    "utilityvest.configuration.invert_radial_scroll": "Scorrimento radiale inverso",
+    "utilityvest.configuration.radial_stack_count": "Conteggio a strati radiali",
+    "utilityvest.configuration.radial_tooltip": "Tooltip circolare",
+    "utilityvest.configuration.remember_radial_row": "Ricorda Radial Row"
 }

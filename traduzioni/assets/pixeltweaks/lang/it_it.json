@@ -211,6 +211,7 @@
     "ftbquests.task.pixelmon.submit_pokemon.invert": "Specifiche inverse",
     "ftbquests.task.pixelmon.submit_pokemon.invert.tooltip": "Se si desidera invertire la specifica per i Pokémon. In tal caso, l'operazione corrisponderà a tutti i Pokémon, ad eccezione di quelli che corrispondono alla specifica.",
     "ftbquests.task.pixelmon.submit_pokemon.lore": "Questo preleverà i Pokémon dal tuo account %s.",
+    "ftbquests.task.pixelmon.submit_pokemon.loreNoConsume": "Clicca per inviare!\n\nQuesto non rimuoverà i tuoi Pokémon.",
     "ftbquests.task.pixelmon.submit_pokemon.party": "Rimuovi Pokémon da",
     "ftbquests.task.pixelmon.submit_pokemon.party.tooltip": "Da dove dovrebbero essere prelevati i Pokémon?",
     "ftbquests.task.pixelmon.submit_pokemon.pokemon": "Specifiche di Pokémon",

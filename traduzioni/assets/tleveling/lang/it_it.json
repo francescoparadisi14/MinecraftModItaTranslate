@@ -1,5 +1,7 @@
 {
+    "key.category.tleveling.tleveling": "Livellamento con strumenti di Tinker's Tool",
     "key.tleveling.alt": "Alto",
+    "key.tleveling.show_exp": "Mostra dettagli",
     "level.tleveling.accustomed": "Abituato",
     "level.tleveling.adept": "Esperto",
     "level.tleveling.awesome": "Fantastico",
@@ -12,6 +14,7 @@
     "level.tleveling.legendary": "Leggendario",
     "level.tleveling.like_new": "Come nuovo",
     "level.tleveling.master": "Maestro",
+    "level.tleveling.transcendent": "Trascendente",
     "level.tleveling.unknown": "Sconosciuto",
     "message.tleveling.accustomed": "Hai acquisito una grande abilità nel gestire i tuoi %s %s.",
     "message.tleveling.adept": "Ora, grazie al %s, sono un esperto!",
@@ -60,8 +63,10 @@
     "message.tleveling.sweeping_edge": "...si sentono i tonfi mentre l'oggetto colpisce... (+1 colpo efficace)",
     "message.tleveling.swiftstrike": "Ti senti come se il tuo strumento diventasse molto più leggero e veloce... (+1 attacco rapido)",
     "message.tleveling.thorns": "La tua armatura è diventata molto spessa e ricoperta di spine... (+1 spina)",
+    "message.tleveling.transcendent": "La tua creazione ha superato anche l'immaginazione dello sviluppatore!",
     "message.tleveling.worldbound": "Ti sembra che il tuo strumento diventi stranamente solido... (+1 mondo)",
     "sounds.tleveling.level_up_chime": "Il livello del personaggio aumenta.",
+    "tooltip.tleveling.default_alt": "Alto",
     "tooltip.tleveling.hold_alt": "Mantenere %s per esperienza",
     "tooltip.tleveling.tool_exp": "Strumento: %s %s",
     "tooltip.tleveling.tool_level": "Livello strumento: %s %s"

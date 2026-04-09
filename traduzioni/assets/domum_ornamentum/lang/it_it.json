@@ -154,6 +154,8 @@
     "domum_ornamentum.shingle.name.format.block.domum_ornamentum.shingle": "%s Tegole",
     "domum_ornamentum.shingle.name.format.block.domum_ornamentum.shingle_flat": "Tegole piane",
     "domum_ornamentum.shingle.name.format.block.domum_ornamentum.shingle_flat_lower": "%s Tegole piane per tetti",
+    "domum_ornamentum.shingle.name.format.block.domum_ornamentum.shingle_steep": "%s Tegole inclinate",
+    "domum_ornamentum.shingle.name.format.block.domum_ornamentum.shingle_steep_lower": "%s Tegole ripide",
     "domum_ornamentum.shingle.support.format": "Sostenuto da: %s",
     "domum_ornamentum.shingle_slab.cover.format": "Coperto da: %s",
     "domum_ornamentum.shingle_slab.main.format": "Materiale principale: %s",

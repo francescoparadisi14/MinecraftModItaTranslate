@@ -63,7 +63,7 @@
     "settings.chunksfadein.fog_override.tooltip_pre_1_21_6": "Controls whether to override fog color by the sky color below it. This fixes the issue of seeing terrain silhouettes against the sky. If you see sun\/moon through terrain or you don't like how it looks, you can try tweaking this.",
     "settings.chunksfadein.iris_warning": "This option can cause issues when used with shaders.",
     "settings.chunksfadein.mod_enabled": "Mod enabled",
-    "settings.chunksfadein.mod_enabled.tooltip": "If disabled, fade, animation and world curvature are also disabled.\nYou can also assing a keybind to toggle this without using this menu.",
+    "settings.chunksfadein.mod_enabled.tooltip": "If disabled, fade, animation and world curvature are also disabled.\nYou can also assign a keybind to toggle this without using this menu.",
     "settings.chunksfadein.mod_tab_enabled": "Mod tab in settings",
     "settings.chunksfadein.mod_tab_enabled.tooltip": "Controls whether the Chunks Fade In tab is added to Sodium settings.",
     "settings.chunksfadein.mod_tab_tooltip": "This is forcefully enabled, because ModMenu is not installed.",

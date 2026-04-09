@@ -8,6 +8,7 @@
     "block.createlowheated.basic_burner.tooltip.condition2": "Richiede un bisturi e una pietra focaia.",
     "block.createlowheated.basic_burner.tooltip.condition3": "Bruciatore potenziato",
     "block.createlowheated.basic_burner.tooltip.summary": "Fornisce calore per le ricette di _Basin Recipes_ e per la _Steam Engine_.",
+    "config.jade.plugin_createlowheated.basic_burner_info": "Mostra il tempo rimanente di cottura",
     "create.addon.basicburner.burner_contents": "Contenuto standard della bruciatura:",
     "create.recipe.heat_requirement.lowheated": "A bassa temperatura",
     "itemGroup.createlowheated.base": "Creare un ambiente a bassa temperatura"

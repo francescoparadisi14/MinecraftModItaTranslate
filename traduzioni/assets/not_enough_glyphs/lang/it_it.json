@@ -133,6 +133,7 @@
     "ars_nouveau.perk_desc.thread_summon_focus": "Funzione per il \"Spellbinder\". Permette di utilizzare combinazioni di incantesimi come se l'oggetto di evocazione fosse equipaggiato.",
     "ars_nouveau.perk_desc.thread_water_focus": "Funzione per il \"Spellbinder\". Permette di utilizzare combinazioni di incantesimi come se fosse equipaggiato con il focus sull'acqua.",
     "ars_nouveau.perk_desc.thread_wild_magic": "Oggetto: \"Incantatore\". Aggiunge casualmente potenziamenti positivi agli effetti dei tuoi incantesimi quando è equipaggiato.",
+    "ars_nouveau.spell_binder.empty": "Aggiungi i documenti magici e i tomi dei lanci nel raccoglitore aprendo il suo inventario.",
     "ars_nouveau.spell_binder.open": "Premi il tasto %s per aprire l'inventario",
     "ars_scalaes.glyph_desc.glyph_resize": "Ridimensiona l'entità di destinazione per un breve periodo o la riporta alle dimensioni originali se non è stata aumentata. Utilizza \"Amplify\" per aumentare le dimensioni e \"Dampen\" per ridurle.",
     "ars_scalaes.glyph_name.glyph_resize": "Ridimensiona",

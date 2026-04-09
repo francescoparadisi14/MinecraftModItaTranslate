@@ -1,4 +1,6 @@
 {
+    "key.asb.toggleM": "Toggle M Hotkey",
+    "key.asb.toggleN": "Toggle N Hotkey",
     "tooltip.translation.spacecatasb.chanceofapplying": "chance of applying",
     "tooltip.translation.spacecatasb.conditions.and": "and",
     "tooltip.translation.spacecatasb.conditions.description.armorrange": "armor is between",

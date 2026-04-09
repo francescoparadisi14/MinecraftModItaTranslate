@@ -1,0 +1,19 @@
+{
+    "block.mekanismaaa.glacio_fluorite_ore": "Fluorite di origine glaciale",
+    "block.mekanismaaa.glacio_lead_ore": "Glacio Lead Ore",
+    "block.mekanismaaa.glacio_osmium_ore": "Ossido di osmio proveniente da giacimenti di ghiaccio",
+    "block.mekanismaaa.glacio_tin_ore": "Glacio Tin Ore",
+    "block.mekanismaaa.glacio_uranium_ore": "Uranio proveniente da giacimenti di ghiaccio",
+    "block.mekanismaaa.mars_fluorite_ore": "Fosfato di magnesio di Marte",
+    "block.mekanismaaa.mars_tin_ore": "Ossido di rame del Marz",
+    "block.mekanismaaa.mars_uranium_ore": "Uranio proveniente da Marte",
+    "block.mekanismaaa.mercury_lead_ore": "Mercurio, piombo, minerali",
+    "block.mekanismaaa.mercury_osmium_ore": "Miniera di mercurio e osmio",
+    "block.mekanismaaa.mercury_uranium_ore": "Mercurio, uranio, minerale",
+    "block.mekanismaaa.moon_osmium_ore": "Miniera di ossido di osmio",
+    "block.mekanismaaa.moon_tin_ore": "Miniera di minerale di stagno",
+    "block.mekanismaaa.venus_fluorite_ore": "Fiore di fluorite di Venere",
+    "block.mekanismaaa.venus_lead_ore": "Venere, piombo, minerale",
+    "block.mekanismaaa.venus_uranium_ore": "Venere, Uranio",
+    "itemGroup.mekanismaaa.ores": "Meccanismo: Ad Astra Ores"
+}

@@ -1,0 +1,10 @@
+{
+    "cobblemon_emi_compat.gui.cooking_pot.no_seasoning": "Nessun condimento disponibile",
+    "cobblemon_emi_compat.midnightconfig.category.general": "Generale",
+    "cobblemon_emi_compat.midnightconfig.enable_cobblemon_berry_mutation": "La mod dovrebbe aggiungere le ricette di Mutazione di Bacche a EMI?",
+    "cobblemon_emi_compat.midnightconfig.enable_cobblemon_brewing_stand": "La mod dovrebbe aggiungere le ricette dell'Alambicco a EMI?",
+    "cobblemon_emi_compat.midnightconfig.enable_cobblemon_cooking_pot": "La mod dovrebbe aggiungere le ricette della Pentola da fuoco da campo a EMI?",
+    "cobblemon_emi_compat.midnightconfig.merge_cobblemon_brewing_stand": "La mod dovrebbe unire tutte le ricette delle pozioni di EMI in una singola categoria?",
+    "cobblemon_emi_compat.midnightconfig.title": "Configurazione Cobblemon EMI Compat",
+    "emi.category.cobblemon.berry_recipe": "Mutazione di Bacche"
+}

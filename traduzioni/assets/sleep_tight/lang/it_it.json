@@ -54,6 +54,7 @@
     "message.sleep_tight.command.get_home_bed_nights": "Ore dormite nel letto di casa: %s",
     "message.sleep_tight.command.get_insomnia": "Raffreddamento del sonno: %s",
     "message.sleep_tight.command.get_nights": "Notte consecutive dormite: %s",
+    "message.sleep_tight.command.next_night": "Saltato al giorno successivo, il %",
     "message.sleep_tight.command.nightmare_chance": "Probabilità attuale di un incubo: %s",
     "message.sleep_tight.command.set_home_bed_nights": "Indica l'orario in cui si dorme a casa.",
     "message.sleep_tight.command.set_home_bed_position": "Posizione del letto in casa",

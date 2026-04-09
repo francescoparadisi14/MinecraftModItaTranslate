@@ -10,6 +10,9 @@
     "dimension.jamd.end": "Fine della miniera",
     "dimension.jamd.mining": "Estrazione mineraria",
     "dimension.jamd.nether": "Estrazione mineraria",
+    "item.jamd.end_portal": "Fine della sezione mineraria",
+    "item.jamd.nether_portal": "Portale di Nether Mining",
+    "item.jamd.portal_block": "Portale per l'estrazione mineraria",
     "jamd.argument.world_type.invalid": "Tipo di mondo non valido: '%s'",
     "jamd.invalid.pos": "Impossibile trovare una posizione valida per il portale.",
     "jamd.invalid.world": "Impossibile trovare il mondo \"%s\""

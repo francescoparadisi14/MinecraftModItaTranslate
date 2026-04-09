@@ -1,0 +1,7 @@
+{
+    "eca.argument.entity.selector.allEntities": "ECA: Tutte le entità",
+    "eca.argument.entity.selector.allPlayers": "Tutti i giocatori ECA",
+    "eca.argument.entity.selector.nearestPlayer": "Giocatore più vicino (in termini di distanza)",
+    "eca.argument.entity.selector.randomPlayer": "Giocatore casuale di ECA",
+    "eca.argument.entity.selector.self": "Entità attuale (ECA)"
+}

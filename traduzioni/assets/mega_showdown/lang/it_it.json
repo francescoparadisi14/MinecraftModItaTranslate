@@ -115,6 +115,7 @@
     "cobblemon.battle.mostlyIneffective_spread": "Era in gran parte inefficace contro il %1$!!",
     "cobblemon.ui.stash.meltan": "Melta",
     "cobblemon.ui.stats.dynamax_level": "Livello Dynamax",
+    "config.jade.plugin_mega_showdown.jade": "MSD Jade",
     "creativeTab.mega_showdown.compi_tab": "Articoli concorrenziali",
     "creativeTab.mega_showdown.dynamax_tab": "Dynamax",
     "creativeTab.mega_showdown.form_tab": "Modifica del modulo",
@@ -124,6 +125,14 @@
     "creativeTab.mega_showdown.tera_tab": "Terastallizzazione",
     "creativeTab.mega_showdown.z_tab": "Z Power",
     "effect.mega_showdown.dynamax": "Dynamax",
+    "gui.battle.mega_showdown.ability": "Capacità",
+    "gui.battle.mega_showdown.ability.temp": "%1$s (%2$s)",
+    "gui.battle.mega_showdown.field.empty": "---",
+    "gui.battle.mega_showdown.field.unknown": "???",
+    "gui.battle.mega_showdown.form": "Form",
+    "gui.battle.mega_showdown.item": "Articolo",
+    "gui.battle.mega_showdown.move.pp": "%1$s \/ %2$s",
+    "gui.battle.mega_showdown.moves": "Movimenti; azioni; mosse",
     "item.mega_showdown.abomasite": "Abomasite",
     "item.mega_showdown.absolite": "Absolite",
     "item.mega_showdown.adamant_crystal": "Cristallo di adamantio",
@@ -636,5 +645,7 @@
     "tooltip.mega_showdown.zap_plate.tooltip": "§7 Un oggetto che aumenta il potere dei movimenti di tipo Elettro. Quando viene utilizzato da Arceus, cambia il tipo in Elettro.",
     "tooltip.mega_showdown.zygarde_cell.tooltip": "§7 Un componente di Zygarde. Si dice che sia uno dei tanti nuclei cellulari presenti in tutto il mondo.",
     "tooltip.mega_showdown.zygarde_core.tooltip": "§7 Il cervello di Zygarde. È in grado di pensare e agire autonomamente, guidando l'assemblaggio delle forme di Zygarde.",
-    "tooltip.mega_showdown.zygarde_cube.tooltip": "§7 Un cubo che raccoglie le cellule e i nuclei di Zygarde. Pulsante debolmente di energia proveniente dalle profondità sotterranee."
+    "tooltip.mega_showdown.zygarde_cube.tooltip": "§7 Un cubo che raccoglie le cellule e i nuclei di Zygarde. Pulsante debolmente di energia proveniente dalle profondità sotterranee.",
+    "ui.mega_showdown.idle": "Inattivo",
+    "ui.mega_showdown.ready": "Pronto"
 }

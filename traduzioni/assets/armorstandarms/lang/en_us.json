@@ -1,0 +1,12 @@
+{
+    "armorstandarms.configuration.items": "Item List",
+    "armorstandarms.configuration.logDirtBlock": "Log Dirt Block",
+    "armorstandarms.configuration.magicNumber": "Magic Number",
+    "armorstandarms.configuration.magicNumberIntroduction": "Magic Number Text",
+    "armorstandarms.configuration.section.armorstandarms.common.toml": "ArmorStandArms Configs",
+    "armorstandarms.configuration.section.armorstandarms.common.toml.title": "ArmorStandArms Configs",
+    "armorstandarms.configuration.title": "ArmorStandArms Configs",
+    "block.armorstandarms.example_block": "Example Block",
+    "item.armorstandarms.example_item": "Example Item",
+    "itemGroup.armorstandarms": "Example Mod Tab"
+}

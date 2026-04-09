@@ -1,0 +1,18 @@
+{
+    "block.puddleflood.puddle": "Puddle",
+    "item.puddleflood.puddle": "Puddle",
+    "puddleflood.collectionSpeed": "Collection speed",
+    "puddleflood.doCauldronPuddles": "Cauldron puddles",
+    "puddleflood.doDripPuddles": "Drip puddles",
+    "puddleflood.doFloods": "Floods",
+    "puddleflood.doFlowingWaterPuddles": "Flowing water puddles",
+    "puddleflood.doMeltingSnowPuddles": "Melting snow puddles",
+    "puddleflood.doPotionPuddles": "Potion puddles",
+    "puddleflood.doRainPuddles": "Rain puddles",
+    "puddleflood.evaporationSpeed": "Evaporation speed",
+    "puddleflood.rainLevel": "Coverage during rain",
+    "puddleflood.range": "Collection range",
+    "puddleflood.stormLevel": "Coverage during storms",
+    "puddleflood.title": "Puddles & Floods",
+    "puddleflood.useShaderpackWater": "Use shaderpack water"
+}

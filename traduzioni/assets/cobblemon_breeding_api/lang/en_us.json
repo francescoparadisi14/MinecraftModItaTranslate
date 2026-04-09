@@ -1,0 +1,10 @@
+{
+    "block.cobblemon_breeding_api.egg_basket": "Breeding Basket",
+    "block.cobblemon_breeding_api.egg_basket.no_egg": "There is no egg in the basket yet.",
+    "block.cobblemon_breeding_api.egg_basket.no_space": "You have no space to retrieve that egg!",
+    "block.cobblemon_breeding_api.egg_basket.tooltip": "A basket that promotes breeding. Eggs appear inside occasionally.",
+    "item.cobblemon_breeding_api.pokemon_egg": "Pokemon Egg",
+    "item.cobblemon_breeding_api.pokemon_egg.almost_ready": "It appears to move occasionally. It may be close to hatching.",
+    "item.cobblemon_breeding_api.pokemon_egg.long_while": "What Pokémon will hatch from this Egg? It doesn't seem close to hatching.",
+    "item.cobblemon_breeding_api.pokemon_egg.near_ready": "Sounds can be heard coming from inside! This Egg will hatch soon!"
+}

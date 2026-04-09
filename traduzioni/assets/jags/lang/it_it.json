@@ -17,5 +17,21 @@
     "block.jags.snow_fake_grass_block": "Erba sintetica (effetto neve)",
     "block.jags.sparse_jungle_fake_grass_block": "Erba sintetica (stile giungla fitta)",
     "block.jags.swamp_fake_grass_block": "Erba sintetica (tipo \"palude\")",
-    "item.jags.grass_seed": "Semi di erba"
+    "item.jags.badlands_fake_grass_block": "Erba sintetica (Badlands)",
+    "item.jags.birch_fake_grass_block": "Erba sintetica (tipo betulla)",
+    "item.jags.cheery_fake_grass_block": "Erba sintetica (versione allegra)",
+    "item.jags.dark_forest_fake_grass_block": "Erba sintetica (Dark_forest)",
+    "item.jags.desert_fake_grass_block": "Erba sintetica (stile deserto)",
+    "item.jags.fake_grass_block": "Erba artificiale a blocchi",
+    "item.jags.grass_seed": "Semi di erba",
+    "item.jags.jungle_fake_grass_block": "Erba sintetica (stile giungla)",
+    "item.jags.mangrove_fake_grass_block": "Erba sintetica (tipo mangrovia)",
+    "item.jags.meadow_fake_grass_block": "Erba sintetica (tipo erba)",
+    "item.jags.mushroom_fake_grass_block": "Erba sintetica a forma di blocco (tipo funghi)",
+    "item.jags.ocean_fake_grass_block": "Erba sintetica (modello Ocean)",
+    "item.jags.pale_garden_fake_grass_block": "Erba sintetica (Pale_garden)",
+    "item.jags.plains_fake_grass_block": "Erba sintetica (tipo erba incolta)",
+    "item.jags.snow_fake_grass_block": "Erba sintetica (effetto neve)",
+    "item.jags.sparse_jungle_fake_grass_block": "Erba sintetica (stile giungla fittizia)",
+    "item.jags.swamp_fake_grass_block": "Erba sintetica (tipo \"palude\")"
 }

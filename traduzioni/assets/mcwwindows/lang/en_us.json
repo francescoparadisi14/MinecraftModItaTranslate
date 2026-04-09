@@ -333,6 +333,7 @@
     "item.mcwwindows.yellow_mosaic_glass": "Yellow Mosaic Glass",
     "item.mcwwindows.yellow_mosaic_glass_pane": "Yellow Mosaic Glass Pane",
     "itemGroup.mcwwindows": "Macaw's Windows",
+    "itemGroup.windows": "Macaw's Windows",
     "itemGroup.windows2": "Macaw's Windows Additions",
     "mcwwindows.crafting.desc": "Crafting ingredient",
     "mcwwindows.hammer.desc": "Right click on a window, to change their shape",

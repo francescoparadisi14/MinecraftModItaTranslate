@@ -36,6 +36,8 @@
     "naturally_trimmed.config.trimTrades.trimChance": "Ridurre le probabilità",
     "naturally_trimmed.config.trimTrades.trimChance.description": "Possibilità di effettuare un servizio di taglio e styling.",
     "naturally_trimmed.config.utils": "Strumenti",
+    "naturally_trimmed.config.utils.openFile": "Apri il file di configurazione",
+    "naturally_trimmed.config.utils.openFile.description": "Apre il file di configurazione all'interno di un editor di testo standard.",
     "naturally_trimmed.config.utils.reloadConfig": "Ricarica configurazione",
     "naturally_trimmed.config.utils.reloadConfig.description": "Ricaricare la configurazione dal file di configurazione.\nUtile per configurare il sistema di \"tagli predefiniti\", poiché è possibile configurarlo esclusivamente tramite il file di configurazione.",
     "naturally_trimmed.config.utils.run": "Corre",
@@ -43,5 +45,7 @@
     "naturally_trimmed.config.utils.validateBlacklists": "Verificare e validare le liste di contatti",
     "naturally_trimmed.config.utils.validateBlacklists.description": "Verifica sia le liste nere che registra le informazioni rilevanti nelle chat.\nFunziona solo quando si è all'interno di un mondo.",
     "naturally_trimmed.config.utils.validatePredefinedTrims": "Validare le impostazioni predefinite",
-    "naturally_trimmed.config.utils.validatePredefinedTrims.description": "Verifica tutti i tagli predefiniti e registra ogni taglio non valido nella chat.\nFunziona solo all'interno di un mondo."
+    "naturally_trimmed.config.utils.validatePredefinedTrims.description": "Verifica tutti i tagli predefiniti e registra ogni taglio non valido nella chat.\nFunziona solo all'interno di un mondo.",
+    "naturally_trimmed.config.vanillaOnly": "Solo vaniglia",
+    "naturally_trimmed.config.vanillaOnly.description": "Utilizzare solo materiali e pattern originali (senza modifiche).\n\nL'obiettivo è quello di risolvere facilmente i problemi causati da altri mod, che portano alla mancanza di texture nei bordi.\n\nPer soluzioni più avanzate, senza dover bloccare tutti i materiali diversi da quelli originali, consultare i file `material_blacklist` e `pattern_blacklist`."
 }

@@ -10,6 +10,9 @@
     "dimension.jamd.end": "End Mining",
     "dimension.jamd.mining": "Mining",
     "dimension.jamd.nether": "Nether Mining",
+    "item.jamd.end_portal": "End Mining Portal",
+    "item.jamd.nether_portal": "Nether Mining Portal",
+    "item.jamd.portal_block": "Mining Portal",
     "jamd.argument.world_type.invalid": "Invalid World Type '%s'",
     "jamd.invalid.pos": "Unable to find valid portal location",
     "jamd.invalid.world": "Unable to find world '%s'"

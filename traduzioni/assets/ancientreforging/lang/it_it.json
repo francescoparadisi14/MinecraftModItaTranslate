@@ -211,6 +211,8 @@
     "affix.ancientreforging:shield\/retreating": "Ritirarsi; indietreggiare",
     "affix.ancientreforging:shield\/retreating.desc": "Quando sarete in combattimento ravvicinato, salterete all'indietro.",
     "affix.ancientreforging:shield\/retreating.suffix": "del giullare",
+    "affix.ancientreforging:weapon\/attribute\/shredding": "Macinatura",
+    "affix.ancientreforging:weapon\/attribute\/shredding.suffix": "di Maelstrom",
     "block.ancientreforging.ancient_reforging_table": "Tavolo di rifornimento antico",
     "block.ancientreforging.ancient_reforging_table.desc": "Utilizza i sigilli di rinascita e i materiali rari per riforgiare gli oggetti.",
     "item.ancientreforging.ancient_material": "Manifestazione dell'infinito",

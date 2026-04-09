@@ -62,6 +62,7 @@
     "msg.firesenderexpansion.cannot_teleport": "You cannot teleport while anchored",
     "msg.firesenderexpansion.dimensional_adaptation": "This could be deciphered if you had an Endchiridion",
     "msg.firesenderexpansion.fail_step": "Scintillating Step cannot teleport across dimensions",
+    "msg.firesenderexpansion.root_void_fail": "There is nothing for the roots to grow from",
     "msg.firesenderexpansion.too_close": "Must be cast at long range",
     "spell.firesenderexpansion.aspect_of_the_shulker": "Aspect of the Shulker",
     "spell.firesenderexpansion.aspect_of_the_shulker.guide": "Manifest a homing shulker bullet when you hit an entity with a magic attack.",

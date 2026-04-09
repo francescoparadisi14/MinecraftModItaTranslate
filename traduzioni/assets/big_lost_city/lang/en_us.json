@@ -1,0 +1,12 @@
+{
+    "big_lost_city.configuration.items": "Item List",
+    "big_lost_city.configuration.logDirtBlock": "Log Dirt Block",
+    "big_lost_city.configuration.magicNumber": "Magic Number",
+    "big_lost_city.configuration.magicNumberIntroduction": "Magic Number Text",
+    "big_lost_city.configuration.section.big_lost_city.common.toml": "Big Lost City Configs",
+    "big_lost_city.configuration.section.big_lost_city.common.toml.title": "Big Lost City Configs",
+    "big_lost_city.configuration.title": "Big Lost City Configs",
+    "block.big_lost_city.example_block": "Example Block",
+    "item.big_lost_city.example_item": "Example Item",
+    "itemGroup.big_lost_city": "Example Mod Tab"
+}

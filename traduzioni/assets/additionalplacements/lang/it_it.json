@@ -5,6 +5,7 @@
     "commands.ap_stairs_state_debug.wrong_block": "%s non è un blocco valido; deve essere un blocco a gradini con stati aggiuntivi.",
     "key.additionalplacements.placement_toggle": "Logica per la posizione dei pulsanti\/interruttori",
     "key.categories.additionalplacements": "Ulteriori opportunità di stage",
+    "msg.additionalplacements.configurationerrors": "Sono state rilevate ulteriori errori di configurazione durante il tentativo di connessione al server.",
     "msg.additionalplacements.disconnected": "Conflitto nella configurazione delle posizioni aggiuntive",
     "msg.additionalplacements.errors.client": "Rifiutato da parte del cliente:",
     "msg.additionalplacements.errors.server": "Rifiutato dal server:",

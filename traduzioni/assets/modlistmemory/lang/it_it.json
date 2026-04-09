@@ -1,4 +1,5 @@
 {
+    "message.modlistmemory.configScreenDisabled": "La schermata di configurazione non è disponibile in questa versione.",
     "message.modlistmemory.installCloth": "Installa l'API di configurazione dei tessuti per accedere alle opzioni dei mod.",
     "message.modlistmemory.viewModrinth": "Visualizza su Modrinth",
     "modlistmemory.name": "Memoria per la lista di moduli",

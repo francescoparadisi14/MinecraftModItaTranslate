@@ -1,4 +1,5 @@
 {
+    "text.autoconfig.bedrock_hotbar.option.chatOffset": "Offset chat",
     "text.autoconfig.bedrock_hotbar.option.offset": "Hotbar offset",
     "text.autoconfig.bedrock_hotbar.option.renderTexture": "Render bottom of texture",
     "text.autoconfig.bedrock_hotbar.option.renderTexture.@Tooltip": "Whether to show the bottom of the hotbar selection texture",

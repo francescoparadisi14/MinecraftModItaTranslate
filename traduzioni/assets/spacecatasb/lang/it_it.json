@@ -1,4 +1,6 @@
 {
+    "key.asb.toggleM": "Funzione della combinazione di tasti \"M\"",
+    "key.asb.toggleN": "Attiva\/Disattiva tramite scorciatoia da tastiera",
     "tooltip.translation.spacecatasb.chanceofapplying": "possibilità di candidarsi",
     "tooltip.translation.spacecatasb.conditions.and": "e",
     "tooltip.translation.spacecatasb.conditions.description.armorrange": "l'armatura si trova tra",

@@ -1,11 +1,14 @@
 {
     "cable_facades.creative_tab": "Cable Facades",
+    "cable_facades.directional_facade.empty": "Directional Facade - Empty",
+    "cable_facades.directional_facade.name_prefix": "Directional Facade -",
     "cable_facades.error.block_disabled": "This block cannot be used as a cover (disabled by config)",
     "cable_facades.error.cannot_facade_itself": "Cannot facade block with itself",
     "cable_facades.facade.empty": "Facade - Empty",
     "cable_facades.facade.name_prefix": "Facade -",
     "cable_facades.jei.any_block": "Any Block",
     "cable_facades.jei.facade_any_block": "Facade - Any Block",
+    "cable_facades.message.directional_facade_update": "Cable Facades 2.0 adds directional facades. This message only shows once, check them out.",
     "cable_facades.message.shaders_detected": "Shaders Detected:",
     "cable_facades.message.shaders_warning": "⚠",
     "cable_facades.message.transparency_enabled": "Facade transparency is now",
@@ -14,5 +17,6 @@
     "cable_facades.tooltip.disabled": "Disabled",
     "cable_facades.tooltip.enabled": "Enabled",
     "cable_facades.tooltip.toggle_transparency": "Right click to toggle\/disable facade transparency",
+    "item.cable_facades.directional_facade": "Directional Facade",
     "item.cable_facades.facade_wrench": "Facade Wrench"
 }

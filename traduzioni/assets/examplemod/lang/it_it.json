@@ -1,0 +1,12 @@
+{
+    "block.examplemod.example_block": "Esempio di blocco",
+    "examplemod.configuration.items": "Elenco degli articoli",
+    "examplemod.configuration.logDirtBlock": "Blocco di argilla per pavimentazione",
+    "examplemod.configuration.magicNumber": "Numero magico",
+    "examplemod.configuration.magicNumberIntroduction": "Numero Magico",
+    "examplemod.configuration.section.examplemod.common.toml": "Esempi di configurazioni Mod",
+    "examplemod.configuration.section.examplemod.common.toml.title": "Esempi di configurazioni Mod",
+    "examplemod.configuration.title": "Esempi di configurazioni Mod",
+    "item.examplemod.example_item": "Esempio di articolo",
+    "itemGroup.examplemod": "Esempio di tabella Mod"
+}

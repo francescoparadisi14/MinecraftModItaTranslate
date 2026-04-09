@@ -14,6 +14,8 @@
     "catalogue.gui.internal_libraries": "Mostra le librerie interne",
     "catalogue.gui.library_count": "Biblioteche di %s",
     "catalogue.gui.licenses": "Licenze: %s",
+    "catalogue.gui.missing_branding": "Mancanza di identificazione del marchio",
+    "catalogue.gui.missing_branding.desc": "Se sei l'autore di questo mod, clicca qui per una guida.",
     "catalogue.gui.mod_count": "Modifiche per %s",
     "catalogue.gui.mod_list": "Modifiche",
     "catalogue.gui.no_mods": "Nessuna modifica.",

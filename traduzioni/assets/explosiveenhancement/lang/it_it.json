@@ -36,6 +36,8 @@
     "explosiveenhancement.extras.logs": "Log di debug",
     "explosiveenhancement.extras.logs.tooltip": "Messaggi di log aggiuntivi per facilitare il debug, se necessario.",
     "explosiveenhancement.extras.logs.warningtooltip": "§Avviso§: Potrebbe generare spam!",
+    "explosiveenhancement.extras.strictparticles": "Rilevamento rigoroso delle particelle",
+    "explosiveenhancement.extras.strictparticles.tooltip": "Se l'opzione \"Aumento esplosivo\" è abilitata, le particelle esplosive personalizzate verranno visualizzate solo se le particelle esplosive originali sono quelle predefinite di Minecraft.",
     "explosiveenhancement.fireball.enabled": "Particella di tipo \"Fireball\"",
     "explosiveenhancement.fireball.enabled.tooltip": "Un grande cerchio arancione, verticale",
     "explosiveenhancement.knockbackcalc.enabled": "Tentativo di calcolo della potenza basato sul effetto di spinta.",

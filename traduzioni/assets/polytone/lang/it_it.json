@@ -1,4 +1,6 @@
 {
+    "config.polytone.custom_particles_async": "Particelle personalizzate asincrone",
+    "config.polytone.custom_particles_async.tooltip": "Permette di eseguire la logica per le particelle personalizzate su un thread separato. È un approccio molto rudimentale e sperimentale. Potrebbe migliorare le prestazioni, oppure no.",
     "config.polytone.legacy_parsing": "Supporto per formati legacy",
     "config.polytone.legacy_parsing.tooltip": "Cerca di tradurre i formati provenienti da altri mod in modo che possano essere interpretati come file Polytone. Utile per definire colori personalizzati e mappe di colori.",
     "config.polytone.lenient_loading": "Caricamento flessibile del pacchetto",

@@ -27,12 +27,16 @@
     "ftbteambases.message.creation_started": "Costruite la vostra base, preparatevi al teletrasporto!",
     "ftbteambases.message.missing_definition": "Definizione della base sconosciuta: %s",
     "ftbteambases.message.missing_dimension": "Impossibile trovare la dimensione %s!",
+    "ftbteambases.message.missing_team": "Sembra che la squadra %s non sia presente. Utilizzare il comando `\/ftbteambases archive cleanup` per archiviare i dati.",
     "ftbteambases.message.no_archived_bases": "Attualmente non esistono database archiviati.",
     "ftbteambases.message.no_bases": "Attualmente non esistono basi operative per le squadre.",
     "ftbteambases.message.no_dimensions": "Nessuna squadra!",
+    "ftbteambases.message.not_nether_team_base": "I punti di accesso per la rete \"nether\" non sono abilitati in questa istanza.",
     "ftbteambases.message.player_in_party": "L'account utente con nome '%s' è stato precedentemente utilizzato. È necessario che venga disattivato prima.",
     "ftbteambases.message.purge_not_found": "Non sono stati trovati processi di pulizia in sospeso per %s!",
     "ftbteambases.message.restored": "La base del team '%s' è stata ripristinata dal file di backup.",
     "ftbteambases.message.restored_yours": "La vostra vecchia base è stata ripristinata dal file di backup! Ora mi teletrasporto lì...",
-    "ftbteambases.message.show_base_header": "Dettagli del team per il progetto %s"
+    "ftbteambases.message.show_base_header": "Dettagli del team per il progetto %s",
+    "ftbteambases.message.stale_bases": "Archiviate le versioni obsolete di %s",
+    "ftbteambases.message.team_was_disbanded": "Il vostro team è stato sciolto da quando l'ultima volta avete giocato. Vi riporto nella lobby..."
 }

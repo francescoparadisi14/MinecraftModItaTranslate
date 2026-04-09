@@ -12,6 +12,7 @@
     "vulkanmod.options.builderThreads.auto": "Auto",
     "vulkanmod.options.buttons.apply": "Applicare",
     "vulkanmod.options.buttons.kofi": "Sostienimi",
+    "vulkanmod.options.buttons.update_available": "Disponibile l'aggiornamento!",
     "vulkanmod.options.deviceSelector": "Selettore di dispositivi",
     "vulkanmod.options.deviceSelector.auto": "Auto",
     "vulkanmod.options.deviceSelector.tooltip": "Dispositivo attuale",

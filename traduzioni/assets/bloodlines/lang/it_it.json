@@ -209,6 +209,8 @@
     "bloodlines.configuration.nobleFireDamageMultiplier": "Moltiplicatori per danni da incendio",
     "bloodlines.configuration.nobleFlankCooldown": "Raffreddamento laterale",
     "bloodlines.configuration.nobleFlankMaxDistance": "Distanza massima laterale",
+    "bloodlines.configuration.nobleFlankSightRequirement": "Requisito di visione laterale",
+    "bloodlines.configuration.nobleLordSlayerMinLordRank": "Livello minimo richiesto per sbloccare contenuti esclusivi.",
     "bloodlines.configuration.nobleLordslayerBaronHealth": "Requisiti di salute per il Signore Slayer",
     "bloodlines.configuration.nobleLordslayerMinLordRank": "Livello minimo richiesto per sbloccare contenuti esclusivi.",
     "bloodlines.configuration.nobleMaxHealthIncrease": "Aumento della salute di Max",

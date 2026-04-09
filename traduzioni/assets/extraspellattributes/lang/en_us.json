@@ -82,5 +82,11 @@
     "item.extraspellattributes.sand_signet": "Sand Signet",
     "item.extraspellattributes.turtlegirdle": "Turtle Girdle",
     "item.extraspellattributes.undyingsoul": "Banner of Undying",
-    "itemGroup.extraspellattributes.general": "Extra RPG Attributes Trinkets"
+    "itemGroup.extraspellattributes.general": "Extra RPG Attributes Trinkets",
+    "spell.extraspellattributes.rend.description": "You have an unscaleable 15%% chance to make enemies Vulnerable on hit, making them take 20%% more damage for 8 seconds.",
+    "spell.extraspellattributes.rend.name": "Rend",
+    "spell.extraspellattributes.try_gouge.description": "With melee attacks, gouge enemies that are unaware, distracted, or Vulnerable, dealing an additional 100%% physical damage.",
+    "spell.extraspellattributes.try_gouge.name": "Gouge",
+    "spell.extraspellattributes.try_gouge_ranged.description": "With ranged attacks, gouge enemies that are unaware, distracted, or Vulnerable, dealing an additional 100%% physical damage.",
+    "spell.extraspellattributes.try_gouge_ranged.name": "Rupture"
 }

@@ -1,0 +1,13 @@
+{
+    "biome.create_dimension.mining": "Steamworks Realm",
+    "create_dimension.ponder.tag.portal": "Portal",
+    "create_dimension.ponder.tag.portal.description": "A dimensional gateway powered by Create’s engineering trains and players can travel through it just like a Nether Portal.",
+    "create_dimension.ponder.train_portal.header": "Creating and Lighting a Steamwork realm Portal",
+    "create_dimension.ponder.train_portal.text_1": "Build a 2x3 frame using Train Casings",
+    "create_dimension.ponder.train_portal.text_2": "ignite it with the Steamworks Realm Igniter to open the portal.",
+    "create_dimension.ponder.train_portal.text_3": "§7Trains can pass through the portal just like a Nether Portal.\nSimply place tracks directly in front of the portal to connect your rails across dimensions!",
+    "item.create_dimension.steamworks_realm": "Steamworks Realm Portal Igniter",
+    "item_group.create_dimension.create_dimension_tab": "Create: Dimension",
+    "tooltip.create_dimension.not_craftable_steamworks_realm_igniter.tooltip": "This item is not Craftable",
+    "tooltip.create_dimension.steamworks_realm_igniter.tooltip": "Obtain the Igniter from an Andesite Worker Villager to ignite the portal.\n§7The Igniter is available at Level 1.\n§6To assign the Andesite Worker profession, place a Create Basin in front of an unemployed villager."
+}

@@ -143,6 +143,7 @@
     "item.mcwlights.yellow_lamp": "Lampada gialla",
     "item.mcwlights.yellow_paper_lamp": "Lampada di carta gialla",
     "itemGroup.mcwlights": "Luci e lampade di Macaw",
+    "itemGroup.mcwlights.lightsgroup": "Illuminazione per pappagalli",
     "mcwlights.lights.dyeableinfo": "Fare clic con il tasto destro su qualsiasi colore per modificarne il colore.",
     "mcwlights.lights.stackableinfo": "È possibile costruirlo più in alto, posizionando un'altra unità sopra questa.",
     "mcwlights.lights.tikitorchinfo": "È possibile costruirlo più in alto, posizionando un'altra unità sopra questa.",

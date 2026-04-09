@@ -287,6 +287,8 @@
     "itemGroup.sophisticatedcore": "Nucleo sofisticato",
     "key.category.sophisticatedcore.main": "Modifiche sofisticate",
     "key.sophisticatedcore.sort": "Organizzazione\/Zaino",
+    "key.sophisticatedcore.transfer_to_inventory": "Trasferimento al magazzino",
+    "key.sophisticatedcore.transfer_to_storage": "Trasferimento in magazzino",
     "upgrade_group.sophisticatedcore.cooking_upgrades": "Aggiornamenti per caldaie",
     "upgrade_group.sophisticatedcore.jukebox_upgrades": "Aggiornamenti per jukebox",
     "upgrade_group.sophisticatedcore.stack_upgrades": "Aggiornamenti"

@@ -26,6 +26,7 @@
     "message.familiarslib.consumable.success": "Enhanced %s to %s!",
     "message.familiarslib.consumable.tier_too_high": "Cannot use Tier %d consumable! Maximum usable tier is %d.",
     "message.familiarslib.familiar_data_error": "Error accessing familiar data",
+    "message.familiarslib.familiar_died_in_house": "If you see this message report that your familiar died in a familiar house.",
     "message.familiarslib.familiar_not_found": "Familiar not found",
     "message.familiarslib.familiar_not_in_storage": "Familiar not found in storage",
     "message.familiarslib.familiar_retrieved": "Familiar '%s' has been retrieved",

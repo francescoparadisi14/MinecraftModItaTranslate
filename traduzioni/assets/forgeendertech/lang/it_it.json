@@ -1,0 +1,12 @@
+{
+    "forgeendertech.configuration.Painting": "Pittura",
+    "forgeendertech.configuration.SmokeContainers": "Contenitori per fumo",
+    "forgeendertech.configuration.debug": "correggere",
+    "forgeendertech.configuration.maxBlocksInMultiblock": "massimoBlocchiInMultibloc",
+    "forgeendertech.configuration.maxVentPipeLength": "lunghezza massima del tubo di ventilazione",
+    "forgeendertech.configuration.pumpedChimneyAirflow": "Flusso d'aria nel camino",
+    "forgeendertech.configuration.requiresDye": "richiede colorante",
+    "forgeendertech.configuration.requiresWaterBucket": "richiede secchio d'acqua",
+    "forgeendertech.configuration.suctionHoppers": "Cesti aspiranti",
+    "forgeendertech.configuration.ventReachDistance": "Raggio di azione"
+}

@@ -1,0 +1,22 @@
+{
+    "spell.rpg_series.cleave.description": "Esegue un attacco rotatorio, infliggendo {danno} di danno agli avversari nelle vicinanze.",
+    "spell.rpg_series.cleave.name": "Attaccarsi; aderire; rimanere legato",
+    "spell.rpg_series.fan_of_knives.description": "Lancia diversi dei tuoi attacchi in forma di cono, infliggendo {danno} di danno e rimbalzando contro il terreno fino a {rimbalzi} volte.",
+    "spell.rpg_series.fan_of_knives.name": "Appassionato di coltelli",
+    "spell.rpg_series.flurry.description": "Mantieni la posizione per sferrare una serie rapida di colpi, guadagnando al contempo slancio.",
+    "spell.rpg_series.flurry.name": "Tempesta di neve",
+    "spell.rpg_series.ground_slam.description": "Salto in aria e impatto con il terreno, infliggendo {danno} danni ai nemici nelle vicinanze.",
+    "spell.rpg_series.ground_slam.name": "Gol diretto",
+    "spell.rpg_series.impale.description": "Lancia l'arma in avanti, infliggendo {danno} di danno e una forte spinta.",
+    "spell.rpg_series.impale.name": "Spiccare",
+    "spell.rpg_series.smash.description": "Esegue un colpo potente che infligge danni significativi e spinge indietro il bersaglio, disabilitando la sua capacità di utilizzare scudi o oggetti.",
+    "spell.rpg_series.smash.name": "Distruggere",
+    "spell.rpg_series.swift_strikes.description": "Lancia una serie di attacchi rapidi.",
+    "spell.rpg_series.swift_strikes.name": "Attacchi rapidi",
+    "spell.rpg_series.swipe.description": "Avanzate con il vostro arma, colpendo tutti i nemici lungo il vostro percorso.",
+    "spell.rpg_series.swipe.name": "Scorrere",
+    "spell.rpg_series.thrust.description": "Avanzate rapidamente, mirando con il vostro armamento a tutti i nemici che incontrate lungo il vostro cammino.",
+    "spell.rpg_series.thrust.name": "Spinta; forza motrice",
+    "spell.rpg_series.whirlwind.description": "Mantieni la posizione per ruotare, infliggendo danni ai nemici nelle vicinanze a una velocità di {danni} al secondo.",
+    "spell.rpg_series.whirlwind.name": "Tempesta; vortice; rapido e intenso"
+}

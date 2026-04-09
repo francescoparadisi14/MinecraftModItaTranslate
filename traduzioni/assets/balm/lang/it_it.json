@@ -5,6 +5,7 @@
     "balm.configuration.exampleCategory.innerField": "Esempio: Campo interno",
     "balm.configuration.exampleEnum": "Esempio di enumerazione",
     "balm.configuration.exampleEnumList": "Esempio di elenco di tipi enumerati",
+    "balm.configuration.exampleIdentifierSet": "Esempio di posizione delle risorse",
     "balm.configuration.exampleInt": "Esempio: Int",
     "balm.configuration.exampleIntList": "Esempio di lista di esempio",
     "balm.configuration.exampleMultilineString": "Esempio di stringa multilinea",

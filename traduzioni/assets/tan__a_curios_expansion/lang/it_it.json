@@ -1,0 +1,23 @@
+{
+    "advancements.cooling_insulation_advancement.descr": "Acquista il tuo primo pannello isolante per il raffreddamento.",
+    "advancements.cooling_insulation_advancement.title": "C'è qualcosa di... interessante. \/ C'è qualcosa di... particolare. \/ C'è qualcosa di... piacevole.",
+    "advancements.heated_insulation_advancement.descr": "Acquista il tuo primo pannello isolante riscaldato.",
+    "advancements.heated_insulation_advancement.title": "C'è una sensazione... di calore.",
+    "advancements.regulation_circuit_advancement.descr": "Ottenete il vostro primo circuito di regolazione in Redstone verde smeraldo.",
+    "advancements.regulation_circuit_advancement.title": "Circuito di regolazione a componenti in rosso e verde (Emerald Redstone)",
+    "advancements.thermally_regulated_advancement.descr": "Ottenete un \"circuito di regolazione termica di base\", i primi passi verso un controllo termico efficace!",
+    "advancements.thermally_regulated_advancement.title": "Ingegneria di circuiti in redstone con controllo della temperatura",
+    "advancements.universal_insulation_advancement.descr": "Acquista il tuo primo pannello isolante universale.",
+    "advancements.universal_insulation_advancement.title": "Completamente regolamentato",
+    "block.tan__a_curios_expansion.firoze": "Firoze Liquido",
+    "curios.identifier.insulation": "Isolamento",
+    "fluid.tan__a_curios_expansion.firoze": "Firoze Liquido",
+    "item.tan__a_curios_expansion.cooling_thermal_insulation": "Isolamento termico per il corpo",
+    "item.tan__a_curios_expansion.firoze_bucket": "Firoze Bucket",
+    "item.tan__a_curios_expansion.heated_thermal_insulation": "Isolamento termico per il corpo",
+    "item.tan__a_curios_expansion.regulation_circuit": "Circuito di autoregolazione a base di redstone e cristalli di smeraldo.",
+    "item.tan__a_curios_expansion.regulation_circuit_shard": "Circuito di regolazione di base per Redstone",
+    "item.tan__a_curios_expansion.regulation_crystal": "Regolamento Crystal",
+    "item.tan__a_curios_expansion.universal_thermal_insulation": "Isolamento termico universale per il corpo",
+    "item_group.tan__a_curios_expansion.tough_as_nailsace": "Tough As Nails – Un'espansione di Curios"
+}

@@ -1,0 +1,14 @@
+{
+    "modmenu.descriptionTranslation.smoothskies": "Fixes several skybox related graphical issues",
+    "smoothskies.clear-skies.description": "Removes banding on the horizon, making the sky one uniform color.\n\nThis is taken from grondag's Clear Skies mod.",
+    "smoothskies.clear-skies.name": "Clear Skies",
+    "smoothskies.fix-skybox-clipping.description": "Fixes skybox clipping on low render distances by increasing far plane clipping.",
+    "smoothskies.fix-skybox-clipping.name": "Fix Skybox Clipping",
+    "smoothskies.lower-sky-void-darkness.description": "Correctly lowers the height when the sky turns black to the world's lowest height.\n\nThis prevents the sky from suddenly turning black at a high Y value, and should now smoothly fade to black instead.\n\nMost noticeable in Skyblock or void type worlds.",
+    "smoothskies.lower-sky-void-darkness.name": "Lower Sky Void Darkness",
+    "smoothskies.remove-sky-in-void.description": "Removes the sky when in the void. This fixes MC-249655.",
+    "smoothskies.remove-sky-in-void.name": "Remove Sky in the Void",
+    "smoothskies.set-fog-view-distance.description": "Set a custom view distance for the skybox fog.\n\nHigher numbers mean bluer skies.",
+    "smoothskies.set-fog-view-distance.name": "Set Fog View Distance",
+    "smoothskies.smoothskies": "Smooth Skies"
+}

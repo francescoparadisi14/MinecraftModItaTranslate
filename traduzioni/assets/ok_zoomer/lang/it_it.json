@@ -33,6 +33,8 @@
     "config.ok_zoomer.controls.extra_key_binds.tooltip": "Aggiunge i tasti di controllo dello zoom, oltre al tasto di zoom esistente. Per applicare le modifiche, sarà necessario riavviare il gioco.",
     "config.ok_zoomer.controls.reduce_sensitivity": "Ridurre la sensibilità",
     "config.ok_zoomer.controls.reduce_sensitivity.tooltip": "Riduce la sensibilità del mouse in proporzione all'innalzamento dello zoom.",
+    "config.ok_zoomer.controls.sensitivity_scale": "Scala di sensibilità",
+    "config.ok_zoomer.controls.sensitivity_scale.tooltip": "La scala di sensibilità utilizzata durante lo zoom.",
     "config.ok_zoomer.controls.spyglass_mode": "Modalità Spia",
     "config.ok_zoomer.controls.spyglass_mode.both": "Entrambi",
     "config.ok_zoomer.controls.spyglass_mode.both.tooltip": "La funzione di zoom avrà la funzione di sostituire completamente lo zoom del binocolo, richiedendo l'utilizzo di questa funzione al posto di quella tradizionale.",

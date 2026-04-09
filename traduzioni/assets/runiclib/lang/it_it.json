@@ -69,6 +69,7 @@
     "runiclib.commands.saturation.fail": "Non era possibile modificare il livello di saturazione.",
     "runiclib.commands.saturation.success": "Applicato un livello di saturazione del %s a %s",
     "runiclib.commands.setname.no_target": "Nessun entità di riferimento trovata.",
+    "runiclib.commands.setname.player": "Non è possibile modificare il nome visualizzato per un giocatore.",
     "runiclib.commands.setname.success": "Imposta il nome visualizzato per l'impostazione %s su %s",
     "runiclib.generic.blast_resistance": "Resistenza all'esplosione",
     "runiclib.generic.burning_retaliation_chance": "Probabilità di ottenere una \"Vendetta Incendiaria\"",

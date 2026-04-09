@@ -4,5 +4,8 @@
     "item.integrated_stronghold.music_disc_forlorn": "Music Disc",
     "item.integrated_stronghold.music_disc_forlorn.desc": "Cama - Forlorn",
     "item.integrated_stronghold.music_disc_sight": "Music Disc",
-    "item.integrated_stronghold.music_disc_sight.desc": "Cama - sight"
+    "item.integrated_stronghold.music_disc_sight.desc": "Cama - sight",
+    "itemGroup.integrated_stronghold": "Integrated Stronghold",
+    "jukebox_song.integrated_stronghold.forlorn": "Cama - Forlorn",
+    "jukebox_song.integrated_stronghold.sight": "Cama - sight"
 }

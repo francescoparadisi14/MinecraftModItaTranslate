@@ -1,4 +1,11 @@
 {
+    "libtooltips.configuration.default_color": "Descrizione Colore",
+    "libtooltips.configuration.default_color.tooltip": "Quale colore utilizzare come sfondo per il tooltip? Il valore è il colore espresso come numero intero (utilizzare un selettore di colori online).",
+    "libtooltips.configuration.line_after": "Riga vuota",
+    "libtooltips.configuration.line_after.tooltip": "Aggiunge una riga vuota DOPO la descrizione.",
+    "libtooltips.configuration.line_before": "Riga vuota prima",
+    "libtooltips.configuration.line_before.tooltip": "Aggiunge una riga vuota PRIMA della descrizione, DOPO il \"[shift]\"",
+    "libtooltips.configuration.title": "Configurazione di LibTooltip",
     "tooltip.always.namespace.path.0": "Questo tooltip sarà sempre visualizzato, anche se non viene premuto il tasto \"Shift\"!",
     "tooltip.libtooltips.generic.empty": "",
     "tooltip.libtooltips.generic.shift_down": "⏫ §l§6[Cambia]§r ⏫",

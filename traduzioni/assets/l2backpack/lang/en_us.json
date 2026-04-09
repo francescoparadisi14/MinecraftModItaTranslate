@@ -113,8 +113,11 @@
     "item.l2backpack.ender_backpack": "Ender Backpack",
     "item.l2backpack.ender_drawer": "Ender Drawer",
     "item.l2backpack.ender_pocket": "Ender Pocket",
+    "item.l2backpack.gem_bag": "Gem Bag",
     "item.l2backpack.hand_swap": "Hand Swap",
     "item.l2backpack.pickup_tweaker_tool": "Pickup Tweaker Tool",
+    "item.l2backpack.potion_bag": "Potion Bag",
+    "item.l2backpack.scroll_bag": "Scroll Bag",
     "item.l2backpack.suit_swap": "Suit Swap",
     "item.l2backpack.tool_swap": "Tool Swap",
     "itemGroup.l2core.backpack": "L2 Backpack",
@@ -200,6 +203,7 @@
     "l2backpack.tooltip.patchouli": "Read Patchouli Book for details",
     "l2backpack.tooltip.place": "Shift + right click to place it as a block",
     "l2backpack.tooltip.shift": "Press [SHIFT] to show usage",
+    "l2backpack.tooltip.upgrade": "Right click backpack \/ drawer to upgrade them",
     "patchouli.l2backpack.landing": "Welcome to L2Backpack, a recursive storage mod",
     "patchouli.l2backpack.title": "L2Backpack Guide"
 }

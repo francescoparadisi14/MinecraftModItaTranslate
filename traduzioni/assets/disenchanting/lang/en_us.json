@@ -1,6 +1,7 @@
 {
     "_comment": "UI",
     "block.disenchanting.disenchanter": "Disenchanter",
+    "block.disenchanting.disenchanter.in_use": "This Disenchanter is already in use.",
     "block.disenchanting.disenchanter.tooltip": "Disenchant your items and put them onto books.",
     "gui.disenchanting.disenchanter.cost": "Cost",
     "itemGroup.Disenchanting": "Disenchanting",

@@ -1,0 +1,7 @@
+{
+    "xphealth.configuration.difficulty": "Difficulty",
+    "xphealth.configuration.difficulty.tooltip": "Difficulty of the mod. 1 is easy, 2 is normal, 3 is hard.",
+    "xphealth.configuration.section.xphealth.common.toml": "XP Health Configs",
+    "xphealth.configuration.section.xphealth.common.toml.title": "XP Health Configs",
+    "xphealth.configuration.title": "XP Health Configs"
+}

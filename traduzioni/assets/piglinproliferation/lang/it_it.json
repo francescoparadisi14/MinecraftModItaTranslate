@@ -34,6 +34,7 @@
     "entity.piglinproliferation.piglin_alchemist": "Alchimista Piglin",
     "entity.piglinproliferation.piglin_traveler": "Viaggiatore Piglin",
     "item.piglinproliferation.buckler": "Buckler",
+    "item.piglinproliferation.buckler.desc.cannot_jump": "Impossibile saltare",
     "item.piglinproliferation.buckler.desc.charge_ability": "%SS Costo di avanzamento",
     "item.piglinproliferation.buckler.desc.critical_aura": "Acquisisci l'aura critica (il prossimo colpo sarà un colpo critico)",
     "item.piglinproliferation.buckler.desc.critical_aura_expires": "Critical Aura viene disattivata se non si colpisce il bersaglio nel colpo successivo.",

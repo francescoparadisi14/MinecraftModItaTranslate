@@ -1,0 +1,13 @@
+{
+    "biome.create_dimension.mining": "Regno di Steamworks",
+    "create_dimension.ponder.tag.portal": "Portale",
+    "create_dimension.ponder.tag.portal.description": "Un portale dimensionale alimentato dall'ingegneria di Create, attraverso il quale i giocatori possono viaggiare, proprio come un portale del Nether.",
+    "create_dimension.ponder.train_portal.header": "Creare e illuminare un portale per un regno di meccanica a vapore",
+    "create_dimension.ponder.train_portal.text_1": "Costruisci una struttura di 2x3 metri utilizzando i telai in legno Train Casings.",
+    "create_dimension.ponder.train_portal.text_2": "accendilo con il \"Realm Igniter\" di Steamworks per aprire il portale.",
+    "create_dimension.ponder.train_portal.text_3": "§7 I treni possono attraversare il portale proprio come un portale del Nether.\nBasta posizionare semplicemente i binari direttamente di fronte al portale per collegare i tuoi binari attraverso le dimensioni!",
+    "item.create_dimension.steamworks_realm": "Portale per il regno di Steamworks",
+    "item_group.create_dimension.create_dimension_tab": "Crea: Dimensione",
+    "tooltip.create_dimension.not_craftable_steamworks_realm_igniter.tooltip": "Questo oggetto non può essere creato.",
+    "tooltip.create_dimension.steamworks_realm_igniter.tooltip": "Ottieni l'Accenditore da un abitante del villaggio di Andesite per attivare il portale.\n§7 L'Accenditore è disponibile al livello 1.\n§6 Per assegnare la professione di \"Lavoratore di Andesite\", posiziona una \"Vasca di Creazione\" di fronte a un abitante disoccupato."
+}

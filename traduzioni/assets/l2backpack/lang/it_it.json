@@ -113,8 +113,11 @@
     "item.l2backpack.ender_backpack": "Zaino di Ender",
     "item.l2backpack.ender_drawer": "Cassetta Ender",
     "item.l2backpack.ender_pocket": "Ender Pocket",
+    "item.l2backpack.gem_bag": "Borsa da ginnastica",
     "item.l2backpack.hand_swap": "Scambio di mani",
     "item.l2backpack.pickup_tweaker_tool": "Strumento per la raccolta di dati",
+    "item.l2backpack.potion_bag": "Sacchetto per pozioni",
+    "item.l2backpack.scroll_bag": "Borsa a rotelle",
     "item.l2backpack.suit_swap": "Cambio di abbigliamento",
     "item.l2backpack.tool_swap": "Scambio di strumenti",
     "itemGroup.l2core.backpack": "Zaino L2",
@@ -200,6 +203,7 @@
     "l2backpack.tooltip.patchouli": "Per maggiori dettagli, consultare il libro \"Patchouli\".",
     "l2backpack.tooltip.place": "Premi il tasto \"Shift\" e fai clic con il pulsante destro del mouse per posizionarlo come un blocco.",
     "l2backpack.tooltip.shift": "Premi il tasto [SHIFT] per visualizzare l'utilizzo.",
+    "l2backpack.tooltip.upgrade": "Fare clic con il tasto destro sulla zippo o sul cassetto per migliorarli.",
     "patchouli.l2backpack.landing": "Benvenuti in L2Backpack, un mod di archiviazione ricorsivo.",
     "patchouli.l2backpack.title": "Guida L2Backpack"
 }

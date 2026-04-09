@@ -36,6 +36,7 @@
     "container.mekanismadvancedgenerators.singular_solar_panel": "Pannello solare singolo",
     "container.mekanismadvancedgenerators.spectral_solar_panel": "Pannello solare a spettro completo",
     "container.mekanismadvancedgenerators.ultimate_solar_panel": "Pannello solare ibrido di ultima generazione",
+    "description.mekanismadvancedgenerators.solar_generator": "Un pannello solare che produce energia dalla luce solare.",
     "gui.mekanismadvancedgenerators.output_rate.short": "Uscita: %1$s\/t",
     "gui.mekanismadvancedgenerators.power": "Energia: %1$s",
     "gui.mekanismadvancedgenerators.producing.amount": "Produzione: %1$s\/t",
@@ -55,5 +56,6 @@
     "item.mekanismadvancedgenerators.singular_solar_element": "Elemento solare singolo",
     "item.mekanismadvancedgenerators.spectral_energy_tablet": "Compresse di energia spettrale",
     "item.mekanismadvancedgenerators.spectral_solar_element": "Elemento solare spettrale",
-    "itemGroup.mekanismadvancedgenerators.mekanismadvancedgenerators_tab": "Meccanismi avanzati per generatori"
+    "itemGroup.mekanismadvancedgenerators.mekanismadvancedgenerators_tab": "Meccanismi avanzati per generatori",
+    "sound_event.mekanismadvancedgenerators.tile.generator.solar": "Il pannello solare emette un ronzio."
 }

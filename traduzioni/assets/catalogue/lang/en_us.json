@@ -14,6 +14,8 @@
     "catalogue.gui.internal_libraries": "Show Internal Libraries",
     "catalogue.gui.library_count": "%s Libraries",
     "catalogue.gui.licenses": "License(s): %s",
+    "catalogue.gui.missing_branding": "Missing Branding",
+    "catalogue.gui.missing_branding.desc": "Are you the author of this mod? Click here for a guide.",
     "catalogue.gui.mod_count": "%s Mods",
     "catalogue.gui.mod_list": "Mods",
     "catalogue.gui.no_mods": "No mods...",

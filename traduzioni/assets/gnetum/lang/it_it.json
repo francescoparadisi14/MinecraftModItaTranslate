@@ -7,6 +7,8 @@
     "gnetum.config.element.hand.tooltip": "Impostare su \"ON\" per abilitare la memorizzazione manuale. Attualmente, questa opzione non è abilitata nella modalità \"AUTO\".",
     "gnetum.config.enabled": "Attivato",
     "gnetum.config.enabled.tooltip": "Determina se abilitare Gnetum, che distribuisce gli aggiornamenti dell'interfaccia utente (HUD) su più fotogrammi per migliorare le prestazioni.",
+    "gnetum.config.fastBlit": "Aggiornamento rapido del buffer di frame",
+    "gnetum.config.fastBlit.tooltip": "Eliminare i pixel completamente trasparenti, il che può migliorare le prestazioni della GPU.",
     "gnetum.config.maxFps": "Limite di frame per secondo (FPS) per l'HUD",
     "gnetum.config.maxFps.tooltip": "Definisce il frame rate massimo dell'HUD. La priorità è inferiore rispetto al parametro \"numero di pass\".",
     "gnetum.config.numberOfPasses": "Numero di passaggi",

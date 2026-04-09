@@ -82,5 +82,11 @@
     "item.extraspellattributes.sand_signet": "Sigillo di sabbia",
     "item.extraspellattributes.turtlegirdle": "Cintura per tartarughe",
     "item.extraspellattributes.undyingsoul": "Bandiera dell'Immortalità",
-    "itemGroup.extraspellattributes.general": "Oggetti aggiuntivi per attributi RPG"
+    "itemGroup.extraspellattributes.general": "Oggetti aggiuntivi per attributi RPG",
+    "spell.extraspellattributes.rend.description": "Hai una probabilità del 15% di creare nemici vulnerabili al colpo, il che significa che subiranno un danno del 20% in più per 8 secondi.",
+    "spell.extraspellattributes.rend.name": "Rendere",
+    "spell.extraspellattributes.try_gouge.description": "Attacchi ravvicinati: infliggono danni fisici aggiuntivi del 100% agli avversari che sono ignari, distrati o vulnerabili.",
+    "spell.extraspellattributes.try_gouge.name": "Spazzola",
+    "spell.extraspellattributes.try_gouge_ranged.description": "Attacchi a distanza: infliggono danni fisici aggiuntivi del 100% agli avversari che sono ignari, distrati o vulnerabili.",
+    "spell.extraspellattributes.try_gouge_ranged.name": "Rottura"
 }

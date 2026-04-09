@@ -30,5 +30,9 @@
     "tooltip.utilityvest.vest.hotbar": "Set filters via %s + a number key. Load filters via %s + a number key",
     "tooltip.utilityvest.vest.inventory": "Press %s to open the inventory menu",
     "tooltip.utilityvest.vest.radial": "Hold %s + a number key to open the quick-select menu",
-    "tooltip.utilityvest.vest.restock": "Press %s to insert items matching your filters into the vest's inventory"
+    "tooltip.utilityvest.vest.restock": "Press %s to insert items matching your filters into the vest's inventory",
+    "utilityvest.configuration.invert_radial_scroll": "Invert Radial Scroll",
+    "utilityvest.configuration.radial_stack_count": "Radial Stack Count",
+    "utilityvest.configuration.radial_tooltip": "Radial Tooltip",
+    "utilityvest.configuration.remember_radial_row": "Remember Radial Row"
 }

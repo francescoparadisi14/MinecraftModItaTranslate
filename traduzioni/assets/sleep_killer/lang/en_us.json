@@ -1,6 +1,7 @@
 {
     "death.attack.insomnia": "%s died of Insomnia",
     "effect.sleep_killer.insomnia": "Insomnia",
+    "effect.sleep_killer.no_effect": "No Effect",
     "entity.sleep_killer.sleep_killer": "Sleep Killer",
     "entity.sleep_killer.sleep_killer_spawn": "Sleep Killer",
     "item.sleep_killer.sleep_killer_spawn_egg": "Sleep Killer Spawn Egg",

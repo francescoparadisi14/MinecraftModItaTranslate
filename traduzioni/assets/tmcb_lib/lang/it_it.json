@@ -1,4 +1,5 @@
 {
+    "block.tmcb_lib.fluid_tank": "Serbatoio per liquidi",
     "config.tmcb_lib.formatting.modNameFormat": "Formato del nome del modulo",
     "config.tmcb_lib.formatting.modNameFormat.comment": "Come dovrebbe essere formattato il nome del mod nella tooltip. Lasciare vuoto per disabilitare.",
     "config.tmcb_lib.gui.energyUnit": "Unità di energia",

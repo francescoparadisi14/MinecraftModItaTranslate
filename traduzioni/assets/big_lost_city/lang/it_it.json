@@ -1,0 +1,12 @@
+{
+    "big_lost_city.configuration.items": "Elenco degli articoli",
+    "big_lost_city.configuration.logDirtBlock": "Blocco di argilla per pavimentazione",
+    "big_lost_city.configuration.magicNumber": "Numero magico",
+    "big_lost_city.configuration.magicNumberIntroduction": "Numero Magico",
+    "big_lost_city.configuration.section.big_lost_city.common.toml": "Configurazioni per grandi città perdute",
+    "big_lost_city.configuration.section.big_lost_city.common.toml.title": "Configurazioni per grandi città perdute",
+    "big_lost_city.configuration.title": "Configurazioni per grandi città perdute",
+    "block.big_lost_city.example_block": "Esempio di blocco",
+    "item.big_lost_city.example_item": "Esempio di articolo",
+    "itemGroup.big_lost_city": "Esempio di tabella Mod"
+}

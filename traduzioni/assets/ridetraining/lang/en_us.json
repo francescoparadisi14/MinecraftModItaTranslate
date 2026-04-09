@@ -1,0 +1,16 @@
+{
+    "item.ridetraining.riding_upgrade": "Upgrade Berry",
+    "item.ridetraining.riding_upgrade.tooltip.primary": "Gives a burst of riding training to a Pokémon.",
+    "item.ridetraining.riding_upgrade.tooltip.secondary": "Boosts Speed, Stamina, and Skill up to the Pokémon's natural riding limit.",
+    "item.ridetraining.stamina_berry": "Stamina Berry",
+    "item.ridetraining.stamina_berry.tooltip.primary": "Pushes a Pokémon's stamina beyond its natural riding limit.",
+    "item.ridetraining.stamina_berry.tooltip.secondary": "Only works up to 2× the Pokémon's native stamina — use wisely!",
+    "item.ridetraining.training_reader": "Riding Pager",
+    "item.ridetraining.training_reader.tooltip.primary": "Right-click a Pokémon to check its riding stats and potential.",
+    "item.ridetraining.training_reader.tooltip.secondary": "Hold while riding to see live training progress.",
+    "modmenu.nameTranslation.ridetraining": "Cobblemon Mount Mastery",
+    "text.ridetraining.item.no_ride_support": "This Pokémon cannot be ridden — no compatible riding style found.",
+    "text.ridetraining.no_styles": "This Pokémon cannot be ridden.",
+    "text.ridetraining.stamina_berry.no_more": "This Pokémon's stamina is already at its maximum.",
+    "text.ridetraining.upgrade.no_more": "This Pokémon has already reached its riding limit from Upgrade Berries."
+}

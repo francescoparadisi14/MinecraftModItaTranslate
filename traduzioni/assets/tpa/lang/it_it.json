@@ -1,5 +1,25 @@
 {
     "block.tpa.example_block": "Esempio di blocco",
     "item.tpa.example_item": "Esempio di articolo",
-    "itemGroup.tpa": "Esempio di tabella Mod"
+    "itemGroup.tpa": "Esempio di tabella Mod",
+    "messages.tpa.backDisabled": "La funzione \"indietro\" è disabilitata su questo server!",
+    "messages.tpa.doubleRequest": "Hai già inviato una richiesta di teletrasporto!",
+    "messages.tpa.inCooldown": "È in corso un periodo di raffreddamento di %ss!",
+    "messages.tpa.noBackLocation": "Senza indicazione della posizione!",
+    "messages.tpa.noRequest": "Non è stata effettuata alcuna richiesta di teletrasporto!",
+    "messages.tpa.receivedtpaRequest": "Ha ricevuto una richiesta di assistenza da %s",
+    "messages.tpa.receivedtpahereRequest": "Ha ricevuto una richiesta da %s.",
+    "messages.tpa.requestAccepted": "Hai accettato la richiesta di teletrasporto!",
+    "messages.tpa.requestCanceled": "Hai annullato la tua richiesta di teletrasporto!",
+    "messages.tpa.requestExpired": "La richiesta di teletrasporto è scaduta!",
+    "messages.tpa.requestsDisabled": "La funzione di teletrasporto per l'utente %s è disabilitata!",
+    "messages.tpa.requestsToggledfalse": "Le richieste di teletrasporto sono ora disabilitate!",
+    "messages.tpa.requestsToggledtrue": "Le richieste di teletrasporto sono ora attivate!",
+    "messages.tpa.selfRequest": "Non è possibile teletrasportarsi verso se stessi!",
+    "messages.tpa.senderOffline": "Il giocatore è disconnesso.",
+    "messages.tpa.senttpaRequest": "Hai inviato una richiesta di TPA a %s!",
+    "messages.tpa.senttpahereRequest": "Hai inviato una richiesta di TP (Temporary Paid Absence) a %s!",
+    "messages.tpa.teleported": "Trasportato!",
+    "messages.tpa.teleporting": "Teletrasporto al %...",
+    "messages.tpa.tpahereRequestAccepted": "La tua richiesta è stata accettata!"
 }

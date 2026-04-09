@@ -27,12 +27,16 @@
     "ftbteambases.message.creation_started": "Constructing your base, stand by for teleport!",
     "ftbteambases.message.missing_definition": "Unknown base definition: %s",
     "ftbteambases.message.missing_dimension": "Can't find dimension %s!",
+    "ftbteambases.message.missing_team": "Team %s seems to be missing! Use `\/ftbteambases archive cleanup' to archive it",
     "ftbteambases.message.no_archived_bases": "No archived bases exist currently",
     "ftbteambases.message.no_bases": "No team bases exist currently",
     "ftbteambases.message.no_dimensions": "No team dimensions!",
+    "ftbteambases.message.not_nether_team_base": "Team nether entry points are not enabled in this instance",
     "ftbteambases.message.player_in_party": "Archived base owner '%s' is in a party. They must leave first!",
     "ftbteambases.message.purge_not_found": "No pending purge found for %s!",
     "ftbteambases.message.restored": "Team base '%s' has been restored from archive.",
     "ftbteambases.message.restored_yours": "Your old team base has been restored from archive! Teleporting there now...",
-    "ftbteambases.message.show_base_header": "Team Base Details for %s"
+    "ftbteambases.message.show_base_header": "Team Base Details for %s",
+    "ftbteambases.message.stale_bases": "Archived %s stale base(s)",
+    "ftbteambases.message.team_was_disbanded": "Your team was disbanded since you last played. Returning you to the lobby..."
 }

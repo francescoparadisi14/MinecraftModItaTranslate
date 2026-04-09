@@ -77,6 +77,7 @@
     "neruina.ticking.entity.suspended": "Rilevata attività sospetta [%s] in posizione (%s). L'attività è stata interrotta.",
     "neruina.ticking.item_stack": "Rilevato accumulo di elementi \"Ticking\" [%s] nello slot [%s].",
     "neruina.ticking.player": "Giocatore rilevato per comportamento antisportivo, %s è stato espulso.",
+    "neruina.ticking.player_killed": "Giocatore rilevato che ha effettuato un'azione sospetta (%s), giocatore eliminato. (Per effettuare un ban invece di eliminare il giocatore, disabilitare l'opzione \"kill_players_instead\" nella configurazione)",
     "neruina.ticking_entries.count": "Ci sono % di voci sospese in attesa di conferma:",
     "neruina.ticking_entries.count.single": "Esiste un singolo elemento sospeso, ovvero un conteggio in corso:",
     "neruina.ticking_entries.entry": "<%s> in (%s)",

@@ -517,5 +517,10 @@
     "item.furnitury.wrench": "Wrench",
     "item.furnitury.wrench.tooltip": "§7Hold §6Shift§f §7+ Right Click to rotate blocks",
     "item.furnitury.yellow_cloth": "Yellow Cloth",
-    "item.furnitury.yellow_plastic": "Yellow Plastic"
+    "item.furnitury.yellow_plastic": "Yellow Plastic",
+    "jei.furnitury.trash.info.1": "Obtained by processing any item, block, or resource in the Trashcan.",
+    "jei.furnitury.trash.info.2": "Each processed item gives 1 Trash.",
+    "jei.furnitury.trash.info.3": "There is also a 10% chance to get a Trash Piece.",
+    "jei.furnitury.trash_piece.info.1": "A byproduct of processing items in the Trashcan.",
+    "jei.furnitury.trash_piece.info.2": "Has a 10% chance to appear together with Trash."
 }

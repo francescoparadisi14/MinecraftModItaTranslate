@@ -15,6 +15,7 @@
     "hotbarScope.moremousetweaks.INVENTORY.tooltip": "La hotbar sarà gestita come parte dell'inventario principale.",
     "hotbarScope.moremousetweaks.NONE": "Nessuno",
     "hotbarScope.moremousetweaks.NONE.tooltip": "La richiesta relativa a Hotbar non sarà elaborata.",
+    "message.moremousetweaks.configScreenDisabled": "La schermata di configurazione non è disponibile in questa versione.",
     "message.moremousetweaks.installCloth": "Installa l'API di configurazione dei tessuti per accedere alle opzioni dei mod.",
     "message.moremousetweaks.viewModrinth": "Visualizza su Modrinth",
     "moremousetweaks.name": "MoreMouseTweaks",

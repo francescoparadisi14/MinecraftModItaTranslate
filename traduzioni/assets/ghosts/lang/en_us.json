@@ -24,16 +24,16 @@
     "entity.ghosts.haunted_boat": "Haunted Boat",
     "entity.ghosts.haunted_chest_boat": "Haunted Boat with Chest",
     "entity.ghosts.kodama": "Kodama",
-    "entity.ghosts.small_ghost": "Small Ghost",
+    "entity.ghosts.small_ghost": "Seedling Ghost",
     "ghosts.ghost_ambient": "Ghost swooshes",
     "ghosts.ghost_death": "Ghost dies",
     "ghosts.ghost_hurt": "Ghost hurts",
-    "ghosts.mini_ghost_ambient": "Small Ghost swooshes",
-    "ghosts.mini_ghost_death": "Small Ghost dies",
-    "ghosts.mini_ghost_hurt": "Small Ghost hurts",
+    "ghosts.mini_ghost_ambient": "Seedling Ghost swooshes",
+    "ghosts.mini_ghost_death": "Seedling Ghost dies",
+    "ghosts.mini_ghost_hurt": "Seedling Ghost hurts",
     "item.ghosts.ghost_spawn_egg": "Spawn Ghost",
     "item.ghosts.haunted_boat": "Haunted Boat",
     "item.ghosts.haunted_chest_boat": "Haunted Chest Boat",
     "item.ghosts.kodama_spawn_egg": "Spawn Kodama",
-    "item.ghosts.small_ghost_spawn_egg": "Spawn Small Ghost"
+    "item.ghosts.small_ghost_spawn_egg": "Spawn Seedling Ghost"
 }

@@ -17,6 +17,7 @@
     "block.cinchsbetterdeepslate.mossy_deepslate_tiles": "Mossy Deepslate Tiles",
     "block.cinchsbetterdeepslate.polished_deepslate_button": "Polished Deepslate Button",
     "block.cinchsbetterdeepslate.polished_deepslate_pressure_plate": "Polished Deepslate Pressure Plate",
+    "block.cinchsbetterdeepslate.sculk_inlaid_deepslate": "Sculk Inlaid Deepslate",
     "item.cinchsbetterdeepslate.blackstone_axe": "Blackstone Axe",
     "item.cinchsbetterdeepslate.blackstone_hoe": "Blackstone Hoe",
     "item.cinchsbetterdeepslate.blackstone_pickaxe": "Blackstone Pickaxe",
@@ -27,5 +28,6 @@
     "item.cinchsbetterdeepslate.deepslate_pickaxe": "Deepslate Pickaxe",
     "item.cinchsbetterdeepslate.deepslate_shovel": "Deepslate Shovel",
     "item.cinchsbetterdeepslate.deepslate_sword": "Deepslate Sword",
-    "itemGroup.cinchsbetterdeepslate.cinchsbetterdeepslate_tab": "Cinch's Better Deepslate Tab"
+    "itemGroup.cinchsbetterdeepslate.cinchsbetterdeepslate_tab": "Cinch's Better Deepslate Tab",
+    "itemgroup.cinchsbetterdeepslate": "Cinch's Better Deepslate"
 }

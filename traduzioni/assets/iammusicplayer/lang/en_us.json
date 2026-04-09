@@ -264,6 +264,8 @@
     "text.autoconfig.iammusicplayer.category.client": "Client Side",
     "text.autoconfig.iammusicplayer.category.debug": "Debug",
     "text.autoconfig.iammusicplayer.category.integration": "Integration",
+    "text.autoconfig.iammusicplayer.category.internal": "",
+    "text.autoconfig.iammusicplayer.category.lavaplayer": "",
     "text.autoconfig.iammusicplayer.category.server": "Server Side",
     "text.autoconfig.iammusicplayer.option.dropItemRing": "Whether to play in the dropped item",
     "text.autoconfig.iammusicplayer.option.hideDecorativeAntenna": "Hide Decorative Antenna",

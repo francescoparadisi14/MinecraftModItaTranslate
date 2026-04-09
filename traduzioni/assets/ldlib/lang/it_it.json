@@ -182,6 +182,7 @@
     "ldlib.gui.editor.register.texture.animation_texture": "Texture per l'animazione",
     "ldlib.gui.editor.register.texture.border_texture": "Texture del confine",
     "ldlib.gui.editor.register.texture.color_border_texture": "Bordo colorato con texture",
+    "ldlib.gui.editor.register.texture.color_rect_and_border_texture": "Colore e texture per il bordo",
     "ldlib.gui.editor.register.texture.color_rect_texture": "Texture rettangolare di colore",
     "ldlib.gui.editor.register.texture.group_texture": "Texture di gruppo",
     "ldlib.gui.editor.register.texture.item_stack_texture": "Texture dello stack di elementi",

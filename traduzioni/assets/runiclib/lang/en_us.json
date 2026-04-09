@@ -69,6 +69,7 @@
     "runiclib.commands.saturation.fail": "Target's saturation could not be changed",
     "runiclib.commands.saturation.success": "Applied %s saturation to %s",
     "runiclib.commands.setname.no_target": "No target entity found",
+    "runiclib.commands.setname.player": "Cannot change the display name of a player",
     "runiclib.commands.setname.success": "Set %s display name to %s",
     "runiclib.generic.blast_resistance": "Blast Resistance",
     "runiclib.generic.burning_retaliation_chance": "Burning Retaliation Chance",

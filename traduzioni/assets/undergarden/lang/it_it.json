@@ -323,6 +323,8 @@
     "commands.undergarden.infection.success.single": "Imposta l'infezione su %s per il dispositivo %s",
     "config.undergarden.return_portal_frame_block_id": "ID del blocco del portale di ritorno",
     "config.undergarden.toggle_undergarden_fog": "Attiva\/Disattiva Nebbia del Giardino Sotterraneo",
+    "config.undergarden.toggle_utheric_infection_number_display": "Attiva\/Disattiva la visualizzazione del numero di infezioni Utheric",
+    "config.undergarden.toggle_utheric_infection_overlay": "Attiva\/Disattiva l'overlay di infezione di Utheric",
     "container.undergarden.infuser": "Estrattore",
     "death.attack.blisterberry_bush": "«L'albero di Blisterberry ha colpito»",
     "death.attack.blisterberry_bush.player": "%1$s è stato colpito da un arbusto di Blisterberry mentre cercava di fuggire da %2$s.",

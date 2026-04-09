@@ -18,6 +18,7 @@
     "rconfig.server.title": "Server dedicato",
     "rconfig.server.wiki": "Wiki",
     "rconfig.ui.constant.add_item": "Aggiungi elemento:",
+    "rconfig.ui.constant.add_item.tooltip": "Aggiungi elemento",
     "rconfig.ui.constant.choose_item": "Seleziona l'articolo:",
     "rconfig.ui.constant.close": "Chiudi",
     "rconfig.ui.constant.edit": "Modifica",
@@ -26,5 +27,8 @@
     "rconfig.ui.constant.edit.string": "Stringa da modificare",
     "rconfig.ui.constant.mod_configs": "Configurazioni personalizzate",
     "rconfig.ui.constant.mod_configs.description": "Seleziona la configurazione da visualizzare o modificare.",
+    "rconfig.ui.constant.move_down": "Scorri verso il basso",
+    "rconfig.ui.constant.move_up": "Avanzare",
+    "rconfig.ui.constant.remove_item": "Rimuovi elemento",
     "rconfig.ui.constant.reset": "Reimpostare"
 }

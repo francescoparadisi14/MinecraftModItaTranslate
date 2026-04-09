@@ -1,0 +1,14 @@
+{
+    "entity.shades.shade": "Shade",
+    "entity.shades.shade.named": "Shade of %s",
+    "shades.configuration.allowMultipleShades": "Allow Multiple Shades",
+    "shades.configuration.dropItemsFromReplacedShade": "Drop Items from Replaced Shade",
+    "shades.configuration.onlyOwnerCanDamageShade": "Only Owner Can Damage Shade",
+    "shades.configuration.playShadeMusic": "Play Shade Music",
+    "shades.configuration.showShadeOwnerNames": "Show Shade Owner Names",
+    "shades.configuration.spawnShadesInPeaceful": "Spawn Shades in Peaceful Difficulty",
+    "shades.configuration.title": "Shades Config",
+    "sounds.shades.shade_attack": "Shade attacks",
+    "sounds.shades.shade_flying": "Shade murmurs",
+    "sounds.shades.shade_hurt": "Shade hurts"
+}

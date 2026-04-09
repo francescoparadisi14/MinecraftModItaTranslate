@@ -1,0 +1,17 @@
+{
+    "creativetab.alexs_caves_spellbooks_tab": "Alex's Caves Spellbooks",
+    "entity.alexs_caves_spellbooks.summoned_grottoceratops": "Summoned Grottoceratops",
+    "entity.alexs_caves_spellbooks.summoned_vesper": "Summoned Vesper",
+    "item.alexs_caves_spellbooks.dread_robes_boots": "Dread Boots",
+    "item.alexs_caves_spellbooks.dread_robes_chestplate": "Dread Armor",
+    "item.alexs_caves_spellbooks.dread_robes_helmet": "Dread Hood",
+    "item.alexs_caves_spellbooks.dread_robes_leggings": "Dread Leggings",
+    "item.alexs_caves_spellbooks.elder_vallumraptor_hide": "Elder Vallumraptor Hide",
+    "item.alexs_caves_spellbooks.primordial_mage_chestplate": "Primordial Mage Armor",
+    "item.alexs_caves_spellbooks.primordial_mage_helmet": "Primordial Mage Helmet",
+    "item.alexs_caves_spellbooks.primordial_mage_leggings": "Primordial Mage Toga",
+    "item.alexs_caves_spellbooks.vallumraptor_hide": "Vallumraptor Hide",
+    "spell.alexs_caves_spellbooks.conjure_grottoceratops": "Conjure Grottoceratops",
+    "spell.alexs_caves_spellbooks.conjure_vesper": "Conjure Vesper",
+    "spell.alexs_caves_spellbooks.demonic_howl": "Demonic Howl"
+}

@@ -11,6 +11,8 @@
     "config.mapdistancefix.option.showDistanceInsideBoundaries.tooltip": "Mostra anche la distanza quando il giocatore è all'interno dei confini della mappa.",
     "config.mapdistancefix.option.showDistanceWhenOffMap": "Mostra la distanza quando non è presente sulla mappa.",
     "config.mapdistancefix.option.showDistanceWhenOffMap.tooltip": "Distanza di visualizzazione quando il giocatore si trova al di fuori dei confini della mappa.",
+    "config.mapdistancefix.option.showStructureDistances": "Mostra la distanza alla struttura più vicina",
+    "config.mapdistancefix.option.showStructureDistances.tooltip": "Mostra la distanza dalla struttura più vicina (villa, monumento, villaggio, ecc.) rispetto all'arco del giocatore, invece che la distanza dal centro della mappa.",
     "config.mapdistancefix.option.useShortUnits": "Utilizzare unità di misura brevi",
     "config.mapdistancefix.option.useShortUnits.tooltip": "Utilizzare unità abbreviate (ad esempio, \"1,5k\" invece di \"1500m\") per distanze elevate.",
     "config.mapdistancefix.title": "Impostazioni per la correzione della distanza sulla mappa"

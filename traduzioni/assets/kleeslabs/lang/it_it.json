@@ -5,5 +5,12 @@
     "config.kleeslabs.dumpSlabs.tooltip": "A scopo di sviluppo. Impostare su \"vero\" per far sì che KleeSlabs crei un elenco di oggetti contenenti la parola \"slab\" nel loro nome al caricamento del mondo.",
     "config.kleeslabs.mode": "Modalità",
     "config.kleeslabs.mode.tooltip": "Controllare se KleeSlabs devono attivarsi SEMPRE, SOLO_QUANDO_SI_STA_AGGIUNGENDO o SOLO_QUANDO_NON_SI_STA_AGGIUNGENDO.",
-    "config.kleeslabs.title": "KleeSlabs"
+    "config.kleeslabs.title": "KleeSlabs",
+    "kleeslabs.configuration.disabledCompat": "Accessibilità per persone con disabilità",
+    "kleeslabs.configuration.disabledCompat.tooltip": "ID dei mod per i quali è necessario disabilitare la compatibilità.",
+    "kleeslabs.configuration.dumpSlabs": "Blocchi di dati di debug",
+    "kleeslabs.configuration.dumpSlabs.tooltip": "A scopo di sviluppo. Impostare su \"vero\" per far sì che KleeSlabs elenchi tutti gli oggetti che contengono la parola \"slab\" nel loro nome al caricamento del mondo.",
+    "kleeslabs.configuration.mode": "Modalità",
+    "kleeslabs.configuration.mode.tooltip": "Verificare se KleeSlabs devono attivarsi SEMPRE, SOLO_QUANDO_SI_STA_AGGIUNGENDO o SOLO_QUANDO_NON_SI_STA_AGGIUNGENDO.",
+    "kleeslabs.configuration.title": "KleeSlabs"
 }

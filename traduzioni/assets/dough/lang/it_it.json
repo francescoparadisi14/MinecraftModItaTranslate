@@ -1,0 +1,12 @@
+{
+    "item.bread_dough.bread_dough": "Impasto per pane",
+    "item.bread_dough.cookie_dough": "Impasto per biscotti",
+    "item.bread_dough.pie": "Torta",
+    "item.bread_dough.unbaked_cake": "Torta non cotta",
+    "item.bread_dough.unbaked_pie": "Torta non cotta",
+    "item.dough.bread_dough": "Impasto per pane",
+    "item.dough.cookie_dough": "Impasto per biscotti",
+    "item.dough.pie": "Torta semplice",
+    "item.dough.unbaked_cake": "Torta non cotta",
+    "item.dough.unbaked_pie": "Torta non cotta"
+}

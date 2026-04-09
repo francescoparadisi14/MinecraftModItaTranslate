@@ -1,0 +1,6 @@
+{
+    "item.mobcapturingtool.mob_capturing_tool": "Mob Capturing Tool",
+    "tooltip.mobcapturingtool.blacklisted": "Entities of type %s are blacklisted and cannot be captured.",
+    "tooltip.mobcapturingtool.captured_entity": "Entity: %s",
+    "tooltip.mobcapturingtool.captured_entity.health": "Health: %s"
+}

@@ -10,6 +10,7 @@
     "block.kurolib.hadescow_plush_block": "Hadescow Plush",
     "block.kurolib.jewel_wyzy_plush_block": "JewelWyzy Plush",
     "block.kurolib.medic_bird_plush_block": "Medic Bird Plush",
+    "block.kurolib.not_tyler_anplushy_block": "NotTylerAn Plush",
     "block.kurolib.pancakes_plush_block": "Pancakes Plush",
     "block.kurolib.smoll_dave_plush_block": "SmollDave Plush",
     "block.kurolib.spino_plush_block": "Spino Plush",
@@ -102,6 +103,7 @@
     "item.kurolib.jewel_wyzy_plush": "JewelWyzy Plush",
     "item.kurolib.label_item": "Label Kuro",
     "item.kurolib.medic_bird_plush": "Medic Bird Plush",
+    "item.kurolib.not_tyler_anplushy": "NotTylerAn Plush",
     "item.kurolib.pancakes_plush": "Pancakes Plush",
     "item.kurolib.smoll_dave_plush": "SmollDave Plush",
     "item.kurolib.spino_plush": "Spino Plush",
@@ -309,5 +311,6 @@
     "subtitles.vm_item": "",
     "subtitles.yemm": "",
     "subtitles.yemm_loud": "",
-    "subtitles.yemm_ping": ""
+    "subtitles.yemm_ping": "",
+    "subtitles.zeus_plush": ""
 }

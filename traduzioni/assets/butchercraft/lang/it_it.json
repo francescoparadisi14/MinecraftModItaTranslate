@@ -152,6 +152,8 @@
     "effect.butchercraft.blood_trail": "Traccia di sangue",
     "effect.butchercraft.dirty_hands": "Mani sporche",
     "effect.butchercraft.pungent_reek": "Odore pungente",
+    "entity.minecraft.villager.butchercraft.slaughter_profession": "Macellaio",
+    "entity.minecraft.villager.slaugther": "Macellaio",
     "fluid_type.butchercraft.blood_fluid": "Sangue",
     "item.butchercraft.apron": "Cappa da macellaio",
     "item.butchercraft.beak": "Becco",

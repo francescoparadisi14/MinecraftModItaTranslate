@@ -20,6 +20,7 @@
     "gui.showmeyourskin.armorScreen.piece.shield": "Schermo: %d%",
     "gui.showmeyourskin.armorScreen.playerName": "%s",
     "gui.showmeyourskin.armorScreen.playerSelector": "Configurazione dell'armatura",
+    "gui.showmeyourskin.armorScreen.previewUnavailable": "Anteprima non disponibile",
     "gui.showmeyourskin.armorScreen.shieldGlintTooltip": "Mostra un bagliore magico sulla scudo",
     "gui.showmeyourskin.armorScreen.showElytraTooltip": "Mostra le ali membranose",
     "gui.showmeyourskin.armorScreen.synced": "Sincronizzato",

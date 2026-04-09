@@ -15,6 +15,7 @@
     "invalid_mode": "Invalid mode",
     "invalid_time_format": "Invalid time format! Try out 10s (for 10 seconds).",
     "key.categories.cmdcam": "CMDCam Settings",
+    "key.category.cmdcam.cmdcam": "CMDCam Settings",
     "key.centerzoom": "Reset Zoom",
     "key.clearPoint": "Clear Points",
     "key.point": "Add Point",

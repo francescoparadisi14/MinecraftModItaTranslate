@@ -1,0 +1,7 @@
+{
+    "xphealth.configuration.difficulty": "Difficoltà",
+    "xphealth.configuration.difficulty.tooltip": "Difficoltà del gioco: 1 è facile, 2 è normale, 3 è difficile.",
+    "xphealth.configuration.section.xphealth.common.toml": "Configurazioni per la salute (XP)",
+    "xphealth.configuration.section.xphealth.common.toml.title": "Configurazioni per la salute (XP)",
+    "xphealth.configuration.title": "Configurazioni per la salute (XP)"
+}

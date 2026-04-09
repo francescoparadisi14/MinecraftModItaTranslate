@@ -1,0 +1,9 @@
+{
+    "cmd.gbook.guide.done": "Ricarica completata",
+    "item.gbook.guidebook": "Guida turistica",
+    "itemGroup.gbook": "Guida turistica",
+    "text.gbook.actions.copy_to_clipboard.line1": "Il libro desidera copiare il testo nella tua area di lavoro.",
+    "text.gbook.actions.copy_to_clipboard.line2": "È sicuro che desideri consentire questo?",
+    "text.gbook.actions.copy_to_clipboard.success": "Testo copiato correttamente.",
+    "text.gbook.tooltip.book": "Libro: %s"
+}

@@ -1,0 +1,19 @@
+{
+    "unchained.notification.hidden.capture": "Your bond with your captured %1$s %2$s revealed its hidden ability!",
+    "unchained.notification.hidden.egg": "Your nurturing aura coaxed out the hidden ability of your %1$s %2$s!",
+    "unchained.notification.hidden.fish": "Your fishing trip fished up a %1$s %2$s with its hidden ability!",
+    "unchained.notification.hidden.resurrection": "Your technical mastery awakened your revived %1$s %2$s's hidden ability!",
+    "unchained.notification.hidden.snack": "The quality of your snack attracted a %1$s %2$s with its hidden ability!",
+    "unchained.notification.hidden.spawn": "Your hunt draws out a %1$s %2$s with its hidden ability!",
+    "unchained.notification.iv.capture": "Your bond with your captured %1$s %2$s revealed perfect IVs!",
+    "unchained.notification.iv.egg": "Your nurturing aura coaxed out perfect IVs in your %1$s %2$s!",
+    "unchained.notification.iv.fish": "Your fishing trip fished up a %1$s %2$s with perfect IVs!",
+    "unchained.notification.iv.resurrection": "Your technical mastery awakened your revived %1$s %2$s's perfect IVs!",
+    "unchained.notification.iv.snack": "The quality of your snack attracted a %1$s %2$s with perfect IVs!",
+    "unchained.notification.iv.spawn": "Your hunt draws out a %1$s %2$s with perfect IVs!",
+    "unchained.notification.shiny.egg": "Your nurturing aura coaxed out a shiny %1$s %2$s!",
+    "unchained.notification.shiny.fish": "Your fishing trip fished up a shiny %1$s %2$s!",
+    "unchained.notification.shiny.resurrection": "Your technical mastery awakened a shiny %1$s %2$s!",
+    "unchained.notification.shiny.snack": "The quality of your snack attracted a %1$s %2$s with its shiny form!",
+    "unchained.notification.shiny.spawn": "Your hunt draws out a shiny %1$s %2$s!"
+}

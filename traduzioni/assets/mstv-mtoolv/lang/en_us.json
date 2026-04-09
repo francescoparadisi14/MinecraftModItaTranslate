@@ -414,5 +414,6 @@
     "item.mstv-mtoolv.warped_wooden_hoe": "Warped Wooden Hoe",
     "item.mstv-mtoolv.warped_wooden_pickaxe": "Warped Wooden Pickaxe",
     "item.mstv-mtoolv.warped_wooden_shovel": "Warped Wooden Shovel",
+    "itemGroup.mToolV": "More Tool Variants",
     "itemGroup.toolVariants": "Tool Variants"
 }

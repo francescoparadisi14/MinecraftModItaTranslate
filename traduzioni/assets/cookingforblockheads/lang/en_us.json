@@ -6,6 +6,7 @@
     "config.jade.plugin_cookingforblockheads.sink": "Sink",
     "config.jade.plugin_cookingforblockheads.toaster": "Toaster",
     "container.cookingforblockheads.cabinet": "Kitchen Cabinet",
+    "container.cookingforblockheads.cooking_table": "Cooking Table",
     "container.cookingforblockheads.counter": "Kitchen Counter",
     "container.cookingforblockheads.cow_jar": "Cow in a Jar",
     "container.cookingforblockheads.cow_jar_compressed": "Compressed Cow in a Jar",

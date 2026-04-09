@@ -12,7 +12,7 @@
     "jei.cloche.shears_result": "Drop added by Shears Upgrade",
     "tooltip.cloche.catalyst_slot": "Catalysts Slot",
     "tooltip.cloche.catalyst_slot_no_catalysts": "No loaded recipes use catalysts",
-    "tooltip.cloche.cloche": "Prevents all other drops except the main output",
+    "tooltip.cloche.cloche": "Used to grow crops, can be upgraded with various upgrades",
     "tooltip.cloche.main_output_upgrade": "Doubles the main output (Stacks with other Main Output Upgrades)",
     "tooltip.cloche.mutation_upgrade": "Has a 25% chance to mutate the input seed! Mutation make the crops grow faster and produce more!",
     "tooltip.cloche.mutation_upgrade_output": "Give a %s%% chance to roll results again",

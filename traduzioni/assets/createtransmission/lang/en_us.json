@@ -2,5 +2,16 @@
     "block.createtransmission.andesite_encased_transmission_chain": "Andesite Encased Transmission Chain",
     "block.createtransmission.brass_encased_transmission_chain": "Brass Encased Transmission Chain",
     "block.createtransmission.transmission_chain": "Transmission Chain",
+    "createtransmission.ponder.encasing.header": "Encasing Transmission Chains",
+    "createtransmission.ponder.encasing.text_1": "Transmission Chains can also be encased!",
+    "createtransmission.ponder.encasing.text_2": "A wrench can be used to remove the casing.",
+    "createtransmission.ponder.usage.header": "Relaying rotational force using Transmission Chains",
+    "createtransmission.ponder.usage.text_1": "Encased chain drive can be used to transfer rotational power between belts.",
+    "createtransmission.ponder.usage.text_2": "But they are bulky...",
+    "createtransmission.ponder.usage.text_3": "As an alternative you can use Transmission Chains!\nThey are slim and only work on belts.",
+    "createtransmission.ponder.usage.text_4": "They can power belt in different arrangements.",
+    "createtransmission.ponder.usage.text_5": "Horizontally...",
+    "createtransmission.ponder.usage.text_6": "...on a right angle...",
+    "createtransmission.ponder.usage.text_7": "...and vertically.",
     "creativeTab.createtransmission.main": "Create: Transmission"
 }

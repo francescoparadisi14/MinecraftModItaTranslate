@@ -107,6 +107,8 @@
     "sidebar_button.ftblibrary.toggle.day.tooltip": "Definisce l'orario diurno",
     "sidebar_button.ftblibrary.toggle.gamemode": "Attiva\/Disattiva modalità di gioco",
     "sidebar_button.ftblibrary.toggle.gamemode.tooltip": "Passa alternativamente tra la modalità di sopravvivenza e la modalità creativa.",
+    "sidebar_button.ftblibrary.toggle.midday": "Imposta l'orario per le 12:00.",
+    "sidebar_button.ftblibrary.toggle.midday.tooltip": "Definisce l'ora di mezzogiorno",
     "sidebar_button.ftblibrary.toggle.night": "Imposta l'orario per la notte",
     "sidebar_button.ftblibrary.toggle.night.tooltip": "Imposta l'orario per la notte",
     "sidebar_button.ftblibrary.toggle.rain": "Attiva\/Disattiva la pioggia",

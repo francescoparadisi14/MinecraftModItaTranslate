@@ -1,0 +1,10 @@
+{
+    "cobblemon_emi_compat.gui.cooking_pot.no_seasoning": "No seasonings available",
+    "cobblemon_emi_compat.midnightconfig.category.general": "General",
+    "cobblemon_emi_compat.midnightconfig.enable_cobblemon_berry_mutation": "Should the mod add EMI Berry Mutation recipes?",
+    "cobblemon_emi_compat.midnightconfig.enable_cobblemon_brewing_stand": "Should the mod add EMI Brewing recipes?",
+    "cobblemon_emi_compat.midnightconfig.enable_cobblemon_cooking_pot": "Should the mod add EMI Cooking Pot recipes?",
+    "cobblemon_emi_compat.midnightconfig.merge_cobblemon_brewing_stand": "Should the mod merge all EMI Brewing recipes under one category?",
+    "cobblemon_emi_compat.midnightconfig.title": "Cobblemon EMI Compat Config",
+    "emi.category.cobblemon.berry_recipe": "Berry Mutation"
+}

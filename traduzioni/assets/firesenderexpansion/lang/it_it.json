@@ -62,6 +62,7 @@
     "msg.firesenderexpansion.cannot_teleport": "Non è possibile teletrasportarsi mentre si è ancorati.",
     "msg.firesenderexpansion.dimensional_adaptation": "Questo potrebbe essere decifrato se avessi un \"Codice di Chiridion\".",
     "msg.firesenderexpansion.fail_step": "La mossa \"Scintillating Step\" non permette di teletrasportarsi tra dimensioni.",
+    "msg.firesenderexpansion.root_void_fail": "Non ci sono fondamenta da cui partire.",
     "msg.firesenderexpansion.too_close": "Deve essere lanciato a distanza.",
     "spell.firesenderexpansion.aspect_of_the_shulker": "Aspetti dello Shulker",
     "spell.firesenderexpansion.aspect_of_the_shulker.guide": "Evoca una freccia di shulker magica quando attacchi un'entità con un attacco magico.",

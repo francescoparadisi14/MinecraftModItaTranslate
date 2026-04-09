@@ -3,11 +3,18 @@
     "block.radiotowers.metal_bars": "Metal Bars",
     "block.radiotowers.radio_panel": "Radio Panel",
     "block.radiotowers.trashblock": "Trashblock",
+    "entity.radiotowers.airdropentity": "Airdropentity",
+    "entity.radiotowers.planeentity": "Airdropentity",
     "gui.radiotowers.airdrop_crategui.label_airfrop_crate": "Airdrop Crate",
+    "item.radiotowers.airdropentity_spawn_egg": "Airdropentity Spawn Egg",
+    "item.radiotowers.planeentity_spawn_egg": "Airdropentity Spawn Egg",
     "item_group.radiotowers.radiotowers": "Radio Towers",
     "subtitles.fall_in_trash": "Fall In Trash",
     "subtitles.fall_on_trash": "Fall On Trash",
+    "subtitles.parachute_opening": "Airdrop's parachute opens",
+    "subtitles.planeflyby": "Supply plane flies by",
     "subtitles.radio_switch": "radio tunes",
     "subtitles.radio_tuning": "Radio Tuning",
+    "subtitles.radiotowers.siren": "Airdrop siren",
     "subtitles.trash_walking": "Walking In Trash"
 }

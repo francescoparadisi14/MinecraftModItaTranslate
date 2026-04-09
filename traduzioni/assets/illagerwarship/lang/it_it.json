@@ -1,3 +1,12 @@
 {
-    "item.illagerwarship.example_item": "Esempio di articolo"
+    "block.illagerwarship.example_block": "Esempio di blocco",
+    "illagerwarship.configuration.items": "Elenco degli articoli",
+    "illagerwarship.configuration.logDirtBlock": "Blocco di argilla per pavimentazione",
+    "illagerwarship.configuration.magicNumber": "Numero magico",
+    "illagerwarship.configuration.magicNumberIntroduction": "Numero Magico",
+    "illagerwarship.configuration.section.illagerwarship.common.toml": "Configurazioni per navi da guerra di Illager",
+    "illagerwarship.configuration.section.illagerwarship.common.toml.title": "Configurazioni per navi da guerra di Illager",
+    "illagerwarship.configuration.title": "Configurazioni per navi da guerra di Illager",
+    "item.illagerwarship.example_item": "Esempio di articolo",
+    "itemGroup.illagerwarship": "Esempio di tabella Mod"
 }

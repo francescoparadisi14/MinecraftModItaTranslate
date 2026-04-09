@@ -29,6 +29,7 @@
     "progressivebosses.corrupted_soul_sand": "Terra delle anime corrotta",
     "progressivebosses.corrupted_soul_sand.corruption_level": "Livello di corruzione: %d",
     "progressivebosses.corrupted_soul_sand.info": "Da utilizzare al centro della struttura di evocazione di Wither.",
+    "progressivebosses.elder_guardian.approach": "Sembra che state per affrontare un Monumento Oceanico, ma fino a quando non avrete sconfitto tutti i Guardiani più anziani, o se decidete di fuggire, non potrete distruggere i blocchi.",
     "progressivebosses.requires_nether": "Questa dimensione non può sopportare questo livello di corruzione. Il nether potrebbe essere un posto adatto.",
     "progressivebosses:command.player_add_boss_difficulty": "Aggiunto il livello di difficoltà di %d %s a %s (ora %d)",
     "progressivebosses:command.player_get_dragon_difficulty": "%s ha ucciso %d draghi",

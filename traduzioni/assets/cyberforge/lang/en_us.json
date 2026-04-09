@@ -1,0 +1,23 @@
+{
+    "item.cyberforge.augment_auxillary_legs": "Auxillary Leg Augments (A.L.A)",
+    "item.cyberforge.augment_gorilla_arms": "Gorilla Arms (G.A.A)",
+    "item.cyberforge.augment_silverhands_arm": "Afterlife Arm Augment (A.A.A)",
+    "item.cyberforge.implant_gravity_nullifier": "Gravity Nullifier (I.G.N)",
+    "item.cyberforge.implant_kevlar_heart_reinforcement": "Kevlar Heart Reinforcement (K.H.R)",
+    "item.cyberforge.implant_kiroshi_optics": "Kiroshi Optics Implant (K.O.I)",
+    "item.cyberforge.implant_mantis_blades": "Mantis Blades (M.B.I)",
+    "item.cyberforge.implant_neural_transmitter": "Neural Transmitter (N.T.I)",
+    "item.cyberforge.implant_optical_camo": "Optical Camo (O.C.I)",
+    "item.cyberforge.implant_sandevistan": "Sandevistan (S.I)",
+    "item.cyberforge.implant_syn_lungs": "Syn-Lungs (I.S.L)",
+    "item.cyberforge.implant_tendon_compressors": "Tendon Compressors (T.C.I)",
+    "item.cyberforge.lore_cann_7": "CANN-7",
+    "item.cyberforge.part_auxillary_leg": "A.L.A Leg",
+    "item.cyberforge.part_gorilla_arm": "Gorilla Arm",
+    "item.cyberforge.part_phantom_module": "Phantom Module",
+    "item.cyberforge.part_sandevistan_vertebra": "Sandevistan Vertebra",
+    "item.cyberforge.part_tendon_compressor": "Tendon Compressor",
+    "item.cyberforge.steel_ingot": "Steel Ingot",
+    "item.cyberforge.tool_circular_bonesaw": "Circular Bonesaw",
+    "item.cyberforge.tool_soldering_iron": "Soldering Iron"
+}

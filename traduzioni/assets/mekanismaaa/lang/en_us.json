@@ -1,0 +1,19 @@
+{
+    "block.mekanismaaa.glacio_fluorite_ore": "Glacio Fluorite Ore",
+    "block.mekanismaaa.glacio_lead_ore": "Glacio Lead Ore",
+    "block.mekanismaaa.glacio_osmium_ore": "Glacio Osmium Ore",
+    "block.mekanismaaa.glacio_tin_ore": "Glacio Tin Ore",
+    "block.mekanismaaa.glacio_uranium_ore": "Glacio Uranium Ore",
+    "block.mekanismaaa.mars_fluorite_ore": "Mars Fluorite Ore",
+    "block.mekanismaaa.mars_tin_ore": "Mars Tin Ore",
+    "block.mekanismaaa.mars_uranium_ore": "Mars Uranium Ore",
+    "block.mekanismaaa.mercury_lead_ore": "Mercury Lead Ore",
+    "block.mekanismaaa.mercury_osmium_ore": "Mercury Osmium Ore",
+    "block.mekanismaaa.mercury_uranium_ore": "Mercury Uranium Ore",
+    "block.mekanismaaa.moon_osmium_ore": "Moon Osmium Ore",
+    "block.mekanismaaa.moon_tin_ore": "Moon Tin Ore",
+    "block.mekanismaaa.venus_fluorite_ore": "Venus Fluorite Ore",
+    "block.mekanismaaa.venus_lead_ore": "Venus Lead Ore",
+    "block.mekanismaaa.venus_uranium_ore": "Venus Uranium Ore",
+    "itemGroup.mekanismaaa.ores": "Mekanism: Ad Astra Ores"
+}

@@ -17,5 +17,21 @@
     "block.jags.snow_fake_grass_block": "Fake Grass Block (Snow)",
     "block.jags.sparse_jungle_fake_grass_block": "Fake Grass Block (Sparse_jungle)",
     "block.jags.swamp_fake_grass_block": "Fake Grass Block (Swamp)",
-    "item.jags.grass_seed": "Grass Seed"
+    "item.jags.badlands_fake_grass_block": "Fake Grass Block (Badlands)",
+    "item.jags.birch_fake_grass_block": "Fake Grass Block (Birch)",
+    "item.jags.cheery_fake_grass_block": "Fake Grass Block (Cheery)",
+    "item.jags.dark_forest_fake_grass_block": "Fake Grass Block (Dark_forest)",
+    "item.jags.desert_fake_grass_block": "Fake Grass Block (Desert)",
+    "item.jags.fake_grass_block": "Fake Grass Block",
+    "item.jags.grass_seed": "Grass Seed",
+    "item.jags.jungle_fake_grass_block": "Fake Grass Block (Jungle)",
+    "item.jags.mangrove_fake_grass_block": "Fake Grass Block (Mangrove)",
+    "item.jags.meadow_fake_grass_block": "Fake Grass Block (Meadow)",
+    "item.jags.mushroom_fake_grass_block": "Fake Grass Block (Mushroom)",
+    "item.jags.ocean_fake_grass_block": "Fake Grass Block (Ocean)",
+    "item.jags.pale_garden_fake_grass_block": "Fake Grass Block (Pale_garden)",
+    "item.jags.plains_fake_grass_block": "Fake Grass Block (Plains)",
+    "item.jags.snow_fake_grass_block": "Fake Grass Block (Snow)",
+    "item.jags.sparse_jungle_fake_grass_block": "Fake Grass Block (Sparse_jungle)",
+    "item.jags.swamp_fake_grass_block": "Fake Grass Block (Swamp)"
 }

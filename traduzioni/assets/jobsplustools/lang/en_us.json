@@ -123,7 +123,7 @@
     "jobsplustools.tooltip.potion_storage.type": "Type: %s",
     "jobsplustools.tooltip.potion_storage.type.lingering": "Lingering",
     "jobsplustools.tooltip.potion_storage.type.splash": "Splash",
-    "jobsplustools.tooltip.switch_mode": "Crouch + Right Click to switch mode",
+    "jobsplustools.tooltip.switch_mode": "Shift + Right Click to switch mode",
     "jobsplustools.tooltip.wand.shoot": "Right Click to shoot potion",
     "jobsplustools.tooltip.wand.use": "Crouch + Right Click brewing stand to apply potions",
     "jobsplustools.tooltip.wrench.arms": "Click empty armor stand to toggle arms",

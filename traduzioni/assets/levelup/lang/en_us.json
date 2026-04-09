@@ -1,0 +1,6 @@
+{
+    "entity.levelup.level_orb": "Level Orb",
+    "item.levelup.test_skill_orb": "Test Skill Orb",
+    "itemGroup.levelup": "LevelUP",
+    "levelup.ui.level": "Level %s"
+}

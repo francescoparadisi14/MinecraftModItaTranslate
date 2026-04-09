@@ -1,0 +1,21 @@
+{
+    "entity.raidsenhanced.golem_of_last_resort": "Golem come ultima risorsa",
+    "entity.raidsenhanced.player_blimp": "Dirigibile",
+    "entity.raidsenhanced.raid_blimp": "Dirigibile Raider",
+    "entity.raidsenhanced.raid_drill": "Esercizio Raider",
+    "entity.raidsenhanced.zapper": "Zapper",
+    "item.raidsenhanced.blimp_parts": "Parti per dirigibili",
+    "item.raidsenhanced.golem_of_last_resort_spawn_egg": "Uovo di covata del Golem come ultima risorsa",
+    "item.raidsenhanced.handcannon": "Mitragliatrice a cadenza rapida",
+    "item.raidsenhanced.player_blimp": "Dirigibile",
+    "item.raidsenhanced.raid_blimp_spawn_egg": "Uovo di spawn per Raider",
+    "item.raidsenhanced.raid_drill_spawn_egg": "Uovo di spawn per Raider",
+    "item.raidsenhanced.zapper_spawn_egg": "Uovo di Zapper",
+    "item.raidsenhanced.zapper_staff": "Personale di Zapper",
+    "itemGroup.raidsenhanced": "Attacchi: Potenziati",
+    "raidsenhanced.item_description.blimp_parts": "Realizzare un progetto per trasformare qualsiasi tipo di imbarcazione in un dirigibile.",
+    "raidsenhanced.item_description.handcannon": "Usare per lanciare una potente bomba",
+    "raidsenhanced.item_description.player_blimp": "Posiziona un oggetto a terra per evocare il tuo dirigibile.",
+    "raidsenhanced.item_description.zapper_staff": "Utilizzare per creare una sfera di luce. Se utilizzato mentre si guarda verso il terreno, crea fulmini intorno all'utilizzatore.",
+    "raidsenhanced.mount": "Interagisci nuovamente con il pallone per disimbarcarti."
+}

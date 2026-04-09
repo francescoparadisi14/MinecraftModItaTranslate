@@ -3,11 +3,18 @@
     "block.radiotowers.metal_bars": "Rete metallica",
     "block.radiotowers.radio_panel": "Pannello radiofonico",
     "block.radiotowers.trashblock": "Trashblock",
+    "entity.radiotowers.airdropentity": "Airdropentity",
+    "entity.radiotowers.planeentity": "Entità di Airdrop",
     "gui.radiotowers.airdrop_crategui.label_airfrop_crate": "Cassa per l'AirDrop",
+    "item.radiotowers.airdropentity_spawn_egg": "Uovo di Airdropentity",
+    "item.radiotowers.planeentity_spawn_egg": "Uovo di Airdropentity",
     "item_group.radiotowers.radiotowers": "Torri radio",
     "subtitles.fall_in_trash": "Butta via nei rifiuti",
     "subtitles.fall_on_trash": "Cadere in un mucchio di spazzatura",
+    "subtitles.parachute_opening": "Il paracadute di Airdrop si apre.",
+    "subtitles.planeflyby": "Aereo di trasporto che passa all'altezza",
     "subtitles.radio_switch": "canzoni alla radio",
     "subtitles.radio_tuning": "Regolazione della radio",
+    "subtitles.radiotowers.siren": "Sirena di allarme",
     "subtitles.trash_walking": "Camminare tra i rifiuti"
 }

@@ -11,6 +11,8 @@
     "fluid_type.jaopca.electrodynamics_sulfates": "Soluzione di solfato di %s",
     "fluid_type.jaopca.molten": "Metallo fuso",
     "item.jaopca.create_crushed": "Granulato crudo %s",
+    "item.jaopca.crossroads_clumps": "Gruppi di %s",
+    "item.jaopca.crossroads_grits": "Grano crudo al %%",
     "item.jaopca.dusts": "Polvere di %s",
     "item.jaopca.electrodynamics_crudeminerals": "Contenitore per soluzione di %s (non raffinata)",
     "item.jaopca.electrodynamics_crystals": "Cristallo di %s",

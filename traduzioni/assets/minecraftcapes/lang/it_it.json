@@ -1,4 +1,20 @@
 {
+    "button.minecraftcapes.custom_capes": "Cappotti su misura",
+    "button.minecraftcapes.custom_capes.tooltip": "Mostra o nascondi le mantelle personalizzate",
+    "button.minecraftcapes.custom_ears": "Auricolari personalizzati",
+    "button.minecraftcapes.custom_ears.tooltip": "Mostra o nascondi le orecchie personalizzate",
+    "button.minecraftcapes.discord": "Discord",
+    "button.minecraftcapes.github": "GitHub",
+    "button.minecraftcapes.minecraftcapes": "MinecraftCapes",
+    "button.minecraftcapes.minecraftcapes.tooltip": "Avviare il sito web MinecraftCapes.net",
+    "button.minecraftcapes.reload": "Ripristina profilo",
+    "button.minecraftcapes.reload.tooltip": "Aggiorna il tuo profilo per mostrare il tuo nuovo cappello\/orecchie!",
+    "button.minecraftcapes.reload_all": "Ricarica tutti i profili",
+    "button.minecraftcapes.reload_all.tooltip": "Ricaricare tutti i profili in modo che gli altri utenti possano aggiornare i loro cappelli\/orecchie. Nota: ciò potrebbe causare rallentamenti!",
+    "gui.minecraftcapes.tab.general": "Generale",
+    "gui.minecraftcapes.tab.links": "Link",
+    "gui.minecraftcapes.tab.options": "Opzioni",
+    "gui.minecraftcapes.title": "MinecraftCapes",
     "key.category.minecraftcapes.gui": "MinecraftCapes",
     "key.minecraftcapes.gui": "Interfaccia grafica utente"
 }

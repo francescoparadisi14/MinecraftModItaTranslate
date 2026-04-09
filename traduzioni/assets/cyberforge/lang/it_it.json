@@ -1,0 +1,23 @@
+{
+    "item.cyberforge.augment_auxillary_legs": "Supporti per gambe aggiuntivi (A.L.A)",
+    "item.cyberforge.augment_gorilla_arms": "Gorilla Arms (G.A.A)",
+    "item.cyberforge.augment_silverhands_arm": "Rinforzo per braccio \"Al di là della vita\" (A.A.A)",
+    "item.cyberforge.implant_gravity_nullifier": "Annullatore di gravità (I.G.N)",
+    "item.cyberforge.implant_kevlar_heart_reinforcement": "Rinforzo per il cuore in Kevlar (K.H.R.)",
+    "item.cyberforge.implant_kiroshi_optics": "Kiroshi Optics Implant (K.O.I)",
+    "item.cyberforge.implant_mantis_blades": "Mantis Blades (M.B.I)",
+    "item.cyberforge.implant_neural_transmitter": "Trasmettitore neuronale (N.T.I.)",
+    "item.cyberforge.implant_optical_camo": "Camo ottico (O.C.I)",
+    "item.cyberforge.implant_sandevistan": "Sandevistan (S.I.)",
+    "item.cyberforge.implant_syn_lungs": "Syn-Lungs (I.S.L)",
+    "item.cyberforge.implant_tendon_compressors": "Compressori per tendini (T.C.I)",
+    "item.cyberforge.lore_cann_7": "CANN-7",
+    "item.cyberforge.part_auxillary_leg": "A.L.A Leg",
+    "item.cyberforge.part_gorilla_arm": "Braccio di gorilla",
+    "item.cyberforge.part_phantom_module": "Modulo Fantasma",
+    "item.cyberforge.part_sandevistan_vertebra": "Sandevistan: la componente principale",
+    "item.cyberforge.part_tendon_compressor": "Compressore per tendini",
+    "item.cyberforge.steel_ingot": "Lingotto di acciaio",
+    "item.cyberforge.tool_circular_bonesaw": "Forbice circolare",
+    "item.cyberforge.tool_soldering_iron": "Saldatore"
+}

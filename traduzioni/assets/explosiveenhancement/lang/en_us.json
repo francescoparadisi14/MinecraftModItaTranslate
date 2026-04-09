@@ -36,6 +36,8 @@
     "explosiveenhancement.extras.logs": "Debug Logs",
     "explosiveenhancement.extras.logs.tooltip": "Extra console logs to help debug, if needed",
     "explosiveenhancement.extras.logs.warningtooltip": "§cWarning§r: Will spam logs!",
+    "explosiveenhancement.extras.strictparticles": "Strict Particle Detection",
+    "explosiveenhancement.extras.strictparticles.tooltip": "If enabled, Explosive Enhancement's custom explosion particles will only be shown if the original explosion particles were Minecraft's explosion particles.",
     "explosiveenhancement.fireball.enabled": "Fireball Particle",
     "explosiveenhancement.fireball.enabled.tooltip": "A large orange, vertical circle",
     "explosiveenhancement.knockbackcalc.enabled": "Attempt Calculating Power From Knockback",

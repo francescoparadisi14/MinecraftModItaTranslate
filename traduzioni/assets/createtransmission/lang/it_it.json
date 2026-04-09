@@ -2,5 +2,16 @@
     "block.createtransmission.andesite_encased_transmission_chain": "Catena di trasmissione in andesite",
     "block.createtransmission.brass_encased_transmission_chain": "Catena di trasmissione con rivestimento in ottone",
     "block.createtransmission.transmission_chain": "Catena di trasmissione",
+    "createtransmission.ponder.encasing.header": "Proteggere le catene di trasmissione",
+    "createtransmission.ponder.encasing.text_1": "Anche le catene di trasmissione possono essere protette da involucri.",
+    "createtransmission.ponder.encasing.text_2": "Un cacciavite può essere utilizzato per rimuovere la carcassa.",
+    "createtransmission.ponder.usage.header": "Trasmissione della forza rotazionale tramite catene di trasmissione",
+    "createtransmission.ponder.usage.text_1": "Un sistema di trasmissione a catena racchiuso può essere utilizzato per trasferire la potenza rotazionale tra le cinghie.",
+    "createtransmission.ponder.usage.text_2": "Ma sono piuttosto ingombranti...",
+    "createtransmission.ponder.usage.text_3": "In alternativa, è possibile utilizzare le catene di trasmissione! Queste sono sottili e funzionano solo con le cinghie.",
+    "createtransmission.ponder.usage.text_4": "Possono essere alimentati con diverse configurazioni.",
+    "createtransmission.ponder.usage.text_5": "Orizzontalmente...",
+    "createtransmission.ponder.usage.text_6": "...a un angolo retto...",
+    "createtransmission.ponder.usage.text_7": "...e anche verticalmente.",
     "creativeTab.createtransmission.main": "Crea: Trasferisci"
 }

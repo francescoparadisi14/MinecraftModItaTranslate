@@ -1,0 +1,15 @@
+{
+    "block.flowerseedsbop.burning_blossom_seed": "Fiore in fiamme",
+    "block.flowerseedsbop.glow_flower_seed": "Fiore luminoso",
+    "block.flowerseedsbop.orange_cosmos_seed": "Cosmos arancione",
+    "block.flowerseedsbop.pink_daffodil_seed": "Narciso rosa",
+    "block.flowerseedsbop.rose_seed": "Rose",
+    "block.flowerseedsbop.wilted_lily_seed": "Gigli appassiti",
+    "flowerseedsbop.packmeta.description": "Semi di fiori 2 biomi o pacchetti di risorse e dati abbondanti",
+    "item.flowerseedsbop.burning_blossom_seed": "Semi di Burning Blossom",
+    "item.flowerseedsbop.glow_flower_seed": "Semi di fiori luminosi",
+    "item.flowerseedsbop.orange_cosmos_seed": "Semi di Cosmos arancioni",
+    "item.flowerseedsbop.pink_daffodil_seed": "Semi di narciso rosa",
+    "item.flowerseedsbop.rose_seed": "Semi di rosa",
+    "item.flowerseedsbop.wilted_lily_seed": "Semi di giglio appassiti"
+}

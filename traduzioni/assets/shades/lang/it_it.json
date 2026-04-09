@@ -1,0 +1,14 @@
+{
+    "entity.shades.shade": "Ombra",
+    "entity.shades.shade.named": "Tonalità del %s",
+    "shades.configuration.allowMultipleShades": "Permetti diverse tonalità",
+    "shades.configuration.dropItemsFromReplacedShade": "Rimuovi gli oggetti dalla nuova ombra.",
+    "shades.configuration.onlyOwnerCanDamageShade": "Solo il proprietario può danneggiare la tenda.",
+    "shades.configuration.playShadeMusic": "Ascolta la musica di Shade",
+    "shades.configuration.showShadeOwnerNames": "Mostra i nomi dei proprietari",
+    "shades.configuration.spawnShadesInPeaceful": "Genera Shade in modalità \"Pacifica\".",
+    "shades.configuration.title": "Impostazioni",
+    "sounds.shades.shade_attack": "Attacchi con ombre",
+    "sounds.shades.shade_flying": "Sussurri di ombra",
+    "sounds.shades.shade_hurt": "L'ombra fa male."
+}

@@ -1,5 +1,25 @@
 {
     "block.tpa.example_block": "Example Block",
     "item.tpa.example_item": "Example Item",
-    "itemGroup.tpa": "Example Mod Tab"
+    "itemGroup.tpa": "Example Mod Tab",
+    "messages.tpa.backDisabled": "\/back is disabled on this server!",
+    "messages.tpa.doubleRequest": "You have already sent a teleport request!",
+    "messages.tpa.inCooldown": "You are in cooldown for another %ss!",
+    "messages.tpa.noBackLocation": "No back location!",
+    "messages.tpa.noRequest": "You do not have a teleport request!",
+    "messages.tpa.receivedtpaRequest": "You have received a tpa request from %s",
+    "messages.tpa.receivedtpahereRequest": "You have received a tpahere request from %s",
+    "messages.tpa.requestAccepted": "You accepted the teleport request!",
+    "messages.tpa.requestCanceled": "You canceled your teleport request!",
+    "messages.tpa.requestExpired": "The teleport request is expired!",
+    "messages.tpa.requestsDisabled": "%s has teleport requests disabled!",
+    "messages.tpa.requestsToggledfalse": "Teleport requests are now disabled!",
+    "messages.tpa.requestsToggledtrue": "Teleport requests are now enabled!",
+    "messages.tpa.selfRequest": "You cannot teleport to yourself!",
+    "messages.tpa.senderOffline": "The player is offline",
+    "messages.tpa.senttpaRequest": "You have sent %s a tpa request!",
+    "messages.tpa.senttpahereRequest": "You have sent %s a tpahere request!",
+    "messages.tpa.teleported": "Teleported!",
+    "messages.tpa.teleporting": "Teleporting in %ss...",
+    "messages.tpa.tpahereRequestAccepted": "Your tpahere request was accepted!"
 }

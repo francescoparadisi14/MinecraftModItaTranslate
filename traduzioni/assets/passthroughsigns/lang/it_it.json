@@ -1,0 +1,9 @@
+{
+    "_comment": "Impostazioni di gioco di NeoForge",
+    "passthroughsigns.configgui.shouldBannerBePassable": "Ignorare gli annunci",
+    "passthroughsigns.configgui.shouldItemFrameBePassable": "Ignora le cornici",
+    "passthroughsigns.configgui.shouldPaintingsBePassable": "Ignorare i dipinti",
+    "passthroughsigns.configgui.shouldWallSignBePassable": "Ignorare gli avvisi presenti sulle pareti",
+    "passthroughsigns.configgui.turnOffItemRotation": "Disattiva la rotazione degli oggetti (cornici degli oggetti)",
+    "passthroughsigns.configuration.general": "Generale"
+}

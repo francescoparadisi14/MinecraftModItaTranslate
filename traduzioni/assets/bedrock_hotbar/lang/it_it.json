@@ -1,4 +1,5 @@
 {
+    "text.autoconfig.bedrock_hotbar.option.chatOffset": "Chat con compensazione",
     "text.autoconfig.bedrock_hotbar.option.offset": "Offset della barra",
     "text.autoconfig.bedrock_hotbar.option.renderTexture": "Rendere la parte inferiore della texture",
     "text.autoconfig.bedrock_hotbar.option.renderTexture.@Tooltip": "Se mostrare o meno la parte inferiore dell'interfaccia di selezione delle texture.",

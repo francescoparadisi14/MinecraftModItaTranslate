@@ -1,0 +1,6 @@
+{
+    "item.mobcapturingtool.mob_capturing_tool": "Strumento per la cattura di persone",
+    "tooltip.mobcapturingtool.blacklisted": "Le entità di tipo \"%s\" sono state bloccate e non possono essere acquisite.",
+    "tooltip.mobcapturingtool.captured_entity": "Entità: %s",
+    "tooltip.mobcapturingtool.captured_entity.health": "Salute: %s"
+}

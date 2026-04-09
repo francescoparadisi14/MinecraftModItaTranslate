@@ -209,6 +209,8 @@
     "bloodlines.configuration.nobleFireDamageMultiplier": "Fire Damage Multipliers",
     "bloodlines.configuration.nobleFlankCooldown": "Flank Cooldown",
     "bloodlines.configuration.nobleFlankMaxDistance": "Flank Max Distance",
+    "bloodlines.configuration.nobleFlankSightRequirement": "Flank Sight Requirement",
+    "bloodlines.configuration.nobleLordSlayerMinLordRank": "Minimum Lord Level for Unique Unlock",
     "bloodlines.configuration.nobleLordslayerBaronHealth": "Lordslayer Baron Health Requirement",
     "bloodlines.configuration.nobleLordslayerMinLordRank": "Minimum Lord Level for Unique Unlock",
     "bloodlines.configuration.nobleMaxHealthIncrease": "Max Health Increases",

@@ -1,0 +1,12 @@
+{
+    "block.snowy_tents.example_block": "Esempio di blocco",
+    "item.snowy_tents.example_item": "Esempio di articolo",
+    "itemGroup.snowy_tents": "Esempio di tabella Mod",
+    "snowy_tents.configuration.items": "Elenco degli articoli",
+    "snowy_tents.configuration.logDirtBlock": "Blocco di argilla per pavimentazione",
+    "snowy_tents.configuration.magicNumber": "Numero magico",
+    "snowy_tents.configuration.magicNumberIntroduction": "Numero Magico",
+    "snowy_tents.configuration.section.snowy_tents.common.toml": "Configurazioni per tende invernali",
+    "snowy_tents.configuration.section.snowy_tents.common.toml.title": "Configurazioni per tende invernali",
+    "snowy_tents.configuration.title": "Configurazioni per tende invernali"
+}

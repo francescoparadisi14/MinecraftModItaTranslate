@@ -1,0 +1,23 @@
+{
+    "justenoughcobblemon.ui.spawn.biomes": "Biomes",
+    "justenoughcobblemon.ui.spawn.bucket": "Bucket",
+    "justenoughcobblemon.ui.spawn.dimensions": "Dimensions",
+    "justenoughcobblemon.ui.spawn.excluded_biomes": "Excl. Biomes",
+    "justenoughcobblemon.ui.spawn.form": "Form",
+    "justenoughcobblemon.ui.spawn.labels": "Labels",
+    "justenoughcobblemon.ui.spawn.level": "Level",
+    "justenoughcobblemon.ui.spawn.light": "Light",
+    "justenoughcobblemon.ui.spawn.markers": "Markers",
+    "justenoughcobblemon.ui.spawn.moon_phase": "Moon Phase",
+    "justenoughcobblemon.ui.spawn.no_data": "No spawn data.",
+    "justenoughcobblemon.ui.spawn.raining": "Raining",
+    "justenoughcobblemon.ui.spawn.sees_sky": "Sees Sky",
+    "justenoughcobblemon.ui.spawn.sky_light": "Sky Light",
+    "justenoughcobblemon.ui.spawn.slime_chunk": "Slime Chunk",
+    "justenoughcobblemon.ui.spawn.structures": "Structures",
+    "justenoughcobblemon.ui.spawn.thundering": "Thundering",
+    "justenoughcobblemon.ui.spawn.time": "Time",
+    "justenoughcobblemon.ui.spawn.title": "Location %s\/%s",
+    "justenoughcobblemon.ui.spawn.weight": "Weight",
+    "justenoughcobblemon.ui.spawn.y_range": "Y Range"
+}

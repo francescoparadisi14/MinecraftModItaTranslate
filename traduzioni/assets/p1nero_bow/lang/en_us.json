@@ -1,0 +1,8 @@
+{
+    "effect.p1nero_bow.double_arrow": "Double Arrow",
+    "item.p1nero_bow.mortis": "Mortis",
+    "item.p1nero_bow.mortis_innate.tooltip0": "Mortis Echo",
+    "item.p1nero_bow.mortis_innate.tooltip1": "Press [%s] when shooting to cancel movement.",
+    "item.p1nero_bow.mortis_innate.tooltip2": "Upon unleashing a basic attack, press [%s] to deliver a devastating melee strike and reset your combo.",
+    "item.p1nero_bow.mortis_innate.tooltip3": "When the stack reaches its zenith, the power of twin arrows is bestowed upon you."
+}

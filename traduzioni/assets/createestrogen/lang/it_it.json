@@ -1,0 +1,18 @@
+{
+    "block.createestrogen.centrifuge": "Centrifuga",
+    "block.createestrogen.moth_seat": "Sedile in legno di acero color rosa",
+    "create.tooltip.speedRequirement.max": "Макс",
+    "createestrogen.ponder.basic.header": "Come utilizzare il centrifugatore",
+    "createestrogen.ponder.basic.text_1": "La centrifuga non ha alcun inventario; sarà necessario posizionare dei contenitori per i liquidi attorno ad essa per farla funzionare!",
+    "createestrogen.ponder.basic.text_2": "È possibile introdurre liquidi dall'alto.",
+    "createestrogen.ponder.basic.text_3": "E fluidi provenienti dall'alto.",
+    "createestrogen.ponder.intro.header": "Requisiti per la centrifuga",
+    "createestrogen.ponder.intro.text_1": "La centrifuga deve funzionare alla massima velocità (256 giri al minuto)!",
+    "createestrogen.recipe.centrifuging": "Centrifugazione",
+    "emi.category.createestrogen.centrifuging": "Centrifugazione",
+    "item.createestrogen.incomplete_estrogen_patches": "Pellicola contraccettiva contenente estrogeni (non completa)",
+    "item.createestrogen.incomplete_uwu": "Incompleto UwU",
+    "item.createestrogen.package": "Confezione di pillole ormonali",
+    "item.createestrogen.used_filter": "Filtro utilizzato",
+    "itemGroup.createestrogen.createestrogen": "Crea: Estrogeno"
+}

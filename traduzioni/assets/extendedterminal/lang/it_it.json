@@ -8,6 +8,7 @@
     "gui.extendedterminal.anvilpanel": "Martello",
     "gui.extendedterminal.anvilpanel.xpcost": "Costo XP: %d",
     "gui.extendedterminal.basicTerminal": "Terminale base esteso",
+    "gui.extendedterminal.config.title": "Configurazione avanzata del terminale",
     "gui.extendedterminal.craftingpanel": "Creazione; realizzazione",
     "gui.extendedterminal.eliteTerminal": "Terminal Elite Esteso",
     "gui.extendedterminal.endTerminal": "Fine lavoro al terminal",

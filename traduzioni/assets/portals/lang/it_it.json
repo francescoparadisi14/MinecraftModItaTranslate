@@ -1,0 +1,13 @@
+{
+    "block.portals.custom_portal": "Portale",
+    "category.portals.portal_recipe": "Portale",
+    "config.jade.plugin_portals.portal_name_provider": "Nome del fornitore del portale",
+    "portals.jei.tooltip.corners": "Non sono necessari gli angoli.",
+    "portals.jei.tooltip.flat": "Portale piatto",
+    "portals.jei.tooltip.fluid_ignition": "Consuma liquidi per attivare il portale.",
+    "portals.jei.tooltip.item_ignition": "Clicca con il tasto destro sull'oggetto per attivare il portale.",
+    "portals.jei.tooltip.nether": "Portale a pavimento",
+    "portals.jei.tooltip.place_block_ignition": "Posiziona il blocco per attivare il portale.",
+    "portals.jei.tooltip.rotate": "Dimensioni del portale: %s, %s",
+    "tooltip.portal.jade.to": "A %s"
+}

@@ -1,0 +1,23 @@
+{
+    "justenoughcobblemon.ui.spawn.biomes": "Biomi",
+    "justenoughcobblemon.ui.spawn.bucket": "Secchio",
+    "justenoughcobblemon.ui.spawn.dimensions": "Dimensioni",
+    "justenoughcobblemon.ui.spawn.excluded_biomes": "Escluse le biomi",
+    "justenoughcobblemon.ui.spawn.form": "Form",
+    "justenoughcobblemon.ui.spawn.labels": "Etichette",
+    "justenoughcobblemon.ui.spawn.level": "Livello",
+    "justenoughcobblemon.ui.spawn.light": "Luce",
+    "justenoughcobblemon.ui.spawn.markers": "Segnalibri",
+    "justenoughcobblemon.ui.spawn.moon_phase": "Fase lunare",
+    "justenoughcobblemon.ui.spawn.no_data": "Nessun dato di generazione.",
+    "justenoughcobblemon.ui.spawn.raining": "Sta piovendo",
+    "justenoughcobblemon.ui.spawn.sees_sky": "Vede Sky",
+    "justenoughcobblemon.ui.spawn.sky_light": "Finestra panoramica",
+    "justenoughcobblemon.ui.spawn.slime_chunk": "Polpa di slime",
+    "justenoughcobblemon.ui.spawn.structures": "Strutture",
+    "justenoughcobblemon.ui.spawn.thundering": "Ruggente",
+    "justenoughcobblemon.ui.spawn.time": "Tempo",
+    "justenoughcobblemon.ui.spawn.title": "Posizione: %s\/%s",
+    "justenoughcobblemon.ui.spawn.weight": "Peso",
+    "justenoughcobblemon.ui.spawn.y_range": "Intervallo di valori Y"
+}

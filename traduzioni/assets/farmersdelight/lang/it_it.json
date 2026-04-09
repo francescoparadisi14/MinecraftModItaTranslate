@@ -417,6 +417,8 @@
     "item.farmersdelight.wheat_dough": "Impasto",
     "itemGroup.farmersdelight": "Farmer's Delight",
     "itemGroup.farmersdelight.main": "Farmer's Delight",
+    "rrv.cooking.experience": "%s punti esperienza",
+    "rrv.cooking.time": "%s secondi",
     "tag.item.c.bones": "Ossa",
     "tag.item.c.crops.cabbage": "Colture di cavolo",
     "tag.item.c.crops.grain": "Colture cerealicole",

@@ -1,0 +1,21 @@
+{
+    "entity.raidsenhanced.golem_of_last_resort": "Golem of Last Resort",
+    "entity.raidsenhanced.player_blimp": "Blimp",
+    "entity.raidsenhanced.raid_blimp": "Raider Blimp",
+    "entity.raidsenhanced.raid_drill": "Raider Drill",
+    "entity.raidsenhanced.zapper": "Zapper",
+    "item.raidsenhanced.blimp_parts": "Blimp Parts",
+    "item.raidsenhanced.golem_of_last_resort_spawn_egg": "Golem of Last Resort Spawn Egg",
+    "item.raidsenhanced.handcannon": "Handcannon",
+    "item.raidsenhanced.player_blimp": "Blimp",
+    "item.raidsenhanced.raid_blimp_spawn_egg": "Raider Blimp Spawn Egg",
+    "item.raidsenhanced.raid_drill_spawn_egg": "Raider Drill Spawn Egg",
+    "item.raidsenhanced.zapper_spawn_egg": "Zapper Spawn Egg",
+    "item.raidsenhanced.zapper_staff": "Zapper Staff",
+    "itemGroup.raidsenhanced": "Raids: Enhanced",
+    "raidsenhanced.item_description.blimp_parts": "Craft with any boat to convert it into a blimp",
+    "raidsenhanced.item_description.handcannon": "Use to fire a powerful bomb",
+    "raidsenhanced.item_description.player_blimp": "Place on ground to summon your own blimp",
+    "raidsenhanced.item_description.zapper_staff": "Use to release a ball lightning. If used while looking on ground casts lightnings around the user.",
+    "raidsenhanced.mount": "Interact with the blimp again to Dismount."
+}

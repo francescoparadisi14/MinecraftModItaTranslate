@@ -1,0 +1,8 @@
+{
+    "effect.p1nero_bow.double_arrow": "Doppio freccia",
+    "item.p1nero_bow.mortis": "Morte",
+    "item.p1nero_bow.mortis_innate.tooltip0": "Eco della morte",
+    "item.p1nero_bow.mortis_innate.tooltip1": "Premere il tasto [%s] durante lo scatto per interrompere il movimento.",
+    "item.p1nero_bow.mortis_innate.tooltip2": "Dopo aver eseguito un attacco di base, premi [%s] per effettuare un colpo ravvicinato devastante e ripristinare la sequenza di attacchi.",
+    "item.p1nero_bow.mortis_innate.tooltip3": "Quando la pila raggiunge il suo culmine, ti viene conferito il potere delle due frecce."
+}

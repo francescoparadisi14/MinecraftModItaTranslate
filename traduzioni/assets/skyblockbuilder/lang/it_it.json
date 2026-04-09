@@ -145,6 +145,7 @@
     "skyblockbuilder.screen.dump.button.create": "Crea backup",
     "skyblockbuilder.screen.dump.create_issue": "È possibile segnalare il problema qui:",
     "skyblockbuilder.screen.dump.failure": "Non dispone dei permessi necessari per effettuare un dump dei dati sul server.",
+    "skyblockbuilder.screen.dump.info": "Questo file potrebbe contenere dati personali, tra cui nomi di giocatori, UUID e percorsi di file nei log.",
     "skyblockbuilder.screen.dump.success": "Creato con successo il %s",
     "skyblockbuilder.screen.dump.success.server": "sul server",
     "skyblockbuilder.screen.dump.text.configs": "Configurazioni",

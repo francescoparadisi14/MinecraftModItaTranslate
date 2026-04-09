@@ -1,6 +1,8 @@
 {
     "creativetab.catburger.catburger_tab": "Hamburger di gatto",
     "item.catburger.cat_burger": "Hamburger di gatto",
+    "item.catburger.cat_burger.cooldown.ready": "Effetto totem pronto",
+    "item.catburger.cat_burger.cooldown.remaining": "Effetto di raffreddamento Totem: %",
     "item.catburger.cat_burger.tooltip": "Miao!",
     "text.autoconfig.catburger.option.client": "Configurazione del cliente",
     "text.autoconfig.catburger.option.client.float_distance": "Distanza di galleggiamento (in blocchi)",

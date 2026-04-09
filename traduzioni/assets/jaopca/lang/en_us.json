@@ -11,6 +11,8 @@
     "fluid_type.jaopca.electrodynamics_sulfates": "%s Sulfate Solution",
     "fluid_type.jaopca.molten": "Molten %s",
     "item.jaopca.create_crushed": "Crushed Raw %s",
+    "item.jaopca.crossroads_clumps": "%s Clumps",
+    "item.jaopca.crossroads_grits": "Raw %s Grit",
     "item.jaopca.dusts": "%s Dust",
     "item.jaopca.electrodynamics_crudeminerals": "Crude %s Solution Bucket",
     "item.jaopca.electrodynamics_crystals": "%s Crystal",

@@ -1,0 +1,12 @@
+{
+    "block.trashed.energy_trash_can": "Bidone per rifiuti energetici",
+    "block.trashed.fluid_trash_can": "Cestino per rifiuti a flusso continuo",
+    "block.trashed.trash_can": "Bidone della spazzatura",
+    "death.attack.trashed": "«Il\/La \\[s] è stato\/a gettato\/a nel cestino della spazzatura».",
+    "trashed.configuration.itemTrashQuantity": "Articolo, Quantità",
+    "trashed.configuration.itemTrashQuantity.tooltip": "La quantità di oggetti che il bidone distrugge ad ogni ciclo [Valore predefinito: 1]",
+    "trashed.configuration.trashing": "Eliminare, gettare via, spazzare via",
+    "trashed.configuration.trashing.tooltip": "Impostazioni predefinite",
+    "trashed.container.trashcan": "Bidone della spazzatura",
+    "trashed.trash_tooltip": "Butta via tutto ciò che ti infastidisce (L'immondicino deve essere alto due metri)"
+}

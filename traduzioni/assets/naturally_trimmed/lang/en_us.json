@@ -12,7 +12,7 @@
     "naturally_trimmed.config.general": "General",
     "naturally_trimmed.config.general.tooltip": "General settings for this mod",
     "naturally_trimmed.config.materialBlacklist": "Trim Material Blacklist",
-    "naturally_trimmed.config.materialBlacklist.description": "Blacklist for trim materials.\n\nThe intended use for this and the other blacklist is to work around edge-cases caused by other mods, that result in missing-texture trims.\nFor example, combining newer elytra trims versions with an older version of this mod, results in frequent missing-texture trims.\nThis and the other blacklist allows blacklisting all the problematic materials\/patterns in order to get rid of the missing-texture trims.\nHowever, please also report the edge-cases, causing the missing-texture trims, to the mods issue tracker,\nso that the edge-cases can potentially be fixed directly inside this mod and can be fixed it for once and for all\/for all users.\n\nThis uses regex, allowing for more advanced configuration.\nTo ease the configuration of the blacklist, theres a util tab inside the config screen, which contains a button to validate the blacklist.\n\nExample configuration, blacklisting the amethyst and all of biomes_o_plenty's materials:\nmaterial_blacklist: [\"minecraft:amethyst\", \"biomes_o_plenty:\"],",
+    "naturally_trimmed.config.materialBlacklist.description": "Blacklist for trim materials.\n\nThe intended use for this and the other blacklist is to work around edge-cases caused by other mods, that result in missing-texture trims.\nFor an easier workaround, see vanilla_only.\n\nFor example, combining newer elytra trims versions with an older version of this mod, results in frequent missing-texture trims.\nThis and the other blacklist allows blacklisting all the individual problematic materials\/patterns in order to get rid of the missing-texture trims.\nHowever, please also report the edge-cases, causing the missing-texture trims, to the mods issue tracker,\nso that the edge-cases can potentially be fixed directly inside this mod and can be fixed it for once and for all\/for all users.\n\nThis uses regex, allowing for more advanced configuration.\nTo ease the configuration of the blacklist, theres a util tab inside the config screen, which contains a button to validate the blacklist.\n\nExample configuration, blacklisting the amethyst and all of biomes_o_plenty's materials:\nmaterial_blacklist: [\"minecraft:amethyst\", \"biomes_o_plenty:\"],",
     "naturally_trimmed.config.patternBlacklist": "Trim Pattern Blacklist",
     "naturally_trimmed.config.patternBlacklist.description": "Blacklist for trim patterns.\n\nRead Material Blacklists' description for more context and information.\n\nExample configuration, blacklisting the wild trim pattern and all of more_armor_trims's patterns:\npatterns_blacklist: [\"minecraft:wild\", \"more_armor_trims:\"],",
     "naturally_trimmed.config.trimLootTables": "Trim Loot Tables",
@@ -36,6 +36,8 @@
     "naturally_trimmed.config.trimTrades.trimChance": "Trim Chance",
     "naturally_trimmed.config.trimTrades.trimChance.description": "Chance of a trade of having a trim applied",
     "naturally_trimmed.config.utils": "Utils",
+    "naturally_trimmed.config.utils.openFile": "Open Config File",
+    "naturally_trimmed.config.utils.openFile.description": "Opens the config file inside the standard text editor",
     "naturally_trimmed.config.utils.reloadConfig": "Reload Config",
     "naturally_trimmed.config.utils.reloadConfig.description": "Reload the config from the config file.\nUseful for configuring the Predefined Trims System, since it is only configurable through the config file",
     "naturally_trimmed.config.utils.run": "Run",
@@ -43,5 +45,7 @@
     "naturally_trimmed.config.utils.validateBlacklists": "Validate Backlists",
     "naturally_trimmed.config.utils.validateBlacklists.description": "Validates both blacklists and logs relevant information in chat.\nOnly works while inside a world",
     "naturally_trimmed.config.utils.validatePredefinedTrims": "Validate Predefined Trims",
-    "naturally_trimmed.config.utils.validatePredefinedTrims.description": "Validates all predefined trims and logs relevant information in chat.\nOnly works while inside a world"
+    "naturally_trimmed.config.utils.validatePredefinedTrims.description": "Validates all predefined trims and logs relevant information in chat.\nOnly works while inside a world",
+    "naturally_trimmed.config.vanillaOnly": "Vanilla Only",
+    "naturally_trimmed.config.vanillaOnly.description": "Use vanilla-only trim materials and patterns.\n\nThe intended use for this is to easily work around edge-cases caused by other mods' trims, that result in missing-texture trims.\n\nFor more advanced workarounds, without having to blacklist all non-vanilla trims, see material_blacklist and pattern_blacklist."
 }

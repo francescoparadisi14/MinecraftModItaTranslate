@@ -85,5 +85,6 @@
     "curvy_pipes.transparency_toggle": "Right click with [%s] to toggle transparency",
     "curvy_pipes.unforce_joint": "Unforce Joint",
     "curvy_pipes.wait": "Waiting for server",
-    "item.curvy_pipes.redstone_cable": "Redstone Cable"
+    "item.curvy_pipes.redstone_cable": "Redstone Cable",
+    "itemGroup.curvy_pipes": "Curvy Pipes"
 }

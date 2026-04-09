@@ -94,6 +94,6 @@
     "modifier.blue_skies_tcon.sky_breaker.description": "Break the limits of the Blue Skies",
     "modifier.blue_skies_tcon.sky_breaker.flavor": "We Minecrafters have no limits!",
     "modifier.blue_skies_tcon.ultraviolet": "Ultraviolet",
-    "modifier.blue_skies_tcon.ultraviolet.description": "Make your targets glow!",
+    "modifier.blue_skies_tcon.ultraviolet.description": "Make your targets glow and deals extra damage to glowing targets!",
     "modifier.blue_skies_tcon.ultraviolet.flavor": "Known to the State of California to cause cancer"
 }

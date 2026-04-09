@@ -1,0 +1,15 @@
+{
+    "text.autoconfig.talk_balloons.option.balloonAge": "Età apparente",
+    "text.autoconfig.talk_balloons.option.balloonPadding": "Riempimento con palloncini",
+    "text.autoconfig.talk_balloons.option.balloonStyle": "Stile a palloncino",
+    "text.autoconfig.talk_balloons.option.balloonTint": "Colore per palloncini",
+    "text.autoconfig.talk_balloons.option.balloonsHeightOffset": "Altezza di offset per i palloncini",
+    "text.autoconfig.talk_balloons.option.distanceBetweenBalloons": "Distanza tra i palloncini",
+    "text.autoconfig.talk_balloons.option.maxBalloonWidth": "Larghezza massima del palloncino",
+    "text.autoconfig.talk_balloons.option.maxBalloons": "Palloncini Max",
+    "text.autoconfig.talk_balloons.option.minBalloonWidth": "Larghezza minima del palloncino",
+    "text.autoconfig.talk_balloons.option.onlyDisplayBalloons": "Mostra solo i palloncini.",
+    "text.autoconfig.talk_balloons.option.onlyDisplayBalloons.tooltip": "Mostra solo palloncini invece dei messaggi di chat per te stesso.",
+    "text.autoconfig.talk_balloons.option.showOwnBalloon": "Mostra il tuo palloncino.",
+    "text.autoconfig.talk_balloons.option.textColor": "Colore del testo"
+}

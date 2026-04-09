@@ -1,0 +1,7 @@
+{
+    "item.codex.guide_book": "Guida turistica",
+    "item.codex.skills_book": "Guida alle competenze",
+    "toast.codex.level_up": "Vai al livello successivo!",
+    "toast.codex.level_up.multi": "Raggiunti i livelli %s, ora si sono raggiunti i livelli %s",
+    "toast.codex.level_up.single": "Raggiunto il livello %s"
+}

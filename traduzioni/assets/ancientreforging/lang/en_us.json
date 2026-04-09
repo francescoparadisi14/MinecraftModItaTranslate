@@ -211,6 +211,8 @@
     "affix.ancientreforging:shield\/retreating": "Retreating",
     "affix.ancientreforging:shield\/retreating.desc": "You will leap back when blocking in melee.",
     "affix.ancientreforging:shield\/retreating.suffix": "of the Jester",
+    "affix.ancientreforging:weapon\/attribute\/shredding": "Shredding",
+    "affix.ancientreforging:weapon\/attribute\/shredding.suffix": "of the Maelstrom",
     "block.ancientreforging.ancient_reforging_table": "Ancient Reforging Table",
     "block.ancientreforging.ancient_reforging_table.desc": "Uses Sigils of Rebirth and Rarity Materials to reforge items",
     "item.ancientreforging.ancient_material": "Manifestation of Infinity",

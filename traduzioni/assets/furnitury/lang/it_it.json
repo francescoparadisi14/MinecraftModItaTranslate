@@ -517,5 +517,10 @@
     "item.furnitury.wrench": "Chiave inglese",
     "item.furnitury.wrench.tooltip": "§7 Tieni premuto §6 Sposta §f §7 + Clicca con il tasto destro per ruotare i blocchi",
     "item.furnitury.yellow_cloth": "Panno giallo",
-    "item.furnitury.yellow_plastic": "Plastica gialla"
+    "item.furnitury.yellow_plastic": "Plastica gialla",
+    "jei.furnitury.trash.info.1": "Ottenibile elaborando qualsiasi elemento, blocco o risorsa presente nel cestino.",
+    "jei.furnitury.trash.info.2": "Ogni oggetto trasformato produce 1 rifiuto.",
+    "jei.furnitury.trash.info.3": "Esiste anche una possibilità del 10% di ottenere un oggetto di scarto.",
+    "jei.furnitury.trash_piece.info.1": "Un sottoprodotto del processo di smistamento dei rifiuti.",
+    "jei.furnitury.trash_piece.info.2": "Ha una probabilità del 10% di apparire insieme a Trash."
 }

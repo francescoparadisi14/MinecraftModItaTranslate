@@ -115,6 +115,7 @@
     "cobblemon.battle.mostlyIneffective_spread": "It was mostly ineffective on %1$s!!",
     "cobblemon.ui.stash.meltan": "Meltans",
     "cobblemon.ui.stats.dynamax_level": "Dynamax Level",
+    "config.jade.plugin_mega_showdown.jade": "MSD Jade",
     "creativeTab.mega_showdown.compi_tab": "Competitive Items",
     "creativeTab.mega_showdown.dynamax_tab": "Dynamax",
     "creativeTab.mega_showdown.form_tab": "Form Changing",
@@ -124,6 +125,14 @@
     "creativeTab.mega_showdown.tera_tab": "Terastallization",
     "creativeTab.mega_showdown.z_tab": "Z Power",
     "effect.mega_showdown.dynamax": "Dynamax",
+    "gui.battle.mega_showdown.ability": "Ability",
+    "gui.battle.mega_showdown.ability.temp": "%1$s (%2$s)",
+    "gui.battle.mega_showdown.field.empty": "---",
+    "gui.battle.mega_showdown.field.unknown": "???",
+    "gui.battle.mega_showdown.form": "Form",
+    "gui.battle.mega_showdown.item": "Item",
+    "gui.battle.mega_showdown.move.pp": "%1$s \/ %2$s",
+    "gui.battle.mega_showdown.moves": "Moves",
     "item.mega_showdown.abomasite": "Abomasite",
     "item.mega_showdown.absolite": "Absolite",
     "item.mega_showdown.adamant_crystal": "Adamant Crystal",
@@ -636,5 +645,7 @@
     "tooltip.mega_showdown.zap_plate.tooltip": "§7A tablet that raises the power of Electric-type moves. When held by Arceus, it changes to the Electric type",
     "tooltip.mega_showdown.zygarde_cell.tooltip": "§7A component of Zygarde. It's said to be one of many living cells scattered across the world",
     "tooltip.mega_showdown.zygarde_core.tooltip": "§7The brain of Zygarde. It can think and act on its own, guiding the assembly of Zygarde Forms",
-    "tooltip.mega_showdown.zygarde_cube.tooltip": "§7A cube that collects Zygarde Cells and Cores. It pulses faintly with energy from deep underground"
+    "tooltip.mega_showdown.zygarde_cube.tooltip": "§7A cube that collects Zygarde Cells and Cores. It pulses faintly with energy from deep underground",
+    "ui.mega_showdown.idle": "Idle",
+    "ui.mega_showdown.ready": "Ready"
 }

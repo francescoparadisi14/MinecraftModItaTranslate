@@ -1,6 +1,7 @@
 {
     "death.attack.insomnia": "%s è deceduto a causa dell'insonnia.",
     "effect.sleep_killer.insomnia": "Insonnia",
+    "effect.sleep_killer.no_effect": "Nessun effetto",
     "entity.sleep_killer.sleep_killer": "Sonno interrotto",
     "entity.sleep_killer.sleep_killer_spawn": "Sonno interrotto",
     "item.sleep_killer.sleep_killer_spawn_egg": "Uovo di Spawn, creatura che causa insonnia.",

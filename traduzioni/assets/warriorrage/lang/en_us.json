@@ -1,5 +1,7 @@
 {
     "warriorrage.configuration.bonusDamage": "Bonus Damage",
+    "warriorrage.configuration.bonusFlatDamage": "Bonus Flat Damage",
+    "warriorrage.configuration.bonusPercentageDamage": "Bonus Percentage Damage",
     "warriorrage.configuration.client": "Client",
     "warriorrage.configuration.enableFireDamage": "Enable Fire Damage",
     "warriorrage.configuration.fireDamageRequiredKillCount": "Fire Damage Required Kill Count",
@@ -9,9 +11,12 @@
     "warriorrage.configuration.offsetX": "Icon X Offset",
     "warriorrage.configuration.offsetY": "Icon Y Offset",
     "warriorrage.configuration.onHitEffects": "On Hit Effects",
+    "warriorrage.configuration.playerEffects": "Player Effects",
     "warriorrage.configuration.rageDuration": "Rage Duration",
+    "warriorrage.configuration.rageOverlayOpacity": "Rage Overlay Opacity",
     "warriorrage.configuration.renderFireParticles": "Render Fire Particles",
     "warriorrage.configuration.renderRageBar": "Render Rage Bar",
     "warriorrage.configuration.renderRageIcon": "Render Rage Icon",
+    "warriorrage.configuration.renderRageOverlay": "Render Rage Overlay",
     "warriorrage.configuration.server": "Server"
 }

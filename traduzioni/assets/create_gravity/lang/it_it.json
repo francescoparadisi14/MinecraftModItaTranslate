@@ -1,0 +1,7 @@
+{
+    "advancements.place_banner_in_the_end.descr": "Posiziona un banner alla fine.",
+    "advancements.place_banner_in_the_end.title": "Un passo avanti per l'umanità",
+    "death.attack.out_of_oxygen": "%s ha perso la pressione",
+    "message.action_bar.low_oxygen_alert": "Stai esaurendo l'ossigeno.",
+    "message.action_bar.remaining_oxygen": "Ossigeno: %s %s"
+}

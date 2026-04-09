@@ -1,0 +1,12 @@
+{
+    "gui.immersivepaintings_exposure.error.applying": "Errore nell'applicazione della foto alla pittura",
+    "gui.immersivepaintings_exposure.error.loading": "Errore nel caricamento delle foto",
+    "gui.immersivepaintings_exposure.no_photos": "Nessuna foto \"No Exposure\" trovata. Scatta alcune foto prima!",
+    "gui.immersivepaintings_exposure.photo_count": "Foto: %d",
+    "gui.immersivepaintings_exposure.photo_list": "Elenco delle foto",
+    "gui.immersivepaintings_exposure.photo_selected": "Immagine selezionata: %s",
+    "gui.immersivepaintings_exposure.refresh": "Aggiorna",
+    "gui.immersivepaintings_exposure.select_photo": "Seleziona foto",
+    "gui.immersivepaintings_exposure.tab.exposure": "Esposizione",
+    "gui.immersivepaintings_exposure.tab.exposure.title": "Seleziona la foto da pubblicare"
+}

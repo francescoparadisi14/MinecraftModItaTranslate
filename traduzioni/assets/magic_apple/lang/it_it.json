@@ -1,4 +1,8 @@
 {
+    "item.magic_apple.knowledge_stone": "Pietra maledetta",
+    "item.magic_apple.knowledge_stone.description_0": "«La sopravvivenza implica comprendere che non ci si è fatti coinvolgere»",
     "item.magic_apple.magicapple": "Mela Magica",
-    "item.magic_apple.magicapple.description_0": "§5 Si dice che provenga dalle Terre Distanti"
+    "item.magic_apple.magicapple.description_0": "§5 Si dice che provenga dalle Terre Distanti",
+    "subtitles.knowledge_stone_voice": "Voce della conoscenza",
+    "subtitles.teastt": "sss"
 }

@@ -96,6 +96,7 @@
     "teleport.error.interdimensional_teleport_disabled": "Trasporto interdimensionale fallito. Motivo: Trasporto interdimensionale disabilitato.",
     "teleport.interruped.moved": "Trasferimento interrotto. Motivo: Spostamento.",
     "teleport.interrupted.damage": "Trasporto interrotto. Motivo: Danni subiti",
+    "teleport.interrupted.moved": "Trasferimento interrotto. Motivo: Spostamento",
     "teleport.queued": "Trasporto istantaneo a ${0} in ${1} secondi...",
     "teleport.request.canceled_by_new": "Teletrasporto in sospeso verso '${0}' annullato. Motivo: è stato avviato un nuovo teletrasporto verso '${1}'!",
     "teleport.request.expired.receiver": "Richiesta di teletrasporto da parte di ${0} scaduta.",

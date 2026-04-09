@@ -1,0 +1,9 @@
+{
+    "_comment": "NeoForge In-Game Config",
+    "passthroughsigns.configgui.shouldBannerBePassable": "Ignore banners",
+    "passthroughsigns.configgui.shouldItemFrameBePassable": "Ignore item frames",
+    "passthroughsigns.configgui.shouldPaintingsBePassable": "Ignore paintings",
+    "passthroughsigns.configgui.shouldWallSignBePassable": "Ignore wall signs",
+    "passthroughsigns.configgui.turnOffItemRotation": "Turn off item rotation (Item Frames)",
+    "passthroughsigns.configuration.general": "General"
+}

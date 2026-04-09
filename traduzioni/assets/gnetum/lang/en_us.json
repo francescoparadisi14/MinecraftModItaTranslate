@@ -7,6 +7,8 @@
     "gnetum.config.element.hand.tooltip": "Set to ON to enable hand caching. This option is currently not enabled on AUTO.",
     "gnetum.config.enabled": "Enabled",
     "gnetum.config.enabled.tooltip": "Determines whether to enable Gnetum, which distributes HUD updates over multiple frames to improve performance.",
+    "gnetum.config.fastBlit": "Fast Framebuffer Blitting",
+    "gnetum.config.fastBlit.tooltip": "Discard pixels that are fully transparent, which offers some GPU performance uplift.",
     "gnetum.config.maxFps": "HUD Framerate Limit",
     "gnetum.config.maxFps.tooltip": "Specifies the maximum framerate of the HUD. Priority is lower than the number of passes setting.",
     "gnetum.config.numberOfPasses": "Number of Passes",

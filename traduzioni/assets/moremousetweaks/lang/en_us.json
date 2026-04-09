@@ -15,6 +15,7 @@
     "hotbarScope.moremousetweaks.INVENTORY.tooltip": "Hotbar will be processed as part of the main inventory.",
     "hotbarScope.moremousetweaks.NONE": "None",
     "hotbarScope.moremousetweaks.NONE.tooltip": "Hotbar will not be processed.",
+    "message.moremousetweaks.configScreenDisabled": "Config screen is not available on this version.",
     "message.moremousetweaks.installCloth": "Install Cloth Config API to access mod options",
     "message.moremousetweaks.viewModrinth": "View on Modrinth",
     "moremousetweaks.name": "MoreMouseTweaks",

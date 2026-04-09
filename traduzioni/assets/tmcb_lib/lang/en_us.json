@@ -1,4 +1,5 @@
 {
+    "block.tmcb_lib.fluid_tank": "Fluid Tank",
     "config.tmcb_lib.formatting.modNameFormat": "Mod Name Format",
     "config.tmcb_lib.formatting.modNameFormat.comment": "How the mod name should be formatted in the tooltip. Leave blank to disable.",
     "config.tmcb_lib.gui.energyUnit": "Energy Unit",

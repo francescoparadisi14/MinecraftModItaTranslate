@@ -1,0 +1,16 @@
+{
+    "et.button.add": "Add recipe",
+    "et.button.copy": "Copy recipe",
+    "et.button.reload": "Reload recipes",
+    "et.button.remove": "Delete last recipe",
+    "et.switch.off": "Switch recipe to addition mode.",
+    "et.switch.on": "Switch recipe to remove mode.",
+    "et.switch_blast.off": "Switch to Furnace.",
+    "et.switch_blast.on": "Switch to Blast Furnace.",
+    "et.switch_shape.off": "Switch to shaped.",
+    "et.switch_shape.on": "Switch to shapeless.",
+    "et.switch_tag.off": "Switch to enable tags.",
+    "et.switch_tag.on": "Switch to disable tags.",
+    "item.easy_tweaker.recipe_manager": "Recipe Manager",
+    "itemGroup.easy_tweaker_tab": "Easy Tweaker"
+}

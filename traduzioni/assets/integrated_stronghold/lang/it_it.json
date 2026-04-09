@@ -4,5 +4,8 @@
     "item.integrated_stronghold.music_disc_forlorn": "Disco musicale",
     "item.integrated_stronghold.music_disc_forlorn.desc": "Cama - Solitaria",
     "item.integrated_stronghold.music_disc_sight": "Disco musicale",
-    "item.integrated_stronghold.music_disc_sight.desc": "Cama - vista"
+    "item.integrated_stronghold.music_disc_sight.desc": "Cama - vista",
+    "itemGroup.integrated_stronghold": "Fortezza integrata",
+    "jukebox_song.integrated_stronghold.forlorn": "Cama - Solitaria",
+    "jukebox_song.integrated_stronghold.sight": "Cama - vista"
 }

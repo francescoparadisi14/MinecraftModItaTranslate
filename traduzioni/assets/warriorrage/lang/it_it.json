@@ -1,5 +1,7 @@
 {
     "warriorrage.configuration.bonusDamage": "Bonus di danno",
+    "warriorrage.configuration.bonusFlatDamage": "Bonus per danni fissi",
+    "warriorrage.configuration.bonusPercentageDamage": "Percentuale di danno bonus",
     "warriorrage.configuration.client": "Cliente",
     "warriorrage.configuration.enableFireDamage": "Abilita i danni da fuoco",
     "warriorrage.configuration.fireDamageRequiredKillCount": "Numero di vittime causate da incendi",
@@ -9,9 +11,12 @@
     "warriorrage.configuration.offsetX": "Icona X Offset",
     "warriorrage.configuration.offsetY": "Offset dell'icona",
     "warriorrage.configuration.onHitEffects": "Effetti in caso di colpo",
+    "warriorrage.configuration.playerEffects": "Effetti sui giocatori",
     "warriorrage.configuration.rageDuration": "Durata dell'ira",
+    "warriorrage.configuration.rageOverlayOpacity": "Trasparenza dell'overlay di rabbia",
     "warriorrage.configuration.renderFireParticles": "Rendere le particelle di fuoco",
     "warriorrage.configuration.renderRageBar": "Barra di rabbia",
     "warriorrage.configuration.renderRageIcon": "Icona di rabbia",
+    "warriorrage.configuration.renderRageOverlay": "Sovrapposizione di \"Render Rage\"",
     "warriorrage.configuration.server": "Server"
 }

@@ -33,6 +33,8 @@
     "config.ok_zoomer.controls.extra_key_binds.tooltip": "Adds zoom manipulation keys along with the zoom key. A game restart will be required in order to apply the changes.",
     "config.ok_zoomer.controls.reduce_sensitivity": "Reduce Sensitivity",
     "config.ok_zoomer.controls.reduce_sensitivity.tooltip": "Reduces the mouse sensitivity proportionally to how far the zoom is.",
+    "config.ok_zoomer.controls.sensitivity_scale": "Sensitivity Scale",
+    "config.ok_zoomer.controls.sensitivity_scale.tooltip": "The scale of the mouse sensitivity used while zooming.",
     "config.ok_zoomer.controls.spyglass_mode": "Spyglass Mode",
     "config.ok_zoomer.controls.spyglass_mode.both": "Both",
     "config.ok_zoomer.controls.spyglass_mode.both.tooltip": "Zooming will act as a complete replacement of the spyglass zoom, requiring one to work and replacing its zoom as well.",

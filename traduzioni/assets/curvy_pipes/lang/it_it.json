@@ -85,5 +85,6 @@
     "curvy_pipes.transparency_toggle": "Clicca con il tasto destro su [%s] per attivare\/disattivare la trasparenza.",
     "curvy_pipes.unforce_joint": "Forza di contatto",
     "curvy_pipes.wait": "In attesa del server",
-    "item.curvy_pipes.redstone_cable": "Cavo Redstone"
+    "item.curvy_pipes.redstone_cable": "Cavo Redstone",
+    "itemGroup.curvy_pipes": "Tubi con forme irregolari"
 }

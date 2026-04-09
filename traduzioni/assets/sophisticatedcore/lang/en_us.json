@@ -287,6 +287,8 @@
     "itemGroup.sophisticatedcore": "Sophisticated Core",
     "key.category.sophisticatedcore.main": "Sophisticated Mods",
     "key.sophisticatedcore.sort": "Sort Storage\/Backpack",
+    "key.sophisticatedcore.transfer_to_inventory": "Transfer to Inventory",
+    "key.sophisticatedcore.transfer_to_storage": "Transfer to Storage",
     "upgrade_group.sophisticatedcore.cooking_upgrades": "Furnace Upgrades",
     "upgrade_group.sophisticatedcore.jukebox_upgrades": "Jukebox Upgrades",
     "upgrade_group.sophisticatedcore.stack_upgrades": "Stack Upgrades"

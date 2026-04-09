@@ -264,6 +264,8 @@
     "text.autoconfig.iammusicplayer.category.client": "Lato cliente",
     "text.autoconfig.iammusicplayer.category.debug": "Correggere errori",
     "text.autoconfig.iammusicplayer.category.integration": "Integrazione",
+    "text.autoconfig.iammusicplayer.category.internal": "",
+    "text.autoconfig.iammusicplayer.category.lavaplayer": "",
     "text.autoconfig.iammusicplayer.category.server": "Lato server",
     "text.autoconfig.iammusicplayer.option.dropItemRing": "Se decidere di interagire con l'oggetto caduto.",
     "text.autoconfig.iammusicplayer.option.hideDecorativeAntenna": "Nascondere l'antenna decorativa",

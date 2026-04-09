@@ -180,6 +180,7 @@
     "itemgroup.modular_machinery_reborn.group": "Macchinari modulari: una nuova era",
     "key.categories.modular_machinery_reborn": "Macchinari modulari: una nuova era",
     "key.modular_machinery_reborn.structure_mode_change": "Modalità di creazione della struttura",
+    "mmr.config.tooltip.info": "In relazione al %s",
     "mmr.controller.exactly": "(Esattamente il %)",
     "mmr.controller.max": "(Massimo: %s)",
     "mmr.controller.min": "(Min: %s)",
@@ -188,6 +189,8 @@
     "mmr.core.active.true": "Core è in grado di eseguire ricette.",
     "mmr.core.number": "Numero principale: %s",
     "mmr.damagesource.kill": "%s è stato ucciso da %s",
+    "mmr.down": "Giù",
+    "mmr.east": "Est",
     "mmr.emi.no_items": "Nessun ingrediente nella ricetta.",
     "mmr.gui.button.back": "Indietro",
     "mmr.gui.button.close": "Chiudi",
@@ -228,6 +231,7 @@
     "mmr.gui.tooltip.redstone.button.mode.input": "Input",
     "mmr.gui.tooltip.redstone.button.mode.none": "Nessuno",
     "mmr.gui.tooltip.redstone.button.mode.output": "Uscita",
+    "mmr.north": "Nord",
     "mmr.place.no_item": "Ho provato a posizionare l'oggetto %s in %s, ma non sono riuscito a trovare l'oggetto %s nell'inventario del giocatore.",
     "mmr.place.non_air": "Ho tentato di inserire `%s` in `%s`, ma non ho trovato alcuna struttura valida.",
     "mmr.place.replace": "Interruzione del blocco %s a %s per inserire un nuovo blocco...",
@@ -255,6 +259,7 @@
     "mmr.side.left": "Sinistra",
     "mmr.side.right": "Va bene.",
     "mmr.side.top": "In cima",
+    "mmr.south": "Sud",
     "mmr.structure.error.between": "Si prevedeva un valore tra il %s e il %s, ma è stato trovato %s (%s)",
     "mmr.structure.error.exact": "Valore previsto: %s, ma trovato %s (%s)",
     "mmr.structure.error.max": "Il valore previsto era al massimo del %s, ma è stato trovato il valore di %s (%s)",
@@ -266,6 +271,7 @@
     "mmr.tooltip.open_side_config": "Configurazione lato aperto",
     "mmr.tooltip.redstone.emit": "Emissione del %s",
     "mmr.tooltip.redstone.receive": "Ricezione di %s",
+    "mmr.up": "Su",
     "mmr.waila.cores": [
         {
             "color": "gray",
@@ -280,6 +286,7 @@
             "text": " cores"
         }
     ],
+    "mmr.west": "Ovest",
     "mmr.wrench.side_mode.change": "Cambiato lato: da %s a %s",
     "modular_machinery_reborn.command.reload.machines": "Le macchine modulari sono state riassemblate con successo!",
     "modular_machinery_reborn.command.reload.recipes": "Le ricette per macchinari modulari sono state ripristinate con successo!",

@@ -55,6 +55,7 @@
     "config.smsn.qol.quarkCelebration.HideLGBTQIA": "Nascondere le persone LGBTQIA+",
     "config.smsn.qol.quarkCelebration.ShowAll": "Mostra tutto",
     "config.smsn.qol.ribbitsNoMorePrideMonth": "Addio al Pride Month",
+    "config.smsn.qol.stopModRepostsMessages": "Messaggi relativi a ModReposts",
     "config.smsn.qol.vazkiiModsSpamLogs": "Log degli spam creati da Vazkii's mods",
     "config.smsn.qol.versionCheckWarn": "Avviso di controllo versione",
     "config.smsn.qol.zetaSpamLogs": "Log delle email di spam di Zeta",

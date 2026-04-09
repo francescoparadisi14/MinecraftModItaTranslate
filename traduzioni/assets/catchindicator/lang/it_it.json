@@ -1,4 +1,5 @@
 {
+    "catchindicator.config.discovery_popups": "Popup di scoperta: %s",
     "catchindicator.config.done": "Completato",
     "catchindicator.config.enabled": "Attivato: %s",
     "catchindicator.config.off": "CHIUSO",
@@ -6,6 +7,7 @@
     "catchindicator.config.reveal_unknown_names": "Mostra i nomi non visualizzati sulla mappa: %s",
     "catchindicator.config.style": "Stile: %s",
     "catchindicator.config.title": "Indicatore di cattura",
+    "catchindicator.discovery.toast.title": "Nuovo incontro",
     "category.catchindicator": "Indicatore di cattura",
     "key.catchindicator.open_config": "Impostazioni per l'indicatore di cattura",
     "modmenu.nameTranslation.catchindicator": "Indicatore di cattura"

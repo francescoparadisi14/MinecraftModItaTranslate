@@ -1,4 +1,8 @@
 {
+    "item.magic_apple.knowledge_stone": "Cursed Stone",
+    "item.magic_apple.knowledge_stone.description_0": "§4§kSurvival comes with understanding you did not ask for",
     "item.magic_apple.magicapple": "Magic Apple",
-    "item.magic_apple.magicapple.description_0": "§5Rumored to originate from the Far Lands"
+    "item.magic_apple.magicapple.description_0": "§5Rumored to originate from the Far Lands",
+    "subtitles.knowledge_stone_voice": "Voice of Knowledge",
+    "subtitles.teastt": "sss"
 }

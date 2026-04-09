@@ -26,5 +26,6 @@
     "notes.scope.remote": "Remote",
     "notes.select": "Select",
     "notes.selectNote": "Select Note",
-    "notes.unpin": "Unpin"
+    "notes.unpin": "Unpin",
+    "notes.view": "View"
 }

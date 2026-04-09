@@ -1,0 +1,19 @@
+{
+    "block.industrialreborn.animal_baby_separator": "Separatore per neonati animali",
+    "block.industrialreborn.animal_feeder": "Alimentatore per animali",
+    "block.industrialreborn.broken_spawner": "Spawner difettoso",
+    "block.industrialreborn.fluid_transposer": "Trasduttore di fluidi",
+    "block.industrialreborn.liquid_experience": "Esperienza liquida",
+    "block.industrialreborn.mob_slaughter": "Massacro di massa",
+    "block.industrialreborn.powered_spawner": "Spawer automatico",
+    "block.industrialreborn.soul_essence": "Essenza dell'anima",
+    "block.industrialreborn.soul_extractor": "Estrattore di anime",
+    "item.industrialreborn.adult_filter_upgrade": "Aggiornamento del filtro per adulti",
+    "item.industrialreborn.empty_soul_vial": "Via dell'Anima",
+    "item.industrialreborn.filled_soul_vial": "Via dell'Anima",
+    "item.industrialreborn.filled_soul_vial.tooltip": "Contiene l'essenza di %s",
+    "item.industrialreborn.liquid_experience_bucket": "Contenitore per esperienze liquide",
+    "item.industrialreborn.range_upgrade": "Aggiornamento della gamma",
+    "item.industrialreborn.soul_essence_bucket": "Contenitore per l'essenza dell'anima",
+    "itemGroup.industrialreborn.item_group": "Rinascita industriale"
+}

@@ -1,0 +1,9 @@
+{
+    "commands.revelationary.advancement.grant": "Concesso a %s %d avanzamenti in %s:%s",
+    "commands.revelationary.advancement.revoke": "Revocate i seguenti progressi da %s in %s:%s",
+    "commands.revelationary.advancement.sync": "Aggiornamenti sincronizzati del %d da %s a %s nel %s:%s",
+    "text.autoconfig.Revelationary.option.NameForCloakedBlocks": "Nome per blocchi nascosti",
+    "text.autoconfig.Revelationary.option.NameForCloakedItems": "Nome per oggetti coperti",
+    "text.autoconfig.Revelationary.option.UseTargetBlockOrItemNameInsteadOfScatter": "Utilizzare il nome specifico dell'elemento\/blocco invece di distribuirlo casualmente.",
+    "text.autoconfig.Revelationary.title": "Rivoluzionario"
+}

@@ -1,1 +1,12 @@
-[]
+{
+    "block.snowy_tents.example_block": "Example Block",
+    "item.snowy_tents.example_item": "Example Item",
+    "itemGroup.snowy_tents": "Example Mod Tab",
+    "snowy_tents.configuration.items": "Item List",
+    "snowy_tents.configuration.logDirtBlock": "Log Dirt Block",
+    "snowy_tents.configuration.magicNumber": "Magic Number",
+    "snowy_tents.configuration.magicNumberIntroduction": "Magic Number Text",
+    "snowy_tents.configuration.section.snowy_tents.common.toml": "Snowy Tents Configs",
+    "snowy_tents.configuration.section.snowy_tents.common.toml.title": "Snowy Tents Configs",
+    "snowy_tents.configuration.title": "Snowy Tents Configs"
+}

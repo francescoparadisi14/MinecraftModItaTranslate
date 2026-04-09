@@ -1,0 +1,12 @@
+{
+    "armorstandarms.configuration.items": "Elenco degli articoli",
+    "armorstandarms.configuration.logDirtBlock": "Blocco di argilla per pavimentazione",
+    "armorstandarms.configuration.magicNumber": "Numero magico",
+    "armorstandarms.configuration.magicNumberIntroduction": "Numero Magico",
+    "armorstandarms.configuration.section.armorstandarms.common.toml": "Configurazioni per le braccia di ArmorStand",
+    "armorstandarms.configuration.section.armorstandarms.common.toml.title": "Configurazioni per le braccia di ArmorStand",
+    "armorstandarms.configuration.title": "Configurazioni per le braccia di ArmorStand",
+    "block.armorstandarms.example_block": "Esempio di blocco",
+    "item.armorstandarms.example_item": "Esempio di articolo",
+    "itemGroup.armorstandarms": "Esempio di tabella Mod"
+}

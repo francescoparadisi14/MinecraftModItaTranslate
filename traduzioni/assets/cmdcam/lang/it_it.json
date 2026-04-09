@@ -15,6 +15,7 @@
     "invalid_mode": "Modalità non valida",
     "invalid_time_format": "Formato di ora non valido! Prova con 10 secondi.",
     "key.categories.cmdcam": "Impostazioni CMDCam",
+    "key.category.cmdcam.cmdcam": "Impostazioni CMDCam",
     "key.centerzoom": "Reimposta Zoom",
     "key.clearPoint": "Punti chiave",
     "key.point": "Aggiungi punto",

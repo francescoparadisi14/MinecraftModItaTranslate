@@ -271,6 +271,8 @@
     "item.minecraft.tipped_arrow.effect.warped_wine": "Bottiglia di vino distorto",
     "itemGroup.charcoal_pit": "Pozzo per il carbone",
     "itemGroup.charcoal_pit_foods": "Cibi preparati nel forno a carbone",
+    "key.categories.charcoalpit": "Pozzo di carbone",
+    "key.charcoalpit.place_kiln": "Posizione del forno",
     "message.charcoal_pit.nofuel": "Insufficient carburante o impossibilità di posizionare",
     "message.charcoal_pit.pottery_kiln": "Non c'erano abbastanza paglia o legna.",
     "screen.charcoal_pit.barrel": "Barile",

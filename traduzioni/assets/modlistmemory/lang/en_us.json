@@ -1,4 +1,5 @@
 {
+    "message.modlistmemory.configScreenDisabled": "Config screen is not available on this version.",
     "message.modlistmemory.installCloth": "Install Cloth Config API to access mod options",
     "message.modlistmemory.viewModrinth": "View on Modrinth",
     "modlistmemory.name": "ModListMemory",

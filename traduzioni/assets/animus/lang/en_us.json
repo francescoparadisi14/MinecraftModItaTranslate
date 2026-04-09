@@ -632,7 +632,7 @@
     "tooltip.animus.spear_bound.toggle": "Sneak + Right-Click to toggle",
     "tooltip.animus.spear_bound.unbound": "Unbound",
     "tooltip.animus.spear_diamond.flavour": "A superior Roman javelin",
-    "tooltip.animus.spear_diamond.info": "Thrown weapon with increased damage",
+    "tooltip.animus.spear_diamond.info": "Deals AOE damage on impact",
     "tooltip.animus.spear_iron.flavour": "A Roman javelin",
     "tooltip.animus.spear_iron.info": "Thrown weapon that deals damage",
     "tooltip.animus.spear_sentient.aoe": "Applies effects in an area when thrown",

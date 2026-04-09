@@ -1,0 +1,14 @@
+{
+    "modmenu.descriptionTranslation.smoothskies": "Risolve diversi problemi grafici relativi allo sfondo.",
+    "smoothskies.clear-skies.description": "Elimina le bande orizzontali, rendendo il cielo di un unico colore.\n\nQuesto è tratto dal mod \"Clear Skies\" di grondag.",
+    "smoothskies.clear-skies.name": "Cieli sereni",
+    "smoothskies.fix-skybox-clipping.description": "Risolve il problema del \"clipping\" dello skybox a basse distanze di rendering, aumentando il raggio di clipping.",
+    "smoothskies.fix-skybox-clipping.name": "Correggere il problema del \"clipping\" dello skybox.",
+    "smoothskies.lower-sky-void-darkness.description": "Riduce efficacemente l'altezza quando il cielo diventa nero, raggiungendo l'altezza più bassa possibile.\n\nQuesto impedisce al cielo di diventare improvvisamente nero quando il valore di Y è elevato, e dovrebbe ora sfumare gradualmente verso il nero.\n\nÈ particolarmente evidente nei mondi di tipo \"Skyblock\" o \"Void\".",
+    "smoothskies.lower-sky-void-darkness.name": "Oscurità del vuoto celeste",
+    "smoothskies.remove-sky-in-void.description": "Elimina il cielo quando si è nel vuoto. Questo risolve il problema MC-249655.",
+    "smoothskies.remove-sky-in-void.name": "Rimuovi Sky dal vuoto",
+    "smoothskies.set-fog-view-distance.description": "Imposta una distanza di visualizzazione personalizzata per la nebbia del cielo.\n\nValori più alti indicano cieli più blu.",
+    "smoothskies.set-fog-view-distance.name": "Imposta la distanza visibile dell'area.",
+    "smoothskies.smoothskies": "Cieli sereni"
+}

@@ -1,0 +1,7 @@
+{
+    "block.cobblemontents.cobblemon_tent": "PokéTent",
+    "item.cobblemontents.cobblemon_tent": "PokéTent",
+    "itemGroup.cobblemontents.cobblemontents_tab": "Cobblemon: Tents",
+    "tooltip.cobblemontents.cobblemon_tent": "A cozy tent for you and your Pokémon. Sneak-click to pack.",
+    "tooltip.cobblemontents.contents": "Contents:"
+}

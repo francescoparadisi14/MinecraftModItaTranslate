@@ -1,0 +1,10 @@
+{
+    "block.cobblemon_breeding_api.egg_basket": "Cesto per la selezione",
+    "block.cobblemon_breeding_api.egg_basket.no_egg": "Al momento, non c'è ancora un uovo nel cesto.",
+    "block.cobblemon_breeding_api.egg_basket.no_space": "Non hai spazio per recuperare quell'uovo!",
+    "block.cobblemon_breeding_api.egg_basket.tooltip": "Una cuccia progettata per favorire la riproduzione. A volte si possono notare uova all'interno.",
+    "item.cobblemon_breeding_api.pokemon_egg": "Uovo di Pokémon",
+    "item.cobblemon_breeding_api.pokemon_egg.almost_ready": "Sembra muoversi occasionalmente. Potrebbe essere prossimo alla schiusa.",
+    "item.cobblemon_breeding_api.pokemon_egg.long_while": "Quale Pokémon uscirà da questo uovo? Sembra che non sia ancora pronto per nascere.",
+    "item.cobblemon_breeding_api.pokemon_egg.near_ready": "Si sentono dei rumori provenienti dall'interno! L'uovo sta per schiudersi!"
+}

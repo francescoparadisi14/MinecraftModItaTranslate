@@ -26,5 +26,6 @@
     "notes.scope.remote": "Remoto",
     "notes.select": "Seleziona",
     "notes.selectNote": "Seleziona la nota",
-    "notes.unpin": "Rimuovere"
+    "notes.unpin": "Rimuovere",
+    "notes.view": "Visualizza"
 }

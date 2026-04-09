@@ -19,7 +19,7 @@
     "puzzle.midnightconfig.category.features": "Features",
     "puzzle.midnightconfig.category.gui": "GUI",
     "puzzle.midnightconfig.category.internal": "Internal",
-    "puzzle.midnightconfig.title": "Puzzle Advanced Config",
+    "puzzle.midnightconfig.title": "Puzzle Settings",
     "puzzle.midnightconfig.tooltip": "Options for advanced users only",
     "puzzle.option.better_splash_screen_blend": "Better splash screen logo blending",
     "puzzle.option.better_splash_screen_blend.tooltip": "Changes the type of blending used\nby the logo on the splash screen\nto work better with custom colored logos",

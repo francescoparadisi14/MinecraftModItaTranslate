@@ -1,6 +1,8 @@
 {
     "creativetab.catburger.catburger_tab": "Cat Burger",
     "item.catburger.cat_burger": "Cat Burger",
+    "item.catburger.cat_burger.cooldown.ready": "Totem effect ready",
+    "item.catburger.cat_burger.cooldown.remaining": "Totem effect cooling down: %ss",
     "item.catburger.cat_burger.tooltip": "Meow!",
     "text.autoconfig.catburger.option.client": "Client Config",
     "text.autoconfig.catburger.option.client.float_distance": "Float distance (blocks)",

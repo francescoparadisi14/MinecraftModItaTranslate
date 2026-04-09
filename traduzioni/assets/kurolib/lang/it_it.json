@@ -10,6 +10,7 @@
     "block.kurolib.hadescow_plush_block": "Peluche di Hadescow",
     "block.kurolib.jewel_wyzy_plush_block": "Peluche JewelWyzy",
     "block.kurolib.medic_bird_plush_block": "Peluche del medico uccello",
+    "block.kurolib.not_tyler_anplushy_block": "Peluche \"Not Tyler An\"",
     "block.kurolib.pancakes_plush_block": "Pancake in peluche",
     "block.kurolib.smoll_dave_plush_block": "Peluche SmollDave",
     "block.kurolib.spino_plush_block": "Peluche di Spino",
@@ -102,6 +103,7 @@
     "item.kurolib.jewel_wyzy_plush": "Peluche JewelWyzy",
     "item.kurolib.label_item": "Etichetta Kuro",
     "item.kurolib.medic_bird_plush": "Peluche del medico uccello",
+    "item.kurolib.not_tyler_anplushy": "Peluche \"Not Tyler An\"",
     "item.kurolib.pancakes_plush": "Pancake in peluche",
     "item.kurolib.smoll_dave_plush": "Peluche SmollDave",
     "item.kurolib.spino_plush": "Peluche di Spino",
@@ -309,5 +311,6 @@
     "subtitles.vm_item": "",
     "subtitles.yemm": "",
     "subtitles.yemm_loud": "",
-    "subtitles.yemm_ping": ""
+    "subtitles.yemm_ping": "",
+    "subtitles.zeus_plush": ""
 }

@@ -8,6 +8,7 @@
     "gui.extendedterminal.anvilpanel": "Anvil",
     "gui.extendedterminal.anvilpanel.xpcost": "XP Cost: %d",
     "gui.extendedterminal.basicTerminal": "Basic Extended Terminal",
+    "gui.extendedterminal.config.title": "Extended Terminal Config",
     "gui.extendedterminal.craftingpanel": "Crafting",
     "gui.extendedterminal.eliteTerminal": "Elite Extended Terminal",
     "gui.extendedterminal.endTerminal": "End Crafting Terminal",

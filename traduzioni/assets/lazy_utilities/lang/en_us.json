@@ -18,9 +18,9 @@
     "lazy_utilities.key.tooltip_codex_bc.codex_final": "and Ultimate Skill",
     "lazy_utilities.key.tooltip_codex_ef": "press [%s] to see the Innate Skill",
     "lazy_utilities.key.tooltip_codex_ef.codex_final": "and Innate Skill",
-    "lazy_utilities.tab.attributes": "Attributes",
+    "lazy_utilities.tab.attributes": "Description",
     "lazy_utilities.tab.weapon_innate_skill": "Innate Skill",
-    "lazy_utilities.tab.weapon_lore": "Description",
+    "lazy_utilities.tab.weapon_lore": "Lore",
     "lazy_utilities.tab.weapon_passives": "Passives",
     "lazy_utilities.tab.weapon_skills": "Skills"
 }

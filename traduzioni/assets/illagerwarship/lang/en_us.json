@@ -1,3 +1,12 @@
 {
-    "item.illagerwarship.example_item": "Example Item"
+    "block.illagerwarship.example_block": "Example Block",
+    "illagerwarship.configuration.items": "Item List",
+    "illagerwarship.configuration.logDirtBlock": "Log Dirt Block",
+    "illagerwarship.configuration.magicNumber": "Magic Number",
+    "illagerwarship.configuration.magicNumberIntroduction": "Magic Number Text",
+    "illagerwarship.configuration.section.illagerwarship.common.toml": "Illager Warship Configs",
+    "illagerwarship.configuration.section.illagerwarship.common.toml.title": "Illager Warship Configs",
+    "illagerwarship.configuration.title": "Illager Warship Configs",
+    "item.illagerwarship.example_item": "Example Item",
+    "itemGroup.illagerwarship": "Example Mod Tab"
 }

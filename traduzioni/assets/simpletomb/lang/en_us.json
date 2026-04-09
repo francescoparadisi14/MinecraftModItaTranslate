@@ -58,7 +58,7 @@
     "simpletomb.configuration.simpletomb": "Simple Tomb",
     "simpletomb.configuration.simpletomb.tooltip": "Simple Tomb Config",
     "simpletomb.configuration.survival": "Survival",
-    "simpletomb.configuration.survival.tooltip": "When survival player is within this (straight line calculated) distance from the tomb, they can teleport to the tomb.\n Set as zero (0) to disable survival TP feature.\n Set as negative one (-1) to allow survival teleportation always and ignore the distance (within dimension)",
+    "simpletomb.configuration.survival.tooltip": "When survival player is within this (straight line calculated) distance from the tomb, they can teleport to the tomb.\n Set to zero (0) to allow survival teleportation always and ignore the distance (within dimension).\n Set to one (1) to effectively disable survival TP feature.",
     "simpletomb.configuration.teleport": "Teleport",
     "simpletomb.configuration.teleport.tooltip": "Teleport Settings",
     "simpletomb.configuration.title": "Simple Tomb Config",

@@ -1,0 +1,16 @@
+{
+    "et.button.add": "Aggiungi la ricetta",
+    "et.button.copy": "Copia la ricetta",
+    "et.button.reload": "Ricette da ricreare",
+    "et.button.remove": "Elimina l'ultima ricetta",
+    "et.switch.off": "Passa alla modalità di aggiunta.",
+    "et.switch.on": "Passa alla ricetta in modalità \"rimuovi\".",
+    "et.switch_blast.off": "Passare al riscaldamento a gas.",
+    "et.switch_blast.on": "Passare al forno a fusione.",
+    "et.switch_shape.off": "Passa alla forma desiderata.",
+    "et.switch_shape.on": "Passa a utilizzare Shapeless.",
+    "et.switch_tag.off": "Attiva l'opzione per abilitare i tag.",
+    "et.switch_tag.on": "Seleziona l'opzione per disabilitare i tag.",
+    "item.easy_tweaker.recipe_manager": "Responsabile della gestione delle ricette",
+    "itemGroup.easy_tweaker_tab": "Easy Tweaker"
+}

@@ -1,4 +1,20 @@
 {
+    "button.minecraftcapes.custom_capes": "Custom Capes",
+    "button.minecraftcapes.custom_capes.tooltip": "Show or hide custom capes",
+    "button.minecraftcapes.custom_ears": "Custom Ears",
+    "button.minecraftcapes.custom_ears.tooltip": "Show or hide custom ears",
+    "button.minecraftcapes.discord": "Discord",
+    "button.minecraftcapes.github": "GitHub",
+    "button.minecraftcapes.minecraftcapes": "MinecraftCapes",
+    "button.minecraftcapes.minecraftcapes.tooltip": "Launch the MinecraftCapes.net website",
+    "button.minecraftcapes.reload": "Reload Profile",
+    "button.minecraftcapes.reload.tooltip": "Reload your profile to show your newest cape\/ears!",
+    "button.minecraftcapes.reload_all": "Reload All Profiles",
+    "button.minecraftcapes.reload_all.tooltip": "Reload all profiles so other peoples capes\/ears update. Note: This can cause lag!",
+    "gui.minecraftcapes.tab.general": "General",
+    "gui.minecraftcapes.tab.links": "Links",
+    "gui.minecraftcapes.tab.options": "Options",
+    "gui.minecraftcapes.title": "MinecraftCapes",
     "key.category.minecraftcapes.gui": "MinecraftCapes",
     "key.minecraftcapes.gui": "Open GUI"
 }

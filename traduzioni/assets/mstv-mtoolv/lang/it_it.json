@@ -414,5 +414,6 @@
     "item.mstv-mtoolv.warped_wooden_hoe": "Zappa di legno deformata",
     "item.mstv-mtoolv.warped_wooden_pickaxe": "Pala in legno deformata",
     "item.mstv-mtoolv.warped_wooden_shovel": "Pala in legno deformata",
+    "itemGroup.mToolV": "Ulteriori varianti di strumenti",
     "itemGroup.toolVariants": "Varianti di utensili"
 }

@@ -1,0 +1,6 @@
+{
+    "entity.levelup.level_orb": "Livello Orb",
+    "item.levelup.test_skill_orb": "Testa l'abilità Orb",
+    "itemGroup.levelup": "Livello superiore",
+    "levelup.ui.level": "Livello %s"
+}

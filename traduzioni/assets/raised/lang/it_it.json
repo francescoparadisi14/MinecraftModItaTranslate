@@ -15,6 +15,7 @@
     "commands.raised.resource.texture.query": "L'impostazione attuale per la texture del selettore \"Hotbar\" è: %s",
     "commands.raised.resource.texture.set": "La texture per la selezione dei comandi è ora impostata su: %s",
     "key.categories.raised.raised": "Allevato",
+    "key.category.raised.raised": "Allevato",
     "key.raised.options": "Opzioni aperte",
     "options.raised.direction.x": "Indicazioni (X)",
     "options.raised.direction.x.left": "Sinistra",

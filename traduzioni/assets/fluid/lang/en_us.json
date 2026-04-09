@@ -12,6 +12,8 @@
     "block.fluid.fluid_interface.tooltip.summary": "A _proxy_ block for interfacing with adjacent fluid containers",
     "block.fluid.gutter_outlet": "Gutter Outlet",
     "block.fluid.pipette": "Mechanical Pipette",
+    "block.fluid.redstone_triple_valve": "Redstone Triple Valve",
+    "block.fluid.redstone_valve": "Redstone Valve",
     "block.fluid.smart_fluid_interface": "Smart Fluid Interface",
     "block.fluid.smart_fluid_interface.tooltip": "SMART FLUID INTERFACE",
     "block.fluid.smart_fluid_interface.tooltip.behaviour1": "Only allows _specified fluids_ to be inserted or extracted",

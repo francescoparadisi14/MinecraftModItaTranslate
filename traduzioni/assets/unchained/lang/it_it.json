@@ -1,0 +1,19 @@
+{
+    "unchained.notification.hidden.capture": "Il vostro legame con il vostro animale domestico, il %1$s %2$s, ha rivelato le sue abilità nascoste!",
+    "unchained.notification.hidden.egg": "La tua energia positiva ha risvegliato il potenziale nascosto del tuo %1$s %2$s!",
+    "unchained.notification.hidden.fish": "La vostra escursione di pesca ha portato alla scoperta di un esemplare di %1$s %2$s, dotato di un'abilità nascosta!",
+    "unchained.notification.hidden.resurrection": "La tua competenza tecnica ha risvegliato il potenziale nascosto del tuo %1$s %2$s!",
+    "unchained.notification.hidden.snack": "La qualità del vostro snack ha colpito i clienti, grazie alla sua caratteristica nascosta!",
+    "unchained.notification.hidden.spawn": "La tua ricerca rivela un %1$s %2$s, sfruttando la sua abilità nascosta!",
+    "unchained.notification.iv.capture": "Il vostro legame con il vostro animale domestico, il %1$s %2$s, ha rivelato risultati perfetti!",
+    "unchained.notification.iv.egg": "La tua energia positiva e incoraggiante ha permesso di ottenere risultati eccellenti nel %1$s %2$s!",
+    "unchained.notification.iv.fish": "La tua pesca ha portato all'ottenimento di un esemplare con caratteristiche perfette (IV perfetti)!",
+    "unchained.notification.iv.resurrection": "La tua competenza tecnica ha permesso di ottenere i perfetti valori IV per il tuo [nome dell'oggetto]% [descrizione dell'oggetto]!",
+    "unchained.notification.iv.snack": "La qualità dei vostri snack ha attirato l'attenzione di un gruppo di giocatori con statistiche perfette!",
+    "unchained.notification.iv.spawn": "La tua ricerca ha portato al ritrovamento di un esemplare con statistiche perfette!",
+    "unchained.notification.shiny.egg": "La tua energia positiva ha favorito la crescita di una splendida pianta di %1$s %2$s!",
+    "unchained.notification.shiny.fish": "La vostra gita di pesca ha portato alla scoperta di un bellissimo esemplare di %1$s %2$s!",
+    "unchained.notification.shiny.resurrection": "La tua competenza tecnica ha risvegliato un brillante %1$s %2$s!",
+    "unchained.notification.shiny.snack": "La qualità dei vostri snack ha colpito i clienti, grazie alla loro forma lucida!",
+    "unchained.notification.shiny.spawn": "La tua ricerca ha portato al ritrovamento di un prezioso %1$s %2$s!"
+}

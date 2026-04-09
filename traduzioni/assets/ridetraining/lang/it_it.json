@@ -1,0 +1,16 @@
+{
+    "item.ridetraining.riding_upgrade": "Aggiornamento Berry",
+    "item.ridetraining.riding_upgrade.tooltip.primary": "Fornisce un allenamento di guida a un Pokémon.",
+    "item.ridetraining.riding_upgrade.tooltip.secondary": "Aumenta la velocità, la resistenza e le capacità del Pokémon fino al limite naturale di quelle specie.",
+    "item.ridetraining.stamina_berry": "Bacche di stamina",
+    "item.ridetraining.stamina_berry.tooltip.primary": "Fa sì che un Pokémon superi i propri limiti naturali di resistenza.",
+    "item.ridetraining.stamina_berry.tooltip.secondary": "Funziona solo fino al doppio della resistenza naturale del Pokémon — usalo con cautela!",
+    "item.ridetraining.training_reader": "Pagina per il servizio di consegna",
+    "item.ridetraining.training_reader.tooltip.primary": "Clicca con il tasto destro su un Pokémon per visualizzare le sue statistiche di guida e il suo potenziale.",
+    "item.ridetraining.training_reader.tooltip.secondary": "Tenere premuto durante la guida per visualizzare l'avanzamento dell'allenamento in tempo reale.",
+    "modmenu.nameTranslation.ridetraining": "Cobblemon: Raggiungere la maestria",
+    "text.ridetraining.item.no_ride_support": "Questo Pokémon non può essere utilizzato come mezzo di trasporto — non sono state trovate modalità di trasporto compatibili.",
+    "text.ridetraining.no_styles": "Questo Pokémon non può essere utilizzato come animale da soma.",
+    "text.ridetraining.stamina_berry.no_more": "La resistenza di questo Pokémon è già al massimo.",
+    "text.ridetraining.upgrade.no_more": "Questo Pokémon ha già raggiunto il limite massimo di potenziamento grazie alle Bacche di Potenziamento."
+}

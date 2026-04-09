@@ -180,6 +180,7 @@
     "itemgroup.modular_machinery_reborn.group": "Modular Machinery Reborn",
     "key.categories.modular_machinery_reborn": "Modular Machinery Reborn",
     "key.modular_machinery_reborn.structure_mode_change": "Structure Creator Mode",
+    "mmr.config.tooltip.info": "Relative to %s",
     "mmr.controller.exactly": "(Exactly %s)",
     "mmr.controller.max": "(Max: %s)",
     "mmr.controller.min": "(Min: %s)",
@@ -188,6 +189,8 @@
     "mmr.core.active.true": "Core is able to run recipes",
     "mmr.core.number": "Core number: %s",
     "mmr.damagesource.kill": "%s was killed by a %s",
+    "mmr.down": "Down",
+    "mmr.east": "East",
     "mmr.emi.no_items": "No items in recipe",
     "mmr.gui.button.back": "Back",
     "mmr.gui.button.close": "Close",
@@ -228,6 +231,7 @@
     "mmr.gui.tooltip.redstone.button.mode.input": "Input",
     "mmr.gui.tooltip.redstone.button.mode.none": "None",
     "mmr.gui.tooltip.redstone.button.mode.output": "Output",
+    "mmr.north": "North",
     "mmr.place.no_item": "Tried to place %s in %s but couldn't find the item %s in the player inventory",
     "mmr.place.non_air": "Tried to place %s in %s but found no valid structure block",
     "mmr.place.replace": "Breaking %s at %s to place new block...",
@@ -255,6 +259,7 @@
     "mmr.side.left": "Left",
     "mmr.side.right": "Right",
     "mmr.side.top": "Top",
+    "mmr.south": "South",
     "mmr.structure.error.between": "Expected to be between %s and %s, but found %s (%s)",
     "mmr.structure.error.exact": "Expected %s, but found %s (%s)",
     "mmr.structure.error.max": "Expected at most %s, but found %s (%s)",
@@ -266,6 +271,7 @@
     "mmr.tooltip.open_side_config": "Open Side Config",
     "mmr.tooltip.redstone.emit": "Emitting %s",
     "mmr.tooltip.redstone.receive": "Receiving %s",
+    "mmr.up": "Up",
     "mmr.waila.cores": [
         {
             "color": "gray",
@@ -280,6 +286,7 @@
             "text": " cores"
         }
     ],
+    "mmr.west": "West",
     "mmr.wrench.side_mode.change": "Changed side: %s from %s to %s",
     "modular_machinery_reborn.command.reload.machines": "Successfully reloaded modular machinery machines!",
     "modular_machinery_reborn.command.reload.recipes": "Successfully reloaded modular machinery recipes!",

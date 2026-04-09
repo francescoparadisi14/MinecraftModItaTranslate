@@ -1,0 +1,23 @@
+{
+    "advancements.cooling_insulation_advancement.descr": "Obtain your first Cooling Insulation Plate.",
+    "advancements.cooling_insulation_advancement.title": "Something feels... cool.",
+    "advancements.heated_insulation_advancement.descr": "Obtain your first Heated Insulation Plate.",
+    "advancements.heated_insulation_advancement.title": "Something feels... warm.",
+    "advancements.regulation_circuit_advancement.descr": "Obtain your first Emerald Redstone Regulation Circuit.",
+    "advancements.regulation_circuit_advancement.title": "Emerald Redstone Regulation Circuit",
+    "advancements.thermally_regulated_advancement.descr": "Obtain a \"Basic Redstone Regulation Circuit\" - your first steps to true thermal regulation!",
+    "advancements.thermally_regulated_advancement.title": "Thermally Regulated Redstone Engineering",
+    "advancements.universal_insulation_advancement.descr": "Obtain your first Universal Insulation Plate.",
+    "advancements.universal_insulation_advancement.title": "Completely Regulated",
+    "block.tan__a_curios_expansion.firoze": "Firoze Liquid",
+    "curios.identifier.insulation": "Insulation",
+    "fluid.tan__a_curios_expansion.firoze": "Firoze Liquid",
+    "item.tan__a_curios_expansion.cooling_thermal_insulation": "Cooling Thermal Body Insulation",
+    "item.tan__a_curios_expansion.firoze_bucket": "Firoze Bucket",
+    "item.tan__a_curios_expansion.heated_thermal_insulation": "Heated Thermal Body Insulation",
+    "item.tan__a_curios_expansion.regulation_circuit": "Emerald Infused Redstone Self-Regulation Circuit",
+    "item.tan__a_curios_expansion.regulation_circuit_shard": "Basic Redstone Regulation Circuit",
+    "item.tan__a_curios_expansion.regulation_crystal": "Regulation Crystal",
+    "item.tan__a_curios_expansion.universal_thermal_insulation": "Universal Thermal Body Insulation",
+    "item_group.tan__a_curios_expansion.tough_as_nailsace": "Tough As Nails - A Curios Expansion"
+}

@@ -334,6 +334,8 @@
     "item.mcwwindows.yellow_mosaic_glass_pane": "Pannello di ventro mosaico giallo",
     "itemGroup.mcwwindows": "Macaw's Windows",
     "itemGroup.mcwwindows.blinds_group": "Macaw's Windows Aggiunte",
+    "itemGroup.windows": "Macaw's Windows",
+    "itemGroup.windows.blinds_group": "Macaw's Windows Aggiunte",
     "itemGroup.windows2": "Aggiunte per Windows di Macaw",
     "mcwwindows.crafting.desc": "Ingredienti crafting",
     "mcwwindows.hammer.desc": "Fare clic destro con questo su una finestra, per cambiarne il tipo in classico",

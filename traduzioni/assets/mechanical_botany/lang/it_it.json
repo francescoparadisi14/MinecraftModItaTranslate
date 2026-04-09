@@ -45,6 +45,8 @@
     "mechanical_botany.ponder.void_compost_use.text_1": "Il Chorus Fruit può essere prodotto utilizzando il compost di liquidi del vuoto.",
     "mechanical_botany.text.cannot_process.empty": "Impossibile elaborare quando l'input è vuoto.",
     "mechanical_botany.text.config.disabled_saplings": "Il processo di elaborazione è disabilitato tramite configurazione.",
+    "mechanical_botany.text.config.input_slot": "(Input)",
+    "mechanical_botany.text.config.output_slot": "(Uscita)",
     "mechanical_botany.text.insolating.input_consumed": "È consumato",
     "mechanical_botany.text.processing_ticks": "%ss",
     "recipe.mechanical_botany.composting": "Compostaggio meccanico",

@@ -1,0 +1,9 @@
+{
+    "gui.plasmovoice.soundphysics": "Fisica del suono",
+    "gui.plasmovoice.soundphysics.enabled": "Attivato",
+    "gui.plasmovoice.soundphysics.mic_reverb": "Effetto riverbero del microfono",
+    "gui.plasmovoice.soundphysics.mic_reverb.tooltip": "Ascolterete l'eco della vostra voce quando parlerete.",
+    "gui.plasmovoice.soundphysics.mic_reverb_volume": "Controlla il volume del riverbero (Mic Reverb Volume)",
+    "modmenu.descriptionTranslation.pv-addon-soundphysics": "Estensione di compatibilità per Plasmo Voice and Sound Physics Remastered mod",
+    "modmenu.summaryTranslation.pv-addon-soundphysics": "Estensione di compatibilità per Plasmo Voice and Sound Physics Remastered mod"
+}

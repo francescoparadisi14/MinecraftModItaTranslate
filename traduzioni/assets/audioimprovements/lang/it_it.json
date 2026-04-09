@@ -32,6 +32,8 @@
     "audioimprovements.config.option.soundSpeedOther.tooltip": "I ritardi nell'ascolto di altri suoni dipendono dalla distanza da cui provengono.",
     "audioimprovements.config.option.soundSpeedThunder": "Velocità dei tuoni",
     "audioimprovements.config.option.soundSpeedThunder.tooltip": "Il suono del tuono varia in intensità a seconda della distanza dalla sua origine.",
+    "audioimprovements.config.option.stereoSpatializationFix": "Correzione della spazializzazione stereo",
+    "audioimprovements.config.option.stereoSpatializationFix.tooltip": "Correggere la posizione dei suoni stereo, posizionandoli correttamente nel mondo, convertendoli in formato mono.\n\nQuesto influisce solo sui suoni provenienti dai pacchetti di risorse e dai mod che vengono riprodotti nel gioco, ma che utilizzano in modo errato il formato stereo (la spazializzazione supporta solo il formato mono).",
     "audioimprovements.gui.percentageFormat": "%s%%",
     "audioimprovements.gui.subScreenButtonFormat": "%s...",
     "audioimprovements.screen.config.subScreenButton.dopplerEffect": "Effetto Doppler",

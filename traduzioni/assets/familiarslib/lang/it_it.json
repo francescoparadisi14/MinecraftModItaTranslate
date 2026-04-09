@@ -26,6 +26,7 @@
     "message.familiarslib.consumable.success": "Aumento del %s al %s!",
     "message.familiarslib.consumable.tier_too_high": "Impossibile utilizzare l'oggetto di livello %d. Il livello massimo utilizzabile è %d.",
     "message.familiarslib.familiar_data_error": "Errore nell'accesso ai dati familiari.",
+    "message.familiarslib.familiar_died_in_house": "Se vedete questo messaggio, vi preghiamo di segnalare che il vostro animale domestico è morto nella sua casa.",
     "message.familiarslib.familiar_not_found": "Nome utente non riconosciuto",
     "message.familiarslib.familiar_not_in_storage": "Elemento non trovato nell'archiviazione.",
     "message.familiarslib.familiar_retrieved": "L'elemento '%s' noto è stato recuperato.",

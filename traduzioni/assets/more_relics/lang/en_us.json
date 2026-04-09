@@ -37,6 +37,8 @@
     "effect.more_relics.superior_shurelyas_battlesong.description": "Increases Movement Speed.",
     "effect.more_relics.superior_zhonyas_hourglass": "Zhonyas Hourglass",
     "effect.more_relics.superior_zhonyas_hourglass.description": "Cant move, jump or cast spells but you're invulnerable.",
+    "hud.more_relics.guardian_angel": "Reviving",
+    "hud.more_relics.zhonyas": "Immortal",
     "item.more_relics.greater_frozen_heart": "Frozen Heart",
     "item.more_relics.greater_kircheis_shard": "Kircheis Shard",
     "item.more_relics.greater_liandrys_torment": "Liandry's Torment",
