@@ -10,12 +10,14 @@
     "blur.midnightconfig.blurBooks": "Applica l'effetto sfocatura ai libri.",
     "blur.midnightconfig.blurCommandBlocks": "Applica l'effetto sfocatura ai blocchi di comando.",
     "blur.midnightconfig.blurContainers": "Applica l'effetto sfocatura ai contenitori",
+    "blur.midnightconfig.blurExclusions": "Esclusioni",
     "blur.midnightconfig.blurSigns": "Applica l'effetto sfocatura ai cartelli.",
     "blur.midnightconfig.blurTitleScreen": "Applica l'effetto sfocatura allo schermo principale.",
     "blur.midnightconfig.category.animations": "Animazioni",
     "blur.midnightconfig.category.screens": "Schermi",
     "blur.midnightconfig.category.style": "Stile",
     "blur.midnightconfig.darkenTitleScreen": "Rendere lo sfondo dello schermo principale più scuro.",
+    "blur.midnightconfig.ease": "Animazione semplificata",
     "blur.midnightconfig.enum.Easing.BACK": "Indietro",
     "blur.midnightconfig.enum.Easing.CIRC": "Cerchio",
     "blur.midnightconfig.enum.Easing.CUBIC": "Cubico",
@@ -44,6 +46,7 @@
     "blur.midnightconfig.rainbowMode": "Modalità arcobaleno 🌈",
     "blur.midnightconfig.showScreenID": "Mostra ID dello schermo",
     "blur.midnightconfig.showScreenID.tooltip": "Mostra l'ID dello schermo corrente nell'angolo in alto a sinistra della finestra del gioco. Utilizza questo ID per trovare gli ID degli schermi da inserire nei campi sottostanti.",
+    "blur.midnightconfig.showScreenTitle": "Titolo dello schermo di accesso",
     "blur.midnightconfig.title": "Configurazione di Blur+",
     "blur.midnightconfig.useGradient": "Sfondo con sfumatura"
 }

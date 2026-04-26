@@ -1,0 +1,14 @@
+{
+    "item.simplytents.canvas_wall": "Canvas Wall",
+    "item.simplytents.roof_tent": "Canopy Tent",
+    "item.simplytents.tent": "Tunnel Tent",
+    "item.simplytents.wall_tent": "Wall Tent",
+    "item.simplytents.zip_tent": "Zip-Up Tent",
+    "tooltip.simplytents.canvas_wall": "A modular fabric partition. Automatically packed up when breaking a nearby tent.",
+    "tooltip.simplytents.contents": "Contents:",
+    "tooltip.simplytents.frame": "Frame:",
+    "tooltip.simplytents.roof_tent": "An open overhead canopy. Sneak-click to pack.",
+    "tooltip.simplytents.tent": "A basic open-ended tent. Sneak-click to pack.",
+    "tooltip.simplytents.wall_tent": "A lean-to tent with an open front. Sneak-click to pack.",
+    "tooltip.simplytents.zip_tent": "An enclosed tent with a toggleable door. Sneak-click to pack."
+}

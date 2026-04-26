@@ -1,0 +1,21 @@
+{
+    "block.create_no_touching.a_parry_s": "AParryS",
+    "block.create_no_touching.aps": "APS",
+    "block.create_no_touching.aps_auto_yaw": "Aps Auto Yaw",
+    "block.create_no_touching.era": "ERA",
+    "block.create_no_touching.iron_fist": "Iron Fist",
+    "block.create_no_touching.shtora": "Shtora",
+    "block.create_no_touching.tusk_era": "Tusk ERA",
+    "block.createnotouching.aps_auto_yaw.tooltip": "Right-click a solid block to apply its texture",
+    "block.createnotouching.aps_auto_yaw.tooltip.line2": "Shift + Right-click to remove the texture",
+    "entity.create_no_touching.scattereds": "Scattered",
+    "item.create_no_touching.aps_round": "Aps Round",
+    "item.create_no_touching.ceramic_plate": "Ceramic Plate",
+    "item.create_no_touching.energy_cell": "Energy Cell",
+    "item.create_no_touching.interceptors": "Interceptors",
+    "item.create_no_touching.iron_pipe": "Iron Pipe",
+    "item.create_no_touching.reflective": "Reflective",
+    "item_group.create_no_touching.create_no_touching": "Create No Touching",
+    "subtitles.parry": "",
+    "subtitles.pipe": ""
+}

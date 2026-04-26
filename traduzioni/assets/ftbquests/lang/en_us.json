@@ -646,7 +646,7 @@
     "item.ftbquests.barrier.object.stage_barrier": "Configured Stage: %s",
     "item.ftbquests.barrier.rightclick": "Right-click to configure settings\nMiddle-click to pick a copy, including settings",
     "item.ftbquests.barrier.skin": "Appears As: %s",
-    "item.ftbquests.book": "Quest Book",
+    "item.ftbquests.book": "PDA",
     "item.ftbquests.book.disabled": "Quest Book GUI is disabled!",
     "item.ftbquests.book.tooltip": "Right-click to open quest window",
     "item.ftbquests.custom_icon": "Custom Icon",

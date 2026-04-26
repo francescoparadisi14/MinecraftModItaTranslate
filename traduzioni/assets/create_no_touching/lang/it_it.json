@@ -1,0 +1,21 @@
+{
+    "block.create_no_touching.a_parry_s": "AParryS",
+    "block.create_no_touching.aps": "APS",
+    "block.create_no_touching.aps_auto_yaw": "Sistema di controllo dello sterzo attivo",
+    "block.create_no_touching.era": "Era",
+    "block.create_no_touching.iron_fist": "Pugno di ferro",
+    "block.create_no_touching.shtora": "Shtora",
+    "block.create_no_touching.tusk_era": "Tusk era",
+    "block.createnotouching.aps_auto_yaw.tooltip": "Fare clic con il tasto destro su un blocco solido per applicare la sua texture.",
+    "block.createnotouching.aps_auto_yaw.tooltip.line2": "Premi il tasto \"Shift\" e fai clic con il pulsante destro del mouse per rimuovere la texture.",
+    "entity.create_no_touching.scattereds": "Sparsi",
+    "item.create_no_touching.aps_round": "Round di Aps",
+    "item.create_no_touching.ceramic_plate": "Piatto in ceramica",
+    "item.create_no_touching.energy_cell": "Cella energetica",
+    "item.create_no_touching.interceptors": "Intercettori",
+    "item.create_no_touching.iron_pipe": "Tubo in ferro",
+    "item.create_no_touching.reflective": "Riflettente",
+    "item_group.create_no_touching.create_no_touching": "Crea \"senza contatto\"",
+    "subtitles.parry": "",
+    "subtitles.pipe": ""
+}

@@ -1,0 +1,14 @@
+{
+    "item.simplytents.canvas_wall": "Pannello su parete",
+    "item.simplytents.roof_tent": "Tenda da tenda",
+    "item.simplytents.tent": "Tenda a forma di tunnel",
+    "item.simplytents.wall_tent": "Tenda da campeggio",
+    "item.simplytents.zip_tent": "Tenda con chiusura a zip",
+    "tooltip.simplytents.canvas_wall": "Un pannello divisore in tessuto modulare. Si ripiega automaticamente quando viene smontato un tenda nelle vicinanze.",
+    "tooltip.simplytents.contents": "Contenuti:",
+    "tooltip.simplytents.frame": "Cornice:",
+    "tooltip.simplytents.roof_tent": "Una tenda aperta, posizionata sopra. Clicca per riporla.",
+    "tooltip.simplytents.tent": "Una tenda semplice e versatile. Utilizzare il \"click\" per riporla.",
+    "tooltip.simplytents.wall_tent": "Una tenda a forma di \"lean-to\" con una apertura frontale. Utilizzare la funzione \"sneak-click\" per riporla.",
+    "tooltip.simplytents.zip_tent": "Una tenda chiusa con una porta che può essere aperta e chiusa. Clicca per \"impacchettare\"."
+}

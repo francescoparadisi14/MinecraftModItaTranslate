@@ -1,0 +1,21 @@
+{
+    "advancements.bribery.descr": "Commettere un reato che non è menzionato nel titolo del mod.",
+    "advancements.bribery.title": "Corruzione",
+    "advancements.fivestarmug.descr": "Offri a un abitante una tazza, fino al limite della costruzione.",
+    "advancements.fivestarmug.title": "Tazza a 5 stelle",
+    "advancements.law_enforcement.descr": "Osserva come le autorità fanno rispettare la rigorosa politica del villaggio che vieta il possesso di armi, durante un incontro con un commerciante itinerante.",
+    "advancements.law_enforcement.title": "Forze dell'ordine",
+    "advancements.mug_master.descr": "Raccogliere un totale di 100 gemme verdi, derubando gli abitanti del villaggio.",
+    "advancements.mug_master.title": "Maestro del caffè",
+    "effect.mugging_villagers_mod.villager_fear": "Paura tra gli abitanti",
+    "entity.mugging_villagers_mod.homeless_villager": "Persona senza fissa dimora proveniente dal villaggio",
+    "entity.mugging_villagers_mod.lil_ill": "Lil Ill",
+    "entity.mugging_villagers_mod.wandering_gangster": "Commerciante ambulante infuriato",
+    "item.mugging_villagers_mod.gun": "Arma",
+    "item.mugging_villagers_mod.homeless_villager_spawn_egg": "Uovo di spawn per il villager senzatetto",
+    "item.mugging_villagers_mod.lil_ill_spawn_egg": "Uovo di Lil Ill",
+    "item.mugging_villagers_mod.wandering_gangster_spawn_egg": "Uovo di una creatura ostile, un commerciante errante infuriato.",
+    "subtitles.cocked_gun": "Fucile caricato",
+    "subtitles.gun_shot_shush": "Sparature",
+    "subtitles.gun_shot_sound": "È stato fatto un colpo di pistola."
+}

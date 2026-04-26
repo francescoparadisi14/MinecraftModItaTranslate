@@ -1,0 +1,23 @@
+{
+    "chat.trade.canceled.player": "Hai annullato l'offerta di scambio con §l%s§r",
+    "chat.trade.canceled.trader": "§l%s§r ha annullato l'offerta di scambio.",
+    "chat.trade.cancelled": "Il commercio con §l%s§r è stato annullato.",
+    "chat.trade.error.hasasked": "Hai già chiesto a qualcuno, aspetta la sua risposta o annulla la richiesta.",
+    "chat.trade.error.haspending": "Ha una richiesta in sospeso.",
+    "chat.trade.error.istrading": "§l%s§r è già attivo\/operativo",
+    "chat.trade.error.nopending": "Non ci sono ordini di acquisto o vendita in attesa di essere eseguiti.",
+    "chat.trade.error.player.haspending": "«l%s§r» ha già presentato una richiesta in sospeso.",
+    "chat.trade.error.themselves": "Non puoi semplicemente presentarti e partecipare a una transazione commerciale.",
+    "chat.trade.error.tofar": "«l%s§r» è troppo lontano.",
+    "chat.trade.ignore.cancel": "Se non vengono riconosciuti, potranno nuovamente inviarvi offerte commerciali.",
+    "chat.trade.ignore.success": "Se l'utente ignora le richieste, non potrà più inviarti offerte commerciali.",
+    "chat.trade.ignored": "Non è possibile inviare un'offerta commerciale a §l%s§r.",
+    "chat.trade.invite.receiver": "§l%s§r desidera scambiare con te!",
+    "chat.trade.invite.sender": "Hai invitato §l%s§r a partecipare a uno scambio!",
+    "chat.trade.noanswer.asker": "§l%s§r non ha risposto...",
+    "chat.trade.noanswer.responder": "Non hai risposto a §l%s",
+    "chat.trade.refused.asker": "§l%s§r ha rifiutato la tua offerta commerciale.",
+    "chat.trade.refused.responder": "Hai rifiutato l'offerta commerciale di §l%s§r.",
+    "chat.trade.success": "Il commercio con §l%s§r è stato §2un successo§r!",
+    "trade.name": "Schermo di trading"
+}

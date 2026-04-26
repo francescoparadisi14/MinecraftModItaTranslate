@@ -1,0 +1,23 @@
+{
+    "chat.trade.canceled.player": "You canceled the trade offer with §l%s§r",
+    "chat.trade.canceled.trader": "§l%s§r canceled the trade offer",
+    "chat.trade.cancelled": "The trade with §l%s§r was §4cancelled",
+    "chat.trade.error.hasasked": "You already asked someone, wait for them to respond or cancel",
+    "chat.trade.error.haspending": "You have one pending request",
+    "chat.trade.error.istrading": "§l%s§r is already trading",
+    "chat.trade.error.nopending": "You have no pending trade offer",
+    "chat.trade.error.player.haspending": "§l%s§r already has a pending request",
+    "chat.trade.error.themselves": "You can't invite yourself to trade",
+    "chat.trade.error.tofar": "§l%s§r is too far away",
+    "chat.trade.ignore.cancel": "§l%s§r unignored, they will be able to send you trade offers again",
+    "chat.trade.ignore.success": "§l%s§r ignored, they won't be able to send you trade offers anymore",
+    "chat.trade.ignored": "You can't send a trade offer to §l%s§r",
+    "chat.trade.invite.receiver": "§l%s§r wants to trade with you!",
+    "chat.trade.invite.sender": "You invited §l%s§r to trade!",
+    "chat.trade.noanswer.asker": "§l%s§r didn't answer ...",
+    "chat.trade.noanswer.responder": "You didn't answer to §l%s",
+    "chat.trade.refused.asker": "§l%s§r refused your trade offer",
+    "chat.trade.refused.responder": "You refused §l%s§r's trade offer",
+    "chat.trade.success": "The trade with §l%s§r was §2successful§r!",
+    "trade.name": "Trading Screen"
+}

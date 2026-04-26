@@ -1,0 +1,17 @@
+{
+    "block.cannibal.bone_trap": "Trappola per ossa",
+    "block.cannibal.skull_lamp": "Lampada a forma di crânio",
+    "cannibal.damage_source.bone_trap": "«È rimasto intrappolato»",
+    "creativemodetab.clockwork": "Il mistero dei cannibali",
+    "death.attack.cannibal.damage_source.bone_trap": "«È rimasto intrappolato»",
+    "effect.cannibal.cannibalism": "Cannibalismo",
+    "entity.cannibal.cannibal": "Cannibale",
+    "entity.cannibal.cannibal_butcher": "Macellaio cannibale",
+    "item.cannibal.bone_mask": "Maschera ossea",
+    "item.cannibal.bone_sword": "Spada di osso",
+    "item.cannibal.cannibal_butcher_spawn_egg": "Uovo della larva di Cannibal Butcher",
+    "item.cannibal.cannibal_spawn_egg": "Uovo di una creatura cannibale",
+    "item.cannibal.fresh_chili": "Peperoncino fresco",
+    "item.cannibal.fresh_flesh": "Carne fresca",
+    "item.cannibal.stone_saw": "Sega per pietra"
+}

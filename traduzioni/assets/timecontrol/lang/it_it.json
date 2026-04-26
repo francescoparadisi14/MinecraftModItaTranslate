@@ -1,0 +1,7 @@
+{
+    "commands.timecontrol.change_time_when_system": "Disabilitare la sincronizzazione dell'orario di sistema per %1$s %2$s!",
+    "commands.timecontrol.client_not_ignoring_server": "Imposta la variabile %s su 'true' per controllare l'orario del cliente e la configurazione in modo indipendente dal server!",
+    "commands.timecontrol.query": "Attualmente, il valore di %s è impostato su: %s",
+    "commands.timecontrol.set": "\"%s\" è ora impostato su: \"%s\"",
+    "commands.timecontrol.sync_to_system_time_offset": "Il valore di offset per la sincronizzazione del sistema deve essere un numero a virgola mobile, con incrementi di 0,5!"
+}
