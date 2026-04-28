@@ -13,6 +13,8 @@
     "example_mod.configuration.example": "example",
     "immersivearmorhud.configuration.client": "client",
     "immersivearmorhud.configuration.example": "example",
+    "immersivedamageindicators.configuration.client": "client",
+    "immersivedamageindicators.configuration.example": "example",
     "miningspeedtooltips.configuration.client": "client",
     "miningspeedtooltips.configuration.example": "example",
     "missingmodschecker.configuration.client": "client",

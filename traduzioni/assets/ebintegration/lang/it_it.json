@@ -1,0 +1,15 @@
+{
+    "block.ebintegration.etherbloom": "Etherbloom",
+    "block.ebintegration.floating_etherbloom": "Etherbloom galleggiante",
+    "ebintegration.entry.ether_fire_ring": "Cerchio antincendio",
+    "ebintegration.entry.ether_ice_ring": "Anello di ghiaccio",
+    "ebintegration.entry.etherbloom": "Etherbloom",
+    "ebintegration.page.ether_fire_ring0": "Questo anello collega mana ed energia eterea. Quando il portatore subisce danni, l'avversario viene sollevato in aria da un vortice di fuoco, infliggendo danni da ustione. L'effetto si intensifica se l'avversario è già in fiamme.",
+    "ebintegration.page.ether_fire_ring1": "Creare l'anello",
+    "ebintegration.page.ether_ice_ring0": "Questo anello combina mana ed energia eterea. Quando il portatore subisce danni, l'avversario viene coperto di ghiaccio, rallentato completamente. Se colpito in questo stato, il ghiaccio si rompe, infliggendo ulteriori danni.",
+    "ebintegration.page.ether_ice_ring1": "Creare l'anello",
+    "ebintegration.page.etherbloom0": "Questa pianta assorbe l'etere da un oggetto posizionato sul distributore di etere e lo converte in mana. Se l'etere si esaurisce o il distributore viene rimosso, la pianta smette di funzionare.",
+    "ebintegration.page.etherbloom1": "Creare il fiore",
+    "item.ebintegration.ether_fire_ring": "Anello di Ether Fire",
+    "item.ebintegration.ether_ice_ring": "Anello di ghiaccio etereo"
+}

@@ -1,0 +1,15 @@
+{
+    "block.ebintegration.etherbloom": "Etherbloom",
+    "block.ebintegration.floating_etherbloom": "Floating Etherbloom",
+    "ebintegration.entry.ether_fire_ring": "Fire Ring",
+    "ebintegration.entry.ether_ice_ring": "Ice Ring",
+    "ebintegration.entry.etherbloom": "Etherbloom",
+    "ebintegration.page.ether_fire_ring0": "This ring connects mana and ether. When the wearer takes damage, the enemy is thrown into the air by a fire whirlwind, dealing burn damage. The effect intensifies if the enemy is already burning.",
+    "ebintegration.page.ether_fire_ring1": "Creating the ring",
+    "ebintegration.page.ether_ice_ring0": "This ring combines mana and ether. When the wearer takes damage, the enemy is covered in ice, fully slowing down. If hit in this state, the ice shatters, dealing additional damage.",
+    "ebintegration.page.ether_ice_ring1": "Creating the ring",
+    "ebintegration.page.etherbloom0": "This flower absorbs ether from an item placed on the Ether Distributor and converts it into mana. If the ether runs out or the distributor is removed, the flower stops working.",
+    "ebintegration.page.etherbloom1": "Creating the flower",
+    "item.ebintegration.ether_fire_ring": "Ether Fire Ring",
+    "item.ebintegration.ether_ice_ring": "Ether Ice Ring"
+}
