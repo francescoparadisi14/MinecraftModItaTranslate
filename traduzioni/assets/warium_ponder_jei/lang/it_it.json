@@ -1,0 +1,17 @@
+{
+    "fluid_type.crusty_chunks.crude_oil": "Petrolio grezzo",
+    "fluid_type.crusty_chunks.diesel": "Diesel",
+    "fluid_type.crusty_chunks.kerosene": "Cherosene",
+    "fluid_type.crusty_chunks.oil": "Olio",
+    "fluid_type.crusty_chunks.petrolium": "Petrolio",
+    "warium_ponder_jei.jei.category.centrifuge": "Centrifuga da banco",
+    "warium_ponder_jei.jei.category.reactor": "Reattore di selezione",
+    "warium_ponder_jei.tooltip.chance": "%d% Probabilità",
+    "warium_ponder_jei.tooltip.collect_with_bucket": "Può essere raccolto con un secchio.",
+    "warium_ponder_jei.tooltip.consume_chance": "%d% Probabilità di consumo",
+    "warium_ponder_jei.tooltip.fuel.needed": "Deve essere alimentato",
+    "warium_ponder_jei.tooltip.heat.needed": "Deve essere riscaldato",
+    "warium_ponder_jei.tooltip.kinetic.required": "Richiede energia cinetica",
+    "warium_ponder_jei.tooltip.not_consumed": "Non consumato",
+    "warium_ponder_jei.tooltip.power.needed": "Deve essere alimentato"
+}

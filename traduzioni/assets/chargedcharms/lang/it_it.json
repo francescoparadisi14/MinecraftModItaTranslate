@@ -63,5 +63,6 @@
     "item.chargedcharms.charged_totem_charm": "Amuletto di Totem (con effetto attivo)",
     "item.chargedcharms.charged_water_breathing_charm": "Incantesimo per respirare sott'acqua",
     "itemGroup.chargedcharms": "Incantesimi attivi",
-    "tooltip.charged_charm.charges": "Costi"
+    "tooltip.charged_charm.charges": "Costi",
+    "trinkets.slot.charged_charm.charm": "Carisma elettrizzante"
 }

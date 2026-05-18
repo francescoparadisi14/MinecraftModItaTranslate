@@ -21,6 +21,10 @@
     "key.cobblemon_smartphone.open": "Open Smartphone",
     "message.nbp.cloud.cooldown": "You need to wait %d seconds before open your Ender Chest again",
     "message.nbp.cloud.disabled": "The cloud feature is disabled on this server",
+    "message.nbp.cobbledollars.open_failed": "Could not open CobbleDollars shop",
+    "message.nbp.cobbledollars.unavailable": "CobbleDollars is not installed on this server",
+    "message.nbp.cobblenav.no_pokenav_item": "You need a CobbleNav PokeNav item in your inventory",
+    "message.nbp.cobblenav.unavailable": "CobbleNav is not installed on this server",
     "message.nbp.heal.battle_error": "You cannot heal Pokémon during a battle!",
     "message.nbp.heal.cooldown": "You need to wait %d seconds before using heal again",
     "message.nbp.heal.disabled": "The healing feature is disabled on this server",
@@ -28,5 +32,10 @@
     "message.nbp.pc.battle_error": "You cannot open your PC during a battle!",
     "message.nbp.pc.cooldown": "You need to wait %d seconds before open your PC again",
     "message.nbp.pc.disabled": "The PC feature is disabled on this server",
+    "message.nbp.waystones.cooldown": "You need to wait %d seconds before using Waystones again",
+    "message.nbp.waystones.disabled": "The Waystones feature is disabled on this server",
+    "message.nbp.waystones.no_warp_stone_item": "You need a Waystones Warp Stone in your inventory",
+    "message.nbp.waystones.open_failed": "Could not open Waystones Warp Stone interface",
+    "message.nbp.waystones.unavailable": "Waystones is not installed on this server",
     "trinkets.slot.legs.smartphone": "Smartphone"
 }

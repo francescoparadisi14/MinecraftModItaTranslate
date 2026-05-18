@@ -1,4 +1,6 @@
 {
+    "category.sound_physics_remastered.own_voice": "Own voice",
+    "category.sound_physics_remastered.own_voice.description": "The volume of your own voice",
     "cloth_config.sound_physics_remastered.air_absorption": "Air absorption",
     "cloth_config.sound_physics_remastered.air_absorption.description": "A value controlling the amount that air absorbs high frequencies with distance. A value of 1.0 is physically correct for air with normal humidity and temperature. Higher values mean air will absorb more high frequencies with distance. 0 disables this effect.",
     "cloth_config.sound_physics_remastered.attenuation_factor": "Attenuation factor",

@@ -54,6 +54,7 @@
     "create_tweaked_controllers.gui_input_joystick_button": "Pulsante del joystick: %1$s",
     "create_tweaked_controllers.gui_input_keyboard": "Chiave",
     "create_tweaked_controllers.gui_input_mouse": "Pulsante del mouse %1$s",
+    "create_tweaked_controllers.gui_input_mouse_wheel": "Rotazione del rotellino: %1$s",
     "create_tweaked_controllers.gui_output_axis": "Valore di output come asse:",
     "create_tweaked_controllers.gui_output_button": "Valore di output come pulsante:",
     "create_tweaked_controllers.gui_tab_axis": "Impostazioni dell'asse",

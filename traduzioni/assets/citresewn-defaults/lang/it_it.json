@@ -1,0 +1,6 @@
+{
+    "config.citresewn-defaults.title": "CIT Resewn: Impostazioni predefinite",
+    "config.citresewn-defaults.tooltip": "Accedere al menu delle impostazioni predefinite.",
+    "config.citresewn-defaults.type_enchantment_scroll_multiplier.title": "Tipo: Incantesimo: Moltiplicatore di rune",
+    "config.citresewn-defaults.type_enchantment_scroll_multiplier.tooltip": "Un fattore di moltiplicazione generale per la velocità con cui appare l'effetto \"cit enchantment\" sullo scroll."
+}

@@ -1,0 +1,4 @@
+{
+    "block.endersourcejars.endersourcejar": "Ender Source Jar",
+    "endersourcejars.page.endersourcejar": "Ender Source Jars function similarly to regular Source Jars, except they store source in the End. It's frequency can be set with dyes, and other Ender Source Jars with the same frequency will share the same storage. Using a diamond on the lid will bind it to the player."
+}

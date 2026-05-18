@@ -186,6 +186,8 @@
     "item.towers_of_chaos.grenade.description_0": "Can be shoot, destroys blocks with hardness lower than \"2\"",
     "item.towers_of_chaos.healing_bandage": "Healing Bandage",
     "item.towers_of_chaos.healing_bandage.description_0": "Use it to heal",
+    "item.towers_of_chaos.hunter_necklace": "Hunter Necklace",
+    "item.towers_of_chaos.hunter_necklace.description_0": "Grants Speed II and Strength II",
     "item.towers_of_chaos.imp_spawn_egg": "Imp Spawn Egg",
     "item.towers_of_chaos.iron_mace": "Iron Mace",
     "item.towers_of_chaos.iron_mace.description_0": "Extra knockback. Extra damage to Gargoyles. Extra damage to armors.",

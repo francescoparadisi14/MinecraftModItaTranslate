@@ -1,4 +1,6 @@
 {
+    "block.dumplings_delight.celery": "Celery Seeds",
+    "block.dumplings_delight.celery_crate": "Celery Crate",
     "block.dumplings_delight.chinese_cabbage_crate": "Chinese Cabbage Crate",
     "block.dumplings_delight.chinese_cabbages": "Chinese Cabbage Seeds",
     "block.dumplings_delight.dumpling_medley": "Dumpling Medley",
@@ -25,6 +27,7 @@
     "item.dumplings_delight.beef_tomato_boiled_dumpling": "Beef Tomato Boiled Dumpling",
     "item.dumplings_delight.calamari": "Calamari",
     "item.dumplings_delight.calamari_boiled_dumpling": "Calamari Boiled Dumpling",
+    "item.dumplings_delight.celery": "Celery",
     "item.dumplings_delight.chicken_mushroom_boiled_dumpling": "Chicken Mushroom Boiled Dumpling",
     "item.dumplings_delight.chinese_cabbage": "Chinese Cabbage",
     "item.dumplings_delight.chinese_cabbage_leaf": "Chinese Cabbage Leaf",

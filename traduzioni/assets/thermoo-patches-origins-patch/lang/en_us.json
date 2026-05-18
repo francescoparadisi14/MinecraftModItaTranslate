@@ -1,0 +1,20 @@
+{
+    "power.thermoo-patches-origins-patch.reduce_min_temperature.description": "Your hot body requires constant heat, any exposure to cold weather will quickly take its toll.",
+    "power.thermoo-patches-origins-patch.reduce_min_temperature.name": "Easily Extinguished",
+    "power.thermoo-patches.cold_immune.description": "You are immune to cold temperatures.",
+    "power.thermoo-patches.cold_immune.name": "Freezing Immunity",
+    "power.thermoo-patches.cold_vulnerability.description": "You freeze much faster than humans.",
+    "power.thermoo-patches.cold_vulnerability.name": "Cryophobia",
+    "power.thermoo-patches.extra_frost_resistance.description": "You are more resistant to cold temperatures.",
+    "power.thermoo-patches.extra_frost_resistance.name": "Frost Shield",
+    "power.thermoo-patches.extra_heat_resistance.description": "You are more resistant to high temperatures.",
+    "power.thermoo-patches.extra_heat_resistance.name": "Heat Shield",
+    "power.thermoo-patches.heat_immune.description": "You are immune to warm temperatures.",
+    "power.thermoo-patches.heat_immune.name": "Heating Immunity",
+    "power.thermoo-patches.heat_vulnerability.description": "You are warmed much faster than humans.",
+    "power.thermoo-patches.heat_vulnerability.name": "Thermophobia",
+    "power.thermoo-patches.ignores_cold_effects.description": "Cold has no negative effects on you.",
+    "power.thermoo-patches.ignores_cold_effects.name": "Frostborn",
+    "power.thermoo-patches.ignores_heat_effects.description": "Heat has no negative effects on you.",
+    "power.thermoo-patches.ignores_heat_effects.name": "Fireborn"
+}

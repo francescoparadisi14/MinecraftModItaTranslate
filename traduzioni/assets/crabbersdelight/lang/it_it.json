@@ -98,6 +98,7 @@
     "item.crabbersdelight.fish_bones": "Ossa di pesce",
     "item.crabbersdelight.fish_stick": "Bastoncini di pesce",
     "item.crabbersdelight.frog_leg_kebab": "Spiedino di cosce di rana",
+    "item.crabbersdelight.frog_leg_kebob": "Spiedino di cosce di rana",
     "item.crabbersdelight.jar_of_pickles": "Barattolo di sottaceti",
     "item.crabbersdelight.kelp_shake": "Shaker di alghe",
     "item.crabbersdelight.palm_boat": "Barca a remi",
@@ -116,6 +117,7 @@
     "item.crabbersdelight.shrimp_skewer": "Spiedini di gamberi",
     "item.crabbersdelight.soggy_flesh": "Carne anidrata",
     "item.crabbersdelight.squid_kebab": "Spiedino di calamari",
+    "item.crabbersdelight.squid_kebob": "Spiedino di calamari",
     "item.crabbersdelight.stuffed_nautilus_shell": "Conchiglia di nautilo, riempita",
     "item.crabbersdelight.surf_and_turf": "Surf 'n Turf",
     "item.crabbersdelight.tropical_fish_slice": "Fettine di pesce tropicale crudo",
@@ -140,5 +142,6 @@
     "tag.item.crabbersdelight.jei_display_results.minecraft.tropical_fish": "Attractante per pesci tropicali",
     "tag.item.crabbersdelight.raw_seafood": "Frutti di mare crudi",
     "tag.item.crabbersdelight.raw_squid": "Polpo crudo",
+    "tooltip.farmersdelight.coconut_milk": "Elimina l'effetto 1",
     "trim_material.crabbersdelight.pearl": "Materiale: Perla"
 }

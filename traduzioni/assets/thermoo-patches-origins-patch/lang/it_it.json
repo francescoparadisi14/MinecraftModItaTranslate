@@ -1,0 +1,20 @@
+{
+    "power.thermoo-patches-origins-patch.reduce_min_temperature.description": "Il tuo corpo, che richiede temperature elevate, è molto sensibile al freddo. Anche un breve periodo di esposizione a basse temperature può causare danni.",
+    "power.thermoo-patches-origins-patch.reduce_min_temperature.name": "Facilmente estinguibile",
+    "power.thermoo-patches.cold_immune.description": "Sei immune alle basse temperature.",
+    "power.thermoo-patches.cold_immune.name": "Immunità tramite congelamento",
+    "power.thermoo-patches.cold_vulnerability.description": "Si congela molto più velocemente degli esseri umani.",
+    "power.thermoo-patches.cold_vulnerability.name": "Paura del freddo",
+    "power.thermoo-patches.extra_frost_resistance.description": "Siate più resistenti al freddo.",
+    "power.thermoo-patches.extra_frost_resistance.name": "Schermo anti-gelo",
+    "power.thermoo-patches.extra_heat_resistance.description": "Sono più resistente alle alte temperature.",
+    "power.thermoo-patches.extra_heat_resistance.name": "Schermo termico",
+    "power.thermoo-patches.heat_immune.description": "Sei resistente alle alte temperature.",
+    "power.thermoo-patches.heat_immune.name": "Resistenza al calore",
+    "power.thermoo-patches.heat_vulnerability.description": "Si riscalda molto più velocemente degli esseri umani.",
+    "power.thermoo-patches.heat_vulnerability.name": "Paura del caldo",
+    "power.thermoo-patches.ignores_cold_effects.description": "Il freddo non ha effetti negativi su di te.",
+    "power.thermoo-patches.ignores_cold_effects.name": "Nato nel gelo",
+    "power.thermoo-patches.ignores_heat_effects.description": "Il calore non ha effetti negativi su di te.",
+    "power.thermoo-patches.ignores_heat_effects.name": "Nati dal fuoco"
+}

@@ -66,6 +66,7 @@
     "config.jade.plugin_extendedcrafting.advanced_auto_table": "Advanced Auto Table info",
     "config.jade.plugin_extendedcrafting.advanced_table": "Advanced Table info",
     "config.jade.plugin_extendedcrafting.auto_ender_crafter": "Auto Ender Crafter info",
+    "config.jade.plugin_extendedcrafting.auto_flux_crafter": "Auto Flux Crafter info",
     "config.jade.plugin_extendedcrafting.basic_auto_table": "Basic Auto Table info",
     "config.jade.plugin_extendedcrafting.basic_table": "Basic Table info",
     "config.jade.plugin_extendedcrafting.compressor": "Quantum Compressor info",

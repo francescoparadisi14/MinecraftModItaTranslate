@@ -16,11 +16,13 @@
     "gui.phantoms_utilities.Red": "Rosso",
     "gui.phantoms_utilities.White": "Bianco",
     "gui.phantoms_utilities.Yellow": "Giallo",
+    "gui.phantoms_utilities.spray_can_color.title": "Seleziona il colore",
     "item.phantoms_utilities.sleep_charm": "Amuleto per favorire il sonno",
     "item.phantoms_utilities.spray_can": "Bombo",
     "phantoms_utilities.configuration.items": "Configurazioni degli articoli",
     "phantoms_utilities.configuration.spray_can": "Bombo",
     "phantoms_utilities.configuration.spray_can.max_block_dye_count": "Numero di colori Max Block",
     "phantoms_utilities.configuration.spray_can.max_cable_dye_count": "Numero di colorazioni per capelli Max Cable",
-    "phantoms_utilities.configuration.spray_can.max_total_checks": "Numero massimo di controlli"
+    "phantoms_utilities.configuration.spray_can.max_total_checks": "Numero massimo di controlli",
+    "phantoms_utilities.configuration.spray_can.mod_blacklist": "Mod inutilizzabili\/sospesi"
 }

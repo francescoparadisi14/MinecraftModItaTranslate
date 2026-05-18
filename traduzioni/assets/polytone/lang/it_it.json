@@ -1,6 +1,9 @@
 {
+    "config.polytone.auto_particle_rate_limit": "Limite al tasso di particolato",
+    "config.polytone.auto_particle_rate_limit.tooltip": "Definire i limiti di emissione per ogni emettitore di particelle nei pacchetti Polytone. Ogni emettitore avrà un limite di emissione di 2 particelle ogni tick, oppure un limite di 400 particelle ogni 5 secondi.",
     "config.polytone.custom_particles_async": "Particelle personalizzate asincrone",
     "config.polytone.custom_particles_async.tooltip": "Permette di eseguire la logica per le particelle personalizzate su un thread separato. È un approccio molto rudimentale e sperimentale. Potrebbe migliorare le prestazioni, oppure no.",
+    "config.polytone.header": "Polytone",
     "config.polytone.legacy_parsing": "Supporto per formati legacy",
     "config.polytone.legacy_parsing.tooltip": "Cerca di tradurre i formati provenienti da altri mod in modo che possano essere interpretati come file Polytone. Utile per definire colori personalizzati e mappe di colori.",
     "config.polytone.lenient_loading": "Caricamento flessibile del pacchetto",

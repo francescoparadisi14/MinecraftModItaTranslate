@@ -1,0 +1,7 @@
+{
+    "key.categories.ssrcamerafixes": "SSR Camera Fixes",
+    "key.ssrcamerafixes.shoulder_cycle": "Shoulder Cycle (right → left → overhead)",
+    "ssrcamerafixes.toast.shoulder.left": "Shoulder: left",
+    "ssrcamerafixes.toast.shoulder.overhead": "Shoulder: overhead",
+    "ssrcamerafixes.toast.shoulder.right": "Shoulder: right"
+}

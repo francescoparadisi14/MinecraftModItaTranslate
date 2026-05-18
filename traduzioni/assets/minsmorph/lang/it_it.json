@@ -3,5 +3,14 @@
     "key.categories.minsmorph": "La trasformazione di Min",
     "key.minsmorph.open_menu": "Menu principale",
     "key.minsmorph.trigger": "Obiettivo selezionato",
-    "minsmorph.goalmenu.title": "Menu Obiettivi"
+    "minsmorph.goalmenu.title": "Menu Obiettivi",
+    "minsmorph.sync.adapter_failed": "L'adattatore di azione non è stato in grado di eseguire questa azione.",
+    "minsmorph.sync.goal_failed": "Non è stato possibile raggiungere l'obiettivo in modo sicuro.",
+    "minsmorph.sync.invalid_owner": "Richiesta di accesso non valida per il proprietario.",
+    "minsmorph.sync.invalid_selection": "Selezione non valida per la forma attuale.",
+    "minsmorph.sync.missing_target": "L'oggetto di riferimento non è ancora pronto. Riprova.",
+    "minsmorph.sync.no_goal_selected": "Nessun obiettivo valido selezionato.",
+    "minsmorph.sync.stale": "Le opzioni di configurazione erano obsolete. Ho sincronizzato l'ultima versione.",
+    "minsmorph.sync.unsupported_action": "L'azione selezionata non è supportata da questo gruppo.",
+    "minsmorph.sync.waiting": "Le opzioni di modifica sono in fase di sincronizzazione. Riprova."
 }

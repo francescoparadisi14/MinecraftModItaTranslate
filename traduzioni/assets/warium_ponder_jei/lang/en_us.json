@@ -1,0 +1,17 @@
+{
+    "fluid_type.crusty_chunks.crude_oil": "Crude Oil",
+    "fluid_type.crusty_chunks.diesel": "Diesel",
+    "fluid_type.crusty_chunks.kerosene": "Kerosene",
+    "fluid_type.crusty_chunks.oil": "Oil",
+    "fluid_type.crusty_chunks.petrolium": "Petrolium",
+    "warium_ponder_jei.jei.category.centrifuge": "Assembly Centrifuge",
+    "warium_ponder_jei.jei.category.reactor": "Breeder Reactor",
+    "warium_ponder_jei.tooltip.chance": "%d%% Chance",
+    "warium_ponder_jei.tooltip.collect_with_bucket": "Can be collected with a Bucket",
+    "warium_ponder_jei.tooltip.consume_chance": "%d%% Consume Chance",
+    "warium_ponder_jei.tooltip.fuel.needed": "Must be Fueled",
+    "warium_ponder_jei.tooltip.heat.needed": "Must be Heated",
+    "warium_ponder_jei.tooltip.kinetic.required": "Requires Kinetic Power",
+    "warium_ponder_jei.tooltip.not_consumed": "Not Consumed",
+    "warium_ponder_jei.tooltip.power.needed": "Must be Powered"
+}

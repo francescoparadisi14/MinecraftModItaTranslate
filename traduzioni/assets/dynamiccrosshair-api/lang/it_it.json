@@ -1,0 +1,18 @@
+{
+    "tag.block.dynamiccrosshair.always_interactable": "Costantemente accessibile\/interattivo",
+    "tag.block.dynamiccrosshair.always_interactable_in_creative_mode": "Interattivo in modalità creativa in ogni momento.",
+    "tag.block.dynamiccrosshair.interactable": "Interattivo",
+    "tag.entity_type.dynamiccrosshair.always_interactable": "Costantemente accessibile\/interattivo",
+    "tag.entity_type.dynamiccrosshair.interactable": "Interattivo",
+    "tag.item.dynamiccrosshair.always_usable": "Utilizzabile sempre",
+    "tag.item.dynamiccrosshair.always_usable_on_block": "Utilizzabile sempre su blocchi.",
+    "tag.item.dynamiccrosshair.always_usable_on_entity": "Utilizzabile sempre sull'entità.",
+    "tag.item.dynamiccrosshair.always_usable_on_miss": "Utilizzabile sempre su Miss",
+    "tag.item.dynamiccrosshair.blocks": "Blocchi",
+    "tag.item.dynamiccrosshair.melee_weapons": "Armi da corpo a corpo",
+    "tag.item.dynamiccrosshair.ranged_weapons": "Armi a distanza",
+    "tag.item.dynamiccrosshair.shields": "Scudi",
+    "tag.item.dynamiccrosshair.throwables": "Oggetti lanciabili",
+    "tag.item.dynamiccrosshair.tools": "Strumenti",
+    "tag.item.dynamiccrosshair.usable": "Utilizzabile"
+}

@@ -1,8 +1,10 @@
 {
+    "entity.minecraft.villager.chef": "Chef",
     "entity.minecraft.villager.chefsdelight.chef": "Chef",
     "entity.minecraft.villager.chefsdelight.cook": "Cucinare",
     "entity.minecraft.villager.chefsdelight.delightchef": "Chef",
     "entity.minecraft.villager.chefsdelight.delightcook": "Cucinare",
+    "entity.minecraft.villager.cook": "Cucinare",
     "entity.minecraft.villager.delightchef": "Chef",
     "entity.minecraft.villager.delightcook": "Cucinare"
 }

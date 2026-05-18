@@ -1,9 +1,9 @@
 {
-    "attribute.celestial_core.armor_penetration": "Armor penetration",
+    "attribute.celestial_core.armor_penetration": "Armor Penetration",
     "attribute.celestial_core.arrow_knock": "Arrow Knock Back",
     "attribute.celestial_core.arrow_speed": "Arrow Speed",
     "attribute.celestial_core.regen_rate": "Regeneration Rate",
-    "attribute.celestial_core.toughness_penetration": "Toughness penetration",
+    "attribute.celestial_core.toughness_penetration": "Toughness Penetration",
     "block.celestial_core.guardian_ocean_block": "Guardian Ocean Block",
     "block.celestial_core.sakura_steel_block": "Sakura Steel Block",
     "block.celestial_core.virtual_gold_block": "Virtual Gold Block",

@@ -1,0 +1,10 @@
+{
+    "config.jade.plugin_polymer.blockstate": "Abilita i blocchi",
+    "config.jade.plugin_polymer.entities": "Abilita entità",
+    "itemGroup.polymer.server_items": "Articoli per server",
+    "text.polymer.resource_pack.description": "Pacchetto di risorse opzionale per mod basate su polimeri.",
+    "text.polymer.resource_pack.description.required": "Pacchetto di risorse per mod basate su polimeri.",
+    "text.polymer.resource_pack.name": "Risorse polimeriche",
+    "text.polymer.server": "Server",
+    "text.polymer.server_items": "Elemento del server"
+}

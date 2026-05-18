@@ -1,0 +1,16 @@
+{
+    "tool_stat.tinkercuriolib.armor": "Armatura:",
+    "tool_stat.tinkercuriolib.armor.description": "Aumenta i punti di armatura di questa quantità.",
+    "tool_stat.tinkercuriolib.armor_toughness": "Resistenza all'armatura:",
+    "tool_stat.tinkercuriolib.armor_toughness.description": "Aumenta la resistenza dell'armatura di questo valore.",
+    "tool_stat.tinkercuriolib.attack_speed": "Velocità d'attacco:",
+    "tool_stat.tinkercuriolib.attack_speed.description": "Aumenta la velocità di attacco di questa quantità.",
+    "tool_stat.tinkercuriolib.damage": "Danno inflitto:",
+    "tool_stat.tinkercuriolib.damage.description": "Aumenta il danno inflitto del valore specificato.",
+    "tool_stat.tinkercuriolib.health": "Salute:",
+    "tool_stat.tinkercuriolib.health.description": "Aumenta la salute di questo valore.",
+    "tool_stat.tinkercuriolib.movement_speed": "Velocità di movimento:",
+    "tool_stat.tinkercuriolib.movement_speed.description": "Aumenta la velocità di movimento di questo valore.",
+    "tool_stat.tinkercuriolib.projectile_bonus_curio": "Danno inflitto tramite proiettili:",
+    "tool_stat.tinkercuriolib.projectile_bonus_curio.description": "Aumenta i danni inflitti dai proiettili di questa quantità."
+}

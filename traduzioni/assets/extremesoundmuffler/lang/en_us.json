@@ -29,6 +29,7 @@
     "log.warn.loadAnchorList": "ESM: Anchor list not found; Creating empty Anchor list",
     "log.warn.loadMuffledList": "ESM: Muffled list not found; Creating empty Muffled list",
     "main_screen.btn.accept": "Accept",
+    "main_screen.btn.anchors.customskinloader": "Custom Skin Loader mod breaks R\/W anchors, can't use them with that mod.",
     "main_screen.btn.anchors.disabled": "Anchors are disabled!",
     "main_screen.btn.anchors.edit": "Edit Anchor",
     "main_screen.btn.anchors.set": "Set Anchor",

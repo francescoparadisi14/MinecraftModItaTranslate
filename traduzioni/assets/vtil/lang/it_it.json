@@ -1,0 +1,4 @@
+{
+    "vtil.command.assemble.empty": "Non richiede assemblaggio",
+    "vtil.command.assemble.success": "La nave '%s' è stata assemblata."
+}

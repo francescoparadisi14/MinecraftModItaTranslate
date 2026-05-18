@@ -1,0 +1,9 @@
+{
+    "l2menustacker.configuration.section.l2configs.l2menustacker.server.toml": "L2 Menu Stacker Server Configuration",
+    "l2menustacker.configuration.section.l2configs.l2menustacker.server.toml.title": "L2 Menu Stacker Server Configuration",
+    "l2menustacker.configuration.tabSafeMode": "Safe Mode for menu stacking",
+    "l2menustacker.configuration.tabSafeMode.tooltip": "When enabled, some modded container will be skipped when exiting",
+    "l2menustacker.configuration.title": "L2 Menu Stacker Configuration",
+    "l2menustacker.title": "L2 Menu Stacker",
+    "l2menustacker.tooltip.quick_access": "Right click in GUI to open"
+}

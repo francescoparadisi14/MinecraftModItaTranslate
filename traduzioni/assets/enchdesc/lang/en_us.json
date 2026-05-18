@@ -154,6 +154,7 @@
     "enchantment.minecraft.looting.desc": "Mobs will drop more loot when killed.",
     "enchantment.minecraft.loyalty.desc": "Allows the trident to automatically return after being thrown.",
     "enchantment.minecraft.luck_of_the_sea.desc": "Increases the chance of getting good loot while fishing.",
+    "enchantment.minecraft.lunge.desc": "The user lunges forward when using the spear.",
     "enchantment.minecraft.lure.desc": "Decreases the amount of time it takes for a fish to bite the hook.",
     "enchantment.minecraft.mending.desc": "Repairs the durability of armor and tools with XP.",
     "enchantment.minecraft.multishot.desc": "Fires additional arrows in similar directions.",

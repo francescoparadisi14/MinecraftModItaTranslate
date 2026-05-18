@@ -14,6 +14,7 @@
     "snowmancy.attackType.hit": "Melee",
     "snowmancy.attackType.none": "None",
     "snowmancy.attackType.snowball": "Snowball",
+    "snowmancy.attackType.wind_charge": "Wind Charge",
     "snowmancy.screen.biomeTooWarm": "Biome too warm!",
     "snowmancy.tooltip.attackType": "Attack Type: %s",
     "snowmancy.tooltip.damage": "Damage: %s",

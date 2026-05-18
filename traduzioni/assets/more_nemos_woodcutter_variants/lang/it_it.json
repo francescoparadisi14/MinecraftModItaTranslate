@@ -1,0 +1,19 @@
+{
+    "block.more_nemos_woodcutter_variants.acacia_woodcutter": "Falegname di acacia",
+    "block.more_nemos_woodcutter_variants.bamboo_woodcutter": "Taglialegna di bambù",
+    "block.more_nemos_woodcutter_variants.birch_woodcutter": "Taglialegna di betulla",
+    "block.more_nemos_woodcutter_variants.cherry_woodcutter": "Tagliatore di ciliegio",
+    "block.more_nemos_woodcutter_variants.crimson_woodcutter": "Il falegname di bosco rosso",
+    "block.more_nemos_woodcutter_variants.dark_oak_woodcutter": "Falegname specializzato in legno di quercia scura",
+    "block.more_nemos_woodcutter_variants.jungle_woodcutter": "Taglialegna nella giungla",
+    "block.more_nemos_woodcutter_variants.mangrove_woodcutter": "Taglialegna di mangrovi",
+    "block.more_nemos_woodcutter_variants.pale_oak_woodcutter": "Falegname specializzato in legno di quercia chiara",
+    "block.more_nemos_woodcutter_variants.spruce_woodcutter": "Taglialegna di pino",
+    "block.more_nemos_woodcutter_variants.warped_woodcutter": "Taglialegna deformato",
+    "resourcePack.more_nemos_woodcutter_variants.description": "Sovrascrive la ricetta predefinita di \"Falegname\" per consentire la creazione di varianti di questa ricetta.",
+    "resourcePack.more_nemos_woodcutter_variants.name": "Ulteriori varianti del \"legnaiolo di Nemo\"",
+    "tag.block.c.woodcutters": "Blocchi di legno",
+    "tag.block.more_nemos_woodcutter_variants.woodcutter_variants": "Varianti di blocchi in legno",
+    "tag.item.c.woodcutters": "Articoli per falegnami",
+    "tag.item.more_nemos_woodcutter_variants.woodcutter_variants": "Varianti dell'oggetto: Taglialegna"
+}

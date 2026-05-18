@@ -47,6 +47,6 @@
     "blur.midnightconfig.showScreenID": "Show Screen ID",
     "blur.midnightconfig.showScreenID.tooltip": "Show's the current screen's ID on the top left corner of the game window, use to find screen IDs to add to the fields below",
     "blur.midnightconfig.showScreenTitle": "Log screen title",
-    "blur.midnightconfig.title": "Blur Config",
+    "blur.midnightconfig.title": "Blur+ Config",
     "blur.midnightconfig.useGradient": "Gradient as Background"
 }

@@ -1,0 +1,6 @@
+{
+    "key.keyboard.modifier.alt": "Alt",
+    "key.keyboard.modifier.control": "Control",
+    "key.keyboard.modifier.shift": "Shift",
+    "key.keyboard.modifiers": "%s + %s"
+}

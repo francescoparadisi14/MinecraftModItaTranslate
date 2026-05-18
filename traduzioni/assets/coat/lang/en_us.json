@@ -1,0 +1,20 @@
+{
+    "coat.action.abort": "Abort",
+    "coat.action.abort.screen.desc": "You're about to discard all changes that you made. Do you want to continue?",
+    "coat.action.abort.screen.title": "Discarding changes!",
+    "coat.action.accept_risk": "Accept Risk",
+    "coat.action.save": "Save & Close",
+    "coat.action.save.errors": "There have been found errors in the current configuration.\n§lProceeding will result in data loss!",
+    "coat.action.save.warnings": "There are some warnings in the current configuration.\nPlease look through them and then continue.",
+    "coat.default": "Default",
+    "coat.default.hover": "Reset to:",
+    "coat.input.enumerated.null": "Unset",
+    "coat.list.append": "Create new entry",
+    "coat.message.jump": "Go to issue",
+    "coat.message.level.error": "Error",
+    "coat.message.level.info": "Info",
+    "coat.message.level.warning": "Warning",
+    "coat.tree.collapse": "-",
+    "coat.tree.expand": "+",
+    "coat.tree.open": "Open"
+}

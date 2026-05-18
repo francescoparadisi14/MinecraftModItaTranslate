@@ -1,14 +1,24 @@
 {
     "manascore.attribute.crit_chance.name": "% Critical Chance",
     "manascore.attribute.crit_multiplier.name": "Additional Critical Multiplier",
+    "manascore.attribute.critical_attack_chance": "Critical Attack Chance",
+    "manascore.attribute.critical_damage_multiplier": "Critical Damage Multiplier",
     "manascore.attribute.flying_speed.name": "Flying Speed Multiplier",
+    "manascore.attribute.glide_speed_multiplier": "Glide Speed Multiplier",
     "manascore.attribute.jump_power.name": "Jump Power",
+    "manascore.attribute.lava_speed_multiplier": "Lava Speed Multiplier",
     "manascore.attribute.mining_speed.name": "Mining Speed Multiplier",
     "manascore.attribute.sprinting_speed.name": "Sprinting Speed Multiplier",
     "manascore.attribute.sweep_chance.name": "Sweeping Chance",
+    "manascore.attribute.swim_speed_multiplier": "Swim Speed Multiplier",
     "manascore.category.test": "ManasCore Keybinding Test Category",
     "manascore.keybinding.skill": "Test Keybinding Skill with Activation and Release",
     "manascore.keybinding.skill_toggle": "Test Keybinding Skill Toggle",
     "manascore.keybinding.test": "Test Keybinding (Release)",
-    "manascore.keybinding.test_press": "Test Keybinding (Tick)"
+    "manascore.keybinding.test_press": "Test Keybinding (Tick)",
+    "manascore.race.difficulty.easy": "Easy",
+    "manascore.race.difficulty.extreme": "Extreme",
+    "manascore.race.difficulty.hard": "Hard",
+    "manascore.race.difficulty.intermediate": "Intermediate",
+    "manascore.skill.learn_skill": "%s has been acquired."
 }

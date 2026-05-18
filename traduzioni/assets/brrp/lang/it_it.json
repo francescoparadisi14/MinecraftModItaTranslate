@@ -1,0 +1,6 @@
+{
+    "brrp.pack_description": "Pacchetto di risorse a runtime",
+    "brrp.pack_display_name": "Durata: \"%s\"",
+    "modmenu.descriptionTranslation.better_runtime_resource_pack": "BRRP (Better Runtime Resource Pack) è un mod di libreria che consente di generare pacchetti di risorse in tempo reale. È una versione derivata del mod ARRP (Advanced Runtime Resource Pack), con alcune correzioni di bug e aggiunte di funzionalità rispetto al mod ARRP. Il mod è progettato per essere il più compatibile possibile con i mod che dipendono da ARRP. Se hai già installato BRRP, non è necessario installare nuovamente ARRP.",
+    "modmenu.summaryTranslation.better_runtime_resource_pack": "Mod per la biblioteca che genera pacchetti di risorse in fase di esecuzione. Derivato dal mod ARRP."
+}

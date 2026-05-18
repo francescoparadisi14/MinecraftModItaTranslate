@@ -1,4 +1,7 @@
 {
+    "options.button.sodium": "Impostazioni video per Sodium",
     "options.horizontalstretch": "Scala orizzontale di rendering",
-    "options.verticalstretch": "Scala verticale del rendering"
+    "options.horizontalstretch.tooltip": "Controlla fino a che punto è possibile visualizzare le sezioni di chunk negli angoli sinistro\/destro. 0% corrisponde a un cerchio completo (impostazione predefinita), e aumentando l'impostazione, si riduce il numero di sezioni di chunk visualizzate negli angoli, migliorando così le prestazioni.",
+    "options.verticalstretch": "Scala verticale del rendering",
+    "options.verticalstretch.tooltip": "Controlla fino a che punto è possibile visualizzare le sezioni del terreno. \"100%\" indica una visuale completa, e aumentando il valore, si riduce il numero di sezioni visualizzate agli angoli, migliorando così le prestazioni."
 }

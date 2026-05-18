@@ -1,0 +1,6 @@
+{
+    "createultimine.server_settings": "Create Ultimine Server Config",
+    "createultimine.server_settings.features.manual_application": "Manual Application: Right-click to apply items on multiple blocks",
+    "createultimine.server_settings.features.right_click_wrench": "Wrench: Right-click to adjust multiple blocks",
+    "sidebar_button.createultimine.config": "Create Ultimine Config"
+}

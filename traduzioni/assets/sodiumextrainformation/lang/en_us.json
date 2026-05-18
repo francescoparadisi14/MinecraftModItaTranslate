@@ -4,6 +4,8 @@
     "sodium-extra-information.hud.word_time": "Day",
     "sodium-extra-information.options.local_time": "Local Time",
     "sodium-extra-information.options.local_time.tooltip": "Show the local time on the overlay.",
+    "sodium-extra-information.options.local_time_12h": "Use 12-hour time",
+    "sodium-extra-information.options.local_time_12h.tooltip": "Switch local time display between 24-hour and 12-hour format.",
     "sodium-extra-information.options.memory_usage": "Memory usage",
     "sodium-extra-information.options.memory_usage.tooltip": "Show the memory usage on the overlay.",
     "sodium-extra-information.options.memory_usage_extended": "Memory usage extended",

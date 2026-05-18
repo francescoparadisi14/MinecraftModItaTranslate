@@ -1,0 +1,17 @@
+{
+    "libjf-config-core-v2.default": "Valore predefinito",
+    "libjf-config-core-v2.edit": "Modifica",
+    "libjf-config-core-v2.errored_entry": "Impossibile visualizzare l'elemento: %s",
+    "libjf-config-core-v2.false": "§cFalso",
+    "libjf-config-core-v2.jfconfig.title": "Configurazione di LibJF",
+    "libjf-config-core-v2.jfconfig.watchForChanges": "Tenete d'occhio eventuali cambiamenti.",
+    "libjf-config-core-v2.jfconfig.watchForChanges.tooltip": "Ricaricare automaticamente le configurazioni quando vengono modificate.",
+    "libjf-config-core-v2.no-screen": "Senza schermo",
+    "libjf-config-core-v2.no-screen.description": "Non è stato trovato alcun modulo per la configurazione dell'interfaccia utente di rendering.\nInstallare LibJF per aggiungere uno.",
+    "libjf-config-core-v2.null": "§dNull",
+    "libjf-config-core-v2.overview": "Panoramica",
+    "libjf-config-core-v2.presets": "Impostazioni predefinite",
+    "libjf-config-core-v2.reset": "Reimpostare",
+    "libjf-config-core-v2.see-also": "Vedi anche: %s",
+    "libjf-config-core-v2.true": "Vero"
+}

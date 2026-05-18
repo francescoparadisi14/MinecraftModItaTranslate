@@ -1,0 +1,22 @@
+{
+    "block.modern_structures.coarsedirtslab": "Coarse dirt slab",
+    "block.modern_structures.dustrialblock": "Industrial block",
+    "block.modern_structures.dustrialblock_2": "Industrial block 2",
+    "block.modern_structures.dustrialtrapdoor": "Industrial trapdoor",
+    "block.modern_structures.dustrialwall": "industrial wall",
+    "entity.modern_structures.human": "Human",
+    "entity.modern_structures.human_2": "Human 2",
+    "item.modern_structures.batlleaxe": "Battle axe",
+    "item.modern_structures.crowbar": "Crowbar",
+    "item.modern_structures.human_2_spawn_egg": "Human 2 Spawn Egg",
+    "item.modern_structures.human_spawn_egg": "Human Spawn Egg",
+    "item.modern_structures.knife": "Knife",
+    "item.modern_structures.netherstarshard": "Nether star shard",
+    "item.modern_structures.steel": "Steel",
+    "item.modern_structures.tactic_boots": "classic Boots",
+    "item.modern_structures.tactic_chestplate": "bullet_proof_vest",
+    "item.modern_structures.tactic_helmet": "Tactic mask",
+    "item.modern_structures.tactic_leggings": "Tactic Leggings",
+    "item.modern_structures.tacticshield": "Tactic shield",
+    "item_group.modern_structures.modernstructuremod": "MS mod"
+}

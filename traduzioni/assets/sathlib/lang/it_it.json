@@ -1,0 +1,23 @@
+{
+    "formatting.sathlib.curly_brackets": "{%s}",
+    "formatting.sathlib.round_brackets": "(%)",
+    "formatting.sathlib.square_brackets": "[\\[%s]]",
+    "generic.sathlib.all": "Tutto",
+    "generic.sathlib.allow": "Permettere",
+    "generic.sathlib.allowed": "Permesso",
+    "generic.sathlib.any": "Qualsiasi",
+    "generic.sathlib.denied": "Rifiutato",
+    "generic.sathlib.deny": "Negare",
+    "generic.sathlib.disabled": "Disabili",
+    "generic.sathlib.enabled": "Attivato, abilitato",
+    "generic.sathlib.none": "Nessuno",
+    "generic.sathlib.off": "Offerta",
+    "generic.sathlib.on": "Su",
+    "generic.sathlib.supported": "Supportato",
+    "generic.sathlib.unsupported": "Non supportato",
+    "input.sathlib.curly_brackets": "{%s}",
+    "input.sathlib.round_brackets": "(%)",
+    "input.sathlib.square_brackets": "[\\[%s]]",
+    "input.sathlib.wheel.down": "Rilasciare",
+    "input.sathlib.wheel.up": "Sollevare la ruota"
+}

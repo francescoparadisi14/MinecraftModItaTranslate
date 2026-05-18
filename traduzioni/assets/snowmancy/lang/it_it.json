@@ -14,6 +14,7 @@
     "snowmancy.attackType.hit": "Combattimento ravvicinato",
     "snowmancy.attackType.none": "Nessuno",
     "snowmancy.attackType.snowball": "Palla di neve",
+    "snowmancy.attackType.wind_charge": "Energia eolica",
     "snowmancy.screen.biomeTooWarm": "L'ambiente è troppo caldo!",
     "snowmancy.tooltip.attackType": "Tipo di attacco: %s",
     "snowmancy.tooltip.damage": "Danno: %s",

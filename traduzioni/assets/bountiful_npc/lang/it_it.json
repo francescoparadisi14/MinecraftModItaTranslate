@@ -1,5 +1,11 @@
 {
     "dialog.minecraft.villager.bountiful_npc.1": "Verso le stelle, e oltre! Benvenuti nella Gilda degli Avventurieri!",
+    "entity.minecraft.villager.bountiful_npc.answer1": "Verso le stelle, e oltre! Benvenuti nella Gilda degli Avventurieri!",
+    "entity.minecraft.villager.bountiful_npc.answer2": "La Gilda degli Avventurieri emetterà diverse [Ricompense] in base al [Tabellone delle Ricompense]! Le [Ricompense] aumenteranno nel tempo, quindi vi prego di essere pazienti! Anche le [Ricompense] emesse da diverse Gilde degli Avventurieri varieranno. Una volta completato l'incarico, consegnatemi la [Ricompensa] e vi ricompenserò in base all'incarico!",
+    "entity.minecraft.villager.bountiful_npc.option0": "[Indietro]",
+    "entity.minecraft.villager.bountiful_npc.option1": "[Visualizza commissioni]",
+    "entity.minecraft.villager.bountiful_npc.option2": "[Completamento dell'incarico]",
+    "entity.minecraft.villager.bountiful_npc.option3": "[Informazioni]",
     "entity.minecraft.villager.bountiful_npc.receptionist": "Addetta alla reception",
     "option.minecraft.villager.bountiful_npc.1": "[Visualizza commissioni]",
     "option.minecraft.villager.bountiful_npc.2": "[Completamento dell'incarico]"

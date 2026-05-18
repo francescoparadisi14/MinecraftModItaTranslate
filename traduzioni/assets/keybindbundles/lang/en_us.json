@@ -9,6 +9,7 @@
     "button.keybindbundles.select": "Select",
     "button.keybindbundles.selected": "Selected",
     "category.keybindbundles": "KeyBind Bundles",
+    "key.category.keybindbundles.keybindbundles": "KeyBind Bundles",
     "key.keybindbundles.bundle": "Key bundle §6%s§r",
     "key.keybindbundles.open_radial_menu": "Open Bundle radial menu",
     "key.keybindbundles.open_screen": "Open Key Bindings Screen",

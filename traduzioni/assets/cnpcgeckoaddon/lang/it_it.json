@@ -1,3 +1,7 @@
 {
-    "entity.cnpcgeckoaddon.custommodelentity": "Modello Geckolib"
+    "dialog.selectanimation": "Seleziona l'animazione",
+    "entity.cnpcgeckoaddon.custommodelentity": "Modello Geckolib",
+    "entity.customnpcs.custommodelentity": "Modello Geckolib",
+    "looptype.loop": "Ciclo",
+    "looptype.once": "Una volta"
 }

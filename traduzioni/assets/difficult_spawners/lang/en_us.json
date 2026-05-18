@@ -1,0 +1,6 @@
+{
+    "config.difficult_spawners.effects": "difficult_spawners",
+    "config.difficult_spawners.spawner_effects": "difficult_spawners",
+    "entity.difficult_spawners.evil_spirit": "Evil Spirit",
+    "item.difficult_spawners.evil_spirit_spawn_egg": "Evil Spirit Spawn Egg"
+}

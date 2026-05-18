@@ -1,0 +1,21 @@
+{
+    "curios.identifier.pandora": "Pandora Charm",
+    "curios.modifiers.pandora": "When on Pandora curio:",
+    "item.pandora.pandora_bracelet": "Pandora Bracelet",
+    "item.pandora.pandora_necklace": "Pandora Necklace",
+    "itemGroup.l2core.pandora": "Pandora",
+    "pandora.configuration.section.l2configs.pandora.client.toml": "Pandora API Client Configuration",
+    "pandora.configuration.section.l2configs.pandora.client.toml.title": "Pandora API Client Configuration",
+    "pandora.configuration.section.l2configs.pandora.server.toml": "Pandora API Server Configuration",
+    "pandora.configuration.section.l2configs.pandora.server.toml.title": "Pandora API Server Configuration",
+    "pandora.configuration.showItemTitle": "Show holder item name in pandora tab",
+    "pandora.configuration.showItemTitle.tooltip": "",
+    "pandora.configuration.title": "Pandora API Configuration",
+    "pandora.menu.invalid": "Invalid",
+    "pandora.menu.title": "Pandora Charms",
+    "pandora.title": "Pandora API",
+    "pandora.tooltip.contain": "Contains %s charms",
+    "pandora.tooltip.duplicate": "You may have multiple of this charm in one Pandora",
+    "pandora.tooltip.holder": "Holds up to %s Pandora Charms",
+    "pandora.tooltip.shift": "Press SHIFT to show contents, right click on it to open"
+}

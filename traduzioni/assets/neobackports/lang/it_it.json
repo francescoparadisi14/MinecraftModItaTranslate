@@ -1,0 +1,4 @@
+{
+    "options.accessibility.menu_background_blurriness": "Sfondo sfocato per il menu",
+    "options.accessibility.menu_background_blurriness.tooltip": "Modifica la sfumatura dello sfondo dei menu.\nImplementato tramite la libreria Neo Backports."
+}

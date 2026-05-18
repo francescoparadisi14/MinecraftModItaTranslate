@@ -1,5 +1,10 @@
 {
     "block.disenchanting_table.disenchanting_table": "Dis-Enchanting Table",
+    "container.disenchanting_table": "Dis-Enchanting Table",
+    "container.disenchanting_table.cost_levels": "Dis-enchanting Cost: %s Levels",
+    "container.disenchanting_table.cost_points": "Dis-enchanting Cost: %s Points",
+    "gui.disenchanting_table.mode.auto": "Mode: Auto",
+    "gui.disenchanting_table.mode.manual": "Mode: Manual",
     "item.disenchanting_table.disenchanting_table": "Dis-Enchanting Table",
     "itemGroup.disenchantingTable": "Dis-Enchanting Table",
     "text.disenchanting_table.automatic_mode": "MODE: AUTOMATIC -> MANUAL",

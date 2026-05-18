@@ -1,0 +1,6 @@
+{
+    "dragon_ability.ds_shrink.self_shrink": "Shrink",
+    "dragon_ability.ds_shrink.self_shrink.desc": "Reduces your own size to allow you to ride dragons who would otherwise be too small to be able to carry you.",
+    "dragon_ability.ds_shrink.shrink": "Shrinking Aura",
+    "dragon_ability.ds_shrink.shrink.desc": "Enables an aura that reduces the size of players who approach you.  Perfect for allowing players who would otherwise be too large to ride you aboard."
+}

@@ -1,0 +1,7 @@
+{
+    "betteradvancedtooltips.configuration.component_tooltip": "Tooltip del componente",
+    "betteradvancedtooltips.configuration.fuel_tooltip": "Tooltip per il carburante",
+    "betteradvancedtooltips.configuration.remove_component_count_tooltip": "Rimuovi il tooltip relativo al numero di componenti.",
+    "betteradvancedtooltips.configuration.remove_creative_tab_tooltip": "Rimuovi la funzione di suggerimento per la scheda \"Creativo\"",
+    "betteradvancedtooltips.configuration.tag_tooltip": "Strumento per tooltip"
+}

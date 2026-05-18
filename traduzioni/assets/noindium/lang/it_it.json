@@ -1,0 +1,9 @@
+{
+    "header.noindium.indium": "Attenzione: Manca il componente \"Indium\" nel client del gioco.",
+    "header.noindium.optifabric": "Avviso: Optifabric presente nella versione client del gioco.",
+    "label.noindium.open_mods_folder": "Apri la cartella dei mod",
+    "label.noindium.optifine_alternatives": "Alternative a Optifine",
+    "label.noindium.proceed": "Procedere comunque",
+    "message.noindium.indium": "Attenzione: Uno o più moduli presenti nella tua versione del gioco potrebbero presentare problemi causati dall'utilizzo del modulo Sodium senza Indium, che vanno da lievi artefatti visivi a crash del gioco. Clicca su uno dei pulsanti sottostanti per scaricare Indium e evitare questi problemi e altri:",
+    "message.noindium.optifabric": "Attenzione: uno o più mod presenti nella tua versione del gioco potrebbero presentare problemi causati dall'uso di Optifabric, che vanno da piccoli artefatti visivi a crash del gioco. Si raccomanda di rimuovere la mod per evitare questi problemi e altri. Se avevate bisogno di Optifine per qualche motivo, consultate l'elenco di alternative di Optifine di LambdAurora:"
+}

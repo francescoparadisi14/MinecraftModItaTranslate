@@ -80,6 +80,11 @@
     "subtitles.block.fairylights.feature.lightTurnOff": "Le luci si spengono.",
     "subtitles.block.fairylights.feature.lightTurnOn": "Le luci si accendono.",
     "subtitles.block.fairylights.jingleBell": "Suoni allegri e accattivanti",
+    "tag.item.fairylights.dyeable": "Caratteristiche adatte alla tintura",
+    "tag.item.fairylights.dyeable_lights": "Luci Dyable",
+    "tag.item.fairylights.lights": "Luci",
+    "tag.item.fairylights.pennants": "Stendardi",
+    "tag.item.fairylights.twinkling_lights": "Luci scintillanti",
     "tutorial.fairylights.craft_hanging_lights.description": "Il libro di ricette può essere d'aiuto.",
     "tutorial.fairylights.craft_hanging_lights.title": "Lampade da soffitto artigianali"
 }

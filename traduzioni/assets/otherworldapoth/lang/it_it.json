@@ -96,6 +96,12 @@
     "affix.otherworldapoth:elemental\/school_fire\/mana_cost.suffix": "Di \"Fiamme Facili\"",
     "affix.otherworldapoth:elemental\/school_fire\/pyromancers": "Il mago del fuoco",
     "affix.otherworldapoth:elemental\/school_fire\/pyromancers.suffix": "della follia",
+    "affix.otherworldapoth:elemental\/school_geo\/attribute": "Elementare",
+    "affix.otherworldapoth:elemental\/school_geo\/attribute.suffix": "di Convergenza",
+    "affix.otherworldapoth:elemental\/school_geo\/geomancers": "Maghi della terra",
+    "affix.otherworldapoth:elemental\/school_geo\/geomancers.suffix": "di Earthcalling",
+    "affix.otherworldapoth:elemental\/school_geo\/mana_cost": "Fossilizzato",
+    "affix.otherworldapoth:elemental\/school_geo\/mana_cost.suffix": "di giardinaggio senza sforzo",
     "affix.otherworldapoth:elemental\/school_holy\/armor": "Sacro, venerato",
     "affix.otherworldapoth:elemental\/school_holy\/armor.suffix": "della protezione divina",
     "affix.otherworldapoth:elemental\/school_holy\/attribute": "Sacro",
@@ -300,6 +306,7 @@
     "item.apotheosis.gem.otherworldapoth:core\/whispering_tentaculite": "Tentacoli sussurranti",
     "item.apotheosis.gem.otherworldapoth:external\/arcanists_edge": "L'arma segreta",
     "item.apotheosis.gem.otherworldapoth:external\/deepsea_heartstone": "Cuore profondo",
+    "item.apotheosis.gem.otherworldapoth:external\/earthshattered_core": "Cuore frantumato",
     "item.apotheosis.gem.otherworldapoth:external\/harmonic_geode": "Geode armonica",
     "item.apotheosis.gem.otherworldapoth:external\/resonant_quartz": "Quarzo risonante",
     "item.apotheosis.gem.otherworldapoth:external\/sirens_aquamarine": "Aquamarine di Siren",
@@ -315,6 +322,7 @@
     "name.otherworldapoth.hellforged_dagger": "Spada forgiata nel fuoco",
     "name.otherworldapoth.hyperion": "Iperione",
     "name.otherworldapoth.skyfall": "Skyfall",
+    "rank.champions.title.6": "Eldritch",
     "text.apotheosis.category.staff": "Personale",
     "text.apotheosis.category.staff.plural": "Strumenti"
 }

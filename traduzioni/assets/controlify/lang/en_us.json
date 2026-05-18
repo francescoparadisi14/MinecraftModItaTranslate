@@ -305,6 +305,7 @@
     "controlify.gui.no_fly_drifting.tooltip": "Disables the slight drifting when you let go of the controls.",
     "controlify.gui.no_sdl.message": "Controlify uses an extra native library to add more features for controller support. Your system does not support this library. You will be missing out on features such as:\n - controller vibration\n - enhanced controller identification\n - gyroscope controls",
     "controlify.gui.no_sdl.title": "Controlify Native Library Incompatible",
+    "controlify.gui.not_supported": "Your controller may not support %s.",
     "controlify.gui.notify_low_battery": "Notify Low Battery",
     "controlify.gui.notify_low_battery.tooltip": "A toast will appear when your wireless controller's battery becomes low. (EXPERIMENTAL)",
     "controlify.gui.open_issue_tracker": "Open Issue Tracker",

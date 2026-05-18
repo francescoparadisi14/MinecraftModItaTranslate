@@ -232,6 +232,8 @@
     "bloodlines.configuration.phylacteryTeleportMistFormSoulCost": "Costo di creazione di un \"Phylactery\" (custodia sacra) per l'anima",
     "bloodlines.configuration.phylacteryTeleportRegularSoulCost": "Costo per teletrasporto dell'anima",
     "bloodlines.configuration.playerAliveTimeForDevour": "Tempo di sopravvivenza del giocatore, requisito per l'eliminazione.",
+    "bloodlines.configuration.playerBitingGivesFrenzy": "Il giocatore è in preda a una furia di mordere il sangue",
+    "bloodlines.configuration.playerBitingOnlyForBloodknight": "Solo per i giocatori che interpretano i Bloodknights: mordere per ottenere sangue.",
     "bloodlines.configuration.possessionCooldown": "Ricarica",
     "bloodlines.configuration.possessionDuration": "Durata della detenzione",
     "bloodlines.configuration.possessionSoulCost": "Proprietà, anima, costo",

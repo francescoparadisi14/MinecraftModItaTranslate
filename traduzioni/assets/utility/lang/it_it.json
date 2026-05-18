@@ -61,6 +61,8 @@
     "tooltip.utility.animal_net": "Utilizzato per catturare e rilasciare gruppi di persone.",
     "tooltip.utility.crook": "Accelera la caduta delle foglie e aumenta la frequenza con cui cadono.",
     "tooltip.utility.death_stone": "Al momento della morte, cliccare con il tasto destro per tornare al luogo in cui è avvenuta la morte.",
+    "tooltip.utility.empty": "Vuoto",
     "tooltip.utility.floater": "Quando, con la mano non dominante, è possibile posizionare un blocco nella mano dominante, sia in aria che in acqua.",
+    "tooltip.utility.fluids_header": "Liquidi:",
     "tooltip.utility.sapling_grower": "Ideale per la coltivazione rapida di giovani alberi."
 }

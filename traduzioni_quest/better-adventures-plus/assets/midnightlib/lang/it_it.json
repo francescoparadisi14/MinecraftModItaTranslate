@@ -1,0 +1,15 @@
+{
+    "midnightconfig.action.color_chooser": "Selezionatore colori",
+    "midnightconfig.action.file_chooser": "Apri la finestra di selezione file",
+    "midnightconfig.action.list_index": "Modifica la lista all'indice %s",
+    "midnightconfig.colorChooser.title": "Scegli un colore",
+    "midnightlib.curseforge": "CurseForge",
+    "midnightlib.midnightconfig.config_screen_list": "Elenco delle schermate di configurazione",
+    "midnightlib.midnightconfig.enum.ConfigButton.FALSE": "§cNo",
+    "midnightlib.midnightconfig.enum.ConfigButton.MODMENU": "§bMenu",
+    "midnightlib.midnightconfig.enum.ConfigButton.TRUE": "§aSì",
+    "midnightlib.midnightconfig.title": "Configurazione di MidnightLib",
+    "midnightlib.modrinth": "Modrinth",
+    "midnightlib.overview.title": "Panoramica di MidnightConfig",
+    "midnightlib.wiki": "Wiki"
+}

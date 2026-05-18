@@ -98,6 +98,7 @@
     "item.crabbersdelight.fish_bones": "Fish Bones",
     "item.crabbersdelight.fish_stick": "Fish Stick",
     "item.crabbersdelight.frog_leg_kebab": "Frog Leg Kebab",
+    "item.crabbersdelight.frog_leg_kebob": "Frog Leg Kebab",
     "item.crabbersdelight.jar_of_pickles": "Jar of Pickles",
     "item.crabbersdelight.kelp_shake": "Kelp Shake",
     "item.crabbersdelight.palm_boat": "Palm Boat",
@@ -116,6 +117,7 @@
     "item.crabbersdelight.shrimp_skewer": "Shrimp Skewer",
     "item.crabbersdelight.soggy_flesh": "Soggy Flesh",
     "item.crabbersdelight.squid_kebab": "Squid Kebab",
+    "item.crabbersdelight.squid_kebob": "Squid Kebab",
     "item.crabbersdelight.stuffed_nautilus_shell": "Stuffed Nautilus Shell",
     "item.crabbersdelight.surf_and_turf": "Surf 'n Turf",
     "item.crabbersdelight.tropical_fish_slice": "Raw Tropical Fish Slice",
@@ -140,5 +142,6 @@
     "tag.item.crabbersdelight.jei_display_results.minecraft.tropical_fish": "Tropical Fish Bait",
     "tag.item.crabbersdelight.raw_seafood": "Raw Seafood",
     "tag.item.crabbersdelight.raw_squid": "Raw Squid",
+    "tooltip.farmersdelight.coconut_milk": "Clears 1 Effect",
     "trim_material.crabbersdelight.pearl": "Pearl Material"
 }

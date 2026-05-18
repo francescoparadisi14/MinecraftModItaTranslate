@@ -1,5 +1,8 @@
 {
     "block.mynethersdelight.blackstone_bricks_cabinet": "Mobile in legno con rivestimento in mattoncino nero (Blackstone)",
+    "block.mynethersdelight.blazier.too_cold": "La temperatura è troppo bassa per questa attività.",
+    "block.mynethersdelight.blazier.too_hot": "La temperatura è troppo alta per questo.",
+    "block.mynethersdelight.blazier_block": "Blazier",
     "block.mynethersdelight.bread_loaf_block": "Pagnotta di pane",
     "block.mynethersdelight.bullet_pepper": "Peperoncino in forma di proiettile",
     "block.mynethersdelight.bullet_pepper_crate": "Cassa di peperoncini",
@@ -159,5 +162,10 @@
     "tag.item.mynethersdelight.hot_spice": "Spezie calde",
     "tag.item.mynethersdelight.stove_fire_fuel": "Carburante per il fornello",
     "tag.item.mynethersdelight.stove_soul_fuel": "Carburanti per cucine a gas",
-    "tag.item.mynethersdelight.stuffed_hoglin_items": "Articoli con carne di Hoglin (maiale) ripiena"
+    "tag.item.mynethersdelight.stuffed_hoglin_items": "Articoli con carne di Hoglin (maiale) ripiena",
+    "tooltip.farmersdelight.enchanted_golden_egg": "Nutrito da tutti gli effetti negativi",
+    "tooltip.farmersdelight.golden_egg": "Nutrito da tutti gli effetti negativi",
+    "tooltip.farmersdelight.hot_cream": "Effetti di incendio",
+    "tooltip.farmersdelight.magma_cake_slice": "Snack piccante a base di rana",
+    "tooltip.farmersdelight.strider_egg": "Nutrito da un effetto dannoso"
 }

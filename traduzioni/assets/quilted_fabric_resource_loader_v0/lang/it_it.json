@@ -1,0 +1,7 @@
+{
+    "pack.description.modResources": "Risorse per moduli.",
+    "pack.name.fabricMod": "Tipo di tessuto: \"%s\"",
+    "pack.name.fabricMods": "Modifiche ai tessuti",
+    "pack.source.builtinMod": "predefinito: %s",
+    "pack.source.fabricmod": "Mod Fabric"
+}

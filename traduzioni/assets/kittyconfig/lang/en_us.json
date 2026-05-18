@@ -1,0 +1,4 @@
+{
+    "messages.kittyconfig.failedPerimissionCheck": "You do not have permission to edit configs on this server",
+    "messages.kittyconfig.sync.failed": "Failed to sync configs to client"
+}

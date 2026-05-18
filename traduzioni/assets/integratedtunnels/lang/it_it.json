@@ -384,6 +384,7 @@
     "info_book.integratedtunnels.concepts.text6": "Inoltre, è possibile aggiungere più importatori ed esportatori, specificando anche le relative priorità.",
     "info_book.integratedtunnels.concepts.text7": "Utilizzando le variabili \"Integrated Dynamics\", è necessario specificare quali articoli devono essere spostati. Se desiderate semplificare il processo e spostare tutto, è sufficiente utilizzare una \"Scheda Variabile\" vuota.",
     "info_book.integratedtunnels.concepts.text8": "Tenga presente che, se è installato un mod di automazione come \"&lIntegrated Crafting&r\", sarà possibile utilizzare l'impostazione \"&oCraft&r\" negli esportatori. Ciò significa che, se un ingrediente non è disponibile per l'esportazione, verrà creato automaticamente.",
+    "info_book.integratedtunnels.concepts.text9": "Tenete presente che, se avete installato un mod di automazione come \"&lIntegrated Crafting&r\", potrete utilizzare l'impostazione \"&oCraft&r\" negli esportatori. In questo modo, se un ingrediente non è disponibile per l'esportazione, verrà creato automaticamente.",
     "info_book.integratedtunnels.energy": "Energia",
     "info_book.integratedtunnels.energy.text1": "Trasferire energia attraverso la rete. Importare energia nella rete utilizzando le interfacce &lEnergy Importers&r, e esportare energia dalla rete utilizzando le interfacce &lEnergy Exporters&r. Filtrare dinamicamente se l'energia può passare attraverso un'interfaccia utilizzando un'interfaccia di filtraggio dell'energia.",
     "info_book.integratedtunnels.fluid": "Liquidi",

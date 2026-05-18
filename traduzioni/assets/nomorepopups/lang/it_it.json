@@ -1,0 +1,22 @@
+{
+    "modmenu.descriptionTranslation.no-more-popups": "Rimuove le finestre di dialogo che appaiono durante il gioco (ad esempio, \"Nuova ricetta sbloccata\" e altro).",
+    "option.no_more_popups.config.done": "Completato",
+    "option.no_more_popups.config.general": "Generale",
+    "option.no_more_popups.config.general.advancements.messages": "Disattivare i messaggi relativi ai progressi",
+    "option.no_more_popups.config.general.advancements.toasts": "Disattivare gli avvisi di avanzamento",
+    "option.no_more_popups.config.general.experimental_warning": "Disabilita l'avviso relativo alle funzionalità sperimentali",
+    "option.no_more_popups.config.general.multiplayer_warning": "Disattivare l'avviso per il gioco multiplayer",
+    "option.no_more_popups.config.general.recipes_toasts": "Disattivare gli avvisi relativi alle ricette",
+    "option.no_more_popups.config.general.resource_pack_warnings": "Disattivare gli avvisi relativi ai pacchetti di risorse",
+    "option.no_more_popups.config.general.system_toasts": "Disattivare le notifiche di sistema",
+    "option.no_more_popups.config.general.tutorials": "Disattivare le notifiche tutorial",
+    "option.no_more_popups.config.modded": "Modificato",
+    "option.no_more_popups.config.modded.chunks_fade_in": "Disattivare l'effetto di dissolvenza dei chunk",
+    "option.no_more_popups.config.modded.fastquit": "Disattivare le notifiche di \"FastQuit\"",
+    "option.no_more_popups.config.modded.frozenlib": "Disattivare i messaggi di WilderWild (FrozenLib)",
+    "option.no_more_popups.config.modded.nether_weather": "Disattivare il messaggio relativo al meteo del Nether",
+    "option.no_more_popups.config.modded.terralith": "Disattivare il messaggio di Terralith",
+    "option.no_more_popups.config.no": "No",
+    "option.no_more_popups.config.title": "Opzioni per disattivare le finestre pop-up",
+    "option.no_more_popups.config.yes": "Sì"
+}

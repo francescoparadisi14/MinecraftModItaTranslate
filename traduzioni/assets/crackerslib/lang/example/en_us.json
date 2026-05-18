@@ -1,0 +1,22 @@
+{
+    "gui.crackerslib.config.category.category_example.title": "Example Category",
+    "gui.crackerslib.config.category.extra.title": "Extra",
+    "gui.crackerslib.config.category.list.title": "Lists",
+    "gui.crackerslib.config.category.numbers.title": "Numbers",
+    "gui.crackerslib.config.exampleBoolean.description": "A simple boolean config value",
+    "gui.crackerslib.config.exampleBoolean.title": "Example Boolean",
+    "gui.crackerslib.config.exampleDouble.description": "A simple ranged value with decimals\nRange 0.0~1.0",
+    "gui.crackerslib.config.exampleDouble.title": "Example Double",
+    "gui.crackerslib.config.exampleEnum.description": "A simple enum config value",
+    "gui.crackerslib.config.exampleEnum.title": "Example Enum",
+    "gui.crackerslib.config.exampleInteger.description": "A simple ranged integer value\nRange 0~100",
+    "gui.crackerslib.config.exampleInteger.title": "Example Integer",
+    "gui.crackerslib.config.exampleListDouble.description": "An example list of doubles",
+    "gui.crackerslib.config.exampleListDouble.title": "Example Double List",
+    "gui.crackerslib.config.exampleListInteger.description": "An example list of integers that must be greater than or equal to 2",
+    "gui.crackerslib.config.exampleListInteger.title": "Example Integer List",
+    "gui.crackerslib.config.exampleListString.description": "An example list of strings that must all be lowercase",
+    "gui.crackerslib.config.exampleListString.title": "Example String List",
+    "gui.crackerslib.config.exampleString.description": "A simple string value",
+    "gui.crackerslib.config.exampleString.title": "Example String"
+}

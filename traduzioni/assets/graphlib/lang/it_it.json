@@ -1,0 +1,9 @@
+{
+    "command.graphlib.graphlib.rebuildchunks.alreadyrunning": "La ricostruzione è già in corso. %s% completato. Ricostruzione di %s blocchi con %d grafici tra la sezione (%d, %d, %d) e la sezione (%d, %d, %d) (%d blocchi).",
+    "command.graphlib.graphlib.rebuildchunks.begin": "Ricostruzione di %s blocchi con %d grafici nell'intervallo (%d, %d, %d) a %d, %d, %d (%d blocchi).",
+    "command.graphlib.graphlib.rebuildchunks.complete": "Completato il ricostruzione di %s blocchi con %d grafici nell'intervallo (%d, %d, %d) a %d, %d, %d (%d blocchi).",
+    "command.graphlib.graphlib.rebuildchunks.progress": "%s% completato. Ricostruzione di %s blocchi con %d grafici nell'intervallo (%d, %d, %d) verso l'intervallo (%d, %d, %d) (%d blocchi).",
+    "command.graphlib.graphlib.removeemptygraphs.success": "Rimosse %d grafici vuoti.",
+    "command.graphlib.graphlib.updateblocks.starting": "Aggiornamento dei nodi GraphLib da %s a %s... Ciò potrebbe causare un leggero rallentamento.",
+    "command.graphlib.graphlib.updateblocks.success": "Aggiornamento completato dei nodi GraphLib da %s a %s."
+}

@@ -87,6 +87,7 @@
     "text.easy_mob_farm.jungle_farm": "Ideale per la creazione di ambienti adatti a creature selvatiche, supportando la presenza di creature esotiche e provenienti da climi tropicali.",
     "text.easy_mob_farm.lucky_drop_farm": "Fattoria progettata per la raccolta di oggetti rari, ideale per incontri con creature che lasciano oggetti rari.",
     "text.easy_mob_farm.mob_farm_template": "La struttura di base per tutte le fattorie dedicate alla coltivazione di prodotti illegali.",
+    "text.easy_mob_farm.mob_farm_template_building_block_hint": "Si tratta di un elemento decorativo e di un materiale per l'artigianato. Non ha alcuna funzione autonoma.",
     "text.easy_mob_farm.mob_is_not_on_allow_list": "Il gruppo di utenti specificato non è presente nell'elenco consentiti per questo articolo.",
     "text.easy_mob_farm.mob_is_on_deny_list": "Il gruppo di utenti specificato è stato aggiunto alla lista di blocco per questo articolo.",
     "text.easy_mob_farm.monster_plains_cave_farm": "Concentrato su creature provenienti da pianure, comprese le creature ostili più comuni.",

@@ -1,4 +1,5 @@
 {
+    "beer.jei.category.consumed": "Questo articolo viene consumato\/utilizzato.",
     "beer.jei.category.enchanting_modifiers": "Aggettivi affascinanti",
     "beer.jei.category.main_hand": "Tenuto nella mano destra",
     "beer.jei.category.not_consumed": "Non consumato",
@@ -8,6 +9,7 @@
     "beer.jei.enchanting_table.info.configuration": "Gli intervalli predefiniti possono essere personalizzati nella configurazione del modulo.",
     "beer.jei.enchanting_table.info.range_modification": "È possibile modificare l'intervallo di un tavolo di incantamento specifico, avvicinandosi e facendo clic con il tasto destro mentre si utilizzano oggetti specifici. Per maggiori dettagli, consultare la categoria \"Modificatori di incantamento\".",
     "beer.jei.enchanting_table.info.title": "Gamma di tavoli incantevoli",
+    "beer.jei.modifier.offhand_decrease": "Utilizzare una manovra alternativa per diminuire invece di aumentare.",
     "beer.jei.modifier.x_width.description": "Aumenta\/Diminuisce l'intervallo di X",
     "beer.jei.modifier.xp_cost": "Costo: %s XP",
     "beer.jei.modifier.xp_gain": "Riconquista %XP",
@@ -17,5 +19,16 @@
     "beer.message.xp_consumed": "Esperienza consumata: %s",
     "beer.message.xp_gained": "Hai guadagnato %s punti esperienza.",
     "config.jade.plugin_beer.beer": "BIRA",
+    "jei.beer.bookshelf.info.enhanced_range": "Funziona con tavoli affascinanti, anche a distanze maggiori.",
+    "jei.beer.bookshelf.info.placement": "Può essere posizionato più lontano dalle tavole di \"vanilla\" (o tavole che generano effetti di incanto).",
+    "jei.beer.bookshelf.info.title": "Rilevamento migliorato delle librerie",
+    "jei.beer.enchanting_table.category": "Potenziato e affascinante",
+    "jei.beer.enchanting_table.configurable": "Configurabile tramite file di configurazione",
+    "jei.beer.enchanting_table.default_range": "Valore predefinito: %sx%sx%s",
+    "jei.beer.enchanting_table.enhanced_range": "Nuova gamma di scaffali",
+    "jei.beer.enchanting_table.info.bookshelf_range": "Aumenta l'intervallo di rilevamento delle librerie oltre i limiti standard.",
+    "jei.beer.enchanting_table.info.configuration": "L'intervallo può essere configurato nel file di configurazione del modulo.",
+    "jei.beer.enchanting_table.info.range_modification": "Utilizza gli elementi per modificare dinamicamente intervalli specifici di tabelle.",
+    "jei.beer.enchanting_table.info.title": "Tavolo Magico Potenziato",
     "tooltip.beer.enchanting_table.range": "Intervallo: %sx%sx%s"
 }

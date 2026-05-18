@@ -20,5 +20,9 @@
     "gui.turret.stop_targeting_passive": "Smettete di attaccare i nemici che non reagiscono.",
     "gui.turret.stop_targeting_players": "Smettete di prendere di mira i giocatori.",
     "gui.turret.stop_targeting_trusted": "Smettete di prendere di mira i giocatori.",
+    "gui.turret.target_hostile": "Concentrare gli attacchi su gruppi di nemici.",
+    "gui.turret.target_passive": "Mirare alle creature inattive",
+    "gui.turret.target_players": "Pubblico di riferimento",
+    "gui.turret.target_trusted": "Concentrarsi su giocatori affidabili",
     "item_group.mekanism_turrets": "Torrette Mekanisk"
 }

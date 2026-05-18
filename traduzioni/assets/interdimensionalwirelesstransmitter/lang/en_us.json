@@ -2,7 +2,7 @@
     "advancements.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter": "INTERDIMENSIONAL >>POWER<<",
     "advancements.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter.description": "Transmit a network signal with an Interdimensional Wireless Transmitter cross-dimensional with infinite range",
     "block.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter": "Interdimensional Wireless Transmitter",
-    "gui.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter.distance": "Infinite",
+    "gui.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter.distance": "Infinite range",
     "item.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter.help": "Provides wireless network access for items like the Wireless Grid. Has infinite range and is cross-dimensional.",
     "mod.interdimensional_wireless_transmitter": "Interdimensional Wireless Transmitter",
     "text.autoconfig.interdimensionalwirelesstransmitter.option.interdimensionalWirelessTransmitter": "Interdimensional Wireless Transmitter",

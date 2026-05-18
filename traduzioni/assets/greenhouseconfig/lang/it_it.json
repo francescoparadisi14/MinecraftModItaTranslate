@@ -1,0 +1,4 @@
+{
+    "command.greenhouseconfig.reload.error": "Impossibile ricaricare la configurazione '%s'.",
+    "command.greenhouseconfig.reload.success": "Ricaricamento completato con successo per '%s'."
+}

@@ -365,7 +365,7 @@
     "gui.epicfight.tooltip.settings.controls.item_category.warn_already_registered": "%s\nWarning: This items is already registered in the opposing category!",
     "gui.epicfight.tooltip.settings.controls.player_bahavior_strategy": "Determines how the Item Category works\n\n● Adaptive: judge the player's next action based on a holding item and a crosshair hit.\n\n● Switch Mode: toggle the player's mode vanilla and epic fight, forcing combat or mining",
     "gui.epicfight.tooltip.settings.graphics.blood_particles": "Toggles blood-related particle effects",
-    "gui.epicfight.tooltip.settings.graphics.compute_shader": "Activates compute shader to boost frame rates. Deactivate this option when you see a trouble in rendering entities",
+    "gui.epicfight.tooltip.settings.graphics.compute_shader": "Activates compute shader to boost frame rates. Deactivate this option when you see a trouble in rendering entities. \n\nIt is recommended to update to a graphics card driver that supports OpenGL 4.6 and enable persistent mapping to achieve a fully optimized experience.",
     "gui.epicfight.tooltip.settings.graphics.ground_slams": "Toggles the visibility of ground slam effects",
     "gui.epicfight.tooltip.settings.graphics.persistent_buffer": "Toggles persistent mapped buffer. Enhances the frame rate by reducing matrix uploading cost to shader",
     "gui.epicfight.tooltip.settings.model.cosmetics": "Toggles the cosmetics for patron users",

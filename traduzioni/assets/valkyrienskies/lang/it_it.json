@@ -17,6 +17,8 @@
     "command.valkyrienskies.backend.set": "Backend impostato su %s",
     "command.valkyrienskies.delete.success": "Eliminate le navi: %d",
     "command.valkyrienskies.delete.success_one": "Eliminato!",
+    "command.valkyrienskies.dry.no_blocks": "La nave non ha blocchi!",
+    "command.valkyrienskies.dry.success": "%s blocchi essiccati con successo",
     "command.valkyrienskies.get_gravity": "La gravità in %s è pari al %s",
     "command.valkyrienskies.get_ship.fail": "Nessun nave trovata.",
     "command.valkyrienskies.get_ship.only_usable_by_entities": "\/vs get-ship può essere eseguito solo da entità!",

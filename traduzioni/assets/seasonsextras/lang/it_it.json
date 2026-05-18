@@ -53,6 +53,7 @@
     "patchouli.seasonsextras.greenhouse_glass": "Vetro per serre",
     "patchouli.seasonsextras.growsfasterduringthese": "Presenta una crescita più rapida durante queste stagioni.",
     "patchouli.seasonsextras.growsfasterduringthis": "Presenta una crescita più rapida durante questa stagione.",
+    "patchouli.seasonsextras.heater_extra": "Il microclima (#[579A20]) generato dalla macchina dipenderà dal livello di combustione (elementi bruciati simultaneamente) e sarà:\n*   (3)Inverno + (5)1: simile a (c)Autunno\n*   (3)Inverno + (5)2: simile a (2)Primavera\n*   (3)Inverno + (5)3: simile a (6)Estate",
     "patchouli.seasonsextras.heater_text": "Il $(#579A20)riscaldatore per colture$() è una macchina che $(#579A20)riscalda$() l'aria circostante, creando un'area di $(#579A20)9x9x9$() (totale).$(br2)Con $(#579A20)tre livelli$(), riproduce le condizioni di una $(#579A20)stagione più calda$(), consentendo la coltivazione delle colture $(#579A20)durante tutto l'anno$().$(br2)Ogni $(#579A20)livello$() riscalda l'ambiente attuale, facilitando la crescita delle colture.",
     "patchouli.seasonsextras.hotbiome": "ambiente caldo",
     "patchouli.seasonsextras.hotdesc": "La temperatura è molto alta per la maggior parte dell'anno.",

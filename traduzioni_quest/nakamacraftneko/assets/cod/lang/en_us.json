@@ -1,0 +1,20 @@
+{
+    "cod.ammo.cod_12g.name": "§f12号霰弹",
+    "cod.ammo.cod_40mm.name": "§c§l40mm榴弹",
+    "cod.ammo.cod_energy.desc": "更换电池时请注意剩余容量！",
+    "cod.ammo.cod_energy.name": "§b能量电池",
+    "cod.ammo.cod_heavies.desc": "更换电池时请注意剩余容量！",
+    "cod.ammo.cod_heavies.name": "§c§l载荷电池⚠",
+    "cod.ammo.cod_pistol.name": "§a手枪弹",
+    "cod.ammo.cod_pistol_h.name": "§a§l重型手枪弹",
+    "cod.ammo.cod_rifle.name": "§e步枪弹",
+    "cod.ammo.cod_rifle_h.name": "§e§l重型步枪弹",
+    "cod.ammo.cod_sniper.name": "§d狙击弹",
+    "cod.ammo.cod_sniper_h.name": "§d§l重型狙击弹",
+    "cod.armory_weapon_box.desc": "合适的武器，完成合适的任务\n§e§l出自 使命召唤：无限战争",
+    "cod.armory_weapon_rack.desc": "每把武器都有一个故事，每个士兵都有一个使命\n§e§l出自 使命召唤：无限战争",
+    "cod.block.armory_weapon_box": "§b军械库武器箱",
+    "cod.block.armory_weapon_rack": "§e军械库武器架",
+    "pack.cod.desc": "重铸动视荣光，吾辈义不容辞！",
+    "pack.cod.name": "使命召唤 枪械包"
+}

@@ -419,6 +419,8 @@
     "gamerule.boneImpSpawn.description": "Uova di Bone Imp",
     "gamerule.bonescallerSpawn": "Apparizione di Bonescaller",
     "gamerule.bonescallerSpawn.description": "Apparizione di Bonescaller",
+    "gamerule.chaoticSpringEvent": "Evento primaverile caotico e continuo",
+    "gamerule.chaoticSpringEvent.description": "Attiva l'evento \"Primavera Caotica\" indipendentemente dal periodo dell'anno o dalla data. L'evento rimarrà attivo fintanto che questa regola di gioco è impostata su \"Vero\".",
     "gamerule.chillingHorrorEvent": "Evento spettrale e terrificante",
     "gamerule.chillingHorrorEvent.description": "Attiva l'evento \"Chilling Horror\" indipendentemente dal periodo dell'anno o dalla data. L'evento rimarrà attivo fintanto che questa regola di gioco è impostata su \"True\".",
     "gamerule.corpseFishSpawn": "Uova di pesce morto",

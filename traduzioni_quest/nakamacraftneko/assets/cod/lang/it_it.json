@@ -1,0 +1,20 @@
+{
+    "cod.ammo.cod_12g.name": "§Mitragliatrice M12",
+    "cod.ammo.cod_40mm.name": "§c§Proiettile da 40 mm",
+    "cod.ammo.cod_energy.desc": "Quando si sostituisce la batteria, prestate attenzione alla capacità residua!",
+    "cod.ammo.cod_energy.name": "§b Batterie a energia",
+    "cod.ammo.cod_heavies.desc": "Quando si sostituisce la batteria, prestate attenzione alla capacità residua!",
+    "cod.ammo.cod_heavies.name": "§c§l Batteria per il carico ⚠",
+    "cod.ammo.cod_pistol.name": "Una pistola semiautomatica con proiettili.",
+    "cod.ammo.cod_pistol_h.name": "Proiettili per fionde di grosso calibro",
+    "cod.ammo.cod_rifle.name": "Proiettili per fucile a canna liscia",
+    "cod.ammo.cod_rifle_h.name": "Proiettili per fucile di grosso calibro",
+    "cod.ammo.cod_sniper.name": "§d fucile da cecchino",
+    "cod.ammo.cod_sniper_h.name": "§d§l Proiettile da cecchino di grosso calibro",
+    "cod.armory_weapon_box.desc": "Arma adatte, per compiere compiti specifici.\n§e§l: tratto da \"Call of Duty: Infinite Warfare\"",
+    "cod.armory_weapon_rack.desc": "Ogni arma ha una storia, e ogni soldato ha una missione.\n§e§l tratto da Mission: Impossible – Infinite Warfare",
+    "cod.block.armory_weapon_box": "§b Armadio per armi del deposito militare",
+    "cod.block.armory_weapon_rack": "Armadi per armi del deposito militare §e",
+    "pack.cod.desc": "Rinnovare la gloria di Activision: è un dovere!",
+    "pack.cod.name": "Kit per armi di Call of Duty"
+}

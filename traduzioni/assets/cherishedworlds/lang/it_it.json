@@ -1,5 +1,7 @@
 {
     "gui.cherishedworlds.config.backupWorldType": "Identifica quali mondi richiedono un backup quando vengono caricati con una versione più recente di Minecraft.",
+    "gui.narrate.cherishedworlds.favorite": "Aggiungi a \"Preferiti\"",
+    "gui.narrate.cherishedworlds.unfavorite": "Rimuovi \"%s\" dalla lista dei preferiti",
     "selectWorld.cherishedworlds.favorite": "Aggiungi ai preferiti",
     "selectWorld.cherishedworlds.unfavorite": "Rimuovi dai preferiti"
 }

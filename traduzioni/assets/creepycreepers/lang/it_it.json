@@ -1,0 +1,14 @@
+{
+    "creativetab.creepycreepers.title": "Creature spaventose",
+    "entity.creepycreepers.corrupted_creeper": "Creeper corrotto",
+    "entity.creepycreepers.ghostly_creeper": "Fantasma",
+    "entity.creepycreepers.halloween_creeper": "Halloween Creeper",
+    "entity.creepycreepers.snowy_creeper": "Snowy Creeper",
+    "entity.creepycreepers.tuff_creeper": "Tuff Creeper",
+    "item.creepycreepers.corrupted_creeper_spawn_egg": "Uovo di spawn corrotto per Creeper",
+    "item.creepycreepers.ghostly_creeper_spawn_egg": "Uovo di spawn per il Creeper spettrale",
+    "item.creepycreepers.halloween_creeper_spawn_egg": "Uovo di spawn per il Creeper di Halloween",
+    "item.creepycreepers.snowy_creeper_spawn_egg": "Uovo di spawn per Snowy Creeper",
+    "item.creepycreepers.tuff_creeper_spawn_egg": "Uovo di spawn per Tuff Creeper",
+    "subtitle.creepycreepers.ghostly_creeper_scream": "Urlo spettrale del Creeper"
+}

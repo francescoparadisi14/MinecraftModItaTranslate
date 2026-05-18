@@ -70,6 +70,8 @@
     "config.betterf3.modules.edit_button": "Edit Module",
     "config.betterf3.order_left_button": "Left Modules",
     "config.betterf3.order_right_button": "Right Modules",
+    "config.betterf3.performance_optimizations": "Performance Optimizations",
+    "config.betterf3.performance_optimizations.tooltip": "Cache module lines and only refresh when values change.",
     "config.betterf3.right_modules": "Right Modules",
     "config.betterf3.shadow_text": "Shadow Text",
     "config.betterf3.shadow_text.tooltip": "Makes all characters have a shadow effect.",

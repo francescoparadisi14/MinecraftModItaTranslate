@@ -1,0 +1,20 @@
+{
+    "coat.action.abort": "Annulla",
+    "coat.action.abort.screen.desc": "Stai per scartare tutte le modifiche che hai fatto. Vuoi continuare?",
+    "coat.action.abort.screen.title": "Eliminazione modifiche!",
+    "coat.action.accept_risk": "Accetta il rischio",
+    "coat.action.save": "Salva e chiudi",
+    "coat.action.save.errors": "Sono stati trovati errori nella configurazione corrente.\n§lProcedere risulterà nella perdita dei dati!",
+    "coat.action.save.warnings": "Ci sono alcuni avvisi nella configurazione corrente.\nPer favore, guardarli prima di procedere.",
+    "coat.default": "Predefinito",
+    "coat.default.hover": "Resetta a:",
+    "coat.input.enumerated.null": "Non impostato",
+    "coat.list.append": "Crea nuova voce",
+    "coat.message.jump": "Vai ai problemi",
+    "coat.message.level.error": "Errore",
+    "coat.message.level.info": "Info",
+    "coat.message.level.warning": "Attenzione",
+    "coat.tree.collapse": "-",
+    "coat.tree.expand": "+",
+    "coat.tree.open": "Aperto"
+}

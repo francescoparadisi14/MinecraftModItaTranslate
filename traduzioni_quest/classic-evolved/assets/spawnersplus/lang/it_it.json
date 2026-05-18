@@ -1,0 +1,20 @@
+{
+    "block.spawnersplus.inactive_spawner": "Spawner inattivo",
+    "enchantment.spawnersplus.soul_stealing": "Furto d'anima",
+    "enchantment.spawnersplus.soul_stealing.desc": "Possibilità di ottenere l'anima di alcuni mostri al momento della loro uccisione.",
+    "item.spawnersplus.blaze_soul": "Blaze Soul",
+    "item.spawnersplus.cave_spider_soul": "L'anima della ragno delle caverne",
+    "item.spawnersplus.creeper_soul": "Anima di Creeper",
+    "item.spawnersplus.drowned_soul": "Anima affogata",
+    "item.spawnersplus.husk_soul": "Husk Soul",
+    "item.spawnersplus.magma_cube_soul": "Anima del Cubo di Magma",
+    "item.spawnersplus.silverfish_soul": "L'anima della silverfish",
+    "item.spawnersplus.skeleton_soul": "Anima scheletrica",
+    "item.spawnersplus.slime_soul": "Slime Soul",
+    "item.spawnersplus.spawner_fragment": "Frammento di spaventapasseri",
+    "item.spawnersplus.spawner_silencer": "Soppressore per allevamento",
+    "item.spawnersplus.spider_soul": "L'anima di ragno",
+    "item.spawnersplus.stray_soul": "Anima errante",
+    "item.spawnersplus.wither_skeleton_soul": "Anima scheletrica",
+    "item.spawnersplus.zombie_soul": "Anima di Zombi"
+}

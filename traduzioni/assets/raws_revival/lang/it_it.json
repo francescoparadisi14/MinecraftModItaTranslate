@@ -1,0 +1,10 @@
+{
+    "death.attack.raws_revival.failed_to_revive_other_player": "L'intervento non è riuscito a rianimare %1$s",
+    "death.attack.raws_revival.failed_to_revive_self": "%1$ è deceduto a causa dell'incapacità di riprendersi.",
+    "death.attack.raws_revival.gave_up": "%1$ ha rinunciato",
+    "death.attack.raws_revival.not_revived_in_time": "%1$ non è stato possibile rianimare",
+    "key.raws_revival.key.group": "Il ritorno di Raw",
+    "key.raws_revival.key.self_revive": "Rinnovare se stessi",
+    "key.raws_revival.key.skip_revival": "Arrendersi",
+    "screen.tooltip.disconnect_button.give_up_on_reconnect": "Smetti di cercare di ristabilire il contatto."
+}

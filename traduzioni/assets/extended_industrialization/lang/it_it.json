@@ -277,6 +277,8 @@
     "text.extended_industrialization.tesla_handheld_linked": "Collegato a %s",
     "text.extended_industrialization.tesla_handheld_selected": "Trasmettitore selezionato per la ricezione.",
     "text.extended_industrialization.tesla_interdimensional_upgrade_help": "Elimina i limiti di portata di una Torre Tesla e consente la trasmissione di energia attraverso le dimensioni.",
+    "text.extended_industrialization.tesla_lethal_coil_damages_players_no": "Giocatori danneggiati: No",
+    "text.extended_industrialization.tesla_lethal_coil_damages_players_yes": "Danni ai giocatori: Sì",
     "text.extended_industrialization.tesla_lethal_coil_help_1": "Provoca danni alle entità presenti all'interno di blocchi di dimensione pari a %s quando è in funzione.",
     "text.extended_industrialization.tesla_lethal_coil_values": "La tensione determina l'entità del danno e l'energia necessaria.",
     "text.extended_industrialization.tesla_network_receiver_linked": "Collegato a %s",

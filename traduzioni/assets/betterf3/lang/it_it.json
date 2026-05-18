@@ -70,6 +70,8 @@
     "config.betterf3.modules.edit_button": "Modifica modulo",
     "config.betterf3.order_left_button": "Moduli di Sinistra",
     "config.betterf3.order_right_button": "Moduli di Destra",
+    "config.betterf3.performance_optimizations": "Performance Optimizations",
+    "config.betterf3.performance_optimizations.tooltip": "Cache module lines and only refresh when values change.",
     "config.betterf3.right_modules": "Moduli di destra",
     "config.betterf3.shadow_text": "Ombra del testo",
     "config.betterf3.shadow_text.tooltip": "Fa in modo che tutti i caratteri abbiano un effetto ombra.",

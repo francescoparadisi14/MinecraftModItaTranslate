@@ -34,10 +34,16 @@
     "xmxw.config.categories.waypoint.options.title.name": "Title",
     "xmxw.config.categories.waypoint.options.visibility.description": "Set the visibility of the waypoint.",
     "xmxw.config.categories.waypoint.options.visibility.name": "Visibility",
+    "xmxw.config.categories.waypoint.options.warnOnAllSetsDisabled.description": "Show a warning when Render All Waypoint Sets is disabled.",
+    "xmxw.config.categories.waypoint.options.warnOnAllSetsDisabled.name": "Warn on Render All Waypoint Sets Disabled",
     "xmxw.config.categories.worldData.groups._waystonePoint.options.hide.description": "Hide the waystone point.",
     "xmxw.config.categories.worldData.groups._waystonePoint.options.hide.name": "Hide",
     "xmxw.config.categories.worldData.name": "World Data",
     "xmxw.config.title": "XMXW Config",
     "xmxw.messages.custom_waypoint_uneditable": "Waypoints created by mods cannot be edited!",
-    "xmxw.messages.mod_update_available": "New version %s is available! You are using version %s"
+    "xmxw.messages.mod_update_available": "New version %s is available! You are using version %s",
+    "xmxw.toast.all_sets_disabled": "Render All Waypoint Sets option of Xaero's Minimap is disabled! Waypoints may not render correctly.",
+    "xmxw.toast.modded_waypoint_not_editable": "MOD-managed waypoints cannot be edited! Changing the selected waypoint set may fix this.",
+    "xmxw.toast.modded_waypoint_set_not_editable": "MOD-managed waypoint sets cannot be edited! Changing the selected waypoint set may fix this.",
+    "xmxw.toast.update_available": "New version %s is available! You are using version %s"
 }

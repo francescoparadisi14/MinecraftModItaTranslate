@@ -5,11 +5,13 @@
     "item.farmersknives.amethyst_knife": "Amethyst Knife",
     "item.farmersknives.aquarium_knife": "Aquarium Knife",
     "item.farmersknives.banglum_knife": "Banglum Knife",
+    "item.farmersknives.brass_knife": "Brass Knife",
     "item.farmersknives.bronze_knife": "Bronze Knife",
     "item.farmersknives.carmot_knife": "Carmot Knife",
     "item.farmersknives.celestium_knife": "Celestium Knife",
     "item.farmersknives.cincinnasite_knife": "Cincinnasite Knife",
     "item.farmersknives.cincinnasite_knife_diamond": "Cincinnasite-Diamond Knife",
+    "item.farmersknives.copper_knife": "Copper Knife",
     "item.farmersknives.copper_knife_et": "Copper Knife",
     "item.farmersknives.copper_knife_mm": "Copper Knife",
     "item.farmersknives.creative_tab_knife": "Creative Tab Knife",
@@ -52,5 +54,6 @@
     "item.farmersknives.terminite_knife": "Terminite Knife",
     "item.farmersknives.thallasium_knife": "Thallasium Knife",
     "item.farmersknives.tidesinger_knife": "Tidesinger Knife",
-    "item.farmersknives.warden_knife": "Warden Knife"
+    "item.farmersknives.warden_knife": "Warden Knife",
+    "item.farmersknives.zinc_knife": "Zinc Knife"
 }

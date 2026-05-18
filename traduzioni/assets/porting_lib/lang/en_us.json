@@ -1,0 +1,9 @@
+{
+    "commands.config.getwithtype": "Config for %s of type %s found at %s",
+    "commands.config.noconfig": "Config for %s of type %s not found",
+    "commands.porting_lib.arguments.enum.invalid": "Enum constant must be one of {0}, found {1}",
+    "porting_lib.entity_gravity": "Gravity",
+    "porting_lib.name_tag_distance": "Nametag Render Distance",
+    "porting_lib.step_height": "Step Height",
+    "porting_lib.swim_speed": "Swim Speed"
+}

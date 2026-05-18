@@ -96,6 +96,12 @@
     "affix.otherworldapoth:elemental\/school_fire\/mana_cost.suffix": "of Effortless Flames",
     "affix.otherworldapoth:elemental\/school_fire\/pyromancers": "Pyromancer's",
     "affix.otherworldapoth:elemental\/school_fire\/pyromancers.suffix": "of Insanity",
+    "affix.otherworldapoth:elemental\/school_geo\/attribute": "Elemental",
+    "affix.otherworldapoth:elemental\/school_geo\/attribute.suffix": "of Convergence",
+    "affix.otherworldapoth:elemental\/school_geo\/geomancers": "Geomancer's",
+    "affix.otherworldapoth:elemental\/school_geo\/geomancers.suffix": "of Earthcalling",
+    "affix.otherworldapoth:elemental\/school_geo\/mana_cost": "Fossilized",
+    "affix.otherworldapoth:elemental\/school_geo\/mana_cost.suffix": "of Effortless Landscaping",
     "affix.otherworldapoth:elemental\/school_holy\/armor": "Hallowed",
     "affix.otherworldapoth:elemental\/school_holy\/armor.suffix": "of the Divine Aegis",
     "affix.otherworldapoth:elemental\/school_holy\/attribute": "Sacred",
@@ -300,6 +306,7 @@
     "item.apotheosis.gem.otherworldapoth:core\/whispering_tentaculite": "Whispering Tentaculite",
     "item.apotheosis.gem.otherworldapoth:external\/arcanists_edge": "Arcanist's Edge",
     "item.apotheosis.gem.otherworldapoth:external\/deepsea_heartstone": "Deepsea Heartstone",
+    "item.apotheosis.gem.otherworldapoth:external\/earthshattered_core": "Earthshattered Core",
     "item.apotheosis.gem.otherworldapoth:external\/harmonic_geode": "Harmonic Geode",
     "item.apotheosis.gem.otherworldapoth:external\/resonant_quartz": "Resonant Quartz",
     "item.apotheosis.gem.otherworldapoth:external\/sirens_aquamarine": "Siren's Aquamarine",
@@ -315,6 +322,7 @@
     "name.otherworldapoth.hellforged_dagger": "Hellforged Dagger",
     "name.otherworldapoth.hyperion": "Hyperion",
     "name.otherworldapoth.skyfall": "Skyfall",
+    "rank.champions.title.6": "Eldritch",
     "text.apotheosis.category.staff": "Staff",
     "text.apotheosis.category.staff.plural": "Staves"
 }

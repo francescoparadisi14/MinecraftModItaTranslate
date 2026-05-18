@@ -1,0 +1,15 @@
+{
+    "item.multitools.diamond_multitool": "Diamond Multitool",
+    "item.multitools.golden_multitool": "Golden Multitool",
+    "item.multitools.iron_multitool": "Iron Multitool",
+    "item.multitools.multitool_handle": "Multitool Handle",
+    "item.multitools.multitool_netherite_upgrade": "Multitool Netherite Upgrade",
+    "item.multitools.netherite_multitool": "Netherite Multitool",
+    "itemGroup.multitools.multitools_enhanced": "Multitools Enhanced",
+    "tag.item.multitools.multitools": "Multitools",
+    "text.config.multitool-config.option.diamondMultitoolDurability": "Diamond Multitool Durability",
+    "text.config.multitool-config.option.goldMultitoolDurability": "Gold Multitool Durability",
+    "text.config.multitool-config.option.ironMultitoolDurability": "Iron Multitool Durability",
+    "text.config.multitool-config.option.netheriteMultitoolDurability": "Netherite Multitool Durability",
+    "text.config.multitool-config.title": "Multitools Enhanced Configuration"
+}

@@ -1,0 +1,14 @@
+{
+    "text.autoconfig.thermoo-patches.option.armorPointsPPConfig": "Configurazione Armor Points++",
+    "text.autoconfig.thermoo-patches.option.armorPointsPPConfig.@Tooltip": "Richiede sia Armor Points++ che libhud.",
+    "text.autoconfig.thermoo-patches.option.armorPointsPPConfig.overheatingTextColor": "Testo con colore troppo intenso",
+    "text.autoconfig.thermoo-patches.option.friendsAndFoesConfig": "Impostazioni per amici e nemici",
+    "text.autoconfig.thermoo-patches.option.friendsAndFoesConfig.@Tooltip": "Richiede amicizie e nemici",
+    "text.autoconfig.thermoo-patches.option.friendsAndFoesConfig.freezingTotemFreezingScaleChange": "Totem per il congelamento, regolazione della scala",
+    "text.autoconfig.thermoo-patches.option.friendsAndFoesConfig.iceologerIceChunkFreezingScaleChange": "Scala di cambiamento per la misurazione del congelamento dei blocchi di ghiaccio (Iceologer)",
+    "text.autoconfig.thermoo-patches.option.immersiveWeatheringConfig": "Configurazione avanzata per simulazioni meteorologiche realistiche",
+    "text.autoconfig.thermoo-patches.option.immersiveWeatheringConfig.@Tooltip": "Richiede un'esperienza di gioco immersiva, che tenga conto delle condizioni meteorologiche.",
+    "text.autoconfig.thermoo-patches.option.immersiveWeatheringConfig.freezingFromEatingIcicle": "Congelare a causa del consumo di ghiaccio e di ghiaccio",
+    "text.autoconfig.thermoo-patches.option.immersiveWeatheringConfig.freezingFromIcicleFall": "Congelare a causa del ghiaccio che si scioglie",
+    "text.autoconfig.thermoo-patches.title": "Configurazione adesivi Thermoo"
+}

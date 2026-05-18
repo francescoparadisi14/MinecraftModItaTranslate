@@ -1,0 +1,16 @@
+{
+    "tool_stat.tinkercuriolib.armor": "Armor:",
+    "tool_stat.tinkercuriolib.armor.description": "Increases armor points by this value.",
+    "tool_stat.tinkercuriolib.armor_toughness": "Armor Toughness:",
+    "tool_stat.tinkercuriolib.armor_toughness.description": "Increases armor toughness by this value.",
+    "tool_stat.tinkercuriolib.attack_speed": "Attack Speed:",
+    "tool_stat.tinkercuriolib.attack_speed.description": "Increases attack speed by this value.",
+    "tool_stat.tinkercuriolib.damage": "Attack Damage:",
+    "tool_stat.tinkercuriolib.damage.description": "Increases attack damage by this value.",
+    "tool_stat.tinkercuriolib.health": "Health:",
+    "tool_stat.tinkercuriolib.health.description": "Increases health by this value.",
+    "tool_stat.tinkercuriolib.movement_speed": "Movement Speed:",
+    "tool_stat.tinkercuriolib.movement_speed.description": "Increases movement speed by this value.",
+    "tool_stat.tinkercuriolib.projectile_bonus_curio": "Projectile Damage:",
+    "tool_stat.tinkercuriolib.projectile_bonus_curio.description": "Increases projectile damage by this value."
+}

@@ -1,0 +1,4 @@
+{
+    "block.endersourcejars.endersourcejar": "Barattolo di Ender Source",
+    "endersourcejars.page.endersourcejar": "I barattoli di Ender Source funzionano in modo simile ai barattoli di Source normali, ma invece di contenere la fonte, la immagazzinano nell'End. La loro frequenza può essere impostata utilizzando coloranti, e altri barattoli di Ender Source con la stessa frequenza condivideranno lo stesso spazio di archiviazione. L'utilizzo di un diamante sul coperchio li collegherà al giocatore."
+}

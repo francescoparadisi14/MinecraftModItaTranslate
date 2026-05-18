@@ -1,0 +1,21 @@
+{
+    "create_aeronautics_throwable_rope_connector.configuration.section.create_aeronautics_throwable_rope_connector-common.toml": "Throwable Rope Connector",
+    "create_aeronautics_throwable_rope_connector.configuration.section.create_aeronautics_throwable_rope_connector-common.toml.title": "Throwable Rope Connector",
+    "create_aeronautics_throwable_rope_connector.configuration.throwable_rope_connector.consumeOnSuccessOnly": "Consume On Success Only",
+    "create_aeronautics_throwable_rope_connector.configuration.throwable_rope_connector.cooldownTicks": "Cooldown Ticks",
+    "create_aeronautics_throwable_rope_connector.configuration.throwable_rope_connector.launcherMaxDistance": "Launcher Max Distance",
+    "create_aeronautics_throwable_rope_connector.configuration.throwable_rope_connector.maxThrowDistance": "Max Throw Distance",
+    "create_aeronautics_throwable_rope_connector.configuration.throwable_rope_connector.playParticles": "Play Particles",
+    "create_aeronautics_throwable_rope_connector.configuration.throwable_rope_connector.projectileRopeTrailWidth": "Projectile Rope Trail Width",
+    "create_aeronautics_throwable_rope_connector.configuration.throwable_rope_connector.showFailureMessages": "Show Failure Messages",
+    "create_aeronautics_throwable_rope_connector.configuration.throwable_rope_connector.showProjectileRopeTrail": "Show Projectile Rope Trail",
+    "create_aeronautics_throwable_rope_connector.configuration.throwable_rope_connector.throwVelocity": "Throw Velocity",
+    "create_aeronautics_throwable_rope_connector.configuration.title": "Throwable Rope Connector Config",
+    "item.create_aeronautics_throwable_rope_connector.rope_connector_launcher": "Rope Connector Launcher",
+    "item.create_aeronautics_throwable_rope_connector.throwable_rope_connector": "Throwable Rope Connector",
+    "message.create_aeronautics_throwable_rope_connector.cannot_attach_there": "Cannot attach there",
+    "message.create_aeronautics_throwable_rope_connector.missing_simulated": "Create Simulated integration is unavailable",
+    "message.create_aeronautics_throwable_rope_connector.no_valid_anchor_point": "No valid anchor point",
+    "message.create_aeronautics_throwable_rope_connector.offhand_ammo_required": "Put a Throwable Rope Connector in your other hand",
+    "message.create_aeronautics_throwable_rope_connector.target_too_far": "Target is too far away"
+}

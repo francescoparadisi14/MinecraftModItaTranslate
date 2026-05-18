@@ -415,6 +415,6 @@
     "block.pigpen.banner.z.red": "Red 'z' Pigpen",
     "block.pigpen.banner.z.white": "White 'z' Pigpen",
     "block.pigpen.banner.z.yellow": "Yellow 'z' Pigpen",
-    "item.pigpen.pigpen_pattern": "Banner Pattern",
+    "item.pigpen.pigpen_pattern": "Pigpen Cipher Pattern",
     "item.pigpen.pigpen_pattern.desc": "Pigpen Cipher"
 }

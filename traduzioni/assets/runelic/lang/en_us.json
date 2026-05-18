@@ -1631,7 +1631,7 @@
     "block.runelic.banner.z.red": "Red Rune z",
     "block.runelic.banner.z.white": "White Rune z",
     "block.runelic.banner.z.yellow": "Yellow Rune z",
-    "item.runelic.runelic_pattern": "Banner Pattern",
+    "item.runelic.runelic_pattern": "Runelic Banner Pattern",
     "item.runelic.runelic_pattern.desc": "Runelic Runes",
     "itemGroup.runelic.creative_tab": "Runelic"
 }

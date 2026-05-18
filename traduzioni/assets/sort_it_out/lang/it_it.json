@@ -6,6 +6,7 @@
     "config.sort_it_out.client_preferences.comparators.display_name": "Per nome",
     "config.sort_it_out.client_preferences.comparators.durability": "In termini di durata",
     "config.sort_it_out.client_preferences.comparators.empty_list": "L'elenco di confronto non può essere vuoto.",
+    "config.sort_it_out.client_preferences.comparators.enchantments": "Grazie a incantesimi",
     "config.sort_it_out.client_preferences.comparators.namespace": "In base allo spazio dei nomi",
     "config.sort_it_out.client_preferences.comparators.tooltip": "Un elenco di indicatori da utilizzare per confrontare gli elementi e classificarli. Se il primo criterio indica che due elementi sono uguali, verrà utilizzato il criterio successivo (e così via, se anche questo indica che sono uguali).",
     "config.sort_it_out.client_preferences.invertSorting": "Ordinamento inverso",

@@ -1,0 +1,12 @@
+{
+    "block.illager_arena.example_block": "Example Block",
+    "illager_arena.configuration.items": "Item List",
+    "illager_arena.configuration.logDirtBlock": "Log Dirt Block",
+    "illager_arena.configuration.magicNumber": "Magic Number",
+    "illager_arena.configuration.magicNumberIntroduction": "Magic Number Text",
+    "illager_arena.configuration.section.illager_arena.common.toml": "Illager Arena Configs",
+    "illager_arena.configuration.section.illager_arena.common.toml.title": "Illager Arena Configs",
+    "illager_arena.configuration.title": "Illager Arena Configs",
+    "item.illager_arena.example_item": "Example Item",
+    "itemGroup.illager_arena": "Example Mod Tab"
+}

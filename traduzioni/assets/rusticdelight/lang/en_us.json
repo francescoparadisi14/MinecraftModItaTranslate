@@ -117,5 +117,9 @@
     "tag.item.rusticdelight.stuffed_bell_pepper_ingredients": "Stuffed Bell Pepper Ingredients",
     "tag.item.rusticdelight.sweet_liquids": "Sweet Liquids",
     "tag.item.rusticdelight.syrup": "Syrup",
-    "tag.item.rusticdelight.syrup_ingredients": "Syrup Ingredients"
+    "tag.item.rusticdelight.syrup_ingredients": "Syrup Ingredients",
+    "tooltip.farmersdelight.chocolate_coffee": "Clears 1 Harmful Effect",
+    "tooltip.farmersdelight.honey_coffee": "Clears 1 Effect",
+    "tooltip.farmersdelight.milk_coffee": "Clears 1 Effect",
+    "tooltip.farmersdelight.syrup_coffee": "Clears 1 Effect"
 }

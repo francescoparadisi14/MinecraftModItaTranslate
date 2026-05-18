@@ -1,4 +1,6 @@
 {
+    "block.dumplings_delight.celery": "Semi di sedano",
+    "block.dumplings_delight.celery_crate": "Cassa per sedano",
     "block.dumplings_delight.chinese_cabbage_crate": "Cassa per cavolo cinese",
     "block.dumplings_delight.chinese_cabbages": "Semi di cavolo cinese",
     "block.dumplings_delight.dumpling_medley": "Selezione di ravioli",
@@ -25,6 +27,7 @@
     "item.dumplings_delight.beef_tomato_boiled_dumpling": "Polpette di manzo al vapore",
     "item.dumplings_delight.calamari": "Calamari",
     "item.dumplings_delight.calamari_boiled_dumpling": "Gnocchi di calamari lessati",
+    "item.dumplings_delight.celery": "Cetriolo",
     "item.dumplings_delight.chicken_mushroom_boiled_dumpling": "Polpette di pollo e funghi, cotte a vapore",
     "item.dumplings_delight.chinese_cabbage": "Cavolo cinese",
     "item.dumplings_delight.chinese_cabbage_leaf": "Foglia di cavolo cinese",

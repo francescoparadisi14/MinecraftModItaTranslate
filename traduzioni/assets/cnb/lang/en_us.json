@@ -95,5 +95,8 @@
     "item.cnb.yeti_spawn_egg": "Yeti Spawn Egg",
     "item.heal_spell_book.player_heal": "Spell is cast",
     "itemGroup.cnb_tab": "Creatures And Beasts",
-    "itemGroup.creatures_and_beasts_tab": "Creatures and Beasts"
+    "itemGroup.creatures_and_beasts_tab": "Creatures and Beasts",
+    "painting.cnb.lilytad.author": "Creatures and Beasts",
+    "painting.cnb.lilytad.title": "Lilytad",
+    "tooltip.cnb.hide_layers": "Yeti Hide: %s \/ %s"
 }

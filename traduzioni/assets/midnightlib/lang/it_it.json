@@ -4,12 +4,18 @@
     "midnightconfig.action.list_index": "Modifica della lista all'indice %s",
     "midnightconfig.colorChooser.title": "Scegli un colore",
     "midnightlib.curseforge": "CurseForge",
+    "midnightlib.midnightconfig.background_texture": "Texture dello sfondo dello schermo di configurazione",
     "midnightlib.midnightconfig.config_screen_list": "Elenco schermate di configurazione",
     "midnightlib.midnightconfig.enum.ConfigButton.FALSE": "§cNo",
     "midnightlib.midnightconfig.enum.ConfigButton.MODMENU": "§bMenu",
     "midnightlib.midnightconfig.enum.ConfigButton.TRUE": "§aSì",
+    "midnightlib.midnightconfig.midnighthats_description": "§nCappelli di mezzanotte",
+    "midnightlib.midnightconfig.midnightlib_description": "§nMidnightLib",
+    "midnightlib.midnightconfig.special_hats": "Abilita i cappelli per i sostenitori",
     "midnightlib.midnightconfig.title": "Configurazione di MidnightLib",
     "midnightlib.modrinth": "Modrinth",
     "midnightlib.overview.title": "Panoramica di MidnightConfig",
-    "midnightlib.wiki": "Wiki"
+    "midnightlib.wiki": "Wiki",
+    "modmenu.descriptionTranslation.midnightlib": "Libreria comune per una facile configurazione.\nFornisce un'API di configurazione, integrazione automatica con altri moduli e strumenti comuni.",
+    "modmenu.summaryTranslation.midnightlib": "Libreria comune per una facile configurazione."
 }

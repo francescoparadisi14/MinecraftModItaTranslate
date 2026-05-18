@@ -1,0 +1,6 @@
+{
+    "config.difficult_spawners.effects": "creature che si riproduce con difficoltà",
+    "config.difficult_spawners.spawner_effects": "creature che si riproduce con difficoltà",
+    "entity.difficult_spawners.evil_spirit": "Spirito maligno",
+    "item.difficult_spawners.evil_spirit_spawn_egg": "Uovo della creatura malvagia"
+}

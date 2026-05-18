@@ -1,5 +1,10 @@
 {
     "block.disenchanting_table.disenchanting_table": "Tavolo senza incantesimi",
+    "container.disenchanting_table": "Rimozione dell'incantesimo dalla tavola",
+    "container.disenchanting_table.cost_levels": "Costo di rimozione: %s livelli",
+    "container.disenchanting_table.cost_points": "Costo di rimozione: %s punti",
+    "gui.disenchanting_table.mode.auto": "Modalità: Automatica",
+    "gui.disenchanting_table.mode.manual": "Modalità: Manuale",
     "item.disenchanting_table.disenchanting_table": "Tavolo senza incantesimi",
     "itemGroup.disenchantingTable": "Tavolo senza incantesimi",
     "text.disenchanting_table.automatic_mode": "MODE: AUTOMATICO -> MANUALE",

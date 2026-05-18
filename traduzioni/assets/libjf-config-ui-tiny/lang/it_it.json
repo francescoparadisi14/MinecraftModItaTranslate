@@ -1,0 +1,10 @@
+{
+    "libjf-config-ui-tiny.entry.error.length.maximum": "§cLa lunghezza minima è %1$s",
+    "libjf-config-ui-tiny.entry.error.length.minimum": "§cLa lunghezza minima è %1$s",
+    "libjf-config-ui-tiny.entry.error.value.maximum": "§cIl valore massimo è %1s",
+    "libjf-config-ui-tiny.entry.error.value.minimum": "§cIl valore massimo è %1s",
+    "libjf-config-ui-tiny.entry.json.read.fail.description": "L'elemento specificato non è stato possibile leggerlo da una stringa. Si prega di modificare manualmente il file di configurazione.",
+    "libjf-config-ui-tiny.entry.json.read.fail.title": "Impossibile leggere",
+    "libjf-config-ui-tiny.entry.json.write.fail.description": "L'elemento specificato non può essere convertito in una stringa. Si prega di modificare manualmente il file di configurazione.",
+    "libjf-config-ui-tiny.entry.json.write.fail.title": "Non sono riuscito a scrivere."
+}

@@ -1,3 +1,4 @@
 {
-    "config.jade.plugin_kubejs_tfc.heat_consumer": "KubeJS, TFC, Temperatura del consumatore"
+    "config.jade.plugin_kubejs_tfc.heat_consumer": "KubeJS, TFC, Temperatura del consumatore",
+    "disconnect.kubejs_tfc.glass_operations": "Esiste una discrepanza tra le operazioni relative al vetro personalizzato che esegui e quelle gestite dal server."
 }

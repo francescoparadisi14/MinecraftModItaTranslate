@@ -66,6 +66,7 @@
     "config.jade.plugin_extendedcrafting.advanced_auto_table": "Informazioni sulla tabella avanzata",
     "config.jade.plugin_extendedcrafting.advanced_table": "Informazioni avanzate sulla tabella",
     "config.jade.plugin_extendedcrafting.auto_ender_crafter": "Informazioni su Auto Ender Crafter",
+    "config.jade.plugin_extendedcrafting.auto_flux_crafter": "Informazioni su Auto Flux Crafter",
     "config.jade.plugin_extendedcrafting.basic_auto_table": "Informazioni di base sulla tabella dei veicoli",
     "config.jade.plugin_extendedcrafting.basic_table": "Informazioni di base sulla tabella",
     "config.jade.plugin_extendedcrafting.compressor": "Informazioni su Quantum Compressor",

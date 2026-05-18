@@ -1,0 +1,22 @@
+{
+    "modmenu.descriptionTranslation.no-more-popups": "Removes in-game pop-ups (New Recipe Unlocked and more)",
+    "option.no_more_popups.config.done": "Done",
+    "option.no_more_popups.config.general": "General",
+    "option.no_more_popups.config.general.advancements.messages": "Disable advancements messages",
+    "option.no_more_popups.config.general.advancements.toasts": "Disable advancements toasts",
+    "option.no_more_popups.config.general.experimental_warning": "Disable experimental warning",
+    "option.no_more_popups.config.general.multiplayer_warning": "Disable multiplayer warning",
+    "option.no_more_popups.config.general.recipes_toasts": "Disable recipe toasts",
+    "option.no_more_popups.config.general.resource_pack_warnings": "Disable resource pack warnings",
+    "option.no_more_popups.config.general.system_toasts": "Disable system toasts",
+    "option.no_more_popups.config.general.tutorials": "Disable tutorial toasts",
+    "option.no_more_popups.config.modded": "Modded",
+    "option.no_more_popups.config.modded.chunks_fade_in": "Disable Chunks Fade In message",
+    "option.no_more_popups.config.modded.fastquit": "Disable FastQuit toasts",
+    "option.no_more_popups.config.modded.frozenlib": "Disable FrozenLib (WilderWild) toasts",
+    "option.no_more_popups.config.modded.nether_weather": "Disable Nether Weather message",
+    "option.no_more_popups.config.modded.terralith": "Disable Terralith message",
+    "option.no_more_popups.config.no": "No",
+    "option.no_more_popups.config.title": "No More Pop-ups Options",
+    "option.no_more_popups.config.yes": "Yes"
+}

@@ -1,0 +1,13 @@
+{
+    "libjf-web-v1.jfconfig.enableFileHost": "Abilita l'hosting dei file",
+    "libjf-web-v1.jfconfig.enableFileHost.tooltip": "È necessario che i file presenti in `\/config\/wwwroot` siano ospitati come risorse statiche?",
+    "libjf-web-v1.jfconfig.maxConnections": "Massimo numero di connessioni",
+    "libjf-web-v1.jfconfig.maxConnections.tooltip": "Il numero massimo di connessioni simultanee consentite a questo server.",
+    "libjf-web-v1.jfconfig.port": "Porto",
+    "libjf-web-v1.jfconfig.port.tooltip": "La porta su cui ospitare i contenuti: 0 per scegliere una porta casuale o -1 per riutilizzare la porta predefinita utilizzata dai server di Minecraft (richiede il riavvio).",
+    "libjf-web-v1.jfconfig.portOverride": "Sovrascrittura del port",
+    "libjf-web-v1.jfconfig.portOverride.tooltip": "La porta da utilizzare per la comunicazione con i client (per i proxy inversi, -1 per disabilitare)",
+    "libjf-web-v1.jfconfig.serverIp": "Indirizzo IP del server",
+    "libjf-web-v1.jfconfig.serverIp.tooltip": "L'indirizzo IP pubblico o il nome host da utilizzare per comunicare con i client.",
+    "libjf-web-v1.jfconfig.title": "LibJF Web v0"
+}

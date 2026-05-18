@@ -1,0 +1,7 @@
+{
+    "tinymultiblocklib.configuration.disable_multiblock_previews": "Disable Multiblock Previews",
+    "tinymultiblocklib.configuration.disable_multiblock_previews.tooltip": "Disables ghost previews when trying to place a multiblock",
+    "tinymultiblocklib.configuration.section.tinymultiblocklib.client.toml": "TMBL Client Config",
+    "tinymultiblocklib.configuration.section.tinymultiblocklib.client.toml.title": "TMBL Client Config",
+    "tinymultiblocklib.configuration.title": "Tiny Multiblock Lib"
+}

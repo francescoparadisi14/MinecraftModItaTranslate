@@ -1,0 +1,16 @@
+{
+    "alarm.confluence_magic_lib.this_is_free_mod": "Confluence: Otherworld (edizione Java) è un mod gratuito; pertanto, vi preghiamo di non distribuirlo. Se l'avete acquistato, vi chiediamo di farlo il prima possibile.",
+    "error.confluence.null": "Trova l'eccezione NullPointerException! Per favore, invia il log a Confluence: Otherworld per ricevere assistenza!",
+    "jei.tooltip.environment.biome": "Richiede qualsiasi ambiente biologico:",
+    "jei.tooltip.environment.block": "Richiede la presenza di un blocco nelle immediate vicinanze:",
+    "jei.tooltip.environment.block.blocks": "Blocchi:",
+    "jei.tooltip.environment.block.fluids": "Liquidi:",
+    "jei.tooltip.environment.block.inflate": "Intervallo di ricerca: %s",
+    "jei.tooltip.environment.block.predicates": "Stati bloccati:",
+    "jei.tooltip.environment.block.predicates.property": "Proprietà: %s",
+    "jei.tooltip.environment.graveyard": "Richiede un cimitero",
+    "message.confluence.boss_discard": "%s è stato eliminato!",
+    "message.confluence.boss_leave": "%s è stato sconfitto!",
+    "message.confluence.boss_spawn": "%s è risvegliato!",
+    "tooltip.confluence.work_in_progress": "Ancora in fase di sviluppo!"
+}

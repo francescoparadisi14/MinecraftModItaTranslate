@@ -1,14 +1,24 @@
 {
     "manascore.attribute.crit_chance.name": "% Probabilità di criticità",
     "manascore.attribute.crit_multiplier.name": "Moltiplicatore critico aggiuntivo",
+    "manascore.attribute.critical_attack_chance": "Probabilità di colpire in modo critico",
+    "manascore.attribute.critical_damage_multiplier": "Moltiplicatore di danno critico",
     "manascore.attribute.flying_speed.name": "Moltiplicatore della velocità di volo",
+    "manascore.attribute.glide_speed_multiplier": "Moltiplicatore della velocità di scivolamento",
     "manascore.attribute.jump_power.name": "Potenza di salto",
+    "manascore.attribute.lava_speed_multiplier": "Lava Speed Multiplier",
     "manascore.attribute.mining_speed.name": "Moltiplicatore della velocità di estrazione",
     "manascore.attribute.sprinting_speed.name": "Moltiplicatore della velocità di corsa",
     "manascore.attribute.sweep_chance.name": "Opportunità unica",
+    "manascore.attribute.swim_speed_multiplier": "Moltiplicatore della velocità di nuoto",
     "manascore.category.test": "Categoria di test per le impostazioni di ManasCore",
     "manascore.keybinding.skill": "Verifica le abilità relative all'assegnazione dei tasti, sia per l'attivazione che per l'annullamento.",
     "manascore.keybinding.skill_toggle": "Attiva\/Disattiva la funzione di assegnazione delle combinazioni di tasti",
     "manascore.keybinding.test": "Test delle impostazioni di tasti di scelta rapida (versione finale)",
-    "manascore.keybinding.test_press": "Verifica le impostazioni dei tasti di scelta rapida (Spunta)"
+    "manascore.keybinding.test_press": "Verifica le impostazioni dei tasti di scelta rapida (Spunta)",
+    "manascore.race.difficulty.easy": "Facile",
+    "manascore.race.difficulty.extreme": "Estremo",
+    "manascore.race.difficulty.hard": "Difficile",
+    "manascore.race.difficulty.intermediate": "Intermedio",
+    "manascore.skill.learn_skill": "L'azienda %s è stata acquisita."
 }

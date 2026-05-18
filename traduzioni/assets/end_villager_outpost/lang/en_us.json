@@ -1,1 +1,12 @@
-[]
+{
+    "block.end_villager_outpost.example_block": "Example Block",
+    "end_villager_outpost.configuration.items": "Item List",
+    "end_villager_outpost.configuration.logDirtBlock": "Log Dirt Block",
+    "end_villager_outpost.configuration.magicNumber": "Magic Number",
+    "end_villager_outpost.configuration.magicNumberIntroduction": "Magic Number Text",
+    "end_villager_outpost.configuration.section.end_villager_outpost.common.toml": "End Villager Outpost Configs",
+    "end_villager_outpost.configuration.section.end_villager_outpost.common.toml.title": "End Villager Outpost Configs",
+    "end_villager_outpost.configuration.title": "End Villager Outpost Configs",
+    "item.end_villager_outpost.example_item": "Example Item",
+    "itemGroup.end_villager_outpost": "Example Mod Tab"
+}

@@ -1,0 +1,11 @@
+{
+    "config.jade.plugin_tooltiers.tier": "Livello di strumento",
+    "tooltiers.configuration.Display Missing Warning": "Mostra avviso di assenza",
+    "tooltiers.configuration.Equal Tier": "Stessa categoria",
+    "tooltiers.configuration.Force Tier": "Livello di forza",
+    "tooltiers.configuration.Lenient Matching": "Corrispondenza flessibile",
+    "tooltiers.configuration.Tool Overwrite": "Sovrascrittura degli strumenti",
+    "tooltiers.configuration.Tooltip Info": "Informazioni del tooltip",
+    "tooltip.tooltiers.missing_tier": "Non è stata assegnata alcuna categoria. Segnalare questo all'autore del pacchetto.",
+    "tooltip.tooltiers.tier": "Livello: %s"
+}

@@ -17,6 +17,7 @@
     "item.createmechanicalcompanion.incomplete_optical_sensor": "Sensore ottico incompleto",
     "item.createmechanicalcompanion.mechanical_wolf_link": "§6 Collegamento meccanico del \"Wolf Link\"",
     "item.createmechanicalcompanion.mechanical_wolf_link.duplicate_warning": "§cGià possiede un collegamento \"Mechanical Wolf\"!",
+    "item.createmechanicalcompanion.mechanical_wolf_link.spawn_cooldown": "Tempo di ricarica:",
     "item.createmechanicalcompanion.mechanical_wolf_link.tooltip": "§8Crea un §7Lupo Meccanico§r§8 per proteggere l'utente.\nÈ possibile aprire l'interfaccia del modulo facendo clic con il pulsante destro del mouse o riparandolo utilizzando una chiave inglese.\nQuando il §7Lupo Meccanico§r§8 muore, si rigenera con i moduli installati dopo un breve periodo di riposo.",
     "item.createmechanicalcompanion.mechanical_wolf_motherboard": "Scheda madre meccanica",
     "item.createmechanicalcompanion.mechanical_wolf_processor": "Processore Mechanical Wolf",

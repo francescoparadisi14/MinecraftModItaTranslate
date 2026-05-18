@@ -1,5 +1,6 @@
 {
     "block.charginggadgets.charging_station": "Stazione di ricarica",
+    "item.charginggadgets.charging_station": "Stazione di ricarica",
     "itemGroup.charginggadgets": "Gadget per la ricarica",
     "screen.charginggadgets.burn_time": "Tempo rimanente: %ss",
     "screen.charginggadgets.energy": "Energia: %s\/%s (Valore energetico)",

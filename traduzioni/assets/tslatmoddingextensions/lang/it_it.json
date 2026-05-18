@@ -1,0 +1,21 @@
+{
+    "command.missing.argument": "Argomento previsto '%1$s' mancante",
+    "command.tme.enum.invalid": "Valore enum non valido: %1$s, deve essere uno tra %2$s",
+    "command.tme.particle.clear.success.multiple": "Rimosso i detriti creati dai %1$ giocatori.",
+    "command.tme.particle.clear.success.single": "Rimosse le particelle di %1$s",
+    "command.tme.particle.clear.success.specific.multiple": "Rimosso il %2$s di particelle da %1$s giocatori",
+    "command.tme.particle.clear.success.specific.single": "Rimossi le particelle di %1$s da %2$s",
+    "command.tme.particle.desc": "\/tme: particella - Attiva una o più particelle utilizzando il sistema di particelle di TME.",
+    "command.tme.particle.invalidProperties": "Proprietà non valide per la particella: '%1$s'",
+    "command.tme.particle.properties": "Caratteristiche:",
+    "command.tme.particle.replace.all.success": "Sostituite tutti i termini \"%1$s\" con \"%2$s\" per tutti i giocatori in \"%3$s\".",
+    "command.tme.particle.replace.all.success.player": "Sostituite tutti i termini \"%1$s\" con \"%2$s\" per \"%3$s\".",
+    "command.tme.particle.replace.all.success.players": "Sostituite tutti i termini \"%1$s\" con \"%2$s\" per i giocatori \"%3$s\".",
+    "command.tme.particle.replace.success": "Sostituite fino al %1$s %2$s particelle con %3$s per tutti i giocatori in %4$s",
+    "command.tme.particle.replace.success.player": "Sostituite fino al %1$s %2$s particelle con %3$s per %4$s",
+    "command.tme.particle.replace.success.players": "Sostituite fino al %1$s %2$s particelle con %3$s per i giocatori %4$s",
+    "command.tme.particle.success": "Inviare i seguenti dati a tutti i giocatori in %3$: %1$s %2$s",
+    "command.tme.particle.success.player": "Inviato(a) %1$s %2$s particelle a %3$s",
+    "command.tme.particle.success.players": "Inviate %1$s %2$s particelle a %3$s giocatori.",
+    "command.tme.prefix.particle": "Particella"
+}

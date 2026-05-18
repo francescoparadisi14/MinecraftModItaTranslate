@@ -193,6 +193,8 @@
     "item.phantasm.sour_sludge_spawn_egg": "Sour Sludge Spawn Egg",
     "itemgroup.phantasm": "Phantasm",
     "jukebox_song.phantasm.abruption": "Dylanvhs - Abruption",
+    "sound.phantasm.entity.behemoth.ambient": "Behemoth snores",
+    "sound.phantasm.entity.behemoth.dying": "Behemoth dies",
     "sounds.phantasm.music_disc_abruption": "Abruption playing",
     "tag.item.phantasm.crystal_flowers": "Crystal Flowers",
     "tag.item.phantasm.has_xp_boost": "Experience Boosted",

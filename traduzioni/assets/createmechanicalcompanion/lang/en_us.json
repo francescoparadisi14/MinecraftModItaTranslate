@@ -17,6 +17,7 @@
     "item.createmechanicalcompanion.incomplete_optical_sensor": "Incomplete Optical Sensor",
     "item.createmechanicalcompanion.mechanical_wolf_link": "§6Mechanical Wolf Link",
     "item.createmechanicalcompanion.mechanical_wolf_link.duplicate_warning": "§cYou already have a Mechanical Wolf Link equipped!",
+    "item.createmechanicalcompanion.mechanical_wolf_link.spawn_cooldown": "Spawn cooldown:",
     "item.createmechanicalcompanion.mechanical_wolf_link.tooltip": "§8Spawns a §7Mechanical Wolf§r§8 to protect the wearer.\nYou can open the module interface by right-clicking it or heal it by using a wrench.\nWhen the §7Mechanical Wolf§r§8 dies, it will respawn with the modules equipped after a short cooldown.",
     "item.createmechanicalcompanion.mechanical_wolf_motherboard": "Mechanical Wolf Motherboard",
     "item.createmechanicalcompanion.mechanical_wolf_processor": "Mechanical Wolf Processor",

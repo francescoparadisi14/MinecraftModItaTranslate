@@ -4,6 +4,7 @@
     "debug.cavedust.reload": "(Cave Dust) Reloaded config",
     "debug.cavedust.toggle.false": "(Cave Dust) Disabled particles",
     "debug.cavedust.toggle.true": "(Cave Dust) Enabled particles",
+    "key.category.cavedust.spook": "Cave Dust",
     "key.cavedust.reload": "Reload Config",
     "key.cavedust.toggle": "Toggle Particles",
     "menu.cavedust.enhanceddetection.false": "Enhanced detection: Disabled",
@@ -29,10 +30,11 @@
     "menu.cavedust.superflatstatus.tooltip": "Should particles spawn on superflat worlds?",
     "menu.cavedust.superflatstatus.true": "Superflat particles: Enabled",
     "menu.cavedust.title": "Cave Dust",
+    "menu.cavedust.title.advanced": "Cave Dust Advanced Options",
     "menu.cavedust.upperlimit": "Upper limit height: %s",
     "menu.cavedust.upperlimit.tooltip": "The height where particles will fade out and stop spawning (uses player y).",
     "menu.cavedust.velocityrandomness": "Velocity randomness: %s",
     "menu.cavedust.velocityrandomness.tooltip": "The randomness of the velocity of the particles.",
-    "menu.cavedust.width": "Width bounds: %s",
-    "menu.cavedust.width.tooltip": "Maximum width to spawn particle."
+    "menu.cavedust.width": "Radius: %s",
+    "menu.cavedust.width.tooltip": "Radius of sphere to spawn particles."
 }

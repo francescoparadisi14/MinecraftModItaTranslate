@@ -1,6 +1,8 @@
 {
     "advancements.bonesmith.descr": "Discover A Soul Skeleton",
     "advancements.bonesmith.title": "Soul Grabbing",
+    "advancements.nether_graveyard.descr": "Kill one of every Nether Skeleton",
+    "advancements.nether_graveyard.title": "Nether Graveyard",
     "block.netherskeletons.skelly_piglin_head": "Skeletal Piglin Head",
     "entity.netherskeletons.basalt_skeleton": "Basalt Skeleton",
     "entity.netherskeletons.charred_skeleton": "Charred Skeleton",

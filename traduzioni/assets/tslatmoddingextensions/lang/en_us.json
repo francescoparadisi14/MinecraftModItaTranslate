@@ -1,0 +1,21 @@
+{
+    "command.missing.argument": "Missing expected argument '%1$s'",
+    "command.tme.enum.invalid": "Invalid enum value %1$2, must be one of %2$s",
+    "command.tme.particle.clear.success.multiple": "Cleared the particles of %1$s players",
+    "command.tme.particle.clear.success.single": "Cleared %1$s's particles",
+    "command.tme.particle.clear.success.specific.multiple": "Cleared the %2$s particles of %1$s players",
+    "command.tme.particle.clear.success.specific.single": "Cleared %1$s's %2$s particles",
+    "command.tme.particle.desc": "\/tme particle - Summon particle(s) using TME's particle system",
+    "command.tme.particle.invalidProperties": "Invalid properties for particle: '%1$s'",
+    "command.tme.particle.properties": "Properties:",
+    "command.tme.particle.replace.all.success": "Replaced all %1$s particle(s) with %2$s for all players in %3$s",
+    "command.tme.particle.replace.all.success.player": "Replaced all %1$s particle(s) with %2$s for %3$s",
+    "command.tme.particle.replace.all.success.players": "Replaced all %1$s particle(s) with %2$s for %3$s players",
+    "command.tme.particle.replace.success": "Replaced up to %1$s %2$s particle(s) with %3$s for all players in %4$s",
+    "command.tme.particle.replace.success.player": "Replaced up to %1$s %2$s particle(s) with %3$s for %4$s",
+    "command.tme.particle.replace.success.players": "Replaced up to %1$s %2$s particle(s) with %3$s for %4$s players",
+    "command.tme.particle.success": "Sent %1$s %2$s particle(s) to all players in %3$s",
+    "command.tme.particle.success.player": "Sent %1$s %2$s particle(s) to %3$s",
+    "command.tme.particle.success.players": "Sent %1$s %2$s particle(s) to %3$s players",
+    "command.tme.prefix.particle": "Particle"
+}

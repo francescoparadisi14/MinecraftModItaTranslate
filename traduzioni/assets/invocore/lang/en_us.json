@@ -1,0 +1,5 @@
+{
+    "block.invocore.example_block": "Example Block",
+    "item.invocore.example_item": "Example Item",
+    "itemGroup.invocore": "Example Mod Tab"
+}

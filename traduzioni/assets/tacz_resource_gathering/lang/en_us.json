@@ -1,0 +1,8 @@
+{
+    "block.tacz_resource_gathering.magnesium_ore": "Magnesium Ore",
+    "block.tacz_resource_gathering.quartz_ore": "Quartz Ore",
+    "block.tacz_resource_gathering.silicon_carbide_ore": "Silicon Carbide Ore",
+    "block.tacz_resource_gathering.sulfur_ore": "Sulfur Ore",
+    "item.tacz_resource_gathering.silicon_carbide": "Silicon Carbide",
+    "item.tacz_resource_gathering.sulfur_dust": "Sulfur Dust"
+}

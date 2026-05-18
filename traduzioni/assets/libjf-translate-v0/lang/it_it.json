@@ -1,0 +1,12 @@
+{
+    "libjf-translate-v1.jfconfig.libreTranslateHost": "LibreTranslate Host",
+    "libjf-translate-v1.jfconfig.libreTranslateHost.tooltip": "Il software di traduzione che LibreTranslate dovrebbe utilizzare, se questa opzione viene selezionata.",
+    "libjf-translate-v1.jfconfig.throttleMillis": "Regolatore di flusso",
+    "libjf-translate-v1.jfconfig.throttleMillis.tooltip": "Il numero di millisecondi da attendere tra le richieste di traduzione.\nQuesto serve a prevenire l'abuso del servizio di traduzione.",
+    "libjf-translate-v1.jfconfig.title": "LibJF Traduzione v1",
+    "libjf-translate-v1.jfconfig.translationService": "Servizio di traduzione",
+    "libjf-translate-v1.jfconfig.translationService.Google": "Google",
+    "libjf-translate-v1.jfconfig.translationService.LibreTranslate": "LibreTranslate",
+    "libjf-translate-v1.jfconfig.translationService.Noop": "Nessun dato",
+    "libjf-translate-v1.jfconfig.translationService.tooltip": "Il servizio da utilizzare per la traduzione.\nAltri moduli potrebbero accedere direttamente ai servizi, ma questo dovrebbe essere utilizzato solo in caso di necessità."
+}

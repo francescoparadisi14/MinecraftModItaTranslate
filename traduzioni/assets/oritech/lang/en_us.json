@@ -59,25 +59,10 @@
     "block.oritech.accelerator_sensor": "Particle Accelerator Sensor",
     "block.oritech.adamant_block": "Block of Adamant",
     "block.oritech.addon_indicator_block": "Addon Indicator",
-    "block.oritech.advanced_augment_station": [
-        {
-            "text": "Quantum Research Station",
-            "color": "#40f5ef"
-        }
-    ],
-    "block.oritech.arcane_augment_station": [
-        {
-            "text": "Arcane Research Station",
-            "color": "#cc66ff"
-        }
-    ],
+    "block.oritech.advanced_augment_station": "Quantum Research Station",
+    "block.oritech.arcane_augment_station": "Arcane Research Station",
     "block.oritech.assembler_block": "Assembler",
-    "block.oritech.atomic_forge_block": [
-        {
-            "text": "Atomic Forge",
-            "color": "#e30c82"
-        }
-    ],
+    "block.oritech.atomic_forge_block": "Atomic Forge",
     "block.oritech.augment_application_block": "Cybernetic Augmentation Center",
     "block.oritech.banana_block": "Banana Block",
     "block.oritech.basic_generator_block": "Basic Generator",
@@ -85,12 +70,7 @@
     "block.oritech.bio_generator_block": "Bio Generator",
     "block.oritech.biomass_block": "Block of Biomass",
     "block.oritech.biosteel_block": "Block of Biosteel",
-    "block.oritech.black_hole_block": [
-        {
-            "text": "Black Hole",
-            "color": "#cc66ff"
-        }
-    ],
+    "block.oritech.black_hole_block": "Black Hole",
     "block.oritech.block_destroyer_head": "Block Destroyer Head",
     "block.oritech.block_fertilizer_head": "Block Fertilizer",
     "block.oritech.block_placer_head": "Block Placer Head",
@@ -115,18 +95,8 @@
     "block.oritech.drone_port_block": "Drone Port",
     "block.oritech.duratium_block": "Block of Duratium",
     "block.oritech.electrum_block": "Block of Electrum",
-    "block.oritech.enchanter_block": [
-        {
-            "text": "Stabilized Enchanter",
-            "color": "#cc66ff"
-        }
-    ],
-    "block.oritech.enchantment_catalyst_block": [
-        {
-            "text": "Arcane Catalyst",
-            "color": "#cc66ff"
-        }
-    ],
+    "block.oritech.enchanter_block": "Stabilized Enchanter",
+    "block.oritech.enchantment_catalyst_block": "Arcane Catalyst",
     "block.oritech.endstone_platinum_ore": "Endstone Platinum Ore",
     "block.oritech.energite_block": "Block of Energite",
     "block.oritech.energy_pipe": "Energy Pipe",
@@ -169,12 +139,7 @@
     "block.oritech.machine_acceptor_addon": "Acceptor Addon",
     "block.oritech.machine_burst_addon": "Burst Addon",
     "block.oritech.machine_capacitor_addon": "Capacitor Addon",
-    "block.oritech.machine_combi_addon": [
-        {
-            "text": "Heart of the Machine (Addon)",
-            "color": "#cc66ff"
-        }
-    ],
+    "block.oritech.machine_combi_addon": "Heart of the Machine (Addon)",
     "block.oritech.machine_core_1": "Primitive Machine Core",
     "block.oritech.machine_core_2": "Basic Machine Core",
     "block.oritech.machine_core_3": "Improved Machine Core",
@@ -226,12 +191,7 @@
     "block.oritech.raw_uranium_block": "Block of Raw Uranium",
     "block.oritech.reactor_absorber_port": "Reactor Coolant Absorber Port",
     "block.oritech.reactor_condenser": "Reactor Heat Absorber",
-    "block.oritech.reactor_controller": [
-        {
-            "text": "Nuclear Reactor Control Panel",
-            "color": "#D22B2B"
-        }
-    ],
+    "block.oritech.reactor_controller": "Nuclear Reactor Controller",
     "block.oritech.reactor_double_rod": "Reactor Double Rod",
     "block.oritech.reactor_energy_port": "Reactor Energy Port",
     "block.oritech.reactor_fuel_port": "Reactor Fuel Port",
@@ -261,12 +221,7 @@
     "block.oritech.small_storage_block": "Portable Energy Storage",
     "block.oritech.small_tank_block": "Portable Tank",
     "block.oritech.spawner_cage_block": "Spawner Cage",
-    "block.oritech.spawner_controller_block": [
-        {
-            "text": "Spawner Controller",
-            "color": "#cc66ff"
-        }
-    ],
+    "block.oritech.spawner_controller_block": "Spawner Controller",
     "block.oritech.steam_boiler_addon": "Steam Boiler Addon",
     "block.oritech.steam_engine_block": "Steam Engine",
     "block.oritech.steel_block": "Block of Steel",
@@ -290,6 +245,7 @@
     "block.oritech.still_sulfuric_acid_block": "Sulfuric Acid",
     "block.oritech.superconductor": "Superconductor",
     "block.oritech.superconductor_duct_block": "Superconductor Duct",
+    "block.oritech.tainted_refinery_block": "Tainted Refinery",
     "block.oritech.tech_button": "Industrial Button",
     "block.oritech.tech_door": "Industrial Door",
     "block.oritech.tech_door_hinge": "Industrial Door",
@@ -323,9 +279,17 @@
     "emi.category.oritech.reactor": "Reactor Fuelling",
     "emi.category.oritech.refinery": "Refining",
     "emi.category.oritech.steam_engine": "Steam Usage",
+    "emi.category.oritech.tainted_refinery_bonuses": "Tainted Refinery Bonuses",
+    "emi.category.oritech.tainted_refinery_creation": "Tainted Refinery Creation",
+    "emi.description.oritech.tainted_bonus.arcane": "Increases energy efficiency",
+    "emi.description.oritech.tainted_bonus.sculk": "Increases output multiplier",
     "emi.title.oritech.collisionspeed": "Min. collision energy: %sJ",
     "emi.title.oritech.cookingtime": "%ds (%d ticks)",
     "emi.title.oritech.laser_interaction": "Enderic Laser Block Destruction",
+    "emi.title.oritech.tainted_bonus.arcane": "Arcane Blocks (Energy Efficiency)",
+    "emi.title.oritech.tainted_bonus.sculk": "Sculk Blocks (Yield Bonus)",
+    "emi.title.oritech.tainted_creation_hint": "Explode a Refinery near a",
+    "emi.title.oritech.tainted_creation_hint2": "soul-charged Catalyst",
     "fluid.oritech.still_biofuel": "Biofuel",
     "fluid.oritech.still_diesel": "Diesel",
     "fluid.oritech.still_fuel": "Turbofuel",
@@ -415,31 +379,11 @@
     "item.oritech.plutonium_dust": "Plutonium Dust",
     "item.oritech.plutonium_pellet": "Plutonium Pellet",
     "item.oritech.polymer_resin": "Polymer Resin",
-    "item.oritech.portable_laser": [
-        {
-            "text": "Enderic Railgun",
-            "color": "#ffd505"
-        }
-    ],
+    "item.oritech.portable_laser": "Enderic Railgun",
     "item.oritech.processing_unit": "Processing Unit",
-    "item.oritech.prometheum_ingot": [
-        {
-            "text": "Prometheum",
-            "color": "#ffd505"
-        }
-    ],
-    "item.oritech.promethium_axe": [
-        {
-            "text": "Prometheum Battleaxe",
-            "color": "#ffd505"
-        }
-    ],
-    "item.oritech.promethium_pickaxe": [
-        {
-            "text": "Prometheum Pickaxe",
-            "color": "#ffd505"
-        }
-    ],
+    "item.oritech.prometheum_ingot": "Prometheum",
+    "item.oritech.promethium_axe": "Prometheum Battleaxe",
+    "item.oritech.promethium_pickaxe": "Prometheum Pickaxe",
     "item.oritech.quartz_dust": "Quartz Dust",
     "item.oritech.raw_biopolymer": "Raw Biopolymer",
     "item.oritech.raw_nickel": "Raw Nickel",
@@ -503,6 +447,8 @@
     "itemgroup.oritech.machines": "Oritech Machines",
     "key.oritech.augment_screen": "Implant Controls [Hold]",
     "key.oritech.hotkey_category": "Oritech",
+    "label.oritech.energy_storage.limit": "Output Limit",
+    "label.oritech.tainted_refinery.output_slot": "Slot: %s",
     "message.oritech.catalyst.cost": "Cost: %d",
     "message.oritech.deep_drill.ore_placement": "Machine must be placed on ore nodes",
     "message.oritech.drone.invalid_distance": "Target must be at least 50 blocks away.",
@@ -540,6 +486,161 @@
     "message.oritech.tool_mode.area_effect": "Area Effect",
     "message.oritech.tool_mode.silk_touch": "Silk Touch",
     "oracle_index.title.oritech": "Oritech",
+    "oritech.configuration.absorberRate": "Absorber Rate",
+    "oritech.configuration.accelerationRFCost": "Base Particle RF Acceleration Cost",
+    "oritech.configuration.acceleratorMotorRFCapacity": "Accelerator Motor RF Capacity",
+    "oritech.configuration.additiveAddons": "Additive Addons",
+    "oritech.configuration.addonConfig": "Addon Config",
+    "oritech.configuration.addonMultipliers": "Addon Multipliers",
+    "oritech.configuration.addonShrinkerRF": "Addon Splicer RF Storage",
+    "oritech.configuration.animationSpeedMultiplier": "Animation Speed Multiplier",
+    "oritech.configuration.arcane": "Arcane",
+    "oritech.configuration.assemblerData": "Assembler Config",
+    "oritech.configuration.atomicForgeData": "Atomic Forge Config",
+    "oritech.configuration.augmenterMaxEnergy": "Cybernetical Station Max Energy",
+    "oritech.configuration.augments": "Player Augmentation",
+    "oritech.configuration.basicDrill": "Basic Drill",
+    "oritech.configuration.basicGeneratorData": "Basic Generator Config",
+    "oritech.configuration.basicJetpack": "Basic Jetpack",
+    "oritech.configuration.bendFactor": "Particle Curve Requirement Factor",
+    "oritech.configuration.bioGeneratorData": "Bio Generator Config",
+    "oritech.configuration.blackHole": "Black Hole",
+    "oritech.configuration.blackHoleRequiredSpeed": "Minimum Black Hole Collision Energy",
+    "oritech.configuration.blackHoleTachyonEnergy": "Energy of Tachyons from Black Holes",
+    "oritech.configuration.blockBreakEnergyBase": "Block Break Energy Base",
+    "oritech.configuration.blockBreakHardnessExponentialFactor": "Block breaking hardness exponential scaling factor",
+    "oritech.configuration.blockBreakSpeed": "Block Break Speed",
+    "oritech.configuration.boringNukes": "Boring Nukes",
+    "oritech.configuration.burstAddonSpeedMultiplier": "Burst Addon Speed Multiplier",
+    "oritech.configuration.burstAddonThrottleMultiplier": "Burst Addon Throttle Multiplier",
+    "oritech.configuration.burstAddonTicks": "Burst Time Ticks per Addon",
+    "oritech.configuration.catalystBaseSouls": "Catalyst Base Soul Capacity",
+    "oritech.configuration.catalystCostMultiplier": "Catalyst Soul Cost Multiplier",
+    "oritech.configuration.catalystHyperExpFactor": "Hyper Enchanting Exp Factor",
+    "oritech.configuration.catalystHyperMultiplier": "Additional Catalyst Hyper Enchanting Cost Multiplier",
+    "oritech.configuration.catalystRFPerSoul": "RF\/t per catalyst soul capacity level increase",
+    "oritech.configuration.centrifugeData": "Centrifuge Config",
+    "oritech.configuration.chainSaw": "Chain Saw",
+    "oritech.configuration.chainsawTreeCutting": "Enable Tree Cutting for Chainsaw",
+    "oritech.configuration.chamberAddonEfficiency": "Chamber Addon Efficiency",
+    "oritech.configuration.chargeSpeed": "Charge Speed",
+    "oritech.configuration.charger": "Charger",
+    "oritech.configuration.clientSettings": "Client only",
+    "oritech.configuration.collectorEnergyStorage": "Tachyon Collector Energy Capacity",
+    "oritech.configuration.coolerData": "Cooler Config",
+    "oritech.configuration.damageBase": "Base Damage",
+    "oritech.configuration.damageTickBase": "Damage Per Tick Base",
+    "oritech.configuration.deepDrillConfig": "Deep Drill Config",
+    "oritech.configuration.destroyerConfig": "Destroyer Config",
+    "oritech.configuration.easyFindFeatures": "Easily findable features",
+    "oritech.configuration.efficiencyAddonEfficiency": "Efficiency Addon Efficiency",
+    "oritech.configuration.electricMace": "Electric Mace",
+    "oritech.configuration.elytraJetpack": "Elytra Jetpack",
+    "oritech.configuration.enableHelpButton": "Enable help button in machine UIs",
+    "oritech.configuration.enchanterCostMultiplier": "Enchanter Soul Cost Multiplier",
+    "oritech.configuration.endPortalRequiredSpeed": "Minimum End Portal Collision Energy",
+    "oritech.configuration.energyCapacity": "Energy Capacity",
+    "oritech.configuration.energyPerBoom": "Energy per Explosion",
+    "oritech.configuration.energyPerStep": "Energy Per Step",
+    "oritech.configuration.energyPerTick": "Energy Per Tick",
+    "oritech.configuration.energyPipeTransferRate": "Energy Pipe Transfer Rate",
+    "oritech.configuration.energyUsage": "Energy Usage",
+    "oritech.configuration.equipment": "Equipment",
+    "oritech.configuration.exoChestplate": "Exo Chestplate",
+    "oritech.configuration.exoElytraJetpack": "Exo Elytra Jetpack",
+    "oritech.configuration.exoJetpack": "Exo Jetpack",
+    "oritech.configuration.explosionStrength": "Explosion Strength",
+    "oritech.configuration.fertilizerConfig": "Fertilizer Config",
+    "oritech.configuration.fluidPipeExtractAmountBuckets": "Fluid Pipe Extract Amount Buckets",
+    "oritech.configuration.fluidPipeExtractIntervalDuration": "Fluid Pipe Extract Interval Duration",
+    "oritech.configuration.fluidPipeInternalStorageBuckets": "Fluid Pipe Internal Storage Buckets",
+    "oritech.configuration.foundryData": "Foundry Config",
+    "oritech.configuration.fragmentForgeData": "Fragment Forge Config",
+    "oritech.configuration.fuelCapacity": "Fuel Capacity",
+    "oritech.configuration.fuelGeneratorData": "Fuel Generator Config",
+    "oritech.configuration.fuelUsage": "Fuel Usage",
+    "oritech.configuration.furnaceData": "Furnace Config",
+    "oritech.configuration.generateOresFabricOnly": "[Fabric Only] Generate Ores",
+    "oritech.configuration.generators": "Generators",
+    "oritech.configuration.idleWaitTicks": "Black Hole Idle Wait Ticks",
+    "oritech.configuration.itemPipeIntervalDuration": "Item Pipe Interval Duration",
+    "oritech.configuration.itemPipeTransferAmount": "Item Pipe Transfer Amount",
+    "oritech.configuration.largeEnergyStorage": "Large Energy Storage",
+    "oritech.configuration.laserArmConfig": "Laser Arm Config",
+    "oritech.configuration.lavaGeneratorData": "Lava Generator Config",
+    "oritech.configuration.layeredExtenders": "Layered Extenders",
+    "oritech.configuration.lightningCostMultiplier": "Electric Mace Lightning Attack RF Usage Factor",
+    "oritech.configuration.liquidPerBlockUsage": "Liquid Per Block Usage",
+    "oritech.configuration.logistics": "Logistics",
+    "oritech.configuration.machineFrameMaxLength": "Machine Frame Max Length",
+    "oritech.configuration.machineSettings": "Machine Settings",
+    "oritech.configuration.machineVolumeMultiplier": "Machine Sound Volume",
+    "oritech.configuration.maxEnergyExtraction": "Max Energy Extraction",
+    "oritech.configuration.maxEnergyInsertion": "Max Energy Insertion",
+    "oritech.configuration.maxGateDist": "Maximum Particle Gate Distance",
+    "oritech.configuration.maxHeat": "Maximum Heat",
+    "oritech.configuration.maxRange": "Maximum Range",
+    "oritech.configuration.maxSize": "Maximum Size",
+    "oritech.configuration.maxUnstableTicks": "Maximum Overheated Ticks",
+    "oritech.configuration.maxZiplineSpeed": "Maximum Zipline Speed",
+    "oritech.configuration.minRange": "Minimum Range",
+    "oritech.configuration.moveDuration": "Move Duration",
+    "oritech.configuration.moveEnergyUsage": "Move Energy Usage",
+    "oritech.configuration.netherPortalRequiredSpeed": "Minimum Nether Portal Collision Energy",
+    "oritech.configuration.overchargedCrystalChargeRate": "Overcharged Crystal Energy Generation Rate",
+    "oritech.configuration.particleAccelerator": "Particle Accelerator",
+    "oritech.configuration.placerConfig": "Placer Config",
+    "oritech.configuration.poleConfig": "Power Pole",
+    "oritech.configuration.portableLaserConfig": "Enderic Railgun",
+    "oritech.configuration.portableTankCapacityBuckets": "Portable Tank Capacity Buckets",
+    "oritech.configuration.processingMachines": "Processing Machines",
+    "oritech.configuration.pullRange": "Black Hole Pull Range",
+    "oritech.configuration.pullTimeMultiplier": "Black Hole Pull Time Multiplier",
+    "oritech.configuration.pulverizerData": "Pulverizer Config",
+    "oritech.configuration.range": "Range",
+    "oritech.configuration.reactor": "Nuclear Reactor",
+    "oritech.configuration.reactorMaxEnergyOutput": "Maximum Energy Output in RF\/t per Energy Port",
+    "oritech.configuration.reactorMaxEnergyStored": "Maximum Energy Stored",
+    "oritech.configuration.refineryData": "Refinery Config",
+    "oritech.configuration.rfPerPulse": "RF Per Pulse",
+    "oritech.configuration.rfToSteamRatio": "RF to Steam Ratio",
+    "oritech.configuration.safeMode": "Safe Mode",
+    "oritech.configuration.safeModeCooldown": "Safe Mode Cooldown",
+    "oritech.configuration.showMachinePreview": "Render Multiblock Placement Preview",
+    "oritech.configuration.smallEnergyStorage": "Small Energy Storage",
+    "oritech.configuration.solarEnergyPerTick": "Solar Energy Per Tick",
+    "oritech.configuration.solarGeneratorData": "Solar Generator Config",
+    "oritech.configuration.spawnerCostMultiplier": "Spawner Soul Cost Multiplier",
+    "oritech.configuration.speed": "Flight Speed Multiplier",
+    "oritech.configuration.speedAddonEfficiency": "Speed Addon Efficiency",
+    "oritech.configuration.speedAddonSpeed": "Speed Addon Speed",
+    "oritech.configuration.speedMultiplier": "Furnace Speed Multiplier",
+    "oritech.configuration.startup": "Startup",
+    "oritech.configuration.steamBoilerCapacityBuckets": "Steam Boiler Capacity Buckets",
+    "oritech.configuration.steamEngineData": "Steam Engine Config",
+    "oritech.configuration.steamId": "Steam ID",
+    "oritech.configuration.steamToRfRatio": "Steam to RF Ratio",
+    "oritech.configuration.stepsPerOre": "Steps Per Ore",
+    "oritech.configuration.stopOnEnergyFull": "Stop On Energy Full",
+    "oritech.configuration.stopOnWaterFull": "Stop On Water Full",
+    "oritech.configuration.storageBlocks": "Storage Blocks",
+    "oritech.configuration.superConductorTransferRate": "Superconductor Transfer Rate",
+    "oritech.configuration.tachyonCollisionEnergyFactor": "Particle Collision Tachyon RF Multiplier",
+    "oritech.configuration.tankSizeInBuckets": "Tank Size in Buckets",
+    "oritech.configuration.tightCableHitboxes": "Tight Cable Hitboxes",
+    "oritech.configuration.tightMachineAddonHitboxes": "Tight Machine Addon Hitboxes",
+    "oritech.configuration.tightMachineFrameHitboxes": "Tight Machine Frame Hitboxes",
+    "oritech.configuration.ultimateAddonEfficiency": "Ultimate Addon Efficiency",
+    "oritech.configuration.ultimateAddonSpeed": "Ultimate Addon Speed",
+    "oritech.configuration.unstableContainerBaseCapacity": "Unstable Container Base RF Storage Capacity",
+    "oritech.configuration.ventBaseRate": "Vent Base Rate",
+    "oritech.configuration.ventRelativeRate": "Vent Relative Rate",
+    "oritech.configuration.workDuration": "Work Duration",
+    "oritech.configuration.workEnergyUsage": "Work Energy Usage",
+    "oritech.configuration.worldGeneration": "World Generation",
+    "oritech.configuration.ziplineAcceleration": "Zipline Acceleration",
+    "oritech.configuration.ziplineAutoJump": "Enable Auto Jump at Zipline End",
+    "oritech.configuration.ziplineCameraSwitch": "Enable 3rd Person Camera while Ziplining",
     "oritech.text.augment.armor": "Hardened Plating",
     "oritech.text.augment.armor.desc": "Layers hardened alloy plates beneath the skin.",
     "oritech.text.augment.armor.desc.1": "Provides +4 armor points.",
@@ -647,6 +748,7 @@
     "oritech.text.augment_research_time": "Research Time: %s seconds",
     "oritech.text.augment_resource_cost": "Resource Cost:",
     "oritech.text.augment_toggle": "Release while hovering over an augment to toggle.",
+    "oritech.text.augment_toggle_title": "[Toggle Oritech Augment]",
     "oritech.text.energy_cost": "RF Research Cost: %s RF",
     "oritech.text.missing_requirements_title": "Missing Requirements:",
     "oritech.text.required_station": "Requires: %s",
@@ -666,6 +768,8 @@
     "rei.process.oritech:reactor": "Reactor Fuelling",
     "rei.process.oritech:refinery": "Refining",
     "rei.process.oritech:steam_engine": "Steam Usage",
+    "rei.process.oritech:tainted_refinery_bonuses": "Tainted Refinery Bonuses",
+    "rei.process.oritech:tainted_refinery_creation": "Tainted Refinery Creation",
     "rei.title.oritech.cookingtime": "%ds (%d ticks)",
     "tag.item.c.bananas": "Bananas",
     "tag.item.c.biodiesel": "Biodiesel",
@@ -1145,12 +1249,7 @@
     "title.oritech.machine_speed": "⌛ %s%%",
     "title.oritech.power_pole_connection_disabled": "Off",
     "title.oritech.power_pole_connection_enabled": "🔌: %s",
-    "title.oritech.redstone_addon": [
-        {
-            "text": "Please select a target slot",
-            "color": "dark_gray"
-        }
-    ],
+    "title.oritech.redstone_addon": "Please select a target slot",
     "title.oritech.redstone_input_control": "Control Input",
     "title.oritech.redstone_output_active": "Activity Measure",
     "title.oritech.redstone_output_power": "Power Measure",
@@ -1158,6 +1257,9 @@
     "title.oritech.redstone_output_slot": "Inventory Slot Measure",
     "title.oritech.steam_consumption": "🛞 %s su\/t",
     "title.oritech.steam_production": "🛞 %s su\/t",
+    "title.oritech.tainted_refinery.arcane_meter": "Arcane Meter",
+    "title.oritech.tainted_refinery.energy_intake": "Energy Intake",
+    "title.oritech.tainted_refinery.sculk_meter": "Sculk Meter",
     "tooltip.oritech.accelerator": "Injects particles into particle accelerator guide rings.",
     "tooltip.oritech.accelerator_motor": "Uses energy to speed up particles moving through it.",
     "tooltip.oritech.accelerator_ring": "Used to define the route of particles. Can be right-clicked to turn one end. Redstone-controllable.",
@@ -1193,32 +1295,9 @@
     "tooltip.oritech.billion_abbrev": "B",
     "tooltip.oritech.black_hole": "DON'T PLACE THIS unless you know what you're doing.",
     "tooltip.oritech.block_destroyer.addon_range": "Maximum digging depth",
-    "tooltip.oritech.capture_item_desc_1": [
-        {
-            "text": "Can capture the brain of a small, magical intelligent flying creature. The",
-            "italic": true,
-            "color": "gray"
-        }
-    ],
-    "tooltip.oritech.capture_item_desc_2": [
-        {
-            "text": "Allay",
-            "color": "#26d0ff",
-            "italic": true
-        },
-        {
-            "text": " might fit that description. Although they always try to take the item",
-            "italic": true,
-            "color": "gray"
-        }
-    ],
-    "tooltip.oritech.capture_item_desc_3": [
-        {
-            "text": "from you. Perhaps you might also find another similar entity to capture.",
-            "italic": true,
-            "color": "gray"
-        }
-    ],
+    "tooltip.oritech.capture_item_desc_1": "Can capture the brain of a small, magical intelligent flying creature. The",
+    "tooltip.oritech.capture_item_desc_2": "Allay might fit that description. Although they always try to take the item",
+    "tooltip.oritech.capture_item_desc_3": "from you. Perhaps you might also find another similar entity to capture.",
     "tooltip.oritech.catalyst": "Stores souls from entities parting nearby. Can apply enchantments from books (without limits).",
     "tooltip.oritech.catalyst_semi_stable": "Semi-Stable",
     "tooltip.oritech.catalyst_stabilized": "Stabilized",
@@ -1245,6 +1324,9 @@
     "tooltip.oritech.energy_stored": "Stored: %d RF",
     "tooltip.oritech.energy_transfer_rate": "%d RF\/t",
     "tooltip.oritech.energy_usage": "%s \/ %s RF\n%s%% Charged\n\nMaximum Usage: %s RF\/t\nMaximum Transfer: %s RF\/t",
+    "tooltip.oritech.energy_usage_base": "%s \/ %s RF\n%s%% Charged",
+    "tooltip.oritech.energy_usage_transfer": "Maximum Transfer: %s RF\/t",
+    "tooltip.oritech.energy_usage_usage": "Maximum Usage: %s RF\/t",
     "tooltip.oritech.exo_boots": "Prevents all fall damage",
     "tooltip.oritech.exo_chestplate": "Charges equipped energy items",
     "tooltip.oritech.exo_helmet": "Grants night vision",
@@ -1268,18 +1350,7 @@
     "tooltip.oritech.input_mode_fill_evenly": "Fills items evenly. New items are always\nput into the lowest matching slot.",
     "tooltip.oritech.input_mode_fill_left_to_right": "Fills the slots from left to right. Moves to the\nnext slot when the first has been filled.",
     "tooltip.oritech.input_mode_sided": "Items interactions are sided.",
-    "tooltip.oritech.intelligence_item": [
-        {
-            "text": "Gained by capturing a viable entity with the ",
-            "italic": true,
-            "color": "gray"
-        },
-        {
-            "translate": "item.oritech.dubios_container",
-            "italic": true,
-            "color": "gray"
-        }
-    ],
+    "tooltip.oritech.intelligence_item": "Gained by capturing a viable entity with the Dubious Container",
     "tooltip.oritech.item_extra_info": "Hold ctrl for more info",
     "tooltip.oritech.item_filter": "Used to filter which items can be inserted into an inventory.",
     "tooltip.oritech.item_filter.blacklist": "Currently only allows items through which \ndo NOT match the listed items",
@@ -1291,14 +1362,7 @@
     "tooltip.oritech.item_filter_ftb": "Also supports filters from the FTB Filters mod.",
     "tooltip.oritech.item_pipe.1": "Right-click to toggle extraction.",
     "tooltip.oritech.item_pipe.2": "Only extracts from the first non-empty slot.",
-    "tooltip.oritech.item_pipe.3": [
-        "Click it with a ",
-        {
-            "translate": "item.oritech.motor",
-            "color": "#ff830e"
-        },
-        " item to upgrade the pipe to extract from all slots."
-    ],
+    "tooltip.oritech.item_pipe.3": "Click it with a Motor item to upgrade the pipe to extract from all slots.",
     "tooltip.oritech.item_pipe.4": "Deposits into the closest available inventory.",
     "tooltip.oritech.jetpack_exo_elytra": "Charges equipped energy items",
     "tooltip.oritech.jetpack_fuel": "%f\/%f mB %s",
@@ -1314,7 +1378,7 @@
     "tooltip.oritech.machine.byproduct_bonus.tooltip": "Yield addon is installed. Byproducts are doubled.",
     "tooltip.oritech.machine.capacitor_added_capacity": "Added Capacity",
     "tooltip.oritech.machine.capacitor_added_throughput": "Added Throughput",
-    "tooltip.oritech.machine.quality": "Machine Quality: %d\n\nControls how many machine\naddons can be added to this block.\n\nUse better cores to increase this.\n\nCurrent quality progress: %s",
+    "tooltip.oritech.machine.quality": "Machine Quality: %d\n\nControls how many addon\nextenders can be added to this block.\n\nUse better cores to increase this.\n\nCurrent quality progress: %s",
     "tooltip.oritech.machine_capacity_desc": "Energy Capacity:",
     "tooltip.oritech.machine_core_block": "Better cores only allow more addon extenders to be connected.",
     "tooltip.oritech.machine_efficiency": "Energy Efficiency Change",
@@ -1420,6 +1484,8 @@
     "tooltip.oritech.refinery_block": "Can have up to 2 refinery tank chambers on top of it.",
     "tooltip.oritech.refinery_module": "Up to 2 of these can be placed on top of a refinery.",
     "tooltip.oritech.refinery_module_count": "Two extra chamber tank modules can be built on top to unlock the respective tanks.\nHaving no modules doubles the item and first slow output.\nHaving one module double the second tank output only. Having two modules enables all outputs.",
+    "tooltip.oritech.refinery_module_missing": "Refinery Module not installed",
+    "tooltip.oritech.rf_rate": "%s RF\/t",
     "tooltip.oritech.shrinker_action": "Result will have the following abilities:",
     "tooltip.oritech.small_plutonium_pellet": "Used as nuclear reactor fuel.",
     "tooltip.oritech.small_uranium_pellet": "Used as nuclear reactor fuel.",
@@ -1438,6 +1504,16 @@
     "tooltip.oritech.steam_production": "Amount of steam droplets produced per tick. Any excess will be lost when the storage is full.",
     "tooltip.oritech.steam_workers": "Chained steam generators will share\/use the steam and water tank of this block.",
     "tooltip.oritech.superconductor": "Cannot connect to normal energy pipes.",
+    "tooltip.oritech.tainted_refinery.arcane_boost": "Energy scaling: %s",
+    "tooltip.oritech.tainted_refinery.energy_intake": "The refinery can accept (almost) unlimited Energy while working.\nHigher inputs give diminishing returns.",
+    "tooltip.oritech.tainted_refinery.energy_intake.rate": "Current Input: %s RF\/t\nCurrent Energy Bonus: x%s\nWith Arcane Factor: x%s",
+    "tooltip.oritech.tainted_refinery.factor_blocks": "Visible blocks: %s (Must be visible within 13 blocks)",
+    "tooltip.oritech.tainted_refinery.factor_strength": "%s: %s",
+    "tooltip.oritech.tainted_refinery.factor_variants": "Variants: %s",
+    "tooltip.oritech.tainted_refinery.output_slot": "The tainted refinery operates on normal refinery recipes. However, it'll only output one of the resulting fluids.\nThe desired slot can be selected with this button.",
+    "tooltip.oritech.tainted_refinery.sculk_output": "Output multiplier: x%s",
+    "tooltip.oritech.tank_content": "%f mB %s\n\nLeft-Click with a fluid container to insert.\nRight-Click to extract.",
+    "tooltip.oritech.tank_empty": "Empty\n\nLeft-Click with a fluid container to insert.\nRight-Click to extract.",
     "tooltip.oritech.target_designator.no_target": "No target set",
     "tooltip.oritech.target_designator.set_to": "Set to: [%s]",
     "tooltip.oritech.thousand_abbrev": "K",

@@ -1,4 +1,17 @@
 {
     "option.libgui.darkmode": "Modalità scura",
-    "options.libgui.libgui_settings": "Impostazioni di LibGui"
+    "options.libgui.libgui_settings": "Impostazioni di LibGui",
+    "widget.libgui.item_slot.narration.title": "Slot disponibile: %s su %s",
+    "widget.libgui.labeled_slider.narration.title": "Cursore: da %s a %s",
+    "widget.libgui.scroll_bar.narration.title": "Barra di scorrimento",
+    "widget.libgui.slider.narration.title": "Slider: tra il %s e il %s",
+    "widget.libgui.slider.narration.usage": "Sposta l'elemento trascinandolo o utilizzando i tasti freccia.",
+    "widget.libgui.tab.narration.position": "Tabella %s su %s",
+    "widget.libgui.tab.narration.title": "Tabella per %s",
+    "widget.libgui.text_field.narration.suggestion": "Suggerimento: %s",
+    "widget.libgui.text_field.narration.title": "Campo di testo: %s",
+    "widget.libgui.toggle_button.narration.named": "Pulsante di attivazione\/disattivazione: %s (%s)",
+    "widget.libgui.toggle_button.narration.off": "Offerta",
+    "widget.libgui.toggle_button.narration.on": "Su",
+    "widget.libgui.toggle_button.narration.unnamed": "Pulsante di attivazione\/disattivazione: %s"
 }

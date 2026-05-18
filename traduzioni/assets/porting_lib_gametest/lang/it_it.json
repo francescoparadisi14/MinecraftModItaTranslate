@@ -1,0 +1,15 @@
+{
+    "area_selector.tooltip.complete_selection": "Selezione: da %s a %s",
+    "area_selector.tooltip.no_selection": "Al momento, nessuna area è stata selezionata.",
+    "area_selector.tooltip.partial_selection": "Prima posizione: %s",
+    "area_selector.use.feedback.requires_op": "Questo elemento richiede l'autorizzazione dell'operatore.",
+    "area_selector.use.feedback.reset": "Selezione completata.",
+    "area_selector.use.feedback.success_first": "Posizione selezionata con successo.",
+    "area_selector.use.feedback.success_second": "Posizione selezionata con successo.",
+    "area_selector.use.feedback.to_reset": "Seleziona l'elemento per deselezionarlo.",
+    "item.porting_lib.area_selector": "Selettore di area",
+    "quickexport.command.feedback.escape": "I percorsi potrebbero non contenere \"..\" poiché questo carattere può essere utilizzato per indicare la directory padre e quindi potrebbe causare problemi nell'esportazione.",
+    "quickexport.command.feedback.exported": "Esportato in %s",
+    "quickexport.command.feedback.failed": "Impossibile esportare l'area, vedere il log per maggiori dettagli.",
+    "quickexport.command.feedback.hold_selector": "È necessario che tu abbia selezionato un'area tramite un selettore di area."
+}

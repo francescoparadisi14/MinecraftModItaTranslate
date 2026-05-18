@@ -10,7 +10,10 @@
     "attribute.name.betterparagliders.two_handed_stamina_reduction": "Riduzione della resistenza con entrambe le mani",
     "attribute.name.betterparagliders.water_breathing_stamina_regen": "Ricarica della resistenza alla respirazione sott'acqua",
     "createschematicchecker.csc.feedback": "Domanda\/Feedback: QQ: 1061133894",
+    "entity.taniwha.tboat": "Barca",
     "key.tactical.leanleft": "Spostarsi a sinistra",
     "key.tactical.leanright": "Spostarsi a destra",
-    "keys.categories.tactical": "Movimento tattico"
+    "keys.categories.tactical": "Movimento tattico",
+    "tag.item.libjf.overpowered": "Sovra-potenziato",
+    "tag.item.libjf.shulker_boxes_illegal": "Illeale nelle scatole di Shulker"
 }

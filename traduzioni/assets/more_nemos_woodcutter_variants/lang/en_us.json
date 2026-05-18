@@ -1,0 +1,19 @@
+{
+    "block.more_nemos_woodcutter_variants.acacia_woodcutter": "Acacia Woodcutter",
+    "block.more_nemos_woodcutter_variants.bamboo_woodcutter": "Bamboo Woodcutter",
+    "block.more_nemos_woodcutter_variants.birch_woodcutter": "Birch Woodcutter",
+    "block.more_nemos_woodcutter_variants.cherry_woodcutter": "Cherry Woodcutter",
+    "block.more_nemos_woodcutter_variants.crimson_woodcutter": "Crimson Woodcutter",
+    "block.more_nemos_woodcutter_variants.dark_oak_woodcutter": "Dark Oak Woodcutter",
+    "block.more_nemos_woodcutter_variants.jungle_woodcutter": "Jungle Woodcutter",
+    "block.more_nemos_woodcutter_variants.mangrove_woodcutter": "Mangrove Woodcutter",
+    "block.more_nemos_woodcutter_variants.pale_oak_woodcutter": "Pale Oak Woodcutter",
+    "block.more_nemos_woodcutter_variants.spruce_woodcutter": "Spruce Woodcutter",
+    "block.more_nemos_woodcutter_variants.warped_woodcutter": "Warped Woodcutter",
+    "resourcePack.more_nemos_woodcutter_variants.description": "Overwrites default Woodcutter recipe to allow crafting of Woodcutter variants",
+    "resourcePack.more_nemos_woodcutter_variants.name": "More Nemo's Woodcutter Variants",
+    "tag.block.c.woodcutters": "Woodcutter Blocks",
+    "tag.block.more_nemos_woodcutter_variants.woodcutter_variants": "Woodcutter Block Variants",
+    "tag.item.c.woodcutters": "Woodcutter Items",
+    "tag.item.more_nemos_woodcutter_variants.woodcutter_variants": "Woodcutter Item Variants"
+}

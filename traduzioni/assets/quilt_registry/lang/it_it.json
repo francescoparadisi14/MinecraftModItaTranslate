@@ -1,0 +1,11 @@
+{
+    "quilt.core.registry_sync.and": "e",
+    "quilt.core.registry_sync.incorrect_state": "La validazione non è riuscita.\nÈ stato previsto che il proprietario dell'oggetto fosse '%s' ('%s'), ma è stato trovato '%s'",
+    "quilt.core.registry_sync.main_mod_protocol": "Si trova sulla rete con indirizzo %s e utilizzando il protocollo %s.",
+    "quilt.core.registry_sync.missing_entries": "Campi obbligatori mancanti nel registro '%s' per i namespace:\n%s",
+    "quilt.core.registry_sync.missing_registry": "Tentativo di sincronizzare la chiave di registro '%s', ma è mancante!",
+    "quilt.core.registry_sync.more": "%s in più...",
+    "quilt.core.registry_sync.require_main_mod_protocol": "Questo server richiede una connessione con protocollo versione %s.",
+    "quilt.core.registry_sync.unsupported_mod_protocol": "Versioni del protocollo dei mod non supportate per:\n%s",
+    "quilt.core.registry_sync.unsupported_registry": "Tentativo di sincronizzazione del registro '%s', ma questa operazione non è supportata!"
+}

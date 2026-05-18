@@ -1,0 +1,13 @@
+{
+    "item.iteminteractions.container.tooltip.alt": "Alto",
+    "item.iteminteractions.container.tooltip.command": "Ordine",
+    "item.iteminteractions.container.tooltip.control": "Controllo",
+    "item.iteminteractions.container.tooltip.hold": "Tenere",
+    "item.iteminteractions.container.tooltip.reveal_contents": "%s %s per visualizzare il contenuto",
+    "item.iteminteractions.container.tooltip.shift": "Cambio",
+    "item.iteminteractions.container.tooltip.toggle": "Interruttore",
+    "key.category.iteminteractions.main": "Interazioni tra prodotti",
+    "key.iteminteractions.toggle_carried_item_tooltips": "Attiva\/Disattiva i suggerimenti per gli oggetti trasportati",
+    "key.iteminteractions.toggle_selected_item_tooltips": "Attiva\/Disattiva i suggerimenti per gli elementi selezionati",
+    "key.iteminteractions.toggle_visual_item_contents": "Mostra\/Nascondi i contenuti dell'elemento visivo"
+}

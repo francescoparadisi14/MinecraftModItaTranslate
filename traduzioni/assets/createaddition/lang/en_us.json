@@ -139,6 +139,9 @@
     "createaddition.subtitle.little_zap": "Tesla Coil sparks",
     "createaddition.subtitle.loud_zap": "Tesla Coil zaps",
     "createaddition.tooltip.accumulator.info": "Accumulator Info:",
+    "createaddition.tooltip.alternator.info": "Alternator Info:",
+    "createaddition.tooltip.charging.info": "Tesla Coil Info:",
+    "createaddition.tooltip.charging.time_remaining": "Charge Time Remaining:",
     "createaddition.tooltip.connector.info": "Connector Info:",
     "createaddition.tooltip.energy.capacity": "Capacity:",
     "createaddition.tooltip.energy.charged": "Charged",
@@ -156,7 +159,13 @@
     "createaddition.tooltip.energy.stored": "Stored Energy:",
     "createaddition.tooltip.energy.supply": "Network Production:",
     "createaddition.tooltip.energy.usage": "Network Usage:",
+    "createaddition.tooltip.liquid_burning.info": "Liquid Blaze Burner Info:",
+    "createaddition.tooltip.liquid_burning.time_remaining": "Burn Time Remaining:",
     "createaddition.tooltip.relay.info": "Relay Info:",
+    "death.attack.createaddition.barbed_wire": "%1$s tried to cross barbed wire",
+    "death.attack.createaddition.barbed_wire.player": "%1$s tried to cross barbed wire while fighting %2$s",
+    "death.attack.createaddition.tesla_coil": "%1$s received a lethal electric shock",
+    "death.attack.createaddition.tesla_coil.player": "%1$s received a lethal electric shock while fighting %2$s",
     "desc.immersiveengineering.info.mineral.sphalerite": "Sphalerite",
     "effect.createaddition.shocking": "Shocked",
     "effect.createaddition.shocking.description": "Causes severely reduced movement speed",
@@ -253,5 +262,6 @@
     "statusbar.createaddition.wire.long": "Wire is too long",
     "statusbar.createaddition.wire.no_connection": "Wire not connected here",
     "statusbar.createaddition.wire.removed": "Wire removed",
-    "statusbar.createaddition.wire.requires_high_current": "This connection requires a high current wire"
+    "statusbar.createaddition.wire.requires_high_current": "This connection requires a high current wire",
+    "tag.fluid.c.ignites": "Ignitable fluids"
 }

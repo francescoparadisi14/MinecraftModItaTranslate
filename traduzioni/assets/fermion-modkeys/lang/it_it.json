@@ -1,0 +1,18 @@
+{
+    "config.modkeys.button": "Chiavi di modifica",
+    "config.modkeys.help.primary": "Tasto principale per la modifica del ciclo",
+    "config.modkeys.help.secondary": "Chiave per la modifica ciclica (secondaria)",
+    "config.modkeys.help.tertiary": "Tasto di modifica per cicli terziari",
+    "config.modkeys.key.osx.alt": "Opzione",
+    "config.modkeys.key.osx.control": "Controllo",
+    "config.modkeys.key.osx.menu": "Ordine",
+    "config.modkeys.key.osx.shift": "Cambio",
+    "config.modkeys.key.win.alt": "Alto",
+    "config.modkeys.key.win.control": "Controllo",
+    "config.modkeys.key.win.menu": "Windows \/ Menu",
+    "config.modkeys.key.win.shift": "Cambio",
+    "config.modkeys.label.primary": "Chiave di modifica principale",
+    "config.modkeys.label.secondary": "Chiave di modifica secondaria",
+    "config.modkeys.label.tertiary": "Chiave di modifica di terzordine",
+    "config.modkeys.title": "Chiavi di configurazione per i modificatori di fermion"
+}

@@ -117,5 +117,9 @@
     "tag.item.rusticdelight.stuffed_bell_pepper_ingredients": "Ingredienti per i peperoni ripieni",
     "tag.item.rusticdelight.sweet_liquids": "Liquidi dolci",
     "tag.item.rusticdelight.syrup": "Sciroppo",
-    "tag.item.rusticdelight.syrup_ingredients": "Ingredienti per la preparazione dello sciroppo"
+    "tag.item.rusticdelight.syrup_ingredients": "Ingredienti per la preparazione dello sciroppo",
+    "tooltip.farmersdelight.chocolate_coffee": "Elimina 1 effetto dannoso",
+    "tooltip.farmersdelight.honey_coffee": "Elimina l'effetto 1",
+    "tooltip.farmersdelight.milk_coffee": "Elimina l'effetto 1",
+    "tooltip.farmersdelight.syrup_coffee": "Elimina l'effetto 1"
 }

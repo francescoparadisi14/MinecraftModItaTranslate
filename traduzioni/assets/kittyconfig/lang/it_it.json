@@ -1,0 +1,4 @@
+{
+    "messages.kittyconfig.failedPerimissionCheck": "Non dispone dei permessi per modificare le configurazioni su questo server.",
+    "messages.kittyconfig.sync.failed": "Impossibile sincronizzare le configurazioni con il client."
+}

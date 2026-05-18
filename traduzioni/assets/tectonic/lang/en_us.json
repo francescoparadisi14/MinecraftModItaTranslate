@@ -62,6 +62,8 @@
     "config.tectonic.option.ocean_depth.tooltip": "0 is at sea level, -0.5 is 64 blocks below sea level.",
     "config.tectonic.option.ocean_offset": "Ocean Offset: %s",
     "config.tectonic.option.ocean_offset.tooltip": "Skews terrain towards or away from oceans. Lower values = more oceans.\n§cAbove -0.45, deep oceans will not spawn!\n§4Above -0.2, oceans will not spawn!",
+    "config.tectonic.option.ore_fix": "Ore Fix",
+    "config.tectonic.option.ore_fix.tooltip": "Alters ore generation to generate at more acceptable levels when min_y is lowered.",
     "config.tectonic.option.remove_frozen_ocean_ice": "Remove Frozen Ocean Ice",
     "config.tectonic.option.remove_frozen_ocean_ice.tooltip": "Removes the surface ice from Frozen Oceans, making them as navigable as Deep Frozen Oceans.",
     "config.tectonic.option.ridge_scale": "Ridge Scale: %s",

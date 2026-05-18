@@ -1,0 +1,10 @@
+{
+    "angrymobs.configuration.Common": "Impostazioni comuni",
+    "angrymobs.configuration.aggressiveAnimals": "Animali aggressivi",
+    "angrymobs.configuration.aggressiveAnimals.tooltip": "Quando la vera essenza si manifesta, tutti gli animali di tipo \"vanilla\" attaccherebbero immediatamente.",
+    "angrymobs.configuration.angryAnimals": "Animali arrabbiati",
+    "angrymobs.configuration.angryAnimals.tooltip": "Quando un animale di una specie \"pura\" viene ferito, tutti gli altri animali della stessa specie diventano aggressivi nei tuoi confronti.",
+    "angrymobs.configuration.title": "Impostazioni per folle arrabbiate",
+    "angrymobs.configuration.useAttributes": "Utilizza gli attributi",
+    "angrymobs.configuration.useAttributes.tooltip": "Quando True definisce gli obiettivi di combattimento, aggiunge i danni e gli effetti di \"knockback\" degli NPC ai valori specificati."
+}

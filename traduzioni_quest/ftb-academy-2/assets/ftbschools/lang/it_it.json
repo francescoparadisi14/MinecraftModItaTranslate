@@ -1,0 +1,7 @@
+{
+    "biome.ftbschools.school_biome": "Ambiente scolastico",
+    "block.ftbschools.barrier": "Barriera+™",
+    "block.ftbschools.spawn_marker": "Segnalatore di spawn",
+    "block.ftbschools.vanishing_redstone_block": "§8Blocco di Redstone scomparso§",
+    "command.school.notFound": "La scuola con il nome \"%s\" non esiste!"
+}

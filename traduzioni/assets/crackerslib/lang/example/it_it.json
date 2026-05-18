@@ -1,0 +1,22 @@
+{
+    "gui.crackerslib.config.category.category_example.title": "Esempio di Categoria",
+    "gui.crackerslib.config.category.extra.title": "Extra",
+    "gui.crackerslib.config.category.list.title": "Elenchi",
+    "gui.crackerslib.config.category.numbers.title": "Numeri",
+    "gui.crackerslib.config.exampleBoolean.description": "Un semplice valore di configurazione booleano.",
+    "gui.crackerslib.config.exampleBoolean.title": "Esempio di espressione booleana",
+    "gui.crackerslib.config.exampleDouble.description": "Un intervallo semplice con valori decimali\nIntervallo da 0.0 a 1.0",
+    "gui.crackerslib.config.exampleDouble.title": "Esempio: Doppia",
+    "gui.crackerslib.config.exampleEnum.description": "Un semplice valore di configurazione per un'enumerazione.",
+    "gui.crackerslib.config.exampleEnum.title": "Esempio di Enum",
+    "gui.crackerslib.config.exampleInteger.description": "Un valore intero semplice all'interno di un intervallo specifico.\nIntervallo: da 0 a 100",
+    "gui.crackerslib.config.exampleInteger.title": "Esempio di intero",
+    "gui.crackerslib.config.exampleListDouble.description": "Un esempio di elenco di coppie:",
+    "gui.crackerslib.config.exampleListDouble.title": "Esempio: Lista Doppia",
+    "gui.crackerslib.config.exampleListInteger.description": "Ecco un esempio di lista di interi che devono essere maggiori o uguali a 2:",
+    "gui.crackerslib.config.exampleListInteger.title": "Esempio di lista di interi",
+    "gui.crackerslib.config.exampleListString.description": "Ecco un esempio di elenco di stringhe che devono essere tutte in minuscolo:",
+    "gui.crackerslib.config.exampleListString.title": "Esempio di elenco di stringhe",
+    "gui.crackerslib.config.exampleString.description": "Un semplice valore di stringa.",
+    "gui.crackerslib.config.exampleString.title": "Esempio di stringa"
+}

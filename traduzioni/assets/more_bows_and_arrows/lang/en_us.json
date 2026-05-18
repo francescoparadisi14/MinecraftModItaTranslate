@@ -234,5 +234,7 @@
     "more_bows_and_arrows.text.tnt_arrow_lore2": "causing a devastating blast...",
     "more_bows_and_arrows.text.warped_stem_bow_damage": "§2+2 Bonus Damage",
     "more_bows_and_arrows.text.warped_stem_bow_lore1": "A plain bow made from Warped hyphae,",
-    "more_bows_and_arrows.text.warped_stem_bow_lore2": "not much stronger than a regular bow..."
+    "more_bows_and_arrows.text.warped_stem_bow_lore2": "not much stronger than a regular bow...",
+    "tag.item.more_bows_and_arrows.mod_bows": "More Bows and Arrows Bows",
+    "tag.item.more_bows_and_arrows.netherite_bow": "Netherite Bow"
 }

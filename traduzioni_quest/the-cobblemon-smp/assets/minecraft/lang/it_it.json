@@ -1,0 +1,12 @@
+{
+    "container.chest": "",
+    "container.chestDouble": "",
+    "container.crafting": "",
+    "container.inventory": "§f",
+    "disconnect.loginFailedInfo.insufficientPrivileges": "Il gioco multiplayer è disabilitato. Prova a riavviare il client\/l'avvio del gioco. Se il problema persiste, controlla le impostazioni sulla privacy del tuo account Microsoft per abilitare il gioco multiplayer.",
+    "menu.disconnect": "Vi aspetto presto!",
+    "menu.game": "Non riesco a capire.",
+    "menu.returnToGame": "§aRitorno ai giochi complessi",
+    "menu.shareToLan": "§9\/discord",
+    "title.multiplayer.disabled": "Il gioco multiplayer è disabilitato. Prova a riavviare il client\/l'avvio del gioco. Se il problema persiste, controlla le impostazioni sulla privacy del tuo account Microsoft per abilitare il gioco multiplayer."
+}

@@ -1,0 +1,18 @@
+{
+    "config.modkeys.button": "Modifier Keys",
+    "config.modkeys.help.primary": "Cycle Primary Modifier Key",
+    "config.modkeys.help.secondary": "Cycle Secondary Modifier Key",
+    "config.modkeys.help.tertiary": "Cycle Tertiary Modifier Key",
+    "config.modkeys.key.osx.alt": "Option",
+    "config.modkeys.key.osx.control": "Control",
+    "config.modkeys.key.osx.menu": "Command",
+    "config.modkeys.key.osx.shift": "Shift",
+    "config.modkeys.key.win.alt": "Alt",
+    "config.modkeys.key.win.control": "Control",
+    "config.modkeys.key.win.menu": "Windows \/ Menu",
+    "config.modkeys.key.win.shift": "Shift",
+    "config.modkeys.label.primary": "Primary Modifier Key",
+    "config.modkeys.label.secondary": "Secondary Modifier Key",
+    "config.modkeys.label.tertiary": "Tertiary Modifier Key",
+    "config.modkeys.title": "Fermion Modifier Keys Config"
+}

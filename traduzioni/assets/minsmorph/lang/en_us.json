@@ -3,5 +3,14 @@
     "key.categories.minsmorph": "Min's Morph",
     "key.minsmorph.open_menu": "Open Goal Menu",
     "key.minsmorph.trigger": "Trigger Selected Goal",
-    "minsmorph.goalmenu.title": "Goal Menu"
+    "minsmorph.goalmenu.title": "Goal Menu",
+    "minsmorph.sync.adapter_failed": "Action adapter failed to execute this action.",
+    "minsmorph.sync.goal_failed": "Failed to execute goal safely.",
+    "minsmorph.sync.invalid_owner": "Invalid morph owner request.",
+    "minsmorph.sync.invalid_selection": "Invalid selection for current morph.",
+    "minsmorph.sync.missing_target": "Morph target is not ready yet. Try again.",
+    "minsmorph.sync.no_goal_selected": "No valid goal selected.",
+    "minsmorph.sync.stale": "Morph options were out of date. Synced latest snapshot.",
+    "minsmorph.sync.unsupported_action": "Selected action is unsupported for this mob.",
+    "minsmorph.sync.waiting": "Morph options are syncing. Try again."
 }

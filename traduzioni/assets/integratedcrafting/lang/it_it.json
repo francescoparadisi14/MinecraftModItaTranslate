@@ -28,6 +28,8 @@
     "aspect.integratedcrafting.write.integer.craft.info": "Definisci la quantità di energia desiderata.",
     "aspect.integratedcrafting.write.itemstack.craft": "Oggetto artigianale",
     "aspect.integratedcrafting.write.itemstack.craft.info": "Realizzare l'articolo indicato.",
+    "aspect.integratedcrafting.write.long.craft": "Energia Craft",
+    "aspect.integratedcrafting.write.long.craft.info": "Definisci la quantità di energia desiderata.",
     "aspect.integratedcrafting.write.recipe.craft": "Ricetta per la preparazione di un piatto",
     "aspect.integratedcrafting.write.recipe.craft.info": "Seguire attentamente la ricetta fornita.",
     "general.integratedcrafting.description": "Creare oggetti e configurazioni all'interno delle reti di Integrated Dynamics.",

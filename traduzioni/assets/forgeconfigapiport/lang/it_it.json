@@ -1,6 +1,7 @@
 {
     "commands.config.getwithtype": "Configurazione per il % di tipo % trovata in %",
     "commands.config.noconfig": "Configurazione per il % di tipo % non trovata.",
+    "neoforge.configuration.uitext.breadcrumb": "%s §6§l>§r %s",
     "neoforge.configuration.uitext.breadcrumb.order": "%1$s %2$s %3$s",
     "neoforge.configuration.uitext.breadcrumb.separator": ">",
     "neoforge.configuration.uitext.client": "Opzioni per i clienti",

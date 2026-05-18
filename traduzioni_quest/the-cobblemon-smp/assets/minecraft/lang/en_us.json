@@ -1,0 +1,12 @@
+{
+    "container.chest": "",
+    "container.chestDouble": "",
+    "container.crafting": "",
+    "container.inventory": "§f",
+    "disconnect.loginFailedInfo.insufficientPrivileges": "Multiplayer is disabled. Try restarting your game client\/launcher. If the issue persists, check your Microsoft account privacy settings to enable multiplayer.",
+    "menu.disconnect": "§dCome back soon!",
+    "menu.game": "셚셙",
+    "menu.returnToGame": "§aReturn to Complex Gaming",
+    "menu.shareToLan": "§9\/discord",
+    "title.multiplayer.disabled": "Multiplayer is disabled. Try restarting your game client\/launcher. If the issue persists, check your Microsoft account privacy settings to enable multiplayer."
+}

@@ -16,6 +16,11 @@
     "item.simple_guns_reworked.assault_rifle.description_3": "Potere: §4 Elevato",
     "item.simple_guns_reworked.assault_rifle.description_4": "Intervallo: §4Alto",
     "item.simple_guns_reworked.automatic_shotgun": "Fucile a canna liscia semiautomatico",
+    "item.simple_guns_reworked.automatic_shotgun.description_0": "Munizioni: §6 Fucile a canna corta",
+    "item.simple_guns_reworked.automatic_shotgun.description_1": "Capacità: Articolo 69",
+    "item.simple_guns_reworked.automatic_shotgun.description_2": "Tempo di ricarica: §30,5 secondi x proiettile",
+    "item.simple_guns_reworked.automatic_shotgun.description_3": "Potenza: §4 Molto elevata",
+    "item.simple_guns_reworked.automatic_shotgun.description_4": "Taglie: §6Medio §6Grande",
     "item.simple_guns_reworked.bazooka": "Mitraglietta",
     "item.simple_guns_reworked.charged_potato": "Patata elettrica",
     "item.simple_guns_reworked.dmr": "DMR",
@@ -109,5 +114,8 @@
     "subtitles.ooore": "",
     "subtitles.reshot": "",
     "subtitles.sniper_re": "",
-    "subtitles.sohtbasoka": ""
+    "subtitles.sohtbasoka": "",
+    "subtitles.spas_cicle": "",
+    "subtitles.spas_shot": "",
+    "subtitles.spasreload": ""
 }

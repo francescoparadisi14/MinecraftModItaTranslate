@@ -1,0 +1,13 @@
+{
+    "enchantment.magna.gigantism_curse": "La maledizione dell'ipertrofia",
+    "enchantment.magna.gigantism_curse_desc": "Consente di aumentare il raggio d'azione dell'attacco \"Hammer\" a scapito della velocità di estrazione.",
+    "text.autoconfig.magna.category.default": "Generale",
+    "text.autoconfig.magna.option.breakSingleBlockWhenSneaking": "Se è necessario disabilitare solo un singolo blocco quando il giocatore sta cercando di nascondersi.",
+    "text.autoconfig.magna.option.disableExtendedHitboxWhileSneaking": "Se le hitbox più ampie dovrebbero essere disabilitate quando il giocatore è in modalità furtiva.",
+    "text.autoconfig.magna.option.enableAllBlockBreakingAnimation": "Dovrebbe essere visualizzata un'animazione quando un blocco viene distrutto, indipendentemente dal tipo di blocco?",
+    "text.autoconfig.magna.option.enableExtendedHitbox": "È necessario abilitare le hitbox più ampie per gli strumenti appropriati.",
+    "text.autoconfig.magna.option.fullBlockShapes": "Se i blocchi parziali (scale, lastre) dovrebbero essere rappresentati da un cubo completo nelle hitbox estese.",
+    "text.autoconfig.magna.option.highlightAirBlocks": "Se un'area di colpire estesa dovrebbe mostrare anche i blocchi aerei (o altri tipi di blocchi senza hitbox).",
+    "text.autoconfig.magna.option.individualBlockOutlines": "Se ogni blocco all'interno di un'area di impatto estesa debba mostrare il suo contorno separatamente.",
+    "text.autoconfig.magna.title": "Magna Config"
+}

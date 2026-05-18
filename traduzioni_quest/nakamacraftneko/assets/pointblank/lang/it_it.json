@@ -1,0 +1,20 @@
+{
+    "item.pointblank.doom_50calpistol": "Pistola di tipo .50 Cal",
+    "item.pointblank.doom_50calrifle": "Fucile da 50 Cal",
+    "item.pointblank.doom_argent_compound": "Composto di Argent",
+    "item.pointblank.doom_argent_ingot": "Lingotto in ottone argentato",
+    "item.pointblank.doom_argentblastcharge": "Carica esplosiva ad alta potenza",
+    "item.pointblank.doom_argentrocket": "Razzo Argent",
+    "item.pointblank.doom_bfg9000": "BFG-9000",
+    "item.pointblank.doom_combatshotgun": "Fucile a pompa M20",
+    "item.pointblank.doom_handgun": "Pistola",
+    "item.pointblank.doom_heavycannon": "Cannone pesante",
+    "item.pointblank.doom_plasma_compound": "Composto di plasma",
+    "item.pointblank.doom_plasmacell": "Cellula plasmatica",
+    "item.pointblank.doom_plasmagun": "Mitragliatrice a plasma",
+    "item.pointblank.doom_plasmapistol": "Pistola a plasma",
+    "item.pointblank.doom_rocketlauncher": "Lanciafiamme",
+    "item.pointblank.doom_shotgun": "Fucile a pompa M93",
+    "item.pointblank.doom_supershotgun": "Fucile a canna lunga",
+    "itemGroup.pointblank-doom-pack.items": "Point Blank Doom"
+}

@@ -16,6 +16,11 @@
     "item.simple_guns_reworked.assault_rifle.description_3": "Power: §4High",
     "item.simple_guns_reworked.assault_rifle.description_4": "Range: §4High",
     "item.simple_guns_reworked.automatic_shotgun": "Automatic shotgun",
+    "item.simple_guns_reworked.automatic_shotgun.description_0": "Ammo: §6Shotgun",
+    "item.simple_guns_reworked.automatic_shotgun.description_1": "Capacity: §69",
+    "item.simple_guns_reworked.automatic_shotgun.description_2": "Reload time: §30.5s x Bullet",
+    "item.simple_guns_reworked.automatic_shotgun.description_3": "Power: §4Very §4high",
+    "item.simple_guns_reworked.automatic_shotgun.description_4": "Range: §6Medium §6Large",
     "item.simple_guns_reworked.bazooka": "Bazooka",
     "item.simple_guns_reworked.charged_potato": "Charged Potato",
     "item.simple_guns_reworked.dmr": "DMR",
@@ -59,7 +64,7 @@
     "item.simple_guns_reworked.revolver.description_4": "Range: §6Medium",
     "item.simple_guns_reworked.rifle_ammo": "Rifle Bullet",
     "item.simple_guns_reworked.rocket": "Rocket",
-    "item.simple_guns_reworked.shotgun": "Shotgun",
+    "item.simple_guns_reworked.shotgun": "Pump Shotgun",
     "item.simple_guns_reworked.shotgun.description_0": "Ammo: §6Shotgun",
     "item.simple_guns_reworked.shotgun.description_1": "Capacity: §65",
     "item.simple_guns_reworked.shotgun.description_2": "Reload time: §30.75s x Bullet",
@@ -109,5 +114,8 @@
     "subtitles.ooore": "",
     "subtitles.reshot": "",
     "subtitles.sniper_re": "",
-    "subtitles.sohtbasoka": ""
+    "subtitles.sohtbasoka": "",
+    "subtitles.spas_cicle": "",
+    "subtitles.spas_shot": "",
+    "subtitles.spasreload": ""
 }

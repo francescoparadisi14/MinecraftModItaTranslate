@@ -1,0 +1,11 @@
+{
+    "block.create_waterframes.playback_sensor": "Sensore di riproduzione",
+    "create_waterframes.display_source.waterframes.source.author": "WF: Autore",
+    "create_waterframes.display_source.waterframes.source.current_time": "WF: Ora attuale",
+    "create_waterframes.display_source.waterframes.source.next_media": "WF: Prossimo nella playlist",
+    "create_waterframes.display_source.waterframes.source.time_remaining": "WF: Tempo fino alla prossima",
+    "create_waterframes.display_source.waterframes.source.title": "WF: Titolo",
+    "create_waterframes.display_source.waterframes.source.total_time": "WF: Tempo totale",
+    "create_waterframes.display_source.waterframes.source.url": "WF: URL corrente",
+    "create_waterframes.display_source.waterframes.source.year": "WF: Anno di pubblicazione"
+}

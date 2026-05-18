@@ -1,0 +1,7 @@
+{
+    "chat.ae2wtlib.NetworkMismatch": "Quantum Bridge e Access Point Wireless sono connessi a reti diverse.",
+    "chat.ae2wtlib.NetworkNotPowered": "Rete non alimentata",
+    "chat.ae2wtlib.NoQuantumBridge": "Rete quantistica non trovata. È presente nella sezione caricata?",
+    "chat.ae2wtlib.NoQuantumBridgeCard": "Carta Quantum Bridge mancante",
+    "chat.ae2wtlib.SingularityNotPresent": "Mancante di Singolarità"
+}

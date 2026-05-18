@@ -1,6 +1,7 @@
 {
     "item.refinedstorage_quartz_arsenal.creative_wireless_crafting_grid": "Creative Wireless Crafting Grid",
     "item.refinedstorage_quartz_arsenal.wireless_crafting_grid": "Wireless Crafting Grid",
+    "key.category.refinedstorage_quartz_arsenal.keymappings": "Magazzino avanzato - Arsenal di Quarzo",
     "key.refinedstorage_quartz_arsenal.open_wireless_crafting_grid": "Open Wireless Crafting Grid",
     "mod.refinedstorage_quartz_arsenal": "Refined Storage - Quartz Arsenal",
     "refinedstorage_quartz_arsenal.configuration.section.refinedstorage_quartz_arsenal.common.toml": "Refined Storage - Quartz Arsenal Configuration",

@@ -1,4 +1,6 @@
 {
+    "category.sound_physics_remastered.own_voice": "Voce propria",
+    "category.sound_physics_remastered.own_voice.description": "Il volume della tua voce",
     "cloth_config.sound_physics_remastered.air_absorption": "Assorbimento di aria",
     "cloth_config.sound_physics_remastered.air_absorption.description": "Un valore che controlla la quantità di frequenze elevate che l'aria assorbe in funzione della distanza. Un valore di 1.0 è fisicamente corretto per l'aria con umidità e temperatura normali. Valori più alti indicano che l'aria assorbirà più frequenze elevate con la distanza. Un valore di 0 disabilita questo effetto.",
     "cloth_config.sound_physics_remastered.attenuation_factor": "Fattore di attenuazione",

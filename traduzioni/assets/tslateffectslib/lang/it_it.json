@@ -1,0 +1,10 @@
+{
+    "command.tel.enum.invalid": "Valore enum non valido: %1$s, deve essere uno tra %2$s",
+    "command.tel.particle.clear.success.multiple": "Rimosso i detriti creati dai %1$ giocatori.",
+    "command.tel.particle.clear.success.single": "Rimosse le particelle di %1$s",
+    "command.tel.particle.desc": "\/tel: Particella - Attiva una o più particelle utilizzando il sistema di particelle di TEL",
+    "command.tel.particle.invalidProperties": "Proprietà non valide per la particella: '%1$s'",
+    "command.tel.particle.properties": "Caratteristiche:",
+    "command.tel.particle.success": "Inviare il pacchetto %1$s a tutti i giocatori in %2$s",
+    "command.tel.prefix.particle": "Particella"
+}

@@ -1,0 +1,8 @@
+{
+    "block.tacz_resource_gathering.magnesium_ore": "Miniera di magnesio",
+    "block.tacz_resource_gathering.quartz_ore": "Pietra di quarzo",
+    "block.tacz_resource_gathering.silicon_carbide_ore": "Carburo di silicio (miniera)",
+    "block.tacz_resource_gathering.sulfur_ore": "Miniera di zolfo",
+    "item.tacz_resource_gathering.silicon_carbide": "Carburo di silicio",
+    "item.tacz_resource_gathering.sulfur_dust": "Polvere di zolfo"
+}

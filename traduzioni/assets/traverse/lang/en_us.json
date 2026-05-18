@@ -15,11 +15,13 @@
     "block.traverse.fir_door": "Fir Door",
     "block.traverse.fir_fence": "Fir Fence",
     "block.traverse.fir_fence_gate": "Fir Fence Gate",
+    "block.traverse.fir_hanging_sign": "Fir Hanging Sign",
     "block.traverse.fir_leaves": "Fir Leaves",
     "block.traverse.fir_log": "Fir Log",
     "block.traverse.fir_planks": "Fir Planks",
     "block.traverse.fir_pressure_plate": "Fir Pressure Plate",
     "block.traverse.fir_sapling": "Fir Sapling",
+    "block.traverse.fir_shelf": "Fir Shelf",
     "block.traverse.fir_sign": "Fir Sign",
     "block.traverse.fir_slab": "Fir Slab",
     "block.traverse.fir_stairs": "Fir Stairs",
@@ -38,7 +40,11 @@
     "block.traverse.stripped_fir_wood": "Stripped Fir Wood",
     "block.traverse.yellow_autumnal_leaves": "Yellow Autumnal Leaves",
     "block.traverse.yellow_autumnal_sapling": "Yellow Autumnal Sapling",
+    "entity.traverse.fir_boat": "Fir Boat",
+    "entity.traverse.fir_chest_boat": "Fir Boat with Chest",
     "item.traverse.fir_boat": "Fir Boat",
     "item.traverse.fir_chest_boat": "Fir Boat with Chest",
-    "itemGroup.traverse.items": "Traverse Items"
+    "itemGroup.traverse.items": "Traverse Items",
+    "tag.item.c.planks_that_burn": "Planks that Burn",
+    "tag.item.traverse.fir_logs": "Fir Logs"
 }

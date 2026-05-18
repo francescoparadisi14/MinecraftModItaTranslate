@@ -5,11 +5,13 @@
     "item.farmersknives.amethyst_knife": "Coltello di ametista",
     "item.farmersknives.aquarium_knife": "Coltello per acquario",
     "item.farmersknives.banglum_knife": "Coltello Banglum",
+    "item.farmersknives.brass_knife": "Coltello in ottone",
     "item.farmersknives.bronze_knife": "Coltello in bronzo",
     "item.farmersknives.carmot_knife": "Coltello Carmot",
     "item.farmersknives.celestium_knife": "Coltello Celestium",
     "item.farmersknives.cincinnasite_knife": "Coltello Cincinnasite",
     "item.farmersknives.cincinnasite_knife_diamond": "Coltello con lama in cincinnasite e inserto in diamante",
+    "item.farmersknives.copper_knife": "Coltello in rame",
     "item.farmersknives.copper_knife_et": "Coltello in rame",
     "item.farmersknives.copper_knife_mm": "Coltello in rame",
     "item.farmersknives.creative_tab_knife": "Coltello creativo",
@@ -52,5 +54,6 @@
     "item.farmersknives.terminite_knife": "Coltello Terminite",
     "item.farmersknives.thallasium_knife": "Coltello di Thallasium",
     "item.farmersknives.tidesinger_knife": "Coltello Tidesinger",
-    "item.farmersknives.warden_knife": "Coltello da guardia"
+    "item.farmersknives.warden_knife": "Coltello da guardia",
+    "item.farmersknives.zinc_knife": "Coltello in zinco"
 }

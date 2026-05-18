@@ -1,0 +1,22 @@
+{
+    "block.modern_structures.coarsedirtslab": "Lastra di sporco grossolano",
+    "block.modern_structures.dustrialblock": "Blocco industriale",
+    "block.modern_structures.dustrialblock_2": "Blocco industriale 2",
+    "block.modern_structures.dustrialtrapdoor": "Portello industriale",
+    "block.modern_structures.dustrialwall": "muro industriale",
+    "entity.modern_structures.human": "Umano",
+    "entity.modern_structures.human_2": "Umano 2",
+    "item.modern_structures.batlleaxe": "Ascia da battaglia",
+    "item.modern_structures.crowbar": "Pinza",
+    "item.modern_structures.human_2_spawn_egg": "Uovo di una creatura umana",
+    "item.modern_structures.human_spawn_egg": "Uovo di una creatura umana",
+    "item.modern_structures.knife": "Coltello",
+    "item.modern_structures.netherstarshard": "Frammento di stella celeste",
+    "item.modern_structures.steel": "Acciaio",
+    "item.modern_structures.tactic_boots": "scarpe classiche di Boots",
+    "item.modern_structures.tactic_chestplate": "giacca antiproiettile",
+    "item.modern_structures.tactic_helmet": "Tattica",
+    "item.modern_structures.tactic_leggings": "Leggings da allenamento",
+    "item.modern_structures.tacticshield": "Scudo tattico",
+    "item_group.modern_structures.modernstructuremod": "Modello MS"
+}

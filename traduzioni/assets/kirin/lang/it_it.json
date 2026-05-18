@@ -1,0 +1,5 @@
+{
+    "gui.narrate.selector": "Selettore %s",
+    "narration.selector.usage.focused": "Premi Invio per modificare il valore",
+    "narration.selector.usage.hovered": "Clicca con il tasto sinistro per modificare il valore."
+}

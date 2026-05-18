@@ -12,6 +12,7 @@
     "text.autoconfig.chat_heads.option.offsetNonPlayerText": "Allineamento testo chat non dei giocatori",
     "text.autoconfig.chat_heads.option.offsetNonPlayerText.@Tooltip": "Tutto il testo verrà allineato se attivato",
     "text.autoconfig.chat_heads.option.renderPosition": "Posizione di rendering",
+    "text.autoconfig.chat_heads.option.renderPosition.@Tooltip": "Dove posizionare le icone delle chat\n\nNota: \"Prima del nome\" potrebbe non essere compatibile con alcuni mod.\nPer Caxton e Modern UI, \"Prima della linea\" verrà utilizzata automaticamente.",
     "text.autoconfig.chat_heads.option.renderPosition.BEFORE_LINE": "Prima di",
     "text.autoconfig.chat_heads.option.renderPosition.BEFORE_NAME": "Prima del nome",
     "text.autoconfig.chat_heads.option.senderDetection": "Rilevamento mittente",

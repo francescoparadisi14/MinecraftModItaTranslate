@@ -5,5 +5,6 @@
     "chat.flightblocks.info": "Place in world to allow flight around the block! Range: %s",
     "chat.flightblocks.range": "Range: %s, showing range, right click to disable range area!",
     "itemGroup.flightblocks": "Flight Blocks",
+    "tooltip.flightblocks.flight_block": "Provies flight around the block! Right click to show range",
     "tooltip.flightblocks.shift": "Hold SHIFT for more info"
 }

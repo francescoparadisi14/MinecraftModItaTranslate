@@ -1,0 +1,9 @@
+{
+    "curios.identifier.bank_meter": "Bank Meter",
+    "curios.identifier.card": "Card",
+    "gui.numismaticsutils.bank_meter": "¤ %s",
+    "info.numismaticsutils.balance": "Balance: ¤ %s",
+    "item.numismaticsutils.bank_meter": "Bank Meter",
+    "item.numismaticsutils.portable_bank_terminal": "Portable Bank Terminal",
+    "itemGroup.numismaticsutils": "Numismatics Utils"
+}

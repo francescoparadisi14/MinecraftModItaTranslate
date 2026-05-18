@@ -1,0 +1,4 @@
+{
+    "command.greenhouseconfig.reload.error": "Failed to reload config '%s'.",
+    "command.greenhouseconfig.reload.success": "Successfully reloaded '%s'."
+}

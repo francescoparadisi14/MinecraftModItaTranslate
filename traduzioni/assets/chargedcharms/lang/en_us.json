@@ -63,5 +63,6 @@
     "item.chargedcharms.charged_totem_charm": "Charged Totem Charm",
     "item.chargedcharms.charged_water_breathing_charm": "Charged Water Breathing Charm",
     "itemGroup.chargedcharms": "Charged Charms",
-    "tooltip.charged_charm.charges": "Charges"
+    "tooltip.charged_charm.charges": "Charges",
+    "trinkets.slot.charged_charm.charm": "Charged Charm"
 }

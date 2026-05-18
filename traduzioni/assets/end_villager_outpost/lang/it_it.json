@@ -1,0 +1,12 @@
+{
+    "block.end_villager_outpost.example_block": "Esempio di blocco",
+    "end_villager_outpost.configuration.items": "Elenco degli articoli",
+    "end_villager_outpost.configuration.logDirtBlock": "Blocco di terra per strade",
+    "end_villager_outpost.configuration.magicNumber": "Numero magico",
+    "end_villager_outpost.configuration.magicNumberIntroduction": "Numero Magico",
+    "end_villager_outpost.configuration.section.end_villager_outpost.common.toml": "Configurazioni per le basi dei villager",
+    "end_villager_outpost.configuration.section.end_villager_outpost.common.toml.title": "Configurazioni per le basi dei villager",
+    "end_villager_outpost.configuration.title": "Configurazioni per le basi dei villager",
+    "item.end_villager_outpost.example_item": "Esempio di articolo",
+    "itemGroup.end_villager_outpost": "Esempio di Tabella Mod"
+}

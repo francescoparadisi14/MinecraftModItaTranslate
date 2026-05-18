@@ -1,0 +1,18 @@
+{
+    "text.cloth-config.cancel_discard": "Annulla e scarta le modifiche",
+    "text.cloth-config.config": "Impostazioni",
+    "text.cloth-config.error.not_valid_number_double": "Numero non valido! (Doppio)",
+    "text.cloth-config.error.not_valid_number_float": "Numero non valido! (Numero decimale)",
+    "text.cloth-config.error.not_valid_number_int": "Non è un numero valido! (Numero intero)",
+    "text.cloth-config.error.not_valid_number_long": "Numero non valido! (Lunghezza insufficiente)",
+    "text.cloth-config.error.too_large": "Troppo grande! (Massimo: %d)",
+    "text.cloth-config.error.too_small": "Troppo piccolo! (Minimo: %d)",
+    "text.cloth-config.error_cannot_save": "Errore!",
+    "text.cloth-config.multi_error": "Molteplici problemi!",
+    "text.cloth-config.quit_config": "Modifiche non salvate",
+    "text.cloth-config.quit_config_sure": "È sicuro che desideri interrompere la modifica del file di configurazione? Le modifiche non verranno salvate!",
+    "text.cloth-config.quit_discard": "Annulla e scarta le modifiche",
+    "text.cloth-config.reset_value": "Reimpostare",
+    "text.cloth-config.save_and_done": "Salva modifiche",
+    "text.cloth.reset_value": "Reimpostare"
+}

@@ -1,0 +1,20 @@
+{
+    "item.pointblank.doom_50calpistol": ".50 Cal Pistol",
+    "item.pointblank.doom_50calrifle": ".50 Cal Rifle",
+    "item.pointblank.doom_argent_compound": "Argent Compound",
+    "item.pointblank.doom_argent_ingot": "Argent Gunmetal Ingot",
+    "item.pointblank.doom_argentblastcharge": "Argent Blast Charge",
+    "item.pointblank.doom_argentrocket": "Argent Rocket",
+    "item.pointblank.doom_bfg9000": "BFG-9000",
+    "item.pointblank.doom_combatshotgun": "Combat Shotgun M20",
+    "item.pointblank.doom_handgun": "Handgun",
+    "item.pointblank.doom_heavycannon": "Heavy Cannon",
+    "item.pointblank.doom_plasma_compound": "Plasma Compound",
+    "item.pointblank.doom_plasmacell": "Plasma Cell",
+    "item.pointblank.doom_plasmagun": "Plasma Rifle",
+    "item.pointblank.doom_plasmapistol": "Plasma Pistol",
+    "item.pointblank.doom_rocketlauncher": "Rocket Launcher",
+    "item.pointblank.doom_shotgun": "Combat Shotgun M93",
+    "item.pointblank.doom_supershotgun": "Super Shotgun",
+    "itemGroup.pointblank-doom-pack.items": "Point Blank Doom"
+}

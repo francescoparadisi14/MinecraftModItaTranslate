@@ -22,7 +22,7 @@
     "ftbbackups3.general.extra_files": "Extra Files",
     "ftbbackups3.general.extra_files.tooltip": "By default, just the files in the world folder are backed up\nThis can be used to add extra files from outside the world folder (but inside the game instance!) to the backup\nWorld folder is \"world\" on a dedicated server,\n and \"saves\/<worldname>\" on a single-player instance",
     "ftbbackups3.general.folder": "Backup Folder",
-    "ftbbackups3.general.folder.tooltip": "If not empty, an absolute path to the backup folder\nIf empty, backups are placed in the \"ftbbackups3\" folder in your game instance",
+    "ftbbackups3.general.folder.tooltip": "If not empty, an absolute path to the backup folder\nIf empty, backups are placed in the \"ftbbackups3\" folder in your game instance\nExample valid paths:\n- Linux\/Mac: \"\/home\/user\/mc-backups\"\n- Windows: \"C:\\\\Backups\\\\Minecraft\"\n  (it may be necessary to use double backslashes here)",
     "ftbbackups3.general.force_on_shutdown": "Force Backup on Shutdown",
     "ftbbackups3.general.force_on_shutdown.tooltip": "If true (and \"Automatic Backups\" is true), always run a backup when the server is being stopped",
     "ftbbackups3.general.max_total_size": "Maximum Total Size",

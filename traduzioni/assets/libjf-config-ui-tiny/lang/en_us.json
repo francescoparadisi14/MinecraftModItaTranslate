@@ -1,0 +1,10 @@
+{
+    "libjf-config-ui-tiny.entry.error.length.maximum": "§cMinimum length is %1$s",
+    "libjf-config-ui-tiny.entry.error.length.minimum": "§cMinimum length is %1$s",
+    "libjf-config-ui-tiny.entry.error.value.maximum": "§cMaximum value is %1$s",
+    "libjf-config-ui-tiny.entry.error.value.minimum": "§cMaximum value is %1$s",
+    "libjf-config-ui-tiny.entry.json.read.fail.description": "The given entry could not be read from a string. Please edit the config manually",
+    "libjf-config-ui-tiny.entry.json.read.fail.title": "Could not read",
+    "libjf-config-ui-tiny.entry.json.write.fail.description": "The given entry could not be stringified. Please edit the config manually",
+    "libjf-config-ui-tiny.entry.json.write.fail.title": "Could not write"
+}

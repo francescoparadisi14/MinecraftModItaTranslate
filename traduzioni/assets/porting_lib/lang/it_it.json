@@ -1,0 +1,9 @@
+{
+    "commands.config.getwithtype": "Configurazione trovata per il % di tipo % in posizione %",
+    "commands.config.noconfig": "Configurazione per il % di tipo % non trovata",
+    "commands.porting_lib.arguments.enum.invalid": "Il valore costante deve essere uno tra {0}, ma è stato trovato {1}",
+    "porting_lib.entity_gravity": "Gravità",
+    "porting_lib.name_tag_distance": "Distanza di rendering del badge",
+    "porting_lib.step_height": "Altezza del passo",
+    "porting_lib.swim_speed": "Velocità di nuoto"
+}

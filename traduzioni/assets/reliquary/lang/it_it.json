@@ -359,5 +359,11 @@
     "waila.reliquary.pedestal.state.off": "ANNULLATO",
     "waila.reliquary.pedestal.state.on": "ACCESO",
     "waila.reliquary.pedestal.switched_on": "Passato a",
-    "waila.reliquary.shift_for_more": "Tenere premuto il tasto \"Shift\" per maggiori informazioni."
+    "waila.reliquary.shift_for_more": "Tenere premuto il tasto \"Shift\" per maggiori informazioni.",
+    "item.reliquary.potion.tooltip": "Effetti:",
+    "item.reliquary.potion_essence.tooltip": "Effetti:",
+    "keybind.reliquary.category": "Custodia",
+    "keybind.reliquary.fortune_coin": "Abilita\/Disabilita la moneta fortunosa",
+    "fluid.reliquary.xp_juice_still": "Esperienza",
+    "fluid_type.reliquary.xp_juice": "Esperienza"
 }

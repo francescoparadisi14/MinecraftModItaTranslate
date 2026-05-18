@@ -1,0 +1,9 @@
+{
+    "entity.dummmmmmy.target_dummy": "Bersaglio fittizio",
+    "item.dummmmmmy.target_dummy": "Bersaglio fittizio",
+    "message.dummmmmmy.crit": "%d (%x)",
+    "message.dummmmmmy.double": "%1$s: %2$s, %3$s",
+    "message.dummmmmmy.dps": "%1$ DPS",
+    "message.dummmmmmy.hps": "%1$s HPS",
+    "message.dummmmmmy.single": "%1$s: %2$s"
+}

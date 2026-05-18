@@ -1,0 +1,14 @@
+{
+    "death.attack.wendigo": "%s è deceduto a causa dell'effetto di SCP-323",
+    "entity.wendigo_skull.wendigo": "SCP-323-1",
+    "entity.wendigo_skull.wendigo_skull": "Cranio del Wendigo",
+    "item.wendigo_skull.wendigo_skull_item": "SCP-323",
+    "item.wendigo_skull.wendigo_skull_spawn_egg": "Uovo di spawn del Wendigo",
+    "item.wendigo_skull.wendigo_spawn_egg": "Uovo di covata di SCP-323-1",
+    "subtitles.entity.wendigo.ambient": "SCP-323-1: Emette ringhi",
+    "subtitles.entity.wendigo.death": "SCP-323-1 muore",
+    "subtitles.entity.wendigo.hunger": "SCP-323-1: Conversazioni",
+    "subtitles.entity.wendigo.hurt": "SCP-323-1: Ferito",
+    "subtitles.entity.wendigo_skull.equip": "Equipamento SCP-323",
+    "subtitles.silence": ""
+}

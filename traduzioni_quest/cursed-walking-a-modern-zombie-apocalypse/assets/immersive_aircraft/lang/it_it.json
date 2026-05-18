@@ -1,0 +1,11 @@
+{
+    "item.immersive_aircraft.boiler": "Motore di base",
+    "item.immersive_aircraft.engine": "Motore avanzato",
+    "item.immersive_aircraft.sail": "Vela grande",
+    "item.immersive_aircraft.propeller": "Elica di grandi dimensioni",
+    "item.immersive_aircraft.enhanced_propeller": "Elica in ottone",
+    "item.immersive_aircraft.eco_engine": "Motore idraulico",
+    "item.immersive_aircraft.nether_engine": "Motore a lavaggio",
+    "item.immersive_aircraft.steel_engine": "Caldaia a ferro",
+    "item.immersive_aircraft.hull_reinforcement": "Pesco strutturato"
+}

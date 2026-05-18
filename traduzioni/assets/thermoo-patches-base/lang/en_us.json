@@ -1,0 +1,14 @@
+{
+    "text.autoconfig.thermoo-patches.option.armorPointsPPConfig": "Armor Points++ Config",
+    "text.autoconfig.thermoo-patches.option.armorPointsPPConfig.@Tooltip": "Requires BOTH Armor Points++ and libhud",
+    "text.autoconfig.thermoo-patches.option.armorPointsPPConfig.overheatingTextColor": "Overheating text color",
+    "text.autoconfig.thermoo-patches.option.friendsAndFoesConfig": "Friends & Foes Config",
+    "text.autoconfig.thermoo-patches.option.friendsAndFoesConfig.@Tooltip": "Requires Friends & Foes",
+    "text.autoconfig.thermoo-patches.option.friendsAndFoesConfig.freezingTotemFreezingScaleChange": "Freezing totem freezing scale change",
+    "text.autoconfig.thermoo-patches.option.friendsAndFoesConfig.iceologerIceChunkFreezingScaleChange": "Iceologer Ice Chunk freezing scale change",
+    "text.autoconfig.thermoo-patches.option.immersiveWeatheringConfig": "Immersive Weathering Config",
+    "text.autoconfig.thermoo-patches.option.immersiveWeatheringConfig.@Tooltip": "Requires Immersive Weathering",
+    "text.autoconfig.thermoo-patches.option.immersiveWeatheringConfig.freezingFromEatingIcicle": "Freezing from eating icicles and Ice Sickles",
+    "text.autoconfig.thermoo-patches.option.immersiveWeatheringConfig.freezingFromIcicleFall": "Freezing from falling on icicle",
+    "text.autoconfig.thermoo-patches.title": "Thermoo Patches Config"
+}

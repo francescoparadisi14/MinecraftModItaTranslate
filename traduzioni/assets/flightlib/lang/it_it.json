@@ -1,0 +1,11 @@
+{
+    "flightlib.subtitle.whoosh": "Il jetpack decolla con potenza",
+    "key.jetpack.toggle_active.description": "Attiva\/Disattiva il motore Jetpack",
+    "key.jetpack.toggle_hover.description": "Attiva\/Disattiva Modalità Hover",
+    "message.flightlib.control.off": "offerta",
+    "message.flightlib.control.on": "su",
+    "message.flightlib.control.toggle_active": "Avviare il motore del jetpack: %s",
+    "message.flightlib.control.toggle_hover": "Attivato il volo con jetpack: %s",
+    "overlay.flightlib.control.toggle_active": "Attivo",
+    "overlay.flightlib.control.toggle_hover": "Passa con il mouse"
+}

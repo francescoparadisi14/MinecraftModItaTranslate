@@ -1,0 +1,17 @@
+{
+    "libjf-config-core-v2.default": "Default",
+    "libjf-config-core-v2.edit": "Edit",
+    "libjf-config-core-v2.errored_entry": "Could not render entry: %s",
+    "libjf-config-core-v2.false": "§cFalse",
+    "libjf-config-core-v2.jfconfig.title": "LibJF Config",
+    "libjf-config-core-v2.jfconfig.watchForChanges": "Watch for changes",
+    "libjf-config-core-v2.jfconfig.watchForChanges.tooltip": "Automatically reload configs when they are changed",
+    "libjf-config-core-v2.no-screen": "No screen",
+    "libjf-config-core-v2.no-screen.description": "No mod for rendering config UIs was discovered.\nInstall LibJF to add one.",
+    "libjf-config-core-v2.null": "§dNull",
+    "libjf-config-core-v2.overview": "Overview",
+    "libjf-config-core-v2.presets": "Presets",
+    "libjf-config-core-v2.reset": "Reset",
+    "libjf-config-core-v2.see-also": "See also: %s",
+    "libjf-config-core-v2.true": "§aTrue"
+}

@@ -6,7 +6,7 @@
     "item.cloche.no_seeds_upgrade": "No Seeds Upgrade",
     "item.cloche.shears_upgrade": "Shears Upgrade",
     "itemGroup.cloche": "Cloche",
-    "jei.cloche.chance": "Chance: %s",
+    "jei.cloche.chance": "Chance: %s%%",
     "jei.cloche.main_output": "Effected by Main Output Upgrade",
     "jei.cloche.seeds_results": "Removed by No Seeds Upgrade",
     "jei.cloche.shears_result": "Drop added by Shears Upgrade",

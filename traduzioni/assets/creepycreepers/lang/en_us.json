@@ -1,0 +1,14 @@
+{
+    "creativetab.creepycreepers.title": "Creepy Creepers",
+    "entity.creepycreepers.corrupted_creeper": "Corrupted Creeper",
+    "entity.creepycreepers.ghostly_creeper": "Ghostly Creeper",
+    "entity.creepycreepers.halloween_creeper": "Halloween Creeper",
+    "entity.creepycreepers.snowy_creeper": "Snowy Creeper",
+    "entity.creepycreepers.tuff_creeper": "Tuff Creeper",
+    "item.creepycreepers.corrupted_creeper_spawn_egg": "Corrupted Creeper Spawn Egg",
+    "item.creepycreepers.ghostly_creeper_spawn_egg": "Ghostly Creeper Spawn Egg",
+    "item.creepycreepers.halloween_creeper_spawn_egg": "Halloween Creeper Spawn Egg",
+    "item.creepycreepers.snowy_creeper_spawn_egg": "Snowy Creeper Spawn Egg",
+    "item.creepycreepers.tuff_creeper_spawn_egg": "Tuff Creeper Spawn Egg",
+    "subtitle.creepycreepers.ghostly_creeper_scream": "Ghostly Creeper Scream"
+}

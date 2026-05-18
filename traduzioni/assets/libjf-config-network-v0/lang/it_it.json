@@ -1,0 +1,7 @@
+{
+    "libjf-config-network-v0.modmenu.denied.description": "Non dispone dei permessi per modificare le configurazioni su questo server.",
+    "libjf-config-network-v0.modmenu.denied.title": "Permesso negato",
+    "libjf-config-network-v0.modmenu.unavailable.description": "Il server libjf-config-network-v0 non è disponibile.",
+    "libjf-config-network-v0.modmenu.unavailable.title": "Non disponibile",
+    "overview.jfconfig.title": "Panoramica delle modifiche lato server"
+}

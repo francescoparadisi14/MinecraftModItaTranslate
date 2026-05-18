@@ -1,4 +1,9 @@
 {
+    "commands.datapack.fabric.internal": "Impossibile abilitare o disabilitare il pacchetto Fabric interno \"%s\".",
     "pack.description.modResources": "§f↑ Base Golden Days\n↓ Arte di Art",
-    "pack.name.fabricMods": "§c§lModifiche ai tessuti §7 (obbligatorie)"
+    "pack.name.fabricMod": "Mod Fabric \"%s\"",
+    "pack.name.fabricMod.subPack": "Mod Fabric \"%s\" (%s)",
+    "pack.name.fabricMods": "§c§lModifiche ai tessuti §7 (obbligatorie)",
+    "pack.source.builtinMod": "predefinito: %s",
+    "pack.source.fabricmod": "Mod Fabric"
 }

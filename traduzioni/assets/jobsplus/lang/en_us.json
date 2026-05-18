@@ -88,6 +88,7 @@
     "jobsplus.gui.powerups.title": "Power-ups",
     "jobsplus.job.exp.gain": "+%s %s",
     "jobsplus.job.item_unlocked.toast": "New item unlocked!",
+    "jobsplus.job.jobsplus.add_jobs.name": "Add Jobs",
     "jobsplus.job.jobsplus.alchemist.description": "The alchemist is a master of potions and brewing. Use the Alchemist's powerups to make your potions even stronger!",
     "jobsplus.job.jobsplus.alchemist.name": "Alchemist",
     "jobsplus.job.jobsplus.builder.description": "The builder is a master of building. use the Builder's powerups to take less fall damage. Useful for building tall structures!",

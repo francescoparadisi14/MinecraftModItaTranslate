@@ -114,6 +114,7 @@
     "createdieselgenerators.ponder.burner.text_1": "Gli bruciatori possono fornire calore agli oggetti che vengono lavorati in una vasca.",
     "createdieselgenerators.ponder.burner.text_2": "Il bruciatore deve essere alimentato con un liquido infiammabile.",
     "createdieselgenerators.ponder.burner.text_3": "La velocità di combustione dei bruciatori può essere controllata tramite una valvola.",
+    "createdieselgenerators.ponder.burner.text_4": "Inoltre, è possibile alimentare il bruciatore con redstone per farlo funzionare ancora più velocemente.",
     "createdieselgenerators.ponder.chemical_turret.header": "Installare una torretta chimica",
     "createdieselgenerators.ponder.chemical_turret.text_1": "Le torrette chimiche sono versioni autonome degli spruzzatori chimici.",
     "createdieselgenerators.ponder.chemical_turret.text_2": "È necessario fornirgli un fluido e un sistema di trasmissione a ingranaggi.",

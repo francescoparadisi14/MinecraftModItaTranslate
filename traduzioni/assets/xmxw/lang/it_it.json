@@ -34,10 +34,16 @@
     "xmxw.config.categories.waypoint.options.title.name": "Titolo",
     "xmxw.config.categories.waypoint.options.visibility.description": "Imposta la visibilità del punto di riferimento.",
     "xmxw.config.categories.waypoint.options.visibility.name": "Visibilità",
+    "xmxw.config.categories.waypoint.options.warnOnAllSetsDisabled.description": "Mostra un avviso quando l'opzione \"Rendi tutti i set di punti di riferimento\" è disabilitata.",
+    "xmxw.config.categories.waypoint.options.warnOnAllSetsDisabled.name": "Attenzione: le impostazioni per la visualizzazione di tutti i punti di riferimento sono disabilitate.",
     "xmxw.config.categories.worldData.groups._waystonePoint.options.hide.description": "Nascondere il punto di riferimento.",
     "xmxw.config.categories.worldData.groups._waystonePoint.options.hide.name": "Nascondere",
     "xmxw.config.categories.worldData.name": "Dati globali",
     "xmxw.config.title": "Configurazione XMXW",
     "xmxw.messages.custom_waypoint_uneditable": "I punti di riferimento creati dai mod non possono essere modificati!",
-    "xmxw.messages.mod_update_available": "La nuova versione %s è disponibile! Stai utilizzando la versione %s."
+    "xmxw.messages.mod_update_available": "La nuova versione %s è disponibile! Stai utilizzando la versione %s.",
+    "xmxw.toast.all_sets_disabled": "L'opzione \"Mostra tutti i set di punti di riferimento\" di Xaero's Minimap è disabilitata! I punti di riferimento potrebbero non essere visualizzati correttamente.",
+    "xmxw.toast.modded_waypoint_not_editable": "I punti di riferimento gestiti da MOD non possono essere modificati! La modifica dell'insieme di punti di riferimento selezionati potrebbe risolvere il problema.",
+    "xmxw.toast.modded_waypoint_set_not_editable": "I set di punti di riferimento gestiti da MOD non possono essere modificati! La modifica del set di punti di riferimento selezionato potrebbe risolvere il problema.",
+    "xmxw.toast.update_available": "La nuova versione %s è disponibile! Stai utilizzando la versione %s."
 }

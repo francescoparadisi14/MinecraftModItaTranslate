@@ -1244,7 +1244,7 @@
     "ui.irons_spellbooks.research_warning": "Hold to Learn (1 Manuscript)",
     "ui.irons_spellbooks.ring_count": "%d Rings",
     "ui.irons_spellbooks.sacrifice_target_failure": "You must target one of your summons",
-    "ui.irons_spellbooks.scroll_forge_title": "",
+    "ui.irons_spellbooks.scroll_forge_title": "Scroll Forge",
     "ui.irons_spellbooks.shatter_damage": "%d Shatter Damage",
     "ui.irons_spellbooks.slowed": "%d%% Slowed",
     "ui.irons_spellbooks.slowness_effect": "Slowness %d",

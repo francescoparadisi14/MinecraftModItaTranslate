@@ -1,4 +1,10 @@
 {
+    "getittogetherdrops.configuration.checkY": "Verifica Y",
+    "getittogetherdrops.configuration.checkY.tooltip": "Imposta su \"true\" se desideri che gli oggetti caduti verifichino anche gli spazi sopra e sotto, imposta su \"false\" per mantenere il comportamento predefinito.",
+    "getittogetherdrops.configuration.radius": "Raggio",
+    "getittogetherdrops.configuration.radius.tooltip": "Il raggio (in blocchi) entro il quale gli oggetti caduti dovrebbero cercare altri oggetti caduti per combinarli (\"0.5\" è il comportamento predefinito).",
+    "tag.item.getittogetherdrops.do_not_combine": "I gocce non si mescolano.",
+    "tag.item.getittogetherdrops.ignore": "Le gocce tendono a fondersi normalmente.",
     "text.autoconfig.getittogetherdrops.option.checkY": "Verificare l'asse Y",
     "text.autoconfig.getittogetherdrops.option.radius": "Raggio"
 }

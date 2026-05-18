@@ -1,5 +1,5 @@
 {
-    "ftbultimine.change_shape": "Hold Shift + (Scroll Mouse or Arrow up\/down) to change shape",
+    "ftbultimine.change_shape": "Hold Shift + (Scroll Mouse or Up\/Down keys) to change shape",
     "ftbultimine.change_shape.next": "Cycle to Next Shape",
     "ftbultimine.change_shape.no_shift": "Scroll Mouse or Up\/Down keys to change shape",
     "ftbultimine.change_shape.prev": "Cycle to Previous Shape",
@@ -73,7 +73,7 @@
     "ftbultimine.server_settings.features": "Features",
     "ftbultimine.server_settings.features.right_click_axe": "Axe: Right-Click multiple blocks",
     "ftbultimine.server_settings.features.right_click_crystals": "Allow Ultimine harvesting of crystals",
-    "ftbultimine.server_settings.features.right_click_crystals.tooltip": "Requires the FTB Ez Crystals mod to be installed (Forge only)\nHarvest vanilla Amethyst and other modded crystals",
+    "ftbultimine.server_settings.features.right_click_crystals.tooltip": "Requires the FTB Ez Crystals mod to be installed (NeoForge only)\nHarvest vanilla Amethyst and other modded crystals",
     "ftbultimine.server_settings.features.right_click_harvesting": "Allow Ultimine harvesting of crops",
     "ftbultimine.server_settings.features.right_click_hoe": "Hoe: Right-Click multiple blocks",
     "ftbultimine.server_settings.features.right_click_shovel": "Shovel: Right-Click multiple blocks",

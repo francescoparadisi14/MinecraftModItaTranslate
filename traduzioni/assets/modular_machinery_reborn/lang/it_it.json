@@ -201,6 +201,7 @@
     "mmr.gui.element.experience.tooltip": "%s \/ %s",
     "mmr.gui.element.experience.tooltip.input": "Richiesto: %s \/ %s",
     "mmr.gui.element.experience.tooltip.output": "Risultato: %s \/ %s",
+    "mmr.gui.missing_structure": "Non disponibile fino alla formazione della struttura.",
     "mmr.gui.popup.cancel": "Annulla",
     "mmr.gui.popup.confirm": "Conferma",
     "mmr.gui.structure.break": "È sicuro che desideri modificare la struttura attuale?",

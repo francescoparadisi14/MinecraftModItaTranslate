@@ -1,5 +1,8 @@
 {
     "block.mynethersdelight.blackstone_bricks_cabinet": "Polished Blackstone Brick Cabinet",
+    "block.mynethersdelight.blazier.too_cold": "The temperature is too low for this.",
+    "block.mynethersdelight.blazier.too_hot": "The temperature is too high for this.",
+    "block.mynethersdelight.blazier_block": "Blazier",
     "block.mynethersdelight.bread_loaf_block": "Bread Loaf",
     "block.mynethersdelight.bullet_pepper": "Bullet Pepper",
     "block.mynethersdelight.bullet_pepper_crate": "Bullet Pepper Crate",
@@ -159,5 +162,10 @@
     "tag.item.mynethersdelight.hot_spice": "Hot Spices",
     "tag.item.mynethersdelight.stove_fire_fuel": "Stove Fire Fuels",
     "tag.item.mynethersdelight.stove_soul_fuel": "Stove Soul Fuels",
-    "tag.item.mynethersdelight.stuffed_hoglin_items": "Stuffed Hoglin Items"
+    "tag.item.mynethersdelight.stuffed_hoglin_items": "Stuffed Hoglin Items",
+    "tooltip.farmersdelight.enchanted_golden_egg": "Nourished by all harmful effects",
+    "tooltip.farmersdelight.golden_egg": "Nourished by all harmful effects",
+    "tooltip.farmersdelight.hot_cream": "Burning Effects",
+    "tooltip.farmersdelight.magma_cake_slice": "Spicy frog Snack",
+    "tooltip.farmersdelight.strider_egg": "Nourished by 1 Harmful Effect"
 }

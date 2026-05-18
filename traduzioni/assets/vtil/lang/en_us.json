@@ -1,0 +1,4 @@
+{
+    "vtil.command.assemble.empty": "No block to assemble",
+    "vtil.command.assemble.success": "Ship '%s' is assembled"
+}

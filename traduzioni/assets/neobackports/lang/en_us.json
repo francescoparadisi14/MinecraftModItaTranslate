@@ -1,0 +1,4 @@
+{
+    "options.accessibility.menu_background_blurriness": "Menu Background Blur",
+    "options.accessibility.menu_background_blurriness.tooltip": "Changes the blurriness of menu backgrounds. \nBackported by Neo Backports lib"
+}

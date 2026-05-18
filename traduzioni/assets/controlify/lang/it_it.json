@@ -305,6 +305,7 @@
     "controlify.gui.no_fly_drifting.tooltip": "Disattiva la leggera deriva in volo quando lasci andare i comandi.",
     "controlify.gui.no_sdl.message": "Controlify usa una libreria nativa extra per aggiungere altre funzioni per il supporto al controller. Il tuo sistema non supporta questa libreria. Perderai funzioni quali:\n - vibrazione del controller\n - identificazione migliorata del controller\n - controlli del giroscopio",
     "controlify.gui.no_sdl.title": "Libreria Nativa Controlify Non Compatibile",
+    "controlify.gui.not_supported": "Il tuo controller potrebbe non essere compatibile con %s.",
     "controlify.gui.notify_low_battery": "Notifica Batteria Bassa",
     "controlify.gui.notify_low_battery.tooltip": "Una notifica comparirà quando la batteria del tuo controller wireless diventa bassa. (SPERIMENTALE)",
     "controlify.gui.open_issue_tracker": "Apri Tracker Problemi",

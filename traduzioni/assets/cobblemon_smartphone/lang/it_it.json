@@ -21,6 +21,10 @@
     "key.cobblemon_smartphone.open": "Schermo del telefono cellulare",
     "message.nbp.cloud.cooldown": "È necessario attendere %d secondi prima di aprire nuovamente il tuo forziere Ender.",
     "message.nbp.cloud.disabled": "La funzionalità basata su cloud è disabilitata su questo server.",
+    "message.nbp.cobbledollars.open_failed": "Non sono riuscito ad aprire il negozio CobbleDollars.",
+    "message.nbp.cobbledollars.unavailable": "CobbleDollars non è installato su questo server.",
+    "message.nbp.cobblenav.no_pokenav_item": "Avete bisogno di un oggetto CobbleNav PokeNav nel vostro inventario.",
+    "message.nbp.cobblenav.unavailable": "CobbleNav non è installato su questo server.",
     "message.nbp.heal.battle_error": "Non è possibile curare i Pokémon durante una battaglia!",
     "message.nbp.heal.cooldown": "È necessario attendere %d secondi prima di utilizzare nuovamente la funzione di ripristino.",
     "message.nbp.heal.disabled": "La funzione di guarigione è disabilitata su questo server.",
@@ -28,5 +32,10 @@
     "message.nbp.pc.battle_error": "Non è possibile aprire il proprio computer durante un combattimento!",
     "message.nbp.pc.cooldown": "È necessario attendere %d secondi prima di riavviare il computer.",
     "message.nbp.pc.disabled": "La funzionalità specifica per PC è disabilitata su questo server.",
+    "message.nbp.waystones.cooldown": "È necessario attendere %d secondi prima di poter utilizzare nuovamente i Waystones.",
+    "message.nbp.waystones.disabled": "La funzionalità \"Waystones\" è disabilitata su questo server.",
+    "message.nbp.waystones.no_warp_stone_item": "Avete bisogno di una Pietra di Trasporto di Waystones nel vostro inventario.",
+    "message.nbp.waystones.open_failed": "Impossibile aprire l'interfaccia di Waystones Warp Stone.",
+    "message.nbp.waystones.unavailable": "Waystones non è installato su questo server.",
     "trinkets.slot.legs.smartphone": "Smartphone"
 }

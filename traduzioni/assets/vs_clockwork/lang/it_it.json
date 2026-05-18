@@ -417,6 +417,7 @@
     "vs_clockwork.production_method.rpm": "Con RPM",
     "vs_clockwork.pump_duct.function1": "Crea una differenza di pressione per",
     "vs_clockwork.pump_duct.function2": "pompare gas lungo la rete.",
+    "vs_clockwork.recipe.gas_crafting": "Creazione di oggetti con gas",
     "vs_clockwork.subtitle.balloon_leaking_heavy": "Il pallone ad aria calda sta perdendo aria rapidamente.",
     "vs_clockwork.subtitle.balloon_leaking_light": "Fuga di aria calda da pallone",
     "vs_clockwork.subtitle.balloon_rupture": "Il pallone ad aria calda era stato danneggiato.",

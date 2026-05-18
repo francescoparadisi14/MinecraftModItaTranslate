@@ -1,0 +1,12 @@
+{
+    "libjf-translate-v1.jfconfig.libreTranslateHost": "LibreTranslate Host",
+    "libjf-translate-v1.jfconfig.libreTranslateHost.tooltip": "The host of LibreTranslate to use if that is selected",
+    "libjf-translate-v1.jfconfig.throttleMillis": "Throttle Millis",
+    "libjf-translate-v1.jfconfig.throttleMillis.tooltip": "The numer of milliseconds to wait between translation requests.\nThis is to prevent spamming the translation service.",
+    "libjf-translate-v1.jfconfig.title": "LibJF Translate v1",
+    "libjf-translate-v1.jfconfig.translationService": "Translation Service",
+    "libjf-translate-v1.jfconfig.translationService.Google": "Google",
+    "libjf-translate-v1.jfconfig.translationService.LibreTranslate": "LibreTranslate",
+    "libjf-translate-v1.jfconfig.translationService.Noop": "NOOP",
+    "libjf-translate-v1.jfconfig.translationService.tooltip": "The service to use for translation.\nOther mods may access services directly, but this should be used"
+}

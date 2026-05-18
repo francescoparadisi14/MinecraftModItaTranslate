@@ -232,6 +232,8 @@
     "bloodlines.configuration.phylacteryTeleportMistFormSoulCost": "Mist Form Phylactery Teleport Soul Cost",
     "bloodlines.configuration.phylacteryTeleportRegularSoulCost": "Phylactery Teleport Soul Cost",
     "bloodlines.configuration.playerAliveTimeForDevour": "Player Alive Time Devour Requirement",
+    "bloodlines.configuration.playerBitingGivesFrenzy": "Player Biting Blood Frenzy",
+    "bloodlines.configuration.playerBitingOnlyForBloodknight": "Player Biting For Bloodknights Only",
     "bloodlines.configuration.possessionCooldown": "Possession Cooldown",
     "bloodlines.configuration.possessionDuration": "Possession Duration",
     "bloodlines.configuration.possessionSoulCost": "Possession Soul Cost",

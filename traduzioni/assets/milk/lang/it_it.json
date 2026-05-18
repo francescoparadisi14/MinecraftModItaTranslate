@@ -1,0 +1,9 @@
+{
+    "block.milk.milk_cauldron": "Pentola per il latte",
+    "block.milk.milk_fluid_block": "Latte",
+    "fluid.milk.flowing_milk": "Latte",
+    "fluid.milk.still_milk": "Latte",
+    "item.milk.lingering_milk_bottle": "Pozione di latte persistente",
+    "item.milk.milk_bottle": "Pozione di latte",
+    "item.milk.splash_milk_bottle": "Pozione di latte"
+}

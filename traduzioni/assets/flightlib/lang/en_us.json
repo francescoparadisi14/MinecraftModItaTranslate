@@ -1,0 +1,11 @@
+{
+    "flightlib.subtitle.whoosh": "Jetpack whooshes",
+    "key.jetpack.toggle_active.description": "Toggle Jetpack Engine",
+    "key.jetpack.toggle_hover.description": "Toggle Hover Mode",
+    "message.flightlib.control.off": "off",
+    "message.flightlib.control.on": "on",
+    "message.flightlib.control.toggle_active": "Turned jetpack engine %s",
+    "message.flightlib.control.toggle_hover": "Turned jetpack hover mode %s",
+    "overlay.flightlib.control.toggle_active": "Active",
+    "overlay.flightlib.control.toggle_hover": "Hover"
+}

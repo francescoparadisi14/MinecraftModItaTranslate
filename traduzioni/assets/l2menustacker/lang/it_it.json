@@ -1,0 +1,9 @@
+{
+    "l2menustacker.configuration.section.l2configs.l2menustacker.server.toml": "Configurazione del server per L2 Menu Stacker",
+    "l2menustacker.configuration.section.l2configs.l2menustacker.server.toml.title": "Configurazione del server per L2 Menu Stacker",
+    "l2menustacker.configuration.tabSafeMode": "Modalità di sicurezza per la gestione dei menu a livelli",
+    "l2menustacker.configuration.tabSafeMode.tooltip": "Quando è abilitata questa opzione, alcuni contenitori modificati verranno ignorati all'uscita.",
+    "l2menustacker.configuration.title": "Configurazione dello stack di menu L2",
+    "l2menustacker.title": "Menu Stacker per il livello 2",
+    "l2menustacker.tooltip.quick_access": "Fare clic con il tasto destro nell'interfaccia grafica per aprire"
+}

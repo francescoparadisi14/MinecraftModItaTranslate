@@ -1,0 +1,11 @@
+{
+    "config.jade.plugin_tooltiers.tier": "Tool Tier",
+    "tooltiers.configuration.Display Missing Warning": "Display Missing Warning",
+    "tooltiers.configuration.Equal Tier": "Equal Tier",
+    "tooltiers.configuration.Force Tier": "Force Tier",
+    "tooltiers.configuration.Lenient Matching": "Lenient Matching",
+    "tooltiers.configuration.Tool Overwrite": "Tool Overwrite",
+    "tooltiers.configuration.Tooltip Info": "Tooltip Info",
+    "tooltip.tooltiers.missing_tier": "No tier assigned. Report this to the pack author",
+    "tooltip.tooltiers.tier": "Tier: %s"
+}

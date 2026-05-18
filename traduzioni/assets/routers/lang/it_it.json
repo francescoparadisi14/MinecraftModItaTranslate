@@ -1,4 +1,5 @@
 {
+    "block.routers.distributor": "Rivenditore (BETA)",
     "block.routers.exporter": "Esportatore",
     "block.routers.exporter_block": "Esportatore",
     "block.routers.importer": "Importatore",
@@ -63,6 +64,7 @@
     "tooltip.routers.chemical_upgrade": "Permette di estrarre i prodotti chimici di Mekanism dall'esportatore a una velocità di % mB per operazione.",
     "tooltip.routers.connector": "Clicca con il tasto destro per impostare la destinazione per l'esportazione\/importazione. Clicca con il tasto destro per connetterti alla destinazione.",
     "tooltip.routers.dimensional_upgrade": "Permette all'esportatore di trasferire i dati agli importatori in altre dimensioni.",
+    "tooltip.routers.distributor": "Distribuisce l'energia da questa fonte ad altri blocchi di ricezione in zona.",
     "tooltip.routers.empty_fluid_filter_slot": "Slot per filtro vuoto",
     "tooltip.routers.empty_item_filter_slot": "Cancella filtro elemento",
     "tooltip.routers.energy_upgrade": "Permette di estrarre energia da un emettitore a una frequenza di %s Hertz per ciclo.",
@@ -87,5 +89,7 @@
     "tooltip.routers.source_upgrade": "Permette di estrarre i dati nello stile Art Nouveau dall'esportatore a un costo di % per operazione.",
     "tooltip.routers.speed_upgrade": "Permette di estrarre ogni %s tick dal modulo esportatore.",
     "tooltip.routers.tag_filter": "Etichetta: %s",
-    "tooltip.routers.tag_filter_empty": "Clicca con il tasto destro per aprire, consente di filtrare per modulo."
+    "tooltip.routers.tag_filter_empty": "Clicca con il tasto destro per aprire, consente di filtrare per modulo.",
+    "tooltip.routers.wrench_exporter": "Esportatore collegato a %s",
+    "tooltip.routers.wrench_importer": "Importatore collegato a %s"
 }

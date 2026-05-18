@@ -80,6 +80,11 @@
     "subtitles.block.fairylights.feature.lightTurnOff": "Lights click off",
     "subtitles.block.fairylights.feature.lightTurnOn": "Lights click on",
     "subtitles.block.fairylights.jingleBell": "Bell jingles",
+    "tag.item.fairylights.dyeable": "Dyeable Features",
+    "tag.item.fairylights.dyeable_lights": "Dyable Lights",
+    "tag.item.fairylights.lights": "Lights",
+    "tag.item.fairylights.pennants": "Pennants",
+    "tag.item.fairylights.twinkling_lights": "Twinkling Lights",
     "tutorial.fairylights.craft_hanging_lights.description": "The recipe book can help",
     "tutorial.fairylights.craft_hanging_lights.title": "Craft hanging lights"
 }

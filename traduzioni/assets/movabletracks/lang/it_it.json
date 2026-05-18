@@ -1,0 +1,7 @@
+{
+    "movabletracks.configuration.enableDebugTools": "Abilita gli strumenti di debug",
+    "movabletracks.configuration.freezeCarriedWheelAnimation": "Animazione del movimento del volante bloccato",
+    "movabletracks.configuration.section.movabletracks.common.toml": "Cingoli mobili",
+    "movabletracks.configuration.section.movabletracks.common.toml.title": "Cingoli mobili",
+    "movabletracks.configuration.title": "Cingoli mobili"
+}

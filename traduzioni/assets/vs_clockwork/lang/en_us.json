@@ -417,6 +417,7 @@
     "vs_clockwork.production_method.rpm": "With RPM",
     "vs_clockwork.pump_duct.function1": "Creates a pressure difference to",
     "vs_clockwork.pump_duct.function2": "pump gas along the network.",
+    "vs_clockwork.recipe.gas_crafting": "Gas Crafting",
     "vs_clockwork.subtitle.balloon_leaking_heavy": "Hot air balloon rapidly leaking",
     "vs_clockwork.subtitle.balloon_leaking_light": "Hot air balloon leaking",
     "vs_clockwork.subtitle.balloon_rupture": "Hot air balloon ruptured",

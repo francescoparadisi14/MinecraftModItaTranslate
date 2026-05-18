@@ -1,0 +1,21 @@
+{
+    "create_aeronautics_throwable_rope_connector.configuration.section.create_aeronautics_throwable_rope_connector-common.toml": "Gancio per cavo smontabile",
+    "create_aeronautics_throwable_rope_connector.configuration.section.create_aeronautics_throwable_rope_connector-common.toml.title": "Gancio per cavo smontabile",
+    "create_aeronautics_throwable_rope_connector.configuration.throwable_rope_connector.consumeOnSuccessOnly": "Consumare solo in caso di successo",
+    "create_aeronautics_throwable_rope_connector.configuration.throwable_rope_connector.cooldownTicks": "Ricarica dei tick",
+    "create_aeronautics_throwable_rope_connector.configuration.throwable_rope_connector.launcherMaxDistance": "Massima distanza di lancio",
+    "create_aeronautics_throwable_rope_connector.configuration.throwable_rope_connector.maxThrowDistance": "Massima distanza di lancio",
+    "create_aeronautics_throwable_rope_connector.configuration.throwable_rope_connector.playParticles": "Particelle interattive",
+    "create_aeronautics_throwable_rope_connector.configuration.throwable_rope_connector.projectileRopeTrailWidth": "Larghezza del sentiero per funi di traino",
+    "create_aeronautics_throwable_rope_connector.configuration.throwable_rope_connector.showFailureMessages": "Mostra messaggi di errore",
+    "create_aeronautics_throwable_rope_connector.configuration.throwable_rope_connector.showProjectileRopeTrail": "Mostra il percorso a corda per proiettili.",
+    "create_aeronautics_throwable_rope_connector.configuration.throwable_rope_connector.throwVelocity": "Velocità di lancio",
+    "create_aeronautics_throwable_rope_connector.configuration.title": "Configurazione per connettore a corda rimovibile",
+    "item.create_aeronautics_throwable_rope_connector.rope_connector_launcher": "Apparecchio per il collegamento di funi",
+    "item.create_aeronautics_throwable_rope_connector.throwable_rope_connector": "Gancio per cavo smontabile",
+    "message.create_aeronautics_throwable_rope_connector.cannot_attach_there": "Non posso allegare qui.",
+    "message.create_aeronautics_throwable_rope_connector.missing_simulated": "L'integrazione simulata non è disponibile.",
+    "message.create_aeronautics_throwable_rope_connector.no_valid_anchor_point": "Nessun punto di ancoraggio valido",
+    "message.create_aeronautics_throwable_rope_connector.offhand_ammo_required": "Tieni in mano l'altro un connettore per corda da lanciare.",
+    "message.create_aeronautics_throwable_rope_connector.target_too_far": "L'obiettivo è troppo lontano."
+}

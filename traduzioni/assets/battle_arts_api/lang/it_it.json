@@ -1,0 +1,21 @@
+{
+    "epicfight.skill_slot.battle_style": "Stile di combattimento",
+    "epicfight.skill_slot.burst_art": "Burst Art",
+    "epicfight.skill_slot.combat_art": "Arte della guerra",
+    "epicfight.skill_slot.special_art": "Arte speciale",
+    "epicfight.skill_slot.ultimate_art": "Arte suprema",
+    "key.battle_arts_api.burst_art_use": "Utilizza Burst Art",
+    "key.battle_arts_api.combat_art_use": "Utilizza l'arte della guerra",
+    "key.battle_arts_api.special_art_use": "Utilizza tecniche artistiche speciali",
+    "key.battle_arts_api.ultimate_art_use": "Utilizza Ultimate Art",
+    "key.category.battle_arts_api.skills": "Abilità nelle arti marziali",
+    "skill.battle_arts_api.mana_charge": "Ricarica di mana",
+    "skill.battle_arts_api.mana_charge.tooltip": "Rallenta notevolmente la velocità di rigenerazione del mana, ma in cambio... si ottiene la capacità di attivare un'abilità che ricarica il mana in modo estremamente rapido.",
+    "skill.battle_arts_api.traveler": "Viaggiatore",
+    "skill.battle_arts_api.traveler.tooltip": "Non destinato all'uso.",
+    "skill.epicfight.battle_style.category": "Stile di combattimento",
+    "skill.epicfight.burst_art.category": "Burst Art",
+    "skill.epicfight.combat_art.category": "Arte della guerra",
+    "skill.epicfight.special_art.category": "Arte speciale",
+    "skill.epicfight.ultimate_art.category": "Arte suprema"
+}

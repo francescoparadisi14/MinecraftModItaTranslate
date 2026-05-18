@@ -1,0 +1,13 @@
+{
+    "meza_core.config.category.support": "Support",
+    "meza_core.config.support.cta": "Click Here to Support!",
+    "meza_core.config.support.cta.tooltip": "Click the link for the Ko-fi page to see the tiers and perks",
+    "meza_core.config.support.description1": "Thank you for using this mod ❤\nMaintaining it takes time, coffee, and a bit of magic dust.\n\nIf you'd like to support future updates — or just want your name in lights — consider becoming a sponsor.",
+    "meza_core.config.support.description2": "Also helps me justify to my lizard doggo plushie why I'm still at the keyboard at 2am.",
+    "meza_core.config.support.empty": "If you're poking around these settings, you're exactly the sort of person who knows the joy of discovering something crafted with care (and probably why I'm awake way past my bedtime doing it).\n\nRight now, this little modding adventure hasn't found its first supporter yet. No pressure, but it'd be pretty special if it turned out to be you.\nThink of it like planting the first torch in a new world: it’s a small gesture, but it changes everything.",
+    "meza_core.config.support.list": "And a big thank-you to those who’ve stuck around",
+    "meza_core.config.support.newcomers": "A warm welcome to our supporters from the past few days",
+    "meza_core.discord": "Discord",
+    "meza_core.reminder": "Hey, you’re using the following mods from Meza: \n%s\nIf you'd like to support future updates consider becoming a sponsor.",
+    "meza_core.support": "Support on Ko-fi"
+}

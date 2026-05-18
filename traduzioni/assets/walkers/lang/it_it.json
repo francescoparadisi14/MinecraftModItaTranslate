@@ -27,5 +27,6 @@
     "walkers.unlock_entity": "Abilitato come seconda forma: %s",
     "walkers.unlock_entity_blacklisted": "Questa entità non è disponibile per te.",
     "walkers.unlock_progress": "Lo senti formicolare.",
-    "walkers.variants.minecraft.snow_golem.0": "Testa mozzata %s"
+    "walkers.variants.minecraft.snow_golem.0": "Testa mozzata %s",
+    "walkers.variants_menu_guide": "Varianti del ciclo selezionabili tramite scorrevole, selezione con \"%s\""
 }

@@ -1,0 +1,15 @@
+{
+    "item.multitools.diamond_multitool": "Multiutensile in lega di diamante",
+    "item.multitools.golden_multitool": "Multitool dorato",
+    "item.multitools.iron_multitool": "Multiutensile in acciaio",
+    "item.multitools.multitool_handle": "Manico di strumento multifunzione",
+    "item.multitools.multitool_netherite_upgrade": "Aggiornamento strumento multifunzione Netherite",
+    "item.multitools.netherite_multitool": "Multiutensile in Netherite",
+    "itemGroup.multitools.multitools_enhanced": "Strumenti multifunzione migliorati",
+    "tag.item.multitools.multitools": "Strumenti multifunzione",
+    "text.config.multitool-config.option.diamondMultitoolDurability": "Resistenza del multi-strumento Diamond",
+    "text.config.multitool-config.option.goldMultitoolDurability": "Resistenza del multi-strumento in oro",
+    "text.config.multitool-config.option.ironMultitoolDurability": "Resistenza del multi-strumento in acciaio",
+    "text.config.multitool-config.option.netheriteMultitoolDurability": "Durabilità del multi-strumento in Netherite",
+    "text.config.multitool-config.title": "Configurazione avanzata per strumenti multifunzione"
+}

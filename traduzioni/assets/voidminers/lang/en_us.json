@@ -138,7 +138,7 @@
     "tooltip.voidminers.item": "Item Amount Modifier: %dx",
     "tooltip.voidminers.solar_panel.missing_structure": "Solar Panel is not assembled correctly, shift r-click the block for a guide. Total needed blocks:",
     "tooltip.voidminers.speed": "Duration Modifier: %dx",
-    "tooltip.voidminers.structure.weight": "Weight: %s",
+    "tooltip.voidminers.structure.weight": "Weight: %d",
     "tooltip.voidminers.upgrade_applied": "Applied upgrade: %s",
     "tooltip.voidminers.upgrade_ignored": "Note: only the highest tier applies; duplicates\/lowers ignored",
     "tooltip.voidminers.upgrade_max_storage_t1": "Right-click a miner with this upgrade to apply it.\nIncreases the miner's output inventory by +3 slots.\nOnly the highest installed tier is applied; non-cumulative. Consumed on use.",

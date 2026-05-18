@@ -29,6 +29,7 @@
     "log.warn.loadAnchorList": "ESM: Elenco degli ancoraggi non trovato; Creazione di un elenco di ancoraggi vuoto.",
     "log.warn.loadMuffledList": "ESM: Elenco \"Muffled\" non trovato; Creazione di un nuovo elenco \"Muffled\" vuoto.",
     "main_screen.btn.accept": "Accettare",
+    "main_screen.btn.anchors.customskinloader": "Il mod \"Custom Skin Loader\" causa problemi con gli ancoraggi di lettura\/scrittura, rendendoli inutilizzabili quando si utilizza quel mod.",
     "main_screen.btn.anchors.disabled": "Le funzioni di ancoraggio sono disabilitate!",
     "main_screen.btn.anchors.edit": "Modifica l'ancora",
     "main_screen.btn.anchors.set": "Imposta l'ancora",

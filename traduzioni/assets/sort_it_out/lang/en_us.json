@@ -6,6 +6,7 @@
     "config.sort_it_out.client_preferences.comparators.display_name": "By Name",
     "config.sort_it_out.client_preferences.comparators.durability": "By Durability",
     "config.sort_it_out.client_preferences.comparators.empty_list": "Comparator list cannot be empty",
+    "config.sort_it_out.client_preferences.comparators.enchantments": "By Enchantments",
     "config.sort_it_out.client_preferences.comparators.namespace": "By Namespace",
     "config.sort_it_out.client_preferences.comparators.tooltip": "A list of indicators to use when comparing items for sorting. If the first comparator says two items are equal, the next comparator will be used (and so on if that says they are equal).",
     "config.sort_it_out.client_preferences.invertSorting": "Invert Sorting Order",

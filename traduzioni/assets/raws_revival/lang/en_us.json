@@ -1,0 +1,10 @@
+{
+    "death.attack.raws_revival.failed_to_revive_other_player": "%2$s failed to revive %1$s",
+    "death.attack.raws_revival.failed_to_revive_self": "%1$s perished after failing self revive",
+    "death.attack.raws_revival.gave_up": "%1$s gave up",
+    "death.attack.raws_revival.not_revived_in_time": "%1$s could not be revived",
+    "key.raws_revival.key.group": "Raw's Revival",
+    "key.raws_revival.key.self_revive": "Self Revive",
+    "key.raws_revival.key.skip_revival": "Give up",
+    "screen.tooltip.disconnect_button.give_up_on_reconnect": "Give up on reconnect."
+}

@@ -1,0 +1,21 @@
+{
+    "curios.identifier.pandora": "Oggetto da collezione Pandora",
+    "curios.modifiers.pandora": "Quando si visita Pandora:",
+    "item.pandora.pandora_bracelet": "Bracciale Pandora",
+    "item.pandora.pandora_necklace": "Collana Pandora",
+    "itemGroup.l2core.pandora": "Pandora",
+    "pandora.configuration.section.l2configs.pandora.client.toml": "Configurazione del client API di Pandora",
+    "pandora.configuration.section.l2configs.pandora.client.toml.title": "Configurazione del client API di Pandora",
+    "pandora.configuration.section.l2configs.pandora.server.toml": "Configurazione del server API di Pandora",
+    "pandora.configuration.section.l2configs.pandora.server.toml.title": "Configurazione del server API di Pandora",
+    "pandora.configuration.showItemTitle": "Mostra il nome dell'articolo nel tab \"Pandora\"",
+    "pandora.configuration.showItemTitle.tooltip": "",
+    "pandora.configuration.title": "Configurazione dell'API Pandora",
+    "pandora.menu.invalid": "Non valido",
+    "pandora.menu.title": "Portachiavi Pandora",
+    "pandora.title": "API di Pandora",
+    "pandora.tooltip.contain": "Contiene %s portachiavi",
+    "pandora.tooltip.duplicate": "Potrebbe essere possibile avere più di questo ciondolo in un unico bracciale Pandora.",
+    "pandora.tooltip.holder": "Supporta fino a %s ciondoli Pandora.",
+    "pandora.tooltip.shift": "Premi il tasto SHIFT per visualizzare il contenuto, fai clic con il tasto destro per aprirlo."
+}

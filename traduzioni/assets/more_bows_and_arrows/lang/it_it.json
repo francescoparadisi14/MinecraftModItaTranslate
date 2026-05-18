@@ -234,5 +234,7 @@
     "more_bows_and_arrows.text.tnt_arrow_lore2": "causando un'esplosione devastante...",
     "more_bows_and_arrows.text.warped_stem_bow_damage": "§2 + 2: Bonus di danno",
     "more_bows_and_arrows.text.warped_stem_bow_lore1": "Un arco semplice, realizzato con filamenti deformati.",
-    "more_bows_and_arrows.text.warped_stem_bow_lore2": "non è molto più potente di un arco normale..."
+    "more_bows_and_arrows.text.warped_stem_bow_lore2": "non è molto più potente di un arco normale...",
+    "tag.item.more_bows_and_arrows.mod_bows": "Più archi e frecce",
+    "tag.item.more_bows_and_arrows.netherite_bow": "Arco di Netherite"
 }

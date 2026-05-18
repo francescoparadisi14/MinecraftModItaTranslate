@@ -105,10 +105,12 @@
     "item.buildinggadgets2.gadget_exchanging": "Scambio di dispositivi elettronici",
     "item.buildinggadgets2.redprint": "Redprint",
     "item.buildinggadgets2.template": "Modello",
+    "item.buildinggadgets2.template_manager": "Gestore di modelli",
     "itemGroup.buildinggadgets2": "Gadget per la casa 2",
     "key.buildinggadgets2.anchor": "Ancoraggio",
     "key.buildinggadgets2.category": "Gadget per la casa 2",
     "key.buildinggadgets2.range": "Gamma",
     "key.buildinggadgets2.settings_menu": "Menu Impostazioni",
-    "key.buildinggadgets2.undo": "Annulla"
+    "key.buildinggadgets2.undo": "Annulla",
+    "key.category.buildinggadgets2.main": "Gadget per la casa 2"
 }

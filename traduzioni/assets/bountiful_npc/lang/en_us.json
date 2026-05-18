@@ -1,5 +1,11 @@
 {
     "dialog.minecraft.villager.bountiful_npc.1": "Ad astra abyssoque! Welcome to the Adventurers' Guild!",
+    "entity.minecraft.villager.bountiful_npc.answer1": "Ad astra abyssoque! Welcome to the Adventurers' Guild!",
+    "entity.minecraft.villager.bountiful_npc.answer2": "The Adventurers' Guild will issue different [Bounties] based on the [Bounty Board]! [Bounties] will increase over time, so please be patient! The bounties issued by different Adventurers' Guilds will also vary. After completing the task, give me the Bounty, and I will reward you based on the task!",
+    "entity.minecraft.villager.bountiful_npc.option0": "[Back]",
+    "entity.minecraft.villager.bountiful_npc.option1": "[View Commissions]",
+    "entity.minecraft.villager.bountiful_npc.option2": "[Complete Commission]",
+    "entity.minecraft.villager.bountiful_npc.option3": "[About]",
     "entity.minecraft.villager.bountiful_npc.receptionist": "Receptionist",
     "option.minecraft.villager.bountiful_npc.1": "[View Commissions]",
     "option.minecraft.villager.bountiful_npc.2": "[Complete Commission]"

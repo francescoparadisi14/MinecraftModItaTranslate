@@ -1,0 +1,15 @@
+{
+    "bearminimum.configuration.rebalance_polar_bears": "Riaffrontare le popolazioni di orsi polari",
+    "entity.bearminimum.black_bear": "Orso nero",
+    "entity.bearminimum.brown_bear": "Orso bruno",
+    "item.bearminimum.bear_meat": "Carne di orso",
+    "item.bearminimum.black_bear_spawn_egg": "Uovo di ricomincia del bruno marsicano",
+    "item.bearminimum.brown_bear_spawn_egg": "Uovo della larva di orso bruno",
+    "item.bearminimum.cooked_bear_meat": "Cervo cotto",
+    "tag.entity_type.bearminimum.black_bear_forage": "L'orso nero cerca cibo",
+    "tag.entity_type.bearminimum.black_bear_prey": "Caccia delorso",
+    "tag.entity_type.bearminimum.brown_bear_forage": "Orso bruno alla ricerca di cibo",
+    "tag.entity_type.bearminimum.brown_bear_prey": "Orso bruno: preda",
+    "tag.item.bearminimum.black_bear_food": "Cibo per orsi neri",
+    "tag.item.bearminimum.brown_bear_food": "Cibo per orsi bruni"
+}

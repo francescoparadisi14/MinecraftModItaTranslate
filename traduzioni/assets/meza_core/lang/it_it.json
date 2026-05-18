@@ -1,0 +1,13 @@
+{
+    "meza_core.config.category.support": "Assistenza",
+    "meza_core.config.support.cta": "Clicca qui per sostenere!",
+    "meza_core.config.support.cta.tooltip": "Clicca sul link per la pagina Ko-fi per visualizzare i livelli e i vantaggi offerti.",
+    "meza_core.config.support.description1": "Grazie per aver utilizzato questo mod ❤\n\nMantenere questo mod richiede tempo, caffè e un pizzico di magia.\n\nSe desiderate sostenere gli aggiornamenti futuri – o semplicemente volete che il vostro nome sia in evidenza – considerate la possibilità di diventare un sostenitore.",
+    "meza_core.config.support.description2": "Aiuta anche a giustificare la mia presenza davanti al computer alle 2 del mattino al mio peluche, un piccolo rettile.",
+    "meza_core.config.support.empty": "Se state esplorando queste impostazioni, siete esattamente il tipo di persona che apprezza la gioia di scoprire qualcosa creato con cura (e probabilmente anche il motivo per cui sono ancora sveglio ben oltre l'ora di andare a dormire).\n\nAl momento, questa piccola avventura di personalizzazione non ha ancora trovato il suo primo sostenitore. Ma sarebbe davvero speciale se fosse proprio voi.\n\nImmaginate di essere la prima persona a accendere una torcia in un nuovo mondo: è un gesto piccolo, ma cambia tutto.",
+    "meza_core.config.support.list": "E un grande ringraziamento a tutti coloro che sono rimasti.",
+    "meza_core.config.support.newcomers": "Un caloroso benvenuto ai nostri sostenitori degli ultimi giorni.",
+    "meza_core.discord": "Discord",
+    "meza_core.reminder": "Ciao, stai utilizzando i seguenti mod di Meza:\n%s\nSe desideri supportare gli aggiornamenti futuri, puoi diventare un sostenitore.",
+    "meza_core.support": "Supporto su Ko-fi"
+}

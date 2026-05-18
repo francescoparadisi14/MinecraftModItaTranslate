@@ -1,0 +1,7 @@
+{
+    "tinymultiblocklib.configuration.disable_multiblock_previews": "Disabilita le anteprime Multiblock",
+    "tinymultiblocklib.configuration.disable_multiblock_previews.tooltip": "Disabilita le anteprime dei blocchi \"fantasma\" quando si tenta di posizionare un blocco multiplo.",
+    "tinymultiblocklib.configuration.section.tinymultiblocklib.client.toml": "Configurazione del cliente TMBL",
+    "tinymultiblocklib.configuration.section.tinymultiblocklib.client.toml.title": "Configurazione del cliente TMBL",
+    "tinymultiblocklib.configuration.title": "Tiny Multiblock Library"
+}

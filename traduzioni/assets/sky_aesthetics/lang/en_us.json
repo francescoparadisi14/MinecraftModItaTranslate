@@ -1,0 +1,9 @@
+{
+    "config.sky_aesthetics.disableCustomCloud": "Disable Custom Clouds",
+    "config.sky_aesthetics.disableCustomSkies": "Disable Custom Skies",
+    "config.sky_aesthetics.disableCustomWeather": "Disable Custom Skies",
+    "config.sky_aesthetics.disabledSkies": "Disabled Skies",
+    "sky_aesthetics.pause_menu.sky_modification_screen": "Modify Sky",
+    "sky_aesthetics.toast.error.description": "Check the logs for more information",
+    "sky_aesthetics.toast.error.title": "Error while creating the resource pack"
+}

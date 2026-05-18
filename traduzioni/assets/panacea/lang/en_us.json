@@ -1,0 +1,12 @@
+{
+    "block.panacea.panacea_container_0": "SCP-500 Container",
+    "block.panacea.panacea_container_1": "SCP-500 Container",
+    "block.panacea.panacea_container_2": "SCP-500 Container",
+    "block.panacea.panacea_container_3": "SCP-500 Container",
+    "block.panacea.panacea_container_4": "SCP-500 Container",
+    "block.panacea.panacea_container_5": "SCP-500 Container",
+    "item.panacea.panacea": "Panacea",
+    "subtitles.block.panacea_container.place": "Panacea Container",
+    "subtitles.item.panacea.use": "Panacea Used",
+    "subtitles.silence": ""
+}

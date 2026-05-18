@@ -1,0 +1,12 @@
+{
+    "l2core.configuration.addEnchantmentDescription": "Mostra le descrizioni degli incantesimi quando sono presenti incantesimi con descrizioni parametriche personalizzate.",
+    "l2core.configuration.addEnchantmentDescription.tooltip": "Valori consentiti: DISABLE, SHIFT_ONLY, ALWAYS",
+    "l2core.configuration.overlayZVal": "Altezza dell'elemento di sovrapposizione del carattere",
+    "l2core.configuration.overlayZVal.tooltip": "Valore predefinito: 250\nIntervallo: da -1000000 a 1000000",
+    "l2core.configuration.renderOverlayIcons": "Visualizza icone di sovrapposizione sugli elementi.",
+    "l2core.configuration.renderOverlayIcons.tooltip": "",
+    "l2core.configuration.section.l2configs.l2core.client.toml": "Configurazione del cliente L2Core",
+    "l2core.configuration.section.l2configs.l2core.client.toml.title": "Configurazione del cliente L2Core",
+    "l2core.configuration.title": "Configurazione di L2Core",
+    "l2core.title": "L2Core"
+}

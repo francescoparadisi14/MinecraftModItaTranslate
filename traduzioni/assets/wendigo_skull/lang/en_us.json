@@ -1,0 +1,14 @@
+{
+    "death.attack.wendigo": "%s died over the influence of SCP-323",
+    "entity.wendigo_skull.wendigo": "SCP-323-1",
+    "entity.wendigo_skull.wendigo_skull": "Wendigo Skull",
+    "item.wendigo_skull.wendigo_skull_item": "SCP-323",
+    "item.wendigo_skull.wendigo_skull_spawn_egg": "Wendigo Skull Spawn Egg",
+    "item.wendigo_skull.wendigo_spawn_egg": "SCP-323-1 Spawn Egg",
+    "subtitles.entity.wendigo.ambient": "SCP-323-1 Growls",
+    "subtitles.entity.wendigo.death": "SCP-323-1 Dies",
+    "subtitles.entity.wendigo.hunger": "SCP-323-1 Talks",
+    "subtitles.entity.wendigo.hurt": "SCP-323-1 Hurt",
+    "subtitles.entity.wendigo_skull.equip": "SCP-323 Equip",
+    "subtitles.silence": ""
+}

@@ -1,6 +1,7 @@
 {
     "item.energyblade.forge_energy_blade": "Prototipo HF SlashBlade",
     "item.energyblade.hf_blade": "HF Blade",
+    "key.energyblade.charge_switch": "Interruttore di accensione\/spegnimento",
     "tip.energyblade.energy_info": "Tenete premuto il tasto \"%s\" per visualizzare ulteriori informazioni.",
     "tip.energyblade.forge_energy_info": "Energia attuale: %s FE"
 }

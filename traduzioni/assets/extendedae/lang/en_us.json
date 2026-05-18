@@ -63,7 +63,7 @@
     "gui.extendedae.assembler_matrix.pattern": "Only accepts crafting pattern",
     "gui.extendedae.assembler_matrix.threads": "Running Jobs: %s",
     "gui.extendedae.assembler_matrix.tooltip": "Search pattern",
-    "gui.extendedae.caner": "ME Caner",
+    "gui.extendedae.caner": "ME Canner",
     "gui.extendedae.caner.empty": "Empty Mode",
     "gui.extendedae.caner.fill": "Fill Mode",
     "gui.extendedae.circuit_cutter": "Circuit Slicer",

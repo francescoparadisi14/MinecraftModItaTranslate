@@ -1,0 +1,15 @@
+{
+    "ftbauxilium.btn-cancel": "Annulla",
+    "ftbauxilium.btn-opt-in": "Ritorna alla posizione precedente",
+    "ftbauxilium.btn.opt-out": "Annullare l'iscrizione",
+    "ftbauxilium.heading-opt-in": "Sembra che tu abbia già disattivato questa opzione.",
+    "ftbauxilium.heading-opt-out": "Annullare l'iscrizione?",
+    "ftbauxilium.heading-what-info": "Cosa sta inviando?",
+    "ftbauxilium.heading-what-is": "Cos'è FTB Auxilium?",
+    "ftbauxilium.msg.opted-in": "È stato riattivato il tuo account.",
+    "ftbauxilium.msg.opted-out": "È stato disattivato il tuo account.",
+    "ftbauxilium.opt-in": "Se desidera riattivare il sistema di statistiche di Auxilium, premete il pulsante sottostante.",
+    "ftbauxilium.opt-out": "Se desidera non inviare queste informazioni anonime a FTB, può disattivare l'opzione utilizzando il pulsante sottostante. Ciò impedirà l'utilizzo di Auxilium per la trasmissione di dati a FTB.",
+    "ftbauxilium.what-info": "Auxilum raccoglie solo dati di base e completamente anonimi; attualmente, fornirà informazioni su: tempi di caricamento, il pacchetto che si sta utilizzando, i log degli errori, il tempo di gioco e il launcher utilizzato per avviare il pacchetto.",
+    "ftbauxilium.what-is": "FTB Auxilium è un mod leggero che invia una piccola quantità di dati statistici al server di statistiche di FTB. Utilizziamo queste informazioni per guidare lo sviluppo del nostro pacchetto in una direzione che meglio soddisfi le esigenze dei nostri giocatori."
+}

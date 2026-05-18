@@ -193,6 +193,8 @@
     "item.phantasm.sour_sludge_spawn_egg": "Uovo di Sour Sludge",
     "itemgroup.phantasm": "Fantasma",
     "jukebox_song.phantasm.abruption": "Dylanvhs - Distacco placentare",
+    "sound.phantasm.entity.behemoth.ambient": "Behemoth ronza",
+    "sound.phantasm.entity.behemoth.dying": "Behemoth muore",
     "sounds.phantasm.music_disc_abruption": "Gioco di abruzioni",
     "tag.item.phantasm.crystal_flowers": "Fiori di cristallo",
     "tag.item.phantasm.has_xp_boost": "Esperienza potenziata",

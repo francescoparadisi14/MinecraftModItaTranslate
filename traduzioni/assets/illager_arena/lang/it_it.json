@@ -1,0 +1,12 @@
+{
+    "block.illager_arena.example_block": "Esempio di blocco",
+    "illager_arena.configuration.items": "Elenco degli articoli",
+    "illager_arena.configuration.logDirtBlock": "Blocco di terra per strade",
+    "illager_arena.configuration.magicNumber": "Numero magico",
+    "illager_arena.configuration.magicNumberIntroduction": "Numero Magico",
+    "illager_arena.configuration.section.illager_arena.common.toml": "Configurazioni per l'arena dei saccheggiatori",
+    "illager_arena.configuration.section.illager_arena.common.toml.title": "Configurazioni per l'arena dei saccheggiatori",
+    "illager_arena.configuration.title": "Configurazioni per l'arena dei saccheggiatori",
+    "item.illager_arena.example_item": "Esempio di articolo",
+    "itemGroup.illager_arena": "Esempio di Tabella Mod"
+}

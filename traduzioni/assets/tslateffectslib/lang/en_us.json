@@ -1,0 +1,10 @@
+{
+    "command.tel.enum.invalid": "Invalid enum value %1$2, must be one of %2$s",
+    "command.tel.particle.clear.success.multiple": "Cleared the particles of %1$s players",
+    "command.tel.particle.clear.success.single": "Cleared %1$s's particles",
+    "command.tel.particle.desc": "\/tel particle - Summon particle(s) using TEL's particle system",
+    "command.tel.particle.invalidProperties": "Invalid properties for particle: '%1$s'",
+    "command.tel.particle.properties": "Properties:",
+    "command.tel.particle.success": "Sent %1$s particle to all players in %2$s",
+    "command.tel.prefix.particle": "Particle"
+}

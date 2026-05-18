@@ -1,0 +1,23 @@
+{
+    "formatting.sathlib.curly_brackets": "{%s}",
+    "formatting.sathlib.round_brackets": "(%s)",
+    "formatting.sathlib.square_brackets": "[%s]",
+    "generic.sathlib.all": "All",
+    "generic.sathlib.allow": "Allow",
+    "generic.sathlib.allowed": "Allowed",
+    "generic.sathlib.any": "Any",
+    "generic.sathlib.denied": "Denied",
+    "generic.sathlib.deny": "Deny",
+    "generic.sathlib.disabled": "Disabled",
+    "generic.sathlib.enabled": "Enabled",
+    "generic.sathlib.none": "None",
+    "generic.sathlib.off": "Off",
+    "generic.sathlib.on": "On",
+    "generic.sathlib.supported": "Supported",
+    "generic.sathlib.unsupported": "Unsupported",
+    "input.sathlib.curly_brackets": "{%s}",
+    "input.sathlib.round_brackets": "(%s)",
+    "input.sathlib.square_brackets": "[%s]",
+    "input.sathlib.wheel.down": "Wheel Down",
+    "input.sathlib.wheel.up": "Wheel Up"
+}
