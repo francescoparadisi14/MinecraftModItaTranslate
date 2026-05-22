@@ -1,15 +1,15 @@
 {
-    "name": "Albero di Yucca 🌐",
+    "name": "Albero Yucca 🌐",
     "category": "patchouli:trees",
     "icon": "atmospheric:yucca_sapling",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🌐 Disponibile tutto l'anno\n$(li)Dimensioni: 1x1\n$(li)I fiori di Yucca crescono in cima."
+            "text": "$(l)Stats$()$(li)🌐 §5Disponibile tutto l'anno§r$(li)Dimensioni: 1x1$(li)I fiori di yucca crescono in cima."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: Multibloc\nAlbero di Yucca",
+            "name ": "Albero di Yucca",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [

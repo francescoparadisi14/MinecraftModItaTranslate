@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 264$(li)🍂 Autunno$(li)Acqua: Oceano$(li)Tempo: Pioggia, neve$(li)Ora: Giorno"
+            "text": "$(l)Statistiche$()$(li):moneta: 264$(li)§0🍂 §4Autunno§0$(li)Acqua: Oceano$(li)Tempo: Pioggia, neve$(li)Ora: Giorno"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:red_shrooma",
             "scale": 0.8,
             "rotate": true,
-            "text": "patchouli: entità\n\nacquacoltura: red_shrooma\n\nScommetto che è sicuro da mangiare."
+            "text": "Scommetto che è sicuro da mangiare."
         }
     ]
 }

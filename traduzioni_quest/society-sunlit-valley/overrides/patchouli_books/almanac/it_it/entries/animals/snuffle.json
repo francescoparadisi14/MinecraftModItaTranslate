@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Peli: Snuffle Fluff, Frosty Fluff, Lana fine (50% di probabilità), Peli congelati (20% di probabilità) $(li)Peli congelati$()$(br2)$(l)Note$()$(br)I peli di lana fine possono comparire solo quando si hanno 5 o più cuori di affetto. I peli congelati richiedono 7 o più cuori. Nel tempo, i peli ricresceranno lentamente e diventeranno bianchi nella neve."
+            "text": "$(l)Statistiche$()\n$(li) Cadute di pelo: Snuffle Fluff, Frosty Fluff, Lana fine (50% di probabilità), Capelli ghiacciati (20% di probabilità)\n$(li) Cadute: Lacrima ghiacciata$(br2)\n$(l) Note$()\n$(br) La lana fine può cadere solo se si hanno 5 o più cuori di affetto. I capelli ghiacciati richiedono 7 o più cuori. Nel tempo, il pelo ricrescerà gradualmente e diventerà bianco nel ghiaccio."
         },
         {
             "type": "patchouli:entity",
             "entity": "snuffles:snuffle",
             "scale": 0.8,
-            "text": "patchouli: entità\n\nsnuffles: soffio\n\nÈ possibile nutrire i \"Slimeballs\" per cambiare il loro aspetto!"
+            "text": "È possibile nutrire i Slimeballs con \"Slimeballs\" per cambiare il loro aspetto!!!"
         }
     ]
 }

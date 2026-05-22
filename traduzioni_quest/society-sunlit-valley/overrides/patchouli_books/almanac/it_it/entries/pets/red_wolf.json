@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Possibili oggetti da regalare:$()$(br)Bandiera del cacciatore di lupi, fossile di lupo$(br)$(l)Oggetto per addomesticare:$()$(br)Osso$(br2)$(l)Note$()$(br)Si possono trovare nelle foreste di conifere antiche."
+            "text": "$(l)Possibili oggetti regalo:$()$(br)Bandiera del lupo, fossile di lupo$(br)$(l)Oggetto per addomesticare:$()$(br)Osso$(br2)$(l)Note$()$(br)Si possono trovare nelle foreste di conifere antiche."
         },
         {
             "type": "patchouli:entity",
             "entity": "wildernature:red_wolf",
             "scale": 0.7,
-            "text": "Patchouli: entità\n\nLupo rosso! Cosa altro desiderate?"
+            "text": "Un lupo rosso! Cosa altro desiderate?"
         }
     ]
 }

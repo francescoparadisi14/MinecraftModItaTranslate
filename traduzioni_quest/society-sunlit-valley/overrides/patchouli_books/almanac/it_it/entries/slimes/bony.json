@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Posizioni:$()$(li)Bioma: Valle di Sabbia$(li)Struttura: Spawners di Slime dell'Overworld$(li)Luoghi di estrazione: Tutti$(li)Scatole di palloncini: Rosse$(br2)$(l)Rischi:$()$(br)Sono solo felice di essere qui!"
+            "text": "$(l)Posizioni:$(li)Bioma: Valle di Sabbia Spirituale$(li)Struttura: Generatori di Slime dell'Overworld$(li)Luoghi di scavo: Tutti$(li)Scatole di palloncini: Rosse$(br2)$(l)Rischi:$(br)Sono solo felice di essere qui!"
         },
         {
             "type": "patchouli:entity",
-            "name": "patchouli:entità\n\nsplendid_slimes:splendid_slime{Razza:\"splendid_slimes:bony\"}\n\nSlime osseo",
+            "name": "Slime gessoso",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:bony\"}",
             "scale": 0.9
         }

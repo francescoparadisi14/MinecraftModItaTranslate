@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Luoghi:$()$(li)Fusione del cuore$(br2)$(l)Rischi:$()$(br)Ti ama e ti rende appiccicoso come il miele"
+            "text": "$(l)Luoghi:$()$(li)Fusione del cuore$(br2)$(l)Rischi:$()$(br)Ti ama e ti rende appiccicoso a causa del miele"
         },
         {
             "type": "patchouli:entity",
-            "name": "patchouli:entità\n\nsplendid_slimes:splendid_slime{Razza:\"splendid_slimes:orso\"}\n\nSlime dell'orso",
+            "name": "Gelatina di orso",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:bear\"}",
             "scale": 0.9
         }

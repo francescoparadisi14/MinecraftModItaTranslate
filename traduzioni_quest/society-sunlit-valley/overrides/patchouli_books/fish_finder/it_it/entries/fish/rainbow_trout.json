@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 64$(li)§0❆ §bInverno§0$(li)Acqua: Fiume$(li)Meteo: Pioggia, Neve$(li)Ora: Giorno"
+            "text": "$(l)Statistiche$()$(li):moneta: 64$(li)§0❆ §bInverno§0$(li)Acqua: Fiume$(li)Meteo: Pioggia, Neve$(li)Ora: Giorno"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:rainbow_trout",
             "scale": 0.8,
             "rotate": true,
-            "text": "patchouli: entità\n\nacquacoltura: trota arcobaleno\n\nSarà sicuramente in grado di ottenere quella Scheggia Prismatico :sorriso leggero"
+            "text": "È molto probabile che tu ottenga quel frammento prismatico."
         }
     ]
 }

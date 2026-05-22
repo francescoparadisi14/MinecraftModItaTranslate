@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 16$(li)§0🌼 §2Primavera§0 🔥 §6Estate§0 🍂 §4Autunno§0$(li)Acqua: Oceano$(li)Tempo: Notte"
+            "text": "$(l)Statistiche$()$(li):moneta: 16$(li)§0🌼 §2Primavera§0 🔥 §6Estate§0 🍂 §4Autunno§0$(li)Acqua: Oceano$(li)Tempo: Sereno$(li)Ora: Notte"
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:pufferfish",
             "scale": 0.8,
             "rotate": true,
-            "text": "patchouli: entità\n\nminecraft: pesce puffer\n\nHa un ottimo mod per sviluppare le abilità."
+            "text": "Ha un sistema di sviluppo delle abilità piuttosto efficace."
         }
     ]
 }

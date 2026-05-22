@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile per la vendita$(li)Alimentazione: Gusci di carmine, frutto di dragon (50% di probabilità) $(li)Oggetti ottenuti: Gusci di carmine$(br2)$(l)Note$()$(br)La raccolta richiede almeno 1 cuore."
+            "text": "$(l)Statistiche$()\n$(li)Prezzo: Non disponibile per la vendita$(li)Alimenti: Gusci di carmine, frutto del drago (50% di probabilità) $(li)Oggetti ottenuti: Gusci di carmine$(br2)$(l)Note$()\n$(br)La raccolta richiede almeno 1 cuore."
         },
         {
             "type": "patchouli:entity",
             "entity": "atmospheric:cochineal",
             "scale": 0.5,
-            "text": "Patchouli: entità\n\nAtmosferico: coccinella\n\nSpero che i tuoi bei mattoncini valgano la pena, perché questa cosa mi fa venire i brividi."
+            "text": "Spero che i vostri bei mattoncini valgano la pena, perché sono davvero spaventosi."
         }
     ]
 }

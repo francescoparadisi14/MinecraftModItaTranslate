@@ -6,11 +6,11 @@
     "pages": [
         {
             "type": "text",
-            "text": "$(br2) Solo tu e il vuoto. $(br2) È possibile creare il ciottolato utilizzando i metodi standard, creando un generatore di ciottolato utilizzando lava e acqua. $(br2) Sono state aggiunte diverse ricette per risorse comuni come sabbia, ghiaia e argilla. $(br2) Inoltre, è possibile trasformare i semi in altri tipi di semi utilizzando il tuo banco da lavoro."
+            "text": "Solo tu e il vuoto. (br2) È possibile creare il \"cobblestone\" in modo tradizionale, utilizzando lava e acqua per creare un generatore di \"cobblestone\". (br2) Sono state aggiunte diverse ricette per risorse comuni come sabbia, ghiaia e argilla. (br2) Inoltre, è possibile trasformare i \"saplings\" in altri \"saplings\" creando nuovi esemplari nel tuo banco da lavoro."
         },
         {
             "type": "text",
-            "text": "Le ciotole in ceramica di lava e acqua possono essere create utilizzando redstone e lapis.$(br2)I semi e altre piante possono essere creati utilizzando grano, mele e foglie.$(br2)Non preoccupatevi di cadere e morire: il \"Forgiving Void\" vi farà ricomparire nell'aria se cadete."
+            "text": "Le ciotole in ceramica di lava e acqua possono essere create utilizzando redstone e lapis.\nAnche semi e altre piante possono essere create utilizzando grano, mele e foglie.\nNon preoccupatevi di cadere e morire: il \"Forgiving Void\" vi farà ricomparire in aria se cadete."
         }
     ]
 }

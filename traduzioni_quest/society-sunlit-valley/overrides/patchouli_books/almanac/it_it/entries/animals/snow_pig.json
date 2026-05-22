@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile$(li)Alimentazione: Tartufo (20% di probabilità)$(li)Oggetti ottenuti: Sottocotto congelato$(br2)$(l)Note$()$(br)Per raccogliere, è necessario avere almeno 4 punti di affetto. Si trova in ambienti innevati e non è influenzato dal freddo invernale."
+            "text": "$(l)Statistiche$()$(li)Prezzo: Non disponibile per la vendita$(li)Alimento: Tartufo (20% di probabilità di ottenere)(li)Oggetti ottenuti: Sottocotto di maiale congelato$(br2)$(l)Note$()$(br)Per raccogliere, è necessario avere almeno 4 punti di affetto. Si trova in ambienti innevati e non è influenzato dal freddo invernale."
         },
         {
             "type": "patchouli:entity",
             "entity": "snowpig:snow_pig",
             "scale": 0.7,
-            "text": "patchouli: entità\n\nsnowpig: snow_pig\n\nUn maiale che sembra essere stato congelato. Forse esiste un modo per creare qualcosa di simile..."
+            "text": "Un maiale che sembra essere stato congelato. Forse esiste un modo per trasformarli in..."
         }
     ]
 }

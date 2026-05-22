@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 16$(li)§0🌼 Primavera§0 §0🍂 Autunno§0 §0❆ Inverno§0$(li)Acqua: Fresca$(li)Tempo: Qualsiasi$(li)Ora: Primavera, Autunno (giorno), Inverno (notte)"
+            "text": "$(l)Statistiche$()$(li):moneta: 16$(li)§0🌼 §2Primavera§0 §0🍂 §4Autunno§0 §0❆ §bInverno§0$(li)Acqua: Fresca$(li)Tempo: Qualsiasi$(li)Ora: Primavera, Autunno (Giorno), Inverno (Notte)"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:perch",
             "scale": 0.8,
             "rotate": true,
-            "text": "patchouli: entità\n\nacquacoltura: pesce\n\nNon fanno così anche gli uccelli?"
+            "text": "Non fanno così anche gli uccelli?"
         }
     ]
 }

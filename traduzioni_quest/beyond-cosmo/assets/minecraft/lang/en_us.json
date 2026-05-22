@@ -1,8 +1,8 @@
 {
-    "item.minecraft.stone_sword": "Bronze Sword",
-    "item.minecraft.stone_pickaxe": "Bronze Pickaxe",
     "item.minecraft.stone_axe": "Bronze Axe",
-    "item.minecraft.stone_shovel": "Bronze Shovel",
     "item.minecraft.stone_hoe": "Bronze Hoe",
+    "item.minecraft.stone_pickaxe": "Bronze Pickaxe",
+    "item.minecraft.stone_shovel": "Bronze Shovel",
+    "item.minecraft.stone_sword": "Bronze Sword",
     "item.minecraft.wooden_pickaxe": "Flint Pickaxe"
 }

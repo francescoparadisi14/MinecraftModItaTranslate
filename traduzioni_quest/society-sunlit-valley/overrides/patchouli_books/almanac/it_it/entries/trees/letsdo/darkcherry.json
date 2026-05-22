@@ -6,11 +6,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🌼 Primavera§r $(li)Prezzo del seme: :moneta: 256$(li)Dimensione: 1x1$(li)Cresce in:$(l:alberi\/ciliegio)Ciliegio$(\/l)$(br2)$(l)Note$()$(li)Semi acquistati dal mercato."
+            "text": "$(l)Statistiche$()\n$(li)🌼 §2Primavera§r\n$(li)Prezzo del giovane albero: :moneta: 256\n$(li)Dimensioni: 1x1\n$(li)Tipo: $(l:alberi\/ciliegio)Ciliegio$(\/l)\n$(br2)\n$(l)Note$()\n$(li)Giovani alberi acquistati dal mercato."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: Multiblocco\n\nQuercia",
+            "name ": "Quercia",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [

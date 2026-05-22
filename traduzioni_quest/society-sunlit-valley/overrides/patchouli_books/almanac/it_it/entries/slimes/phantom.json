@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Posizioni:$()$(li)Bioma: Umbra Barrens (Caverna del Cranio)$(br2)$(l)Rischi:$()$(br)Attira insetti e causa l'effetto Hearthstone (ti teletrasporta al tuo punto di riapparizione) quando è disturbato."
+            "text": "$(l)Posizioni:$(li)Bioma: Umbra Barrens (Caverna del Cranio)$(br2)$(l)Rischi:$(br)Può far volare e causare l'effetto Hearthstone (teletrasportandoti al tuo punto di partenza) se è arrabbiato."
         },
         {
             "type": "patchouli:entity",
-            "name": "patchouli:entità\n\nsplendid_slimes:splendid_slime{Razza:\"splendid_slimes:phantom\"}\n\nSlime Fantasma",
+            "name": "Slime Fantasma",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:phantom\"}",
             "scale": 0.9
         }

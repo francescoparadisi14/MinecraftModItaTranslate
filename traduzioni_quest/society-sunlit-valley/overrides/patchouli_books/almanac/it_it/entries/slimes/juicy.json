@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Posizioni:$()$(li)Bioma: Caverne lussureggianti (Caverna dello Scheletro)$(li)Struttura: Nidi di api (Caverna dello Scheletro)$(li)Fusione del cuore$(br2)$(l)Rischi:$()$(br)Arrampicarsi sulle pareti! Provoca l'effetto \"Intossicato\" quando si è arrabbiati."
+            "text": "$(l)Posizioni:$()$(li)Bioma: Caverne lussureggianti (Caverna dello Scheletro)$(li)Struttura: Nidi d'api (Caverna dello Scheletro)$(li)Fusione del cuore$(br2)$(l)Rischi:$()$(br)Arrampicarsi sulle pareti! Provoca l'effetto \"Sballato\" quando si è arrabbiati."
         },
         {
             "type": "patchouli:entity",
-            "name": "patchouli:entità\n\nsplendid\\_slimes:splendid\\_slime{Razza:\"splendid\\_slimes:juicy\"}\n\nJuicy Slime",
+            "name": "Gelatina succosa",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:juicy\"}",
             "scale": 0.9
         }

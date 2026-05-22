@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Posizioni:$()$(li)Trappole per granchi: Esclusivo appello per trappole per granchi$(li)Fusione di Slime Heart$(br2)$(l)Rischi:$()$(br)Contiene spine e provoca l'effetto di affaticamento minerario se disturbato. Diventa infelice quando è fuori dall'acqua!"
+            "text": "$(l)Posizioni:$(li)Trappole per granchi: Esca per trappole per granchi di lusso$(li)Fusione Cuore di Slime$(br2)$(l)Rischi:$(br)Contiene spine e provoca l'effetto \"Affaticamento Minerario\" se disturbato. Diventa infelice quando è fuori dall'acqua!"
         },
         {
             "type": "patchouli:entity",
-            "name": "patchouli:entità\n\nsplendid\\_slimes:splendid\\_slime{Razza:\"splendid\\_slimes:prisma\"}\n\nPrisma Slime",
+            "name": "Prisma Slime",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:prisma\"}",
             "scale": 0.9
         }

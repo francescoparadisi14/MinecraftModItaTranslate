@@ -1,16 +1,16 @@
 {
-    "name": "Albero di mango 🔥",
+    "name": "Mango Tree 🔥",
     "category": "patchouli:trees",
     "icon": "pamhc2trees:mango_sapling",
     "sortnum": -1,
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:text\n\n$(l)Statistiche$()$(li)🔥 Estate$(r) $(li) Prezzo: 16.384 $(li) Dimensioni: 1x1$(li) Cresce: 8 mango$(\/l)$(br2)$(l)Note$()$(li) Piantine acquistate da un coltivatore esperto."
+            "text": "$(l)Stats$()\n$(li)🔥 Stagione: Estate$(\/li)\n$(li)Prezzo: 16.384$(\/li)\n$(li)Dimensioni: 1x1$(\/li)\n$(li)Tipo: 8 mango$(\/li)\n$(br2)$(l)Note$()\n$(li)Piantine vendute sul mercato dopo il primo anno."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: Multiblock\n\nMango Tree",
+            "name ": "Albero di mango",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {

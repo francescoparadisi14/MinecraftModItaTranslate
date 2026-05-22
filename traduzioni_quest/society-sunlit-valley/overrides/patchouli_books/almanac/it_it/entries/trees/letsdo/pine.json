@@ -1,15 +1,15 @@
 {
-    "name": "Abete",
+    "name": "Abete 🌐",
     "category": "patchouli:trees",
     "icon": "meadow:pine_sapling",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:text\n\n$(l)Statistiche$()$(li)🌐 Disponibile tutto l'anno§r$(li)Prezzo: :moneta: 16$(li)Dimensioni: 1x1$(br2)$(l)Note$()$(li)Piantine acquistate dal mercato.$(li)Trasforma il terreno circostante."
+            "text": "$(l)Stats$()\n*   🌐 Disponibile tutto l'anno\n*   Prezzo: 16\n*   Dimensioni: 1x1\n$(br2)$\n$(l)Note$()\n*   Piantine acquistate dal mercato.\n*   Trasforma il terreno circostante."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: Multibloc\n\nPino",
+            "name ": "Pino",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [

@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): moneta: 160$(li) 🌼 Primavera§r 🔥 §6 Estate§r$(li)Resa: 1$(li)Fasi di crescita: 8$(br2)$(l)Note$()$(li)Vedi: Albero di limone (trees\/pams\/lemon)$(\/l)"
+            "text": "$(l)Statistiche$()$(li): moneta: 160$(li) 🌼 Primavera§r 🔥 Estate§r$(li) Resa: 1$(li) Fasi di crescita: 8$(br2)$(l)Note$()$(li) Vedi: Albero di limone (trees\/pams\/lemon)$(\/l)"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: Multibloc\n\nAgrumi (albero di limone)",
+            "name ": "Albero di limone",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {

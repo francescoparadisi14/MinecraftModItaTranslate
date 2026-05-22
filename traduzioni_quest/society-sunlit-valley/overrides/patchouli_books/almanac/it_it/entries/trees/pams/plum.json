@@ -6,11 +6,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:text\n\n$(l)Statistiche$()$(li)🍂 Autunno§r $(li)Prezzo: 27,648 $(li)Dimensione: 1x1 $(li)Coltivabile: 8 alberi di prugne$(\/l)$(br2)$(l)Note$()$(li)Piantine acquistate da un coltivatore esperto."
+            "text": "$(l)Stats$()\n$(li)🍂 Autunno§r\n$(li)Prezzo: 27,648 (valuta)\n$(li)Dimensioni: 1x1\n$(li)Tipo di pianta: 8 alberi di prugne$(\/l)\n$(br2)\n$(l)Note$()\n$(li)Piantine vendute sul mercato dopo il primo anno."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: Multibloc\n\nCiliegio",
+            "name ": "Albero di prugne",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {

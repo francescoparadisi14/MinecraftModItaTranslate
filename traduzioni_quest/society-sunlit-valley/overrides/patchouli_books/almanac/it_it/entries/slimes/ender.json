@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Posizioni:$()$(li)Struttura: Umbra Barrens Slime Spawners (Caverna del Cranio)$(br2)$(l)Rischi:$()$(br) Sarà in grado di teletrasportare entità verso di sé e teletrasportarsi verso fonti di cibo."
+            "text": "$(l)Posizioni:$()$(li)Struttura: Spawn di \"Slime\" nelle \"Umbra Barrens\" (Caverna del Cranio)$(br2)$(l)Rischi:$()$(br)Sarà in grado di teletrasportare entità verso di sé e teletrasportarsi verso fonti di cibo."
         },
         {
             "type": "patchouli:entity",
-            "name": "patchouli:entità\n\nsplendid\\_slimes:splendid\\_slime{Razza:\"splendid\\_slimes:ender\"}\n\nSlime Ender",
+            "name": "Slime di Ender",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:ender\"}",
             "scale": 0.9
         }

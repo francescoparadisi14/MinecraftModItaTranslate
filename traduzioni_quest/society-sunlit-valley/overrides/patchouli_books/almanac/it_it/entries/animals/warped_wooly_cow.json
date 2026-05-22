@@ -1,18 +1,18 @@
 {
-    "name": "Coda di pecora distorta",
+    "name": "Lama deforme",
     "category": "patchouli:animals",
     "icon": "society:large_warped_milk",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile$(li)Latte: Latte deformato$(li)Raffreddamento del latte: 2 giorni$(li)Filo di lana deformato: 2 giorni$(li)Oggetti ottenuti: Lana deformata, carne cruda, cuoio$(br2)$(l)Note$()$(br)Appaiono casualmente nelle foreste deformate"
+            "text": "$(l)Statistiche$()\n$(li)Prezzo: Non disponibile$(li)Latte: Latte distorto$(li)Raffreddamento del latte: 2 giorni$(li)Filo di lana distorto: Lana distorta$(li)Oggetti ottenuti: Lana distorta, manzo crudo, cuoio$(br2)$(l)Note$()\n$(br)Appaiono casualmente nelle foreste distorte"
         },
         {
             "type": "patchouli:entity",
-            "name": "patchouli:entità\n\nprato:mucca_lana{Variante:2}\n\nMucca di lana deformata",
+            "name": "Lama deforme",
             "entity": "meadow:wooly_cow{Variant:2}",
             "scale": 0.8,
-            "text": "Patchouli: entità\n\nPrato: mucca lanosa {Variante: 2}\n\nIl formaggio prodotto con il suo latte è una prelibatezza costosa."
+            "text": "Il formaggio prodotto con il proprio latte è un prodotto di lusso costoso."
         }
     ]
 }

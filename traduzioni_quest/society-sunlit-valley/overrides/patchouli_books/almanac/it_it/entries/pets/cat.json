@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Possibili regali:$()$(br)Cappello con orecchie di gatto, Ocelot-Fossil$(br2)$(l)Addomesticamento$()$(br)Pesce"
+            "text": "$(l)Possibili regali:$()$(br)Cappello con orecchie di gatto, Scheletro di ocelot$(br2)$(l)Addomesticamento$()$(br)Pesce"
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:cat",
             "scale": 0.7,
-            "text": "Patchouli: entità\n\nminecraft: gatto\n\nChiamate il vostro gatto arancione Coquito e quello grigio Basil"
+            "text": "Chiamate il vostro gatto arancione Coquito e quello grigio Basil"
         }
     ]
 }

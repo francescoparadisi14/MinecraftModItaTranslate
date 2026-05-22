@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): monete: 87$(li) 🌼 Primavera§r ❆ §bInverno$(li) Prezzo del seme: 87 monete$(li) Resa: 1$(li) Tempo di crescita: 9 giorni$(br2)$(l)Note$()$(br)Semi acquistati solo dal coltivatore principale"
+            "text": "$(l)Statistiche$()$(li):monete: 87$(li)🌼 Primavera§r ❆ §bInverno$(li)Prezzo dei semi: :monete: 512$(li)Resa: 1$(li)Tempo di crescita: 9 giorni$(br2)$(l)Note$()$(br)Semi venduti sul mercato dopo il primo anno"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: Multiblock\n\nTubabacco Crop",
+            "name ": "Coltivazione di tabacco",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [

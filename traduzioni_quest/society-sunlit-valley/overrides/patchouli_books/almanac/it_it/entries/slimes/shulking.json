@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Posizioni:$()$(li)Struttura: Umbra Barrens Slime Spawners (Caverna del Cranio)$(br2)$(l)Rischi:$()$(br)Causa l'effetto di levitazione quando è disturbato e si teletrasporta verso cibo nelle vicinanze."
+            "text": "$(l)Posizioni:$()$(li)Struttura: Spawn di \"Slime\" nelle \"Umbra Barrens\" (Caverna del Cranio)$(br2)$(l)Rischi:$()$(br)Cause: Effetto di levitazione quando è disturbato e teletrasporto verso il cibo più vicino."
         },
         {
             "type": "patchouli:entity",
-            "name": "patchouli:entità\n\nsplendid\\_slimes:splendid\\_slime{Razza:\"splendid\\_slimes:shulking\"}\n\nShulking Slime",
+            "name": "Slime schivo",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:shulking\"}",
             "scale": 0.9
         }

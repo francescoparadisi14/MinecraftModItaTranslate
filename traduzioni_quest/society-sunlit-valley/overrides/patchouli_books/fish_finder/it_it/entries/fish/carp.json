@@ -1,18 +1,18 @@
 {
-    "name": "Carpa",
+    "name": "Carpe",
     "category": "patchouli:fish",
     "icon": "aquaculture:carp",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli: testo\n\n$(l)Statistiche$()$(li): moneta: 40$(li)Durante tutto l'anno\n$(li)Acqua: Fresca\n$(li)Clima: Pioggia in primavera, qualsiasi altro periodo dell'anno\n$(li)Orario: Diurno, ad eccezione dell'inverno"
+            "text": "$(l)Statistiche$(li): 40$(li)Durante tutto l'anno$(li)Acqua: Potabile$(li)Clima: Pioggia in primavera, qualsiasi altro periodo dell'anno$(li)Orario: Diurno, ad eccezione dell'inverno"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:carp",
             "scale": 0.8,
             "rotate": true,
-            "text": "patchouli: entità\n\nacquacoltura: carpe\n\nVorrei conoscere meglio le carpe."
+            "text": "Fai un'operazione di rimozione dei peli."
         }
     ]
 }

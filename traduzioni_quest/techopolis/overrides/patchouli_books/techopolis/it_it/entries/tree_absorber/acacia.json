@@ -6,7 +6,7 @@
     "pages": [
         {
             "type": "multiblock",
-            "name": "Struttura a più blocchi\nAlbero di Acacia",
+            "name": "Albero di acacia",
             "enable_visualize": true,
             "multiblock": {
                 "pattern": [
@@ -78,7 +78,7 @@
         {
             "type": "text",
             "title": "Acacia Tree",
-            "text": "Questa struttura richiede:\n* Legni di acacia\n* Foglie di acacia\n* Assorbitore per alberi (che inizierà a produrre gocce di quel tipo di albero una volta completata la costruzione)\n* Necessita di alimentazione"
+            "text": "Questa struttura richiede:\n*   Tronchi di acacia\n*   Foglie di acacia\n*   Assorbitore per alberi\n*   (br2) Una volta completamente costruita, l'assorbitore per alberi inizierà a produrre gocce di quel tipo di albero. Richiede energia."
         }
     ]
 }

@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: 4.096$(li)Raccolta: Lana fine (50% di probabilità), Zamparo di coniglio (16% di probabilità)$(li)Oggetti ottenuti: Coniglio crudo, Pelle di coniglio$(br2)$(l)Note$()$(br)La raccolta di Lana fine richiede almeno 3 cuori, mentre il Zamparo di coniglio richiede almeno 7."
+            "text": "$(l)Statistiche$()$(li)Prezzo: 4.096$(li)Risorsa: Lana fine (50% di probabilità), Zampa di coniglio (16% di probabilità)$(li)Oggetti ottenuti: Coniglio crudo, Pelle di coniglio$(br2)$(l)Note$()$(br)Per raccogliere lana fine sono necessarie almeno 3 cuori, mentre per la zampa di coniglio sono necessarie almeno 7."
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:rabbit",
             "scale": 0.8,
-            "text": "Patchouli: entità\n\nMinecraft: coniglio\n\nNon amano essere accarezzati, ma se ti apprezzano abbastanza, ti daranno le loro zampe in eccesso... In qualche modo..."
+            "text": "Non amano essere accarezzati, ma se ti apprezzano, potrebbero offrirti le loro zampe in eccesso... in qualche modo..."
         }
     ]
 }

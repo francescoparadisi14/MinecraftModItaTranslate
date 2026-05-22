@@ -5,7 +5,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 264$(li)Dimensioni: Nether$(li)Bioma: Qualsiasi"
+            "text": "$(l)Statistiche$(li): tipo di oggetto: moneta, numero: 264$(li)Dimensione: Nether$(li)Bioma: qualsiasi"
         },
         {
             "type": "patchouli:entity",
@@ -13,7 +13,7 @@
             "scale": 0.8,
             "offset": -0.3,
             "rotate": true,
-            "text": "patchouli: entità\n\nnetherdepthsupgrade: codice di cottura\n\nNubby dice: \"Ahi!\""
+            "text": "Nubby dice: \"Ahi!\""
         }
     ]
 }

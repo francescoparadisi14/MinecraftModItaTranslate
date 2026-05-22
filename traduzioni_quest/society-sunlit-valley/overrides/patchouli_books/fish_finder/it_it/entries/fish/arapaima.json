@@ -5,7 +5,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 224$(li)§0🔥 §6Estate§0$(li)Acqua: Fresca$(li)Tempo: Pioggia$(li)Ora: Giorno"
+            "text": "$(l)Statistiche$()$(li):moneta: 224$(li)§0🔥 §6Estate§0$(li)Acqua: Fresca$(li)Tempo: Pioggia$(li)Ora: Giorno"
         },
         {
             "type": "patchouli:entity",
@@ -14,7 +14,7 @@
             "rotate": true,
             "default_rotation": 180,
             "offset": -0.3,
-            "text": "patchouli: entità\n\nacquacoltura: arapaima\n\nUn grande ragazzo :)"
+            "text": "Ragazzo grande :)"
         }
     ]
 }

@@ -1,15 +1,15 @@
 {
-    "name": "Albero del Trumpet, dal colore rosso intenso.",
+    "name": "Albero del Trumpet, dal colore rosso intenso 🌐",
     "category": "patchouli:trees",
     "icon": "quark:red_blossom_sapling",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🌐 Disponibile tutto l'anno§r$(li)Dimensioni: 1x1."
+            "text": "$(l)Statistiche$()$(li)🌐 Disponibile tutto l'anno§r$(li)Dimensioni: 1x1."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: Multiblock\n\nAlbero del Trumpet, dal profumo intenso",
+            "name ": "Albero del Trumpetino Rosso",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [

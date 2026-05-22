@@ -1,0 +1,12 @@
+{
+    "block.dedicatedelytraslot.example_block": "Example Block",
+    "dedicatedelytraslot.configuration.items": "Item List",
+    "dedicatedelytraslot.configuration.logDirtBlock": "Log Dirt Block",
+    "dedicatedelytraslot.configuration.magicNumber": "Magic Number",
+    "dedicatedelytraslot.configuration.magicNumberIntroduction": "Magic Number Text",
+    "dedicatedelytraslot.configuration.section.dedicatedelytraslot.common.toml": "Dedicated Elytra Slot Configs",
+    "dedicatedelytraslot.configuration.section.dedicatedelytraslot.common.toml.title": "Dedicated Elytra Slot Configs",
+    "dedicatedelytraslot.configuration.title": "Dedicated Elytra Slot Configs",
+    "item.dedicatedelytraslot.example_item": "Example Item",
+    "itemGroup.dedicatedelytraslot": "Example Mod Tab"
+}

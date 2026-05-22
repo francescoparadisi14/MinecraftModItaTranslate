@@ -6,7 +6,7 @@
     "pages": [
         {
             "type": "multiblock",
-            "name": "Multiblocco\n\nAlbero nella giungla",
+            "name": "Albero nella giungla",
             "enable_visualize": true,
             "multiblock": {
                 "pattern": [
@@ -78,7 +78,7 @@
         {
             "type": "text",
             "title": "Jungle Tree",
-            "text": "Questa struttura richiede:\n*   Tronchi di giungla\n*   Foglie di giungla\n*   Assorbitore per alberi\n*   Una volta completata, l'assorbitore per alberi inizierà a produrre gocce di quel tipo di albero. Richiede energia."
+            "text": "Questa struttura richiede:\n*   $(li) Tronchi di alberi\n*   $(li) Foglie di alberi\n*   $(li) Assorbitore per alberi\n*   $(br2) Una volta completamente costruita, l'assorbitore per alberi inizierà a produrre gocce di quel tipo di albero. Richiede alimentazione elettrica."
         }
     ]
 }

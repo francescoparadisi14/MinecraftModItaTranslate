@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli: testo\n\n$(l)Statistiche$()$(li): monete: 64$(li)§0🌼 §2Primavera§0 §0❆ §bInverno§0$(li)Acqua: Fiume$(li)Meteo: Qualsiasi$(li)Ora: Primavera (notte), Inverno (giorno)"
+            "text": "$(l)Statistiche$()$(li):moneta: 64$(li)§0🌼 §2Primavera§0 §0❆ §bInverno§0$(li)Acqua: Fiume$(li)Meteo: Qualsiasi$(li)Ora: Primavera (notte), Inverno (giorno)"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:pink_salmon",
             "scale": 0.8,
             "rotate": true,
-            "text": "Patchouli: entità\n\nAcquacoltura: salmone rosa\n\nPersonaggio del club del salmone rosa."
+            "text": "Il simbolo del Pink Salmon Club."
         }
     ]
 }

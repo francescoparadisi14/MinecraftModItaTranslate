@@ -1,15 +1,15 @@
 {
-    "name": "Incandescente; ardente; brillante",
+    "name": "Incandescente; ardente",
     "category": "patchouli:slimes",
     "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:blazing\"}}",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Posizioni:$()$(li)Bioma: Caverne di Blackstone (Caverna dello Scheletro)$(li)Struttura: Fortezza del Nether, casse del Bastion, generatori di Nether Slime$(li)Luoghi di estrazione: Blocchi del Nether$(br2)$(l)Rischi:$()$(br)Provoca incendi quando ha fame e aumenta i danni da fuoco quando è arrabbiato."
+            "text": "$(l)Posizioni:$()$(li)Bioma: Caverne di Blackstone (Caverna dello Scheletro)$(li)Strutture: Fortezza del Nether, casse del Bastion, generatori di Nether Slime$(li)Luoghi di scavo: Blocchi del Nether$(br2)$(l)Rischi:$()$(br)Provoca incendi quando ha fame e aumenta i danni da fuoco quando è arrabbiato."
         },
         {
             "type": "patchouli:entity",
-            "name": "patchouli:entità\n\nsplendid_slimes:splendid_slime{Razza:\"splendid_slimes:blazing\"}\n\nSlime \"Blazing\"",
+            "name": "Slime incandescente",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:blazing\"}",
             "scale": 0.9
         }

@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): monete: 16$(li)🔥 Estate§r 🍂 Autunno$(li) Prezzo del seme: monete: 64$(li) Resa: 1$(li) Tempo di crescita: 6 giorni$(li) Tempo di rigenerazione: 3 giorni$(br2)$(l)Note$()$(br) Deve essere piantato in acqua poco profonda in un terreno agricolo."
+            "text": "$(l)Statistiche$()$(li):moneta: 16$(li)🔥 Estate$(li) Prezzo del seme: :moneta: 64$(li) Resa: 1$(li) Tempo di crescita: 6 giorni$(li) Tempo di rigenerazione: 3 giorni$(br2)$(l)Note$()$(br) Deve essere piantato in acqua poco profonda in un terreno agricolo."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: coltura di lino",
+            "name ": "Coltura di lino",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [

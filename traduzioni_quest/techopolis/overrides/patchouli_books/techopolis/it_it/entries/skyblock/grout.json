@@ -1,12 +1,12 @@
 {
-    "name": "Gesso",
+    "name": "Malta",
     "icon": "tconstruct:grout",
     "category": "patchouli:skyblock",
     "sortnum": "4",
     "pages": [
         {
             "type": "text",
-            "text": "La sabbia, la ghiaia e l'argilla possono essere prodotte all'interno del frantoio o della macchina frantoio che si utilizza."
+            "text": "Sabbia, ghiaia e argilla possono essere prodotte anche all'interno del frantoio o della macchina trituratrice con cui si inizia."
         }
     ]
 }

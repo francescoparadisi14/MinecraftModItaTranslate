@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli: testo\n\n$(l)Statistiche$()$(li): moneta: 16$(li)Tutto l'anno$(li)Acqua: Fresca, fiume$(li)Clima: Qualsiasi$(li)Ora: Notte"
+            "text": "$(l)Statistiche$(li): Moneta: 16$(li)Durante tutto l'anno$(li)Acqua: Sorgente, fiume$(li)Clima: Qualsiasi$(li)Orario: Notte"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:bluegill",
             "scale": 0.8,
             "rotate": true,
-            "text": "patchouli: entità\n\nacquacoltura: pesce blu\n\nTutto ciò che riesco a pescare sono solo questi stupidi pesci!!!"
+            "text": "Tutto ciò che riesco a pescare sono solo questi stupidi pesci!"
         }
     ]
 }

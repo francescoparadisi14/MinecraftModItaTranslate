@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🌼 Primavera§r 🍂 §4 Autunno$(li)Prezzo del giovane albero: :moneta: 8$(li)Dimensioni: 1x1"
+            "text": "$(l)Statistiche$()\n* 🌼 Primavera\n* 🍂 Autunno\n* Prezzo del giovane albero: 8\n* Dimensioni: 1x1"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: Multiblocco\n\nQuercia",
+            "name ": "Quercia",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [

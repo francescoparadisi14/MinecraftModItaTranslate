@@ -1,18 +1,18 @@
 {
-    "name": "Pesce salmonese",
+    "name": "Pesce palla",
     "category": "patchouli:fish",
     "icon": "unusualfishmod:raw_picklefish",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 48$(li)§0🍂 §4Autunno§0$(li)Acqua: Oceano$(li)Tempo: Pioggia, Neve$(li)Ora: Notte"
+            "text": "$(l)Statistiche$()$(li):moneta: 48$(li)§0🍂 §4Autunno§0$(li)Acqua: Oceano$(li)Tempo: Pioggia, neve$(li)Ora: Notte"
         },
         {
             "type": "patchouli:entity",
             "entity": "unusualfishmod:picklefish",
             "scale": 0.8,
             "rotate": true,
-            "text": "patchouli: entità\n\nunusualfishmod: pesce aguzzo\n\nNon farò la battuta che potresti fare tu."
+            "text": "Non farò la battuta, tu puoi farla."
         }
     ]
 }

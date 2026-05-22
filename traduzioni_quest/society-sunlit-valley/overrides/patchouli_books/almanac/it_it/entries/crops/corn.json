@@ -1,15 +1,15 @@
 {
-    "name": "Mais 🍂🔥",
+    "name": "Mais 🔥🍂",
     "category": "patchouli:crops",
     "icon": "farm_and_charm:corn",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli: testo\n\n$(l)Statistiche$()$(li): monete: 28$(li)🔥 Estate$(li)🍂 Autunno$(li)Prezzo del seme: monete: 4$(li)Resa: 1$(li)Tempo di crescita: 4 giorni"
+            "text": "$(l)Statistiche$()$(li):monete: 28$(li)🔥 §6Estate§r 🍂 §4Autunno$(li)Prezzo del seme: :monete: 4$(li)Resa: 1$(li)Tempo di crescita: 4 giorni"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: più blocchi\n\nColtivazione del mais",
+            "name ": "Coltivazione del mais",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [

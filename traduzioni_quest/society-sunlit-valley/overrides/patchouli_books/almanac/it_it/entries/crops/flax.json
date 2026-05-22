@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 68$(li)🌼 Primavera$(li)Prezzo del seme: :moneta: 8$(li)Resa: 1$(li)Tempo di crescita: 7 giorni"
+            "text": "$(l)Statistiche$(li): semi: 68$(li) 🌼 Primavera$(li) Prezzo dei semi: 48$(li) Resa: 1$(li) Tempo di crescita: 7 giorni"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: coltura di lino",
+            "name ": "Coltura di lino",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [

@@ -1,0 +1,11 @@
+{
+    "death.attack.cbc_equally_opposite.cannon_blast_burn": "%1$ è stato bruciato",
+    "death.attack.cbc_equally_opposite.cannon_blast_gas": "%1$s si trovava nel posto sbagliato",
+    "death.attack.cbc_equally_opposite.cannon_blast_shock": "%1$ è collassato a causa della pressione eccessiva.",
+    "force_group.cbc_equally_opposite.impact": "Impatto",
+    "force_group.cbc_equally_opposite.impact.desc": "Impulso causato dall'impatto dei proiettili di \"Create Big Cannons\" contro il livello inferiore.",
+    "force_group.cbc_equally_opposite.recoil": "Riapproprio; reazione; effetto di sparo",
+    "force_group.cbc_equally_opposite.recoil.desc": "Impulso proveniente dal fuoco delle armi \"Create Big Cannons\" situate nel livello inferiore.",
+    "gamerule.cannonBlastDamage": "Danni causati da esplosioni di cannoni",
+    "gamerule.cannonBlastDamage.description": "Sia che i gas e le onde d'urto provenienti dalla bocca di un cannone possano danneggiare o innescare direttamente entità, sia che ciò non sia possibile, le forze che agiscono su tali entità e sui loro livelli sottostanti rimangono comunque valide."
+}

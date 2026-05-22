@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Possibili oggetti da raccogliere:$()$(br)Sigillo di Beeomonican$(br2)$(l)Note$()$(br)È possibile trovarlo solo dall'uovo di spawn, che non è visibile nella ricerca di JEI."
+            "text": "$(l)Possibili oggetti regalo:$()$(br)Sigillo di Beeomonican$(br2)$(l)Note$()$(br)È possibile ottenere solo da un uovo di spawn, che non è visibile nella ricerca di JEI."
         },
         {
             "type": "patchouli:entity",
             "entity": "buzzier_bees:grizzly_bear",
             "scale": 0.6,
-            "text": "patchouli: entità\n\napi: orso bruno\n\nMi chiedo da dove provengano..."
+            "text": "Mi chiedo da dove provengano."
         }
     ]
 }

@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Posizioni:$()$(li)Bioma: Caverne ghiacciate (Caverna del Cranio)$(li)Struttura: Generatori di Slime$(li)Luoghi di estrazione: Mondo di gioco$(li)Scatole di palloncini: Rosse$(br2)$(l)Rischi:$()$(br)Causa l'effetto fame quando è disturbato. Genera Zombi di Slime quando attacca gli Abitanti."
+            "text": "$(l)Posizioni:$(li)Bioma: Caverne ghiacciate (Caverna dello Scheletro)$(li)Struttura: Generatori di Slime$(li)Luoghi di scavo: Mondo reale$(li)Scatole gonfiabili: Rosse$(br2)$(l)Rischi:$(br)Causa l'effetto fame se è infastidito. Evoca Zombi di Slime quando attacca gli Abitanti."
         },
         {
             "type": "patchouli:entity",
-            "name": "patchouli:entità\n\nsplendid_slimes:splendid_slime{Razza:\"splendid_slimes:rotting\"}\n\nSlime in decomposizione",
+            "name": "Slime putrefatto",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:rotting\"}",
             "scale": 0.9
         }

@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 16$(li)§0🔥 §6Estate§0$(li)Acqua: Oceano$(li)Meteo: Qualsiasi$(li)Ora: Qualsiasi"
+            "text": "$(l)Statistiche$(li): monete: 16$(li) §0🔥 §6Estate$(li) Acqua: Oceano$(li) Meteo: Qualsiasi$(li) Orario: Giorno"
         },
         {
             "type": "patchouli:entity",
             "entity": "unusualfishmod:sneep_snorp",
             "scale": 0.8,
             "rotate": true,
-            "text": "patchouli:entità\n\nunusualfishmod:sneep_snorp\n\nSNEEP SNORP."
+            "text": "SNEEP SNORP."
         }
     ]
 }

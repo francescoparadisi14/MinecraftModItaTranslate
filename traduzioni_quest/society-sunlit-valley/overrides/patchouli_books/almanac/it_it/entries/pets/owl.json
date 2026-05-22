@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Possibili oggetti regalo:$()$(br)Orologio a forma di gufo$(br)$(l)Oggetto per addomesticare:$()$(br)Carne putrefatta$(br2)$(l)Note$()$(br)Si possono trovare nelle foreste."
+            "text": "$(l)Possibili oggetti regalo:$()$(br)Orologio a forma di gufo$(br)$(l)Oggetto per addomesticare:$()$(br)Carne putrefatta$(br2)$(l)Note$()$(br)Si possono trovare nelle foreste."
         },
         {
             "type": "patchouli:entity",
             "entity": "wildernature:owl",
             "scale": 0.7,
-            "text": "patchouli: pianta\n\nowl: gufo\n\nTenete questo lontano dagli animali più piccoli..."
+            "text": "Tenete questo lontano dagli animali più piccoli..."
         }
     ]
 }

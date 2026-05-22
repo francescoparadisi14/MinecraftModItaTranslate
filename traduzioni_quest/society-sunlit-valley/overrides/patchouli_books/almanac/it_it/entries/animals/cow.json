@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: 512$(li)Latte: Latte$(li)Ricarica Latte: 1 giorno$(li)Oggetti ottenuti: Manzo crudo, Pelle"
+            "text": "$(l)Statistiche$(li)Prezzo: 512$(li)Latte: Latte$(li)Ricarica latte: 1 giorno$(li)Oggetti ottenuti: Manzo crudo, Cuoio"
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:cow",
             "scale": 0.8,
-            "text": "Patchouli: entità\n\nMinecraft: mucca\n\nIl tuo animale da fattoria di base. Facile da allevare, ma non particolarmente prezioso."
+            "text": "Il tuo animale da fattoria di base. Facile da allevare, ma non particolarmente prezioso."
         }
     ]
 }

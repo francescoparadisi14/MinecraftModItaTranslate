@@ -6,7 +6,7 @@
     "pages": [
         {
             "type": "multiblock",
-            "name": "struttura a più blocchi\n\nAlbero di Skyroot",
+            "name": "Albero Skyroot",
             "enable_visualize": true,
             "multiblock": {
                 "pattern": [
@@ -85,7 +85,7 @@
         {
             "type": "text",
             "title": "Skyroot Tree",
-            "text": "Questa struttura richiede:\n*   Log di Skyroot\n*   Foglie di Blue Slimey\n*   Assorbitore di alberi\n*   Una volta completata, l'assorbitore di alberi inizierà a produrre frutti di quel tipo di albero. Richiede energia."
+            "text": "Questa struttura richiede:\n*   $(li)Log di Skyroot$(li)Foglie di Blue Slimey$(li)Assorbitore per alberi (br2)\nUna volta completata, l'assorbitore per alberi inizierà a produrre frutti di quel tipo di albero. Richiede energia."
         }
     ]
 }

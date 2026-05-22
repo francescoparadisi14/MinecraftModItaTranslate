@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Posizioni:$()$(li)Fusione con il cuore$(br2)$(l)Rischi:$()$(br) Arrampica le pareti e provoca l'effetto veleno se è infastidito."
+            "text": "$(l)Posizioni:$()$(li)Fusione del cuore$(br2)$(l)Rischi:$()$(br)Scalare le pareti e provoca l'effetto veleno quando è arrabbiato."
         },
         {
             "type": "patchouli:entity",
-            "name": "patchouli:entità\n\nsplendid_slimes:splendid_slime{Razza:\"splendid_slimes:tutti_gli_slimi\"}\n\nSlime Onnisciente",
+            "name": "Slime onnisciente",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:all_seeing\"}",
             "scale": 0.9
         }

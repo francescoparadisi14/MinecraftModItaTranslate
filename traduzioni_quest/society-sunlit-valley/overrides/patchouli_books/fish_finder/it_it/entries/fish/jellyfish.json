@@ -1,18 +1,18 @@
 {
-    "name": "Medusa",
+    "name": "Meduse",
     "category": "patchouli:fish",
     "icon": "aquaculture:jellyfish",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 56$(li)§0🌼 §2Primavera§0 §0🔥 §6Estate§0$(li)Acqua: Oceano$(li)Meteo: Qualsiasi$(li)Ora: Notte"
+            "text": "$(l)Statistiche$()$(li):moneta: 56$(li)§0🌼 §2Primavera§0 §0🔥 §6Estate§0$(li)Acqua: Oceano$(li)Meteo: Qualsiasi$(li)Ora: Notte"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:jellyfish",
             "scale": 0.8,
             "rotate": true,
-            "text": "patchouli: entità\n\nacquacoltura: meduse\n\nLe meduse sono pesci."
+            "text": "Agisci con cautela, non fare movimenti bruschi."
         }
     ]
 }

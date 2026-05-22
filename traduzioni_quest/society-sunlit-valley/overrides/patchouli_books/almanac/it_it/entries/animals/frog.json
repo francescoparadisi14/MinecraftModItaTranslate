@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile per la vendita$(li)Risorsa: Sapa (30% di probabilità), Coscia di rana (10% di probabilità), Gadget \"Ribbit\" (5% di probabilità), \"Froglights\" (25% di probabilità)$(br2)$(l)Note$()$(br)La raccolta delle risorse richiede almeno 1 cuore. Si trova negli ambienti di palude. Può essere addomesticata con gli occhi di ragno."
+            "text": "$(l)Statistiche$()$(li)Prezzo: Non disponibile per la vendita$(li)Alimenti: Sap (30% di probabilità), Coscia di rana (10% di probabilità), Gadget \"Ribbit\" (5% di probabilità), \"Froglights\" (25% di probabilità)$(br2)$(l)Note$()$(br)La raccolta di cibo richiede almeno 1 cuore. Si trova negli ambienti di palude. Può essere addomesticata con gli occhi di ragno."
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:frog",
             "scale": 0.7,
-            "text": "Patchouli: entità\n\nMinecraft: rana\n\nAma completare le missioni, ma odia i Slimes!"
+            "text": "Ama completare le missioni, ma odia i Slimes!"
         }
     ]
 }

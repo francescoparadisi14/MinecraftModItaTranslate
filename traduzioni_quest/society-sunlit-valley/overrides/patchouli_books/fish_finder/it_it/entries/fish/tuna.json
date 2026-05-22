@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 192$(li)§0🔥 §6Estate§0$(li)Acqua: Oceano$(li)Meteo: Qualsiasi$(li)Ora: Giorno"
+            "text": "$(l)Statistiche$()$(li):moneta: 192$(li)§0🔥 §6Estate§0$(li)Acqua: Oceano$(li)Meteo: Qualsiasi$(li)Ora: Giorno"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:tuna",
             "scale": 0.8,
             "rotate": true,
-            "text": "patchouli: entità\n\nacquacoltura: tonno\n\nPer qualche motivo, anche questo vorrebbe essere un \"Sneep Snorp\"."
+            "text": "Anche questo vorrebbe che fosse un \"Sneep Snorp\" per qualche motivo."
         }
     ]
 }

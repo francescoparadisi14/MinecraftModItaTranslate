@@ -1,16 +1,16 @@
 {
-    "name": "Appartamento\n",
+    "name": "Appartamento",
     "icon": "minecraft:oak_log",
     "category": "patchouli:world_types",
     "sortnum": 3,
     "pages": [
         {
             "type": "text",
-            "text": "(br2) Mondo completamente piatto, composto solo da terra e erba.\n(br2) In questa modalità, premendo contemporaneamente i due tasti destro su blocchi di erba vuoti, si ottengono sassolini.\n(br2) Sono state aggiunte diverse ricette per risorse comuni come sabbia, ghiaia e argilla.\n(br2) È inoltre possibile trasformare i piccoli alberi in altri tipi di alberi utilizzando un banco da lavoro."
+            "text": "Mondo completamente piatto, composto solo da terra e erba.$(br2)In questa modalità, se si clicca con entrambi i tasti destro su blocchi di erba vuoti, si otterrà della pietra frantumata.$(br2)Sono state aggiunte diverse ricette per utilizzare risorse comuni come sabbia, ghiaia e argilla.$(br2)È inoltre possibile trasformare i piccoli alberi in altri piccoli alberi, creando i corrispondenti oggetti sul vostro banco di lavoro."
         },
         {
             "type": "text",
-            "text": "Le ciotole in ceramica realizzate con pietra rossa e lapislazzuli possono essere create utilizzando questi materiali.\nI semi possono essere trovati nei villaggi."
+            "text": "Le ciotole in ceramica realizzate con pietra lavica e lapislazzuli possono essere create utilizzando il redstone e il lapislazzuli.\nI semi possono essere trovati nei villaggi."
         }
     ]
 }

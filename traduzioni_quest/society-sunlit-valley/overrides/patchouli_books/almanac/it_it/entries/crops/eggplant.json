@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 42$(li)🍂 Autunno$(li) Prezzo del seme: 42 monete$(li)Resa: 1$(li) Tempo di crescita: 6 giorni"
+            "text": "$(l)Stats$()$(li):coin: 42$(li)🍂 §4Autunno$(li)Prezzo del seme: :coin: 8$(li)Resa: 1$(li)Tempo di crescita: 6 giorni"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: coltivazione di più tipi di piante",
+            "name ": "Coltura di melanzane",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [

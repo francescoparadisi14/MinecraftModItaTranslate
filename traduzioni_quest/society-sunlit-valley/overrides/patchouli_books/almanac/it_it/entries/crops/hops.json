@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli: testo\n\n$(l)Statistiche$()$(li): monete: 21$(li)🔥 §6Estate§r$(li)Resa: 2$(li)Tempo di crescita: 6 giorni$(br2)$(l)Note$()$(br)Si trova in biomi simili alla taiga."
+            "text": "$(l)Statistiche$()$(li): monete: 21$(li)🔥 Stagione: Estate$(li)Resa: 2$(li) Tempo di crescita: 6 giorni$(br2)$(l)Note$()"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: più blocchi\n\nOrzo",
+            "name ": "Coltura di luppolo",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [

@@ -5,7 +5,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 620$(li)Dimensioni: Nether$(li)Bioma: Delta di basalto"
+            "text": "$(l)Statistiche$(li): tipo di bioma: Nether$(li)Dimensioni: Nether$(li)Bioma: Delta di basalto"
         },
         {
             "type": "patchouli:entity",
@@ -13,7 +13,7 @@
             "scale": 0.5,
             "offset": -0.3,
             "rotate": true,
-            "text": "patchouli: entità\n\nnetherdepthsupgrade: pesce di magma\n\nUn abitante gelatinoso del magma si gonfiò"
+            "text": "Una creatura gelatinosa proveniente dal magma si gonfiava."
         }
     ]
 }

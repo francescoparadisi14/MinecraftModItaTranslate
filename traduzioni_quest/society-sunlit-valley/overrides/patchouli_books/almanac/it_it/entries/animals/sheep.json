@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: 1.024$(li)Latte: Latte di pecora$(li)Tempo di recupero del latte: 2 giorni$(li)Lana: Lana fine (50% di probabilità)$(li)Oggetti ottenuti: Carne cruda, Lana$(br2)$(l)Note$()$(br)La lana fine può essere ottenuta solo con 5 o più cuori di affetto"
+            "text": "$(l)Statistiche$()\n$(li)Prezzo: 1.024$(li)Latte: Latte di pecora$(li)Tempo di recupero del latte: 2 giorni$(li)Lana: Lana, Lana fine (50% di probabilità)$(li)Oggetti ottenuti: Carne cruda, Lana$(br2)$(l)Note$()\n$(br)La lana fine può essere ottenuta solo quando si hanno 5 o più cuori di affetto."
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:sheep",
             "scale": 0.8,
-            "text": "Patchouli: entità\n\nCapra (Minecraft): animale da fattoria versatile con molte applicazioni. Non è ideale per l'allevamento."
+            "text": "Un animale da fattoria versatile, con molteplici utilizzi. Meno adatto per l'allevamento del latte."
         }
     ]
 }

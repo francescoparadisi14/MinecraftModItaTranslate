@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile$(li)Latte: Latte di pecora$(li)Tempo di raffreddamento del latte: 2 giorni$(li)Peli di lana: Lana, Lana fine (50% di probabilità) $(li)Oggetti ottenuti: Carne cruda, Lana$(br2)$(l)Note$()$(br)L'ottenimento di lana fine è possibile solo con 5 o più cuori di affetto"
+            "text": "$(l)Statistiche$()\n$(li)Prezzo: Non disponibile$(li)Latte: Latte di pecora$(li)Tempo di raffreddamento del latte: 2 giorni$(li)Peli di lana: Lana, Lana fine (50% di probabilità)$(li)Oggetti ottenuti: Carne cruda, Lana$(br2)$(l)Note$()\n$(br)L'ottenimento di lana fine è possibile solo con 5 o più cuori di affetto."
         },
         {
             "type": "patchouli:entity",
             "entity": "meadow:wooly_sheep",
             "scale": 0.8,
-            "text": "patchouli: entità\n\nprato: pecora (con 4 varianti che rilasciano lana a motivi)"
+            "text": "Una pecora con 4 varianti che producono lana a motivi."
         }
     ]
 }

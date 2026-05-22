@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 340$(li)§0🔥 Estate§0$(li)Acqua: Fresca$(li)Tempo: Soleggiato$(li)Ora: Giorno"
+            "text": "$(l)Statistiche$()$(li):Moneta: 340$(li)§0🔥 §6Estate§0$(li)Acqua: Fresca$(li)Tempo: Sereno$(li)Ora: Diurno"
         },
         {
             "type": "patchouli:entity",
             "entity": "crittersandcompanions:koi_fish",
             "scale": 0.8,
             "rotate": true,
-            "text": "patchouli: entità\n\ncrittersandcompanions: pesci koi\n\nSmettila di fare il pesce..."
+            "text": "Smettila di essere così..."
         }
     ]
 }

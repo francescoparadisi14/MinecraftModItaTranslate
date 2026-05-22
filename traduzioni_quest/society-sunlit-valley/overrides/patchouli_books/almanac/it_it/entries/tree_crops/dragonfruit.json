@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): moneta: 128$(li)🍂 Autunno$(li)Resa: 1$(li)Fasi di crescita: 8$(br2)$(l)Note$()$(li)Vedi: Albero di dragon fruit$(l:alberi\/pams\/dragonfruit)Dragonfruit Tree$(\/l)"
+            "text": "$(l)Statistiche$()$(li): tipo: pianta$(li)🍂 Autunno$(li)Resa: 1$(li)Fasi di crescita: 8$(br2)$(l)Note$()$(li)Vedi: Albero di dragon fruit$(l:alberi\/pams\/dragonfruit)Albero di dragon fruit$(\/l)"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: Multibloc\n\nCiliegio",
+            "name ": "Albero di prugne",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {

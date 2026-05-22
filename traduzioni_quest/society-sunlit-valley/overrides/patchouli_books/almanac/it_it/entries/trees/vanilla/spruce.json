@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🌼 Primavera§r 🍂 §4 Autunno§r ❆ §b Inverno§r$(li)Prezzo del seme: :moneta: 8$(li)Dimensioni: 1x1, 2x2"
+            "text": "$(l)Statistiche$()$(li)🌼 Primavera§r 🍂 §4Autunno§r❆ §bInverno§r$(li)Prezzo del giovane albero: :moneta: 8$(li)Dimensioni: 1x1, 2x2"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: Multiblocco\n\nQuercia",
+            "name ": "Quercia",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [

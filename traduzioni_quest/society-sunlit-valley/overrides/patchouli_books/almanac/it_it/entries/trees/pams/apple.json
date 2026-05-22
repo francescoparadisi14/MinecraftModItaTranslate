@@ -1,16 +1,16 @@
 {
-    "name": "Albero di mele 🍂",
+    "name": "Mela 🍂",
     "category": "patchouli:trees",
     "icon": "pamhc2trees:apple_sapling",
     "sortnum": -1,
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:text\n\n$(l)Statistiche$()$(li)🍂 Autunno§r $(li)Prezzo: 512$(li)Dimensione: 1x1$(li)Produce: 8 mele (provenienti dalla coltura \"albero\")$(\/l)$(br2)$(l)Note$()$(li)Piantine acquistate da un coltivatore esperto."
+            "text": "$(l)Statistiche$()\n$(li)🍂 Autunno§r\n$(li)Prezzo: 512$(li)Dimensioni: 1x1\n$(li)Resa: 8 alberi di mele$(\/l)\n$(br2)$(l)Note$()\n$(li)Piantine vendute sul mercato dopo il primo anno."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "patchouli:multiblock\n\nTiglio",
+            "name ": "Tiglio",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {

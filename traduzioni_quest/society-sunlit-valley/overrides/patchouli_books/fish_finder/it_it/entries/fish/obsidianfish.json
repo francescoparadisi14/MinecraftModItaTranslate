@@ -5,7 +5,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 512$(li)Dimensioni: Nether$(li)Bioma: Delta di basalto"
+            "text": "$(l)Statistiche$(li): Monete: 512$(li)Dimensioni: Nether$(li)Bioma: Delta di basalto"
         },
         {
             "type": "patchouli:entity",
@@ -13,7 +13,7 @@
             "scale": 0.8,
             "offset": -0.3,
             "rotate": true,
-            "text": "patchouli: entità\n\nnetherdepthsupgrade: pesce di ossidiana\n\nLe piace molto il genere dei giochi di ruolo. Anche se non può giocarne."
+            "text": "È molto interessato ai giochi di ruolo, anche se non è in grado di giocarli."
         }
     ]
 }

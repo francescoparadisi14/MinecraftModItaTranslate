@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 96$(li)§0❆ §bInverno§0$(li)Acqua: Fresca$(li)Tempo: Pioggia, Neve$(li)Ora: Notte"
+            "text": "$(l)Statistiche$()$(li):moneta: 96$(li)§0❆ §bInverno§0$(li)Acqua: Fresca$(li)Tempo: Pioggia\/Neve$(li)Ora: Qualsiasi"
         },
         {
             "type": "patchouli:entity",
             "entity": "unusualfishmod:snowflaketail",
             "scale": 0.8,
             "rotate": true,
-            "text": "patchouli: entità\n\nunusualfishmod: coda a forma di fiocco di neve\n\nÈ noto come l'esplosione di \"blahaj\" per quanto riguarda i pesci."
+            "text": "È noto come l'esplosione di \"blahaj\" nel pesce."
         }
     ]
 }

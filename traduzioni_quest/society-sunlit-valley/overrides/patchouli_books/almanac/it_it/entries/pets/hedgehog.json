@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Possibili regali:$()$(br)Cuffie Sonic$(br2)$(l)Note$()$(br)Si possono trovare nei boschi."
+            "text": "$(l)Possibili oggetti da regalare:$()$(br)Cuffie Sonic$(br2)\n$(l)Appunti$()$(br)Possono essere trovati nelle foreste."
         },
         {
             "type": "patchouli:entity",
             "entity": "wildernature:hedgehog",
             "scale": 0.7,
-            "text": "Patchouli: entità\n\nAnimale legato alla natura selvaggia, noto per i suoi diversi dilemmi."
+            "text": "Un animale dalla natura riflessiva, noto per i suoi numerosi dilemmi."
         }
     ]
 }

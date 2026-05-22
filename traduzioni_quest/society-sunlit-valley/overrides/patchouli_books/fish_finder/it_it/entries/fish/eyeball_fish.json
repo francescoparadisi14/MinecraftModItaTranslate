@@ -5,7 +5,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 408$(li)Dimensioni: Nether$(li)Bioma: Foresta Rossa"
+            "text": "$(l)Statistiche$(li): tipo di risorsa: monete (408)$(li)Dimensione: Nether$(li)Bioma: Foresta Rossa"
         },
         {
             "type": "patchouli:entity",
@@ -13,7 +13,7 @@
             "scale": 0.5,
             "offset": -0.3,
             "rotate": true,
-            "text": "patchouli: entità\n\nnetherdepthsupgrade: pesce con occhio\n\nRiferimento a Terraria???"
+            "text": "Riferimento a Terraria???"
         }
     ]
 }

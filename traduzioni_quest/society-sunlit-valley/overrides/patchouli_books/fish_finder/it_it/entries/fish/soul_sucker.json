@@ -5,7 +5,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 312$(li)Dimensioni: Nether$(li)Bioma: Valle di Sabbia dell'Inferno"
+            "text": "$(l)Statistiche$(li): Monete: 312$(li)Dimensioni: Nether$(li)Bioma: Valle di Sabbia dell'Inferno"
         },
         {
             "type": "patchouli:entity",
@@ -13,7 +13,7 @@
             "scale": 0.5,
             "offset": -0.3,
             "rotate": true,
-            "text": "patchouli: entità\n\nnetherdepthsupgrade: aspiratore di anime\n\nNon farò la battuta che potresti fare tu."
+            "text": "Non farò la battuta, tu puoi farla."
         }
     ]
 }

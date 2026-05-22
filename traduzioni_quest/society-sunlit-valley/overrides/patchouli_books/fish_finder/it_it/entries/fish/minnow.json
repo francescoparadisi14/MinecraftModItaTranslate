@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli: testo\n\n$(l)Statistiche$()$(li): moneta: 16$(li)Disponibile tutto l'anno$(li)Fonte: Fiume$(li)Condizioni meteorologiche: qualsiasi$(li)Orario: giorno"
+            "text": "$(l)Statistiche$(li): Moneta: 16$(li)Tutto l'anno$(li)Acqua: Fiume$(li)Clima: Qualsiasi$(li)Orario: Giorno"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:minnow",
             "scale": 0.8,
             "rotate": true,
-            "text": "patchouli: entità\n\nacquacoltura: pesce gatto\n\nUn pesce che non vale mai lo sforzo necessario per catturarlo."
+            "text": "Un pesce che non vale mai lo sforzo necessario per catturarlo."
         }
     ]
 }

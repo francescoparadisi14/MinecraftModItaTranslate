@@ -1,11 +1,11 @@
 {
-    "name": "Gruppo di protezione",
+    "name": "Gruppo Fortress",
     "category": "patchouli:fish",
     "icon": "netherdepthsupgrade:fortress_grouper",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 666$(li)Dimensioni: Nether$(li)Bioma: Qualsiasi"
+            "text": "$(l)Statistiche$(li): tipo di oggetto: moneta, numero: 666$(li)Dimensioni: Nether$(li)Bioma: qualsiasi"
         },
         {
             "type": "patchouli:entity",
@@ -13,7 +13,7 @@
             "scale": 0.5,
             "offset": -0.3,
             "rotate": true,
-            "text": "patchouli: entità\n\nnetherdepthsupgrade: gruppo di fortificazioni\n\nA I A: Osservatore ittico"
+            "text": "A I A: Osservatore per la pesca"
         }
     ]
 }

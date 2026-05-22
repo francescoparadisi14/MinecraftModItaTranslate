@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Luoghi:$()$(li)Trappole per granchi: Esche per trappole per granchi, Esche per trappole per granchi di lusso$(li)Luoghi di pesca$(br2)$(l)Rischi:$()$(br)Contiene spine e si dispiace quando è fuori dall'acqua!"
+            "text": "$(l)Luoghi di interesse:$()\n$(li)Trappole per granchi: Cibo per trappole per granchi, Cibo di lusso per trappole per granchi$(li)Luoghi di pesca$(br2)$(l)Rischi:$()\n$(br)Contiene spine e si infastidisce quando è fuori dall'acqua!"
         },
         {
             "type": "patchouli:entity",
-            "name": "patchouli:entità\n\nsplendid_slimes:splendid_slime{Razza:\"splendid_slimes:puddle\"}\n\nPuddle Slime",
+            "name": "Pozzo di melma",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:puddle\"}",
             "scale": 0.9
         }

@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli: testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile$(li)Uovo: Mela dorata$(li)Drop: Pollo crudo, piuma$(br2)$(l)Note$()$(br)Affamato o infelice (meno di 2 cuori di affetto) I Chapples non depongono uova."
+            "text": "$(l)Statistiche$()$(li)Prezzo: Non disponibile per la vendita$(li)Uovo: Mela dorata$(li)Oggetti ottenuti: Pollo crudo, piuma$(br2)$(l)Note$()$(br)Se affamato o infelice (con meno di 2 cuori di affetto), i Chapples non depongono uova di mela."
         },
         {
             "type": "patchouli:entity",
             "entity": "etcetera:chapple{Type:golden}",
             "scale": 0.8,
-            "text": "Patchouli: entità\n\neccetera: chapple{Tipo: dorato}\n\nUna strana mutazione, nata da un \"Golden Eggple\" scoperto a Bastions."
+            "text": "Una strana mutazione, nata da un esemplare di \"Eggple d'oro\" scoperto a Bastions."
         }
     ]
 }

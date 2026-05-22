@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: 512$(li)Uovo: Uovo di anatra$(li)Scarti: Anatra cruda, piume di anatra$(br2)$(l)Note$()$(br)Le anatre affamate non depongono uova, e quelle infelici ne depongono molto meno."
+            "text": "$(l)Statistiche$()$(li)Prezzo: 512$(li)Uovo: Uovo di anatra$(li)Prodotti: Anatra cruda, piume di anatra$(br2)$(l)Note$()$(br)Le anatre affamate non depongono uova, e quelle infelici ne depongono molto meno."
         },
         {
             "type": "patchouli:entity",
             "entity": "untitledduckmod:duck",
             "scale": 0.8,
-            "text": "patchouli: entità\n\nuntitledduckmod: anatra\n\nLe anatre sono più adatte all'allevamento per la produzione di carne e piume rispetto alle galline."
+            "text": "Grazie alla maggiore presenza di piume e carne, gli anatroccoli sono più adatti all'allevamento per la produzione di carne rispetto alle galline."
         }
     ]
 }

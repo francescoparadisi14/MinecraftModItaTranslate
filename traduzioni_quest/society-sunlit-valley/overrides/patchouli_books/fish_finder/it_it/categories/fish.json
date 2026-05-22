@@ -1,6 +1,6 @@
 {
     "name": "Pesce",
-    "description": "Un riassunto dettagliato di tutti i pesci",
+    "description": "Un riassunto dettagliato di tutte le specie di pesci",
     "icon": "furniture:copper_fish_tank",
     "category": "patchouli:fish"
 }

@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 288$(li)§0🔥 §6Estate§0$(li)Acqua: Oceano$(li)Meteo: Qualsiasi$(li)Ora: Giorno"
+            "text": "$(l)Statistiche$()$(li):moneta: 288$(li)§0🔥 §6Estate§0$(li)Acqua: Oceano$(li)Meteo: Qualsiasi$(li)Ora: Giorno"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:capitaine",
             "scale": 0.8,
             "rotate": true,
-            "text": "patchouli: entità\n\nacquacoltura: capitano\n\nSì, sì, Capitano."
+            "text": "Sì, sì, Capitano."
         }
     ]
 }

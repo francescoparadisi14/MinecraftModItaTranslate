@@ -1,18 +1,18 @@
 {
-    "name": "Pesce gatto",
+    "name": "Pesce sgombro demonio",
     "category": "patchouli:fish",
     "icon": "unusualfishmod:raw_demon_herring",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 192$(li)§0🍂 §4Autunno§0$(li)Acqua: Oceano$(li)Meteo: Qualsiasi$(li)Ora: Notte"
+            "text": "$(l)Statistiche$(li): moneta: 192$(li) §0🍂 §4Autunno§0$(li) Acqua: Oceano$(li) Tempo: Qualsiasi$(li) Orario: Notte"
         },
         {
             "type": "patchouli:entity",
             "entity": "unusualfishmod:demon_herring",
             "scale": 0.8,
             "rotate": true,
-            "text": "patchouli: entità\n\nunusualfishmod: pesce_demone\n\nTanjiro invia i suoi saluti."
+            "text": "Tanjiro invia i suoi saluti."
         }
     ]
 }

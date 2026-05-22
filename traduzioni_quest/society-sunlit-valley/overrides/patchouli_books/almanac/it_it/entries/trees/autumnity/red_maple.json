@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🌐 Disponibile tutto l'anno§r$(li)Dimensioni: 1x1"
+            "text": "$(l)Statistiche$()$(li)🌐 Disponibile tutto l'anno§r$(li)Dimensioni: 1x1"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: Multibloc\n\nAlbero di acero rosso",
+            "name ": "Albero di acero rosso",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [

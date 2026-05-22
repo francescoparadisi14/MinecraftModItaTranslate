@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile$(li)Latte: Latte$(li)Tempo di raffreddamento del latte: 1 giorno$(li)Raccolta: Tartufo (20% di probabilità), sedili in funghi (2% di probabilità)$(li)Oggetti ottenuti: Carne cruda, cuoio$(br2)$(l)Note$()$(br)La raccolta di tartufi richiede almeno 4 punti di affetto. I sedili in funghi richiedono almeno 8 punti."
+            "text": "$(l)Statistiche$()$(li)Prezzo: Non disponibile per la vendita$(li)Latte: Latte$(li)Tempo di raffreddamento del latte: 1 giorno$(li)Cibo: Tartufo (20% di probabilità), funghi (2% di probabilità)$(li)Oggetti ottenuti: Carne cruda, cuoio$(br2)$(l)Note$()$(br)Per raccogliere i tartufi, è necessario avere almeno 4 punti di affetto. Per ottenere i posti a sedere in funghi, è necessario avere almeno 8 punti di affetto."
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:mooshroom",
             "scale": 0.8,
-            "text": "patchouli: entità\n\nminecraft: funghi\n\nUn fungo raro, che produce bellezza."
+            "text": "Una pianta rara, capace di produrre funghi."
         }
     ]
 }

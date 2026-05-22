@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 352$(li)§0🌼 §2Primavera§0 §0❆ §bInverno§0$(li)Acqua: Fresca$(li)Tempo: Qualsiasi$(li)Ora: Notte"
+            "text": "$(l)Statistiche$()$(li):moneta: 352$(li)§0🌼 §2Primavera§0 §0❆ §bInverno§0$(li)Acqua: Fresca$(li)Meteo: Qualsiasi$(li)Ora: Notte"
         },
         {
             "type": "patchouli:entity",
             "entity": "unusualfishmod:hatchet_fish",
             "scale": 0.8,
             "rotate": true,
-            "text": "patchouli: entità\n\nunusualfishmod: pesce ascia\n\nIl pesce preferito di Raskolnikov."
+            "text": "Il pesce preferito di Raskolnikov."
         }
     ]
 }

@@ -6,7 +6,7 @@
     "pages": [
         {
             "type": "multiblock",
-            "name": "Multiblocco\n\nAlbero Greenheart",
+            "name": "Albero Greenheart",
             "enable_visualize": true,
             "multiblock": {
                 "pattern": [
@@ -85,7 +85,7 @@
         {
             "type": "text",
             "title": "Ender Tree",
-            "text": "Questa struttura richiede:\n*   Legni di Greenheart\n*   Foglie di Slimey (di colore viola)\n*   Assorbitore per alberi\n*   Una volta completata, l'assorbitore per alberi inizierà a produrre frutti di quel tipo di albero. Richiede energia."
+            "text": "Questa struttura richiede:\n*   $(li)Tronchi di Greenheart\n*   $(li)Foglie di Purple Slimey\n*   $(li)Assorbitore per alberi\n*   $(br2)Una volta completata, l'assorbitore per alberi inizierà a produrre frutti di quel tipo di albero. Richiede alimentazione."
         }
     ]
 }

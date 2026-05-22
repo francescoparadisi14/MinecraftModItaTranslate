@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Patchouli: testo\n\n$(l)Posizioni:$()$(li)Fusione del cuore$(br2)$(l)Rischi:$()$(br)Provoca l'effetto \"Maledizione\" quando è arrabbiato e preleva 512 monete dai conti bancari dei giocatori vicini. Umori estremamente instabili."
+            "text": "$(l)Posizioni:$()$(li)Fusione del cuore$(br2)$(l)Rischi:$()$(br)Provoca l'effetto \"Maledizione\" quando è arrabbiato e preleva 512 monete dai conti bancari dei giocatori nelle vicinanze. Umori estremamente instabili."
         },
         {
             "type": "patchouli:entity",
-            "name": "patchouli:entità\n\nsplendid_slimes:splendid_slime{Razza:\"splendid_slimes:gold\"}\n\nSlime dorato",
+            "name": "Slime dorato",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:gold\"}",
             "scale": 0.9
         }

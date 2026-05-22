@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Latte: Bottiglia di Ichor$(li)Ricarica del Latte: 2 giorni$(li)Oggetti ottenuti: Nessuno$(br2)$(l)Note$()$(br)Devono essere ricostruite come mostrato nell'immagine a destra e colpite da fulmini. I loro resti possono essere trovati congelati sotto l'acqua..."
+            "text": "$(l)Statistiche$()$(li)Latte: Bottiglia di Ichor$(li)Tempo di ricarica del latte: 2 giorni$(li)Oggetti ottenuti: Nessuno$(br2)$(l)Note$()$(br)Devono essere ricostruite come mostrato nell'immagine a destra e colpite da fulmini. I loro resti possono essere trovati congelati sotto l'acqua..."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: Multiblocco\n\nCostruisci, quindi aspetta che arrivi il fulmine.",
+            "name ": "Costruisci, poi aspetta che scoppi un fulmine.",
             "enable_visualize": true,
             "symmetrical": true,
             "multiblock": {
@@ -47,7 +47,7 @@
             "type": "patchouli:entity",
             "entity": "species:mammutilation",
             "scale": 0.8,
-            "text": "patchouli: entità\n\nspecie: estinzione\n\nUn abominio della natura, perduto nel tempo..."
+            "text": "Un'aberrazione della natura, perduta nel tempo..."
         }
     ]
 }

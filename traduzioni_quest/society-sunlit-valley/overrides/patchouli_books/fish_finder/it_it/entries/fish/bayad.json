@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 208$(li)§0🌼 §2Primavera§0$(li)Acqua: Fiume$(li)Tempo: Pioggia, Neve$(li)Ora: Notte"
+            "text": "$(l)Statistiche$()$(li):moneta: 208$(li)§0🌼 §2Primavera§0$(li)Acqua: Fiume$(li)Tempo: Pioggia, Neve$(li)Ora: Notte"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:bayad",
             "scale": 0.8,
             "rotate": true,
-            "text": "patchouli: entità\n\nacquacoltura: pagamento\n\nUn \"bayaddie\"."
+            "text": "Una bayadíe."
         }
     ]
 }

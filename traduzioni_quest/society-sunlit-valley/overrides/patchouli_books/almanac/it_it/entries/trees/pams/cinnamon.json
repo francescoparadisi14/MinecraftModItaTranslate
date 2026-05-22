@@ -6,11 +6,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:text\n\n$(l)Statistiche$()$(li)🍂 Autunno§r ❆ §bInverno§r $(li)Dimensione: 1x1$(li)Crescita: 4-6 piante di cannella$(\/l)$(br2)$(l)Note$()$(li)Piantine disponibili presso Exotic Trader."
+            "text": "$(l)Stats$()$(li)🍂 Autunno§r ❆ §bInverno§r $(li)Dimensione: 1x1$(li)Crescita: 4-6 piante di cannella$(\/l)$(br2)$(l)Note$()$(li)Piantine vendute presso Exotic Trader."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "patchouli:multiblock\n\nTiglio",
+            "name ": "Tiglio",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {

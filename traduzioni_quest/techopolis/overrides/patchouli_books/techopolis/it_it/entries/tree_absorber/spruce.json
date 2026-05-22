@@ -6,7 +6,7 @@
     "pages": [
         {
             "type": "multiblock",
-            "name": "Multiblocco\n\nAbete",
+            "name": "Abete",
             "enable_visualize": true,
             "multiblock": {
                 "pattern": [
@@ -78,7 +78,7 @@
         {
             "type": "text",
             "title": "Spruce Tree",
-            "text": "Questa struttura richiede:\n*   Tronchi di pino\n*   Foglie di pino\n*   Assorbitore per alberi\n*   Una volta completata, l'assorbitore per alberi inizierà a produrre frutti di quel tipo di albero. Richiede alimentazione."
+            "text": "Questa struttura richiede:\n*   Tronchi di pino\n*   Foglie di pino\n*   Assorbitore per alberi\n*   Una volta completamente assemblata, l'assorbitore per alberi inizierà a produrre gocce di quel tipo di albero. Richiede alimentazione elettrica."
         }
     ]
 }

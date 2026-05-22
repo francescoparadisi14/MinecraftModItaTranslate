@@ -5,7 +5,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):monete: 364$(li)Dimensioni: Nether$(li)Bioma: Nether Wastes"
+            "text": "$(l)Statistiche$(li): 364$(li)Dimensione: Nether$(li)Bioma: Nether Wastes"
         },
         {
             "type": "patchouli:entity",
@@ -13,7 +13,7 @@
             "scale": 0.8,
             "offset": -0.3,
             "rotate": true,
-            "text": "patchouli: entità\n\nnetherdepthsupgrade: pesce spigola\n\nÈ stata trovata una \"ossa di pace\" all'interno dell'ala del dinosauro."
+            "text": "È stata trovata una vertebra di dinosauro."
         }
     ]
 }

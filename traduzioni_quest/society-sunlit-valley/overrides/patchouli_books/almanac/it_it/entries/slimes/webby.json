@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Posizioni:$()$(li)Strutture: Miniere sotterranee, casse nelle miniere sotterranee, casse nelle dungeons$(li)Casse: Rosse$(br2)$(l)Rischi:$()$(br)Arrampicarsi sulle pareti! Provoca l'effetto \"Lento\" quando si è arrabbiati."
+            "text": "$(l)Luoghi:$(li)Miniere sotterranee, caverne, miniere all'aperto, casse nelle prigioni$(li)Scatole per palloncini: rosse$(br2)$(l)Rischi:$(br)Arrampicarsi sulle pareti! Provoca l'effetto \"Lentezza\" quando si è arrabbiati."
         },
         {
             "type": "patchouli:entity",
-            "name": "patchouli:entità\n\nsplendid\\_slimes:splendid\\_slime{Razza:\"splendid\\_slimes:webby\"}\n\nSlime \"webby\"",
+            "name": "Webby Slime",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:webby\"}",
             "scale": 0.9
         }

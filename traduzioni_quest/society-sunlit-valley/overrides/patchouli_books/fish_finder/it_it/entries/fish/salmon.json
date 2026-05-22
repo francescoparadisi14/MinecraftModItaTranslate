@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 24$(li)§0🔥 §6Estate §0🍂 §4Autunno§0$(li)Acqua: Fiume$(li)Meteo: Qualsiasi$(li)Ora: Giorno"
+            "text": "$(l)Statistiche$(li):Moneta: 24$(li)§0🔥 Estate §0🍂 §4Autunno§0$(li)Acqua: Fiume$(li)Meteo: Qualsiasi$(li)Ora: Giorno"
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:salmon",
             "scale": 0.8,
             "rotate": true,
-            "text": "patchouli:entità\n\nminecraft:salmone\n\nSalmongus."
+            "text": "Salmongus."
         }
     ]
 }

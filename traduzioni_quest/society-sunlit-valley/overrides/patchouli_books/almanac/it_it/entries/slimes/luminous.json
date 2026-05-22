@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Posizioni:$(li)Generatori di Nether Slime$(li)Zone di estrazione: Blocchi del Nether$(br2)$(l)Rischi:$(br)Provoca l'effetto di luminescenza quando è disturbato."
+            "text": "$(l)Posizioni:$(li)Spawn di Nether Slime$(li)Zone di estrazione: Blocchi del Nether$(br2)$(l)Rischi:$(br)Provoca l'effetto di luminosità quando è disturbato."
         },
         {
             "type": "patchouli:entity",
-            "name": "patchouli:entità\n\nsplendid\\_slimes:splendid\\_slime{Razza:\"splendid\\_slimes:luminous\"}\n\nSlime luminoso",
+            "name": "Slime luminoso",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:luminous\"}",
             "scale": 0.9
         }

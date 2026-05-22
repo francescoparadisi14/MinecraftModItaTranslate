@@ -2185,7 +2185,7 @@
         "",
         "- Deploying on the ground next to an &9inventory&r will tell the &bDrone&r to &6collect&r any &bitems&r within its area."
     ],
-    "quest.29AD1060C129C86F.quest_subtitle": "Catch &a50&r total fishes.",
+    "quest.29AD1060C129C86F.quest_subtitle": "Catch &a100&r total fishes, &d2&r unique legendary fishes, &62&r unique golden fishes.",
     "quest.29B59876D04A3772.quest_desc": [
         "This device &6spawns&r &2mobs&r using &7pressure&r, bypassing &elight-level&r restrictions and enabling &4redstone control&r. ",
         "",
@@ -2633,7 +2633,7 @@
         "NOTE: &lONLY&r &bDense Cables&r transfer more than 8 channels, &bInterfaces&r, &bPattern Providers&r, etc. can only passthrough 8 channels, even if connected to a &bDense Cable&r."
     ],
     "quest.308640ACCC096431.title": "The Center of Storage",
-    "quest.30A0D33361D77D7E.quest_subtitle": "Catch &a25&r total fishes.",
+    "quest.30A0D33361D77D7E.quest_subtitle": "Catch &535&r unique fishes.",
     "quest.30BD7370506EBC6C.title": "Oxygen",
     "quest.30D584EAD9243548.quest_desc": [
         "The &bFluidic Plenisher&r allows you to &6feed&r it a &7liquid&r and it will fill up open spaces under it with &7that liquid&r. ",
@@ -4296,7 +4296,7 @@
         "&bExtended Molecular Assembler&r does 8 crafting jobs at once at 2x the speed of a regular, totaling to a 16x increase in crafting speed."
     ],
     "quest.4EC894E7808440AC.quest_subtitle": "Quadruple The Patterns, 16x The Speed",
-    "quest.4ED1400E2AAAAAE1.quest_subtitle": "Catch &a10&r total fishes.",
+    "quest.4ED1400E2AAAAAE1.quest_subtitle": "Catch &a25&r common fishes.",
     "quest.4EF9C36CED1EDDC4.quest_desc": [
         "&bFeathers&r, &bBooks&r, and &bBlack Dye&r can be &6transformed&r in &5Spiritfire&r to obtain versions more receptive to working with Spirits."
     ],
@@ -8126,5 +8126,11 @@
     "quest.7F57BFB41865173A.title": "unlocks\/glowblocks\/any_glowblock",
     "quest.7F5C7E623935E63B.title": "hidden\/status_effects\/divinity",
     "quest.7F7BA1F878A2219B.title": "unlocks\/blocks\/block_flooder",
-    "quest.7FF0A973396E9236.title": "hidden\/status_effects\/fatal_slumber"
+    "quest.7FF0A973396E9236.title": "hidden\/status_effects\/fatal_slumber",
+    "chapter.2D12E0E71DEC99E9.title": "MI: Steam Age",
+    "chapter.53A9F74C4BFE02D2.title": "MI: Electric Age",
+    "chapter.587D73D979FA9D28.title": "MI: Quantum Age",
+    "quest.04F6F95B5880770D.quest_subtitle": "Catch &a200&r total fishes and &d10&r unique legendary fishes.",
+    "quest.15FC55072AB16B86.quest_subtitle": "Catch all &6140&r fishes and all &e140&r golden fishes.",
+    "quest.7283C1B759AF0F5F.quest_subtitle": "Catch all &6140&r fishes."
 }

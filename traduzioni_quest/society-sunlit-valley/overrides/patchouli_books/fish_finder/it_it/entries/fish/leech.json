@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 136$(li)🔥 Estate$(li)Acqua: Fresca$(li)Meteo: Qualsiasi$(li)Ora: Notte"
+            "text": "$(l)Statistiche$()$(li):moneta: 136$(li)🔥 Estate$(li)Acqua: Fonte\/Fiume$(li)Meteo: Qualsiasi$(li)Ora: Notte"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:brown_shrooma",
             "scale": 0,
             "rotate": true,
-            "text": "patchouli: entità\n\nacquacoltura: funghi marroni\n\nSoldi gratis in estate!!"
+            "text": "Soldi gratis in estate!!"
         }
     ]
 }

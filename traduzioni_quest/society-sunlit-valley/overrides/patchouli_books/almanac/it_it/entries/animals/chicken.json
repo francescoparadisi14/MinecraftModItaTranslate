@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: 256$(li)Uovo: Uovo$(li)Polle: Pollo crudo, piume$(br2)$(l)Note$()$(br)Le polli affamate non depongono uova, e quelle infelici ne depongono molto meno."
+            "text": "$(l)Statistiche$()$(li)Prezzo: 256$(li)Uova: Uova$(li)Pollo: Pollo crudo, piume$(br2)$(l)Note$()$(br)I polli affamati non depongono uova, e quelli infelici ne depongono molto meno."
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:chicken",
             "scale": 0.8,
-            "text": "patchouli:entità\n\nminecraft:pollo\n\nQuesti semplici uccelli richiedono poca attenzione, solo cibo."
+            "text": "Questi piccoli uccelli non richiedono molta attenzione, necessitano solo di cibo."
         }
     ]
 }

@@ -1,0 +1,8 @@
+{
+    "create_access_denied.configure_button": "Configure access list",
+    "create_access_denied.screen.access_control": "Network Access Control",
+    "create_access_denied.screen.at_limit": "You cannot add more than %s players to the list",
+    "create_access_denied.screen.no_players": "Use the box below to add players",
+    "create_access_denied.screen.players": "Players with access",
+    "create_access_denied.screen.remove_hint": "Shift-click to remove access for this player"
+}

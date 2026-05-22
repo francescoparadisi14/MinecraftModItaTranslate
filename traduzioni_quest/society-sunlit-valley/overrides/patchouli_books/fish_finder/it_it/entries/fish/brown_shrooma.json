@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 264$(li)§0❆ §bInverno§0$(li)Acqua: Oceano$(li)Tempo: Pioggia, Neve$(li)Ora: Giorno"
+            "text": "$(l)Statistiche$()$(li):moneta: 264$(li)§0❆ §bInverno§0$(li)Acqua: Oceano$(li)Meteo: Pioggia, Neve$(li)Ora: Giorno"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:brown_shrooma",
             "scale": 0.8,
             "rotate": true,
-            "text": "patchouli: entità\n\nacquacoltura: brown_shrooma\n\nSembra che continui a ripetere \"Non venire a...\"."
+            "text": "Sembra che stia ripetendo semplicemente: \"Non venire a...\"."
         }
     ]
 }

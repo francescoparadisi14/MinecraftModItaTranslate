@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 24$(li)🌼 Primavera$(li)Prezzo del seme: moneta: 4$(li)Resa: 1$(li)Tempo di crescita: 3 giorni"
+            "text": "$(l)Statistiche$(li): monete: 24$(li) 🌼 Primavera$(li) Prezzo del seme: monete: 4$(li) Resa: 1$(li) Tempo di crescita: 3 giorni"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: coltivazione di più colture",
+            "name ": "Coltivazione della lattuga",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [

@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Posizioni:$()$(li)Fusione con il cuore$(br2)$(l)Rischi:$()$(br) Mantiene un oggetto a cui è assegnato fino a quando non viene ucciso\/diviso."
+            "text": "$(l)Posizioni:$(li)Fusione con il cuore$(br2)$(l)Rischi:$(br)Mantiene un oggetto ricevuto fino alla sua morte\/distruzione."
         },
         {
             "type": "patchouli:entity",
-            "name": "patchouli:entità\n\nsplendid_slimes:splendid_slime{Razza:\"splendid_slimes:mechanic\"}\n\nSlime meccanico",
+            "name": "Gel per riparazioni meccaniche",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:mechanic\"}",
             "scale": 0.9
         }

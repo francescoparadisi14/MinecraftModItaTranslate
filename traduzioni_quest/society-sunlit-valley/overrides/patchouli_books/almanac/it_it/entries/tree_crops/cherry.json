@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): moneta: 12$(li) 🌼 Primavera§r $(li) Resa: 4$(li) Fasi di crescita: 8$(br2)$(l)Note$()$(li) Vedi: Albero di ciliegia (trees\/pams\/cherry)$(li) Vedi: Albero di ciliegia scura (trees\/letsdo\/darkcherry)"
+            "text": "$(l)Statistiche$()$(li): moneta: 12$(li) 🌼 Primavera$(li) Resa: 4$(li) Fasi di crescita: 8$(br2)$(l)Note$()$(li) Vedi: $(l:alberi\/pams\/ciliegio) Albero di ciliegio$(\/l)$(li) Vedi: $(l:alberi\/letsdo\/darkcherry) Albero di ciliegio scuro$(\/l)"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "patchouli:multiblock\n\nTiglio",
+            "name ": "Tiglio",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {

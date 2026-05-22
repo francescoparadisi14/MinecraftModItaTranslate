@@ -5,7 +5,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Stats$()$(li):coin: 24$(li)🍂 §4Autumn$(li)Seed Price: :coin: 512$(li)Yield: 1-3$(li)Grow time: 7 days$(br2)$(l)Notes$()$(br)Seeds bought from Master Cultivator only.$(br)Rarely drops Magic Peanut."
+            "text": "$(l)Stats$()$(li):coin: 24$(li)🍂 §4Autumn$(li)Seed Price: :coin: 512$(li)Yield: 1-3$(li)Grow time: 7 days$(br2)$(l)Notes$()$(br)Seeds sold in Market after first year.$(br)Rarely drops Magic Peanut."
         },
         {
             "type": "patchouli:multiblock",

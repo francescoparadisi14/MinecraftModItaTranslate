@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli: testo\n\n$(l)Luoghi:$()$(li)Fusione del cuore$(br2)$(l)Rischi:$()$(br)Causa un effetto di velocità quando è stressato. Umori estremamente instabili."
+            "text": "$(l)Luoghi:$()$(li)Fusione cardiaca$(br2)$(l)Rischi:$()$(br)Cause: Effetto di velocità quando si è arrabbiati. Umori estremamente instabili."
         },
         {
             "type": "patchouli:entity",
-            "name": "patchouli:entità\n\nsplendid_slimes:splendid_slime{Razza:\"splendid_slimes:sweet\"}\n\nSweet Slime",
+            "name": "Slime dolce",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:sweet\"}",
             "scale": 0.9
         }

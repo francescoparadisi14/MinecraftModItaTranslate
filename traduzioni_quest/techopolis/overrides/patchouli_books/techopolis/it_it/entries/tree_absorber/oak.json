@@ -6,7 +6,7 @@
     "pages": [
         {
             "type": "multiblock",
-            "name": "struttura a più livelli\nQuercia",
+            "name": "Quercia",
             "enable_visualize": true,
             "multiblock": {
                 "pattern": [
@@ -78,7 +78,7 @@
         {
             "type": "text",
             "title": "Oak Tree",
-            "text": "Questa struttura richiede:\n*   Tronchi di quercia\n*   Foglie di quercia\n*   Assorbitore per alberi\n*   Una volta completata, l'assorbitore per alberi inizierà a produrre frutti di quel tipo di albero. Richiede energia."
+            "text": "Questa struttura richiede:\n*   Tronchi di quercia\n*   Foglie di quercia\n*   Assorbitore per alberi\n*   Una volta completata, l'assorbitore per alberi inizierà a produrre frutti di quel tipo di albero. Richiede alimentazione elettrica."
         }
     ]
 }

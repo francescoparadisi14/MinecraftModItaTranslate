@@ -1,0 +1,11 @@
+{
+    "death.attack.cbc_equally_opposite.cannon_blast_burn": "%1$s was incinerated",
+    "death.attack.cbc_equally_opposite.cannon_blast_gas": "%1$s stood in the wrong spot",
+    "death.attack.cbc_equally_opposite.cannon_blast_shock": "%1$s succumbed to overpressure",
+    "force_group.cbc_equally_opposite.impact": "Impact",
+    "force_group.cbc_equally_opposite.impact.desc": "Impulse from Create Big Cannons projectiles striking the sublevel.",
+    "force_group.cbc_equally_opposite.recoil": "Recoil",
+    "force_group.cbc_equally_opposite.recoil.desc": "Impulse from Create Big Cannons weapons firing from the sublevel.",
+    "gamerule.cannonBlastDamage": "Cannon Blast Damage",
+    "gamerule.cannonBlastDamage.description": "Whether cannon muzzle gas jets and shockwaves can directly damage or ignite entities. Forces on entities and sublevels still apply when this is false."
+}

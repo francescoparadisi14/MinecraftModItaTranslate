@@ -1,7 +1,7 @@
 {
     "name": "Pale Oak Tree 🌐",
     "category": "patchouli:trees",
-    "icon": "vanillabackport:pale_oak_sapling",
+    "icon": "minecraft:pale_oak_sapling",
     "pages": [
         {
             "type": "patchouli:text",
@@ -95,9 +95,9 @@
                     ]
                 ],
                 "mapping": {
-                    "0": "vanillabackport:pale_oak_log[axis=y]",
-                    "L": "vanillabackport:pale_oak_leaves",
-                    "W": "vanillabackport:pale_oak_log[axis=y]"
+                    "0": "minecraft:pale_oak_log[axis=y]",
+                    "L": "minecraft:pale_oak_leaves",
+                    "W": "minecraft:pale_oak_log[axis=y]"
                 }
             }
         }

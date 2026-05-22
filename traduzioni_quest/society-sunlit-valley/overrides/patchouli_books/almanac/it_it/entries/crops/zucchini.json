@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): monete: 72$(li)🔥 §6Estate§r $(li) Prezzo del seme: Non disponibile$(li) Resa: 1-2$(li) Tempo di crescita: 7 giorni"
+            "text": "$(l)Statistiche$()$(li):€72$(li)🔥 Stagione estiva$(li)Prezzo dei semi: Non disponibile$(li)Resa: 1-2$(li)Tempo di crescita: 7 giorni"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: coltivazione di più varietà di zucchine",
+            "name ": "Coltivazione delle zucchine",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [

@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 16$(li)§0🌼 §2Primavera§0 ❆ §bInverno§0$(li)Acqua: Fiume$(li)Meteo: Qualsiasi$(li)Ora: Primavera (Notte), Inverno (Giorno & Notte)"
+            "text": "$(l)Statistiche$()$(li):moneta: 16$(li)§0🌼 §2Primavera§0 ❆ §bInverno§0$(li)Acqua: Fiume$(li)Meteo: Qualsiasi$(li)Ora: Primavera, Inverno$(Day & Night)"
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:cod",
             "scale": 0.8,
             "rotate": true,
-            "text": "Patchouli: entità\n\nMinecraft: cod\n\n\"Caught of Duty\""
+            "text": "Obbligo di legge."
         }
     ]
 }

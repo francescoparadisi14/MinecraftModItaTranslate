@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli: testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile per la vendita$(li)Uovo: Uovo d'oca$(li)Droppi: Oca viva, zampa d'oca$(br2)$(l)Note$()$(br)Le oche affamate non depongono uova, e quelle infelici ne depongono molto meno. Possono essere addomesticate con l'erba di mare."
+            "text": "$(l)Statistiche$()$(li)Prezzo: Non disponibile per la vendita$(li)Uovo: Uovo d'oca$(li)Alimenti: Uova d'oca crude, zampe d'oca$(br2)$(l)Note$()$(br)Gli oche affamate non depongono uova, e quelle infelici ne depongono molto meno. Possono essere addomesticate con l'erba marina."
         },
         {
             "type": "patchouli:entity",
             "entity": "untitledduckmod:goose",
             "scale": 0.8,
-            "text": "Patchouli: entità\n\nMod \"untitledduck\": anatra\n\nCreature maligne che ruberanno i tuoi oggetti e si difenderanno quando saranno attaccate."
+            "text": "Esseri malvagi che ruberanno i tuoi oggetti e si difenderanno quando saranno attaccati."
         }
     ]
 }

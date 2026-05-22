@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): monete: 2$(li) 🌼 Primavera§r ❆ §b Inverno$(li) Raccolta: 1-2\/2-3$(li) Tempo di coltivazione: 2\/3 giorni$(li) Tempo di rigattificazione: 1\/2 giorni$(br2)$(l)Note:$()$(br)Si trova in biomi simili alla taiga.$(br)Non sono necessarie le sementi, basta piantare il frutto.$(br)Ha 2 fasi di raccolta"
+            "text": "$(l)Statistiche$()$(li): 2 monete$(li)🌼 Primavera§r ❆ Inverno$(li)Resa: 1-2 unità\/2-3 unità$(li)Tempo di crescita: 2\/3 giorni$(li)Tempo di rigenerazione: 1\/2 giorni$(br2)$(l)Note:$()$(br)Si trova in biomi simili alla taiga.$(br)Non sono necessarie le sementi, basta piantare il frutto.$(br)Ha 2 fasi di raccolta"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: Multibloc\n\nRosa dolce",
+            "name ": "Bambusa fruttifera",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [

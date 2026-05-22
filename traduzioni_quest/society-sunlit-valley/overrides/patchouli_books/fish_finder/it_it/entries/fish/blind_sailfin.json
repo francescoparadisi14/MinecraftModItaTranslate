@@ -1,18 +1,18 @@
 {
-    "name": "Pinna dorsale cieca",
+    "name": "Pinna cieca",
     "category": "patchouli:fish",
     "icon": "unusualfishmod:raw_blind_sailfin",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 224$(li)§0🌼 §2Primavera§0$(li)Acqua: Fiume$(li)Tempo: Qualsiasi$(li)Ora: Giorno"
+            "text": "$(l)Statistiche$(li):Moneta: 224$(li)§0🌼 §2Primavera$(li)Acqua: Fiume$(li)Meteo: Qualsiasi$(li)Ora: Giorno"
         },
         {
             "type": "patchouli:entity",
             "entity": "unusualfishmod:blindsailfin",
             "scale": 0.8,
             "rotate": true,
-            "text": "patchouli: entità\n\nunusualfishmod: pinna di un pesce particolare\n\n\"Blind? E navigare? Sembra piuttosto pericoloso.\""
+            "text": "Non vedente? E anche a vela? Sembra piuttosto pericoloso."
         }
     ]
 }

@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🌐 Disponibile tutto l'anno§r$(li)Dimensioni: 2x2"
+            "text": "$(l)Statistiche$()$(li)🌐 Disponibile tutto l'anno§r$(li)Dimensioni: 2x2"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: Multibloc\n\nAlbero di Grimwood",
+            "name ": "Albero di Grimwood",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [

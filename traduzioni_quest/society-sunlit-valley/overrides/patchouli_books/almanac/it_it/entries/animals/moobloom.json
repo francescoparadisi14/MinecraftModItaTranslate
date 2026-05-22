@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile$(li)Latte: Latte$(li)Tempo di raffreddamento del latte: 1 giorno$(li)Raccolta: Totem di crescita (5% di probabilità)$(li)Oggetti ottenuti: Carne cruda, cuoio$(br2)$(l)Note$()$(br)La raccolta richiede 10 punti di affetto."
+            "text": "$(l)Statistiche$()$(li)Prezzo: Non disponibile per la vendita$(li)Alimento: Latte$(li)Tempo di raffreddamento del latte: 1 giorno$(li)Risorsa: Totem di crescita (5% di probabilità)$(li)Oggetti ottenuti: Carne cruda, cuoio$(br2)$(l)Note$()$(br)La raccolta richiede 10 punti di affetto."
         },
         {
             "type": "patchouli:entity",
             "entity": "buzzier_bees:moobloom",
             "scale": 0.8,
-            "text": "patchouli: entità\n\nbuzzier_bees: moobloom\n\nA volte, questo fiore speciale può rendere la tua giornata più luminosa."
+            "text": "Ogni tanto, ti regalerà un fiore speciale per rendere la tua giornata più bella."
         }
     ]
 }

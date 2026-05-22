@@ -1,11 +1,11 @@
 {
-    "name": "Pesce fuoco",
+    "name": "Pesce Blazefish",
     "category": "patchouli:fish",
     "icon": "netherdepthsupgrade:blazefish",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 408$(li)Dimensioni: Nether$(li)Bioma: Qualsiasi"
+            "text": "$(l)Statistiche$(li): tipo di oggetto: moneta, numero: 408$(li)Dimensione: Nether$(li)Bioma: qualsiasi"
         },
         {
             "type": "patchouli:entity",
@@ -13,7 +13,7 @@
             "scale": 0.5,
             "offset": -0.3,
             "rotate": true,
-            "text": "patchouli: entità\n\nnetherdepthsupgrade: pesce di fuoco\n\nÈ un po' come se fosse uranio, ma fatto di fuoco."
+            "text": "È un po' come se il Uranio fosse trasformato in fuoco."
         }
     ]
 }

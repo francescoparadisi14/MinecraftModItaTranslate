@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 96$(li)§0🍂 §4Autunno§0$(li)Acqua: Oceano$(li)Meteo: Qualsiasi$(li)Ora: Giorno Notte"
+            "text": "$(l)Statistiche$(li): monete: 96$(li) §0🍂 §4Autunno§0$(li) Acqua: Oceano$(li) Tempo: Qualsiasi$(li) Orario: Giorno Notte"
         },
         {
             "type": "patchouli:entity",
             "entity": "unusualfishmod:forkfish",
             "scale": 0.8,
             "rotate": true,
-            "text": "Patchouli: entità\n\nunusualfishmod: forkfish\n\nÈ ora di mangiare la pasta."
+            "text": "È ora di mangiare la pasta."
         }
     ]
 }

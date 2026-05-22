@@ -1,0 +1,16 @@
+{
+    "jei.category.recursiveae2patternprovider.recursive_pattern": "Modelli Ricorsivi",
+    "recursiveae2patternprovider.configuration.defaultAllowFluidSubstitutes": "Impostazione predefinita: consentire sostituzioni fluide",
+    "recursiveae2patternprovider.configuration.defaultAllowFluidSubstitutes.tooltip": "Impostazione predefinita per consentire l'uso di sostituti di fluidi nei modelli generati automaticamente, quando il modello originale non contiene informazioni sui sostituti. Quando è attivo, consente di utilizzare fluidi equivalenti nelle ricette.",
+    "recursiveae2patternprovider.configuration.defaultAllowSubstitutes": "Predefinita: Permetti sostituzioni",
+    "recursiveae2patternprovider.configuration.defaultAllowSubstitutes.tooltip": "Impostazione predefinita per consentire la sostituzione di elementi nei modelli generati automaticamente quando il modello principale non contiene informazioni sulla sostituzione. Quando è attiva, consente di utilizzare elementi equivalenti (ad esempio, tipi di legno diversi) nelle ricette.",
+    "recursiveae2patternprovider.configuration.enableRecursiveAE2PatternProvider": "Abilita la ricorsione",
+    "recursiveae2patternprovider.configuration.enableRecursiveAE2PatternProvider.tooltip": "Abilita la generazione automatica di pattern AE2 ricorsivi. Quando abilitata, il mod genererà automaticamente i pattern di dipendenza per gli ingredienti mancanti necessari per la creazione.",
+    "recursiveae2patternprovider.configuration.recipeItem": "Elemento della ricetta",
+    "recursiveae2patternprovider.configuration.recipeItem.tooltip": "Elemento necessario per creare pattern ricorsivi. Utilizzare il formato 'namespace:nome_elemento' (ad esempio, 'minecraft:iron_ingot', 'minecraft:diamond', 'ae2:calculation_processor')",
+    "recursiveae2patternprovider.configuration.recursionDepth": "Profondità della ricorsione",
+    "recursiveae2patternprovider.configuration.recursionDepth.tooltip": "Profondità massima di ricorsione per la generazione di pattern di dipendenza. -1 = nessun limite, 0 = disabilitare la ricorsione, valori positivi = profondità massima",
+    "recursiveae2patternprovider.configuration.section.recursiveae2patternprovider.common.toml": "Configurazioni del fornitore di modelli AE2 ricorsivo",
+    "recursiveae2patternprovider.configuration.section.recursiveae2patternprovider.common.toml.title": "Configurazioni del fornitore di modelli AE2 ricorsivo",
+    "recursiveae2patternprovider.configuration.title": "Fornitore di pattern ricorsivo AE2"
+}

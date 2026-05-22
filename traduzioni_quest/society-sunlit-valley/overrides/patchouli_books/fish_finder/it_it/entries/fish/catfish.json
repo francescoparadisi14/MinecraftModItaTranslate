@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 144$(li)§0🌼 §2Primavera§0$(li)Acqua: Fiume$(li)Tempo: Pioggia, Neve$(li)Ora: Notte"
+            "text": "$(l)Statistiche$()$(li):moneta: 144$(li)§0🌼 §2Primavera§0$(li)Acqua: Fiume$(li)Tempo: Pioggia, Neve$(li)Ora: Notte"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:catfish",
             "scale": 0.8,
             "rotate": true,
-            "text": "Patchouli: entità\n\nAcquacoltura: pesce gatto\n\nPesce gatto!!! Pesce gatto!!"
+            "text": "Pesce \"coquito\"! Pesce \"coquito\"!!"
         }
     ]
 }

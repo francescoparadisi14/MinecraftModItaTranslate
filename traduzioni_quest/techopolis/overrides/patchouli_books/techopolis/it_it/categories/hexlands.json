@@ -1,6 +1,6 @@
 {
     "name": "Abbigliamento Hexlands",
-    "description": "Il modo Hexlands offre un nuovo tipo di mondo composto da esagoni.\nUtilizza il tipo di mondo Hexlands quando crei un nuovo mondo per il mondo principale e il Nether, entrambi composti da esagoni.\nUtilizza il tipo di mondo Hexlands (per il mondo principale) quando crei un nuovo mondo composto solo dal mondo principale, anch'esso composto da esagoni.",
+    "description": "La modalità Hexlands offre un nuovo tipo di mondo composto da esagoni.\nUtilizza la modalità Hexlands per creare un nuovo mondo per il mondo principale e il Nether, entrambi composti da esagoni.\nUtilizza la modalità Hexlands (Mondo Principale) per creare un nuovo mondo composto solo dal mondo principale, con esagoni.",
     "icon": "minecraft:oak_sapling",
     "sortnum": "1"
 }

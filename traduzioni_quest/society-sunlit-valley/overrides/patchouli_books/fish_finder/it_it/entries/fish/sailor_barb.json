@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 112$(li)§0🍂 §4Autunno§0$(li)Acqua: Oceano$(li)Meteo: Qualsiasi$(li)Ora: Giorno"
+            "text": "$(l)Statistiche$(li): moneta: 112$(li) §0🍂 §4Autunno§0$(li) Acqua: Oceano$(li) Tempo: Qualsiasi$(li) Orario: Giorno"
         },
         {
             "type": "patchouli:entity",
             "entity": "unusualfishmod:sailor_barb",
             "scale": 0.8,
             "rotate": true,
-            "text": "patchouli: entità\n\nunusualfishmod: sailor_barb\n\nEhm, sono al culmine della mia forma, Optimus."
+            "text": "Ehm, sono al culmine della mia forma, Optimus."
         }
     ]
 }

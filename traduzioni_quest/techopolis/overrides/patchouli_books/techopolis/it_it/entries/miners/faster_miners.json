@@ -6,11 +6,11 @@
     "pages": [
         {
             "type": "text",
-            "text": "Gli lingotti di Technium possono essere utilizzati per accelerare l'attività dei minatori.\nI livelli di minatori più avanzati non sono semplicemente più veloci, ma consentono la raccolta di minerali di livello superiore.\nLe seguenti strutture aumentano la velocità di estrazione e la quantità di minerali prodotti per ciclo del minatore."
+            "text": "Gli lingotti di Technium possono essere utilizzati per accelerare l'attività dei minatori.\nI livelli di minatori più avanzati non sono solo più veloci, ma consentono anche la raccolta di minerali di livello superiore.\nLe seguenti strutture aumentano la velocità di estrazione e la quantità di minerali prodotti da un ciclo del minatore."
         },
         {
             "type": "multiblock",
-            "name": "Multiblocco\n\nMinatore di base",
+            "name": "Minatore principiante",
             "enable_visualize": true,
             "multiblock": {
                 "pattern": [
@@ -41,11 +41,11 @@
                     "m": "#kubejs:miner"
                 }
             },
-            "text": "Multiblocco\n\n200 \"Ticks\", 1 ora di rotazione"
+            "text": "200 zanzare, 1 ora di lavoro"
         },
         {
             "type": "multiblock",
-            "name": "Blocco multiplo\n\nEstrattore avanzato",
+            "name": "Minatore esperto",
             "enable_visualize": true,
             "multiblock": {
                 "pattern": [
@@ -82,11 +82,11 @@
                     "m": "#kubejs:miner"
                 }
             },
-            "text": "Richiede blocchi multipli.\nNecessita di 175 blocchi in bronzo.\nCosto: 2 ore per blocco, 5RF per tick."
+            "text": "Richiede blocchi in bronzo. 175 \"ticks\", 2 rotelle di ferro, 5RF per \"tick\"."
         },
         {
             "type": "multiblock",
-            "name": "Blocchi multipli\n\nMinatore Elite",
+            "name": "Minatore di élite",
             "enable_visualize": true,
             "multiblock": {
                 "pattern": [
@@ -140,11 +140,11 @@
                     "m": "#kubejs:miner"
                 }
             },
-            "text": "Multiblocco\n\nRichiede blocchi in acciaio. (br) 150 \"tick\", 3 ore di lavoro, 20 RF per tick"
+            "text": "Richiede blocchi in acciaio. (br) 150 \"ticks\", 3 \"rolls\" di 3 ore, 20 RF per \"tick\""
         },
         {
             "type": "multiblock",
-            "name": "Multiblocco\n\nUltimate Miner",
+            "name": "Minatore Supremo",
             "enable_visualize": true,
             "multiblock": {
                 "pattern": [
@@ -205,11 +205,11 @@
                     "m": "#kubejs:miner"
                 }
             },
-            "text": "Richiede blocchi Fluix. (125 \"ticks\", 4 ore di lavoro, 50 RF per tick)"
+            "text": "Richiede blocchi Fluix. (125 \"tic\", 4 rotazioni di 1 ora, 50 RF per \"tic\")"
         },
         {
             "type": "multiblock",
-            "name": "Blocco multiplo\n\nSupreme Miner",
+            "name": "Minatore di prim'ordine",
             "enable_visualize": true,
             "multiblock": {
                 "pattern": [
@@ -277,7 +277,7 @@
                     "m": "#kubejs:miner"
                 }
             },
-            "text": "Richiede blocchi multipli.\nNecessita di 100 \"ticks\", 5 ore di lavoro e 100 RF per ogni tick."
+            "text": "Richiede blocchi Flux. (br) 100 \"Ticks\", 5 ore di lavoro, 100 RF per \"tick\""
         }
     ]
 }

@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 24$(li)🍂 Autunno$(li) Prezzo del seme: moneta: 4$(li)Resa: 1$(li)Tempo di crescita: 3 giorni"
+            "text": "$(l)Stats$()$(li):coin: 24$(li)🍂 §4Autunno$(li)Prezzo del seme: :coin: 4$(li)Resa: 1$(li)Tempo di crescita: 3 giorni"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: coltivo di barbabietola",
+            "name ": "Barbabietola",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [

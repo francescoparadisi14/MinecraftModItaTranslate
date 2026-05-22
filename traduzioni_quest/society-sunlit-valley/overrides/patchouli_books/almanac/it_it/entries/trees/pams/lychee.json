@@ -6,11 +6,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🌼 Primavera§r $(li)Prezzo: 256$(li)Dimensione: 1x1$(li)Coltivabile: 8 Lychee (da \"l:tree_crops\/lychee\")$(\/l)$(br2)$(l)Note$()$(li)Piantine acquistate dal mercato."
+            "text": "$(l)Statistiche$()$(li)🌼 §2Primavera§r $(li)Prezzo: 256$(li)Dimensioni: 1x1$(li)Crescita: 8 Lychee$(\/l)$(br2)$(l)Note$()$(li)Piantine acquistate dal mercato."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: Multibloc\nAlbero di lichia",
+            "name ": "Albero di litchi",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {

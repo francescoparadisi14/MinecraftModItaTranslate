@@ -6,11 +6,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:text\n\n$(l)Statistiche$()$(li)🔥 Estate$(r) $(li) Prezzo: 16.384$(li) Dimensioni: 1x1$(li) Cresce: 8 peschi (da peach)$(\/l)$(br2)$(l)Note$()$(li) Piantine acquistate dal mercato."
+            "text": "$(l)Stats$()\n$(li)🔥 Estate$(r)\n$(li)Prezzo: 16.384$(li)Dimensione: 1x1$(li)Tipo di pianta: 8 alberi di pesco$(\/l)$(br2)\n$(l)Note$()\n$(li)Piantine acquistate dal mercato."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: Multibloc\nAlbero di pesco",
+            "name ": "Albero di pesco",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {

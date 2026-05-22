@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): monete: 24$(li)🔥 §6Estate§r$(li)Resa: 2$(li)Tempo di crescita: 3 giorni$(br2)$(l)Note$()$(br)Si trova in palloncini verdi, nei punti di coltivazione e nei Forest Mojos."
+            "text": "$(l)Stats$()$(li):monete: 24$(li)🔥 Estate$(li)Resa: 2$(li)Tempo di crescita: 3 giorni$(br2)$(l)Note$()$(br)Si trova in palloncini verdi, nei punti di coltivazione e nei Forest Mojos."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: più blocchi\n\nColtivazione del cotone",
+            "name ": "Coltura del cotone",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [

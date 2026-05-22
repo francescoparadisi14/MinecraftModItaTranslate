@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Possibili oggetti da regalare:$()$(br) Nano$(br)$(l) Oggetto per addomesticare:$()$(br) Semi$()$(br2)$(l) Note$()$(br) Si trovano nelle pianure. Non amano essere raccolti, e ciò farà diminuire il loro affetto."
+            "text": "$(l)Possibili regali:$()$(br)Piccolo gnomo$(br)$(l)Oggetto per addomesticare:$()$(br)Semi$()$(br2)$(l)Note$()$(br)Si possono trovare nelle pianure. Non amano essere raccolti, e ciò farà diminuire il loro affetto."
         },
         {
             "type": "patchouli:entity",
             "entity": "hamsters:hamster",
             "scale": 0.7,
-            "text": "patchouli: entità\n\ncriceti: criceto\n\nPotrebbe esplodere se alimentato"
+            "text": "Potrebbe esplodere se alimentato"
         }
     ]
 }

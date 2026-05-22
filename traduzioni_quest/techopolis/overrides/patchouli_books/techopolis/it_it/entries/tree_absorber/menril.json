@@ -6,7 +6,7 @@
     "pages": [
         {
             "type": "multiblock",
-            "name": "Struttura a più blocchi\nAlbero di Menril",
+            "name": "Albero di Menril",
             "enable_visualize": true,
             "multiblock": {
                 "pattern": [
@@ -99,7 +99,7 @@
         {
             "type": "text",
             "title": "Menril Tree",
-            "text": "Questa struttura richiede:\n*   Albero di Menril\n*   Foglie di Menril\n*   Assorbitore per alberi\n*   Una volta completata, l'assorbitore per alberi inizierà a produrre gocce di quel tipo di albero. Richiede energia."
+            "text": "Questa struttura richiede:\n*   $(li) Log di Menril\n*   $(li) Foglie di Menril\n*   $(li) Assorbitore per alberi\n*   $(br2) Una volta completamente costruita, l'assorbitore per alberi inizierà a produrre gocce di quel tipo di albero. Richiede energia."
         }
     ]
 }

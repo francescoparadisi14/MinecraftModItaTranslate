@@ -6,7 +6,7 @@
     "pages": [
         {
             "type": "multiblock",
-            "name": "Multiblocco\n\nAlbero distorto",
+            "name": "Albero contorto",
             "enable_visualize": true,
             "multiblock": {
                 "pattern": [
@@ -78,7 +78,7 @@
         {
             "type": "text",
             "title": "Warped Tree",
-            "text": "Questa struttura richiede:\n*   Un fusto deformato\n*   Un blocco di wart deformato\n*   Un assorbitore per alberi\n*   Alimentazione"
+            "text": "Questa struttura richiede: $(li) Tronco deformato$(li) Blocco di wart deformato$(li) Assorbitore per alberi$(br2) Una volta completamente assemblata, l'assorbitore per alberi inizierà a produrre frutti di quel tipo di albero. Richiede energia."
         }
     ]
 }

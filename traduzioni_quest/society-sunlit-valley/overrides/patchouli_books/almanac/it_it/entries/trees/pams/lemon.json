@@ -6,11 +6,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:text\n\n$(l)Statistiche$()$(li)🌼 Primavera§r 🔥 §6Estate§r$(li)Dimensione: 1x1$(li)Produce: 8 limoni (da *tree_crops\/lemon*)$(\/l)$(br2)$(l)Note$()$(li)Piantine scambiate presso il Mercato Elfico."
+            "text": "$(l)Stats$()$(li)🌼 §2Primavera§r 🔥 §6Estate§r$(li)Dimensioni: 1x1$(li)Numero di alberelli: 8 limoni$(\/l)$(br2)$(l)Note$()$(li)Alberelli venduti al Mercato degli Elfi."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "patchouli:multiblock\n\nTiglio",
+            "name ": "Tiglio",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {

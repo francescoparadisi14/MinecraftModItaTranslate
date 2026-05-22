@@ -1,0 +1,12 @@
+{
+    "block.dedicatedelytraslot.example_block": "Esempio di blocco",
+    "dedicatedelytraslot.configuration.items": "Elenco degli articoli",
+    "dedicatedelytraslot.configuration.logDirtBlock": "Blocco di terra per strade",
+    "dedicatedelytraslot.configuration.magicNumber": "Numero magico",
+    "dedicatedelytraslot.configuration.magicNumberIntroduction": "Numero Magico",
+    "dedicatedelytraslot.configuration.section.dedicatedelytraslot.common.toml": "Configurazioni dedicate per gli slot degli Elytra",
+    "dedicatedelytraslot.configuration.section.dedicatedelytraslot.common.toml.title": "Configurazioni dedicate per gli slot degli Elytra",
+    "dedicatedelytraslot.configuration.title": "Configurazioni dedicate per gli slot degli Elytra",
+    "item.dedicatedelytraslot.example_item": "Esempio di articolo",
+    "itemGroup.dedicatedelytraslot": "Esempio di Tabella Mod"
+}

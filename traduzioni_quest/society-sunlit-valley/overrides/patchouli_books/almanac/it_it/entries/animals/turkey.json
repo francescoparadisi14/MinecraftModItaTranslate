@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile$(li)Uovo: Uovo di tacchino$(li)Piume: Piume di tacchino, piume$(br2)$(l)Note$()$(br)I tacchini affamati non depongono uova, e quelli infelici ne depongono molto meno. I tacchini depongono uova più lentamente rispetto ad altri uccelli."
+            "text": "$(l)Statistiche$()$(li)Prezzo: Non disponibile per la vendita$(li)Uovo: Uovo di tacchino$(li)Materiali: Tacchino crudo, piume$(br2)$(l)Note$()$(br)I tacchini affamati non depongono uova, e quelli infelici ne depongono molto meno. I tacchini depongono uova più lentamente rispetto ad altri uccelli."
         },
         {
             "type": "patchouli:entity",
             "entity": "autumnity:turkey",
             "scale": 0.8,
-            "text": "patchouli: entità\n\nautumnity: Turchia\n\nTutti sono sempre grati per il loro delizioso pollo con maionese"
+            "text": "Tutti apprezzano sempre il loro delizioso sandwich con tacchino e maionese."
         }
     ]
 }

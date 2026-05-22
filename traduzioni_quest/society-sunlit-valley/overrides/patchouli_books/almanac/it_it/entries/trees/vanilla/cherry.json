@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🌼 Primavera§r $(li)Prezzo del seme: :moneta: 8$(li)Dimensione: 1x1"
+            "text": "$(l)Statistiche$()\n$(li)🌼 Primavera§r\n$(li)Prezzo del \"Sapling\": :moneta: 8\n$(li)Dimensioni: 1x1"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "patchouli:multiblock\n\nCiliegio",
+            "name ": "Ciliegio",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [

@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): monete: 4$(li) 🍂 Autunno§r$(li) Resa: 2\/4$(li) Fasi di crescita: 4\/5$(li) Fasi di rigenerazione: 1\/2$(br2)$(l)Note$()$(br)Presente negli ecosistemi della foresta di acero$(br)Non produce semi, basta piantare il frutto.$(br) Ha 2 fasi di raccolta"
+            "text": "$(l)Statistiche$()$(li): 4$(li)🍂 Autunno§r$(li)Resa: 2\/4$(li)Fasi di crescita: 4\/5$(li)Fasi di rigenerazione: 1\/2$(br2)$(l)Note$()$(br)Trovato negli ecosistemi della foresta di acero$(br)Non produce semi, basta piantare il frutto.$(br) Ha 2 fasi di raccolta"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "patchouli:multiblock\n\nAlbero di bacche \"Tall Foul Berry\"",
+            "name ": "Albero di ribes alto e robusto",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [

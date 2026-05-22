@@ -6,11 +6,11 @@
     "pages": [
         {
             "type": "text",
-            "text": "Gli strumenti in vaniglia sono stati disabilitati; per crearli, utilizzare gli strumenti di costruzione."
+            "text": "Gli strumenti in legno sono stati disabilitati. Utilizzate gli strumenti di fabbricazione (tinkers' construct) per crearli."
         },
         {
             "type": "text",
-            "text": "Un attrezzo simile a un rastrello può essere utilizzato come zappa e per raccogliere foglie."
+            "text": "Un attrezzo da giardinaggio, come un rastrello, può essere utilizzato come zappa e per raccogliere foglie."
         }
     ]
 }

@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): monete: 32$(li)🍂 Autunno$(li)Resa: 3$(li)Fasi di crescita: 8$(br2)$(l)Note$()$(li)Vedi: Albero di nocciola (trees\/pams\/hazelnut)$(\/l)"
+            "text": "$(l)Statistiche$()$(li): tipo di pianta: nocciolo$(li)🍂 Stagione: Autunno$(li)Resa: 3$(li)Fasi di crescita: 8$(br2)$(l)Note$()$(li)Vedi: Albero di nocciolo (famiglia delle noci)$(\/l)"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: Multiblocco\n\nCiliegio",
+            "name ": "Albero di nocciole",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {

@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Possibili regali:$()$(br)Cappello \"Chi's Ears\""
+            "text": "$(l)Possibili regali:$(br)Cappello \"Chi's Ears\""
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:allay",
             "scale": 0.8,
-            "text": "patchouli: entità\n\nminecraft: allay\n\nIn alternativa, prova un aggiornamento per il sistema di gestione Sophisticated Storage."
+            "text": "In alternativa, prova l'aggiornamento del magnete offerto da Sophisticated Storage."
         }
     ]
 }

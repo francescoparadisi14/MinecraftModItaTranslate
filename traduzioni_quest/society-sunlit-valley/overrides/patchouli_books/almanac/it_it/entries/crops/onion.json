@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 12$(li)🌼 Primavera$(li)Prezzo del seme: moneta: 4$(li)Resa: 1-4$(li)Tempo di crescita: 4 giorni"
+            "text": "$(l)Statistiche$()$(li):Moneta: 12$(li)🌼 Primavera§r$(li)Prezzo del seme: 4 monete$(li)Resa: 1-4$(li)Tempo di crescita: 4 giorni"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: coltivazione di più colture",
+            "name ": "Coltura di cipolle",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [

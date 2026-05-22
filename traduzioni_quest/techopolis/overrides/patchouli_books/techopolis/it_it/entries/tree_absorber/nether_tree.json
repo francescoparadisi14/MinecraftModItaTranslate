@@ -6,7 +6,7 @@
     "pages": [
         {
             "type": "multiblock",
-            "name": "Albero del fungo",
+            "name": "Albero del sangue",
             "enable_visualize": true,
             "multiblock": {
                 "pattern": [
@@ -85,7 +85,7 @@
         {
             "type": "text",
             "title": "Bloodshroom Tree",
-            "text": "Questa struttura richiede:\n*   Log di Bloodshroom\n*   Slimey Wart\n*   Albero assorbitore\n*   Una volta completata, l'albero assorbitore inizierà a produrre frutti di quel tipo. Richiede energia."
+            "text": "Questa struttura richiede:\n*   Log di Bloodshroom\n*   Slimey Wart\n*   Albero assorbitore\n*   Una volta completamente costruita, l'albero assorbitore inizierà a produrre frutti di quel tipo di albero. Richiede energia."
         }
     ]
 }

@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): monete: 4$(li) 🌐 Disponibili tutto l'anno$(br2)$(l)Note$()$(br) I vigneti possono essere coltivati in biomi specifici, a seconda del tipo. Ogni tipo ha una stagione specifica in cui può essere coltivato. Tutti i vigneti devono essere coltivati su tralci e strutture di supporto."
+            "text": "$(l)Statistiche$()$(li): 4$(li)🌐 Disponibili tutto l'anno$(br2)$(l)Note$()$(br)I vitigni possono essere coltivati in specifiche biomi, a seconda del nome. Ogni varietà ha una stagione specifica in cui cresce. Tutti i vitigni devono essere coltivati su tralci e strutture di supporto."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: Multiblocco\n\nStelo di uva",
+            "name ": "Stelo dell'uva",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
@@ -28,7 +28,7 @@
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: Multibloc\n\nVigneto",
+            "name ": "Vigneto",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [

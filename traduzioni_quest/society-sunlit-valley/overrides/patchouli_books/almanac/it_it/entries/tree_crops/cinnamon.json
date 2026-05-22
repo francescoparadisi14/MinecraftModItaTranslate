@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 160$(li)🍂 Autunno§r ❆ §bInverno§r$(li)Resa: 1$(li)Fasi di crescita: 8$(br2)$(l)Note$()$(li)Vedi: Albero di cannella (trees\/pams\/cinnamon)"
+            "text": "$(l)Statistiche$()$(li):moneta: 160$(li)🍂 Autunno§r ❆ §bInverno§r$(li)Resa: 1$(li)Fasi di crescita: 8$(br2)$(l)Note$()$(li)Vedi: $(l:alberi\/pams\/cannella)Albero alla cannella$(\/l)"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: Multibloc\n\nCiliegio",
+            "name ": "Albero di prugne",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {

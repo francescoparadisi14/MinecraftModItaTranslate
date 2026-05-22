@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: 8,192$(li)Possibilità di trovare: Tartufo (20%)$(li)Oggetti ottenuti: Costolette di maiale crude$(br2)$(l)Note$()$(br)Per ottenere il tartufo, è necessario avere almeno 4 punti di affetto."
+            "text": "$(l)Statistiche$()\n$(li)Prezzo: 8.192$(li)Risorsa: Tartufo (20% di probabilità)$(li)Oggetti ottenuti: Costolette di maiale crude$(br2)$(l)Note$()\n$(br)La raccolta richiede almeno 4 punti di affetto."
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:pig",
             "scale": 0.7,
-            "text": "Patchouli: entità\n\nMaiale (Minecraft)\n\nSono piante delicate e che richiedono molta attenzione prima di poter raccogliere i preziosi tartufi."
+            "text": "Semplici e poco appariscenti, richiedono molta attenzione prima di poter essere scavate per trovare i preziosi tartufi."
         }
     ]
 }

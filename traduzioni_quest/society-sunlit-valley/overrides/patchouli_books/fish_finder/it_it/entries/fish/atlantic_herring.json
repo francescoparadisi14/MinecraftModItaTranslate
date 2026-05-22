@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 16$(li)§0🌼 §2Primavera§0 §0❆ §bInverno§0$(li)Acqua: Oceano$(li)Meteo: Qualsiasi$(li)Ora: Qualsiasi"
+            "text": "$(l)Statistiche$(li): monete: 16$(li) §0🌼 §2Primavera§0 §0❆ §bInverno§0$(li)Acqua: Oceano$(li)Meteo: Qualsiasi$(li)Ora: Qualsiasi"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:atlantic_herring",
             "scale": 0.8,
             "rotate": true,
-            "text": "Patchouli: entità\n\nAcquacoltura: sgombro dell'Atlantico\n\nDa non confondere con il merluzzo."
+            "text": "Da non confondere con il halibut."
         }
     ]
 }

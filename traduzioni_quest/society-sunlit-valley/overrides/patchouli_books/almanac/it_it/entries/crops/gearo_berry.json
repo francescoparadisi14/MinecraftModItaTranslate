@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): monete: 24$(li) 🌼 Primavera$(li) Resa: 1-2$(li) Tempo di crescita: 4 giorni$(li) Tempo di rigattamento: 2 giorni$(br2)$(l)Note$()$(br) Ottenibile dal commercio degli Elfi di Botania e raramente dai Juicy Slime plorts."
+            "text": "$(l)Stats$()$(li):coin: 24$(li)🌼 Primavera$(li)Resa: 1-2$(li)Tempo di crescita: 4 giorni$(li)Tempo di rigenerazione: 2 giorni$(br2)$(l)Note$()$(br) Ottenuto da Botania's Elven Trade e raramente da Juicy Slime plorts.$(br) Non sono necessarie sementi, basta piantare il frutto."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: Multibloc\n\nArbusto di Gearo Berry",
+            "name ": "Arbusto di mirtilli",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [

@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): monete: 20$(li)🍂 Autunno$(li) Prezzo del seme: monete: 64$(li) Resa: 1-4$(li) Tempo di crescita: 5 giorni$(br2)$(l)Note$()$(br) Semi acquistati solo dal coltivatore principale."
+            "text": "$(l)Statistiche$()$(li): seme: 20$(li)🍂 §4Autunno$(li) Prezzo del seme: 64$(li) Resa: 1-4$(li) Tempo di crescita: 5 giorni$(br2)$(l)Note$()$(br) I semi vengono venduti sul mercato dopo il primo anno."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: coltivazione di più varietà\n\nPatata dolce",
+            "name ": "Coltura della patata dolce",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [

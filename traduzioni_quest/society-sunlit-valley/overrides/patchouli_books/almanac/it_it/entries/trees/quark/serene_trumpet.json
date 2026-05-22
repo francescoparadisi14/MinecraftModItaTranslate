@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🌐 Disponibile tutto l'anno§r$(li)Dimensioni: 1x1."
+            "text": "$(l)Statistiche$()$(li)🌐 Disponibile tutto l'anno§r$(li)Dimensioni: 1x1."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: Multibloc\n\nAlbero di Trumpet (Sereno)",
+            "name ": "Albero della tromba dal suono pacato",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [

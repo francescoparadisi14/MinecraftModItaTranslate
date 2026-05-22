@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli: testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile per la vendita$(li)Raccolta: ... rifiuti? (50% di probabilità)$(li)Oggetti ottenuti: Barattolo di latta$(br2)$(l)Note$()$(br)La raccolta richiede almeno 3 cuori. Può essere trovato negli ambienti delle pianure."
+            "text": "$(l)Statistiche$()$(li)Prezzo: Non disponibile per la vendita$(li)Alimentazione: ... rifiuti? (50% di probabilità)$(li)Oggetti ottenuti: Barattolo di latta$(br2)$(l)Note$()$(br)La raccolta richiede almeno 3 cuori. Può essere trovata negli ambienti di pianura."
         },
         {
             "type": "patchouli:entity",
             "entity": "wildernature:raccoon",
             "scale": 0.7,
-            "text": "patchouli: entità\n\nwildernature: tasso\n\nQuesti piccoli sono grandi amici dei \"Slime Putrescenti\"!"
+            "text": "Questi piccoli sono ottimi amici dei \"Rotting Slimes\"!"
         }
     ]
 }

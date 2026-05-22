@@ -5,13 +5,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)Prezzo: Non disponibile$(li)Fonte: Sacca di inchiostro$(li)Tempo di ricarica: 1 giorno$(li)Possibilità di ottenere: Sacca di inchiostro (20%), Inchiostro antico (10%) $(li)Oggetti ottenibili: Sacca di inchiostro$(br2)$(l)Note$()$(br)Raccoglie oggetti quando il livello di affetto è superiore a 5. Deve avere un nome (tag) o altrimenti scomparirà."
+            "text": "$(l)Statistiche$()\n$(li)Prezzo: Non disponibile per la vendita$(li)Fonte di nutrimento: Sacca di inchiostro$(li)Tempo di recupero: 1 giorno$(li)Possibilità di ottenere: Sacca di inchiostro (20%), Inchiostro antico (10%)$(li)Oggetti ottenibili: Sacca di inchiostro$(br2)$(l)Note$()\n$(br)Si nutre ottenendo oggetti quando il livello di affetto è superiore a 5. Deve essere contrassegnato con un'etichetta o scomparirà."
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:squid",
             "scale": 0.4,
-            "text": "patchouli:entità\n\ncalamaro (in Minecraft)\n\nÈ possibile \"mungere\" un calamaro?"
+            "text": "Come si fa a ottenere il latte da un calamaro?"
         }
     ]
 }

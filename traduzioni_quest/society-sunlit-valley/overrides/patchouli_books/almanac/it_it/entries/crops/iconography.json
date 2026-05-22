@@ -6,12 +6,12 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "per facilitare la comprensione delle stagioni in cui si coltivano le diverse piante in questo capitolo, vengono utilizzati i seguenti simboli:\n* 🌼 Primavera\n* 🔥 Estate\n* 🍂 Autunno\n* ❆ Inverno\n* §b Stagione intera\n"
+            "text": "Per facilitare la comprensione delle stagioni in cui si coltivano le diverse colture in questo capitolo, vengono utilizzati i seguenti simboli:\n\n* 🌼 Primavera\n* 🔥 Estate\n* 🍂 Autunno\n* ❆ Inverno\n* 🌐 Tutte le stagioni\n* 5 Anno intero"
         },
         {
             "type": "patchouli:text",
             "title": "Growth Duration",
-            "text": "patchouli:testo\n\n$(li) Periodo di crescita: la pianta cresce alle 6:00.\n$(li) Fasi di crescita: la pianta cresce in modo casuale."
+            "text": "*   Tempo di crescita: la pianta cresce alle 6:00 del mattino.\n*   Fasi di crescita: la pianta cresce in modo casuale."
         }
     ]
 }

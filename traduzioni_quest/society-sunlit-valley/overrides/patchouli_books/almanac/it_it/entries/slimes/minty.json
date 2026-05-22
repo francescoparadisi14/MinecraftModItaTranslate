@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Posizioni:$()$(li)Fusione con il cuore$(br2)$(l)Rischi:$()$(br) Attacca i giocatori, ha Forza III, può volare e provoca l'effetto \"Intossicato\" quando è arrabbiato. Ha la possibilità di essere riportato in vita quando viene colpito da attacchi ad alto danno. Estremamente pericoloso."
+            "text": "$(l)Posizioni:$()$(li)Fusione con il cuore$(br2)$(l)Rischi:$()$(br)Attacca i giocatori, ha Forza III, può volare e causa l'effetto \"Sballato\" quando è arrabbiato. Ha la possibilità di essere riportato in vita quando viene colpito da attacchi ad alto danno. Estremamente pericoloso."
         },
         {
             "type": "patchouli:entity",
-            "name": "patchouli:entità\n\nsplendid\\_slimes:splendid\\_slime{Razza:\"splendid\\_slimes:minty\"}\n\nSlime alla menta",
+            "name": "Slime al mentolo",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:minty\"}",
             "scale": 0.9
         }

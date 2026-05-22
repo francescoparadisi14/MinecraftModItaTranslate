@@ -6,11 +6,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li)🌼 Primavera§r $(li)Prezzo: 512$(li)Dimensione: 1x1$(li)Coltivabile su: 8x Ciliegio$(\/l)$(br2)$(l)Note$()$(li)Piantine acquistate da un coltivatore esperto."
+            "text": "$(l)Statistiche$()$(li)🌼 §2Primavera§r $(li)Prezzo: :moneta: 512$(li)Dimensioni: 1x1$(li)Tipo: 8 piante di ciliegio$(\/l)$(br2)$(l)Note$()$(li)I piantine vengono vendute sul mercato dopo il primo anno."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "patchouli:multiblock\n\nTiglio",
+            "name ": "Tiglio",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {

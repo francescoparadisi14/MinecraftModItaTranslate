@@ -5,7 +5,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 412$(li)Dimensioni: Nether$(li)Bioma: Valle del Sabbia"
+            "text": "$(l)Statistiche$(li): tipo di risorsa: monete (412)$(li)Dimensione: Nether$(li)Bioma: Valle di Sabbia dell'Inferno"
         },
         {
             "type": "patchouli:entity",
@@ -13,7 +13,7 @@
             "scale": 0.8,
             "offset": -0.3,
             "rotate": true,
-            "text": "patchouli: entità\n\nnetherdepthsupgrade: osso di pesce wither\n\nBeh, mi sono mosso molto, ma gradualmente ho iniziato a perdere interesse."
+            "text": "Beh, inizialmente ero molto aperto a diverse idee, ma gradualmente ho iniziato a restringere i miei orizzonti."
         }
     ]
 }

@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 320$(li)§0🔥 §6Estate§0$(li)Acqua: Fresca$(li)Meteo: Qualsiasi$(li)Ora: Giorno"
+            "text": "$(l)Statistiche$()$(li):Moneta: 320$(li)§0🔥 §6Estate§0$(li)Acqua: Fresca$(li)Meteo: Qualsiasi$(li)Ora: Giorno"
         },
         {
             "type": "patchouli:entity",
             "entity": "unusualfishmod:circus",
             "scale": 0.8,
             "rotate": true,
-            "text": "patchouli: entità\n\nunusualfishmod: circo\n\nÈ noto anche come Woland."
+            "text": "È conosciuto anche con il nome di Woland."
         }
     ]
 }

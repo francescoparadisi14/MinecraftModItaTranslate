@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): moneta: 16$(li)🔥 Estate$(li)Resa: 3$(li)Fasi di crescita: 8$(br2)$(l)Note$()$(li)Vedi: $(l:alberi\/pams\/banana)Albero di banana$(\/l)"
+            "text": "$(l)Statistiche$()$(li): monete: 16$(li)🔥 Stagione estiva$(li)Resa: 3$(li)Fasi di crescita: 8$(br2)$(l)Note$()$(li)Vedi: $(l:alberi\/pams\/banana)Albero di banana$(\/l)"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: Multibloc\nAlbero di banana",
+            "name ": "Albero della banana",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {

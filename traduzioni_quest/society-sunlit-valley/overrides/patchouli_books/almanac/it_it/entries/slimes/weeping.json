@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Posizioni:$(()\n$(li)Biomi: Biomi del Nether al di fuori della Valle di Soul Sand\n$(br2)\n$(l)Rischi:$(()\n$(br) Potrebbe piangere periodicamente, riempiendo l'area d'acqua."
+            "text": "$(l)Posizioni:$(br)Biomi: Biomi del Nether al di fuori della Valle di Soul Sand$(br2)$(l)Rischi:$(br)Piangerà periodicamente, riempiendo l'area d'acqua."
         },
         {
             "type": "patchouli:entity",
-            "name": "patchouli:entità\n\nsplendid_slimes:splendid_slime{Razza:\"splendid_slimes:weeping\"}\n\nSlime che piange",
+            "name": "Slime che cola",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:weeping\"}",
             "scale": 0.9
         }

@@ -5,7 +5,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Stats$()$(li):coin: 70$(li)🍂 §4Autumn §r❆ §bWinter$(li)Seed Price: :coin: 64$(li)Yield: 1$(li)Grow time: 7 days$(br2)$(l)Notes$()$(br)Seeds bought from Master Cultivator only"
+            "text": "$(l)Stats$()$(li):coin: 70$(li)🍂 §4Autumn §r❆ §bWinter$(li)Seed Price: :coin: 64$(li)Yield: 1$(li)Grow time: 7 days$(br2)$(l)Notes$()$(br)Seeds sold in Market after first year"
         },
         {
             "type": "patchouli:multiblock",

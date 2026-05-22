@@ -1,0 +1,8 @@
+{
+    "create_access_denied.configure_button": "Configura la lista di accesso",
+    "create_access_denied.screen.access_control": "Controllo dell'accesso alla rete",
+    "create_access_denied.screen.at_limit": "Non è possibile aggiungere più di % di giocatori alla lista.",
+    "create_access_denied.screen.no_players": "Utilizza la casella sottostante per aggiungere i giocatori.",
+    "create_access_denied.screen.players": "Giocatori con accesso",
+    "create_access_denied.screen.remove_hint": "Clicca con il tasto destro per rimuovere l'accesso a questo utente."
+}

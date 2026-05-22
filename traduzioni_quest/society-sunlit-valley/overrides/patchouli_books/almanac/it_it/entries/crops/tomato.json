@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): monete: 24$(li) 🌼 Primavera§r 🔥 §6 Estate§r 🍂 §4 Autunno$(li) Prezzo del seme: monete: 4$(li) Resa: 1$(li) Tempo di crescita: 4 giorni$(li) Tempo di rigattatura: 3 giorni$(br2)$(l)Note$()$(br) Può crescere fino a diventare corda.$(br) Raramente produce pomodori marci."
+            "text": "$(l)Statistiche$()$(li):moneta: 24$(li)🌼 §2Primavera§r 🔥 §6Estate§r 🍂 §4Autunno$(li)Prezzo del seme: :moneta: 4$(li)Resa: 1$(li)Tempo di crescita: 4 giorni$(li)Tempo di rigattificazione: 3 giorni$(br2)$(l)Note$()$(br)Può crescere fino a diventare una corda.$(br) Raramente produce pomodori marci."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: coltivazione di più varietà di pomodoro",
+            "name ": "Coltivazione del pomodoro",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [

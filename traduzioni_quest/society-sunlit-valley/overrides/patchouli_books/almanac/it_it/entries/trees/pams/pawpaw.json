@@ -1,16 +1,16 @@
 {
-    "name": "Albero di pawpaw 🍂",
+    "name": "Albero di Pawpaw 🍂",
     "category": "patchouli:trees",
     "icon": "pamhc2trees:pawpaw_sapling",
     "sortnum": -1,
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:text\n\n$(l)Statistiche$()$(li)🍂 Autunno§r $(li)Dimensione: 1x1$(li)Coltivabile: $(l:alberi\/pawpaw) 8 Pawpaw$(\/l)$(br2)$(l)Note$()$(li)Piantine ottenute dalla macchina premi."
+            "text": "$(l)Stats$()$(li)🍂 Autunno§r $(li)Dimensione: 1x1$(li)Tipo: Pawpaw (albero) 8x Pawpaw$(\/l)$(br2)$(l)Note$()$(li)Piantine ottenute dalla macchina premi."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: Multiblocco\n\nAlbero di Pawpaw",
+            "name ": "Albero del pawpaw",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {

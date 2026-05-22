@@ -1,15 +1,15 @@
 {
-    "name": "Pianta carnivora",
+    "name": "Pianta carnivora 🔥",
     "category": "patchouli:crops",
     "icon": "minecraft:pitcher_plant",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): moneta: 128$(li)🔥 Estate$(li)Resa: 1$(li)Tempo di crescita: 4 giorni$(br2)$(l)Note$()$(br)Semi scavati da Sniffers"
+            "text": "$(l)Statistiche$()$(li): monete: 128$(li)🔥 Estate$(li)Resa: 1$(li)Tempo di crescita: 4 giorni$(br2)$(l)Note$()$(br)Semi trovati da Sniffers"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: coltura multi-blocco\n\nPianta da collezione (Pitcher Plant)",
+            "name ": "Coltivazione della pianta carnivora",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [

@@ -1,0 +1,20 @@
+{
+    "advancements.skys_overworld_netherite.ancient_remnants.descr": "How did this get here?",
+    "advancements.skys_overworld_netherite.ancient_remnants.title": "Forgotten Debris",
+    "advancements.skys_overworld_netherite.master_of_ancient_shards.descr": "Carry 32 Large Ancient Debris Shards at once! Serious dedication...",
+    "advancements.skys_overworld_netherite.master_of_ancient_shards.title": "Master of the Ancient Shards",
+    "advancements.skys_overworld_netherite.overworld_netherite.descr": "Thank you for downloading Sky's Overworld Netherite! <3",
+    "advancements.skys_overworld_netherite.overworld_netherite.title": "Sky's Overworld Netherite",
+    "advancements.skys_overworld_netherite.pieceofdebris.descr": "Find and collect your first Ancient Debris shard!",
+    "advancements.skys_overworld_netherite.pieceofdebris.title": "Ancient Shard",
+    "advancements.skys_overworld_netherite.shardkeeper.descr": "Carry 32 Ancient Debris Shards at once!",
+    "advancements.skys_overworld_netherite.shardkeeper.title": "Shardkeeper",
+    "advancements.skys_overworld_netherite.the_big_one.descr": "Obtain a RARE Large Ancient Debris shard!",
+    "advancements.skys_overworld_netherite.the_big_one.title": "The [[BIG]] One",
+    "block.skys_overworld_netherite.ancient_debris_ore": "Ancient Debris Ore",
+    "block.skys_overworld_netherite.deepslate_ancient_debris_ore": "Deepslate Ancient Debris Ore",
+    "item.skys_overworld_netherite.ancient_debris_ore": "Ancient Debris Ore",
+    "item.skys_overworld_netherite.ancient_debris_shard": "Ancient Debris Shard",
+    "item.skys_overworld_netherite.deepslate_ancient_debris_ore": "Deepslate Ancient Debris Ore",
+    "item.skys_overworld_netherite.large_ancient_shard": "Large Ancient Debris Shard"
+}

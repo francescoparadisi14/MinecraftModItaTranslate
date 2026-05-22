@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): monete: 16$(li)🔥 Estate$(li)Resa: 1-2$(li)Fasi di crescita: 5-8$(br2)$(l)Note$()$(br)Si trova nell'ambiente delle dune rigogliose.$(br)Raccolto alla fase 5.$(br)Produce fiori gialli nelle fasi più avanzate."
+            "text": "$(l)Stats$()$(li):coin: 16$(li)🔥 Estate$(li)Resa: 1-2$(li)Fasi di crescita: 5-8$(br2)$(l)Note$()$(br)Si trova nell'ambiente delle \"Dune Fiorite\".$(br)Può essere raccolto nella fase 5.$(br)Produce \"Fiori Gialli\" nelle fasi successive."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: coltura multi-blocco\n\nAloe Vera",
+            "name ": "Coltura di Aloe Vera",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [

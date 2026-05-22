@@ -1,0 +1,17 @@
+{
+    "name": "Calcolatore",
+    "category": "patchouli:animals",
+    "icon": "species:cruncher_egg",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Statistiche$()$(li)Prezzo: Non disponibile per la vendita$(li)Alimento: Sacchetto di cibo raccolto (40% di probabilità), Minerale di biossido di stagno grezzo (25% di probabilità), Scaglia di drago (4% di probabilità), Uovo di Cruncher (15% di probabilità)$(br2)$(l)Note$()$(br)La raccolta richiede almeno 1 punto di vita. Può essere trovata in aree di scavo e addomesticata con carne."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "species:cruncher",
+            "scale": 0.8,
+            "text": "Fate attenzione alle sue \"palline\"."
+        }
+    ]
+}

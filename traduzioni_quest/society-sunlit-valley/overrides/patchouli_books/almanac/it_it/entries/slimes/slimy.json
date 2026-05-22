@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Posizioni:$()$(li)Posizioni: Spawners di Slime$(li)Luoghi: Mondo di gioco$(br2)$(l)Rischi:$()$(br)Quando viene trasformato in un Largo, si arrabbierà se non riceve cibo da entrambe le fonti (una dopo l'altra)."
+            "text": "$(l)Posizioni:$(li)Spawners di Slime$(li)Luoghi di caccia: Mondo principale$(br2)$(l)Rischi:$(br)Quando viene trasformato in un Largo, si arrabbierà se non riceve cibo da entrambe le fonti (una dopo l'altra)."
         },
         {
             "type": "patchouli:entity",
-            "name": "patchouli:entità\n\nsplendid_slimes:splendid_slime{Razza:\"splendid_slimes:slimy\"}\n\nSlime appiccicoso",
+            "name": "Slime appiccicoso",
             "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:slimy\"}",
             "scale": 0.9
         }

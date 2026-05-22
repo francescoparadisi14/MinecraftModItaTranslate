@@ -6,7 +6,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "Il duplicatore di oggetti per mostri copierà un oggetto specifico quando viene fornita energia e l'essenza del mostro. La quantità di energia e di essenza del mostro utilizzata dipende dall'oggetto che si desidera duplicare."
+            "text": "Il duplicatore di oggetti del mob copierà un oggetto specifico del mob, fornendo energia e l'essenza del mob corrispondente. La quantità di energia e di essenza del mob utilizzata dipende dall'oggetto che si desidera duplicare."
         }
     ]
 }

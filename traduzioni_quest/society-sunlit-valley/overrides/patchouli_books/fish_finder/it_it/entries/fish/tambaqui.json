@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 112$(li)§0🔥 §6Estate§0$(li)Acqua: Fiume$(li)Meteo: Qualsiasi$(li)Ora: Notte"
+            "text": "$(l)Statistiche$(li): monete: 112$(li) §0🔥 §6Estate§0$(li) Acqua: Fiume$(li) Meteo: Qualsiasi$(li) Orario: Notte"
         },
         {
             "type": "patchouli:entity",
             "entity": "aquaculture:tambaqui",
             "scale": 0.8,
             "rotate": true,
-            "text": "patchouli: entità\n\nacquacoltura: tambaqui\n\nQuesto mi mette un po' di paura, credo."
+            "text": "Questo mi mette a disagio, credo."
         }
     ]
 }

@@ -5,14 +5,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li):moneta: 368$(li)§0🌼 §2Primavera§0$(li)Acqua: Oceano$(li)Meteo: Qualsiasi$(li)Ora: Notte"
+            "text": "$(l)Statistiche$(li): monete: 368$(li) §0🌼 §2Primavera$(li) Acqua: Oceano$(li) Tempo: Qualsiasi$(li) Orario: Notte"
         },
         {
             "type": "patchouli:entity",
             "entity": "unusualfishmod:spindlefish",
             "scale": 0.8,
             "rotate": true,
-            "text": "patchouli: entità\n\nunusualfishmod: spinafish\n\nÈ destinato a vivere una vita dedicata alla raccolta di pietre di Sparkstone."
+            "text": "È destinato a vivere una vita dedicata alla raccolta di Sparkstone."
         }
     ]
 }

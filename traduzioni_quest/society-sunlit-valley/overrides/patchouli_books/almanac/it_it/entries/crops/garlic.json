@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "patchouli:testo\n\n$(l)Statistiche$()$(li): monete: 27$(li)🌼 Primavera$(li) Prezzo del seme: monete: 32$(li) Resa: 1-3$(li) Tempo di crescita: 5 giorni$(br2)$(l)Note$()$(br) Semi acquistati solo dal coltivatore principale."
+            "text": "$(l)Statistiche$()$(li): semi: 27$(li) 🌼 Primavera$(li) Prezzo dei semi: 32$(li) Resa: 1-3$(li) Tempo di crescita: 5 giorni$(br2)$(l)Note$()$(br) I semi vengono venduti sul mercato dopo il primo anno."
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Patchouli: coltivazione di più tipi di piante\nAglio",
+            "name ": "Coltura di aglio",
             "enable_visualize": false,
             "multiblock": {
                 "pattern": [
