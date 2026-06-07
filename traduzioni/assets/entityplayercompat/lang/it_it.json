@@ -1,0 +1,14 @@
+{
+    "entity_model_features.config.variable_explanation.entityplayercompat.is_playeranimator_animation_active": "Se l'entità ha un'animazione \"Player Animator\" attiva.",
+    "text.autoconfig.entityplayercompat.option.client.emf_animation_halt_animation_blacklist": "EMF Animazione, Animazione, Elenco di blocco",
+    "text.autoconfig.entityplayercompat.option.client.emf_animation_halt_animation_blacklist.@Tooltip": "Per queste animazioni create dagli animatori, impedite loro di causare l'interruzione delle animazioni EMF quando sono solo loro attive.",
+    "text.autoconfig.entityplayercompat.option.client.emf_animation_halt_blacklist": "Lista nera di EMF Animation",
+    "text.autoconfig.entityplayercompat.option.client.emf_animation_halt_blacklist.@Tooltip": "Per queste entità, impedite loro di interrompere le animazioni EMF quando è attiva un'animazione di un Animator per il giocatore.",
+    "text.autoconfig.entityplayercompat.option.client.emf_force_vanilla_models": "Modelli EMF Force Vanilla",
+    "text.autoconfig.entityplayercompat.option.client.emf_force_vanilla_models.@Tooltip": "Per queste entità, è necessario che il sistema EMF utilizzi il loro modello predefinito invece di interrompere le animazioni quando è attiva un'animazione del \"Player Animator\".",
+    "text.autoconfig.entityplayercompat.option.client.guess_emf_part_modifier_animated_groups": "Indovina i gruppi di animazione per la modifica di EMF",
+    "text.autoconfig.entityplayercompat.option.client.guess_emf_part_modifier_animated_groups.@Tooltip": "Quando non viene specificato un gruppo di animazione per un modificatore di parte EMF, consentire al sistema interno di dedurre il gruppo appropriato.",
+    "text.autoconfig.entityplayercompat.option.client.is_emf_animation_halt_enabled": "Interruzione dell'animazione EMF",
+    "text.autoconfig.entityplayercompat.option.client.is_emf_animation_halt_enabled.@Tooltip": "Interrompere l'animazione del modello \"Entity\" quando è attiva un'animazione del \"Player Animator\".",
+    "text.autoconfig.entityplayercompat.title": "Compatibilità tra giocatori"
+}

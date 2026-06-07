@@ -1,0 +1,6 @@
+{
+    "healthbars.dynamic_difficulty.level_suffix": "Livello: %d",
+    "key.category.healthbars.main": "Barre di salute",
+    "key.healthbars.toggle_health_bars": "Attiva\/Disattiva barre di salute",
+    "key.healthbars.toggle_health_bars.message": "Barre di salute: %s"
+}

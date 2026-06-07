@@ -1,0 +1,15 @@
+{
+    "block.mobnet.compressed_web": "Compressed web",
+    "item.mobnet.compressed_web": "Compressed web",
+    "item.mobnet.golden_net": "Golden net",
+    "item.mobnet.golden_net.tooltip": "Can catch friendly and hostile mobs",
+    "item.mobnet.golden_net_with": "Golden net with %s",
+    "item.mobnet.net.tooltip.filled": "Press the right-click on the block to release",
+    "item.mobnet.nether_star_net": "Nether Star net",
+    "item.mobnet.nether_star_net.tooltip": "Can catch any mobs and some bosses",
+    "item.mobnet.nether_star_net_with": "Nether Star net with %s",
+    "item.mobnet.wooden_net": "Wooden net",
+    "item.mobnet.wooden_net.tooltip": "Can catch friendly mobs",
+    "item.mobnet.wooden_net_with": "Wooden net with %s",
+    "tab.mobnet.mobnet_tab": "Nets for mobs"
+}

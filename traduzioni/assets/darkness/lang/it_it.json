@@ -5,6 +5,7 @@
     "config.darkness.help.dark_nether": "Abilitare in Nether",
     "config.darkness.help.dark_overworld": "Abilitare nel mondo principale",
     "config.darkness.help.dark_skyless": "Abilitare questa opzione in dimensioni modificate senza cielo.",
+    "config.darkness.help.gradual_moon_phase_darkness": "Le notti diventano più buie in modo progressivo, man mano che la luna cambia fase.",
     "config.darkness.help.ignore_moon_phase": "La notte è veramente buia, anche quando la luna è piena.",
     "config.darkness.label.block_light_only": "Blocca solo la luce",
     "config.darkness.label.dark_default": "Dimension Darkness modificato",
@@ -12,6 +13,7 @@
     "config.darkness.label.dark_nether": "Oscurità infernale",
     "config.darkness.label.dark_overworld": "Mondo oscuro",
     "config.darkness.label.dark_skyless": "Dimensioni oscure modificate, senza cielo",
+    "config.darkness.label.gradual_moon_phase_darkness": "Fasi lunari progressive, con un aumento graduale dell'oscurità.",
     "config.darkness.label.ignore_moon_phase": "Ignora la fase lunare",
     "config.darkness.title": "Impostazioni per la modalità \"True Darkness\""
 }

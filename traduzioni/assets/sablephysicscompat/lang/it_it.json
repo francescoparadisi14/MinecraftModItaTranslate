@@ -1,0 +1,12 @@
+{
+    "block.sablephysicscompat.example_block": "Esempio di blocco",
+    "item.sablephysicscompat.example_item": "Esempio di articolo",
+    "itemGroup.sablephysicscompat": "Esempio di Tabella Mod",
+    "sablephysicscompat.configuration.items": "Elenco degli articoli",
+    "sablephysicscompat.configuration.logDirtBlock": "Blocco di terra per strade",
+    "sablephysicscompat.configuration.magicNumber": "Numero magico",
+    "sablephysicscompat.configuration.magicNumberIntroduction": "Numero Magico",
+    "sablephysicscompat.configuration.section.sablephysicscompat.common.toml": "Sable: Configurazioni per la compatibilità fisica",
+    "sablephysicscompat.configuration.section.sablephysicscompat.common.toml.title": "Sable: Configurazioni per la compatibilità fisica",
+    "sablephysicscompat.configuration.title": "Sable: Configurazioni per la compatibilità fisica"
+}

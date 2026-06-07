@@ -1,0 +1,15 @@
+{
+    "block.mobnet.compressed_web": "Web compresso",
+    "item.mobnet.compressed_web": "Web compresso",
+    "item.mobnet.golden_net": "Rete dorata",
+    "item.mobnet.golden_net.tooltip": "È possibile interagire sia con creature amichevoli che ostili.",
+    "item.mobnet.golden_net_with": "Rete dorata con il % di",
+    "item.mobnet.net.tooltip.filled": "Cliccare con il tasto destro sul blocco per rilasciarlo.",
+    "item.mobnet.nether_star_net": "Rete Nether Star",
+    "item.mobnet.nether_star_net.tooltip": "È possibile catturare qualsiasi tipo di mostro e alcuni boss.",
+    "item.mobnet.nether_star_net_with": "Cavo di rete Nether Star con %",
+    "item.mobnet.wooden_net": "Rete in legno",
+    "item.mobnet.wooden_net.tooltip": "È possibile catturare creature non ostili.",
+    "item.mobnet.wooden_net_with": "Rete in legno con %s",
+    "tab.mobnet.mobnet_tab": "Reti per contenere gruppi di creature"
+}

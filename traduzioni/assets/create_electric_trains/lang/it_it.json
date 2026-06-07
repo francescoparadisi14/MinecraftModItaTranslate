@@ -1,0 +1,16 @@
+{
+    "block.create_electric_trains.electric_wire_curve_l_hanging": "Cavo elettrico, direzione di svolta a sinistra",
+    "block.create_electric_trains.electric_wire_curve_r_hanging": "Cavo elettrico, svolta a destra",
+    "block.create_electric_trains.electric_wire_diagonal": "Cavo elettrico, diagonale",
+    "block.create_electric_trains.electric_wire_diagonal_hanging": "Cavo elettrico, diagonale",
+    "block.create_electric_trains.electric_wire_diagonal_to_straight": "Cavo elettrico, svolta a destra",
+    "block.create_electric_trains.electric_wire_split_l": "Filo elettrico, sezione divisa a sinistra",
+    "block.create_electric_trains.electric_wire_split_l_hanging": "Filo elettrico, sezione divisa a sinistra",
+    "block.create_electric_trains.electric_wire_split_r": "Filo elettrico, sezione divisa a destra",
+    "block.create_electric_trains.electric_wire_split_r_hanging": "Filo elettrico, sezione divisa a destra",
+    "block.create_electric_trains.electric_wire_straight": "Filo elettrico dritto",
+    "block.create_electric_trains.electric_wire_straight_hanging": "Filo elettrico dritto",
+    "block.create_electric_trains.electric_wire_straight_to_diagonal": "Cavo elettrico, direzione di svolta a sinistra",
+    "item.create_electric_trains.electric_particle": "Particella di filo elettrico",
+    "itemGroup.tabcreate_electric_trains": "Progettare treni elettrici"
+}

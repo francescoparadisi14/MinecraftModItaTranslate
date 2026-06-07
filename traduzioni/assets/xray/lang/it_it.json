@@ -1,0 +1,11 @@
+{
+    "key.xray.category": "Modalità raggi X",
+    "key.xray.menu": "Apri il menu di Xray",
+    "key.xray.toggle": "Attiva\/Disattiva l'imaging a raggi X",
+    "xray.gui.add_blocks": "Aggiungi blocchi",
+    "xray.gui.back": "Indietro",
+    "xray.gui.close": "Chiudi",
+    "xray.gui.search": "Cerca",
+    "xray.gui.select_blocks": "Seleziona i blocchi",
+    "xray.gui.title": "Raggi X - Configurazione"
+}

@@ -1,0 +1,18 @@
+{
+    "advancements.desh_tycoon.descr": "Become a Desh tycoon!",
+    "advancements.desh_tycoon.title": "Desh Tycoon",
+    "advancements.engineer.descr": "Make the first Engine frame",
+    "advancements.engineer.title": "Engineer!",
+    "item.stellaris_extra.desh_axe": "Desh Axe",
+    "item.stellaris_extra.desh_pickaxe": "Desh Pickaxe",
+    "item.stellaris_extra.desh_plate": "Desh plate",
+    "item.stellaris_extra.desh_shovel": "Desh Shovel",
+    "item.stellaris_extra.desh_sword": "Desh Sword",
+    "item.stellaris_extra.engine_frame": "Engine frame",
+    "item.stellaris_extra.improved_photovoltaic_cell": "Improved photovoltaic cell",
+    "item.stellaris_extra.iron_hummer": "Iron Hummer",
+    "item.stellaris_extra.photovoltaic_cell": "Photovoltaic cell",
+    "item.stellaris_extra.steel_bar": "Steel bar",
+    "item.stellaris_extra.steel_plate": "Steel plate",
+    "item_group.stellaris_extra.stellaris_extra": "Stellaris Extra"
+}

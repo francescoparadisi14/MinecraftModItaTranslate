@@ -1,0 +1,20 @@
+{
+    "block.pineapple_delight.huge_pineapple": "Ananas gigante",
+    "block.pineapple_delight.pineapple_cake": "Torta al cocco",
+    "block.pineapple_delight.pineapple_crate": "Cassa di ananas",
+    "block.pineapple_delight.pineapple_crop": "Coltivazione di ananas",
+    "block.pineapple_delight.pineapple_pie": "Torta di ananas",
+    "block.pineapple_delight.pineapple_wild_crop": "Pianta di ananas selvatico",
+    "item.pineapple_delight.golden_pineapple": "Ananas dorato",
+    "item.pineapple_delight.pineapple": "Ananas",
+    "item.pineapple_delight.pineapple_cake_slice": "Una fetta di torta di ananas",
+    "item.pineapple_delight.pineapple_fried_rice": "Riso saltato con ananas",
+    "item.pineapple_delight.pineapple_ice_cream": "Gelato al ananas",
+    "item.pineapple_delight.pineapple_juice": "Succo di ananas",
+    "item.pineapple_delight.pineapple_mace": "Manico di spago per ananas",
+    "item.pineapple_delight.pineapple_milk_shake": "Frappè al cocco",
+    "item.pineapple_delight.pineapple_old": "Ananas antico",
+    "item.pineapple_delight.pineapple_pie_side": "Una fetta di torta di ananas",
+    "item.pineapple_delight.pineapple_side": "Contorni a base di ananas",
+    "itemGroup.pineapple_delight": "Delizia di ananas"
+}

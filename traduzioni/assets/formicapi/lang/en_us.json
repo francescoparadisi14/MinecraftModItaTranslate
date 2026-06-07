@@ -1,0 +1,14 @@
+{
+    "formicapi.units.irradiation_lux.symbol.sievert_per_seconds": "Sv\/s",
+    "formicapi.units.irradiationflux.symbol.becquerels": "Bq",
+    "formicapi.units.irradiationflux.symbol.curies": "Ci",
+    "formicapi.units.irradiationflux.symbol.gray_per_seconds": "Gray\/s",
+    "formicapi.units.irradiationflux.symbol.rad_per_seconds": "Rad\/s",
+    "formicapi.units.pressure.symbol.atmospheres": "atm",
+    "formicapi.units.pressure.symbol.bar": "bar",
+    "formicapi.units.pressure.symbol.pascals": "Pa",
+    "formicapi.units.pressure.symbol.psi": "psi",
+    "formicapi.units.temperature.symbol.celsius": "°C",
+    "formicapi.units.temperature.symbol.fahrenheit": "°F",
+    "formicapi.units.temperature.symbol.kelvin": "K"
+}

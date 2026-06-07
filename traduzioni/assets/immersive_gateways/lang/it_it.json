@@ -1,0 +1,12 @@
+{
+    "block.immersive_gateways.gateway": "Punto di accesso",
+    "immersive_gateways.command.detect": "Il gateway a %s punti si collega a %s.",
+    "immersive_gateways.command.detect_missing": "Non è stata trovata alcuna connessione salvata per %s.",
+    "immersive_gateways.command.dimension_mismatch": "L'avvio del gateway avviene in un altro ambiente. Prima, eseguite il comando `\/gateway start` qui.",
+    "immersive_gateways.command.finish": "Aggiunta la connessione al gateway.",
+    "immersive_gateways.command.look_at_gateway": "Iniziamo esaminando il blocco di accesso.",
+    "immersive_gateways.command.start": "Il gateway è stato avviato con le seguenti impostazioni: %s.",
+    "immersive_gateways.command.start_required": "Avvia prima il gateway.",
+    "immersive_gateways.not_loaded_yet": "In fase di caricamento...",
+    "item.immersive_gateways.gateway": "Punto di accesso"
+}

@@ -1,0 +1,22 @@
+{
+    "advancements.goated.geep.description": "Incrocio tra una pecora e una capra",
+    "advancements.goated.geep.title": "Oh, povera pecora!",
+    "block.goated.ram_block": "Blocco di RAM",
+    "block.goated.thatch": "Paglia",
+    "block.goated.thatch_slab": "Pannello di paglia",
+    "block.goated.thatch_stairs": "Scale in paglia",
+    "entity.goated.geep": "Geep",
+    "item.goated.barbarian_helmet": "Elmo barbaro",
+    "item.goated.barbaric_helmet": "Casco barbaro",
+    "item.goated.chevon": "Cervo crudo",
+    "item.goated.cooked_chevon": "Cervo cotto",
+    "item.goated.geep_spawn_egg": "Uova di Geep",
+    "subtitle.goated.geep.ambient": "Suoni simili a quelli di una pecora",
+    "subtitle.goated.geep.death": "Geep dies",
+    "subtitle.goated.geep.eat": "Geep mangia",
+    "subtitle.goated.geep.hurt": "Il dolore è intenso.",
+    "subtitle.goated.geep.infestation": "Infestazione da parassiti",
+    "subtitle.goated.geep.long_jump": "Salto di un gatto",
+    "subtitle.goated.geep.milk": "La mucca dà il latte.",
+    "tooltip.goated.barbaric_helmet": "Le difficoltà ti rendono più forte."
+}

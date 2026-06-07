@@ -1,0 +1,22 @@
+{
+    "block.atmosphericwatergenerator.atmospheric_water_generator": "Generatore di acqua dall'aria",
+    "block.awg.atmospheric_water_generator": "Generatore di acqua dall'aria",
+    "gui.atmosphericwatergenerator.remote_desk_gui.RemoteDeskGuiTextField": "Postazione da remoto",
+    "gui.atmosphericwatergenerator.remote_desk_gui.button_link": "Link",
+    "gui.atmosphericwatergenerator.remote_desk_gui.button_unlink": "Disconnetti",
+    "gui.atmosphericwatergenerator.remote_desk_gui.invertedRedStoneSignalGui": "",
+    "gui.atmosphericwatergenerator.remote_desk_gui.label_red_stone_signal": "Inverti il segnale di Redstone",
+    "gui.atmosphericwatergenerator.remote_desk_gui.tooltip_check_to_invert_redstone_signal": "Verificare se il segnale di redstone è invertito.",
+    "gui.atmosphericwatergenerator.remote_desk_gui.tooltip_registrar_o_nome": "Salva etichetta",
+    "item.atmosphericwatergenerator.air_filter": "Filtro dell'aria",
+    "item.atmosphericwatergenerator.atmospheric_water_generator": "Generatore di acqua dall'aria",
+    "item.atmosphericwatergenerator.water_filter": "Filtro per l'acqua",
+    "item.awg.air_filter": "Filtro dell'aria",
+    "item.awg.water_filter": "Filtro per l'acqua",
+    "item_group.atmosphericwatergenerator.awg_tab": "Generatore di acqua dall'aria (AWG)",
+    "item_group.awg.awg": "Generatore di acqua dall'aria",
+    "subtitles.awg_sound": "",
+    "subtitles.beep": "",
+    "subtitles.keyclick": "",
+    "subtitles.usbplugin": ""
+}

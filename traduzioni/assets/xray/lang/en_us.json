@@ -1,0 +1,11 @@
+{
+    "key.xray.category": "Xray Mod",
+    "key.xray.menu": "Open Xray Menu",
+    "key.xray.toggle": "Toggle Xray",
+    "xray.gui.add_blocks": "Add Blocks",
+    "xray.gui.back": "Back",
+    "xray.gui.close": "Close",
+    "xray.gui.search": "Search",
+    "xray.gui.select_blocks": "Select Blocks",
+    "xray.gui.title": "Xray - Configuration"
+}

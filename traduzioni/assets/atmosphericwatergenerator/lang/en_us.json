@@ -1,0 +1,22 @@
+{
+    "block.atmosphericwatergenerator.atmospheric_water_generator": "Atmospheric Water Generator",
+    "block.awg.atmospheric_water_generator": "Atmospheric Water Generator",
+    "gui.atmosphericwatergenerator.remote_desk_gui.RemoteDeskGuiTextField": "Remote Desk",
+    "gui.atmosphericwatergenerator.remote_desk_gui.button_link": "Link",
+    "gui.atmosphericwatergenerator.remote_desk_gui.button_unlink": "Unlink",
+    "gui.atmosphericwatergenerator.remote_desk_gui.invertedRedStoneSignalGui": "",
+    "gui.atmosphericwatergenerator.remote_desk_gui.label_red_stone_signal": "Invert Redstone Signal",
+    "gui.atmosphericwatergenerator.remote_desk_gui.tooltip_check_to_invert_redstone_signal": "check to invert redstone signal",
+    "gui.atmosphericwatergenerator.remote_desk_gui.tooltip_registrar_o_nome": "Save Label",
+    "item.atmosphericwatergenerator.air_filter": "Air Filter",
+    "item.atmosphericwatergenerator.atmospheric_water_generator": "Atmospheric Water Generator",
+    "item.atmosphericwatergenerator.water_filter": "Water Filter",
+    "item.awg.air_filter": "Air Filter",
+    "item.awg.water_filter": "Water Filter",
+    "item_group.atmosphericwatergenerator.awg_tab": "Atmospheric Water Generator AWG",
+    "item_group.awg.awg": "Atmospheric Water Generator",
+    "subtitles.awg_sound": "",
+    "subtitles.beep": "",
+    "subtitles.keyclick": "",
+    "subtitles.usbplugin": ""
+}

@@ -1,0 +1,12 @@
+{
+    "block.immersive_gateways.gateway": "Gateway",
+    "immersive_gateways.command.detect": "Gateway at %s points to %s.",
+    "immersive_gateways.command.detect_missing": "No saved gateway connection for %s.",
+    "immersive_gateways.command.dimension_mismatch": "Gateway start is in another dimension. Run \/gateway start here first.",
+    "immersive_gateways.command.finish": "Added gateway connection.",
+    "immersive_gateways.command.look_at_gateway": "Look at a gateway block first.",
+    "immersive_gateways.command.start": "Gateway start set to %s.",
+    "immersive_gateways.command.start_required": "Run \/gateway start first.",
+    "immersive_gateways.not_loaded_yet": "Still loading...",
+    "item.immersive_gateways.gateway": "Gateway"
+}

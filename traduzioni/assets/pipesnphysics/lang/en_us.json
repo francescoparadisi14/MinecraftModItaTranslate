@@ -1,0 +1,16 @@
+{
+    "itemGroup.pipesnphysics": "Create Pipes n Physics",
+    "pipesnphysics.direction.down": "Down",
+    "pipesnphysics.direction.east": "East",
+    "pipesnphysics.direction.north": "North",
+    "pipesnphysics.direction.south": "South",
+    "pipesnphysics.direction.up": "Up",
+    "pipesnphysics.direction.west": "West",
+    "pipesnphysics.gui.goggles.blocks": "blocks",
+    "pipesnphysics.gui.goggles.direction": "Direction",
+    "pipesnphysics.gui.goggles.flow": "Flow",
+    "pipesnphysics.gui.goggles.no_flow": "No flow",
+    "pipesnphysics.gui.goggles.per_tick": "\/t",
+    "pipesnphysics.gui.goggles.pipe_stats": "Pipe Fluid stats:",
+    "pipesnphysics.gui.goggles.pressure_left": "Pressure left"
+}

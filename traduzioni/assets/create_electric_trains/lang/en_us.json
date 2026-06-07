@@ -1,0 +1,16 @@
+{
+    "block.create_electric_trains.electric_wire_curve_l_hanging": "Electric Wire Left turn",
+    "block.create_electric_trains.electric_wire_curve_r_hanging": "Electric Wire Right turn",
+    "block.create_electric_trains.electric_wire_diagonal": "Electric Wire Diagonal",
+    "block.create_electric_trains.electric_wire_diagonal_hanging": "Electric Wire Diagonal",
+    "block.create_electric_trains.electric_wire_diagonal_to_straight": "Electric Wire Right turn",
+    "block.create_electric_trains.electric_wire_split_l": "Electric Wire Split Left",
+    "block.create_electric_trains.electric_wire_split_l_hanging": "Electric Wire Split Left",
+    "block.create_electric_trains.electric_wire_split_r": "Electric Wire Split Right",
+    "block.create_electric_trains.electric_wire_split_r_hanging": "Electric Wire Split Right",
+    "block.create_electric_trains.electric_wire_straight": "Electric Wire Straight",
+    "block.create_electric_trains.electric_wire_straight_hanging": "Electric Wire Straight",
+    "block.create_electric_trains.electric_wire_straight_to_diagonal": "Electric Wire Left turn",
+    "item.create_electric_trains.electric_particle": "Electric Wire Particle",
+    "itemGroup.tabcreate_electric_trains": "Create Electric Trains"
+}

@@ -1,0 +1,5 @@
+{
+    "block.create_bluemap.example_block": "Example Block",
+    "item.create_bluemap.example_item": "Example Item",
+    "itemGroup.create_bluemap": "Example Mod Tab"
+}

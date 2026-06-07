@@ -1,0 +1,5 @@
+{
+    "goprone.notinstalled": "GoProne non è installato su questo server! Premere le combinazioni di tasti per entrare in modalità \"prone\" non funzionerà!",
+    "key.prone": "Predisposto, incline",
+    "key.prone.toggle": "Predisposto (opzione)"
+}

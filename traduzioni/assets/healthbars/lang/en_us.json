@@ -1,0 +1,6 @@
+{
+    "healthbars.dynamic_difficulty.level_suffix": "Lv. %d",
+    "key.category.healthbars.main": "Health Bars",
+    "key.healthbars.toggle_health_bars": "Toggle Health Bars",
+    "key.healthbars.toggle_health_bars.message": "Render Health Bars: %s"
+}
