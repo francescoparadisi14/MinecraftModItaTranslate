@@ -1,0 +1,18 @@
+{
+    "class.linggango.class_enhancement.civilian.desc": "No stat changes. You were born without any talent at all.",
+    "class.linggango.class_enhancement.civilian.name": "Civilian",
+    "class.linggango.class_enhancement.custom.desc": "A custom path.",
+    "class.linggango.class_enhancement.custom.name": "New Class",
+    "class.linggango.class_enhancement.ranger.desc": "You are quick with your movements, sharp with your shots.",
+    "class.linggango.class_enhancement.ranger.name": "Ranged",
+    "class.linggango.class_enhancement.tank.desc": "Born slightly larger than average, you are able to take more damage.",
+    "class.linggango.class_enhancement.tank.name": "Tank",
+    "class.linggango.class_enhancement.warrior.desc": "Born to swing a sword.",
+    "class.linggango.class_enhancement.warrior.name": "Knight",
+    "gui.linggango.class_enhancement.confirm": "Confirm",
+    "gui.linggango.class_enhancement.loading": "Giving your equipments",
+    "gui.linggango.class_enhancement.navigation_guide": "Use ↑↓ or W\/S to navigate • ENTER to confirm",
+    "gui.linggango.class_enhancement.screen_title": "Class Selection",
+    "gui.linggango.class_enhancement.starting_equipment": "Starting Equipment",
+    "gui.linggango.class_enhancement.title": "CLASS ENHANCEMENT"
+}

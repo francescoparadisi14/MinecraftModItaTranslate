@@ -1,8 +1,13 @@
 {
+    "advancement.twilight_forest_final_boss.a_tussel_with_calamity.desc": "Sconfiggi il Guardiano del Castello situato sulla Fortezza Finale.",
+    "advancement.twilight_forest_final_boss.a_tussel_with_calamity.title": "Un momento di caos e disordine",
+    "advancement.twilight_forest_final_boss.no_stone_left_unturned.desc": "Combina il talismano del cubo, un blocco e una catena, con una lanterna di cenere per creare il cubo dell'annientamento.",
+    "advancement.twilight_forest_final_boss.no_stone_left_unturned.title": "Nessun dettaglio trascurato",
     "advancements.a_tussel_with_calamity.descr": "Sconfiggi il guardiano del castello situato in cima al castello finale.",
     "advancements.a_tussel_with_calamity.title": "Un momento di caos",
     "advancements.no_stone_left_unturned.descr": "Combina il talismano a forma di cubo, un blocco e una catena, con una lampada a ceneri per creare il cubo dell'annientamento.",
     "advancements.no_stone_left_unturned.title": "Nessun dettaglio trascurato",
+    "block.twilight_forest_final_boss.violet_fragile_field": "Campo di Violette Fragili",
     "entity.twilight_forest_final_boss.castle_keeper": "Guardiano del castello",
     "item.twilight_forest_final_boss.castle_keeper_spawn_egg": "Uovo della larva di Castle Keeper"
 }

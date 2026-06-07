@@ -1,0 +1,23 @@
+{
+    "death.attack.irons_spellbooks.black_hole": "Gli atomi di %1$ erano stati schiacciati da un buco nero.",
+    "death.attack.irons_spellbooks.blood_needles": "«%1$» è stato colpito da una serie di aghi.",
+    "death.attack.irons_spellbooks.chain_lightning": "%1$ è stato colpito e ucciso dal fulmine.",
+    "death.attack.irons_spellbooks.earthquake": "%1$ è stato distrutto\/dichiarato inagibile",
+    "death.attack.irons_spellbooks.fang_strike": "%1$ è stato divorato dalle fauci.",
+    "death.attack.irons_spellbooks.fang_ward": "%1$ è stato divorato dalle fauci.",
+    "death.attack.irons_spellbooks.fire_field": "%1$ è stato cotto troppo a lungo",
+    "death.attack.irons_spellbooks.firefly_swarm": "«%1$» era circondato da lucciole.",
+    "death.attack.irons_spellbooks.ice_block": "%1$ è stato schiacciato da un enorme blocco di ghiaccio.",
+    "death.attack.irons_spellbooks.lightning_bolt": "Lightning Bolt ha scoperto che il %1$ non era un paralama.",
+    "death.attack.irons_spellbooks.lightning_lance": "%1$ è stato colpito da un fulmine.",
+    "death.attack.irons_spellbooks.magma_bomb": "%1$ era stato spazzato via dalla lava incandescente.",
+    "death.attack.irons_spellbooks.poison_arrow": "%1$ è stato ucciso a morte da frecce velenose.",
+    "death.attack.irons_spellbooks.poison_cloud": "%1$ è stato soffocato da una nube tossica.",
+    "death.attack.irons_spellbooks.sculk_tentacles": "«%2$s» è stato scoperto a nascondersi nel fango.",
+    "death.attack.irons_spellbooks.starfall": "%1$ è stato colpito da una stella cadente",
+    "death.attack.irons_spellbooks.wall_of_fire": "%1$ è stato distrutto dalle fiamme.",
+    "item.spells_gone_wrong.mana_shard": "Frammento di Mana",
+    "spell.spells_gone_wrong.nucreeper_strike": "Nucreeper Strike",
+    "spell.spells_gone_wrong.shotgun_creeper": "Sparatutto",
+    "subtitles.mana_shard.break": "Mana libera"
+}

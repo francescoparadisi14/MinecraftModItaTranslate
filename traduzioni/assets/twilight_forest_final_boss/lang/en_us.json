@@ -1,8 +1,13 @@
 {
+    "advancement.twilight_forest_final_boss.a_tussel_with_calamity.desc": "Defeat the Castle Keeper on top of the Final Castle",
+    "advancement.twilight_forest_final_boss.a_tussel_with_calamity.title": "A Tussel with Calamity",
+    "advancement.twilight_forest_final_boss.no_stone_left_unturned.desc": "Combine the talisman of the cube, a block and chain, and a lamp of cinders to create the cube of annihilation",
+    "advancement.twilight_forest_final_boss.no_stone_left_unturned.title": "No Stone Left Unturned",
     "advancements.a_tussel_with_calamity.descr": "Defeat the Castle Keeper on top of the Final Castle",
     "advancements.a_tussel_with_calamity.title": "A Tussel With Calamity",
     "advancements.no_stone_left_unturned.descr": "Combine the talisman of the cube, a block and chain, and a lamp of cinders to create the cube of annihilation",
     "advancements.no_stone_left_unturned.title": "No Stone Left Unturned",
+    "block.twilight_forest_final_boss.violet_fragile_field": "Violet Fragile Field",
     "entity.twilight_forest_final_boss.castle_keeper": "Castle Keeper",
     "item.twilight_forest_final_boss.castle_keeper_spawn_egg": "Castle Keeper Spawn Egg"
 }

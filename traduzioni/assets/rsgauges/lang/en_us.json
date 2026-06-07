@@ -271,7 +271,7 @@
     "rsgauges.switchconfig.intervaltimer.t_off": "off: %1$ss",
     "rsgauges.switchconfig.intervaltimer.t_on": "on: %1$ss",
     "rsgauges.switchconfig.lightsensor": "%1$s%2$s%3$s%4$s",
-    "rsgauges.switchconfig.lightsensor.debounce": "debounce: %1$s %2$s",
+    "rsgauges.switchconfig.lightsensor.debounce": "debounce: %1$s",
     "rsgauges.switchconfig.lightsensor.lightunit": "lux",
     "rsgauges.switchconfig.lightsensor.output_power": "power: %1$s",
     "rsgauges.switchconfig.lightsensor.threshold_off": "off: %1$s%2$s",

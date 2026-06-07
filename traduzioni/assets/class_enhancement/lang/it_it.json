@@ -1,0 +1,18 @@
+{
+    "class.linggango.class_enhancement.civilian.desc": "Nessuna modifica alle statistiche. Sei nato senza alcuna abilità.",
+    "class.linggango.class_enhancement.civilian.name": "Civile",
+    "class.linggango.class_enhancement.custom.desc": "Un percorso personalizzato.",
+    "class.linggango.class_enhancement.custom.name": "Nuova lezione",
+    "class.linggango.class_enhancement.ranger.desc": "Sei veloce nei movimenti e preciso nel tiro.",
+    "class.linggango.class_enhancement.ranger.name": "A distanza",
+    "class.linggango.class_enhancement.tank.desc": "Grazie alla tua costituzione leggermente più robusta rispetto alla media, sei in grado di sopportare maggiori danni.",
+    "class.linggango.class_enhancement.tank.name": "Serbatoio",
+    "class.linggango.class_enhancement.warrior.desc": "Nato per brandire una spada.",
+    "class.linggango.class_enhancement.warrior.name": "Cavaliere",
+    "gui.linggango.class_enhancement.confirm": "Conferma",
+    "gui.linggango.class_enhancement.loading": "Restituire le attrezzature",
+    "gui.linggango.class_enhancement.navigation_guide": "Utilizzare i tasti ↑↓ o W\/S per navigare • Premere INVIO per confermare",
+    "gui.linggango.class_enhancement.screen_title": "Selezione della classe",
+    "gui.linggango.class_enhancement.starting_equipment": "Attrezzatura di partenza",
+    "gui.linggango.class_enhancement.title": "MIGLIORAMENTO DEL CORSO"
+}

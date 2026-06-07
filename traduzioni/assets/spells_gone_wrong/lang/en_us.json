@@ -1,0 +1,23 @@
+{
+    "death.attack.irons_spellbooks.black_hole": "%1$s's atoms were crushed in a black hole",
+    "death.attack.irons_spellbooks.blood_needles": "%1$s was skewered by a bunch of blood needles",
+    "death.attack.irons_spellbooks.chain_lightning": "%1$s was zapped to death by lightning",
+    "death.attack.irons_spellbooks.earthquake": "%1$s was quaked to death",
+    "death.attack.irons_spellbooks.fang_strike": "%1$s got shredded by fangs",
+    "death.attack.irons_spellbooks.fang_ward": "%1$s got shredded by fangs",
+    "death.attack.irons_spellbooks.fire_field": "%1$s cooked to death",
+    "death.attack.irons_spellbooks.firefly_swarm": "%1$s was swarmed by fireflies",
+    "death.attack.irons_spellbooks.ice_block": "%1$s was crushed by a giant block of ice",
+    "death.attack.irons_spellbooks.lightning_bolt": "Lightning Bolt discovered that %1$s was not a lightning rod",
+    "death.attack.irons_spellbooks.lightning_lance": "%1$s was struck down by a lance of lightning",
+    "death.attack.irons_spellbooks.magma_bomb": "%1$s was blasted away by hot magma",
+    "death.attack.irons_spellbooks.poison_arrow": "%1$s was punctured to death by poisonous arrows",
+    "death.attack.irons_spellbooks.poison_cloud": "%1$s was suffocated by a poisonous cloud",
+    "death.attack.irons_spellbooks.sculk_tentacles": "%2$s got caught in sculk",
+    "death.attack.irons_spellbooks.starfall": "%1$s was struck by shooting stars",
+    "death.attack.irons_spellbooks.wall_of_fire": "%1$s was consumed by flames",
+    "item.spells_gone_wrong.mana_shard": "Mana Shard",
+    "spell.spells_gone_wrong.nucreeper_strike": "Nucreeper Strike",
+    "spell.spells_gone_wrong.shotgun_creeper": "Shotgun Creeper",
+    "subtitles.mana_shard.break": "Mana unleashes"
+}
