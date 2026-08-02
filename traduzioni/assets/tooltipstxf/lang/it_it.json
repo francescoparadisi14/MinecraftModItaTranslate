@@ -1,0 +1,18 @@
+{
+    "tooltipstxf.tooltip.burn_time": "Tempo di combustione: %s",
+    "tooltipstxf.tooltip.burn_time.seconds": "Tempo di combustione: %",
+    "tooltipstxf.tooltip.components": "Componenti:",
+    "tooltipstxf.tooltip.compostable": "Biodegradabile: %s",
+    "tooltipstxf.tooltip.enchantability": "Capacità di incantare: %s",
+    "tooltipstxf.tooltip.enchantment_power": "Potere di incanto: %s",
+    "tooltipstxf.tooltip.hardness": "Durezza: %s",
+    "tooltipstxf.tooltip.mining_level": "Livello di estrazione: %s",
+    "tooltipstxf.tooltip.mining_speed": "Velocità di estrazione: %s",
+    "tooltipstxf.tooltip.nutrition": "Nutrizione: %s",
+    "tooltipstxf.tooltip.repair_cost": "Costo di riparazione: %s",
+    "tooltipstxf.tooltip.resistance": "Resistenza: %s",
+    "tooltipstxf.tooltip.saturation": "Saturazione: %s",
+    "tooltipstxf.tooltip.song_duration": "Durata: %ss",
+    "tooltipstxf.tooltip.use_cooldown": "Raffreddamento: %s",
+    "tooltipstxf.tooltip.use_cooldown.seconds": "Raffreddamento: %"
+}

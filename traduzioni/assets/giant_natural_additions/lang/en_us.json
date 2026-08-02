@@ -1,0 +1,12 @@
+{
+    "block.giant_natural_additions.example_block": "Example Block",
+    "giant_natural_additions.configuration.items": "Item List",
+    "giant_natural_additions.configuration.logDirtBlock": "Log Dirt Block",
+    "giant_natural_additions.configuration.magicNumber": "Magic Number",
+    "giant_natural_additions.configuration.magicNumberIntroduction": "Magic Number Text",
+    "giant_natural_additions.configuration.section.giant_natural_additions.common.toml": "Giant Natural Additions Configs",
+    "giant_natural_additions.configuration.section.giant_natural_additions.common.toml.title": "Giant Natural Additions Configs",
+    "giant_natural_additions.configuration.title": "Giant Natural Additions Configs",
+    "item.giant_natural_additions.example_item": "Example Item",
+    "itemGroup.giant_natural_additions": "Example Mod Tab"
+}

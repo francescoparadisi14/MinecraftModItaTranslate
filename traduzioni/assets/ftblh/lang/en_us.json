@@ -1,0 +1,9 @@
+{
+    "entity.ftblh.little_helper": "Little Helper",
+    "ftblh.chat_prefix": "[Little Helper]",
+    "ftblh.message.bye": "Bye!",
+    "ftblh.message.hi": "Hi!",
+    "ftblh.message.no_permission": "You don't have permission to do that!",
+    "key.categories.ftblh": "FTB Little Helper",
+    "key.ftblh.toggle": "Toggle Helper"
+}

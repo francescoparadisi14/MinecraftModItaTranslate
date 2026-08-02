@@ -1,0 +1,5 @@
+{
+    "consistentexpcost.deimosconfig.set_level_cost": "Sottrazione di spese proporzionale al livello quando la condizione precedente è falsa.",
+    "consistentexpcost.deimosconfig.title": "Configurazione dei costi di esperienza fissa",
+    "consistentexpcost.deimosconfig.use_minimal_exp_cost": "Se ciò fosse vero, il costo dell'esperienza sarebbe calcolato in base al livello minimo richiesto; altrimenti, si utilizzerebbe un costo fisso per ogni livello."
+}

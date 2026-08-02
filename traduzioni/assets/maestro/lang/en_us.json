@@ -1,0 +1,8 @@
+{
+    "maestro.configuration.debug_overlay": "Show Debug Overlay",
+    "maestro.configuration.debug_overlay.tooltip": "Renders a debug overlay showing the current music layer state. Displays active tracks, silence, and suppression.\n\nIntended for debugging and development.",
+    "maestro.configuration.maestro_enabled": "Maestro Music Enabled",
+    "maestro.configuration.maestro_enabled.tooltip": "Whether Maestro custom music should be active at all. When turned off, only vanilla music will be played.",
+    "maestro.configuration.vanilla_enabled": "Vanilla Music Enabled",
+    "maestro.configuration.vanilla_enabled.tooltip": "Whether vanilla music should be active at all. When turned off, music can only be played via Maestro Definitions.\n\nIntended for advanced users who want full control from a clean slate."
+}

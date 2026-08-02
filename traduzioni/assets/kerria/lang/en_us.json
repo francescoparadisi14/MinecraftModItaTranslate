@@ -1,0 +1,16 @@
+{
+    "kerria.bufferSize": "Buffer Size",
+    "kerria.bufferSize.tooltip": "Specifies the size of the persistently mapped buffer, in KBs",
+    "kerria.cache": "Animated Texture Cache",
+    "kerria.cache.tooltip": "Cache uploaded textures to eliminate CPU -> GPU upload, and transfer sub-textures between GPU memory directly\n\nRequires OpenGL 4.5 support or ARB_direct_state_access, ARB_copy_image and ARB_texture_storage.",
+    "kerria.enabled": "Enabled",
+    "kerria.enabled.tooltip": "Enables or disables Kerria.",
+    "kerria.fastLightTextureUpload": "Fast Light Texture Upload",
+    "kerria.fastLightTextureUpload.tooltip": "When enabled, applies the Fast Texture Upload optimization to light textures.",
+    "kerria.fastUpload": "Fast Texture Upload",
+    "kerria.fastUpload.tooltip": "Optimize CPU -> GPU texture upload with persistently mapped buffers and pixel buffer objects.\n\nRequires OpenGL 4.5 support or ARB_direct_state_access and ARB_buffer_storage.",
+    "kerria.maxCacheSize": "Maximum Cache Size",
+    "kerria.maxCacheSize.tooltip": "Specifies the maximum cache size for animated textures",
+    "kerria.minCacheSize": "Minimum Cache Size",
+    "kerria.minCacheSize.tooltip": "Specifies the initial cache size for animated textures"
+}

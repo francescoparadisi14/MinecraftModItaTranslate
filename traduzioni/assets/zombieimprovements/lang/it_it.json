@@ -1,0 +1,20 @@
+{
+    "entity.zombieimprovements.leader": "Capo %s",
+    "zombieimprovements.config": "Configurazione del modulo",
+    "zombieimprovements.config.damageIncreaseFormula": "Formula per il calcolo dei danni",
+    "zombieimprovements.config.damageIncreaseFormula.desc": "\"r\" è un numero casuale compreso tra 0 e 1. I normali zombi hanno 3 punti di danno.",
+    "zombieimprovements.config.leaderIncreasedDamage": "Aumento dei danni inflitti dai leader",
+    "zombieimprovements.config.leaderMaxSpawnChance": "Probabilità massima di apparizione del Leader",
+    "zombieimprovements.config.leaderMaxSpawnChance.desc": "Questa è la probabilità di comparsa più alta per i leader, che si raggiunge a un livello di difficoltà locale pari a 4.0. A livelli di difficoltà locali inferiori a 2.0, la probabilità di comparsa è sempre pari a 0.",
+    "zombieimprovements.config.leaderNamePrefix": "Aggiungi il prefisso \"Leader\" al nome.",
+    "zombieimprovements.config.leaderRedAura": "Un alone rosso attorno ai leader",
+    "zombieimprovements.config.leaderSizeIncrease": "Aumento delle dimensioni del leader",
+    "zombieimprovements.config.leaderUniqueSounds": "Suoni distintivi per i leader",
+    "zombieimprovements.config.leaderUniqueTexture": "Texture unica per i leader",
+    "zombieimprovements.config.noLeaderFromSpawners": "Gli \"spawner\" non possono generare leader.",
+    "zombieimprovements.config.noReinforcementsFromSpawners": "I non morti creati dagli Spawner non possono chiamare rinforzi.",
+    "zombieimprovements.config.onlyLeaderSpawnsReinforcements": "Solo i leader possono chiedere rinforzi.",
+    "zombieimprovements.config.reinforcementSpawnSounds": "Suoni di rinforzo",
+    "zombieimprovements.config.spawnSoundVolume": "Volume del segnale di conferma\/richiamo",
+    "zombieimprovements.config.spawnSoundVolume.desc": "Potrebbe essere utile impostare questo valore su un numero superiore a 1 in 1.21.10, dato che sembra funzionare meglio in quella configurazione."
+}

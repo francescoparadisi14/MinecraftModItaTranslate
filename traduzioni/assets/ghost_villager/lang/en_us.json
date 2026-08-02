@@ -1,0 +1,8 @@
+{
+    "entity.ghost_villager.ghost_villager": "Ghost Villager",
+    "item.ghost_villager.ghost_villager_spawn_egg": "Ghost Villager Spawn Egg",
+    "subtitles.ghost_villager.entity.ghost_villager.idle": "Ghost Villager mumbles",
+    "subtitles.ghost_villager.entity.ghost_villager.no": "Ghost Villager disagrees",
+    "subtitles.ghost_villager.entity.ghost_villager.poof": "Ghost Villager disappears",
+    "subtitles.ghost_villager.entity.ghost_villager.yes": "Ghost Villager agrees"
+}

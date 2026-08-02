@@ -1,0 +1,5 @@
+{
+    "consistentexpcost.deimosconfig.set_level_cost": "Exp deducted per level when above is false",
+    "consistentexpcost.deimosconfig.title": "Flat EXP Costs Config",
+    "consistentexpcost.deimosconfig.use_minimal_exp_cost": "If true, uses exp cost based on the minimum required level; otherwise uses fixed per-level cost"
+}

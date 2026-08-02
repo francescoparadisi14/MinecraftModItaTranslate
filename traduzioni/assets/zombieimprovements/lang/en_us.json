@@ -1,0 +1,20 @@
+{
+    "entity.zombieimprovements.leader": "Leader %s",
+    "zombieimprovements.config": "Mod Configuration",
+    "zombieimprovements.config.damageIncreaseFormula": "Damage formula",
+    "zombieimprovements.config.damageIncreaseFormula.desc": "'r' is a random number between 0 and 1. Normal zombies have 3 attack damage.",
+    "zombieimprovements.config.leaderIncreasedDamage": "Increased leader damage",
+    "zombieimprovements.config.leaderMaxSpawnChance": "Leader max spawn chance",
+    "zombieimprovements.config.leaderMaxSpawnChance.desc": "This is the highest possible leader spawn chance which is reached at local difficulty 4.0. At local difficulty 2.0 and below the spawn chance is always 0.",
+    "zombieimprovements.config.leaderNamePrefix": "Add 'Leader' prefix to name",
+    "zombieimprovements.config.leaderRedAura": "Red aura on leaders",
+    "zombieimprovements.config.leaderSizeIncrease": "Leader size increase",
+    "zombieimprovements.config.leaderUniqueSounds": "Unique sounds for leaders",
+    "zombieimprovements.config.leaderUniqueTexture": "Unique texture for leaders",
+    "zombieimprovements.config.noLeaderFromSpawners": "Spawners can't spawn leaders",
+    "zombieimprovements.config.noReinforcementsFromSpawners": "Zombies from spawners can't call reinforcements",
+    "zombieimprovements.config.onlyLeaderSpawnsReinforcements": "Only leaders can call reinforcements",
+    "zombieimprovements.config.reinforcementSpawnSounds": "Reinforcement sounds",
+    "zombieimprovements.config.spawnSoundVolume": "Reinforcement sound volume",
+    "zombieimprovements.config.spawnSoundVolume.desc": "Might want to set this to something higher than 1 in 1.21.10 since it's quieter there for some reason."
+}

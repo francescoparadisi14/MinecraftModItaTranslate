@@ -1,0 +1,13 @@
+{
+    "block.trmt.eroded_coarse_dirt": "Terreno grossolano eroso",
+    "block.trmt.eroded_dirt": "Terreno eroso",
+    "block.trmt.eroded_grass_block": "Erba erosa\/danneggiata",
+    "block.trmt.eroded_sand": "Sabbia erosa",
+    "effect.trmt.lightness": "Leggerezza",
+    "item.minecraft.lingering_potion.effect.trmt.lightness": "Pozione persistente di leggerezza",
+    "item.minecraft.potion.effect.trmt.lightness": "Pozione della leggerezza",
+    "item.minecraft.splash_potion.effect.trmt.lightness": "Pozione di leggerezza",
+    "item.minecraft.tipped_arrow.effect.trmt.lightness": "Puntamento alla leggerezza",
+    "trmt.button.download_update": "Scarica l'aggiornamento del modulo",
+    "trmt.disconnect.outdated": "La versione del client di \"The Roads More Travelled\" (TRMT) è obsoleta (versione %s)!\nQuesto server richiede la versione %s o successive.\nPer accedere a questo server, si prega di scaricare l'aggiornamento."
+}

@@ -1,0 +1,16 @@
+{
+    "kerria.bufferSize": "Dimensione del buffer",
+    "kerria.bufferSize.tooltip": "Definisce la dimensione del buffer mappato persistentemente, in KB.",
+    "kerria.cache": "Cache di texture animate",
+    "kerria.cache.tooltip": "Carica le texture in cache per eliminare il trasferimento da CPU a GPU, e trasferisci sottotexture direttamente tra la memoria della GPU.\n\nRichiede supporto per OpenGL 4.5 o per le estensioni ARB\\_direct\\_state\\_access, ARB\\_copy\\_image e ARB\\_texture\\_storage.",
+    "kerria.enabled": "Attivato \/ Abilitato",
+    "kerria.enabled.tooltip": "Abilita o disabilita la funzione Kerria.",
+    "kerria.fastLightTextureUpload": "Caricamento rapido di texture luminose",
+    "kerria.fastLightTextureUpload.tooltip": "Quando è abilitato, applica l'ottimizzazione per il caricamento rapido delle texture ai materiali con bassa complessità.",
+    "kerria.fastUpload": "Caricamento rapido di texture",
+    "kerria.fastUpload.tooltip": "Ottimizzare il caricamento di texture da CPU a GPU utilizzando buffer persistentemente mappati e oggetti di buffer per pixel.\n\nRichiede il supporto per OpenGL 4.5 o le estensioni ARB\\_direct\\_state\\_access e ARB\\_buffer\\_storage.",
+    "kerria.maxCacheSize": "Dimensione massima della cache",
+    "kerria.maxCacheSize.tooltip": "Definisce la dimensione massima della cache per le texture animate.",
+    "kerria.minCacheSize": "Dimensione minima della cache",
+    "kerria.minCacheSize.tooltip": "Definisce la dimensione iniziale della cache per le texture animate."
+}

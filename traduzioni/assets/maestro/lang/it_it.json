@@ -1,0 +1,8 @@
+{
+    "maestro.configuration.debug_overlay": "Mostra l'interfaccia di debug",
+    "maestro.configuration.debug_overlay.tooltip": "Visualizza un'interfaccia di debug che mostra lo stato corrente dello strato musicale. Mostra i brani attivi, le pause e la soppressione.\n\nDestinata all'uso durante il debug e lo sviluppo.",
+    "maestro.configuration.maestro_enabled": "Maestro: Funzionalità musicale abilitata",
+    "maestro.configuration.maestro_enabled.tooltip": "Se la funzione \"Musica personalizzata\" di Maestro deve essere attiva o meno. Quando è disattivata, verrà riprodotta solo la musica predefinita.",
+    "maestro.configuration.vanilla_enabled": "Supporto per Vanilla Music",
+    "maestro.configuration.vanilla_enabled.tooltip": "Se la musica \"vanilla\" dovrebbe essere attiva o meno. Quando è disattivata, la musica può essere riprodotta solo tramite le definizioni di Maestro.\n\nDestinata agli utenti esperti che desiderano avere il pieno controllo partendo da zero."
+}

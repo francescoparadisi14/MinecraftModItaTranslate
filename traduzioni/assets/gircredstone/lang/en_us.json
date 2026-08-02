@@ -1,0 +1,19 @@
+{
+    "block.gircredstone.acceptor": "WLR Acceptor",
+    "block.gircredstone.emitter": "WLR Emitter",
+    "block.gircredstone.multiemitter": "WLR Multi-Emitter",
+    "em.notlinked": "§cEmitter is not linked!§r",
+    "em.unlink": "§cUnlinked.§r",
+    "item.gircredstone.activator": "WLR Remote Activator",
+    "item.gircredstone.linker": "WLR Linker",
+    "item.gircredstone.multilinker": "WLR Multi Linker",
+    "lt.linkedpos": "§2Linked to: {%d, %d, %d§2}§r",
+    "lt.notlinked": "§cNot linked!§r",
+    "lt.notlinked.msg": "§l§9Please click on an Acceptor to link.§r",
+    "lt.notset": "§cThe tool is not linked.§r",
+    "lt.reset": "§cThe tool has been reset.§r",
+    "lt.setpos": "§2Set to: {%d, %d, %d§2}§r",
+    "lt.setpos.msg": "§l§9Please click on an Emitter to set the link.§r",
+    "lt.unlink": "§cEmitter is not more linked!§r",
+    "ra.state": "Activated: %s"
+}

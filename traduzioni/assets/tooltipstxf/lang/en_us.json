@@ -1,0 +1,18 @@
+{
+    "tooltipstxf.tooltip.burn_time": "Burn Time: %s",
+    "tooltipstxf.tooltip.burn_time.seconds": "Burn Time: %ss",
+    "tooltipstxf.tooltip.components": "Components:",
+    "tooltipstxf.tooltip.compostable": "Compostable: %s",
+    "tooltipstxf.tooltip.enchantability": "Enchantability: %s",
+    "tooltipstxf.tooltip.enchantment_power": "Enchantment Power: %s",
+    "tooltipstxf.tooltip.hardness": "Hardness: %s",
+    "tooltipstxf.tooltip.mining_level": "Mining Level: %s",
+    "tooltipstxf.tooltip.mining_speed": "Mining Speed: %s",
+    "tooltipstxf.tooltip.nutrition": "Nutrition: %s",
+    "tooltipstxf.tooltip.repair_cost": "Repair Cost: %s",
+    "tooltipstxf.tooltip.resistance": "Resistance: %s",
+    "tooltipstxf.tooltip.saturation": "Saturation: %s",
+    "tooltipstxf.tooltip.song_duration": "Duration: %ss",
+    "tooltipstxf.tooltip.use_cooldown": "Cooldown: %s",
+    "tooltipstxf.tooltip.use_cooldown.seconds": "Cooldown: %ss"
+}

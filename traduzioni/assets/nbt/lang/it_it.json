@@ -1,0 +1,20 @@
+{
+    "nbt.configuration.YOffset": "Offset Y",
+    "nbt.configuration.YOffset.tooltip": "La distanza verticale sopra la testa dell'entità, alla quale il cerchio viene visualizzato.",
+    "nbt.configuration.client": "Cliente",
+    "nbt.configuration.client.tooltip": "Impostazioni del cliente",
+    "nbt.configuration.general": "Generale",
+    "nbt.configuration.general.tooltip": "Impostazioni generali",
+    "nbt.configuration.maxTextWidth": "Larghezza massima del testo",
+    "nbt.configuration.maxTextWidth.tooltip": "La larghezza massima del testo in forma di \"bubble\" prima che si trasformi in una nuova riga.",
+    "nbt.configuration.nameKey": "Elenco dei nomi",
+    "nbt.configuration.nameKey.tooltip": "Il nome della chiave utilizzata per memorizzare il nome dei proprietari delle \"bubble\" nei dati persistenti dell'entità.",
+    "nbt.configuration.nameOffset": "Nome di offset",
+    "nbt.configuration.nameOffset.tooltip": "Se il nome dell'entità è visualizzato sopra la sua testa, allinea il testo della bolla.",
+    "nbt.configuration.playerBubbles": "Bolle per i giocatori",
+    "nbt.configuration.playerBubbles.tooltip": "Visualizza i messaggi di chat sopra la testa dei giocatori all'interno di una \"bolla\".",
+    "nbt.configuration.showUsername": "Mostra nome utente",
+    "nbt.configuration.showUsername.tooltip": "Mostra il nome utente del giocatore che ha inviato il messaggio all'interno della bolla.",
+    "nbt.configuration.title": "Configurazione significativa di Bubble Text",
+    "nbt.networking.add_bubble.failed": "Impossibile aggiungere le parentesi graffe {}."
+}

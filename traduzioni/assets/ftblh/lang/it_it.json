@@ -1,0 +1,9 @@
+{
+    "entity.ftblh.little_helper": "Piccolo aiutante",
+    "ftblh.chat_prefix": "[Piccolo aiutante]",
+    "ftblh.message.bye": "Arrivederci!",
+    "ftblh.message.hi": "Ciao!",
+    "ftblh.message.no_permission": "Non hai l'autorizzazione per farlo!",
+    "key.categories.ftblh": "FTB Little Helper",
+    "key.ftblh.toggle": "Assistente per interruttori"
+}

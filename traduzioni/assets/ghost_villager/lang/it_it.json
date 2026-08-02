@@ -1,0 +1,8 @@
+{
+    "entity.ghost_villager.ghost_villager": "Villaggio fantasma",
+    "item.ghost_villager.ghost_villager_spawn_egg": "Uovo di spawn per villani spettrali",
+    "subtitles.ghost_villager.entity.ghost_villager.idle": "Il villaggio fantasma borbotta",
+    "subtitles.ghost_villager.entity.ghost_villager.no": "Il villaggio fantasma non è d'accordo.",
+    "subtitles.ghost_villager.entity.ghost_villager.poof": "Un abitante del villaggio scompare",
+    "subtitles.ghost_villager.entity.ghost_villager.yes": "Il villaggio è d'accordo (anche se non è presente fisicamente)."
+}

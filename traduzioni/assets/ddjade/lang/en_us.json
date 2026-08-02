@@ -1,0 +1,5 @@
+{
+    "config.jade.plugin_ddjade.power_level": "Power Level",
+    "config.jade.plugin_ddjade.show_attribute_details": "Show Attribute Details",
+    "ddjade.power_level": "Power Level: %s"
+}

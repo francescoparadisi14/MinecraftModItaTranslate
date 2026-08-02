@@ -1,0 +1,12 @@
+{
+    "block.giant_natural_additions.example_block": "Esempio di blocco",
+    "giant_natural_additions.configuration.items": "Elenco degli articoli",
+    "giant_natural_additions.configuration.logDirtBlock": "Blocco di terra per log",
+    "giant_natural_additions.configuration.magicNumber": "Numero magico",
+    "giant_natural_additions.configuration.magicNumberIntroduction": "Numero Magico",
+    "giant_natural_additions.configuration.section.giant_natural_additions.common.toml": "Configurazioni personalizzate per l'aggiunta di ingredienti naturali",
+    "giant_natural_additions.configuration.section.giant_natural_additions.common.toml.title": "Configurazioni personalizzate per l'aggiunta di ingredienti naturali",
+    "giant_natural_additions.configuration.title": "Configurazioni personalizzate per l'aggiunta di ingredienti naturali",
+    "item.giant_natural_additions.example_item": "Esempio di articolo",
+    "itemGroup.giant_natural_additions": "Esempio di scheda Mod"
+}

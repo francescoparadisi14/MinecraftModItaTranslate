@@ -1,0 +1,20 @@
+{
+    "nbt.configuration.YOffset": "Y Offset",
+    "nbt.configuration.YOffset.tooltip": "The offset above the entity's head at which the bubble renders",
+    "nbt.configuration.client": "Client",
+    "nbt.configuration.client.tooltip": "Client Settings",
+    "nbt.configuration.general": "General",
+    "nbt.configuration.general.tooltip": "General Settings",
+    "nbt.configuration.maxTextWidth": "Max Text Width",
+    "nbt.configuration.maxTextWidth.tooltip": "The maximum width of the bubble text before it wraps to a new line",
+    "nbt.configuration.nameKey": "Name Key",
+    "nbt.configuration.nameKey.tooltip": "The name for the key used to store the bubble owners' name in the entity's persistent data",
+    "nbt.configuration.nameOffset": "Name Offset",
+    "nbt.configuration.nameOffset.tooltip": "Offset the bubble text if the entity's name is rendered above their head",
+    "nbt.configuration.playerBubbles": "Player Bubbles",
+    "nbt.configuration.playerBubbles.tooltip": "Render chat messages above players heads in a bubble",
+    "nbt.configuration.showUsername": "Show Username",
+    "nbt.configuration.showUsername.tooltip": "Show the username of the player who sent the message in the bubble",
+    "nbt.configuration.title": "Notable Bubble Text config",
+    "nbt.networking.add_bubble.failed": "Failed to add bubble {}"
+}

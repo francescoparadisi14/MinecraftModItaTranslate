@@ -1,0 +1,21 @@
+{
+    "enchantment.enchant.curseof_escape": "Curse of Escape",
+    "enchantment.enchant.explosion_arrows": "Explosion Arrows",
+    "enchantment.enchant.explosion_aspect": "Explosion Aspect",
+    "enchantment.enchant.haste": "Haste",
+    "enchantment.enchant.levitation_arrows": "Levitation Arrows",
+    "enchantment.enchant.levitation_aspect": "Levitation Aspect",
+    "enchantment.enchant.lightning_arrows": "Lightning Arrows",
+    "enchantment.enchant.lightning_aspect": "Lightning Aspect",
+    "enchantment.enchant.silverfish_arrows": "Silverfish Arrows",
+    "enchantment.enchant.slow_falling": "Slow Falling",
+    "enchantment.enchant.wither_aspect": "Wither Aspect",
+    "enchantment.under.explosion_arrows": "Explosion Aspect",
+    "enchantment.under.explosion_aspect": "Explosion Aspect",
+    "enchantment.under.haste": "Haste",
+    "enchantment.under.jump_aspect": "Jump Aspect",
+    "enchantment.under.levitation_aspect": "Levitation Aspect",
+    "enchantment.under.lightning_aspect": "Lightning Aspect",
+    "enchantment.under.slow_falling": "Slow Falling",
+    "enchantment.under.wither_aspect": "Wither Aspect"
+}

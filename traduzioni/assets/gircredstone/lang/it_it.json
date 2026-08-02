@@ -1,0 +1,19 @@
+{
+    "block.gircredstone.acceptor": "Accettore WLR",
+    "block.gircredstone.emitter": "Emittore WLR",
+    "block.gircredstone.multiemitter": "Emettitore WLR multi-canale",
+    "em.notlinked": "«Il dispositivo di emissione non è collegato!»",
+    "em.unlink": "§Non collegato.§",
+    "item.gircredstone.activator": "Attivatore remoto per WLR",
+    "item.gircredstone.linker": "Collegatore WLR",
+    "item.gircredstone.multilinker": "WLR Multi Linker",
+    "lt.linkedpos": "§2 Collegato a: {%d, %d, %d§2} §r",
+    "lt.notlinked": "§cNon collegato!§r",
+    "lt.notlinked.msg": "Fare clic su un \"Accettatore\" per creare il collegamento.",
+    "lt.notset": "«Lo strumento non è collegato.»",
+    "lt.reset": "«Lo strumento è stato reimpostato.»",
+    "lt.setpos": "§2 Imposta su: {%d, %d, %d§r",
+    "lt.setpos.msg": "Fare clic su un emettitore per impostare il collegamento.",
+    "lt.unlink": "«Il sistema di emissione non è più collegato!»",
+    "ra.state": "Attivato: %s"
+}
